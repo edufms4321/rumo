@@ -63,6 +63,58 @@
     "porQue": "Base para o Parque Nacional Bahía de Loreto e baleia-azul (fev-abr). — Moteis econômicos de ~US$45-50 (Wikivoyage, convertido a 18,0066 MXN/USD); resorts até ~M$7.000."
   },
   {
+    "id": "guanajuato-guanajuato-centro-historico-jardin-de-la",
+    "fontes": [
+      {
+        "url": "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp"
+      },
+      {
+        "url": "https://www.hostelworld.com/hostels/Guanajuato"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      },
+      {
+        "url": "https://tabiji.ai/scams/guanajuato/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "guanajuato",
+    "bairro": "Guanajuato - Centro Histórico (Jardín de la Unión / Plaza de la Paz / Av. Juárez)",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 190,
+      "max": 900
+    },
+    "porQue": "Tudo a pé: callejoneada, Teatro Juárez, funicular, bares e restaurantes; é onde ficam os bares e baladas segundo o Wikivoyage. — ESTIMADO: Kayak lista hotéis econômicos a partir de ~US$25-46 por noite e Hostelworld dorms de R$57-135 (BRL); converti a ~18 MXN/USD e ~3,3 MXN/BRL, câmbios não verificados. O Kayak mostra outubro (Cervantino) como mês mais caro (média US$229) e dezembro como o mais barato (US$45); Semana Santa e Cervantino dobram as diárias (Wikivoyage). Reserve hotéis com acesso plano na Av. Juárez se levar mala pesada (porteiros informais cobram caro)."
+  },
+  {
+    "id": "guanajuato-san-miguel-de-allende-centro-para-bate-vo",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      },
+      {
+        "url": "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "guanajuato",
+    "bairro": "San Miguel de Allende - Centro (para bate-volta, não para dormir)",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 500,
+      "max": 1000
+    },
+    "porQue": "Cidade com preços definidos pelo mercado estrangeiro; ruas fora do centro histórico são bem mais baratas. — ESTIMADO/DEFASADO: Wikivoyage cita dorms abaixo de MX$500 e duplos de MX$500-1.000; hotéis de luxo acima de MX$1.000. Valores recentes provavelmente maiores. Guanajuato fica 30-40% mais barata (busca)."
+  },
+  {
     "id": "san-cristobal-centro-historico-entorno-de-real-de-gu",
     "fontes": [
       {
@@ -173,5 +225,25 @@
       "max": 1860
     },
     "porQue": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho. — Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto."
+  },
+  {
+    "id": "merida-centro-historico-calles-56-66-57-65-perto-da",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "merida",
+    "bairro": "Centro Histórico (Calles 56–66 / 57–65, perto da Plaza Grande e do Parque de Santa Lucía)",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 140,
+      "max": 1000
+    },
+    "porQue": "Base ideal para casal econômico: tudo a pé (eventos gratuitos, cantinas, mercados, Casa de Montejo); hostels e pousadas em casarões coloniais; muito vida de rua à noite. — Dados antigos de Wikivoyage (2015–2022): dormitório MXN 140–200 (Hostal Zócalo, 2022) e ~300 (Che Nomadas, 2022); hotéis como Los Aluxes a partir de 630 (2015), Piedra de Agua 850+, Marionetas ~1.000 (abr/2022), Peregrino ~1.000. Hospedajes de MXN 100–250 listados no Wikivoyage (jan/2022) são hotéis de 'estadia de 3 horas' — não servem para dormir. Preços de out/2026 NÃO verificados — consulte as plataformas."
   }
 ]

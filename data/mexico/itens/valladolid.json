@@ -429,5 +429,1304 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-vld-chichen-itza-zona-arqueologica",
+    "fontes": [
+      {
+        "url": "https://www.posta.com.mx/yucatan/cuanto-cuesta-ver-el-equinoccio-de-primavera-en-chichen-itza/vl2174856"
+      },
+      {
+        "url": "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html"
+      },
+      {
+        "url": "https://www.xataka.com.mx/otros-1/mayor-dolor-cabeza-para-entrar-a-chichen-itza-desaparece-solo-pago-sola-fila"
+      },
+      {
+        "url": "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html"
+      },
+      {
+        "url": "https://planoinformativo.com/1133343/todo-listo-en-chichen-itza-para-el-operativo-del-equinoccio-de-primavera-2026"
+      },
+      {
+        "url": "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chichen_Itza"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Chichén Itzá (zona arqueológica)",
+    "cidadeId": "valladolid",
+    "categoria": "atracao",
+    "tags": [
+      "maya",
+      "unesco",
+      "piramide",
+      "ruinas",
+      "imperdivel",
+      "calor",
+      "madrugar",
+      "chichen-itza"
+    ],
+    "coords": {
+      "lat": 20.682889,
+      "lng": -88.568611
+    },
+    "descricaoCurta": "Maior ícone maia do Yucatán; desde 27/03/2026 o ingresso é único (INAH + taxa estadual) e custa MXN 697 para estrangeiros.",
+    "descricaoLonga": "Preço (o que você pediu, separado): ingresso de estrangeiro = INAH (federal) 105 + taxa estadual 592 = MXN 697 (Posta, matéria sobre o equinócio; Xataka e Diario de Yucatán confirmam o total de 697). Até 26/03/2026 eram dois guichês e dois pagamentos (em jan/2026 a soma era 676 = 105 INAH + 571 estadual, Por Esto); desde 27/03/2026 há 'boleto único' em um só guichê no Centro de Atención a Visitantes. Nota: as matérias de 2026 atribuem a parte estadual à Agência de Administração Fiscal de Yucatán (AAFY), e não ao Cultur; o Cultur segue cobrando estacionamento (carro MXN 124 desde 01/05/2026) e o show noturno. Mexicanos pagam 310 e entram grátis aos domingos; menores de 13 anos têm entrada grátis. Horário: 08:00–16:00 (as fontes divergem se o último acesso é 15:00 ou 16:00). Não se sobe mais no Castillo (proibido desde 2006, Wikivoyage); tripé é proibido e vídeo com câmera dedicada/GoPro exige permissão paga (MXN 63 segundo a Posta/2026; MXN 50 segundo o Wikivoyage mais antigo). Guia credenciado na entrada: MXN 1.300 (Wikivoyage, jun/2026). O sítio recebe mais de 2,2 milhões de visitantes/ano (Diario de Yucatán). EQUINÓCIO: fenômeno da 'descida de Kukulcán' por volta de 20–21/mar (em 2026: 20/mar às 08:46, sombra visível ~15:00–17:00; operação especial 20–22/mar; em 20/mar abriu às 09:00 e em 21–22/mar às 08:00; venda/entrada fecham 16:00; evacuação 17:30). Lotação: >32 mil visitantes em 2025 (Plano Informativo); proibidos drones, tripés, bebida alcoólica, cigarro eletrônico. O equinócio de outono (~22–23/set) também projeta a sombra, mas não achei fonte de lotação/horários. COMO IR: de Mérida ~1h30 de carro (autopista: Mérida–Valladolid MXN 248 no pedágio 2026); de Valladolid ~45 min — colectivo na Calle 39 (1 quarteirão a oeste da rodoviária ADO) a MXN 40–50, primeiro às 07:00 (Wikivoyage, mar/2025), volta de meia em meia hora. Existe estação do Tren Maya (Chichén Itzá) na MEX-180D, sem tarifa verificada. Duração é estimativa minha.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+    "diasFechados": [],
+    "melhorHorario": "Abertura (08:00): menos calor e antes dos ônibus de excursão; evite 11:00–15:00 (sol a pino, sem sombra).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 697,
+      "max": 697,
+      "por": "pessoa",
+      "inclui": "INAH 105 + taxa estadual 592 (boleto único desde 27/03/2026). Em jan/2026 era 676 (105 + 571). Estacionamento carro MXN 124 à parte. Vídeo (GoPro/câmera) MXN 63 à parte.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.posta.com.mx/yucatan/cuanto-cuesta-ver-el-equinoccio-de-primavera-en-chichen-itza/vl2174856"
+        },
+        {
+          "url": "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html"
+        },
+        {
+          "url": "https://www.xataka.com.mx/otros-1/mayor-dolor-cabeza-para-entrar-a-chichen-itza-desaparece-solo-pago-sola-fila"
+        },
+        {
+          "url": "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html"
+        },
+        {
+          "url": "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Daniel Schwen",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Proibido subir no Castillo desde 2006",
+        "Tripé proibido sem permissão",
+        "Drone proibido",
+        "Sem comida/bebida alcoólica dentro (regras do equinócio)"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Faça UMA vez, chegando na abertura: é o grande ícone da viagem e, como o ingresso é caro (697), não vale diluir em visita de 1 hora ao meio-dia.",
+      "[CORTE SE APERTAR] Guia (MXN 1.300) e o show noturno (veja item próprio) — dá para ler as placas e usar um áudio-guia no celular.",
+      "Combine no mesmo dia com Cenote Ik Kil (MXN 400 no Wikivoyage 2024; 200 em um guia de 2026) ou, mais barato, com Cenote Zací em Valladolid. Durma em Valladolid e chegue às 08:00 em vez de sair de Mérida de madrugada.",
+      "Ritmo intenso: Chichén (manhã) + Ek Balam ou cenote (tarde) a partir de Valladolid é o melhor encaixe."
+    ],
+    "alertas": [
+      "Ingresso mudou 2x em 2026 (676 em jan → 697 desde mar); confirme na bilheteria — pode ter reajuste novo depois de out/2026.",
+      "Wikivoyage ainda diz que o show luz e som é 'grátis' — está desatualizado (ver item Noches de Kukulcán).",
+      "Não consegui abrir o site oficial do INAH/Cultur (links dão 404/DNS); preço vem de imprensa local de 2026 + Wikivoyage.",
+      "as fontes divergem no horario de funcionamento: o banco usa a primeira citada; confira antes de ir"
+    ]
+  },
+  {
+    "id": "mx-vld-noches-de-kukulcan-show-noturno-em-chichen-itza",
+    "fontes": [
+      {
+        "url": "https://www.posta.com.mx/yucatan/noches-de-kukulcan-el-espectaculo-de-alto-nivel-en-chichen-itza/vl2157936"
+      },
+      {
+        "url": "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+      },
+      {
+        "url": "https://nochesdekukulkan.com.mx/evento/1"
+      },
+      {
+        "url": "https://planoinformativo.com/1133343/todo-listo-en-chichen-itza-para-el-operativo-del-equinoccio-de-primavera-2026"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chichen_Itza"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Noches de Kukulcán (show noturno em Chichén Itzá)",
+    "cidadeId": "valladolid",
+    "categoria": "experiencia",
+    "tags": [
+      "noite",
+      "video-mapping",
+      "chichen",
+      "show",
+      "caro",
+      "chichen-itza"
+    ],
+    "coords": {
+      "lat": 20.682889,
+      "lng": -88.568611
+    },
+    "descricaoCurta": "Video mapping de ~30 min no Castillo, de quarta a domingo às 19:00; total cobrado ~MXN 1.163 (taxa estadual 433 + cobrança INAH).",
+    "descricaoLonga": "Espetáculo de video mapping com percurso noturno na zona arqueológica, com narração em espanhol, ~30 min (Posta; site oficial de venda). Dias: quarta a domingo; início 19:00 (chegar 15 min antes). Preço: a taxa estadual do show 'se mantém em MXN 433', mas com o que o INAH cobra o total sobe para MXN 1.163 para a maioria dos visitantes; no domingo, mexicanos pagam 730 (Diario de Yucatán, 30/04/2026). Não está claro nas fontes se esse total inclui a entrada diurna — presuma que NÃO e confirme no site de venda (exige login/conta). Em 2025 foram 18.269 espectadores. No equinócio de 2026 o show foi só em 20/mar às 19:30.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "qua": [
+        {
+          "abre": "19:00",
+          "fecha": "19:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "19:00",
+          "fecha": "19:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "19:00",
+          "fecha": "19:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "19:00",
+          "fecha": "19:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "19:00",
+          "fecha": "19:30"
+        }
+      ]
+    },
+    "horariosObservacao": "Sem espetáculo | 19:00–19:30",
+    "diasFechados": [
+      "segunda",
+      "terça"
+    ],
+    "melhorHorario": "19:00 (único horário divulgado).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1163,
+      "max": 1163,
+      "por": "pessoa",
+      "inclui": "Taxa estadual 433 + cobrança INAH = 1.163 para a maioria (730 para mexicanos aos domingos). Se inclui a entrada diurna: NÃO confirmado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+        },
+        {
+          "url": "https://www.posta.com.mx/yucatan/noches-de-kukulcan-el-espectaculo-de-alto-nivel-en-chichen-itza/vl2157936"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "link": "https://nochesdekukulkan.com.mx/evento/1"
+    },
+    "contato": {
+      "site": "https://nochesdekukulkan.com.mx/evento/1"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ingresso comprado online (exige login)",
+        "Volta à noite: sem transporte público — precisa de carro/tour"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] ~MXN 1.163 por pessoa por 30 min, mais a volta de ~2h até Mérida à noite, só se vale para quem quer ver o Castillo iluminado e dormir em Valladolid/Pisté.",
+      "[VALE CADA PESO] só se você já dorme perto (Valladolid ~45 min): vira a única 'balada cultural' da região e libera o dia seguinte de manhã para Ek Balam."
+    ],
+    "alertas": [
+      "Antecedência de compra não divulgada (antecedenciaDias=0 = desconhecido).",
+      "O site de venda só abre com login; preço exato por categoria não pôde ser conferido."
+    ]
+  },
+  {
+    "id": "mx-vld-ek-balam-zona-arqueologica-cenote-x-canche",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Ek_Balam"
+      },
+      {
+        "url": "https://yucatanmagazine.com/ek-balam-pyramid-accident/"
+      },
+      {
+        "url": "https://www.poresto.com/yucatan/2025/7/1/turista-cae-de-una-piramide-en-la-zona-arqueologica-de-ek-balam-en-yucatan.html"
+      },
+      {
+        "url": "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Ek_Balam"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Ek Balam (zona arqueológica + Cenote X'Canché)",
+    "cidadeId": "valladolid",
+    "categoria": "atracao",
+    "tags": [
+      "maya",
+      "subir",
+      "acropole",
+      "cenote",
+      "valladolid",
+      "caro"
+    ],
+    "coords": {
+      "lat": 20.891086,
+      "lng": -88.136264
+    },
+    "descricaoCurta": "Única grande pirâmide ainda escalável da região (Acrópole, 106 degraus); ingresso estrangeiro MXN 691–709.",
+    "descricaoLonga": "É possível subir: a Acrópole (106 degraus, escada íngreme e escorregadia) segue aberta à escalada em 2025–2026 (Yucatán Magazine, jul/2025: sem restrição nova depois do acidente de 01/07/2025; Wikivoyage, jun/2026, só adverte sobre os degraus). Preço: jan/2026 = MXN 691 (210 INAH + 481 estadual; Riviera Maya News); jun/2026 = 210 INAH (só dinheiro) + 499 estadual (aceita cartão) = 709 (Wikivoyage). Aberto diariamente 08:00–17:00, bilheteria fecha 16:00. Estacionamento MXN 100; guia ~1 h por MXN 600 (espanhol)/800 (inglês). Cenote X'Canché a 2 km (caminho a pé/bike/triciclo): ingresso extra MXN 170, colete incluso, tirolesas de MXN 100–150; bilheteria do cenote fecha ~15:30 e a água fecha ~16:00 (Wikivoyage, jun/2026). COMO IR: sem ônibus — colectivo em Valladolid (Calle 37 entre 42 e 44, sai a partir de 06:30) a MXN 70/pessoa, ou MXN 280 para o carro inteiro (mar/2025); fica a poucos km de Valladolid. É o único sítio onde subir realmente funciona — por isso é o melhor 'custo-benefício de emoção' do roteiro intenso.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00 (bilheteria fecha 16:00)",
+    "diasFechados": [],
+    "melhorHorario": "08:00 (abertura): subir antes do calor, com degraus secos e menos fila na Acrópole.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 691,
+      "max": 709,
+      "por": "pessoa",
+      "inclui": "Sítio: INAH 210 (só dinheiro) + estadual 481–499. Cenote X'Canché 170 à parte; estacionamento 100.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Ek_Balam"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Acropolis%2C_Ek_Balam%2C_Yucatan%2C_Mexico.jpg/1280px-Acropolis%2C_Ek_Balam%2C_Yucatan%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acropolis,_Ek_Balam,_Yucatan,_Mexico.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Escalada exige calçado fechado com sola aderente",
+        "Degraus escorregadios, principalmente na descida/chuva",
+        "INAH cobra só em dinheiro"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se a ideia é SUBIR numa pirâmide maia: aqui é a que dá, e com vista de selva. Faça de manhã e emende o Cenote X'Canché.",
+      "[CORTE SE APERTAR] Se já pagou Chichén no mesmo trecho e não liga para escalar, é o ingresso mais caro de ruína menor (~700)."
+    ],
+    "alertas": [
+      "Preço total em 2026 oscila entre 691 e 709 (fontes diferentes).",
+      "Acidente grave em 01/07/2025: o INAH 'exortou cuidado'; a política pode mudar — confirme na bilheteria."
+    ]
+  },
+  {
+    "id": "mx-vld-convento-de-san-bernardino-de-siena-e-calzada-de-los",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      },
+      {
+        "url": "https://www.zonaturistica.com/que-hacer-en/yucatan/valladolid/ex-convento-de-san-bernardino-de-siena"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/5555891"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/26658273"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Convento de San Bernardino de Siena e Calzada de los Frailes (Valladolid)",
+    "cidadeId": "valladolid",
+    "categoria": "atracao",
+    "tags": [
+      "colonial",
+      "convento",
+      "valladolid",
+      "caminhada",
+      "barato",
+      "fotos"
+    ],
+    "coords": {
+      "lat": 20.6858823,
+      "lng": -88.2100007
+    },
+    "descricaoCurta": "Convento franciscano do séc. XVI (1552–1560) no bairro de Sisal, a ~1 km (10–15 min a pé) do centro pela charmosa Calzada de los Frailes.",
+    "descricaoLonga": "Convento franciscano (construído 1552–1560) no barrio de Sisal, Calle 41-A x 50. Horário: 08:00–18:00 (Wikivoyage 2024) ou até 19:00 (Zona Turística) — fontes divergem. Preço (Wikivoyage, fev/2024): MXN 40 de segunda a sábado e 20 aos domingos; não consegui fonte oficial/mais recente. A Calzada de los Frailes (Calle 41-A) liga o centro ('cinco calles') ao convento: casas coloniais coloridas, ótimo para caminhar no fim da tarde e para fotos, com restaurantes e bares em sequência. Coordenada do item = convento (OSM).",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–18:00 (outra fonte: até 19:00)",
+    "diasFechados": [],
+    "melhorHorario": "Final da tarde (calor menor) combinando a Calzada a pé; igreja abre cedo.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 20,
+      "max": 40,
+      "por": "pessoa",
+      "inclui": "Convento: 40 (seg–sáb) e 20 (dom) segundo Wikivoyage 2024. Calzada é rua pública (grátis).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Convento_de_San_Bernardino_de_Siena%2C_Valladolid%2C_Yucatan%2C_Mexico_Abril_2021.jpg/1280px-Convento_de_San_Bernardino_de_Siena%2C_Valladolid%2C_Yucatan%2C_Mexico_Abril_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Convento_de_San_Bernardino_de_Siena,_Valladolid,_Yucatan,_Mexico_Abril_2021.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Respeitar roupas adequadas em área de culto"
+      ]
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] É praticamente de graça e rende fotos/uma tarde tranquila; ancore o fim do dia em Valladolid aqui.",
+      "[CORTE SE APERTAR] A parte paga (convento) só se sobrar tempo; a Calzada sozinha já entrega o cenário."
+    ],
+    "alertas": [
+      "Preço e horário do convento são de uma fonte colaborativa (2024); sem checagem oficial.",
+      "Projeções noturnas no convento (quarta–domingo) apareceram só em um resumo de busca: não confirmado."
+    ]
+  },
+  {
+    "id": "mx-vld-cenote-zaci-valladolid",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      },
+      {
+        "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/50510578"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Valladolid,_Yucat%C3%A1n"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Zací (Valladolid)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "urbano",
+      "barato",
+      "nadar",
+      "valladolid"
+    ],
+    "coords": {
+      "lat": 20.6916702,
+      "lng": -88.1973624
+    },
+    "descricaoCurta": "Cenote no meio da cidade, a poucos quarteirões da praça; entrada MXN 50–60.",
+    "descricaoLonga": "Cenote aberto em um parque público a poucos metros da praça central, com passarela sob cortina de estalactites; dá para pular de 6 m. Wikivoyage (fev/2024): MXN 60, 09:00–17:00, pode haver espera e pedem para não ficar mais de 1 h quando lota; guia 2026 de cenotes: MXN 50, 08:00–18:00. Restaurante no local. Telefone (Wikivoyage): +52 985 856 0721.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00 (outra fonte: 08:00–18:00)",
+    "diasFechados": [],
+    "melhorHorario": "Abertura ou fim da tarde (lota ao meio-dia).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "Entrada simples; consumo mínimo não confirmado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        },
+        {
+          "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 985 856 0721",
+      "site": "https://www.facebook.com/CenoteZaci15/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cenote_Zac%C3%AD_03.jpg/1280px-Cenote_Zac%C3%AD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Haakon S. Krohn",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Zac%C3%AD_03.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Colete e ducha antes de entrar (padrão em cenotes)"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] O melhor custo-benefício de cenote da viagem: refresco no calor de Valladolid por ~MXN 50.",
+      "Combine com a Calzada de los Frailes e jantar no centro."
+    ],
+    "alertas": [
+      "Preço varia entre 50 e 60 conforme a fonte; sem fonte oficial.",
+      "as fontes divergem no horario de funcionamento: o banco usa a primeira citada; confira antes de ir"
+    ]
+  },
+  {
+    "id": "mx-vld-cenote-oxman-hacienda-san-lorenzo-oxman",
+    "fontes": [
+      {
+        "url": "https://roamandthrive.com/cenote-oxman-valladolid-mexico"
+      },
+      {
+        "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/265533249"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Oxman (Hacienda San Lorenzo Oxman)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "hacienda",
+      "tirolesa",
+      "piscina",
+      "restaurante"
+    ],
+    "coords": {
+      "lat": 20.6675605,
+      "lng": -88.230058
+    },
+    "descricaoCurta": "Cenote aberto com cipós/tirolesa dentro de uma hacienda, a ~10 min de Valladolid; MXN 150–250.",
+    "descricaoLonga": "Fica dentro da Hacienda San Lorenzo Oxman (piscina, redes, restaurante), a cerca de 10 min de carro de Valladolid. Guia Roam & Thrive (atualizado 14/12/2025): ingresso básico MXN 150; versão de 250 inclui crédito de MXN 50 no restaurante; colete obrigatório; aberto 07:00–17:00 todos os dias; não aceita cartão. Guia Mérida Experiences (2026): MXN 200 só cenote / 400 com refeição, 09:00–17:00. CONSUMO MÍNIMO: não encontrei exigência de consumo mínimo — o que existe são ingressos com crédito de consumo. Buffet de fim de semana ~MXN 300 (fonte de busca, não confirmada).",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00 (outra fonte: 07:00–17:00)",
+    "diasFechados": [],
+    "melhorHorario": "Abertura (evita grupos de tour e o calor).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 150,
+      "max": 250,
+      "por": "pessoa",
+      "inclui": "150 só cenote; 250 com crédito de MXN 50 no restaurante (dez/2025). Outro guia 2026 fala em 200/400.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://roamandthrive.com/cenote-oxman-valladolid-mexico"
+        },
+        {
+          "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Swimming_in_Oxman_Cenote.jpg/1280px-Swimming_in_Oxman_Cenote.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Swimming_in_Oxman_Cenote.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Dinheiro vivo (cartão não aceito)",
+        "Colete obrigatório"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Cenote mais 'aventura' (cipós, pulo) por pouco; bom para casal jovem — vá cedo.",
+      "[CORTE SE APERTAR] Se já visitou Zací + Suytun/Yokdzonot, é o mais fácil de pular."
+    ],
+    "alertas": [
+      "Preço e horário divergem entre as duas fontes.",
+      "Sem fonte oficial (sem site/telefone verificados).",
+      "as fontes divergem no horario de funcionamento: o banco usa a primeira citada; confira antes de ir"
+    ]
+  },
+  {
+    "id": "mx-vld-cenote-suytun-a-foto-do-raio-de-sol",
+    "fontes": [
+      {
+        "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+      },
+      {
+        "url": "https://www.vamonostomexico.com/travel-guide/cenote-suytun/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3680984963"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Suytun (a foto do raio de sol)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "foto",
+      "instagram",
+      "fila",
+      "valladolid"
+    ],
+    "coords": {
+      "lat": 20.6989866,
+      "lng": -88.1245704
+    },
+    "descricaoCurta": "O cenote da plataforma com raio de luz; vá no fim da manhã para a foto, mas cedo para fugir da fila.",
+    "descricaoLonga": "Cenote semi-fechado com a plataforma central iluminada por um feixe de luz; a 9 km de Valladolid (~15 min, MEX-180 livre, desvio no km 8 para Tikuch), estacionamento grátis. Horário: 09:00–17:00 (guia 2026) ou 08:00–17:00 (blog). Preço: guia Mérida Experiences (2026) = MXN 280; um blog antigo cita 80 — fontes divergem muito; planeje 280. Colete incluso. A luz cai mais certeiro entre 12:00 e 14:00, que é justamente o horário de maior fila; chegando na abertura (09:00) a luz é fraca mas não há espera. Proibido usar protetor solar/repelente na água.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Abertura para evitar fila; 12:00–14:00 para a luz (lotado).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 80,
+      "max": 280,
+      "por": "pessoa",
+      "inclui": "Colete incluso. 280 (guia 2026) vs 80 (blog antigo): fontes divergem.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        },
+        {
+          "url": "https://www.vamonostomexico.com/travel-guide/cenote-suytun/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Cenote_Suytun_2009_06.jpg/1280px-Cenote_Suytun_2009_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Daniel Lobo",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Suytun_2009_06.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Sem protetor solar/repelente na água",
+        "Colete obrigatório"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Pelo preço (~280) e pela fila do raio de sol, é o cenote mais 'foto' e menos 'banho'. Zací custa 1/5 disso.",
+      "[VALE CADA PESO] Só se a foto do raio de luz for prioridade — vá às 12:00 e aceite a fila ou às 09:00 e ignore o raio."
+    ],
+    "alertas": [
+      "Preço pouco confiável (80 vs 280).",
+      "Duração é estimativa minha."
+    ]
+  },
+  {
+    "id": "mx-vld-cenote-yokdzonot-cooperativa-de-mulheres-maias",
+    "fontes": [
+      {
+        "url": "https://thirdeyemom.com/2024/04/28/a-maya-cooking-class-and-visit-to-the-cenote-yokdzonot-in-mexicos-yucatan-peninsula/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/172230040"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Yokdzonot_(Yaxcab%C3%A1)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Yokdzonot (cooperativa de mulheres maias)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "comunitario",
+      "tirolesa",
+      "culinaria",
+      "chichen",
+      "chichen-itza"
+    ],
+    "coords": {
+      "lat": 20.7070013,
+      "lng": -88.7309127
+    },
+    "descricaoCurta": "Cenote comunitário administrado por cooperativa de mulheres maias (Zaaz Koolen Haa), a menos de 20 km de Chichén Itzá.",
+    "descricaoLonga": "Cenote de ~40 m de diâmetro e ~45 m de profundidade, com plataforma de salto e tirolesa, restaurante e aulas de cozinha maia (panuchos, empanadas, sopes) — gerido pela cooperativa Zaaz Koolen Haa (~16 integrantes, parte da rede APTC); a renda é dividida entre as famílias e 10% vai para obras da comunidade (Third Eye Mom, 2024). Preço de entrada e horário: não consegui confirmar em fonte aberta (resumos de busca falavam em 100–350 MXN, sem validação) — consulte a cooperativa na hora. Fica em Yokdzonot (Calle 20), a oeste de Chichén Itzá, na rota Mérida–Chichén.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cenote_Yokdzonot-1_%28473922163%29.jpg/1280px-Cenote_Yokdzonot-1_%28473922163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ryan from Toronto, Canada",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Yokdzonot-1_(473922163).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Preço/horário a confirmar no local"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se vai de carro e passa por ali: dinheiro vai para a comunidade, menos tour-ônibus que o Ik Kil e opção de almoço regional.",
+      "[CORTE SE APERTAR] Sem preço confirmado, não monte o roteiro em torno dele; é um 'se der'."
+    ],
+    "alertas": [
+      "Preço e horário NÃO verificados (por isso preco=0).",
+      "Coordenada é do cenote no OpenStreetMap.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-vld-rio-lagartos-passeio-de-flamingos-marco-outubro",
+    "fontes": [
+      {
+        "url": "https://yucatantoday.com/en/blog/flamingos-in-yucatan"
+      },
+      {
+        "url": "https://yucatantoday.com/en/blog/yucatan-biosphere-reserves-celestun-ria-lagartos"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Rio_Lagartos"
+      },
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-el-tour-en-rio-lagartos"
+      },
+      {
+        "url": "https://yucatan.travel/en/adventure-and-nature/rio-lagartos/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Lagartos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Río Lagartos: passeio de flamingos (março–outubro)",
+    "cidadeId": "valladolid",
+    "categoria": "passeio",
+    "tags": [
+      "flamingos",
+      "natureza",
+      "barco",
+      "nidificacao",
+      "longe-de-merida",
+      "rio-lagartos"
+    ],
+    "coords": {
+      "lat": 21.5975,
+      "lng": -88.157778
+    },
+    "descricaoCurta": "Reserva da Biosfera Ría Lagartos: flamingos principalmente de março a outubro; passeio de barco de ~2–4 h, MXN ~250–800 por pessoa.",
+    "descricaoLonga": "FLAMINGOS: a temporada é diferente da de Celestún — em Ría Lagartos o pico é de março a outubro; por volta de meados de março as aves se dispersam para leste e começam a nidificar em abril/maio (Yucatán Today). Existe flamingo o ano todo (um blog fala em novembro–março, mas Yucatán Today sustenta março–outubro). PASSEIO: saem do porto de Río Lagartos ou de San Felipe, ~4 h com banho de lama ('baño maya') e ave-observação; melhor ao amanhecer (Yucatán Today/Yucatán Travel). Preços: passeios de barco de 1–2 h custam 250–800 por pessoa e tours de meio dia 500–1.500 (Felices Vacaciones); para ir de barco a Las Coloradas o Wikivoyage cita a partir de ~MXN 3.000 por barco (preço antigo). Operadoras: restaurantes como El Manglar organizam passeios; hotéis (Punta Ponto, Posada Mercy) indicam guias. COMO IR: 230 km de Mérida (~3h30) ou 100 km de Valladolid (~1h30 pela MEX-295); sem voo direto — de ônibus, via Tizimín. Hospedagem econômica na cidade: MXN ~800–2.000 por noite (Wikivoyage 2023–2024).",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Amanhecer (melhor luz e menos calor); março–outubro.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 250,
+      "max": 800,
+      "por": "pessoa",
+      "inclui": "Passeio de barco de 1–2 h: 250–800 por pessoa (estimativa de blog); tours de meio dia 500–1.500. Preço oficial por barco não confirmado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-el-tour-en-rio-lagartos"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Rio_Lagartos"
+        },
+        {
+          "url": "https://yucatan.travel/en/adventure-and-nature/rio-lagartos/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg/1280px-Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Adam Baker from Houston, TX",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Muito longe de Mérida — melhor dormir em Río Lagartos ou Valladolid"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Entre março e outubro, se tiver carro e dormir em Valladolid/Río Lagartos: combina flamingos + Las Coloradas.",
+      "[CORTE SE APERTAR] Se a base é só Mérida: 3h30 de ida é pesado; Celestún (nov–mar) é a alternativa próxima."
+    ],
+    "alertas": [
+      "Preço por barco não verificado — a faixa vem de blog e de dado antigo de Wikivoyage.",
+      "Fontes divergem sobre a melhor época (nov–mar vs mar–out): sigo Yucatán Today."
+    ],
+    "passeio": {
+      "pontoPartida": "Porto de Río Lagartos (ou San Felipe).",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-vld-las-coloradas-lagoa-rosa",
+    "fontes": [
+      {
+        "url": "https://menteurbana.mx/yucatan/las-coloradas-yucatan/"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/destinos/las-coloradas-cuanto-cuesta-un-tour-en-las-lagunas-de-color-rosa/"
+      },
+      {
+        "url": "https://laverdad.com.mx/2026/05/como-visitar-las-coloradas-en-yucatan-horarios-precios-y-restricciones/"
+      },
+      {
+        "url": "https://yucatantoday.com/en/blog/a-natural-wonder-of-the-world-las-coloradas"
+      },
+      {
+        "url": "https://lascoloradas.com.mx"
+      },
+      {
+        "url": "https://yucatan.travel/aventura-y-naturaleza/las-coloradas/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Las_Coloradas_(M%C3%A9xico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Las Coloradas (lagoa rosa)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "lagoa-rosa",
+      "foto",
+      "natureza",
+      "salina",
+      "sol-a-pino",
+      "rio-lagartos"
+    ],
+    "coords": {
+      "lat": 21.608333,
+      "lng": -87.989722
+    },
+    "descricaoCurta": "Salinas rosadas (subproduto industrial) ainda abertas em 2026; só com visita guiada (~MXN 300 a pé; 890 no safári); não se pode nadar.",
+    "descricaoLonga": "Aberto em 2026 (La Verdad, maio/2026): acesso apenas por visitas guiadas a pé ou de bicicleta. Preços para estrangeiros: caminhada de 45 min MXN 300 (Mente Urbana 2026; nacionais 250); bicicleta 30 min 320, bicicleta 1 h 390, safári 90 min 890 (El Universal, 2022/23). Horário 08:00–17:00, todos os dias (El Universal). Melhor horário: entre 11:00 e 15:00, com sol forte, para a cor rosa aparecer (La Verdad; Yucatán Today: 11–13h). Nadar: proibido segundo La Verdad, Mente Urbana e El Universal (sal e cristais cortam a pele); o site oficial do parque diz que há banho 'com diretrizes' — trate como proibido. A cor rosa é efeito da produção de sal (não natural, Wikivoyage); terreno da Salinera de Yucatán (Yucatán Travel). Fica a 20 min de Río Lagartos de carro (30 min em outra fonte) e ~230 km de Mérida (3h30). Reservas pelo site/FareHarbor; telefone/WhatsApp 999 996 7196; e-mail hola@lascoloradas.com.mx. Leve dinheiro (cartão raramente aceito).",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "11:00–13:00 com céu limpo.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 300,
+      "max": 890,
+      "por": "pessoa",
+      "inclui": "Estrangeiro: caminhada 45 min 300 (2026); bicicleta 320–390; safári 890 (2022/23).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://menteurbana.mx/yucatan/las-coloradas-yucatan/"
+        },
+        {
+          "url": "https://www.eluniversal.com.mx/destinos/las-coloradas-cuanto-cuesta-un-tour-en-las-lagunas-de-color-rosa/"
+        },
+        {
+          "url": "https://laverdad.com.mx/2026/05/como-visitar-las-coloradas-en-yucatan-horarios-precios-y-restricciones/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://lascoloradas.com.mx"
+    },
+    "contato": {
+      "telefone": "+52 999 996 7196",
+      "whatsapp": "+52 999 996 7196",
+      "site": "https://lascoloradas.com.mx"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Las_Coloradas2.jpg/1280px-Las_Coloradas2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Wasquewhat",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Las_Coloradas2.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Proibido nadar (na prática)",
+        "Sem drones",
+        "Leve dinheiro, repelente, boné"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se você já vai a Río Lagartos: é a foto mais surreal do roteiro e custa ~MXN 300.",
+      "[CORTE SE APERTAR] Se sai de Mérida só para isso (7 h de estrada ida e volta), corte."
+    ],
+    "alertas": [
+      "Preço do safári e da bicicleta vem de matéria de 2022/23 — pode ter subido.",
+      "Fontes divergem sobre poder nadar."
+    ]
   }
 ]

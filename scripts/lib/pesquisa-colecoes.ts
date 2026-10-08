@@ -195,6 +195,31 @@ export function construirAeroportos(logistica: Json): Json[] {
 // ------------------------------------------------------------------- cidades
 
 function climaDaCidade(logistica: Json, cidadeId: string, config: ConfigDeDestino): Json[] {
+  // Onda dedicada de clima: 12 meses por cidade, com fonte por linha.
+  // Vence a tabela regional da onda de logistica, que so tinha um mes.
+  const porCidade = ((logistica.climaPorCidadeEMes ?? []) as Json[]).filter(
+    (c) => c.cidade === cidadeId && Number(c.mes) >= 1 && Number(c.mes) <= 12,
+  );
+  if (porCidade.length > 0) {
+    return porCidade
+      .map((c) => ({
+        mes: Number(c.mes),
+        tempMinC: Number(c.tempMinC ?? 0),
+        tempMaxC: Number(c.tempMaxC ?? 0),
+        chuvaMm: Number(c.chuvaMm ?? 0),
+        diasDeChuva: Number(c.diasDeChuva ?? 0),
+        resumo: String(c.resumo ?? '').slice(0, 2000),
+        ...(c.marEVento ? { marEVento: String(c.marEVento).slice(0, 1500) } : {}),
+        ...(c.planoBChuva ? { planoBChuva: String(c.planoBChuva).slice(0, 1500) } : {}),
+        pesoNaDecisao: ['alto', 'medio', 'baixo'].includes(String(c.pesoNaDecisao))
+          ? String(c.pesoNaDecisao)
+          : 'medio',
+        fontes: fontes(c.fontes),
+      }))
+      .filter((c) => c.fontes.length > 0)
+      .sort((a, b) => a.mes - b.mes);
+  }
+
   for (const c of logistica.climaNovembro ?? []) {
     const casamento = config.climaParaCidades.find((x) => x.contem.test(String(c.regiao)));
     if (!casamento?.cidades.includes(cidadeId)) continue;
@@ -604,7 +629,28 @@ export function construirCalendario(logistica: Json, config: ConfigDeDestino): J
     ...((logistica.calendarioAnual ?? []) as Json[]),
   ];
 
+  // Entrada com datas por ano vira um evento por ano publicado.
+  const expandidos: Json[] = [];
   for (const e of brutos) {
+    const anos = Object.keys(e)
+      .map((k) => /^dataInicio(\d{4})$/.exec(k)?.[1])
+      .filter((a): a is string => Boolean(a));
+    if (anos.length === 0) {
+      expandidos.push(e);
+      continue;
+    }
+    for (const ano of anos) {
+      expandidos.push({
+        ...e,
+        dataInicio: e[`dataInicio${ano}`],
+        dataFim: e[`dataFim${ano}`],
+        nome: `${e.nome} (${ano})`,
+      });
+    }
+    derivado('evento anual desdobrado em um registro por ano publicado');
+  }
+
+  for (const e of expandidos) {
     const data = String(e.data ?? e.dataInicio ?? '');
     if (!RE_DATA.test(data)) {
       avisos.push(`evento sem data exata ficou fora do banco: "${e.nome}" (${data || 'vazio'})`);

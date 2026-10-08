@@ -1,0 +1,328 @@
+[
+  {
+    "id": "mx-qro-centro-historico-de-queretaro-plaza-de-armas-e-arred",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Quer%C3%A9taro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro Histórico de Querétaro (Plaza de Armas e arredores)",
+    "cidadeId": "queretaro",
+    "categoria": "atracao",
+    "tags": [
+      "unesco",
+      "centro-historico",
+      "gratis",
+      "caminhar",
+      "gastronomia"
+    ],
+    "coords": {
+      "lat": 20.5930221,
+      "lng": -100.3896405
+    },
+    "descricaoCurta": "Zona de monumentos inscrita na UNESCO em 1996: praças coloniais, igrejas barrocas e vida noturna tranquila a pé.",
+    "descricaoLonga": "Centro compacto e caminhável com a Plaza de Armas, Plaza de la Constitución, Jardín Zenea e a Plaza de la Independencia, além de San Francisco, Catedral, Santa Rosa de Viterbo e a Casa de la Corregidora. Tem a Noche de Leyendas (teatro interativo) e banda municipal aos domingos. Barato comer perto da Calle Corregidora (gordita queretana MX$30-45). Cena noturna: não encontrei fontes detalhando bares/baladas e preços de Querétaro; o centro é mais jantar e passeio do que balada.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim de tarde e noite (praças animadas).",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Altar_de_muertos_en_Plaza_de_Armas_Centro_Hist%C3%B3rico,_Quer%C3%A9taro.jpg?width=1280",
+        "credito": "Tere01ch / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Altar_de_muertos_en_Plaza_de_Armas_Centro_Hist%C3%B3rico,_Quer%C3%A9taro.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (grátis): melhor cidade-base barata do circuito se quiser conforto e custo menor que SMA.",
+      "Aeroporto QRO a 26 km; Uber/Didi/Cabify operam (Wikivoyage)."
+    ],
+    "alertas": [
+      "Informação de bares/baladas em Querétaro não foi confirmada.",
+      "Horários dos monumentos não verificados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-qro-acueducto-de-queretaro-e-mirador-de-los-arcos",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Aqueduct_of_Quer%C3%A9taro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Acueducto de Querétaro e Mirador de los Arcos",
+    "cidadeId": "queretaro",
+    "categoria": "mirante",
+    "tags": [
+      "arquitetura",
+      "gratis",
+      "foto",
+      "unesco"
+    ],
+    "coords": {
+      "lat": 20.5951383,
+      "lng": -100.3744769
+    },
+    "descricaoCurta": "Aqueduto do século XVIII com 74 arcos e 1.280 m, símbolo da cidade; o Mirador de los Arcos dá a vista clássica.",
+    "descricaoLonga": "Construído entre os anos de 1726 e 1738 (início na segunda metade do século XVII, segundo a Wikipedia em inglês), tem 74 arcos e 1.280 m e é parte do sítio UNESCO. Ótimo para foto ao fim da tarde pelo Mirador de los Arcos. É monumento ao ar livre; acesso e eventual custo do mirador não aparecem nas fontes.",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 60
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim da tarde.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acueducto_de_Quer%C3%A9taro_2021.jpg?width=1280",
+        "credito": "Melodrartma / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acueducto_de_Quer%C3%A9taro_2021.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (custa 0): 30 min de parada."
+    ],
+    "alertas": [
+      "Número de arcos e altura variam por fonte (74 arcos citados em todas; altura de 23 m vs média 28,5 m).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-qro-pena-de-bernal-monolito-e-pueblo-magico-de-bernal",
+    "fontes": [
+      {
+        "url": "https://escapadas.mexicodesconocido.com.mx/que-hacer-en-bernal-aventuras-entre-historia-sabores-y-la-imponente-pena/"
+      },
+      {
+        "url": "https://www.nmas.com.mx/queretaro/reabren-sendero-a-la-cima-de-la-pena-de-bernal-para-el-equinoccio-tras-un-ano-cerrado/"
+      },
+      {
+        "url": "https://grupoanimal.mx/estilo-de-vida/que-hacer-pena-de-bernal-subir-queretaro"
+      },
+      {
+        "url": "https://mountainproject.com/area/125160888/main-wall"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Peña de Bernal (monólito e Pueblo Mágico de Bernal)",
+    "cidadeId": "queretaro",
+    "categoria": "natureza",
+    "tags": [
+      "trilha",
+      "monolito",
+      "natureza",
+      "pueblo-magico",
+      "mirante",
+      "bernal"
+    ],
+    "coords": {
+      "lat": 20.7496017,
+      "lng": -99.9458978
+    },
+    "descricaoCurta": "Terceiro maior monólito do mundo; trilha a pé até um mirante (sem equipamento) e o resto exige escalada técnica. Status da trilha ao topo é incerto.",
+    "descricaoLonga": "Monólito a ~50 min de Querétaro. Segundo as fontes, sem equipamento só se sobe até cerca de três quartos; o trecho final de ~45 m é vertical e exige escalada profissional. A trilha ao topo ficou fechada cerca de um ano por risco de deslizamento e foi reaberta em março de 2026 para o equinócio (15-25 mil visitantes esperados); não há confirmação se segue aberta em outubro. Um aviso do Mountain Project diz que a face sul, a via ferrata e o topo estão fechados 'até nova ordem' (sem data). A caminhada mínima é de cerca de 3 horas segundo o México Desconocido; entrada livre, guias à parte. No povoado há o Museo de la Máscara (MX$30), Museo del Dulce (MX$25) e o Cañón del Paraíso (2-3h). Atenção: é a única 'natureza' forte do perfil no Bajío, mas é um bate-volta curto e quente.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã cedo, para evitar sol e multidão; fins de semana lotam.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pe%C3%B1a_de_Bernal_(Quer%C3%A9taro).jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pe%C3%B1a_de_Bernal_(Quer%C3%A9taro).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Topo exige escalada técnica; condições de abertura mudam por risco de deslizamento",
+        "Levar água e calçado adequado"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (grátis): melhor trilha curta da região, combine com vinícola na rota.",
+      "Confirme o status da trilha com Proteção Civil/município antes de ir; não confie no horário aqui."
+    ],
+    "alertas": [
+      "Horário de acesso e status atual da trilha em OUTUBRO/2026 NÃO foram confirmados.",
+      "Altura citada varia: 433 m (PeakVisor/busca), 350 m (México Desconocido).",
+      "Custo da escalada guiada (Chichi'dho ~100 pesos/dia segundo resultado de busca) não confirmado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-qro-rota-do-vinho-e-queijo-ezequiel-montes-bernal-tequis",
+    "fontes": [
+      {
+        "url": "https://www.chilango.com/viajes/escapate/ruta-arte-queso-y-vino-en-queretaro/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan)",
+    "cidadeId": "queretaro",
+    "categoria": "passeio",
+    "tags": [
+      "vinicola",
+      "queijo",
+      "degustacao",
+      "passeio-de-dia"
+    ],
+    "coords": {
+      "lat": 20.697292,
+      "lng": -99.8776372
+    },
+    "descricaoCurta": "Vinícolas (ex.: Freixenet Finca Sala Vivé) e queijarias entre Ezequiel Montes e Tequisquiapan; visitas a partir de ~MX$100 ou tour guiado de ~MX$1.050+.",
+    "descricaoLonga": "A rota concentra vinícolas como Freixenet Finca Sala Vivé (cavas a 25 m, bondinho no vinhedo), Hacienda de Atongo, Puerta de Lobo e De Cote. Preços de 2018 (Chilango): visitas de MX$100 a 900; horário da Freixenet: dom-sex 8:00-17:30, sáb 11:00-17:30. Resultados de busca recentes citam Freixenet: visita clássica MX$110, degustação de 3 vinhos MX$310, bondinho MX$240; tours com transporte desde MX$1.050 por pessoa (Tequisquiapan) e MX$1.650 (Ezequiel Montes, com almoço). Fins de semana têm degustações mais frequentes. Para um casal econômico, o melhor é fazer por conta própria combinando com Bernal, caso aluguem carro de 1 dia.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "17:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:30"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:30 | 11:00–17:30",
+    "diasFechados": [],
+    "melhorHorario": "Fim de semana (mais atividades); dia inteiro combinando Bernal.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 110,
+      "max": 1650,
+      "por": "pessoa",
+      "inclui": "Visita simples a degustação/tour completo com almoço (faixa ampla)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.chilango.com/viajes/escapate/ruta-arte-queso-y-vino-en-queretaro/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: 1 vinícola (ex.: Freixenet) + queijaria + Bernal num dia.",
+      "Corte se apertar: tour guiado com almoço (MX$1.650)."
+    ],
+    "alertas": [
+      "Preços e horários da Freixenet são de matéria de 2018 e de resultados de busca; confirme com a vinícola.",
+      "Dias de funcionamento por vinícola variam; reservar."
+    ],
+    "passeio": {
+      "pontoPartida": "Querétaro (cerca de 1h) ou Bernal; coordenada = Finca Sala Vivé Freixenet (OSM)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

@@ -361,12 +361,26 @@
     "id": "merida",
     "fontes": [
       {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+      },
+      {
+        "url": "https://yucatantoday.com/en/a-week-in-merida-the-magic-never-ends"
+      },
+      {
+        "url": "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+      },
+      {
         "url": "https://www.openstreetmap.org/node/269908858"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Merida",
     "regiaoId": "yucatan",
     "coords": {
@@ -377,7 +391,52 @@
     "aeroportos": [
       "MID"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Centro Histórico (Calles 56–66 / 57–65, perto da Plaza Grande e do Parque de Santa Lucía)",
+        "perfil": "Base ideal para casal econômico: tudo a pé (eventos gratuitos, cantinas, mercados, Casa de Montejo); hostels e pousadas em casarões coloniais; muito vida de rua à noite.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 140,
+          "max": 1000
+        },
+        "observacao": "Dados antigos de Wikivoyage (2015–2022): dormitório MXN 140–200 (Hostal Zócalo, 2022) e ~300 (Che Nomadas, 2022); hotéis como Los Aluxes a partir de 630 (2015), Piedra de Agua 850+, Marionetas ~1.000 (abr/2022), Peregrino ~1.000. Hospedajes de MXN 100–250 listados no Wikivoyage (jan/2022) são hotéis de 'estadia de 3 horas' — não servem para dormir. Preços de out/2026 NÃO verificados — consulte as plataformas.",
+        "seguranca": "Mérida é considerada relativamente segura; Wikivoyage alerta para batedores de carteira e indica a Policía Turística (+52 999 942 0060), com cabines no Parque Hidalgo e no Parque de Santa Lucía (08:00–20:00).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+          }
+        ]
+      },
+      {
+        "nome": "Santiago / San Sebastián / García Ginerés (residencial, a oeste do Centro)",
+        "perfil": "Bairros locais, mais baratos, com Mercado de Santiago, Parque de Santiago (Remembranzas às terças) e bom acesso ao Centro a pé/Uber; menos opções noturnas.",
+        "observacao": "Sem preço verificado em fonte aberta (Aventura Hotel, no Wikivoyage, é citado como hotel econômico 'perto do Parque de Santiago', sem preço). Faixa não estimada.",
+        "seguranca": "Sem fonte por bairro; vale a regra geral do Wikivoyage (cuidado com batedores de carteira) e Uber à noite.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+          }
+        ]
+      },
+      {
+        "nome": "Paseo de Montejo / zona norte (Itzimná, hoteis de rede, Altabrisa)",
+        "perfil": "Bairro 'chique': mansões, bares do Paseo, hotéis de rede (Holiday Inn, Hyatt, Fiesta Americana), mais calmo e mais caro; faz sentido só se o orçamento permitir ou se quiser piscina.",
+        "observacao": "Wikivoyage informa hotéis de rede em USD (2015–2016): Holiday Inn a partir de US$75, Hyatt a partir de US$84, Rosas y Xocolate a partir de US$245 — sem conversão por falta de fonte de câmbio. Para economizar, prefira o Centro.",
+        "seguranca": "Considerado área de hotelaria e residencial; sem fonte específica; Policía Turística presente na avenida (Wikivoyage).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "No Centro de Mérida (Calles 56–66 e 57–65) vai-se a pé; ônibus Va y Ven custam MXN 12 por viagem (IE-TRAM 14), exigem cartão recarregável de MXN 25 (não aceitam dinheiro; Wikivoyage); ônibus particulares de bairro ~MXN 8; Uber, Didi e Cabify cobrem a cidade (Uber é mais fácil em dinheiro; Didi esconde a forma de pagamento). Táxis geralmente sem taxímetro: combine o preço antes. Aeroporto: ônibus 79 Aviação ~MXN 8 até a Calle 69/70 (info de 2022). Em dia útil, o módulo de turismo no Palacio Municipal tem tours gratuitos às 09:30 e 18:30 (dados de 2015). Bate-voltas: Uxmal/Puuc (85 km), Celestún (90 km, ônibus Oriente ou combi a cada hora), Progreso (ônibus Autoprogreso 28 por trecho), Izamal (ônibus Oriente), Cuzamá/Homún (~1 h); Valladolid, Chichén e Ek Balam (120–170 km) rendem mais com 1–2 noites em Valladolid (colectivo Valladolid–Chichén MXN 40–50, Valladolid–Ek Balam MXN 70). Río Lagartos/Las Coloradas ficam a 230 km (3h30) — durma em Valladolid ou Río Lagartos. Carro alugado compensa para Uxmal/Puuc, Celestún, Izamal e Río Lagartos (ver itens de aluguel). Pedágio Mérida–Valladolid MXN 248 (carro, abr/2026). Estações do Tren Maya: Mérida-Teya, Maxcanú, Izamal, Valladolid, Chichén Itzá (sem tarifas verificadas).",
     "fatoresDeslocamento": {
       "a-pe": {
         "kmh": 4.8,
@@ -398,7 +457,14 @@
     },
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "Não achei fontes por bairro. O Wikivoyage descreve Mérida como relativamente segura, com risco principal de batedores de carteira; a Policía Turística (+52 999 942 0060) atua no Centro e no Paseo de Montejo, com cabines no Parque Hidalgo e no Parque de Santa Lucía (08:00–20:00). Em mercados e eventos lotados, guarde celular e carteira. À noite, volte de Uber/Didi/Cabify em vez de andar até a periferia. Fora de Mérida, em Chichén/Ek Balam há assédio de vendedores (ver golpes).",
+    "pegaTuristaAEvitar": [
+      "Táxis sem taxímetro: combine o preço antes; taxímetro 'noche' ligado de dia (Wikivoyage).",
+      "Chichén Itzá (moto/carro): não estacione no cruzamento principal onde pessoas 'orientam' o estacionamento — siga até o Centro de Visitantes (Wikivoyage).",
+      "Ek Balam: vendedores de beira de estrada pressionam para você pagar por 'cuidar do carro' — pode recusar (Wikivoyage).",
+      "Tours de ônibus/turibus e calesas a preços de turista (Turibus MXN 120 em 2016; calesa ~MXN 350 por 45 min, dados antigos).",
+      "Hospedajes de MXN 100–250 no Centro: o Wikivoyage os lista como hotéis por 3 horas — não são para dormir."
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },
@@ -1343,12 +1409,44 @@
     "id": "guanajuato",
     "fontes": [
       {
+        "url": "https://tabiji.ai/scams/guanajuato/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      },
+      {
+        "url": "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp"
+      },
+      {
+        "url": "https://www.hostelworld.com/hostels/Guanajuato"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      },
+      {
+        "url": "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security"
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Guanajuato/San-Miguel-de-Allende"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guanajuato,_Guanajuato"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guadalajara"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/2340909"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Guanajuato",
     "regiaoId": "bajio",
     "coords": {
@@ -1359,7 +1457,80 @@
     "aeroportos": [
       "BJX"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Guanajuato - Centro Histórico (Jardín de la Unión / Plaza de la Paz / Av. Juárez)",
+        "perfil": "Tudo a pé: callejoneada, Teatro Juárez, funicular, bares e restaurantes; é onde ficam os bares e baladas segundo o Wikivoyage.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 190,
+          "max": 900
+        },
+        "observacao": "ESTIMADO: Kayak lista hotéis econômicos a partir de ~US$25-46 por noite e Hostelworld dorms de R$57-135 (BRL); converti a ~18 MXN/USD e ~3,3 MXN/BRL, câmbios não verificados. O Kayak mostra outubro (Cervantino) como mês mais caro (média US$229) e dezembro como o mais barato (US$45); Semana Santa e Cervantino dobram as diárias (Wikivoyage). Reserve hotéis com acesso plano na Av. Juárez se levar mala pesada (porteiros informais cobram caro).",
+        "seguranca": "Centro histórico descrito como um dos destinos coloniais mais seguros do México; riscos principais são golpes financeiros (tabiji). Polícia Turística: +52 473 732 2121 (tabiji).",
+        "fontes": [
+          {
+            "url": "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp"
+          },
+          {
+            "url": "https://www.hostelworld.com/hostels/Guanajuato"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+          },
+          {
+            "url": "https://tabiji.ai/scams/guanajuato/"
+          }
+        ]
+      },
+      {
+        "nome": "Guanajuato - Região da rodoviária / sul do centro",
+        "perfil": "Opção mais barata para dormir; o Wikivoyage cita três áreas econômicas: centro histórico, sul do centro e arredores da rodoviária.",
+        "observacao": "Sem preço verificado. Rodoviária fica ~7 km do centro (ônibus urbano MX$7). Só vale se a economia for relevante: perde-se a vida noturna a pé.",
+        "seguranca": "Não há dado específico por bairro nas fontes; use Uber à noite.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+          }
+        ]
+      },
+      {
+        "nome": "San Miguel de Allende - Centro (para bate-volta, não para dormir)",
+        "perfil": "Cidade com preços definidos pelo mercado estrangeiro; ruas fora do centro histórico são bem mais baratas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 500,
+          "max": 1000
+        },
+        "observacao": "ESTIMADO/DEFASADO: Wikivoyage cita dorms abaixo de MX$500 e duplos de MX$500-1.000; hotéis de luxo acima de MX$1.000. Valores recentes provavelmente maiores. Guanajuato fica 30-40% mais barata (busca).",
+        "seguranca": "Não há dado de segurança por bairro nas fontes abertas.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+          },
+          {
+            "url": "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+          }
+        ]
+      },
+      {
+        "nome": "Guadalajara - Colonia Americana / Av. Chapultepec",
+        "perfil": "Melhor base para vida noturna e cafés; Zona Rosa e Minerva são outros polos. Evite dormir perto da Central Vieja (rodoviária antiga).",
+        "observacao": "Sem preço verificado de hospedagem em Guadalajara nesta pesquisa. A coordenada do item de vida noturna é a Av. Chapultepec no trecho da Colonia Americana (OSM).",
+        "seguranca": "Wikivoyage: área da Central Vieja é perigosa; Plaza de los Mariachis fica barra pesada depois de escurecer. Dado por quarteirão na Americana não foi confirmado.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Guanajuato se faz a pé no centro (vielas, escadarias e túneis para carros); ônibus urbanos custam ~MX$7 (Wikivoyage) e a rodoviária fica ~7 km a sudoeste do centro. Entre cidades: ônibus Primera Plus/ETN (Guanajuato-SMA ~1h20 com saídas de hora em hora; Guanajuato-Querétaro direto ETN 2h30, 2/dia; Querétaro-Guadalajara ~5h de hora em hora). Para Dolores Hidalgo, Atotonilco, Bernal e Tequila use ônibus local, Uber ou tour de 1 dia. Alugar carro só compensa por 1 dia (Bernal + vinícolas, ou Tequila).",
     "fatoresDeslocamento": {
       "a-pe": {
         "kmh": 3.8,
@@ -1380,7 +1551,15 @@
     },
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "Guanajuato centro: considerado um dos destinos coloniais mais seguros (guia tabiji), principal risco são golpes. Guadalajara: evitar entorno da Central Vieja (rodoviária antiga) e a Plaza de los Mariachis à noite (Wikivoyage); usar Uber. Conselhos gerais do FCDO britânico para o México: sacar dinheiro de dia em lojas/shoppings, usar táxis 'sitio' ou apps, atenção a sequestro relâmpago, viajar de dia e por rodovias de pedágio. IMPORTANTE: não consegui abrir o aviso de viagem do Departamento de Estado dos EUA (403) nem a seção regional do FCDO; os níveis de alerta de Guanajuato e Jalisco NÃO foram confirmados aqui - conferir antes de comprar passagem.",
+    "pegaTuristaAEvitar": [
+      "Restaurantes na própria praça do Jardín de la Unión (cardápio em inglês 2-3x, 18% de gorjeta embutida, taxa de cartão, mariachi surpresa) - comer 2-3 quadras fora.",
+      "Estudantina 'privada' vendida na rua por US$150+ (a callejoneada normal custa MX$150-250).",
+      "Tour combinado de hotel (Dolores + Atotonilco + SMA) a US$150-200 com paradas de comissão - dá para fazer de Uber/ônibus.",
+      "Revendedores de 'skip-the-line' do Museo de las Momias por MX$500-800 (ingresso oficial ~MX$106-111).",
+      "Rooftops de luxo em SMA (Luna, Quince, Zumo) - drinks a MX$280-320; opções baratas existem (La Azotea ~MX$150).",
+      "Trem Jose Cuervo Express (MX$3.250+) para quem só quer degustar tequila - ônibus + tour oficial custa ~1/4."
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },

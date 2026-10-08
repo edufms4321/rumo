@@ -1,0 +1,3316 @@
+{
+  "base": "guanajuato",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Guanajuato se faz a pé no centro (vielas, escadarias e túneis para carros); ônibus urbanos custam ~MX$7 (Wikivoyage) e a rodoviária fica ~7 km a sudoeste do centro. Entre cidades: ônibus Primera Plus/ETN (Guanajuato-SMA ~1h20 com saídas de hora em hora; Guanajuato-Querétaro direto ETN 2h30, 2/dia; Querétaro-Guadalajara ~5h de hora em hora). Para Dolores Hidalgo, Atotonilco, Bernal e Tequila use ônibus local, Uber ou tour de 1 dia. Alugar carro só compensa por 1 dia (Bernal + vinícolas, ou Tequila).",
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "noitesPorCidade": {
+      "guanajuato": "2-3 (ideal 3 com bate-volta a Dolores Hidalgo + SMA/Atotonilco)",
+      "san-miguel-de-allende": "0-1 (cara; melhor bate-volta)",
+      "queretaro": "1 (base para Bernal + vinícolas)",
+      "guadalajara": "2-3 (Tonalá em quinta/domingo, Tlaquepaque, Chapultepec)",
+      "tequila": "0 (bate-volta de Guadalajara)"
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Guanajuato - Centro Histórico (Jardín de la Unión / Plaza de la Paz / Av. Juárez)",
+        "cidade": "guanajuato",
+        "perfil": "Tudo a pé: callejoneada, Teatro Juárez, funicular, bares e restaurantes; é onde ficam os bares e baladas segundo o Wikivoyage.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 190,
+          "max": 900
+        },
+        "observacao": "ESTIMADO: Kayak lista hotéis econômicos a partir de ~US$25-46 por noite e Hostelworld dorms de R$57-135 (BRL); converti a ~18 MXN/USD e ~3,3 MXN/BRL, câmbios não verificados. O Kayak mostra outubro (Cervantino) como mês mais caro (média US$229) e dezembro como o mais barato (US$45); Semana Santa e Cervantino dobram as diárias (Wikivoyage). Reserve hotéis com acesso plano na Av. Juárez se levar mala pesada (porteiros informais cobram caro).",
+        "seguranca": "Centro histórico descrito como um dos destinos coloniais mais seguros do México; riscos principais são golpes financeiros (tabiji). Polícia Turística: +52 473 732 2121 (tabiji).",
+        "fontes": [
+          "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp",
+          "https://www.hostelworld.com/hostels/Guanajuato",
+          "https://en.wikivoyage.org/wiki/Guanajuato",
+          "https://tabiji.ai/scams/guanajuato/"
+        ]
+      },
+      {
+        "nome": "Guanajuato - Região da rodoviária / sul do centro",
+        "cidade": "guanajuato",
+        "perfil": "Opção mais barata para dormir; o Wikivoyage cita três áreas econômicas: centro histórico, sul do centro e arredores da rodoviária.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem preço verificado. Rodoviária fica ~7 km do centro (ônibus urbano MX$7). Só vale se a economia for relevante: perde-se a vida noturna a pé.",
+        "seguranca": "Não há dado específico por bairro nas fontes; use Uber à noite.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      {
+        "nome": "San Miguel de Allende - Centro (para bate-volta, não para dormir)",
+        "cidade": "san-miguel-de-allende",
+        "perfil": "Cidade com preços definidos pelo mercado estrangeiro; ruas fora do centro histórico são bem mais baratas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 500,
+          "max": 1000
+        },
+        "observacao": "ESTIMADO/DEFASADO: Wikivoyage cita dorms abaixo de MX$500 e duplos de MX$500-1.000; hotéis de luxo acima de MX$1.000. Valores recentes provavelmente maiores. Guanajuato fica 30-40% mais barata (busca).",
+        "seguranca": "Não há dado de segurança por bairro nas fontes abertas.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende",
+          "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+        ]
+      },
+      {
+        "nome": "Guadalajara - Colonia Americana / Av. Chapultepec",
+        "cidade": "guadalajara",
+        "perfil": "Melhor base para vida noturna e cafés; Zona Rosa e Minerva são outros polos. Evite dormir perto da Central Vieja (rodoviária antiga).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem preço verificado de hospedagem em Guadalajara nesta pesquisa. A coordenada do item de vida noturna é a Av. Chapultepec no trecho da Colonia Americana (OSM).",
+        "seguranca": "Wikivoyage: área da Central Vieja é perigosa; Plaza de los Mariachis fica barra pesada depois de escurecer. Dado por quarteirão na Americana não foi confirmado.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Guanajuato centro: considerado um dos destinos coloniais mais seguros (guia tabiji), principal risco são golpes. Guadalajara: evitar entorno da Central Vieja (rodoviária antiga) e a Plaza de los Mariachis à noite (Wikivoyage); usar Uber. Conselhos gerais do FCDO britânico para o México: sacar dinheiro de dia em lojas/shoppings, usar táxis 'sitio' ou apps, atenção a sequestro relâmpago, viajar de dia e por rodovias de pedágio. IMPORTANTE: não consegui abrir o aviso de viagem do Departamento de Estado dos EUA (403) nem a seção regional do FCDO; os níveis de alerta de Guanajuato e Jalisco NÃO foram confirmados aqui - conferir antes de comprar passagem.",
+    "pegaTuristaAEvitar": [
+      "Restaurantes na própria praça do Jardín de la Unión (cardápio em inglês 2-3x, 18% de gorjeta embutida, taxa de cartão, mariachi surpresa) - comer 2-3 quadras fora.",
+      "Estudantina 'privada' vendida na rua por US$150+ (a callejoneada normal custa MX$150-250).",
+      "Tour combinado de hotel (Dolores + Atotonilco + SMA) a US$150-200 com paradas de comissão - dá para fazer de Uber/ônibus.",
+      "Revendedores de 'skip-the-line' do Museo de las Momias por MX$500-800 (ingresso oficial ~MX$106-111).",
+      "Rooftops de luxo em SMA (Luna, Quince, Zumo) - drinks a MX$280-320; opções baratas existem (La Azotea ~MX$150).",
+      "Trem Jose Cuervo Express (MX$3.250+) para quem só quer degustar tequila - ônibus + tour oficial custa ~1/4."
+    ],
+    "golpesComuns": [
+      "Táxi do aeroporto BJX: quiosques de rua cobram MX$1.200-2.000; o certo é Uber (MX$250-380) ou táxi oficial pré-pago (MX$450-600) (tabiji).",
+      "Carregadores informais exigem MX$300-500 por mala nos hotéis; gorjeta justa MX$50-100 (tabiji).",
+      "'Cerimônia exclusiva do Callejón del Beso' por MX$500 - o beco é público e grátis (tabiji).",
+      "Tour de tequila que é bebedeira: não achei fonte quantitativa; sinais de alerta (opinião do agente): pacotes 'open bar/cantaritos' sem visita guiada à produção.",
+      "Sequestro relâmpago/ATM: sacar dinheiro só de dia, em shopping/loja (FCDO)."
+    ],
+    "veredito": {
+      "resumo": "A região NÃO combina com o foco principal do casal (praia/natureza + vida noturna/compras) como destino-âncora. Não há praia em nenhum ponto do circuito; 'natureza' resume-se a Peña de Bernal (caminhada de 3h; status do topo incerto), El Charco del Ingenio, termas de Atotonilco e paisagens de agave em Tequila. Vida noturna e compras fortes só existem em Guadalajara (Chapultepec/Americana, Tonalá e Tlaquepaque); Guanajuato tem noite pequena e charmosa (callejoneada, terraços) e SMA tem rooftops caros.",
+      "servePara": [
+        "Quem quer cultura, história, arquitetura colonial, comida regional e música de rua a custo baixo/médio",
+        "Quem tem 1-2 dias de escala e quer um Pueblo Mágico + Guadalajara/Tequila antes de ir à praia",
+        "Quem busca compras de artesanato (Tonalá/Tlaquepaque) e noite em Guadalajara"
+      ],
+      "naoServePara": [
+        "Quem quer praia, mergulho ou muito esporte de natureza",
+        "Quem quer vida noturna grande e barata todos os dias (só Guadalajara)",
+        "Quem não suporta cidades coloniais caras (SMA) nem filas em época de festival"
+      ],
+      "recomendacaoEstrategica": "Se entrar no roteiro, use como parada curta combinada: 2-3 noites em Guanajuato (callejoneada, Pípila, Beijo, Alhóndiga/Teatro se houver orçamento) + Dolores/SMA em bate-volta + 2-3 noites em Guadalajara (Tonalá quinta/domingo, Tlaquepaque, Chapultepec) + Tequila de ônibus. Evite outubro (Cervantino), setembro (Independência) e Semana Santa (diárias dobram, segundo as fontes). Melhor período: novembro a abril (seco; menos de 20 mm de chuva/mês em Guanajuato), mantendo a ressalva de que outubro e dezembro têm eventos próprios (Dia dos Mortos, trem especial)."
+    },
+    "epocas": {
+      "chuva": "Junho a setembro (julho é o mais chuvoso em Guanajuato com ~188 mm; em Guadalajara ~273 mm em julho e tempestades de tarde até setembro); novembro a abril é seco (<20 mm por mês em Guanajuato).",
+      "festivalCervantino": "3 a 18 de outubro de 2026 (54ª edição; circuito ampliado 26/set a 28/out). Em 2026 já está em andamento (hoje 08/10). Datas de 2027 não encontradas, historicamente em outubro.",
+      "independencia": "15-16 de setembro (Grito); eventos em Dolores Hidalgo de 4 a 20 de setembro (Wikivoyage). Em 2026 já passou. Dentro da estação das chuvas.",
+      "outros": "Semana Santa (março/abril): diárias dobram (Wikivoyage); Hay Festival de Querétaro em setembro (Wikivoyage); Dia dos Mortos: trem Jose Cuervo 'Vagão das Ânimas' em 24/10, 31/10 e 07/11/2026; Equinócio de março em Bernal (15-25 mil visitantes esperados em 2026)."
+    },
+    "transporte": {
+      "bjx": "Aeroporto del Bajío (BJX) em Silao, ~30-48 km de Guanajuato. Uber MX$250-380; táxi oficial MX$450-600; evitar quiosques de rua (MX$1.200-2.000). Voos diretos a vários destinos dos EUA e Cidade do México.",
+      "gdl": "Aeroporto de Guadalajara 18 km ao sul do centro; táxi com tabela fixa; ônibus e metrô urbano ~MX$9,50 (dado possivelmente defasado).",
+      "onibus": "Guanajuato-SMA ~1h20 (Primera Plus hora em hora; Rome2rio mostra R$50-70, em reais); Guanajuato-Querétaro direto ETN 2h30; Querétaro-Guadalajara ~5h (Primera Plus de hora em hora; R$240-340); Guanajuato-Guadalajara Primera Plus ~MX$750 (nov/2024); Guadalajara-Tequila Tequila Plus MX$140 ida / 260 ida e volta.",
+      "alugarCarro": "Não compensa para o circuito inteiro; ver item de aluguel."
+    },
+    "vidaNoturnaECompras": "Guanajuato: callejoneada MX$100-250 + terraços no Jardín de la Unión/Plaza San Fernando (pequena, cedo). SMA: rooftops MX$150-320 por drink, Mama Mia/El Grito (Wikivoyage, defasado). Querétaro: sem dado confirmado de bares/preços; destaca-se o jantar no centro. Guadalajara: Chapultepec/Americana (cover MX$50-200, drinks MX$120-250, estimado), mercados Tonalá (quinta/domingo) e Tlaquepaque. Compras de lembrança: Mercado Hidalgo (Guanajuato), cerâmica de Dolores Hidalgo, Fábrica La Aurora (SMA, caro).",
+    "fontes": [
+      "https://tabiji.ai/scams/guanajuato/",
+      "https://en.wikivoyage.org/wiki/Guanajuato",
+      "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp",
+      "https://www.hostelworld.com/hostels/Guanajuato",
+      "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende",
+      "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/",
+      "https://en.wikivoyage.org/wiki/Guadalajara",
+      "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
+      "https://www.rome2rio.com/s/Guanajuato/San-Miguel-de-Allende",
+      "https://en.wikipedia.org/wiki/Guanajuato,_Guanajuato",
+      "https://en.wikipedia.org/wiki/Guadalajara"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Callejón del Beso",
+      "categoria": "atracao",
+      "cidade": "guanajuato",
+      "tags": [
+        "gratis",
+        "romantico",
+        "foto",
+        "centro-historico",
+        "lenda"
+      ],
+      "coords": {
+        "lat": 21.01638889,
+        "lng": -101.25638889
+      },
+      "descricaoCurta": "Viela de ~68 cm de largura onde, pela lenda, dois amantes se falavam de sacada a sacada; gratuita e a poucos minutos do Jardín de la Unión.",
+      "descricaoLonga": "Uma das vielas mais fotografadas do México, no centro histórico de Guanajuato. A lenda (Carmen e Luis, pai autoritário) é contada em todas as callejoneadas, que costumam terminar aqui. Acesso é via pública e gratuito; a tradição manda que o casal se beije no terceiro degrau para ter sete anos de felicidade. É uma parada de 15 a 20 minutos, não um passeio em si: vale pelo conjunto com a callejoneada à noite.",
+      "duracao": {
+        "min": 10,
+        "tipica": 20,
+        "max": 40
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Início da manhã ou à noite (menos fila para a foto); a callejoneada costuma passar por volta das 20h-22h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso gratuito (via pública)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tabiji.ai/scams/guanajuato/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Fila para a foto no degrau em horários de pico; vielas escorregadias com chuva"
+      ],
+      "pontoPartida": "A pé desde o Jardín de la Unión / Plaza de los Ángeles (centro histórico)",
+      "dicasAgente": [
+        "VALE CADA PESO (custa 0): combine com a callejoneada ao final do passeio.",
+        "Ignore cerimônias exclusivas do Beijo vendidas na rua por ~MX$500: o beco é público e gratuito (alerta do guia tabiji)."
+      ],
+      "alertas": [
+        "Largura citada varia entre 68 e 69 cm conforme a fonte.",
+        "Existe outro Callejón del Beso homônimo em San Miguel de Allende no OpenStreetMap: não confundir; a coordenada aqui vem do Wikidata (Q114710915).",
+        "Horário de funcionamento não consta nas fontes (via pública)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Callej%C3%B3n_del_Beso,_Guanajuato_(32380256143).jpg?width=1280",
+        "credito": "Comisión Mexicana de Filmaciones from México D. F., México / Wikimedia Commons",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Callej%C3%B3n_del_Beso,_Guanajuato_(32380256143).jpg"
+      },
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/la-leyenda-del-callejon-del-beso-en-la-vida-de-los-guanajuatenses-guanajuato.html",
+        "https://tabiji.ai/scams/guanajuato/",
+        "https://www.wikidata.org/wiki/Q114710915"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo de las Momias de Guanajuato",
+      "categoria": "museu",
+      "cidade": "guanajuato",
+      "tags": [
+        "macabro",
+        "icone",
+        "museu",
+        "cemiterio",
+        "controverso"
+      ],
+      "coords": {
+        "lat": 21.0201901,
+        "lng": -101.2665047
+      },
+      "descricaoCurta": "Mais de cem corpos mumificados naturalmente no cemitério de Santa Paula; ingresso ~MX$106-111. Forte e perturbador para muita gente.",
+      "descricaoLonga": "Museu junto ao Panteón Municipal onde ficam expostos corpos exumados desde 1865, quando famílias deixaram de pagar a taxa de perpetuidade; o clima seco e o material poroso do cemitério mumificaram os corpos naturalmente. Há placas com o ano da exumação e, quando existe, o nome. É o cartão-postal macabro de Guanajuato e costuma ter fila. Aviso honesto: o conteúdo é explícito (corpos reais) e incomoda muita gente; quem é sensível a morte ou viaja com crianças pequenas deve pesar antes. A imprensa também relata deterioração das múmias (insetos, umidade, luz) e risco de restrição ou fechamento futuro, então confirme antes de planejar a visita em torno dele.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "09:00–18:00",
+        "ter": "09:00–18:00",
+        "qua": "09:00–18:00",
+        "qui": "09:00–18:00",
+        "sex": "09:00–18:00",
+        "sab": "09:00–18:00",
+        "dom": "09:00–18:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Logo na abertura (09:00) para evitar fila e excursões.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 106,
+        "max": 111,
+        "por": "pessoa",
+        "inclui": "Geral 106; online 111; estudante/professor e crianças 6-12 anos 62; idoso 32; permissão de câmera/vídeo 38",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.telediario.mx/comunidad/museo-momias-guanajuato-2026-cuesta-ubicacion_2",
+          "https://www.excelsior.com.mx/cultura/historia-momias-guanajuato-costo-y-donde-puedes-verlas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Conteúdo explícito: pessoas sensíveis e crianças pequenas",
+        "Câmera/vídeo exigem permissão paga (MX$38)"
+      ],
+      "pontoPartida": "Explanada del Panteón Municipal s/n, Centro, Guanajuato (fora do núcleo a pé; usar ônibus local ou táxi/Uber)",
+      "dicasAgente": [
+        "Compre só na bilheteria do museu: revendedores na porta vendem skip-the-line falso por MX$500-800 (alerta tabiji).",
+        "CORTE SE APERTAR (ou se o estômago não ajudar): é a atração mais polarizadora da cidade; Callejón del Beso, callejoneada e Pípila são grátis ou baratos e agradam a todos."
+      ],
+      "alertas": [
+        "Preço divergente entre fontes: 97 (reportagem 2025), 106 (reportagens jul/2026), 108 (guia tabiji, inclui audioguia), 111 (online). Usei 106-111.",
+        "Horário: reportagens de 2025 citam seg-qui 09:00-18:00 e sex-dom 09:00-18:30; as de 2026 citam 09:00-18:00 todos os dias. Confirme no local."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FacadeMomiasGTO.JPG?width=1280",
+        "credito": "AlejandroLinaresGarcia / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:FacadeMomiasGTO.JPG"
+      },
+      "fontes": [
+        "https://www.telediario.mx/comunidad/museo-momias-guanajuato-2026-cuesta-ubicacion_2",
+        "https://www.nmas.com.mx/bajio/museo-momias-guanajuato-cual-es-horario-precio-2025-donde-esta-ubicado/",
+        "https://www.excelsior.com.mx/cultura/historia-momias-guanajuato-costo-y-donde-puedes-verlas",
+        "https://tabiji.ai/scams/guanajuato/",
+        "https://en.wikivoyage.org/wiki/Guanajuato"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Museo Regional de Guanajuato - Alhóndiga de Granaditas",
+      "categoria": "museu",
+      "cidade": "guanajuato",
+      "tags": [
+        "independencia",
+        "historia",
+        "INAH",
+        "museu",
+        "murais"
+      ],
+      "coords": {
+        "lat": 21.01888889,
+        "lng": -101.25805556
+      },
+      "descricaoCurta": "Antigo celeiro-fortaleza, palco de um episódio sangrento da Independência de 1810; hoje museu regional (INAH) e sede de shows do Cervantino.",
+      "descricaoLonga": "Prédio do final do século XVIII transformado em museu regional que conta a história de Guanajuato, com foco na Guerra de Independência (episódio do Pípila em 1810). Também é sede do Festival Cervantino. O ingresso do INAH tem preço diferenciado: estrangeiros pagam bem mais que mexicanos.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "10:00–18:00",
+        "qua": "10:00–18:00",
+        "qui": "10:00–18:00",
+        "sex": "10:00–18:00",
+        "sab": "10:00–18:00",
+        "dom": "10:00–15:00"
+      },
+      "diasFechados": [
+        "segunda"
+      ],
+      "melhorHorario": "Manhã; domingo fecha às 15:00.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 145,
+        "max": 145,
+        "por": "pessoa",
+        "inclui": "Estrangeiros 145; mexicanos 80; domingo grátis só para mexicanos; grátis para mexicanos estudantes/professores/idosos e menores de 13",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://lugares.inah.gob.mx/en/node/5024"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 473 732 1112",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Isenções valem para cidadãos mexicanos (levar documento)"
+      ],
+      "pontoPartida": "Mendizábal 6, esq. 28 de Septiembre, Centro, Guanajuato",
+      "dicasAgente": [
+        "CORTE SE APERTAR: com 145 pesos por pessoa (ingresso de estrangeiro) é a visita cultural mais cara do centro; a fachada e a explanada você vê de graça.",
+        "Em outubro a explanada serve de palco do Cervantino (shows ao ar livre/gratuitos)."
+      ],
+      "alertas": [
+        "Fechamento às segundas não está explícito na página do INAH; consta em matéria secundária (tusbuenasnoticias) e em resultado de busca.",
+        "Valores antigos de blogs (MX$52) estão defasados; vale o INAH."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alh%C3%B3ndiga_de_Granaditas_(Guanajuato).jpg?width=1280",
+        "credito": "Jessicatena / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Alh%C3%B3ndiga_de_Granaditas_(Guanajuato).jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/5024",
+        "https://es.wikipedia.org/wiki/Alh%C3%B3ndiga_de_Granaditas"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Teatro Juárez",
+      "categoria": "atracao",
+      "cidade": "guanajuato",
+      "tags": [
+        "arquitetura",
+        "teatro",
+        "centro-historico",
+        "cervantino"
+      ],
+      "coords": {
+        "lat": 21.0152966,
+        "lng": -101.2530182
+      },
+      "descricaoCurta": "Teatro de 1903 em frente ao Jardín de la Unión, fachada neoclássica e interior de inspiração mourisca e art nouveau; visita barata.",
+      "descricaoLonga": "Inaugurado em 1903, é o cartão-postal do Jardín de la Unión e um dos palcos centrais do Cervantino. Visitas turísticas em horários fixos, com ingresso modesto; durante o festival os espetáculos custam de MX$140 a 900 (valores de 2025, com descontos de 30-50% para grupos específicos). A escadaria do teatro é ponto de partida de callejoneadas e o funicular do Pípila sai logo atrás.",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 45
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "10:00–15:00 e 17:00–19:00",
+        "qua": "10:00–15:00 e 17:00–19:00",
+        "qui": "10:00–15:00 e 17:00–19:00",
+        "sex": "10:00–15:00 e 17:00–19:00",
+        "sab": "10:00–15:00 e 17:00–19:00",
+        "dom": "10:00–15:00 e 17:00–19:00"
+      },
+      "diasFechados": [
+        "segunda"
+      ],
+      "melhorHorario": "Após a abertura da manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 30,
+        "max": 60,
+        "por": "pessoa",
+        "inclui": "Geral 60; estudantes, professores e INAPAM 30 (com credencial) - dados de março/2025",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.telediario.mx/comunidad/teatro-juarez-en-guanajuato-cuanto-cuesta-la-entrada-2025"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Sopeña 10, frente ao Jardín de la Unión",
+      "dicasAgente": [
+        "Vale o preço: MX$60 pela joia arquitetônica no centro.",
+        "Durante eventos/ensaios o interior pode fechar para visitantes (não confirmado nas fontes): tenha plano B."
+      ],
+      "alertas": [
+        "Preço de 2025; um resultado de busca citava MX$35, divergente. Confirmar na bilheteria.",
+        "Fechamento às segundas deduzido do horário publicado (terça a domingo)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_Ju%C3%A1rez,_Guanajuato_00725.jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Teatro_Ju%C3%A1rez,_Guanajuato_00725.jpg"
+      },
+      "fontes": [
+        "https://www.telediario.mx/comunidad/teatro-juarez-en-guanajuato-cuanto-cuesta-la-entrada-2025",
+        "https://es.wikipedia.org/wiki/Teatro_Ju%C3%A1rez_(Guanajuato)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Funicular e Monumento ao Pípila",
+      "categoria": "mirante",
+      "cidade": "guanajuato",
+      "tags": [
+        "mirante",
+        "por-do-sol",
+        "foto",
+        "funicular"
+      ],
+      "coords": {
+        "lat": 21.0146412,
+        "lng": -101.2535244
+      },
+      "descricaoCurta": "Funicular de 102 m entre o Teatro Juárez e o monumento ao Pípila: a melhor vista panorâmica da cidade, ideal no pôr do sol.",
+      "descricaoLonga": "Funicular inaugurado em 2001, com subida de menos de 2 minutos, que leva ao Monumento ao Pípila e ao mirante com vista do casario colorido. Quem quer economizar pode subir a pé (não medi o tempo) e usar o funicular só em um sentido. No topo há terraço e comidinhas; relatos dizem que existe um mirante extra pago que pode ser dispensado.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "08:00–21:45",
+        "ter": "08:00–21:45",
+        "qua": "08:00–21:45",
+        "qui": "08:00–21:45",
+        "sex": "08:00–21:45",
+        "sab": "09:00–21:45",
+        "dom": "10:00–20:45"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol (maior fila, até ~40 min de espera segundo relatos).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 60,
+        "por": "pessoa",
+        "inclui": "Ida e volta (Wikivoyage: 25 só ida / 50 ida e volta; zonaturistica: 60 ida e volta)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato",
+          "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/1873/funicular-guanajuato.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Atrás do Teatro Juárez (Calle de la Constancia)",
+      "dicasAgente": [
+        "VALE CADA PESO (~MX$50-60) no fim da tarde; compre o bilhete antes de entrar na fila.",
+        "Economize: suba a pé e desça de funicular (ou o contrário) em vez de ida e volta."
+      ],
+      "alertas": [
+        "Preço varia por fonte (25/50/60; um site antigo diz 20). Faixa 50-60 ida e volta é estimada.",
+        "Fonte dos horários é agregador (zonaturistica), não o operador; confirme no local."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumento_al_P%C3%ADpila_en_Guanajuato,_Guanajuato_01.jpg?width=1280",
+        "credito": "Isaacvp / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Monumento_al_P%C3%ADpila_en_Guanajuato,_Guanajuato_01.jpg"
+      },
+      "fontes": [
+        "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/1873/funicular-guanajuato.html",
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://wanderlog.com/place/details/23721/funicular",
+        "https://www.ruelsa.com/gto/gto/gtofunicular.html"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Callejoneada (serenata estudantil pelas vielas)",
+      "categoria": "experiencia",
+      "cidade": "guanajuato",
+      "tags": [
+        "noite",
+        "musica",
+        "tradicao",
+        "estudantina",
+        "barato",
+        "vale-a-pena"
+      ],
+      "coords": {
+        "lat": 21.0157102,
+        "lng": -101.2532331
+      },
+      "descricaoCurta": "Passeio noturno a pé com estudantinas em trajes do século XVII, cantando e contando lendas; sai do Teatro Juárez/Templo San Diego e costuma terminar no Callejón del Beso.",
+      "descricaoLonga": "Tradição de Guanajuato: grupos de estudantes (estudantinas) em trajes antigos conduzem o grupo pelas vielas do centro, com música, piadas e lendas, geralmente com um copinho de vinho ou sangria. Dura 60 a 120 min. Saídas costumam ser às 19h, 20h e 21h. É a atividade noturna mais Guanajuato que existe, barata e sem ressaca.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "19:00–22:00",
+        "ter": "19:00–22:00",
+        "qua": "19:00–22:00",
+        "qui": "19:00–22:00",
+        "sex": "19:00–22:00",
+        "sab": "19:00–22:00",
+        "dom": "19:00–22:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída das 20h ou 21h (diariamente segundo o guia tabiji).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 100,
+        "max": 250,
+        "por": "pessoa",
+        "inclui": "Passeio de 60-90 min; geralmente inclui pequena dose de vinho/sangria. Guia tabiji 2026: 150-250; Wikivoyage (defasado): 100-150",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tabiji.ai/scams/guanajuato/",
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Escadaria do Teatro Juárez ou átrio do Templo de San Diego, no Jardín de la Unión",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício noturno de Guanajuato.",
+        "Compre na bilheteria/ponto oficial do Teatro Juárez; evite estudantina privada vendida na rua por valores como US$150+."
+      ],
+      "alertas": [
+        "Horário 19:00-22:00 resume as saídas citadas (19h, 20h, 21h); o horário exato varia por grupo e dia (não confirmado dia a dia).",
+        "Preço varia entre fontes; a faixa 100-250 cobre ambas. Durante o Cervantino pode lotar."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Callejoneada_en_Guanajuato,_Guanajuato_17.jpg?width=1280",
+        "credito": "Lameirasb / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Callejoneada_en_Guanajuato,_Guanajuato_17.jpg"
+      },
+      "fontes": [
+        "https://tabiji.ai/scams/guanajuato/",
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://commons.wikimedia.org/wiki/File:Callejoneada_en_Guanajuato,_Guanajuato_17.jpg"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Edificio Central da Universidade de Guanajuato",
+      "categoria": "atracao",
+      "cidade": "guanajuato",
+      "tags": [
+        "universidade",
+        "arquitetura",
+        "escadaria",
+        "gratis",
+        "cervantino"
+      ],
+      "coords": {
+        "lat": 21.017273,
+        "lng": -101.253098
+      },
+      "descricaoCurta": "Prédio histórico da UG (Lascuráin de Retana 5), célebre pela escadaria monumental; dá o clima estudantil da cidade e abriga eventos do Cervantino.",
+      "descricaoLonga": "O Edificio Central foi projetado por Vicente Urquiaga Rojas; a escadaria foi inaugurada em 16/02/1952 e o prédio em 20/08/1955. É o marco da vida universitária que explica as estudantinas e a agitação noturna dos jovens no centro. Detalhes de acesso interno e horários não aparecem nas fontes consultadas; durante o Cervantino há cinema ao ar livre e atividades na universidade.",
+      "duracao": {
+        "min": 15,
+        "tipica": 30,
+        "max": 45
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde, combinando com o Jardín de la Unión.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Visita externa; acesso interno e horário não confirmados",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Lascuráin de Retana 5, Centro, Guanajuato",
+      "dicasAgente": [
+        "Vale cada peso (custa 0 se for só ver a escadaria/fachada); não vale desvio longo."
+      ],
+      "alertas": [
+        "Horário e regras de visita ao interior NÃO foram confirmados; consulte ugto.mx.",
+        "Preço 0 = não cobrado até onde sei, não confirmação oficial."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio_Central_de_la_Universidad_de_Guanajuato,_Gto.,_Mex.jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Edificio_Central_de_la_Universidad_de_Guanajuato,_Gto.,_Mex.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Universidad_de_Guanajuato",
+        "https://www.excelsior.com.mx/cultura/festival-cervantino-2026-fechas-boletos-y-programa-oficial"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Vida noturna de Guanajuato (Jardín de la Unión e Plaza San Fernando)",
+      "categoria": "bar",
+      "cidade": "guanajuato",
+      "tags": [
+        "vida-noturna",
+        "bares",
+        "estudantil",
+        "mezcal",
+        "musica-ao-vivo"
+      ],
+      "coords": {
+        "lat": 21.0157102,
+        "lng": -101.2532331
+      },
+      "descricaoCurta": "Noite concentrada em volta do Jardín de la Unión e da Plaza San Fernando: terraços, música ao vivo e clima universitário; pequena e cedo comparada a Guadalajara.",
+      "descricaoLonga": "A maioria dos bares e baladas fica no centro histórico, ao redor do Jardín de la Unión e da Plaza San Fernando (Wikivoyage). Há bares com música ao vivo (ex.: Antik Café, aberto até ~02:00 nos fins de semana segundo o Wikivoyage, dado possivelmente defasado). Os preços do entorno imediato do Jardín são inflados (cardápio em inglês 2-3x, 18% de gorjeta embutida, taxas de cartão e mariachi), segundo o guia tabiji; coma 2-3 quadras fora. Degustação de mezcal: MX$200-300; enchiladas mineras MX$120-180 a preços normais. Como alternativa barata, a callejoneada vale como programa noturno.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 120,
+        "max": 300,
+        "por": "pessoa",
+        "inclui": "Faixas citadas: enchiladas mineras 120-180; flight de mezcal 200-300 (tabiji)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tabiji.ai/scams/guanajuato/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Jardín de la Unión, Centro",
+      "dicasAgente": [
+        "Vale cada peso: 1 terraço no fim da tarde no Jardín (peça só 1-2 drinks) + callejoneada.",
+        "Corte se apertar: jantar dentro da praça (preço inflado); vá a 2-3 quadras ou ao Mercado Hidalgo."
+      ],
+      "alertas": [
+        "A cena noturna de Guanajuato é pequena; quem quer balada séria precisa de Guadalajara.",
+        "Horários de bares não confirmados individualmente; o dado do Antik Café vem de guia colaborativo."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jard%C3%ADn_de_la_Uni%C3%B3n_2.jpg?width=1280",
+        "credito": "Lin Mei / Wikimedia Commons",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_Uni%C3%B3n_2.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://tabiji.ai/scams/guanajuato/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado Hidalgo (compras e comida barata)",
+      "categoria": "compras",
+      "cidade": "guanajuato",
+      "tags": [
+        "mercado",
+        "comida-barata",
+        "artesanato",
+        "economico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Mercado de dois andares na Av. Juárez: artesanato, souvenirs e comida regional barata (pratos principais MX$60-80, tamales a ~MX$8).",
+      "descricaoLonga": "Mercado tradicional com lojinhas de artesanato e feira de comida. O Wikivoyage lista pratos principais de MX$60-80 e tamales de ~MX$8 (preços de edição colaborativa, possivelmente defasados). Nas compras, a região é fraca para o perfil shopping: lembrancinhas e artesanato, sem lojas de marca no centro (redes como Soriana, La Comer e a Plaza Pozuelos ficam na cidade). O Mercado Embajadoras tem feira de domingo.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 60,
+        "max": 80,
+        "por": "pessoa",
+        "inclui": "Prato principal de mercado (Wikivoyage, valor possivelmente defasado)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Juárez, Centro",
+      "dicasAgente": [
+        "Vale cada peso: almoço econômico.",
+        "Corte se apertar: compras de lembrança aqui têm baixo valor; Tonalá/Tlaquepaque são muito melhores para artesanato."
+      ],
+      "alertas": [
+        "Horário não confirmado; coordenadas não encontradas em fonte aceita (0,0).",
+        "Preços de guia colaborativo, sem data confiável."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guanajuato"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Festival Internacional Cervantino",
+      "categoria": "experiencia",
+      "cidade": "guanajuato",
+      "tags": [
+        "festival",
+        "cultura",
+        "outubro",
+        "lotacao",
+        "preco-alto",
+        "evento"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Maior festival cultural da América Latina; em 2026 vai de 3 a 18 de outubro (circuito ampliado 26/set-28/out). Hotéis do centro lotam e disparam de preço.",
+      "descricaoLonga": "54ª edição em 2026: 212 funções, 2.746 artistas de 29 países, 17 sedes (Teatro Juárez, Alhóndiga etc.), França como país convidado. Parte da programação é gratuita (pasacalles, cinema ao ar livre, apresentações em praças). Ingressos pelo Ticketmaster e bilheterias oficiais. Impacto: em 2022 a cidade teve 100% de ocupação no segundo fim de semana, com gente dormindo em carros; o Kayak mostra outubro como o mês mais caro de Guanajuato (média US$229/noite contra US$45 em dezembro) e o Wikivoyage diz que as diárias podem dobrar no Cervantino e na Semana Santa. Hoje é 08/10/2026: o festival está em andamento e termina em 10 dias; para a viagem do casal só interessa uma próxima edição (datas de 2027 não encontradas, historicamente em outubro).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 140,
+        "max": 900,
+        "por": "pessoa",
+        "inclui": "Faixa de ingressos de eventos no Teatro Juárez (matéria de 2025; 2026 não publicado nas fontes). Há atividades gratuitas.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.telediario.mx/comunidad/teatro-juarez-en-guanajuato-cuanto-cuesta-la-entrada-2025"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 0,
+        "esgotaRapido": true,
+        "link": "https://guias.ticketmaster.com.mx/festival-cervantino-2026/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://festivalcervantino.gob.mx/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Várias sedes em Guanajuato (centro histórico)",
+      "dicasAgente": [
+        "Para o perfil econômico: EVITE as datas do festival, salvo se o foco forem os shows; as diárias disparam e as vagas somem.",
+        "Se for mesmo: reserve hospedagem com 3-6 meses de antecedência (recomendação do agente, não de fonte oficial) e aproveite a programação gratuita nas praças.",
+        "Alternativa: vá de novembro a abril (período seco, menos de 20 mm de chuva por mês) com preços normais."
+      ],
+      "alertas": [
+        "Datas de 2027 não foram encontradas.",
+        "Faixa de preço de ingressos é de 2025; 2026 não divulgado nas páginas abertas.",
+        "Antecedência recomendada é estimativa do agente."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Festival_Internacional_Cervantino,_2025_02.jpg?width=1280",
+        "credito": "TSolange / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Festival_Internacional_Cervantino,_2025_02.jpg"
+      },
+      "fontes": [
+        "https://www.unotv.com/cultura/festival-internacional-cervantino-2026-fechas-invitados-y-artistas-que-llegaran-a-guanajuato/",
+        "https://www.excelsior.com.mx/cultura/festival-cervantino-2026-fechas-boletos-y-programa-oficial",
+        "https://festivalcervantino.gob.mx/",
+        "https://www.es.kayak.com/Hoteles-en-Guanajuato.33380.hotel.ksp",
+        "https://www.telediario.mx/comunidad/guanajuato-rebasa-ocupacion-hotelera-por-cervantino",
+        "https://en.wikivoyage.org/wiki/Guanajuato"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Parroquia de San Miguel Arcángel",
+      "categoria": "atracao",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "icone",
+        "igreja",
+        "foto",
+        "centro-historico",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "A fachada neogótica rosada que domina o Jardín Principal e é a imagem de San Miguel de Allende.",
+      "descricaoLonga": "Principal cartão-postal da cidade, dominando a praça central com sua fachada de pedra rosada. Vale ser vista de dia e à noite (iluminada). A cidade em si é o atrativo: ruas de pedra, pátios, galerias e rooftops. Horários de missa/visita e eventual taxa não constam nas fontes consultadas.",
+      "duracao": {
+        "min": 10,
+        "tipica": 20,
+        "max": 40
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde e noite (iluminação); manhã cedo para menos gente.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Visita externa à praça; acesso interno não confirmado",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Jardín Principal, Centro, San Miguel de Allende",
+      "dicasAgente": [
+        "Vale cada peso (custa 0): é só ir ao Jardín Principal; ótimo para sentar e ver a vida local."
+      ],
+      "alertas": [
+        "Coordenada exata da igreja não encontrada em OSM/Wikipedia durante a pesquisa: deixada 0,0.",
+        "Horários e regras de visita interna não confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NightView_ParishSanMiguel2019.jpg?width=1280",
+        "credito": "Carlos Valenzuela / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:NightView_ParishSanMiguel2019.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende",
+        "https://commons.wikimedia.org/wiki/File:NightView_ParishSanMiguel2019.jpg"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Fábrica La Aurora",
+      "categoria": "compras",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "arte",
+        "galerias",
+        "design",
+        "gratis",
+        "ateliers"
+      ],
+      "coords": {
+        "lat": 20.9232753,
+        "lng": -100.7403738
+      },
+      "descricaoCurta": "Antiga fábrica têxtil (1902) convertida em centro de arte e design com ateliês, galerias, lojas e restaurantes; entrada gratuita.",
+      "descricaoLonga": "Complexo restaurado de uma fábrica têxtil de 1902, hoje com cerca de 40 a 75 espaços (ateliês de artistas, galerias de arte contemporânea, antiguidades, móveis de design, joias, têxteis e restaurantes). Dá para ver artistas trabalhando e há Art Walks periódicos. Entrada gratuita, mas o que se vende é de público de alto poder aquisitivo: serve para olhar, não para comprar barato.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "10:00–18:00",
+        "ter": "10:00–18:00",
+        "qua": "10:00–18:00",
+        "qui": "10:00–18:00",
+        "sex": "10:00–18:00",
+        "sab": "10:00–18:00",
+        "dom": "10:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde (ateliês abertos), depois café/rooftop.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita às instalações e galerias; consumo à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://foodandpleasure.com/fabrica-la-aurora-en-san-miguel-de-allende/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "415-152-1312",
+        "whatsapp": "",
+        "site": "fabricalaaurora.com",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calzada de la Aurora s/n, San Miguel de Allende (cerca de 15 min do centro)",
+      "dicasAgente": [
+        "VALE CADA PESO (custa 0) como passeio de uma tarde; compras só se houver orçamento grande."
+      ],
+      "alertas": [
+        "Preços das lojas são altos (clientela estrangeira)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jard%C3%ADn_F%C3%A1brica_Aurora_SMA.jpg?width=1280",
+        "credito": "Marcorodcab70 / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_F%C3%A1brica_Aurora_SMA.jpg"
+      },
+      "fontes": [
+        "https://foodandpleasure.com/fabrica-la-aurora-en-san-miguel-de-allende/",
+        "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/946/fabrica-la-aurora-san-miguel-de-allende.html"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Jardín Botánico El Charco del Ingenio",
+      "categoria": "natureza",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "natureza",
+        "trilha",
+        "cactos",
+        "jardim-botanico",
+        "passaros"
+      ],
+      "coords": {
+        "lat": 20.921027,
+        "lng": -100.7289988
+      },
+      "descricaoCurta": "Reserva natural de 67 ha com jardim botânico de cactos, mirantes, ruínas históricas e trilhas; ingresso MX$100 (MX$50 com credencial).",
+      "descricaoLonga": "Reserva ecológica ao norte do centro com coleção de cactos, represa, mirantes, santuário de aves, ruínas e área infantil. O melhor 'natureza' que San Miguel oferece ao perfil do casal - é um passeio leve, não equivale a trilhas de praia/montanha. Aberto todos os dias do ano. Há passeios de observação de aves em quartas alternadas (Wikivoyage) e um shuttle gratuito em alguns dias (zonaturistica, data da informação desconhecida).",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (mais fresco e mais aves).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 100,
+        "por": "pessoa",
+        "inclui": "Geral 100; estudantes, professores e idosos 50 (credencial nacional); menores de 10 grátis - site oficial (dez/2024)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "http://www.elcharco.org.mx"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 415 103 8090",
+        "whatsapp": "",
+        "site": "http://www.elcharco.org.mx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Terreno irregular; levar calçado fechado e água"
+      ],
+      "pontoPartida": "Cuesta de San José, San Miguel de Allende; shuttle gratuito (ter/qui/sáb/dom 9:30 da Calle Mesones, retorno 13:00 - data da info desconhecida)",
+      "dicasAgente": [
+        "VALE CADA PESO se você quer um respiro de natureza em SMA.",
+        "Corte se apertar: se já fará Peña de Bernal ou termas, é redundante."
+      ],
+      "alertas": [
+        "Preço de blogs antigos (MX$50) está defasado; o site oficial (dez/2024) diz 100 geral.",
+        "Shuttle gratuito: confirmar se ainda opera."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_desde_Jard%C3%ADn_Bot%C3%A1nico_en_El_Charco_del_Ingenio.jpg?width=1280",
+        "credito": "Nan.P.182 / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Vista_desde_Jard%C3%ADn_Bot%C3%A1nico_en_El_Charco_del_Ingenio.jpg"
+      },
+      "fontes": [
+        "http://www.elcharco.org.mx",
+        "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/175/jardin-botanico-el-charco-del-ingenio-san-miguel-de-allende.html",
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Rooftops de San Miguel de Allende (Luna, Quince, La Azotea e outros)",
+      "categoria": "bar",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "rooftop",
+        "vida-noturna",
+        "drinks",
+        "caro",
+        "vista"
+      ],
+      "coords": {
+        "lat": 20.909345,
+        "lng": -100.7448734
+      },
+      "descricaoCurta": "San Miguel é a cidade dos rooftops do México; drinks custam em geral MX$150-320 e vários exigem reserva.",
+      "descricaoLonga": "Guia de rooftops (preços de coquetel): Luna Rooftop (Rosewood) 295-320, reserva obrigatória; Zumo 295-320; Quince ~300; Trazo 1810 ~280; Casa Nostra 225; La Única ~210; Terraza La Vista ~250; Rooftop by Amatte ~240; La Azotea ~150 (só sem reserva, o mais barato). Vida noturna 'tradicional' além dos rooftops: Mama Mia (quatro ambientes em um) e El Grito (só fins de semana, com cover) segundo o Wikivoyage (dado possivelmente defasado). Para o casal econômico, 1 drink em La Azotea ou similar já resolve a vista; jantar nos rooftops é caro.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 320,
+        "por": "pessoa",
+        "inclui": "Preço de um coquetel (não inclui jantar)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "http://www.therooftopguide.com/rooftop-bars-in-san-miguel-de-allende.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Coordenada = hotel Rosewood (onde fica o Luna Rooftop); demais rooftops espalhados pelo centro",
+      "dicasAgente": [
+        "Vale cada peso: 1 drink ao pôr do sol em rooftop barato (La Azotea, ~MX$150).",
+        "Corte se apertar: Luna/Quince/Zumo têm preço de turista estrangeiro."
+      ],
+      "alertas": [
+        "Guia de rooftops não indica horários; reservas via OpenTable/WhatsApp/site conforme o local.",
+        "Preços do guia são aproximados; localização do Luna sobre o Rosewood vem de resultado de busca (The World's 50 Best), não da página aberta."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "http://www.therooftopguide.com/rooftop-bars-in-san-miguel-de-allende.html",
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aviso: San Miguel de Allende é a cidade mais cara e mais gringo-friendly da região",
+      "categoria": "experiencia",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "aviso",
+        "custo",
+        "expats",
+        "economia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Preços definidos pelo mercado estrangeiro: 30-40% acima de Guanajuato (exceto comida de rua). Para casal econômico, durma em Guanajuato e visite SMA em bate-volta.",
+      "descricaoLonga": "Uma análise de custo de vida de setembro/2026 resume: o custo de vida em San Miguel é definido pelo mercado estrangeiro, não o local; há cerca de 20-25 mil residentes estrangeiros, em geral americanos, e o aluguel de um quarto no centro equivale a 1,7x o salário médio local. Outro guia estima Guanajuato 30-40% mais barata, com a exceção de comida de rua. Valores de referência: ônibus urbano MX$10; táxi no centro MX$50-80; comida corrida US$6-8; jantar para dois de faixa média US$30-50; refeições de mercado MX$30-90 (Wikivoyage); dormitórios de hostel abaixo de MX$500 e quartos duplos de MX$500-1.000 no Wikivoyage (dados possivelmente defasados). Mercado de rua costuma poupar; fora do centro histórico os preços 'pertencem a outro país'.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Aviso informativo; sem preço de ingresso",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Estratégia: base em Guanajuato (ou Querétaro), SMA como bate-volta de dia (ônibus ~1h20).",
+        "Corte se apertar: jantares e hospedagem em SMA; fique com Aurora (grátis), Charco, termas e um drink em rooftop barato."
+      ],
+      "alertas": [
+        "Valores em USD vêm de reportagem do Rio Times; conversão para MXN não foi feita para evitar chute de câmbio.",
+        "Comparação 30-40% vem de resumo de busca de guia (não aberto na íntegra)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/",
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Gruta (termas e spa) - Atotonilco",
+      "categoria": "natureza",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "termas",
+        "agua-quente",
+        "relax",
+        "gruta",
+        "atotonilco"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Complexo termal com gruta subterrânea e piscinas de água quente perto de Atotonilco; ingresso ~MX$250-300, fecha seg e ter.",
+      "descricaoLonga": "Spa de águas termais a ~15 min de San Miguel, na saída do povoado de Atotonilco, com gruta artificial, temazcal subterrâneo, piscinas, restaurante e estacionamento. Aberto de quarta a domingo, das 7h às 17h (fecha seg e ter para manutenção, segundo o guia letstraveltomexico). Chegar às 7h evita lotação. Crianças não podem entrar na gruta pelo calor. Proibido entrar com comida/bebida (exceto água).",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "Fechado",
+        "qua": "07:00–17:00",
+        "qui": "07:00–17:00",
+        "sex": "07:00–17:00",
+        "sab": "07:00–17:00",
+        "dom": "07:00–17:00"
+      },
+      "diasFechados": [
+        "segunda",
+        "terça"
+      ],
+      "melhorHorario": "Abertura (07:00) em dia de semana.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 300,
+        "por": "pessoa",
+        "inclui": "Entrada; armário com depósito reembolsável de 50 (guia letstraveltomexico)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.letstraveltomexico.com/la-gruta-san-miguel-de-allende/",
+          "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido levar comida e bebidas (exceto água)",
+        "Crianças não entram na gruta"
+      ],
+      "pontoPartida": "Ônibus roxo de El Portón (perto do hotel Live Aqua, em SMA) com letreiro Atotonilco/El Santuario, ~MX$20, saídas de hora em hora; ou táxi ~MX$500",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor 'natureza + relax' barato da região; combine com o Santuário de Atotonilco (patrimônio UNESCO) a pé.",
+        "Leve maiô, toalha, dinheiro vivo e água."
+      ],
+      "alertas": [
+        "Preço 250 (letstravel) vs 300 (Uno TV, jul/2024): faixa 250-300.",
+        "Coordenada não encontrada em fonte aceita (0,0).",
+        "Ônibus e táxi: valores de guia, não confirmados hoje."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.letstraveltomexico.com/la-gruta-san-miguel-de-allende/",
+        "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Escondido Place (parque termal) - Atotonilco",
+      "categoria": "natureza",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "termas",
+        "agua-quente",
+        "relax",
+        "piscinas",
+        "atotonilco"
+      ],
+      "coords": {
+        "lat": 20.9924541,
+        "lng": -100.7919051
+      },
+      "descricaoCurta": "Parque de águas termais dentro da área do Santuário de Atotonilco; ingresso MX$300 (jul/2026), aberto todos os dias 8h-17h.",
+      "descricaoLonga": "Parque termal 'conceitual' com piscinas internas e externas, área infantil, spa Renacimiento, restaurante de comida mexicana e hotel. Fica no Km 10 da rodovia San Miguel de Allende - Dolores Hidalgo, a ~20 min (12,6 km) do centro de SMA. Abre os 365 dias do ano.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 300,
+        "por": "pessoa",
+        "inclui": "Entrada a partir de 100 cm de altura (adn40, jul/2026); fontes antigas citam 250 ou 190",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.adn40.mx/mexico/2026-07-22/el-parque-de-aguas-termales-a-20-minutos-de-san-miguel-de-allende-que-abre-los-365-dias-del-ano-esto-cuesta-la-entrada-en-julio-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carretera San Miguel de Allende - Dolores Hidalgo Km 10, Santuario de Atotonilco",
+      "dicasAgente": [
+        "Vale cada peso se só puder fazer UMA terma: aberto todos os dias (La Gruta fecha seg/ter).",
+        "Corte se apertar: escolha um dos dois, não os dois."
+      ],
+      "alertas": [
+        "Preço divergente: 190 (Wikivoyage), 250 (Uno TV 2024), 300 (adn40 jul/2026) - usei o mais recente."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.adn40.mx/mexico/2026-07-22/el-parque-de-aguas-termales-a-20-minutos-de-san-miguel-de-allende-que-abre-los-365-dias-del-ano-esto-cuesta-la-entrada-en-julio-2026/",
+        "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/",
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Santuário de Jesús Nazareno de Atotonilco",
+      "categoria": "atracao",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "unesco",
+        "igreja",
+        "afrescos",
+        "atotonilco"
+      ],
+      "coords": {
+        "lat": 21.00498889,
+        "lng": -100.79456389
+      },
+      "descricaoCurta": "Santuário barroco com afrescos interiores, chamado de Capela Sistina do México; Patrimônio Mundial, perto das termas.",
+      "descricaoLonga": "Santuário a ~12 km a noroeste de San Miguel de Allende, famoso pelos afrescos interiores (apelidado de 'Capela Sistina do México' no Wikivoyage). Fica junto às termas La Gruta e Escondido Place, formando um bom meio-dia combinado. Horário e eventual doação/ingresso não confirmados nas fontes.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Não confirmado",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Atotonilco, a ~12 km de San Miguel de Allende (ônibus roxo ~MX$20 segundo guia)",
+      "dicasAgente": [
+        "Vale cada peso se estiver nas termas: é caminhável a partir de La Gruta."
+      ],
+      "alertas": [
+        "Horário e ingresso não confirmados.",
+        "Cuidado: o OSM tem um 'Santuario del Niño de la Salud' em Atotonilco, San Luis Potosí, homônimo de localidade; a coordenada usada é da Wikipedia (Sanctuary of Atotonilco)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco,_San_Miguel_de_Allende,_Guanajuato,_M%C3%A9xico_05.jpg?width=1280",
+        "credito": "Manuel A. de Anda Gomez / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco,_San_Miguel_de_Allende,_Guanajuato,_M%C3%A9xico_05.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende",
+        "https://en.wikipedia.org/wiki/Sanctuary_of_Atotonilco"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Centro Histórico de Querétaro (Plaza de Armas e arredores)",
+      "categoria": "atracao",
+      "cidade": "queretaro",
+      "tags": [
+        "unesco",
+        "centro-historico",
+        "gratis",
+        "caminhar",
+        "gastronomia"
+      ],
+      "coords": {
+        "lat": 20.5930221,
+        "lng": -100.3896405
+      },
+      "descricaoCurta": "Zona de monumentos inscrita na UNESCO em 1996: praças coloniais, igrejas barrocas e vida noturna tranquila a pé.",
+      "descricaoLonga": "Centro compacto e caminhável com a Plaza de Armas, Plaza de la Constitución, Jardín Zenea e a Plaza de la Independencia, além de San Francisco, Catedral, Santa Rosa de Viterbo e a Casa de la Corregidora. Tem a Noche de Leyendas (teatro interativo) e banda municipal aos domingos. Barato comer perto da Calle Corregidora (gordita queretana MX$30-45). Cena noturna: não encontrei fontes detalhando bares/baladas e preços de Querétaro; o centro é mais jantar e passeio do que balada.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde e noite (praças animadas).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio a pé; museus e monumentos à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Quer%C3%A9taro"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza de Armas",
+      "dicasAgente": [
+        "Vale cada peso (grátis): melhor cidade-base barata do circuito se quiser conforto e custo menor que SMA.",
+        "Aeroporto QRO a 26 km; Uber/Didi/Cabify operam (Wikivoyage)."
+      ],
+      "alertas": [
+        "Informação de bares/baladas em Querétaro não foi confirmada.",
+        "Horários dos monumentos não verificados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Altar_de_muertos_en_Plaza_de_Armas_Centro_Hist%C3%B3rico,_Quer%C3%A9taro.jpg?width=1280",
+        "credito": "Tere01ch / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Altar_de_muertos_en_Plaza_de_Armas_Centro_Hist%C3%B3rico,_Quer%C3%A9taro.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Quer%C3%A9taro",
+        "https://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Acueducto de Querétaro e Mirador de los Arcos",
+      "categoria": "mirante",
+      "cidade": "queretaro",
+      "tags": [
+        "arquitetura",
+        "gratis",
+        "foto",
+        "unesco"
+      ],
+      "coords": {
+        "lat": 20.5951383,
+        "lng": -100.3744769
+      },
+      "descricaoCurta": "Aqueduto do século XVIII com 74 arcos e 1.280 m, símbolo da cidade; o Mirador de los Arcos dá a vista clássica.",
+      "descricaoLonga": "Construído entre os anos de 1726 e 1738 (início na segunda metade do século XVII, segundo a Wikipedia em inglês), tem 74 arcos e 1.280 m e é parte do sítio UNESCO. Ótimo para foto ao fim da tarde pelo Mirador de los Arcos. É monumento ao ar livre; acesso e eventual custo do mirador não aparecem nas fontes.",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Monumento ao ar livre; sem ingresso conhecido",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Ejército Republicano, La Pastora (Mirador de los Arcos)",
+      "dicasAgente": [
+        "Vale cada peso (custa 0): 30 min de parada."
+      ],
+      "alertas": [
+        "Número de arcos e altura variam por fonte (74 arcos citados em todas; altura de 23 m vs média 28,5 m)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acueducto_de_Quer%C3%A9taro_2021.jpg?width=1280",
+        "credito": "Melodrartma / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acueducto_de_Quer%C3%A9taro_2021.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Aqueduct_of_Quer%C3%A9taro",
+        "https://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Peña de Bernal (monólito e Pueblo Mágico de Bernal)",
+      "categoria": "natureza",
+      "cidade": "bernal",
+      "tags": [
+        "trilha",
+        "monolito",
+        "natureza",
+        "pueblo-magico",
+        "mirante"
+      ],
+      "coords": {
+        "lat": 20.7496017,
+        "lng": -99.9458978
+      },
+      "descricaoCurta": "Terceiro maior monólito do mundo; trilha a pé até um mirante (sem equipamento) e o resto exige escalada técnica. Status da trilha ao topo é incerto.",
+      "descricaoLonga": "Monólito a ~50 min de Querétaro. Segundo as fontes, sem equipamento só se sobe até cerca de três quartos; o trecho final de ~45 m é vertical e exige escalada profissional. A trilha ao topo ficou fechada cerca de um ano por risco de deslizamento e foi reaberta em março de 2026 para o equinócio (15-25 mil visitantes esperados); não há confirmação se segue aberta em outubro. Um aviso do Mountain Project diz que a face sul, a via ferrata e o topo estão fechados 'até nova ordem' (sem data). A caminhada mínima é de cerca de 3 horas segundo o México Desconocido; entrada livre, guias à parte. No povoado há o Museo de la Máscara (MX$30), Museo del Dulce (MX$25) e o Cañón del Paraíso (2-3h). Atenção: é a única 'natureza' forte do perfil no Bajío, mas é um bate-volta curto e quente.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã cedo, para evitar sol e multidão; fins de semana lotam.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre à trilha; guias e escalada à parte; museus do povoado 25-30",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://escapadas.mexicodesconocido.com.mx/que-hacer-en-bernal-aventuras-entre-historia-sabores-y-la-imponente-pena/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Topo exige escalada técnica; condições de abertura mudam por risco de deslizamento",
+        "Levar água e calçado adequado"
+      ],
+      "pontoPartida": "Pueblo de Bernal, Ezequiel Montes (cerca de 50 min de carro de Querétaro)",
+      "dicasAgente": [
+        "Vale cada peso (grátis): melhor trilha curta da região, combine com vinícola na rota.",
+        "Confirme o status da trilha com Proteção Civil/município antes de ir; não confie no horário aqui."
+      ],
+      "alertas": [
+        "Horário de acesso e status atual da trilha em OUTUBRO/2026 NÃO foram confirmados.",
+        "Altura citada varia: 433 m (PeakVisor/busca), 350 m (México Desconocido).",
+        "Custo da escalada guiada (Chichi'dho ~100 pesos/dia segundo resultado de busca) não confirmado."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pe%C3%B1a_de_Bernal_(Quer%C3%A9taro).jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pe%C3%B1a_de_Bernal_(Quer%C3%A9taro).jpg"
+      },
+      "fontes": [
+        "https://escapadas.mexicodesconocido.com.mx/que-hacer-en-bernal-aventuras-entre-historia-sabores-y-la-imponente-pena/",
+        "https://www.nmas.com.mx/queretaro/reabren-sendero-a-la-cima-de-la-pena-de-bernal-para-el-equinoccio-tras-un-ano-cerrado/",
+        "https://grupoanimal.mx/estilo-de-vida/que-hacer-pena-de-bernal-subir-queretaro",
+        "https://mountainproject.com/area/125160888/main-wall"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan)",
+      "categoria": "passeio",
+      "cidade": "queretaro",
+      "tags": [
+        "vinicola",
+        "queijo",
+        "degustacao",
+        "passeio-de-dia"
+      ],
+      "coords": {
+        "lat": 20.697292,
+        "lng": -99.8776372
+      },
+      "descricaoCurta": "Vinícolas (ex.: Freixenet Finca Sala Vivé) e queijarias entre Ezequiel Montes e Tequisquiapan; visitas a partir de ~MX$100 ou tour guiado de ~MX$1.050+.",
+      "descricaoLonga": "A rota concentra vinícolas como Freixenet Finca Sala Vivé (cavas a 25 m, bondinho no vinhedo), Hacienda de Atongo, Puerta de Lobo e De Cote. Preços de 2018 (Chilango): visitas de MX$100 a 900; horário da Freixenet: dom-sex 8:00-17:30, sáb 11:00-17:30. Resultados de busca recentes citam Freixenet: visita clássica MX$110, degustação de 3 vinhos MX$310, bondinho MX$240; tours com transporte desde MX$1.050 por pessoa (Tequisquiapan) e MX$1.650 (Ezequiel Montes, com almoço). Fins de semana têm degustações mais frequentes. Para um casal econômico, o melhor é fazer por conta própria combinando com Bernal, caso aluguem carro de 1 dia.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "08:00–17:30",
+        "ter": "08:00–17:30",
+        "qua": "08:00–17:30",
+        "qui": "08:00–17:30",
+        "sex": "08:00–17:30",
+        "sab": "11:00–17:30",
+        "dom": "08:00–17:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de semana (mais atividades); dia inteiro combinando Bernal.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 110,
+        "max": 1650,
+        "por": "pessoa",
+        "inclui": "Visita simples a degustação/tour completo com almoço (faixa ampla)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.chilango.com/viajes/escapate/ruta-arte-queso-y-vino-en-queretaro/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 3,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Querétaro (cerca de 1h) ou Bernal; coordenada = Finca Sala Vivé Freixenet (OSM)",
+      "dicasAgente": [
+        "Vale cada peso: 1 vinícola (ex.: Freixenet) + queijaria + Bernal num dia.",
+        "Corte se apertar: tour guiado com almoço (MX$1.650)."
+      ],
+      "alertas": [
+        "Preços e horários da Freixenet são de matéria de 2018 e de resultados de busca; confirme com a vinícola.",
+        "Dias de funcionamento por vinícola variam; reservar."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.chilango.com/viajes/escapate/ruta-arte-queso-y-vino-en-queretaro/"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Dolores Hidalgo - Parroquia e Museo Casa de Hidalgo",
+      "categoria": "museu",
+      "cidade": "dolores-hidalgo",
+      "tags": [
+        "independencia",
+        "historia",
+        "INAH",
+        "igreja",
+        "bate-volta"
+      ],
+      "coords": {
+        "lat": 21.15637,
+        "lng": -100.93584
+      },
+      "descricaoCurta": "Berço da Independência do México: igreja onde Hidalgo deu o Grito (16/9/1810) e a casa-museu; fica a ~45 min de San Miguel.",
+      "descricaoLonga": "Cidade onde Miguel Hidalgo convocou a luta contra a Espanha em 1810. A Parroquia de Nuestra Señora de los Dolores abre das 7h às 20h com entrada gratuita. O Museo Casa de Hidalgo (INAH, antigo Ex Curato) funciona de quarta a sábado, 10h-16h: MX$80 mexicanos e MX$145 estrangeiros. O Museo de la Independencia Nacional (antiga prisão) abre seg-sáb 9h-16h (sáb até 15h) a MX$20 (MX$10 estudantes/idosos). Há também o túmulo de José Alfredo Jiménez no cemitério municipal.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:00–16:00 (Museo de la Independencia)",
+        "ter": "09:00–16:00 (Museo de la Independencia)",
+        "qua": "10:00–16:00 (Casa de Hidalgo)",
+        "qui": "10:00–16:00 (Casa de Hidalgo)",
+        "sex": "10:00–16:00 (Casa de Hidalgo)",
+        "sab": "09:00–15:00 (Museo de la Independencia)",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quarta a sábado de manhã (Casa de Hidalgo aberta).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 145,
+        "por": "pessoa",
+        "inclui": "Igreja grátis; Museo de la Independencia 20; Casa de Hidalgo 80 (mexicanos) / 145 (estrangeiros)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://lugares.inah.gob.mx/en/node/5282",
+          "https://www.adn40.mx/mexico/2026-09-01/el-pueblo-magico-donde-comenzo-el-grito-de-independencia-que-hacer-y-que-lugares-visitar-en-septiembre-de-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 418 182 01 71",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Morelos 1, esq. Hidalgo, Dolores Hidalgo (Casa de Hidalgo); ônibus de Guanajuato/SMA/León (~1 h), estações: Flecha Amarilla (Hidalgo 26) e Pegasso/Autovías (Yucatán 13)",
+      "dicasAgente": [
+        "Vale cada peso: a Parroquia e a praça (grátis) + nieves.",
+        "Corte se apertar: Casa de Hidalgo a MX$145 como estrangeiro, a menos que adore história."
+      ],
+      "alertas": [
+        "Horário por dia combina os dois museus: seg/ter e sáb só o Museo de la Independencia; qua-sex a Casa de Hidalgo.",
+        "Preço mínimo 0 por causa da igreja; Wikivoyage lista valores defasados (M$49/M$15)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_de_Miguel_Hidalgo_y_Costilla_-_Dolores_Hidalgo,_Guanajuato.jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_de_Miguel_Hidalgo_y_Costilla_-_Dolores_Hidalgo,_Guanajuato.jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/5282",
+        "https://www.adn40.mx/mexico/2026-09-01/el-pueblo-magico-donde-comenzo-el-grito-de-independencia-que-hacer-y-que-lugares-visitar-en-septiembre-de-2026/",
+        "https://en.wikivoyage.org/wiki/Dolores_Hidalgo",
+        "https://es.wikipedia.org/wiki/Casa_de_Miguel_Hidalgo_(Dolores_Hidalgo)"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Nieves de sabores estranhos de Dolores Hidalgo",
+      "categoria": "cafe",
+      "cidade": "dolores-hidalgo",
+      "tags": [
+        "sorvete",
+        "gastronomia",
+        "curiosidade",
+        "barato",
+        "jardim-principal"
+      ],
+      "coords": {
+        "lat": 21.1573779,
+        "lng": -100.9348911
+      },
+      "descricaoCurta": "Sorvetes artesanais (nieves) de camarão, mole, cerveja, abacate, queijo, cacto, tequila e mais; ~MX$35-50 por porção.",
+      "descricaoLonga": "Tradição de mais de um século: a praça principal concentra sorveterias com sabores incomuns como camarão/frutos do mar, mole, cerveja, abacate, queijo, cacto (garambullo, tuna) e tequila. Exemplos de lojas: Helados Finos la Flor de Dolores (MX$35-50 por porção), Helados Josué e Helados More (perto da estátua de Hidalgo, no jardim). Sorvete de camarão tem sabor forte, comparável a coquetel de camarão gelado.",
+      "duracao": {
+        "min": 15,
+        "tipica": 30,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 35,
+        "max": 50,
+        "por": "pessoa",
+        "inclui": "Uma porção (relato de 2023)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.gastrolabweb.com/donde-comer/2023/5/31/cuales-son-los-sabores-de-nieves-mas-originales-de-dolores-hidalgo-aqui-te-decimos-36942.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Jardín Principal, Dolores Hidalgo",
+      "dicasAgente": [
+        "VALE CADA PESO: o mais divertido da cidade pelo preço.",
+        "Peça degustação antes de levar uma porção grande."
+      ],
+      "alertas": [
+        "Preço de 2023; horários das sorveterias não verificados.",
+        "Wikivoyage cita ~M$15 (defasado)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Helados_de_Dolores_Hidalgo,_Guanajuato_-_Nieves_ex%C3%B3ticas_2.jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Helados_de_Dolores_Hidalgo,_Guanajuato_-_Nieves_ex%C3%B3ticas_2.jpg"
+      },
+      "fontes": [
+        "https://www.gastrolabweb.com/donde-comer/2023/5/31/cuales-son-los-sabores-de-nieves-mas-originales-de-dolores-hidalgo-aqui-te-decimos-36942.html",
+        "https://www.adn40.mx/mexico/2026-09-01/el-pueblo-magico-donde-comenzo-el-grito-de-independencia-que-hacer-y-que-lugares-visitar-en-septiembre-de-2026/",
+        "https://en.wikivoyage.org/wiki/Dolores_Hidalgo"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cerâmica e talavera de Dolores Hidalgo",
+      "categoria": "compras",
+      "cidade": "dolores-hidalgo",
+      "tags": [
+        "ceramica",
+        "talavera",
+        "artesanato",
+        "compras"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Talavera e majólica em oficinas e lojas concentradas ao longo da Av. José Alfredo Jiménez; barato frente a SMA, mas frágil para transportar.",
+      "descricaoLonga": "Dolores é conhecida pela cerâmica talavera (azulejos, vasos, peças decorativas) e majólica, vendidas em lojas ao longo da Av. José Alfredo Jiménez (Wikivoyage). Não achei preços verificados. Para o perfil de compras, é um bom complemento de Tonalá/Tlaquepaque, mas o frete ou bagagem de cerâmica é um problema para quem viaja de mochila.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços não verificados",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. José Alfredo Jiménez, Dolores Hidalgo",
+      "dicasAgente": [
+        "Corte se apertar: se for a Guadalajara, compre cerâmica lá (Tonalá)."
+      ],
+      "alertas": [
+        "Sem preços ou horários verificados; coordenada não determinada (0,0)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DoloresHidalgo074.jpg?width=1280",
+        "credito": "AlejandroLinaresGarcia / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:DoloresHidalgo074.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Dolores_Hidalgo",
+        "https://www.adn40.mx/mexico/2026-09-01/el-pueblo-magico-donde-comenzo-el-grito-de-independencia-que-hacer-y-que-lugares-visitar-en-septiembre-de-2026/"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Dia da Independência (15-16 de setembro) - O Grito em Dolores Hidalgo e Guanajuato",
+      "categoria": "experiencia",
+      "cidade": "dolores-hidalgo",
+      "tags": [
+        "independencia",
+        "festa",
+        "setembro",
+        "lotacao",
+        "evento"
+      ],
+      "coords": {
+        "lat": 21.1573779,
+        "lng": -100.9348911
+      },
+      "descricaoCurta": "O Grito original é em Dolores Hidalgo, à noite de 15/9 (com réplica de madrugada em 16/9); a cidade tem programação de 4 a 20 de setembro.",
+      "descricaoLonga": "A cerimônia local da noite de 15 de setembro acontece no Jardín Principal; em 2021 foi conduzida pelo governador de Guanajuato (com chuva e baixa presença por restrições de covid). O Wikivoyage cita eventos de 4 a 20 de setembro e uma reencenação de madrugada em 16/9 com fogos e shows na paróquia. Em 2025 a presidente Claudia Sheinbaum conduziu o Grito nacional (Wikipedia); não achei confirmação de presidente em Dolores. Impacto: aumenta lotação e preços no centro de Dolores e em cidades próximas, mas não achei números. Sobre o Grito em Guanajuato capital: não encontrei fonte confirmando programação. Em 2026 a data já passou (hoje é 08/10); a próxima é setembro de 2027. Também é época de chuva (junho a setembro, julho o mês mais chuvoso em Guanajuato).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Festejos públicos, sem ingresso conhecido",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Jardín Principal / Parroquia, Dolores Hidalgo",
+      "dicasAgente": [
+        "Para perfil econômico: evite 14-16/9; preços e lotação sobem (impacto não quantificado nas fontes).",
+        "Se quiser: dormir fora de Dolores (Guanajuato/SMA) e ir de ônibus."
+      ],
+      "alertas": [
+        "Dados específicos de 2026 não encontrados; 2021 foi atípico (covid, chuva).",
+        "Não há confirmação de Grito em Guanajuato capital nas fontes abertas."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_-_Dolores_Hidalgo,_Guanajuato,_M%C3%A9xico.jpg?width=1280",
+        "credito": "Juan Carlos Fonseca Mata / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_-_Dolores_Hidalgo,_Guanajuato,_M%C3%A9xico.jpg"
+      },
+      "fontes": [
+        "https://www.milenio.com/politica/comunidad/com-lluvia-musica-gente-grito-dolores-hidalgo",
+        "https://en.wikivoyage.org/wiki/Dolores_Hidalgo",
+        "https://es.wikipedia.org/wiki/Grito_de_Dolores",
+        "https://en.wikipedia.org/wiki/Guanajuato,_Guanajuato"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Centro Histórico de Guadalajara (Catedral, Plaza de la Liberación, Teatro Degollado)",
+      "categoria": "atracao",
+      "cidade": "guadalajara",
+      "tags": [
+        "centro-historico",
+        "catedral",
+        "caminhar",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 20.6771333,
+        "lng": -103.3469694
+      },
+      "descricaoCurta": "Centro caminhável com a Catedral (iniciada em 1561), o Teatro Degollado (1866) e o entorno da Plaza de la Liberación.",
+      "descricaoLonga": "O Wikivoyage recomenda explorar o Centro a pé. A Catedral foi iniciada em 1561 e consagrada em 1716; as torres neogóticas amarelas e azuis são do século XIX. O Teatro Degollado, neoclássico, foi inaugurado em 1866. Perto fica o Instituto Cultural Cabañas. Cuidado com a área ao redor da antiga rodoviária (Central Vieja): Wikivoyage a descreve como perigosa para forasteiros.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã e fim de tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio externo; visitas internas e espetáculos à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza de la Liberación / Catedral",
+      "dicasAgente": [
+        "Vale cada peso (grátis): base para Hospicio Cabañas e Tlaquepaque.",
+        "Metrô/ônibus urbanos: MX$9,50 por viagem (Wikivoyage, valor possivelmente defasado)."
+      ],
+      "alertas": [
+        "Horários de visita à Catedral não confirmados.",
+        "Coordenada: OSM (Catedral)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_metropolitana_de_Guadalajara_01.jpg?width=1280",
+        "credito": "ProtoplasmaKid / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_metropolitana_de_Guadalajara_01.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "https://en.wikipedia.org/wiki/Guadalajara_Cathedral",
+        "https://en.wikipedia.org/wiki/Teatro_Degollado"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Hospicio Cabañas (Instituto Cultural Cabañas)",
+      "categoria": "museu",
+      "cidade": "guadalajara",
+      "tags": [
+        "unesco",
+        "murais",
+        "orozco",
+        "arquitetura",
+        "museu"
+      ],
+      "coords": {
+        "lat": 20.6768706,
+        "lng": -103.3377051
+      },
+      "descricaoCurta": "Patrimônio UNESCO (1997) com os murais de José Clemente Orozco, incluindo o Hombre de Fuego na cúpula da capela; ~MX$80.",
+      "descricaoLonga": "Antigo hospício-orfanato (fundado em 1791, projeto de Manuel Tolsá) com 23 pátios, hoje museu e centro cultural. A obra-prima é o mural O Homem em Chamas (1936-39) de Orozco, na capela principal. Imperdível e barato dentro do circuito.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "11:00–17:00",
+        "qua": "11:00–17:00",
+        "qui": "11:00–17:00",
+        "sex": "11:00–17:00",
+        "sab": "11:00–17:00",
+        "dom": "11:00–17:00"
+      },
+      "diasFechados": [
+        "segunda"
+      ],
+      "melhorHorario": "Abertura (11:00) para ver o mural sem multidão.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 55,
+        "max": 80,
+        "por": "pessoa",
+        "inclui": "Geral/estrangeiros 80; mexicanos ou residentes 55 (2022); grátis para estudantes, professores e idosos com credencial; terça grátis segundo Wikivoyage/Guadalajara Reporter",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara",
+          "https://mail.theguadalajarareporter.net/index.php/featured/58926-reasons-to-visit-the-museo-cabanas",
+          "https://www.tusbuenasnoticias.com/noticias/arte-y-cultura/2024/12/06/39475-hospicio-cabanas-en-guadalajara-horarios-y-costos"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Cabañas 8, Las Fresas (Plaza de Iberoamérica), Guadalajara",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor atração cultural de Guadalajara."
+      ],
+      "alertas": [
+        "Horário: matéria de 2024 diz terça a domingo 11-17; matéria de 2022 diz segunda a domingo. Usei terça a domingo (fechado segunda não confirmado).",
+        "Terça grátis (2022) vs. aberto normalmente na terça (2024): conferir.",
+        "Valor 80/55 é de 2022; 2024 cita ~80."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Man_of_Fire.jpg?width=1280",
+        "credito": "P. Hughes / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Man_of_Fire.jpg"
+      },
+      "fontes": [
+        "https://www.tusbuenasnoticias.com/noticias/arte-y-cultura/2024/12/06/39475-hospicio-cabanas-en-guadalajara-horarios-y-costos",
+        "https://mail.theguadalajarareporter.net/index.php/featured/58926-reasons-to-visit-the-museo-cabanas",
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "https://en.wikipedia.org/wiki/Hospicio_Caba%C3%B1as"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tlaquepaque (Parián, Andador Independencia)",
+      "categoria": "compras",
+      "cidade": "guadalajara",
+      "tags": [
+        "compras",
+        "artesanato",
+        "mariachi",
+        "ceramica",
+        "vidro-soprado",
+        "pueblo-magico"
+      ],
+      "coords": {
+        "lat": 20.6388299,
+        "lng": -103.3110609
+      },
+      "descricaoCurta": "Vila de artesãos e galerias com o Parián (arcadas com restaurantes e mariachi) e o Andador Independencia; mais polido e turístico que Tonalá.",
+      "descricaoLonga": "Pueblo Mágico desde 2018, fica a 5-10 km do centro de Guadalajara. Tem El Parián (praça com arcadas e cerca de 18 restaurantes e bares, com mariachis), o pedonal Andador Independencia (galerias, lojas, casarões e o Museo Regional de la Cerámica, de entrada gratuita, seg-sex 9:00-17:00 segundo Wikivoyage) e o Museo Pantaleón Panduro. Compras: especialidade em cerâmica e vidro soprado. Em resumo, Tlaquepaque é melhor para passear, comer e ouvir mariachi; para PREÇO e variedade de artesanato, Tonalá (quinta e domingo) é melhor.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde/noite no Parián (mariachi); dia útil para lojas mais calmas.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio livre; consumo à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Tlaquepaque / Parián",
+      "dicasAgente": [
+        "Vale cada peso: jantar com mariachi no Parián costuma ser mais seguro e agradável que a Plaza de los Mariachis do centro.",
+        "Corte se apertar: comprar cerâmica aqui; Tonalá é mais barata (relato de guia: prato talavera ~MX$400-600 em galeria de Tlaquepaque vs 150-250 em oficina de Tonalá - trecho de resultado de busca, não verificado)."
+      ],
+      "alertas": [
+        "A comparação de preços Tlaquepaque x Tonalá vem de trecho de busca (nomadotravel), não aberto na íntegra; tratar como estimativa.",
+        "Horário de lojas não verificado."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Par%C3%ADan_en_Tlaquepaque_Jalisco_M%C3%A9xico.jpg?width=1280",
+        "credito": "Encogua / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Par%C3%ADan_en_Tlaquepaque_Jalisco_M%C3%A9xico.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Tlaquepaque",
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tianguis de Tonalá (quinta e domingo)",
+      "categoria": "compras",
+      "cidade": "guadalajara",
+      "tags": [
+        "compras",
+        "artesanato",
+        "ceramica",
+        "tianguis",
+        "barato",
+        "melhor-para-comprar"
+      ],
+      "coords": {
+        "lat": 20.6231138,
+        "lng": -103.2486546
+      },
+      "descricaoCurta": "Gigantesco mercado de rua de quinta e domingo (3.500-4.000 vendedores) com cerâmica, vidro, ferro e madeira; melhor preço e variedade da região.",
+      "descricaoLonga": "Tonalá é centro artesanal de Jalisco, sobretudo cerâmica, com vidro soprado, ferro forjado e marcenaria. O tianguis funciona às quintas e domingos (Wikipedia e Wikivoyage) e reúne milhares de vendedores, especialmente em época de feriados. Um guia indica funcionamento por volta das 8h-15h (trecho de busca, a confirmar). Resposta ao briefing: para comprar, Tonalá (nesses dois dias) é melhor que Tlaquepaque; Tlaquepaque vence em passeio e restaurantes.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "08:00–15:00",
+        "sex": "",
+        "sab": "",
+        "dom": "08:00–15:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quinta ou domingo logo cedo (8h), antes do calor e do pico.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre; preços dos produtos negociáveis",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Tonalá, Guadalajara metropolitana (Calle Clavel segundo OSM)",
+      "dicasAgente": [
+        "VALE CADA PESO: negocie; leve dinheiro vivo.",
+        "Cerâmica é pesada e frágil: calcule bagagem ou frete antes."
+      ],
+      "alertas": [
+        "Horário 08:00-15:00 vem de trecho de busca de guia (nomadotravel), não aberto; confirmar.",
+        "Fora de quinta e domingo só há lojas/oficinas, sem o grande tianguis."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tianguis_de_Tonal%C3%A1.jpg?width=1280",
+        "credito": "Gzzz / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tianguis_de_Tonal%C3%A1.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Tonal%C3%A1,_Jalisco",
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza de los Mariachis (Guadalajara)",
+      "categoria": "experiencia",
+      "cidade": "guadalajara",
+      "tags": [
+        "mariachi",
+        "musica",
+        "tradicao",
+        "seguranca",
+        "noite"
+      ],
+      "coords": {
+        "lat": 20.6748584,
+        "lng": -103.3413471
+      },
+      "descricaoCurta": "Praça tradicional de mariachis no centro; negocie o preço antes e atenção à segurança à noite: bairro fica pesado depois de escurecer.",
+      "descricaoLonga": "Principal praça de mariachis de Guadalajara. Não há tarifa fixa: contrata-se por canção ou por hora. Valores de serenata: MX$1.500-5.000 (14-18 canções); por hora, MX$1.800 (5 músicos) a 3.000 (9 músicos), média MX$3.000-4.000 (reportagem 2025; não é o preço de 'uma canção' de balcão). Aviso de segurança: o Wikivoyage diz que o bairro 'fica barra pesada depois do escurecer' e matéria de 2016 cita alta criminalidade e segurança deficiente na área (dado antigo). Alternativa mais confortável: o Parián de Tlaquepaque, com restaurantes que têm mariachi.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Início da noite e fins de semana, mas saia antes de a praça esvaziar; vá de Uber, não a pé à noite.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "grupo",
+        "inclui": "Negociação direta por canção/hora; serenata 1.500-5.000; hora 1.800-3.000 (média 3.000-4.000). Sem preço fixo por canção encontrado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.aztecajalisco.com/arte-y-cultura/cuanto-cuesta-llevar-una-serenata-mariachi-en-guadalajara-2025"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Guadalajara (cerca de 5-10 min a pé da Catedral, durante o dia)",
+      "dicasAgente": [
+        "Corte se apertar: contratar mariachi privado (centenas a milhares de pesos). Ouvir de longe é grátis.",
+        "Vale cada peso: jantar com mariachi no Parián de Tlaquepaque."
+      ],
+      "alertas": [
+        "Preço por canção NÃO encontrado; só valores de serenata/hora.",
+        "Informação de segurança do Wikivoyage e matéria de 2016 (idade grande).",
+        "Combine o preço antes de eles tocarem (guia)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza_de_los_Mariachis_2013.jpg?width=1280",
+        "credito": "Reporte Fénix / Wikimedia Commons",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_de_los_Mariachis_2013.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "https://www.aztecajalisco.com/arte-y-cultura/cuanto-cuesta-llevar-una-serenata-mariachi-en-guadalajara-2025",
+        "https://theguadalajarareporter.net/index.php/news/news/guadalajara/47433-guadalajara-city-hall-clears-out-downtown-s-legendary-mariachi-plaza"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Vida noturna da Av. Chapultepec e Colonia Americana (Guadalajara)",
+      "categoria": "bar",
+      "cidade": "guadalajara",
+      "tags": [
+        "vida-noturna",
+        "bares",
+        "baladas",
+        "chapultepec",
+        "americana"
+      ],
+      "coords": {
+        "lat": 20.6764114,
+        "lng": -103.3687899
+      },
+      "descricaoCurta": "Principal corredor de bares e clubes de Guadalajara (Chapultepec, Zona Rosa, Minerva). Cover de fim de semana ~MX$50-200; drinks ~MX$120-250.",
+      "descricaoLonga": "Segundo o Wikivoyage, Chapultepec, Zona Rosa e Minerva são as principais áreas de entretenimento a oeste do centro. Um guia (trecho de busca) diz que os bares enchem depois das 23h, clubes lotam por volta da meia-noite e os mais sérios funcionam até 4h-5h; cover de fim de semana MX$50-200 e coquetéis MX$120-250. É aqui que o casal de perfil noite/compras realmente encontra o que a região (Guanajuato, SMA, Querétaro) não tem em escala. A Colonia Americana é descrita como animada; 1 a 2 quadras de distância ficam bem mais tranquilas.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 120,
+        "max": 250,
+        "por": "pessoa",
+        "inclui": "Coquetel 120-250; cover de balada 50-200 em fins de semana (trecho de guia, a confirmar)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Chapultepec (Colonia Americana/Lafayette), a oeste do centro; use Uber/Didi à noite",
+      "dicasAgente": [
+        "Vale cada peso: é o único lugar do circuito com vida noturna 'grande' a preço razoável; durma na Americana/Chapultepec para voltar a pé/curta corrida.",
+        "Corte se apertar: clubes caros; prefira bares com música ao vivo e happy hour."
+      ],
+      "alertas": [
+        "Preços e horários vêm de guia (nomadotravel, trecho de busca não aberto) - estimado.",
+        "Informação de segurança por quadra é geral (Wikivoyage não detalha)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Av._Chapultepec,_Guadalajara.jpg?width=1280",
+        "credito": "Eduardo López López / Wikimedia Commons",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Av._Chapultepec,_Guadalajara.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Destilaria La Rojeña (José Cuervo / Mundo Cuervo)",
+      "categoria": "passeio",
+      "cidade": "tequila",
+      "tags": [
+        "destilaria",
+        "tequila",
+        "degustacao",
+        "jose-cuervo",
+        "historia"
+      ],
+      "coords": {
+        "lat": 20.8855269,
+        "lng": -103.8406975
+      },
+      "descricaoCurta": "Destilaria em funcionamento desde 1812 no centro de Tequila; tour oficial 'Experiencia Jose Cuervo' de 1,5 h por MX$585; sem reserva obrigatória fora de feriado/fim de semana.",
+      "descricaoLonga": "A Fábrica La Rojeña, de 1812, é a destilaria mais turística de Tequila (descrita pelo The Daily Pour como mais museu que fábrica em operação). No site oficial a Experiencia Jose Cuervo custa MX$585 (1,5 h), com reserva online. Tours de terceiros e fontes antigas citam MX$200 (Classic, 1 h), 330 (1,5 h), 475 (VIP, 2 h) e 720 (VIP com campos, 3 h) - valores defasados frente ao site oficial. Horário citado pelo agregador: diário 11-17.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "11:00–17:00",
+        "ter": "11:00–17:00",
+        "qua": "11:00–17:00",
+        "qui": "11:00–17:00",
+        "sex": "11:00–17:00",
+        "sab": "11:00–17:00",
+        "dom": "11:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Cedo (11:00); evite sábados com trem + excursões.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 720,
+        "por": "pessoa",
+        "inclui": "Oficial: Experiencia Jose Cuervo 585 (1,5 h). Faixa de fontes antigas: 200-720",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://mundocuervo.com.mx/",
+          "https://www.zonaturistica.com/que-hacer/jalisco/tequila/destileria-la-rojena-mundo-cuervo"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://mundocuervo.com.mx/"
+      },
+      "contato": {
+        "telefone": "374-742-0700",
+        "whatsapp": "",
+        "site": "https://mundocuervo.com.mx/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "José Cuervo 73, Centro, Tequila, Jalisco",
+      "dicasAgente": [
+        "Vale cada peso: 1 destilaria de verdade (esta ou La Fortaleza) e o resto do dia na cidade.",
+        "Corte se apertar: tours VIP e 'com campos' mais caros."
+      ],
+      "alertas": [
+        "Preço oficial (585) diverge de agregadores (200-720); usei faixa e priorizei o oficial.",
+        "Horário vem de agregador (zonaturistica), não do site oficial."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://mundocuervo.com.mx/",
+        "https://www.zonaturistica.com/que-hacer/jalisco/tequila/destileria-la-rojena-mundo-cuervo",
+        "https://alcoholprofessor.com/blog-posts/best-distilleries-to-visit-in-tequila",
+        "https://thedailypour.com/?p=113357"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Destilarias com hora marcada: Fortaleza, Casa Sauza e outras",
+      "categoria": "passeio",
+      "cidade": "tequila",
+      "tags": [
+        "destilaria",
+        "tequila",
+        "hora-marcada",
+        "artesanal"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "La Fortaleza só recebe visitas agendadas por e-mail; Casa Sauza tem três níveis de tour (1-3 h) com reserva recomendada.",
+      "descricaoLonga": "La Fortaleza (Los Abuelos), fundada em 2005, aceita apenas visitas com agendamento por e-mail, segundo AlcoholProfessor; um resultado de busca diz que é preciso planejar com pelo menos 36 h de antecedência e que operadoras privadas cobram a partir de ~US$236/pessoa. Casa Sauza: três níveis de tour (1-3 h), jardim botânico de agave, cantarito caseiro, reserva recomendada; Wikivoyage cita La Perseverancia (Sauza) 09:30-15:00, fechada aos domingos. La Tequileña (Don Fulano) também só com hora marcada. Siete Leguas tem tahona movida a mula às 11h e 15h. O Museo Nacional del Tequila abre 10:00-17:30 (Wikivoyage).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem preço verificado em MXN; operadora privada citada em ~US$236 (busca, não aberta)",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Tequila, Jalisco (cada destilaria em endereço próprio)",
+      "dicasAgente": [
+        "Vale cada peso se você curte tequila artesanal: Fortaleza.",
+        "Corte se apertar: tours privados de ~US$236 para um destino que você faz por conta própria."
+      ],
+      "alertas": [
+        "Horário 09:30-15:00 (fechado domingo) refere-se a Sauza La Perseverancia (Wikivoyage), não a Fortaleza.",
+        "Preços em MXN não encontrados; coordenadas não definidas (0,0).",
+        "Antecedência de 36 h vem de resultado de busca (não aberto)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://alcoholprofessor.com/blog-posts/best-distilleries-to-visit-in-tequila",
+        "https://thedailypour.com/?p=113357",
+        "https://en.wikivoyage.org/wiki/Tequila"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Trem José Cuervo Express (Guadalajara - Tequila)",
+      "categoria": "passeio",
+      "cidade": "tequila",
+      "tags": [
+        "trem",
+        "tequila",
+        "dia-inteiro",
+        "caro",
+        "open-bar-coquetel"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Trem turístico aos sábados a partir de Guadalajara: ~11 h, Express a MX$3.250; inclui trem, coquetéis, visita a destilaria e degustação.",
+      "descricaoLonga": "Operado pela marca José Cuervo, sai aos sábados da estação ferroviária de Guadalajara (9:00) e leva a Tequila: campos de agave, destilaria La Rojeña, coquetéis e shows. Classes no site oficial: Express MX$3.250 (jovens 6-17 anos 2.680), Premium Plus 3.670, Diamante 4.440 e Elite 4.810 (11 h). Há rotas 'nascer do sol' (trem de ida, ônibus de volta) e 'pôr do sol' (inverso), pelo mesmo preço (adn40). Eventos especiais: Vagão das Ânimas (Dia dos Mortos) em 24 e 31 de outubro e 7 de novembro de 2026 (MX$4.850) e Corrida Tradicional em 3, 10 e 17/10/2026. Reserva via Peek. Preços de matérias (3.195/3.580/4.150) e do guia mexicodesconocido (a partir de 2.995) estão defasados frente ao site oficial.",
+      "duracao": {
+        "min": 600,
+        "tipica": 660,
+        "max": 660
+      },
+      "horarios": {
+        "seg": "Não opera",
+        "ter": "Não opera",
+        "qua": "Não opera",
+        "qui": "Não opera",
+        "sex": "Não opera",
+        "sab": "Saída 09:00; duração ~11 h",
+        "dom": "Não opera"
+      },
+      "diasFechados": [
+        "segunda",
+        "terça",
+        "quarta",
+        "quinta",
+        "sexta",
+        "domingo"
+      ],
+      "melhorHorario": "Sábados; escolher rota nascer ou pôr do sol.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 3250,
+        "max": 4810,
+        "por": "pessoa",
+        "inclui": "Express 3.250 / Premium Plus 3.670 / Diamante 4.440 / Elite 4.810; trem + degustação + visita à destilaria + coquetéis (varia por classe)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mundocuervo.com/esp/jose-cuervo-express/",
+          "https://www.adn40.mx/mexico/2024-09-25/tequila-express-precio-boletos-para-viajar-al-pueblo-magico/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 7,
+        "esgotaRapido": true,
+        "link": "https://www.mundocuervo.com/esp/jose-cuervo-express/"
+      },
+      "contato": {
+        "telefone": "+52 374 742 6729",
+        "whatsapp": "",
+        "site": "https://mundocuervo.com.mx/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Estação de trem de Guadalajara, aos sábados 09:00 (adn40)",
+      "dicasAgente": [
+        "CORTE SE APERTAR: ~MX$3.250 por pessoa = ~7x o custo de ir de ônibus (MX$260 ida e volta) + tour oficial La Rojeña (MX$585).",
+        "Vale só se o trem e o show forem o objetivo; para 'beber tequila' não vale."
+      ],
+      "alertas": [
+        "Antecedência (7 dias) é estimativa do agente; lotação em datas especiais.",
+        "Coordenada da estação de Guadalajara não encontrada em fonte aceita (0,0).",
+        "Atenção ao aviso: 'tour que é só bebedeira'  - este trem mistura coquetéis e shows, e a visita à destilaria é parte do pacote."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.mundocuervo.com/esp/jose-cuervo-express/",
+        "https://mundocuervo.com.mx/",
+        "https://www.adn40.mx/mexico/2024-09-25/tequila-express-precio-boletos-para-viajar-al-pueblo-magico/",
+        "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Bate-volta Guadalajara - Tequila (tour de dia inteiro ou por conta própria)",
+      "categoria": "passeio",
+      "cidade": "tequila",
+      "tags": [
+        "bate-volta",
+        "onibus",
+        "tour",
+        "tequila",
+        "economico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Por conta própria: ônibus Tequila Plus (~1 h, MX$140 ida / 260 ida e volta, saídas a cada 30 min) + tour oficial. Tour de 8 h com pickup: R$562 no Civitatis (BRL).",
+      "descricaoLonga": "Por conta própria: Tequila Plus sai da Antigua Central Camionera (Central Vieja) de Guadalajara a cada 30 min, de 6:00 às 20:30, ~1 h-2 h; Wikivoyage (jan/2026): MX$140 ida e MX$260 ida e volta. De carro: ~65 km, 1 h, pedágios MX$47-193 (México Desconocido). Uber/Didi: ~MX$615-750. Tour pronto: Civitatis 8 h com pickup no hotel, La Rojeña, degustação e demonstração de agave em Amatitán, nota 9,1/10 com 170 avaliações; preço exibido R$562 (reais; não convertido). Alerta honesto sobre tour 'só bebedeira': não achei fonte que quantifique; do ponto de vista do agente, desconfie de pacotes vendidos como 'open bar/cantaritos' sem visita guiada de produção e prefira uma destilaria real (La Rojeña/Fortaleza). Cuidado: a região de Central Vieja é apontada como perigosa para forasteiros (Wikivoyage); pegue Uber até o ponto de embarque e vá de dia.",
+      "duracao": {
+        "min": 420,
+        "tipica": 540,
+        "max": 660
+      },
+      "horarios": {
+        "seg": "06:00–20:30 (ônibus)",
+        "ter": "06:00–20:30 (ônibus)",
+        "qua": "06:00–20:30 (ônibus)",
+        "qui": "06:00–20:30 (ônibus)",
+        "sex": "06:00–20:30 (ônibus)",
+        "sab": "06:00–20:30 (ônibus)",
+        "dom": "06:00–20:30 (ônibus)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Sair de Guadalajara até as 9h-10h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 260,
+        "max": 845,
+        "por": "pessoa",
+        "inclui": "DIY: ônibus ida e volta 260 + tour La Rojeña 585 = ~845; só o ônibus 260",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tequila",
+          "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/",
+          "https://mundocuervo.com.mx/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Antigua Central Camionera (Central Vieja), Guadalajara - ou Uber/hotel pickup para tours",
+      "dicasAgente": [
+        "VALE CADA PESO: ônibus + tour oficial é o jeito econômico.",
+        "Corte se apertar: tour de pickup em reais (R$562 no Civitatis) e o trem."
+      ],
+      "alertas": [
+        "A soma 845 é cálculo do agente (260 + 585), não preço de fonte única.",
+        "Civitatis exibiu preço em reais; não converti.",
+        "Aviso de tour de bebedeira: sem fonte quantitativa; advice do agente (estimado)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Tequila",
+        "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/",
+        "https://www.civitatis.com/es/guadalajara/excursion-tequila/",
+        "https://mundocuervo.com.mx/",
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Transporte: ônibus entre Guanajuato, San Miguel de Allende e Querétaro",
+      "categoria": "experiencia",
+      "cidade": "guanajuato",
+      "tags": [
+        "transporte",
+        "onibus",
+        "primera-plus",
+        "etn",
+        "logistica"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Guanajuato-SMA: ~1 h 20, ônibus de hora em hora (Primera Plus) e ETN Turistar (4/dia); Guanajuato-Querétaro direto ETN 2 h 30, 2/dia.",
+      "descricaoLonga": "Segundo o Rome2rio (preços exibidos em REAIS, R$): Guanajuato-San Miguel de Allende: Primera Plus R$50-70 (hora em hora, ~1 h 20); ETN Turistar com 4 serviços diários; BlaBlaCar R$21 (1 viagem/dia). Guanajuato-Querétaro: ETN Turistar R$100-200, 2 h 30, 2 serviços/dia (via SMA 4 h 29, R$82-206). De carro, Guanajuato-SMA 76,5 km, ~1 h 19; Guanajuato-Querétaro 147,7 km, ~1 h 47. Não foram encontrados valores em pesos para essas linhas nas páginas abertas. Dolores Hidalgo: ônibus de Guanajuato, SMA e León (~1 h); rodoviárias Flecha Amarilla e Pegasso/Autovías. Ônibus urbano em Guanajuato: MX$7 (Wikivoyage).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços em MXN não obtidos; Rome2rio mostra R$ (BRL): SMA R$50-70; Querétaro R$100-200",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.rome2rio.com/s/Guanajuato/San-Miguel-de-Allende",
+          "https://www.rome2rio.com/s/Guanajuato/Quer%C3%A9taro"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Rodoviária de Guanajuato (7 km a sudoeste do centro; ônibus urbano MX$7)",
+      "dicasAgente": [
+        "Vale cada peso: ônibus é muito mais barato e simples que alugar carro entre essas cidades."
+      ],
+      "alertas": [
+        "Valores em R$ (BRL) do Rome2rio; sem MXN confirmado. Verifique em primeraplus.com.mx e etn.com.mx.",
+        "Frequência/horários podem ter mudado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.rome2rio.com/s/Guanajuato/San-Miguel-de-Allende",
+        "https://www.rome2rio.com/s/Guanajuato/Quer%C3%A9taro",
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://www.etn.com.mx/",
+        "https://www.primeraplus.com.mx/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Transporte: ônibus Querétaro/Guanajuato para Guadalajara",
+      "categoria": "experiencia",
+      "cidade": "guadalajara",
+      "tags": [
+        "transporte",
+        "onibus",
+        "primera-plus",
+        "futura",
+        "logistica"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Querétaro-Guadalajara: Primera Plus de hora em hora (~5 h; R$240-340 no Rome2rio); Guanajuato-Guadalajara: Primera Plus ~MX$750 (nov/2024, Wikivoyage).",
+      "descricaoLonga": "Rome2rio (em R$): Querétaro-Guadalajara Primera Plus a cada hora, ~5 h, R$240-340; Futura a cada 2 h; carro 351,7 km, ~4 h 07. Wikivoyage: Guanajuato-Guadalajara com Primera Plus a ~MX$750 (nov/2024) e León-Guanajuato MX$100. O Wikivoyage também recomenda evitar o entorno da antiga rodoviária (Central Vieja) de Guadalajara. Na Nueva Central Camionera, o Rome2rio indica o ônibus de Querétaro chegando ao Mod 1.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 750,
+        "max": 750,
+        "por": "pessoa",
+        "inclui": "Guanajuato-Guadalajara Primera Plus (Wikivoyage, nov/2024)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Rodoviária de Querétaro (Acceso 1) / Guanajuato",
+      "dicasAgente": [
+        "Vale cada peso: dormir no ônibus noturno não é recomendado; viaje de dia.",
+        "Corte se apertar: avião BJX-GDL (não pesquisado)."
+      ],
+      "alertas": [
+        "Rome2rio mostra R$ (BRL), não MXN.",
+        "Valor 750 é de nov/2024 (Wikivoyage) - pode estar defasado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.rome2rio.com/s/Quer%C3%A9taro/Guadalajara",
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aeroportos BJX (Del Bajío) e GDL: como ir ao centro",
+      "categoria": "experiencia",
+      "cidade": "guanajuato",
+      "tags": [
+        "transporte",
+        "aeroporto",
+        "taxi",
+        "uber",
+        "golpe"
+      ],
+      "coords": {
+        "lat": 20.99333333,
+        "lng": -101.48083333
+      },
+      "descricaoCurta": "BJX fica em Silao, ~30-48 km de Guanajuato; Uber MX$250-380, táxi oficial MX$450-600; evite quiosques de rua (MX$1.200-2.000). GDL fica 18 km ao sul do centro.",
+      "descricaoLonga": "BJX (coordenada Wikipedia): Volaris tem hub; voos diretos a Dallas, Houston, Chicago, Los Angeles etc. e Cidade do México, Monterrey, Cancún, Tijuana, Puerto Vallarta. Não há transporte público direto: ônibus Primera Plus e Unebus ligam a León, SMA, Silao e Guanajuato; Rome2rio mostra ônibus do aeroporto à rodoviária de León + conexão (~1 h 56). Para Guanajuato: Uber MX$250-380; táxi oficial pré-pago MX$450-600 (tabiji, 2026); Wikivoyage: táxi MX$500-600 (jan/2024). Golpe: quiosques fora do terminal cobram MX$1.200-2.000. Aluguel de carro no próprio aeroporto: Hertz, Budget, Veico, City Car Rental. A distância ao centro aparece como 30,8 km (Rome2rio) ou 48 km (Wikivoyage). GDL: 18 km ao sul do centro; táxi com tabela fixa em balcão fora da chegada (Wikivoyage); QRO (Querétaro) fica a 26 km da cidade.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 600,
+        "por": "grupo",
+        "inclui": "Uber 250-380 / táxi oficial 450-600 (BJX -> centro de Guanajuato)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tabiji.ai/scams/guanajuato/",
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Aeropuerto del Bajío, Silao (BJX); Aeropuerto de Guadalajara (GDL)",
+      "dicasAgente": [
+        "Vale cada peso: Uber pedido depois de retirar a bagagem.",
+        "Corte: quiosques de táxi de rua."
+      ],
+      "alertas": [
+        "Distância BJX-Guanajuato diverge entre fontes (30,8 vs 48 km).",
+        "Sem preço verificado de GDL-centro."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Del_Baj%C3%ADo_International_Airport",
+        "https://tabiji.ai/scams/guanajuato/",
+        "https://en.wikivoyage.org/wiki/Guanajuato",
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "https://www.rome2rio.com/s/Guanajuato-International-Airport/Guanajuato"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Alugar carro compensa? Veredito para o circuito Bajío + Guadalajara",
+      "categoria": "aluguel-veiculo",
+      "cidade": "guanajuato",
+      "tags": [
+        "transporte",
+        "aluguel-de-carro",
+        "pedagio",
+        "veredito"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Para Guanajuato-SMA-Querétaro-Guadalajara, ônibus compensam mais; carro só se justifica para Bernal + vinícolas ou Tequila + Fortaleza em 1 dia.",
+      "descricaoLonga": "Distâncias de carro (Rome2rio): Guanajuato-SMA 76,5 km (~1 h 19), Guanajuato-Querétaro 147,7 km (~1 h 47), Querétaro-Guadalajara 351,7 km (~4 h 07); Guadalajara-Tequila ~65 km, ~1 h, pedágio MX$47-193 (México Desconocido). No BJX há Hertz, Budget, Veico e City Car Rental (Wikipedia). Ônibus entre as cidades são frequentes, e o estacionamento nos centros coloniais é ruim. O FCDO britânico recomenda viajar de dia e usar rodovias de pedágio (cuotas). Não obtive diária de aluguel em fonte aberta. Veredito do agente: casal econômico deve usar ônibus + Uber, alugando carro no máximo por 1 dia para Bernal + vinícola ou Tequila + destilaria.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "grupo",
+        "inclui": "Diária de aluguel não obtida em fonte aberta",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Aeroportos BJX/GDL ou cidade",
+      "dicasAgente": [
+        "Corte se apertar: carro para todo o circuito.",
+        "Vale cada peso: 1 dia de carro para Bernal + vinícolas, se ônibus/tour for pior."
+      ],
+      "alertas": [
+        "Sem preço de aluguel; recomendações de segurança são gerais (FCDO).",
+        "Veredito é opinião do agente baseada em distâncias e preços de ônibus."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Del_Baj%C3%ADo_International_Airport",
+        "https://www.rome2rio.com/s/Guanajuato/San-Miguel-de-Allende",
+        "https://www.rome2rio.com/s/Guanajuato/Quer%C3%A9taro",
+        "https://www.rome2rio.com/s/Quer%C3%A9taro/Guadalajara",
+        "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/",
+        "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security"
+      ],
+      "confianca": "estimado"
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+[
+  {
+    "id": "mx-gdl-centro-historico-de-guadalajara-catedral-plaza-de-la",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guadalajara_Cathedral"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teatro_Degollado"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro Histórico de Guadalajara (Catedral, Plaza de la Liberación, Teatro Degollado)",
+    "cidadeId": "guadalajara",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "catedral",
+      "caminhar",
+      "gratis"
+    ],
+    "coords": {
+      "lat": 20.6771333,
+      "lng": -103.3469694
+    },
+    "descricaoCurta": "Centro caminhável com a Catedral (iniciada em 1561), o Teatro Degollado (1866) e o entorno da Plaza de la Liberación.",
+    "descricaoLonga": "O Wikivoyage recomenda explorar o Centro a pé. A Catedral foi iniciada em 1561 e consagrada em 1716; as torres neogóticas amarelas e azuis são do século XIX. O Teatro Degollado, neoclássico, foi inaugurado em 1866. Perto fica o Instituto Cultural Cabañas. Cuidado com a área ao redor da antiga rodoviária (Central Vieja): Wikivoyage a descreve como perigosa para forasteiros.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã e fim de tarde.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_metropolitana_de_Guadalajara_01.jpg?width=1280",
+        "credito": "ProtoplasmaKid / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_metropolitana_de_Guadalajara_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (grátis): base para Hospicio Cabañas e Tlaquepaque.",
+      "Metrô/ônibus urbanos: MX$9,50 por viagem (Wikivoyage, valor possivelmente defasado)."
+    ],
+    "alertas": [
+      "Horários de visita à Catedral não confirmados.",
+      "Coordenada: OSM (Catedral).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-gdl-hospicio-cabanas-instituto-cultural-cabanas",
+    "fontes": [
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/arte-y-cultura/2024/12/06/39475-hospicio-cabanas-en-guadalajara-horarios-y-costos"
+      },
+      {
+        "url": "https://mail.theguadalajarareporter.net/index.php/featured/58926-reasons-to-visit-the-museo-cabanas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hospicio_Caba%C3%B1as"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Hospicio Cabañas (Instituto Cultural Cabañas)",
+    "cidadeId": "guadalajara",
+    "categoria": "museu",
+    "tags": [
+      "unesco",
+      "murais",
+      "orozco",
+      "arquitetura",
+      "museu"
+    ],
+    "coords": {
+      "lat": 20.6768706,
+      "lng": -103.3377051
+    },
+    "descricaoCurta": "Patrimônio UNESCO (1997) com os murais de José Clemente Orozco, incluindo o Hombre de Fuego na cúpula da capela; ~MX$80.",
+    "descricaoLonga": "Antigo hospício-orfanato (fundado em 1791, projeto de Manuel Tolsá) com 23 pátios, hoje museu e centro cultural. A obra-prima é o mural O Homem em Chamas (1936-39) de Orozco, na capela principal. Imperdível e barato dentro do circuito.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 11:00–17:00",
+    "diasFechados": [
+      "segunda"
+    ],
+    "melhorHorario": "Abertura (11:00) para ver o mural sem multidão.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 55,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "Geral/estrangeiros 80; mexicanos ou residentes 55 (2022); grátis para estudantes, professores e idosos com credencial; terça grátis segundo Wikivoyage/Guadalajara Reporter",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+        },
+        {
+          "url": "https://mail.theguadalajarareporter.net/index.php/featured/58926-reasons-to-visit-the-museo-cabanas"
+        },
+        {
+          "url": "https://www.tusbuenasnoticias.com/noticias/arte-y-cultura/2024/12/06/39475-hospicio-cabanas-en-guadalajara-horarios-y-costos"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Man_of_Fire.jpg?width=1280",
+        "credito": "P. Hughes / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Man_of_Fire.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: melhor atração cultural de Guadalajara."
+    ],
+    "alertas": [
+      "Horário: matéria de 2024 diz terça a domingo 11-17; matéria de 2022 diz segunda a domingo. Usei terça a domingo (fechado segunda não confirmado).",
+      "Terça grátis (2022) vs. aberto normalmente na terça (2024): conferir.",
+      "Valor 80/55 é de 2022; 2024 cita ~80."
+    ]
+  },
+  {
+    "id": "mx-gdl-tlaquepaque-parian-andador-independencia",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tlaquepaque"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tlaquepaque (Parián, Andador Independencia)",
+    "cidadeId": "guadalajara",
+    "categoria": "compras",
+    "tags": [
+      "compras",
+      "artesanato",
+      "mariachi",
+      "ceramica",
+      "vidro-soprado",
+      "pueblo-magico"
+    ],
+    "coords": {
+      "lat": 20.6388299,
+      "lng": -103.3110609
+    },
+    "descricaoCurta": "Vila de artesãos e galerias com o Parián (arcadas com restaurantes e mariachi) e o Andador Independencia; mais polido e turístico que Tonalá.",
+    "descricaoLonga": "Pueblo Mágico desde 2018, fica a 5-10 km do centro de Guadalajara. Tem El Parián (praça com arcadas e cerca de 18 restaurantes e bares, com mariachis), o pedonal Andador Independencia (galerias, lojas, casarões e o Museo Regional de la Cerámica, de entrada gratuita, seg-sex 9:00-17:00 segundo Wikivoyage) e o Museo Pantaleón Panduro. Compras: especialidade em cerâmica e vidro soprado. Em resumo, Tlaquepaque é melhor para passear, comer e ouvir mariachi; para PREÇO e variedade de artesanato, Tonalá (quinta e domingo) é melhor.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Tarde/noite no Parián (mariachi); dia útil para lojas mais calmas.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Par%C3%ADan_en_Tlaquepaque_Jalisco_M%C3%A9xico.jpg?width=1280",
+        "credito": "Encogua / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Par%C3%ADan_en_Tlaquepaque_Jalisco_M%C3%A9xico.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: jantar com mariachi no Parián costuma ser mais seguro e agradável que a Plaza de los Mariachis do centro.",
+      "Corte se apertar: comprar cerâmica aqui; Tonalá é mais barata (relato de guia: prato talavera ~MX$400-600 em galeria de Tlaquepaque vs 150-250 em oficina de Tonalá - trecho de resultado de busca, não verificado)."
+    ],
+    "alertas": [
+      "A comparação de preços Tlaquepaque x Tonalá vem de trecho de busca (nomadotravel), não aberto na íntegra; tratar como estimativa.",
+      "Horário de lojas não verificado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-gdl-tianguis-de-tonala-quinta-e-domingo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tonal%C3%A1,_Jalisco"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tianguis de Tonalá (quinta e domingo)",
+    "cidadeId": "guadalajara",
+    "categoria": "compras",
+    "tags": [
+      "compras",
+      "artesanato",
+      "ceramica",
+      "tianguis",
+      "barato",
+      "melhor-para-comprar"
+    ],
+    "coords": {
+      "lat": 20.6231138,
+      "lng": -103.2486546
+    },
+    "descricaoCurta": "Gigantesco mercado de rua de quinta e domingo (3.500-4.000 vendedores) com cerâmica, vidro, ferro e madeira; melhor preço e variedade da região.",
+    "descricaoLonga": "Tonalá é centro artesanal de Jalisco, sobretudo cerâmica, com vidro soprado, ferro forjado e marcenaria. O tianguis funciona às quintas e domingos (Wikipedia e Wikivoyage) e reúne milhares de vendedores, especialmente em época de feriados. Um guia indica funcionamento por volta das 8h-15h (trecho de busca, a confirmar). Resposta ao briefing: para comprar, Tonalá (nesses dois dias) é melhor que Tlaquepaque; Tlaquepaque vence em passeio e restaurantes.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–15:00",
+    "diasFechados": [],
+    "melhorHorario": "Quinta ou domingo logo cedo (8h), antes do calor e do pico.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tianguis_de_Tonal%C3%A1.jpg?width=1280",
+        "credito": "Gzzz / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tianguis_de_Tonal%C3%A1.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: negocie; leve dinheiro vivo.",
+      "Cerâmica é pesada e frágil: calcule bagagem ou frete antes."
+    ],
+    "alertas": [
+      "Horário 08:00-15:00 vem de trecho de busca de guia (nomadotravel), não aberto; confirmar.",
+      "Fora de quinta e domingo só há lojas/oficinas, sem o grande tianguis.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-gdl-plaza-de-los-mariachis-guadalajara",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://www.aztecajalisco.com/arte-y-cultura/cuanto-cuesta-llevar-una-serenata-mariachi-en-guadalajara-2025"
+      },
+      {
+        "url": "https://theguadalajarareporter.net/index.php/news/news/guadalajara/47433-guadalajara-city-hall-clears-out-downtown-s-legendary-mariachi-plaza"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Plaza de los Mariachis (Guadalajara)",
+    "cidadeId": "guadalajara",
+    "categoria": "experiencia",
+    "tags": [
+      "mariachi",
+      "musica",
+      "tradicao",
+      "seguranca",
+      "noite"
+    ],
+    "coords": {
+      "lat": 20.6748584,
+      "lng": -103.3413471
+    },
+    "descricaoCurta": "Praça tradicional de mariachis no centro; negocie o preço antes e atenção à segurança à noite: bairro fica pesado depois de escurecer.",
+    "descricaoLonga": "Principal praça de mariachis de Guadalajara. Não há tarifa fixa: contrata-se por canção ou por hora. Valores de serenata: MX$1.500-5.000 (14-18 canções); por hora, MX$1.800 (5 músicos) a 3.000 (9 músicos), média MX$3.000-4.000 (reportagem 2025; não é o preço de 'uma canção' de balcão). Aviso de segurança: o Wikivoyage diz que o bairro 'fica barra pesada depois do escurecer' e matéria de 2016 cita alta criminalidade e segurança deficiente na área (dado antigo). Alternativa mais confortável: o Parián de Tlaquepaque, com restaurantes que têm mariachi.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "melhorHorario": "Início da noite e fins de semana, mas saia antes de a praça esvaziar; vá de Uber, não a pé à noite.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza_de_los_Mariachis_2013.jpg?width=1280",
+        "credito": "Reporte Fénix / Wikimedia Commons",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_de_los_Mariachis_2013.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Corte se apertar: contratar mariachi privado (centenas a milhares de pesos). Ouvir de longe é grátis.",
+      "Vale cada peso: jantar com mariachi no Parián de Tlaquepaque."
+    ],
+    "alertas": [
+      "Preço por canção NÃO encontrado; só valores de serenata/hora.",
+      "Informação de segurança do Wikivoyage e matéria de 2016 (idade grande).",
+      "Combine o preço antes de eles tocarem (guia).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-gdl-vida-noturna-da-av-chapultepec-e-colonia-americana-g",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Vida noturna da Av. Chapultepec e Colonia Americana (Guadalajara)",
+    "cidadeId": "guadalajara",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "bares",
+      "baladas",
+      "chapultepec",
+      "americana"
+    ],
+    "coords": {
+      "lat": 20.6764114,
+      "lng": -103.3687899
+    },
+    "descricaoCurta": "Principal corredor de bares e clubes de Guadalajara (Chapultepec, Zona Rosa, Minerva). Cover de fim de semana ~MX$50-200; drinks ~MX$120-250.",
+    "descricaoLonga": "Segundo o Wikivoyage, Chapultepec, Zona Rosa e Minerva são as principais áreas de entretenimento a oeste do centro. Um guia (trecho de busca) diz que os bares enchem depois das 23h, clubes lotam por volta da meia-noite e os mais sérios funcionam até 4h-5h; cover de fim de semana MX$50-200 e coquetéis MX$120-250. É aqui que o casal de perfil noite/compras realmente encontra o que a região (Guanajuato, SMA, Querétaro) não tem em escala. A Colonia Americana é descrita como animada; 1 a 2 quadras de distância ficam bem mais tranquilas.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 120,
+      "max": 250,
+      "por": "pessoa",
+      "inclui": "Coquetel 120-250; cover de balada 50-200 em fins de semana (trecho de guia, a confirmar)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Av._Chapultepec,_Guadalajara.jpg?width=1280",
+        "credito": "Eduardo López López / Wikimedia Commons",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Av._Chapultepec,_Guadalajara.jpg"
+      }
+    ],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: é o único lugar do circuito com vida noturna 'grande' a preço razoável; durma na Americana/Chapultepec para voltar a pé/curta corrida.",
+      "Corte se apertar: clubes caros; prefira bares com música ao vivo e happy hour."
+    ],
+    "alertas": [
+      "Preços e horários vêm de guia (nomadotravel, trecho de busca não aberto) - estimado.",
+      "Informação de segurança por quadra é geral (Wikivoyage não detalha)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-destilaria-la-rojena-jose-cuervo-mundo-cuervo",
+    "fontes": [
+      {
+        "url": "https://mundocuervo.com.mx/"
+      },
+      {
+        "url": "https://www.zonaturistica.com/que-hacer/jalisco/tequila/destileria-la-rojena-mundo-cuervo"
+      },
+      {
+        "url": "https://alcoholprofessor.com/blog-posts/best-distilleries-to-visit-in-tequila"
+      },
+      {
+        "url": "https://thedailypour.com/?p=113357"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Destilaria La Rojeña (José Cuervo / Mundo Cuervo)",
+    "cidadeId": "guadalajara",
+    "categoria": "passeio",
+    "tags": [
+      "destilaria",
+      "tequila",
+      "degustacao",
+      "jose-cuervo",
+      "historia"
+    ],
+    "coords": {
+      "lat": 20.8855269,
+      "lng": -103.8406975
+    },
+    "descricaoCurta": "Destilaria em funcionamento desde 1812 no centro de Tequila; tour oficial 'Experiencia Jose Cuervo' de 1,5 h por MX$585; sem reserva obrigatória fora de feriado/fim de semana.",
+    "descricaoLonga": "A Fábrica La Rojeña, de 1812, é a destilaria mais turística de Tequila (descrita pelo The Daily Pour como mais museu que fábrica em operação). No site oficial a Experiencia Jose Cuervo custa MX$585 (1,5 h), com reserva online. Tours de terceiros e fontes antigas citam MX$200 (Classic, 1 h), 330 (1,5 h), 475 (VIP, 2 h) e 720 (VIP com campos, 3 h) - valores defasados frente ao site oficial. Horário citado pelo agregador: diário 11-17.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "11:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Cedo (11:00); evite sábados com trem + excursões.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 720,
+      "por": "pessoa",
+      "inclui": "Oficial: Experiencia Jose Cuervo 585 (1,5 h). Faixa de fontes antigas: 200-720",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://mundocuervo.com.mx/"
+        },
+        {
+          "url": "https://www.zonaturistica.com/que-hacer/jalisco/tequila/destileria-la-rojena-mundo-cuervo"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://mundocuervo.com.mx/"
+    },
+    "contato": {
+      "telefone": "374-742-0700",
+      "site": "https://mundocuervo.com.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: 1 destilaria de verdade (esta ou La Fortaleza) e o resto do dia na cidade.",
+      "Corte se apertar: tours VIP e 'com campos' mais caros."
+    ],
+    "alertas": [
+      "Preço oficial (585) diverge de agregadores (200-720); usei faixa e priorizei o oficial.",
+      "Horário vem de agregador (zonaturistica), não do site oficial."
+    ],
+    "passeio": {
+      "pontoPartida": "José Cuervo 73, Centro, Tequila, Jalisco",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-gdl-destilarias-com-hora-marcada-fortaleza-casa-sauza-e",
+    "fontes": [
+      {
+        "url": "https://alcoholprofessor.com/blog-posts/best-distilleries-to-visit-in-tequila"
+      },
+      {
+        "url": "https://thedailypour.com/?p=113357"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tequila"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Destilarias com hora marcada: Fortaleza, Casa Sauza e outras",
+    "cidadeId": "guadalajara",
+    "categoria": "passeio",
+    "tags": [
+      "destilaria",
+      "tequila",
+      "hora-marcada",
+      "artesanal"
+    ],
+    "descricaoCurta": "La Fortaleza só recebe visitas agendadas por e-mail; Casa Sauza tem três níveis de tour (1-3 h) com reserva recomendada.",
+    "descricaoLonga": "La Fortaleza (Los Abuelos), fundada em 2005, aceita apenas visitas com agendamento por e-mail, segundo AlcoholProfessor; um resultado de busca diz que é preciso planejar com pelo menos 36 h de antecedência e que operadoras privadas cobram a partir de ~US$236/pessoa. Casa Sauza: três níveis de tour (1-3 h), jardim botânico de agave, cantarito caseiro, reserva recomendada; Wikivoyage cita La Perseverancia (Sauza) 09:30-15:00, fechada aos domingos. La Tequileña (Don Fulano) também só com hora marcada. Siete Leguas tem tahona movida a mula às 11h e 15h. O Museo Nacional del Tequila abre 10:00-17:30 (Wikivoyage).",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã.",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso se você curte tequila artesanal: Fortaleza.",
+      "Corte se apertar: tours privados de ~US$236 para um destino que você faz por conta própria."
+    ],
+    "alertas": [
+      "Horário 09:30-15:00 (fechado domingo) refere-se a Sauza La Perseverancia (Wikivoyage), não a Fortaleza.",
+      "Preços em MXN não encontrados; coordenadas não definidas (0,0).",
+      "Antecedência de 36 h vem de resultado de busca (não aberto).",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Tequila, Jalisco (cada destilaria em endereço próprio)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-gdl-trem-jose-cuervo-express-guadalajara-tequila",
+    "fontes": [
+      {
+        "url": "https://www.mundocuervo.com/esp/jose-cuervo-express/"
+      },
+      {
+        "url": "https://mundocuervo.com.mx/"
+      },
+      {
+        "url": "https://www.adn40.mx/mexico/2024-09-25/tequila-express-precio-boletos-para-viajar-al-pueblo-magico/"
+      },
+      {
+        "url": "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Trem José Cuervo Express (Guadalajara - Tequila)",
+    "cidadeId": "guadalajara",
+    "categoria": "passeio",
+    "tags": [
+      "trem",
+      "tequila",
+      "dia-inteiro",
+      "caro",
+      "open-bar-coquetel"
+    ],
+    "descricaoCurta": "Trem turístico aos sábados a partir de Guadalajara: ~11 h, Express a MX$3.250; inclui trem, coquetéis, visita a destilaria e degustação.",
+    "descricaoLonga": "Operado pela marca José Cuervo, sai aos sábados da estação ferroviária de Guadalajara (9:00) e leva a Tequila: campos de agave, destilaria La Rojeña, coquetéis e shows. Classes no site oficial: Express MX$3.250 (jovens 6-17 anos 2.680), Premium Plus 3.670, Diamante 4.440 e Elite 4.810 (11 h). Há rotas 'nascer do sol' (trem de ida, ônibus de volta) e 'pôr do sol' (inverso), pelo mesmo preço (adn40). Eventos especiais: Vagão das Ânimas (Dia dos Mortos) em 24 e 31 de outubro e 7 de novembro de 2026 (MX$4.850) e Corrida Tradicional em 3, 10 e 17/10/2026. Reserva via Peek. Preços de matérias (3.195/3.580/4.150) e do guia mexicodesconocido (a partir de 2.995) estão defasados frente ao site oficial.",
+    "duracao": {
+      "min": 600,
+      "tipica": 660,
+      "max": 660
+    },
+    "horariosObservacao": "Não opera | Saída 09:00; duração ~11 h",
+    "diasFechados": [
+      "segunda",
+      "terça",
+      "quarta",
+      "quinta",
+      "sexta",
+      "domingo"
+    ],
+    "melhorHorario": "Sábados; escolher rota nascer ou pôr do sol.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 3250,
+      "max": 4810,
+      "por": "pessoa",
+      "inclui": "Express 3.250 / Premium Plus 3.670 / Diamante 4.440 / Elite 4.810; trem + degustação + visita à destilaria + coquetéis (varia por classe)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.mundocuervo.com/esp/jose-cuervo-express/"
+        },
+        {
+          "url": "https://www.adn40.mx/mexico/2024-09-25/tequila-express-precio-boletos-para-viajar-al-pueblo-magico/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7,
+      "link": "https://www.mundocuervo.com/esp/jose-cuervo-express/"
+    },
+    "contato": {
+      "telefone": "+52 374 742 6729",
+      "site": "https://mundocuervo.com.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: ~MX$3.250 por pessoa = ~7x o custo de ir de ônibus (MX$260 ida e volta) + tour oficial La Rojeña (MX$585).",
+      "Vale só se o trem e o show forem o objetivo; para 'beber tequila' não vale."
+    ],
+    "alertas": [
+      "Antecedência (7 dias) é estimativa do agente; lotação em datas especiais.",
+      "Coordenada da estação de Guadalajara não encontrada em fonte aceita (0,0).",
+      "Atenção ao aviso: 'tour que é só bebedeira'  - este trem mistura coquetéis e shows, e a visita à destilaria é parte do pacote.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Estação de trem de Guadalajara, aos sábados 09:00 (adn40)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-gdl-bate-volta-guadalajara-tequila-tour-de-dia-inteiro-o",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tequila"
+      },
+      {
+        "url": "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/"
+      },
+      {
+        "url": "https://www.civitatis.com/es/guadalajara/excursion-tequila/"
+      },
+      {
+        "url": "https://mundocuervo.com.mx/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bate-volta Guadalajara - Tequila (tour de dia inteiro ou por conta própria)",
+    "cidadeId": "guadalajara",
+    "categoria": "passeio",
+    "tags": [
+      "bate-volta",
+      "onibus",
+      "tour",
+      "tequila",
+      "economico"
+    ],
+    "descricaoCurta": "Por conta própria: ônibus Tequila Plus (~1 h, MX$140 ida / 260 ida e volta, saídas a cada 30 min) + tour oficial. Tour de 8 h com pickup: R$562 no Civitatis (BRL).",
+    "descricaoLonga": "Por conta própria: Tequila Plus sai da Antigua Central Camionera (Central Vieja) de Guadalajara a cada 30 min, de 6:00 às 20:30, ~1 h-2 h; Wikivoyage (jan/2026): MX$140 ida e MX$260 ida e volta. De carro: ~65 km, 1 h, pedágios MX$47-193 (México Desconocido). Uber/Didi: ~MX$615-750. Tour pronto: Civitatis 8 h com pickup no hotel, La Rojeña, degustação e demonstração de agave em Amatitán, nota 9,1/10 com 170 avaliações; preço exibido R$562 (reais; não convertido). Alerta honesto sobre tour 'só bebedeira': não achei fonte que quantifique; do ponto de vista do agente, desconfie de pacotes vendidos como 'open bar/cantaritos' sem visita guiada de produção e prefira uma destilaria real (La Rojeña/Fortaleza). Cuidado: a região de Central Vieja é apontada como perigosa para forasteiros (Wikivoyage); pegue Uber até o ponto de embarque e vá de dia.",
+    "duracao": {
+      "min": 420,
+      "tipica": 540,
+      "max": 660
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "20:30"
+        }
+      ]
+    },
+    "horariosObservacao": "06:00–20:30 (ônibus)",
+    "diasFechados": [],
+    "melhorHorario": "Sair de Guadalajara até as 9h-10h.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 260,
+      "max": 845,
+      "por": "pessoa",
+      "inclui": "DIY: ônibus ida e volta 260 + tour La Rojeña 585 = ~845; só o ônibus 260",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Tequila"
+        },
+        {
+          "url": "https://escapadas.mexicodesconocido.com.mx/como-llegar-tequila-jalisco/"
+        },
+        {
+          "url": "https://mundocuervo.com.mx/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: ônibus + tour oficial é o jeito econômico.",
+      "Corte se apertar: tour de pickup em reais (R$562 no Civitatis) e o trem."
+    ],
+    "alertas": [
+      "A soma 845 é cálculo do agente (260 + 585), não preço de fonte única.",
+      "Civitatis exibiu preço em reais; não converti.",
+      "Aviso de tour de bebedeira: sem fonte quantitativa; advice do agente (estimado).",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Antigua Central Camionera (Central Vieja), Guadalajara - ou Uber/hotel pickup para tours",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-gdl-transporte-onibus-queretaro-guanajuato-para-guadalaj",
+    "fontes": [
+      {
+        "url": "https://www.rome2rio.com/s/Quer%C3%A9taro/Guadalajara"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Transporte: ônibus Querétaro/Guanajuato para Guadalajara",
+    "cidadeId": "guadalajara",
+    "categoria": "experiencia",
+    "tags": [
+      "transporte",
+      "onibus",
+      "primera-plus",
+      "futura",
+      "logistica"
+    ],
+    "descricaoCurta": "Querétaro-Guadalajara: Primera Plus de hora em hora (~5 h; R$240-340 no Rome2rio); Guanajuato-Guadalajara: Primera Plus ~MX$750 (nov/2024, Wikivoyage).",
+    "descricaoLonga": "Rome2rio (em R$): Querétaro-Guadalajara Primera Plus a cada hora, ~5 h, R$240-340; Futura a cada 2 h; carro 351,7 km, ~4 h 07. Wikivoyage: Guanajuato-Guadalajara com Primera Plus a ~MX$750 (nov/2024) e León-Guanajuato MX$100. O Wikivoyage também recomenda evitar o entorno da antiga rodoviária (Central Vieja) de Guadalajara. Na Nueva Central Camionera, o Rome2rio indica o ônibus de Querétaro chegando ao Mod 1.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 750,
+      "max": 750,
+      "por": "pessoa",
+      "inclui": "Guanajuato-Guadalajara Primera Plus (Wikivoyage, nov/2024)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: dormir no ônibus noturno não é recomendado; viaje de dia.",
+      "Corte se apertar: avião BJX-GDL (não pesquisado)."
+    ],
+    "alertas": [
+      "Rome2rio mostra R$ (BRL), não MXN.",
+      "Valor 750 é de nov/2024 (Wikivoyage) - pode estar defasado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

@@ -1,0 +1,721 @@
+[
+  {
+    "id": "mx-sma-parroquia-de-san-miguel-arcangel",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:NightView_ParishSanMiguel2019.jpg"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Parroquia de San Miguel Arcángel",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "atracao",
+    "tags": [
+      "icone",
+      "igreja",
+      "foto",
+      "centro-historico",
+      "gratis"
+    ],
+    "descricaoCurta": "A fachada neogótica rosada que domina o Jardín Principal e é a imagem de San Miguel de Allende.",
+    "descricaoLonga": "Principal cartão-postal da cidade, dominando a praça central com sua fachada de pedra rosada. Vale ser vista de dia e à noite (iluminada). A cidade em si é o atrativo: ruas de pedra, pátios, galerias e rooftops. Horários de missa/visita e eventual taxa não constam nas fontes consultadas.",
+    "duracao": {
+      "min": 10,
+      "tipica": 20,
+      "max": 40
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim da tarde e noite (iluminação); manhã cedo para menos gente.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NightView_ParishSanMiguel2019.jpg?width=1280",
+        "credito": "Carlos Valenzuela / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:NightView_ParishSanMiguel2019.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (custa 0): é só ir ao Jardín Principal; ótimo para sentar e ver a vida local."
+    ],
+    "alertas": [
+      "Coordenada exata da igreja não encontrada em OSM/Wikipedia durante a pesquisa: deixada 0,0.",
+      "Horários e regras de visita interna não confirmados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-sma-fabrica-la-aurora",
+    "fontes": [
+      {
+        "url": "https://foodandpleasure.com/fabrica-la-aurora-en-san-miguel-de-allende/"
+      },
+      {
+        "url": "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/946/fabrica-la-aurora-san-miguel-de-allende.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Fábrica La Aurora",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "compras",
+    "tags": [
+      "arte",
+      "galerias",
+      "design",
+      "gratis",
+      "ateliers"
+    ],
+    "coords": {
+      "lat": 20.9232753,
+      "lng": -100.7403738
+    },
+    "descricaoCurta": "Antiga fábrica têxtil (1902) convertida em centro de arte e design com ateliês, galerias, lojas e restaurantes; entrada gratuita.",
+    "descricaoLonga": "Complexo restaurado de uma fábrica têxtil de 1902, hoje com cerca de 40 a 75 espaços (ateliês de artistas, galerias de arte contemporânea, antiguidades, móveis de design, joias, têxteis e restaurantes). Dá para ver artistas trabalhando e há Art Walks periódicos. Entrada gratuita, mas o que se vende é de público de alto poder aquisitivo: serve para olhar, não para comprar barato.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00–18:00 | 10:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Tarde (ateliês abertos), depois café/rooftop.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "415-152-1312"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jard%C3%ADn_F%C3%A1brica_Aurora_SMA.jpg?width=1280",
+        "credito": "Marcorodcab70 / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_F%C3%A1brica_Aurora_SMA.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (custa 0) como passeio de uma tarde; compras só se houver orçamento grande."
+    ],
+    "alertas": [
+      "Preços das lojas são altos (clientela estrangeira).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-sma-jardin-botanico-el-charco-del-ingenio",
+    "fontes": [
+      {
+        "url": "http://www.elcharco.org.mx"
+      },
+      {
+        "url": "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/175/jardin-botanico-el-charco-del-ingenio-san-miguel-de-allende.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Jardín Botánico El Charco del Ingenio",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "natureza",
+    "tags": [
+      "natureza",
+      "trilha",
+      "cactos",
+      "jardim-botanico",
+      "passaros"
+    ],
+    "coords": {
+      "lat": 20.921027,
+      "lng": -100.7289988
+    },
+    "descricaoCurta": "Reserva natural de 67 ha com jardim botânico de cactos, mirantes, ruínas históricas e trilhas; ingresso MX$100 (MX$50 com credencial).",
+    "descricaoLonga": "Reserva ecológica ao norte do centro com coleção de cactos, represa, mirantes, santuário de aves, ruínas e área infantil. O melhor 'natureza' que San Miguel oferece ao perfil do casal - é um passeio leve, não equivale a trilhas de praia/montanha. Aberto todos os dias do ano. Há passeios de observação de aves em quartas alternadas (Wikivoyage) e um shuttle gratuito em alguns dias (zonaturistica, data da informação desconhecida).",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã (mais fresco e mais aves).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "Geral 100; estudantes, professores e idosos 50 (credencial nacional); menores de 10 grátis - site oficial (dez/2024)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "http://www.elcharco.org.mx"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 415 103 8090",
+      "site": "http://www.elcharco.org.mx"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_desde_Jard%C3%ADn_Bot%C3%A1nico_en_El_Charco_del_Ingenio.jpg?width=1280",
+        "credito": "Nan.P.182 / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Vista_desde_Jard%C3%ADn_Bot%C3%A1nico_en_El_Charco_del_Ingenio.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Terreno irregular; levar calçado fechado e água"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se você quer um respiro de natureza em SMA.",
+      "Corte se apertar: se já fará Peña de Bernal ou termas, é redundante."
+    ],
+    "alertas": [
+      "Preço de blogs antigos (MX$50) está defasado; o site oficial (dez/2024) diz 100 geral.",
+      "Shuttle gratuito: confirmar se ainda opera."
+    ]
+  },
+  {
+    "id": "mx-sma-rooftops-de-san-miguel-de-allende-luna-quince-la-azo",
+    "fontes": [
+      {
+        "url": "http://www.therooftopguide.com/rooftop-bars-in-san-miguel-de-allende.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Rooftops de San Miguel de Allende (Luna, Quince, La Azotea e outros)",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "bar",
+    "tags": [
+      "rooftop",
+      "vida-noturna",
+      "drinks",
+      "caro",
+      "vista"
+    ],
+    "coords": {
+      "lat": 20.909345,
+      "lng": -100.7448734
+    },
+    "descricaoCurta": "San Miguel é a cidade dos rooftops do México; drinks custam em geral MX$150-320 e vários exigem reserva.",
+    "descricaoLonga": "Guia de rooftops (preços de coquetel): Luna Rooftop (Rosewood) 295-320, reserva obrigatória; Zumo 295-320; Quince ~300; Trazo 1810 ~280; Casa Nostra 225; La Única ~210; Terraza La Vista ~250; Rooftop by Amatte ~240; La Azotea ~150 (só sem reserva, o mais barato). Vida noturna 'tradicional' além dos rooftops: Mama Mia (quatro ambientes em um) e El Grito (só fins de semana, com cover) segundo o Wikivoyage (dado possivelmente defasado). Para o casal econômico, 1 drink em La Azotea ou similar já resolve a vista; jantar nos rooftops é caro.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 150,
+      "max": 320,
+      "por": "pessoa",
+      "inclui": "Preço de um coquetel (não inclui jantar)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "http://www.therooftopguide.com/rooftop-bars-in-san-miguel-de-allende.html"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso: 1 drink ao pôr do sol em rooftop barato (La Azotea, ~MX$150).",
+      "Corte se apertar: Luna/Quince/Zumo têm preço de turista estrangeiro."
+    ],
+    "alertas": [
+      "Guia de rooftops não indica horários; reservas via OpenTable/WhatsApp/site conforme o local.",
+      "Preços do guia são aproximados; localização do Luna sobre o Rosewood vem de resultado de busca (The World's 50 Best), não da página aberta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "mx-sma-aviso-san-miguel-de-allende-e-a-cidade-mais-cara-e-m",
+    "fontes": [
+      {
+        "url": "https://www.riotimesonline.com/cost-of-living-san-miguel-de-allende-expats-2026/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aviso: San Miguel de Allende é a cidade mais cara e mais gringo-friendly da região",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "custo",
+      "expats",
+      "economia"
+    ],
+    "descricaoCurta": "Preços definidos pelo mercado estrangeiro: 30-40% acima de Guanajuato (exceto comida de rua). Para casal econômico, durma em Guanajuato e visite SMA em bate-volta.",
+    "descricaoLonga": "Uma análise de custo de vida de setembro/2026 resume: o custo de vida em San Miguel é definido pelo mercado estrangeiro, não o local; há cerca de 20-25 mil residentes estrangeiros, em geral americanos, e o aluguel de um quarto no centro equivale a 1,7x o salário médio local. Outro guia estima Guanajuato 30-40% mais barata, com a exceção de comida de rua. Valores de referência: ônibus urbano MX$10; táxi no centro MX$50-80; comida corrida US$6-8; jantar para dois de faixa média US$30-50; refeições de mercado MX$30-90 (Wikivoyage); dormitórios de hostel abaixo de MX$500 e quartos duplos de MX$500-1.000 no Wikivoyage (dados possivelmente defasados). Mercado de rua costuma poupar; fora do centro histórico os preços 'pertencem a outro país'.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Estratégia: base em Guanajuato (ou Querétaro), SMA como bate-volta de dia (ônibus ~1h20).",
+      "Corte se apertar: jantares e hospedagem em SMA; fique com Aurora (grátis), Charco, termas e um drink em rooftop barato."
+    ],
+    "alertas": [
+      "Valores em USD vêm de reportagem do Rio Times; conversão para MXN não foi feita para evitar chute de câmbio.",
+      "Comparação 30-40% vem de resumo de busca de guia (não aberto na íntegra).",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-sma-la-gruta-termas-e-spa-atotonilco",
+    "fontes": [
+      {
+        "url": "https://www.letstraveltomexico.com/la-gruta-san-miguel-de-allende/"
+      },
+      {
+        "url": "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Gruta (termas e spa) - Atotonilco",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "natureza",
+    "tags": [
+      "termas",
+      "agua-quente",
+      "relax",
+      "gruta",
+      "atotonilco"
+    ],
+    "descricaoCurta": "Complexo termal com gruta subterrânea e piscinas de água quente perto de Atotonilco; ingresso ~MX$250-300, fecha seg e ter.",
+    "descricaoLonga": "Spa de águas termais a ~15 min de San Miguel, na saída do povoado de Atotonilco, com gruta artificial, temazcal subterrâneo, piscinas, restaurante e estacionamento. Aberto de quarta a domingo, das 7h às 17h (fecha seg e ter para manutenção, segundo o guia letstraveltomexico). Chegar às 7h evita lotação. Crianças não podem entrar na gruta pelo calor. Proibido entrar com comida/bebida (exceto água).",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": "fechado",
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 07:00–17:00",
+    "diasFechados": [
+      "segunda",
+      "terça"
+    ],
+    "melhorHorario": "Abertura (07:00) em dia de semana.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 250,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "Entrada; armário com depósito reembolsável de 50 (guia letstraveltomexico)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.letstraveltomexico.com/la-gruta-san-miguel-de-allende/"
+        },
+        {
+          "url": "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Proibido levar comida e bebidas (exceto água)",
+        "Crianças não entram na gruta"
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: melhor 'natureza + relax' barato da região; combine com o Santuário de Atotonilco (patrimônio UNESCO) a pé.",
+      "Leve maiô, toalha, dinheiro vivo e água."
+    ],
+    "alertas": [
+      "Preço 250 (letstravel) vs 300 (Uno TV, jul/2024): faixa 250-300.",
+      "Coordenada não encontrada em fonte aceita (0,0).",
+      "Ônibus e táxi: valores de guia, não confirmados hoje.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-sma-escondido-place-parque-termal-atotonilco",
+    "fontes": [
+      {
+        "url": "https://www.adn40.mx/mexico/2026-07-22/el-parque-de-aguas-termales-a-20-minutos-de-san-miguel-de-allende-que-abre-los-365-dias-del-ano-esto-cuesta-la-entrada-en-julio-2026/"
+      },
+      {
+        "url": "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Escondido Place (parque termal) - Atotonilco",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "natureza",
+    "tags": [
+      "termas",
+      "agua-quente",
+      "relax",
+      "piscinas",
+      "atotonilco"
+    ],
+    "coords": {
+      "lat": 20.9924541,
+      "lng": -100.7919051
+    },
+    "descricaoCurta": "Parque de águas termais dentro da área do Santuário de Atotonilco; ingresso MX$300 (jul/2026), aberto todos os dias 8h-17h.",
+    "descricaoLonga": "Parque termal 'conceitual' com piscinas internas e externas, área infantil, spa Renacimiento, restaurante de comida mexicana e hotel. Fica no Km 10 da rodovia San Miguel de Allende - Dolores Hidalgo, a ~20 min (12,6 km) do centro de SMA. Abre os 365 dias do ano.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 300,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "Entrada a partir de 100 cm de altura (adn40, jul/2026); fontes antigas citam 250 ou 190",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.adn40.mx/mexico/2026-07-22/el-parque-de-aguas-termales-a-20-minutos-de-san-miguel-de-allende-que-abre-los-365-dias-del-ano-esto-cuesta-la-entrada-en-julio-2026/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Vale cada peso se só puder fazer UMA terma: aberto todos os dias (La Gruta fecha seg/ter).",
+      "Corte se apertar: escolha um dos dois, não os dois."
+    ],
+    "alertas": [
+      "Preço divergente: 190 (Wikivoyage), 250 (Uno TV 2024), 300 (adn40 jul/2026) - usei o mais recente."
+    ]
+  },
+  {
+    "id": "mx-sma-santuario-de-jesus-nazareno-de-atotonilco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanctuary_of_Atotonilco"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Santuário de Jesús Nazareno de Atotonilco",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "atracao",
+    "tags": [
+      "unesco",
+      "igreja",
+      "afrescos",
+      "atotonilco"
+    ],
+    "coords": {
+      "lat": 21.00498889,
+      "lng": -100.79456389
+    },
+    "descricaoCurta": "Santuário barroco com afrescos interiores, chamado de Capela Sistina do México; Patrimônio Mundial, perto das termas.",
+    "descricaoLonga": "Santuário a ~12 km a noroeste de San Miguel de Allende, famoso pelos afrescos interiores (apelidado de 'Capela Sistina do México' no Wikivoyage). Fica junto às termas La Gruta e Escondido Place, formando um bom meio-dia combinado. Horário e eventual doação/ingresso não confirmados nas fontes.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco,_San_Miguel_de_Allende,_Guanajuato,_M%C3%A9xico_05.jpg?width=1280",
+        "credito": "Manuel A. de Anda Gomez / Wikimedia Commons",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Santuario_de_Jes%C3%BAs_Nazareno_de_Atotonilco,_San_Miguel_de_Allende,_Guanajuato,_M%C3%A9xico_05.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso se estiver nas termas: é caminhável a partir de La Gruta."
+    ],
+    "alertas": [
+      "Horário e ingresso não confirmados.",
+      "Cuidado: o OSM tem um 'Santuario del Niño de la Salud' em Atotonilco, San Luis Potosí, homônimo de localidade; a coordenada usada é da Wikipedia (Sanctuary of Atotonilco).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  }
+]

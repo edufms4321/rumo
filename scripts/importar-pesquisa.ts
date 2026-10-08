@@ -84,6 +84,24 @@ function main(): void {
   const logistica = ler(arquivoDeLogistica);
   const coords = ler('coords-cidades.json');
 
+  // Onda dedicada de clima e calendario anual, quando existe: ela traz os 12
+  // meses por cidade e as datas de mais de um ano. Entra por cima da tabela
+  // regional de um mes so que veio na onda de logistica.
+  for (const arquivo of arquivosDaPasta) {
+    if (arquivo === arquivoDeLogistica) continue;
+    const conteudo = ler(arquivo);
+    if (Array.isArray(conteudo.climaPorCidadeEMes)) {
+      logistica.climaPorCidadeEMes = conteudo.climaPorCidadeEMes;
+      console.log(`  clima dos 12 meses vindo de ${arquivo}`);
+    }
+    if (Array.isArray(conteudo.calendarioAnual)) {
+      logistica.calendarioAnual = [
+        ...((logistica.calendarioAnual ?? []) as Json[]),
+        ...conteudo.calendarioAnual,
+      ];
+    }
+  }
+
   // Le TODA onda que declare uma `base`. Uma onda nova entra so soltando o
   // JSON na pasta - nenhuma mudanca de codigo.
   const bases: Json = {};
