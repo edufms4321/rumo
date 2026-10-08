@@ -1,0 +1,33 @@
+{
+ "_leia": "Ajustes mesclados por cima do resultado do conversor. Reexecutar o conversor nao perde nada daqui. Lista substitui lista inteira; null apaga a chave.",
+ "itens": {},
+ "_leia_destino": "Campos conferidos em fonte primaria pelo agente principal, em 2026-10-08.",
+ "destino": {
+  "entrada": [
+   {
+    "nacionalidade": "BR",
+    "documento": "Passaporte valido. Brasileiro NAO precisa de visto para turismo na Republica Dominicana.",
+    "vistoNecessario": false,
+    "comprovantesExigidos": [
+     "E-Ticket (formulario eletronico de entrada e saida)"
+    ],
+    "formularioMigratorio": "E-TICKET: obrigatorio para TODO passageiro, estrangeiro ou dominicano, tanto na ENTRADA quanto na SAIDA do pais. E GRATUITO. Reune num documento so as declaracoes de Migracao, Alfandega e Saude Publica que antes se preenchiam a mao no aeroporto. Preencha ate 72 h antes do voo em eticket.migracion.gob.do; sai um QR code para levar no celular ou impresso.",
+    "observacoes": "ATENCAO AO GOLPE: o E-Ticket e de graca e so existe no site oficial (eticket.migracion.gob.do). Sites que cobram para preencher sao intermediarios, nao o governo. Confirmado em 2026-10-08 nas paginas da Direccion General de Migracion e da Presidencia.",
+    "fontes": [
+     {
+      "url": "https://migracion.gob.do/servicio/solicitud-de-e-ticket-entrada-y-salida-de-pasajeros/",
+      "titulo": "Direccion General de Migracion — servico do E-Ticket"
+     },
+     {
+      "url": "https://presidencia.gob.do/noticias/gobierno-implementa-nuevo-formulario-electronico-para-entrar-y-salir-de-republica",
+      "titulo": "Presidencia da Republica Dominicana — anuncio do formulario"
+     },
+     {
+      "url": "https://eticket.migracion.gob.do/",
+      "titulo": "Portal oficial do E-Ticket (unico lugar onde se preenche)"
+     }
+    ]
+   }
+  ]
+ }
+}
