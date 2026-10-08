@@ -87,6 +87,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/6182277415"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -186,7 +190,14 @@
       "site": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php",
       "instagram": "@ultramarferry"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg/1280px-Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": []

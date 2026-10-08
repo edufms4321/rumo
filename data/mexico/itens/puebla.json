@@ -79,6 +79,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/way/993724155"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Capilla_del_Rosario_Puebla_Diciembre_2015.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -173,7 +177,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Capilla_del_Rosario_Puebla_Diciembre_2015.jpg/1280px-Capilla_del_Rosario_Puebla_Diciembre_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Fromaage",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Capilla_del_Rosario_Puebla_Diciembre_2015.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [
@@ -339,6 +350,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/3136774034"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_de_Puebla,_talavera_poblana.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -369,7 +384,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fundaci%C3%B3n_de_Puebla%2C_talavera_poblana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Gustavo Velarde",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_de_Puebla,_talavera_poblana.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": []

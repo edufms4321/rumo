@@ -1,30 +1,238 @@
 {
-  "_leia": "Ajustes manuais do pacote do Mexico, verificados em fonte primaria pelo agente principal.",
-  "destino": {
-    "emergencia": {
-      "numeroUnico": "911",
-      "observacoes": "O Mexico unificou a emergencia no 911. O numero NAO foi confirmado em pagina oficial nesta coleta: esta como pendencia. O telefone do Consulado-Geral veio de resumo de busca do Portal Consular, nao de pagina aberta: confirme antes de contar com ele.",
-      "representacaoBrasileira": [
-        {
-          "nome": "Consulado-Geral do Brasil na Cidade do Mexico",
-          "tipo": "consulado-geral",
-          "cidade": "Cidade do Mexico",
-          "telefone": "+52 1 55 3455 3991",
-          "fontes": [
-            {
-              "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
-            }
-          ]
-        }
-      ],
-      "fontes": [
-        {
-          "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
-        },
-        {
-          "url": "http://www.portalconsular.itamaraty.gov.br/no-exterior/plantao-consular-3"
-        }
-      ]
+ "_leia": "Ajustes manuais do pacote do Mexico, verificados em fonte primaria pelo agente principal.",
+ "destino": {
+  "emergencia": {
+   "numeroUnico": "911",
+   "observacoes": "O Mexico unificou a emergencia no 911. O numero NAO foi confirmado em pagina oficial nesta coleta: esta como pendencia. O telefone do Consulado-Geral veio de resumo de busca do Portal Consular, nao de pagina aberta: confirme antes de contar com ele.",
+   "representacaoBrasileira": [
+    {
+     "nome": "Consulado-Geral do Brasil na Cidade do Mexico",
+     "tipo": "consulado-geral",
+     "cidade": "Cidade do Mexico",
+     "telefone": "+52 1 55 3455 3991",
+     "fontes": [
+      {
+       "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
+      }
+     ]
     }
+   ],
+   "fontes": [
+    {
+     "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
+    },
+    {
+     "url": "http://www.portalconsular.itamaraty.gov.br/no-exterior/plantao-consular-3"
+    }
+   ]
   }
+ },
+ "itens": {
+  "mx-mex-mercado-de-coyoacan": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercado_de_Coyoac%C3%A1n_-_Mexico_2024.jpg/1280px-Mercado_de_Coyoac%C3%A1n_-_Mexico_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "José Luiz",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_de_Coyoac%C3%A1n_-_Mexico_2024.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/96972452"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Mercado_de_Coyoac%C3%A1n_-_Mexico_2024.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-czm-ferry-playa-del-carmen-cozumel-ultramar-e-winjet": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ferry_for_Cozumel_at_Sunrise_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014.jpg/1280px-Ferry_for_Cozumel_at_Sunrise_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Giorgio Galeotti",
+     "licenca": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Ferry_for_Cozumel_at_Sunrise_-_Playa_del_Carmen,_Mexico_-_August_15,_2014.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Cozumel"
+    },
+    {
+     "url": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Ferry_for_Cozumel_at_Sunrise_-_Playa_del_Carmen,_Mexico_-_August_15,_2014.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-gto-mercado-hidalgo-compras-e-comida-barata": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mercado_Hidalgo._Guanajuato..JPG/1280px-Mercado_Hidalgo._Guanajuato..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Luis Pedro Arroyave",
+     "licenca": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo._Guanajuato..JPG"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo._Guanajuato..JPG",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-imu-ferry-cancun-isla-mujeres-ultramar-e-xailing": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg/1280px-Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Bernard DUPONT",
+     "licenca": "CC BY-SA 2.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/"
+    },
+    {
+     "url": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php"
+    },
+    {
+     "url": "https://www.ultramarferry.com"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/6182277415"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Guitarists_on_board_Ultramar_Ferry_between_Cancun_and_Isla_Mujeres.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-oax-oaxaca-costa-autopista-barranca-larga-ventanilla-x-e": {
+   "fontes": [
+    {
+     "url": "https://oaxaca.heraldodemexico.com.mx/local/2026/4/16/la-mas-cara-del-pais-con-el-aumento-de-tarifas-de-capufe-la-autopista-oaxaca-puerto-escondido-cuesta-casi-mil-pesos-16628.html"
+    },
+    {
+     "url": "https://oaxway.com/carretera/casetas-y-peajes/"
+    },
+    {
+     "url": "https://montealbanoaxaca.com/ado-bus-vs-rental-car-vs-shuttle-best-ways-to-travel-from-oaxaca-to-puerto-escondido/"
+    },
+    {
+     "url": "https://traveltooaxaca.com/oaxaca-to-puerto-escondido-mexico/"
+    },
+    {
+     "url": "https://traveltooaxaca.com/bus-from-oaxaca-to-puerto-escondido/"
+    },
+    {
+     "url": "https://www.busbud.com/en/bus-oaxaca-puerto-escondido/r/9g51p1-9fffq9"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Zipolite"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Huatulco"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/155171792"
+    }
+   ]
+  },
+  "mx-pue-capilla-del-rosario-templo-de-santo-domingo": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Capilla_del_Rosario_Puebla_Diciembre_2015.jpg/1280px-Capilla_del_Rosario_Puebla_Diciembre_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Fromaage",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Capilla_del_Rosario_Puebla_Diciembre_2015.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://museoamparo.com/descubre/Museos/53/chapel-of-the-rosary-temple-of-santo-domingo"
+    },
+    {
+     "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/capilla-de-la-virgen-del-rosario-puebla/"
+    },
+    {
+     "url": "https://matadornetwork.com/es/historia-de-la-capilla-del-rosario-en-puebla/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/993724155"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Capilla_del_Rosario_Puebla_Diciembre_2015.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-pue-talavera-de-puebla-uriarte-armando-el-parian": {
+   "imagens": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fundaci%C3%B3n_de_Puebla%2C_talavera_poblana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "credito": "Gustavo Velarde",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_de_Puebla,_talavera_poblana.JPG"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/Puebla"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/9758534418"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/3136774034"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_de_Puebla,_talavera_poblana.JPG",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "mx-sct-cafe-museo-cafe": {
+   "imagens": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "credito": "StellarD",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  }
+ }
 }

@@ -1021,6 +1021,10 @@
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1099,7 +1103,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "StellarD",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Museo_Caf%C3%A9_San_Crist%C3%B3bal.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

@@ -871,6 +871,10 @@
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo._Guanajuato..JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -909,7 +913,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mercado_Hidalgo._Guanajuato..JPG/1280px-Mercado_Hidalgo._Guanajuato..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Luis Pedro Arroyave",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo._Guanajuato..JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": []

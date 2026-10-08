@@ -205,7 +205,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confiança: parcialmente verificado | 193 |
 | Confiança: estimado | 24 |
 | Com coordenada | 187 de 215 |
-| Com imagem de licença livre | 157 de 215 |
+| Com imagem de licença livre | 164 de 215 |
 | Com algum contato | 58 de 215 |
 | Coletado há mais de um ano | 0 |
 ### Preço não encontrado — 67
@@ -257,14 +257,13 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 
 _...e mais 27. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 5
+### Preço com uma fonte só — 4
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
 | Item | Base | O que falta |
 |---|---|---|
 | Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | segunda fonte de preço |
-| Mercado Hidalgo (compras e comida barata) | Guanajuato | segunda fonte de preço |
 | Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | segunda fonte de preço |
 | Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | segunda fonte de preço |
 | Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan) | Queretaro | segunda fonte de preço |
