@@ -120,6 +120,8 @@ export const nordeste: ConfigDeDestino = {
     jericoacoara: 'jericoacoara',
     jeri: 'jericoacoara',
     'tatajuba': 'jericoacoara',
+    prea: 'jericoacoara',
+    guriu: 'jericoacoara',
     'lagoa-do-paraiso': 'jericoacoara',
     fortaleza: 'fortaleza',
     cumbuco: 'fortaleza',
@@ -127,15 +129,19 @@ export const nordeste: ConfigDeDestino = {
     'aquiraz': 'fortaleza',
     'canoa-quebrada': 'canoa-quebrada',
     aracati: 'canoa-quebrada',
+    majorlandia: 'canoa-quebrada',
+    'morro-branco': 'canoa-quebrada',
     natal: 'natal',
     'genipabu': 'natal',
     'maracajau': 'natal',
     'sao-miguel-do-gostoso': 'natal',
+    pirangi: 'natal',
     pipa: 'pipa',
     'tibau-do-sul': 'pipa',
     'joao-pessoa': 'joao-pessoa',
     'ponta-do-seixas': 'joao-pessoa',
     'praia-do-jacare': 'joao-pessoa',
+    cabedelo: 'joao-pessoa',
     'areia': 'joao-pessoa',
     recife: 'recife',
     olinda: 'recife',
@@ -320,20 +326,88 @@ export const nordeste: ConfigDeDestino = {
    * e congestionadas (Salvador, Recife, Fortaleza).
    */
   fatores: {
-    salvador: { ape: { kmh: 4.4, fatorRota: 1.35 }, carro: { kmh: 19, fatorRota: 1.5 } },
-    recife: { ape: { kmh: 4.5, fatorRota: 1.3 }, carro: { kmh: 20, fatorRota: 1.45 } },
-    fortaleza: { ape: { kmh: 4.6, fatorRota: 1.28 }, carro: { kmh: 23, fatorRota: 1.4 } },
-    natal: { ape: { kmh: 4.6, fatorRota: 1.3 }, carro: { kmh: 25, fatorRota: 1.4 } },
-    maceio: { ape: { kmh: 4.6, fatorRota: 1.28 }, carro: { kmh: 24, fatorRota: 1.4 } },
-    'joao-pessoa': { ape: { kmh: 4.7, fatorRota: 1.25 }, carro: { kmh: 26, fatorRota: 1.35 } },
-    aracaju: { ape: { kmh: 4.7, fatorRota: 1.25 }, carro: { kmh: 27, fatorRota: 1.35 } },
-    'sao-luis': { ape: { kmh: 4.5, fatorRota: 1.35 }, carro: { kmh: 22, fatorRota: 1.45 } },
-    // Vila sem carro: tudo a pe, na areia, e carro so no entorno.
-    jericoacoara: { ape: { kmh: 3.8, fatorRota: 1.25 }, carro: { kmh: 18, fatorRota: 1.6 } },
-    'morro-de-sao-paulo': { ape: { kmh: 3.6, fatorRota: 1.4 }, carro: { kmh: 10, fatorRota: 1.8 } },
-    atins: { ape: { kmh: 3.8, fatorRota: 1.3 }, carro: { kmh: 16, fatorRota: 1.7 } },
-    trancoso: { ape: { kmh: 4.3, fatorRota: 1.3 }, carro: { kmh: 24, fatorRota: 1.45 } },
-    lencois: { ape: { kmh: 4.2, fatorRota: 1.35 }, carro: { kmh: 22, fatorRota: 1.6 } },
+    // Capital extensa, em vale e ladeira, transito pesado.
+    salvador: {
+      'a-pe': { kmh: 4.2, fatorRota: 1.4 },
+      'carro-app': { kmh: 19, fatorRota: 1.5 },
+      'transporte-publico': { kmh: 13, fatorRota: 1.6 },
+      'veiculo-alugado': { kmh: 18, fatorRota: 1.5 },
+    },
+    recife: {
+      'a-pe': { kmh: 4.5, fatorRota: 1.3 },
+      'carro-app': { kmh: 20, fatorRota: 1.45 },
+      'transporte-publico': { kmh: 14, fatorRota: 1.55 },
+      'veiculo-alugado': { kmh: 19, fatorRota: 1.45 },
+    },
+    fortaleza: {
+      'a-pe': { kmh: 4.6, fatorRota: 1.28 },
+      'carro-app': { kmh: 23, fatorRota: 1.4 },
+      'transporte-publico': { kmh: 15, fatorRota: 1.5 },
+      'veiculo-alugado': { kmh: 22, fatorRota: 1.4 },
+    },
+    natal: {
+      'a-pe': { kmh: 4.6, fatorRota: 1.3 },
+      'carro-app': { kmh: 25, fatorRota: 1.4 },
+      'transporte-publico': { kmh: 15, fatorRota: 1.5 },
+      'veiculo-alugado': { kmh: 24, fatorRota: 1.4 },
+    },
+    maceio: {
+      'a-pe': { kmh: 4.6, fatorRota: 1.28 },
+      'carro-app': { kmh: 24, fatorRota: 1.4 },
+      'transporte-publico': { kmh: 15, fatorRota: 1.5 },
+      'veiculo-alugado': { kmh: 23, fatorRota: 1.4 },
+    },
+    'joao-pessoa': {
+      'a-pe': { kmh: 4.7, fatorRota: 1.25 },
+      'carro-app': { kmh: 26, fatorRota: 1.35 },
+      'transporte-publico': { kmh: 16, fatorRota: 1.45 },
+      'veiculo-alugado': { kmh: 25, fatorRota: 1.35 },
+    },
+    aracaju: {
+      'a-pe': { kmh: 4.7, fatorRota: 1.25 },
+      'carro-app': { kmh: 27, fatorRota: 1.35 },
+      'transporte-publico': { kmh: 16, fatorRota: 1.45 },
+      'veiculo-alugado': { kmh: 26, fatorRota: 1.35 },
+    },
+    'sao-luis': {
+      'a-pe': { kmh: 4.5, fatorRota: 1.35 },
+      'carro-app': { kmh: 22, fatorRota: 1.45 },
+      'transporte-publico': { kmh: 14, fatorRota: 1.55 },
+      'veiculo-alugado': { kmh: 21, fatorRota: 1.45 },
+    },
+    // Vila sem carro de passeio: tudo a pe, na areia; 4x4 so no entorno.
+    jericoacoara: {
+      'a-pe': { kmh: 3.8, fatorRota: 1.25 },
+      'carro-app': { kmh: 18, fatorRota: 1.6 },
+      'transporte-publico': { kmh: 15, fatorRota: 1.7 },
+      'veiculo-alugado': { kmh: 18, fatorRota: 1.6 },
+    },
+    // Ilha sem rua para carro: carrinho de mao leva a mala.
+    'morro-de-sao-paulo': {
+      'a-pe': { kmh: 3.6, fatorRota: 1.4 },
+      'carro-app': { kmh: 10, fatorRota: 1.8 },
+      'transporte-publico': { kmh: 10, fatorRota: 1.8 },
+      'veiculo-alugado': { kmh: 10, fatorRota: 1.8 },
+    },
+    atins: {
+      'a-pe': { kmh: 3.8, fatorRota: 1.3 },
+      'carro-app': { kmh: 16, fatorRota: 1.7 },
+      'transporte-publico': { kmh: 16, fatorRota: 1.7 },
+      'veiculo-alugado': { kmh: 16, fatorRota: 1.7 },
+    },
+    trancoso: {
+      'a-pe': { kmh: 4.3, fatorRota: 1.3 },
+      'carro-app': { kmh: 24, fatorRota: 1.45 },
+      'transporte-publico': { kmh: 16, fatorRota: 1.6 },
+      'veiculo-alugado': { kmh: 24, fatorRota: 1.45 },
+    },
+    // Serra: estrada de terra entre os atrativos.
+    lencois: {
+      'a-pe': { kmh: 4.2, fatorRota: 1.35 },
+      'carro-app': { kmh: 22, fatorRota: 1.6 },
+      'transporte-publico': { kmh: 18, fatorRota: 1.7 },
+      'veiculo-alugado': { kmh: 22, fatorRota: 1.6 },
+    },
   },
 
   /**

@@ -1,0 +1,1029 @@
+[
+  {
+    "id": "br-slz-centro-historico-de-sao-luis-praia-grande",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=S%C3%A3o%20Lu%C3%ADs%20%28Maranh%C3%A3o%29"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Centro Historico de Sao Luis (Praia Grande)",
+    "cidadeId": "sao-luis",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "azulejos",
+      "patrimonio-unesco",
+      "a-pe",
+      "fotografia"
+    ],
+    "coords": {
+      "lat": -2.53,
+      "lng": -44.3028
+    },
+    "descricaoCurta": "O maior conjunto de casario colonial portugues azulejado da America Latina, que cabe num dia de caminhada.",
+    "descricaoLonga": "O melhor de Sao Luis cabe direitinho num passeio de um dia a pe. O Viaje na Viagem descreve um momento contraditorio: a area nunca esteve tao limpa, organizada e segura para passear e fotografar, mas muitos equipamentos culturais estao fechados (Casa do Maranhao, Casa da Festa) ou com funcionamento muito restrito (Teatro Arthur Azevedo so abre para visita guiada na quarta a tarde). Itinerario sugerido pela fonte: chegar antes das 11h e ver Museu do Reggae, Casa de Nhozinho e Casa das Tulhas; almocar no Flor de Vinagreira, no Cafofinho da Tia Dica ou no Senac; depois Casa do Tambor de Crioula e Centro Cultural Vale. ARMADILHA DE CALENDARIO: o melhor dia e quarta-feira (tudo funciona, incluindo o teatro); os piores sao domingo (tudo fechado) e segunda (quase tudo). Gratuito circular pelas ruas. NAO CONSEGUIMOS CONFIRMAR em fonte oficial os horarios individuais da Casa de Nhozinho, da Casa do Tambor de Crioula e do Museu do Reggae - o guia remete a paginas de 'informacoes praticas' que nao abrimos.",
+    "duracao": {
+      "min": 180,
+      "tipica": 360,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-slz-casa-das-tulhas-feira-da-praia-grande",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa das Tulhas (Feira da Praia Grande)",
+    "cidadeId": "sao-luis",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "artesanato",
+      "souvenir",
+      "tiquira",
+      "centro-historico"
+    ],
+    "descricaoCurta": "O mercado do centro historico, meio mercado de verdade, meio feirinha de souvenir tipico maranhense.",
+    "descricaoLonga": "Ocupa um quarteirao inteiro entre as ruas da Estrela, Portugal, da Feira e Djalma Dutra. Mistura mercado 'de verdade' (peixaria, acougue, bancas de frutas, farinhas e especiarias) com feirinha para turista. Produtos para levar: tiquira (a aguardente roxa de mandioca, tipica do Maranhao), doce de especie (uma queijadinha de coco feita em Alcantara), farinha grossa de mandioca e as curiosas garrafas de cachaca com caranguejo dentro. Para ver as bancas do mercado de verdade, va de manha; os stands de produtos tipicos e lembrancinhas funcionam ate de tarde. Nas quinas da Casa das Tulhas estao dois dos melhores restaurantes do centro: Flor de Vinagreira e Cafofinho da Tia Dica. NAO CONFIRMAMOS horario de abertura e fechamento oficial nem precos.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-centro-cultural-vale-maranhao",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro Cultural Vale Maranhao",
+    "cidadeId": "sao-luis",
+    "categoria": "museu",
+    "tags": [
+      "exposicao",
+      "casarao-colonial",
+      "gratuito",
+      "centro-historico",
+      "bumba-meu-boi"
+    ],
+    "descricaoCurta": "Hoje o equipamento cultural mais importante do centro historico, num casarao colonial, com exposicoes temporarias de padrao alto.",
+    "descricaoLonga": "Diante da negligencia do estado com seus atrativos, o Centro Cultural Vale Maranhao virou, segundo o Viaje na Viagem, o equipamento cultural mais importante do centro historico. O proprio casarao vale a visita - da para perceber como eram as moradias da elite ludovicense colonial, com patio sombreado e corredores ventilados. As exposicoes sao sempre temporarias, mas com 'padrao nota 10 de museologia'. Fecha segundas, domingos e feriados. Entrada gratuita. Horario de terca a sabado, das 10h as 19h, segundo reportagens e diretorios de turismo (NAO abrimos o site oficial ccv-ma.org.br, portanto trate o horario como provavel, nao confirmado). Na programacao junina ha apresentacoes de bumba-meu-boi gratuitas.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-casa-de-nhozinho",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa de Nhozinho",
+    "cidadeId": "sao-luis",
+    "categoria": "museu",
+    "tags": [
+      "artesanato",
+      "arte-popular",
+      "centro-historico",
+      "brinquedo"
+    ],
+    "descricaoCurta": "Casarao dedicado a obra de Mestre Nhozinho, grande artista popular maranhense de teares, barcos, bonecos e miniaturas.",
+    "descricaoLonga": "Casarao dedicado a obra e a influencia de Mestre Nhozinho, artista popular maranhense que continuou criando mesmo com o avanco de uma doenca degenerativa. Teares de rede, barcos, bonecos e toda sorte de miniaturas estao entre as obras do artesao. Entra no itinerario de manha do centro historico sugerido pelo Viaje na Viagem, junto com o Museu do Reggae e a Casa das Tulhas. NAO CONSEGUIMOS CONFIRMAR horario, ingresso nem telefone: a fonte remete a uma pagina de 'informacoes praticas' que nao foi aberta nesta sessao, e nao encontramos pagina oficial. Considere que, como os outros equipamentos estaduais, pode estar fechado ou com funcionamento restrito - confirme no dia.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-museu-do-reggae",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museu do Reggae",
+    "cidadeId": "sao-luis",
+    "categoria": "museu",
+    "tags": [
+      "reggae",
+      "musica",
+      "centro-historico",
+      "cultura-maranhense"
+    ],
+    "descricaoCurta": "Museu compacto e descontraido que conta como o Maranhao foi conquistado pelo som da Jamaica.",
+    "descricaoLonga": "Conta a historia da conquista do Maranhao pelos sons da Jamaica. O acervo fisico traz capas de discos jamaicanos e maranhenses, compactos raros, objetos de culto (como uma guitarra da Tribo de Jah) e uma replica da radiola Voz de Ouro Canarinho, uma das primeiras a tocar reggae para os maranhenses dancarem agarradinhos, a moda local, como se fosse forro. Serve tambem como posto de informacao: segundo o Viaje na Viagem, o proprio museu, as recepcoes dos hostels e o Reggae Cruise sao os melhores lugares para conseguir a lista atualizada de dias e lugares de festa de reggae na cidade. HORARIO E INGRESSO NAO CONFIRMADOS nesta pesquisa.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-casa-do-tambor-de-crioula",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa do Tambor de Crioula",
+    "cidadeId": "sao-luis",
+    "categoria": "museu",
+    "tags": [
+      "tambor-de-crioula",
+      "danca",
+      "centro-cultural",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Centro cultural dedicado ao tambor de crioula, a danca de roda maranhense, com exposicao, biblioteca e oficinas.",
+    "descricaoLonga": "Aberta em 2018, nao e um museu convencional, mas um centro cultural devotado a esta danca maranhense nascida nos terreiros, dancada por mulheres dispostas em circulo ao som de atabaques: duas dancadeiras de cada vez saem das bordas para o centro, evoluem e terminam o movimento com a umbigada, o cumprimento de barriga. Tem pequena exposicao com paineis, videos e figurinhas de ceramica, alem de biblioteca e oficinas de danca e percussao. No itinerario sugerido pela fonte, entra depois do almoco, antes do Centro Cultural Vale. HORARIO E INGRESSO NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-teatro-arthur-azevedo",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Teatro Arthur Azevedo",
+    "cidadeId": "sao-luis",
+    "categoria": "atracao",
+    "tags": [
+      "teatro",
+      "visita-guiada",
+      "so-quarta-feira",
+      "ciclo-do-algodao"
+    ],
+    "descricaoCurta": "Segundo teatro mais antigo do Brasil (1817), visitavel apenas em visita guiada na quarta-feira a tarde.",
+    "descricaoLonga": "Inaugurado em 1817, so perde para o de Ouro Preto (1770) como teatro mais antigo do Brasil - para comparar, o Teatro Amazonas e de 1896 e o Municipal do Rio, de 1909. Foi construido com a riqueza do ciclo do algodao maranhense por comerciantes portugueses, que lhe deram o nome de Teatro Uniao; so em 1921 ganhou o nome do escritor maranhense Arthur Azevedo. ARMADILHA DE ROTEIRO: as visitas guiadas estao sendo oferecidas APENAS na quarta-feira a tarde. Ha dois tipos de visita, a curta de 20 minutos e a longa de 1 hora - prefira a de uma hora, que leva aos bastidores, incluindo o maquinario. Se houver espetaculo durante a sua estada, assistir como espectador e o complemento ideal. PRECO DA VISITA E DO INGRESSO DE ESPETACULO NAO CONFIRMADOS; horario exato da tarde tambem nao.",
+    "duracao": {
+      "min": 20,
+      "tipica": 60,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-palacio-dos-leoes",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Palacio dos Leoes",
+    "cidadeId": "sao-luis",
+    "categoria": "atracao",
+    "tags": [
+      "palacio",
+      "visita-guiada",
+      "gratuito",
+      "acervo",
+      "forte-de-sao-luis"
+    ],
+    "descricaoCurta": "Sede do governo do Maranhao, com visitas guiadas gratuitas de terca a domingo e acervo de moveis, quadros e pratarias.",
+    "descricaoLonga": "Sede do governo estadual, oferece visitas guiadas e gratuitas de terca a domingo. O predio faz parte do Forte de Sao Luis, construido durante a invasao francesa no topo de uma colina a beira-mar: a construcao inicial e de 1612, mas dela nada restou - o palacio foi reconstruido, ampliado e reformado muitas vezes. Os visitantes percorrem uma das alas, onde apreciam moveis, quadros, esculturas, porcelanas e pratarias do acervo. HORARIOS EXATOS NAO CONFIRMADOS: a fonte informa apenas 'de 3a a domingo' e remete a uma pagina de informacoes praticas que nao abrimos.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 80
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-praia-do-calhau-e-barraca-landrua",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Calhau e barraca Landrua",
+    "cidadeId": "sao-luis",
+    "categoria": "praia",
+    "tags": [
+      "praia-urbana",
+      "barraca-de-praia",
+      "mare-grande",
+      "balneabilidade",
+      "caminhada"
+    ],
+    "descricaoCurta": "A praia urbana mais aproveitavel de Sao Luis, com a barraca Landrua como melhor base para passar o dia.",
+    "descricaoLonga": "Nos ultimos anos a maior parte da orla urbana de Sao Luis recuperou a balneabilidade; apenas um trecho da praia de Sao Marcos segue impropria, e a praia do Calhau tem estado propria para banho. Da para conferir na pagina de balneabilidade do site da Secretaria Estadual do Meio Ambiente antes de entrar na agua - e vale conferir: um leitor do Viaje na Viagem relatou placa de 'Impropria' no Calhau em agosto/2025. A orla tem praias tipicas do litoral brasileiro voltado para o norte: retas, faixa de areia larga e grande variacao de mare, portanto otimas para caminhar na mare baixa, quando aparece a areia mais dura. A cor da agua varia do azul na epoca seca sem ventos (inicio do segundo semestre) ao cafe com leite na epoca das chuvas (primeiro semestre). A barraca mais interessante para passar o dia, segundo a fonte, e a Landrua Mariscos, na Av. Litoranea 13 A. PRECOS DE CONSUMO NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(98) 3233-6781"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-reggae-agarradinho-bar-do-nelson-habeascopos-e-rotat",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Reggae agarradinho: Bar do Nelson, HabeasCopos e Rotatoria Roots",
+    "cidadeId": "sao-luis",
+    "categoria": "bar",
+    "tags": [
+      "reggae",
+      "vida-noturna",
+      "danca",
+      "radiola"
+    ],
+    "descricaoCurta": "Os tres pontos de reggae mais acessiveis da zona central para ver o maranhense dancar reggae agarradinho.",
+    "descricaoLonga": "No Maranhao o reggae se danca agarradinho, como se fosse forro. A maioria dos clubes de reggae esta em bairros perifericos; segundo o Viaje na Viagem, estes sao os melhores lugares para cair no reggae sem se afastar da zona central, e a recomendacao explicita e ir e voltar de Uber: Bar do Nelson (Av. Litoranea, 135, no finzinho da praia do Calhau), 5a e sabado; HabeasCopos (escadaria da Rua da Palma, no Centro Historico), varias noites; Rotatoria Roots (Av. Guaxenduba, 68, Centro), sabado. Para conseguir a lista atualizada de dias e lugares de festa, pergunte no Museu do Reggae, nas recepcoes dos hostels ou no Reggae Cruise. COUVERT, INGRESSO E HORARIO DE INICIO NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-slz-reggae-cruise",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Reggae Cruise",
+    "cidadeId": "sao-luis",
+    "categoria": "experiencia",
+    "tags": [
+      "reggae",
+      "barco",
+      "por-do-sol",
+      "dj",
+      "epoca-seca"
+    ],
+    "descricaoCurta": "Barco que passeia pela orla de Sao Luis ao som de reggae, conduzido pelo DJ veterano Ademar Danilo.",
+    "descricaoLonga": "Idealizado e conduzido pelo DJ veterano Ademar Danilo, o Reggae Cruise tem saidas na epoca seca nos fins de tarde de domingo e em algumas noites de lua cheia. O barco passeia pela orla de Sao Luis ao som do melhor reggae; ha tambem saidas em outros pontos, como Raposa. A programacao e divulgada no Instagram do passeio. PRECO NAO CONFIRMADO - nao encontramos valor de ingresso em nenhuma fonte aberta nesta sessao. Como as saidas sao irregulares, a recomendacao do guia e verificar se ha saida durante a sua permanencia e so entao montar o roteiro em volta dela.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7
+    },
+    "contato": {
+      "whatsapp": "(98) 98137-2423"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-bumba-meu-boi-nos-arraiais-de-sao-luis",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bumba-meu-boi nos arraiais de Sao Luis",
+    "cidadeId": "sao-luis",
+    "categoria": "experiencia",
+    "tags": [
+      "sao-joao",
+      "bumba-meu-boi",
+      "junho",
+      "festa-popular",
+      "gratuito"
+    ],
+    "descricaoCurta": "Na segunda quinzena de junho a cidade e tomada por arraiais com apresentacoes de bumba-meu-boi em palco.",
+    "descricaoLonga": "O bumba-meu-boi e festa junina: a temporada comeca no fim de maio com os ensaios, tem auge em junho e se encerra em julho com os enterros dos bois. Em Sao Luis as apresentacoes acontecem na SEGUNDA QUINZENA DE JUNHO, em arraiais espalhados pela cidade, com programacao noturna. Os bois nao desfilam pela rua: apresentam-se em palco, como num show. A programacao mistura 'sotaques' (estilos); o mais rico musicalmente e o sotaque de orquestra, com instrumentos de sopro (o grande nome e o Boi de Axixa). Arraiais mais proximos das zonas hoteleiras: Arraial da Praca Maria Aragao, em frente a Igreja Nossa Senhora dos Remedios, junto ao Centro Historico, e Arraial do Ipem (Av. A, 187, Jardim Renascenca) - este, segundo a fonte, particularmente bem-organizado. Sao ambientes seguros, frequentados por familias com criancas pequenas. No centro historico, a Praca Nauro Machado tem bumba-meu-boi so nas sextas e sabados. DICA DE COMBINACAO: a segunda quinzena de junho e tambem o periodo em que as lagoas dos Lencois estao no volume maximo - da para emendar festa e dunas. PROGRAMACAO E HORARIOS DO ANO NAO CONFIRMADOS: mudam a cada edicao.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 360
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-flor-de-vinagreira",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Flor de Vinagreira",
+    "cidadeId": "sao-luis",
+    "categoria": "restaurante",
+    "tags": [
+      "cozinha-maranhense",
+      "arroz-de-cuxa",
+      "centro-historico",
+      "jantar",
+      "bacuri"
+    ],
+    "descricaoCurta": "A opcao mais elegante para comer no centro historico, numa quina da Casa das Tulhas.",
+    "descricaoLonga": "Ocupa uma quina da Casa das Tulhas. O chef paraense Danilo Dias criou um cardapio inspirado nas culinarias do litoral e do sertao. Comece pelos pasteis de cuxa, azedinhos, acompanhados de geleia de pimenta; siga com file de pescada com arroz de cuxa, arroz de carne de sol ou arroz cremoso de camarao com banana empanada; de sobremesa, creme de bacuri, frutinha do Meio-Norte e da Amazonia que lembra o cupuacu sem o retrogosto. NAO FECHA entre almoco e jantar. Endereco: R. da Estrela, 220. O arroz de cuxa, feito com vinagreira e temperado com camaroezinhos secos, e a iguaria que voce so encontra no Maranhao - inclua pelo menos um regional no roteiro. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(98) 99198-1800"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-slz-cafofinho-da-tia-dica",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cafofinho da Tia Dica",
+    "cidadeId": "sao-luis",
+    "categoria": "restaurante",
+    "tags": [
+      "cozinha-maranhense",
+      "frutos-do-mar",
+      "leite-de-coco",
+      "centro-historico",
+      "pitoresco"
+    ],
+    "descricaoCurta": "O restaurante mais pitoresco do centro historico, especializado em frutos do mar no leite de coco.",
+    "descricaoLonga": "Mudou-se ha poucos anos para a quina oposta ao Flor de Vinagreira, na Casa das Tulhas. As especialidades sao os pratos de frutos do mar com leite de coco, como o 'arroz do cafofo'. O cardapio, extenso, oferece arroz de cuxa como acompanhamento para muitos pratos, e uma elogiada carne de sol. Para comecar, peca os pasteizinhos de vatapa com geleia de pimenta. Abre sem interrupcao entre o almoco e o jantar. Endereco: Trav. Marcelino de Almeida, 173. Um leitor do Viaje na Viagem (viagem de agosto/2025) recomenda especificamente a caldeirada da casa. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(98) 8706-5089"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-slz-cabana-do-sol",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cabana do Sol",
+    "cidadeId": "sao-luis",
+    "categoria": "restaurante",
+    "tags": [
+      "carne-de-sol",
+      "cozinha-regional",
+      "porcoes-grandes",
+      "tradicional",
+      "peixada-maranhense"
+    ],
+    "descricaoCurta": "O restaurante regional mais tradicional de Sao Luis, especializado em carne de sol com todos os acompanhamentos.",
+    "descricaoLonga": "A especialidade e a carne de sol, servida com baiao de dois, macaxeira, pacoca e banana a milanesa. Querendo algo diferente e ainda tipico, prove a peixada maranhense (com leite de coco, batatas e ovo cozido), o arroz de cabrito ou a carne de sol de leitao, servida com arroz de couve, banana a milanesa e abacaxi grelhado. ARMADILHA DE CONTA: o cardapio e extenso e a maior das secoes tem quase tres paginas de pratos ACIMA DE R$ 250, todos em porcoes gigantes que servem bem 3 pessoas (quica 4, com entradinhas). Continue virando as paginas e voce chega a lista - bem limitada - de pratos individuais e de pratos para duas pessoas. Dois enderecos: R. Joao Damasceno, 24 A (perto do hotel Luzeiros) e Av. Litoranea, 10 (praia do Calhau). Nao fecha entre almoco e jantar nas duas casas.",
+    "duracao": {
+      "min": 60,
+      "tipica": 100,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 250,
+      "max": 250,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "O guia Viaje na Viagem registra que a maior secao do cardapio tem pratos ACIMA de R$ 250, em porcoes para 3 pessoas. Nao e faixa de menu completa: e o piso dessa secao. Ha pratos individuais mais baratos, cujo valor nao foi publicado. | tipo: por-prato"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(98) 3235-2586"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-slz-casa-de-juja",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa de Juja",
+    "cidadeId": "sao-luis",
+    "categoria": "restaurante",
+    "tags": [
+      "cozinha-maranhense",
+      "torta-de-camarao",
+      "arroz-de-cuxa",
+      "receita-de-familia"
+    ],
+    "descricaoCurta": "As receitas da celebre cozinheira Juja, hoje preparadas pelas filhas, no terreo do hotel Brisamar.",
+    "descricaoLonga": "Quando Juja era viva, o restaurante funcionava de fato na sua casa. A cozinheira faleceu, mas as filhas continuam preparando suas receitas com enorme sucesso, tanto em Sao Luis quanto em Atins. Desde julho de 2023 a casa funciona no terreo do hotel Brisamar - ambiente menos pitoresco que a casinha antiga, mas melhor localizado para quem esta a passeio. Carros-chefe: arroz do mar (lagostins, camaroes, mexilhoes e patolas de caranguejo em arroz cremoso), o 'sonho de Juja' (escondidinho de camarao com queijo coalho e milho verde) e a torta de camarao com vatapa e arroz de cuxa. Para carnivoros, file a parmigiana com spaghetti. Abre de segunda a sabado para almoco e jantar; domingo, so almoco. Endereco: Av. Sao Marcos, 12 - hotel Brisamar. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(98) 98768-6716"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-slz-bate-volta-a-alcantara",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/alcantara/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Alc%C3%A2ntara%20%28Maranh%C3%A3o%29"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Bate-volta a Alcantara",
+    "cidadeId": "sao-luis",
+    "categoria": "passeio",
+    "tags": [
+      "cidade-historica",
+      "ruinas",
+      "travessia-de-barco",
+      "depende-de-mare",
+      "doce-de-especie",
+      "bate-volta",
+      "alcantara"
+    ],
+    "coords": {
+      "lat": -2.40889,
+      "lng": -44.415
+    },
+    "descricaoCurta": "A cidade de ruinas mais dramatica do Brasil, a 1h20 de barco de Sao Luis - com a travessia governada pela tabua de mare.",
+    "descricaoLonga": "Endereco da aristocracia rural do Maranhao nos seculos 18 e 19, Alcantara empobreceu com o fim do ciclo do algodao e a ascensao de Sao Luis, e grandes edificacoes foram abandonadas no meio da construcao - e essa mistura de casario preservado com ruinas espetaculares que faz da cidade, segundo o Viaje na Viagem, o ponto alto de uma visita a Sao Luis. COMO CHEGAR: as embarcacoes saem do Cais da Praia Grande, junto ao centro historico; a viagem leva 1h20 e custava R$ 20 por trecho (preco de fevereiro/2022 - provavelmente defasado). Ha 4 ou 5 barcos diarios, numero que varia porque normalmente algum esta em manutencao; quase todos saem de manha e voltam a tarde. RISCO DE CANCELAR / O PONTO QUE QUEBRA ROTEIRO: os horarios variam conforme a MARE, porque com mare muito baixa nao ha condicao de operacao no cais. Pela manha, o nivel mais favoravel pode ocorrer entre 5h30 e 11h, e todas as embarcacoes acabam marcando saida na mesma faixa. Um leitor que foi em agosto/2025 relata que ha dias em que SO ha barco de manha, ou SO de tarde - o que inviabiliza o bate-volta -, e que os guiches do cais so abrem perto das saidas; os horarios do mes, conforme as mares, ficam em cartazes colados nos guiches. A recomendacao pratica: de um pulinho no cais no comeco do seu passeio pelo centro historico e leia os cartazes antes de planejar o dia. O mar costuma bater muito e e comum enjoar: tome Dramin meia hora antes da ida e da volta. ALTERNATIVA: ferry-boat da Ponta da Espera (12 km do centro) a Cujupe, porto a 60 km de Alcantara, continuando de van - R$ 12 por trecho de travessia e cerca de R$ 6 a van, mas a viagem total leva 3h30 a 4h e e cansativa demais para bate-volta. O QUE VER: desembarque no Porto do Jacare, ladeira (ou mototaxi) ate a Praca das Merces; Capela de Nossa Senhora do Desterro, onde a tradicao manda o forasteiro tocar o sino e fazer um pedido; Praca da Matriz, dominada pelas ruinas da Igreja de Sao Matias, com Pelourinho original ao lado; Museu Historico de Alcantara (casarao do Barao de Sao Bento) e Casa Historica de Alcantara; Rua da Amargura, galeria de ruinas invadidas pela vegetacao, com as ruinas do Palacio do Barao de Pindare; Palacio do Barao de Mearim (ou Palacio do Imperador); Igreja de Nossa Senhora do Carmo, a mais ricamente ornamentada e de pe; Igreja de Nossa Senhora do Rosario dos Pretos; e a Casa da Cultura Aeroespacial, que explica o programa aeroespacial brasileiro e a base de lancamentos, com um foguete no patio. Compre doce de especie, queijadinha de coco vendida em portinhas da ladeira. POR QUE PERNOITAR E MELHOR: quem bate-volta passa o dia com sol inclemente na moleira, fotografando sob luz que embranquece as fotos, e volta pensando que Alcantara e cidade fantasma porque a cidade so acorda depois que a lancha da tarde parte - criancas voltando da escola, mulheres as compras, motocas zunindo, guaras em revoada na praia e, de noite, as ruinas teatralmente iluminadas. Se so da para bate-voltar, bate-volte: e melhor do que nao ir. NAO CONFIRMAMOS o preco atual da travessia, os horarios do mes nem os horarios e ingressos dos dois museus da Praca da Matriz.",
+    "duracao": {
+      "min": 480,
+      "tipica": 600,
+      "max": 720
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 20,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 20 por trecho na lancha do Cais da Praia Grande, preco de FEVEREIRO/2022 publicado pelo Viaje na Viagem. Muito provavelmente defasado - trate como piso historico, nao como preco atual. Ferry-boat via Cujupe: R$ 12 por trecho + cerca de R$ 6 a van. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-slz-bate-volta-a-raposa-corredor-das-rendeiras-e-ilha-ca",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Raposa%20%28Maranh%C3%A3o%29"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Bate-volta a Raposa (Corredor das Rendeiras e Ilha Carima)",
+    "cidadeId": "sao-luis",
+    "categoria": "passeio",
+    "tags": [
+      "renda-de-bilro",
+      "artesanato",
+      "vilarejo-de-pescadores",
+      "depende-de-mare",
+      "bate-volta",
+      "raposa"
+    ],
+    "coords": {
+      "lat": -2.42278,
+      "lng": -44.1028
+    },
+    "descricaoCurta": "Vilarejo de pescadores a 30 km de Sao Luis, com corredor de rendeiras de bilro e passeio de barco as 'Fronhas Maranhenses'.",
+    "descricaoLonga": "A 30 km de Sao Luis, saindo pela Av. dos Holandeses, Raposa divide a Ilha de Sao Luis (Upaon-Acu) com a capital e entrou no mapa turistico por dois atrativos: o Corredor das Rendeiras, onde rendeiras produzem e vendem artigos em renda de bilro, e o passeio de barco a Ilha Carima, onde se encontram paisagens parecidas com as dos Lencois - apelidadas de 'Fronhas Maranhenses'. EXPECTATIVA CALIBRADA: a propria fonte avisa que as aguas NAO tem a mesma cor das lagoas dos Lencois. PONTO QUE QUEBRA O DIA: o passeio de barco SO pode ser feito durante a mare cheia - consulte a tabua de mare antes de fechar o dia. A mesma estrada rende, pela MA-201 e tambem a 30 km, Sao Jose de Ribamar, a 'capital religiosa' do Maranhao, cujo maior atrativo e uma estatua gigante de Sao Jose. Agencias de Sao Luis vendem passeios a regiao. NAO CONFIRMAMOS precos do passeio de barco, horarios, nome de operadores nem precos do artesanato - nenhuma fonte aberta nesta sessao traz esses dados.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-slz-aviso-nao-faca-bate-volta-de-um-dia-de-sao-luis-aos",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/como-chegar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: nao faca bate-volta de um dia de Sao Luis aos Lencois Maranhenses",
+    "cidadeId": "sao-luis",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "pega-turista",
+      "logistica",
+      "lencois-maranhenses"
+    ],
+    "descricaoCurta": "Agencias vendem o bate-volta, mas sao quase 8 horas de estrada para 90 a 120 minutos de duna.",
+    "descricaoLonga": "Existem agencias em Sao Luis que vendem o bate-volta de um dia aos Lencois Maranhenses. O Viaje na Viagem e taxativo: nao vale a pena. Entre ida e volta voce roda quase 8 horas pela estrada. Se o passeio as lagoas for feito em Barreirinhas, ainda vai chacoalhar mais 50 minutos em jardineira na areia entre a cidade e as lagoas - e outros 50 para voltar. Tudo isso para ficar de 90 minutos a duas horas nas dunas. A recomendacao e deixar os Lencois para quando houver tempo de ficar por la PELO MENOS DUAS NOITES, e dentro da janela de sol com lagoas cheias. Mesmo o bate-volta a Santo Amaro de madrugada e descartado pelo guia como 'duas noites sem dormir' que nao valem o sacrificio. Para roteiros prontos, o guia indica combinacoes Sao Luis + Lencois de 3, 4 e 6 noites.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-slz-aviso-o-dia-da-semana-decide-seu-centro-historico-de",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: o dia da semana decide seu centro historico de Sao Luis",
+    "cidadeId": "sao-luis",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "calendario",
+      "museus",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Quarta-feira e o melhor dia; domingo e segunda sao os piores, com quase tudo fechado.",
+    "descricaoLonga": "Segundo o Viaje na Viagem: o melhor dia para visitar o centro historico de Sao Luis e QUARTA-FEIRA, porque tudo funciona, incluindo a visita guiada ao Teatro Arthur Azevedo, que so acontece na quarta a tarde. Os piores dias sao DOMINGO (esta tudo fechado) e SEGUNDA (quase tudo). O Centro Cultural Vale Maranhao fecha segundas, domingos e feriados. O Palacio dos Leoes abre de terca a domingo. O Restaurante-Escola Senac fecha domingo. Varios equipamentos estaduais estao simplesmente fechados (Casa do Maranhao, Casa da Festa) ou com funcionamento muito restrito, o que empobrece a visita. Perspectiva de melhora no medio prazo: dois casaroes (um deles o da antiga Casa do Maranhao) viram hoteis-butique da rede portuguesa Vila Gale - Collection Opera e Collection Poesia -, e esta prometido um espaco dedicado ao bumba-meu-boi no Museu Ferroviario, com parte do acervo que era exibido na Casa do Maranhao. NAO CONFIRMAMOS se esses espacos ja abriram.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

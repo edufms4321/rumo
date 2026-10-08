@@ -19,7 +19,7 @@ Confirme por WhatsApp ou telefone antes de contar com qualquer coisa desta lista
 | Confiança: parcialmente verificado | 122 |
 | Confiança: estimado | 20 |
 | Com coordenada | 138 de 166 |
-| Com imagem de licença livre | 96 de 166 |
+| Com imagem de licença livre | 101 de 166 |
 | Com algum contato | 64 de 166 |
 | Coletado há mais de um ano | 0 |
 ### Preço não encontrado — 46
@@ -173,7 +173,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confiança: verificado | 49 |
 | Confiança: parcialmente verificado | 193 |
 | Confiança: estimado | 24 |
-| Com coordenada | 191 de 215 |
+| Com coordenada | 187 de 215 |
 | Com imagem de licença livre | 157 de 215 |
 | Com algum contato | 58 de 215 |
 | Coletado há mais de um ano | 0 |
@@ -226,13 +226,14 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 
 _...e mais 27. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 4
+### Preço com uma fonte só — 5
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
 | Item | Base | O que falta |
 |---|---|---|
 | Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | segunda fonte de preço |
+| Mercado Hidalgo (compras e comida barata) | Guanajuato | segunda fonte de preço |
 | Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | segunda fonte de preço |
 | Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | segunda fonte de preço |
 | Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan) | Queretaro | segunda fonte de preço |
@@ -294,7 +295,7 @@ Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
 |---|---|---|
 | Noches de Kukulcán (show noturno em Chichén Itzá) | Valladolid | antecedência da reserva |
 
-### Sem coordenada — 24
+### Sem coordenada — 28
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -306,10 +307,12 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | coordenada |
 | Trem José Cuervo Express (Guadalajara - Tequila) | Guadalajara | coordenada |
 | Bate-volta Guadalajara - Tequila (tour de dia inteiro ou por conta própria) | Guadalajara | coordenada |
+| Mercado Hidalgo (compras e comida barata) | Guanajuato | coordenada |
 | Cerâmica e talavera de Dolores Hidalgo | Guanajuato | coordenada |
 | Nado com tubarão-baleia (Isla Mujeres / Cancún) | Isla Mujeres | coordenada |
 | Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar | Isla Mujeres | coordenada |
 | Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | coordenada |
+| Txalaparta (bar com pista de dança) | Oaxaca de Juarez | coordenada |
 | Voo Oaxaca → Puerto Escondido (Aerotucán / Aerovega) | Oaxaca de Juarez | coordenada |
 | Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa | Palenque | coordenada |
 | Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul) | Palenque | coordenada |
@@ -321,9 +324,215 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Café Museo Café | San Cristobal de las Casas | coordenada |
 | Café Bar Revolución ('El Revo') | San Cristobal de las Casas | coordenada |
 | El Cocodrilo Bar | San Cristobal de las Casas | coordenada |
+| La Viña de Bacco | San Cristobal de las Casas | coordenada |
 | Parroquia de San Miguel Arcángel | San Miguel de Allende | coordenada |
+| La Gruta (termas e spa) - Atotonilco | San Miguel de Allende | coordenada |
 | Bares e noite em Tulum (praia e pueblo) | Tulum | coordenada |
 | Xel-Há: tudo incluído com snorkel | Tulum | coordenada |
+
+## Nordeste brasileiro
+| Medida | Número |
+|---|---|
+| Itens | 296 (258 agendáveis) |
+| Bases | 23 |
+| Confiança: verificado | 168 |
+| Confiança: parcialmente verificado | 128 |
+| Confiança: estimado | 0 |
+| Com coordenada | 62 de 258 |
+| Com imagem de licença livre | 0 de 258 |
+| Com algum contato | 61 de 258 |
+| Coletado há mais de um ano | 0 |
+### Preço não encontrado — 123
+
+O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Mercados Municipais de Aracaju (Antonio Franco, Thales Ferraz e Maria Virginia) | Aracaju | preço |
+| Orla da Atalaia e Passarela do Caranguejo | Aracaju | preço |
+| Praia de Aruana e Aruana al Mare | Aracaju | preço |
+| Cariri (forro pe de serra ao vivo) | Aracaju | preço |
+| Cacarola | Aracaju | preço |
+| Carne de Sol do Ramiro | Aracaju | preço |
+| Confraria do Cajueiro | Aracaju | preço |
+| Tole Cozinha | Aracaju | preço |
+| Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | preço |
+| Praia de Atins e suas barracas | Atins | preço |
+| Kitesurf em Atins | Atins | preço |
+| Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | preço |
+| Okaru (Pousada Vila Aty) | Atins | preço |
+| La Pizza (Atins) | Atins | preço |
+| Casa de Juja Atins | Atins | preço |
+| Charme Beach Bar e a noite de Atins | Atins | preço |
+| Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro) | Atins | preço |
+| Restaurantes da beira-rio de Barreirinhas (A Canoa, O Bambu, O Jacare) | Barreirinhas | preço |
+| Bambae | Barreirinhas | preço |
+| Urra Beer Barreirinhas | Barreirinhas | preço |
+| Nautz Lounge Bar | Barreirinhas | preço |
+| Casa dos Lencois (Santo Amaro) | Barreirinhas | preço |
+| Broadway (a rua principal) e o artesanato | Canoa Quebrada | preço |
+| Praia de Canoa Quebrada e a jangada | Canoa Quebrada | preço |
+| Kitesurf em Canoa Quebrada | Canoa Quebrada | preço |
+| Majorlândia, Quixaba e Lagoa do Mato | Canoa Quebrada | preço |
+| Vida noturna de Canoa Quebrada | Canoa Quebrada | preço |
+| Praia do Futuro e as barracas | Fortaleza | preço |
+| Avenida Beira Mar e a Feirinha de artesanato | Fortaleza | preço |
+| Mercado Central e Catedral Metropolitana | Fortaleza | preço |
+| Centro Dragão do Mar de Arte e Cultura | Fortaleza | preço |
+| Mucuripe: Farol e Mercado dos Peixes | Fortaleza | preço |
+| Praia de Iracema e a Ponte dos Ingleses | Fortaleza | preço |
+| Chico do Caranguejo (Praia do Futuro) | Fortaleza | preço |
+| Crocobeach (Praia do Futuro) | Fortaleza | preço |
+| Coco Bambu Beira Mar | Fortaleza | preço |
+| Pirata Bar | Fortaleza | preço |
+| Centro de Turismo do Ceará (antiga cadeia pública) | Fortaleza | preço |
+| Aquiraz: Prainha e Porto das Dunas | Fortaleza | preço |
+| Praia da Concha | Itacaré | preço |
+
+_...e mais 83. `npm run validate:data` imprime a lista inteira._
+
+### Preço com uma fonte só — 38
+
+A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Oceanario de Aracaju (Projeto Tamar) | Aracaju | segunda fonte de preço |
+| Memorial de Sergipe | Aracaju | segunda fonte de preço |
+| Revoada dos guaras no Rio Pregucas (Atins) | Atins | segunda fonte de preço |
+| Planctons luminescentes na foz do Rio Pregucas | Atins | segunda fonte de preço |
+| Circuito da Lagoa Azul | Barreirinhas | segunda fonte de preço |
+| Passeio de voadeira pelo Rio Pregucas ate Cabure | Barreirinhas | segunda fonte de preço |
+| Boia-cross no Rio Formiga | Barreirinhas | segunda fonte de preço |
+| Sobrevoo do Parque Nacional dos Lencois Maranhenses | Barreirinhas | segunda fonte de preço |
+| Quadriciclo aos Pequenos Lencois e Cabure | Barreirinhas | segunda fonte de preço |
+| Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
+| Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
+| Circuito Betania (Santo Amaro) | Barreirinhas | segunda fonte de preço |
+| Praia de Itacarezinho | Itacaré | segunda fonte de preço |
+| Passeio das 4 praias (Engenhoca, Havaizinho, Itacarezinho, Camboinha) | Itacaré | segunda fonte de preço |
+| Rafting no Rio de Contas (Taboquinhas) | Itacaré | segunda fonte de preço |
+| Flor do Cacau (moqueca e bobó na Pituba) | Itacaré | segunda fonte de preço |
+| Ilhéus: centro histórico de Jorge Amado (Bataclan, Vesúvio, Casa de Cultura) | Itacaré | segunda fonte de preço |
+| Barra Grande e Península de Maraú: a travessia de Camamu | Itacaré | segunda fonte de preço |
+| Compras na Rua Principal e o crochê de Jeri | Jericoacoara | segunda fonte de preço |
+| Poço Azul | Lençóis | segunda fonte de preço |
+| Vale do Pati (travessia de 3 a 5 dias) | Lençóis | segunda fonte de preço |
+| Parque da Muritiba: Serrano, Poço Halley, Primavera e Cachoeirinha | Lençóis | segunda fonte de preço |
+| Cachoeira do Mosquito | Lençóis | segunda fonte de preço |
+| Vale do Capão (Caeté-Açu) | Lençóis | segunda fonte de preço |
+| Transfer semi-terrestre Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
+| Táxi-aéreo Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
+| Segunda Praia | Morro de São Paulo | segunda fonte de preço |
+| Volta à Ilha de barco (Garapuá, Moreré, Cairu) | Morro de São Paulo | segunda fonte de preço |
+| Onde comer no centrinho de Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
+| Passeio de lancha rapida pelo Delta (circuito Canarias ou Feijao Bravo) | Parnaíba | segunda fonte de preço |
+| Safari noturno com focagem de animais no Delta | Parnaíba | segunda fonte de preço |
+| Aula de surf na Praia do Madeiro | Pipa | segunda fonte de preço |
+| Fundação Casa de Jorge Amado | Salvador | segunda fonte de preço |
+| Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica) | Salvador | segunda fonte de preço |
+| Projeto Tamar Praia do Forte | Salvador | segunda fonte de preço |
+| Cabana do Sol | São Luís | segunda fonte de preço |
+| Praia dos Coqueiros e Praia dos Nativos | Trancoso | segunda fonte de preço |
+| Balsa Porto Seguro - Arraial d'Ajuda | Trancoso | segunda fonte de preço |
+
+### Horário não encontrado — 258
+
+Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
+
+| Item | Base | O que falta |
+|---|---|---|
+| Museu da Gente Sergipana | Aracaju | horário de funcionamento |
+| Mercados Municipais de Aracaju (Antonio Franco, Thales Ferraz e Maria Virginia) | Aracaju | horário de funcionamento |
+| Teleferico de Aracaju e Parque da Cidade | Aracaju | horário de funcionamento |
+| Oceanario de Aracaju (Projeto Tamar) | Aracaju | horário de funcionamento |
+| Memorial de Sergipe | Aracaju | horário de funcionamento |
+| Orla da Atalaia e Passarela do Caranguejo | Aracaju | horário de funcionamento |
+| Croa do Gore e Ilha dos Namorados | Aracaju | horário de funcionamento |
+| Praia de Aruana e Aruana al Mare | Aracaju | horário de funcionamento |
+| Duna Beach Club (praia do Mosqueiro) | Aracaju | horário de funcionamento |
+| Centro Cultural de Aracaju e Palacio Olimpio Campos | Aracaju | horário de funcionamento |
+| Cariri (forro pe de serra ao vivo) | Aracaju | horário de funcionamento |
+| Cacarola | Aracaju | horário de funcionamento |
+| Carne de Sol do Ramiro | Aracaju | horário de funcionamento |
+| Confraria do Cajueiro | Aracaju | horário de funcionamento |
+| Tole Cozinha | Aracaju | horário de funcionamento |
+| Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | horário de funcionamento |
+| Canion do Xingo (passeio de catamara no rio Sao Francisco) | Aracaju | horário de funcionamento |
+| Circuitos de lagoas de Atins e Canto do Atins | Atins | horário de funcionamento |
+| Circuito Ponta de Mangue | Atins | horário de funcionamento |
+| Revoada dos guaras no Rio Pregucas (Atins) | Atins | horário de funcionamento |
+| Planctons luminescentes na foz do Rio Pregucas | Atins | horário de funcionamento |
+| Praia de Atins e suas barracas | Atins | horário de funcionamento |
+| Kitesurf em Atins | Atins | horário de funcionamento |
+| Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | horário de funcionamento |
+| Okaru (Pousada Vila Aty) | Atins | horário de funcionamento |
+| La Pizza (Atins) | Atins | horário de funcionamento |
+| Casa de Juja Atins | Atins | horário de funcionamento |
+| Charme Beach Bar e a noite de Atins | Atins | horário de funcionamento |
+| Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro) | Atins | horário de funcionamento |
+| Circuito da Lagoa Bonita | Barreirinhas | horário de funcionamento |
+| Circuito da Lagoa Azul | Barreirinhas | horário de funcionamento |
+| Passeio de voadeira pelo Rio Pregucas ate Cabure | Barreirinhas | horário de funcionamento |
+| Boia-cross no Rio Formiga | Barreirinhas | horário de funcionamento |
+| Sobrevoo do Parque Nacional dos Lencois Maranhenses | Barreirinhas | horário de funcionamento |
+| Quadriciclo aos Pequenos Lencois e Cabure | Barreirinhas | horário de funcionamento |
+| Bate-volta de Barreirinhas a Atins | Barreirinhas | horário de funcionamento |
+| Bate-volta de Barreirinhas a Santo Amaro | Barreirinhas | horário de funcionamento |
+| Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | horário de funcionamento |
+| Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | horário de funcionamento |
+| Circuito Betania (Santo Amaro) | Barreirinhas | horário de funcionamento |
+
+_...e mais 218. `npm run validate:data` imprime a lista inteira._
+
+### Sem coordenada — 196
+
+Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Mercados Municipais de Aracaju (Antonio Franco, Thales Ferraz e Maria Virginia) | Aracaju | coordenada |
+| Teleferico de Aracaju e Parque da Cidade | Aracaju | coordenada |
+| Oceanario de Aracaju (Projeto Tamar) | Aracaju | coordenada |
+| Memorial de Sergipe | Aracaju | coordenada |
+| Orla da Atalaia e Passarela do Caranguejo | Aracaju | coordenada |
+| Croa do Gore e Ilha dos Namorados | Aracaju | coordenada |
+| Praia de Aruana e Aruana al Mare | Aracaju | coordenada |
+| Duna Beach Club (praia do Mosqueiro) | Aracaju | coordenada |
+| Centro Cultural de Aracaju e Palacio Olimpio Campos | Aracaju | coordenada |
+| Cariri (forro pe de serra ao vivo) | Aracaju | coordenada |
+| Cacarola | Aracaju | coordenada |
+| Carne de Sol do Ramiro | Aracaju | coordenada |
+| Confraria do Cajueiro | Aracaju | coordenada |
+| Tole Cozinha | Aracaju | coordenada |
+| Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | coordenada |
+| Circuito Ponta de Mangue | Atins | coordenada |
+| Revoada dos guaras no Rio Pregucas (Atins) | Atins | coordenada |
+| Planctons luminescentes na foz do Rio Pregucas | Atins | coordenada |
+| Praia de Atins e suas barracas | Atins | coordenada |
+| Kitesurf em Atins | Atins | coordenada |
+| Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | coordenada |
+| Okaru (Pousada Vila Aty) | Atins | coordenada |
+| La Pizza (Atins) | Atins | coordenada |
+| Casa de Juja Atins | Atins | coordenada |
+| Charme Beach Bar e a noite de Atins | Atins | coordenada |
+| Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro) | Atins | coordenada |
+| Circuito da Lagoa Azul | Barreirinhas | coordenada |
+| Passeio de voadeira pelo Rio Pregucas ate Cabure | Barreirinhas | coordenada |
+| Boia-cross no Rio Formiga | Barreirinhas | coordenada |
+| Sobrevoo do Parque Nacional dos Lencois Maranhenses | Barreirinhas | coordenada |
+| Quadriciclo aos Pequenos Lencois e Cabure | Barreirinhas | coordenada |
+| Bate-volta de Barreirinhas a Atins | Barreirinhas | coordenada |
+| Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | coordenada |
+| Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | coordenada |
+| Circuito Betania (Santo Amaro) | Barreirinhas | coordenada |
+| Restaurantes da beira-rio de Barreirinhas (A Canoa, O Bambu, O Jacare) | Barreirinhas | coordenada |
+| Bambae | Barreirinhas | coordenada |
+| Urra Beer Barreirinhas | Barreirinhas | coordenada |
+| Nautz Lounge Bar | Barreirinhas | coordenada |
+| Casa dos Lencois (Santo Amaro) | Barreirinhas | coordenada |
+
+_...e mais 156. `npm run validate:data` imprime a lista inteira._
 
 ---
 

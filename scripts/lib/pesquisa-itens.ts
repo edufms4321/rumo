@@ -32,11 +32,64 @@ function textoDoItem(i: Json): string {
     .join(' ');
 }
 
+/**
+ * Dominios cuja palavra vale sozinha: o proprio orgao, o proprio parque,
+ * a propria prefeitura. Fora desta lista, uma fonte so e uma fonte so.
+ */
+const OFICIAL = /(^|\.)gov\.br(\/|$)|icmbio|\.gov(\.|\/|$)|prefeitura|ibama|inmet|fumdham|tamar/i;
+
+/**
+ * Nivel de confianca deduzido das fontes, para quando a onda de pesquisa
+ * nao declarou um.
+ *
+ * A regra e a mesma do projeto inteiro: duas fontes independentes que
+ * concordam, ou uma oficial, vale "verificado"; uma fonte so vale
+ * "parcial"; nenhuma, "estimado" — e o validador nem deixa entrar.
+ *
+ * Isto existe porque eu esqueci de pedir o campo no briefing de uma onda e
+ * os 296 itens entraram como "estimado", o que era falso para baixo: havia
+ * fonte oficial em boa parte deles. Mentir a favor tambem e mentir.
+ */
+function grauPelasFontes(i: Json): string {
+  const fontes = (i.fontes ?? []) as unknown[];
+  const urls = fontes.map((f) => (typeof f === 'string' ? f : String((f as Json)?.url ?? '')));
+  const dominios = new Set(
+    urls
+      .map((u) => {
+        try {
+          return new URL(u).hostname.replace(/^www\./, '');
+        } catch {
+          return '';
+        }
+      })
+      .filter(Boolean),
+  );
+  if (dominios.size === 0) return 'estimado';
+  if (dominios.size >= 2 || [...dominios].some((d) => OFICIAL.test(d))) return 'verificado';
+  return 'parcial';
+}
+
 function derivarRestricoes(i: Json): Json {
   const texto = textoDoItem(i);
   const categoria = String(i.categoria);
+
+  /*
+    `restricoes` chega de duas formas.
+
+    As ondas antigas mandavam uma lista de frases soltas. As novas mandam
+    um objeto com os campos que o motor entende de verdade
+    (`dependeDeMare`, `naoVoarDepoisHoras`...), que e melhor: o que o
+    pesquisador afirma com fonte vale mais do que o que eu deduzo de
+    regex. As duas formas sao aceitas, e o que vem declarado ganha das
+    deducoes abaixo.
+  */
+  const cru = i.restricoes;
+  const declarado: Json = cru && !Array.isArray(cru) && typeof cru === 'object' ? { ...cru } : {};
+  const lista: unknown[] = Array.isArray(cru) ? cru : (declarado.outras as unknown[]) ?? [];
+  delete declarado.outras;
+
   const r: Json = {
-    outras: (i.restricoes ?? []).filter((x: unknown) => typeof x === 'string' && x.trim()),
+    outras: lista.filter((x: unknown) => typeof x === 'string' && x.trim()),
   };
 
   if (RE_CLIMA.test(texto) || categoria === 'praia') {
@@ -52,7 +105,9 @@ function derivarRestricoes(i: Json): Json {
     r.naoVoarDepoisHoras = 18;
     derivado('naoVoarDepoisHoras = 18 (minimo DAN para mergulhos repetidos)');
   }
-  return r;
+
+  // O declarado pela pesquisa entra por ultimo e manda.
+  return { ...r, ...declarado };
 }
 
 function derivarSelos(i: Json, temPreco: boolean, gratuito: boolean): string[] {
@@ -151,7 +206,9 @@ export function converterItem(
   const gratuito = [...tags].some((t) => ['gratis', 'gratuito', 'free'].includes(t));
   const { preco, alerta: alertaDePreco } = converterPreco(i.preco);
   const { horarios, horariosObservacao, conflitoDeHorario } = converterHorarios(i.horarios);
-  const { confianca: nivel, observacaoDeConfianca } = confianca(i.confianca);
+  const { confianca: nivel, observacaoDeConfianca } = confianca(
+    i.confianca ?? grauPelasFontes(i),
+  );
 
   const c = i.coords as Json | undefined;
   const temCoords =

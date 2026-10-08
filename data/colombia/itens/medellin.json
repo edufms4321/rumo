@@ -1336,6 +1336,10 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mesa_de_tenis_en_el_parque_Lleras_de_Medell%C3%ADn.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1377,7 +1381,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mesa_de_tenis_en_el_parque_Lleras_de_Medell%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Julian Andres Villamil Arenas",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mesa_de_tenis_en_el_parque_Lleras_de_Medell%C3%ADn.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [

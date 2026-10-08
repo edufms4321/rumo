@@ -1,0 +1,933 @@
+[
+  {
+    "id": "br-trc-o-quadrado-de-trancoso",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Trancoso_(Porto_Seguro)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "O Quadrado de Trancoso",
+    "cidadeId": "trancoso",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "igreja",
+      "gratuito",
+      "por-do-sol",
+      "caro-em-volta"
+    ],
+    "coords": {
+      "lat": -16.592528,
+      "lng": -39.102806
+    },
+    "descricaoCurta": "A praça de grama com casario colorido e a igreja do século 16, com mirante sobre as praias - andar ali é de graça.",
+    "descricaoLonga": "O Quadrado é a praça central de Trancoso: casario colorido, restaurantes, lojas e a Igreja de São João Batista, no extremo que dá para o mar, com mirante sobre as praias. A história é parte do apelo: a aldeia foi fundada por jesuítas no século 16, ficou isolada por quatro séculos e foi redescoberta nos anos 1970 por hippies - e hoje convive com grife e pousada de luxo. Andar e ver o pôr do sol não custa nada; comer e comprar ali custa muito, e as duas fontes que abri dizem o mesmo: os restaurantes do Quadrado são caros e há opções melhores de preço algumas ruas adiante. Estacionar perto custa cerca de R$ 10. Para roteiro: é programa de fim de tarde e noite, e o lugar onde você vai voltar todas as noites, porque é onde está tudo. Coordenada de Trancoso pela Wikipédia: -16,592528, -39,102806.",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 10,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Circular é gratuito; estacionamento perto do Quadrado cerca de R$ 10 (fonte: blog). Consumo nos restaurantes é caro, sem faixa confiável de 2026. | tipo: por-veiculo"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-trc-praia-dos-coqueiros-e-praia-dos-nativos",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia dos Coqueiros e Praia dos Nativos",
+    "cidadeId": "trancoso",
+    "categoria": "praia",
+    "tags": [
+      "a-pe-do-quadrado",
+      "consumacao-minima",
+      "mar-calmo",
+      "barracas",
+      "caro"
+    ],
+    "descricaoCurta": "As duas praias que se alcançam a pé do Quadrado - e onde a conta da barraca pode custar mais que o dia.",
+    "descricaoLonga": "Coqueiros: mar calmo e morno, água cristalina, areia cercada de coqueiros, acesso fácil e curta caminhada do Quadrado; é a praia com o mar mais bonito segundo uma das fontes, e a com a MENOR consumação mínima entre as praias de Trancoso segundo a outra. Nativos: cor de mar parecida, faixa mais extensa, e barracas que cobram mais caro que as dos Coqueiros. A ARMADILHA PRINCIPAL DO DESTINO: as barracas cobram consumação mínima por pessoa - a faixa registrada é de R$ 50 a R$ 250 conforme a praia e o estabelecimento, mas esse dado é de setembro de 2021 nas duas fontes, ou seja, cinco anos atrás, e provavelmente está bem mais alto hoje. Não registro um número de 2026 porque não consegui nenhum. A regra é simples e inegociável: pergunte o valor da consumação ANTES de sentar na espreguiçadeira, e confirme se é por pessoa. A descida para a praia é pela falésia, a partir do Quadrado.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 50,
+      "max": 250,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A praia é pública e gratuita. A faixa é a CONSUMAÇÃO MÍNIMA das barracas, e as duas fontes atribuem esses valores a setembro de 2021 - estão defasados, use apenas como ordem de grandeza e pergunte no local. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-praia-do-rio-da-barra-e-praia-de-itapororoca",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Rio da Barra e Praia de Itapororoca",
+    "cidadeId": "trancoso",
+    "categoria": "praia",
+    "tags": [
+      "isolada",
+      "rio-e-mar",
+      "piscinas-naturais",
+      "melhor-praia",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "As praias que muita gente considera as melhores de Trancoso: rio de água doce desaguando no mar e piscinas naturais na maré baixa.",
+    "descricaoLonga": "Rio da Barra: praia isolada, com água do mar extremamente calma, rio de água doce para banho e estrutura para passar o dia inteiro - uma das fontes diz que para muita gente é a melhor praia de Trancoso. Itapororoca: descrita pela outra fonte como a mais bonita, formando piscinas naturais na maré baixa. O combo rio + mar é o que faz essas praias funcionarem bem com criança, mesmo sendo mais afastadas. Dependência de maré: as piscinas de Itapororoca só aparecem na maré baixa. Acesso: são praias de carro, van ou quadriciclo - não há transporte público em Trancoso e a caminhada é longa. O que NÃO consegui: taxa de estacionamento, consumação das barracas dessas praias específicas e distância exata do Quadrado - omito todos em vez de estimar. Outras praias citadas no mesmo eixo: Taípe, com falésias.",
+    "duracao": {
+      "min": 180,
+      "tipica": 360,
+      "max": 540
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-praia-do-espelho-e-praia-dos-amores",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praia-do-espelho-e-praia-dos-amores-224-6234-l.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia do Espelho e Praia dos Amores",
+    "cidadeId": "trancoso",
+    "categoria": "praia",
+    "tags": [
+      "mare-baixa-obrigatoria",
+      "piscinas-naturais",
+      "falesia",
+      "caro",
+      "estacionamento-pago",
+      "praia-do-espelho"
+    ],
+    "descricaoCurta": "A praia mais fotografada do sul da Bahia - e a que mais decepciona quem vai na maré errada.",
+    "descricaoLonga": "Fica a 18 km de Trancoso pela BA-283 mais 5 km de estrada de terra, com acesso à praia por uma rampa construída na falésia (uma segunda fonte dá 25 km de Trancoso - divergência registrada). Estacionamento pago, média de R$ 20 por veículo; outra fonte cita R$ 30 por dia em setembro de 2021. O PONTO QUE QUEBRA O PROGRAMA: vá na MARÉ BAIXA, de preferência em lua nova ou cheia, quando a variação é maior e as piscinas naturais aparecem. Na maré alta as praias continuam bonitas, mas não há piscina natural e não há o efeito de 'espelho' - o reflexo do céu e das falésias na água, que dá nome ao lugar. Mais: na maré baixa, Espelho e Amores viram uma só praia; na maré alta elas se separam e a dos Amores só é acessível por trilha no alto da falésia. Restaurantes citados pelas duas fontes: Restaurante da Silvinha (só com reserva, menu-surpresa), Pousada do Baiano (frutos do mar, ambiente acolhedor) e Sushi da Mel. As fontes avisam que tudo ali é muito caro. Acesso alternativo: ônibus da Viação Águia Azul saindo de Arraial d'Ajuda, quadriciclo, passeio de barco (cerca de R$ 300 por pessoa em grupo) ou a pé, 17 km de Trancoso.",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 20,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Estacionamento cerca de R$ 20 por veículo (uma fonte) ou R$ 30 por dia em set/2021 (outra). Passeio de barco cerca de R$ 300 por pessoa em grupo. Praia gratuita; restaurantes caros, sem faixa de preço coletada. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-caraiva-a-vila-sem-carro",
+    "fontes": [
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Caraíva: a vila sem carro",
+    "cidadeId": "trancoso",
+    "categoria": "atracao",
+    "tags": [
+      "sem-carro",
+      "ruas-de-areia",
+      "travessia-de-canoa",
+      "dinheiro-em-especie",
+      "forro",
+      "caraiva"
+    ],
+    "descricaoCurta": "Vila de ruas de areia onde não entra veículo: você estaciona do outro lado do rio e atravessa de canoa.",
+    "descricaoLonga": "A informação central, confirmada pelas duas fontes que abri: Caraíva não tem veículo motorizado circulando. As ruas são de areia e o 'táxi' local é uma carroça puxada por cavalo, que leva bagagem. Todo mundo estaciona do outro lado do Rio Caraíva e atravessa de canoa conduzida por moradores. PREÇOS COM DIVERGÊNCIA: a travessia custa R$ 10 por pessoa por trecho e o estacionamento R$ 30 por dia, segundo a fonte que atribui os valores a 2026; a outra fonte registra travessia a R$ 5 e estacionamento a R$ 10 por dia. Trate como faixa R$ 5-10 na canoa e R$ 10-30 no estacionamento, e confirme com a pousada qual estacionamento eles indicam. SOBRE A ENERGIA ELÉTRICA, que é a pergunta clássica: eu NÃO consegui confirmar em página aberta se hoje há energia 24 horas. Uma das fontes que abri simplesmente não especifica isso. O que ela SIM confirma e é o efeito prático do mesmo problema: o sinal de celular e a internet são limitados, 'nem sempre os restaurantes aceitam cartão ou há sinal para a maquininha' - ou seja, LEVE DINHEIRO EM ESPÉCIE. Um resumo de busca (página não aberta) afirma que a energia chegou em 2007 e que a fiação foi instalada no subsolo a pedido dos moradores, para não haver poste; é plausível e amplamente repetido, mas eu não verifiquei e por isso não afirmo. Também não encontrei informação sobre caixa eletrônico na vila.",
+    "duracao": {
+      "min": 480,
+      "tipica": 1440,
+      "max": 4320
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 5,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Travessia de canoa R$ 10 por pessoa por trecho (fonte de 2026) x R$ 5 (outra fonte). Estacionamento R$ 30/dia x R$ 10/dia. Duas fontes discordam - faixa é a união das duas. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-como-chegar-a-caraiva",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/como-ir-para-arraial-dajuda"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Como chegar a Caraíva",
+    "cidadeId": "trancoso",
+    "categoria": "passeio",
+    "tags": [
+      "estrada-de-terra",
+      "onibus",
+      "van",
+      "taxi",
+      "logistica",
+      "caraiva"
+    ],
+    "descricaoCurta": "36 a 40 km de estrada de terra de Trancoso, ônibus barato por 2 h, táxi por cerca de R$ 210 - e carro alto ajuda.",
+    "descricaoLonga": "DISTÂNCIA: 36 km de Trancoso segundo uma fonte, 40 km segundo a outra. A estrada é de TERRA e nem todo trecho está bom - uma fonte diz que o trecho depois de Trancoso é não pavimentado mas sinalizado, e as duas recomendam carro alto por causa dos buracos; chuva forte estraga a estrada e pode afetar até o ônibus. OPÇÕES E PREÇOS: ônibus diário de Arraial d'Ajuda passando por Trancoso, Itaporanga e Praia do Espelho, com a travessia de rio incluída no serviço, por volta de R$ 20 - uma fonte cita a Viação Águia Azul e mais de 2 horas desde Trancoso, outra fala da 'linha Brasileiro'; van saindo do terminal da balsa em Arraial quando enche, cerca de R$ 30 por pessoa; táxi cerca de R$ 210 de Trancoso ou R$ 280 de Arraial d'Ajuda, com negociação - as duas fontes avisam que o primeiro preço pedido é mais alto que o de referência. Uma das fontes dá até um contato de táxi: Zé Mecânico, (73) 99991-8795. Aeroporto de referência: Porto Seguro. A regra que fecha tudo: o carro não entra na vila, você para do outro lado e atravessa de canoa.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 20,
+      "max": 280,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Ônibus por volta de R$ 20 (travessia incluída); van cerca de R$ 30 por pessoa; táxi cerca de R$ 210 de Trancoso e R$ 280 de Arraial. Duas fontes de blog concordam na faixa do táxi. | tipo: por-trecho"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(73) 99991-8795"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-trc-o-que-fazer-em-caraiva-praia-do-satu-rio-e-aldeia-pa",
+    "fontes": [
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "O que fazer em Caraíva: Praia do Satu, rio e Aldeia Pataxó",
+    "cidadeId": "trancoso",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "rio",
+      "aldeia-indigena",
+      "caiaque",
+      "depende-da-mare",
+      "caraiva"
+    ],
+    "descricaoCurta": "A melhor praia é a do Satu, o rio dá caiaque e boia, e a Aldeia Barra Velha fica calma na maré baixa.",
+    "descricaoLonga": "O que a fonte registra: Praia do Satu, descrita como a melhor praia de Caraíva, com proteção de corais e piscinas naturais; Aldeia Barra Velha, a aldeia indígena Pataxó, com águas calmas na maré baixa; e o Rio Caraíva, onde se faz caiaque, stand up paddle e passeio de boia. A grande vantagem de Caraíva é essa: o rio e o mar estão no mesmo lugar, e você escolhe conforme o dia. A dependência de maré baixa vale para as piscinas naturais do Satu e para o acesso tranquilo à aldeia. O que NÃO consegui: preços de aluguel de caiaque/SUP, valor de passeio de barco ou de boia no rio, se a visita à aldeia tem taxa ou se precisa de agendamento e acompanhamento - esse último ponto é importante e eu não vou inventar, porque visita a terra indígena normalmente tem regra própria. Confirme na pousada ou com a associação local antes de ir à aldeia.",
+    "duracao": {
+      "min": 180,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-forro-de-caraiva-forro-do-ourico-e-forro-do-pele",
+    "fontes": [
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Forró de Caraíva (Forró do Ouriço e Forró do Pelé)",
+    "cidadeId": "trancoso",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "noite",
+      "madrugada",
+      "dinheiro-em-especie",
+      "alternam",
+      "caraiva"
+    ],
+    "descricaoCurta": "Duas casas de forró que se alternam e começam depois da meia-noite - leve dinheiro, maquininha pode não funcionar.",
+    "descricaoLonga": "A fonte nomeia as duas casas: Forró do Ouriço e Forró do Pelé, que ALTERNAM a música ao vivo e começam depois da meia-noite. É o programa que define a noite da vila - sem carro, sem rua iluminada por poste, com a festa a uma caminhada de areia da pousada. Os restaurantes se concentram na rua beira-rio e abrem sobretudo à noite; nomes citados: Boteco do Pará e Culinária Central. O aviso prático repetido pela fonte vale aqui mais que em qualquer outro lugar deste arquivo: LEVE DINHEIRO EM ESPÉCIE, porque nem sempre há sinal para a maquininha de cartão. O que não tenho: dias da semana de cada casa, valor de entrada ou couvert, horário de fechamento. Não registro nenhum - a fonte só diz que a música começa depois da meia-noite e que as casas se alternam, o que sugere que você precisa perguntar no dia qual está funcionando.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-trc-restaurantes-do-quadrado-de-trancoso",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/restaurantes-em-trancoso-dicas-de-onde-comer"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Restaurantes do Quadrado de Trancoso",
+    "cidadeId": "trancoso",
+    "categoria": "restaurante",
+    "tags": [
+      "quadrado",
+      "caro",
+      "telefones",
+      "reserva",
+      "nomes"
+    ],
+    "descricaoCurta": "Os endereços reais do Quadrado com telefone - mas as faixas de preço que eu consegui são de 2017.",
+    "descricaoLonga": "Aviso de honestidade antes dos nomes: a fonte que traz faixas de preço declara explicitamente que a informação é de JUNHO DE 2017. Nove anos depois, os valores não servem como preço - servem só para mostrar a hierarquia entre as casas. Os endereços e telefones, que mudam menos, são: Silvana & Cia, uma das casas mais tradicionais e dita a primeira da vila, com unidade no Quadrado e outra na Praia dos Coqueiros, (73) 3668-1718; Capim Santo, no Quadrado (Rua do Beco, 55), aberto em 1984 na época hippie, com proposta natural e orgânica, (73) 3668-1122; Uxua, no Quadrado, de luxo, (73) 3668-2277; El Gordo, no Quadrado, portuguesa/contemporânea, preços altos, (73) 3668-1193; Jacaré do Brasil, rústico, de madeira, com cardápio brasileiro e internacional; Sagrado, no Quadrado, casual, (73) 3668-1104; Rabanete, self-service por quilo, (73) 3668-1835; Canto do Quadrado, pizzaria, (73) 3668-2273; Restaurante Vitória, variado e frutos do mar, (73) 3668-1646; Cantinho Doce, regional/bar, (73) 3668-1410; O Cacau, baiano, perto da igreja; Maritaca, pizzaria, na Rua Carlos Alberto Parracho; e, para gastar pouco, Marcos Lanchonete (antes do Quadrado, (73) 3668-1203) e as barraquinhas de tapioca na entrada do Quadrado. A regra das duas fontes: comer no Quadrado é mais caro que o equivalente em cidade grande, e há opções melhores de preço algumas ruas adiante.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 210
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-trc-arraial-d-ajuda-praias-e-centrinho",
+    "fontes": [
+      {
+        "url": "https://www.visitportoseguro.com.br/praias/arraial-dajuda/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Arraial d'Ajuda: praias e centrinho",
+    "cidadeId": "trancoso",
+    "categoria": "praia",
+    "tags": [
+      "bate-volta",
+      "falesias",
+      "praias",
+      "centrinho-a-pe",
+      "familia",
+      "arraial-dajuda"
+    ],
+    "descricaoCurta": "A 23 km de Trancoso: Mucugê para conveniência, Pitinga para falésia, Taípe para sossego - e um centrinho que se caminha.",
+    "descricaoLonga": "Distrito do outro lado do Rio Buranhém em relação a Porto Seguro, descrito como a combinação de praia de dia e vila à noite, com praias, falésias e um centrinho que convida a andar a pé. O perfil das praias, segundo a fonte: Mucugê pela conveniência, Pitinga pela vista dramática das falésias e Taípe pelo isolamento; outras citadas na região são Parracho e Araçaípe. O circuito a pé começa na Igreja Nossa Senhora d'Ajuda e segue pela Rua do Mucugê, que concentra restaurantes e bares. Há o Eco Parque para família. A fonte é um guia de destino e NÃO traz preços de consumação de barraca, de estacionamento ou de ingresso do Eco Parque - para o Eco Parque encontrei em resumo de busca (página não aberta) valores de R$ 95 adulto, R$ 60 para criança de 1 m a 1,30 m e gratuidade até 1 m e acima de 60 anos, no endereço Estrada da Balsa km 4,5; registro isso como NÃO VERIFICADO e por isso não entra como preço do item. Para roteiro: Arraial é o bate-volta mais fácil de Trancoso (23 km) e o ponto natural de parada entre o aeroporto e Trancoso.",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-noite-de-arraial-d-ajuda-rua-do-mucuge-e-morocha-clu",
+    "fontes": [
+      {
+        "url": "https://arraialdajuda.tur.br/noite/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Noite de Arraial d'Ajuda (Rua do Mucugê e Morocha Club)",
+    "cidadeId": "trancoso",
+    "categoria": "bar",
+    "tags": [
+      "noite",
+      "musica-ao-vivo",
+      "balada",
+      "temporada",
+      "a-pe",
+      "arraial-dajuda"
+    ],
+    "descricaoCurta": "A noite se concentra na Rua do Mucugê, com música ao vivo em quase todo bar e uma balada que só funciona de verdade na alta temporada.",
+    "descricaoLonga": "A vida noturna gira em torno da Rua do Mucugê e das praças vizinhas - a fonte resume bem: o dia acaba na praia e a noite começa sob as luzes da Rua do Mucugê. Os quatro polos citados: a própria Rua do Mucugê (restaurantes com música ao vivo, lojas, movimento de rua); o Beco das Cores (bares pequenos, sushi, crepes, cachaça); a Praça Caminho do Mar (galerias, restaurantes, feira de artesanato e palco a céu aberto); e a Praça da Igreja, histórica. Música ao vivo em quase todo restaurante e bar, de MPB a jazz, blues e rock. Balada: o Morocha Club, na Rua do Mucugê, funciona como bar, restaurante e casa noturna, com DJ e banda, mas a programação é principalmente de alta temporada (dezembro a fevereiro, Carnaval e julho). O ritmo da noite, pela fonte: jantar entre 18h e 19h, pico de música entre 20h e 22h, balada ganhando força depois das 23h. Na baixa temporada a movimentação se concentra no fim de semana. Entrada em casa noturna varia por data, com preço maior em eventos como Réveillon - a fonte não dá valores, e eu não invento.",
+    "duracao": {
+      "min": 150,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-trc-balsa-porto-seguro-arraial-d-ajuda",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/como-ir-para-arraial-dajuda"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Balsa Porto Seguro - Arraial d'Ajuda",
+    "cidadeId": "trancoso",
+    "categoria": "passeio",
+    "tags": [
+      "balsa",
+      "24-horas",
+      "sem-uber",
+      "logistica",
+      "barato",
+      "porto-seguro"
+    ],
+    "descricaoCurta": "Travessia de 10 minutos, 24 horas por dia: pedestre R$ 5,50 e carro de R$ 20,75 a R$ 25,75.",
+    "descricaoLonga": "Liga Porto Seguro a Arraial d'Ajuda cruzando o Rio Buranhém, a cerca de 10 km do aeroporto. Dados da fonte: pedestre R$ 5,50 (idoso não paga); veículo R$ 20,75 em dia de semana e R$ 25,75 em fim de semana e feriado; duração 10 minutos; operação 24 horas por dia, todos os dias, com partida a cada 10 a 30 minutos conforme a demanda, e frequência maior na alta temporada. A mesma fonte monta a rota mais barata do aeroporto: Uber até a balsa (R$ 14) + balsa de pedestre (R$ 5,50) + van até o centro (R$ 5), total em torno de R$ 24,50 por pessoa, contra cerca de R$ 50 só da balsa ao centro de Arraial em táxi. DOIS AVISOS QUE IMPORTAM: NÃO há Uber em Arraial d'Ajuda, e os táxis de lá não têm taxímetro - trabalham com valor fixo, combine antes. Outras conexões de van da mesma fonte: Trancoso R$ 16 (45 minutos) e Caraíva R$ 32 (2h20); de Salvador são mais de 10 horas, com ônibus a R$ 340 até Porto Seguro. Uma segunda referência que vi (resumo de busca, não aberta) dava pedestre a R$ 5,50 em fevereiro de 2024 - mesmo valor, o que sugere estabilidade, mas não é confirmação.",
+    "duracao": {
+      "min": 10,
+      "tipica": 20,
+      "max": 60
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 5.5,
+      "max": 25.75,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Pedestre R$ 5,50 (idoso isento); veículo R$ 20,75 em dia útil e R$ 25,75 em fim de semana/feriado. Fonte única (blog) - não abri tabela oficial do operador da balsa. | tipo: por-trecho"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-trc-aviso-a-taxa-de-preservacao-ambiental-de-porto-segur",
+    "fontes": [
+      {
+        "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: a Taxa de Preservação Ambiental de Porto Seguro (veículos)",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "taxa",
+      "veicular",
+      "aviso",
+      "placa-de-fora",
+      "2026",
+      "porto-seguro"
+    ],
+    "descricaoCurta": "Desde agosto de 2026, veículo com placa de fora paga por dia em Porto Seguro - e Trancoso, Arraial e Caraíva são Porto Seguro.",
+    "descricaoLonga": "Este é o item que surpreende quem monta roteiro de carro no sul da Bahia: Trancoso, Arraial d'Ajuda e Caraíva são distritos de Porto Seguro, então a taxa municipal alcança todos eles. Segundo A Tarde (10/03/2026), a partir de agosto de 2026 Porto Seguro cobra a TPA de veículos com placa de fora do município, por dia: moto R$ 3; carro de passeio R$ 9,90; van e picape R$ 12,90; ônibus de turismo R$ 30; micro-ônibus, caminhão e motorhome R$ 45; ônibus R$ 70; carreta R$ 90. Aplica-se a veículo que permanece 6 horas ou mais, limitado a 10 dias consecutivos. Pagamento pelo portal da prefeitura, em pontos físicos ou em totens futuros. CONTA PRÁTICA: um carro alugado por 7 dias custa cerca de R$ 69,30 só de TPA - não quebra orçamento, mas quebra a surpresa se você não souber. LIMITAÇÃO: fonte única (jornal); não abri a norma municipal, o portal de pagamento nem confirmei que a cobrança está operando hoje, 8 de outubro de 2026. Se o carro é alugado, pergunte na locadora quem recolhe a taxa.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 3,
+      "max": 90,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa por categoria de veículo, vigente a partir de agosto de 2026 segundo A Tarde (10/03/2026). Carro de passeio R$ 9,90/dia. Cobrada de placa de fora que fica 6 h ou mais, até 10 dias consecutivos. Fonte única. | tipo: por-veiculo-por-dia"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-aviso-a-mare-manda-em-trancoso-espelho-e-caraiva",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praia-do-espelho-e-praia-dos-amores-224-6234-l.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: a maré manda em Trancoso, Espelho e Caraíva",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "mare",
+      "aviso",
+      "planejamento",
+      "piscinas-naturais",
+      "lua"
+    ],
+    "descricaoCurta": "Praia do Espelho sem maré baixa é outra praia. Monte o roteiro pela tábua e pela fase da lua.",
+    "descricaoLonga": "Dependem de MARÉ BAIXA, segundo as fontes abertas: as piscinas naturais e o efeito 'espelho' da Praia do Espelho - e a fonte é explícita ao recomendar lua nova ou cheia, quando a variação é maior; a união de Espelho e Praia dos Amores numa só praia (na maré alta elas se separam e a dos Amores só é acessível por trilha na falésia); as piscinas naturais de Itapororoca; e as piscinas naturais da Praia do Satu, em Caraíva, além do acesso tranquilo à Aldeia Barra Velha. Consequência de roteiro: o dia da Praia do Espelho NÃO é escolhido pelo calendário livre, é escolhido pela tábua de marés - e se a maré baixa do dia cair às 7h ou às 18h, o passeio de meio-dia não entrega nada do que está nas fotos. Pergunte na pousada a hora da baixa-mar, ou consulte a tábua de marés da Marinha para Porto Seguro. Eu NÃO consultei tábua de marés de nenhuma data nesta sessão - este item é a regra, não o calendário.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-aviso-golpes-consumacao-e-transporte-no-eixo-trancos",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/como-ir-para-arraial-dajuda"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: golpes, consumação e transporte no eixo Trancoso-Caraíva",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "golpes",
+      "aviso",
+      "consumacao",
+      "taxi",
+      "sem-uber"
+    ],
+    "descricaoCurta": "Consumação mínima que ninguém avisa, táxi sem taxímetro e van que cobra como privativo - as três armadilhas do destino.",
+    "descricaoLonga": "(1) CONSUMAÇÃO MÍNIMA: as barracas de praia de Trancoso cobram consumação mínima por pessoa - a faixa que achei, R$ 50 a R$ 250, é de setembro de 2021 e certamente está mais alta. Pergunte o valor e se é por pessoa ANTES de sentar. Coqueiros tinha a consumação mais baixa e Nativos cobrava mais caro, segundo a fonte. (2) TÁXI E VAN: não há Uber em Arraial d'Ajuda e os táxis não têm taxímetro, trabalhando com valor fixo - combine antes. O táxi Trancoso-Caraíva tem referência de cerca de R$ 210 e as fontes avisam que o primeiro preço pedido é mais alto; de Arraial, cerca de R$ 280. Vans saem 'quando enche': confirme se o que você está pagando é lotação ou corrida exclusiva. (3) ESTACIONAMENTO EM CARAÍVA: as fontes divergem entre R$ 10 e R$ 30 por dia, e a cobrança é na beira do rio - peça recibo e pergunte na pousada qual estacionamento eles usam. (4) RESTAURANTE DO QUADRADO: duas fontes dizem que é mais caro que o equivalente em cidade grande e que vale comer algumas ruas adiante. (5) DINHEIRO: em Caraíva, cartão nem sempre passa por falta de sinal - leve espécie.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-aviso-caraiva-como-bate-volta-e-um-erro-de-roteiro",
+    "fontes": [
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praia-do-espelho-e-praia-dos-amores-224-6234-l.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: Caraíva como bate-volta é um erro de roteiro",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "pernoite",
+      "planejamento",
+      "forro",
+      "estrada",
+      "caraiva"
+    ],
+    "descricaoCurta": "Duas horas de estrada de terra por trecho e a melhor parte da vila acontecendo depois da meia-noite - Caraíva pede pernoite.",
+    "descricaoLonga": "Juntando o que as fontes dizem, a conclusão se monta sozinha. A estrada: 36 a 40 km de terra desde Trancoso, mais de 2 horas de ônibus, trecho que piora com chuva e pede carro alto. A chegada: estacionar do outro lado do rio e atravessar de canoa com a bagagem, sem veículo dentro da vila, com carroça de cavalo fazendo o transporte. A programação: os restaurantes se concentram na rua beira-rio e abrem sobretudo à NOITE, e as duas casas de forró (Ouriço e Pelé) só começam DEPOIS DA MEIA-NOITE, alternando entre si. Ou seja: quem faz bate-volta de Trancoso chega no meio do dia, pega a vila no horário em que menos coisa funciona, e volta de estrada de terra à noite - perdendo exatamente o que faz Caraíva ser Caraíva. Recomendação do agente (julgamento, não fonte): uma ou duas noites. Se o roteiro não permitir, troque Caraíva por Praia do Espelho, que é mais perto (18 a 25 km de Trancoso) e funciona bem de dia. Leve dinheiro em espécie de qualquer forma.",
+    "duracao": {
+      "min": 1440,
+      "tipica": 2880,
+      "max": 4320
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-trc-aviso-quanto-custa-trancoso-de-verdade",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/restaurantes-em-trancoso-dicas-de-onde-comer"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/como-ir-para-arraial-dajuda"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: quanto custa Trancoso de verdade",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "orcamento",
+      "aviso",
+      "caro",
+      "onde-economizar"
+    ],
+    "descricaoCurta": "O destino é caro, mas o que encarece é escolhível: Quadrado, barraca de praia e táxi.",
+    "descricaoLonga": "As fontes convergem num diagnóstico e num conselho. Diagnóstico: Trancoso é relativamente caro, e comer no Quadrado custa mais que o equivalente em cidade grande. Conselho: com planejamento dá para ficar bem, e as três alavancas de economia são claras. (1) Hospedagem: sair do Quadrado para o centro/vila, a poucas quadras, baixa muito o preço e mantém tudo a pé. (2) Comida: comer algumas ruas adiante do Quadrado; há self-service por quilo, lanchonete e barraquinhas de tapioca na entrada da praça. (3) Praia: a consumação mínima das barracas é o maior ralo invisível do orçamento - a faixa que achei (R$ 50-250 por pessoa, dado de 2021) vale mais como aviso do que como número, e Coqueiros tinha a consumação mais baixa. Some a isso o que é inevitável: estacionamento perto do Quadrado cerca de R$ 10, TPA de Porto Seguro R$ 9,90 por dia para carro com placa de fora a partir de agosto de 2026, balsa de Porto Seguro (pedestre R$ 5,50, carro R$ 20,75-25,75) e, se for a Caraíva, estacionamento de R$ 10-30 por dia mais canoa de R$ 5-10 por trecho. Eu NÃO consegui nenhuma cotação de diária de hospedagem nesta sessão, em nenhuma das cinco bases deste arquivo - não há faixa de preço de hotel aqui de propósito.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

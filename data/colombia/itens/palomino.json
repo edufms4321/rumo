@@ -190,6 +190,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/703378831"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Palomino_beach.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -288,7 +292,14 @@
     "contato": {
       "site": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Palomino_beach.JPG/1280px-Palomino_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Uhkabu",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palomino_beach.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [

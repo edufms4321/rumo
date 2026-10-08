@@ -1,0 +1,505 @@
+[
+  {
+    "id": "sao-ssa",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Salvador-SSA"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "SSA",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 143,
+    "frequencia": "Voos diretos todos os dias da semana (a fonte não informou contagem diária nesta rota)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 850,
+      "max": 1395,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Salvador-SSA"
+        }
+      ],
+      "observacao": "Faixa típica de ida-e-volta na página de rota do Kayak; ida mais barata encontrada R$ 417. FOTOGRAFIA DO DIA: a própria página avisa que as tarifas mudam, e este número envelhece em dias, não em meses. Reconfira no link de busca antes de decidir."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Salvador-SSA",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-rec",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Recife-REC"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "REC",
+    "cias": [
+      "Azul",
+      "LATAM",
+      "GOL"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 185,
+    "frequencia": "32 a 35 voos por dia (cerca de 238 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 900,
+      "max": 1560,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Recife-REC"
+        }
+      ],
+      "observacao": "Faixa típica de ida-e-volta no Kayak; ida mais barata R$ 391. FOTOGRAFIA DO DIA: envelhece rápido, reconfira."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Recife-REC",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-for",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pinto_Martins_%E2%80%93_Fortaleza_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fortaleza-FOR"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "FOR",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 206,
+    "frequencia": "16 a 19 voos por dia (cerca de 125 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1137,
+      "max": 1932,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pinto_Martins_%E2%80%93_Fortaleza_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fortaleza-FOR"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.436; mês mais barato fevereiro (cerca de R$ 1.091). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fortaleza-FOR",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-nat",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Natal-NAT"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "NAT",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 200,
+    "frequencia": "9 a 12 voos por dia (cerca de 69 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1056,
+      "max": 1713,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Natal-NAT"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.335; ida mais barata R$ 504 saindo de Viracopos. FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Natal-NAT",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-mcz",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zumbi_dos_Palmares_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Maceio-MCZ"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "MCZ",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 174,
+    "frequencia": "12 a 16 voos por dia (cerca de 95 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1098,
+      "max": 1835,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zumbi_dos_Palmares_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Maceio-MCZ"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.388; menor ida-e-volta recente R$ 1.037 (Azul). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Maceio-MCZ",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-jpa",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Presidente_Castro_Pinto_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Joao-Pessoa-JPA"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "JPA",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 193,
+    "frequencia": "9 a 12 voos por dia, cerca de 68 por semana, segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1134,
+      "max": 1819,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Presidente_Castro_Pinto_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Joao-Pessoa-JPA"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.397 (R$ 960 considerando só os diretos). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Joao-Pessoa-JPA",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-aju",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Aracaju-AJU"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "AJU",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 156,
+    "frequencia": "6 a 8 voos por dia (cerca de 49 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1007,
+      "max": 1637,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Aracaju-AJU"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.252; fevereiro mais barato (cerca de R$ 985). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Aracaju-AJU",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-slz",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marechal_Cunha_Machado_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Sao-Luis-SLZ"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "SLZ",
+    "cias": [
+      "LATAM",
+      "Azul",
+      "GOL"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 205,
+    "frequencia": "5 a 7 voos por dia (cerca de 43 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1016,
+      "max": 1795,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marechal_Cunha_Machado_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Sao-Luis-SLZ"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; menor ida-e-volta recente R$ 839; março mais barato (cerca de R$ 943) e dezembro mais caro (cerca de R$ 1.735). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Sao-Luis-SLZ",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-bps",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Porto_Seguro_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Porto-Seguro-BPS"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "BPS",
+    "cias": [
+      "LATAM",
+      "GOL",
+      "Azul"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 115,
+    "frequencia": "11 a 14 voos por dia (cerca de 86 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 755,
+      "max": 1348,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Porto_Seguro_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Porto-Seguro-BPS"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; ida direta mais barata R$ 423 (Azul); ida-e-volta recente R$ 825. FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Porto-Seguro-BPS",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-ios",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jorge_Amado_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Ilheus-IOS"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "IOS",
+    "cias": [
+      "LATAM",
+      "Azul",
+      "GOL"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 126,
+    "frequencia": "5 a 6 voos por dia (cerca de 38 por semana); LATAM com 23 voos diretos semanais, segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 871,
+      "max": 1503,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jorge_Amado_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Ilheus-IOS"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média R$ 1.089; menor ida-e-volta direta R$ 844 (GOL). FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Ilheus-IOS",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-the",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Teresina_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Teresina-THE"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "THE",
+    "cias": [
+      "LATAM",
+      "Azul",
+      "GOL"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 188,
+    "frequencia": "cerca de 5 voos por dia (cerca de 35 por semana), segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1035,
+      "max": 1733,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teresina_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Teresina-THE"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; média de 12 meses R$ 1.356; março cerca de 30% abaixo do pico de dezembro. FOTOGRAFIA DO DIA."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Teresina-THE",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "sao-fen",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fernando-de-Noronha-FEN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "SAO",
+    "destinoIata": "FEN",
+    "cias": [
+      "GOL",
+      "LATAM"
+    ],
+    "escalas": "Direto",
+    "duracaoTotalMin": 224,
+    "frequencia": "Diretos em 5 dias da semana; 1 a 2 voos por dia, cerca de 9 por semana, segundo o Kayak",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1638,
+      "max": 2989,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fernando-de-Noronha-FEN"
+        }
+      ],
+      "observacao": "Faixa típica no Kayak; menor ida-e-volta recente R$ 1.723 (Azul, provavelmente com conexão); menor direta R$ 1.728. FOTOGRAFIA DO DIA. É a rota mais cara do conjunto."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/Sao-Paulo-SAO/Fernando-de-Noronha-FEN",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  }
+]

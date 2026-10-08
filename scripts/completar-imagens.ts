@@ -134,12 +134,19 @@ function escolher(paginas: Pagina[], termo: string, cidade: string): Imagem | un
     const conjunto = new Set(doArquivo);
     if (!alvo.every((w) => conjunto.has(w))) continue;
 
-    // Uma palavra so nao identifica nada: "Pereira" e tambem um sobrenome,
-    // "Esmeraldas" e uma cidade do Equador, "Filandia" casa com qualquer
-    // arquivo cujo nome mencione a vila. Quando o nome do item tem uma
-    // unica palavra forte, o arquivo precisa trazer tambem a cidade.
+    /*
+      O nome do arquivo precisa trazer tambem a CIDADE. Sempre.
+
+      Nome de lugar se repete pelo mundo e o Commons nao diz onde fica:
+      na primeira rodada isto me deu uma panoramica de uma praia chamada
+      "Coco Loco" para uma discoteca em San Andres, e um "Pozo Azul" que
+      podia ser de qualquer pais. Exigir a cidade derruba fotos corretas
+      junto (uma finca de Salento cujo arquivo nao diz "Salento"), e esse
+      e o lado certo de errar: cartao com placeholder e honesto, cartao
+      com a foto do lugar errado nao e.
+    */
     const cidadeNoArquivo = daCidade.filter((w) => conjunto.has(w));
-    if (alvo.length < 2 && cidadeNoArquivo.length === 0) continue;
+    if (cidadeNoArquivo.length === 0) continue;
 
     // E os dois conjuntos precisam se parecer de verdade: senao
     // "Mercado del Rio" casa com uma foto de dez mercados.

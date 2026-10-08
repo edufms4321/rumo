@@ -1,0 +1,186 @@
+{
+ "sao-luis": {
+  "lat": -2.52953,
+  "lng": -44.29639,
+  "altitudeM": 31,
+  "osm": "https://www.openstreetmap.org/relation/332923",
+  "nomeOsm": "São Luís, Maranhão, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-2.52953&longitude=-44.29639"
+ },
+ "barreirinhas": {
+  "lat": -2.75413,
+  "lng": -42.82597,
+  "altitudeM": 10,
+  "osm": "https://www.openstreetmap.org/relation/332880",
+  "nomeOsm": "Barreirinhas, Maranhão, Região Nordeste, 65590-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-2.75413&longitude=-42.82597"
+ },
+ "atins": {
+  "lat": -2.57167,
+  "lng": -42.74275,
+  "altitudeM": 5,
+  "osm": "https://www.openstreetmap.org/node/416653173",
+  "nomeOsm": "Atins, Barreirinhas, Maranhão, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-2.57167&longitude=-42.74275"
+ },
+ "parnaiba": {
+  "lat": -2.91475,
+  "lng": -41.7662,
+  "altitudeM": 18,
+  "osm": "https://www.openstreetmap.org/relation/302702",
+  "nomeOsm": "Parnaíba, Piauí, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-2.91475&longitude=-41.7662"
+ },
+ "sao-raimundo-nonato": {
+  "lat": -9.01498,
+  "lng": -42.68884,
+  "altitudeM": 335,
+  "osm": "https://www.openstreetmap.org/relation/302786",
+  "nomeOsm": "São Raimundo Nonato, Piauí, Região Nordeste, 64770-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-9.01498&longitude=-42.68884"
+ },
+ "jericoacoara": {
+  "lat": -2.89863,
+  "lng": -40.45061,
+  "altitudeM": 18,
+  "osm": "https://www.openstreetmap.org/relation/302593",
+  "nomeOsm": "Jijoca de Jericoacoara, Ceará, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-2.89863&longitude=-40.45061"
+ },
+ "fortaleza": {
+  "lat": -3.79322,
+  "lng": -38.52804,
+  "altitudeM": 7,
+  "osm": "https://www.openstreetmap.org/relation/302588",
+  "nomeOsm": "Fortaleza, Ceará, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-3.79322&longitude=-38.52804"
+ },
+ "canoa-quebrada": {
+  "lat": -4.52447,
+  "lng": -37.70574,
+  "altitudeM": 29,
+  "osm": "https://www.openstreetmap.org/node/3734765048",
+  "nomeOsm": "Canoa Quebrada, Aracati, Ceará, Região Nordeste, 62804-208, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-4.52447&longitude=-37.70574"
+ },
+ "natal": {
+  "lat": -5.8054,
+  "lng": -35.20809,
+  "altitudeM": 28,
+  "osm": "https://www.openstreetmap.org/relation/301091",
+  "nomeOsm": "Natal, Rio Grande do Norte, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-5.8054&longitude=-35.20809"
+ },
+ "pipa": {
+  "lat": -6.23726,
+  "lng": -35.04416,
+  "altitudeM": 40,
+  "osm": "https://www.openstreetmap.org/relation/13114000",
+  "nomeOsm": "Pipa, Tibau do Sul, Rio Grande do Norte, Região Nordeste, 59179-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-6.23726&longitude=-35.04416"
+ },
+ "joao-pessoa": {
+  "lat": -7.1216,
+  "lng": -34.88203,
+  "altitudeM": 42,
+  "osm": "https://www.openstreetmap.org/relation/301405",
+  "nomeOsm": "João Pessoa, Paraíba, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-7.1216&longitude=-34.88203"
+ },
+ "recife": {
+  "lat": -8.05849,
+  "lng": -34.88482,
+  "altitudeM": 9,
+  "osm": "https://www.openstreetmap.org/relation/303585",
+  "nomeOsm": "Recife, Pernambuco, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-8.05849&longitude=-34.88482"
+ },
+ "porto-de-galinhas": {
+  "lat": -8.50468,
+  "lng": -35.005,
+  "altitudeM": 5,
+  "osm": "https://www.openstreetmap.org/node/253251568",
+  "nomeOsm": "Porto de Galinhas, Ipojuca, Pernambuco, Região Nordeste, 55159-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-8.50468&longitude=-35.005"
+ },
+ "fernando-de-noronha": {
+  "lat": -3.85375,
+  "lng": -32.4198,
+  "altitudeM": 79,
+  "osm": "https://www.openstreetmap.org/relation/303650",
+  "nomeOsm": "Fernando de Noronha, Pernambuco, Região Nordeste, 53990-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-3.85375&longitude=-32.4198"
+ },
+ "maceio": {
+  "lat": -9.64768,
+  "lng": -35.73393,
+  "altitudeM": 46,
+  "osm": "https://www.openstreetmap.org/relation/303815",
+  "nomeOsm": "Maceió, Alagoas, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-9.64768&longitude=-35.73393"
+ },
+ "maragogi": {
+  "lat": -9.01183,
+  "lng": -35.22251,
+  "altitudeM": 40,
+  "osm": "https://www.openstreetmap.org/relation/303809",
+  "nomeOsm": "Maragogi, Alagoas, Região Nordeste, 57955-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-9.01183&longitude=-35.22251"
+ },
+ "sao-miguel-dos-milagres": {
+  "lat": -9.26722,
+  "lng": -35.37631,
+  "altitudeM": 25,
+  "osm": "https://www.openstreetmap.org/relation/303830",
+  "nomeOsm": "São Miguel dos Milagres, Alagoas, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-9.26722&longitude=-35.37631"
+ },
+ "aracaju": {
+  "lat": -10.91621,
+  "lng": -37.07747,
+  "altitudeM": 16,
+  "osm": "https://www.openstreetmap.org/relation/303928",
+  "nomeOsm": "Aracaju, Sergipe, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-10.91621&longitude=-37.07747"
+ },
+ "salvador": {
+  "lat": -12.98225,
+  "lng": -38.48128,
+  "altitudeM": 34,
+  "osm": "https://www.openstreetmap.org/relation/362362",
+  "nomeOsm": "Salvador, Bahia, Região Nordeste, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-12.98225&longitude=-38.48128"
+ },
+ "morro-de-sao-paulo": {
+  "lat": -13.37755,
+  "lng": -38.916,
+  "altitudeM": 38,
+  "osm": "https://www.openstreetmap.org/node/416655489",
+  "nomeOsm": "Morro de São Paulo, Cairu, Bahia, Região Nordeste, 45428-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-13.37755&longitude=-38.916"
+ },
+ "itacare": {
+  "lat": -14.27794,
+  "lng": -38.99557,
+  "altitudeM": 7,
+  "osm": "https://www.openstreetmap.org/relation/362452",
+  "nomeOsm": "Itacaré, Bahia, Região Nordeste, 45530-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-14.27794&longitude=-38.99557"
+ },
+ "lencois": {
+  "lat": -12.56153,
+  "lng": -41.38953,
+  "altitudeM": 391,
+  "osm": "https://www.openstreetmap.org/relation/362510",
+  "nomeOsm": "Lençóis, Bahia, Região Nordeste, 46960-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-12.56153&longitude=-41.38953"
+ },
+ "trancoso": {
+  "lat": -16.56769,
+  "lng": -39.19758,
+  "altitudeM": 35,
+  "osm": "https://www.openstreetmap.org/relation/5268363",
+  "nomeOsm": "Trancoso, Porto Seguro, Bahia, Região Nordeste, 45818-000, Brasil",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-16.56769&longitude=-39.19758"
+ }
+}

@@ -1376,6 +1376,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/313846087"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Casa_Museo_Isle%C3%B1a.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1455,7 +1459,14 @@
     "contato": {
       "site": "https://www.sanandresislas.com.co/casa-museo-islena-san-andres"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_Museo_Isle%C3%B1a.jpg/1280px-Casa_Museo_Isle%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Mario Carvajal",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_Museo_Isle%C3%B1a.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

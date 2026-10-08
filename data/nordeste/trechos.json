@@ -1,0 +1,980 @@
+[
+  {
+    "id": "salvador-morro-de-sao-paulo-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://biotur.com.br/horarios-e-tarifas/"
+      },
+      {
+        "url": "https://www.islandtour.com.br/salvador-morrodesaopaulo-catamara.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "salvador",
+    "paraCidadeId": "morro-de-sao-paulo",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Biotur"
+    ],
+    "duracaoVeiculoMin": 150,
+    "frequencia": "Biotur: diário, saída 09:00 de Salvador; retornos 11:30, 14:30 e 15:00. A IslandTour vende saída 10:30 e retorno 13:30.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 152.51,
+      "max": 172.51,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://biotur.com.br/horarios-e-tarifas/"
+        },
+        {
+          "url": "https://www.islandtour.com.br/salvador-morrodesaopaulo-catamara.html"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Náutico da Bahia, atrás do Mercado Modelo, Salvador",
+    "terminalChegada": "Píer de Morro de São Paulo (Primeira Praia / centro da Vila)",
+    "observacoes": "DURAÇÃO DIVERGENTE entre as fontes abertas: a IslandTour diz cerca de 2h50; listagens de busca citam 2h a 2h30. Foi usado 150 min como ponto médio, e o porta-a-porta ficou em 0 porque nenhuma fonte aberta soma espera e traslado até o terminal. A própria Biotur recomenda folga mínima de 6 HORAS entre a saída de Morro e o horário de um voo, porque em mau tempo a travessia pode virar semiterrestre — esse é o alerta operacional mais importante do trecho. Remarcação Biotur: R$ 15,00 por bilhete até 24h antes. A empresa 'Ilha Bela' aparece em listagens de busca como segunda operadora, mas NÃO foi confirmada em página própria e por isso não entrou na lista de operadoras. Antecedência de compra: nenhuma fonte aberta dá número de dias.",
+    "alertas": []
+  },
+  {
+    "id": "salvador-morro-de-sao-paulo-carro-fretado-2",
+    "fontes": [
+      {
+        "url": "https://www.morrodesaopaulocatamara.com/post/horarios-lancha-valenca-morro-de-sao-paulo"
+      },
+      {
+        "url": "https://www.internacionaltravessias.com.br/tarifas/"
+      },
+      {
+        "url": "https://biotur.com.br/horarios-e-tarifas/"
+      },
+      {
+        "url": "https://www.islandtour.com.br/salvador-morrodesaopaulo-catamara.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "salvador",
+    "paraCidadeId": "morro-de-sao-paulo",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Biotur",
+      "IslandTour",
+      "Internacional Travessias"
+    ],
+    "frequencia": "Lanchas Valença→Morro: de hora em hora, 08:00 às 18:00 (rápida); Morro→Valença 07:00 às 18:00. Lancha convencional de Valença: 06:00 às 18:20. Ferry São Joaquim–Bom Despacho: de hora em hora, seg-sáb 5h às 23h30, dom e feriado 6h às 23h30.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 25,
+      "max": 45,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.morrodesaopaulocatamara.com/post/horarios-lancha-valenca-morro-de-sao-paulo"
+        },
+        {
+          "url": "https://www.internacionaltravessias.com.br/tarifas/"
+        },
+        {
+          "url": "https://biotur.com.br/horarios-e-tarifas/"
+        },
+        {
+          "url": "https://www.islandtour.com.br/salvador-morrodesaopaulo-catamara.html"
+        }
+      ]
+    },
+    "terminalSaida": "Hotel ou aeroporto em Salvador; ou Terminal São Joaquim (ferry) / Terminal Náutico (lancha para Mar Grande)",
+    "terminalChegada": "Terminal hidroviário de Valença (centro) e depois píer de Morro de São Paulo",
+    "observacoes": "Não foi encontrada fonte aberta com o tempo total porta a porta nem com o preço do pacote completo. Listagens de busca citam 3h30 no total em três etapas (lancha ou ferry 45 min + ônibus executivo 1h40 pela BA-001 + lancha rápida 12 a 45 min), mas essas páginas NÃO foram abertas e número de snippet não foi usado como dado. Esta é a rota de contingência quando o mar fecha e o catamarã não sai.",
+    "alertas": []
+  },
+  {
+    "id": "salvador-lencois-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/salvador/lencois"
+      },
+      {
+        "url": "https://www.clickbus.com.br/onibus/salvador-ba/lencois-ba"
+      },
+      {
+        "url": "https://www.chapadaadventure.com.br/como-chegar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "salvador",
+    "paraCidadeId": "lencois",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Rápido Federal",
+      "Real Expresso",
+      "Expresso Guanabara"
+    ],
+    "duracaoVeiculoMin": 400,
+    "frequencia": "FONTES DIVERGEM: a CheckMyBus indica cerca de 34 ônibus por dia, com primeira e última saída entre 08:00 e 23:00; a agência local Chapada Adventure afirma 3 horários por dia, todos os dias, em semi-leito. O número do agregador provavelmente soma conexões.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 138,
+      "max": 345,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/salvador/lencois"
+        },
+        {
+          "url": "https://www.clickbus.com.br/onibus/salvador-ba/lencois-ba"
+        },
+        {
+          "url": "https://www.chapadaadventure.com.br/como-chegar/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Rodoviário de Salvador – Águas Claras (BR-324, km 7,5, CEP 41308-500)",
+    "terminalChegada": "Rodoviária de Lençóis (Av. Sr. dos Passos, 36, Lençóis/BA)",
+    "observacoes": "DURAÇÃO DIVERGENTE: CheckMyBus 6h10 (mais rápida) a 6h40 (típica); ClickBus cerca de 6h40; Chapada Adventure 7h. Foi usado 400 min (6h40). Distância 315,3 km. A Chapada Adventure recomenda comprar com antecedência, 'principalmente nos feriados prolongados', mas NÃO dá número de dias — por isso antecedenciaDias ficou 0. Na prática, com apenas 1 voo semanal para LEC, este ônibus é o acesso real à Chapada.",
+    "alertas": []
+  },
+  {
+    "id": "salvador-lencois-voo",
+    "fontes": [
+      {
+        "url": "https://www.chapadaadventure.com.br/como-chegar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "salvador",
+    "paraCidadeId": "lencois",
+    "modal": "voo",
+    "operadoras": [
+      "LATAM / VoePass",
+      "Azul (a partir de Confins)"
+    ],
+    "duracaoVeiculoMin": 75,
+    "frequencia": "Quartas e domingos (ambas as operações, segundo a fonte)",
+    "terminalSaida": "Aeroporto Internacional de Salvador (SSA)",
+    "terminalChegada": "Aeroporto Horácio de Mattos (LEC), a 20 km de Lençóis",
+    "observacoes": "FONTE ÚNICA (agência local), e ela DIVERGE da Wikipédia: a agência cita LATAM/VoePass de Salvador e Azul de Confins, enquanto a página do aeroporto na Wikipédia lista apenas Azul desde Salvador. Com 1 a 2 frequências semanais, a malha muda com facilidade — reconfira direto com as companhias. Salvador→Lençóis 1h15; Confins→Lençóis 2h20 segundo a agência.",
+    "alertas": []
+  },
+  {
+    "id": "salvador-itacare-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.internacionaltravessias.com.br/tarifas/"
+      },
+      {
+        "url": "https://www.itacaretransfer.com.br/guias/como-ir-de-salvador-para-itacare/"
+      },
+      {
+        "url": "https://rastrodetrilhaba.blogspot.com/2025/12/como-chegar-em-itacare-saindo-de.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "salvador",
+    "paraCidadeId": "itacare",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Internacional Travessias",
+      "Cidade Sol",
+      "Águia Branca"
+    ],
+    "duracaoPortaAPortaMin": 390,
+    "duracaoVeiculoMin": 330,
+    "frequencia": "Ferry de hora em hora, seg-sáb 5h às 23h30 e dom/feriado 6h às 23h30, última saída 23:30. Ônibus de Bom Despacho para o sul com saídas frequentes, quase de 2 em 2 horas durante o dia.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 82,
+      "max": 128,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.internacionaltravessias.com.br/tarifas/"
+        },
+        {
+          "url": "https://www.itacaretransfer.com.br/guias/como-ir-de-salvador-para-itacare/"
+        },
+        {
+          "url": "https://rastrodetrilhaba.blogspot.com/2025/12/como-chegar-em-itacare-saindo-de.html"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal São Joaquim, Cidade Baixa, Salvador",
+    "terminalChegada": "Rodoviária de Itacaré (exige transporte local até a hospedagem)",
+    "observacoes": "O porta-a-porta de 390 min vem da Itacaré Transfer ('5h30 a 6h30 mais a fila da travessia'); foi usado o teto da faixa. A travessia do ferry leva 60 a 80 min. A FILA DE EMBARQUE DO FERRY É O MAIOR RISCO DO TRECHO e não tem duração publicada em nenhuma fonte — em feriado pode custar horas. ALTERNATIVA SEM FERRY: ônibus direto pela BR-101 (Cidade Sol / Águia Branca), saída por volta das 18:40, R$ 140 a 160, 7 a 8 horas. A CheckMyBus não tem página para Salvador–Itacaré (HTTP 404) e o BusBuster devolveu HTTP 429, então não houve validação em agregador.",
+    "alertas": []
+  },
+  {
+    "id": "recife-porto-de-galinhas-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://vivoportodegalinhas.com/servicos-essenciais/onibus-recife-porto-de-galinhas/"
+      },
+      {
+        "url": "https://www.checkmybus.com.br/recife/porto-de-galinhas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "recife",
+    "paraCidadeId": "porto-de-galinhas",
+    "modal": "carro-fretado",
+    "operadoras": [],
+    "duracaoVeiculoMin": 90,
+    "frequencia": "Ambas as linhas em intervalos de aproximadamente 1 hora. Linha 195 (com ar): primeira saída de Recife 05h10, última 20h30; última saída de Porto de Galinhas 19h10. Linha 191 (sem ar): primeira 04h10, última 23h30; última saída de Maracaípe 22h30.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 21.5,
+      "max": 24.75,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://vivoportodegalinhas.com/servicos-essenciais/onibus-recife-porto-de-galinhas/"
+        },
+        {
+          "url": "https://www.checkmybus.com.br/recife/porto-de-galinhas"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Cais de Santa Rita, Recife (com paradas no aeroporto)",
+    "terminalChegada": "Porto de Galinhas / Maracaípe",
+    "observacoes": "Trajeto médio de 1h30. A CheckMyBus não tem página para este par (HTTP 404), então NÃO há segunda fonte para os valores. A operadora concessionária NÃO foi identificada: a fonte nomeia as linhas pelo número (191 e 195), não a empresa; o nome 'Cootram' apareceu em resultados de busca mas nenhuma página aberta confirma, por isso a lista de operadoras ficou VAZIA em vez de receber um palpite. Não é linha rodoviária interestadual: é transporte metropolitano, sem reserva antecipada — basta chegar ao terminal.",
+    "alertas": []
+  },
+  {
+    "id": "recife-maragogi-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.rome2rio.com/pt/s/Recife/Maragogi"
+      },
+      {
+        "url": "https://valturismomaragogi.com.br/transfers"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "recife",
+    "paraCidadeId": "maragogi",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Real Alagoas"
+    ],
+    "duracaoVeiculoMin": 155,
+    "frequencia": "A cada 2 horas",
+    "preco": {
+      "moeda": "BRL",
+      "min": 75,
+      "max": 95,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.rome2rio.com/pt/s/Recife/Maragogi"
+        },
+        {
+          "url": "https://valturismomaragogi.com.br/transfers"
+        }
+      ]
+    },
+    "terminalSaida": "Recife – Rodoviária TIP",
+    "terminalChegada": "Maragogi (AL)",
+    "observacoes": "Duração 2h35 de ônibus. De carro: 2h03 para 134,2 km, com custo estimado de R$ 68 a 98; táxi R$ 650 a 800. ALTERNATIVA DE TRANSFER: a Valtur publica Recife→Maragogi, 135 km em 2h20, privativo e compartilhado, mas NÃO publica preço (só orçamento por WhatsApp). A Tropicana Turismo devolveu HTTP 403 e não pôde ser consultada.",
+    "alertas": []
+  },
+  {
+    "id": "maragogi-sao-miguel-dos-milagres-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.rome2rio.com/pt/s/Maragogi/S%C3%A3o-Miguel-dos-Milagres"
+      },
+      {
+        "url": "https://valturismomaragogi.com.br/transfers"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "maragogi",
+    "paraCidadeId": "sao-miguel-dos-milagres",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Real Alagoas",
+      "Coopertaxi Barreiros",
+      "Valtur Maragogi",
+      "Maragogi Transfer",
+      "Transfer Paradise",
+      "Rota do Mar Receptivo"
+    ],
+    "duracaoPortaAPortaMin": 68,
+    "duracaoVeiculoMin": 50,
+    "frequencia": "Ônibus Real Alagoas a cada 2 horas no trecho Maragogi→Porto Calvo (cerca de 26 min); táxi e transfers sob demanda.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 185,
+      "max": 225,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.rome2rio.com/pt/s/Maragogi/S%C3%A3o-Miguel-dos-Milagres"
+        },
+        {
+          "url": "https://valturismomaragogi.com.br/transfers"
+        }
+      ]
+    },
+    "terminalSaida": "Maragogi (AL)",
+    "terminalChegada": "São Miguel dos Milagres (AL)",
+    "observacoes": "PONTO CRÍTICO: NÃO HÁ LINHA REGULAR DIRETA entre as vilas da Rota Ecológica. Na prática o trecho é feito por transfer contratado ou carro alugado, e quem tentar de ônibus vai depender de táxi no final (é o táxi que domina o preço). Distâncias publicadas pela Valtur: Maragogi→São Miguel dos Milagres 40 km em 50 min; Maragogi→Japaratinga 20 km em 25 min; Maragogi→Porto de Galinhas 75 km em 1h30; Maceió→Maragogi 125 km em 2h10 — nenhuma com valor em reais.",
+    "alertas": []
+  },
+  {
+    "id": "recife-maceio-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/recife/maceio"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "recife",
+    "paraCidadeId": "maceio",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Real Alagoas",
+      "Auto Viação Progresso",
+      "Expresso São Luiz",
+      "Viação São Luiz"
+    ],
+    "duracaoVeiculoMin": 235,
+    "frequencia": "Média de 79 partidas por dia (soma de empresas, inclui conexões); primeira 07:00, última 23:50",
+    "preco": {
+      "moeda": "BRL",
+      "min": 42,
+      "max": 136,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/recife/maceio"
+        }
+      ]
+    },
+    "terminalSaida": "Recife – Rodoviária TIP (Av. Prefeito Antônio Pereira, 759-679), com paradas menores em Boa Viagem",
+    "terminalChegada": "Terminal Rodoviário de Maceió (R. João Paulo II, Feitosa)",
+    "observacoes": "Duração de 3h55 (mais rápida) a 7h30 (com paradas). FONTE ÚNICA (agregador). Este é o trecho que fecha a 'rota do mar' Recife→Maceió para quem NÃO para nas vilas; quem para em Porto de Galinhas, Maragogi e São Miguel dos Milagres deve usar os registros desses trechos.",
+    "alertas": []
+  },
+  {
+    "id": "maceio-aracaju-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://realalagoas.clickbus.com.br/onibus/maceio-al/aracaju-se"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "maceio",
+    "paraCidadeId": "aracaju",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Real Alagoas"
+    ],
+    "duracaoVeiculoMin": 255,
+    "frequencia": "4 saídas diárias: 06:15, 12:30, 18:30 e 23:50 (a de 23:50 com três classes)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 105,
+      "max": 135,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://realalagoas.clickbus.com.br/onibus/maceio-al/aracaju-se"
+        }
+      ]
+    },
+    "terminalSaida": "Maceió – Rodoviária (Rodovia João Paulo II, Feitosa)",
+    "terminalChegada": "Aracaju – Rodoviária Gov. José Rollemberg Leite (Av. Pres. Tancredo Neves, Capucho)",
+    "observacoes": "MELHOR DADO DE TODO O CONJUNTO: é o único trecho com horário E preço publicados pela própria operadora, para todas as classes. Duração uniforme de 4h15 em todas as saídas. Sem travessia aquática: o percurso é todo rodoviário.",
+    "alertas": []
+  },
+  {
+    "id": "aracaju-salvador-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/aracaju/salvador"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "aracaju",
+    "paraCidadeId": "salvador",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Águia Branca",
+      "Rota Transportes",
+      "Catedral Turismo",
+      "Expresso São Luiz"
+    ],
+    "duracaoVeiculoMin": 290,
+    "frequencia": "O agregador indica cerca de 145 partidas por dia (soma de empresas e conexões); primeira 02:24, última 23:59",
+    "preco": {
+      "moeda": "BRL",
+      "min": 69,
+      "max": 268,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/aracaju/salvador"
+        }
+      ]
+    },
+    "terminalSaida": "Aracaju – Rodoviária Gov. José Rollemberg Leite",
+    "terminalChegada": "Salvador – Rodoviária Águas Claras",
+    "observacoes": "Mais rápida 4h50; típicas 5 a 6h. Foi usado 290 min. SOBRE O FERRY: nenhuma fonte aberta indica que o ônibus Aracaju–Salvador use o ferry São Joaquim–Bom Despacho; o percurso é rodoviário (BR-101 / BR-324). O ferry só entra em jogo para quem segue de carro ou vai ao Baixo Sul e a Itacaré. FONTE ÚNICA.",
+    "alertas": []
+  },
+  {
+    "id": "maceio-salvador-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/maceio/salvador"
+      },
+      {
+        "url": "https://www.aguiabranca.com.br/onibus/maceio-al/salvador-ba"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "maceio",
+    "paraCidadeId": "salvador",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Águia Branca",
+      "Rota Transportes",
+      "Catedral Turismo",
+      "Expresso São Luiz"
+    ],
+    "duracaoVeiculoMin": 570,
+    "frequencia": "O agregador indica cerca de 82 partidas por dia (inclui conexões); primeira 05:00, última 23:59",
+    "preco": {
+      "moeda": "BRL",
+      "min": 256,
+      "max": 554,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/maceio/salvador"
+        },
+        {
+          "url": "https://www.aguiabranca.com.br/onibus/maceio-al/salvador-ba"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Rodoviário de Maceió",
+    "terminalChegada": "Salvador – Rodoviária Águas Claras",
+    "observacoes": "Mais rápida 9h30; típicas 10 a 12h. Foi usado 570 min. LEITURA COMPARATIVA (interpretação dos dois conjuntos de tarifas, não afirmação de fonte): fazer Maceió→Aracaju→Salvador em duas etapas custa R$ 105 mais R$ 69 a 268, contra R$ 256 a 554 no direto, e permite dormir em Aracaju — provavelmente mais barato e mais confortável que 9h30 seguidas.",
+    "alertas": []
+  },
+  {
+    "id": "recife-joao-pessoa-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/recife/joao-pessoa"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "recife",
+    "paraCidadeId": "joao-pessoa",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Auto Viação Progresso",
+      "Viação Total",
+      "Catedral Turismo",
+      "Expresso São Luiz",
+      "Viação Soares"
+    ],
+    "duracaoVeiculoMin": 110,
+    "frequencia": "Cerca de 188 partidas por dia (soma de empresas); primeira 05:30, última 20:20",
+    "preco": {
+      "moeda": "BRL",
+      "min": 21,
+      "max": 252,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/recife/joao-pessoa"
+        }
+      ]
+    },
+    "terminalSaida": "Recife – Rodoviária TIP; também Detran (Av. Manoel Borba), Dantas Barreto e Praça de Boa Viagem",
+    "terminalChegada": "João Pessoa – Rodoviária (Rua Francisco Londres, Varadouro)",
+    "observacoes": "Distância 105,7 km; mais rápida 1h50. Classes convencional, executivo e leito. FONTE ÚNICA. É o trecho mais curto e mais fácil de todo o litoral leste.",
+    "alertas": []
+  },
+  {
+    "id": "joao-pessoa-natal-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/natal/joao-pessoa"
+      },
+      {
+        "url": "https://www.clickbus.com.br/onibus/natal-rn/joao-pessoa-pb"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "joao-pessoa",
+    "paraCidadeId": "natal",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Auto Viação Progresso",
+      "Expresso São Luiz",
+      "Viação Soares"
+    ],
+    "duracaoVeiculoMin": 180,
+    "frequencia": "Cerca de 78 partidas por dia; primeira 03:20, última 17:00 (a página descreve o sentido Natal→João Pessoa)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 36,
+      "max": 111,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/natal/joao-pessoa"
+        },
+        {
+          "url": "https://www.clickbus.com.br/onibus/natal-rn/joao-pessoa-pb"
+        }
+      ]
+    },
+    "terminalSaida": "João Pessoa – Rodoviária (Rua Francisco Londres)",
+    "terminalChegada": "Natal – Rodoviária (Av. Capitão-Mor Gouveia, Cidade da Esperança)",
+    "observacoes": "DURAÇÃO: CheckMyBus 2h50 a 3h20; ClickBus cerca de 3h. Foi usado 180 min. A ClickBus lista só Progresso e Expresso São Luiz; o agregador acrescenta Viação Soares. RESSALVA DE MÉTODO: a página aberta descreve o sentido Natal→João Pessoa, e a simetria de horários foi ASSUMIDA, não confirmada em fonte.",
+    "alertas": []
+  },
+  {
+    "id": "natal-pipa-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.rome2rio.com/pt/%C3%94nibus/Natal-Esta%C3%A7%C3%A3o/Praia-de-Pipa"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "natal",
+    "paraCidadeId": "pipa",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Viação Riograndense"
+    ],
+    "duracaoVeiculoMin": 90,
+    "frequencia": "Uma vez por hora",
+    "preco": {
+      "moeda": "BRL",
+      "min": 21,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.rome2rio.com/pt/%C3%94nibus/Natal-Esta%C3%A7%C3%A3o/Praia-de-Pipa"
+        }
+      ]
+    },
+    "terminalSaida": "Natal – rodoviária",
+    "terminalChegada": "Praia da Pipa",
+    "observacoes": "Não é preciso reservar: é serviço regional com venda no terminal. Vans particulares e transfers de hotel existem, mas nenhuma tabela publicada foi encontrada.",
+    "alertas": []
+  },
+  {
+    "id": "natal-fortaleza-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/natal/fortaleza"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "natal",
+    "paraCidadeId": "fortaleza",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Expresso Guanabara",
+      "Catedral Turismo",
+      "Viação Soares"
+    ],
+    "duracaoVeiculoMin": 455,
+    "frequencia": "Cerca de 127 partidas por dia (soma de empresas e conexões); primeira 00:50, última 23:50",
+    "preco": {
+      "moeda": "BRL",
+      "min": 120,
+      "max": 479,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/natal/fortaleza"
+        }
+      ]
+    },
+    "terminalSaida": "Natal – Rodoviária (Av. Capitão-Mor Gouveia, 1597)",
+    "terminalChegada": "Fortaleza – Rodoviária Eng. João Thomé (Av. Borges de Melo, 1630); também Messejana e Antônio Bezerra",
+    "observacoes": "Mais rápida 7h35 (Catedral Turismo); típicas 8 a 9h. Foi usado 455 min. FONTE ÚNICA. É o trecho que liga o litoral leste ao litoral norte — e também o que atravessa a fronteira climática entre os dois regimes de chuva.",
+    "alertas": []
+  },
+  {
+    "id": "fortaleza-jericoacoara-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.grupodicas.com/transfer-fortaleza-jericoacoara/"
+      },
+      {
+        "url": "https://www.rome2rio.com/pt/%C3%94nibus/Fortaleza/Jijoca-de-Jericoacoara"
+      },
+      {
+        "url": "https://reservas.jericar.com.br/service/transfer-priv-barreirinhas-parnaiba-mini-van-7p"
+      },
+      {
+        "url": "https://www.checkmybus.com.br/fortaleza/jijoca-de-jericoacoara"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "fortaleza",
+    "paraCidadeId": "jericoacoara",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Expresso Guanabara",
+      "Jericar Viagens",
+      "Jeri Extreme",
+      "TransferJerico"
+    ],
+    "duracaoPortaAPortaMin": 330,
+    "duracaoVeiculoMin": 290,
+    "frequencia": "Transfer compartilhado com saídas diárias e recolhimento na zona hoteleira: Praia do Futuro cerca de 06h50, Beira Mar e Meireles 07h20 às 07h40, Praia de Iracema cerca de 07h45; retorno de Jeri cerca de 11h00.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 160,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.grupodicas.com/transfer-fortaleza-jericoacoara/"
+        },
+        {
+          "url": "https://www.rome2rio.com/pt/%C3%94nibus/Fortaleza/Jijoca-de-Jericoacoara"
+        },
+        {
+          "url": "https://reservas.jericar.com.br/service/transfer-priv-barreirinhas-parnaiba-mini-van-7p"
+        },
+        {
+          "url": "https://www.checkmybus.com.br/fortaleza/jijoca-de-jericoacoara"
+        }
+      ]
+    },
+    "terminalSaida": "Hotel ou pousada na zona hoteleira de Fortaleza (transfer); ou Terminal Rodoviário Eng. João Thomé / Antônio Bezerra (ônibus)",
+    "terminalChegada": "Vila de Jericoacoara, porta da pousada (transfer); ou Jijoca de Jericoacoara, com 4x4 à parte",
+    "observacoes": "Porta a porta de 4h30 a 5h30 com uma parada padrão (foi usado 330 min); cerca de 300 km de asfalto até Jijoca mais cerca de 40 min de 4x4 pelas dunas. PONTO CRÍTICO: o último trecho só se faz em 4x4 — não existe acesso de carro comum à vila. A fonte recomenda reservar com antecedência em 'feriados, réveillon e julho', quando o preço sobe e a disponibilidade cai, mas NÃO dá número de dias. A CheckMyBus não tem página para Fortaleza–Jijoca (HTTP 404). Se o acesso for aéreo, do aeroporto JJD à vila são cerca de 50 minutos de 4x4.",
+    "alertas": []
+  },
+  {
+    "id": "fortaleza-canoa-quebrada-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.checkmybus.com.br/fortaleza/aracati"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "fortaleza",
+    "paraCidadeId": "canoa-quebrada",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Viação São Benedito",
+      "Viação Princesa"
+    ],
+    "duracaoVeiculoMin": 165,
+    "frequencia": "Cerca de 31 partidas por dia; primeira 06:00, última 17:00",
+    "preco": {
+      "moeda": "BRL",
+      "min": 37,
+      "max": 53,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.checkmybus.com.br/fortaleza/aracati"
+        }
+      ]
+    },
+    "terminalSaida": "Fortaleza – Rodoviária Eng. João Thomé; também Messejana e Antônio Bezerra",
+    "terminalChegada": "Aracati – Rodoviária Assis Nogueira; alguns serviços seguem até Canoa Quebrada e Majorlândia",
+    "observacoes": "Duração de 2h45 (mais rápida) a 4h20. Foi usado 165 min. ATENÇÃO: parte dos serviços para na rodoviária de ARACATI, exigindo mototáxi ou van nos últimos cerca de 10 km até Canoa Quebrada. A página lista Canoa Quebrada como destino em alguns serviços, mas não diz quais — confirme na compra. FONTE ÚNICA.",
+    "alertas": []
+  },
+  {
+    "id": "sao-luis-barreirinhas-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://blog.jamjoy.com.br/blog/lencois-maranhenses-2026-como-chegar-de-sao-luis-a-barreirinhas"
+      },
+      {
+        "url": "https://viajeguanabara.com.br/blog/sao-luis-barreirinhas-onibus-lencois-maranhenses/"
+      },
+      {
+        "url": "https://exploreatins.com/2025/09/13/%F0%9F%8C%8D-como-chegar-em-atins-portugues/"
+      },
+      {
+        "url": "https://www.rotadasemocoesbrasil.com.br/transfers/"
+      },
+      {
+        "url": "https://www.checkmybus.com.br/sao-luis/barreirinhas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "sao-luis",
+    "paraCidadeId": "barreirinhas",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Cisne Branco Turismo",
+      "Expresso Guanabara"
+    ],
+    "duracaoPortaAPortaMin": 270,
+    "duracaoVeiculoMin": 240,
+    "frequencia": "4 horários por dia, aproximadamente 06h, 07h30, 14h e 21h",
+    "preco": {
+      "moeda": "BRL",
+      "min": 56,
+      "max": 74,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://blog.jamjoy.com.br/blog/lencois-maranhenses-2026-como-chegar-de-sao-luis-a-barreirinhas"
+        },
+        {
+          "url": "https://viajeguanabara.com.br/blog/sao-luis-barreirinhas-onibus-lencois-maranhenses/"
+        },
+        {
+          "url": "https://exploreatins.com/2025/09/13/%F0%9F%8C%8D-como-chegar-em-atins-portugues/"
+        },
+        {
+          "url": "https://www.rotadasemocoesbrasil.com.br/transfers/"
+        },
+        {
+          "url": "https://www.checkmybus.com.br/sao-luis/barreirinhas"
+        }
+      ]
+    },
+    "terminalSaida": "Rodoviária de São Luís (Av. dos Franceses, Santo Antônio)",
+    "terminalChegada": "Barreirinhas (MA)",
+    "observacoes": "Cerca de 4h de ônibus para 260 km pela MA-402 (duas fontes concordam); o transfer de porta a porta saindo do aeroporto leva cerca de 4h30, por isso 270 min no porta a porta e 240 no veículo. A Rota das Emoções Brasil também publica 4h, sem preço. O blog oficial da Viaje Guanabara descreve o trecho mas NÃO publica empresa, horário nem tarifa. CheckMyBus: HTTP 404 para este par.",
+    "alertas": []
+  },
+  {
+    "id": "barreirinhas-atins-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://exploreatins.com/2025/09/13/%F0%9F%8C%8D-como-chegar-em-atins-portugues/"
+      },
+      {
+        "url": "https://www.rotadasemocoesbrasil.com.br/transfers/"
+      },
+      {
+        "url": "https://blog.jamjoy.com.br/blog/lencois-maranhenses-2026-como-chegar-de-sao-luis-a-barreirinhas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "barreirinhas",
+    "paraCidadeId": "atins",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Rota das Emoções Brasil"
+    ],
+    "duracaoVeiculoMin": 60,
+    "frequencia": "Lancha voadeira: de Barreirinhas 12:30 e 16:00; de Atins 07:00 e 14:00. Barco coletivo: 08:30 de Barreirinhas. Jardineira 4x4: referência 09:30, mas VARIA COM A MARÉ.",
+    "terminalSaida": "Porto / orla de Barreirinhas (rio Preguiças)",
+    "terminalChegada": "Atins (MA)",
+    "observacoes": "TRÊS MODOS COM DURAÇÕES MUITO DIFERENTES: voadeira cerca de 1h; barco coletivo cerca de 4h com paradas em Vassouras, Mandacaru e Caburé (é passeio e deslocamento ao mesmo tempo); jardineira 4x4 pela praia cerca de 1h30 e SÓ COM MARÉ BAIXA. A RESTRIÇÃO DE MARÉ É O FATOR CRÍTICO DE PLANEJAMENTO deste trecho. Com apenas 2 voadeiras por dia em cada sentido, errar o horário custa um dia inteiro do roteiro. Operadores locais de voadeira não são nomeados em nenhuma fonte aberta.",
+    "alertas": []
+  },
+  {
+    "id": "barreirinhas-parnaiba-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://reservas.jericar.com.br/service/transfer-priv-barreirinhas-parnaiba-mini-van-7p"
+      },
+      {
+        "url": "https://www.rotadasemocoesbrasil.com.br/transfers/"
+      },
+      {
+        "url": "https://www.checkmybus.com.br/barreirinhas/parnaiba"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "barreirinhas",
+    "paraCidadeId": "parnaiba",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Jericar Viagens",
+      "Rota das Emoções Brasil"
+    ],
+    "duracaoPortaAPortaMin": 240,
+    "duracaoVeiculoMin": 240,
+    "frequencia": "Sob demanda, horário flexível — é serviço privativo, NÃO linha regular. Há também compartilhado, segundo as agências.",
+    "terminalSaida": "Hotel ou pousada em Barreirinhas (MA)",
+    "terminalChegada": "Hotel ou pousada em Parnaíba (PI)",
+    "observacoes": "As 4 horas são a duração declarada pela PRÓPRIA operadora para o trecho privativo, e como o serviço é de porta a porta, os dois campos de duração recebem o mesmo valor. PONTO CRÍTICO: NÃO HÁ LINHA RODOVIÁRIA REGULAR neste par nas fontes abertas — na prática a Rota das Emoções é feita por transfer contratado, e isso precisa entrar no orçamento como item próprio.",
+    "alertas": []
+  },
+  {
+    "id": "recife-fernando-de-noronha-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Recife-REC/Fernando-de-Noronha-FEN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "recife",
+    "paraCidadeId": "fernando-de-noronha",
+    "modal": "voo",
+    "operadoras": [
+      "Azul",
+      "GOL"
+    ],
+    "frequencia": "3 a 4 voos por dia, cerca de 22 por semana (Kayak); domingo é o dia mais movimentado",
+    "preco": {
+      "moeda": "BRL",
+      "min": 849,
+      "max": 1461,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Recife-REC/Fernando-de-Noronha-FEN"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "REC",
+    "terminalChegada": "FEN",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "natal-fernando-de-noronha-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/Natal-NAT/Fernando-de-Noronha-FEN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "natal",
+    "paraCidadeId": "fernando-de-noronha",
+    "modal": "voo",
+    "operadoras": [
+      "Azul",
+      "GOL"
+    ],
+    "frequencia": "Não informada pela fonte",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1574,
+      "max": 2942,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/flight-routes/Natal-NAT/Fernando-de-Noronha-FEN"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "NAT",
+    "terminalChegada": "FEN",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  }
+]

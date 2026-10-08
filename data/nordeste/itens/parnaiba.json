@@ -1,0 +1,963 @@
+[
+  {
+    "id": "br-pnb-passeio-tradicional-ao-delta-do-parnaiba-em-chalana",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Parna%C3%ADba"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Passeio tradicional ao Delta do Parnaiba em chalana ou catamara",
+    "cidadeId": "parnaiba",
+    "categoria": "passeio",
+    "tags": [
+      "delta",
+      "chalana",
+      "catamara",
+      "dia-inteiro",
+      "morro-branco",
+      "almoco-incluido",
+      "muvuca"
+    ],
+    "coords": {
+      "lat": -2.905,
+      "lng": -41.77694
+    },
+    "descricaoCurta": "A forma mais barata de navegar o Delta: 7 horas em embarcacao grande, com almoco incluido e muita gente.",
+    "descricaoLonga": "O Delta do Parnaiba e o maior delta fluvial em mar aberto das Americas, formado pela particao do Rio Parnaiba em outros rios e inumeros igarapes pouco antes de chegar ao mar, desembocando em cinco barras ('bocas') distintas. Os passeios mais baratos sao feitos em grandes embarcacoes - a tipica chalana ou o catamara, mais confortavel - e em muitas agencias o de chalana e chamado de 'passeio tradicional ao Delta'. Pela baixa velocidade, duram 7 HORAS, mas tem musica, comida e bebida a bordo. Normalmente ha parada para banho proximo a foz e outra nas dunas do Morro Branco, parte dos 'Lencois Piauienses'; alguns incluem demonstracao de extracao de caranguejo no mangue. VANTAGENS: preco, e almoco e lanche incluidos (sem bebidas). DESVANTAGENS, listadas sem rodeio pela fonte: as embarcacoes grandes NAO trafegam nos canais mais estreitos e rasos; NENHUM roteiro delas inclui a revoada de guaras ao por do sol, porque a foz e muito distante para voltar no escuro; e passar o dia num barco com ate 80 PESSOAS e musica alta pode nao ser prazeroso. SAIDA: Porto dos Tatus, na Ilha Grande de Santa Isabel, a 11 km do centro de Parnaiba; o transfer na maioria das vezes NAO esta incluido no preco e pode ser contratado a cerca de R$ 20 a R$ 25 por passageiro. Operadoras citadas: Clip, Rota Combo, Igaratur, Delta Rio Parnaiba.",
+    "duracao": {
+      "min": 400,
+      "tipica": 420,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 75,
+      "max": 90,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 75 a R$ 90 por pessoa, com almoco e lanche incluidos (sem bebidas); transfer de/para o Porto dos Tatus + R$ 25 por passageiro. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pnb-passeio-de-lancha-rapida-pelo-delta-circuito-canaria",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de lancha rapida pelo Delta (circuito Canarias ou Feijao Bravo)",
+    "cidadeId": "parnaiba",
+    "categoria": "passeio",
+    "tags": [
+      "delta",
+      "lancha-rapida",
+      "ilha-das-canarias",
+      "feijao-bravo",
+      "caranguejo",
+      "canais-estreitos"
+    ],
+    "descricaoCurta": "Lancha rapida que entra nos canais estreitos onde o catamara nao passa, pela Ilha das Canarias ou pelo igarape do Feijao Bravo.",
+    "descricaoLonga": "As lanchas rapidas que saem de manha seguem pelo igarape dos Periquitos e costeiam a Ilha das Canarias, a maior do Delta. A maioria chega ate a foz conhecida como Boca das Canarias; ha um roteiro alternativo que leva ao igarape do Feijao Bravo, que corre entre o mangue e as dunas. Normalmente ha parada para demonstracao de extracao do caranguejo do mangue e outra para banho nas dunas perto da foz. O ALMOCO, num restaurante da Ilha das Canarias, NAO esta incluido no preco. VANTAGENS sobre as embarcacoes grandes: velocidade, a possibilidade de trafegar por canais estreitos e vencer trechos assoreados do rio, e o grupo pequeno. DESVANTAGENS: preco mais alto (e o almoco por fora) e o fato de o passeio na maioria das vezes ser feito apenas em modo FRETADO - apenas a Rota Combo tem saidas regulares compartilhadas, e so para o roteiro das Canarias, nao para o Feijao Bravo. Duracao 4 a 6 horas. Saida do Porto dos Tatus, 11 km do centro.",
+    "duracao": {
+      "min": 240,
+      "tipica": 300,
+      "max": 360
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 130,
+      "max": 650,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Compartilhado R$ 130 por passageiro, COM transfer (so Rota Combo, roteiro Canarias). Fretamento ate 4 passageiros: R$ 450 a R$ 650 pela lancha inteira. Almoco na Ilha das Canarias NAO incluido. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pnb-passeio-de-lancha-ao-delta-com-revoada-dos-guaras-bo",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de lancha ao Delta com revoada dos guaras (Boca do Caju)",
+    "cidadeId": "parnaiba",
+    "categoria": "passeio",
+    "tags": [
+      "delta",
+      "guaras",
+      "revoada",
+      "por-do-sol",
+      "boca-do-caju",
+      "imperdivel",
+      "sem-almoco"
+    ],
+    "descricaoCurta": "O passeio que a fonte elege como o melhor do Delta: nuvens de passaros vermelhos chegando a uma ilhota-dormitorio ao por do sol.",
+    "descricaoLonga": "A recomendacao da fonte e direta: 'se voce so tiver tempo de fazer um passeio pelo Delta, que seja esse'. As lanchas rapidas partem no comeco da tarde e tomam a direcao da boca (foz) do Caju, mais distante que a das Canarias. Perto das 5 da tarde encaminham-se para as proximidades de uma ilhota que serve de dormitorio para uma grande colonia de guaras. O show parece ensaiado: os primeiros passaros chegam timidamente, dois aqui, quatro ali, tomando seus lugares nos galhos; dez minutos depois, verdadeiras nuvens de passaros vermelhos comecam a chegar de todas as direcoes, num bale tao bonito quanto caotico - e, por milagre, todos encontram lugar sem acidente de percurso. O espetaculo acontece TODAS as tardes e fica mais bonito quando nao ha nuvens, porque o sol deixa os guaras ainda mais vermelhos. POR QUE ESTE ROTEIRO SO EXISTE EM LANCHA: as embarcacoes grandes precisariam navegar mais de duas horas no escuro da Baia do Caju ate o Porto dos Tatus. DESVANTAGEM: pela distancia percorrida, NAO ha tempo para parada de almoco. Duracao 4 horas. SE VOCE FIZER DOIS PASSEIOS NO DELTA, a ordem recomendada pelo autor e: primeiro o circuito Canarias (que vale pelas paradas de banho e almoco), depois o dos guaras. COMPARACAO UTIL: a revoada do Delta e, segundo a mesma fonte, mais grandiosa que a de Atins, nos Lencois.",
+    "duracao": {
+      "min": 210,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 185,
+      "max": 800,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Compartilhado R$ 185 a R$ 200 por passageiro, COM transfer. Fretamento ate 4 passageiros: a partir de R$ 800 pela lancha. Sem almoco. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "imperdivel"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pnb-safari-noturno-com-focagem-de-animais-no-delta",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Safari noturno com focagem de animais no Delta",
+    "cidadeId": "parnaiba",
+    "categoria": "passeio",
+    "tags": [
+      "delta",
+      "noturno",
+      "jacare",
+      "focagem",
+      "lancha",
+      "fauna"
+    ],
+    "descricaoCurta": "Lancha rapida pelos igarapes do Delta a noite, procurando jacares com foco de luz.",
+    "descricaoLonga": "Similar aos passeios noturnos feitos na Amazonia e no Pantanal, o safari noturno e feito em lanchas rapidas que se embrenham pelos igarapes do Delta do Parnaiba a procura de jacares. No percurso tambem devem ser avistados outros anfibios, como cobras, e animais terrestres como tamanduas, iguanas e macacos-prego. Duracao 2 horas. ATENCAO: a fonte so informa preco de FRETAMENTO (a partir de R$ 650 por ate 4 passageiros) - nao ha saida compartilhada listada, ou seja, para casal ou pessoa sozinha o custo por cabeca fica alto. Operadoras citadas: Clip e Rota Combo. Nao depende da estacao.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 650,
+      "max": 650,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A partir de R$ 650 pelo FRETAMENTO da lancha, ate 4 passageiros. Nao ha saida compartilhada listada pela fonte. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-grupo"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pnb-porto-das-barcas-e-centro-historico-de-parnaiba",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Porto das Barcas e centro historico de Parnaiba",
+    "cidadeId": "parnaiba",
+    "categoria": "compras",
+    "tags": [
+      "centro-historico",
+      "casaroes",
+      "agencias-de-passeio",
+      "cera-de-carnauba",
+      "sorvete"
+    ],
+    "descricaoCurta": "O conjunto portuario e os casaroes do ciclo da cera de carnauba - e onde ficam as agencias que vendem o Delta.",
+    "descricaoLonga": "Apesar de nao ser mais uma regiao vibrante, o centro historico de Parnaiba ainda guarda muitos casaroes e palacetes do inicio do seculo passado, quando a cidade era um dos mais importantes polos industriais do Nordeste: do Porto das Barcas saiam navios para a Europa carregados de cera de carnauba e oleo de babacu. UTILIDADE PRATICA PARA O ROTEIRO: e no Porto das Barcas que a maioria das agencias do Delta tem escritorio de atendimento ao publico - se voce prefere 'fazer um shopping' pessoalmente em vez de fechar por WhatsApp, e ali que se faz. Aproveite tambem a filial da Sorveteria Araujo que funciona no Porto das Barcas para aplacar o calor. Um leitor do guia relata que revitalizaram a Lagoa do Portinho e o 'museu do mar' - NAO CONFIRMAMOS a existencia, o nome oficial, os horarios nem o ingresso desse museu. HORARIOS, INGRESSOS E LOJAS DO CONJUNTO NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pnb-lagoa-do-portinho",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Lagoa do Portinho",
+    "cidadeId": "parnaiba",
+    "categoria": "natureza",
+    "tags": [
+      "lagoa",
+      "dunas",
+      "lencois-piauienses",
+      "bares",
+      "banana-boat",
+      "lota-nas-ferias"
+    ],
+    "descricaoCurta": "Lagoa parcialmente cercada por dunas dentro do municipio de Parnaiba, considerada parte dos Lencois Piauienses.",
+    "descricaoLonga": "Ainda dentro dos limites de Parnaiba, a Lagoa do Portinho e parcialmente cercada por dunas e e considerada parte dos 'Lencois Piauienses'. Tem estrutura de bares e restaurantes e LOTA nas ferias e fins de semana, quando e possivel fazer passeios de banana boat. Um leitor do guia relata que a lagoa foi revitalizada. EXPECTATIVA CALIBRADA, E ISSO IMPORTA: perguntada se os meses ideais dos Lencois Piauienses sao os mesmos dos Lencois Maranhenses, a propria fonte responde que 'os Lencois Piauienses nao tem o mesmo encanto' e que nao sabe se havera lagoas fora da temporada. Nao substitua os Lencois Maranhenses por aqui. HORARIOS, INGRESSO, PRECOS DE BANANA BOAT E CONSUMO NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true,
+      "dependeDeClima": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pnb-praia-do-itaqui-e-vila-itaqui-luis-correia",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Lu%C3%ADs%20Correia%20%28Piau%C3%AD%29"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia do Itaqui e Vila Itaqui (Luis Correia)",
+    "cidadeId": "parnaiba",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "sem-carro-na-areia",
+      "beach-lounge",
+      "melhor-praia",
+      "kitesurf",
+      "fim-de-semana-lota",
+      "luis-correia"
+    ],
+    "coords": {
+      "lat": -2.89639,
+      "lng": -41.65917
+    },
+    "descricaoCurta": "Na avaliacao da nossa fonte, a melhor praia de Luis Correia: pouco ocupada, sem carros na areia e com o melhor bar de praia da regiao.",
+    "descricaoLonga": "Luis Correia, municipio vizinho a Parnaiba, e o destino tradicional de veraneio do Piaui: 45 km praticamente contiguos de praias que vao mudando de nome. A praia do ITAQUI, a primeira passando o Coqueiro, e na opiniao do autor do guia a melhor de todas: pouco ocupada e SEM transito de carros na areia - diferente de Atalaia e Coqueiro, que sofrem com jipoes e carros circulando na areia. Itaqui tambem tem o melhor bar de praia da regiao, o da pousada Vila Itaqui: um beach lounge muito bem montado, que PROIBE caixas de som dos clientes. Nos petiscos, ceviche com manga, dadinhos de tapioca (simples ou recheados com carne de sol - o autor nao curtiu o recheado), iscas de peixe, asinhas de frango com batata. Os pratos principais, com excecao da moqueca, sao individuais: peixe fresco na brasa com batata-doce, files de peixe grelhados, file mignon e massas. A carta de bebidas e boa, com drinks e vinhos; as cervejas sao as do grupo Heineken. NA TEMPORADA E NOS FINS DE SEMANA, LOTA - chegue cedo para garantir mesa. TEMPORADA DE KITESURF em Luis Correia: agosto a dezembro, podendo chegar a janeiro, quando os ventos sao fortes e constantes - as praias de Coqueiro e Itaqui sao redutos de kitesurfistas. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 150,
+      "tipica": 300,
+      "max": 540
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(86) 98825-2010"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-pnb-praia-do-coqueiro-luis-correia",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Coqueiro (Luis Correia)",
+    "cidadeId": "parnaiba",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "orla-com-bares",
+      "carros-na-areia",
+      "kitesurf",
+      "burguesia-teresinense",
+      "luis-correia"
+    ],
+    "descricaoCurta": "O reduto da burguesia teresinense, com orla central de bares e restaurantes - mas com carros circulando na areia.",
+    "descricaoLonga": "A praia do Coqueiro e o reduto da burguesia teresinense. Tem casas de bom padrao e uma orla central ocupada por bares e restaurantes, ou seja, e a praia de Luis Correia com mais estrutura de consumo. RESSALVA DA FONTE: tambem sofre com o transito de jipoes e outros carros na areia - por isso o guia prefere a vizinha Itaqui. Junto com Itaqui, e reduto de kitesurfistas na temporada de ventos, de agosto a dezembro (podendo chegar a janeiro). OUTRAS PRAIAS DO MUNICIPIO, para calibrar escolha: Atalaia (ou da Armacao) e a menos interessante de todas, com urbanizacao precaria apesar de muito ocupada, faixa larga de areia dura boa para caminhar e enormes barracas - e muitos banhistas entram com os carros na areia; Arrombado tem poucas construcoes e muitas barracas populares; Macapa, a ultima do municipio, e selvagem, na foz do rio Camurupim (na outra margem ja e Barra Grande). PRECOS, BARES NOMEADOS E HORARIOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pnb-barra-grande-do-piaui-e-o-passeio-dos-cavalos-marinh",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Cajueiro%20da%20Praia"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Barra Grande do Piaui e o passeio dos cavalos-marinhos",
+    "cidadeId": "parnaiba",
+    "categoria": "passeio",
+    "tags": [
+      "praia",
+      "cavalos-marinhos",
+      "mangue",
+      "kitesurf",
+      "charme",
+      "bate-volta-ou-pernoite",
+      "barra-grande"
+    ],
+    "coords": {
+      "lat": -2.9278,
+      "lng": -41.33583
+    },
+    "descricaoCurta": "A 70 km de Parnaiba, praia gostosa com passeio de mangue a uma colonia de cavalos-marinhos - melhor com pernoite que como bate-volta.",
+    "descricaoLonga": "A 70 km de Parnaiba, Barra Grande do Piaui (no municipio de Cajueiro da Praia) tem uma praia gostosa e oferece um passeio de mangue ate uma colonia de CAVALOS-MARINHOS. A recomendacao explicita da fonte: melhor do que fazer o passeio de um dia e hospedar-se por la e descansar com charme - a sugestao de roteiro e dividir a estada entre Parnaiba (para os passeios do Delta e de 7 Cidades) e Barra Grande (para praia e descanso). Barra Grande e, junto com Coqueiro e Itaqui, reduto de kitesurf na temporada de ventos de agosto a dezembro/janeiro. LOGISTICA: taxistas do aeroporto de Parnaiba cobram R$ 200 a R$ 250 para levar a Barra Grande. De Jijoca (Jericoacoara) sao 160 km asfaltados, 3h30 - nao trafegue a noite. Um leitor do guia relata (agosto/2026) que fez o passeio do Delta ficando em Barra Grande, mas o retorno e de noite, depois da revoada, e que ficaria em Barra Grande novamente. NAO CONFIRMAMOS: preco, duracao e operador do passeio dos cavalos-marinhos, nem se ha restricao de mare. A fonte remete a um guia proprio de Barra Grande que nao abrimos nesta sessao.",
+    "duracao": {
+      "min": 240,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pnb-parque-nacional-de-sete-cidades",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://en.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Sete%20Cidades%20National%20Park"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Parque Nacional de Sete Cidades",
+    "cidadeId": "parnaiba",
+    "categoria": "natureza",
+    "tags": [
+      "formacoes-rochosas",
+      "inscricoes-rupestres",
+      "guia-obrigatorio",
+      "gratuito",
+      "bate-volta",
+      "calor-forte"
+    ],
+    "coords": {
+      "lat": -4.099,
+      "lng": -41.712
+    },
+    "descricaoCurta": "Formacoes geologicas peculiares e inscricoes rupestres de 6 mil anos a 140 km de Parnaiba - ingresso gratuito, guia obrigatorio.",
+    "descricaoLonga": "A 140 km de Parnaiba (e 180 km de Teresina), o Parque Nacional de Sete Cidades abriga um conjunto de formacoes geologicas de peculiar beleza e, de quebra, inscricoes rupestres de 6 MIL ANOS, que acrescentam uma dimensao cultural a um passeio que poderia ser apenas panoramico. A visita deve ser feita DE CARRO: da para fazer a pe ou de bicicleta, mas o calor e muito forte e os atrativos sao muito distantes uns dos outros. NA ENTRADA voce contrata um guia (R$ 100, segundo a fonte) e escolhe um dos circuitos que caiba no seu tempo; um passeio curto de carro leva entre 2 e 3 horas. Leve agua e lanche. HORARIO: aberto diariamente das 8h as 17h. INGRESSO: gratuito, com contratacao de guia obrigatoria. ACESSO: pela BR-343 (Transpiaui) - vindo de Parnaiba, entre em Piracuruca; vindo de Teresina, antes de Piripiri saia pela BR-222 sentido Fortaleza. Agencias de Parnaiba oferecem o passeio em modo privativo: a Rota Combo cobra R$ 680 para 2 passageiros. ENCAIXE INTELIGENTE DE ROTEIRO: se voce chega ou sai por Teresina, da para negociar um pit-stop no parque como parte do transfer, ou pernoitar em Teresina e sair cedo. AVALIACAO DA FONTE: 'o Parque de 7 Cidades e um passeio interessante se voce dispuser de um dia livre' - e o guia lembra que tanto este passeio quanto o traslado Teresina-Parnaiba sao bastante cansativos.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 480
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Ingresso GRATUITO; guia obrigatorio a R$ 100 (a fonte nao esclarece se por grupo ou por pessoa - entendemos por grupo/circuito). Tour privativo saindo de Parnaiba com a Rota Combo: R$ 680 para 2 passageiros. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true,
+      "dependeDeClima": true,
+      "condicionamento": "medio"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-pnb-caranguejo-expresso",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Caranguejo Expresso",
+    "cidadeId": "parnaiba",
+    "categoria": "restaurante",
+    "tags": [
+      "torta-de-caranguejo",
+      "prato-tipico",
+      "porcao-grande",
+      "demora",
+      "rustico"
+    ],
+    "descricaoCurta": "A meca da torta de caranguejo em Parnaiba - prato mais tipico da regiao, servido com baiao de dois e farofa.",
+    "descricaoLonga": "A extracao de caranguejos e a principal atividade economica do Delta do Parnaiba, e nada mais natural que o prato mais tipico da regiao seja a TORTA DE CARANGUEJO, uma fritada que leva tambem cebola, tomate e azeitonas. A meca da torta em Parnaiba e o Caranguejo Expresso, onde e servida acompanhada de baiao de dois e farofa. O ambiente nao tem nenhum atrativo, mas a torta e boa e farta: a MENOR satisfaz ate 3 pessoas. ARMADILHA DE HORARIO: nao acredite no 'expresso' do nome - as tortas sao feitas so depois de pedidas, e se o movimento estiver grande pode demorar MAIS DE 40 MINUTOS para sair. Nao programe esta refeicao encaixada entre dois compromissos. Abre diariamente, sem intervalo entre almoco e jantar. Endereco: R. Quetinha Pires, 64. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 160
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(86) 3323-9653"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pnb-mangata",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mangata",
+    "cidadeId": "parnaiba",
+    "categoria": "restaurante",
+    "tags": [
+      "grelhados",
+      "massas",
+      "risotos",
+      "musica-ao-vivo",
+      "classe-media-alta",
+      "jantar"
+    ],
+    "descricaoCurta": "O restaurante grande e bem estruturado onde a classe media alta parnaibana janta - com musica ao vivo de quinta a sabado.",
+    "descricaoLonga": "Quando cansar de ambientes rusticos, va ao Mangata. Grande e bem-estruturado, frequentado pela classe media alta parnaibana em peso, funciona - nas palavras da fonte - como um teletransporte a cidade grande, pelo menos durante uma refeicao. O cardapio, extenso, passeia de grelhados a massas e risotos, com um ou outro prato regional para quem nao quiser se desconectar da terra. TEM MUSICA AO VIVO nas noites de QUINTA A SABADO - e a opcao mais proxima de vida noturna estruturada que encontramos documentada em Parnaiba. ATENCAO AO HORARIO: abre para JANTAR de terca a domingo; almoco, SO DOMINGO. Endereco: Av. Sao Sebastiao, 3900. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(86) 3322-6731"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pnb-quintal-dos-sabores",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Quintal dos Sabores",
+    "cidadeId": "parnaiba",
+    "categoria": "restaurante",
+    "tags": [
+      "pizza",
+      "massas",
+      "picanha",
+      "casarao",
+      "jardim",
+      "jantar"
+    ],
+    "descricaoCurta": "Pizzas, massas e picanha num casarao com mesas na varanda e no jardim - so para jantar, de quarta a domingo.",
+    "descricaoLonga": "Funcionando num casarao que mantem o jeitao de casa, o Quintal dos Sabores tem mesas agradaveis na varanda e no jardim. Serve pizzas, calzone, massas e picanha. ATENCAO AO HORARIO: abre para JANTAR de QUARTA A DOMINGO - ou seja, segunda e terca estao fora, e nao serve almoco. Endereco: Av. Sao Sebastiao, 1316. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 60,
+      "tipica": 95,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(86) 99488-8800"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pnb-baleeiro-carnaubinha-resort",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Baleeiro (Carnaubinha Resort)",
+    "cidadeId": "parnaiba",
+    "categoria": "restaurante",
+    "tags": [
+      "paella",
+      "peixe",
+      "familia",
+      "beira-piscina",
+      "reserva-obrigatoria",
+      "day-use"
+    ],
+    "descricaoCurta": "Restaurante do Carnaubinha Resort, aberto ao publico mediante reserva, com servico profissional a beira da piscina.",
+    "descricaoLonga": "O Baleeiro, no Carnaubinha Resort, e aberto ao publico MEDIANTE RESERVA. O servico e bastante profissional e o restaurante fica ao lado da piscina. No cardapio, paella, file de peixe com alcaparras, picanha e outros favoritos das familias. OPORTUNIDADE: caso voce queira usar o bar de praia do resort, pode comprar o DAY-USE mediante disponibilidade - informe-se ao reservar. O Carnaubinha Resort e descrito pela fonte como a melhor opcao de hospedagem para familias na regiao; a denominacao 'resort' e exagerada para o tamanho do hotel, mas a estrutura oferece quase tudo, de parquinho aquatico infantil a sauna. Endereco: PI 315, km 3. PRECOS DO RESTAURANTE E DO DAY-USE NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "telefone": "(86) 98144-7860"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-pnb-sorveteria-araujo",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Sorveteria Araujo",
+    "cidadeId": "parnaiba",
+    "categoria": "cafe",
+    "tags": [
+      "sorvete",
+      "tapioca",
+      "bacuri",
+      "caju",
+      "tradicional",
+      "porto-das-barcas"
+    ],
+    "descricaoCurta": "Tombada pelo patrimonio afetivo de Parnaiba, com sabores tipicos como tapioca, abacate e caju.",
+    "descricaoLonga": "Tombada pelo patrimonio afetivo de Parnaiba, a Sorveteria Araujo tem varios enderecos na cidade. Se voce for dar uma olhadinha no Porto das Barcas, aproveite para aplacar o calor na filial de la. Entre os sabores mais tipicos estao tapioca, abacate e caju. AVISO HONESTO DA FONTE: tudo ao gosto nordestino, com BASTANTE ACUCAR - peca uma agua para rebater. Endereco da matriz: Av. Gov. Chagas Rodrigues, 901, com filial no Porto das Barcas. HORARIOS E PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 15,
+      "tipica": 30,
+      "max": 50
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(86) 3322-3336"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pnb-aviso-quando-ir-a-parnaiba-e-ao-delta-chuva-vento-e",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: quando ir a Parnaiba e ao Delta (chuva, vento e kitesurf)",
+    "cidadeId": "parnaiba",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "sazonalidade",
+      "chuva",
+      "kitesurf",
+      "calendario"
+    ],
+    "descricaoCurta": "A estacao chuvosa vai de fevereiro a maio, com marco e abril extremos; de agosto a novembro praticamente nao chove.",
+    "descricaoLonga": "Parnaiba tem duas estacoes bem definidas, e a janela util e MUITO mais larga que a dos Lencois - porque a revoada dos guaras acontece todas as tardes do ano, independente de chuva acumulada.\nESTACAO CHUVOSA: fevereiro a maio. Os meses mais chuvosos sao MARCO (370 mm) e ABRIL (400 mm). Fevereiro e maio, com 255 mm cada, tambem trazem mais chuva do que voce gostaria numa viagem de ferias.\nESTACAO SECA: junho a dezembro. Entre AGOSTO E NOVEMBRO praticamente nao chove. Em junho chove menos de 100 mm; em julho e dezembro, menos de 50 mm.\nJANEIRO: mes de transicao, 143 mm. A chuva nao chega a atrapalhar quem quer aproveitar as praias, mas havera mais dias nublados que no segundo semestre.\nTEMPORADA DE KITESURF: agosto a dezembro, podendo chegar a janeiro, quando os ventos sao fortes e constantes. As praias de Coqueiro e Itaqui, em Luis Correia, e a vizinha Barra Grande sao os redutos.\nTEMPERATURA: estavel o ano todo, minimas em torno de 22 graus e maximas pouco acima de 30. Entre agosto e janeiro o calor e bastante amenizado pelos ventos fortes.\nQUANTOS DIAS: com 2 dias, escolha entre (a) 1 passeio no Delta + praia, (b) 2 passeios DIFERENTES no Delta, ou (c) 1 passeio no Delta + Parque de 7 Cidades. Com 3 ou mais dias cabem os dois passeios do Delta, 7 Cidades e mais praia - mas se o plano e ficar mais tempo de praia, divida a estada entre Parnaiba (para os passeios) e Barra Grande (para descansar).\nCOMBINACAO COM OS LENCOIS: se voce esta montando a Rota das Emocoes, note que a melhor epoca das lagoas dos Lencois (junho a setembro) cai dentro da estacao seca de Parnaiba. Os dois destinos sao compativeis no mesmo mes - isso facilita muito o roteiro.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pnb-aviso-o-porto-dos-tatus-o-transfer-que-ninguem-conta",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: o Porto dos Tatus, o transfer que ninguem conta e como comparar precos no Delta",
+    "cidadeId": "parnaiba",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "logistica",
+      "porto-dos-tatus",
+      "transfer",
+      "orcamento"
+    ],
+    "descricaoCurta": "Os passeios do Delta saem a 11 km do centro, e o transfer quase nunca esta no preco - some isso antes de comparar agencias.",
+    "descricaoLonga": "TRES COISAS QUE MUDAM O ORCAMENTO DO DELTA.\n1) ONDE SAEM OS PASSEIOS. Todos os passeios operados a partir de Parnaiba saem do PORTO DOS TATUS, na Ilha Grande de Santa Isabel, a 11 km do centro de Parnaiba. O transfer entre Parnaiba e o Porto dos Tatus NA MAIORIA DAS VEZES NAO ESTA INCLUIDO no preco do passeio, e pode ser contratado por cerca de R$ 20 a R$ 25 por passageiro. Ao comparar duas agencias, confirme se o numero inclui o transfer - no passeio compartilhado de lancha a fonte indica que esta incluido, no de chalana/catamara nao.\n2) O QUE ESTA NA COMIDA. No passeio de chalana/catamara, almoco e lanche estao incluidos (bebidas nao). No de lancha rapida pelas Canarias, o almoco num restaurante da Ilha das Canarias NAO esta incluido. No da revoada dos guaras NAO HA parada de almoco, pela distancia percorrida.\n3) AS DUAS BOCAS E AS DUAS CARAS DO DELTA. Os passeios levam a duas bocas: a das CANARIAS (normalmente preferida para passeios matutinos, com almoco na Ilha das Canarias) e a do CAJU (a mais usada nos passeios vespertinos que terminam com observacao de guaras ao por do sol - o passeio favorito do autor do guia). Para escolher: se for fazer dois passeios, faca Canarias primeiro e guaras depois; se for fazer apenas um, faca o dos guaras.\nONDE COMPRAR: as principais agencias tem sites completos e atendem rapido por WhatsApp e email, mas se voce prefere fazer um shopping pessoalmente, va ao Porto das Barcas, no centro historico, onde a maioria delas tem escritorio de atendimento ao publico.\nO QUE O DELTA E E O QUE NAO E: a primeira vista o passeio nao difere muito de outros passeios fluviais costeando mangue. O que o torna especial sao o volume e a beleza da vegetacao - as aningas, em particular - e a mudanca de paisagem conforme a embarcacao se aproxima do mar, pelo aumento progressivo da salinidade da agua. Dunas tambem podem compor a paisagem no meio do trajeto ou na foz.\nNAO CONSEGUIMOS CONFIRMAR: telefone, site ou WhatsApp de nenhuma das operadoras citadas pela fonte (Clip, Rota Combo, Igaratur, Delta Rio Parnaiba) - nao abrimos nenhuma pagina delas nesta sessao e nao vamos inventar contato.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "br-atn-circuitos-de-lagoas-de-atins-e-canto-do-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=Atins"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Circuitos de lagoas de Atins e Canto do Atins",
+    "cidadeId": "atins",
+    "categoria": "passeio",
+    "tags": [
+      "lagoa",
+      "canto-do-atins",
+      "camarao",
+      "jardineira",
+      "acessivel",
+      "meio-dia-ou-dia-inteiro"
+    ],
+    "coords": {
+      "lat": -2.57017,
+      "lng": -42.74229
+    },
+    "descricaoCurta": "Lagoas onde a jardineira chega pertinho, sem caminhada, com almoco de camarao grelhado no Canto do Atins.",
+    "descricaoLonga": "Os passeios as lagoas de Atins guardam semelhanca com os de Santo Amaro: as jardineiras chegam bem pertinho das lagoas, voce NAO precisa caminhar (os circuitos de Atins sao apropriados para pessoas com dificuldade de locomocao). A diferenca e que as lagoas de Atins costumam SECAR MAIS CEDO - ate o fim de agosto. Quanto mais cedo na temporada, maiores as opcoes de lagoa a visitar. O circuito basico e o do Canto do Atins, mas ha outras possibilidades de itinerario, abrangendo as lagoas com maior volume d'agua no momento - pergunte ao guia quais estao cheias agora, nao procure a lagoa da foto do ano passado. Os passeios matinais normalmente terminam com almoco no Canto do Atins, onde a pedida sao os camaroes grelhados, receita original do Camarao da Luzia e servida tambem nos dois outros restaurantes do pedaco. Os passeios de dia inteiro cobrem todas as lagoas dos arredores, com almoco no Canto do Atins. Duracao 4 horas (meio periodo) ou 7 horas (dia inteiro).",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 140,
+      "max": 1500,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Coletivo: R$ 140 (meio dia) ou R$ 250 (dia inteiro) por pessoa. Privativo: R$ 900 (meio dia) ou R$ 1.500 (dia inteiro), por veiculo. Almoco no Canto do Atins nao incluido. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-atn-circuito-ponta-de-mangue",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Circuito Ponta de Mangue",
+    "cidadeId": "atins",
+    "categoria": "passeio",
+    "tags": [
+      "lagoa-perene",
+      "vegetacao",
+      "povoado",
+      "borda-do-parque",
+      "alternativa-a-lagoa"
+    ],
+    "descricaoCurta": "Passeio diferente dos circuitos de lagoa, a um povoado na borda do parque, com vegetacao e uma lagoa perene.",
+    "descricaoLonga": "Para quem ficar mais tempo em Atins e quiser fazer um passeio diferente de lagoas, o circuito Ponta de Mangue leva a um povoado na borda do parque nacional. E um passeio que foge do tema dunas-e-lagoas-temporarias: voce vai ver tambem vegetacao e uma LAGOA PERENE - o que o torna uma opcao relevante para quem viaja fora da janela de cheia das lagoas de Atins (que secam ate fim de agosto). Duracao 4 horas, manha ou tarde. CALIBRE A EXPECTATIVA: a unica lagoa perene da regiao citada pela fonte, a Lagoa da Esperanca, nao e a paisagem de postal - tem paredao de duna em apenas uma margem, pelo menos metade do entorno e mangue e as aguas sao escuras. A fonte nao afirma que a lagoa perene do Ponta de Mangue e a Esperanca, mas calibre a expectativa do mesmo jeito.",
+    "duracao": {
+      "min": 210,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 140,
+      "max": 900,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Coletivo R$ 140 por pessoa; privativo R$ 900 por veiculo. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-atn-revoada-dos-guaras-no-rio-pregucas-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Revoada dos guaras no Rio Pregucas (Atins)",
+    "cidadeId": "atins",
+    "categoria": "natureza",
+    "tags": [
+      "guaras",
+      "aves",
+      "fim-de-tarde",
+      "voadeira",
+      "cabure",
+      "nao-depende-de-lagoa"
+    ],
+    "descricaoCurta": "Ao fim da tarde, grupos de guaras vermelhos chegam de todas as direcoes a uma ilhota-dormitorio no Rio Pregucas.",
+    "descricaoLonga": "Uma ilhota no Rio Pregucas, a meio caminho entre Atins e a praia de Cabure, serve como dormitorio para a populacao local de guaras. Meia hora antes do por do sol a revoada comeca timidamente e vai encorpando com grupos de guaras vindos de varias direcoes. COMPARACAO HONESTA DA FONTE: nao e um espetaculo tao grandioso quanto o do Delta do Parnaiba - 'mas vale o ingresso'. Se voce vai fazer os dois no mesmo roteiro, guarde a expectativa grande para o Delta. O passeio e feito em voadeira, com saida as 16h30, e normalmente inclui tambem uma paradinha em Cabure. Duracao 1h a 1h30. VANTAGEM SAZONAL: nao depende do nivel das lagoas, so de luz do dia e tempo bom.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 120,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Coletivo R$ 120 por pessoa; privativo R$ 600 por embarcacao. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-atn-planctons-luminescentes-na-foz-do-rio-pregucas",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Planctons luminescentes na foz do Rio Pregucas",
+    "cidadeId": "atins",
+    "categoria": "experiencia",
+    "tags": [
+      "bioluminescencia",
+      "noite-sem-lua",
+      "barco",
+      "nao-fotografavel",
+      "raro"
+    ],
+    "descricaoCurta": "Nas aguas salobras da foz, planctons se iluminam feito vagalumes - mas so em noites sem lua.",
+    "descricaoLonga": "Nas aguas salobras da foz do Rio Pregucas encontram-se planctons que se iluminam feito vagalumes no mar. CONDICAO QUE MANDA NO PASSEIO: o efeito SO acontece em noites SEM LUA - qualquer tipo de luz faz com que nao se veja a luminescencia. Nas noites escuras, as agencias de Atins programam saidas de barco ate um banco de areia no meio do Pregucas, onde e mais facil observar o fenomeno (e preciso agitar a agua). Duracao 2 horas. AVISO PARA QUEM VAI PELA FOTO: o efeito e lindo, mas, nas palavras da fonte, nao e fotografavel por amadores - tem que ver e guardar na memoria. ANTES DE PAGAR, confira a fase da lua da sua viagem: se vai pegar lua cheia, nem reserve.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 180,
+      "max": 180,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 180 por pessoa no coletivo. Privativo nao informado. Preco publicado pelo guia Viaje na Viagem sem data de atualizacao explicita na pagina; fonte unica, nao confirmado em site de operadora. Trate como ordem de grandeza e confirme por WhatsApp. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-atn-praia-de-atins-e-suas-barracas",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Atins e suas barracas",
+    "cidadeId": "atins",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "agua-salobra",
+      "barracas",
+      "kitesurf",
+      "lounge",
+      "reggae"
+    ],
+    "descricaoCurta": "A unica base dos Lencois com praia - agua escura e calma, mas bem servida de barracas do rustico ao lounge.",
+    "descricaoLonga": "Por estar na esquina do Rio Pregucas com o mar, Atins e a UNICA base dos Lencois com praia - ou seja, a unica onde da para intercalar dias de passeio com dias de nao fazer nada a beira-mar (em Santo Amaro ou Barreirinhas voce precisa fazer um passeio por dia, ou passar o dia preso no hotel). EXPECTATIVA CALIBRADA: pertinho da foz, a praia tem agua salobra e aguas calminhas, e NAO e uma praia bonita como outras do Nordeste - tanto a areia quanto a agua sao escuras. Mas e bem servida por barracas que vao do rustico ao lounge, e na temporada dos ventos o horizonte se enche com as velas coloridas do kitesurf. O MAPA DAS BARRACAS, segundo a fonte: a mais roots, escondidinha na ponta norte, e a Cabana da Izabel; para pegar uma rede rente a agua, Estresse Zero; se curtir reggae, o deck da Mar Doce Lar (a fonte usa tambem 'Lar Doce Mar'); o ambiente mais charmoso e o do Bar.co; e para badalacao, Charme Beach Bar. PRECOS DE CONSUMO NAO CONFIRMADOS - e a fonte avisa que os precos em Atins sao 'bem salgados, padrao Caraiva ou Noronha'.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-atn-kitesurf-em-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Kitesurf em Atins",
+    "cidadeId": "atins",
+    "categoria": "experiencia",
+    "tags": [
+      "kitesurf",
+      "vento",
+      "agosto-a-janeiro",
+      "escola",
+      "guarderia",
+      "alta-temporada"
+    ],
+    "descricaoCurta": "A temporada de ventos vai de agosto a janeiro - justamente quando as lagoas estao secando.",
+    "descricaoLonga": "A temporada dos ventos em Atins vai de AGOSTO A JANEIRO. Segundo a fonte, para o funcionamento da vila o kite e mais importante do que o turismo das lagoas: ha escolas para principiantes e guarderias para quem traz o proprio equipamento. ESTA E A GRANDE SACADA DE CALENDARIO DO BLOCO: a temporada de kite comeca exatamente quando a temporada de lagoa esta acabando. Entre agosto e janeiro a praia se enche de velas coloridas, e em novembro, dezembro e janeiro Atins segue em alta temporada de kite enquanto as lagoas estao secas. Em outubro e novembro o povoado lota nos feriados com a elite maranhense; em janeiro, com a mocada nas ferias de verao. Dezembro tem baladas de Reveillon. PRECOS DE AULA, ALUGUEL E GUARDERIA NAO CONFIRMADOS - nao encontramos nenhuma escola nomeada com tabela em fonte aberta nesta sessao.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-atn-restaurante-da-luzia-camarao-da-luzia-canto-do-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Restaurante da Luzia (Camarao da Luzia), Canto do Atins",
+    "cidadeId": "atins",
+    "categoria": "restaurante",
+    "tags": [
+      "camarao-grelhado",
+      "canto-do-atins",
+      "receita-original",
+      "almoco-de-passeio",
+      "imperdivel"
+    ],
+    "descricaoCurta": "O camarao grelhado que virou instituicao dos Lencois - a receita original, no Canto do Atins.",
+    "descricaoLonga": "A fonte e direta: 'se for a Atins, nao deixe de experimentar o camarao da Luzia'. Os camaroes grelhados sao a receita ORIGINAL do Camarao da Luzia, hoje servida tambem nos dois outros restaurantes do Canto do Atins. E o almoco padrao dos circuitos de lagoa matinais e dos passeios de dia inteiro que saem de Atins, e tambem do bate-volta de Barreirinhas a Atins. ATENCAO AO ORCAMENTO: o almoco NAO esta incluido no preco dos passeios, e os precos de restaurante em Atins sao descritos como 'bem salgados, padrao Caraiva ou Noronha'. NAO CONSEGUIMOS CONFIRMAR o preco do prato, o telefone nem o horario de funcionamento - a fonte cita a casa pelo nome e pelo prato, sem dados de contato. Na pratica, voce chega la dentro de um passeio: combine o almoco com a agencia.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "imperdivel"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-atn-okaru-pousada-vila-aty",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-ficar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Okaru (Pousada Vila Aty)",
+    "cidadeId": "atins",
+    "categoria": "restaurante",
+    "tags": [
+      "autoral",
+      "pescada-amarela",
+      "reserva-obrigatoria",
+      "aberto-ao-publico",
+      "alta-gastronomia"
+    ],
+    "descricaoCurta": "O restaurante da Vila Aty, aberto ao publico com reserva - a cozinha mais pretensiosa de Atins.",
+    "descricaoLonga": "Okaru e o restaurante da Vila Aty, uma das melhores pousadas de Atins, e e aberto ao publico. E otima pedida para um almoco depois de um passeio, quando voce nao quiser repetir o camarao de Atins nem petiscar na praia. Espere pratos como file de pescada amarela grelhado com aligot de macaxeira, camaroes empanados em farinha panko com arroz a grega, mariscada com arroz de alho, picanha com molho gorgonzola e peixada no leite de coco. Da para voltar a sua pousada a pe pela praia, ou pedir para chamarem um quadriciclo. E PRECISO RESERVAR. Por ter temporada mais longa gracas ao kitesurf, Atins consegue atrair e manter restaurantes com alguma pretensao gastronomica - mas os precos sao 'bem salgados, padrao Caraiva ou Noronha'. PRECOS NAO CONFIRMADOS.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 160
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "telefone": "(98) 99118-1709"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-atn-la-pizza-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Pizza (Atins)",
+    "cidadeId": "atins",
+    "categoria": "restaurante",
+    "tags": [
+      "pizza-napolitana",
+      "fermentacao-natural",
+      "jantar",
+      "gramado",
+      "massas"
+    ],
+    "descricaoCurta": "O primeiro restaurante de padrao urbano de Atins, com pizza napolitana de fermentacao natural num gramado bem cuidado.",
+    "descricaoLonga": "La Pizza foi o primeiro restaurante com padrao 'urbano' a se instalar em Atins. As mesas estao espalhadas por um gramado bem-cuidado - e um lugar bastante agradavel para jantar na vila. A massa e de fermentacao natural, o que resulta numa pizza de estilo napolitano (um pouquinho mais assada no miolo do que seria em Napoles, pondera a fonte). O cardapio tambem traz saladas e massas. Ja passou o tempo em que era a unica boa opcao para jantar bem em Atins - hoje divide a cena com Okaru, Casa de Juja, Pininga e os destaques do guia. PRECOS, HORARIO E CONTATO NAO CONFIRMADOS: a pagina de origem lista a casa com Instagram, mas o trecho com os dados de contato foi cortado no conteudo que conseguimos ler.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-atn-casa-de-juja-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa de Juja Atins",
+    "cidadeId": "atins",
+    "categoria": "restaurante",
+    "tags": [
+      "receita-de-familia",
+      "cozinha-maranhense",
+      "filial",
+      "destaque-do-guia"
+    ],
+    "descricaoCurta": "A filial em Atins das receitas da celebre cozinheira Juja, tocada pelas filhas dela.",
+    "descricaoLonga": "A Casa de Juja funciona tanto em Sao Luis quanto em Atins: as filhas da celebre cozinheira Juja, ja falecida, continuam preparando suas receitas com enorme sucesso nas duas cidades. Em Atins, a casa aparece entre os destaques do Viaje na Viagem para onde comer, ao lado do Restaurante da Luzia, La Pizza, Pininga e Okaru. Na casa de Sao Luis, os carros-chefe sao arroz do mar, o 'sonho de Juja' (escondidinho de camarao com queijo coalho e milho verde) e a torta de camarao com vatapa e arroz de cuxa - NAO CONFIRMAMOS se o cardapio de Atins e o mesmo. ENDERECO, TELEFONE, HORARIO E PRECOS DA UNIDADE DE ATINS NAO CONFIRMADOS: a fonte cita a casa entre os destaques, mas o trecho com os dados de contato de Atins nao foi lido integralmente nesta sessao.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-atn-charme-beach-bar-e-a-noite-de-atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Charme Beach Bar e a noite de Atins",
+    "cidadeId": "atins",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "badalacao",
+      "barraca-de-praia",
+      "kitesurf",
+      "temporada",
+      "reggae"
+    ],
+    "descricaoCurta": "A unica base dos Lencois com alguma balada - e o Charme Beach Bar e o endereco da badalacao.",
+    "descricaoLonga": "Atins e, nas palavras da fonte, o UNICO povoado dos Lencois Maranhenses com cena gastronomica e alguma balada, e isso acontece gracas ao kitesurf, que estende a temporada de agosto a janeiro. Na praia, se voce procura badalacao, va direto ao Charme Beach Bar. Se curtir reggae, o deck da Mar Doce Lar. Para um ambiente mais charmoso, o Bar.co. Para uma rede rente a agua, Estresse Zero. A mais roots, na ponta norte, e a Cabana da Izabel. Em dezembro ha baladas de Reveillon; em outubro e novembro o povoado lota nos feriados com a elite de Sao Luis. EXPECTATIVA CALIBRADA PARA QUEM VEM DE FORA DA TEMPORADA: fora da temporada de vento, a vida noturna de Atins esvazia junto com os kitesurfistas. HORARIOS, COUVERT E PRECOS NAO CONFIRMADOS: a fonte lista as barracas apenas com Instagram, sem telefone nem horario.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-atn-travessia-a-pe-dos-lencois-maranhenses-atins-a-santo",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/como-chegar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro)",
+    "cidadeId": "atins",
+    "categoria": "experiencia",
+    "tags": [
+      "trekking",
+      "travessia",
+      "oasis",
+      "baixa-grande",
+      "queimada-dos-britos",
+      "reserva-com-muita-antecedencia"
+    ],
+    "descricaoCurta": "Tres dias a pe atravessando o parque de Atins a Santo Amaro, com duas noites em oasis dentro das dunas.",
+    "descricaoLonga": "O sentido ATINS para SANTO AMARO e o preferido para fazer a travessia a pe dos Lencois Maranhenses, por dois motivos obvios: nessa direcao voce fica a favor do vento e do sol. A travessia e bastante popular sobretudo com viajantes europeus. Voce passa DUAS NOITES em oasis dentro do parque - Baixa Grande e Queimada dos Britos - vivendo em condicoes semelhantes as dos nativos. ESTE E O PONTO DE PLANEJAMENTO QUE MAIS GENTE ERRA: se voce for fazer a travessia a pe, RESERVE SEU GUIA COM 30 A 90 DIAS DE ANTECEDENCIA. Nao e um passeio que se encaixa na vespera. NAO CONSEGUIMOS CONFIRMAR: preco da travessia, quais guias ou operadores a conduzem, o que esta incluido (comida, rede, bagagem), quilometragem exata, nem se ha limite de vagas ou autorizacao do ICMBio. A fonte descreve a experiencia e remete a um texto detalhado que nao abrimos nesta sessao. Trate como experiencia a pesquisar a fundo antes de fechar, nao como item de prateleira.",
+    "duracao": {
+      "min": 2880,
+      "tipica": 4320,
+      "max": 4320
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 60
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-atn-aviso-atins-nao-recebe-carro-e-tem-a-janela-de-lagoa",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/como-chegar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/como-chegar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO: Atins nao recebe carro e tem a janela de lagoas mais curta",
+    "cidadeId": "atins",
+    "categoria": "experiencia",
+    "tags": [
+      "aviso",
+      "logistica",
+      "sazonalidade",
+      "lancha",
+      "sem-carro"
+    ],
+    "descricaoCurta": "Nenhum carro de visitante chega a Atins, e as lagoas de la secam antes de todas as outras - fim de agosto.",
+    "descricaoLonga": "DUAS COISAS QUE DECIDEM SE ATINS ENTRA NO SEU ROTEIRO.\n1) ACESSO. Atins continua INACESSIVEL A CARROS DE VISITANTES. Se voce chegar de carro alugado, vai deixa-lo estacionado em Barreirinhas. De Sao Luis sao 260 km mais 1 hora de barco, pelo menos 5 horas no total. O acesso padrao e a lancha regular de Barreirinhas: 1h15, R$ 70 (K-Beca, saida 12h de Barreirinhas, 7h de Atins) ou R$ 80 (Satur, saidas 12h30 e 16h de Barreirinhas, 7h de Atins, nao trabalha sabados) - precos de julho/2023, e a passagem inclui o transporte entre a pousada e o embarque. A alternativa mais proveitosa e usar o passeio do Rio Pregucas ate Cabure (R$ 140) como transfer, negociando a travessia Cabure-Atins (de graca a R$ 40 por pessoa). Dentro do povoado: a pe, quadriciclo ou jardineira.\n2) SAZONALIDADE. As lagoas de Atins sao as que SECAM MAIS CEDO das tres bases: costumam ter bom volume ate FIM DE AGOSTO. Em setembro ja nao costumam ter volume; em outubro a fonte e explicita - 'nao perca tempo em passeios de lagoas em Atins ou Barreirinhas'. De agosto a janeiro, em compensacao, Atins esta em alta temporada de kitesurf, com praia, barracas e vida social. Ou seja: Atins ANTES de setembro e base de lagoa; Atins DEPOIS de agosto e base de praia, vento e balada - nao de lagoa.\n3) DIFERENCIAL REAL. Atins e a unica base dos Lencois com praia, portanto a unica em que da para NAO fazer passeio num dia sem ficar preso no hotel. Em Santo Amaro ou Barreirinhas, um passeio por dia ou tedio.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

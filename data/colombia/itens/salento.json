@@ -478,6 +478,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/10031497317"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:CO_El_Ocaso_(finca_cafetera)_(18)_(17060708508).jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -580,7 +584,14 @@
       "site": "https://web.fincaelocasosalento.com/",
       "instagram": "@fincaelocasosalento"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/CO_El_Ocaso_%28finca_cafetera%29_%2818%29_%2817060708508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Diego Tirira from Quito, Ecuador",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:CO_El_Ocaso_(finca_cafetera)_(18)_(17060708508).jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [
@@ -1226,6 +1237,10 @@
       },
       {
         "url": "https://www.openstreetmap.org/node/4028648800"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Jes%C3%BAs_Mart%C3%ADn,_Salento_01.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1255,7 +1270,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Caf%C3%A9_Jes%C3%BAs_Mart%C3%ADn%2C_Salento_01.jpg/1280px-Caf%C3%A9_Jes%C3%BAs_Mart%C3%ADn%2C_Salento_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Jes%C3%BAs_Mart%C3%ADn,_Salento_01.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": []

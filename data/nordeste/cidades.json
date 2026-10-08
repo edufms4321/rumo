@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "sao-luis",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/como-chegar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-ficar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/alcantara/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/332923"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "São Luís",
+    "regiaoId": "maranhao",
+    "coords": {
+      "lat": -2.52953,
+      "lng": -44.29639
+    },
+    "altitudeM": 31,
+    "aeroportos": [
+      "SLZ"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Centro Historico (Praia Grande / Rua do Giz)",
+        "perfil": "O melhor lugar para estar a pe entre casarios, azulejos, museus e a Casa das Tulhas. Problema: com o fechamento do hotel Grand Sao Luis nao ha mais hotel estruturado na area, apenas pousadas simples (ex.: Casa Frankie, no alto da Rua do Giz). O grupo portugues Vila Gale ganhou a concessao de dois hoteis-butique no centro (Collection Opera e Collection Poesia), previstos a partir de 2026.",
+        "fontes": []
+      },
+      {
+        "nome": "Ponta d'Areia / Peninsula",
+        "perfil": "Beira-mar com o Champs Mall, polo de bares e restaurantes (Ferreiro Praia, Azu, Qu4trobar). Bom para quem quer jantar a pe.",
+        "fontes": []
+      },
+      {
+        "nome": "Calhau",
+        "perfil": "Praia urbana que recuperou a balneabilidade nos ultimos anos (um leitor do Viaje na Viagem relatou placa de 'impropria' em agosto/2025 - confira a pagina de balneabilidade da Secretaria Estadual de Meio Ambiente antes de entrar na agua). Calcadao, barracas boas (Landrua, Riomar) e hoteis funcionais como o Praiabella.",
+        "fontes": []
+      },
+      {
+        "nome": "Sao Francisco / Jardim Renascenca (perto do Luzeiros e Brisamar)",
+        "perfil": "Zona de melhores hoteis da cidade (Luzeiros, Brisamar, Blue Tree Towers) com bons restaurantes a pe: Cabana do Sol, Pizza Vignoli, Casa de Juja, Sao Joao da Carne de Sol.",
+        "fontes": []
+      },
+      {
+        "nome": "Lagoa da Jansen",
+        "perfil": "Foi polo de barzinhos e hoje esta 'meio caida', segundo o Viaje na Viagem. Hoteis economicos (Stop Way).",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "O aeroporto de Sao Luis fica na saida da cidade; as zonas hoteleiras estao a 30-35 minutos. Uber funciona bem e e o melhor meio de locomocao na cidade. Na madrugada de outubro/2024 o Viaje na Viagem cotou UberX a R$ 55 e Uber Comfort a R$ 65 do aeroporto ao hotel; o taxi do aeroporto roda por taximetro e custa pelo menos R$ 70. Alugar carro so vale se voce for seguir para os Lencois / Rota das Emocoes - para ficar na cidade, Uber sai mais barato e evita o problema de estacionar no centro historico. Para Alcantara, lanchas saem do Cais da Praia Grande (1h20, horario ditado pela mare). Para Barreirinhas sao 260 km / 4h de van (R$ 90 a R$ 140 por pessoa) ou taxi do aeroporto a R$ 750 por ate 4 pessoas; para Santo Amaro, 240 km / 4h, vans a R$ 90-100. O que evitar: bate-volta de um dia aos Lencois a partir de Sao Luis (quase 8 horas de estrada para 90-120 minutos de duna) e passear no centro historico em domingo ou segunda, quando quase tudo fecha.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.35
+      },
+      "carro-app": {
+        "kmh": 22,
+        "fatorRota": 1.45
+      },
+      "transporte-publico": {
+        "kmh": 14,
+        "fatorRota": 1.55
+      },
+      "veiculo-alugado": {
+        "kmh": 21,
+        "fatorRota": 1.45
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NAO ABRIMOS NENHUMA FONTE COM DADO CRIMINAL OFICIAL (SSP-MA) nesta pesquisa - o que segue e leitura de guia de viagem, nao estatistica. O Viaje na Viagem descreve o centro historico como 'nunca esteve tao limpo, organizado e seguro' para passear e fotografar de dia. A maioria dos clubes de reggae fica em bairros perifericos: a recomendacao explicita e ir e voltar de Uber e, se quiser ficar na area central, preferir Bar do Nelson (fim do Calhau), HabeasCopos (escadaria da Rua da Palma) ou Rotatoria Roots (Centro). Os arraiais de bumba-meu-boi sao descritos como ambientes seguros e frequentados por familias com criancas pequenas, com destaque para o Arraial do Ipem, 'particularmente bem-organizado'. Nao confirmamos nada sobre o centro historico a noite fora de sexta/sabado.",
+    "pegaTuristaAEvitar": [
+      "Bate-volta de um dia de Sao Luis aos Lencois Maranhenses - agencias vendem, mas sao quase 8 horas de estrada para 90-120 minutos de duna.",
+      "Ir ao centro historico no domingo (tudo fechado) ou na segunda (quase tudo fechado) e achar que a cidade e uma cidade fantasma.",
+      "Esperar museus funcionando: Casa do Maranhao e Casa da Festa estao fechadas e o Teatro Arthur Azevedo so recebe visita guiada na quarta a tarde.",
+      "Comprar a 'garrafa de cachaca com caranguejo dentro' da Casa das Tulhas achando que e produto gastronomico - e souvenir exotico."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "barreirinhas",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/como-chegar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-ficar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/332880"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Barreirinhas",
+    "regiaoId": "lencois-maranhenses",
+    "coords": {
+      "lat": -2.75413,
+      "lng": -42.82597
+    },
+    "altitudeM": 10,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Centro / beira-rio",
+        "perfil": "A pe dos tres restaurantes da Av. Beira-Rio (A Canoa, O Bambu, O Jacare), da Urra Beer e do footing noturno. Hospedagem majoritariamente basica; a mais bem estruturada da area central e a Pousada do Buriti.",
+        "fontes": []
+      },
+      {
+        "nome": "Estrada do Carnaubal / fora do centro (Porto Pregucas)",
+        "perfil": "Opcao mais confortavel da cidade (Porto Pregucas Resort, tres piscinas, uma com fundo de areia, Rio Pregucas nos fundos). A menos de 10 minutos de taxi do centro, R$ 20 por trecho.",
+        "fontes": []
+      },
+      {
+        "nome": "Boa Vista / beira-rio fora do centro (Encantes do Nordeste)",
+        "perfil": "Pousada com area de beira-rio bem aproveitada, onde funciona o restaurante Bambae (aberto a nao-hospedes). 10 minutos de taxi, R$ 25.",
+        "fontes": []
+      },
+      {
+        "nome": "Santo Amaro do Maranhao (base alternativa, 95 km)",
+        "perfil": "O 'file' dos Lencois: colado ao parque, com mais lagoas e lagoas que duram mais (ate meados de outubro). Em troca, quase nada para fazer a noite. Atencao: varias pousadas ficam em estradas de areia onde SO chega 4x4 (Vila Capininga, Vila do Junco, Quintal de Areias).",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Sao 260 km de Sao Luis, cerca de 4 horas de estrada asfaltada (em julho/2023 o Viaje na Viagem registrou as estradas em bom estado). Van porta a porta entre Sao Luis e Barreirinhas: R$ 90 a R$ 140 por pessoa por trecho, reservavel pela pousada; taxi do aeroporto de Sao Luis: R$ 750 por ate 4 passageiros. Ha voos da Azul (Cessna Caravan de 9 lugares) para o aeroporto de Barreirinhas, a menos de 10 minutos de taxi do centro - 55 minutos de Sao Luis, 1h05 de Parnaiba, operados 3x por semana em julho/2023, com passagens 'bastante salgadas'. Dentro da cidade, o taxi e tabelado: R$ 20 a R$ 25 por corrida, dependendo da localizacao da pousada. Para Atins: lancha regular de Barreirinhas, 1h15, R$ 70 (K-Beca, saida 12h) ou R$ 80 (Satur, saidas 12h30 e 16h), com transporte incluido ate a pousada. Para Santo Amaro: 95 km / 1h45; van a R$ 60 por pessoa (Mirotur, sai 13h de Barreirinhas e 6h de Santo Amaro), taxi R$ 350 ou transfer privativo em Hilux R$ 650 por ate 4. Para Parnaiba: 185 km asfaltados via Paulino Neves e Tutoia, 3h30; transfer compartilhado Rota Combo R$ 140, privativo em Hilux cerca de R$ 700. O QUE EVITAR: pegar a van regular no sentido Barreirinhas-Santo Amaro, que sai as 13h e inviabiliza qualquer passeio no dia; e sair por ultimo da Lagoa Bonita/Lagoa Azul - a fila da balsa do Rio Pregucas na volta pode passar de uma hora. Seu carro, mesmo 4x4, NAO pode entrar no parque nacional: so veiculos credenciados pelo ICMBio.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Nenhuma fonte com dado de seguranca publica sobre Barreirinhas foi aberta nesta pesquisa - nao temos como opinar com honestidade. Os riscos documentados na nossa fonte sao de natureza fisica e logistica, nao criminal: corrente forte do Rio Pregucas na praia do Bambae (ha pontos de mergulho, mas e preciso nao se afastar da beira), fila da balsa e estradas de areia que exigem 4x4 credenciado.",
+    "pegaTuristaAEvitar": [
+      "Fazer o circuito da Lagoa Bonita depois de meados de agosto esperando todas as lagoas cheias - e o circuito mais bonito de Barreirinhas, mas seca mais rapido.",
+      "Bate-volta de Barreirinhas a Atins (9 horas, pelo menos 3 delas chacoalhando em trilha de areia) quando daria para dormir em Atins.",
+      "Bate-volta de Barreirinhas a Santo Amaro por R$ 300 fazendo apenas o circuito basico da Lagoa das Andorinhas - se a lagoa e o objetivo, vale dormir em Santo Amaro.",
+      "Passeio de quadriciclo aos 'Pequenos Lencois': as lagoas nao sao tao cristalinas quanto as do parque nacional.",
+      "Circuito Travosa (saindo de Santo Amaro): a praia nao e bonita, e reta e tem mar cor de doce de leite, segundo nossa fonte."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "atins",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/como-chegar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-ficar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/quando-ir/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/sao-luis/como-chegar/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/416653173"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Atins",
+    "regiaoId": "lencois-maranhenses",
+    "coords": {
+      "lat": -2.57167,
+      "lng": -42.74275
+    },
+    "altitudeM": 5,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Vila de Atins (centrinho)",
+        "perfil": "A pe de La Pizza, Casa de Juja e dos pontos de embarque. Em Atins o ar-condicionado ja e padrao; so as pousadas de donos europeus 'arcondicionadofobicos' nao oferecem - confirme antes.",
+        "fontes": []
+      },
+      {
+        "nome": "Beira da praia de Atins",
+        "perfil": "Para intercalar dias de passeio com dias de nao fazer nada. A praia tem agua salobra e calma, areia e agua escuras - nao e praia bonita de postal, mas e bem servida de barracas (Cabana da Izabel, Estresse Zero, Mar Doce Lar, Bar.co, Charme Beach Bar). Na temporada de vento, o horizonte enche de velas de kitesurf.",
+        "fontes": []
+      },
+      {
+        "nome": "Pousadas de charme (Vila Aty, Santa Maria, Vila Vento, Rancharia Charme)",
+        "perfil": "Os destaques do Viaje na Viagem em Atins. A Vila Aty abriga o restaurante Okaru, aberto ao publico com reserva.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Atins fica na foz do Rio Pregucas e NAO e acessivel a carros de visitantes - de Sao Luis sao 260 km + 1 hora de barco, pelo menos 5 horas de viagem no total. O acesso padrao e a lancha regular de Barreirinhas (1h15): K-Beca R$ 70, saida 12h de Barreirinhas e 7h de Atins; Satur R$ 80, saidas 12h30 e 16h de Barreirinhas (a Satur nao trabalha aos sabados). A passagem inclui o transporte entre a pousada em Atins e o local de embarque. Precos de julho/2023. Alternativa mais proveitosa: fazer o passeio de voadeira pelo Rio Pregucas ate Cabure (R$ 140, 7 horas) e negociar com a agencia o desembarque em Atins - algumas oferecem a travessia Cabure-Atins de graca, outras cobram R$ 30 a R$ 40 por pessoa; combine horario para a pousada mandar jardineira ou quadriciclo buscar voce na praia. Dentro do povoado, locomocao e a pe, de quadriciclo ou de jardineira. Para Santo Amaro, a viagem e em duas etapas: lancha Atins-Barreirinhas as 7h e depois estrada. O QUE EVITAR: contar com carro proprio (voce vai deixa-lo estacionado em Barreirinhas) e programar passeio de lagoa em Atins depois do fim de agosto.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 3.8,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 16,
+        "fatorRota": 1.7
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.7
+      },
+      "veiculo-alugado": {
+        "kmh": 16,
+        "fatorRota": 1.7
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Nenhum dado de seguranca publica sobre Atins foi obtido nesta pesquisa. Atins e um povoado pequeno; os riscos documentados sao ambientais: agua salobra e correnteza na foz do Pregucas, sol forte nas dunas e deslocamentos noturnos por trilhas de areia sem iluminacao (use quadriciclo/jardineira da pousada a noite).",
+    "pegaTuristaAEvitar": [
+      "Programar Atins em setembro, outubro, novembro ou dezembro pelas lagoas: as lagoas de Atins secam mais cedo que as das outras bases (costumam aguentar ate fim de agosto). Nessa epoca Atins vale por praia, kitesurf e vida social, nao por lagoa.",
+      "Esperar praia paradisiaca: a areia e a agua de Atins sao escuras e a agua e salobra.",
+      "Tentar fotografar os planctons luminescentes - o efeito e lindo mas, segundo nossa fonte, nao e fotografavel por amadores.",
+      "Chegar em feriado de outubro/novembro sem reserva: o povoado lota com a elite de Sao Luis."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "parnaiba",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/parnaiba/onde-ficar/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/como-chegar/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/302702"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Parnaíba",
+    "regiaoId": "piaui-litoral",
+    "coords": {
+      "lat": -2.91475,
+      "lng": -41.7662
+    },
+    "altitudeM": 18,
+    "aeroportos": [
+      "PHB"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Centro historico / Porto das Barcas",
+        "perfil": "Casaroes e palacetes do inicio do seculo passado, quando Parnaiba era polo industrial do Nordeste. No Porto das Barcas ficam as agencias de passeio do Delta (da para 'fazer um shopping' pessoalmente) e uma filial da Sorveteria Araujo. Pousadas de charme: Casa de Santo Antonio (casarao restaurado por investidor portugues) e Vila Parnaiba.",
+        "fontes": []
+      },
+      {
+        "nome": "Saida para Luis Correia / praias",
+        "perfil": "Hoteis maiores e convencionais com boa relacao custo-beneficio (Arrey Hotel Beach) e o Carnaubinha Resort, a melhor opcao para familias, com parquinho aquatico e sauna.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Itaqui (Luis Correia)",
+        "perfil": "Na opiniao da nossa fonte, a melhor praia de Luis Correia: pouco ocupada e SEM transito de carros na areia. Tem o melhor bar de praia da regiao, o da pousada Vila Itaqui.",
+        "fontes": []
+      },
+      {
+        "nome": "Ilha das Canarias, dentro do Delta",
+        "perfil": "Para quem quer dormir no proprio Delta: a Casa de Caboclo fica na Ilha das Canarias, perto de uma das bocas, e organiza revoada de guaras, visita a vilarejo de catadores de caranguejo na Barra do Meio, encontro das aguas e safari noturno. Restaurante e ponto de parada de passeios privativos.",
+        "fontes": []
+      },
+      {
+        "nome": "Barra Grande do Piaui (70 km)",
+        "perfil": "Alternativa para quem quer dias de praia com charme. A fonte recomenda dividir a estada: Parnaiba para os passeios do Delta e de 7 Cidades, Barra Grande para descansar. Um leitor que foi em agosto/2026 relata que fez o Delta ficando em Barra Grande, mas o retorno e de noite, depois da revoada.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "O aeroporto de Parnaiba e operado pela Azul, com rota que muda com frequencia (em junho/2023, via Belo Horizonte, 2x por semana); ha tambem a rota regional da Azul Conecta em Cessna Caravan de 9 lugares ligando Canoa Quebrada, Fortaleza, Jericoacoara, Parnaiba, Barreirinhas e Sao Luis, com passagens caras. Comentarios de leitores em 2026 mencionam voos da Latam de Fortaleza - NAO CONFIRMAMOS. Taxi do aeroporto ao hotel em Parnaiba: R$ 40 a R$ 45; para Barra Grande do Piaui, R$ 200 a R$ 250. Se voce so vai fazer os passeios do Delta, NAO precisa de carro: os passeios saem do Porto dos Tatus, a 11 km do centro, e o transfer, quando nao incluido, custa cerca de R$ 20 a R$ 25 por passageiro. Para restaurantes, use o aplicativo 99. Vale alugar carro em tres casos: para fazer o Parque Nacional de 7 Cidades, para chegar ou sair por Teresina, ou para explorar as praias de Luis Correia e Barra Grande. DISTANCIAS: Barreirinhas 185 km / 3h30 (asfalto, via Paulino Neves e Tutoia); Teresina 335-345 km / 5h; aeroporto de Jericoacoara (Cruz) 210 km / 3h (asfaltado mas 'buraqueira' no trecho cearense - nao trafegue a noite); Barra Grande 70 km; Parque de 7 Cidades 140 km. Teresina-Parnaiba: taxi R$ 700 ate 4 passageiros (agendar por WhatsApp (86) 99936-9290), transfer de agencia R$ 750 a R$ 800, onibus Expresso Guanabara R$ 82 a R$ 107 (5 a 7 horas). Jericoacoara-Parnaiba: transfer privativo em Hilux a partir de R$ 700 (ate 4), compartilhado Rota Combo R$ 140 por pessoa (2a a sabado), onibus Expresso Guanabara R$ 48 a R$ 62 (5a e 6a). Barreirinhas-Parnaiba: Rota Combo R$ 140 compartilhado, privativo cerca de R$ 700, onibus Expresso Guanabara R$ 49 a R$ 65 (6a e domingo). O QUE EVITAR: devolver o carro em aeroporto diferente do de retirada sem contar a sobretaxa de R$ 1,20 por km de distancia entre os dois aeroportos; e dirigir a noite nos trechos entre Jericoacoara e Parnaiba. Precos declarados na fonte como de 2023.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NENHUM dado de seguranca publica sobre Parnaiba ou Luis Correia foi obtido nesta pesquisa - nao ha como opinar com honestidade. Os riscos documentados nas fontes abertas sao de outra natureza: transito de jipoes e carros na areia das praias de Atalaia/Armacao e do Coqueiro, em Luis Correia (motivo pelo qual a fonte prefere a praia do Itaqui, sem carros), e a recomendacao de nao trafegar a noite nas estradas entre Jericoacoara e Parnaiba.",
+    "pegaTuristaAEvitar": [
+      "Praia de Atalaia (ou da Armacao), em Luis Correia: na avaliacao da nossa fonte, e a menos interessante de todas, com urbanizacao precaria apesar de muito ocupada, e carros entrando na areia.",
+      "Fazer apenas o passeio de chalana/catamarao achando que viu o Delta: as embarcacoes grandes NAO trafegam nos canais mais estreitos e rasos e NENHUM roteiro delas inclui a revoada de guaras ao por do sol.",
+      "Esperar lagoas de Lencois nos 'Lencois Piauienses': a propria fonte diz que nao tem o mesmo encanto e que nao sabe se havera lagoas fora da temporada.",
+      "Contar com Tutoia como destino: perguntado por leitores, o guia responde que 'Tutoia nao tem graca' e nao tem conteudo sobre a cidade.",
+      "Passar dia inteiro num catamarao com ate 80 pessoas e musica alta esperando natureza silenciosa."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "sao-raimundo-nonato",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/serra-da-capivara/"
+      },
+      {
+        "url": "https://fumdham.org.br/visite/"
+      },
+      {
+        "url": "https://fumdham.org.br/museus/"
+      },
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/caatinga/lista-de-ucs/parna-da-serra-da-capivara"
+      },
+      {
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-pi/noticias/junho-ambiental-mpf-recomenda-retirada-de-barreiras-em-acessos-ao-parque-nacional-da-serra-da-capivara-pi"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/serra-da-capivara/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/302786"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "São Raimundo Nonato",
+    "regiaoId": "piaui-sertao",
+    "coords": {
+      "lat": -9.01498,
+      "lng": -42.68884
+    },
+    "altitudeM": 335,
+    "aeroportos": [
+      "THE"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 2,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Centro de Sao Raimundo Nonato",
+        "perfil": "Onde esta a melhor estrutura. Hotel Serra da Capivara Resort & Convention, totalmente renovado, e a opcao mais confortavel, com restaurante proprio e piscina para se refrescar na volta do parque; Mega Express Hotel tem boa relacao custo-beneficio; Pousada Zabele tem bom padrao; Real Hotel e a opcao mais economica. O Museu do Homem Americano fica a 2 km do centrinho.",
+        "fontes": []
+      },
+      {
+        "nome": "Sitio do Moco / proximidades do parque",
+        "perfil": "Para dormir perto dos sitios arqueologicos: o Albergue Serra da Capivara funciona no mesmo complexo da fabrica de ceramica, e a Casa Barreirinho fica a 30 km do centro, proxima ao parque. No povoado Sitio do Moco esta o restaurante Trilha da Capivara, o almoco caseiro de quem passa o dia no parque.",
+        "fontes": []
+      },
+      {
+        "nome": "Petrolina / Juazeiro (300 km, base de chegada)",
+        "perfil": "Base de entrada e saida mais provavel. Petrolina e rica e produzidinha, com porte de pequena capital; Juazeiro tem a orla mais bonita. Hoteis: Nobile Suites del Rio (o mais confortavel), Petrolina Palace (localizacao tradicional na orla), Ibis Petrolina (anexo ao River Shopping), Grande Hotel Juazeiro e Baia Cook.",
+        "fontes": []
+      },
+      {
+        "nome": "Teresina (510 km, base alternativa)",
+        "perfil": "Mais voos e precos melhores que Petrolina para algumas origens. Hoteis citados: Blue Tree Towers Rio Poty (beira-rio, boa piscina), Metropolitan (o mais confortavel, no centro de negocios) e Jockey Class (3 estrelas novinho, mais perto do bairro dos restaurantes).",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "ESTE E O DESTINO MAIS DIFICIL DE ALCANCAR DO PACOTE, e a logistica e o que decide se vale ir. A rota aerea da Azul entre Recife e Sao Raimundo Nonato foi SUSPENSA depois de apenas dois anos de operacao. O aeroporto mais proximo passou a ser PETROLINA (PE), a 300 km; a outra opcao e TERESINA, a 510 km. As estradas, segundo a fonte, estao em bom estado. Da para alugar carro em Petrolina ou Teresina. De onibus: a Gontijo opera Petrolina-Sao Raimundo Nonato em 6 horas (de Petrolina 2a, 5a e domingo; de Sao Raimundo 2a, 3a e 6a) e a Princesa do Sul faz Teresina-Sao Raimundo Nonato diariamente nos dois sentidos, em 8 horas. A Rota Combo faz transfers privativos de Petrolina ou Teresina para grupos de ate 6 pessoas. DENTRO DO DESTINO: os circuitos mais procurados ficam a 18 km (Desfiladeiro da Capivara) e a 30 km (Baixao da Pedra Furada) do centro da cidade; a entrada principal do parque esta a 28 km de Sao Raimundo Nonato, segundo uma segunda fonte. SE VOCE NAO ESTIVER DE CARRO PROPRIO, vai precisar contratar um taxi para acompanhar voce junto com o guia - o guia ou o hotel acham o taxista. NAO EXISTE van turistica nem agencia receptiva local organizando o acesso ao parque: tudo e montado por guia + carro. DICA DE ROTEIRO DA FONTE: aproveite a escala em Petrolina/Juazeiro, que rende passeio de barco pelo Sao Francisco (Vapor do Vinho, nos fins de semana), vinicola Ouro Verde do grupo Miolo em Casa Nova (BA), museus e artesanato. NAO CONFIRMAMOS: precos de aluguel de carro, valores atuais das passagens de onibus, precos do transfer da Rota Combo e valor da diaria de taxi local.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Nenhuma fonte com dado de seguranca publica sobre Sao Raimundo Nonato, Coronel Jose Dias, Petrolina ou Teresina foi aberta nesta pesquisa - nao vamos opinar. O risco documentado aqui e outro e e juridico/operacional: o MPF emitiu recomendacao (noticia de 16/06/2026) para que o municipio de Coronel Jose Dias RETIRE tendas, portoes, barreiras e outras estruturas instaladas em estradas e acessos que obstruem a entrada e a circulacao na unidade de conservacao federal, e nao condicione a entrada no parque ao pagamento da TPAT (Taxa de Preservacao Ambiental e Turistica, instituida pela Lei Complementar Municipal 241/2025). Na pratica, isso significa que voce pode encontrar barreira de cobranca no acesso - um conflito em andamento, nao uma taxa pacificada.",
+    "pegaTuristaAEvitar": [
+      "Chegar no parque sem guia achando que contrata na entrada: NAO DA. E preciso chegar ja acompanhado de um guia credenciado.",
+      "Aceitar pagar a TPAT como se fosse ingresso do parque: a entrada no Parque Nacional da Serra da Capivara e GRATUITA segundo a FUMDHAM, co-gestora, e o MPF recomendou que o municipio nao condicione o acesso ao pagamento da taxa.",
+      "Reservar hospedagem contando com conforto de capital: a fonte descreve a hospedagem da cidade como 'basica (porem limpinha)'.",
+      "Programar chegada na segunda ou terca contando com os museus: o Museu do Homem Americano abre apenas de quarta a domingo.",
+      "Reduzir Petrolina a 'aeroporto mais proximo' - a fonte considera isso a grande falha das antigas materias sobre a Serra da Capivara."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "jericoacoara",
+    "fontes": [
+      {
+        "url": "https://diariodoturismo.com.br/taxa-de-turismo-jericoacoara-2026-veja-valor-atualizado-e-quem-precisa-pagar/"
+      },
+      {
+        "url": "http://www.jijocadejericoacoara.ce.gov.br/"
+      },
+      {
+        "url": "https://speedgov.com.br/satjij/servlet/com.satweb.gerataxaturs"
+      },
+      {
+        "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/justica-suspende-cobranca-de-ingresso-no-parque-nacional-de-jericoacoara/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/dicas-jericoacoara.html"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/15-coisas-viajar-para-jericoacoara"
+      },
+      {
+        "url": "https://quantocustaviajar.com/brasil/jericoacoara/onde-ficar"
+      },
+      {
+        "url": "https://www.travelsafe-abroad.com/br/brasil/jericoacoara/"
+      },
+      {
+        "url": "https://www.mochileiros.com/topic/82401-locomo%C3%A7%C3%A3o-em-jericoacoara"
+      },
+      {
+        "url": "https://lorenzigo.com/best-time-to-visit-jericoacoara/"
+      },
+      {
+        "url": "https://locations.thekitespot.com/locations/kitesurf-jericoacoara-prea-brazil"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/302593"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Jericoacoara",
+    "regiaoId": "ceara",
+    "coords": {
+      "lat": -2.89863,
+      "lng": -40.45061
+    },
+    "altitudeM": 18,
+    "aeroportos": [
+      "JJD"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Frente para o mar / perto da Duna do Pôr do Sol",
+        "perfil": "O trecho premium, você sai da pousada e está na praia e na duna.",
+        "fontes": []
+      },
+      {
+        "nome": "Rua Principal",
+        "perfil": "O eixo de comércio, restaurantes, forró e carrinhos de caipirinha. Mais movimento e mais barulho à noite.",
+        "fontes": []
+      },
+      {
+        "nome": "Rua São Francisco",
+        "perfil": "Mais calma, concentra pousadas econômicas.",
+        "fontes": []
+      },
+      {
+        "nome": "Rua das Dunas",
+        "perfil": "Calma, com muitas pousadas.",
+        "fontes": []
+      },
+      {
+        "nome": "Rua do Forró",
+        "perfil": "Entre a São Francisco e a Principal, mais tranquila que a Principal mas perto de tudo.",
+        "fontes": []
+      },
+      {
+        "nome": "Rua da Igreja",
+        "perfil": "Parte alta da vila, com acesso à trilha da Pedra Furada.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "DENTRO DA VILA: ruas de areia, sem asfalto, e carro de passeio NÃO circula — você anda a pé, e é a pé que se chega à Duna do Pôr do Sol, à Pedra Furada, ao Serrote e às praias vizinhas. Lagoas, mangue, Tatajuba e Preá só de buggy/4x4 com guia. Quadriciclo também não entra nas ruas da vila. JIJOCA → JERI: o trecho final (cerca de 15 km de areia) é feito em jardineira ou 4x4. Preço por trecho DIVERGE entre fontes: uma fonte de 2024 cita cerca de R$ 12,50 e outras citam R$ 25 a R$ 40 por pessoa — NÃO confirmei o valor vigente, confirme no local. AEROPORTO JJD (Comandante Ariston Pessoa, em Cruz) fica a cerca de 30 a 33 km da vila, 40 min a 1 h, boa parte em 4x4 por estrada de areia. Há três operadores credenciados para esse trecho: a agência Potiassu e as cooperativas Cooptur Preá e Coopetac (Táxi Cruz). Valores citados: transfer 4x4 compartilhado até Jeri cerca de R$ 80 por pessoa e privativo cerca de R$ 300 por carro de até 4 — PREÇOS DE SETEMBRO DE 2024, provavelmente defasados. VOO vs. 4x4 DE FORTALEZA: voar para JJD (Azul, Gol, Latam e VoePass operam o aeroporto) troca uma travessia terrestre longa por 40 min a 1 h de transfer. O transfer terrestre saindo de Fortaleza é o trajeto clássico e leva o dia; NÃO consegui fechar a duração real desse transfer em fonte confiável nesta sessão — o guia que a detalharia (viajenaviagem) devolveu 403. Planeje como 'dia de deslocamento', não como meia manhã.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 3.8,
+        "fatorRota": 1.25
+      },
+      "carro-app": {
+        "kmh": 18,
+        "fatorRota": 1.6
+      },
+      "transporte-publico": {
+        "kmh": 15,
+        "fatorRota": 1.7
+      },
+      "veiculo-alugado": {
+        "kmh": 18,
+        "fatorRota": 1.6
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Jeri é uma vila pequena e a vila central e a praia principal, de dia, são as áreas mais tranquilas. Um agregador de segurança (travelsafe-abroad) dá índice 65, 'risco médio'. O que aparece em fonte com algum detalhe: há posto policial na vila com cerca de 12 policiais; há relato de assalto no caminho da Pedra Furada; e há furto em barraca lotada, nas áreas de pôr do sol e nos passeios de lagoa. O ponto concreto e específico de Jeri é a ILUMINAÇÃO: a vila não tem iluminação pública forte e as ruas são de areia, então o risco real é tropeçar e se perder, não só furto. Leve lanterna ou use a do celular, e evite as ruas de areia escuras longe do centro, as dunas e as praias vazias depois do pôr do sol. NÃO existe dado oficial de criminalidade por rua em Jeri — qualquer número por bairro seria inventado.",
+    "pegaTuristaAEvitar": [
+      "Comprar o pacote de passeios fechado na pousada sem comparar: as agências da vila costumam sair mais barato e aceitam negociação, principalmente em dinheiro e fora da alta temporada.",
+      "Propostas de time-share abordando turista na entrada de beach club de lagoa (relato de uma fonte só, mas é barato se precaver).",
+      "Caipirinha e coquetel de beach club na hora do pôr do sol: uma fonte chama o ClubVentos de 'o pôr do sol mais caro da vila', com coquetéis de R$ 40 a R$ 55. A Duna do Pôr do Sol em si é gratuita.",
+      "Contar com cartão estrangeiro: uma fonte diz que está sendo cada vez mais recusado. PIX é universal."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "fortaleza",
+    "fontes": [
+      {
+        "url": "https://diariodonordeste.verdesmares.com.br/ceara/passagem-de-onibus-em-fortaleza-sobe-para-r-540-a-partir-de-1-de-janeiro-1.3712107"
+      },
+      {
+        "url": "https://www.opovo.com.br/noticias/fortaleza/2025/11/22/passagem-de-onibus-em-fortaleza-tera-aumento-de-rs-090-e-passara-a-custar-rs-540-em-2026.html"
+      },
+      {
+        "url": "https://www.opovo.com.br/noticias/seguranca-publica/2026/06/10/fortaleza-tem-queda-de-62-nos-homicidios-em-2026.html"
+      },
+      {
+        "url": "https://www.travelsafe-abroad.com/br/brasil/fortaleza/"
+      },
+      {
+        "url": "https://www.coopertaxifortaleza.com.br"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-FOR-transporte"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Fortaleza"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/onde-ficar-em-fortaleza-ce"
+      },
+      {
+        "url": "https://www.quintoandar.com.br/guias/cidades/mercado-dos-peixes-de-fortaleza/"
+      },
+      {
+        "url": "https://beachpark.com.br/contato/perguntas-frequentes/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/302588"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Fortaleza",
+    "regiaoId": "ceara",
+    "coords": {
+      "lat": -3.79322,
+      "lng": -38.52804
+    },
+    "altitudeM": 7,
+    "aeroportos": [
+      "FOR"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Meireles / Beira Mar",
+        "perfil": "Orla nobre, calçadão, maior concentração de hotéis e restaurantes; apontado como o mais seguro para turista e com policiamento na Beira Mar.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia de Iracema",
+        "perfil": "Boêmio e cultural, ao lado do Dragão do Mar; a praia é imprópria para banho por causa de aterros antigos. Bom perto dos equipamentos culturais, arriscado nos trechos isolados.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Futuro",
+        "perfil": "O melhor mar para banho e as megabarracas, mas fica deserto à noite e tem pouca hotelaria.",
+        "fontes": []
+      },
+      {
+        "nome": "Aldeota",
+        "perfil": "Residencial e de shoppings, descrito como mais tranquilo; sem praia.",
+        "fontes": []
+      },
+      {
+        "nome": "Mucuripe",
+        "perfil": "Pesqueiro, com o Mercado dos Peixes; poucos hotéis, mais flats.",
+        "fontes": []
+      },
+      {
+        "nome": "Centro",
+        "perfil": "Comercial. Bom de dia para Mercado Central e Catedral; desaconselhado para hospedagem e para andar à noite.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Ônibus urbano: tarifa inteira R$ 5,40 desde 01/01/2026 (era R$ 4,50), estudantil R$ 1,50 e 'hora social' R$ 3,90 em dias úteis das 9h às 11h e das 14h às 16h — confirmado por duas fontes (Diário do Nordeste e O Povo, 22/11/2025). Não confirmei se o pagamento a bordo aceita dinheiro ou só cartão. O Aeroporto Pinto Martins fica a cerca de 9 km do centro (Wikipedia); do desembarque saem as linhas 404, 066 e 027, das 5h às 23h, pelo subsolo do terminal — essa informação vem de um portal de terceiros com a tarifa antiga de R$ 4,50, então a tarifa da linha do aeroporto NÃO está confirmada. A Coopertáxi tem balcão no desembarque e no portão 4, com reserva em (85) 3477-5549, mas o site oficial dela NÃO publica tabela de tarifas: nenhum valor de táxi aeroporto→Meireles foi confirmado (as fontes de terceiros variam de R$ 27 a R$ 75, o que é incompatível entre si). Uber e 99 embarcam no Nível 1; valor da corrida não confirmado. Conte 20 a 30 min até o Meireles. O QUE EVITAR: ônibus à noite e terminais como o da Parangaba, apontados como ponto de furto; andar com o celular na mão na orla. Para Cumbuco (~30 km), a ida de aplicativo sai por volta de R$ 60, mas a VOLTA por aplicativo é difícil — combine o retorno antes de ir, porque o táxi local cobra cerca de R$ 100.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.6,
+        "fatorRota": 1.28
+      },
+      "carro-app": {
+        "kmh": 23,
+        "fatorRota": 1.4
+      },
+      "transporte-publico": {
+        "kmh": 15,
+        "fatorRota": 1.5
+      },
+      "veiculo-alugado": {
+        "kmh": 22,
+        "fatorRota": 1.4
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Com dado oficial: de janeiro a maio de 2026 Fortaleza registrou 125 CVLIs (crimes violentos letais intencionais) contra 337 no mesmo período de 2025, queda de 62,9% segundo a SSPDS noticiada por O Povo em 10/06/2026. Ou seja, a letalidade caiu muito, mas o risco prático ao turista não é homicídio: é FURTO e ROUBO DE CELULAR, classificados como risco ALTO por um agregador de segurança (travelsafe-abroad, mar/2026, índice geral 40/100). Por bairro, só há avaliação qualitativa: Meireles é o mais recomendado e tem policiamento na Beira Mar; Praia de Iracema é boa perto do Dragão do Mar e arriscada nos trechos isolados; Praia do Futuro só de dia e dentro dos estabelecimentos; Centro de dia, nunca à noite. O mesmo agregador lista como áreas a evitar Bom Jardim, Jangurussu, Conjunto Palmeiras e os terminais de ônibus. NÃO consegui taxa de homicídio por 100 mil habitantes nem estatística de roubo por bairro turístico — não existe aqui um dado por bairro, e qualquer afirmação mais fina do que isso seria invenção.",
+    "pegaTuristaAEvitar": [
+      "Barraca de praia sem preço na mesa: combine o valor por quilo do peixe/camarão E a taxa de preparo ANTES de pedir. No Mercado dos Peixes o modelo é escolher o pescado e pagar uma cozinha para fritar, e a própria fonte diz que 'pode haver taxa de preparo'.",
+      "Caranguejo 'à vontade' na Praia do Futuro: pergunte se é por unidade ou rodízio antes de sentar — não achei nenhuma tabela de preço publicada de nenhuma barraca.",
+      "Comprar ingresso do Pirata Bar no caixa: a fonte diz que sai mais barato comprando nos hotéis. O valor em reais NÃO está confirmado em lugar nenhum.",
+      "City tour genérico vendido na orla que inclui 'paradas' em lojas de artesanato — você paga por tempo de compra."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "canoa-quebrada",
+    "fontes": [
+      {
+        "url": "https://pt.wikipedia.org/wiki/Canoa_Quebrada"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Canoa_Quebrada"
+      },
+      {
+        "url": "https://aracati.ce.gov.br/pontosturisticos.php"
+      },
+      {
+        "url": "https://www.aracati.ce.gov.br/secretaria.php?sec=46"
+      },
+      {
+        "url": "https://www.buson.com.br/passagem-de-onibus/aracati-ce/aracati-canoa-quebrada-ce"
+      },
+      {
+        "url": "https://diariodonordeste.verdesmares.com.br/estilo-de-vida/viagem/canoa-quebrada-onde-fica-como-chegar-e-o-que-fazer-1.3523323"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-canoa-quebrada-18-157-p.html"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/canoa-quebrada-ce/"
+      },
+      {
+        "url": "https://quantocustaviajar.com/blog/canoa-quebrada"
+      },
+      {
+        "url": "https://www.fortransfer.com.br/blog/passeio-buggy-canoa-quebrada-reservar/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3734765048"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Canoa Quebrada",
+    "regiaoId": "ceara",
+    "coords": {
+      "lat": -4.52447,
+      "lng": -37.70574
+    },
+    "altitudeM": 29,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Centrinho / Broadway",
+        "perfil": "No eixo de bares e restaurantes. Máximo de agito e de barulho à noite.",
+        "fontes": []
+      },
+      {
+        "nome": "Frente mar / falésias",
+        "perfil": "Pousadas e bangalôs com vista para o mar e para as falésias, mais calmo e mais caro.",
+        "fontes": []
+      },
+      {
+        "nome": "Majorlândia",
+        "perfil": "A 6 km de Canoa, mar mais agitado, praia pouco comercial. Para quem quer silêncio.",
+        "fontes": []
+      },
+      {
+        "nome": "Aracati (cidade)",
+        "perfil": "A 12 km. Mais barato e com o centro histórico, mas sem praia na porta.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Canoa Quebrada é caminhável: a vila, a Broadway e a praia se fazem a pé. Para ir além (falésias vizinhas, Majorlândia, Quixaba, Lagoa do Mato, Ponta Grossa) o transporte é buggy, jardineira ou quadriciclo. Bugre e moto-táxi circulando dentro de Canoa NÃO foram confirmados em nenhuma fonte. ARACATI → CANOA: 12 km. Ônibus das viações São Benedito / Princesa dos Inhamuns por cerca de R$ 4, aproximadamente 30 min, saindo do Terminal Rodoviário Assis Nogueira. Táxi ou van levam cerca de 20 min, preço não confirmado. FORTALEZA → CANOA: cerca de 163 km, pela CE-040 passando por Eusébio, Aquiraz, Cascavel, Beberibe e Fortim, depois BR-304. De ônibus é a Viação São Benedito, saindo da rodoviária de Fortaleza, em 3h15 a 4h. O PREÇO DA PASSAGEM ESTÁ EM CONFLITO GRAVE entre as fontes: R$ 46,13 em uma reportagem sem data visível e R$ 18 a R$ 18,50 em guias antigos. Trabalhe com 'a partir de cerca de R$ 46' e confirme na empresa. Não há ônibus direto do aeroporto de Fortaleza, que fica a cerca de 175 km de Canoa.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "SEJA HONESTO COM O USUÁRIO AQUI: não existe nenhum dado oficial de segurança de Canoa Quebrada ou de Aracati que eu tenha conseguido abrir. O que há são relatos. Um deles vem do site de uma pousada local — portanto parte interessada, mas o relato é desfavorável ao destino, o que lhe dá algum peso — e fala de assaltos sobretudo à noite e em locais pouco movimentados, recomendando não ostentar objetos de valor e andar em grupo à noite por ruas iluminadas. Um guia colaborativo (antigo) afirma que assaltos a quem voltava da praia de madrugada eram cada vez mais frequentes. A mesma fonte antiga menciona o trecho do Freedom Bar como lugar a não voltar a pé e sozinho. Trate como: destino pequeno e tranquilo de dia, com cuidado padrão de noite no caminho de volta da Broadway e da praia. A mesma fonte observa que a rodovia de acesso pode fechar com chuva forte.",
+    "pegaTuristaAEvitar": [
+      "Fechar buggy sem combinar roteiro: o preço varia por duração, número de paradas e número de pessoas, e o skibunda pode ser cobrado à parte. Pergunte preço total, quantas paradas, quanto tempo e o que está incluído antes de embarcar.",
+      "Preço de passeio de buggy com divergência enorme entre fontes (R$ 140 a R$ 300 para o mesmo passeio local de 1 a 1,5 h, até 4 pessoas). Isso significa que há espaço de negociação e também espaço para sobrepreço.",
+      "Parapente / ultraleve: os valores que achei vão de R$ 50 (fonte antiga) a R$ 270, e NÃO consegui confirmar nem o operador. Não feche sem ver o preço escrito.",
+      "Garrafinha de areia colorida em Morro Branco: as fontes só dizem 'regateie'. Nenhum preço de referência foi confirmado."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "natal",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/ultimas/mprn-chamamento-bugueiros-credenciados/"
+      },
+      {
+        "url": "https://agorarn.com.br/ultimas/sindibuggy-rn-espera-fiscalizacao-praias-rn/"
+      },
+      {
+        "url": "https://agorarn.com.br/ultimas/cerveja-e-refrigerante-por-r-36-e-barraca-a-r-130-o-que-diz-o-procon-natal-sobre-os-precos-cobrados-em-ponta-negra/"
+      },
+      {
+        "url": "https://agorarn.com.br/policia/homem-preso-golpes-passeios-turisticos/"
+      },
+      {
+        "url": "https://agorarn.com.br/ultimas/suspeito-aplicar-golpes-em-turistas-natal/"
+      },
+      {
+        "url": "https://maladeaventuras.com/onde-ficar-em-natal-rn"
+      },
+      {
+        "url": "https://www.grupodicas.com/onde-ficar-hospedado-em-natal/"
+      },
+      {
+        "url": "https://unchartedlens.com/routes/brazil/natal-airport-to-ponta-negra-via-costeira-transfers/"
+      },
+      {
+        "url": "https://www.airportsdata.net/airport-NAT-transportation/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-natal-20-188-p.html"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Natal"
+      },
+      {
+        "url": "https://www.wheltour.com.br/passeio/passeio-de-buggy-litoral-norte-genipabu-compartilhado"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/301091"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Natal",
+    "regiaoId": "rio-grande-do-norte",
+    "coords": {
+      "lat": -5.8054,
+      "lng": -35.20809
+    },
+    "altitudeM": 28,
+    "aeroportos": [
+      "NAT"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Ponta Negra",
+        "perfil": "A mais turística: praia, calçadão, restaurantes, vida noturna no Alto de Ponta Negra e vista do Morro do Careca. Onde a maioria se hospeda.",
+        "fontes": []
+      },
+      {
+        "nome": "Via Costeira",
+        "perfil": "Eixo de resorts entre o centro e Ponta Negra. Tranquilo, com policiamento descrito como bom, mas quase sem comércio — você depende de carro ou aplicativo para comer fora.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia dos Artistas / Praia do Meio",
+        "perfil": "Central, mais econômica e mais local, perto do Forte dos Reis Magos e do Centro de Turismo. Tem piscinas naturais de arrecife. Uma fonte aponta descuido na estrutura.",
+        "fontes": []
+      },
+      {
+        "nome": "Areia Preta",
+        "perfil": "Vizinha da Praia dos Artistas. Perfil detalhado não confirmado.",
+        "fontes": []
+      },
+      {
+        "nome": "Lagoa Nova",
+        "perfil": "Residencial, não é na praia; o mais barato com bom acesso.",
+        "fontes": []
+      },
+      {
+        "nome": "Centro",
+        "perfil": "Menos atraente para hospedagem; segurança pior à noite.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Natal é espalhada e as atrações ficam em eixos diferentes (Ponta Negra ao sul, Via Costeira no meio, Praia dos Artistas e Forte no centro). Aplicativo (Uber/99) é o que os guias recomendam para turista; transporte público à noite é apontado como risco. ATENÇÃO, ISSO QUEBRA ROTEIRO: o aeroporto NÃO fica em Natal. O Aeroporto Internacional Governador Aluízio Alves (NAT) fica em São Gonçalo do Amarante. As fontes divergem na distância: 22 km (guia), 26 km (Wikipedia) e 30 km (portal setorial) até o CENTRO de Natal, e 31 a 45 km até PONTA NEGRA, que é onde a maioria se hospeda. Conte cerca de 50 min de carro, e 15 a 20 min a mais no pico de dias úteis (7h-9h e 17h-19h). Custos citados, todos de fontes de terceiros e nenhum de tabela oficial: táxi R$ 80 a R$ 120; aplicativo 20% a 30% mais barato que o táxi, o que dá por volta de R$ 56 a R$ 96; transfer privativo R$ 100 a R$ 180 por veículo; transfer compartilhado R$ 25 a R$ 40 por pessoa. NÃO há tabela oficial de táxi confirmada. ÔNIBUS NÃO VAI DIRETO A PONTA NEGRA: a Linha R (Trampolim da Vitória) liga o aeroporto ao Midway Mall e à rodoviária, de cerca de 4h20 às 22h45, e a tarifa aparece como R$ 4,85 em uma fonte e R$ 5,40 em outra — não confirmada. Com baldeação até Ponta Negra dá cerca de 2 h no total. Com bagagem, não vale.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.6,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 25,
+        "fatorRota": 1.4
+      },
+      "transporte-publico": {
+        "kmh": 15,
+        "fatorRota": 1.5
+      },
+      "veiculo-alugado": {
+        "kmh": 24,
+        "fatorRota": 1.4
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NÃO encontrei estatística oficial de criminalidade por bairro de Natal, e por isso não apresento nenhuma. O que existe é avaliação qualitativa de guias e um agregador (travelsafe-abroad) que dá índice 52/100, 'risco médio', mas com apenas 1 avaliação de usuário — ou seja, com pouquíssimo peso estatístico. Riscos citados por essa fonte: furto, roubo de celular, sobrepreço de táxi e de ambulante, e roubo em lugar isolado à noite. Apontados como mais tranquilos: Ponta Negra, Via Costeira e o Parque das Dunas de dia. A evitar: praia vazia à noite, ônibus público à noite, duna isolada sem guia credenciado e rua escura sozinho. Há, isso sim, um dado concreto de CONSUMO em Ponta Negra: o Procon-Natal tratou de relatos de cobrança abusiva em barraca de praia, incluindo R$ 36 por uma cerveja e um refrigerante e um caso de R$ 160 por 1 h de barraca. O Procon só atua em estabelecimento com CNPJ; quiosque e ambulante vão para a Semurb.",
+    "pegaTuristaAEvitar": [
+      "Barraca de praia em Ponta Negra sem preço combinado: há caso documentado pelo Procon de R$ 160 por uma hora de barraca com uma cerveja e um refrigerante. Pergunte o valor da barraca, da cadeira e da bebida antes de sentar.",
+      "Oferta de 'subir no Morro do Careca' ou fazer esquibunda nele: o acesso à duna está FECHADO à visitação desde 1997 para conter erosão. Quem vende isso está vendendo algo proibido.",
+      "Passeio de buggy muito abaixo da média: o compartilhado roda por volta de R$ 175 a R$ 205 por pessoa e as extras obrigatórias somam cerca de R$ 30 por pessoa. Oferta muito mais barata provavelmente corta roteiro ou não é credenciada.",
+      "Parrachos de Maracajaú muito baratos: o passeio roda R$ 190 a R$ 300 por adulto. Uma oferta de cerca de R$ 90 provavelmente é 'praia sem recife' — confirme se o barco entra nos parrachos."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "pipa",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/?p=779659"
+      },
+      {
+        "url": "https://agorarn.com.br/?p=1021569"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/transportes-praia-pipa-19-171-p.html"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-praia-pipa-19-165-p.html"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/onde-ficar-praia-da-pipa.html"
+      },
+      {
+        "url": "https://www.360meridianos.com/pipa-como-chegar/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Tibau_do_Sul"
+      },
+      {
+        "url": "https://vivepipa.com/en/useful-information/how-to-get/"
+      },
+      {
+        "url": "https://www.tabuademares.com/br/rio-grande-do-norte/tibau-do-sul"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/13114000"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Pipa",
+    "regiaoId": "rio-grande-do-norte",
+    "coords": {
+      "lat": -6.23726,
+      "lng": -35.04416
+    },
+    "altitudeM": 40,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Av. Baía dos Golfinhos (Centro)",
+        "perfil": "A melhor localização: lojas, restaurantes, bares e a feirinha noturna na porta. Em troca, barulho de noite.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Amor",
+        "perfil": "Boa alternativa, a 20 a 30 min a pé do centro, mais calma.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Madeiro",
+        "perfil": "Pousadas e hotéis no alto da falésia, com vista. Fica a mais de 30 min a pé do centro, então você depende de van ou táxi.",
+        "fontes": []
+      },
+      {
+        "nome": "Chapadão",
+        "perfil": "NÃO confirmado como região de hospedagem — é mirante. Não ofereça como bairro.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Dentro de Pipa dá para andar a pé: todas as praias do centro se alcançam caminhando, e uma fonte chega a dizer que 'usar carro em Pipa é desnecessário'. Referências de distância a pé: Chapadão cerca de 20 min pela Av. Baía dos Golfinhos; a escadaria do Madeiro mais de 40 min. Há vans de linha com paradas marcadas a partir de R$ 1,50 (sobe conforme a distância) e táxis. Uber existe em Natal, mas há pouca oferta DENTRO de Pipa. Moto-táxi NÃO foi confirmado em nenhuma fonte. Aluguel autônomo de buggy ou quadriciclo também NÃO foi confirmado — o que existe é passeio guiado com operador. O centro é de pedestres, então hospedagem com estacionamento ajuda quem vai de carro. NATAL → PIPA: cerca de 80 km da zona hoteleira de Natal e cerca de 95 a 99 km do aeroporto; 1h45 a 2h de carro por BR-101/BR-304 até Goianinha e depois RN-003. De ônibus, cerca de 2 h da rodoviária de Natal, e o PREÇO ESTÁ EM CONFLITO entre as fontes: R$ 10,50 (Expresso Oceano, 7 saídas por dia, 2 em domingo e feriado), R$ 18 (Viação Riograndense, página de 2020) e R$ 26 (Riograndense, guia) — confirme empresa e valor na rodoviária. Van compartilhada do aeroporto cerca de R$ 60; transfer R$ 100 por pessoa ou R$ 190 ida e volta, e privativo até 4 pessoas R$ 330; aplicativo R$ 150 a R$ 160 do aeroporto; táxi do aeroporto R$ 200 a R$ 260.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Não há estatística de criminalidade de Pipa por bairro que eu tenha conseguido abrir, e o site da Prefeitura de Tibau do Sul não abriu. O que existe de concreto é UM caso noticiado: em 04/06/2026, por volta das 18h, perto de um empreendimento em Pipa, dois homens armados abordaram um turista e levaram cordão, anéis e pulseiras; o turista relatou não haver policiamento visível, que havia posto policial a cerca de 150 m e que a viatura levou mais de uma hora, e disse ter ouvido de moradores relatos parecidos. É fonte única e notícia regional — não transforme isso em 'Pipa é perigosa'. Sobre a fama de furto na praia: NÃO confirmei nenhuma estatística de furto em Pipa. As dicas genéricas de não deixar celular e carteira à vista apareceram em textos sobre outros estados. O que está documentado em fonte de Pipa é outra coisa, e vale mais: preço alto de comida e consumação mínima nas barracas do Madeiro e da Praia do Amor.",
+    "pegaTuristaAEvitar": [
+      "Barraca na Praia do Madeiro e na Praia do Amor: há consumação mínima, especialmente na alta temporada, e os preços são descritos como notadamente altos. Pergunte o valor da consumação mínima antes de se sentar.",
+      "Fotógrafo e bebida no Chapadão: as bebidas no mirante são caras e há fotógrafos oferecendo serviço. O mirante em si é gratuito.",
+      "Passeio de buggy com preço só combinado de boca: as faixas publicadas variam de R$ 350 a R$ 950 por buggy de até 4 pessoas, dependendo do roteiro e da fonte. Confirme o valor e se inclui a taxa da balsa e a taxa ambiental ANTES de embarcar.",
+      "Esperar pôr do sol sobre o mar no Chapadão: a costa de Pipa é voltada para LESTE. O Chapadão é ponto de NASCER do sol; o pôr do sol sobre a água é na Lagoa de Guaraíras, em Tibau do Sul."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "joao-pessoa",
+    "fontes": [
+      {
+        "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_Presidente_Castro_Pinto"
+      },
+      {
+        "url": "https://www.viajaquepassa.com.br/aeroporto-joao-pessoa/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-a-joao-pessoa-109-1111-p.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/onde-ficar-em-joao-pessoa"
+      },
+      {
+        "url": "https://jornaldaparaiba.com.br/_/217532"
+      },
+      {
+        "url": "https://jornaldaparaiba.com.br/_/215309"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Pessoa"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Cabo_Branco_(Jo%C3%A3o_Pessoa)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/301405"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "João Pessoa",
+    "regiaoId": "paraiba",
+    "coords": {
+      "lat": -7.1216,
+      "lng": -34.88203
+    },
+    "altitudeM": 42,
+    "aeroportos": [
+      "JPA"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Tambaú",
+        "perfil": "A base turística: mais hotéis e restaurantes, calçadão, ciclovia, o Mercado de Artesanato e a saída dos catamarãs para o Picãozinho. Prédios baixos.",
+        "fontes": []
+      },
+      {
+        "nome": "Cabo Branco",
+        "perfil": "Mais tranquilo e 'nobre', na ponta sul, perto da Estação Cabo Branco, do farol e da Ponta do Seixas. A avenida da orla fecha para carros todos os dias das 5h às 8h para caminhada e bicicleta.",
+        "fontes": []
+      },
+      {
+        "nome": "Manaíra",
+        "perfil": "Shoppings, restaurantes e comércio; descrito como 'mais restaurantes que praia' e de bom custo-benefício.",
+        "fontes": []
+      },
+      {
+        "nome": "Bessa",
+        "perfil": "A praia mais bonita e calma ('Caribessa' no verão), bairro residencial, mas com menos hotéis e comércio e a cerca de 30 min das áreas principais.",
+        "fontes": []
+      },
+      {
+        "nome": "Cabedelo",
+        "perfil": "Tem as praias mais bonitas (Camboinha, Poço, Ponta da Campina) e a Praia do Jacaré, mas pouquíssima hospedagem.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "O Aeroporto Internacional Presidente Castro Pinto (JPA) fica em Bayeux. As distâncias DIVERGEM entre fontes: 7,5 km do centro e 22 km de Tambaú (Wikipedia), ou 11 km do centro, 15 km de Tambaú e 21 km de Cabo Branco (outro guia). Trabalhe com cerca de 20 a 22 km e 40 min até Tambaú. Operado pela Aena desde 24/02/2020, com Gol, Azul e LATAM. Custos citados: aplicativo UberX por volta de R$ 50 e Confort até R$ 70, com embarque na saída esquerda do desembarque; táxi credenciado (Transtaxi) por volta de R$ 100 até Tambaú, com taxímetro e bandeira 2 mais cara; transfer compartilhado R$ 130 por pessoa. Nenhum desses é tabela oficial. ÔNIBUS DO AEROPORTO: em CONFLITO e NÃO confirmado — uma fonte cita a linha 510 Aeroporto/Tambaú a R$ 5,20 com cartão TOP (2024) e outra diz que não há linha direta e que é preciso baldear no Terminal do Varadouro. Nenhuma das duas abriu com sucesso. Recomende aplicativo ou táxi. NA CIDADE: aplicativo é o mais prático. Tambaú, Cabo Branco e Manaíra ficam a cerca de 10 km do centro e da rodoviária. Para a Praia do Jacaré, em Cabedelo, são cerca de 13 km de Tambaú, uns 20 min, por volta de R$ 20 a R$ 27 de aplicativo.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.7,
+        "fatorRota": 1.25
+      },
+      "carro-app": {
+        "kmh": 26,
+        "fatorRota": 1.35
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.45
+      },
+      "veiculo-alugado": {
+        "kmh": 25,
+        "fatorRota": 1.35
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "AQUI HÁ DADO OFICIAL, e ele é desconfortável: segundo o Anuário de Segurança Pública da Paraíba noticiado pelo Jornal da Paraíba, em 2025 João Pessoa ficou em 6º lugar entre as capitais brasileiras em taxa de CVLI, atrás de Maceió, Recife, Porto Velho, Fortaleza e Salvador. Os bairros com mais mortes violentas em 2025 foram Gramame (50), Cristo Redentor (25), Varjão (13), Mangabeira (12), Ilha do Bispo (11) e Mandacaru (10), e a Zona Sul subiu de 77 para 110 mortes (+43%). IMPORTANTE E HONESTO: Tambaú, Cabo Branco, Manaíra e Bessa NÃO aparecem nessa lista de maior letalidade. Mas isso é AUSÊNCIA NA LISTA, não um índice próprio de cada bairro — não é a mesma coisa que 'são seguros'. Não encontrei nenhum dado de roubo ou furto por bairro turístico. Guias de viagem dizem que Tambaú e Cabo Branco são 'seguros e caminháveis', mas isso é opinião de blog, sem número por trás. Recomende cuidado padrão de capital: celular guardado na orla e caminhar à noite por vias iluminadas.",
+    "pegaTuristaAEvitar": [
+      "Cadeira e guarda-sol na praia sem preço combinado: NÃO há regulamentação de preço em João Pessoa — o projeto está parado na Câmara desde janeiro de 2024. Combine o valor antes de sentar e não aceite 'consumação mínima' como condição para usar a cadeira.",
+      "City tour do Centro Histórico vendido na orla: um guia local avalia o tour de R$ 55 como fraco e com muitas paradas de compras, embora diga que a Igreja de São Francisco vale a visita por si.",
+      "Preço do catamarã do Jacaré varia de R$ 35 a R$ 90 entre as fontes, com a mais recente (jan/2026) no topo da faixa. Confirme o que está incluído (bebida, snorkel, transfer) antes de pagar.",
+      "Restaurantes de frutos do mar na orla: um guia local lista explicitamente como NÃO recomendados Nau Frutos do Mar, Olho de Lula, Navegantes e Vignoli. É opinião de uma fonte só, mas vale como sinal de alerta."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "recife",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/303585"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Recife",
+    "regiaoId": "pernambuco",
+    "coords": {
+      "lat": -8.05849,
+      "lng": -34.88482
+    },
+    "altitudeM": 9,
+    "aeroportos": [
+      "REC"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 20,
+        "fatorRota": 1.45
+      },
+      "transporte-publico": {
+        "kmh": 14,
+        "fatorRota": 1.55
+      },
+      "veiculo-alugado": {
+        "kmh": 19,
+        "fatorRota": 1.45
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "porto-de-galinhas",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/253251568"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Porto de Galinhas",
+    "regiaoId": "pernambuco",
+    "coords": {
+      "lat": -8.50468,
+      "lng": -35.005
+    },
+    "altitudeM": 5,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "fernando-de-noronha",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/303650"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Fernando de Noronha",
+    "regiaoId": "fernando-de-noronha",
+    "coords": {
+      "lat": -3.85375,
+      "lng": -32.4198
+    },
+    "altitudeM": 79,
+    "fusoOffsetMinutos": -120,
+    "aeroportos": [
+      "FEN"
+    ],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "maceio",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/303815"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Maceió",
+    "regiaoId": "alagoas",
+    "coords": {
+      "lat": -9.64768,
+      "lng": -35.73393
+    },
+    "altitudeM": 46,
+    "aeroportos": [
+      "MCZ"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.6,
+        "fatorRota": 1.28
+      },
+      "carro-app": {
+        "kmh": 24,
+        "fatorRota": 1.4
+      },
+      "transporte-publico": {
+        "kmh": 15,
+        "fatorRota": 1.5
+      },
+      "veiculo-alugado": {
+        "kmh": 23,
+        "fatorRota": 1.4
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "maragogi",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/303809"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Maragogi",
+    "regiaoId": "alagoas",
+    "coords": {
+      "lat": -9.01183,
+      "lng": -35.22251
+    },
+    "altitudeM": 40,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "sao-miguel-dos-milagres",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/303830"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "São Miguel dos Milagres",
+    "regiaoId": "alagoas",
+    "coords": {
+      "lat": -9.26722,
+      "lng": -35.37631
+    },
+    "altitudeM": 25,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "aracaju",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/aracaju/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/aracaju/o-que-fazer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/aracaju/onde-comer/"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/aracaju/como-chegar/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/303928"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aracaju",
+    "regiaoId": "sergipe",
+    "coords": {
+      "lat": -10.91621,
+      "lng": -37.07747
+    },
+    "altitudeM": 16,
+    "aeroportos": [
+      "AJU"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Orla de Atalaia",
+        "perfil": "Onde esta a maioria dos hoteis, a 5 km do aeroporto. Orla urbanizada com ciclovia, parquinhos, lagos, Oceanario, Memorial de Sergipe, Arcos de Atalaia e a Passarela do Caranguejo, com bares e restaurantes. A praia e rasinha, de ondas pequenas e agua turva. Bom para quem quer tudo a pe.",
+        "fontes": []
+      },
+      {
+        "nome": "13 de Julho / Jardins",
+        "perfil": "O bairro mais elegante, cuja avenida principal bordeja um manguezal transformado em parque, com o Calcadao da 13 de Julho a beira-rio. Concentra restaurantes e gastrobares (Sensi, La Tavola, Fabrica Massas, Carne de Sol do Ramiro na regiao de Sao Jose). Nao e pe na areia.",
+        "fontes": []
+      },
+      {
+        "nome": "Aruana",
+        "perfil": "A sugestao explicita do guia para quem quer praia com criancas e pe na areia. Tem o Aruana al Mare, a barraca charmosa mais proxima da zona hoteleira (sem moveis de plastico, sem musica alta e sem cobrar day-use), e o Aruana Eco Hotel com o restaurante Sollo. A 5 km da Passarela do Caranguejo.",
+        "fontes": []
+      },
+      {
+        "nome": "Mosqueiro",
+        "perfil": "Ultima praia de Aracaju, onde fica a Orla Por do Sol, as margens do Vaza-Barris, ponto de embarque para a Croa do Gore e a Ilha dos Namorados, e o beach club mais badalado da cidade, o Duna Beach. A 15 km da Passarela do Caranguejo.",
+        "fontes": []
+      },
+      {
+        "nome": "Piranhas (AL), base para o Xingo",
+        "perfil": "Nao e Aracaju, mas e onde o guia recomenda montar base para o Canion do Xingo: cidade historica charmosinha a 210 km, do lado alagoano, ligada a Sergipe por ponte. Com uma segunda noite da para acrescentar a Grota do Angico, ligada a historia de Lampiao e Maria Bonita.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "O aeroporto de Aracaju tem localizacao muito conveniente: 5 km da orla de Atalaia, onde esta a maioria dos hoteis (15 minutos com transito fluido), e 11 km do centro. COTACOES DE OUTUBRO DE 2026 publicadas pelo Viaje na Viagem: Uber do aeroporto para a Orla de Atalaia R$ 17 (UberX) / R$ 21 (Comfort); praia de Aruana R$ 21 / R$ 26; Shopping Rio Mar R$ 23 / R$ 29; bairro 13 de Julho R$ 24 / R$ 30; Centro R$ 29 / R$ 37 - lembrando que a tarifa do Uber e dinamica. Taxi comum roda por taximetro, com bandeira 2 a noite e nos domingos: uma corrida ate a orla da Atalaia deve sair uns R$ 25 durante o dia. Taxi especial da Comtaju, contratado no guiche da cooperativa, segue tabela por zona, de R$ 30 (orla da Atalaia mais proxima) a R$ 75 (pontos mais distantes). Para circular pela cidade, Uber, taxi e carro alugado todos funcionam; Uber funciona bem. Alugar carro faz sentido sobretudo para passeios aos arredores e para seguir ao Xingo. Atencao: estacionar no Centro e, nos fins de semana, na Orla, nao e facil, e ha blitze de lei seca de dia e de noite. DISTANCIAS DE CARRO: Caninde de Sao Francisco (Xingo) 200 km / 3h30 via Gloria e Itabaiana; Piranhas (AL) 210 km / 3h45; Sao Cristovao cerca de 26 km; Praia do Saco cerca de 70 km; Mangue Seco 100 km / 1h pela Linha Verde sergipana; Penedo 122 km / 2h10 com travessia de balsa; Maceio 270 km / 4h; Salvador 330 km / 5h. O QUE EVITAR: bate-volta de um dia de Aracaju ao Canion do Xingo - sao cerca de 7 horas de estrada somadas ida e volta para um passeio de barco e um almoco.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.7,
+        "fatorRota": 1.25
+      },
+      "carro-app": {
+        "kmh": 27,
+        "fatorRota": 1.35
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.45
+      },
+      "veiculo-alugado": {
+        "kmh": 26,
+        "fatorRota": 1.35
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NENHUM dado de seguranca publica sobre Aracaju (SSP-SE ou equivalente) foi obtido nesta pesquisa - qualquer afirmacao nossa aqui seria invencao. O que as fontes abertas registram sao riscos de outra ordem: blitze de lei seca de dia e de noite, dificuldade de estacionar no Centro e na Orla nos fins de semana, radares em sequencia na estrada para o Xingo com limite de 50 km/h em varios trechos (relato de leitor do guia), e a dependencia da mare para o passeio da Croa do Gore. A propria fonte descreve Aracaju como 'um desses lugares que despertam no forasteiro a sensacao de ter descoberto um lugar onde morar pode ser ainda mais interessante do que visitar' - impressao, nao estatistica.",
+    "pegaTuristaAEvitar": [
+      "Bate-volta de um dia de Aracaju ao Canion do Xingo: ha excursoes, mas o guia NAO recomenda - sao cerca de 200 km e 3h30 por trecho, somando 7 horas de estrada para um passeio de barco de 3 horas e um almoco.",
+      "Esperar agua azul nas praias urbanas: a beira-mar de Aracaju e rasinha e de coloracao turva; as aguas mais azuis da cidade estao na Praia dos Artistas, de faixa de areia estreita, e as mais bonitas do estado estao na Praia do Saco, a 70 km.",
+      "Ir ao Teleferico, ao Museu da Gente Sergipana, ao Memorial de Sergipe ou ao Oceanario numa segunda-feira: Museu da Gente, Memorial e Oceanario fecham segunda, e o Memorial fecha tambem domingo e feriados.",
+      "Ir a Croa do Gore sem checar a mare: o banco de areia so aparece na mare baixa.",
+      "Reservar Mangue Seco e Praia do Saco no mesmo dia: Mangue Seco envolve travessia de barco pelo rio Real a partir do Pontal e passeio de buggy pelas dunas."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "salvador",
+    "fontes": [
+      {
+        "url": "https://www.correio24horas.com.br/salvador/reajuste-da-passagem-de-onibus-em-salvador-entra-em-vigor-na-segunda-5-veja-quanto-fica-0126"
+      },
+      {
+        "url": "https://atarde.com.br/politica/sem-aumento-metro-de-salvador-nao-tera-reajuste-na-passagem-1374885"
+      },
+      {
+        "url": "https://www.bahianoticias.com.br/noticia/301693-apos-10-meses-fechado-elevador-lacerda-sera-reaberto-nesta-terca-feira"
+      },
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/elevador-lacerda/"
+      },
+      {
+        "url": "https://www.bahianoticias.com.br/noticia/176370-o-pelourinho-tem-o-menor-indice-de-criminalidade-de-salvador-diz-tenente-pm.html"
+      },
+      {
+        "url": "https://sacavoyage.fr/en/zones-a-eviter-et-quartiers-dangereux-a-salvador-de-bahia/"
+      },
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/mercado-modelo/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/362362"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Salvador",
+    "regiaoId": "bahia-salvador",
+    "coords": {
+      "lat": -12.98225,
+      "lng": -38.48128
+    },
+    "altitudeM": 34,
+    "aeroportos": [
+      "SSA"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Rio Vermelho",
+        "perfil": "Bairro boêmio e gastronômico, acarajé da Dinha no Largo de Santana, bares e música ao vivo; praia de Rio Vermelho não é a melhor para banho, mas o bairro é o mais vivo à noite.",
+        "fontes": []
+      },
+      {
+        "nome": "Barra / Ondina",
+        "perfil": "Orla com Porto da Barra e Farol da Barra (as duas melhores praias urbanas para banho), Museu Náutico, pôr do sol; policiamento mais visível e vida noturna de rua.",
+        "fontes": []
+      },
+      {
+        "nome": "Pelourinho / Centro Histórico",
+        "perfil": "Dorme dentro do cartão-postal, tudo a pé (igrejas, museus, Elevador Lacerda). Em compensação, à noite o bairro esvazia fora dos dias de programação e é o endereço que mais divide opinião sobre segurança.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Salvador tem metrô (2 linhas, tarifa R$ 4,10 em 2026, sem reajuste desde 2025 segundo a Sedur) e ônibus urbano/BRT/STEC a R$ 5,90 desde 5 de janeiro de 2026. Com o Salvador Card dá para integrar até três modais mais o metrô pagando uma tarifa só. Do aeroporto (SSA, Lauro de Freitas) ao centro: a Linha 2 do metrô tem estação no aeroporto e leva à Estação Acesso Norte/Pituaçu, de onde se integra; de carro de app são tipicamente 30-50 min até Barra/Rio Vermelho e mais até o Pelourinho, dependendo do trânsito - NÃO consegui confirmar faixa de preço oficial de táxi/app do aeroporto nesta sessão e por isso não registro valor. Dentro da cidade, o eixo turístico é Cidade Alta (Pelourinho/Centro Histórico) e Cidade Baixa (Comércio/Mercado Modelo), ligados pelo Elevador Lacerda (R$ 1,00; seg-sex 7h-22h, sáb/dom/feriado 7h-19h). Barra, Ondina e Rio Vermelho ficam na orla sul, ligados por ônibus e carro de app. Para Itaparica: ferry São Joaquim-Bom Despacho (Internacional Travessias) ou lancha Mercado Modelo-Mar Grande. Para Praia do Forte: 80 km pela BA-099 (Linha Verde), carro ou transfer. O que evitar: andar com celular à mostra na mão em orla e no Comércio; pegar táxi parado em ponto turístico sem combinar valor; contar com ônibus tarde da noite - prefira carro de app.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.2,
+        "fatorRota": 1.4
+      },
+      "carro-app": {
+        "kmh": 19,
+        "fatorRota": 1.5
+      },
+      "transporte-publico": {
+        "kmh": 13,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 18,
+        "fatorRota": 1.5
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Dado honesto, com as limitações: NÃO encontrei nesta sessão uma tabela pública e atual da SSP-BA por bairro, então o que segue é o que consegui abrir e deve ser lido como indício, não como estatística. A PM (18º Batalhão, declaração de 2015 ao Bahia Notícias) afirma que o Pelourinho tem os menores índices de criminalidade de Salvador e da Região Metropolitana - é uma área com policiamento concentrado e câmeras, mas a declaração é antiga e não vem acompanhada de números. Guias estrangeiros (sacavoyage) recomendam Barra, Ondina e Rio Vermelho como as melhores bases para turista, e dizem que Pelourinho e Santo Antônio podem ser caminhados de dia com atenção e devem ser evitados depois de escurecer; a mesma fonte lista como áreas a evitar Paripe, São Cristóvão, Engenho Velho de Brotas, Liberdade, Cassange, São Tomé e cita Itapuã. Leitura prática: o perigo real do turista em Salvador é furto e roubo de celular/bolsa, não crime violento dirigido - a cidade não é 'proibida', mas exige o comportamento de qualquer capital grande: nada de celular na mão andando, nada de joia, carro de app à noite em vez de caminhada longa, e não subir ladeiras vazias do Centro Histórico depois das 22h. Em praia, não deixar bolsa sozinha na areia.",
+    "pegaTuristaAEvitar": [
+      "Mercado Modelo: comprar na primeira loja sem pechinchar e sem comparar - são 263 lojas vendendo quase a mesma coisa, o preço cai quando você anda mais 20 metros.",
+      "Barracas de praia que não mostram cardápio com preço: combine o valor da porção e da bebida ANTES, especialmente em praias de orla com muito movimento.",
+      "'Guia' que se oferece na entrada do Pelourinho sem credencial e cobra valor aberto no fim do passeio - combine preço e duração antes ou use agência.",
+      "Grupo de capoeira ou baiana de acarajé que posa para foto e cobra depois - pergunte se cobra e quanto antes de erguer a câmera."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-morro-de-sao-paulo-15-103-p.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      },
+      {
+        "url": "https://www.correio24horas.com.br/salvador/vai-para-morro-de-sao-paulo-no-feriado-veja-os-horarios-e-tarifas-dos-catamaras-1125"
+      },
+      {
+        "url": "https://www.morrodesaopaulocatamara.com/post/horarios-lancha-valenca-morro-de-sao-paulo"
+      },
+      {
+        "url": "https://www.morrodesaopaulocatamara.com/post/cairu-arquipelago"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/416655489"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Morro de São Paulo",
+    "regiaoId": "bahia-dende",
+    "coords": {
+      "lat": -13.37755,
+      "lng": -38.916
+    },
+    "altitudeM": 38,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Segunda Praia",
+        "perfil": "O agito: barracas na areia, festas noturnas, tudo a pé do centrinho. Dorme perto do som - não é lugar de quem quer silêncio.",
+        "fontes": []
+      },
+      {
+        "nome": "Terceira Praia",
+        "perfil": "Meio-termo: mar calmo com piscininhas na maré baixa, saída dos barcos de passeio, calçadão com restaurantes, ainda caminhável até o centro.",
+        "fontes": []
+      },
+      {
+        "nome": "Quarta Praia",
+        "perfil": "4 km de areia, hotéis maiores e resorts, piscinas naturais com peixes na maré baixa; mais sossego e mais dependência de transporte/caminhada para o centrinho.",
+        "fontes": []
+      },
+      {
+        "nome": "Centro (Vila)",
+        "perfil": "Perto do cais, dos restaurantes baratos e das agências; prático para chegada/saída e para quem quer gastar menos.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Morro de São Paulo é a vila do distrito de Cairu na Ilha de Tinharé e NÃO tem carro: você desembarca no cais, sobe uma ladeira e circula a pé por vielas de areia; carregadores levam a bagagem em carrinho de mão (cobrança combinada na hora, não consegui confirmar tabela). As praias são numeradas a partir do centrinho - Primeira, Segunda, Terceira, Quarta e Quinta (do Encanto) - e se caminha de uma para outra pela areia, com atenção à maré: trechos entre praias e o caminho a pé até a Gamboa (cerca de 40 min) só são possíveis na maré baixa. Chegando de Salvador: catamarã do Terminal Náutico, cerca de 2h20-2h30, com saídas de manhã e no começo da tarde; a travessia é em mar aberto na Baía de Todos os Santos, a volta costuma ser mais balançada e enjoo é comum - quem tem labirintite deve considerar o 'semi-terrestre' (ferry + van + lancha, cerca de 4h30) ou voar. De Valença (123 km de Salvador) saem lanchas rápidas (40 min) e barcos lentos (1h30) do Terminal Hidroviário, de hora em hora durante o dia. Há táxi-aéreo de Salvador (cerca de 25 min). Dentro da ilha, para Garapuá e Gamboa usa-se 4x4, quadriciclo ou táxi-boat. O que evitar: chegar com mala de rodinha grande (areia e ladeira), e contar com o catamarã em dia de mar ruim - a travessia é cancelada por condição de navegação.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 3.6,
+        "fatorRota": 1.4
+      },
+      "carro-app": {
+        "kmh": 10,
+        "fatorRota": 1.8
+      },
+      "transporte-publico": {
+        "kmh": 10,
+        "fatorRota": 1.8
+      },
+      "veiculo-alugado": {
+        "kmh": 10,
+        "fatorRota": 1.8
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Não encontrei nesta sessão nenhum dado oficial de criminalidade por praia ou por vila em Cairu, e não vou inventar. O que as fontes que abri sustentam é o perfil do lugar: vila pequena, sem carros, com circulação concentrada no centrinho e nas praias 1 a 4. O risco prático descrito é de furto em festa de praia e em quarto de pousada aberto, não de violência de rua. Cuidados objetivos que valem: caminhar pela areia entre praias à noite é escuro e tem trechos sem gente - prefira o calçadão; e a caminhada para a Gamboa na maré subindo é o risco físico real, não criminal.",
+    "pegaTuristaAEvitar": [
+      "Espreguiçadeira de barraca na Segunda Praia cobrada entre R$ 30 e R$ 70 sem aviso - pergunte o valor e se é consumível antes de sentar.",
+      "'Volta à ilha' vendida na rua sem saber a maré do dia: o passeio só entrega as piscinas naturais de Garapuá e Moreré com maré baixa.",
+      "Toca do Morcego cobra entrada (uma fonte cita cerca de R$ 60, variável) só para ver o pôr do sol - decida se vale antes de subir."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "itacare",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/praias-de-itacare/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/restaurantes-em-itacare-227-2976-p.html"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/noite-de-itacare-227-2970-p.html"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-a-barra-grande-e-peninsula-de-marau-222-2906-p.html"
+      },
+      {
+        "url": "https://www.seguroviagem.srv.br/blog/o-que-fazer-em-ilheus/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/362452"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Itacaré",
+    "regiaoId": "bahia-cacau",
+    "coords": {
+      "lat": -14.27794,
+      "lng": -38.99557
+    },
+    "altitudeM": 7,
+    "aeroportos": [
+      "IOS"
+    ],
+    "noitesRecomendadas": {
+      "min": 4,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Centro / Rua da Pituba (Pedro Longo)",
+        "perfil": "Tudo a pé: bares, restaurantes, agências, forró. É onde a noite acontece - e onde se ouve o som até tarde.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia da Concha",
+        "perfil": "Enseada de mar calmo, boa para família e para quem quer dormir perto da água sem ficar no meio do barulho; caminhada curta até a Pituba.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Resende / Tiririca",
+        "perfil": "Perfil surfe, pousadas com vista, ainda caminhável ao centro pelas pedras e pela trilha curta.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Itacaré fica 70 km ao norte de Ilhéus pela BA-001 (Estrada Parque, asfaltada, cerca de 1h30) e 66 km de Barra Grande/Maraú. O aeroporto de referência é Ilhéus (IOS); há ônibus Ilhéus-Itacaré por volta de R$ 26-36 e carro de app por volta de R$ 200 nesse trecho (fonte única, blog). A vila em si se caminha: a Rua Pedro Longo, conhecida como Rua da Pituba, concentra restaurantes, bares e lojas, e as praias urbanas (Concha, Resende, Tiririca, Costa, Ribeira) ficam a pé ou a poucos minutos de carro. As praias boas de verdade ficam ao sul, na BA-001: Jeribucaçu (carro + 30 min de trilha), Engenhoca e Havaizinho (carro + 30-40 min de trilha plana), Itacarezinho (acesso de carro direto) e Camboinha. As trilhas de Mata Atlântica têm bifurcações e NÃO são sinalizadas - a própria fonte recomenda guia. Carro alugado é o que dá liberdade; sem carro você depende de passeio fechado (o 'passeio das 4 praias' sai por cerca de R$ 170 por pessoa) ou de táxi. O que evitar: achar que dá para ir à Engenhoca de chinelo e sem água; e dirigir a BA-001 à noite - é estrada de mata, sem iluminação, com animais.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Não achei dado oficial de criminalidade por bairro em Itacaré nesta sessão. O risco documentado nas fontes que abri é físico, não criminal: trilhas sem sinalização com muitas bifurcações (Prainha, Engenhoca, Jeribucaçu), mar com correnteza forte em praias de surfe (Tiririca, Engenhoca, Costa - a Costa é descrita como 'mar perigoso', de contemplação) e trilha escorregadia em época de chuva. Cuidado urbano padrão de vila turística: não deixar mochila na areia enquanto entra no mar nas praias de trilha, que são vazias.",
+    "pegaTuristaAEvitar": [
+      "Day use de resort cobrado como se fosse acesso à praia: Itacarezinho cobra day use em torno de R$ 250 (com R$ 200 consumíveis) e estacionamento à parte; São José, via Itacaré Eco Resort, cerca de R$ 200 (R$ 100 consumíveis). A praia é pública - o que você está pagando é a estrutura.",
+      "Fechar passeio de trilha com quem não é condutor local só porque é mais barato: a trilha não é sinalizada."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "lencois",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeios-na-chapada-diamantina-221-2877-p.html"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-circular-na-chapada-diamantina-221-2880-p.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-mucuge-bahia/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/onde-comer-em-lencois-na-chapada-diamantina-ba/"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/acesso-a-cartao-postal-da-chapada-diamantina-fica-mais-caro-a-partir-de-abril-1382172"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/362510"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Lençóis",
+    "regiaoId": "chapada-diamantina",
+    "coords": {
+      "lat": -12.56153,
+      "lng": -41.38953
+    },
+    "altitudeM": 391,
+    "aeroportos": [
+      "LEC"
+    ],
+    "noitesRecomendadas": {
+      "min": 4,
+      "ideal": 6,
+      "max": 10
+    },
+    "bairros": [
+      {
+        "nome": "Centro Histórico de Lençóis",
+        "perfil": "Casario colorido, maior oferta de pousadas, agências, restaurantes e bares da região; base mais prática para quem vai fechar passeios.",
+        "fontes": []
+      },
+      {
+        "nome": "Vale do Capão (Palmeiras)",
+        "perfil": "Vila alternativa a 70 km de Lençóis por estrada de terra no trecho final; é a base mais curta para a Cachoeira da Fumaça (3 km de carro contra 80 km saindo de Lençóis) e para entrar no Vale do Pati.",
+        "fontes": []
+      },
+      {
+        "nome": "Mucugê",
+        "perfil": "Cidade tombada, pequena e tranquila, base muito melhor que Lençóis para Buracão, Poço Azul e Poço Encantado - encurta horas de carro por dia.",
+        "fontes": []
+      },
+      {
+        "nome": "Igatu (distrito de Andaraí)",
+        "perfil": "Vila de ruínas de pedra do garimpo, 'museu a céu aberto', tombada pelo Iphan; poucas pousadas, muito silêncio.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Lençóis é a porta de entrada da Chapada Diamantina: fica a cerca de 410 km de Salvador pela BR-242 e tem aeroporto próprio (voos limitados; uma fonte cita apenas quinta e domingo pela Azul). A regra de ouro da região é que SEM CARRO você se mexe muito mal - o transporte público é mínimo e os atrativos estão espalhados por 250 km de raio (Pai Inácio 26 km, grutas de Iraquara 45-73 km, Poço Azul 94 km, Poço Encantado cerca de 140 km, Buracão 250 km). Alugar carro em Salvador sai mais barato do que em Lençóis. A alternativa é fechar pacotes de agência (R$ 150 a R$ 420 por pessoa por dia, conforme o passeio), o que resolve logística e guia mas custa mais. Guia particular para até 4 pessoas gira em torno de R$ 150-200 por dia, sem transporte. Aviso de estrada: a BR-242 é descrita como perigosa, com muito caminhão e ultrapassagem irregular; e deixar carro parado dias seguidos em início de trilha longa pede cuidado com o que fica dentro. Dentro de Lençóis, o centro histórico é todo caminhável e alguns atrativos (Ribeirão do Meio, Parque da Muritiba/Serrano) saem a pé da cidade.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.2,
+        "fatorRota": 1.35
+      },
+      "carro-app": {
+        "kmh": 22,
+        "fatorRota": 1.6
+      },
+      "transporte-publico": {
+        "kmh": 18,
+        "fatorRota": 1.7
+      },
+      "veiculo-alugado": {
+        "kmh": 22,
+        "fatorRota": 1.6
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Na Chapada o risco relevante não é criminal e sim de montanha, e aqui não dá para ser leniente: trilhas sem marcação, mudança rápida de tempo no alto, cabeça-d'água em cachoeira na época de chuva e distâncias grandes sem sinal de celular. A fonte da Melhores Destinos é explícita ao dizer que a BR-242 é perigosa pelo tráfego de caminhões e que se deve cuidar do carro deixado parado em início de trilha de vários dias. Dentro de Lençóis, o centro histórico é pequeno, iluminado e movimentado à noite por causa dos bares - não encontrei nenhum alerta de segurança urbana específico em fonte aberta nesta sessão.",
+    "pegaTuristaAEvitar": [
+      "Fechar o 'combo de um dia' Pai Inácio + grutas + Pratinha achando que sobra tempo de banho: é o roteiro mais popular e também o mais corrido.",
+      "Ir ao Poço Encantado ou ao Poço Azul fora da janela de luz e achar que viu o fenômeno - sem sol e sem a hora certa, é uma caverna bonita e nada mais.",
+      "Gruta Azul: uma fonte registra que é menos preservada que as outras e que a visita rápida basta se você já viu Lapa Doce e Pratinha.",
+      "Cachoeira da Fumaça na seca: o guia registra que no período seco o volume de água cai muito e a 'fumaça' quase some."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "trancoso",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-trancoso/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/como-ir-para-arraial-dajuda"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://www.viagensecaminhos.com/caraiva-bahia/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praia-do-espelho-e-praia-dos-amores-224-6234-l.html"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/5268363"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Trancoso",
+    "regiaoId": "bahia-descobrimento",
+    "coords": {
+      "lat": -16.56769,
+      "lng": -39.19758
+    },
+    "altitudeM": 35,
+    "aeroportos": [
+      "BPS"
+    ],
+    "noitesRecomendadas": {
+      "min": 4,
+      "ideal": 5,
+      "max": 8
+    },
+    "bairros": [
+      {
+        "nome": "Quadrado",
+        "perfil": "O cartão-postal: casario colorido, igreja São João Batista do século 16, restaurantes caros e lojas de grife. Dormir aqui é caro e é o endereço mais bonito.",
+        "fontes": []
+      },
+      {
+        "nome": "Centro / Vila (fora do Quadrado)",
+        "perfil": "A poucas quadras, bem mais em conta, com mercado, farmácia e restaurantes de preço normal; tudo ainda a pé.",
+        "fontes": []
+      },
+      {
+        "nome": "Praia dos Nativos / Coqueiros",
+        "perfil": "Pé na areia, descida pela falésia até a praia; prático para quem quer praia e não quer depender de carro.",
+        "fontes": []
+      },
+      {
+        "nome": "Caraíva (para 1-2 noites)",
+        "perfil": "Vila de areia sem carro, forró até o sol nascer, rio e mar no mesmo lugar. Leve dinheiro em espécie: cartão nem sempre passa por falta de sinal.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Trancoso é distrito de Porto Seguro e fica a 23 km de Arraial d'Ajuda, 25 km da Praia do Espelho e 36-40 km de Caraíva. Não há transporte público dentro de Trancoso: você caminha no Quadrado e no centrinho e usa carro, van, táxi ou quadriciclo para o resto. Chegando: o aeroporto é Porto Seguro (BPS); de lá se atravessa o Rio Buranhém para Arraial d'Ajuda na balsa (24 horas, 10 minutos de travessia, pedestre R$ 5,50 e veículo R$ 20,75 em dia útil / R$ 25,75 em fim de semana e feriado, segundo fonte de blog) e segue por estrada. Van de Arraial a Trancoso sai por volta de R$ 16 (45 min) e de Caraíva a Arraial por volta de R$ 32 (2h20). NÃO há Uber em Arraial d'Ajuda e os táxis não têm taxímetro - trabalham com valor fechado, combine antes. Estacionar perto do Quadrado custa cerca de R$ 10. A estrada Trancoso-Caraíva é de terra e nem todo trecho está bom: carro alto ajuda, e chuva forte estraga o trecho e afeta até o ônibus. Caraíva não tem carro nenhum: você para do outro lado do rio e atravessa de canoa.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.3,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 24,
+        "fatorRota": 1.45
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 24,
+        "fatorRota": 1.45
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Não encontrei nesta sessão dado oficial de criminalidade para Trancoso, Caraíva ou Arraial d'Ajuda, e não vou estimar. Os riscos que as fontes abertas sustentam são de logística e de natureza: estrada de terra ruim entre Trancoso e Caraíva (pior na chuva), ausência total de carro dentro de Caraíva (emergência médica depende de travessia de canoa), travessia de rio de canoa que funciona mas é travessia de rio, e praias cujas piscinas naturais só aparecem na maré baixa - na maré alta a Praia do Espelho e a dos Amores se separam e a dos Amores só é acessível por trilha na falésia. Em Arraial d'Ajuda a observação prática de segurança econômica é a ausência de Uber e de taxímetro: combine valor antes.",
+    "pegaTuristaAEvitar": [
+      "Consumação mínima das barracas de praia em Trancoso: uma fonte registra faixa de R$ 50 a R$ 250 por pessoa conforme a praia e a barraca (dado de 2021, provavelmente defasado para cima) - pergunte o valor antes de sentar, sempre.",
+      "Restaurante do Quadrado escolhido pela foto: a mesma fonte diz que os do Quadrado são caros e que há opções melhores de preço algumas ruas adiante.",
+      "Praia do Espelho na maré alta: sem maré baixa não há piscina natural e não há o 'espelho' - é a armadilha clássica do destino.",
+      "Táxi Trancoso-Caraíva pedido sem negociar: a tarifa de referência citada é cerca de R$ 210, e motoristas pedem mais no primeiro preço."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  }
+]

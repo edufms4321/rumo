@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "br-ssa-pelourinho-centro-historico-de-salvador",
+    "fontes": [
+      {
+        "url": "https://bahia.ws/en/pelourinho-o-que-fazer-no-centro-historico-de-salvador/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Salvador"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Pelourinho (Centro Histórico de Salvador)",
+    "cidadeId": "salvador",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "unesco",
+      "a-pe",
+      "cultura-afro",
+      "igrejas"
+    ],
+    "coords": {
+      "lat": -12.9711,
+      "lng": -38.5108
+    },
+    "descricaoCurta": "Casario colonial colorido tombado pela Unesco, núcleo da cultura baiana - circular pelas ruas é de graça.",
+    "descricaoLonga": "Não há cobrança nenhuma para andar pelo Pelourinho: o que se paga é a entrada de igrejas e museus específicos. O miolo é o Terreiro de Jesus, de onde saem a Catedral Basílica, a Igreja e Convento de São Francisco, a Igreja de Nossa Senhora do Rosário dos Pretos e o Largo do Cruzeiro de São Francisco. Museus do quarteirão: Fundação Casa de Jorge Amado, Museu da Cidade, Museu Tempostal (cerca de 45 mil cartões-postais) e o Museu da Gastronomia Baiana. Um roteiro de meio-dia cobre Terreiro de Jesus + Catedral + Convento; um dia inteiro acrescenta a Fundação Jorge Amado e os museus, terminando no Largo do Cruzeiro no fim da tarde. Prático: é ladeira e degrau o tempo todo, use sapato fechado; confirme horário de cada atrativo porque fecham em dias diferentes. O que NÃO consegui confirmar: o valor atual do ingresso da Igreja e Convento de São Francisco - achei menções conflitantes (de cerca de R$ 5 a cerca de R$ 15-20) em fontes secundárias e nenhuma página oficial, então deixo sem preço de propósito. Também não confirmei a programação atual da Terça da Bênção.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-ssa-elevador-lacerda",
+    "fontes": [
+      {
+        "url": "https://www.bahianoticias.com.br/noticia/301693-apos-10-meses-fechado-elevador-lacerda-sera-reaberto-nesta-terca-feira"
+      },
+      {
+        "url": "https://www.bahianoticias.com.br/noticia/300814-tarifa-do-elevador-lacerda-tera-reajuste-de-560-saiba-novo-valor-da-passagem"
+      },
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/elevador-lacerda/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Elevador Lacerda",
+    "cidadeId": "salvador",
+    "categoria": "atracao",
+    "tags": [
+      "mirante",
+      "transporte",
+      "barato",
+      "cartao-postal"
+    ],
+    "descricaoCurta": "O elevador urbano que liga Cidade Alta e Cidade Baixa em 20 segundos, com a melhor vista grátis da Baía de Todos os Santos no topo.",
+    "descricaoLonga": "Inaugurado em 1873 e apresentado como o primeiro elevador urbano do mundo, liga o Comércio (Cidade Baixa) ao Centro Histórico (Cidade Alta) em cerca de 20 segundos, com cerca de 22 mil usuários por dia. Ficou fechado de abril de 2024 a 25 de fevereiro de 2025 para modernização (ar-condicionado, iluminação, revestimentos, novo sistema de bilhetagem) e reabriu com a tarifa reajustada de R$ 0,15 para R$ 1,00 - alta de 560%. Quem usa SalvadorCard (cartão do transporte público) tem gratuidade. ATENÇÃO À DIVERGÊNCIA: a página oficial do destino (salvadordabahia.com) ainda publica R$ 0,15, ou seja, está desatualizada; duas reportagens do Bahia Notícias (30/01/2025 e 24/02/2025) confirmam R$ 1,00 na reabertura. O horário bate nas duas fontes. A vista do terraço superior é aberta e não precisa pagar nada para olhar.",
+    "duracao": {
+      "min": 5,
+      "tipica": 15,
+      "max": 30
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 1,
+      "max": 1,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 1,00 por viagem desde a reabertura em 25/02/2025. Gratuito para usuários do SalvadorCard. A página oficial da cidade ainda mostra R$ 0,15 (desatualizada) - duas reportagens confirmam R$ 1,00. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(71) 3202-7655"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false,
+      "dependeDeMare": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-mercado-modelo",
+    "fontes": [
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/mercado-modelo/"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/bahiasalvador/requalificacao-do-mercado-modelo-e-entregue-pela-prefeitura-1252450"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Mercado Modelo",
+    "cidadeId": "salvador",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "souvenir",
+      "pechincha",
+      "moqueca",
+      "cidade-baixa"
+    ],
+    "descricaoCurta": "263 lojas de artesanato baiano na Cidade Baixa, entrada franca, restaurantes com vista da baía no andar de cima.",
+    "descricaoLonga": "Não se paga entrada. São 8.410 m², dois pavimentos e 263 lojas vendendo instrumentos, rendas, entalhes de madeira, couro, bonecas de baiana, imagens religiosas e souvenir em geral - o que significa que a mesma peça aparece em dezenas de lojas e o preço cai quando você pechincha e anda mais um pouco. O prédio neoclássico atual é de 1971 (o mercado nasceu em 1912 em outro endereço e mudou depois do incêndio de 1969), e passou por uma requalificação de R$ 17 milhões entregue em 18 de dezembro de 2023: telhado novo, subestação elétrica, rede hidráulica e de combate a incêndio, rampas de acessibilidade e elevador, mais banheiros e a reabertura do subsolo, fechado por mais de 10 anos. Dois restaurantes tradicionais funcionam ali: Maria de São Pedro (famoso pelo pastel de casquinha de siri, 9h-18h30 na maior parte dos dias) e Camafeu de Oxossi (caldos de camarão e moquecas, 11h-18h em dias de semana, com horário diferente no fim de semana). Fica colado no Elevador Lacerda, o que faz o par natural de programação.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 180
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(71) 3242-5860"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-fundacao-casa-de-jorge-amado",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/fundacao-casa-de-jorge-amado-em-salvador.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Fundação Casa de Jorge Amado",
+    "cidadeId": "salvador",
+    "categoria": "museu",
+    "tags": [
+      "literatura",
+      "pelourinho",
+      "mirante",
+      "interno"
+    ],
+    "descricaoCurta": "Casarão azul no Largo do Pelourinho com o acervo de Jorge Amado e Zélia Gattai, e janelas que são mirante do bairro.",
+    "descricaoLonga": "Aberta em 1987 no casarão azul do Largo do Pelourinho, guarda acervo literário e artístico de Jorge Amado e Zélia Gattai e funciona também como centro de pesquisa. A exposição tem documentos, mobiliário e objetos pessoais, e cada janela abre uma vista diferente do Pelourinho - o bairro que é cenário de Dona Flor e Seus Dois Maridos. Ingresso R$ 20 inteira e R$ 10 meia. Horário: segunda a sexta das 10h às 18h e sábado das 10h às 16h (fechada domingo). Vi menção em fonte secundária a gratuidade nas quartas, mas a fonte que abri não confirma isso para esta casa - não registro como certo. Combina com a Casa do Rio Vermelho, que é a outra casa-museu do escritor, do outro lado da cidade.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 10,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 20 inteira / R$ 10 meia, fonte única (guia Melhores Destinos). Não achei confirmação em página oficial nesta sessão. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false,
+      "dependeDeMare": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-casa-do-rio-vermelho-jorge-amado-e-zelia-gattai",
+    "fontes": [
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/casa-do-rio-vermelho/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa do Rio Vermelho (Jorge Amado e Zélia Gattai)",
+    "cidadeId": "salvador",
+    "categoria": "museu",
+    "tags": [
+      "literatura",
+      "rio-vermelho",
+      "jardim",
+      "quarta-gratis"
+    ],
+    "descricaoCurta": "A última casa onde Jorge Amado e Zélia Gattai viveram 40 anos, hoje memorial com jardim, biblioteca e projeções - grátis nas quartas.",
+    "descricaoLonga": "São cerca de 2.000 m² com jardim, biblioteca, sala de leitura (41 vídeos de leituras das obras feitas por gente conhecida, em tela de cinema), objetos pessoais, obras de arte e cartas, com visita guiada pelos ambientes. Ingresso R$ 20 inteira e R$ 10 meia, com entrada gratuita todas as quartas-feiras e desconto para morador de Salvador que comprovar residência. Funciona de terça a domingo, 9h às 17h, com última entrada às 16h - ou seja, chegue antes das 16h ou perde. Não abre em 24 e 25 de dezembro, 31 de dezembro, 10 de janeiro e durante a semana do Carnaval. Fica no Rio Vermelho, o que encaixa bem com jantar no bairro e com o acarajé do Largo de Santana no mesmo passeio. Esta informação vem da página oficial do destino Salvador, que é a fonte mais confiável que consegui para o item.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 20 inteira, R$ 10 meia, gratuito nas quartas-feiras; desconto para morador de Salvador com comprovante. Fonte: página oficial salvadordabahia.com. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(71) 3104-4659",
+      "whatsapp": "(71) 99626-1036",
+      "instagram": "@casadoriovermelho"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-farol-da-barra-e-museu-nautico-da-bahia",
+    "fontes": [
+      {
+        "url": "https://visitemuseu.com/museu-nautico-da-bahia-farol-da-barra-guia-completo-precos-horarios-e-obras-principais"
+      },
+      {
+        "url": "https://www.bahia.ws/conheca-as-23-praias-de-salvador-guia-completo-e-dicas/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Farol da Barra e Museu Náutico da Bahia",
+    "cidadeId": "salvador",
+    "categoria": "museu",
+    "tags": [
+      "farol",
+      "forte",
+      "por-do-sol",
+      "barra",
+      "cartao-postal"
+    ],
+    "descricaoCurta": "O farol mais fotografado do Brasil dentro do Forte de Santo Antônio, com museu de náutica e vista da baía.",
+    "descricaoLonga": "O museu ocupa o Forte de Santo Antônio da Barra (construção dos séculos 16-17) e reúne cartas náuticas antigas, modelos de navios, acervo de naufrágios e arqueologia subaquática e a história da sinalização marítima ligada ao farol; dá acesso ao pátio do forte com vista da baía e, conforme o dia, à subida do farol - a escada é estreita. Ingresso R$ 20 inteira, com meia e gratuidade para estudantes, professores, idosos, escolas públicas e pessoas com deficiência. Funciona todos os dias de 9h às 18h, com bilheteria fechando 17h30. Reserve 1h30 a 2h para museu + forte + farol. Importante: olhar o farol de fora, caminhar no largo e ver o pôr do sol dali não custa nada - a cobrança é só para entrar no forte/museu. A praia do Farol da Barra forma piscinas naturais nos recifes na maré baixa.",
+    "duracao": {
+      "min": 60,
+      "tipica": 105,
+      "max": 150
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 20,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 20 inteira; meia e gratuidades conforme categoria. Fonte única (portal de museus) - não localizei página oficial do museu nesta sessão. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(71) 3264-3296",
+      "whatsapp": "(71) 99925-0625"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-praia-do-porto-da-barra",
+    "fontes": [
+      {
+        "url": "https://www.bahia.ws/conheca-as-23-praias-de-salvador-guia-completo-e-dicas/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praias-salvador-16-124-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia do Porto da Barra",
+    "cidadeId": "salvador",
+    "categoria": "praia",
+    "tags": [
+      "banho",
+      "familia",
+      "por-do-sol",
+      "urbana",
+      "a-pe"
+    ],
+    "descricaoCurta": "A praia urbana mais fácil de Salvador: água calma, dentro da baía, boa para banho e com pôr do sol de frente.",
+    "descricaoLonga": "É a praia histórica e tradicional da cidade, voltada para dentro da Baía de Todos os Santos, o que explica o mar quase sem onda - duas fontes a apontam como a melhor opção urbana para banho e para família, com piscinas naturais na maré baixa. Fica em plena Barra, cercada de bares e quiosques, a caminhada do Farol da Barra. Por ser a praia mais fácil da cidade, enche: fim de semana e feriado são cheios de verdade. Vá de manhã ou no fim da tarde (o pôr do sol dali é um dos programas clássicos de graça da cidade). Prático: barraca de praia é privada, pergunte preço de porção e bebida antes de sentar, e não deixe bolsa sozinha na areia. Não encontrei fonte com tabela de preços de barraca nesta praia - não invento valores.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-praias-do-norte-de-salvador-stella-maris-e-flamengo",
+    "fontes": [
+      {
+        "url": "https://www.bahia.ws/conheca-as-23-praias-de-salvador-guia-completo-e-dicas/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praias-salvador-16-124-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praias do norte de Salvador: Stella Maris e Flamengo",
+    "cidadeId": "salvador",
+    "categoria": "praia",
+    "tags": [
+      "banho",
+      "surfe",
+      "faixa-larga",
+      "menos-cheia",
+      "carro"
+    ],
+    "descricaoCurta": "Faixas longas de areia na orla norte, com mar aberto, boa estrutura e menos gente que a Barra.",
+    "descricaoLonga": "Duas fontes convergem: Stella Maris e Flamengo são as melhores opções de praia tranquila ao norte do centro, com longas faixas de areia e boas condições de banho, estrutura de barracas e esportes aquáticos; Flamengo também aparece em listas de praia de surfe, junto com Amaralina, Armação e Corsário. Stella Maris e Itapuã formam piscinas naturais em recifes na maré baixa. O contraponto honesto: aqui o mar é aberto, não é a mesma piscina do Porto da Barra - respeite bandeira e correnteza, e o guia da Melhores Destinos é direto ao dizer que Itapuã 'não é convidativa para banho e pode ser perigosa em alguns pontos', apesar da vista bonita do farol. São praias de carro/app: ficam no caminho do aeroporto, o que as torna boa parada de primeiro ou último dia. Não consegui tabela de preço de barraca para registrar.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-restaurantes-do-mercado-modelo-maria-de-sao-pedro-e",
+    "fontes": [
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/mercado-modelo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Restaurantes do Mercado Modelo: Maria de São Pedro e Camafeu de Oxossi",
+    "cidadeId": "salvador",
+    "categoria": "restaurante",
+    "tags": [
+      "moqueca",
+      "casquinha-de-siri",
+      "vista",
+      "cidade-baixa",
+      "tradicional"
+    ],
+    "descricaoCurta": "Dois salões históricos no andar de cima do Mercado Modelo, com vista da baía - casquinha de siri e caldos de camarão.",
+    "descricaoLonga": "São os dois restaurantes tradicionais do Mercado Modelo, segundo a página oficial do destino. O Maria de São Pedro é famoso pelo pastel de casquinha de siri e funciona das 9h às 18h30 na maior parte dos dias. O Camafeu de Oxossi serve caldo de camarão e moquecas e tem vista da baía, funcionando das 11h às 18h em dias de semana, com horário ajustado no fim de semana. São a solução de almoço quando você já está no Comércio/Elevador Lacerda e não quer subir de novo. NÃO coletei faixa de preço de pratos em nenhuma fonte - não invento. Leia como almoço turístico de prédio histórico, não como alta gastronomia.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-ssa-aviso-onde-comer-em-salvador-o-que-eu-nao-consegui-v",
+    "fontes": [
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/mercado-modelo/"
+      },
+      {
+        "url": "https://www.bahia.ws/conheca-as-23-praias-de-salvador-guia-completo-e-dicas/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praias-salvador-16-124-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: onde comer em Salvador - o que eu NAO consegui verificar",
+    "cidadeId": "salvador",
+    "categoria": "experiencia",
+    "tags": [
+      "restaurantes",
+      "nao-verificado",
+      "aviso",
+      "moqueca",
+      "acaraje"
+    ],
+    "descricaoCurta": "Os unicos restaurantes de Salvador com fonte aberta neste arquivo sao os do Mercado Modelo. O resto sao pistas nao confirmadas.",
+    "descricaoLonga": "Transparencia total, porque isso afeta o roteiro: os UNICOS restaurantes de Salvador que eu consegui confirmar em pagina aberta sao os dois do Mercado Modelo - Maria de Sao Pedro (famoso pelo pastel de casquinha de siri, 9h-18h30 na maior parte dos dias) e Camafeu de Oxossi (caldo de camarao e moquecas com vista da baia, 11h-18h em dia de semana), ambos na pagina oficial do destino. Para o resto da cidade, eu esgotei a cota de busca e de leitura de paginas desta sessao antes de confirmar qualquer coisa. PISTAS NAO VERIFICADAS, que apareceram em resumos de busca e que eu NAO abri - trate como ponto de partida de pesquisa, nao como recomendacao: Acaraje da Dinha, no Largo de Santana (Rua Joao Gomes 25, Rio Vermelho), apontado como o acaraje mais famoso da cidade, hoje conduzido pela filha de Dinha; Paraiso Tropical, do chef Beto Pimentel, na Rua Edgar Loureiro 98-B, Resgate/Cabula, cuja moqueca usa a polpa e a agua do coco em vez de leite de coco industrializado; e o restaurante do Senac no Pelourinho, citado com 14 tipos de moqueca. NAO ha para nenhum desses: preco confirmado, horario, telefone ou confirmacao de que seguem abertos. O que SIM esta confirmado por duas fontes abertas e serve de orientacao: Rio Vermelho e o bairro com a cena gastronomica mais forte da cidade, e e por ali que se deve procurar jantar.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-noite-do-rio-vermelho",
+    "fontes": [
+      {
+        "url": "https://www.bahia.ws/conheca-as-23-praias-de-salvador-guia-completo-e-dicas/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/praias-salvador-16-124-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Noite do Rio Vermelho",
+    "cidadeId": "salvador",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "musica-ao-vivo",
+      "gastronomia",
+      "noite",
+      "a-pe"
+    ],
+    "descricaoCurta": "O bairro mais boêmio e gastronômico de Salvador: bares, música ao vivo e o acarajé da Dinha no mesmo quarteirão.",
+    "descricaoLonga": "Duas fontes convergem ao chamar o Rio Vermelho de bairro com a cena gastronômica e cultural mais forte da cidade, e de endereço de referência para comer e sair à noite - o guia de praias chega a dizer que Rio Vermelho e Ribeira interessam mais pela comida e pela noite do que pela praia em si. O circuito é caminhável: Largo de Santana (com o acarajé da Dinha), Largo da Mariquita e as ruas em volta concentram bares com música ao vivo. É a opção mais honesta de 'noite de Salvador' para quem não quer depender de programação do Pelourinho. O que NÃO consegui confirmar: nomes, endereços, dias de programação e couvert de casas específicas - não vou listar bar que não verifiquei. Dica prática: volte de carro de app, não de ônibus.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-ssa-passeio-de-escuna-pela-baia-de-todos-os-santos-ilha",
+    "fontes": [
+      {
+        "url": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica)",
+    "cidadeId": "salvador",
+    "categoria": "passeio",
+    "tags": [
+      "escuna",
+      "ilhas",
+      "dia-inteiro",
+      "taxas-extras",
+      "terminal-nautico",
+      "baia-de-todos-os-santos"
+    ],
+    "descricaoCurta": "Dia inteiro de barco saindo do Terminal Náutico para Ilha dos Frades e Itaparica - cuidado com as taxas que ficam fora do preço.",
+    "descricaoLonga": "Sai do Terminal Turístico Náutico da Bahia, no Comércio. Faixas reais coletadas em 2026: passeio coletivo da Bahia Terra Turismo a R$ 130 por pessoa com a taxa de embarque incluída, saindo quarta, sexta e domingo às 9h, com cerca de 5 h na ilha e retorno às 15h30; pacote da Civitatis a partir de R$ 163,43 por pessoa com busca no hotel, transporte ao porto e guia em português, mas SEM as taxas ambientais de R$ 20 a R$ 35 por pessoa por ilha e sem refeição; lancha privativa da Helton Passeios a R$ 550 a diária para até cinco passageiros (ou R$ 350 por passageiro individual), saindo entre 8h30 e 9h e voltando por volta das 16h, com complexo histórico de Loreto, piscinas naturais e parada de almoço. Rateando a lancha privativa entre cinco pessoas, a reportagem estima R$ 190-230 por pessoa com embarcação, taxas ambientais e refeição. O trajeto de barco leva em média 1h40 por trecho e o tour completo dura cerca de 9 h. Armadilha clássica: comparar só o preço de etiqueta - as taxas ambientais e de embarque, cobradas por ilha, mudam a conta.",
+    "duracao": {
+      "min": 300,
+      "tipica": 540,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 130,
+      "max": 350,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 130 (coletivo Bahia Terra, taxa de embarque inclusa) a R$ 163,43 (Civitatis, sem taxas ambientais de R$ 20-35 por pessoa por ilha) e até R$ 350 por passageiro em lancha privativa; diária da lancha privativa R$ 550 para até 5 pessoas. Valores de reportagem de A Tarde; não são cotação oficial das operadoras. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-ssa-ferry-boat-sao-joaquim-bom-despacho-travessia-para-i",
+    "fontes": [
+      {
+        "url": "https://atarde.com.br/politica/bahia/ferry-boat-fica-mais-caro-no-sao-joao-veja-novos-valores-1330261"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ferry boat São Joaquim - Bom Despacho (travessia para Itaparica)",
+    "cidadeId": "salvador",
+    "categoria": "passeio",
+    "tags": [
+      "ferry",
+      "travessia",
+      "carro",
+      "fila",
+      "logistica",
+      "itaparica"
+    ],
+    "descricaoCurta": "A travessia de carro e pedestre para a Ilha de Itaparica: barata, mas com tarifa de feriado e fila que estraga o dia.",
+    "descricaoLonga": "Operada pela Internacional Travessias Salvador (ITS), liga o Terminal de São Joaquim, em Salvador, a Bom Despacho, em Itaparica. Tarifas que consegui confirmar: pedestre R$ 6,90 em dia normal e R$ 9,20 em data tarifada como feriado; veículo de passeio R$ 62,50 em dia normal e R$ 88,50 em data tarifada. A Agerba definiu 24 de junho (São João) e as terças de Carnaval como feriado para fins de tarifa. DIVERGÊNCIA: outra reportagem, de 2026, registra pedestre a R$ 7,20 em dia útil e R$ 9,50 em fim de semana, e cita lancha rápida para Vera Cruz a cerca de R$ 10,40 em dia útil e R$ 13 em feriado - os números não batem com a primeira fonte, provavelmente por reajuste entre as datas. Trate R$ 7-9 como faixa de pedestre e R$ 62-89 como faixa de carro, e confirme no site da ITS antes de ir. Operação citada em resultado de busca: de hora em hora, das 5h às 23h30 de segunda a sábado e das 6h às 23h30 em domingo e feriado - NÃO abri a página oficial que confirma isso, então registro com ressalva. Aviso de roteiro: em feriado e véspera, a fila de carro em São Joaquim é notória e pode comer horas.",
+    "duracao": {
+      "min": 50,
+      "tipica": 60,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 6.9,
+      "max": 88.5,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Pedestre R$ 6,90 (normal) / R$ 9,20 (data tarifada como feriado); veículo de passeio R$ 62,50 / R$ 88,50. Segunda fonte de 2026 traz pedestre R$ 7,20 (dia útil) / R$ 9,50 (fim de semana) - há divergência, confirme na ITS. | tipo: por-trecho"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://portalsits.internacionaltravessias.com.br"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-ssa-ilha-de-itaparica-mar-grande-ponta-de-areia-e-o-cent",
+    "fontes": [
+      {
+        "url": "https://dicasdabahia.com.br/salvador/como-fazer-um-bate-e-volta-de-salvador-para-itaparica/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ilha de Itaparica: Mar Grande, Ponta de Areia e o centro histórico",
+    "cidadeId": "salvador",
+    "categoria": "praia",
+    "tags": [
+      "bate-volta",
+      "mar-calmo",
+      "familia",
+      "historico",
+      "piscinas-naturais",
+      "itaparica"
+    ],
+    "descricaoCurta": "Bate-volta clássico de Salvador: mar manso dentro da baía, vila histórica do século 17 e piscinas naturais na maré baixa.",
+    "descricaoLonga": "A ilha só se alcança por água - ferry para Bom Despacho ou lancha para Mar Grande/Vera Cruz. As praias citadas: Mar Grande (água calma e faixa larga de areia), Aratuba (piscinas naturais na maré baixa), Ponta de Areia (recomendada para família, com coqueiros e restaurantes), Barra Grande (uma das mais conhecidas, com vista de Salvador do outro lado) e Berlinque (água clara e calma, menos gente). No centro da ilha há a Igreja de São Lourenço, de 1610, e o Forte de São Lourenço, do século 17, que a fonte associa historicamente ao comércio de baleia. Formato possível: passeio fechado de catamarã com guia credenciado, escuna, frutas na chegada e refeição inclusos, reservado antes. Armadilhas: ir num feriado e perder o dia na fila do ferry; e contar com piscina natural fora da maré baixa. NÃO consegui preços de barraca nem a tabela do passeio fechado nesta fonte.",
+    "duracao": {
+      "min": 300,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-projeto-tamar-praia-do-forte",
+    "fontes": [
+      {
+        "url": "https://www.tamar.org.br/centros_visitantes.php?cod=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Projeto Tamar Praia do Forte",
+    "cidadeId": "salvador",
+    "categoria": "atracao",
+    "tags": [
+      "tartarugas",
+      "familia",
+      "educativo",
+      "bate-volta",
+      "site-oficial",
+      "praia-do-forte"
+    ],
+    "descricaoCurta": "O centro de visitantes do Tamar em Praia do Forte - tanques de tartarugas marinhas e o programa número 1 da vila, com horário curto.",
+    "descricaoLonga": "Dados da PÁGINA OFICIAL do Projeto Tamar, que é a fonte boa aqui: funciona de terça a domingo, das 11h às 17h - fecha segunda e abre bem mais tarde do que a maioria dos guias diz. Ingresso: R$ 54 inteira; R$ 27 meia (idosos acima de 60, estudantes, professores, pessoas com deficiência, ID Jovem e crianças a partir de 6 anos); passaporte família (dois adultos e duas crianças) R$ 150; gratuito para crianças até 5 anos, naturais de Mata de São João, Marinha e funcionários da CLN. ATENÇÃO: fontes secundárias ainda publicam R$ 38 inteira, R$ 19 meia, R$ 104 família e funcionamento diário de 9h às 18h - está defasado, use o oficial. Fica na Avenida Farol Garcia d'Ávila, s/n, no coração da vila, caminhável de tudo. Praia do Forte está a cerca de 80 km de Salvador pela Linha Verde e dá bate-volta de carro, mas com o horário de 11h-17h o dia precisa ser montado em torno disso.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 27,
+      "max": 54,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Site oficial tamar.org.br: R$ 54 inteira, R$ 27 meia, R$ 150 passaporte família (2 adultos + 2 crianças), gratuito até 5 anos. Guias secundários trazem R$ 38/R$ 19/R$ 104 - desatualizados. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.tamar.org.br/centros_visitantes.php?cod=1",
+      "telefone": "(71) 3676-0321",
+      "whatsapp": "(71) 98127-2010"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-castelo-garcia-d-avila",
+    "fontes": [
+      {
+        "url": "https://praiadoforte.org.br/o-que-fazer/castelo-de-garcia-davila/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Castelo Garcia d'Ávila",
+    "cidadeId": "salvador",
+    "categoria": "atracao",
+    "tags": [
+      "ruinas",
+      "historico",
+      "video-mapping",
+      "vista",
+      "bate-volta",
+      "praia-do-forte"
+    ],
+    "descricaoCurta": "Ruínas da primeira grande construção civil portuguesa no Brasil, 3 km da vila, com centro de visitantes e projeção noturna.",
+    "descricaoLonga": "Construído entre 1551 e 1624 no alto do Morro do Tatuapara, no município de Mata de São João, a 3 km da Vila dos Pescadores de Praia do Forte. Funciona de terça a domingo, das 10h às 17h; as sessões de video mapping (projeção da história do castelo nas próprias paredes) acontecem de sexta a domingo a partir das 18h. Além das ruínas com vista para o mar, há um centro de visitantes de 1.700 m² com maquete detalhada e exposição educativa. Os ingressos são vendidos online pela plataforma Sympla, pelo link no site da Fundação Garcia d'Ávila (fgd.org.br) - a página que abri NÃO publica o valor, então não registro preço. Encaixa muito bem com o Tamar: o Tamar abre 11h-17h e o castelo 10h-17h, com a projeção à noite para quem dorme na vila.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 210
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.fgd.org.br",
+      "telefone": "(71) 3676-1133"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-praia-do-forte-a-vila-as-piscinas-naturais-e-as-bale",
+    "fontes": [
+      {
+        "url": "https://praiadoforte.org.br/atracoes/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Forte: a vila, as piscinas naturais e as baleias",
+    "cidadeId": "salvador",
+    "categoria": "praia",
+    "tags": [
+      "vila",
+      "piscinas-naturais",
+      "baleias",
+      "trilha",
+      "bate-volta",
+      "praia-do-forte"
+    ],
+    "descricaoCurta": "Vila de pescadores virada em destino de praia a 80 km de Salvador, com piscinas naturais na maré baixa e baleia-jubarte no inverno.",
+    "descricaoLonga": "A lista oficial de atrações da vila inclui: Projeto Tamar, Castelo Garcia d'Ávila, passeios de lancha às piscinas naturais de Itacimirim, a Reserva de Sapiranga (trilhas, fauna e flora), observação de baleias de julho a outubro, a Vila (a Alameda do Sol, descrita como o 'coração pulsante' da vila, com lojas e bares), o Instituto Baleia Jubarte, a Igreja de São Francisco e a pesca oceânica. A janela das baleias - julho a outubro - é a informação que define quando ir se esse é o objetivo; hoje, 8 de outubro, ainda está dentro da janela, mas é o fim dela. As piscinas naturais dependem de maré baixa, como em todo o litoral norte. A página oficial NÃO publica preço nem horário de nenhuma dessas atividades, e eu não registro valores que não vi: trate passeio de lancha e observação de baleias como itens a cotar na vila.",
+    "duracao": {
+      "min": 240,
+      "tipica": 480,
+      "max": 720
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-aviso-seguranca-em-salvador-sem-exagero-e-sem-omissa",
+    "fontes": [
+      {
+        "url": "https://www.bahianoticias.com.br/noticia/176370-o-pelourinho-tem-o-menor-indice-de-criminalidade-de-salvador-diz-tenente-pm.html"
+      },
+      {
+        "url": "https://sacavoyage.fr/en/zones-a-eviter-et-quartiers-dangereux-a-salvador-de-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: segurança em Salvador sem exagero e sem omissão",
+    "cidadeId": "salvador",
+    "categoria": "experiencia",
+    "tags": [
+      "seguranca",
+      "aviso",
+      "bairros",
+      "furto"
+    ],
+    "descricaoCurta": "O que as fontes abertas realmente sustentam sobre segurança por bairro - e o que ninguém conseguiu provar.",
+    "descricaoLonga": "Primeiro a limitação: NÃO encontrei nesta sessão nenhuma tabela pública e atual da SSP-BA com ocorrências por bairro de Salvador. Quem apresenta número de bairro por bairro como se fosse dado oficial de 2026 está inventando ou citando recorte antigo. O que eu consegui abrir: (1) uma declaração do comandante do 18º Batalhão da PM ao Bahia Notícias afirmando que o Pelourinho tem os menores índices de criminalidade de Salvador e da Região Metropolitana - a declaração é de 30 de julho de 2015, não vem com números e menciona investimento em câmeras, policiamento e o programa 'Pelourinho Dia e Noite'; (2) um guia estrangeiro (sacavoyage) que recomenda Barra, Ondina e Rio Vermelho como as melhores bases para turista, diz que Pelourinho e Santo Antônio podem ser caminhados de dia com atenção e devem ser evitados depois de escurecer, lista como áreas a evitar Paripe, São Cristóvão, Engenho Velho de Brotas, Liberdade, Cassange, São Tomé e cita Itapuã, recomenda táxi licenciado em vez de transporte público à noite e menciona relatos de roubo a turista em praia. Leitura honesta: as duas fontes não se contradizem tanto quanto parece - policiamento concentrado de dia no Pelourinho e esvaziamento à noite convivem. O risco do visitante é patrimonial: celular, bolsa, mochila na areia. Regras que funcionam: celular no bolso e não na mão enquanto caminha; carro de app à noite; nada de ladeira vazia do Centro Histórico depois das 22h; não deixar nada sozinho na praia; e não sacar dinheiro em caixa de rua à noite.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-aviso-golpes-e-pega-turista-em-salvador",
+    "fontes": [
+      {
+        "url": "https://www.salvadordabahia.com/experiencias/mercado-modelo/"
+      },
+      {
+        "url": "https://sacavoyage.fr/en/zones-a-eviter-et-quartiers-dangereux-a-salvador-de-bahia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: golpes e pega-turista em Salvador",
+    "cidadeId": "salvador",
+    "categoria": "experiencia",
+    "tags": [
+      "golpes",
+      "aviso",
+      "pechincha",
+      "taxi",
+      "barraca"
+    ],
+    "descricaoCurta": "As cobranças-surpresa mais comuns da cidade e como não cair em nenhuma.",
+    "descricaoLonga": "Comprovado pelas fontes que abri: no Mercado Modelo são 263 lojas vendendo artesanato muito parecido, então comprar na primeira loja sem pechinchar e sem comparar é dinheiro jogado fora - ande 20 metros e o preço muda. Nas praias urbanas, barraca é negócio privado: pergunte o preço da porção, da bebida e se há consumação ou taxa de espreguiçadeira ANTES de sentar, e peça conta discriminada. Com guia: combine valor e duração antes - há quem se ofereça na entrada do Pelourinho sem credencial e feche o preço só no fim; se preferir, use agência. Com foto: grupo de capoeira e baiana de acarajé costumam cobrar pela pose - pergunte se cobra e quanto antes de levantar a câmera. Transporte: exija taxímetro ou use app; 'taxímetro quebrado' em ponto turístico é clássico. Sobre a famosa fitinha do Bonfim oferecida 'de presente' e cobrada depois de amarrada no pulso: é relato amplamente repetido, mas eu NÃO confirmei em fonte aberta nesta sessão - registro como alerta não verificado, e a defesa é simplesmente não deixar amarrarem nada em você.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-ssa-aviso-transporte-publico-salvador-card-e-quando-usar",
+    "fontes": [
+      {
+        "url": "https://www.correio24horas.com.br/salvador/reajuste-da-passagem-de-onibus-em-salvador-entra-em-vigor-na-segunda-5-veja-quanto-fica-0126"
+      },
+      {
+        "url": "https://atarde.com.br/politica/sem-aumento-metro-de-salvador-nao-tera-reajuste-na-passagem-1374885"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: transporte público, Salvador Card e quando usar carro de app",
+    "cidadeId": "salvador",
+    "categoria": "experiencia",
+    "tags": [
+      "transporte",
+      "tarifas",
+      "aviso",
+      "metro",
+      "onibus"
+    ],
+    "descricaoCurta": "Tarifas confirmadas de 2026 e a regra prática de quando o ônibus resolve e quando não.",
+    "descricaoLonga": "Tarifas confirmadas para 2026: ônibus urbano convencional, BRT e STEC a R$ 5,90 desde 5 de janeiro de 2026 (reajuste anunciado pelo prefeito Bruno Reis, apresentado como o menor entre as capitais naquele ano); metrô mantido em R$ 4,10, sem reajuste - a Sedur declarou em janeiro de 2026 que não havia intenção de reajustar, e o congelamento vem de fevereiro de 2025. Com o Salvador Card dá para usar até três modais (ônibus convencional, BRT, STEC) mais o metrô pagando uma tarifa só. Contexto que importa: em janeiro de 2026 a prefeitura assinou contrato de R$ 264 milhões com o BNDES para 300 ônibus novos e lançou cinco linhas, com reestruturação em Itapuã, Praia do Flamengo e Estação Pirajá. Regra prática: metrô e BRT resolvem deslocamento longo de dia; para Pelourinho, Barra e Rio Vermelho à noite, carro de app. O que NÃO consegui confirmar nesta sessão: preço de corrida de app ou táxi do aeroporto ao centro, e se a integração aeroporto-metrô tem tarifa diferenciada - por isso não há valores desses no arquivo.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 4.1,
+      "max": 5.9,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Metrô R$ 4,10 (sem reajuste em 2026) e ônibus/BRT/STEC R$ 5,90 (desde 05/01/2026). Duas reportagens independentes, uma para cada valor. | tipo: por-viagem"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

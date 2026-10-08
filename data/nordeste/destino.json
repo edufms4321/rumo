@@ -1,0 +1,207 @@
+{
+  "id": "nordeste",
+  "fontes": [
+    {
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela/prevencao"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/vacinacao/viajantes"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/chikungunya"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/zika-virus"
+    },
+    {
+      "url": "https://www.paho.org/pt/topicos/dengue"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil/health"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil/regional-risks"
+    },
+    {
+      "url": "https://travel.gc.ca/destinations/brazil"
+    },
+    {
+      "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/"
+    },
+    {
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/$metadata"
+    },
+    {
+      "url": "https://www.noronha.pe.gov.br/"
+    },
+    {
+      "url": "https://www.noronha.pe.gov.br/catalogo-de-servicos-old2/taxa-de-preservacao-ambiental-tpa/"
+    },
+    {
+      "url": "https://www.parnanoronha.com.br/"
+    },
+    {
+      "url": "https://www.parnanoronha.com.br/visitante"
+    }
+  ],
+  "coletadoEm": "2026-10-08",
+  "confianca": "parcial",
+  "observacaoDeConfianca": "Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.",
+  "nome": "Nordeste brasileiro",
+  "codigoPais": "BR",
+  "moeda": "BRL",
+  "fuso": "America/Sao_Paulo",
+  "fusoOffsetMinutos": -180,
+  "idiomas": [
+    "pt"
+  ],
+  "caixaDelimitadora": {
+    "latMin": -19,
+    "latMax": -0.8,
+    "lngMin": -49,
+    "lngMax": -32
+  },
+  "entrada": [
+    {
+      "nacionalidade": "BR",
+      "documento": "nao informado",
+      "vistoNecessario": false,
+      "comprovantesExigidos": [],
+      "observacoes": "",
+      "fontes": [
+        {
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela"
+        },
+        {
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela/prevencao"
+        },
+        {
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/viajantes"
+        },
+        {
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue"
+        },
+        {
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/chikungunya"
+        },
+        {
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/zika-virus"
+        },
+        {
+          "url": "https://www.paho.org/pt/topicos/dengue"
+        },
+        {
+          "url": "https://www.gov.uk/foreign-travel-advice/brazil/health"
+        },
+        {
+          "url": "https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security"
+        },
+        {
+          "url": "https://www.gov.uk/foreign-travel-advice/brazil/regional-risks"
+        },
+        {
+          "url": "https://travel.gc.ca/destinations/brazil"
+        },
+        {
+          "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/"
+        },
+        {
+          "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/$metadata"
+        },
+        {
+          "url": "https://www.noronha.pe.gov.br/"
+        },
+        {
+          "url": "https://www.noronha.pe.gov.br/catalogo-de-servicos-old2/taxa-de-preservacao-ambiental-tpa/"
+        },
+        {
+          "url": "https://www.parnanoronha.com.br/"
+        },
+        {
+          "url": "https://www.parnanoronha.com.br/visitante"
+        }
+      ]
+    }
+  ],
+  "saude": {
+    "vacinasRecomendadas": [],
+    "fontes": [
+      {
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela"
+      },
+      {
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela/prevencao"
+      },
+      {
+        "url": "https://www.gov.br/saude/pt-br/vacinacao/viajantes"
+      },
+      {
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue"
+      },
+      {
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/chikungunya"
+      },
+      {
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/zika-virus"
+      },
+      {
+        "url": "https://www.paho.org/pt/topicos/dengue"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/brazil/health"
+      }
+    ]
+  },
+  "seguranca": {
+    "orientacaoGeral": "sem dado",
+    "golpesComuns": [],
+    "appsDeTransporte": [],
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/brazil/regional-risks"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/brazil"
+      },
+      {
+        "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/"
+      }
+    ]
+  },
+  "dinheiro": {
+    "fontes": [
+      {
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/$metadata"
+      },
+      {
+        "url": "https://www.noronha.pe.gov.br/"
+      },
+      {
+        "url": "https://www.noronha.pe.gov.br/catalogo-de-servicos-old2/taxa-de-preservacao-ambiental-tpa/"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/visitante"
+      }
+    ]
+  },
+  "conectividade": {
+    "operadoras": [],
+    "fontes": []
+  },
+  "linksUteis": []
+}

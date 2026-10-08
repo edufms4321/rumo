@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ssa",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SSA",
+    "nome": "Deputado Luiz Eduardo Magalhães International Airport",
+    "cidadeNome": "Salvador",
+    "coords": {
+      "lat": -12.908611,
+      "lng": -38.322498
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | A fonte só dá distância: 28 km ao norte do centro de Salvador. Sem tempo em minutos em fonte aberta. Antecedência: a página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não fixa antecedência nacional; o site do operador (salvador-airport.com) não resolveu DNS."
+  },
+  {
+    "id": "rec",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "REC",
+    "nome": "Recife/Guararapes - Gilberto Freyre International Airport",
+    "cidadeNome": "Recife",
+    "coords": {
+      "lat": -8.12747,
+      "lng": -34.922961
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 14 km do centro do Recife. Sem minutos em fonte aberta. As páginas da Aena Brasil (operadora) retornaram HTML vazio (site em JavaScript) em três tentativas."
+  },
+  {
+    "id": "for",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pinto_Martins_%E2%80%93_Fortaleza_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "FOR",
+    "nome": "Pinto Martins International Airport",
+    "cidadeNome": "Fortaleza",
+    "coords": {
+      "lat": -3.775833,
+      "lng": -38.532222
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 6 km ao sul do centro de Fortaleza — o mais próximo entre as capitais pesquisadas. O site do operador (fortaleza-airport.com.br) falhou por certificado inválido e fraport-brasil.com recusou conexão."
+  },
+  {
+    "id": "nat",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "NAT",
+    "nome": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
+    "cidadeNome": "Natal",
+    "coords": {
+      "lat": -5.769822,
+      "lng": -35.36661
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 25 km do centro de Natal (o aeroporto fica em São Gonçalo do Amarante). O site aeroportonatal.com.br não resolveu DNS."
+  },
+  {
+    "id": "mcz",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zumbi_dos_Palmares_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "MCZ",
+    "nome": "Zumbi dos Palmares International Airport",
+    "cidadeNome": "Maceió",
+    "coords": {
+      "lat": -9.512559,
+      "lng": -35.791839
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 25 km do centro de Maceió. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "jpa",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Presidente_Castro_Pinto_International_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "JPA",
+    "nome": "Presidente Castro Pinto International Airport",
+    "cidadeNome": "João Pessoa",
+    "coords": {
+      "lat": -7.148691,
+      "lng": -34.950554
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 12 km do centro de João Pessoa. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "aju",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "AJU",
+    "nome": "Aracaju - Santa Maria Airport",
+    "cidadeNome": "Aracaju",
+    "coords": {
+      "lat": -10.98394,
+      "lng": -37.072873
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 12 km do centro de Aracaju. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "slz",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marechal_Cunha_Machado_International_Airport"
+      },
+      {
+        "url": "https://aeroportos.motiva.com.br/"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SLZ",
+    "nome": "Marechal Cunha Machado International Airport",
+    "cidadeNome": "São Luís",
+    "coords": {
+      "lat": -2.586386,
+      "lng": -44.235008
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 15 km do centro de São Luís. O site do operador (CCR/Motiva Aeroportos, que confirma operar SLZ) carregou mas não traz antecedência recomendada."
+  },
+  {
+    "id": "the",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teresina_Airport"
+      },
+      {
+        "url": "https://aeroportos.motiva.com.br/"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "THE",
+    "nome": "Senador Petrônio Portela Airport",
+    "cidadeNome": "Teresina",
+    "coords": {
+      "lat": -5.06025,
+      "lng": -42.823712
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 5 km do centro de Teresina. Operador CCR/Motiva confirmado para THE, sem antecedência publicada na página aberta."
+  },
+  {
+    "id": "phb",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Parna%C3%ADba_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "PHB",
+    "nome": "Parnaíba - Prefeito Doutor João Silva Filho International Airport",
+    "cidadeNome": "Parnaíba",
+    "coords": {
+      "lat": -2.89375,
+      "lng": -41.731998
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 8 km do centro de Parnaíba. ATENÇÃO OPERACIONAL: a Wikipédia indica que as rotas da Azul (Confins e Teresina) RETOMAM em 18 de novembro de 2026; hoje o único voo listado é LATAM para Fortaleza. Não confirmado em segunda fonte."
+  },
+  {
+    "id": "fen",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "FEN",
+    "nome": "Fernando de Noronha Airport",
+    "cidadeNome": "Fernando de Noronha",
+    "coords": {
+      "lat": -3.854534,
+      "lng": -32.423017
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 4 km da Vila dos Remédios, centro administrativo da ilha. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "jjd",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jericoacoara_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "JJD",
+    "nome": "Comandante Ariston Pessoa Airport",
+    "cidadeNome": "Jericoacoara (Cruz)",
+    "coords": {
+      "lat": -2.906425,
+      "lng": -40.357338
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 31 km de Jericoacoara e 23 km do centro de Cruz (CE). NÃO é um deslocamento de centro urbano comum: o acesso final à vila de Jeri costuma exigir 4x4 ou traslado contratado. Nenhuma fonte aberta deu o tempo em minutos."
+  },
+  {
+    "id": "ios",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jorge_Amado_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "IOS",
+    "nome": "Bahia - Jorge Amado Airport",
+    "cidadeNome": "Ilhéus",
+    "coords": {
+      "lat": -14.815929,
+      "lng": -39.033458
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 3 km do centro de Ilhéus. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "lec",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hor%C3%A1cio_de_Mattos_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "LEC",
+    "nome": "Coronel Horácio de Mattos Airport",
+    "cidadeNome": "Lençóis (Chapada Diamantina)",
+    "coords": {
+      "lat": -12.4823,
+      "lng": -41.277
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 20 km do centro de Lençóis, dentro do Parque Nacional da Chapada Diamantina. Sem minutos em fonte aberta."
+  },
+  {
+    "id": "bps",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Porto_Seguro_Airport"
+      },
+      {
+        "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/check-in-e-embarque"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "BPS",
+    "nome": "Porto Seguro International Airport",
+    "cidadeNome": "Porto Seguro",
+    "coords": {
+      "lat": -16.438426,
+      "lng": -39.080584
+    },
+    "observacoes": "Coordenada, código ICAO e município vindos da base aberta OurAirports: o CSV (86.224 linhas) foi BAIXADO nesta sessão e filtrado por código IATA — nenhuma coordenada foi escrita de memória. ATENÇÃO À CONVENÇÃO DE ZERO: tempoAoCentroMin, antecedenciaDomesticaMin, antecedenciaInternacionalMin, desembarqueDomesticoMin e desembarqueInternacionalMin estão TODOS em 0 porque NÃO foi encontrada fonte confiável nesta sessão — 0 não é um tempo real, é a ausência do dado. A página da ANAC aberta nesta sessão diz que o encerramento do check-in VARIA POR COMPANHIA e não publica antecedência recomendada, e nenhum site de operador aeroportuário carregou esse dado. NÃO converta a distância em minutos por conta própria: use a distância em km citada a seguir e confirme o tempo no mapa, no dia e horário do voo. | Só distância: 2 km do centro de Porto Seguro — o mais colado ao centro de todos os pesquisados. Sem minutos em fonte aberta."
+  }
+]

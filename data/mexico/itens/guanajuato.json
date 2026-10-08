@@ -871,10 +871,6 @@
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/Guanajuato"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/188836427",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -930,12 +926,7 @@
       "Horário não confirmado; coordenadas não encontradas em fonte aceita (0,0).",
       "Preços de guia colaborativo, sem data confiável.",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": 21.017466,
-      "lng": -101.258084
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "mx-gto-festival-internacional-cervantino",

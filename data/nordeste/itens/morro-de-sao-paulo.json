@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "br-msp-catamara-salvador-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://www.correio24horas.com.br/salvador/vai-para-morro-de-sao-paulo-no-feriado-veja-os-horarios-e-tarifas-dos-catamaras-1125"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-morro-de-sao-paulo-15-103-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Catamarã Salvador - Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "passeio",
+    "tags": [
+      "travessia",
+      "enjoo",
+      "logistica",
+      "cancelamento",
+      "mar-aberto"
+    ],
+    "descricaoCurta": "A travessia direta de 2h20 a 2h30 do Terminal Náutico - rápida, mas é mar aberto, enjoa e cancela.",
+    "descricaoLonga": "Sai do Terminal Náutico, em Salvador, e cruza a Baía de Todos os Santos até o cais de Morro. Duração: cerca de 2h20 segundo o Correio 24 Horas (20/11/2025) e cerca de 2h30 segundo o guia da Melhores Destinos - ou seja, considere 2h30 no planejamento. Operadoras citadas: Biotur, Ilha Bela e (em uma das fontes) Farol do Morro, com venda nos guichês do Terminal Náutico. Horários de Salvador segundo as duas fontes: 9h, 10h30 e 14h30 (Correio) ou 8h30, 9h, 10h30, 13h e 14h30 (Melhores Destinos); de Morro: 11h30, 13h30 e 14h50 (Correio). PREÇO COM DIVERGÊNCIA: o guia da Melhores Destinos registra R$ 127,80 mais R$ 10,90 de taxa de embarque, e resultado de busca sem página aberta cita R$ 152,50 no sentido Salvador-Morro e R$ 138,71 na volta - trate como faixa R$ 128-153 e confirme no guichê. Os dois avisos que mudam roteiro: o transporte pode ser cancelado a qualquer momento por condição de navegação ou mau tempo, e a volta costuma ser mais balançada, com enjoo comum. Quem tem labirintite ou viaja com criança pequena deve considerar o 'semi-terrestre'.",
+    "duracao": {
+      "min": 140,
+      "tipica": 150,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 127.8,
+      "max": 153,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 127,80 + R$ 10,90 de taxa de embarque (guia Melhores Destinos); outra fonte, não aberta por mim, cita R$ 152,50 ida e R$ 138,71 volta. Duas fontes não concordam no valor - comprar no guichê e confirmar. | tipo: por-pessoa-por-trecho"
+    },
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-msp-transfer-semi-terrestre-salvador-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-morro-de-sao-paulo-15-103-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Transfer semi-terrestre Salvador - Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "passeio",
+    "tags": [
+      "travessia",
+      "sem-enjoo",
+      "logistica",
+      "alternativa"
+    ],
+    "descricaoCurta": "Ferry + van + lancha em cerca de 4h30: mais longo que o catamarã, mas é a opção de quem enjoa e a mais confiável em mar ruim.",
+    "descricaoLonga": "Combina a travessia de ferry para Itaparica, van ou ônibus pela ilha e pelo continente até Valença, e lancha até Morro. Duração cerca de 4h30. Preços registrados pelo guia: R$ 120 saindo do terminal e R$ 160 com embarque no aeroporto ou hotel. A fonte é explícita sobre o porquê de escolher isso: é melhor para quem tem tendência a enjoo e para quem precisa de confiabilidade, já que o catamarã cancela por condição de mar. Na prática, se o seu voo chega em Salvador no começo da tarde e o último catamarã já saiu, este é o caminho que ainda te põe em Morro no mesmo dia. Contraponto honesto: são quatro trocas de veículo com bagagem, e a última etapa ainda termina na ladeira do cais de Morro, onde não entra carro.",
+    "duracao": {
+      "min": 240,
+      "tipica": 270,
+      "max": 330
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 120,
+      "max": 160,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 120 do terminal e R$ 160 com embarque no aeroporto ou hotel. Fonte única (guia Melhores Destinos). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-msp-lanchas-e-barcos-valenca-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-morro-de-sao-paulo-15-103-p.html"
+      },
+      {
+        "url": "https://www.morrodesaopaulocatamara.com/post/horarios-lancha-valenca-morro-de-sao-paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Lanchas e barcos Valença - Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "passeio",
+    "tags": [
+      "travessia",
+      "barato",
+      "valenca",
+      "de-hora-em-hora"
+    ],
+    "descricaoCurta": "A travessia curta e barata: lancha rápida em 40 min ou barco lento em 1h30, de hora em hora do Terminal Hidroviário de Valença.",
+    "descricaoLonga": "Valença fica a 123 km de Salvador e é a porta de entrada por terra. Do Terminal Hidroviário, no centro, saem lancha rápida (cerca de 40 min) e barco convencional (cerca de 1h30). PREÇOS COM DIVERGÊNCIA ENTRE AS DUAS FONTES QUE ABRI: o guia da Melhores Destinos registra R$ 27 na lancha rápida e R$ 13 no barco; um site especializado em travessias registra cerca de R$ 45 na lancha rápida e cerca de R$ 25 no barco lento, além de uma alternativa pelo atracadouro Bom Jardim (estrada Valença-Guaibim) a cerca de R$ 35 em lancha rápida com só 15 min de travessia. Como os valores não batem, trate como faixa R$ 13-45 e compre no terminal. Frequência: de 30 em 30 minutos das 8h às 18h segundo a Melhores Destinos; de hora em hora, saídas de Valença das 8h às 18h e de Morro das 7h às 18h (lancha rápida) segundo a outra fonte. Venda por ordem de chegada, no terminal.",
+    "duracao": {
+      "min": 15,
+      "tipica": 40,
+      "max": 90
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 13,
+      "max": 45,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Lancha rápida: R$ 27 (Melhores Destinos) x cerca de R$ 45 (site de travessias). Barco lento: R$ 13 x cerca de R$ 25. Duas fontes discordam - a faixa registrada é a união das duas. | tipo: por-pessoa-por-trecho"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-msp-taxi-aereo-salvador-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-morro-de-sao-paulo-15-103-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Táxi-aéreo Salvador - Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "passeio",
+    "tags": [
+      "aviao",
+      "caro",
+      "rapido",
+      "logistica"
+    ],
+    "descricaoCurta": "25 minutos de voo em avião pequeno, caro e com pouca oferta - a saída para quem não quer mar nem estrada.",
+    "descricaoLonga": "Voo de cerca de 25 minutos entre Salvador e a pista de Morro de São Paulo, operado por empresas de táxi-aéreo; o guia cita Abaeté e Aero Star. Faixa de preço registrada: R$ 500 a R$ 1.300 por passageiro, com disponibilidade limitada. É a opção que resolve o problema de quem enjoa e não quer gastar 4h30 no semi-terrestre, e também a que resolve chegada tardia - mas é avião pequeno, sujeito a tempo e a peso de bagagem. NÃO consegui confirmar nesta sessão horários, limite de bagagem, política de cancelamento ou se há voo todos os dias; não abri o site das operadoras. Aviso de operação em aeródromo pequeno: voo visual depende de luz do dia, então não conte com chegada à noite.",
+    "duracao": {
+      "min": 25,
+      "tipica": 25,
+      "max": 40
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 500,
+      "max": 1300,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 500 a R$ 1.300 por passageiro, fonte única (guia Melhores Destinos). Não é cotação de operadora. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 14
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 17
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-msp-segunda-praia",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Segunda Praia",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "agito",
+      "barracas",
+      "festa",
+      "mar-calmo",
+      "a-pe"
+    ],
+    "descricaoCurta": "A praia do agito: barracas na areia, mar morno e paradinho, festa à noite - e espreguiçadeira cobrada.",
+    "descricaoLonga": "Pequena, cheia de pousadas e barracas, com água descrita como quentinha, parada e azul; é o ponto de encontro dos bares à beira-mar, dos quiosques e das festas noturnas. Inclui a Ilha da Saudade, com coqueiros. Custos concretos coletados: espreguiçadeira de R$ 30 a R$ 70; aluguel de caiaque R$ 40 por 30 min e stand up paddle R$ 30 por 30 min. Comida na areia: a Barraca Funny tem carne do sol por R$ 130 e crepes por R$ 30. Armadilha: sentar primeiro e descobrir o preço da espreguiçadeira depois - pergunte se o valor é consumível. Quem quer dormir cedo deve hospedar em outra praia: aqui o som vai até tarde. Todos esses valores vêm de uma só fonte (blog) e não de tabela de estabelecimento - trate como ordem de grandeza.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 30,
+      "max": 70,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A praia é pública e gratuita; a faixa registrada é a da espreguiçadeira de barraca (R$ 30-70). Caiaque R$ 40/30min, SUP R$ 30/30min. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-terceira-praia",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Terceira Praia",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "mar-calmo",
+      "piscininhas",
+      "saida-de-barcos",
+      "familia",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "Maior que a Segunda, com piscininhas na maré baixa e o cais informal de onde saem os passeios de barco.",
+    "descricaoLonga": "É a maior das primeiras praias, com piscininhas que se formam na maré baixa e muitos barcos ancorados - é daqui que saem os passeios de lancha, o que faz dela a praia mais prática para quem vai fazer a volta à ilha ou ir a Boipeba. Tem poucas barracas na areia e restaurantes no calçadão; o Maré Bar e Grill é citado com carne do sol a R$ 110. Também é o ponto de aluguel de bicicleta, que dá acesso à Quinta Praia. Perfil: equilíbrio entre movimento e sossego - boa escolha de hospedagem para casal e família que ainda quer caminhar até o centrinho. As piscininhas dependem de maré baixa; na maré alta é praia comum de água calma.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-quarta-praia",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Quarta Praia",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "piscinas-naturais",
+      "peixes",
+      "resorts",
+      "sossego",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "4 km de areia com piscinas naturais cheias de peixe na maré baixa - a praia mais bonita e a mais dependente de maré.",
+    "descricaoLonga": "Tem cerca de 4 km de extensão, água descrita como bem transparente, e forma piscinas naturais com peixes na maré baixa - é o programa de snorkel mais fácil da ilha, sem precisar de barco. É onde ficam os hotéis maiores e os resorts, o que significa mais sossego e mais caminhada (ou bicicleta) até o centrinho. Barracas citadas: Basílico, com massas de R$ 50 a R$ 70, e a barraca Piscinas Naturais. Há também um complemento de passeio às piscinas naturais por R$ 20 ida e volta (deslocamento curto de barco até os bancos de recife). A regra prática: consulte a tábua de marés e vá na maré baixa, de preferência em lua cheia ou nova, quando a variação é maior. Na maré alta a praia continua bonita, mas as piscinas somem.",
+    "duracao": {
+      "min": 150,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Praia gratuita; R$ 20 ida e volta para o acesso de barco às piscinas naturais complementares. Massas R$ 50-70 no Basílico. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-quinta-praia-praia-do-encanto",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Quinta Praia (Praia do Encanto)",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "vazia",
+      "bicicleta",
+      "redes-no-mar",
+      "sossego"
+    ],
+    "descricaoCurta": "1,6 km de praia pouco frequentada, com redes dentro da água na maré alta - chega-se de bicicleta ou 4x4.",
+    "descricaoLonga": "Tem cerca de 1,6 km e é bem menos frequentada que as quatro primeiras; a marca dela são as redes armadas dentro da água, que funcionam na maré alta. O acesso mais comum é alugar bicicleta na Terceira Praia e pedalar, ou entrar nos passeios de 4x4 que combinam Quinta Praia com Garapuá. Perfil: é a praia para quem já viu as outras e quer um dia de nada. Combinações registradas: passeio Garapuá + Quinta Praia em 4x4 por R$ 130 (dia inteiro, com cerca de 40 minutos de estrada de terra) e Boca da Barra + Garapuá + Quinta Praia por R$ 240 (dia inteiro). Aviso: a estrutura é mínima - leve água e dinheiro, não conte com maquininha de cartão.",
+    "duracao": {
+      "min": 180,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 240,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A praia é gratuita; o custo é o transporte: 4x4 Garapuá + Quinta Praia R$ 130, ou Boca da Barra + Garapuá + Quinta Praia R$ 240. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-praia-da-gamboa",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia da Gamboa",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "argila",
+      "caminhada-na-mare-baixa",
+      "taxi-boat",
+      "mar-calmo"
+    ],
+    "descricaoCurta": "Do outro lado da enseada, com falésia de argila e mar calmo - a caminhada de 40 min só existe na maré baixa.",
+    "descricaoLonga": "Mar calmo, água de cor um pouco mais escura e uma falésia de argila que as pessoas usam na pele. Dá para ir a pé de Morro em cerca de 40 minutos, mas APENAS na maré baixa - esse é o ponto que quebra programa: quem sai com a maré subindo pode ficar sem caminho de volta pela areia. Alternativas: táxi-boat por R$ 10 por trecho (com mínimo de 6 pessoas) ou tour de barco por R$ 80. No lado da Gamboa há o Portaló Beach, citado com moqueca de camarão por R$ 130. Programa natural: ir de barco, almoçar, voltar a pé na maré baixa - ou o contrário. Consulte a tábua de marés na véspera e pergunte na pousada a hora da baixa-mar do dia.",
+    "duracao": {
+      "min": 150,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A pé é gratuito (só na maré baixa). Táxi-boat R$ 10 por trecho com mínimo de 6 pessoas; tour de barco R$ 80. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-tirolesa-do-farol",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Tirolesa do Farol",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "experiencia",
+    "tags": [
+      "adrenalina",
+      "cai-no-mar",
+      "farol",
+      "rapido"
+    ],
+    "descricaoCurta": "340 metros de cabo do alto do morro até cair no mar da Primeira Praia, por cerca de R$ 80.",
+    "descricaoLonga": "A tirolesa começa no alto do centrinho, perto do cais, e termina na Primeira Praia - você solta e cai na água do mar. Duas fontes convergem no preço de R$ 80 e uma delas detalha 340 metros de cabo a cerca de 70 metros de altura. É rápido (a atração em si são minutos) e é a razão prática de a Primeira Praia, descrita como a menos bonita da ilha, ter movimento. Prático: vá com roupa de banho e sem nada no bolso; deixe câmera e celular com alguém embaixo, porque você cai na água. NÃO consegui confirmar horário de funcionamento, se opera todos os dias, limite de peso/idade nem se fecha com chuva - trate como atividade a confirmar no dia.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 60
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 80,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 80, valor citado por duas fontes (blog de viagem e resumo de guia). Sem tabela oficial do operador. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-mirante-do-farol-e-mirante-da-fortaleza",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Morro_de_S%C3%A3o_Paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Mirante do Farol e Mirante da Fortaleza",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "mirante",
+    "tags": [
+      "gratuito",
+      "por-do-sol",
+      "caminhada",
+      "centro"
+    ],
+    "descricaoCurta": "Os dois mirantes de graça da vila: o Farol (15-20 min de escadaria) e a Fortaleza, logo acima do cais.",
+    "descricaoLonga": "O Mirante do Farol exige subida de 15 a 20 minutos por escadarias, é gratuito e tem músicos tocando por doação. O Mirante da Fortaleza é gratuito também, fica perto do cais e dá vista dos canhões e dos barcos. São o programa de fim de tarde que não custa nada em um destino onde quase tudo custa - e o contraponto à Toca do Morcego, que cobra entrada pelo pôr do sol. Prático: a escadaria do farol é puxada no calor, leve água; e desça antes de escurecer completamente, porque a iluminação do caminho é fraca. Morro de São Paulo foi fundado em 1535 e o conjunto fortaleza + farol é o patrimônio histórico da vila, segundo a Wikipédia.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-volta-a-ilha-de-barco-garapua-morere-cairu",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Volta à Ilha de barco (Garapuá, Moreré, Cairu)",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "passeio",
+    "tags": [
+      "dia-inteiro",
+      "piscinas-naturais",
+      "depende-da-mare",
+      "ostras",
+      "passeio-classico"
+    ],
+    "descricaoCurta": "O passeio mais vendido da ilha, R$ 250 por pessoa, dia inteiro - só entrega as piscinas naturais com maré baixa.",
+    "descricaoLonga": "Descrito pela fonte como 'o passeio mais famoso', a R$ 250 por pessoa, com maré baixa recomendada (a fonte chega a indicar a faixa de 0,0 a 0,6 m de maré). O roteiro inclui as piscinas naturais de Garapuá e de Moreré, a Praia da Cueira, a Boca da Barra, Canavieiras (onde se compra ostra, citada a R$ 50 a dúzia) e a sede do município, Cairu. É o passeio que resolve de uma vez Boipeba e Garapuá para quem tem poucos dias. O PONTO CRÍTICO: a maré do dia define se você vê piscina natural ou água funda - pergunte a altura da maré antes de pagar, e desconfie de vendedor que diz que 'qualquer dia serve'. Alternativas da mesma fonte: passeio só de Boipeba completo (Moreré + Bainema + Cueira) por R$ 380, e Boca da Barra + Garapuá + Quinta Praia por R$ 240.",
+    "duracao": {
+      "min": 420,
+      "tipica": 540,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 240,
+      "max": 380,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Volta à ilha R$ 250; variações R$ 240 (Boca da Barra + Garapuá + Quinta) e R$ 380 (Boipeba completo). Ostra R$ 50 a dúzia em Canavieiras. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-msp-snorkel-na-ilha-de-caita-e-batismo-de-mergulho",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Snorkel na Ilha de Caitá e batismo de mergulho",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "experiencia",
+    "tags": [
+      "snorkel",
+      "mergulho",
+      "caiaque",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "Snorkel de caiaque ou SUP até a Ilha de Caitá (2 h) e batismo de mergulho até 10 m por R$ 270.",
+    "descricaoLonga": "Dois programas de água registrados pela fonte. O primeiro: ir à Ilha de Caitá para snorkel, de caiaque (R$ 40) ou de stand up paddle (R$ 50), cerca de 2 horas, com equipamento de snorkel incluído - e com maré baixa obrigatória, não é opcional. O segundo: batismo de mergulho por R$ 270, com profundidade de até 10 metros, o que indica mergulho assistido para iniciante, sem certificação. A outra fonte confirma o perfil do lugar para mergulho livre em Caitá e aluguel de caiaque e SUP na Terceira Praia. Prático: protetor solar e maré baixa; e, para o batismo, não voe no mesmo dia nem no dia seguinte imediato - regra geral de mergulho, não informação da fonte.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 40,
+      "max": 270,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Caiaque para Caitá R$ 40, SUP R$ 50 (2 h, com snorkel); batismo de mergulho R$ 270 até 10 m. Fonte única para preços (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-toca-do-morcego-por-do-sol-com-entrada-paga",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Toca do Morcego (pôr do sol com entrada paga)",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "bar",
+    "tags": [
+      "por-do-sol",
+      "lounge",
+      "cobra-entrada",
+      "noite"
+    ],
+    "descricaoCurta": "O lounge do penhasco onde se vê o pôr do sol - abre 16h30 e cobra entrada em torno de R$ 60, variável.",
+    "descricaoLonga": "Bar-lounge em posição de penhasco, citado pelas duas fontes como o endereço clássico do pôr do sol da ilha. Dados concretos de uma delas: entrada em torno de R$ 60, descrita como variável; abre às 16h30; drinks de R$ 25 a R$ 30 e risotos por volta de R$ 70. O julgamento honesto: é bonito, mas é o item mais 'pega-turista' da lista porque você paga para ver um pôr do sol que o Mirante do Farol e o Mirante da Fortaleza entregam de graça - a diferença é conforto, drink na mão e cenário. Decida antes de subir. Alternativa citada pela mesma fonte: o Bossa Nova Bistrô, na Pousada Passárgada, com entrada gratuita, drinks de R$ 25 a R$ 30 e banda com couvert artístico.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 60,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Entrada em torno de R$ 60, descrita pela própria fonte como variável. Drinks R$ 25-30, risoto cerca de R$ 70. Fonte única (blog). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-msp-onde-comer-no-centrinho-de-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Onde comer no centrinho de Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "restaurante",
+    "tags": [
+      "centro",
+      "faixa-de-preco",
+      "a-pe",
+      "barato-e-caro"
+    ],
+    "descricaoCurta": "Os endereços e as faixas de preço reais do centrinho e das praias - de prato executivo de R$ 30 a moqueca de R$ 130.",
+    "descricaoLonga": "Lista com nomes e valores que a fonte registra, para calibrar expectativa de gasto: Café das Artes (centro) com saladona a R$ 35; Basílico (centro e Quarta Praia) com massas de R$ 50 a R$ 70 e salada a R$ 40; Top Grill (centro e Segunda Praia) com frango grelhado a R$ 40; Le Blon Gastrobar (centro) com prato executivo de R$ 30 a R$ 40; Maré Bar e Grill (Terceira Praia) com carne do sol a R$ 110; Barraca Funny (Segunda Praia) com carne do sol a R$ 130 e crepes a R$ 30; Portaló Beach (Gamboa) com moqueca de camarão a R$ 130. Leitura: o centrinho tem opção de R$ 30-40 por prato, a areia custa o dobro ou mais. Nenhum desses tem telefone, horário ou endereço exato confirmado por mim, e os preços vêm de uma só fonte - são ordem de grandeza, não cardápio.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 30,
+      "max": 130,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa de pratos citada por uma única fonte (blog): R$ 30-40 em prato executivo no centro até R$ 130 em carne do sol/moqueca na areia. Sem cardápio oficial. | tipo: por-prato"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-msp-boipeba-e-as-piscinas-naturais-de-morere",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/?p=47617"
+      },
+      {
+        "url": "https://www.bahianoticias.com.br/municipios/noticia/48539-cairu-aumenta-taxa-de-acesso-ao-morro-de-sao-paulo-e-passa-a-aplicar-cobranca-em-boipeba-veja-valores"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Boipeba e as piscinas naturais de Moreré",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "praia",
+    "tags": [
+      "bate-volta",
+      "piscinas-naturais",
+      "depende-da-mare",
+      "tratora",
+      "sem-carro",
+      "boipeba"
+    ],
+    "descricaoCurta": "A ilha vizinha, mais calma que Morro: Moreré, Bainema e piscinas naturais que só existem na maré baixa.",
+    "descricaoLonga": "Moreré fica a cerca de 5 km de Velha Boipeba e o deslocamento interno é peculiar: a pé leva 2 horas e só na maré baixa, passando por outras praias; de trator/jardineira custa R$ 10 por pessoa e leva 20 a 30 minutos; de quadriciclo ou moto, R$ 20 por pessoa e 15 a 20 minutos; de barco, preço variável conforme o grupo. A fonte é honestamente crítica: diz que Moreré é bonita, mas que a fama não significa que seja a melhor praia da ilha - a faixa de areia é pequena e a parte estruturada fica do lado esquerdo olhando para o mar; Bainema está a 10 minutos de trilha. As piscinas naturais famosas se visitam na maré baixa com barqueiro local ou dentro do passeio 'Volta à Ilha'. Melhor época: lua cheia e nova dão baixa-mar de manhã, que é o horário bom. Travessia de Morro: a balsa convencional sai por R$ 10 por pessoa e a lancha por R$ 22, segundo resultado de busca que não abri - trate com reserva. Restaurantes de praia citados: Coco Bambu Music Bar, Brisa e Mar e Restaurante Paraíso. LEMBRETE DE TAXA: Boipeba passou a cobrar TUPA de R$ 50 (ver taxas da base).",
+    "duracao": {
+      "min": 360,
+      "tipica": 540,
+      "max": 720
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 10,
+      "max": 22,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa registrada é o transporte interno confirmado: trator/jardineira R$ 10, quadriciclo/moto R$ 20. A travessia Morro-Boipeba (balsa R$ 10 / lancha R$ 22) vem de resultado de busca cuja página eu NÃO abri - menos confiável. Passeios de volta à ilha estão no item de Morro (R$ 380 para Boipeba completo). | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-cairu-sede-do-municipio-e-o-convento-de-santo-antoni",
+    "fontes": [
+      {
+        "url": "https://www.morrodesaopaulocatamara.com/post/cairu-arquipelago"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Cairu (sede do município) e o convento de Santo Antônio",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "atracao",
+    "tags": [
+      "historico",
+      "convento",
+      "arquipelago",
+      "fora-do-circuito",
+      "religioso",
+      "cairu"
+    ],
+    "descricaoCurta": "A sede do município que manda em Morro e Boipeba: casario colonial, convento de 1656 e igreja matriz de 1610.",
+    "descricaoLonga": "Cairu é um dos dois municípios-arquipélago do Brasil, a 83 km de Salvador, com 460,98 km² distribuídos em 26 ilhas - só três são habitadas: Tinharé (onde fica Morro de São Paulo, além de Gamboa, Galeão e vilas de pescadores), Boipeba (Velha Boipeba, Moreré e São Sebastião) e Cairu, a sede administrativa, que preserva o casario colonial e dois centros históricos. O Convento Franciscano de Santo Antônio foi inaugurado em 1656 e serviu de protótipo para outros conventos do Nordeste; a Igreja Matriz de Nossa Senhora do Rosário é de 1610. Calendário cultural: Reisado de São Benedito (janeiro), Congos (dezembro-janeiro), Chegança, Zambiapunga (1º de novembro) e capoeira. Duas Áreas de Proteção Ambiental cobrem o arquipélago (APA Tinharé-Boipeba e APA Caminhos da Boa Esperança), com mata atlântica, manguezal e recife. O arquipélago recebe cerca de 400 mil visitantes por ano. Na prática de roteiro, Cairu entra como parada do passeio 'Volta à Ilha' saindo de Morro - não como destino de pernoite. NÃO consegui horário de visitação do convento, ingresso, nem preço de travessia direta até Cairu.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-aviso-a-mare-manda-no-roteiro-de-morro-de-sao-paulo",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-morro-de-sao-paulo/"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/?p=47617"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: a maré manda no roteiro de Morro de São Paulo",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "experiencia",
+    "tags": [
+      "mare",
+      "aviso",
+      "planejamento",
+      "piscinas-naturais"
+    ],
+    "descricaoCurta": "Metade dos programas da ilha só existe na maré baixa - e um deles só na maré alta. Monte o roteiro pela tábua, não pelo dia.",
+    "descricaoLonga": "Dependem de MARÉ BAIXA, segundo as fontes: as piscinas naturais da Quarta Praia e as piscininhas da Terceira; a caminhada de 40 minutos até a Gamboa (sem maré baixa você pode ficar sem caminho de volta pela areia); o snorkel na Ilha de Caitá (a fonte diz maré baixa obrigatória); as piscinas naturais de Garapuá e Moreré no passeio Volta à Ilha (a fonte sugere faixa de 0,0 a 0,6 m); e a caminhada de 2 horas entre Velha Boipeba e Moreré. Depende de MARÉ ALTA: as redes dentro da água na Quinta Praia. Regra operacional: antes de fechar o passeio de barco, pergunte a altura e a hora da baixa-mar do dia, e prefira o período de lua cheia ou nova, quando a variação é maior e a baixa-mar costuma cair de manhã (isso é o que a fonte de Boipeba registra). Não existe 'qualquer dia serve' para piscina natural - quem vender assim está vendendo o passeio errado.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-msp-aviso-tupa-bagagem-e-o-que-ninguem-avisa-na-chegada",
+    "fontes": [
+      {
+        "url": "https://www.bahianoticias.com.br/municipios/noticia/48539-cairu-aumenta-taxa-de-acesso-ao-morro-de-sao-paulo-e-passa-a-aplicar-cobranca-em-boipeba-veja-valores"
+      },
+      {
+        "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+      },
+      {
+        "url": "https://www.melhoresdestinos.com.br/morro-de-sao-paulo-tarifa.html"
+      },
+      {
+        "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO: TUPA, bagagem e o que ninguém avisa na chegada",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "experiencia",
+    "tags": [
+      "taxa",
+      "tupa",
+      "bagagem",
+      "sem-carro",
+      "aviso"
+    ],
+    "descricaoCurta": "A taxa de R$ 90 por pessoa, a ladeira do cais e o fato de não existir carro na vila.",
+    "descricaoLonga": "Três coisas que mudam a chegada. (1) TUPA: a Tarifa por Uso do Patrimônio do Arquipélago é municipal, de Cairu, cobrada uma vez por 30 dias, no desembarque ou antecipada pela plataforma/aplicativo da prefeitura. Valor atual R$ 90 - a trajetória confirmada é R$ 50 até 19/12/2025, R$ 70 a partir de 20/12/2025 e R$ 90 depois, com DIVERGÊNCIA de data entre as fontes (Bahia Notícias diz 1º/07/2026; A Tarde diz 1º/08/2026). Como hoje é 08/10/2026, pelas duas versões são R$ 90. Guias de viagem ainda publicam R$ 30 e R$ 50 - ignore. Isenção confirmada: crianças até 5 anos; guias citam também isenção acima de 60 anos e meia para estudante, PcD e baixa renda, o que NÃO verifiquei em norma. (2) Bagagem: não há carro na vila; você desembarca, enfrenta portal e escadaria e carregadores levam a mala em carrinho de mão, com valor combinado na hora - não achei tabela. Mala de rodinha grande em areia e ladeira é má ideia. (3) Toda a locomoção dentro da área turística é a pé pelas vielas e pela areia.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 90,
+      "max": 90,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "TUPA R$ 90 por pessoa, validade 30 dias, cobrada uma vez. Divergência de data de início entre duas reportagens (jul x ago/2026), mesmo valor. Páginas de guia com R$ 30/R$ 50 estão defasadas. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]
