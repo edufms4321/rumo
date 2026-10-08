@@ -528,8 +528,7 @@
         "Fechado seg (parque) e ter (Playa Escondida)"
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "precisa-reservar",

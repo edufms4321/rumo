@@ -20,6 +20,10 @@
       {
         "url": "https://www.openstreetmap.org/node/7137489387",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Reflexos_na_Baia_dos_Golfinhos_-_Pipa.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -48,7 +52,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Reflexos_na_Baia_dos_Golfinhos_-_Pipa.jpg/1280px-Reflexos_na_Baia_dos_Golfinhos_-_Pipa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Gustavo Mitilene Cordeiro",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Reflexos_na_Baia_dos_Golfinhos_-_Pipa.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -64,12 +75,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -6.224629,
-      "lng": -35.061171
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-pipa-chapadao",
@@ -89,6 +95,10 @@
       {
         "url": "https://www.openstreetmap.org/way/578226257",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chapad%C3%A3o_Pipa_RN.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -117,7 +127,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chapad%C3%A3o_Pipa_RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Universos Paralelos de Can!",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chapad%C3%A3o_Pipa_RN.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -133,12 +150,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -6.239207,
-      "lng": -35.037568
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-pipa-por-do-sol-em-pipa-onde-e-a-que-hora-por-mes",
@@ -193,10 +205,6 @@
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/praia-do-centro-pipa-19-176-l.html"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/4429426698",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -238,12 +246,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -6.227512,
-      "lng": -35.050693
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-pipa-praia-do-amor",
@@ -257,6 +260,10 @@
       {
         "url": "https://www.openstreetmap.org/way/445318073",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Praia_amor_pipa.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -284,7 +291,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Praia_amor_pipa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Flickr user: Guilherme Morais https://www.flickr.com/photos/onlyice/",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Praia_amor_pipa.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -300,12 +314,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -6.231763,
-      "lng": -35.041799
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-pipa-praia-do-madeiro",
@@ -315,6 +324,10 @@
       },
       {
         "url": "https://vivepipa.com/en/posts/blog/74-pipas-ecological-sanctuary"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pontinha_do_Madeiro_-_Praia_do_Madeiro_-_Pipa.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -342,7 +355,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pontinha_do_Madeiro_-_Praia_do_Madeiro_-_Pipa.jpg/1280px-Pontinha_do_Madeiro_-_Praia_do_Madeiro_-_Pipa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Gustavo Mitilene Cordeiro",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pontinha_do_Madeiro_-_Praia_do_Madeiro_-_Pipa.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -373,6 +393,10 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/santuario-ecologico-praia-da-pipa-19-184-l.html"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_Ecol%C3%B3gico_de_Pipa.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -415,7 +439,14 @@
       "whatsapp": "+55 84 99982-8044",
       "instagram": "@santuarioecopipa"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Santu%C3%A1rio_Ecol%C3%B3gico_de_Pipa.jpg/1280px-Santu%C3%A1rio_Ecol%C3%B3gico_de_Pipa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Helder da Rocha",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_Ecol%C3%B3gico_de_Pipa.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -441,10 +472,6 @@
       },
       {
         "url": "https://www.viciadaemviajar.com/onde-comer-em-pipa-rn/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/28659530",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -482,12 +509,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -6.237613,
-      "lng": -35.041181
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-pipa-passeio-de-barco-para-ver-golfinhos",
@@ -547,7 +569,6 @@
       "outras": [],
       "dependeDeClima": true,
       "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18,
       "dependeDeMare": true
     },
     "selos": [

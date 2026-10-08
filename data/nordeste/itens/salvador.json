@@ -7,6 +7,10 @@
       },
       {
         "url": "https://pt.wikipedia.org/wiki/Salvador"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pelourinho,_Salvador,_Brazil.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -37,7 +41,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pelourinho%2C_Salvador%2C_Brazil.jpg/1280px-Pelourinho%2C_Salvador%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "CivArmy",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pelourinho,_Salvador,_Brazil.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -66,6 +77,10 @@
       {
         "url": "https://www.openstreetmap.org/way/59224731",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -104,7 +119,14 @@
     "contato": {
       "telefone": "(71) 3202-7655"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg/1280px-Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Paul R. Burley",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -116,12 +138,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -12.974088,
-      "lng": -38.51336
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ssa-mercado-modelo",
@@ -135,6 +152,10 @@
       {
         "url": "https://www.openstreetmap.org/way/59392558",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_Salvador_2019-0436.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -164,7 +185,14 @@
     "contato": {
       "telefone": "(71) 3242-5860"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Mercado_Modelo_Salvador_2019-0436.jpg/1280px-Mercado_Modelo_Salvador_2019-0436.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Paul R. Burley",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_Salvador_2019-0436.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -177,12 +205,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -12.972947,
-      "lng": -38.51401
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ssa-fundacao-casa-de-jorge-amado",
@@ -193,6 +216,10 @@
       {
         "url": "https://www.openstreetmap.org/node/1486422689",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Salvador_vista_da_Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado_01.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -229,7 +256,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Salvador_vista_da_Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado_01.jpg/1280px-Salvador_vista_da_Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Parzeus",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Salvador_vista_da_Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado_01.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -241,12 +275,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -12.971697,
-      "lng": -38.508507
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ssa-casa-do-rio-vermelho-jorge-amado-e-zelia-gattai",
@@ -257,6 +286,10 @@
       {
         "url": "https://www.openstreetmap.org/way/474260844",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Casa_do_Rio_Vermelho_Salvador_Bahia_2017-1002.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -297,7 +330,14 @@
       "whatsapp": "(71) 99626-1036",
       "instagram": "@casadoriovermelho"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Casa_do_Rio_Vermelho_Salvador_Bahia_2017-1002.jpg/1280px-Casa_do_Rio_Vermelho_Salvador_Bahia_2017-1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Paul R. Burley",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_do_Rio_Vermelho_Salvador_Bahia_2017-1002.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -309,12 +349,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -13.007701,
-      "lng": -38.489739
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ssa-farol-da-barra-e-museu-nautico-da-bahia",
@@ -392,6 +427,10 @@
       {
         "url": "https://www.openstreetmap.org/relation/8455912",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Praia_do_Porto_da_Barra_(Salvador).jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -418,7 +457,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Praia_do_Porto_da_Barra_%28Salvador%29.jpg/1280px-Praia_do_Porto_da_Barra_%28Salvador%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Roberto Sabino",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Praia_do_Porto_da_Barra_(Salvador).jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -433,12 +479,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -13.003167,
-      "lng": -38.532851
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ssa-praias-do-norte-de-salvador-stella-maris-e-flamengo",
@@ -716,6 +757,10 @@
       },
       {
         "url": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Terminal_de_Ferry-Boat_de_S%C3%A3o_Joaquim_durante_a_sa%C3%ADda_de_Salvador_para_o_Ano_Novo.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -755,7 +800,14 @@
     "contato": {
       "site": "https://portalsits.internacionaltravessias.com.br"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Terminal_de_Ferry-Boat_de_S%C3%A3o_Joaquim_durante_a_sa%C3%ADda_de_Salvador_para_o_Ano_Novo.jpg/1280px-Terminal_de_Ferry-Boat_de_S%C3%A3o_Joaquim_durante_a_sa%C3%ADda_de_Salvador_para_o_Ano_Novo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Fotos GOVBA from Bahia/Brasil",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Terminal_de_Ferry-Boat_de_S%C3%A3o_Joaquim_durante_a_sa%C3%ADda_de_Salvador_para_o_Ano_Novo.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -780,6 +832,10 @@
     "fontes": [
       {
         "url": "https://dicasdabahia.com.br/salvador/como-fazer-um-bate-e-volta-de-salvador-para-itaparica/"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ilha_Itaparica_vista_de_Salvador.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -807,7 +863,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ilha_Itaparica_vista_de_Salvador.jpg/1280px-Ilha_Itaparica_vista_de_Salvador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "André Koehne",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Ilha_Itaparica_vista_de_Salvador.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

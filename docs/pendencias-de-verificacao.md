@@ -400,8 +400,8 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confiança: verificado | 186 |
 | Confiança: parcialmente verificado | 203 |
 | Confiança: estimado | 8 |
-| Com coordenada | 167 de 343 |
-| Com imagem de licença livre | 0 de 343 |
+| Com coordenada | 115 de 343 |
+| Com imagem de licença livre | 55 de 343 |
 | Com algum contato | 67 de 343 |
 | Coletado há mais de um ano | 0 |
 ### Preço não encontrado — 185
@@ -453,7 +453,7 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 
 _...e mais 145. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 34
+### Preço com uma fonte só — 38
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
@@ -474,11 +474,14 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Restaurante Varanda | Fernando de Noronha | segunda fonte de preço |
 | Passeio das 4 praias (Engenhoca, Havaizinho, Itacarezinho, Camboinha) | Itacaré | segunda fonte de preço |
 | Rafting no Rio de Contas (Taboquinhas) | Itacaré | segunda fonte de preço |
+| Flor do Cacau (moqueca e bobó na Pituba) | Itacaré | segunda fonte de preço |
 | Ilhéus: centro histórico de Jorge Amado (Bataclan, Vesúvio, Casa de Cultura) | Itacaré | segunda fonte de preço |
 | Barra Grande e Península de Maraú: a travessia de Camamu | Itacaré | segunda fonte de preço |
 | Compras na Rua Principal e o crochê de Jeri | Jericoacoara | segunda fonte de preço |
 | Poço Azul | Lençóis | segunda fonte de preço |
 | Vale do Pati (travessia de 3 a 5 dias) | Lençóis | segunda fonte de preço |
+| Parque da Muritiba: Serrano, Poço Halley, Primavera e Cachoeirinha | Lençóis | segunda fonte de preço |
+| Cachoeira do Mosquito | Lençóis | segunda fonte de preço |
 | Vale do Capão (Caeté-Açu) | Lençóis | segunda fonte de preço |
 | Transfer semi-terrestre Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
 | Táxi-aéreo Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
@@ -491,6 +494,7 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Parraxaxá | Recife | segunda fonte de preço |
 | Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica) | Salvador | segunda fonte de preço |
 | Projeto Tamar Praia do Forte | Salvador | segunda fonte de preço |
+| Cabana do Sol | São Luís | segunda fonte de preço |
 | Praia dos Coqueiros e Praia dos Nativos | Trancoso | segunda fonte de preço |
 | Balsa Porto Seguro - Arraial d'Ajuda | Trancoso | segunda fonte de preço |
 
@@ -582,7 +586,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
 - _...e mais 93._
 
-### Sem coordenada — 176
+### Sem coordenada — 228
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -590,13 +594,16 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 |---|---|---|
 | Mercados Municipais de Aracaju (Antonio Franco, Thales Ferraz e Maria Virginia) | Aracaju | coordenada |
 | Teleferico de Aracaju e Parque da Cidade | Aracaju | coordenada |
+| Oceanario de Aracaju (Projeto Tamar) | Aracaju | coordenada |
 | Memorial de Sergipe | Aracaju | coordenada |
 | Orla da Atalaia e Passarela do Caranguejo | Aracaju | coordenada |
 | Croa do Gore e Ilha dos Namorados | Aracaju | coordenada |
 | Praia de Aruana e Aruana al Mare | Aracaju | coordenada |
 | Duna Beach Club (praia do Mosqueiro) | Aracaju | coordenada |
 | Centro Cultural de Aracaju e Palacio Olimpio Campos | Aracaju | coordenada |
+| Cariri (forro pe de serra ao vivo) | Aracaju | coordenada |
 | Cacarola | Aracaju | coordenada |
+| Carne de Sol do Ramiro | Aracaju | coordenada |
 | Confraria do Cajueiro | Aracaju | coordenada |
 | Tole Cozinha | Aracaju | coordenada |
 | Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | coordenada |
@@ -605,7 +612,9 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Planctons luminescentes na foz do Rio Pregucas | Atins | coordenada |
 | Praia de Atins e suas barracas | Atins | coordenada |
 | Kitesurf em Atins | Atins | coordenada |
+| Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | coordenada |
 | Okaru (Pousada Vila Aty) | Atins | coordenada |
+| La Pizza (Atins) | Atins | coordenada |
 | Casa de Juja Atins | Atins | coordenada |
 | Charme Beach Bar e a noite de Atins | Atins | coordenada |
 | Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro) | Atins | coordenada |
@@ -619,17 +628,12 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | coordenada |
 | Circuito Betania (Santo Amaro) | Barreirinhas | coordenada |
 | Restaurantes da beira-rio de Barreirinhas (A Canoa, O Bambu, O Jacare) | Barreirinhas | coordenada |
+| Bambae | Barreirinhas | coordenada |
 | Urra Beer Barreirinhas | Barreirinhas | coordenada |
+| Nautz Lounge Bar | Barreirinhas | coordenada |
 | Casa dos Lencois (Santo Amaro) | Barreirinhas | coordenada |
-| Símbolo da Lua e Estrela na falésia | Canoa Quebrada | coordenada |
-| Duna do Pôr do Sol de Canoa | Canoa Quebrada | coordenada |
-| Passeio de buggy local (dunas, tirolesa e skibunda) | Canoa Quebrada | coordenada |
-| Buggy Rota das Falésias (até Ponta Grossa) | Canoa Quebrada | coordenada |
-| Rio Jaguaribe e o passeio de jardineira | Canoa Quebrada | coordenada |
-| Kitesurf em Canoa Quebrada | Canoa Quebrada | coordenada |
-| Parapente em Canoa Quebrada | Canoa Quebrada | coordenada |
 
-_...e mais 136. `npm run validate:data` imprime a lista inteira._
+_...e mais 188. `npm run validate:data` imprime a lista inteira._
 
 ---
 

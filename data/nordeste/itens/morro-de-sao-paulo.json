@@ -236,8 +236,7 @@
       "outras": [],
       "dependeDeClima": true,
       "dependeDeMare": false,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 17
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "precisa-reservar",
@@ -261,6 +260,10 @@
       {
         "url": "https://www.openstreetmap.org/relation/10608960",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Segunda_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -297,7 +300,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Segunda_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.jpg/1280px-Segunda_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Beto Quissak",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Segunda_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -312,12 +322,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -13.379664,
-      "lng": -38.912033
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-msp-terceira-praia",
@@ -328,6 +333,10 @@
       {
         "url": "https://www.openstreetmap.org/relation/10608959",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Terceira_praia_-_Morro_de_S%C3%A3o_Paulo.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -354,7 +363,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Terceira_praia_-_Morro_de_S%C3%A3o_Paulo.jpg/1280px-Terceira_praia_-_Morro_de_S%C3%A3o_Paulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Afmoura",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Terceira_praia_-_Morro_de_S%C3%A3o_Paulo.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -369,12 +385,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -13.383331,
-      "lng": -38.908761
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-msp-quarta-praia",
@@ -385,6 +396,10 @@
       {
         "url": "https://www.openstreetmap.org/node/11980004637",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Quarta_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -421,7 +436,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Quarta_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.JPG/1280px-Quarta_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Carol Liguori",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Quarta_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -435,12 +457,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -13.387201,
-      "lng": -38.905279
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-msp-quinta-praia-praia-do-encanto",
@@ -796,10 +813,6 @@
       },
       {
         "url": "https://www.360meridianos.com/morro-de-sao-paulo"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/2067458981",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -855,12 +868,7 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -13.376679,
-      "lng": -38.917206
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-msp-onde-comer-no-centrinho-de-morro-de-sao-paulo",
@@ -988,6 +996,10 @@
     "fontes": [
       {
         "url": "https://www.morrodesaopaulocatamara.com/post/cairu-arquipelago"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fortaleza_do_Morro_de_S%C3%A3o_Paulo_-_Cairu_-_20240822165806.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1015,7 +1027,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fortaleza_do_Morro_de_S%C3%A3o_Paulo_-_Cairu_-_20240822165806.jpg/1280px-Fortaleza_do_Morro_de_S%C3%A3o_Paulo_-_Cairu_-_20240822165806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ednei Fialho Lopes",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Fortaleza_do_Morro_de_S%C3%A3o_Paulo_-_Cairu_-_20240822165806.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

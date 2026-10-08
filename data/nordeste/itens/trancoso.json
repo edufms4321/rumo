@@ -238,6 +238,10 @@
       },
       {
         "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Praia_do_Espelho_2,_APA_Cara%C3%ADva_Trancoso.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -275,7 +279,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Praia_do_Espelho_2%2C_APA_Cara%C3%ADva_Trancoso.JPG/1280px-Praia_do_Espelho_2%2C_APA_Cara%C3%ADva_Trancoso.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Daniel Souza Lima",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Praia_do_Espelho_2,_APA_Cara%C3%ADva_Trancoso.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

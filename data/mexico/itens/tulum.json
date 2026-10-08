@@ -415,8 +415,7 @@
         "Usar produtos biodegradáveis."
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "depende-do-clima",
@@ -1026,8 +1025,7 @@
     "agendavel": true,
     "restricoes": {
       "outras": [],
-      "dependeDeClima": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeClima": true
     },
     "selos": [
       "depende-do-clima",

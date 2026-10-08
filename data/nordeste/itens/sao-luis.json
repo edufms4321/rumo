@@ -7,6 +7,10 @@
       },
       {
         "url": "https://pt.wikipedia.org/w/api.php?action=query&prop=coordinates&format=json&titles=S%C3%A3o%20Lu%C3%ADs%20%28Maranh%C3%A3o%29"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs_3.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -37,7 +41,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs_3.JPG/1280px-Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "SLRTDM",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs_3.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -63,6 +74,10 @@
       {
         "url": "https://www.openstreetmap.org/node/4357918501",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:DouglasJunior_Casa_das_Tulhas_S%C3%A3o_Lu%C3%ADs_MA_(41569924332).jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -89,7 +104,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/DouglasJunior_Casa_das_Tulhas_S%C3%A3o_Lu%C3%ADs_MA_%2841569924332%29.jpg/1280px-DouglasJunior_Casa_das_Tulhas_S%C3%A3o_Lu%C3%ADs_MA_%2841569924332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "MTur Destinos",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:DouglasJunior_Casa_das_Tulhas_S%C3%A3o_Lu%C3%ADs_MA_(41569924332).jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -103,22 +125,13 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.529313,
-      "lng": -44.305656
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-centro-cultural-vale-maranhao",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/857796146",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -162,12 +175,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.531645,
-      "lng": -44.30509
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-casa-de-nhozinho",
@@ -178,6 +186,10 @@
       {
         "url": "https://www.openstreetmap.org/node/4844512423",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:DouglasJunior_Casa_de_Nhozinho_S%C3%A3o_Luis_MA_(40823332932).jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -203,7 +215,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/DouglasJunior_Casa_de_Nhozinho_S%C3%A3o_Luis_MA_%2840823332932%29.jpg/1280px-DouglasJunior_Casa_de_Nhozinho_S%C3%A3o_Luis_MA_%2840823332932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "MTur Destinos",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:DouglasJunior_Casa_de_Nhozinho_S%C3%A3o_Luis_MA_(40823332932).jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -217,22 +236,13 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.529138,
-      "lng": -44.306712
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-museu-do-reggae",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/686153453",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -270,22 +280,13 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.528866,
-      "lng": -44.30561
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-casa-do-tambor-de-crioula",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/973104322",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -323,12 +324,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.530494,
-      "lng": -44.305415
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-teatro-arthur-azevedo",
@@ -339,6 +335,10 @@
       {
         "url": "https://www.openstreetmap.org/way/973109883",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Brasil_-_Maranh%C3%A3o_-_S%C3%A3o_Luis_-_Teatro_Arthur_Azevedo.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -364,7 +364,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Brasil_-_Maranh%C3%A3o_-_S%C3%A3o_Luis_-_Teatro_Arthur_Azevedo.JPG/1280px-Brasil_-_Maranh%C3%A3o_-_S%C3%A3o_Luis_-_Teatro_Arthur_Azevedo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Claudinez Lacerda",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Brasil_-_Maranh%C3%A3o_-_S%C3%A3o_Luis_-_Teatro_Arthur_Azevedo.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -379,12 +386,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.52905,
-      "lng": -44.302477
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-palacio-dos-leoes",
@@ -395,6 +397,10 @@
       {
         "url": "https://www.openstreetmap.org/way/409328630",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mar2024._S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o._Pal%C3%A1cio_dos_Le%C3%B5es_02.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -422,7 +428,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mar2024._S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o._Pal%C3%A1cio_dos_Le%C3%B5es_02.jpg/1280px-Mar2024._S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o._Pal%C3%A1cio_dos_Le%C3%B5es_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ridiculopathy",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mar2024._S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o._Pal%C3%A1cio_dos_Le%C3%B5es_02.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -438,12 +451,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -2.526969,
-      "lng": -44.306513
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-slz-praia-do-calhau-e-barraca-landrua",
@@ -655,10 +663,6 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/o-que-fazer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/12387417201",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -703,22 +707,13 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -2.529638,
-      "lng": -44.305678
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-slz-cafofinho-da-tia-dica",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/12385497202",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -765,22 +760,13 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -2.529197,
-      "lng": -44.305661
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-slz-cabana-do-sol",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/891408184",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -838,22 +824,13 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -2.483623,
-      "lng": -44.254394
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-slz-casa-de-juja",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/sao-luis/onde-comer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/14265529643",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -899,12 +876,7 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -2.490949,
-      "lng": -44.30541
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-slz-bate-volta-a-alcantara",

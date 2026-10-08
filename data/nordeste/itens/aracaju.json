@@ -10,6 +10,10 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/onde-comer/"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Museu_da_Gente_Sergipana_-_Aracaju_-_20220920141242.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -42,7 +46,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Museu_da_Gente_Sergipana_-_Aracaju_-_20220920141242.JPG/1280px-Museu_da_Gente_Sergipana_-_Aracaju_-_20220920141242.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Túllio F",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museu_da_Gente_Sergipana_-_Aracaju_-_20220920141242.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -179,8 +190,8 @@
         "url": "https://www.viajenaviagem.com/destino/aracaju/o-que-fazer/"
       },
       {
-        "url": "https://www.openstreetmap.org/way/93284690",
-        "titulo": "OpenStreetMap (coordenada)"
+        "url": "https://commons.wikimedia.org/wiki/File:Ocean%C3%A1rio_de_Aracaju.JPG",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -221,7 +232,14 @@
     "contato": {
       "telefone": "(79) 3243-3214"
     },
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ocean%C3%A1rio_de_Aracaju.JPG/1280px-Ocean%C3%A1rio_de_Aracaju.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Force Line at Portuguese Wikipedia",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Ocean%C3%A1rio_de_Aracaju.JPG"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -236,12 +254,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -10.978943,
-      "lng": -37.040966
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-aju-memorial-de-sergipe",
@@ -606,10 +619,6 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/o-que-fazer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/1662378166",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -656,12 +665,7 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -10.994665,
-      "lng": -37.053235
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-aju-cacarola",
@@ -726,10 +730,6 @@
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/onde-comer/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/1459419002",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -775,12 +775,7 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -10.937016,
-      "lng": -37.052367
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-aju-confraria-do-cajueiro",
@@ -1016,7 +1011,6 @@
       "outras": [],
       "dependeDeClima": true,
       "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18,
       "condicionamento": "baixo"
     },
     "selos": [

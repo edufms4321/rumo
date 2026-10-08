@@ -614,8 +614,7 @@
         "Cabo Adventures: idade mín. 10 anos e peso máx. 114 kg; grávidas e pessoas com problema de coluna não podem"
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "precisa-reservar",
@@ -667,8 +666,7 @@
       "outras": [
         "Aguardar 12 h (1 mergulho) ou 18 h (vários mergulhos/dias) antes de voar"
       ],
-      "dependeDeClima": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeClima": true
     },
     "selos": [
       "depende-do-clima",

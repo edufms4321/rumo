@@ -109,7 +109,6 @@
       "outras": [],
       "dependeDeClima": false,
       "dependeDeLuzDoDia": false,
-      "naoVoarDepoisHoras": 18,
       "dependeDeMare": false
     },
     "selos": [
@@ -823,7 +822,6 @@
       "outras": [],
       "dependeDeClima": true,
       "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18,
       "dependeDeMare": true
     },
     "selos": [
@@ -1301,7 +1299,6 @@
     "restricoes": {
       "outras": [],
       "dependeDeClima": true,
-      "naoVoarDepoisHoras": 18,
       "dependeDeMare": false,
       "dependeDeLuzDoDia": false
     },

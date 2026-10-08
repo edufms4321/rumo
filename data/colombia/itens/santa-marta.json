@@ -1991,8 +1991,7 @@
         "Mar agitado pode cancelar"
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "precisa-reservar",
@@ -2066,8 +2065,7 @@
     "restricoes": {
       "outras": [],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "depende-do-clima",

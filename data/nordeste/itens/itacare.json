@@ -6,8 +6,8 @@
         "url": "https://www.viciadaemviajar.com/praias-de-itacare/"
       },
       {
-        "url": "https://www.openstreetmap.org/relation/10474376",
-        "titulo": "OpenStreetMap (coordenada)"
+        "url": "https://commons.wikimedia.org/wiki/File:Praia_da_Concha_Itacar%C3%A9.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -34,7 +34,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Praia_da_Concha_Itacar%C3%A9.jpg/1280px-Praia_da_Concha_Itacar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "JOAQUIM ANDRADE",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Praia_da_Concha_Itacar%C3%A9.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -49,12 +56,7 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -14.275158,
-      "lng": -38.990453
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ita-praia-do-resende-e-praia-da-tiririca",
@@ -172,8 +174,8 @@
         "url": "https://www.viciadaemviajar.com/praias-de-itacare/"
       },
       {
-        "url": "https://www.openstreetmap.org/relation/10474358",
-        "titulo": "OpenStreetMap (coordenada)"
+        "url": "https://commons.wikimedia.org/wiki/File:Praia_de_Itacar%C3%A9zinho_-_Itacar%C3%A9_-_Bahia_-_Brasil_(8552602430).jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -210,7 +212,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Praia_de_Itacar%C3%A9zinho_-_Itacar%C3%A9_-_Bahia_-_Brasil_%288552602430%29.jpg/1280px-Praia_de_Itacar%C3%A9zinho_-_Itacar%C3%A9_-_Bahia_-_Brasil_%288552602430%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Praia_de_Itacar%C3%A9zinho_-_Itacar%C3%A9_-_Bahia_-_Brasil_(8552602430).jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],
@@ -224,12 +233,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -14.381603,
-      "lng": -39.010093
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-ita-praia-de-jeribucacu",
@@ -482,10 +486,6 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/restaurantes-em-itacare-227-2976-p.html"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/154324045",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -528,22 +528,13 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -14.280416,
-      "lng": -38.99044
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-ita-flor-do-cacau-moqueca-e-bobo-na-pituba",
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/restaurantes-em-itacare-227-2976-p.html"
-      },
-      {
-        "url": "https://www.openstreetmap.org/node/4678873294",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -596,12 +587,7 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    },
-    "coords": {
-      "lat": -14.281242,
-      "lng": -38.988469
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    }
   },
   {
     "id": "br-ita-jilo-e-marley-s-tapas-bar-praia-da-coroa",

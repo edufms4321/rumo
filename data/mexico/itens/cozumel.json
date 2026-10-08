@@ -70,8 +70,7 @@
     "restricoes": {
       "outras": [],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "depende-do-clima",

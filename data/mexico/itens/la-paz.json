@@ -263,8 +263,7 @@
         "Nado com lobos-marinhos proibido de 1 jun a 31 ago (ver item Los Islotes)"
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "precisa-reservar",
@@ -328,8 +327,7 @@
       "outras": [
         "Proibido nadar, mergulhar ou fazer snorkel em Los Islotes de 1 jun a 31 ago"
       ],
-      "dependeDeClima": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeClima": true
     },
     "selos": [
       "depende-do-clima",

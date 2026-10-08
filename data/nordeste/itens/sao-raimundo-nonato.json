@@ -420,10 +420,6 @@
       },
       {
         "url": "https://www.viagensecaminhos.com/serra-da-capivara/"
-      },
-      {
-        "url": "https://www.openstreetmap.org/way/556077869",
-        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -479,12 +475,7 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ],
-    "coords": {
-      "lat": -9.032555,
-      "lng": -42.700843
-    },
-    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+    ]
   },
   {
     "id": "br-srn-museu-da-natureza",

@@ -671,8 +671,7 @@
     "restricoes": {
       "outras": [],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "gratuito",
@@ -870,8 +869,7 @@
         "Respeitar áreas de banho e horários (viajasanandres)"
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "depende-do-clima",
@@ -2903,8 +2901,7 @@
         "Tolerância zero para álcool em blitz (Exploria)",
         "CNH brasileira: 3 relatos de brasileiros (Uma Sul-Americana, Melhores Destinos, Instaviagem via busca) dizem que a CNH foi aceita — num caso nem foi pedida. Mas a HSH Travels relata que a MOTOS SAI recusou habilitação internacional/europeia e exigiu carteira colombiana (caso de scooter). Leve CNH física + passaporte + Permissão Internacional para Dirigir (PID) por precaução (Dicas da Colômbia recomenda o PID)."
       ],
-      "dependeDeClima": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeClima": true
     },
     "selos": [
       "precisa-reservar",

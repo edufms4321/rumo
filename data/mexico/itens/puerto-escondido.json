@@ -64,8 +64,7 @@
         "Não é recomendada para natação nem iniciantes em surfe."
       ],
       "dependeDeClima": true,
-      "dependeDeLuzDoDia": true,
-      "naoVoarDepoisHoras": 18
+      "dependeDeLuzDoDia": true
     },
     "selos": [
       "depende-do-clima",

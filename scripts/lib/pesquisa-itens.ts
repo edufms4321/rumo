@@ -23,7 +23,19 @@ import {
 
 const RE_CLIMA = /barco|lancha|catamar|\bmar\b|snorkel|mergulho|praia|vela|caiaque|ilha|\bcay\b/i;
 const RE_LUZ = /p[oô]r[- ]do[- ]sol|mirante|trilha|praia|amanhecer|sunset|nascer do sol/i;
-const RE_MERGULHO = /mergulho|scuba|diving|buceo|bautizo de mar/i;
+/*
+  Mergulho AUTONOMO, nao qualquer mencao a agua.
+
+  A versao anterior procurava "mergulho" no texto inteiro do item e
+  marcava `naoVoarDepoisHoras`, que gera alerta de ERRO. O resultado foi
+  um Mercado de Sao Jose, um taxi-aereo e uma praia de surfe mandando o
+  usuario nao voar — e alerta falso em nivel de erro estraga a confianca
+  em todos os outros. Agora a regra olha so o NOME e as TAGS (e o que o
+  item e, nao o que a descricao menciona de passagem) e exige termo de
+  cilindro: snorkel e flutuacao nao pedem intervalo antes de voar.
+*/
+const RE_MERGULHO =
+  /mergulho (?:aut[oô]nomo|com cilindro|cilindro)|batismo de mergulho|scuba|open water|fun dive|diving|buceo|bautizo de mar|padi|mergulho/i;
 const RE_PEGA_TURISTA = /pega-?turista|turist[aã]o|armadilha|cilada/i;
 
 function textoDoItem(i: Json): string {
@@ -100,14 +112,41 @@ function derivarRestricoes(i: Json): Json {
     r.dependeDeLuzDoDia = true;
     derivado('dependeDeLuzDoDia deduzido do texto ou da categoria');
   }
-  if (RE_MERGULHO.test(texto)) {
+  // Item que nao se agenda e um aviso, nao uma atividade: nao gera regra.
+  const identidade = [i.nome, ...(i.tags ?? [])].filter(Boolean).join(' ');
+  // A pesquisa tambem pode dizer a regra em palavras, na lista de
+  // restricoes ("Nao voar nas 12-18 h seguintes (DAN)"). Isso e afirmacao
+  // do pesquisador, e vale mais do que qualquer deducao de nome.
+  const declaradoEmTexto = (r.outras as string[]).some((t) =>
+    /n[ãa]o voar|nao voar|intervalo de superf[ií]cie|DAN/i.test(t),
+  );
+  const ehMergulho = declaradoEmTexto || RE_MERGULHO.test(identidade);
+  if (i.agendavel !== false && ehMergulho) {
     // Minimo da DAN: 12 h apos um mergulho, 18 h apos mergulhos repetidos.
     r.naoVoarDepoisHoras = 18;
     derivado('naoVoarDepoisHoras = 18 (minimo DAN para mergulhos repetidos)');
   }
 
   // O declarado pela pesquisa entra por ultimo e manda.
-  return { ...r, ...declarado };
+  const final = { ...r, ...declarado } as Json;
+
+  /*
+    Uma excecao ao "o declarado manda": a regra de nao voar.
+
+    Ela gera alerta de ERRO, e a pesquisa a pendurou em coisas que nao sao
+    mergulho — num taxi-aereo e num cartao de aviso sobre fuso horario.
+    A intencao era boa ("cuidado com voo depois de mergulhar") mas o campo
+    significa "esta atividade e um mergulho", e o motor acusaria conflito
+    num dia legitimo. Entao a regra so sobrevive se o item for, de fato,
+    um mergulho — por nome/tag ou por afirmacao escrita — e nunca num item
+    que nem se agenda.
+  */
+  if (final.naoVoarDepoisHoras && !(ehMergulho && i.agendavel !== false)) {
+    delete final.naoVoarDepoisHoras;
+    derivado('naoVoarDepoisHoras descartado: o item nao e uma atividade de mergulho');
+  }
+
+  return final;
 }
 
 function derivarSelos(i: Json, temPreco: boolean, gratuito: boolean): string[] {
