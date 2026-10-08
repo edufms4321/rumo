@@ -401,7 +401,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confiança: parcialmente verificado | 203 |
 | Confiança: estimado | 8 |
 | Com coordenada | 115 de 343 |
-| Com imagem de licença livre | 55 de 343 |
+| Com imagem de licença livre | 53 de 343 |
 | Com algum contato | 67 de 343 |
 | Coletado há mais de um ano | 0 |
 ### Preço não encontrado — 185
