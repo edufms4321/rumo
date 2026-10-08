@@ -122,15 +122,15 @@ npm run validate          # typecheck + lint + test + validate:data
 
 | | |
 |---|---|
-| destinos | 3 — Colômbia, México, Nordeste brasileiro |
-| itens | 731 em 57 bases |
-| testes do motor | 147, verdes |
-| testes de navegador | 20 Playwright + 3 de acessibilidade, verdes |
+| destinos | 4 — Colômbia, México, Nordeste brasileiro, Punta Cana (pesquisa em curso) |
+| itens | 832 em 57 bases |
+| testes do motor | 151, verdes |
+| testes de navegador | 22, verdes (inclui 3 de acessibilidade) |
 | validação de dados | 0 erro |
 | acessibilidade | 0 violação axe em 9 telas × 2 temas |
 | pacote inicial | ~171 kB gz; o banco de cada destino vem sob demanda |
 
-O Nordeste está **incompleto de propósito**: faltam Pernambuco, Fernando de Noronha e Alagoas (a onda de pesquisa foi interrompida). As 17 bases que existem funcionam.
+Nordeste completo: 397 itens nas 23 bases. Punta Cana tem a configuração e as coordenadas das 6 bases; a pesquisa de lugares e logística está em curso.
 
 ## Armadilhas já pagas (não repetir)
 
@@ -142,6 +142,9 @@ O Nordeste está **incompleto de propósito**: faltam Pernambuco, Fernando de No
 - **Os scripts de enriquecimento escrevem em `ajustes-manuais.json`, nunca em `/data`.** `/data` é regenerado pelo importador; escrever lá perde o trabalho na próxima importação (já perdi duas coordenadas assim).
 - **Casar nome de lugar por texto erra feio.** Buscar coordenada por `display_name` me deu um café no lugar da cidade de Filandia e uma pousada no lugar da Playa San Luis; buscar imagem sem exigir a cidade me deu uma praia "Coco Loco" para uma discoteca. Rode sempre sem `--gravar` primeiro.
 - **Campo numérico 0 nos arquivos de pesquisa significa "sem fonte"**, não zero de verdade.
+- **Script longo que grava arquivo precisa reler o disco antes de salvar.** A rodada de imagens do Nordeste demorou minutos e gravou por cima do bloco de emergência que eu tinha escrito nesse meio-tempo — a suíte foi para o vermelho e eu empurrei assim.
+- **Regra derivada de regex sobre a descrição inteira erra feio.** "Não voar depois de mergulhar" (nível de **erro**) caiu em 32 itens, entre eles um mercado e um táxi-aéreo, porque a palavra aparecia na descrição. Regra que gera erro olha o nome e as tags, nunca o texto corrido.
+- **O raio de busca de coordenada é medido da cidade-base**, e bate-volta é longe de propósito: Praia do Forte está a 65 km de Salvador. Raio apertado rejeita o certo e aceita o homônimo perto.
 
 ## Comandos de verificação (rodar antes de dizer que algo está pronto)
 
