@@ -109,9 +109,10 @@ async function buscarNoCommons(termo: string): Promise<Pagina[]> {
   return Object.values(corpo.query?.pages ?? {});
 }
 
-function escolher(paginas: Pagina[], termo: string): Imagem | undefined {
+function escolher(paginas: Pagina[], termo: string, cidade: string): Imagem | undefined {
   const alvo = palavrasFortes(termo);
   if (alvo.length === 0) return undefined;
+  const daCidade = palavrasFortes(cidade);
 
   for (const p of paginas) {
     const info = p.imageinfo?.[0];
@@ -127,15 +128,23 @@ function escolher(paginas: Pagina[], termo: string): Imagem | undefined {
     const credito = limparHtml(meta.Artist?.value ?? meta.Credit?.value ?? '');
     if (!credito) continue; // o schema exige credito; sem autor, fora
 
-    // O nome do ARQUIVO precisa conter todas as palavras fortes do termo,
-    // e os dois conjuntos precisam se parecer. Sem isso, "Playa" casa com
-    // qualquer praia do mundo.
+    // O nome do ARQUIVO precisa conter todas as palavras fortes do termo.
     const doArquivo = palavrasFortes(p.title.replace(/^File:/, ''));
     const conjunto = new Set(doArquivo);
     if (!alvo.every((w) => conjunto.has(w))) continue;
-    const comuns = alvo.filter((w) => conjunto.has(w)).length;
-    const uniao = new Set([...alvo, ...doArquivo]).size;
-    if (comuns / uniao < 0.4) continue;
+
+    // Uma palavra so nao identifica nada: "Pereira" e tambem um sobrenome,
+    // "Esmeraldas" e uma cidade do Equador, "Filandia" casa com qualquer
+    // arquivo cujo nome mencione a vila. Quando o nome do item tem uma
+    // unica palavra forte, o arquivo precisa trazer tambem a cidade.
+    const cidadeNoArquivo = daCidade.filter((w) => conjunto.has(w));
+    if (alvo.length < 2 && cidadeNoArquivo.length === 0) continue;
+
+    // E os dois conjuntos precisam se parecer de verdade: senao
+    // "Mercado del Rio" casa com uma foto de dez mercados.
+    const exigido = [...new Set([...alvo, ...cidadeNoArquivo])];
+    const uniao = new Set([...exigido, ...doArquivo]).size;
+    if (exigido.length / uniao < 0.5) continue;
 
     return {
       url: info.thumburl,
@@ -175,14 +184,15 @@ async function main() {
       if (item.agendavel === false) continue;
 
       const nucleo = termoDeBusca(item.nome);
+      const cidadeNome = porCidade.get(item.cidadeId) ?? '';
       tentadas += 1;
       await dormir(ESPERA_MS);
 
       let escolhida: Imagem | undefined;
       // Duas tentativas: com a cidade (desambigua) e sem (amplia).
-      for (const termo of [`${nucleo} ${porCidade.get(item.cidadeId) ?? ''}`.trim(), nucleo]) {
+      for (const termo of [`${nucleo} ${cidadeNome}`.trim(), nucleo]) {
         try {
-          escolhida = escolher(await buscarNoCommons(termo), nucleo);
+          escolhida = escolher(await buscarNoCommons(termo), nucleo, cidadeNome);
         } catch (erro) {
           console.error(`  ! ${item.id}: ${(erro as Error).message}`);
         }

@@ -20,7 +20,8 @@
     "e2e": "playwright test",
     "e2e:ui": "playwright test --ui",
     "coords": "tsx scripts/completar-coordenadas.ts",
-    "imagens": "tsx scripts/completar-imagens.ts"
+    "imagens": "tsx scripts/completar-imagens.ts",
+    "pendencias": "tsx scripts/gerar-pendencias.ts"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

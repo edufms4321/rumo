@@ -1,143 +1,336 @@
 # Pendências de verificação
 
-> Gerado a partir da onda A da pesquisa (2026-10-08) e dos avisos de `npm run validate:data`.
->
-> Isto é o que **não** foi possível confirmar em fonte confiável. Nada daqui foi inventado para tapar buraco: o campo ficou vazio e o item entrou no banco com o selo de confiança rebaixado. Confirme por WhatsApp ou telefone antes de contar com qualquer coisa desta lista.
+> Gerado por `npm run pendencias` em 2026-10-08. Não edite à mão: rode de novo.
 
-## Como está o banco hoje
+Isto é o que **não** foi possível confirmar em fonte confiável.
 
+Nada daqui foi inventado para tapar buraco. Quando a fonte não existia, o campo ficou vazio e o item entrou no banco com o selo de confiança rebaixado — é por isso que esta lista é longa. Uma lista curta aqui significaria que alguém preencheu com número plausível.
+
+Confirme por WhatsApp ou telefone antes de contar com qualquer coisa desta lista. Na tela **Reservas**, cada pendência tem uma mensagem pronta em espanhol para copiar. Depois de confirmar, use **"Eu confirmei isto"** no detalhe do item: a sua confirmação passa a valer por cima do banco, com a sua data.
+
+---
+
+## Colombia
 | Medida | Número |
 |---|---|
-| Itens | 58 (30 Cartagena, 28 San Andrés) |
-| Confiança: verificado | 4 |
-| Confiança: parcialmente verificado | 46 |
-| Confiança: estimado | 8 |
-| Com imagem licenciada | 28 de 58 |
-| Com coordenada | 41 de 58 |
-| Sem preço encontrado | 10 |
-| Precisam de reserva | 17 |
-| Com horário divergente entre fontes | 9 |
+| Itens | 169 (166 agendáveis) |
+| Bases | 8 |
+| Confiança: verificado | 27 |
+| Confiança: parcialmente verificado | 122 |
+| Confiança: estimado | 20 |
+| Com coordenada | 138 de 166 |
+| Com imagem de licença livre | 96 de 166 |
+| Com algum contato | 64 de 166 |
+| Coletado há mais de um ano | 0 |
+### Preço não encontrado — 46
 
-Os agentes de pesquisa relataram que **Firecrawl e Perplexity devolveram erro 401** (sem chave configurada), e que Tripadvisor, GetYourGuide e Viator bloqueiam acesso (403). Toda a coleta saiu de busca na web e de sites oficiais. Se você configurar as chaves desses serviços, as ondas B e C ficam melhores.
+O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
----
-
-## 1. San Andrés — o que mais importa para você
-
-### Aluguel de buggy / mulita (a atividade que você marcou como obrigatória)
-
-| Locadora | O que falta confirmar | Contato |
+| Item | Base | O que falta |
 |---|---|---|
-| RentcarX | Documentos exigidos, idade mínima, seguro, combustível e caução — o site publica a tabela de preços mas **não detalha nada disso** | WhatsApp +57 310 5105555 · rentcarx.com |
-| Rolling San Andrés | Valor da caução reembolsável; se a política de cancelamento cobre mau tempo (a página **não** menciona clima) | WhatsApp +57 322 898 7032 · @rollingplayas |
-| Alquiler Speed Racer | **Preço real** (o que está no banco é faixa de mercado da ilha, não desta loja) e endereço. Fonte única: um blog de nov/2025 | WhatsApp +57 315 507 5032 · @alquiler_speedracer |
-| Parchill | Valor da caução e o que o "seguro básico incluído" realmente cobre | +57 322 642 3080 · parchill.com |
-| Chemas Scooter / MOTOS SAI | Telefone e endereço de ambas — **não foram encontrados** | sem contato verificado |
+| La Candelaria: centro histórico a pé com free tour | Bogota | preço |
+| Monserrate a pé (sendero peatonal) | Bogota | preço |
+| Plaza de Mercado de Paloquemao | Bogota | preço |
+| Mercado de las Pulgas de Usaquén (domingo) | Bogota | preço |
+| Andrés Carne de Res (Chía) | Bogota | preço |
+| Andrés D.C. (Zona Rosa, Bogotá) | Bogota | preço |
+| Galerías (Teusaquillo) | Bogota | preço |
+| Artesanato: Pasaje Rivas e Mercado San Alejo | Bogota | preço |
+| Café de especialidade (Cultor, Azahar, Libertario, Colo) | Bogota | preço |
+| Guatavita (pueblo novo) e Embalse de Tominé | Bogota | preço |
+| Las Bóvedas (artesanato e galeria) | Cartagena | preço |
+| Playa Cholón / barco-festa (Cholón party boat) | Cartagena | preço |
+| Esmeraldas em Cartagena – como não ser enganado | Cartagena | preço |
+| La Boquilla – passeio de canoa nos manguezais | Cartagena | preço |
+| Pueblito Paisa e Cerro Nutibara | Medellin | preço |
+| Son Havana (salsa em Laureles) | Medellin | preço |
+| Mercado del Río | Medellin | preço |
+| Placita de Flórez | Medellin | preço |
+| Pergamino Café (Laureles) | Medellin | preço |
+| El Hueco e ruas de outlets (centro) | Medellin | preço |
+| Praia de Palomino e pôr do sol — alerta de correnteza | Palomino | preço |
+| Plaza de Bolívar e a noite real de Salento | Salento | preço |
+| Artesanato e lembranças na Calle Real (e onde comprar melhor) | Salento | preço |
+| Café Jesús Martín – café e bolo de chocolate | Salento | preço |
+| Billar Danubio – bar tradicional | Salento | preço |
+| Aeroporto Matecaña (PEI, Pereira) – chegada e traslado a Salento | Salento | preço |
+| Aeroporto El Edén (AXM, Armenia/La Tebaida) – chegada e traslado a Salento | Salento | preço |
+| Café para levar: onde comprar sem preço de turista | Salento | preço |
+| Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto) | Salento | preço |
+| Playa San Luis | San Andres | preço |
+| La Piscinita e West View | San Andres | preço |
+| Sea Pride Scuba (Escuela de Buceo Sea Pride) | San Andres | preço |
+| Coco Loco (discoteca na zona rosa) | San Andres | preço |
+| Bares da zona rosa e música ao vivo (Caribbean Pub, Banzai, Blue Deep, Éxtasis, La Regatta) | San Andres | preço |
+| Compras na zona franca / duty free (Av. 20 de Julio e centro) | San Andres | preço |
+| Trilha El Zaino – Cañaveral – Arrecifes – La Piscina – Cabo San Juan | Santa Marta | preço |
+| Cabo San Juan del Guía | Santa Marta | preço |
+| La Piscina (Tayrona) | Santa Marta | preço |
+| Arrecifes (Tayrona) — NÃO nadar | Santa Marta | preço |
+| Playa Cristal e Neguanje (setor Palangana) | Santa Marta | preço |
 
-**A pergunta mais importante:** *a CNH brasileira é aceita hoje para mulita e para scooter?*
-Três relatos de brasileiros dizem que sim para mulita (num caso nem pediram). Mas há relato de que a **MOTOS SAI recusou habilitação estrangeira** e exigiu carteira colombiana, no caso de scooter. Leve CNH física, passaporte e Permissão Internacional para Dirigir. Confirme por WhatsApp antes de contar com a scooter.
+_...e mais 6. `npm run validate:data` imprime a lista inteira._
 
-### Outros de San Andrés
+### Preço com uma fonte só — 3
 
-- **Johnny Cay fecha 3 dias a cada 3 meses por ordem judicial.** Em 2024 foi em março, junho e setembro; em 2026 foi 9–11 de março. **As datas de novembro/2026 não estão confirmadas.** Telefone da Coralina: +57 608 513 1130.
-- Entrada de La Piscinita (5.000–10.000 COP?) e consumo mínimo de West View (~30.000 COP?) — só apareceram em resumo de busca.
-- Horário e taxa da torre da igreja de La Loma.
-- Horário e cover do Coco Loco (resumo de busca diz qui–sáb, 22h–3h, 10.000–20.000 COP).
-- Preços de consumo nos bares da zona rosa; nenhuma programação de música raizal ao vivo foi confirmada.
-- Preços e endereços de La Calle del Rojo, Miss Janice e Fisherman Place (dados de 2019/2024).
-- Preços da San Andrés Divers e da Sea Pride — o banco usa faixa de mercado. O domínio sanandresdivers.com redireciona para portofinocaribe.com.
-- Horários e lojas confiáveis da zona franca. (A cota de US$ 1.000 e os 12 L de bebida da Receita Federal **estão** verificados.)
-- **Valor exato da Tarjeta de Turismo:** COP 153.000 pelo Decreto 0010 de 8/jan/2026 (3 fontes), mas outra fonte de maio/2026 cita COP 148.500. Confirme no aeroporto de origem.
+A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
+
+| Item | Base | O que falta |
+|---|---|---|
+| La Puerta Falsa (ajiaco, tamal e chocolate santafereño) | Bogota | segunda fonte de preço |
+| Alquiler Speed Racer (mulitas) | San Andres | segunda fonte de preço |
+| Fisherman Place (frutos do mar à beira-mar) | San Andres | segunda fonte de preço |
+
+### Horário não encontrado — 81
+
+Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
+
+| Item | Base | O que falta |
+|---|---|---|
+| La Candelaria: centro histórico a pé com free tour | Bogota | horário de funcionamento |
+| Plaza de Bolívar | Bogota | horário de funcionamento |
+| Chapinero (Chapinero Alto e Central): rumba e bares | Bogota | horário de funcionamento |
+| Zona T / Zona Rosa / Parque de la 93 | Bogota | horário de funcionamento |
+| Galerías (Teusaquillo) | Bogota | horário de funcionamento |
+| Esmeraldas: compra segura (centro, Av. Jiménez) | Bogota | horário de funcionamento |
+| La Puerta Falsa (ajiaco, tamal e chocolate santafereño) | Bogota | horário de funcionamento |
+| Café de especialidade (Cultor, Azahar, Libertario, Colo) | Bogota | horário de funcionamento |
+| Tren Turístico de la Sabana (Bogotá-Zipaquirá) | Bogota | horário de funcionamento |
+| Guatavita (pueblo novo) e Embalse de Tominé | Bogota | horário de funcionamento |
+| Ciudad Amurallada e muralhas ao pôr do sol | Cartagena | horário de funcionamento |
+| Plaza de la Trinidad (Getsemaní) à noite | Cartagena | horário de funcionamento |
+| Playa Blanca (Barú) – por conta própria | Cartagena | horário de funcionamento |
+| Pernoite em Isla Grande (Rosario) – dormir na ilha | Cartagena | horário de funcionamento |
+| Playa de Bocagrande | Cartagena | horário de funcionamento |
+| Tierra Bomba / Punta Arena (praia perto da cidade) | Cartagena | horário de funcionamento |
+| Café Havana (salsa ao vivo, Getsemaní) | Cartagena | horário de funcionamento |
+| Alquímico (coquetelaria 3 andares + rooftop) | Cartagena | horário de funcionamento |
+| Arepa de huevo e fritos de rua (Getsemaní/Plaza de la Trinidad) | Cartagena | horário de funcionamento |
+| Ceviche de rua e cevicheria popular (Centro) | Cartagena | horário de funcionamento |
+| La Boquilla – passeio de canoa nos manguezais | Cartagena | horário de funcionamento |
+| La Mulata (cozinha caribenha de porções fartas) | Cartagena | horário de funcionamento |
+| Coroncoro (menu del día barato em Getsemaní) | Cartagena | horário de funcionamento |
+| Pueblito Paisa e Cerro Nutibara | Medellin | horário de funcionamento |
+| Plaza Botero | Medellin | horário de funcionamento |
+| Parque Lleras (zona de bares do Poblado) | Medellin | horário de funcionamento |
+| Provenza (restaurantes e coquetelaria) | Medellin | horário de funcionamento |
+| La 70 (Carrera 70, Laureles) — balada barata e local | Medellin | horário de funcionamento |
+| Son Havana (salsa em Laureles) | Medellin | horário de funcionamento |
+| Perpetuo Socorro (distrito criativo do centro) | Medellin | horário de funcionamento |
+| Plaza Minorista José María Villa (bandeja paisa e almoço barato) | Medellin | horário de funcionamento |
+| Placita de Flórez | Medellin | horário de funcionamento |
+| El Hueco e ruas de outlets (centro) | Medellin | horário de funcionamento |
+| Vila de Guatapé: zócalos, Calle del Recuerdo e Plazoleta | Medellin | horário de funcionamento |
+| Passeio de lancha no embalse (Malecón de Guatapé) | Medellin | horário de funcionamento |
+| Jardín (Antioquia): vila, Parque Principal e basílica | Medellin | horário de funcionamento |
+| Cueva del Esplendor (Jardín) | Medellin | horário de funcionamento |
+| Tubing no rio Palomino (Caracolí, Pozo Caimán, Techo Rojo) | Palomino | horário de funcionamento |
+| Praia de Palomino e pôr do sol — alerta de correnteza | Palomino | horário de funcionamento |
+| Valle de Cocora – Trilha circular das palmeiras de cera (com ou sem Acaime) | Salento | horário de funcionamento |
+
+_...e mais 41. `npm run validate:data` imprime a lista inteira._
+
+### Sem coordenada — 28
+
+Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Ciclovía de domingo | Bogota | coordenada |
+| Pasadía Mambo Beach Club (Playa Tranquila, Barú) – opção barata | Cartagena | coordenada |
+| Chiva rumbera (ônibus-festa noturno) | Cartagena | coordenada |
+| Esmeraldas em Cartagena – como não ser enganado | Cartagena | coordenada |
+| Ceviche de rua e cevicheria popular (Centro) | Cartagena | coordenada |
+| Parque Lleras (zona de bares do Poblado) | Medellin | coordenada |
+| Provenza (restaurantes e coquetelaria) | Medellin | coordenada |
+| El Hueco e ruas de outlets (centro) | Medellin | coordenada |
+| Finca Las Acacias – tour de café pequeno e pouco comercial | Salento | coordenada |
+| Filandia – centro colorido, Calle del Tiempo Detenido e artesanato de cestaria | Salento | coordenada |
+| Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto) | Salento | coordenada |
+| Playa San Luis | San Andres | coordenada |
+| Sea Pride Scuba (Escuela de Buceo Sea Pride) | San Andres | coordenada |
+| RentcarX (mulitas, buggys, golf carts e scooters) | San Andres | coordenada |
+| Rolling San Andrés (Rolling Playas) — Mula Kawasaki 4010 | San Andres | coordenada |
+| Alquiler Speed Racer (mulitas) | San Andres | coordenada |
+| Parchill (mulitas XS, 4010 e PRO Kawasaki) | San Andres | coordenada |
+| Scooters: Chemas Scooter e MOTOS SAI | San Andres | coordenada |
+| Volta à ilha de mulita/buggy (circunvalar, roteiro de paradas) | San Andres | coordenada |
+| Compras na zona franca / duty free (Av. 20 de Julio e centro) | San Andres | coordenada |
+| La Calle del Rojo (pescado frito e almoço de rua) | San Andres | coordenada |
+| Miss Janice Place (rondón raizal) | San Andres | coordenada |
+| Fisherman Place (frutos do mar à beira-mar) | San Andres | coordenada |
+| Bares e baladas do centro: La Brisa Loca, La Azotea, Barbas, La Puerta, Comodoro | Santa Marta | coordenada |
+| Artesanato arhuaco e wayúu: como comprar de verdade (e evitar imitação) | Santa Marta | coordenada |
+| Mergulho em Taganga (Discover Scuba, Open Water, fun dives) | Santa Marta | coordenada |
+| Cacau em Minca (La Candelaria e outras fincas) | Santa Marta | coordenada |
+| Viñedo Marqués de Villa de Leyva (Sutamarchán) | Villa de Leyva | coordenada |
+
+## Mexico
+| Medida | Número |
+|---|---|
+| Itens | 266 (215 agendáveis) |
+| Bases | 26 |
+| Confiança: verificado | 49 |
+| Confiança: parcialmente verificado | 193 |
+| Confiança: estimado | 24 |
+| Com coordenada | 191 de 215 |
+| Com imagem de licença livre | 157 de 215 |
+| Com algum contato | 58 de 215 |
+| Coletado há mais de um ano | 0 |
+### Preço não encontrado — 67
+
+O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Playa Delfines (Cancún) | Cancun | preço |
+| Playa Tortugas (Cancún) | Cancun | preço |
+| Mandala Beach (Cancún): beach club de dia e festa na piscina | Cancun | preço |
+| Mercado 28 e feiras de artesanato (Cancún) | Cancun | preço |
+| Roma Norte + Condesa (base para ficar, comer e sair à noite) | Cidade do Mexico | preço |
+| Coyoacán (Plaza Hidalgo, Jardín Centenario e Viveros) | Cidade do Mexico | preço |
+| San Ángel e Bazar Sábado | Cidade do Mexico | preço |
+| La Clandestina (mezcalería, Condesa) | Cidade do Mexico | preço |
+| Pulquería Las Duelistas (Centro) | Cidade do Mexico | preço |
+| Cantinas históricas do Centro (La Ópera, Salón Corona, Tío Pepe) | Cidade do Mexico | preço |
+| Plaza Garibaldi e Salón Tenampa (mariachis) | Cidade do Mexico | preço |
+| Zona Rosa (vida noturna LGBT+ e Calle Génova) | Cidade do Mexico | preço |
+| Mercado Roma (gourmet + terraços) | Cidade do Mexico | preço |
+| Mercado Medellín (Roma Sur) | Cidade do Mexico | preço |
+| Mercado de San Juan (comidas exóticas) | Cidade do Mexico | preço |
+| Tianguis dominical de La Lagunilla (antiguidades) | Cidade do Mexico | preço |
+| Mercado de Artesanías La Ciudadela | Cidade do Mexico | preço |
+| Mercado de Sonora (feitiçaria, ervas, animais) | Cidade do Mexico | preço |
+| Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar | Cozumel | preço |
+| Tlaquepaque (Parián, Andador Independencia) | Guadalajara | preço |
+| Tianguis de Tonalá (quinta e domingo) | Guadalajara | preço |
+| Plaza de los Mariachis (Guadalajara) | Guadalajara | preço |
+| Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | preço |
+| Cerâmica e talavera de Dolores Hidalgo | Guanajuato | preço |
+| Playa Norte (Isla Mujeres) | Isla Mujeres | preço |
+| Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | preço |
+| Zipolite (praia naturista) | Mazunte | preço |
+| San Agustinillo (praia) | Mazunte | preço |
+| Mercado Lucas de Gálvez (e Mercado San Benito) | Merida | preço |
+| La Chaya Maya (restaurante tradicional yucateco) | Merida | preço |
+| Comer barato: Mercado de Santa Ana, Santiago e San Sebastián (cochinita, sopa de lima, marquesitas) | Merida | preço |
+| Teotitlán del Valle (tapetes de lã) | Oaxaca de Juarez | preço |
+| Calle Macedonio Alcalá (andador turístico) | Oaxaca de Juarez | preço |
+| Mercado Benito Juárez | Oaxaca de Juarez | preço |
+| In Situ Mezcalería | Oaxaca de Juarez | preço |
+| Txalaparta (bar com pista de dança) | Oaxaca de Juarez | preço |
+| Mercado de Tlacolula (tianguis de domingo) | Oaxaca de Juarez | preço |
+| Día de Muertos em Oaxaca | Oaxaca de Juarez | preço |
+| Museo de Sitio Alberto Ruz Lhuillier (Palenque) | Palenque | preço |
+| Cascadas de Roberto Barrios | Palenque | preço |
+
+_...e mais 27. `npm run validate:data` imprime a lista inteira._
+
+### Preço com uma fonte só — 4
+
+A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | segunda fonte de preço |
+| Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | segunda fonte de preço |
+| Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | segunda fonte de preço |
+| Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan) | Queretaro | segunda fonte de preço |
+
+### Horário não encontrado — 111
+
+Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
+
+| Item | Base | O que falta |
+|---|---|---|
+| Cenote Azul (Bacalar) | Bacalar | horário de funcionamento |
+| Laguna de los Siete Colores (Bacalar): barco, veleiro ou caiaque | Bacalar | horário de funcionamento |
+| Playa Tortugas (Cancún) | Cancun | horário de funcionamento |
+| MUSA: Museu Subaquático de Arte (Cancún / Isla Mujeres) | Cancun | horário de funcionamento |
+| Coco Bongo Cancún (show + balada) | Cancun | horário de funcionamento |
+| Mandala Beach (Cancún): beach club de dia e festa na piscina | Cancun | horário de funcionamento |
+| Mercado 28 e feiras de artesanato (Cancún) | Cancun | horário de funcionamento |
+| Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | horário de funcionamento |
+| Zócalo (Plaza de la Constitución) | Cidade do Mexico | horário de funcionamento |
+| Bosque de Chapultepec (lago, zoológico gratuito, caminhadas) | Cidade do Mexico | horário de funcionamento |
+| Roma Norte + Condesa (base para ficar, comer e sair à noite) | Cidade do Mexico | horário de funcionamento |
+| Coyoacán (Plaza Hidalgo, Jardín Centenario e Viveros) | Cidade do Mexico | horário de funcionamento |
+| La Clandestina (mezcalería, Condesa) | Cidade do Mexico | horário de funcionamento |
+| Licorería Limantour (coquetelaria, Roma) | Cidade do Mexico | horário de funcionamento |
+| Cantinas históricas do Centro (La Ópera, Salón Corona, Tío Pepe) | Cidade do Mexico | horário de funcionamento |
+| Plaza Garibaldi e Salón Tenampa (mariachis) | Cidade do Mexico | horário de funcionamento |
+| Zona Rosa (vida noturna LGBT+ e Calle Génova) | Cidade do Mexico | horário de funcionamento |
+| Arena México: Lucha Libre (CMLL) | Cidade do Mexico | horário de funcionamento |
+| Mercado de San Juan (comidas exóticas) | Cidade do Mexico | horário de funcionamento |
+| Mercado de Artesanías La Ciudadela | Cidade do Mexico | horário de funcionamento |
+| Mercado de Sonora (feitiçaria, ervas, animais) | Cidade do Mexico | horário de funcionamento |
+| Los Cocuyos (taqueria clássica do Centro) | Cidade do Mexico | horário de funcionamento |
+| Pujol (Polanco) | Cidade do Mexico | horário de funcionamento |
+| Voo de balão sobre Teotihuacán | Cidade do Mexico | horário de funcionamento |
+| Isla de las Muñecas (Trajitour) | Cidade do Mexico | horário de funcionamento |
+| Playa Palancar (Cozumel) | Cozumel | horário de funcionamento |
+| Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar | Cozumel | horário de funcionamento |
+| Centro Histórico de Guadalajara (Catedral, Plaza de la Liberación, Teatro Degollado) | Guadalajara | horário de funcionamento |
+| Tlaquepaque (Parián, Andador Independencia) | Guadalajara | horário de funcionamento |
+| Plaza de los Mariachis (Guadalajara) | Guadalajara | horário de funcionamento |
+| Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | horário de funcionamento |
+| Trem José Cuervo Express (Guadalajara - Tequila) | Guadalajara | horário de funcionamento |
+| Callejón del Beso | Guanajuato | horário de funcionamento |
+| Edificio Central da Universidade de Guanajuato | Guanajuato | horário de funcionamento |
+| Mercado Hidalgo (compras e comida barata) | Guanajuato | horário de funcionamento |
+| Nieves de sabores estranhos de Dolores Hidalgo | Guanajuato | horário de funcionamento |
+| Cerâmica e talavera de Dolores Hidalgo | Guanajuato | horário de funcionamento |
+| Passeio de barco pelas baías de Huatulco | Huatulco | horário de funcionamento |
+| Playa Norte (Isla Mujeres) | Isla Mujeres | horário de funcionamento |
+| Nado com tubarão-baleia (Isla Mujeres / Cancún) | Isla Mujeres | horário de funcionamento |
+
+_...e mais 71. `npm run validate:data` imprime a lista inteira._
+
+### Precisa reservar, mas não diz com quanta antecedência — 1
+
+Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Noches de Kukulcán (show noturno em Chichén Itzá) | Valladolid | antecedência da reserva |
+
+### Sem coordenada — 24
+
+Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
+
+| Item | Base | O que falta |
+|---|---|---|
+| MUSA: Museu Subaquático de Arte (Cancún / Isla Mujeres) | Cancun | coordenada |
+| Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | coordenada |
+| Ferry Playa del Carmen–Cozumel (Ultramar e Winjet) | Cozumel | coordenada |
+| Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | coordenada |
+| Trem José Cuervo Express (Guadalajara - Tequila) | Guadalajara | coordenada |
+| Bate-volta Guadalajara - Tequila (tour de dia inteiro ou por conta própria) | Guadalajara | coordenada |
+| Cerâmica e talavera de Dolores Hidalgo | Guanajuato | coordenada |
+| Nado com tubarão-baleia (Isla Mujeres / Cancún) | Isla Mujeres | coordenada |
+| Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar | Isla Mujeres | coordenada |
+| Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | coordenada |
+| Voo Oaxaca → Puerto Escondido (Aerotucán / Aerovega) | Oaxaca de Juarez | coordenada |
+| Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa | Palenque | coordenada |
+| Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul) | Palenque | coordenada |
+| Passeio Yaxchilán + Bonampak saindo de Palenque (dia inteiro) | Palenque | coordenada |
+| Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | coordenada |
+| Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | coordenada |
+| Vida noturna em Puerto Escondido: Zicatela, Adoquín e La Punta | Puerto Escondido | coordenada |
+| Mercado de artesanato de Santo Domingo / 20 de Noviembre | San Cristobal de las Casas | coordenada |
+| Café Museo Café | San Cristobal de las Casas | coordenada |
+| Café Bar Revolución ('El Revo') | San Cristobal de las Casas | coordenada |
+| El Cocodrilo Bar | San Cristobal de las Casas | coordenada |
+| Parroquia de San Miguel Arcángel | San Miguel de Allende | coordenada |
+| Bares e noite em Tulum (praia e pueblo) | Tulum | coordenada |
+| Xel-Há: tudo incluído com snorkel | Tulum | coordenada |
 
 ---
 
-## 2. Cartagena
+## O que mais envelhece
 
-- **Preços de hospedagem em novembro/2026 e o impacto real das festas sobre eles.** As faixas no banco são estimativas convertidas de outras moedas.
-- Preço do ceviche de carrinho; cover do Café Havana (20.000 COP só em resumo de busca); horário do Alquímico; preço do passeio de La Boquilla em COP.
-- Horário e preço de Las Bóvedas — ficou como **estimado**, a fonte bloqueou o acesso.
-- Se o **Baluarte de Santo Domingo** já reabriu como mirante público gratuito. O Café del Mar foi desalojado em 03/09/2024 por decisão do Conselho de Estado e a prefeitura anunciou o baluarte como mirante público — **não confirmei se está aberto hoje**.
-- Segurança específica do Mercado de Bazurto (só existe aviso genérico).
-- Se o Concurso Nacional de Belleza acontece em Cartagena em 2026. Um resultado de busca diz que, depois de 82 anos juntos, em 2026 as Festas voltam a ter novembro só para si, sem o Reinado Nacional. **Data e local não confirmados.**
-- O golpe da "pulseira de restaurante" não foi confirmado; só encontrei pulseirinha de vendedor de rua.
+- **Preço de voo** é fotografia do dia. O banco guarda faixa, data e link de busca — use o link, não o número.
+- **Horário** muda com a estação e com feriado local.
+- **Preço de entrada** costuma subir uma vez por ano.
+- **Situação de estrada, balsa e parque** muda de um dia para o outro. O campo `situacaoAtual` da cidade tem a data da última verificação; acima de alguns meses, confira.
 
-**Está verificado** (PDF oficial baixado): entrada do PNN Corales del Rosario é valor único de 13.500 COP (Resolução 551/2025). Seguro de acidentes obrigatório ~8.800 COP por pessoa por dia (uma fonte) e taxa de cais ~31.500 COP em dinheiro.
-
----
-
-## 3. Logística e calendário
-
-- **Página oficial de feriados de 2026** (MinTrabajo / Presidência) não abriu. Os feriados do banco foram derivados do texto da Ley 51/1983 no portal da Função Pública mais o cálculo do dia da semana. *Eu confirmei a aritmética: 1º/nov/2026 é domingo e 11/nov é quarta, então os feriados caem nas segundas 2 e 16 de novembro.* Ainda assim, confirme quando a página anual sair.
-- **Documento de entrada:** a regra de entrar com RG veio de fonte secundária; a página do Itamaraty deu 404. **Leve passaporte.**
-- **Febre amarela:** o Consulado da Colômbia em São Paulo diz que o requisito para quem vem do Brasil foi eliminado (Circular 018/2024), mas o FCDO britânico e um guia de seguros ainda o citam. A vacina continua recomendada para Tayrona e Palomino.
-- **Check-Mig:** a Migración Colombia descreve como pré-registro, o FCDO diz que não é obrigatório, blogs brasileiros dizem que é. Faça de qualquer forma.
-- **Não existe voo direto Brasil → San Andrés.** A pesquisa não achou fonte para nenhuma rota direta e o registro ficou sem preço e sem duração, então **não entrou no banco**. O caminho é voo ao continente (Bogotá, Cartagena ou Medellín) mais voo doméstico. Confirme no site da Copa e da Avianca.
-- Datas de fechamento do Parque Tayrona em out/nov de 2026 (o parque fecha 3 vezes por ano). Data dos Alumbrados de Medellín em 2026 (em 2025 foi 28/nov). Frequências de voos.
-- **Preços de voo são fotografia do dia 08/10/2026**, de páginas-resumo de agregadores (Kayak, Momondo) — não são cotação para novembro/2026 nem para data específica. Cada registro tem um link de busca; use-o.
-- Tempos de desembarque e de deslocamento porta a porta: a pesquisa não achou fonte para a maioria. Esses campos ficaram **ausentes** no banco de propósito, e o motor de regras vai calculá-los com um padrão documentado, marcado como estimativa na tela.
-
----
-
-## 4. O que o validador aponta
-
-Rode `npm run validate:data` para a lista atualizada.
-
-- **30 itens sem imagem licenciada.** Só entram no banco fotos do Wikimedia Commons com autor e licença, ou oficiais com permissão. Os outros 30 usam placeholder — não é bug.
-- **17 itens sem coordenada.** Não aparecem no mapa, e o deslocamento até eles sai como estimativa grosseira. São sobretudo locadoras, restaurantes pequenos e experiências sem endereço fixo.
-- **9 itens com horário divergente entre fontes.** O banco guarda o primeiro horário citado e marca o item com um alerta. Confira antes de ir.
-- **3 avisos de aeroporto fora da Colômbia** (GRU, CGH, VCP) — esperado, são os de origem.
-
----
-
-# Onda B — Medellín, Eje Cafetero, Santa Marta, Bogotá (2026-10-08)
-
-## O que eu mesmo verifiquei em fonte primária (não é pendência)
-
-Três achados dos agentes eram graves demais para repassar sem conferir. Conferi:
-
-- **Terremoto de magnitude 7,4 em 10/08/2026**, epicentro em San José del Palmar (Chocó), 103 km de profundidade. Balanço da UNGRD em 25/08: **331 mortos, 4.595 feridos, 257 desaparecidos**. Cali 165 mortos, Pereira 109. Mais de 325 réplicas. Aeroportos de Pereira, Cali, Armenia, Manizales e Quibdó suspensos; o de Pereira reabriu em 25/08 só no térreo, das 5h à meia-noite. **Está gravado no banco** como `situacaoAtual` de Salento, Medellín e Bogotá, com data de verificação.
-- **Parque Tayrona fechado de 19/10 a 2/11/2026** ("Respira Tayrona"), reabre **3 de novembro**, uma terça. Fechamento total: nem entrada, nem hospedagem, nem barco. Confirmado no site da Parques Nacionales. **Está no calendário do banco.**
-- **Datas dos feriados de novembro** (segundas 2 e 16) — conferi a aritmética da Ley Emiliani. Três agentes independentes chegaram ao mesmo resultado, mas nenhum abriu a página anual oficial. Confirme quando sair.
-
-## Erro meu que os agentes corrigiram
-
-Eu escrevi no briefing que a Pedra do Peñol tem "698 degraus". **Nenhuma fonte diz isso** — as fontes dão 740, algumas 702. Eu tinha escrito de memória. O número não entrou no banco.
-
-## Santa Marta e Tayrona
-
-- Valor do **seguro obrigatório** do Tayrona: as fontes divergem entre COP 3.000 e 8.800 por pessoa por dia.
-- Tarifa 2026 de estrangeiro não residente: COP 81.000 (baixa temporada) / 96.500 (alta). Bahía Concha COP 43.500. Última entrada às 14:00. **Confirme a classificação de temporada da sua data** — o feriadão de 14 a 16/11 provavelmente é tarifa alta.
-- Preços de hospedagem dentro do parque (a rede-mirante de Cabo San Juan varia de 50 a 105 mil COP entre fontes). O site cabosanjuantravel.co se diz oficial, mas o vínculo com a concessionária não foi confirmado.
-- **A região esteve instável em 2026**: o Tayrona fechou em 17/02 por bloqueios e cobranças ilegais, reabriu em 05/03; em 16/06 reabriu com El Zaino e Calabazo interditados. Houve **paro armado em Santa Marta de 21 a 25/09/2026**, com bloqueios na Troncal. Confirme a situação na semana da viagem.
-- Taganga: a fonte principal é de 2019. Estado atual desconhecido.
-- Palomino: cerca de 30 mortes por correnteza. **Não nadar no mar.**
-- Ciudad Perdida: COP 1,86 a 2,15 milhões, 4 a 5 dias. Não cabe em 10–12 dias.
-
-## Medellín
-
-- **Escopolamina e aplicativos de encontro são risco documentado em 2026**, não boato. O alerta da Embaixada dos EUA de 22/07/2026 cita 13 relatos recentes; o aviso britânico seguia válido em 08/10. O foco é El Poblado. A página oficial da Embaixada deu 403 — o alerta foi lido por fonte secundária, então **confirme**.
-- Ingresso do Museo de Antioquia: COP 46.000 para estrangeiro, mas a tabela publicada é de 2025.
-- Cabo do Parque Arví, COP 26.700: **não está claro se é por trecho ou ida e volta**.
-- Pedra do Peñol: ingresso varia de COP 25.000 a 35.000 entre fontes.
-- Pueblito Paisa: horário e entrada não encontrados. Mercado del Río, Pergamino e Casa Kolacho: preços não encontrados (site com 403).
-- Cueva del Esplendor (Jardín): horário e preço atuais não encontrados.
-
-## Eje Cafetero
-
-- **Mirador Colina Iluminada, em Filandia, está fechado** desde o sismo, sem data de reabertura. A demolição foi suspensa para novos estudos.
-- Ocupação hoteleira do Quindío caiu de ~80% para ~20–22%. Diária negociável.
-- Taxa das fazendas dentro do Vale de Cocora: fontes de 2025 e 2026 divergem.
-- Las Acacias: telefone, horário e coordenada não encontrados. Don Elías: preço de uma só fonte, sem data.
-- Preço do tejo: fontes de 2019 a 2025.
-- Estado do Alto de la Cruz após o sismo: um relato cita danos na escadaria.
-- O agente recomenda **Armenia (AXM) em vez de Pereira (PEI)**: ônibus a cada 15–20 min até ~20:00, contra de hora em hora até ~18:00.
-
-## Bogotá
-
-- **Museo del Oro: fechamentos intermitentes das salas permanentes por reforma entre 6/10 e 6/11/2026.** Isso pega o começo da sua viagem. Estrangeiro paga COP 21.000; domingo é grátis. O Museo Botero fecha **terça**, não segunda.
-- Catedral de Sal (Zipaquirá): COP 125.000 para estrangeiro, confirmado no site oficial. O trem custa COP 96.000, só sáb/dom/feriados, e **não inclui a entrada** — o ônibus do Portal Norte custa COP 10.500.
-- Guatavita: ingresso de estrangeiro varia entre COP 25.500, 28.000 e 31.000 conforme a fonte; o dia de fechamento também diverge. O site da CAR deu timeout.
-- Villa de Leyva: preços e horários de El Fósil, Casa Terracota e Pozos Azules divergentes; último ônibus de volta entre 14:00 e 17:20 conforme a fonte.
-- **Paseo millonario** (sequestro-relâmpago em táxi) concentrado na Zona T.
-- Altitude de Bogotá: o banco usa 2.553 m (SRTM no ponto do OpenStreetMap); as fontes da cidade dão 2.600 a 2.640 m. A diferença não muda nenhuma regra do app, mas fica registrada.
-- Andrés Carne de Res: preço de cardápio e couvert não encontrados, nem o custo da volta de Chía de madrugada.
