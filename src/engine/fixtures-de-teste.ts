@@ -216,7 +216,7 @@ export function viagemDeTeste(dias: Dia[], deslocamentos: Viagem['deslocamentos'
     estilo: 'economico',
     ritmo: 'intenso',
     interesses: [],
-    cambio: { COP: 0.00155, USD: 5.4, atualizadoEm: '2026-10-08', manual: true },
+    cambio: { taxas: { COP: 0.00155, USD: 5.4 }, atualizadoEm: '2026-10-08', manual: true },
     dias,
     favoritos: [],
     reservas: [],

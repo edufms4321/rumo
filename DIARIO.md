@@ -121,3 +121,28 @@ Também afrouxei `passeio.pontoPartida` para opcional: nem toda fonte publica o 
 **Estado:** 169 itens em 8 bases, 14 eventos, 17 sugestões de hospedagem, 20 trechos. Validador com 0 erro e 106 avisos. 63 testes, typecheck e lint limpos.
 
 **Próximo:** as regras restantes do motor.
+
+---
+
+## 2026-10-08 16:40 — Motor de regras completo
+
+**Correção do Eduardo: a data da viagem é livre.** Novembro de 2026 era só exemplo. Retirei o alarme de urgência de reserva que eu tinha dado e mandei um agente fechar o buraco: clima dos 12 meses e calendário anual da Colômbia, porque a onda A só cobriu novembro.
+
+**México pedido com a mesma profundidade.** Oito agentes: logística e calendário anual, Cidade do México, Riviera Maya, Yucatán, Oaxaca, Chiapas, Baja e Pacífico, Bajío.
+
+**19 regras implementadas**, cada uma com código estável e teste nomeado. 98 testes no total.
+
+Decisões que valem registrar:
+
+- **Pôr do sol é calculado, não guardado.** Algoritmo solar do NOAA a partir de coordenada e data. Guardar "anoitece às 17:45" seria verdade para uma data e mentira para as outras — e agora a data é livre. Conferi contra valores reais: Cartagena em 18/11 nasce 05:59 e põe 17:37; Cidade do México em 21/06 nasce 05:59 e põe 19:17. Bate.
+- **Câmbio virou genérico** (`taxas` por código de moeda) porque o app é multi-destino: COP na Colômbia, MXN no México.
+- **O orçamento não soma o que não sabe converter.** Sem taxa de câmbio para uma moeda, o valor fica fora do total e aparece em `semConversao`. Somar com taxa inventada seria pior do que admitir o buraco. O total é sempre faixa, nunca número único.
+- **"Estourou" é quando o melhor caso já passa do teto**, não quando o pior caso passa. Com faixa de preço, alertar no pior caso geraria alarme constante.
+
+**Defeito achado rodando contra dado real, não nos testes:** a regra de luz do dia usava a cidade onde o viajante dorme, não a cidade da atividade. Playa Spratt Bight, em San Andrés, recebia o pôr do sol de Cartagena — 17:37 em vez de 17:58. Vinte minutos de erro num alerta que existe justamente para dizer a hora certa. Corrigido, com teste de regressão.
+
+**Dois testes meus estavam errados** (não o código): mergulho às 09:00 com voo às 08:00 do dia seguinte dá 20 h, que é seguro — eu esperava alerta. Refiz o caso com mergulho às 16:00, que dá 13 h e aí sim alerta.
+
+**`npm run demo:dia` agora mostra os alertas.** Contra o dia de teste em Cartagena, o motor produz 8 alertas: 1 erro de deslocamento, 2 de luz do dia, dia sobrecarregado, item em cidade errada, dois de refeição e um de noites mínimas — todos com correção sugerida.
+
+**Próximo:** generalizar o conversor para o México (hoje ele é fixo em `data/colombia`) e começar a interface.

@@ -13,6 +13,7 @@ import { readFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, resolve } from 'node:path';
 import { agruparPorDestino, montarPacote } from '../src/data/montar-pacote.ts';
 import { validarPacote } from '../src/schema/pacote.ts';
+import { validarViagem } from '../src/engine/regras.ts';
 import { resolverDia } from '../src/engine/resolver-dia.ts';
 import { formatarDuracao, paraHHMM, paraMinutos } from '../src/engine/tempo.ts';
 import type { Bloco, Dia, Viagem } from '../src/schema/viagem.ts';
@@ -96,7 +97,7 @@ function main(): void {
     estilo: 'economico',
     ritmo: 'intenso',
     interesses: [],
-    cambio: { COP: 0.00155, USD: 5.4, atualizadoEm: '2026-10-08', manual: true },
+    cambio: { taxas: { COP: 0.00155, USD: 5.4 }, atualizadoEm: '2026-10-08', manual: true },
     dias: [dia],
     favoritos: [],
     reservas: [],
@@ -174,6 +175,24 @@ function main(): void {
     )} no total)`,
   );
   console.log(`  sobreposicoes:    ${r.sobreposicoes.length}\n`);
+
+  // ---------------------------------------------------------------- alertas
+  const alertas = validarViagem(viagem, pacote);
+  const simbolo = {
+    erro: `${cor.vermelho}ERRO   ${cor.reset}`,
+    atencao: `${cor.amarelo}ATENCAO${cor.reset}`,
+    dica: `${cor.azul}DICA   ${cor.reset}`,
+  };
+
+  console.log(`${cor.negrito}Alertas do motor (${alertas.length})${cor.reset}\n`);
+  for (const a of alertas) {
+    console.log(
+      `${simbolo[a.nivel]}  ${cor.negrito}${a.titulo}${cor.reset}  ${cor.cinza}[${a.codigo}]${cor.reset}`,
+    );
+    console.log(`         ${a.mensagem}`);
+    for (const c of a.correcoes) console.log(`         ${cor.verde}-> ${c.rotulo}${cor.reset}`);
+    console.log('');
+  }
 }
 
 main();

@@ -152,11 +152,14 @@ export const EscolhaDeDeslocamento = z.object({
   minutosManuais: z.number().int().positive().optional(),
 });
 
+/**
+ * Quantos BRL vale 1 unidade de cada moeda, por codigo ISO.
+ * Generico de proposito: o app e multi-destino e cada pacote tem a sua moeda
+ * (COP na Colombia, MXN no Mexico). BRL e sempre 1 e nao precisa estar aqui.
+ * Editavel pelo usuario, por isso `manual`.
+ */
 export const Cambio = z.object({
-  /** Quantos BRL vale 1 unidade da moeda. Editavel pelo usuario. */
-  COP: z.number().positive(),
-  USD: z.number().positive(),
-  EUR: z.number().positive().optional(),
+  taxas: z.record(z.string().length(3), z.number().positive()),
   atualizadoEm: IsoDate,
   manual: z.boolean().default(true),
 });

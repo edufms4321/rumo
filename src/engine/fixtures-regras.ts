@@ -1,0 +1,232 @@
+/**
+ * Fixture rica para os testes do motor de regras. Estende o pacote basico
+ * com os casos que cada regra precisa: museu que fecha na segunda, atividade
+ * que depende de luz do dia, mergulho, passeio com saida marcada, cidade em
+ * altitude, evento no calendario, taxa obrigatoria e situacao atual.
+ */
+import type { PacoteDestino } from '../schema/pacote.ts';
+import { pacoteDeTeste } from './fixtures-de-teste.ts';
+
+const FONTE = [{ url: 'https://exemplo.test/fonte' }];
+const COMUM = { fontes: FONTE, coletadoEm: '2026-10-08', confianca: 'verificado' as const };
+const ABERTO = [{ abre: '09:00', fecha: '17:00' }];
+
+export function pacoteParaRegras(): PacoteDestino {
+  const p = pacoteDeTeste({ comTrechoAereo: true });
+
+  p.cidades.push({
+    ...COMUM,
+    id: 'altiplano',
+    nome: 'Altiplano',
+    regiaoId: 'sudeste',
+    coords: { lat: -22, lng: -45 },
+    altitudeM: 3400,
+    aeroportos: [],
+    bairros: [],
+    matrizInterna: [],
+    climaPorMes: [],
+    pegaTuristaAEvitar: [],
+    taxasObrigatorias: [],
+    situacaoAtual: [],
+  } as PacoteDestino['cidades'][number]);
+
+  // Cidade com clima pesado, taxa obrigatoria e situacao conjuntural.
+  const rio = p.cidades.find((c) => c.id === 'rio');
+  if (rio) {
+    rio.noitesRecomendadas = { min: 3, ideal: 4, max: 7 };
+    rio.climaPorMes = [
+      {
+        mes: 11,
+        tempMinC: 21,
+        tempMaxC: 30,
+        chuvaMm: 290,
+        diasDeChuva: 18,
+        resumo: 'Mes chuvoso, com pancadas no fim da tarde.',
+        planoBChuva: 'museus e centro historico',
+        pesoNaDecisao: 'alto',
+        fontes: FONTE,
+      },
+    ];
+    rio.taxasObrigatorias = [
+      {
+        nome: 'Taxa de entrada na ilha',
+        preco: {
+          moeda: 'BRL',
+          min: 100,
+          max: 100,
+          por: 'pessoa',
+          inclui: 'entrada',
+          coletadoEm: '2026-10-08',
+          fontes: FONTE,
+        },
+        comoSePaga: 'no aeroporto',
+        quemPaga: 'todo visitante',
+      },
+    ];
+    rio.situacaoAtual = [
+      {
+        titulo: 'Obra no acesso principal',
+        descricao: 'A via esta em obras e o trajeto pode dobrar de tempo.',
+        gravidade: 'atencao',
+        desde: '2026-09-01',
+        verificadoEm: '2026-10-08',
+        fontes: FONTE,
+      },
+    ];
+  }
+
+  p.calendario.push({
+    ...COMUM,
+    id: 'feriado-de-teste',
+    nome: 'Feriado de teste',
+    tipo: 'feriado-nacional',
+    dataInicio: '2026-11-18',
+    escopo: 'nacional',
+    impacto: { fechamentos: 'Muitos museus fecham.', lotacao: 'alta' },
+    valeEstarPresente: 'evite',
+    descricao: 'Feriado usado nos testes.',
+  } as PacoteDestino['calendario'][number]);
+
+  const itens: PacoteDestino['itens'] = [
+    {
+      ...COMUM,
+      id: 'br-sp-museu-fecha-segunda',
+      nome: 'Museu que fecha segunda',
+      cidadeId: 'sao-paulo',
+      categoria: 'museu',
+      tags: [],
+      coords: { lat: -23.5505, lng: -46.6333 },
+      descricaoCurta: 'Museu fechado as segundas.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 60, tipica: 90, max: 180 },
+      horarios: { seg: 'fechado', ter: ABERTO, qua: ABERTO, qui: ABERTO, sex: ABERTO, sab: ABERTO, dom: ABERTO },
+      diasFechados: [],
+      reserva: { necessaria: false },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [] },
+      selos: [],
+      dicas: [],
+      alertas: [],
+    },
+    {
+      ...COMUM,
+      id: 'br-rio-mirante-por-do-sol',
+      nome: 'Mirante do por do sol',
+      cidadeId: 'rio',
+      categoria: 'mirante',
+      tags: [],
+      coords: { lat: -22.9519, lng: -43.2105 },
+      descricaoCurta: 'Mirante que so faz sentido com luz.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 45, tipica: 60, max: 120 },
+      diasFechados: [],
+      reserva: { necessaria: false },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [], dependeDeLuzDoDia: true },
+      selos: [],
+      dicas: [],
+      alertas: [],
+    },
+    {
+      ...COMUM,
+      id: 'br-rio-mergulho',
+      nome: 'Mergulho com cilindro',
+      cidadeId: 'rio',
+      categoria: 'experiencia',
+      tags: [],
+      coords: { lat: -22.9711, lng: -43.1822 },
+      descricaoCurta: 'Mergulho de batismo.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 120, tipica: 180, max: 240 },
+      diasFechados: [],
+      reserva: { necessaria: false },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [], naoVoarDepoisHoras: 18 },
+      selos: [],
+      dicas: [],
+      alertas: [],
+    },
+    {
+      ...COMUM,
+      id: 'br-rio-passeio-de-barco',
+      nome: 'Passeio de barco das 9h',
+      cidadeId: 'rio',
+      categoria: 'passeio',
+      tags: [],
+      coords: { lat: -22.9, lng: -43.17 },
+      descricaoCurta: 'Barco com saida marcada.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 180, tipica: 240, max: 300 },
+      diasFechados: [],
+      reserva: { necessaria: false },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [] },
+      selos: [],
+      dicas: [],
+      alertas: [],
+      passeio: { pontoPartida: 'Marina da Gloria', horariosDeSaida: ['09:00'], horarioFixo: true },
+    },
+    {
+      ...COMUM,
+      id: 'br-sp-show-com-reserva',
+      nome: 'Show que esgota',
+      cidadeId: 'sao-paulo',
+      categoria: 'experiencia',
+      tags: [],
+      coords: { lat: -23.56, lng: -46.65 },
+      descricaoCurta: 'Precisa reservar com antecedencia.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 90, tipica: 120, max: 180 },
+      diasFechados: [],
+      reserva: { necessaria: true, antecedenciaDias: 30, esgotaRapido: true },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [] },
+      selos: [],
+      dicas: [],
+      alertas: [],
+    },
+    {
+      ...COMUM,
+      id: 'br-sp-caro',
+      nome: 'Passeio caro',
+      cidadeId: 'sao-paulo',
+      categoria: 'experiencia',
+      tags: [],
+      coords: { lat: -23.55, lng: -46.64 },
+      descricaoCurta: 'Usado para estourar o orcamento nos testes.',
+      descricaoLonga: '',
+      agendavel: true,
+      duracao: { min: 60, tipica: 90, max: 120 },
+      diasFechados: [],
+      preco: {
+        moeda: 'BRL',
+        min: 5000,
+        max: 6000,
+        por: 'pessoa',
+        inclui: 'tudo',
+        coletadoEm: '2026-10-08',
+        fontes: FONTE,
+      },
+      reserva: { necessaria: false },
+      contato: {},
+      imagens: [],
+      restricoes: { outras: [] },
+      selos: [],
+      dicas: [],
+      alertas: [],
+    },
+  ] as PacoteDestino['itens'];
+
+  p.itens.push(...itens);
+  return p;
+}
