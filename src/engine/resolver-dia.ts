@@ -69,6 +69,8 @@ export interface DiaResolvido {
   sobreposicoes: Sobreposicao[];
   minutosEmAtividades: number;
   minutosEmDeslocamento: number;
+  /** Trechos entre blocos que ficaram sem conta por falta de coordenada. */
+  trajetosSemDados: number;
   /** Lacunas que sobram depois de descontar o deslocamento. */
   minutosLivres: number;
   /** Lacunas cujo deslocamento nao cabe. */
@@ -331,6 +333,18 @@ export function resolverDia(
     0,
   );
 
+  /*
+    Quantos trajetos o motor NAO conseguiu calcular (falta coordenada).
+
+    Sem isto o rodape somava zero e escrevia "0 min de deslocamento", que o
+    usuario le como "nao ha deslocamento" quando a verdade e "nao sei".
+    Um dia montado com tres itens sem coordenada aparecia como um dia sem
+    nenhum trajeto — e o orcamento de tempo ficava otimista de graca.
+  */
+  const trajetosSemDados = lacunas.filter(
+    (l) => l.tipo === 'entre-blocos' && (l.deslocamento?.minutos ?? null) === null,
+  ).length;
+
   const minutosLivres = lacunas.reduce(
     (soma, l) => soma + Math.max(0, l.minutosLivres ?? 0),
     0,
@@ -345,6 +359,7 @@ export function resolverDia(
     sobreposicoes,
     minutosEmAtividades,
     minutosEmDeslocamento,
+    trajetosSemDados,
     minutosLivres,
     minutosEmFalta,
   };

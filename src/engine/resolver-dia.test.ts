@@ -361,3 +361,22 @@ describe('melhoria 1: matriz de rotas reais nao atropela a caminhada', () => {
     expect(lacuna?.deslocamento?.minutos).toBe(2);
   });
 });
+
+describe('deslocamento que o motor nao consegue calcular', () => {
+  it('conta os trechos sem dados em vez de somar zero', () => {
+    const pacote = pacoteDeTeste();
+    // Dois itens sem coordenada: o motor nao tem de onde tirar a distancia.
+    for (const item of pacote.itens) delete (item as { coords?: unknown }).coords;
+
+    const d = dia('d1', '2026-11-18', 'sao-paulo', [
+      atividade('b1', ALMOCO, paraMinutos('12:00'), 60),
+      atividade('b2', PINACOTECA, paraMinutos('15:00'), 90),
+    ]);
+    const r = resolverDia(viagemDeTeste([d]), d, pacote, { incluirHospedagem: false });
+
+    expect(r.minutosEmDeslocamento).toBe(0);
+    // O que importa: o dia NAO afirma que nao ha deslocamento, afirma que
+    // nao sabe. Zero somado em silencio deixa o dia otimista de graca.
+    expect(r.trajetosSemDados).toBeGreaterThan(0);
+  });
+});

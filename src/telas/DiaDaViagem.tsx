@@ -441,7 +441,15 @@ function LinhaDoTempo({
 
       <footer className="flex flex-wrap items-center gap-x-4 gap-y-1 border-t border-[var(--cor-borda)] bg-[var(--cor-fundo-afundado)] px-3 py-2 text-xs text-[var(--cor-texto-suave)]">
         <span>{formatarDuracao(resolvido.minutosEmAtividades)} de atividade</span>
-        <span>{formatarDuracao(resolvido.minutosEmDeslocamento)} de deslocamento</span>
+        <span>
+          {formatarDuracao(resolvido.minutosEmDeslocamento)} de deslocamento
+          {resolvido.trajetosSemDados > 0 && (
+            <span className="text-[var(--cor-atencao)]">
+              {' '}
+              + {resolvido.trajetosSemDados} sem dados
+            </span>
+          )}
+        </span>
         <span className="text-[var(--cor-verificado)]">
           {formatarDuracao(resolvido.minutosLivres)} livres
         </span>
