@@ -296,3 +296,14 @@ test('destino domestico nao pede passaporte, visto nem cambio', async ({ page })
   await expect(page.getByText('Documento de identidade com foto')).toBeVisible();
   await expect(page.getByText('Passaporte e copia digital')).toHaveCount(0);
 });
+
+test('a tela Agora mostra os numeros de emergencia do destino', async ({ page }) => {
+  await criarViagem(page, 'nordeste');
+  await definirDatas(page, '2027-07-10', '2027-07-12');
+  await page.getByRole('link', { name: 'Agora' }).click();
+
+  // O Brasil nao tem numero unico: os tres precisam aparecer separados.
+  await expect(page.getByRole('button', { name: /Policia 190/ })).toBeVisible();
+  await expect(page.getByRole('button', { name: /Bombeiros 193/ })).toBeVisible();
+  await expect(page.getByRole('button', { name: /Ambulancia 192/ })).toBeVisible();
+});

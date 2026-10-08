@@ -183,14 +183,30 @@ export function Agora() {
             Emergencia
           </h3>
           <div className="flex flex-wrap gap-2">
-            {pacote.destino.emergencia.numeroUnico && (
-              <Botao
-                onClick={() => window.open(`tel:${pacote.destino.emergencia?.numeroUnico}`)}
-                variante="perigo"
-              >
-                <Phone size={14} /> {pacote.destino.emergencia.numeroUnico}
-              </Botao>
-            )}
+            {/*
+              Nem todo pais tem um numero unico. O Brasil reparte entre
+              190 (policia), 193 (bombeiros) e 192 (ambulancia) — e sem
+              isto o cartao de emergencia aparecia vazio justamente no
+              destino domestico. Cada numero so aparece se o pacote o
+              tiver: numero errado numa emergencia e pior que nenhum.
+            */}
+            {(
+              [
+                ['numeroUnico', 'Emergencia'],
+                ['policia', 'Policia'],
+                ['bombeiros', 'Bombeiros'],
+                ['ambulancia', 'Ambulancia'],
+                ['policiaTuristica', 'Policia turistica'],
+              ] as const
+            ).map(([campo, rotulo]) => {
+              const numero = pacote.destino.emergencia?.[campo];
+              if (!numero) return null;
+              return (
+                <Botao key={campo} onClick={() => window.open(`tel:${numero}`)} variante="perigo">
+                  <Phone size={14} /> {rotulo} {numero}
+                </Botao>
+              );
+            })}
             {pacote.destino.emergencia.representacaoBrasileira.map((r) => {
               const numero = r.plantao ?? r.telefone;
               if (!numero) return null;
