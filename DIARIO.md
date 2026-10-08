@@ -98,7 +98,7 @@ Camadas, da melhor para a pior: trecho porta a porta do banco → trecho calcula
 
 ---
 
-## 2026-10-08 16:35 — Onda B importada, e dois fatos que mudam a viagem
+## 2026-10-08 16:24 — Onda B importada, e dois fatos que mudam a viagem
 
 **Erro meu, corrigido: a viagem é no mês que vem, não daqui a treze meses.** Hoje é 8 de outubro de 2026 e a viagem é em novembro de 2026. Eu disse "13 meses" na Fase 0 e repeti no plano, nos documentos e nos commits. Corrigi em todos os arquivos. Consequência real: os preços coletados valem, e reservar virou urgente — as Festas de Cartagena são daqui a cinco semanas, num feriadão.
 
