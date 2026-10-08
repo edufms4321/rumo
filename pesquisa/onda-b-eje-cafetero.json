@@ -1,0 +1,2048 @@
+{
+  "base": "salento",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Salento é pequena: centro, Calle Real e Alto de la Cruz se fazem a pé (tudo a menos de 10 min da Plaza de Bolívar). Willys compartilhados saem da praça para Cocora (5.000-7.000 COP por trecho; ~12.000 ida e volta) e para as fincas de café; os ônibus para Armenia e Pereira saem da rodoviária pequena perto da praça (Armenia: a cada 15-20 min até ~20:00; Pereira: de hora em hora, último ~18:00). Não há locadora em Salento e estacionar é ruim: não alugue carro. Aeroporto: AXM (Armenia) é o mais prático para Salento de ônibus; PEI (Pereira) exige ir ao terminal e o último ônibus sai cedo. Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis. Em novembro, normais do aeroporto de Pereira: 302,1 mm e 19,1 dias de chuva (Wikipedia 1991-2020); em Cocora, saia cedo e leve capa/botas. Orçamento (R$8.000 por pessoa com voo): o Eje Cafetero é barato em solo (Cocora ~R$80-110 por pessoa, tour de café 35-60 mil COP, truta ~14 mil COP); gaste em Cocora, em UM tour de café e no tejo, e corte Acaime, Filandia e noite em Pereira se apertar. Conversões usadas: 1 BRL ≈ 650 COP e 1 USD ≈ 3.313 COP (convenção das outras ondas de pesquisa, não verificada nesta onda).",
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Centro – Plaza de Bolívar / Calle Real",
+        "perfil": "Caminhável, perto dos Willys, ônibus e restaurantes; algum barulho nos fins de semana; é onde há hostels e hotéis simples.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 53000,
+          "max": 270000
+        },
+        "observacao": "Faixa ESTIMADA em USD do Kayak (Hostal Girasoles ~US$16, Posada Elenita ~US$17+, 3 estrelas US$27-82/noite, dados para 10-11/10) convertida a 3.313 COP/USD (câmbio assumido). Hostelgeeks (mai/2026) cita camas de € 5-14 e quartos privados de € 16-51; Wikivoyage lista dormitórios de 18.000-35.000 COP (sem data). A ocupação hoteleira do Quindío caiu de ~80% para 20-22% (governador, 07/10/2026): há espaço para negociar tarifa direta e cancelamento grátis.",
+        "seguranca": "Sem alerta específico em Wikivoyage; casas do centro histórico tiveram telhas e fachadas danificadas (El Tiempo 10/08/2026; 45 a 166 casas afetadas segundo fontes diferentes). Tabiji.ai (abr/2026, sem confirmação) cita adulteração de bebidas em bares da Calle Real: vigie o copo.",
+        "fontes": [
+          "https://www.kayak.com/Salento-Hotels.303057.hotel.ksp",
+          "https://www.es.kayak.com/Hoteles-en-Salento.303057.hotel.ksp",
+          "https://hostelgeeks.com/best-hostels-in-salento-colombia/",
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/",
+          "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-salento-quindio-tras-el-fuerte-terremoto-de-7-4-varias-casas-tradicionales-resultaron-afectadas-3577880"
+        ]
+      },
+      {
+        "nome": "Arredores a pé (Hostal Vistaguila, Hostal Tralala, Plantation House, Coffee Tree)",
+        "perfil": "A 1 quarteirão até ~650 m da praça (5-10 min a pé): mais silêncio e vistas, ainda caminhável.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 56000,
+          "max": 120000
+        },
+        "observacao": "ESTIMADO: Hostelgeeks (mai/2026) dá dormitórios € 5-14 e quartos privados € 16-51 para Viajero/Tralala/Vistaguila; Wikivoyage cita dormitórios de 25.000-35.000 COP em alguns deles. Máximo escolhido na faixa baixa do Kayak (3 estrelas, não verificado individualmente).",
+        "seguranca": "Ruas laterais pouco iluminadas à noite; peça ao hostel o melhor caminho de volta (juízo do agente).",
+        "fontes": [
+          "https://hostelgeeks.com/best-hostels-in-salento-colombia/",
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://www.openstreetmap.org/node/11436138234"
+        ]
+      },
+      {
+        "nome": "Hostels-finca na zona rural (La Serrana, Plantation House, Yambolombia)",
+        "perfil": "Natureza e café, 10-45 min a pé da praça; bom para quem quer paisagem, ruim para sair à noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 18000,
+          "max": 35000
+        },
+        "observacao": "Valores de dormitório (por cama) do Wikivoyage (sem data): La Serrana 30.000, Plantation House 35.000, Yambolombia 18.000. Preço de quarto privado não verificado. Valores provavelmente subiram desde a coleta do Wikivoyage.",
+        "seguranca": "Estradas de terra sem iluminação à noite; combine o Willys de volta e não caminhe sozinho no escuro (juízo do agente, sem fonte).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://www.asmallworld.com/explorer/articles/the-3-best-coffee-tours-in-salento-colombia"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Fontes lidas não relatam bairros perigosos em Salento; o risco principal é o sísmico e o de golpes de turista. O terremoto M7,4 de 10/08/2026 deixou 166 casas danificadas em Salento (Vanguardia/Semana) sem mortes locais; os efeitos mais graves foram em Pereira (107-109 mortes, 65+ prédios colapsados), Armenia (poucos óbitos), e zonas rurais de Quindío (Quimbaya, Montenegro, Filandia). O enxame sísmico continua (200 eventos >M2 em 48 h; um M4,5 em 23/09/2026, Infobae). Pereira: o centro ainda tem prédios danificados e a Zona Rosa sofreu fechamentos; checar estrutura do hotel antes de reservar. Cocora: operava normalmente em meados de agosto; confirme deslizamentos e trilha antes de subir.",
+    "pegaTuristaAEvitar": [
+      "Café 'premium' comprado em lojinhas da Calle Real: compre em fincas ou supermercados (não tenho números verificados de diferença).",
+      "Tour de café fechado em revendas (Civitatis ~R$438; Pelago US$60 para Las Acacias) – o balcão custa 30.000-60.000 COP.",
+      "Tejo em pacote com balada (Civitatis R$214) – jogar direto custa poucos pesos.",
+      "Jipe 'privado' oferecido na praça por 30.000-50.000 COP quando o compartilhado custa 5.000-7.000 COP (relato do agregador tabiji.ai, não verificado)."
+    ],
+    "golpesComuns": [
+      "Cobrança inflada de Willys privados e cavalos 'no meio da trilha' (50.000 COP que sobe para 100.000-150.000) – relato do agregador tabiji.ai (abr/2026, baseado em Reddit), NÃO verificado por fonte independente.",
+      "Táxis sem taxímetro nos aeroportos de Pereira/Armenia cobrando 250.000 COP por corrida que deveria custar 120.000-150.000 (tabiji.ai, não verificado). Use app ou combine preço antes; o Rome2rio estima R$130-160 do terminal de Pereira a Salento (~35 km).",
+      "Tours de café vendidos por abordadores na praça por 80.000-120.000 COP (tabiji.ai, não verificado): vá direto à finca.",
+      "Possível adulteração de bebidas em bares da Calle Real (tabiji.ai, não verificado): vigie o copo, vá em grupo."
+    ],
+    "fontes": [
+      "https://en.wikivoyage.org/wiki/Salento",
+      "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+      "https://en.wikipedia.org/wiki/Pereira,_Colombia",
+      "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/",
+      "https://www.infobae.com/colombia/2026/09/23/volvio-a-temblar-en-colombia-un-sismo-de-magnitud-45-sacudio-los-departamentos-de-tolima-y-quindio/",
+      "https://www.semana.com/turismo/articulo/salento-joya-turistica-del-eje-cafetero-busca-recuperar-visitantes-tras-el-terremoto-no-hay-restricciones/202650/",
+      "https://www.vanguardia.com/colombia/2026/08/19/salento-sobrevivio-al-terremoto-pero-el-miedo-esta-dejando-sus-calles-vacias/",
+      "https://cronicadelquindio.com/quindio/el-sismo-economico-que-sacude-al-turismo-de-salento-y-filandia/",
+      "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026",
+      "https://princeoftravel.com/guides/10-tips-for-your-first-visit-to-salento/",
+      "https://tabiji.ai/scams/salento/"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Valle de Cocora – Trilha circular das palmeiras de cera (com ou sem Acaime)",
+      "categoria": "natureza",
+      "cidade": "cocora",
+      "tags": [
+        "prioridade-1",
+        "palmeira-de-cera",
+        "trilha",
+        "unesco-paisagem-cafeeira",
+        "vale-cada-peso",
+        "clima-novembro",
+        "los-nevados"
+      ],
+      "coords": {
+        "lat": 4.6379412,
+        "lng": -75.4870509
+      },
+      "descricaoCurta": "A trilha mais famosa da Colômbia: 12-13 km entre pasto, rio, bosque nublado e palmeiras de cera (árvore nacional) de dezenas de metros.",
+      "descricaoLonga": "O Valle de Cocora fica a ~11 km de Salento, dentro do Parque Nacional Natural Los Nevados, e é onde se concentra a palma-de-cera (Ceroxylon quindiuense), árvore nacional da Colômbia. O circuito completo tem ~12-13 km, 5-7 h e dificuldade moderada (as fontes citam ganho de 600-880 m, com ponto alto na Finca La Montaña, ~2.900 m). Dois sentidos: (A) ANTI-HORÁRIO (o mais recomendado): começa pelo pasto/rio/bosque nublado com várias pontes suspensas, faz a subida forte até La Montaña e termina descendo entre as palmeiras – a subida na lama fica para quando você está inteiro e a descida final é pelo trecho das palmeiras; (B) HORÁRIO: vê as palmeiras logo no início, sobe pelos mirantes até La Montaña e desce pelo bosque/rio – descida longa em chão molhado. O desvio por Acaime (casa dos colibris) soma ~4 km e ~2 h. Variante curta (1-3 km, 1-2,5 h) só até o bosque de palmeiras – ver item próprio.",
+      "duracao": {
+        "min": 270,
+        "tipica": 330,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pegar o primeiro Willys (6:30-7:30) e começar a trilha antes das 9h: a chuva costuma chegar à tarde e a neblina é frequente; fim de semana/feriado lota e o último Willys de volta sai por volta de 17:00-18:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 52000,
+        "max": 72000,
+        "por": "pessoa",
+        "inclui": "Custo total por pessoa: ~52.000 COP (Willys ida e volta 12.000 + El Portón 10.000 + Finca La Esperanza/Bosque de Palmas 30.000) até ~72.000 COP (somando Acaime 20.000, com bebida quente). Leve 100.000-120.000 COP em dinheiro por pessoa (taxas cobradas em portões separados).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+          "https://www.nomadicniko.com/colombia/cocora-valley/",
+          "https://www.bucketlistly.blog/posts/hiking-valle-del-cocora-salento-colombia-guide",
+          "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem horário oficial de abertura encontrado; o limite prático é o último Willys de volta",
+        "Dinheiro em espécie nos portões",
+        "Trilha com lama e pedras molhadas em época de chuva"
+      ],
+      "pontoPartida": "Praça Bolívar de Salento (Willys) -> entrada do vale (~20-30 min)",
+      "dicasAgente": [
+        "VALE CADA PESO – é o item nº 1 do Eje Cafetero e custa ~R$80-110 por pessoa (52-72 mil COP; conversão 1 BRL ≈ 650 COP, convenção das outras ondas, não verificada por mim).",
+        "Sentido: faça ANTI-HORÁRIO em novembro. Duas fontes independentes (Mochileando por el Mundo, ago/2025; Nomadic Niko, mai/2026) recomendam esse sentido: subida na lama quando você está descansado, palmeiras como 'prêmio' no final e descida entre elas. O sentido horário é defendido por Salt in Our Hair pela subida inicial mais suave, mas a descida longa em chão molhado é pior em mês chuvoso (juízo do agente, baseado em frugalvoyage).",
+        "NOVEMBRO/CHUVA: normais 1991-2020 do aeroporto de Pereira (Wikipedia, a ~1.300 m): novembro 302,1 mm e 19,1 dias de chuva – um dos meses mais úmidos. Cocora fica 1.000+ m acima e é mais frio/nublado; não achei normal climática específica do vale (estimado). Frugalvoyage descreve lama funda no pasto e pedras molhadas; Salt in Our Hair aponta dez-fev como menos chuvoso e Bucketlistly cita dez-mar e jul-ago como melhores meses.",
+        "Neblina: as fontes dizem que a chuva costuma entrar à tarde e que há neblina frequente – sair cedo é a única estratégia que elas sustentam. Não há garantia de visibilidade das palmeiras.",
+        "Leve capa de chuva + botas de borracha (aluguel citado por Nomadic Niko; valor não confirmado) ou tênis de trilha com sola boa; leve meia extra.",
+        "Evite fins de semana e feriados (lotação e motoristas agressivos, segundo Nomadic Niko/frugalvoyage). Feriados de novembro/2026: confira o calendário oficial (devem cair em 2 e 16/11, segundas – não verificado).",
+        "CORTE SE APERTAR: o desvio por Acaime (+2 h, +20.000 COP) se o tempo fechar; troque pela versão curta do bosque de palmeiras (item 'Bosque de Palmas')."
+      ],
+      "alertas": [
+        "Estado pós-terremoto: Semana (24/08/2026), Vanguardia (19/08/2026) e Crónica del Quindío (18/08/2026) dizem que Cocora opera 'com total normalidade'; o governador cita Valle de Cocora entre os atrativos abertos (Infobae, 07/10/2026). Não encontrei boletim específico sobre deslizamentos nas trilhas – confirme com o hospedeiro na véspera.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis.",
+        "Valores de taxas variam entre fontes (Mochileando ago/2025 citava 25.000 nas duas bilheterias; fontes de mai/2026 citam 10.000 + 30.000). Use as de 2026 como teto."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Palmas_de_cera_en_el_Valle_Cocora.jpg/1280px-Palmas_de_cera_en_el_Valle_Cocora.jpg",
+        "credito": "Ferferic",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palmas_de_cera_en_el_Valle_Cocora.jpg"
+      },
+      "fontes": [
+        "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/",
+        "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+        "https://www.nomadicniko.com/colombia/cocora-valley/",
+        "https://www.saltinourhair.com/colombia/cocora-valley/",
+        "https://www.bucketlistly.blog/posts/hiking-valle-del-cocora-salento-colombia-guide",
+        "https://en.wikipedia.org/wiki/Cocora_Valley",
+        "https://en.wikipedia.org/wiki/Pereira,_Colombia",
+        "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/",
+        "https://www.openstreetmap.org/node/6361367789"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Willys da praça de Salento ao Valle de Cocora",
+      "categoria": "passeio",
+      "cidade": "salento",
+      "tags": [
+        "logistica",
+        "transporte",
+        "willys",
+        "cocora",
+        "vale-cada-peso"
+      ],
+      "coords": {
+        "lat": 4.6372361,
+        "lng": -75.5698171
+      },
+      "descricaoCurta": "Jipes Willys compartilhados saem da Plaza de Bolívar para o vale (20-30 min); é o jeito barato e normal de chegar.",
+      "descricaoLonga": "Os jipes Willys saem da praça principal de Salento e levam ao ponto de entrada do vale (o OSM tem um ponto 'Willy Jeeps a Salento' no vale). A viagem dura 20-30 min. Fontes de 2026 dão 5.000-7.000 COP por trecho ou ~12.000 COP ida e volta; fontes mais velhas (2019-2023) citam 3.800-4.000 COP, então o preço subiu. Primeiros jipes entre 6:30 e 7:30; o último retorno é citado entre 17:00 (Mochileando, ago/2025) e 17:30-18:00 (frugalvoyage, 2026; Wikivoyage e MileHacker também falam em ~18:00).",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 40
+      },
+      "horarios": {
+        "seg": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "ter": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "qua": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "qui": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "sex": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "sab": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)",
+        "dom": "06:30–17:00 (primeiros jipes 6:30-7:30; último retorno citado entre 17:00 e 18:00 – confirmar na hora)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Estar na praça às 6:30-7:00 para pegar o primeiro jipe.",
+      "preco": {
+        "moeda": "COP",
+        "min": 5000,
+        "max": 7000,
+        "por": "pessoa",
+        "inclui": "Por trecho (ida OU volta); ida e volta ≈ 12.000 COP.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+          "https://www.nomadicniko.com/colombia/cocora-valley/",
+          "https://www.bucketlistly.blog/posts/hiking-valle-del-cocora-salento-colombia-guide",
+          "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza de Bolívar, Salento",
+      "dicasAgente": [
+        "VALE CADA PESO – substitui táxi/transfer e custa uma fração do valor.",
+        "Pergunte ao motorista o horário do último retorno e anote; sem jipe de volta, a alternativa é carro/táxi pelo valor que o motorista pedir (preço não verificado).",
+        "Os Willys da mesma praça também levam às fazendas de café (El Ocaso, Don Elías): negocie o preço antes de subir."
+      ],
+      "alertas": [
+        "O agregador tabiji.ai (abr/2026, baseado em relatos de Reddit; NÃO verificado) diz que há cobrança inflada de 'jipe privado' (30.000-50.000 COP) – desconfie de corrida privada oferecida na praça.",
+        "Valores variam entre fontes (4.000 a 7.000 por trecho); use 7.000 como teto de orçamento."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jeeps_Willys_in_Cocora_Valley%2C_Colombia.jpg/1280px-Jeeps_Willys_in_Cocora_Valley%2C_Colombia.jpg",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jeeps_Willys_in_Cocora_Valley,_Colombia.jpg"
+      },
+      "fontes": [
+        "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+        "https://www.nomadicniko.com/colombia/cocora-valley/",
+        "https://www.bucketlistly.blog/posts/hiking-valle-del-cocora-salento-colombia-guide",
+        "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/",
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://www.milehacker.com/travel/colombia/salento/getting-around-salento-public-transport-taxis-car-/",
+        "https://tabiji.ai/scams/salento/",
+        "https://www.openstreetmap.org/way/162013300",
+        "https://www.openstreetmap.org/node/6361367789"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Reserva Acaime – Casa dos Colibris",
+      "categoria": "natureza",
+      "cidade": "cocora",
+      "tags": [
+        "colibri",
+        "observacao-de-aves",
+        "cocora",
+        "corte-se-apertar"
+      ],
+      "coords": {
+        "lat": 4.6249233,
+        "lng": -75.4530602
+      },
+      "descricaoCurta": "Reserva dentro da trilha de Cocora, com bebedouros de colibris e bebida quente inclusa na entrada.",
+      "descricaoLonga": "Parada opcional no meio do circuito de Cocora: varanda com colibris em bebedouros e bebida quente inclusa na entrada. Fica no trecho de bosque nublado e pontes suspensas; ir e voltar de Acaime soma ~4 km e cerca de 2 h ao circuito (frugalvoyage). A taxa de 20.000 COP é citada de forma consistente em três fontes de 2025-2026.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; chegue antes do meio-dia se estiver no anti-horário.",
+      "preco": {
+        "moeda": "COP",
+        "min": 20000,
+        "max": 20000,
+        "por": "pessoa",
+        "inclui": "Entrada + bebida quente.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+          "https://www.nomadicniko.com/colombia/cocora-valley/",
+          "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Dentro do circuito de Cocora (a partir da entrada do vale)",
+      "dicasAgente": [
+        "CORTE SE APERTAR – fora de dia limpo, 20.000 COP + 2 h extras não compensam; vale se for fã de aves ou se o clima estiver firme.",
+        "Se a chuva estiver forte, a varanda serve de pausa (bebida inclusa)."
+      ],
+      "alertas": [
+        "Não achei horário oficial de funcionamento; confirme na bilheteria.",
+        "Coordenada: ponto do polígono da reserva no OpenStreetMap (aproximado), não a varanda."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+        "https://www.nomadicniko.com/colombia/cocora-valley/",
+        "https://www.mochileandoporelmundo.com/trekking-por-el-valle-del-cocora-colombia/",
+        "https://www.openstreetmap.org/way/1312818367"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Bosque de Palmas – versão curta do Cocora (mirante das palmeiras)",
+      "categoria": "mirante",
+      "cidade": "cocora",
+      "tags": [
+        "palmeira-de-cera",
+        "trilha-curta",
+        "plano-b-chuva",
+        "cocora"
+      ],
+      "coords": {
+        "lat": 4.6423574,
+        "lng": -75.4820699
+      },
+      "descricaoCurta": "Caminhada de 1-3 km e 1-2,5 h só até o bosque de palmeiras – ideal se a chuva ou o tempo não permitirem o circuito completo.",
+      "descricaoLonga": "Quem não quer (ou não consegue, por clima) os 12-13 km do circuito pode fazer só o trecho até as palmeiras (frugalvoyage fala em 1-3 km e 1-2,5 h com fotos; Salt in Our Hair cita ~30 min até a floresta de palmeiras). A taxa do Bosque de Palmas/Finca La Esperanza é 30.000 COP (mai/2026), mais 10.000 COP de Finca El Portón. Dá para fazer a manhã em Cocora e voltar a Salento para a tarde.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Primeira metade da manhã (6:30-10:00) para evitar chuva da tarde e a lotação.",
+      "preco": {
+        "moeda": "COP",
+        "min": 30000,
+        "max": 40000,
+        "por": "pessoa",
+        "inclui": "30.000 COP (La Esperanza/Bosque de Palmas) + 10.000 COP (El Portón) se aplicável; Willys à parte (~12.000 ida e volta).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+          "https://www.nomadicniko.com/colombia/cocora-valley/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Entrada do vale (ponto dos Willys) -> bosque de palmeiras",
+      "dicasAgente": [
+        "VALE CADA PESO em dia de chuva ou com só meia manhã livre: ~R$65-80 por pessoa com jipe e você vê o essencial (palmeiras).",
+        "Não prometo visibilidade: neblina é frequente."
+      ],
+      "alertas": [
+        "Coordenada é de uma bilheteria no OSM (parque 'Bosque de Palmas'), não do mirante exato.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Valle_de_Cocora._Salento%2C_Quind%C3%ADo.jpg",
+        "credito": "It's JuanFe",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Valle_de_Cocora._Salento,_Quindío.jpg"
+      },
+      "fontes": [
+        "https://frugalvoyage.com/cocora-valley-colombia-guide/",
+        "https://www.nomadicniko.com/colombia/cocora-valley/",
+        "https://www.saltinourhair.com/colombia/cocora-valley/",
+        "https://www.openstreetmap.org/node/6260594449"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Finca El Ocaso – tour de café (tradicional e premium)",
+      "categoria": "passeio",
+      "cidade": "salento",
+      "tags": [
+        "fazenda-de-cafe",
+        "tour-de-cafe",
+        "bilingue",
+        "mais-turistica",
+        "premium-aprofunda"
+      ],
+      "coords": {
+        "lat": 4.6189971,
+        "lng": -75.6064047
+      },
+      "descricaoCurta": "A fazenda mais famosa de Salento: tour tradicional (1,5 h, 60.000 COP) em ES/EN e tour premium (2,75 h, 120.000 COP) com laboratório sensorial.",
+      "descricaoLonga": "Finca-hotel a ~5 km da praça (vereda Palestina, acesso por estrada sem asfalto). Site oficial: o TRADICIONAL dura 1,5 h, até 30 pessoas, sem reserva obrigatória – visita o cafezal com demonstração de colheita, o beneficiamento (tolva, despolpador, secagem artesanal), o armazém, o torrador e termina com preparo e degustação. Horários: espanhol às 10:00, 12:00, 14:00 e 15:00; inglês às 9:00, 11:00, 13:00 e 16:00. O PREMIUM dura 2,75 h, máximo 10 pessoas, exige reserva e idade mínima 15; soma explicação da Paisagem Cultural Cafeteira (UNESCO) e laboratório de qualidade com oficina sensorial (espanhol às 9:00, inglês às 14:00). Entre as fazendas comparadas, é a mais estruturada e a mais turística; a opção premium é a que realmente ensina a distinguir café.",
+      "duracao": {
+        "min": 90,
+        "tipica": 90,
+        "max": 165
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "ter": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "qua": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "qui": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "sex": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "sab": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)",
+        "dom": "09:00–17:00 (atendimento da finca; tours tradicionais 9:00-16:00 em ES/EN, premium 9:00 ES e 14:00 EN)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tour de inglês das 9:00 ou 11:00 combina bem com a ida do primeiro Willys; a tarde fica livre para Salento.",
+      "preco": {
+        "moeda": "COP",
+        "min": 60000,
+        "max": 120000,
+        "por": "pessoa",
+        "inclui": "Tradicional 60.000 COP (1,5 h); premium 120.000 COP (2,75 h, laboratório sensorial). Inclui degustação; transporte não incluído.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://web.fincaelocasosalento.com/coffee-tours/",
+          "https://www.nomades.com/en/salento/el-ocaso-farm-id1915",
+          "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://web.fincaelocasosalento.com/coffee-tours/"
+      },
+      "contato": {
+        "telefone": "+57 313 425 3669",
+        "whatsapp": "+57 313 425 3669",
+        "site": "https://web.fincaelocasosalento.com/",
+        "instagram": "@fincaelocasosalento"
+      },
+      "restricoes": [
+        "Premium: idade mínima 15 anos e reserva obrigatória",
+        "Acesso final por estrada de terra"
+      ],
+      "pontoPartida": "Praça de Salento: Willys (grupo de até 10), ~4,5-5 km; a pé ~1 h descendo; a cavalo ~40 min (site oficial)",
+      "dicasAgente": [
+        "VALE CADA PESO se você quer ver o ciclo completo e provar café de qualidade: o PREMIUM (120.000) é o mais didático da região, mas o tradicional (60.000) já cobre colheita, beneficiamento, torra e degustação.",
+        "CORTE SE APERTAR: se o orçamento do dia já foi para Cocora, Don Elías (mais barato e menos 'show') cumpre o papel de entender café.",
+        "Para 'entender café de verdade' (casal): premium do Ocaso ou Don Elías; Ocaso é a 'turística' em escala, com a vantagem de ser estruturada e bilíngue."
+      ],
+      "alertas": [
+        "Preços do site oficial (60.000/120.000) estão acima dos publicados em 2025 por plataformas de reserva (Nomades: 48.000/111.500) e da faixa 40.000-100.000 citada por Mochileando (abr/2026) – use o oficial.",
+        "Crónica del Quindío (05/10/2026): a finca relata perda de ~90% da hospedagem e ~80% dos tours pós-terremoto e fez promoção '2 noites pelo preço de 1' em setembro (não confirmada para novembro). Há margem para negociar.",
+        "Civitatis (R$ ~438) é pacote caro com transporte; compre direto na finca.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://web.fincaelocasosalento.com/coffee-tours/",
+        "https://web.fincaelocasosalento.com/contacto/",
+        "https://web.fincaelocasosalento.com/",
+        "https://www.nomades.com/en/salento/el-ocaso-farm-id1915",
+        "https://brokenbootstravel.com/?p=6624",
+        "https://www.asmallworld.com/explorer/articles/the-3-best-coffee-tours-in-salento-colombia",
+        "https://cronicadelquindio.com/quindio/el-sismo-economico-que-sacude-al-turismo-de-salento-y-filandia/",
+        "https://www.openstreetmap.org/node/10031497317"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Finca Don Elías (Las Brisas) – tour de café orgânico familiar",
+      "categoria": "passeio",
+      "cidade": "salento",
+      "tags": [
+        "fazenda-de-cafe",
+        "organico",
+        "familiar",
+        "barato",
+        "entender-cafe"
+      ],
+      "coords": {
+        "lat": 4.6245227,
+        "lng": -75.5973111
+      },
+      "descricaoCurta": "Fazenda familiar orgânica, a ~4 km de Salento: tour curto (~1 h) por 35.000 COP, pouco comercial, em espanhol com inglês às vezes.",
+      "descricaoLonga": "Finca pequena, operada pela família de Don Elías há ~23 anos, 100% orgânica, com banana e frutíferas como sombra e foco em práticas sustentáveis. O tour caminha pelo cafezal, mostra colheita, beneficiamento, torra e moagem artesanais e termina com degustação na varanda. Duração relatada varia de 30-45 min (fontes mais antigas) a 1h15 (Broken Boots, sem data). Idioma: principalmente espanhol; inglês disponível às vezes/mediante pedido. Entre as fazendas comparadas, é a que menos virou 'produto' – boa para entender o processo básico; falta sofisticação de degustação do Ocaso premium.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 75
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 35000,
+        "max": 35000,
+        "por": "pessoa",
+        "inclui": "Tour com degustação. Transporte em Willys/compartilhado à parte (fontes antigas citam 3.000-5.000 COP).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://brokenbootstravel.com/?p=6624"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Praça de Salento: Willys; ou 4 km a pé (cerca de 45 min a 1 h, relato de 2014)",
+      "dicasAgente": [
+        "VALE CADA PESO para quem quer 'entender café' gastando pouco: ~35.000 COP e meia manhã.",
+        "Compre café direto lá se gostar (um relato antigo cita 250 g por ~15.000 COP – preço atual não verificado)."
+      ],
+      "alertas": [
+        "Horário e telefone NÃO confirmados – vá de manhã e pergunte na porta.",
+        "Preço: 35.000 COP vem de uma só fonte sem data (Broken Boots). Buscas indicam ~40.000 COP em 2025, mas não consegui abrir essa fonte; trate 35.000-40.000 como faixa.",
+        "Fontes de 2014-2019 citam 6.000-20.000 COP: estão desatualizadas.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://brokenbootstravel.com/?p=6624",
+        "https://www.asmallworld.com/explorer/articles/the-3-best-coffee-tours-in-salento-colombia",
+        "https://floratheexplorer.com/colombia-coffee-culture-in-salento/",
+        "https://mismatchedpassports.com/coffee-tour-in-salento-a-taste-of-colombian-coffee/",
+        "https://www.openstreetmap.org/node/4982785924"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Finca Las Acacias – tour de café pequeno e pouco comercial",
+      "categoria": "passeio",
+      "cidade": "salento",
+      "tags": [
+        "fazenda-de-cafe",
+        "autentica",
+        "grupos-pequenos",
+        "barato"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Fazenda pequena e familiar, descrita como a menos turística; tour de ~1 h por cerca de 30.000 COP, reserva recomendada.",
+      "descricaoLonga": "Segundo a comparação do Broken Boots Travel, é a opção mais 'local' e menos comercializada: tour de ~1 h, grupos mínimos, possibilidade de tour privado, e vende cafés que só existem na própria finca. Pelago lista um pacote de ~1 h com guia, ingressos e seguro, saindo de Salento e descendo pela 'rota do café' (USD 60, bem acima do preço de balcão). Chega-se de Willys da praça.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 30000,
+        "max": 30000,
+        "por": "pessoa",
+        "inclui": "Tour de ~1 h (valor de balcão segundo Broken Boots).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://brokenbootstravel.com/?p=6624"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Praça de Salento (Willys) – ponto de saída do pacote da Pelago não confirmado",
+      "dicasAgente": [
+        "VALE CADA PESO se o objetivo é conversar com quem planta, sem 'show'; é o mais barato do trio.",
+        "CORTE SE APERTAR se já fez Don Elías ou Ocaso – a experiência se sobrepõe."
+      ],
+      "alertas": [
+        "Não achei telefone, site, horário nem coordenada confirmados – ligue/pergunte na hospedagem antes de subir; coordenadas deixadas em 0,0 de propósito.",
+        "Pelago (USD 60) é revenda de pacote – evite; compre o tour direto.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://brokenbootstravel.com/?p=6624",
+        "https://www.pelago.com/en-US/activity/p31v8uqfg-the-acacias-coffe-farm-salento/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Calle Real (Carrera 6) – rua colonial de Salento",
+      "categoria": "atracao",
+      "cidade": "salento",
+      "tags": [
+        "rua-colonial",
+        "unesco-paisagem-cafeeira",
+        "gratis",
+        "compras",
+        "gastronomia"
+      ],
+      "coords": {
+        "lat": 4.6383317,
+        "lng": -75.5687151
+      },
+      "descricaoCurta": "Rua pedonal de casas coloridas em bahareque que liga a praça ao mirante Alto de la Cruz, cheia de lojas, cafés e restaurantes.",
+      "descricaoLonga": "Também chamada Carrera 6, é a rua mais fotografada de Salento (centro histórico inscrito na Paisagem Cultural Cafeteira, UNESCO, 2011). Fachadas coloridas com portas e janelas de madeira, artesanato, galerias, cafés e restaurantes de truta. Leva à escadaria do Alto de la Cruz. É de graça e se vê em 30-60 min; o resto é comer, tomar café e comprar lembranças.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde (luz boa e lojas abertas); de manhã cedo está vazia.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso livre (rua pública).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+          "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO (grátis) – junte com o mirante e um café.",
+        "Compre comida fora dos restaurantes de maior fluxo; preços de menu do dia ficam abaixo dos de carta."
+      ],
+      "alertas": [
+        "Pós-terremoto: Calle Real tem danos visíveis (Crónica del Quindío, 05/10/2026) mas segue aberta e com comércio funcionando; algumas casas do centro histórico tiveram telhas e fachadas afetadas (El Tiempo, 10/08/2026).",
+        "Relatos agregados (tabiji.ai, abr/2026, não verificado) mencionam casos de 'drink spiking' em bares da Calle Real – não deixe bebida sem vigiar.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Carrera_6%2C_Salento_01.jpg/1280px-Carrera_6%2C_Salento_01.jpg",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Carrera_6,_Salento_01.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+        "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/",
+        "https://cronicadelquindio.com/quindio/el-sismo-economico-que-sacude-al-turismo-de-salento-y-filandia/",
+        "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-salento-quindio-tras-el-fuerte-terremoto-de-7-4-varias-casas-tradicionales-resultaron-afectadas-3577880",
+        "https://tabiji.ai/scams/salento/",
+        "https://www.openstreetmap.org/way/299065608"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Mirador Alto de la Cruz (escadaria de ~250 degraus)",
+      "categoria": "mirante",
+      "cidade": "salento",
+      "tags": [
+        "mirante",
+        "gratis",
+        "por-do-sol",
+        "vista-cocora"
+      ],
+      "coords": {
+        "lat": 4.6396541,
+        "lng": -75.56647
+      },
+      "descricaoCurta": "Mirante no fim da Calle Real, com vista do Valle de Cocora e das montanhas; sobe-se por escadaria com estações da via-sacra.",
+      "descricaoLonga": "No fim da Calle Real, uma escadaria de ~250 degraus (Wikipedia: 250; Mochileando: 253) leva à cruz e ao mirante com vista de Salento, do Valle de Cocora e das montanhas. Dá para subir em 10-15 min; vale mais cedo, com céu aberto.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã com céu limpo ou fim de tarde; chuva/neblina apaga a vista.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuidade não confirmada por fonte; nenhuma cobrança foi citada.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+          "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO (custo zero) se estiver aberto – combina com a Calle Real.",
+        "CORTE SE APERTAR em dia nublado."
+      ],
+      "alertas": [
+        "Um relato logo após o terremoto (alerta.com.co, ago/2026) diz que a escadaria do mirante sofreu danos; não achei confirmação de reabertura ou de interdição atual – pergunte na hospedagem.",
+        "Preço: nenhuma fonte cita taxa; marcado 0 como 'não confirmado'.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mirador_Alto_de_la_Cruz%2C_Salento.jpg/1280px-Mirador_Alto_de_la_Cruz%2C_Salento.jpg",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mirador_Alto_de_la_Cruz,_Salento.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+        "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/",
+        "https://www.alerta.com.co/quejodromo/salento-quindio-municipios-mas-bellos-de-colombia-quedo-destruido-por-el-terremoto-248382",
+        "https://www.openstreetmap.org/node/4564218291"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza de Bolívar e a noite real de Salento",
+      "categoria": "atracao",
+      "cidade": "salento",
+      "tags": [
+        "praca",
+        "vida-noturna-honesta",
+        "fim-de-semana",
+        "igreja-nuestra-senora-del-carmen"
+      ],
+      "coords": {
+        "lat": 4.6372361,
+        "lng": -75.5698171
+      },
+      "descricaoCurta": "Praça central com a igreja Nuestra Señora del Carmen; à noite há poucas opções – barracas de cerveja nos fins de semana, bares pequenos e tejo.",
+      "descricaoLonga": "Honestamente: Salento é um vilarejo de ~10 mil habitantes e a noite é calma. Wikivoyage cita barracas de cerveja em volta da praça nos fins de semana e o histórico Billar Danubio (bar com mesas de bilhar, com mais de 100 anos); Los Amigos oferece tejo. Não há baladas. Em novembro/2026 o movimento está bem abaixo do normal (ocupação hoteleira do Quindío caiu de ~80% para 20-22%, segundo o governador; Cotelco fala em queda de cerca de 50%). Para festa de verdade, o plano é Pereira (Zona Rosa/Circunvalar), que também sofreu com o terremoto – ver item de Pereira.",
+      "duracao": {
+        "min": 30,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Sexta e sábado à noite são os únicos momentos com algum movimento.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praça gratuita; consumo à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Salento"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: não planeje uma noite 'de balada' em Salento; use a noite para jantar cedo, tejo e uma cerveja.",
+        "Se a vida noturna é prioridade, durma uma noite em Pereira (se a oferta estiver aberta) ou reduza Salento a 2 noites."
+      ],
+      "alertas": [
+        "Dados de funcionamento noturno (horários dos bares) não foram encontrados.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Plaza_de_Bol%C3%ADvar%2C_Salento_01.jpg/1280px-Plaza_de_Bol%C3%ADvar%2C_Salento_01.jpg",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_de_Bolívar,_Salento_01.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+        "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/",
+        "https://cronicadelquindio.com/quindio/el-sismo-economico-que-sacude-al-turismo-de-salento-y-filandia/",
+        "https://www.openstreetmap.org/way/162013300"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tejo na Cancha Los Amigos",
+      "categoria": "experiencia",
+      "cidade": "salento",
+      "tags": [
+        "tejo",
+        "polvora",
+        "esporte-nacional",
+        "vida-noturna",
+        "barato",
+        "vale-cada-peso"
+      ],
+      "coords": {
+        "lat": 4.6396646,
+        "lng": -75.5695064
+      },
+      "descricaoCurta": "O esporte nacional: jogar um disco de ~700 g contra triângulos de papel com pólvora (mechas) em argila. Cerveja e explosões por poucos pesos.",
+      "descricaoLonga": "Como funciona: de 3-5 m, cada jogador lança um disco metálico de ~700 g (tejo) para um aro de metal (bocín) enterrado numa caixa de argila; nas bordas ficam as 'mechas', triângulos de papel com pólvora que estouram se o disco as acerta. Pontuação clássica: 1 ponto pelo disco mais próximo, 3 por explosão, 6 por dentro do aro, 9 por explosão + aro, jogo até 21. As explosões são pequenas. Em Salento joga-se em Los Amigos (a poucos minutos da praça; a fonte cita Carrera 6 #6/21, o OSM marca Carrera 4 – confira), numa cancha de bar onde se pede cerveja. Existe um tour pronto (Civitatis, ~R$214 por pessoa, 4 h, com balada) – muito mais caro que jogar direto.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "A partir de ~18:30 (fonte geral sobre canchas de tejo; horário específico de Los Amigos não confirmado).",
+      "preco": {
+        "moeda": "COP",
+        "min": 2000,
+        "max": 9000,
+        "por": "pessoa",
+        "inclui": "Jogo ~2.000 COP por pessoa + cerveja 3.500-5.000 COP (fontes de 2019-2025; valor atual provavelmente maior).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://asocialnomad.com/?p=21686",
+          "https://coupletraveltheworld.com/?p=4952"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Maior de 18 anos",
+        "Consumo de cerveja"
+      ],
+      "pontoPartida": "A ~5 min a pé da Plaza de Bolívar",
+      "dicasAgente": [
+        "VALE CADA PESO – a atividade mais 'só aqui' e barata da noite de Salento (planeje ~20.000-30.000 COP por pessoa com cervejas).",
+        "Pague o jogo e as cervejas direto na cancha; ignore tour fechado de R$214 (Civitatis)."
+      ],
+      "alertas": [
+        "Preços de 2019/2023/2025 (2.000 por jogo, cerveja 3.500-5.000) provavelmente desatualizados – pergunte antes de jogar.",
+        "Horário, telefone e endereço oficial não confirmados.",
+        "Civitatis exige idade mínima 18."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://asocialnomad.com/?p=21686",
+        "https://coupletraveltheworld.com/?p=4952",
+        "https://avianca.civitatis.com/en/salento/tejo-game/",
+        "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/",
+        "https://www.openstreetmap.org/node/4508040689"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Artesanato e lembranças na Calle Real (e onde comprar melhor)",
+      "categoria": "compras",
+      "cidade": "salento",
+      "tags": [
+        "artesanato",
+        "lembrancas",
+        "bambu",
+        "velas",
+        "joias"
+      ],
+      "coords": {
+        "lat": 4.6383317,
+        "lng": -75.5687151
+      },
+      "descricaoCurta": "Lojas da Calle Real vendem bijuteria, velas, objetos de bambu e roupas; é turístico, mas dá para comprar bem.",
+      "descricaoLonga": "Wikivoyage descreve artesãos locais vendendo joias, velas e peças de bambu. A Calle Real concentra lojas de roupa, galerias e lembranças. Para cestaria/artesanato de fibra, Filandia é a vila do canasto (Centro de Interpretação Bejuco Canasto; festa em agosto) – ver item de Filandia.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem preço fixo (compras).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Salento"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: compre pouco aqui e deixe cestaria/artesanato para Filandia; lembrança de café, melhor direto da finca ou em supermercado (ver item de café).",
+        "Pechinche com educação: loja turística da Calle Real é onde o preço mais infla."
+      ],
+      "alertas": [
+        "Não levantei preços de artesanato – sem números verificados."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://colombia.travel/pt/filandia",
+        "https://www.semana.com/turismo/articulo/salento-joya-turistica-del-eje-cafetero-busca-recuperar-visitantes-tras-el-terremoto-no-hay-restricciones/202650/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Gran Trucha – truta frita com patacón na Calle Real",
+      "categoria": "restaurante",
+      "cidade": "salento",
+      "tags": [
+        "trucha",
+        "patacon",
+        "economico",
+        "gastronomia-local"
+      ],
+      "coords": {
+        "lat": 4.6382679,
+        "lng": -75.5687213
+      },
+      "descricaoCurta": "Casa de truta (trucha) na Calle Real: prato de truta frita com patacón, arroz e salada por cerca de 14.000 COP.",
+      "descricaoLonga": "A truta é o prato-símbolo de Salento (criada nos rios da região). Mochileando cita La Gran Trucha com truta frita, plátano, arroz e salada por 14.000 COP; Wikivoyage dá a faixa geral de 10.000-20.000 COP por prato de truta; a mesma fonte cita almoço do dia em El Rincón de Lucy por 16.000-19.000 COP (o El Rincón de Lucy que o OSM mostra é uma finca campestre, outro lugar – confirme o local). Outras opções citadas: Donde Juan B (truta com alho), Pueblito Montañero.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 10000,
+        "max": 20000,
+        "por": "pessoa",
+        "inclui": "Prato de truta com acompanhamentos (La Gran Trucha ~14.000 COP).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/",
+          "https://en.wikivoyage.org/wiki/Salento"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO – ~R$22-30 por pessoa é a refeição típica mais barata e fiel da cidade.",
+        "Almoce o 'menú del día' (16.000-19.000 COP) em vez de jantar à la carte."
+      ],
+      "alertas": [
+        "Horário e telefone não confirmados.",
+        "Com a queda de turismo, alguns restaurantes podem fechar mais cedo/ocasionalmente; confirme.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.mochileandoporelmundo.com/cosas-que-ver-y-hacer-en-salento-colombia/",
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://www.openstreetmap.org/node/3158556715"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Café Jesús Martín – café e bolo de chocolate",
+      "categoria": "cafe",
+      "cidade": "salento",
+      "tags": [
+        "cafe",
+        "cappuccino",
+        "bolo-de-chocolate",
+        "calle-real"
+      ],
+      "coords": {
+        "lat": 4.6372178,
+        "lng": -75.5706749
+      },
+      "descricaoCurta": "Café perto da praça, citado por cappuccinos feitos com café local e bolo de chocolate.",
+      "descricaoLonga": "Wikivoyage destaca o Café Jesús Martín pelo cappuccino com café cultivado na região e pelo bolo de chocolate. É um lugar fácil para descansar depois do Alto de la Cruz ou antes do Willys.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: um café de especialidade custa mais que o de finca; prefira a degustação do tour."
+      ],
+      "alertas": [
+        "Preços e horários NÃO confirmados; 'preco' fica 0 por falta de fonte."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://www.openstreetmap.org/node/4028648800"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Billar Danubio – bar tradicional",
+      "categoria": "bar",
+      "cidade": "salento",
+      "tags": [
+        "bar",
+        "bilhar",
+        "musica-tradicional",
+        "historico"
+      ],
+      "coords": {
+        "lat": 4.6382306,
+        "lng": -75.568784
+      },
+      "descricaoCurta": "Bar-bilhar com mais de 100 anos na Calle Real: cerveja, bilhar e música tradicional colombiana (country-western local).",
+      "descricaoLonga": "Wikivoyage o descreve como estabelecimento histórico com mesas de bilhar e música tradicional; um blog de 2023 o compara a um 'saloon' de vaqueiros, com música country colombiana. Não é balada; é o bar local mais autêntico.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Consumo; preços não verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR – combine com o tejo e escolha só um dos dois na mesma noite."
+      ],
+      "alertas": [
+        "Horários e preços não confirmados.",
+        "Mantenha o copo sempre à vista (relatos não verificados de adulteração de bebidas em bares da Calle Real)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://coupletraveltheworld.com/?p=4952",
+        "https://www.openstreetmap.org/node/3158576641"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mirador Colina Iluminada (Filandia) – FECHADO após o terremoto",
+      "categoria": "mirante",
+      "cidade": "filandia",
+      "tags": [
+        "fechado",
+        "terremoto",
+        "mirante",
+        "filandia",
+        "corte"
+      ],
+      "coords": {
+        "lat": 4.6689573,
+        "lng": -75.6656621
+      },
+      "descricaoCurta": "Torre-mirante de madeira/guadua com 27,5 m e 9 níveis, a 15 min a pé do centro: interditada desde o sismo de 10/08/2026, sem data de reabertura.",
+      "descricaoLonga": "Antes do terremoto: torre de ~27,5 m e 9 andares com vista de 360° do Quindío e Risaralda e pôr do sol, café e lojas na área; entrada de 8.000 COP, aberta 9:00-18:00 todos os dias (Living Out Lau, jan/2024). O sismo de 10/08/2026 danificou o mirante e a Casa del Artesano; a primeira avaliação sugeriu demolição, mas o prefeito suspendeu o decreto para novos estudos estruturais (guadua, madeira e fundações). Segundo Rádio Nacional (26/09/2026) e Ciudad Región (27/09/2026), os dois sítios seguem fechados ao público e não há prazo de reabertura.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "ter": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "qua": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "qui": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "sex": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "sab": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00",
+        "dom": "Fechado (interditado após o sismo de 10/08/2026). Antes: 09:00–18:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 8000,
+        "max": 8000,
+        "por": "pessoa",
+        "inclui": "Valor ANTES do terremoto (Living Out Lau, jan/2024). Atualmente fechado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://livingoutlau.com/filandia-quindio-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Filandia, ~15 min a pé",
+      "dicasAgente": [
+        "CORTE – não conte com este mirante no roteiro de novembro: sem previsão de reabertura.",
+        "Alternativa de vista: o Alto de la Cruz em Salento (se estiver aberto) ou o mirante pela estrada de Filandia; não verifiquei o estado deles."
+      ],
+      "alertas": [
+        "Reabertura improvável até novembro/2026 (decisão de demolição suspensa; novos estudos em curso).",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mirador_Colina_Iluminada_%28248878967%29.jpeg/1280px-Mirador_Colina_Iluminada_%28248878967%29.jpeg",
+        "credito": "Pedro Agudelo Gaona",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mirador_Colina_Iluminada_(248878967).jpeg"
+      },
+      "fontes": [
+        "https://radionacional.co/regiones/mirador-colina-iluminada-filandia",
+        "https://ciudadregion.com/regiones/quindio/filandia-suspende-demolicion-mirador-casa-artesano-estudios-sismo",
+        "https://livingoutlau.com/filandia-quindio-colombia/",
+        "https://www.openstreetmap.org/way/200000491"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Filandia – centro colorido, Calle del Tiempo Detenido e artesanato de cestaria",
+      "categoria": "atracao",
+      "cidade": "filandia",
+      "tags": [
+        "pueblo",
+        "artesanato",
+        "canasto",
+        "guadua",
+        "cafe",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Vila de casas coloridas e balcões de madeira a ~20 km de Salento; oficinas de cestaria/guadua, cafés e restaurantes. Boa para meio dia.",
+      "descricaoLonga": "Filandia (≈1.900 m, ~12,6 mil habitantes) tem Parque Bolívar, a igreja María Inmaculada, a Calle del Tiempo Detenido (casas coloridas com balcões) e oficinas de artesanato em guadua e cestaria ao longo do caminho do mirante. A vila é a capital do canasto (festival em agosto). Living Out Lau (jan/2024) recomenda como bate-volta ou pernoite a partir de Salento, 'sem necessidade de mais'. Como ir: Willys da praça de Salento (~50 min, 10.000 COP, Saca Voyage), ônibus 'Willy's' de hora em hora (~35 min, R$13 no Rome2rio ≈ 8.500 COP a 650 COP/BRL), ou táxi (~22 min, R$65-80 ≈ 42.000-52.000 COP). Living Out Lau avisa que os horários diretos são esparsos. Restaurantes fecham cedo em dia de semana (colombia.travel). Importante: Filandia foi uma das zonas rurais mais atingidas do Quindío (relatórios citam mais de 6.000 casas destruídas somando Quimbaya, Montenegro e Filandia – Infobae 07/10/2026); a Casa del Artesano está fechada e danificada.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar às 10:00-11:00, almoçar e voltar antes do fim da tarde (restaurantes fecham cedo em dias úteis).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 10000,
+        "por": "pessoa",
+        "inclui": "Centro a pé é grátis; transporte Salento-Filandia ~8.500-10.000 COP por trecho (Willys 10.000; ônibus R$13 convertido).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://sacavoyage.fr/en/que-voir-dans-la-region-du-cafe-visiter-filandia-j8/",
+          "https://www.rome2rio.com/s/Salento/Filandia"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR – com o mirante fechado e a Casa del Artesano interditada, perde-se o ponto alto; vale só se sobrar meio dia (e se quiser comprar cestaria).",
+        "Compras: o artesanato em guadua/cestaria de Filandia é mais autêntico que as lojas da Calle Real, mas não levantei preços."
+      ],
+      "alertas": [
+        "Coordenadas do centro/Calle del Tiempo Detenido não confirmadas (0,0).",
+        "Horários de ônibus Salento-Filandia 'infrequentes' segundo Living Out Lau – confirme na véspera.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombia.travel/pt/filandia",
+        "https://livingoutlau.com/filandia-quindio-colombia/",
+        "https://sacavoyage.fr/en/que-voir-dans-la-region-du-cafe-visiter-filandia-j8/",
+        "https://www.bluradio.com/turismo/filandia-pueblo-colombiano-mas-subestimado-bello-del-mundo-que-debe-visitar-so35",
+        "https://www.rome2rio.com/s/Salento/Filandia",
+        "https://en.wikipedia.org/wiki/Filandia,_Quind%C3%ADo",
+        "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/",
+        "https://ciudadregion.com/regiones/quindio/filandia-suspende-demolicion-mirador-casa-artesano-estudios-sismo"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aeroporto Matecaña (PEI, Pereira) – chegada e traslado a Salento",
+      "categoria": "passeio",
+      "cidade": "pereira",
+      "tags": [
+        "logistica",
+        "aeroporto",
+        "pei",
+        "terremoto"
+      ],
+      "coords": {
+        "lat": 4.8125188,
+        "lng": -75.7402798
+      },
+      "descricaoCurta": "Aeroporto internacional de Pereira: reabriu em 25/08/2026 só no 1º andar; ~42-43 voos/dia (antes 60). De lá, bus até o terminal e 1 h até Salento.",
+      "descricaoLonga": "O Matecaña (a ~2 km a oeste do centro de Pereira) tem voos de Avianca, LATAM, JetSMART, Clic e Copa (Panamá, 3 frequências diárias). O terremoto de 10/08/2026 destruiu os pisos 2-3 do terminal (3 mortes); reabriu em 25/08/2026 operando só no térreo, com apenas 2 de 6 salas de espera e 2 de 4 pontes de embarque, e em 02/09/2026 operava 42-43 voos/dia (antes ~60), com rotas domésticas restabelecidas. Para Salento: ir ao Terminal de Transportes de Pereira e pegar o bus (Expreso Alcalá, ~1 h, de hora em hora, último ~18:00; tarifa em item próprio). Táxi do terminal a Salento: R$130-160 no Rome2rio (≈85.000-105.000 COP a 650 COP/BRL), ~40 min por 35 km.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem tarifa verificada do aeroporto ao terminal; veja itens de ônibus.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "AXM (Armenia) é melhor para chegar a Salento de ônibus: terminal 22 km, ônibus a cada 15-20 min até ~20:00. PEI exige conexão extra até o terminal de Pereira e o último bus sai cedo (~18:00) – cheguem a PEI até ~15:00 ou reservem táxi/hospedagem.",
+        "VALE CADA PESO escolher o aeroporto pelo preço da passagem: o traslado barato funciona nos dois se chegarem de dia.",
+        "Use o app de transporte (Uber/DiDi) do aeroporto ao terminal em vez de taxistas sem taxímetro (alerta do agregador tabiji.ai, não verificado)."
+      ],
+      "alertas": [
+        "Terminal do PEI com obras nas fachadas até dezembro e capacidade reduzida (La Patria); check-in virtual e embarque só com cartão (Ciudad Región).",
+        "Aeronáutica Civil (11/08/2026) mostrava PEI fechado para voos comerciais: informação SUPERADA pela reabertura de 25/08.",
+        "Preço de transfer aeroporto→terminal NÃO encontrado.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Aeropuerto_Mateca%C3%B1a.jpg/1280px-Aeropuerto_Mateca%C3%B1a.jpg",
+        "credito": "Baiji",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Matecaña.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Mateca%C3%B1a_International_Airport",
+        "https://ciudadregion.com/regiones/risaralda/pereira/reapertura-aeropuerto-matecana-pereira-vuelos-terremoto-medellin-panama",
+        "https://elnortehoy.com/2026/09/02/aeropuerto-matecana-recupera-buena-parte-vuelos",
+        "https://www.lapatria.com/eje-cafetero/aeropuerto-en-el-eje-cafetero-aplaza-su-reapertura-comercial-tras-nuevas-exigencias",
+        "https://www.aerocivil.gov.co/publicaciones/4619/aeronautica-civil-informa-reapertura-gradual-y-estado-operacional-de-los-aeropuertos-del-pais-tras-evaluaciones-por-sismo/",
+        "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Pereira/Salento",
+        "https://www.openstreetmap.org/relation/14224857"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aeroporto El Edén (AXM, Armenia/La Tebaida) – chegada e traslado a Salento",
+      "categoria": "passeio",
+      "cidade": "armenia",
+      "tags": [
+        "logistica",
+        "aeroporto",
+        "axm",
+        "terremoto"
+      ],
+      "coords": {
+        "lat": 4.452778,
+        "lng": -75.766111
+      },
+      "descricaoCurta": "Aeroporto doméstico a ~13 km de Armenia, operando normalmente desde 11/08/2026; voos diários a Bogotá. Melhor para ir a Salento de ônibus.",
+      "descricaoLonga": "O El Edén (La Tebaida) é exclusivamente doméstico, 13 km a sudoeste de Armenia. Retomou voos comerciais em 11/08/2026 (Aerocivil), apesar de danos menores na torre; em outubro/2026 mantém voos diários a Bogotá e dois semanais a Cartagena e assumiu frequências temporárias do Eje Cafetero. Wikipedia lista Avianca, Avianca Express, LATAM e Wingo (Bogotá/Medellín). Para Salento: táxi/app até o Terminal de Transportes de Armenia e ônibus Cootracir (22 km, ~1 h, a cada 15-20 min até ~20:00). Armenia terminal→Salento de táxi: R$80-100 (≈52.000-65.000 COP a 650 COP/BRL, 33 min).",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem tarifa verificada do aeroporto ao terminal de Armenia.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO – é a porta de entrada mais prática para Salento: bus frequente até ~20:00 e terminal a 22 km.",
+        "Para voos do Brasil, conecte por Bogotá; PEI tem Copa via Panamá (3 frequências diárias)."
+      ],
+      "alertas": [
+        "Coordenada vem do Wikipedia (04°27′10″N 75°45′58″W): é a única fonte; busca OSM por 'El Edén' não retornou a pista.",
+        "Aerocivil: El Edén não está disponível como aeroporto alternativo para outras aeronaves (limitação de terminal).",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/El_Ed%C3%A9n_International_Airport",
+        "https://www.aerocivil.gov.co/publicaciones/4619/aeronautica-civil-informa-reapertura-gradual-y-estado-operacional-de-los-aeropuertos-del-pais-tras-evaluaciones-por-sismo/",
+        "https://cronicadelquindio.com/quindio/el-eden-opera-con-normalidad-y-proyecta-mejoras-tras-el-sismo/",
+        "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Armenia/Salento"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ônibus Armenia -> Salento (Terminal de Transportes de Armenia)",
+      "categoria": "passeio",
+      "cidade": "armenia",
+      "tags": [
+        "logistica",
+        "onibus",
+        "armenia",
+        "salento",
+        "vale-cada-peso"
+      ],
+      "coords": {
+        "lat": 4.5283709,
+        "lng": -75.6842461
+      },
+      "descricaoCurta": "Ônibus Cootracir a cada 15-20 min, ~45-60 min, ~5.900-8.500 COP; último por volta das 20:00.",
+      "descricaoLonga": "Wikivoyage informa ônibus entre 5:30 e 20:00 a cada 20 min, 45 min de viagem e tarifa de 5.900 COP; o Rome2rio mostra a operadora Cootracir, frequência de 15 min e 1 h de viagem (22,4 km), com preço de R$13 (≈8.500 COP a 650 COP/BRL). As tarifas variam entre as fontes (e podem ter subido).",
+      "duracao": {
+        "min": 45,
+        "tipica": 55,
+        "max": 70
+      },
+      "horarios": {
+        "seg": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "ter": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "qua": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "qui": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "sex": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "sab": "05:30–20:00 (a cada 15-20 min; fonte sem data)",
+        "dom": "05:30–20:00 (a cada 15-20 min; fonte sem data)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Evitar chegar em Salento depois das 19:00; último ônibus citado ~20:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 5900,
+        "max": 8500,
+        "por": "pessoa",
+        "inclui": "Ônibus Cootracir do terminal de Armenia até a rodoviária de Salento (perto da praça).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Armenia/Salento"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal de Transportes de Armenia",
+      "dicasAgente": [
+        "VALE CADA PESO – o meio de transporte mais barato e prático da região.",
+        "Confirme o último horário no terminal no dia (as fontes diferem)."
+      ],
+      "alertas": [
+        "Máximo (8.500 COP) é conversão do R$13 do Rome2rio a 650 COP/BRL (câmbio das ondas anteriores, não verificado por mim); mínimo vem do Wikivoyage (sem data).",
+        "Horário 5:30-20:00 vem do Wikivoyage; não achei tabela da cooperativa."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Armenia/Salento",
+        "https://www.openstreetmap.org/way/301728072"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ônibus Pereira -> Salento (Terminal de Transportes de Pereira)",
+      "categoria": "passeio",
+      "cidade": "pereira",
+      "tags": [
+        "logistica",
+        "onibus",
+        "pereira",
+        "salento"
+      ],
+      "coords": {
+        "lat": 4.80164,
+        "lng": -75.6935412
+      },
+      "descricaoCurta": "Ônibus de hora em hora (Expreso Alcalá), ~1 h, ~11.500-18.800 COP; último por volta de 18:00-18:30.",
+      "descricaoLonga": "Wikivoyage: 11.500 COP, 1 h; de segunda a sexta de hora em hora; fim de semana saídas às 6:30 e depois de hora em hora das 7:30 às 18:30; último às 18:00. O Rome2rio mostra a operadora Expreso Alcalá, de hora em hora, com preço R$19-29 (≈12.350-18.850 COP a 650 COP/BRL). Distância ~35 km.",
+      "duracao": {
+        "min": 60,
+        "tipica": 70,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "06:30–18:30 (de hora em hora; Wikivoyage)",
+        "dom": "06:30–18:30 (de hora em hora; Wikivoyage)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saia de Pereira antes das 17:00 para não depender do último ônibus.",
+      "preco": {
+        "moeda": "COP",
+        "min": 11500,
+        "max": 18800,
+        "por": "pessoa",
+        "inclui": "Ônibus Terminal de Pereira -> rodoviária de Salento.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Pereira/Salento"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal de Transportes de Pereira (Calle 17)",
+      "dicasAgente": [
+        "Se for a PEI, planeje chegar cedo ao terminal (último ônibus ~18:00) ou use o AXM/Armenia, mais flexível."
+      ],
+      "alertas": [
+        "Faixa de preço combina Wikivoyage (11.500) e o Rome2rio convertido (ceiling 18.800, câmbio assumido) – confiança parcial.",
+        "Horários de semana exatos não confirmados; só sáb/dom estão preenchidos por seguir o Wikivoyage.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Salento",
+        "https://www.rome2rio.com/s/Terminal-de-Transportes-de-Pereira/Salento",
+        "https://www.openstreetmap.org/relation/6775847"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Alugar carro no Eje Cafetero – compensa?",
+      "categoria": "aluguel-veiculo",
+      "cidade": "pereira",
+      "tags": [
+        "logistica",
+        "aluguel-de-carro",
+        "nao-compensa"
+      ],
+      "coords": {
+        "lat": 4.8125188,
+        "lng": -75.7402798
+      },
+      "descricaoCurta": "Para 2 pessoas econômicas e foco em Salento/Cocora, não compensa: Willys e ônibus resolvem; Salento tem estacionamento ruim e não há locadora na cidade.",
+      "descricaoLonga": "Há locadoras nos aeroportos/centros de Pereira e Armenia, mas não em Salento. MileHacker descreve estacionamento difícil e ruas estreitas de paralelepípedo; a estrada Pereira-Salento tem ~39 km (~1 h). Sem preço de diária verificado. Com Willys (5-7 mil COP/trecho) e ônibus (6-12 mil COP), o gasto total do casal em transporte público pelo Eje fica muito abaixo de uma diária de locadora (valor não verificado). Faria sentido só se juntarem fincas distantes e Filandia no mesmo dia; porém Filandia, Quimbaya e Montenegro foram as zonas mais afetadas no Quindío.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "grupo",
+        "inclui": "Diária não verificada (não abri tarifa de locadora).",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE – não alugue carro: use Willys + ônibus. Reavalie só se o voo cair em horário ruim e o grupo crescer.",
+        "Se alugar mesmo assim, confirme vaga de estacionamento no hotel antes (fontes dizem que estacionar em Salento é difícil)."
+      ],
+      "alertas": [
+        "Sem tarifa verificada; decisão baseada em estacionamento/ruas (MileHacker, sem data) e em preços de Willys/ônibus.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.milehacker.com/travel/colombia/salento/getting-around-salento-public-transport-taxis-car-/",
+        "https://kimkim.com/ab/salento-to-pereira",
+        "https://www.openstreetmap.org/relation/14224857"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Café para levar: onde comprar sem preço de turista",
+      "categoria": "compras",
+      "cidade": "armenia",
+      "tags": [
+        "cafe-para-levar",
+        "supermercado",
+        "fincas",
+        "economia"
+      ],
+      "coords": {
+        "lat": 4.5352181,
+        "lng": -75.6742514
+      },
+      "descricaoCurta": "Melhores opções: supermercados (Éxito, D1, Ara) e direto das fincas; lojinhas turísticas da Calle Real são onde o preço infla.",
+      "descricaoLonga": "Não consegui números comparativos confiáveis para 2026. O que as fontes sustentam: (1) as fincas vendem seu próprio café (Don Elías: relato antigo de 250 g a ~15.000 COP; El Ocaso tem loja e produtos; preços atuais não verificados); (2) redes como D1 vendem grãos de café e Éxito/Ara têm despensa completa (Colombia Move, set/2026); (3) lojas de lembranças em Salento (Calle Real) são o canal turístico. A coordenada marcada é um Éxito do centro de Armenia (OSM).",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem preço verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO comprar café nas fincas (se gostar do tour) e pacotes de supermercado como presente em massa.",
+        "Compre perto da volta (aeroporto) apenas o que sobrou: lojas de aeroporto costumam ser as mais caras (juízo do agente, sem fonte)."
+      ],
+      "alertas": [
+        "Sem faixas de preço; sem dados do tipo de embalagem/peso por marca."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/where-buy-groceries-pereira-supermarkets/",
+        "https://mismatchedpassports.com/coffee-tour-in-salento-a-taste-of-colombian-coffee/",
+        "https://web.fincaelocasosalento.com/",
+        "https://www.openstreetmap.org/node/2529942670"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto)",
+      "categoria": "bar",
+      "cidade": "pereira",
+      "tags": [
+        "vida-noturna",
+        "zona-rosa",
+        "circunvalar",
+        "terremoto"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "A zona noturna de Pereira (bares, coquetelaria, salsa e balada) – mas a cidade foi a mais afetada pelo sismo; oferta reduzida.",
+      "descricaoLonga": "Calendário de Colômbia lista, na Zona Rosa/Avenida Circunvalar, El Parnaso, Malabar, Balcones de la Circunvalar e a balada Club 440, além de Teatro Santiago Londoño e Café Cultural Son del Río. Em 22/08/2026 a prefeitura anunciou 500 milhões de COP de apoio a bares e restaurantes via Asobares, depois de duas semanas de fechamentos e danos. Pereira teve ~107-109 mortes e 65+ prédios colapsados; não achei levantamento confiável de quais bares reabriram (uma busca indicou que cerca de metade seguia fechada um mês depois, mas não consegui abrir a fonte).",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem preços verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR – só vale se a prioridade for balada de verdade e você confirmar antes quais casas estão abertas; Salento não oferece isso.",
+        "Se for, durma em Pereira só uma noite e use app de transporte à noite."
+      ],
+      "alertas": [
+        "Pereira foi o epicentro humano do sismo no Eje Cafetero; checar condição de edifícios/hotéis antes de reservar.",
+        "Coordenada não confirmada para a zona; 0,0 de propósito.",
+        "Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.calendariodecolombia.com/turismo/que-hacer-de-noche-en-pereira-colombia",
+        "https://www.eldiario.com.co/noticias/risaralda/pereira/pereira-destinara-500-millones-para-reactivar-restaurantes-bares-y-entretenimiento-tras-el-terremoto/",
+        "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+      ],
+      "confianca": "estimado"
+    }
+  ]
+}

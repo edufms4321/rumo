@@ -1,6 +1,5 @@
 {
   "_leia": "Ajustes que exigem julgamento humano, mesclados por cima do resultado do conversor (scripts/importar-pesquisa.ts). Reexecutar o conversor nao perde nada daqui. Lista substitui lista inteira; null apaga a chave. Todo numero abaixo aparece textualmente na fonte citada no proprio preco - nada foi arredondado nem deduzido.",
-
   "itens": {
     "co-adz-rentcarx-mulitas-buggys-golf-carts-e-scooters": {
       "aluguel": {
@@ -9,49 +8,156 @@
             "veiculo": "Scooter Yamaha BWS (2 lugares)",
             "periodo": "diaria",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 150000, "max": 150000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 150000,
+              "max": 150000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Scooter Yamaha Nmax (2 lugares)",
             "periodo": "diaria",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 200000, "max": 200000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 200000,
+              "max": 200000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Carrinho de golfe Kawasaki SX (2 lugares)",
             "periodo": "diaria",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 300000, "max": 300000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 300000,
+              "max": 300000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Carrinho de golfe Mini Pro (3 lugares)",
             "periodo": "diaria",
             "capacidade": 3,
-            "preco": { "moeda": "COP", "min": 400000, "max": 400000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 400000,
+              "max": 400000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Mulita / buggy Kawasaki 4010 (4 lugares)",
             "periodo": "diaria",
             "capacidade": 4,
-            "preco": { "moeda": "COP", "min": 380000, "max": 380000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }, { "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "mesmo preco publicado pela Parchill para o mesmo modelo" }
+            "preco": {
+              "moeda": "COP",
+              "min": 380000,
+              "max": 380000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                },
+                {
+                  "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/"
+                }
+              ],
+              "observacao": "mesmo preco publicado pela Parchill para o mesmo modelo"
+            }
           },
           {
             "veiculo": "Buggy Yamaha Viking (6 lugares)",
             "periodo": "diaria",
             "capacidade": 6,
-            "preco": { "moeda": "COP", "min": 450000, "max": 450000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 450000,
+              "max": 450000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Buggy Polaris 1000 com som (6 lugares)",
             "periodo": "diaria",
             "capacidade": 6,
-            "preco": { "moeda": "COP", "min": 600000, "max": 600000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 600000,
+              "max": 600000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           },
           {
             "veiculo": "Buggy Can-Am 1000 com som (6 lugares)",
             "periodo": "diaria",
             "capacidade": 6,
-            "preco": { "moeda": "COP", "min": 700000, "max": 700000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+            "preco": {
+              "moeda": "COP",
+              "min": 700000,
+              "max": 700000,
+              "por": "grupo",
+              "inclui": "diaria do veiculo; entrega e retirada gratuitas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rentcarx.com/en"
+                }
+              ],
+              "observacao": "tabela do site sem data de publicacao: confirmar"
+            }
           }
         ],
         "documentosExigidos": [
@@ -73,7 +179,6 @@
         ]
       }
     },
-
     "co-adz-rolling-san-andres-rolling-playas-mula-kawasaki-4010": {
       "aluguel": {
         "tipos": [
@@ -81,7 +186,20 @@
             "veiculo": "Mula Kawasaki 4000/4010 (4 a 5 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 5,
-            "preco": { "moeda": "COP", "min": 450000, "max": 450000, "por": "grupo", "inclui": "veiculo; o motorista assume danos, perdas, atrasos e multas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rollingsanandres.com/tienda/mula-kawasaki-4010-en-isla-san-andres/" }], "observacao": "pagina de produto sem data; 450.000 contra 380.000 pelo mesmo modelo na RentcarX e na Parchill" }
+            "preco": {
+              "moeda": "COP",
+              "min": 450000,
+              "max": 450000,
+              "por": "grupo",
+              "inclui": "veiculo; o motorista assume danos, perdas, atrasos e multas",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://rollingsanandres.com/tienda/mula-kawasaki-4010-en-isla-san-andres/"
+                }
+              ],
+              "observacao": "pagina de produto sem data; 450.000 contra 380.000 pelo mesmo modelo na RentcarX e na Parchill"
+            }
           },
           {
             "veiculo": "Mula Kawasaki 4000/4010 (4 a 5 lugares)",
@@ -105,7 +223,6 @@
         ]
       }
     },
-
     "co-adz-alquiler-speed-racer-mulitas": {
       "aluguel": {
         "tipos": [
@@ -113,13 +230,39 @@
             "veiculo": "Mulita (2 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 180000, "max": 250000, "por": "grupo", "inclui": "veiculo; combustivel por conta do cliente", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja: o preco da Speed Racer nao foi encontrado em fonte nenhuma" }
+            "preco": {
+              "moeda": "COP",
+              "min": 180000,
+              "max": 250000,
+              "por": "grupo",
+              "inclui": "veiculo; combustivel por conta do cliente",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/"
+                }
+              ],
+              "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja: o preco da Speed Racer nao foi encontrado em fonte nenhuma"
+            }
           },
           {
             "veiculo": "Mulita (4 a 6 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 6,
-            "preco": { "moeda": "COP", "min": 300000, "max": 400000, "por": "grupo", "inclui": "veiculo; combustivel por conta do cliente", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja" }
+            "preco": {
+              "moeda": "COP",
+              "min": 300000,
+              "max": 400000,
+              "por": "grupo",
+              "inclui": "veiculo; combustivel por conta do cliente",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/"
+                }
+              ],
+              "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja"
+            }
           }
         ],
         "documentosExigidos": [
@@ -136,7 +279,6 @@
         ]
       }
     },
-
     "co-adz-parchill-mulitas-xs-4010-e-pro-kawasaki": {
       "aluguel": {
         "tipos": [
@@ -144,19 +286,58 @@
             "veiculo": "Mulita XS (2 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 290000, "max": 290000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+            "preco": {
+              "moeda": "COP",
+              "min": 290000,
+              "max": 290000,
+              "por": "grupo",
+              "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/"
+                }
+              ],
+              "observacao": "pagina de agencia sem data: confirmar para novembro de 2026"
+            }
           },
           {
             "veiculo": "Mulita Kawasaki 4010 (5 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 5,
-            "preco": { "moeda": "COP", "min": 380000, "max": 380000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+            "preco": {
+              "moeda": "COP",
+              "min": 380000,
+              "max": 380000,
+              "por": "grupo",
+              "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/"
+                }
+              ],
+              "observacao": "pagina de agencia sem data: confirmar para novembro de 2026"
+            }
           },
           {
             "veiculo": "Mulita PRO Kawasaki (6 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 6,
-            "preco": { "moeda": "COP", "min": 410000, "max": 410000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+            "preco": {
+              "moeda": "COP",
+              "min": 410000,
+              "max": 410000,
+              "por": "grupo",
+              "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/"
+                }
+              ],
+              "observacao": "pagina de agencia sem data: confirmar para novembro de 2026"
+            }
           }
         ],
         "documentosExigidos": [
@@ -175,7 +356,6 @@
         ]
       }
     },
-
     "co-adz-scooters-chemas-scooter-e-motos-sai": {
       "aluguel": {
         "tipos": [
@@ -183,13 +363,48 @@
             "veiculo": "Scooter (2 lugares)",
             "periodo": "diaria das 9h as 18h",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 70000, "max": 90000, "por": "grupo", "inclui": "veiculo; combustivel e capacete a parte", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }, { "url": "https://umasulamericana.com/volta-a-ilha-san-andres/" }, { "url": "https://guia.melhoresdestinos.com.br/transportes-em-san-andres.html" }, { "url": "https://dicasdacolombia.com.br/san-andres/aluguel-de-carro-em-san-andres/" }], "observacao": "faixa convergente em quatro fontes entre fev/2024 e abr/2026" }
+            "preco": {
+              "moeda": "COP",
+              "min": 70000,
+              "max": 90000,
+              "por": "grupo",
+              "inclui": "veiculo; combustivel e capacete a parte",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/"
+                },
+                {
+                  "url": "https://umasulamericana.com/volta-a-ilha-san-andres/"
+                },
+                {
+                  "url": "https://guia.melhoresdestinos.com.br/transportes-em-san-andres.html"
+                },
+                {
+                  "url": "https://dicasdacolombia.com.br/san-andres/aluguel-de-carro-em-san-andres/"
+                }
+              ],
+              "observacao": "faixa convergente em quatro fontes entre fev/2024 e abr/2026"
+            }
           },
           {
             "veiculo": "Scooter (2 lugares)",
             "periodo": "24 horas",
             "capacidade": 2,
-            "preco": { "moeda": "COP", "min": 100000, "max": 100000, "por": "grupo", "inclui": "veiculo; combustivel e capacete a parte", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "valor aproximado relatado por blog de nov/2025" }
+            "preco": {
+              "moeda": "COP",
+              "min": 100000,
+              "max": 100000,
+              "por": "grupo",
+              "inclui": "veiculo; combustivel e capacete a parte",
+              "coletadoEm": "2026-10-08",
+              "fontes": [
+                {
+                  "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/"
+                }
+              ],
+              "observacao": "valor aproximado relatado por blog de nov/2025"
+            }
           }
         ],
         "documentosExigidos": [
@@ -207,5 +422,108 @@
         ]
       }
     }
-  }
+  },
+  "_leia_cidades": "Alertas de situacao conjuntural, escritos a mao porque exigem verificacao em fonte primaria pelo agente principal, nao pelos subagentes de pesquisa. Todo alerta tem verificadoEm: a interface mostra essa data junto do aviso, porque alerta de catastrofe desatualizado assusta a toa.",
+  "cidades": {
+    "salento": {
+      "situacaoAtual": [
+        {
+          "titulo": "Regiao em recuperacao apos o terremoto de 10 de agosto de 2026",
+          "descricao": "Um terremoto de magnitude 7,4 com epicentro em San Jose del Palmar (Choco) atingiu o oeste da Colombia em 10/08/2026. O balanco oficial da UNGRD em 25/08 era de 331 mortos, 4.595 feridos e 257 desaparecidos no pais, com Cali (165) e Pereira (109) concentrando as mortes. No Quindio, Quimbaya teve 450 casas destruidas e Armenia registrou 1 morte. O aeroporto Matecana, em Pereira, ficou suspenso e reabriu em 25/08 operando so no terreo, das 05:00 a meia-noite, com capacidade reduzida; o de Armenia tambem foi suspenso para avaliacao. Mais de 325 replicas foram registradas. Confirme o estado dos voos, das estradas e dos passeios antes de fechar esta base.",
+          "gravidade": "atencao",
+          "desde": "2026-08-10",
+          "verificadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+            },
+            {
+              "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+            },
+            {
+              "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+            },
+            {
+              "url": "https://www.elespectador.com/colombia/mas-regiones/se-aplaza-la-reapertura-de-operaciones-en-el-aeropuerto-matecana-de-pereira/"
+            }
+          ]
+        }
+      ]
+    },
+    "medellin": {
+      "situacaoAtual": [
+        {
+          "titulo": "Sentiu o terremoto de 10 de agosto de 2026, sem danos maiores",
+          "descricao": "O terremoto de magnitude 7,4 de 10/08/2026 foi sentido em Medellin, mas os danos relatados foram menores. As mortes e os colapsos se concentraram em Cali, Pereira, Manizales e no Choco. Nao ha restricao conhecida ao turismo na cidade.",
+          "gravidade": "informacao",
+          "desde": "2026-08-10",
+          "verificadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+            },
+            {
+              "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+            },
+            {
+              "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+            }
+          ]
+        }
+      ]
+    },
+    "bogota": {
+      "situacaoAtual": [
+        {
+          "titulo": "Sentiu o terremoto de 10 de agosto de 2026, sem danos maiores",
+          "descricao": "O terremoto de magnitude 7,4 de 10/08/2026 foi sentido em Bogota, mas os danos relatados foram menores. Nao ha restricao conhecida ao turismo na cidade. O aeroporto El Dorado nao esteve entre os suspensos.",
+          "gravidade": "informacao",
+          "desde": "2026-08-10",
+          "verificadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+            },
+            {
+              "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+            },
+            {
+              "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_leia_calendario": "Eventos verificados em fonte primaria pelo agente principal. Entram por cima do que a pesquisa trouxe.",
+  "calendario": [
+    {
+      "id": "tayrona-fechamento-respira-2026-10",
+      "fontes": [
+        {
+          "url": "https://old.parquesnacionales.gov.co/portal/es/del-19-de-octubre-y-hasta-el-2-de-noviembre-el-parque-nacional-natural-tayrona-cerrara-sus-puertas-al-publico-y-entra-en-modo-respiratayrona/"
+        },
+        {
+          "url": "https://www.elespectador.com/ambiente/tras-dos-semanas-de-cierre-parque-tayrona-reabre-sus-puertas-este-3-de-noviembre/"
+        },
+        {
+          "url": "https://www.elcallejero.co/2026/10/07/parque-tayrona-tendra-su-ultimo-cierre-programado-del-ano/"
+        }
+      ],
+      "coletadoEm": "2026-10-08",
+      "confianca": "verificado",
+      "nome": "Parque Tayrona fechado (Respira Tayrona): reabre em 3 de novembro",
+      "tipo": "temporada",
+      "dataInicio": "2026-10-19",
+      "dataFim": "2026-11-02",
+      "escopo": "santa-marta",
+      "impacto": {
+        "lotacao": "baixa",
+        "fechamentos": "O parque fica totalmente fechado: nao ha entrada de visitantes, nem hospedagem, camping ou passeio de barco dentro dele. Reabre em 3 de novembro de 2026, uma terca-feira.",
+        "observacao": "Terceiro e ultimo fechamento programado de 2026 (os outros foram 1 a 15 de fevereiro e 1 a 15 de junho). Confirmado no site da Parques Nacionales."
+      },
+      "valeEstarPresente": "evite",
+      "descricao": "Fechamento sazonal para descanso ecologico e espiritual, em territorio ancestral dos povos Kogui, Wiwa, Arhuaco e Kankuamo. Quem chegar a Santa Marta antes de 3 de novembro nao entra no Tayrona; alternativas abertas no periodo sao Bahia Concha e Playa Palangana."
+    }
+  ]
 }

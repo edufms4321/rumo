@@ -14,13 +14,12 @@ import {
   confianca,
   derivado,
   fontes,
+  mesclar,
   slug,
 } from './pesquisa-utils.ts';
 
-export interface Bases {
-  sanAndres: Json;
-  cartagena: Json;
-}
+/** Mapa id-da-base -> arquivo de pesquisa daquela base (onda-*.json). */
+export type Bases = Record<string, Json>;
 
 // ------------------------------------------------------------------- tabelas
 
@@ -339,12 +338,13 @@ export function construirCidades(
   logistica: Json,
   coords: Json,
   bases: Bases,
-  _ajustes: Json,
+  ajustes: Json,
 ): Json[] {
-  const notasPorCidade: Record<string, Json> = {
-    'san-andres': bases.sanAndres.notasDaBase ?? {},
-    cartagena: bases.cartagena.notasDaBase ?? {},
-  };
+  const patchesDeCidade: Json = ajustes.cidades ?? {};
+  const notasPorCidade: Record<string, Json> = {};
+  for (const [baseId, pacote] of Object.entries(bases)) {
+    if (pacote?.notasDaBase) notasPorCidade[baseId] = pacote.notasDaBase;
+  }
 
   const aeroportosPorCidade = new Map<string, string[]>();
   for (const [iata, cidadeId] of Object.entries(IATA_PARA_CIDADE)) {
@@ -397,7 +397,7 @@ export function construirCidades(
       derivado('cidade ainda nao pesquisada a fundo: entra sem noites nem fatores');
     }
 
-    cidades.push({
+    const cidade: Json = {
       id,
       fontes: notas
         ? fontes([...(notas.fontes ?? []), geo.osm])
@@ -434,7 +434,17 @@ export function construirCidades(
         : {}),
       pegaTuristaAEvitar: (notas?.pegaTuristaAEvitar ?? []).map(String),
       taxasObrigatorias: taxas,
-    });
+      situacaoAtual: [],
+    };
+
+    const patch = patchesDeCidade[id];
+    cidades.push(patch ? mesclar(cidade, patch) : cidade);
+  }
+
+  for (const id of Object.keys(patchesDeCidade)) {
+    if (!cidades.some((c) => c.id === id)) {
+      avisos.push(`ajuste manual para cidade inexistente "${id}"`);
+    }
   }
 
   return cidades;
@@ -642,7 +652,7 @@ export function construirVoos(logistica: Json): Json[] {
         ? { linkDeBusca: String(v.linkDeBusca) }
         : {}),
       observacoes:
-        'Preco de voo e fotografia do dia da coleta, a 13 meses da viagem. Use o link de busca para a cotacao real.',
+        'Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar.',
     });
     if (!(Number(v.duracaoTotalMin) > 0)) {
       derivado('voo internacional sem duracao na fonte: 600 min como marcador');
@@ -756,11 +766,8 @@ export function construirHospedagem(bases: Bases): Json[] {
   const saida: Json[] = [];
   const ids = new Set<string>();
 
-  for (const [cidadeId, pacote] of [
-    ['cartagena', bases.cartagena],
-    ['san-andres', bases.sanAndres],
-  ] as const) {
-    for (const b of pacote.notasDaBase?.melhoresBairrosParaFicar ?? []) {
+  for (const [cidadeId, pacote] of Object.entries(bases)) {
+    for (const b of pacote?.notasDaBase?.melhoresBairrosParaFicar ?? []) {
       const nome = String(b.nome ?? '').trim();
       if (!nome) continue;
       const faixa = b.diariaFaixa ?? {};

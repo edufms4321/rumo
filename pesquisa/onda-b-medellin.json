@@ -1,0 +1,2540 @@
+{
+  "base": "medellin",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Medellín é longa e em vale: a espinha dorsal é o Metro (Linha A norte–sul, B oeste, T bonde) e o Metrocable (H, J, K, L, M, P), tudo com o mesmo cartão Cívica. Tarifa 2026 para bilhete eventual/'al portador': 4.400 COP por viagem (1 a 4 integrações entre modos; sobe para 5.150, 5.900 e 6.650 conforme mais integrações); cartão Cívica 12.100 COP. Horários: seg–sáb 04:30–23:00; domingos/feriados A/B 05:00–22:00, K 08:30–22:00 e H/J/M/P 09:00–22:00; cabo do Arví (Linha L) 09:00–18:00 (dom 08:30), FECHADO às terças (Metro oficial). Tarifa do cabo Arví para estrangeiros: 26.700 COP (Res. 0008/2026). Do aeroporto José María Córdova (Rionegro): ônibus Combuses 20.000 COP por pessoa desde 01/01/2026, 24 h (El Colombiano) — evite o 'táxi' que te aborda na saída internacional (tabiji.ai). À noite e fora do Metro: Uber/InDrive/DiDi chamado por você no app (Colombia Move; tabiji.ai) — nunca pegue táxi que para na porta da balada. Guatapé e Jardín: Terminal del Norte (Metro A, estação Caribe, passarela) para Guatapé (~2 h); Terminal del Sur para Jardín (~3 h). Resumo de ritmo intenso e econômico: Poblado/Laureles são a base noturna; Centro e Comuna 13 de dia e com guia; museus (Casa de la Memoria e Jardín Botánico são grátis) como plano B de chuva. Conversão usada nas faixas: 1 BRL ≈ 650 COP (premissa dos outros arquivos da pesquisa).",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Laureles-Estadio (perto da La 70)",
+        "perfil": "Residencial, 'onde os estrangeiros que moram aqui realmente saem'; a La 70 e a salsa ficam a pé; bem ligado pelo Metro (estação Estadio, Linha B). Mais barato e mais local que o Poblado.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 43000,
+          "max": 58000
+        },
+        "observacao": "Faixa de hostel 'a partir de' no Hostelworld (Baku Laureles: dorm R$ 65,81 ≈ 43 mil COP, privado R$ 89 ≈ 58 mil; Qantic: dorm R$ 78,70 ≈ 51 mil, privado R$ 86,50 ≈ 56 mil; 1 BRL ≈ 650 COP). Datas não especificadas e novembro/dezembro é alta temporada: espere acima disso; hotéis 3* não pesquisados.",
+        "seguranca": "Considerada das áreas mais seguras para estrangeiros (halfhalftravel; Medellín Unmapped), mas com cuidado à noite na La 70 (roubo de celular por moto).",
+        "fontes": [
+          "https://www.hostelworld.com/hostels/south-america/colombia/medellin/",
+          "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html",
+          "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+          "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+        ]
+      },
+      {
+        "nome": "El Poblado (Provenza/Manila e arredores do Lleras)",
+        "perfil": "Onde se concentram turistas, restaurantes, cafés e a vida noturna cara; muito policiado. Mais caro e é o foco dos casos de escopolamina em 2026.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 33000,
+          "max": 110000
+        },
+        "observacao": "Hostelworld 'a partir de' para hostels no Poblado: dorm R$ 50,62 a R$ 117,46 (≈ 33–76 mil COP) e quartos privados R$ 63 a R$ 168,70 (≈ 41–110 mil). Datas não especificadas; alta temporada em nov/dez; hotéis 4* não pesquisados (guia belaroundtheworld cita Poblado como melhor para primeira visita).",
+        "seguranca": "Mais visitado e policiado; Provenza/Lleras têm maior risco de pequenos crimes e golpes (Medellín Unmapped) e concentram o risco de escopolamina (tabiji.ai; medellin.co: Poblado é a maior fonte de casos, +89% de roubos com escopolamina até ago/2026). Caso de morte de turista em hotel da Manila em 14/08/2026 (investigação aberta).",
+        "fontes": [
+          "https://www.hostelworld.com/hostels/south-america/colombia/medellin/",
+          "https://www.belaroundtheworld.com/where-to-stay-in-medellin-colombia/",
+          "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+          "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/"
+        ]
+      },
+      {
+        "nome": "Centro (La Candelaria) — só para dormir barato, se necessário",
+        "perfil": "Hub do Metro, museus e mercados; mais local e mais barato, porém com furto de rua e cenário pesado à noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 52000,
+          "max": 57000
+        },
+        "observacao": "Um único hostel listado no Hostelworld 'Centro Hostel Medellín' (dorm R$ 80,56 ≈ 52 mil COP; privado R$ 88,27 ≈ 57 mil). Amostra mínima (n=1): tratar como indicativo.",
+        "seguranca": "Maior risco de furto/roubo de celular, principalmente à noite; Medellín Unmapped e halfhalftravel recomendam evitar o Centro à noite e andar só de dia.",
+        "fontes": [
+          "https://www.hostelworld.com/hostels/south-america/colombia/medellin/",
+          "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+          "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Regra geral (Medellín Unmapped; halfhalftravel): sul/sudeste é mais rico e seguro (El Poblado, Envigado, Sabaneta, Laureles-Estadio); norte/nordeste tem renda menor e risco maior (Aranjuez, Castilla, Manrique, Moravia, Doce de Octubre). El Poblado: forte policiamento, mas Provenza e Parque Lleras concentram golpes e o caso mais sério de 2026 — escopolamina/drogagem, muitas vezes ligada a apps de encontro (ver golpesComuns). Laureles-Estadio: bom equilíbrio de custo e segurança; roubo de celular por moto na La 70/Carrera 70 (tabiji.ai) e cuidado à noite. Centro (La Candelaria, Parque Berrío, rio): furto de rua e celular; ir só de dia ou com guia (Medellín Unmapped; halfhalftravel). Comuna 13: de dia, com grupo/guia, é considerada segura e muito movimentada; à noite evite (halfhalftravel). Nordeste (Santo Domingo/Metrocable K): fique na estação e no cabo. Emergências: 123 (polícia/bombeiros/ambulância), Polícia de Turismo 155 (operadores em inglês), 132 ambulância (Medellín Unmapped). Nível do aviso dos EUA: Nível 3 'Reconsiderar viagem' para toda a Colômbia, mantido em atualização de 31/03/2026 (medellin.co); Medellín e El Poblado não estão no nível 4. O aviso britânico (FCDO) para a Colômbia estava 'ainda válido em 08/10/2026' (atualizado em 06/10/2026).",
+    "pegaTuristaAEvitar": [
+      "Bares e restaurantes do Parque Lleras: caros e de alto risco (Medellín Unmapped; Tom Plan My Trip 'era o lugar há 10 anos'). Prefira La 70 (barato) e Provenza (jantar).",
+      "Tours caros e de baixa qualidade e 'experiências paisa' comercializadas; prefira DIY de ônibus para Guatapé (~97 mil vs 80–130 mil de tour) e free tour/tour local de 40 mil na Comuna 13 (Medellín Unmapped; couplestravelstories).",
+      "'Guias' avulsos na base da Comuna 13: podem levar a áreas inseguras (tabiji.ai); feche com operadora conhecida ou combine por WhatsApp.",
+      "Táxis de rua e do aeroporto: risco de cobrança acima do justo e de 'paseo millonario'; a opção barata e direta é o ônibus Combuses (20.000 COP) ou Uber/InDrive chamado no app (tabiji.ai; El Colombiano).",
+      "Cafés 'para turista' com café fraco, shoppings sem graça (Unicentro, Premium Plaza) e vendedores insistentes do Centro: 'no, gracias' (Medellín Unmapped).",
+      "Guatapé: tuk-tuks cobram valores extras (reembolsar 5.000 de entrada de estacionamento do Peñol: até 15.000 no total) e tours fazem paradas obrigatórias em lojas de souvenir (couplestravelstories).",
+      "Perpetuo Socorro não é 'balada': é distrito criativo/café (Time Out via Telemedellín); não vá esperando clubes.",
+      "Preço do ônibus/entrada divulgado em blogs varia (Peñol 25–35 mil; ônibus Guatapé 14–25 mil): sempre confirme na bilheteria."
+    ],
+    "golpesComuns": [
+      "ESCOPOLAMINA ('burundanga') — risco nº 1 em 2026. A Embaixada dos EUA emitiu 'Straight Talk About Crime' em 22/07/2026 (via medellin.co) citando 13 relatos recentes de drogagem em Medellín e criminosos que usam apps de namoro para atrair estrangeiros a hotéis/bares; o SISC (sistema de dados da cidade) mostrava roubos ligados a escopolamina +89% a/a até início de ago/2026, com El Poblado como maior fonte (medellin.co, fonte secundária). Histórico: 8 cidadãos dos EUA morreram em Medellín entre 1/nov e 31/dez/2023 (ENCA; Embaixada dos EUA, alerta de jan/2024 via tabiji.ai). O FCDO (UK) diz que a droga pode vir por bebida, comida, cigarro, aerossol ou panfleto, que há equipes com mulheres, e que 'criminosos usam apps de encontro para identificar e atrair estrangeiros'. Como evitar: não use apps de encontro para marcar com estranhos, nunca deixe o copo, não aceite nada de desconhecido, nunca leve alguém ao hotel/Airbnb, registre qualquer visitante com cédula física na portaria (Embaixada), e se alguém ficar desorientado trate como emergência médica (123). Fontes: https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security, https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance, http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/, http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/, https://www.enca.com/lifestyle/colombias-deadly-case-tinder-and-memory-erasing-drug, https://tabiji.ai/scams/medellin/",
+      "Armadilha em apps de encontro (Tinder, Bumble, Grindr): 'honeytrap' em que a pessoa marca num bar/apartamento, a equipe droga e rouba, às vezes com saques e transferências nos celulares (tabiji.ai; FCDO). Casal tem menos risco que solteiro, mas não vale 'dar match' em Medellín. Fontes: https://tabiji.ai/scams/medellin/, https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security, http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/",
+      "'Paseo millonario' / sequestro-relâmpago: criminosos disfarçados de taxistas levam a vítima a caixas eletrônicos; o FCDO diz que são comuns na Colômbia (use Uber/InDrive e caixa dentro de banco/shopping de dia). Fontes: https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security, https://tabiji.ai/scams/medellin/",
+      "Falso policial: 'verificação de drogas/documentos' que termina em extorsão ou roubo; polícia de verdade não pede para ver sua carteira na rua (tabiji.ai).",
+      "Roubo de celular por moto em Laureles/La 70 e no Centro (tabiji.ai; Medellín Unmapped): celular fora da mão perto da rua.",
+      "Táxi/Uber do aeroporto cobrando acima do justo (tabiji.ai): use o ônibus Combuses (20.000 COP, El Colombiano) ou Uber chamado no app.",
+      "Preço inflado em Guatapé (tuk-tuk) e em tours de Medellín com paradas obrigatórias (couplestravelstories)."
+    ],
+    "fontes": [
+      "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+      "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+      "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/",
+      "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/",
+      "https://www.enca.com/lifestyle/colombias-deadly-case-tinder-and-memory-erasing-drug",
+      "https://tabiji.ai/scams/medellin/",
+      "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+      "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html",
+      "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/",
+      "https://www.metrodemedellin.gov.co/usuarios",
+      "https://www.hostelworld.com/hostels/south-america/colombia/medellin/",
+      "https://www.belaroundtheworld.com/where-to-stay-in-medellin-colombia/",
+      "https://www.elcolombiano.com/medellin/bus-aeropuerto-medellin-sube-20000-nueva-tarifa-combuses-2026-AJ32191890",
+      "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+      "https://www.ideam.gov.co/file-download/download/public/21570",
+      "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/",
+      "https://couplestravelstories.ca/guatape-without-tour-medellin/"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Tour guiado Comuna 13 (graffitour e escadas rolantes)",
+      "categoria": "passeio",
+      "cidade": "medellin",
+      "tags": [
+        "comuna-13",
+        "graffiti",
+        "historia",
+        "guiado",
+        "free-tour",
+        "debate-etico",
+        "ao-ar-livre",
+        "imperdivel"
+      ],
+      "coords": {
+        "lat": 6.25639,
+        "lng": -75.62139
+      },
+      "descricaoCurta": "Caminhada guiada por moradores pelos murais, escadas rolantes e mirantes do bairro San Javier (Comuna 13), com a história da Operação Orión e da transformação.",
+      "descricaoLonga": "A Comuna 13 (San Javier) foi palco da Operação Orión (outubro de 2002) e hoje é um dos passeios mais visitados de Medellín: murais, shows de rap/breakdance, as escadas rolantes ao ar livre e mirantes. Em 2025 as escadas receberam 1.981.579 visitantes (El Colombiano, 03/08/2026), então é turístico e cheio. Formatos: (a) free tour por gorjeta (GuruWalk, 2,5 a 3,5 h, saídas 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; gorjeta sugerida ~30.000 COP segundo a Tom Plan My Trip); (b) tour pago em grupo — a operadora tourscomuna13.com anuncia 40.000 COP, ~2,5 h, saídas 10:00/14:00/16:00 com reserva por WhatsApp; a Casa Kolacho (coletivo que criou o Graffitour) é a opção comunitária citada pela Tom Plan My Trip, mas não consegui confirmar o preço atual; (c) tour privado de ~4 h com transporte (a tur.com lista 4 h com saída do Parque El Poblado; preço não carregou). Sem guia dá para fazer em ~2 h, mas você perde a história e a conversa com moradores.",
+      "duracao": {
+        "min": 120,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "ter": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "qua": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "qui": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "sex": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "sab": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)",
+        "dom": "09:30–16:00 (horário das saídas dos grupos; GuruWalk lista 09:30, 10:00, 10:30, 13:30, 14:00, 15:00; confirme na reserva)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (menos gente e menos calor) em dia de semana; evite domingo, o dia mais cheio (Tom Plan My Trip).",
+      "preco": {
+        "moeda": "COP",
+        "min": 30000,
+        "max": 40000,
+        "por": "pessoa",
+        "inclui": "Free tour: 0 + gorjeta sugerida ~30.000 COP; tour pago em grupo: 40.000 COP (uma operadora). Privado/com transporte custa mais (preço não obtido). Não inclui comida; leve dinheiro em espécie para vendedores locais.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tourscomuna13.com/",
+          "https://www.tomplanmytrip.com/es/comuna-13-medellin-colombia-barrio/",
+          "https://www.guruwalk.com/walks/37463-graffiti-tour-comuna-13"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://tourscomuna13.com/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://tourscomuna13.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Terreno em ladeiras e escadas; use tênis fechado",
+        "Em dias de chuva o piso fica escorregadio (dedução)",
+        "Idiomas: espanhol; inglês sob pedido antecipado (tourscomuna13.com)"
+      ],
+      "pontoPartida": "Estação San Javier (Metro Linha B) — de lá ônibus verde 221i/225i ou ~25 min a pé até o pé das escadas (Tom Plan My Trip); alguns tours saem do Parque El Poblado (tur.com).",
+      "dicasAgente": [
+        "VALE CADA PESO: é o programa nº 1 de Medellín em custo-benefício — 0 a 40 mil COP e 2,5 h de história real. Reserve de manhã, dia de semana.",
+        "Debate ético (resumo honesto): moradores guias e acordos comunitários (sem aluguel de curta temporada, sem bares após ~19h, turismo só de dia — Brown Political Review, dez/2024) tornam o passeio defensável; críticas existem (voyeurismo/'turismo de pobreza', multidão, ruído, preços de imóveis subindo — Claire Polders; Brown Political Review). Escolha guia nascido no bairro ou coletivo comunitário (Casa Kolacho), compre no bairro, não fotografe moradores sem permissão.",
+        "Faça a Casa de la Memoria (grátis) ANTES: a Tom Plan My Trip recomenda para entender o contexto e fazer perguntas melhores ao guia.",
+        "PEGA-TURISTA: 'guias' avulsos que abordam na base das escadas podem levar a áreas inseguras (tabiji.ai); feche com operadora conhecida ou combine por WhatsApp antes.",
+        "CORTE SE APERTAR: versões privadas/com transporte e 'combo com cabo + aula de grafite' — o free tour ou o de 40 mil entrega 90% do valor."
+      ],
+      "alertas": [
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). Impacto real: o passeio é 100% a céu aberto e em ladeiras; a operadora tourscomuna13.com diz que NÃO cancela por chuva (leve poncho/guarda-chuva). Plano B de chuva: Museo Casa de la Memoria + Museo de Antioquia (mesma tarde, centro).",
+        "Escadas rolantes passaram por manutenção integral em 2026 (350 degraus trocados; El Colombiano, 03/08/2026). Se alguma estiver parada, a subida a pé é longa.",
+        "Segurança: de dia com grupo é considerado tranquilo (GuruWalk/Tom Plan My Trip); não explore sozinho à noite (halfhalftravel, Medellín Unmapped).",
+        "Preço e horários vêm de uma operadora + agregador; não confirmei o preço atual da Casa Kolacho (site bloqueado, 403)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Graffiti_in_Comuna_13%2C_Medell%C3%ADn_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Comuna_13,_Medell%C3%ADn_03.jpg"
+      },
+      "fontes": [
+        "https://tourscomuna13.com/",
+        "https://www.guruwalk.com/walks/37463-graffiti-tour-comuna-13",
+        "https://www.tomplanmytrip.com/es/comuna-13-medellin-colombia-barrio/",
+        "https://brownpoliticalreview.org/comuna-13-a-model-for-balancing-tourism-and-community-preservation/",
+        "https://clairepolders.substack.com/p/34-my-dubious-visit-to-the-comuna",
+        "https://tabiji.ai/scams/medellin/",
+        "https://es.wikipedia.org/wiki/Comuna_13_(Medell%C3%ADn)",
+        "https://www.elcolombiano.com/medellin/renuevan-escaleras-electricas-comuna-13-por-primera-vez-desde-2011-ON39529766",
+        "https://www.tur.com/en/medellin-124/tour-comuna-13-medellin-graffitour-escaleras-4774",
+        "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Metrocable Linha J (San Javier–La Aurora) e Comuna 13 por conta própria",
+      "categoria": "passeio",
+      "cidade": "medellin",
+      "tags": [
+        "metrocable",
+        "mirante",
+        "transporte",
+        "barato",
+        "comuna-13",
+        "metro"
+      ],
+      "coords": {
+        "lat": 6.2569996,
+        "lng": -75.6139695
+      },
+      "descricaoCurta": "Teleférico urbano que sobe de San Javier a La Aurora (4 estações, 2,7 km), com vista das encostas da Comuna 13.",
+      "descricaoLonga": "A Linha J liga San Javier, Juan XXIII, Vallejuelos e La Aurora (2,7 km, inaugurada em 2008). Usa a mesma tarifa do Metro: 4.400 COP por viagem para quem usa bilhete eventual/'al portador' (tarifa vale para 1 a 4 integrações entre modos). O cartão Cívica custa 12.100 COP. Dá para combinar com a Comuna 13 sem tour: Metro Linha B até San Javier, ônibus verde 221i/225i ou subida a pé de ~25 min até as escadas rolantes (Tom Plan My Trip). A Tom Plan My Trip recomenda o trecho de teleférico San Javier–La Aurora pela vista.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "04:30–23:00",
+        "ter": "04:30–23:00",
+        "qua": "04:30–23:00",
+        "qui": "04:30–23:00",
+        "sex": "04:30–23:00",
+        "sab": "04:30–23:00",
+        "dom": "09:00–22:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã com céu limpo; em novembro a neblina/chuva da tarde atrapalha a vista.",
+      "preco": {
+        "moeda": "COP",
+        "min": 4400,
+        "max": 4400,
+        "por": "pessoa",
+        "inclui": "Tarifa 2026 eventual/al portador por viagem (1 a 4 integrações). Cartão Cívica: 12.100 COP.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.metrodemedellin.gov.co/usuarios",
+          "https://es.wikipedia.org/wiki/Metrocable_de_Medell%C3%ADn"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.metrodemedellin.gov.co/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Linhas podem fechar para manutenção anual: confira avisos do Metro antes (a Linha L fechou 19–24/09/2026)"
+      ],
+      "pontoPartida": "Estação San Javier (Metro Linha B), Calle 45, San Javier.",
+      "dicasAgente": [
+        "VALE CADA PESO: ~R$ 7 para vista panorâmica; encaixa antes ou depois da Comuna 13.",
+        "Se só tiver tempo para UM cabo sem Arví, prefira a Linha J: é a mais ligada à Comuna 13."
+      ],
+      "alertas": [
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). Com chuva forte a vista some; plano B: museus do centro.",
+        "Domingos e feriados as linhas H/J/M/P só abrem às 09:00 (Metro oficial)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/L%C3%ADnea_J_%28Medell%C3%ADn_Metrocable%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:L%C3%ADnea_J_(Medell%C3%ADn_Metrocable).jpg"
+      },
+      "fontes": [
+        "https://www.metrodemedellin.gov.co/usuarios",
+        "https://es.wikipedia.org/wiki/Metrocable_de_Medell%C3%ADn",
+        "https://www.tomplanmytrip.com/es/comuna-13-medellin-colombia-barrio/",
+        "https://www.openstreetmap.org/way/105538492",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Metrocable Linha K (Acevedo–Santo Domingo Savio)",
+      "categoria": "mirante",
+      "cidade": "medellin",
+      "tags": [
+        "metrocable",
+        "mirante",
+        "transporte",
+        "barato",
+        "historico"
+      ],
+      "coords": {
+        "lat": 6.29319444,
+        "lng": -75.54173611
+      },
+      "descricaoCurta": "Primeira linha de Metrocable (2004): sobe os bairros do nordeste até Santo Domingo Savio, onde conecta com a Linha L para o Arví.",
+      "descricaoLonga": "A Linha K (Acevedo, Andalucía, Popular, Santo Domingo Savio; 2,07 km, inaugurada em 7/8/2004) é a base para chegar ao Parque Arví (a Linha L parte de Santo Domingo). Mesma tarifa do Metro (4.400 COP eventual por viagem). A estação Santo Domingo fica nos bairros populares da encosta nordeste — fique no entorno da estação e do cabo e evite sair andando sozinho (Medellín Unmapped aponta as comunas do nordeste como de maior risco).",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "04:30–23:00",
+        "ter": "04:30–23:00",
+        "qua": "04:30–23:00",
+        "qui": "04:30–23:00",
+        "sex": "04:30–23:00",
+        "sab": "04:30–23:00",
+        "dom": "08:30–22:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; combine com o Arví (Linha L abre 09:00).",
+      "preco": {
+        "moeda": "COP",
+        "min": 4400,
+        "max": 4400,
+        "por": "pessoa",
+        "inclui": "Tarifa 2026 eventual por viagem (Metro oficial). Conexão para a Linha L (Arví) tem tarifa própria (ver item Parque Arví).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.metrodemedellin.gov.co/usuarios",
+          "https://es.wikipedia.org/wiki/Metrocable_de_Medell%C3%ADn"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.metrodemedellin.gov.co/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Estação Acevedo (Metro Linha A) → transferência para o Metrocable K.",
+      "dicasAgente": [
+        "VALE CADA PESO apenas como meio de chegada ao Arví; sozinha, a Linha K não justifica meio dia.",
+        "CORTE SE APERTAR: se não for ao Arví, pule a K e fique com a J."
+      ],
+      "alertas": [
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín).",
+        "Medellín Unmapped classifica as comunas nordeste (Popular/Santo Domingo, Aranjuez, Manrique) como de risco mais alto — vá de dia e fique na estação/cabo."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Estaci%C3%B3n_Santo_Domingo%2C_Medell%C3%ADn_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Santo_Domingo,_Medell%C3%ADn_01.jpg"
+      },
+      "fontes": [
+        "https://www.metrodemedellin.gov.co/usuarios",
+        "https://es.wikipedia.org/wiki/Metrocable_de_Medell%C3%ADn",
+        "https://es.wikipedia.org/wiki/Estaci%C3%B3n_Santo_Domingo_Savio_(SITVA)",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Parque Arví (cabo Linha L + trilhas)",
+      "categoria": "natureza",
+      "cidade": "medellin",
+      "tags": [
+        "natureza",
+        "trilha",
+        "metrocable",
+        "ecoturismo",
+        "floresta-andina",
+        "meio-dia-ou-dia-inteiro"
+      ],
+      "coords": {
+        "lat": 6.26555556,
+        "lng": -75.49694444
+      },
+      "descricaoCurta": "Parque ecoturístico acessado por teleférico (Linha L) a partir de Santo Domingo Savio; trilhas autoguiadas, bike e mercado artesanal.",
+      "descricaoLonga": "O Parque Arví (Santa Elena) é acessado pela Linha L (Santo Domingo Savio–Arví, 4,6 km, 2 estações, aberta em 2010). O parque funciona de quarta a segunda, 09:30–17:30; fecha às terças. A tarifa do cabo Arví 2026 (Res. 0008/2026) é de 26.700 COP para estrangeiros/geral (a página do Metro não deixa claro se é por trecho ou ida-e-volta — confirme na bilheteria). Para trilhas guiadas/autoguiadas a Alcaldía divulgou (14/05/2025) ingresso de 30.000 COP para estrangeiros (20.000 nacionais). Há trilhas como Autoguiado, El Arroyuelo, Camino de la Cuesta, Biodiverso, Anturios/Orquídeas/Bromelias, além de bike, Mercado Arví e 'Arví Nocturno'.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "Parque 09:30–17:30; cabo Arví 09:00–18:00",
+        "ter": "Fechado",
+        "qua": "Parque 09:30–17:30; cabo Arví 09:00–18:00",
+        "qui": "Parque 09:30–17:30; cabo Arví 09:00–18:00",
+        "sex": "Parque 09:30–17:30; cabo Arví 09:00–18:00",
+        "sab": "Parque 09:30–17:30; cabo Arví 09:00–18:00",
+        "dom": "Parque 09:30–17:30; cabo Arví 08:30–18:00"
+      },
+      "diasFechados": [
+        "Terça-feira (manutenção; quando segunda é feriado, o parque abre na segunda e fecha na terça)"
+      ],
+      "melhorHorario": "Chegue na abertura (09:00) para pegar trilha com menos neblina; volte antes das 16:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 26700,
+        "max": 83400,
+        "por": "pessoa",
+        "inclui": "Cabo L estrangeiro 26.700 COP (por trecho? confirmar) + ingresso de trilha estrangeiro 30.000 COP (2025). Mínimo = só o cabo; máximo = cabo ida e volta cobrado por trecho + ingresso.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.metrodemedellin.gov.co/usuarios",
+          "https://www.medellin.gov.co/es/sala-de-prensa/noticias/el-parque-arvi-ahora-abre-los-lunes-y-ofrece-descuentos-en-las-actividades-de-senderismo/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://parquearvi.org"
+      },
+      "contato": {
+        "telefone": "+57 4 444 2979",
+        "whatsapp": "",
+        "site": "https://parquearvi.org",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Fechado às terças",
+        "Leve agasalho e capa de chuva (zona alta e úmida)"
+      ],
+      "pontoPartida": "Metro Linha A até Acevedo → Metrocable K até Santo Domingo → Metrocable L até Arví.",
+      "dicasAgente": [
+        "VALE se natureza é prioridade e você tem 1 manhã/tarde sobrando: é a trilha 'de floresta' mais fácil de Medellín (custo total ~60–90 mil COP + Metro).",
+        "CORTE SE APERTAR: o Jardim Botânico é grátis e a Comuna 13 rende mais por menos; em paisagem o Arví perde para o Peñol e para Jardín.",
+        "Prefira dia de semana (quarta a sexta) e saia cedo."
+      ],
+      "alertas": [
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). Impacto: neblina e chuva à tarde são frequentes na zona alta e a trilha de terra fica lamacenta. Plano B: museus da cidade.",
+        "Cabo L fechou para manutenção anual em 19–24/09/2026 (RCN) — não deve coincidir com novembro, mas confira.",
+        "Não ficou claro se a tarifa de 26.700 COP é por trecho: o custo pode dobrar."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Metrocable_del_Parque_Arv%C3%AD_-_Medell%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Alejandro Rojas (SajoR)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Metrocable_del_Parque_Arv%C3%AD_-_Medell%C3%ADn.jpg"
+      },
+      "fontes": [
+        "https://parquearvi.org",
+        "https://parquearvi.org/publicaciones/297/cuando-puedes-visitar-el-parque/",
+        "https://parquearvi.org/publicaciones/290/senderos/",
+        "https://www.metrodemedellin.gov.co/usuarios",
+        "https://www.medellin.gov.co/es/sala-de-prensa/noticias/el-parque-arvi-ahora-abre-los-lunes-y-ofrece-descuentos-en-las-actividades-de-senderismo/",
+        "https://newsroom.rcnradio.com/colombia/metrocable-de-medellin-anuncia-suspension-del-servicio-en-la-linea-l-cuando-volvera-a-funcionar",
+        "https://es.wikipedia.org/wiki/Metrocable_de_Medell%C3%ADn",
+        "https://es.wikipedia.org/wiki/Parque_Arv%C3%AD",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Pueblito Paisa e Cerro Nutibara",
+      "categoria": "mirante",
+      "cidade": "medellin",
+      "tags": [
+        "mirante",
+        "pueblito",
+        "cerro-nutibara",
+        "artesanato",
+        "pegada-turistica",
+        "pouco-tempo"
+      ],
+      "coords": {
+        "lat": 6.2361859,
+        "lng": -75.5802798
+      },
+      "descricaoCurta": "Réplica de um povoado antioquenho no topo do Cerro Nutibara, com vista panorâmica do Vale de Aburrá.",
+      "descricaoLonga": "No Cerro Nutibara (33,3 ha, Comuna 16 Belén), o Pueblito Paisa recria praça, igreja e casas típicas do início do século XX, com artesanato, restaurantes, escultura do Cacique Nutibara, Museo de Ciudad e o teatro Carlos Vieco. O local é operado pela Corporación Parque Arví por conta da Alcaldía (parquearvi.org). É 'turístico por natureza': a Medellín Unmapped lista as experiências 'paisa' comercializadas entre os pega-turistas. Horário e entrada: um resumo de busca indicou 05:00–23:00 e entrada grátis, mas não encontrei isso numa página que eu tenha aberto — trate como não confirmado.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde para ver a cidade acender (dedução); confirme o horário local.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita segundo resumo de busca (NÃO confirmada em página aberta); consumo em restaurantes/artesanato é à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.elespectador.com/turismo/que-hacer-en-medellin-en-48-horas-cosas-que-ver-y-hacer/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Cerro Nutibara, Comuna 16 Belén (acesso por Av. Guayabal/Cra. 65).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é vista e foto; se faltar tempo, o Mercado del Río, a Comuna 13 e os museus rendem mais.",
+        "Vale como 1h30 de 'check de cidade' em dia seco, combinando com almoço no local — mas a bandeja ali é de preço turístico (não confirmei valores)."
+      ],
+      "alertas": [
+        "Horários e preço de entrada NÃO confirmados; deixei os dias vazios de propósito.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). Com neblina o mirante perde o sentido."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PUEBLITO_PAISA._Medellin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "CRISTINA FONSECA",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:PUEBLITO_PAISA._Medellin.JPG"
+      },
+      "fontes": [
+        "https://www.elespectador.com/turismo/que-hacer-en-medellin-en-48-horas-cosas-que-ver-y-hacer/",
+        "https://www.bluradio.com/turismo/transforman-al-pueblito-paisa-en-medellin-vea-como-quedo-rg10",
+        "https://parquearvi.org/publicaciones/403/por-primera-vez-se-celebrara-el-dia-de-las-familias-antioquenas-en-el-pueblito-paisa-de-medellin/",
+        "https://es.wikipedia.org/wiki/Cerro_Nutibara",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/way/765380123",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza Botero",
+      "categoria": "atracao",
+      "cidade": "medellin",
+      "tags": [
+        "gratis",
+        "arte",
+        "centro",
+        "botero",
+        "esculturas",
+        "ao-ar-livre"
+      ],
+      "coords": {
+        "lat": 6.2518468,
+        "lng": -75.5686386
+      },
+      "descricaoCurta": "Praça ao ar livre de ~7.000 m² com 23 esculturas monumentais de Fernando Botero, em frente ao Museo de Antioquia.",
+      "descricaoLonga": "Inaugurada em 2001 no 'Barrio Viejo' (Comuna 10 La Candelaria), a praça reúne 23 esculturas doadas por Botero em 2000 e é cercada pelo Museo de Antioquia e pelo Palacio de la Cultura. Entrada livre (espaço público). O centro tem risco de furto de celular/carteira (Medellín Unmapped) — vá de dia e com a mochila na frente; evite o centro à noite (halfhalftravel).",
+      "duracao": {
+        "min": 20,
+        "tipica": 40,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã/meio da tarde, em dia útil.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito (espaço público).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Plaza_Botero"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Metro Linha A, estação Parque Berrío; o pedestre Carabobo liga ao Museo de Antioquia, que fica ao lado da praça (site oficial do museu).",
+      "dicasAgente": [
+        "VALE CADA PESO (custa zero): 30–40 min e ótimas fotos; encaixe antes/depois do Museo de Antioquia ou da Casa de la Memoria.",
+        "Guarde o celular quando não estiver fotografando."
+      ],
+      "alertas": [
+        "Furtos de oportunidade são relatados na região do centro (Medellín Unmapped; halfhalftravel).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). A praça é aberta: com chuva, passe direto para o museu."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Medell%C3%ADn%2C_Plaza_Botero%2C_2023-07_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Steffen Schmitz (more photos)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Medell%C3%ADn,_Plaza_Botero,_2023-07_CN-01.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Plaza_Botero",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html",
+        "https://www.openstreetmap.org/relation/10597561",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo de Antioquia",
+      "categoria": "museu",
+      "cidade": "medellin",
+      "tags": [
+        "museu",
+        "arte",
+        "botero",
+        "debora-arango",
+        "chuva-plano-b",
+        "centro"
+      ],
+      "coords": {
+        "lat": 6.2524079,
+        "lng": -75.5691446
+      },
+      "descricaoCurta": "Principal museu de arte da cidade, com a Sala Fernando Botero, arte internacional doada pelo artista e obras de Débora Arango.",
+      "descricaoLonga": "No antigo Palácio Municipal, junto à Plaza Botero (Carrera 52 nº 52-43). Salas permanentes: Fernando Botero, Arte Internacional (coleção doada por Botero), Débora Arango, 'Variações do presente', entre outras. Horário oficial: seg–sáb 09:40–17:30; domingos e feriados 09:40–16:30; fechado em 1/jan, 1/mai e 25/dez. Tabela de visitantes publicada na página oficial (imagem 'Tarifas 2025'): estrangeiros individual 46.000 COP, nacionais 18.000 COP; grupos (+8) estrangeiros 40.000. Ingresso gratuito para estratos 1-3 etc. e menores de 7 anos. Na Sala Botero não se pode fotografar.",
+      "duracao": {
+        "min": 75,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:40–17:30",
+        "ter": "09:40–17:30",
+        "qua": "09:40–17:30",
+        "qui": "09:40–17:30",
+        "sex": "09:40–17:30",
+        "sab": "09:40–17:30",
+        "dom": "09:40–16:30"
+      },
+      "diasFechados": [
+        "1 de janeiro",
+        "1 de maio",
+        "25 de dezembro"
+      ],
+      "melhorHorario": "Abertura (09:40) ou fim da tarde; ótimo plano B de chuva.",
+      "preco": {
+        "moeda": "COP",
+        "min": 46000,
+        "max": 46000,
+        "por": "pessoa",
+        "inclui": "Tarifa estrangeiro individual (tabela '2025' na página oficial em 08/10/2026; pode ter reajuste 2026). Nacionais 18.000. Não inclui parqueadero.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://museodeantioquia.co/visita-tarifas/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://museodeantioquia.co/visita-tarifas/"
+      },
+      "contato": {
+        "telefone": "+57 604 251 3636",
+        "whatsapp": "",
+        "site": "https://www.museodeantioquia.co",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem fotos na Sala Botero; fotos sem flash nas demais salas",
+        "Alimentos só nos espaços de café/restaurante"
+      ],
+      "pontoPartida": "Metro Linha A, estação Parque Berrío; passagem Carabobo liga ao museu (site oficial).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: 46 mil COP para estrangeiro é alto para o perfil; a Plaza Botero (grátis) mostra o essencial de Botero e a Casa de la Memoria é grátis.",
+        "Entre só se arte/Botero/Débora Arango for prioridade — ou se chover forte e você precisar de plano B de ~2 h."
+      ],
+      "alertas": [
+        "Um site oficial do turismo (medellin.travel, página antiga) mostra 12.000/18.000 COP — está desatualizado; o oficial do museu tem prioridade.",
+        "O preço oficial exibido ainda é a tabela '2025'; confirme no dia.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Medell%C3%ADn%2C_Museo_de_Antioquia%2C_2023-07_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Steffen Schmitz (more photos)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Medell%C3%ADn,_Museo_de_Antioquia,_2023-07_CN-01.jpg"
+      },
+      "fontes": [
+        "https://museodeantioquia.co/visita-tarifas/",
+        "https://www.museodeantioquia.co",
+        "https://www.medellin.travel/museum-of-antioquia/?lang=en",
+        "https://www.openstreetmap.org/way/28770080",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Museo Casa de la Memoria",
+      "categoria": "museu",
+      "cidade": "medellin",
+      "tags": [
+        "museu",
+        "gratis",
+        "memoria",
+        "conflito-armado",
+        "chuva-plano-b",
+        "contexto-comuna-13"
+      ],
+      "coords": {
+        "lat": 6.2459198,
+        "lng": -75.5565561
+      },
+      "descricaoCurta": "Museu municipal gratuito sobre o conflito armado colombiano e a memória das vítimas; ótimo contexto antes da Comuna 13.",
+      "descricaoLonga": "Entrada gratuita (site oficial). Horário: terça a sexta 09:00–18:00; sábados, domingos e feriados 10:00–16:00; segunda fechado (quando a segunda é feriado, fecha na terça seguinte). Visitas guiadas presenciais no horário de atendimento, com possibilidade de pedir em inglês; há audioguia por app. Fica a ~400 m da Placita de Flórez (calculado pelas coordenadas OSM).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "09:00–18:00",
+        "qua": "09:00–18:00",
+        "qui": "09:00–18:00",
+        "sex": "09:00–18:00",
+        "sab": "10:00–16:00",
+        "dom": "10:00–16:00"
+      },
+      "diasFechados": [
+        "Segunda-feira (e a terça seguinte quando a segunda é feriado)"
+      ],
+      "melhorHorario": "Terça a sexta pela manhã; é o 'antes' ideal do tour da Comuna 13.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.museocasadelamemoria.gov.co/",
+          "https://www.museocasadelamemoria.gov.co/visitanos/horario-de-atencion/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.museocasadelamemoria.gov.co/visitanos/horario-de-atencion/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.museocasadelamemoria.gov.co/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Conteúdo pesado (violência, desaparecimentos)"
+      ],
+      "pontoPartida": "Calle 51 nº 36-66, bairro Caicedo, Comuna 10 (OpenStreetMap).",
+      "dicasAgente": [
+        "VALE CADA PESO (custa zero): contexto que muda a experiência da Comuna 13 (Tom Plan My Trip recomenda fazer antes) e plano B de chuva.",
+        "Em novembro/2026 há duas segundas feriadas (2 e 16/11 — cálculo pela Lei Emiliani, NÃO verificado em fonte): nas terças seguintes (3 e 17/11) o museu estaria fechado pela regra oficial."
+      ],
+      "alertas": [
+        "Dedução de feriados acima: confira no calendário colombiano antes de montar o dia.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Museo_Casa_de_la_Memoria_en_Medell%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Chacha Clarita",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_Casa_de_la_Memoria_en_Medell%C3%ADn.jpg"
+      },
+      "fontes": [
+        "https://www.museocasadelamemoria.gov.co/",
+        "https://www.museocasadelamemoria.gov.co/visitanos/horario-de-atencion/",
+        "https://www.tomplanmytrip.com/es/comuna-13-medellin-colombia-barrio/",
+        "https://www.openstreetmap.org/way/262219971",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Jardín Botánico de Medellín",
+      "categoria": "natureza",
+      "cidade": "medellin",
+      "tags": [
+        "natureza",
+        "gratis",
+        "jardim",
+        "orquideorama",
+        "familia",
+        "perto-do-metro",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 6.2705481,
+        "lng": -75.5635288
+      },
+      "descricaoCurta": "Jardim botânico gratuito de ~13 ha com orquideorama, mariposário e mais de 1.000 espécies, ao lado do Parque Explora e do Metro Universidad.",
+      "descricaoLonga": "Fundação privada sem fins lucrativos (13,2 ha, coleção viva de >1.000 espécies). Horário oficial: terça a sexta 09:30–16:00; sábados, domingos e feriados 09:00–16:00; fecha no primeiro dia útil da semana (segunda). Entrada gratuita, exceto eventos especiais (site oficial, El Colombiano 2026, Semana). Passeios guiados e oficinas gratuitos em horários fixos (quarta 11:00, sexta 14:00, fins de semana 11:00 e 14:00, segundo El Colombiano em jan/2026).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "09:30–16:00",
+        "qua": "09:30–16:00",
+        "qui": "09:30–16:00",
+        "sex": "09:30–16:00",
+        "sab": "09:00–16:00",
+        "dom": "09:00–16:00"
+      },
+      "diasFechados": [
+        "Segunda-feira (primeiro dia útil da semana; se segunda é feriado, fecha na terça)",
+        "Datas de eventos privados (o site lista jul–set e 24, 25, 31/dez; nada para novembro)"
+      ],
+      "melhorHorario": "Manhã; combine com o Parque Explora (mesma calçada) e a estação Universidad.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita (salvo eventos especiais).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.botanicomedellin.org/vivenos/planea-tu-visita/",
+          "https://www.elcolombiano.com/medellin/que-hay-para-hacer-en-el-jardin-botanico-de-medellin-2026-actividades-GD32572235"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.botanicomedellin.org/vivenos/planea-tu-visita/"
+      },
+      "contato": {
+        "telefone": "+57 4 444 5500",
+        "whatsapp": "",
+        "site": "https://www.botanicomedellin.org",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Fotos/vídeos profissionais exigem permissão prévia (formulário 5 dias úteis)",
+        "É permitido levar lanche; sem recipientes de isopor"
+      ],
+      "pontoPartida": "Metro Linha A/B, estação Universidad; Calle 73 nº 51D-14.",
+      "dicasAgente": [
+        "VALE CADA PESO (custa zero): a 'natureza' mais barata e fácil da cidade; boa para uma manhã de ritmo mais leve entre dois dias intensos.",
+        "Plano B de chuva parcial: há áreas cobertas e restaurantes (não detalhei)."
+      ],
+      "alertas": [
+        "Se a segunda for feriado (2 e 16/11/2026 pelo cálculo da Lei Emiliani — não verificado em fonte), o jardim fecha na terça seguinte pela regra do site.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jardin_Botanico_de_Medellin-Orquideorama_%2811%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "SajoR",
+        "licenca": "CC BY-SA 2.5",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jardin_Botanico_de_Medellin-Orquideorama_(11).JPG"
+      },
+      "fontes": [
+        "https://www.botanicomedellin.org/vivenos/planea-tu-visita/",
+        "https://www.elcolombiano.com/medellin/que-hay-para-hacer-en-el-jardin-botanico-de-medellin-2026-actividades-GD32572235",
+        "https://www.semana.com/turismo/articulo/que-se-puede-hacer-en-el-jardin-botanico-de-medellin-y-cuales-son-sus-horarios/202423/",
+        "https://es.wikipedia.org/wiki/Jard%C3%ADn_bot%C3%A1nico_de_Medell%C3%ADn",
+        "https://www.openstreetmap.org/way/28770266",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Parque Explora",
+      "categoria": "museu",
+      "cidade": "medellin",
+      "tags": [
+        "museu",
+        "ciencia",
+        "aquario",
+        "planetario",
+        "chuva-plano-b",
+        "familia"
+      ],
+      "coords": {
+        "lat": 6.2706212,
+        "lng": -75.5655752
+      },
+      "descricaoCurta": "Museu interativo de ciências com aquário amazônico, vivário e planetário, ao lado do Jardín Botánico.",
+      "descricaoLonga": "Centro de ciências com museu interativo (+300 experiências), vivário, aquário (ênfase amazônica) e Planetário. Horário oficial 2026: terça a sexta 08:30–17:30 (bilheteria fecha às 16:00); fins de semana e feriados 10:00–18:30 (bilheteria fecha às 17:00); não abre segundas nem na terça após feriado. Tarifas oficiais: individual estrangeiro (não residente) 67.950 COP; combo Explora+Planetário estrangeiro 115.200 COP; plano familiar estrangeiro 245.150 COP (nacionais: 49.950 / 81.250 / 181.300).",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "08:30–17:30 (bilheteria até 16:00)",
+        "qua": "08:30–17:30 (bilheteria até 16:00)",
+        "qui": "08:30–17:30 (bilheteria até 16:00)",
+        "sex": "08:30–17:30 (bilheteria até 16:00)",
+        "sab": "10:00–18:30 (bilheteria até 17:00)",
+        "dom": "10:00–18:30 (bilheteria até 17:00)"
+      },
+      "diasFechados": [
+        "Segundas-feiras (inferido da página: só lista terça–sexta e fins de semana/feriados)",
+        "Terça após feriado",
+        "Terça 13/10/2026 por manutenção (já passou)"
+      ],
+      "melhorHorario": "Terça a quinta pela manhã (menos escolas); fora do recesso escolar.",
+      "preco": {
+        "moeda": "COP",
+        "min": 67950,
+        "max": 115200,
+        "por": "pessoa",
+        "inclui": "Estrangeiro individual 67.950 COP; combo com Planetário 115.200 COP (site oficial, 2026). Parqueadero carro 20.000/dia.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.parqueexplora.org/visitanos/horarios-y-tarifas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.parqueexplora.org/visitanos/horarios-y-tarifas"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "+57 301 510 4681",
+        "site": "https://www.parqueexplora.org",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Metro Linha A/B, estação Universidad (a passarela leva ao parque).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: ~68 mil COP por pessoa para estrangeiro é caro; só faça se chover o dia todo e você já tiver feito os museus gratuitos.",
+        "Se for, combine com o Jardín Botánico (grátis) no mesmo bloco da manhã."
+      ],
+      "alertas": [
+        "Fecha segundas e terças após feriado: em 2/11 e 16/11/2026 (segundas feriadas por cálculo da Lei Emiliani, não verificado), evite a terça seguinte.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Parque_Explora_%28Medell%C3%ADn%2C_Colombia%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Averpues",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parque_Explora_(Medell%C3%ADn,_Colombia).JPG"
+      },
+      "fontes": [
+        "https://www.parqueexplora.org/visitanos/horarios-y-tarifas",
+        "https://es.wikipedia.org/wiki/Parque_Explora",
+        "https://www.openstreetmap.org/way/141166140",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Parque Lleras (zona de bares do Poblado)",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": [
+        "vida-noturna",
+        "poblado",
+        "turistico",
+        "escopolamina",
+        "caro",
+        "balada"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Praça pedonal cercada por bares e baladas no El Poblado: o epicentro turístico (e do risco) da noite de Medellín.",
+      "descricaoLonga": "Segundo o guia da Colombia Move, o entorno do Parque Lleras concentra bares e baladas a pé uns dos outros; a polícia reforçou a presença em 2023 e beber dentro do parque deixou de ser permitido, a ação fica nas ruas e casas ao redor (El Deck, Calle 9+1, Vintrash, Envy Rooftop). Preços do guia: cerveja 8.000–15.000 COP, coquetel 15.000–25.000 (18.000–30.000 numa tabela de custos), entrada em balada 20.000–60.000; noite completa 100.000–200.000 COP por pessoa (Poblado). A Tom Plan My Trip resume: 'era o lugar há 10 anos, hoje não é tão bom'; a Medellín Unmapped lista 'bares e restaurantes caros do Lleras' entre os pega-turistas e sugere Provenza. A prefeitura já impôs restrições de horário (até 1h por 30 dias, abril/2024) e medidas contra exploração sexual de menores na região (Blu Radio, 02/04/2024). Coordenadas: o parque não está mapeado com esse nome no OpenStreetMap e a Wikipedia não tem coordenadas; deixei 0,0.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Bares enchem ~22h e baladas só pegam depois da meia-noite; pico 01h–04h (Colombia Move).",
+      "preco": {
+        "moeda": "COP",
+        "min": 8000,
+        "max": 60000,
+        "por": "pessoa",
+        "inclui": "Cerveja 8.000–15.000, coquetel 15.000–25.000, cover 20.000–60.000 COP (Colombia Move); noite completa 100.000–200.000 COP.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dress code: sem bermuda/chinelo em baladas; verifique o Instagram da casa (Colombia Move)",
+        "Consumo de álcool dentro da praça não é permitido (Colombia Move)"
+      ],
+      "pontoPartida": "Parque Lleras, El Poblado; Uber/InDrive.",
+      "dicasAgente": [
+        "CORTE SE APERTAR / vá com ressalvas: é a opção mais cara e a de maior risco de escopolamina da cidade (tabiji.ai cita bares ao redor do Lleras, Provenza e Calle 10). Se for, faça UMA noite, cedo, os dois juntos, sem apps de encontro.",
+        "Alternativas melhores para o seu perfil: La 70 (Laureles) para balada barata e Provenza para jantar/coquetel.",
+        "Peça a bebida você mesmo no balcão e fique com ela na mão; copo fechado/lacrado quando possível (tabiji.ai)."
+      ],
+      "alertas": [
+        "ESCOPOLAMINA ('burundanga') e apps de encontro: o alerta 'Straight Talk About Crime' da Embaixada dos EUA (22/07/2026, relatado por medellin.co) cita 13 relatos recentes de drogagem em Medellín e criminosos que usam apps de namoro para atrair estrangeiros a hotéis/bares; o aviso do Reino Unido (FCDO, 'ainda válido em 08/10/2026') diz que a droga pode vir em bebida, comida, cigarro, spray ou até panfleto, e que há equipes com mulheres que ganham a confiança da vítima. Regras práticas: nunca deixe o copo fora da vista, não aceite bebida/cigarro/comida de desconhecido, não leve (nem aceite) ninguém para o hotel/apartamento, volte sempre de Uber/InDrive chamado por você; se um dos dois ficar desorientado, vá a um hospital/ligue 123 antes de qualquer outra coisa.",
+        "Tabiji.ai (blog) cita 'La Reina de la Escopolamina' presa em dez/2024 e quadrilhas ('Las Barbies', 'Los Calvos'): informação de blog, não confirmei em imprensa — trate como ilustrativa.",
+        "Carteiristas em áreas lotadas: celular no bolso da frente (Colombia Move). Nunca pegue táxi que para na porta da balada.",
+        "Sem coordenadas verificáveis (0,0).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/",
+        "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.bluradio.com/regiones/antioquia/comerciantes-del-parque-lleras-en-medellin-protestaron-por-reduccion-en-horarios-de-cierre-rg10",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+        "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/",
+        "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/",
+        "https://tabiji.ai/scams/medellin/",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Provenza (restaurantes e coquetelaria)",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": [
+        "vida-noturna",
+        "poblado",
+        "restaurantes",
+        "coquetel",
+        "escopolamina",
+        "jantar"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Rua charmosa do Poblado com restaurantes, wine bars e DJ lounges; mais calma e 'chique' que o Lleras.",
+      "descricaoLonga": "Segundo a Colombia Move, Provenza fica a uma curta caminhada do Lleras e opera 'em outra frequência': wine bars e DJ lounges onde dá para conversar até depois da meia-noite, com coquetéis mais caros (25.000–40.000 COP) e público mais colombiano que turista. Exemplo citado: La House Provenza, multinível, aberta diariamente das 16h às 04h. Para a Tom Plan My Trip é a parte 'chique' do Poblado ('uma rua de luzes e bares'). A Medellín Unmapped recomenda Provenza em vez do Lleras, mas avisa que Provenza e Lleras têm risco maior de pequenos crimes e golpes. Sem coordenadas verificáveis (0,0).",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "ter": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "qua": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "qui": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "sex": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "sab": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)",
+        "dom": "16:00–04:00 (apenas um exemplo: La House Provenza; cada casa tem horário próprio)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Jantar ~19h–21h e bar depois; fim de semana mais animado.",
+      "preco": {
+        "moeda": "COP",
+        "min": 25000,
+        "max": 40000,
+        "por": "pessoa",
+        "inclui": "Coquetel 25.000–40.000 COP (Colombia Move). Jantar: preço não obtido.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dress code mais rígido em casas 'upscale'; confira o Instagram da casa"
+      ],
+      "pontoPartida": "El Poblado, região de Provenza/Manila; Uber/InDrive pelo app.",
+      "dicasAgente": [
+        "VALE CADA PESO como UMA noite de jantar + 1–2 coquetéis (caro para o perfil, mas é o 'Medellín bonito'); depois siga para La 70 se quiser dançar barato.",
+        "CORTE SE APERTAR: se o orçamento apertar, Provenza é o primeiro corte da vida noturna; La 70 entrega mais por menos."
+      ],
+      "alertas": [
+        "ESCOPOLAMINA ('burundanga') e apps de encontro: o alerta 'Straight Talk About Crime' da Embaixada dos EUA (22/07/2026, relatado por medellin.co) cita 13 relatos recentes de drogagem em Medellín e criminosos que usam apps de namoro para atrair estrangeiros a hotéis/bares; o aviso do Reino Unido (FCDO, 'ainda válido em 08/10/2026') diz que a droga pode vir em bebida, comida, cigarro, spray ou até panfleto, e que há equipes com mulheres que ganham a confiança da vítima. Regras práticas: nunca deixe o copo fora da vista, não aceite bebida/cigarro/comida de desconhecido, não leve (nem aceite) ninguém para o hotel/apartamento, volte sempre de Uber/InDrive chamado por você; se um dos dois ficar desorientado, vá a um hospital/ligue 123 antes de qualquer outra coisa.",
+        "Manila/El Poblado foi cenário de morte de turista americano em hotel em 14/08/2026 (investigação aberta; hipótese de intoxicação — medellin.co citando El Colombiano). Não é conclusão, é contexto de risco.",
+        "Sem coordenadas verificáveis (0,0).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Provenza_-_Carrera_35_-_Medell%C3%ADn_-_Colombia_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "José Luiz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Provenza_-_Carrera_35_-_Medell%C3%ADn_-_Colombia_2024.jpg"
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/",
+        "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+        "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/",
+        "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/",
+        "https://tabiji.ai/scams/medellin/",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La 70 (Carrera 70, Laureles) — balada barata e local",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": [
+        "vida-noturna",
+        "laureles",
+        "balada",
+        "barato",
+        "salsa",
+        "cerveja",
+        "imperdivel"
+      ],
+      "coords": {
+        "lat": 6.2544904,
+        "lng": -75.5880116
+      },
+      "descricaoCurta": "Rua de bares e baladas em Laureles-Estadio, mais barata e frequentada por colombianos do que o Poblado.",
+      "descricaoLonga": "La 70 (Carrera 70) corre por vários quarteirões entre o Estádio e a UPB com alta densidade de bares, baladas e restaurantes; nos fins de semana a energia 'transborda nas calçadas' (Colombia Move). Preços do guia: cerveja 5.000–10.000 COP, coquetel 12.000–20.000, cover 15.000–30.000; uma noite completa em La 70 sai por 70.000–130.000 COP contra 100.000–200.000 no Poblado (30–40% menos). Perto, La 33 é o eixo de baladas colombianas. Para começar a noite: La Charcu (cerveja artesanal, tapas). Segundo a Tom Plan My Trip, 'bem menos estrangeiros'. A Medellín Unmapped pede cuidado à noite na La Setenta. Coordenada = trecho de Carrera 70 no bairro Florida Nueva (OSM), não um bar específico.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegue a partir das ~22h; bares enchem depois das 22h e baladas só vivem depois da meia-noite (Colombia Move).",
+      "preco": {
+        "moeda": "COP",
+        "min": 5000,
+        "max": 30000,
+        "por": "pessoa",
+        "inclui": "Cerveja 5.000–10.000, coquetel 12.000–20.000, cover 15.000–30.000 COP; noite 70.000–130.000 COP (Colombia Move, 1 fonte).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dress code: sem bermuda/chinelo em baladas (Colombia Move)"
+      ],
+      "pontoPartida": "Metro Linha B, estação Estadio (Laureles); Uber/InDrive pelo app na volta.",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício de vida noturna da cidade para o seu perfil; considere ficar em Laureles para fazer a pé/Uber curto.",
+        "Combine com salsa (Son Havana) e termine a noite de Uber pedido por você mesmo.",
+        "CORTE SE APERTAR: baladas com cover; fique em bares de cerveja de 5–10 mil COP."
+      ],
+      "alertas": [
+        "ESCOPOLAMINA ('burundanga') e apps de encontro: o alerta 'Straight Talk About Crime' da Embaixada dos EUA (22/07/2026, relatado por medellin.co) cita 13 relatos recentes de drogagem em Medellín e criminosos que usam apps de namoro para atrair estrangeiros a hotéis/bares; o aviso do Reino Unido (FCDO, 'ainda válido em 08/10/2026') diz que a droga pode vir em bebida, comida, cigarro, spray ou até panfleto, e que há equipes com mulheres que ganham a confiança da vítima. Regras práticas: nunca deixe o copo fora da vista, não aceite bebida/cigarro/comida de desconhecido, não leve (nem aceite) ninguém para o hotel/apartamento, volte sempre de Uber/InDrive chamado por você; se um dos dois ficar desorientado, vá a um hospital/ligue 123 antes de qualquer outra coisa.",
+        "Roubo de celular por moto é relatado em Laureles/Carrera 70 (tabiji.ai): guarde o celular na calçada.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín). La 70 tem bares cobertos; a chuva atrapalha o deslocamento, não a noite."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/",
+        "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://tabiji.ai/scams/medellin/",
+        "https://www.openstreetmap.org/way/1153499728",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+        "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Son Havana (salsa em Laureles)",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": [
+        "salsa",
+        "danca",
+        "vida-noturna",
+        "laureles",
+        "local"
+      ],
+      "coords": {
+        "lat": 6.2502377,
+        "lng": -75.5921068
+      },
+      "descricaoCurta": "Casa de salsa citada em vários guias como lugar onde colombianos dançam de verdade, perto da La 70.",
+      "descricaoLonga": "A Colombia Move e a Tom Plan My Trip citam Son Havana e El Tibiri como as casas para dançar salsa na região da La 70; a Colombia Move diz que 'colombianos vão dançar, não ficar olhando o celular'. Um artigo do El Colombiano de 2015 já listava Son Havana entre cinco lugares de salsa. Não encontrei horário, cover nem site atuais em páginas abertas — por isso deixo 0 em preço e vazio nos dias.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quintas a sábados à noite (dedução; confirme no Instagram da casa).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Cover/preços não confirmados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem bermuda/chinelo (regra geral das casas em Medellín, Colombia Move)"
+      ],
+      "pontoPartida": "Carrera 73 / Calle 44A, Florida Nueva, Laureles (OSM).",
+      "dicasAgente": [
+        "VALE CADA PESO se você quer a experiência 'local' de salsa — aprenda 2–3 passos antes (hostels como o Masaya oferecem aulas, segundo Tom Plan My Trip).",
+        "Faça junto com a La 70 na mesma noite."
+      ],
+      "alertas": [
+        "ESCOPOLAMINA ('burundanga') e apps de encontro: o alerta 'Straight Talk About Crime' da Embaixada dos EUA (22/07/2026, relatado por medellin.co) cita 13 relatos recentes de drogagem em Medellín e criminosos que usam apps de namoro para atrair estrangeiros a hotéis/bares; o aviso do Reino Unido (FCDO, 'ainda válido em 08/10/2026') diz que a droga pode vir em bebida, comida, cigarro, spray ou até panfleto, e que há equipes com mulheres que ganham a confiança da vítima. Regras práticas: nunca deixe o copo fora da vista, não aceite bebida/cigarro/comida de desconhecido, não leve (nem aceite) ninguém para o hotel/apartamento, volte sempre de Uber/InDrive chamado por você; se um dos dois ficar desorientado, vá a um hospital/ligue 123 antes de qualquer outra coisa.",
+        "Preço/horário não confirmados; a confiança é parcial."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/",
+        "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/",
+        "https://www.elcolombiano.com/cultura/los-cinco-lugares-para-bailar-salsa-en-medellin-AG2800147",
+        "https://www.openstreetmap.org/node/5039990821",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+        "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Perpetuo Socorro (distrito criativo do centro)",
+      "categoria": "experiencia",
+      "cidade": "medellin",
+      "tags": [
+        "bairro",
+        "cafes",
+        "arte-urbana",
+        "criativo",
+        "centro",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 6.2355326,
+        "lng": -75.5729023
+      },
+      "descricaoCurta": "Antigo bairro industrial da Comuna 10 virado distrito criativo: cafés, murais, livrarias e galerias; eleito pela Time Out entre os bairros mais 'cool' de 2025.",
+      "descricaoLonga": "Segundo a Telemedellín (06/10/2025), a Time Out colocou Perpetuo Socorro em 15º lugar no ranking mundial de bairros mais legais de 2025, destacando arte urbana, lojas, cafés, livrarias, o Museo de Antioquia e a Casa Carlona; recomendações: café no Distrito Cafetero, sanduíche de posta cartagenera no All Day Coffee e jantar no Plácido Cocina Italiana. Importante: não é uma 'zona de balada' tradicional (como Lleras/La 70); é um bairro para andar de tarde, tomar café e comer bem. Está no centro: de noite, siga a regra geral de evitar o centro.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde (café + passeio) e início da noite; evite andar sozinho à noite no centro.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Caminhar é gratuito; consumo em cafés/restaurantes não tem preço levantado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://telemedellin.tv/barrio-perpetuo-socorro-medellin-barrio-mas-cool/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Comuna 10 La Candelaria, centro de Medellín (coordenada = nó do bairro no OSM).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é um 'bônus' fácil de encaixar com o centro (Plaza Botero, Parque Bolívar), mas sem hora marcada.",
+        "Ótimo para um café de especialidade e fotos de arte urbana no fim da tarde."
+      ],
+      "alertas": [
+        "Busca da internet trata como 'vida noturna', mas a fonte (Time Out via Telemedellín) fala de bairro criativo com bares/cafés/arte; não confirmei casas noturnas.",
+        "Centro: furto de celular/carteira é o risco típico (Medellín Unmapped); vá de dia.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://telemedellin.tv/barrio-perpetuo-socorro-medellin-barrio-mas-cool/",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/node/343527206",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado del Río",
+      "categoria": "restaurante",
+      "cidade": "medellin",
+      "tags": [
+        "gastronomia",
+        "mercado-gastronomico",
+        "poblado",
+        "chuva-plano-b",
+        "bar",
+        "tejo"
+      ],
+      "coords": {
+        "lat": 6.2260794,
+        "lng": -75.5754423
+      },
+      "descricaoCurta": "Mercado gastronômico coberto com mais de 24 propostas (restaurantes, bares e cervejarias artesanais) e quadras de tejo.",
+      "descricaoLonga": "Segundo o site oficial: Cl. 24 nº 48-28, mais de 24 propostas gastronômicas (23 restaurantes, 5 bares, 3 cervejarias artesanais), cozinhas colombiana, italiana, mexicana, peruana, japonesa, árabe, indiana e espanhola; quadras de tejo; telas para jogos; reservas só por WhatsApp. Horário oficial: dom–ter 12:00–22:00; qua–qui 12:00–23:00; sex–sáb 12:00–01:00. Não há preços no site; para referência, a bandeja paisa custa em média 48.600 COP em restaurantes de Medellín (El Colombiano, jan/2026) e o corrientazo ~18.000.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "12:00–22:00",
+        "ter": "12:00–22:00",
+        "qua": "12:00–23:00",
+        "qui": "12:00–23:00",
+        "sex": "12:00–01:00",
+        "sab": "12:00–01:00",
+        "dom": "12:00–22:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço tardio ou jantar cedo; fim de semana à noite lota.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços não publicados; cada quiosque tem seu cardápio.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mercadodelrio.com.co"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.mercadodelrio.com.co"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "+57 324 242 6736",
+        "site": "https://www.mercadodelrio.com.co",
+        "instagram": "@mercadodelriomedellin"
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 24 nº 48-28, El Poblado (OSM/site oficial).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é para provar vários pratos num só lugar, mas tende a preço de turista (dedução, não verificado); para economizar, almoce 'corrientazo' (~18 mil COP) ou na Plaza Minorista.",
+        "Bom plano B de chuva à noite (tudo coberto)."
+      ],
+      "alertas": [
+        "Preços não levantados; horários vêm só do site oficial (1 fonte). Um site de busca mais antigo indicava 07h–21h — conflito; prevalece o oficial.",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.mercadodelrio.com.co",
+        "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985",
+        "https://www.openstreetmap.org/way/506502588",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza Minorista José María Villa (bandeja paisa e almoço barato)",
+      "categoria": "restaurante",
+      "cidade": "medellin",
+      "tags": [
+        "gastronomia",
+        "bandeja-paisa",
+        "mercado",
+        "barato",
+        "centro",
+        "local"
+      ],
+      "coords": {
+        "lat": 6.2576308,
+        "lng": -75.5734559
+      },
+      "descricaoCurta": "Maior praça de mercado do centro, com praça de alimentação 'de primeira categoria' e bandeja paisa mais barata que a média da cidade.",
+      "descricaoLonga": "Em jan/2026 o El Colombiano mediu: bandeja paisa em média 48.600 COP em restaurantes de Medellín e região metropolitana; na Plaza Minorista José María Villa 27.000–45.000 COP; na Comuna 13 até 37.000; um almoço corrientazo custa em média 18.000. A matéria de 2019 do El Colombiano destaca a Minorista como a maior das praças pequenas, com uma zona de comidas 'de primeira' (restaurantes como Aquí paró Lucho) e um setor de roupa usada. A bandeja paisa subiu ~47,5% em cinco anos.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço (11:30–14:00) em dia de semana, de dia.",
+      "preco": {
+        "moeda": "COP",
+        "min": 18000,
+        "max": 45000,
+        "por": "pessoa",
+        "inclui": "Corrientazo médio ~18.000 COP (média da cidade) até bandeja paisa 27.000–45.000 COP na Plaza Minorista (El Colombiano, jan/2026).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza Minorista José María Villa, bairro San Benito, Comuna 10 (OSM).",
+      "dicasAgente": [
+        "VALE CADA PESO: é o jeito mais barato (e autêntico) de comer a bandeja paisa; divida uma bandeja entre os dois se o apetite não for grande (dedução).",
+        "Vá de táxi/Uber de dia e volte de app; o entorno do centro é de risco de furto."
+      ],
+      "alertas": [
+        "Horário de funcionamento NÃO confirmado.",
+        "Centro de Medellín: cuidado com celular e carteira (Medellín Unmapped).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985",
+        "https://www.elcolombiano.com/antioquia/plazas-de-mercado-en-medellin-GL11382631",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/way/433081101",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Placita de Flórez",
+      "categoria": "compras",
+      "cidade": "medellin",
+      "tags": [
+        "mercado",
+        "flores",
+        "silleteros",
+        "centro",
+        "historia",
+        "perto-da-casa-memoria"
+      ],
+      "coords": {
+        "lat": 6.245919,
+        "lng": -75.5599993
+      },
+      "descricaoCurta": "Praça de mercado histórica do centro (1891), famosa por plantas e flores e ligada à tradição dos silleteros.",
+      "descricaoLonga": "Segundo a Alcaldía de Medellín, a Placita de Flórez ('com Z' por Rafael Flórez, que doou o terreno em 1891) segue sendo importante centro de plantas e flores; foi onde o organizador do primeiro desfile de silleteros (1957) viu os camponeses chegarem com as silletas. O El Colombiano (2019) diz que é a primeira praça coberta da Colômbia. Fica a ~400 m da Casa de la Memoria (calculado das coordenadas OSM). Não é um polo de comida típica.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; em dia de semana.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre; compras à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.medellin.gov.co/es/sala-de-prensa/noticias/cual-es-la-historia-de-la-placita-de-florez-en-medellin-y-su-relacion-con-los-silleteros/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Placita de Flórez, Calle 50 (Bomboná), Comuna 10 (OSM).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: parada rápida; só vale se você for à Casa de la Memoria (a ~400 m).",
+        "Para comer, prefira a Plaza Minorista; aqui o foco é flores/plantas."
+      ],
+      "alertas": [
+        "Horário não confirmado.",
+        "Centro: evite andar sozinho à noite; cuide do celular (Medellín Unmapped).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2018_Medell%C3%ADn_Placita_de_Fl%C3%B3rez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2018_Medell%C3%ADn_Placita_de_Fl%C3%B3rez.jpg"
+      },
+      "fontes": [
+        "https://www.medellin.gov.co/es/sala-de-prensa/noticias/cual-es-la-historia-de-la-placita-de-florez-en-medellin-y-su-relacion-con-los-silleteros/",
+        "https://www.elcolombiano.com/antioquia/plazas-de-mercado-en-medellin-GL11382631",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/way/263305157",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Pergamino Café (Laureles)",
+      "categoria": "cafe",
+      "cidade": "medellin",
+      "tags": [
+        "cafe-de-especialidade",
+        "laureles",
+        "cafe",
+        "casa",
+        "tostadora"
+      ],
+      "coords": {
+        "lat": 6.2413657,
+        "lng": -75.5962691
+      },
+      "descricaoCurta": "Casa tostadora de café de especialidade numa casa tradicional de Laureles (há também unidades no Poblado e no aeroporto).",
+      "descricaoLonga": "A unidade de Laureles fica em Cq 73 nº 34-65 (Estadio), instalada numa casa preservada. Horário oficial: seg–sáb 07:30–20:00; domingos e feriados 08:30–19:00; WhatsApp/telefone da loja 318 821 1303. Outras unidades: Calle 10B nº 36-38 (El Poblado; seg–sáb 07:30–20:00, dom/feriados 09:00–19:00), Ciudad del Río e aeroporto JMC. Não levantei preços de bebidas.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "07:30–20:00",
+        "ter": "07:30–20:00",
+        "qua": "07:30–20:00",
+        "qui": "07:30–20:00",
+        "sex": "07:30–20:00",
+        "sab": "07:30–20:00",
+        "dom": "08:30–19:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; combina com ficar em Laureles.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços de bebidas não levantados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://us.pergamino.co/pages/stores/laureles"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "+57 318 821 1303",
+        "site": "https://us.pergamino.co/pages/stores/laureles",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Cq 73 nº 34-65, Estadio, Laureles.",
+      "dicasAgente": [
+        "VALE CADA PESO se você curte café: Medellín/Antioquia é terra de café e uma xícara de especialidade é o 'souvenir' mais barato (preço não confirmado).",
+        "O Medellín Unmapped alerta: cafés 'turísticos' costumam servir café fraco; prefira cafés locais/torrefações como esta."
+      ],
+      "alertas": [
+        "Preços não levantados; fonte oficial única (confiança parcial).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://us.pergamino.co/pages/stores/laureles",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/node/13100717053",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado Artesanal Sanalejo (Parque Bolívar)",
+      "categoria": "compras",
+      "cidade": "medellin",
+      "tags": [
+        "artesanato",
+        "mercado-de-pulgas",
+        "souvenirs",
+        "primeiro-sabado",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 6.2529218,
+        "lng": -75.5646061
+      },
+      "descricaoCurta": "Mercado de artesanato com mais de 300 artesãos, antiguidades e comida, no primeiro sábado de cada mês.",
+      "descricaoLonga": "Tradicional há mais de 50 anos (El Colombiano, fev/2024) no Parque Bolívar (Centro). Em 2026 o primeiro sábado de novembro cai em 07/11. Horário: o calendário da Colombia Move lista 09:00–18:00 em 07/11/2026; o El Colombiano de 2024 dizia 07:00–18:00. Entrada gratuita; coordenado pela Secretaria de Cultura Ciudadana (Alcaldía). Fonte de evento da Colombia Move pede para confirmar a data nos canais da Alcaldía.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "09:00–18:00 (somente o primeiro sábado do mês: 07/11/2026; confirme)",
+        "dom": ""
+      },
+      "diasFechados": [
+        "Todos os dias exceto o primeiro sábado do mês"
+      ],
+      "melhorHorario": "Manhã, antes de encher.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita; compras à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://colombiamove.com/eventos/mercado-artesanal-sanalejo-en-el-parque-de-bolivar-3022370e",
+          "https://www.elcolombiano.com/medellin/vuelve-mercado-sanalejo-parque-de-bolivar-2024-NB23662609"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.medellin.gov.co/es/eventos/mercado-sanalejo/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Parque de Bolívar, La Candelaria (Centro).",
+      "dicasAgente": [
+        "VALE CADA PESO só se a data bater (07/11/2026): bom lugar para lembrancinhas baratas.",
+        "Combine com Plaza Botero/Museo de Antioquia/Perpetuo Socorro no mesmo dia."
+      ],
+      "alertas": [
+        "Se você não estiver em Medellín no sábado 07/11, o mercado não acontece. Confirme na Alcaldía.",
+        "Centro: furto de oportunidade (Medellín Unmapped).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Parque_Bol%C3%ADvar_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Tarisito",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parque_Bol%C3%ADvar_(2026).jpg"
+      },
+      "fontes": [
+        "https://colombiamove.com/eventos/mercado-artesanal-sanalejo-en-el-parque-de-bolivar-3022370e",
+        "https://www.elcolombiano.com/medellin/vuelve-mercado-sanalejo-parque-de-bolivar-2024-NB23662609",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.openstreetmap.org/way/31963857",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "El Hueco e ruas de outlets (centro)",
+      "categoria": "compras",
+      "cidade": "medellin",
+      "tags": [
+        "compras",
+        "roupa-barata",
+        "centro",
+        "outlet",
+        "atacado",
+        "cuidado-seguranca"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Coração do comércio popular de roupa, calçado e acessórios de Medellín, com milhares de lojinhas.",
+      "descricaoLonga": "O El Colombiano (26/06/2026) descreve El Hueco como 'o setor comercial mais importante de Medellín e da Colômbia', com 17.000 unidades produtivas e 70.000 empregos diretos. O El País (2023) fala de uma rua de Medellín com outlets de marcas como Koaj e Levi's que se percorre em ~15 min. Não consegui confirmar preços, horários nem coordenadas verificáveis (o geocodificador devolveu outro 'El Hueco'). O risco: é no centro — furto de celular/carteira é o crime típico (Medellín Unmapped).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã de dia útil, de dia; evite o centro à noite.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços não verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.elcolombiano.com/negocios/market-place-el-hueco-centro-medellin-FL38223071"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Leve só o necessário; mochila na frente"
+      ],
+      "pontoPartida": "Centro de Medellín (zona comercial de El Hueco; ponto exato não verificado).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: só vale se roupa barata for prioridade; pense na bagagem do voo internacional antes de comprar.",
+        "Compare com os outlets da rua citada pelo El País e com a feira Sanalejo (07/11) para souvenirs."
+      ],
+      "alertas": [
+        "Sem coordenada verificável (0,0), sem horário e sem preço: confiança parcial.",
+        "Centro: roubo de celular e furto (Medellín Unmapped; halfhalftravel).",
+        "Novembro é a 2ª estação chuvosa: normal IDEAM 1991-2020 no aeroporto Olaya Herrera = 327,3 mm e 16,9 dias com >=1 mm (en.wikipedia.org/wiki/Medellín)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.elcolombiano.com/negocios/market-place-el-hueco-centro-medellin-FL38223071",
+        "https://www.elpais.com.co/colombia/la-calle-de-medellin-donde-se-encuentra-ropa-baratisima-1501.html",
+        "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin",
+        "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Piedra del Peñol (El Peñón de Guatapé)",
+      "categoria": "natureza",
+      "cidade": "guatape",
+      "tags": [
+        "mirante",
+        "escadaria",
+        "icone",
+        "bate-volta",
+        "foto",
+        "embalse",
+        "imperdivel"
+      ],
+      "coords": {
+        "lat": 6.2200247,
+        "lng": -75.179433
+      },
+      "descricaoCurta": "Monólito de 220 m com escadaria de ~740 degraus e vista 360° do embalse de Guatapé.",
+      "descricaoLonga": "Monólito de 220 m de altura entre os municípios de Guatapé e El Peñol; a escada de 740 degraus (El Espectador; blog 2026) leva à plataforma com vista do embalse. Subida de ~30 min conforme o ritmo (El Espectador). Aberto todos os dias do ano, 08:00–18:00. Propriedade privada: cobra ingresso. Preço: El Espectador (2025) 30.000 COP; um guia DIY de 08/10/2026 (couplestravelstories.ca) diz 35.000 COP em 2026; um guia SEO de 06/2026 fala em ~25.000 (sem confirmar) — use 30.000–35.000 como faixa. Tuk-tuk da base ao portão custa até 15.000 COP, pois é preciso reembolsar 5.000 de entrada de estacionamento. Fontes divergem no número de degraus (702 em Valora/Telemedellín, 740 em El Espectador); o '698' do briefing não apareceu em nenhuma fonte aberta.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "08:00–18:00",
+        "ter": "08:00–18:00",
+        "qua": "08:00–18:00",
+        "qui": "08:00–18:00",
+        "sex": "08:00–18:00",
+        "sab": "08:00–18:00",
+        "dom": "08:00–18:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Cedo (antes das 09:00) ou fim da tarde, quando os grupos de excursão saem (couplestravelstories; ecoturismocolombia).",
+      "preco": {
+        "moeda": "COP",
+        "min": 30000,
+        "max": 35000,
+        "por": "pessoa",
+        "inclui": "Ingresso 30.000 COP (2025) a 35.000 COP (2026, 1 fonte); não inclui tuk-tuk da base ao portão (até 15.000 COP).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.elespectador.com/turismo/piedra-del-penol-cuantas-escaleras-tiene-y-cuanto-se-demora-en-subir/",
+          "https://couplestravelstories.ca/guatape-without-tour-medellin/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem elevador nem teleférico: 740 degraus estreitos (El Colombiano 2019 relata reclamações)",
+        "Mau para quem tem problema de joelho/cardíaco"
+      ],
+      "pontoPartida": "Ônibus Medellín–Guatapé desce no posto Zeuss, na base; de lá escada ou tuk-tuk até a bilheteria.",
+      "dicasAgente": [
+        "VALE CADA PESO: é o ícone de Antioquia e a melhor vista do bate-volta — ~35 mil COP + 740 degraus.",
+        "Desça no posto Zeuss (ou peça ao motorista), não vá até o terminal e volte.",
+        "Se tiver que escolher o horário: tarde, depois que os grupos saem (couplestravelstories acha 'subestimado')."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover. Impacto real (dedução): em dia de neblina/chuva o mirante mostra pouco do embalse e os degraus ficam escorregadios — vale remarcar para o dia mais limpo do bate-volta; plano B: vila dos zócalos e passeio de barco coberto.",
+        "Preço e degraus divergem entre fontes; confirme na bilheteria.",
+        "Propriedade privada: houve fechamento de 3 dias por ordem da DIAN em jan/2020 (Telemedellín) — raro, mas possível."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vista_desde_la_Piedra_del_Penol_-_Colombia_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Javier Perez Montes",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Vista_desde_la_Piedra_del_Penol_-_Colombia_02.jpg"
+      },
+      "fontes": [
+        "https://www.elespectador.com/turismo/piedra-del-penol-cuantas-escaleras-tiene-y-cuanto-se-demora-en-subir/",
+        "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+        "https://www.valoraanalitik.com/guatape-uno-de-los-lugares-mas-visitados-por-turistas-en-colombia/",
+        "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+        "https://www.elcolombiano.com/antioquia/es-costoso-el-precio-por-subir-a-la-piedra-del-penol-HE11621530",
+        "https://telemedellin.tv/dian-ordeno-cierre-de-la-piedra-de-el-penol/375446",
+        "https://www.openstreetmap.org/node/3400741653",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Vila de Guatapé: zócalos, Calle del Recuerdo e Plazoleta",
+      "categoria": "atracao",
+      "cidade": "guatape",
+      "tags": [
+        "zocalos",
+        "vila-colorida",
+        "gratis",
+        "fotografia",
+        "bate-volta",
+        "gastronomia"
+      ],
+      "coords": {
+        "lat": 6.2338621,
+        "lng": -75.1605749
+      },
+      "descricaoCurta": "Vila de casas com relevos coloridos (zócalos) nas fachadas; Calle del Recuerdo e Plazoleta de los Zócalos são o miolo fotográfico.",
+      "descricaoLonga": "A vila fica a 79 km de Medellín (Wikipedia). Os zócalos são relevos coloridos nas bases das fachadas, feitos à mão; a Calle del Recuerdo concentra os mais representativos e tem painéis sobre a história do povoado, e o passeio é gratuito (ecoturismocolombia.com.co). Há restaurantes em terraço com vista, que a couplestravelstories recomenda. O parque principal tem a Alcaldía e o posto de turismo. A Plazoleta de los Zócalos está mapeada no OpenStreetMap.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "07:00–08:00 (antes dos grupos que chegam de Medellín) ou fim da tarde.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio a pé gratuito; almoço corrente ~18.000–30.000 COP (ecoturismocolombia).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+          "https://couplestravelstories.ca/guatape-without-tour-medellin/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plazoleta de los Zócalos, Calle 31, Guatapé (OSM).",
+      "dicasAgente": [
+        "VALE CADA PESO (custa zero): reserve ~2,5 h depois do Peñol; almoce em rooftop se o orçamento permitir.",
+        "PEGA-TURISTA: tours de Medellín fazem paradas obrigatórias em lojas de souvenir; o DIY de ônibus evita isso (couplestravelstories)."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover. Impacto: a vila é a céu aberto, mas pequena — com chuva dá para almoçar e ficar coberto em terraços.",
+        "Horários de lojas/restaurantes não levantados."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Z%C3%B3calos_de_Guatap%C3%A9_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Alejandro Rojas (SajoR)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Z%C3%B3calos_de_Guatap%C3%A9_1.jpg"
+      },
+      "fontes": [
+        "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+        "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+        "https://www.valoraanalitik.com/guatape-uno-de-los-lugares-mas-visitados-por-turistas-en-colombia/",
+        "https://es.wikipedia.org/wiki/Guatap%C3%A9",
+        "https://www.openstreetmap.org/way/512706800",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Passeio de lancha no embalse (Malecón de Guatapé)",
+      "categoria": "passeio",
+      "cidade": "guatape",
+      "tags": [
+        "lancha",
+        "embalse",
+        "agua",
+        "natureza",
+        "bate-volta",
+        "barato"
+      ],
+      "coords": {
+        "lat": 6.2358148,
+        "lng": -75.1621804
+      },
+      "descricaoCurta": "Barcos de visitação saem do malecón durante o dia; ~1 h pelo embalse por ~30 mil COP, sem pagar o 'prêmio' das plataformas online.",
+      "descricaoLonga": "Segundo a couplestravelstories.ca (08/10/2026), no Malecón de Guatapé dá para entrar num barco grande de visitação por 30.000 COP (um pouco mais de 1 h); preços são regulados e mais baratos que reservar online; há ainda aluguel de jet ski e pontões de festa. A ecoturismocolombia.com.co (06/2026) indica passeios básicos de 45 min por 20.000–35.000 COP e opções longas com paradas em ilhas privadas. Se quiser nadar, a couplestravelstories cita o Parque Comfama Guatapé (parque aquático inflável) entre a Rocha e a vila. Coordenada = nó 'El muelle' (Calle 32) no OSM.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Meio da tarde, depois da descida do Peñol.",
+      "preco": {
+        "moeda": "COP",
+        "min": 20000,
+        "max": 35000,
+        "por": "pessoa",
+        "inclui": "Barco coletivo 45–60 min: 20.000–35.000 COP (couplestravelstories 30.000 por ~1 h). Pontões/privados custam bem mais.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+          "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Use colete salva-vidas"
+      ],
+      "pontoPartida": "Malecón de Guatapé, em frente ao terminal rodoviário (couplestravelstories).",
+      "dicasAgente": [
+        "VALE CADA PESO se sobrar ~1 h: é a única atividade 'de água' do bate-volta e custa ~R$ 45.",
+        "CORTE SE APERTAR: se o dia estiver fechado, a vista do Peñol já mostra o embalse."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover. Impacto: com chuva forte/vento os barcos podem não sair (dedução).",
+        "Horários de saída não levantados; compre no cais."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Embalse_de_Guatape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Juan Almonacid",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Embalse_de_Guatape.jpg"
+      },
+      "fontes": [
+        "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+        "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+        "https://www.openstreetmap.org/node/5422533421",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bate-volta Medellín → Guatapé de ônibus (Terminal del Norte)",
+      "categoria": "passeio",
+      "cidade": "guatape",
+      "tags": [
+        "transporte",
+        "bate-volta",
+        "onibus",
+        "economico",
+        "dia-inteiro",
+        "dormir-ou-nao"
+      ],
+      "coords": {
+        "lat": 6.2325,
+        "lng": -75.15861111
+      },
+      "descricaoCurta": "Como fazer Guatapé sem tour: Metro até Caribe, ônibus do Terminal del Norte (~2 h), Peñol, vila e barco; ~97.000 COP por pessoa.",
+      "descricaoLonga": "Rota (couplestravelstories.ca, 08/10/2026): Metro Linha A até Caribe (a passagem de 4.400 COP vale a baldeação B→A), passarela até o Terminal del Norte; guichês 9 (Sotrapeñol) e 14 (Sotrasanvicente), as duas companhias que fazem a rota; bilhete 25.000 COP por trecho, só em dinheiro, só na ida (a volta compra-se em Guatapé ou paga ao motorista). Duração ~2 h; o ônibus passa pela Rocha (desça no posto Zeuss) antes do terminal de Guatapé. Último ônibus de volta costuma sair por volta de 18:30. Fontes divergem no preço do bilhete: 22.000 (geckoroutes), 14.000–18.000 (ecoturismocolombia, SEO) e 25.000 (blog 2026 de quem fez a viagem) — confirme no guichê. Custo DIY total estimado pelo blog: ~97.000 COP por pessoa; tours organizados custam 80.000–130.000 COP/pessoa (ecoturismocolombia) ou ~US$ 60 (blog). Dormir lá: o ecoturismocolombia diz que 'vale muito a pena' (vila vazia de manhã e à tarde; hostal desde 60.000 COP/cama, hotel 200.000+), o blog dá a mesma dica; para o seu perfil (balada em Medellín), faça bate-volta.",
+      "duracao": {
+        "min": 540,
+        "tipica": 600,
+        "max": 720
+      },
+      "horarios": {
+        "seg": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "ter": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "qua": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "qui": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "sex": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "sab": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)",
+        "dom": "06:00–18:30 (primeiros ônibus ~06:00; último retorno costuma ser ~18:30; confira)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saia no primeiro ônibus (~06:00–07:45) e faça a Rocha cedo ou ao fim da tarde; evite sábado à tarde (ônibus lotados).",
+      "preco": {
+        "moeda": "COP",
+        "min": 97000,
+        "max": 130000,
+        "por": "pessoa",
+        "inclui": "DIY ~97.000 COP por pessoa (ônibus ida/volta + Peñol 35.000 + barco 30.000 + tuk-tuks + Metro); tour organizado 80.000–130.000 COP. Não inclui comida.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+          "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+          "https://www.geckoroutes.com/es/colombia/medellin-a-guatape/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Pagamento em dinheiro nos guichês (cartão costuma falhar)",
+        "Bilhete vale só para o horário impresso"
+      ],
+      "pontoPartida": "Terminal del Norte, Medellín (Metro Linha A, estação Caribe; passarela até o terminal); guichês 9 (Sotrapeñol) e 14 (Sotrasanvicente).",
+      "dicasAgente": [
+        "VALE CADA PESO: DIY custa quase metade do tour e te livra das paradas obrigatórias em lojas.",
+        "VEREDITO sobre dormir em Guatapé: para casal econômico/intenso com foco em balada e compras, NÃO — bate-volta, volte no último ônibus (~18:30) e use a noite em La 70/Provenza; durma lá só se quiser a Rocha vazia ao amanhecer e o pôr do sol no embalse.",
+        "CORTE SE APERTAR: tour organizado (80–130 mil) — só se estiver com o tempo muito curto."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover.",
+        "Estrada Medellín–Guatapé com trânsito pode estender a viagem para até ~2 h+ (ecoturismocolombia: 1h45–2h).",
+        "Preço do bilhete e horários variam por fonte; os números do ônibus vêm de blog/SEO (parcial)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Terminal_del_Norte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "~~×α£đ~~es",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Terminal_del_Norte.JPG"
+      },
+      "fontes": [
+        "https://couplestravelstories.ca/guatape-without-tour-medellin/",
+        "https://www.ecoturismocolombia.com.co/2026/06/antioquia/guatape-guia-de-turismo-que-hacer-como-llegar-y-presupuesto/",
+        "https://www.geckoroutes.com/es/colombia/medellin-a-guatape/",
+        "https://es.wikipedia.org/wiki/Guatap%C3%A9",
+        "https://www.openstreetmap.org/way/36830715",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Jardín (Antioquia): vila, Parque Principal e basílica",
+      "categoria": "atracao",
+      "cidade": "jardin",
+      "tags": [
+        "vila",
+        "cafe",
+        "natureza",
+        "suroeste-antioqueno",
+        "avaliar-cortar",
+        "2-noites"
+      ],
+      "coords": {
+        "lat": 5.5989998,
+        "lng": -75.8192122
+      },
+      "descricaoCurta": "Vila colonial no sudoeste de Antioquia, com Parque Principal, basílica e base para Cueva del Esplendor e Gallito de Roca.",
+      "descricaoLonga": "Jardín fica a ~185 km de Medellín e ~3 h por estrada (Pulzo/Google Maps); ônibus Rápido Ochoa saem do Terminal del Sur (guichês 33/34 segundo a asocialnomad) às 04:45, 08:50, 13:00, 15:00, 16:25 (horários de blogs de viagem). Preço do ônibus varia por fonte: 27.000 COP (asocialnomad, data incerta), ~US$ 14 (universal-traveller) e a partir de R$ 77 (Busbud, ≈ 50.000 COP). Atrativos: Parque Principal com a Basílica Menor da Imaculada Conceição, Casa Museo Rojas Peláez, cafés, Cueva del Esplendor e Reserva do Gallito de Roca.\n\nVEREDITO HONESTO para 10–12 dias, casal econômico, ritmo intenso, foco em praia/natureza e balada/compras: CORTE SE APERTAR. Custa ~6 h de ônibus de ida e volta, no mínimo 2 noites (tarde 1 no Gallito de Roca, manhã 2 na Cueva, volta à tarde) e cerca de 350–550 mil COP por pessoa (≈ R$ 540–850; estimativa minha: ônibus ida/volta 54–100 mil, hospedagem em hostal ~50–100 mil/noite por pessoa — SUPOSIÇÃO, não pesquisei preços em Jardín —, Gallito 25 mil + Cueva 20–100 mil, comida), dinheiro que compra várias noites de La 70 ou um passeio no litoral. É lindo, mas é viagem lenta, de baixa 'intensidade' e a natureza mais forte do seu roteiro está na costa (outras ondas). Vale se sobrarem 3 dias livres em Antioquia e você valorizar aves/cachoeira. Para 10–12 dias com outras bases, é o primeiro corte.",
+      "duracao": {
+        "min": 1440,
+        "tipica": 2880,
+        "max": 4320
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegue de manhã (ônibus 04:45 ou 08:50) para fazer o Gallito de Roca às 15:00–18:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 27000,
+        "max": 50000,
+        "por": "pessoa",
+        "inclui": "Ônibus Medellín–Jardín por trecho: 27.000 COP (blog antigo) até ~50.000 COP (Busbud R$ 77). Hospedagem e atividades à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://asocialnomad.com/?p=40355",
+          "https://www.busbud.com/en-gb/terminal-jardin/s/18660",
+          "https://universal-traveller.com/medellin-to-jardin-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Estrada sinuosa (enjoo)",
+        "Pagamento em dinheiro no guichê da rodoviária (asocialnomad)"
+      ],
+      "pontoPartida": "Terminal del Sur, Medellín (Rápido Ochoa).",
+      "dicasAgente": [
+        "CORTE SE APERTAR (veredito): só inclua Jardín com 2 noites e se tiver folga de dias; se incluir, faça Gallito de Roca (tarde) + Cueva do Esplendor (manhã seguinte) e volte à tarde.",
+        "VALE CADA PESO dentro de Jardín: Gallito de Roca (25 mil) — chuva não atrapalha as aves.",
+        "Se tiver pouco tempo, prefira um bate-volta a Guatapé (~97 mil COP, 1 dia)."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover. Impacto: a trilha da Cueva fica lamacenta; as aves aparecem mesmo com chuva (reserva Jardín de Rocas).",
+        "Preços e horários de ônibus vêm de blogs e agregadores (podem estar defasados).",
+        "Discrepância de distância: El País diz ~134 km, Pulzo diz 185 km por estrada; confie nas ~3 h."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bas%C3%ADlica_Menor_de_la_Inmaculada_Concepci%C3%B3n_Jard%C3%ADn_-_Antioquia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Carlos Francisco Cardona Arenas",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_Menor_de_la_Inmaculada_Concepci%C3%B3n_Jard%C3%ADn_-_Antioquia.JPG"
+      },
+      "fontes": [
+        "https://www.pulzo.com/vivir-bien/donde-queda-jardin-colombia-planes-precios-comida-PP4081220",
+        "https://universal-traveller.com/medellin-to-jardin-colombia/",
+        "https://asocialnomad.com/?p=40355",
+        "https://www.busbud.com/en-gb/terminal-jardin/s/18660",
+        "https://www.elpais.com.co/turismo/la-imponente-cascada-que-brota-de-una-cueva-y-atrae-a-los-turistas-de-naturaleza-en-el-suroeste-de-antioquia-la-conoce-1256.html",
+        "https://www.openstreetmap.org/relation/4167554",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cueva del Esplendor (Jardín)",
+      "categoria": "natureza",
+      "cidade": "jardin",
+      "tags": [
+        "cachoeira",
+        "trilha",
+        "natureza",
+        "banho",
+        "dia-inteiro",
+        "jipe"
+      ],
+      "coords": {
+        "lat": 5.6400955,
+        "lng": -75.80963
+      },
+      "descricaoCurta": "Cachoeira de ~70+ m que cai por uma abertura natural no teto de uma caverna, com poço para banho, a ~7 km de Jardín.",
+      "descricaoLonga": "A cachoeira cai por um orifício no teto da caverna (>70 m segundo a operadora Jardín Eco Tours; El País fala em >100 m). A chegada: (1) tour com jipe + caminhada curta — a Jardín Eco Tours vende 4 h por 100.000 COP/pessoa (jipe 40 min, caminhada 20 min, descida de 500 m, cerca de 30 min na caverna; inclui lanche, seguro, transporte, guia, entrada); (2) caminhada de 5–6 h com jipe inicial e almoço campesino; (3) a pé a partir do pueblo (cerca de 3 h de ida e 3 de volta — chipviajero.com). Entrada na reserva: 20.000 COP por pessoa e cavalo a 40.000 COP no último trecho (chipviajero.com; preço de data incerta). Recomenda-se voltar antes das 14:00 (chipviajero).",
+      "duracao": {
+        "min": 240,
+        "tipica": 330,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída cedo (jipe até 11:00 no máximo, segundo Jardín Eco Tours).",
+      "preco": {
+        "moeda": "COP",
+        "min": 20000,
+        "max": 100000,
+        "por": "pessoa",
+        "inclui": "Só entrada: 20.000 COP (chipviajero); tour de 4 h com jipe, lanche, seguro, guia e entrada: 100.000 COP (Jardín Eco Tours).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jardinecotours.com/cueva-del-esplendor/",
+          "https://chipviajero.com/como-llegar-a-la-cueva-del-esplendor/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.jardinecotours.com/cueva-del-esplendor/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.jardinecotours.com/cueva-del-esplendor/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Descida íngreme (500 m); nível 2–3 de dificuldade (Jardín Eco Tours)",
+        "Leve roupa de banho, repelente e calçado com boa aderência"
+      ],
+      "pontoPartida": "Escritório da Jardín Eco Tours/centro de Jardín; jipe até a entrada da reserva.",
+      "dicasAgente": [
+        "VALE CADA PESO apenas se você já está em Jardín; o tour de 100 mil é caro para o perfil — avalie combinar com outro casal para dividir o jipe.",
+        "CORTE SE APERTAR: o Gallito de Roca (25 mil) entrega a natureza de Jardín por muito menos."
+      ],
+      "alertas": [
+        "Novembro cai na 2ª estação chuvosa de Antioquia (Guatapé: chuvas em abr–mai e out–nov segundo ecoturismocolombia.com.co, 06/2026). Normal de Medellín: 327,3 mm e 16,9 dias com chuva em novembro (IDEAM via Wikipedia); a previsão IDEAM de ago/2026 para novembro é 'condições mistas' na região Andina (El Niño pode reduzir 20–40%, sem garantia): planeje como se fosse chover. Impacto: trilha e jipe em estrada de terra ficam piores com chuva; saia cedo e confirme se a operadora opera no dia.",
+        "Horário de funcionamento da reserva e o preço atual não confirmados em página oficial."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CUEVA_DEL_ESPLENDOR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "YSIKA",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:CUEVA_DEL_ESPLENDOR.jpg"
+      },
+      "fontes": [
+        "https://www.jardinecotours.com/cueva-del-esplendor/",
+        "https://chipviajero.com/como-llegar-a-la-cueva-del-esplendor/",
+        "https://www.elpais.com.co/turismo/la-imponente-cascada-que-brota-de-una-cueva-y-atrae-a-los-turistas-de-naturaleza-en-el-suroeste-de-antioquia-la-conoce-1256.html",
+        "https://www.openstreetmap.org/node/8263089572",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://www.ideam.gov.co/file-download/download/public/21570"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Reserva Natural Jardín de Rocas (Gallito de Roca)",
+      "categoria": "natureza",
+      "cidade": "jardin",
+      "tags": [
+        "aves",
+        "birdwatching",
+        "natureza",
+        "perto-do-centro",
+        "tarde",
+        "chuva-ok"
+      ],
+      "coords": {
+        "lat": 5.5963548,
+        "lng": -75.8214189
+      },
+      "descricaoCurta": "Lek do gallito de roca andino a ~400 m do Parque Principal: machos vermelhos em exibição todo fim de tarde.",
+      "descricaoLonga": "Segundo o site oficial: ingresso de 17.000 COP para nacionais e 25.000 COP para estrangeiros; horário 15:00–18:00, todos os dias; sem reserva prévia; fica a 400 m do parque principal (vereda Serranías, canhão do rio Volcanes). As aves vêm mesmo com chuva. Em meados do ano (nidificação) 1 a 5 machos; no fim e começo de ano, de 10 a 25 machos — novembro está na janela de maior atividade. A reserva tem menos de 1 hectare.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "15:00–18:00",
+        "ter": "15:00–18:00",
+        "qua": "15:00–18:00",
+        "qui": "15:00–18:00",
+        "sex": "15:00–18:00",
+        "sab": "15:00–18:00",
+        "dom": "15:00–18:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "~16:30, quando há mais pássaros (relato de visitante no site oficial).",
+      "preco": {
+        "moeda": "COP",
+        "min": 25000,
+        "max": 25000,
+        "por": "pessoa",
+        "inclui": "Estrangeiros 25.000 COP; nacionais 17.000 COP (site oficial).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jardinderocas.org/en"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.jardinderocas.org/en"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.jardinderocas.org/en",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé do Parque Principal de Jardín (~400 m, vereda Serranías).",
+      "dicasAgente": [
+        "VALE CADA PESO se você for a Jardín: 25 mil COP e 400 m a pé; funciona com chuva e em novembro está em alta temporada de aves.",
+        "Leve capa de chuva; não precisa de guia."
+      ],
+      "alertas": [
+        "Estação 'média-baixa' para visitação (site oficial); quantidade de aves varia com a época.",
+        "Site oficial é a única fonte aberta (confiança 'verificado' por ser oficial)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Andean_cock-of-the-rock_%28Rupicola_peruvianus_sanguinolentus%29_male_Antioquia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Charles J. Sharp",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Andean_cock-of-the-rock_(Rupicola_peruvianus_sanguinolentus)_male_Antioquia.jpg"
+      },
+      "fontes": [
+        "https://www.jardinderocas.org/en",
+        "https://www.pulzo.com/vivir-bien/donde-queda-jardin-colombia-planes-precios-comida-PP4081220",
+        "https://www.openstreetmap.org/node/6180981485",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      ],
+      "confianca": "verificado"
+    }
+  ]
+}

@@ -81,7 +81,8 @@ export const Aluguel = z.object({
 
 /** Extra da categoria passeio: barco, tour com saida marcada. */
 export const Passeio = z.object({
-  pontoPartida: z.string().min(1),
+  /** Opcional: nem toda fonte publica o ponto de encontro. */
+  pontoPartida: z.string().min(1).optional(),
   coordsPartida: Coord.optional(),
   /** Vazio significa saida flexivel. Com valores, o motor trava o inicio do bloco. */
   horariosDeSaida: z.array(HoraHHMM).default([]),
@@ -106,7 +107,14 @@ export const Item = BaseRecord.extend({
   coords: Coord.optional(),
   descricaoCurta: z.string().min(1).max(220),
   descricaoLonga: z.string().default(''),
-  duracao: Duracao,
+  /**
+   * Nem todo registro do banco e uma atividade. "TransMilenio: como
+   * funciona" ou "alugar carro no Eje Cafetero compensa?" sao cartoes de
+   * REFERENCIA: aparecem em Descobrir, ajudam a decidir, mas nao se arrastam
+   * para um dia. Eles tem `agendavel: false` e dispensam duracao.
+   */
+  agendavel: z.boolean().default(true),
+  duracao: Duracao.optional(),
   horarios: Horarios.optional(),
   horariosObservacao: z.string().optional(),
   diasFechados: z.array(z.string()).default([]),
@@ -134,18 +142,28 @@ export const Item = BaseRecord.extend({
   passeio: Passeio.optional(),
   gastronomia: Gastronomia.optional(),
 }).superRefine((item, ctx) => {
-  if (item.categoria === 'aluguel-veiculo' && !item.aluguel) {
+  if (item.agendavel && !item.duracao) {
+    ctx.addIssue({
+      code: 'custom',
+      path: ['duracao'],
+      message: 'item agendavel precisa de duracao; se e cartao de referencia, use agendavel: false',
+    });
+  }
+  // As exigencias abaixo valem so para o que se agenda. Um cartao de
+  // referencia sobre aluguel de carro nao tem tabela de veiculos porque nao
+  // e uma locadora - e um conselho.
+  if (item.agendavel && item.categoria === 'aluguel-veiculo' && !item.aluguel) {
     ctx.addIssue({
       code: 'custom',
       path: ['aluguel'],
-      message: 'categoria aluguel-veiculo exige o bloco aluguel',
+      message: 'locadora agendavel exige o bloco aluguel com a tabela de veiculos',
     });
   }
-  if (item.categoria === 'passeio' && !item.passeio) {
+  if (item.agendavel && item.categoria === 'passeio' && !item.passeio) {
     ctx.addIssue({
       code: 'custom',
       path: ['passeio'],
-      message: 'categoria passeio exige o bloco passeio com pontoPartida',
+      message: 'categoria passeio exige o bloco passeio',
     });
   }
   if (item.gratuito === true && item.preco) {

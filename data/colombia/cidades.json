@@ -222,18 +222,48 @@
       "Vendedores de rosas e de pulseiras (cobram 10-50 mil depois de colocar o objeto em você).",
       "Tours de dia inteiro que parecem baratos mas não incluem a taxa de cais (25-40 mil COP) nem Oceanário (40.000) nem show de tubarões/golfinhos (55.000) — some tudo antes de comparar (Civitatis, Lorenzigo)."
     ],
-    "taxasObrigatorias": []
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
   },
   {
     "id": "santa-marta",
     "fontes": [
       {
+        "url": "https://www.pulzo.com/nacion/santa-marta-subio-tarifas-taxis-cuanto-quedo-carrera-minima-PP4181287"
+      },
+      {
+        "url": "https://www.vanguardia.com/colombia/2026/09/24/eeuu-lanza-alerta-para-viajeros-en-santa-marta-por-bloqueos-y-situacion-de-seguridad/"
+      },
+      {
+        "url": "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/"
+      },
+      {
+        "url": "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/"
+      },
+      {
+        "url": "https://www.parquesnacionales.gov.co/wp-content/uploads/2026/02/Resolucion-No091-Por-medio-de-la-cual-se-ordena-e_260217_125507.pdf"
+      },
+      {
+        "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/"
+      },
+      {
+        "url": "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/"
+      },
+      {
+        "url": "https://www.publimetro.co/barranquilla/2024/11/01/avalancha-de-lodo-sepulto-taxis-y-camiones-tras-fuerte-aguacero-en-santa-marta/"
+      },
+      {
+        "url": "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/"
+      },
+      {
+        "url": "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/13994662"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Santa Marta",
     "regiaoId": "caribe-continental",
     "coords": {
@@ -244,7 +274,101 @@
     "aeroportos": [
       "SMR"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Centro Histórico (Parque de los Novios / Calle 19)",
+        "perfil": "Melhor encaixe com vida noturna + compras: bares, restaurantes e museus a pé; hostels de mochileiro; também fica perto dos colectivos (Mercado Público).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 35000,
+          "max": 180000
+        },
+        "observacao": "ESTIMADO: dorm de hostel a partir de ~COP 23.000–40.000 (Viajero Hostel 'desde 23.335', aggregators citam 'desde 38.000'); quarto privado simples varia. Valores de agregadores parecem baixos/mistos de moeda; confirmar em Booking/Hostelworld. Ruído noturno é a troca.",
+        "seguranca": "Bairro turístico vigiado em torno do Parque de los Novios; à noite use táxi registrado e evite becos e ruas vazias (Casa Carolina).",
+        "fontes": [
+          {
+            "url": "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/"
+          },
+          {
+            "url": "https://www.viajerohostels.com/es/destinos-colombia/santa-marta/"
+          },
+          {
+            "url": "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/"
+          }
+        ]
+      },
+      {
+        "nome": "El Rodadero",
+        "perfil": "Zona de praia e resorts, boa para quem quer praia + restaurante + noite com mais conforto; menos charme histórico; ponto de saída dos barcos a Playa Blanca.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 60000,
+          "max": 250000
+        },
+        "observacao": "ESTIMADO: BuscaHoteles cita ~COP 59.000 como médio e hotéis 3 estrelas desde ~82.000; sem confirmação por duas fontes.",
+        "seguranca": "Zona turística, geralmente tranquila de dia; à noite táxi registrado.",
+        "fontes": [
+          {
+            "url": "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/"
+          }
+        ]
+      },
+      {
+        "nome": "Taganga",
+        "perfil": "Vila de pescadores com mergulho barato e saídas de barco; cena de festa diminuiu; praia modesta.",
+        "observacao": "Sem preço confirmado. Guia (2019) aponta hostels baratos, sem valores; preferível dormir no centro e visitar Taganga de dia.",
+        "seguranca": "Cautela à noite: evite ficar até tarde e longe da rua principal; houve assaltos graves a turistas em 2017 em praias vizinhas.",
+        "fontes": [
+          {
+            "url": "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/"
+          }
+        ]
+      },
+      {
+        "nome": "Minca (vila e serra)",
+        "perfil": "Frescor, rede com vista, cachoeiras, café e cacau; transporte por moto-táxi e 4x4; dormir 1 noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 65000,
+          "max": 130000
+        },
+        "observacao": "DERIVADO: Gecko Routes cita budget US$ 20–40/noite; converti com a taxa implícita do mesmo guia (COP 10.000 = US$ 3,10). Confirmar por Booking. Novembro é chuvoso na serra.",
+        "seguranca": "Segura de dia; estradas de terra e moto-táxi exigem capacete e cuidado na chuva; sem ATM.",
+        "fontes": [
+          {
+            "url": "https://www.geckoroutes.com/colombia/minca/"
+          },
+          {
+            "url": "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+          }
+        ]
+      },
+      {
+        "nome": "Palomino",
+        "perfil": "Praia selvagem, tubing, festas de hostel; vilarejo informal; 1 noite basta.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 16000,
+          "max": 165000
+        },
+        "observacao": "DERIVADO: HostelGeeks (mai/2026) cita dorms de US$ 5–20 e quartos privados ~US$ 51; converti com a taxa implícita do Gecko (COP 10.000 = US$ 3,10). Confirmar por Booking. Preços sobem em feriados.",
+        "seguranca": "Correnteza forte no mar (~30 mortes segundo a Defesa Civil); fora da água, vila informal; sem ATM.",
+        "fontes": [
+          {
+            "url": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
+          },
+          {
+            "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "BASE E LOGÍSTICA: não alugue carro. Santa Marta (centro histórico) é a base para noite e compras; tudo sai do Mercado Público/Terminal: colectivo a Minca (COP ~10.000, 45 min, 07:00–18:00), ônibus Cootransoriente a El Zaino/Calabazo (COP ~10.000, 04:30–18:00), ônibus a Palomino (~2 h, COP 12.000–21.400), moto-táxi dentro de Minca (COP ~10.000) e barco de Taganga ao Tayrona (COP 63.000–150.000 o trecho). Táxi: exigir taxímetro (corrida mínima COP 8.000 em dez/2024; sem taxímetro só se paga a mínima). Sequência sugerida (ritmo intenso, orçamento enxuto): Santa Marta 2 noites (centro histórico + Museo del Oro + noite no Parque de los Novios) -> Tayrona 1 noite (rede em Cabo San Juan) -> Minca 1 noite -> Palomino 1 noite -> volta. CONTEXTO CRÍTICO DE NOVEMBRO/2026: (1) o Tayrona está FECHADO de 19/out a 02/nov e reabre em 03/nov (terça); (2) o puente de 13–16/nov (segunda 16/nov feriado) é tarifa alta (COP 96.500) e lota; (3) Sierra Nevada tem estação de chuvas em out–dez (cachoeiras e estradas de Minca com lama; avalanche de lama em Santa Marta em 31/out–01/nov/2024), apesar de Santa Marta ser a base mais seca; (4) segurança regional instável: paro armado das ACSN em Santa Marta de 21/22 a 25/set/2026, EUA emitiram alerta de segurança (24/set/2026) e o Tayrona teve 2 interdições de acessos terrestres em 2026. Leve dinheiro em espécie: sem caixa eletrônico no Tayrona, Minca e Palomino. Ciudad Perdida (4–5 dias, COP 1,86–2,15 milhões) NÃO cabe num roteiro de 10–12 dias com R$ 8.000 incluindo voo.",
     "matrizInterna": [],
     "climaPorMes": [
       {
@@ -273,8 +397,18 @@
         ]
       }
     ],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "seguranca": "Centro Histórico/Parque de los Novios: zona turística movimentada de quinta a sábado; recomendável táxi registrado à noite e não andar sozinho em ruas vazias. El Rodadero: tranquilo, turístico. Taganga: cautela à noite (cena decaída e histórico de assaltos em 2017). Tayrona: riscos naturais (correntes em Arrecifes/Cañaveral/Castilletes; banho só em áreas sinalizadas) e institucionais (houve bloqueios e cobranças não autorizadas em fev/2026). Minca: segura, mas estrada e trilhas em chuva. Palomino: risco de afogamento na foz do rio. CONTEXTO 2026: paro armado das ACSN (grupo criminoso) em Santa Marta e Magdalena/La Guajira de 21/22 a 25/set/2026 com veículos queimados e bloqueios na Troncal do Caribe; o governo reforçou com mais de 1.100 agentes; os EUA emitiram alerta de segurança em 24/set/2026 (extremar precauções e verificar vias); a normalidade foi anunciada em 25/set, mas a presença militar continua. Aconselhável acompanhar notícias e a página da Parques Nacionales antes de cada deslocamento e ter plano B (Bahía Concha/Palangana) caso El Zaino/Calabazo fechem.",
+    "pegaTuristaAEvitar": [
+      "Táxi sem taxímetro ou com 'taxímetro quebrado' (cobrança de 2–3x; sem taxímetro só vale a corrida mínima de COP 8.000 em 2024).",
+      "Sobretaxa de saída do aeroporto e tarifas inventadas (relatos de COP 37.200 do aeroporto a Santa Marta contra tabela oficial).",
+      "Cobranças 'extras' ou ingressos vendidos por terceiros nas portas do Tayrona (houve cobranças não autorizadas em El Zaino/Calabazo/Neguanje em fev/2026; compre só em canais oficiais).",
+      "Intermediários que 'reservam' camping no Tayrona na entrada (um guia aconselha não reservar com vendedores na portaria).",
+      "Passeio de barco a Playa Blanca e ao Tayrona com preço inflado ou mar impróprio.",
+      "Mochila 'arhuaca' barata de barraca: provável imitação de fábrica; exija nome da tecelã e comunidade.",
+      "Tours de Ciudad Perdida de operadoras não autorizadas (só 4–5 empresas autorizadas)."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
   },
   {
     "id": "palomino",
@@ -324,7 +458,8 @@
       }
     ],
     "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
   },
   {
     "id": "san-andres",
@@ -543,18 +678,60 @@
         "comoSePaga": "Tarjeta de Turismo (OCCRE), obrigatória para todo visitante não residente maior de 7 anos (Decreto 0010 de 8/jan/2026 da Gobernación; UVT 2026 = 52.374). Vale por pessoa e cobre San Andrés, Providencia e Santa Catalina. Compra: portal oficial da Gobernación (o site sanandres.gov.co tem o botão 'Compra tu tarjeta de turismo', que segundo a página leva a https://occre.dozzier.net/OccrePortalClientes/; também há https://occre.gov.co/ — links lidos na página oficial, não abri o portal), no balcão da companhia aérea antes do embarque ou em agências autorizadas. Pedem: nome, nascimento, nacionalidade, cidade de origem, documento, endereço, datas, voo, código de reserva e hospedagem. Casal = 306.000 COP. Converter pela cotação do dia.",
         "quemPaga": "todo visitante nao residente"
       }
-    ]
+    ],
+    "situacaoAtual": []
   },
   {
     "id": "bogota",
     "fontes": [
       {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+      },
+      {
+        "url": "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota"
+      },
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/seguridad/tenga-cuidado-con-estas-senales-cuando-coja-o-pida-taxi-en-bogota"
+      },
+      {
+        "url": "https://www.portafolio.co/tendencias/sociales/bogota-activa-zonas-seguras-para-taxis-en-sectores-de-rumba-con-verificacion-en-tiempo-real-489352"
+      },
+      {
+        "url": "https://bogota.gov.co/en/node/285632"
+      },
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/salud/recomendaciones-de-salud-para-viajar-bogota-en-el-2024"
+      },
+      {
+        "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+      },
+      {
+        "url": "https://www.eltiempo.com/salud/el-soroche-que-afecta-a-los-visitantes-de-bogota-805731"
+      },
+      {
+        "url": "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+      },
+      {
+        "url": "https://sacavoyage.fr/es/quartiers-a-bogota/"
+      },
+      {
+        "url": "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide"
+      },
+      {
+        "url": "https://www.publimetro.co/bogota/2026/07/30/no-dejes-que-los-bastardos-te-destruyan-extranjero-denuncia-paseo-millonario-y-abuso-sexual-con-escopolamina-en-taxi-que-tomo-en-la-zona-t-de-bogota/"
+      },
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/movilidad/tarifa-transmilenio-transmicable-y-transmizonal-2026-bogota"
+      },
+      {
+        "url": "https://www.elpais.com.co/colombia/ideam-pronostica-la-zona-y-el-horario-en-el-que-llovera-mas-en-bogota-durante-noviembre-1318.html"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/7426387"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Bogota",
     "regiaoId": "andes",
     "coords": {
@@ -565,7 +742,89 @@
     "aeroportos": [
       "BOG"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Chapinero (Chapinero Alto / Chapinero Central, perto de Zona T e Calle 63)",
+        "perfil": "Rumba barata a pé, cafés, restaurantes, comunidade LGBTQ+; 'se sente mais seguro' que a Candelaria; ~15% mais caro que ela (Hostelz).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 138000,
+          "max": 207000
+        },
+        "observacao": "Faixa DERIVADA: quarto privado em hostel (baixa temporada COP 120-180 mil, Hostelz) +15% (Hostelz). Novembro costuma ser baixa temporada, mas feriados/fins de semana sobem. Não é cotação real.",
+        "seguranca": "Chapinero/Zona Rosa estão entre os bairros com melhor vigilância noturna (Nomado); sacavoyage o recomenda como zona segura. Ainda assim: furto de celular em bares e 'paseo millonario' em táxis da Zona T.",
+        "fontes": [
+          {
+            "url": "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+          },
+          {
+            "url": "https://sacavoyage.fr/es/quartiers-a-bogota/"
+          },
+          {
+            "url": "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide"
+          }
+        ]
+      },
+      {
+        "nome": "La Candelaria (centro histórico)",
+        "perfil": "Mais barato; museus (Oro, Botero) e Plaza de Bolívar a pé; tranquilo/vazio depois das 22:00 - volte de táxi/app tarde.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 120000,
+          "max": 180000
+        },
+        "observacao": "Quarto privado em hostel, baixa temporada (Hostelz, fev/2026): COP 120-180 mil; alta: COP 150-250 mil. Dormitório de 8+ camas COP 35-55 mil (não mexe com casal que quer privacidade).",
+        "seguranca": "De dia ok; à noite risco: gov.uk e World Nomads relatam assaltos/roubos; sacavoyage: evite andar sozinho à noite. Evite ruas escuras na subida da Candelaria ao anoitecer (Hostelz).",
+        "fontes": [
+          {
+            "url": "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+          },
+          {
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+          },
+          {
+            "url": "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota"
+          },
+          {
+            "url": "https://sacavoyage.fr/es/quartiers-a-bogota/"
+          }
+        ]
+      },
+      {
+        "nome": "Usaquén",
+        "perfil": "Arborizado e calmo, mercado de pulgas aos domingos, muitos restaurantes; bom para casais; mais distante do centro (taxi/TransMilenio).",
+        "observacao": "Sem faixa em COP verificada (Hostelz cita 'híbridos hostal-hotel').",
+        "seguranca": "Considerado calmo e residencial (Hostelz); use app à noite.",
+        "fontes": [
+          {
+            "url": "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+          }
+        ]
+      },
+      {
+        "nome": "Zona T / Zona Rosa",
+        "perfil": "Bares, shoppings e restaurantes de luxo; poucos hostels e mais caros (Hostelz); fecha cedo (~01:00).",
+        "observacao": "Sem faixa verificada. Para orçamento econômico, prefira Chapinero e vá à Zona T só à noite.",
+        "seguranca": "Muito policiada, mas é o epicentro do 'paseo millonario'; nunca pegue táxi na rua.",
+        "fontes": [
+          {
+            "url": "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+          },
+          {
+            "url": "https://bogota.gov.co/en/node/285632"
+          },
+          {
+            "url": "https://bogota.gov.co/mi-ciudad/seguridad/tenga-cuidado-con-estas-senales-cuando-coja-o-pida-taxi-en-bogota"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Bogotá é o hub aéreo e a base para 3 bate-voltas: Zipaquirá (ônibus Portal Norte, COP 10.500; 45 min-2 h), Laguna de Guatavita (ônibus Portal Norte até Guatavita/Sesquilé + transporte local; visita guiada ~2 h) e, só se sobrar 1 noite, Villa de Leyva (ônibus Terminal Salitre, 3,5-4,5 h). Dentro da cidade: TransMilenio de dia (COP 3.550 por viagem desde 14/01/2026; cartão TuLlave) e Uber/Cabify/DiDi/inDrive à noite - nunca táxi parado na rua. Sequência sugerida: dia 1 leve (Candelaria baixa altitude, ajiaco, descanso, sem álcool); dia 2 centro (Museo del Oro + Botero + free tour + Paloquemao); dia 3 Zipaquirá; dia 4 Guatavita; domingo: Ciclovía + Usaquén; Monserrate nos últimos dias; vida noturna em Chapinero (barata) e 1 noite na Zona T/Andrés DC.",
     "matrizInterna": [],
     "climaPorMes": [
       {
@@ -585,8 +844,36 @@
         ]
       }
     ],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "seguranca": "Zona Rosa/Zona T e Chapinero: bem policiadas, mas concentram os golpes noturnos (táxi com sequestro-relâmpago, escopolamina) - peça app. La Candelaria/centro: turístico e vigiado de dia; à noite roubos e furtos, não ande a pé (gov.uk, World Nomads, sacavoyage). Los Mártires, Santa Fe (sul), Kennedy, Ciudad Bolívar: maiores taxas de homicídio em 5 anos (sacavoyage) - Paloquemao fica em Los Mártires: vá de app e só de manhã. Entorno do terminal de ônibus principal à noite e vielas na subida da Candelaria ao anoitecer: evite (Hostelz). Galerías: alvo de operação do Gaula contra paseo millonario (fev/2026).",
+    "pegaTuristaAEvitar": [
+      "Táxi parado na rua, sobretudo na Zona T/Chapinero à saída de bares: usar zonas seguras de táxi ou app (Bogotá Gov; Portafolio).",
+      "Placas alteradas/cobertas, portas travadas, vidros que não abaixam, película muito escura, cédula do motorista não visível: sinais de táxi perigoso (Bogotá Gov, 18/05/2026).",
+      "Intermediários que cobram 'ingresso' ou 'guia' da Laguna de Guatavita: a CAR manda comprar só na bilheteria do parque.",
+      "Vendedores de esmeralda na rua; compre apenas em joalheria com certificado de autenticidade (Fedesmeraldas).",
+      "Estações de TransMilenio lotadas: furtos (World Nomads).",
+      "Beber pesado nas primeiras noites em altitude (álcool 'sobe' mais rápido)."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": [
+      {
+        "titulo": "Sentiu o terremoto de 10 de agosto de 2026, sem danos maiores",
+        "descricao": "O terremoto de magnitude 7,4 de 10/08/2026 foi sentido em Bogota, mas os danos relatados foram menores. Nao ha restricao conhecida ao turismo na cidade. O aeroporto El Dorado nao esteve entre os suspensos.",
+        "gravidade": "informacao",
+        "desde": "2026-08-10",
+        "verificadoEm": "2026-10-08",
+        "fontes": [
+          {
+            "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+          },
+          {
+            "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+          },
+          {
+            "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "villa-de-leyva",
@@ -627,18 +914,69 @@
       }
     ],
     "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
   },
   {
     "id": "medellin",
     "fontes": [
       {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance"
+      },
+      {
+        "url": "http://medellin.co/blog/us-embassy-colombia-straight-talk-crime-alert-medellin-drugging-july-2026/"
+      },
+      {
+        "url": "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/"
+      },
+      {
+        "url": "https://www.enca.com/lifestyle/colombias-deadly-case-tinder-and-memory-erasing-drug"
+      },
+      {
+        "url": "https://tabiji.ai/scams/medellin/"
+      },
+      {
+        "url": "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin"
+      },
+      {
+        "url": "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html"
+      },
+      {
+        "url": "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+      },
+      {
+        "url": "https://www.metrodemedellin.gov.co/usuarios"
+      },
+      {
+        "url": "https://www.hostelworld.com/hostels/south-america/colombia/medellin/"
+      },
+      {
+        "url": "https://www.belaroundtheworld.com/where-to-stay-in-medellin-colombia/"
+      },
+      {
+        "url": "https://www.elcolombiano.com/medellin/bus-aeropuerto-medellin-sube-20000-nueva-tarifa-combuses-2026-AJ32191890"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      },
+      {
+        "url": "https://www.ideam.gov.co/file-download/download/public/21570"
+      },
+      {
+        "url": "https://www.tomplanmytrip.com/medellin-nightlife-tips-parties-bars/"
+      },
+      {
+        "url": "https://couplestravelstories.ca/guatape-without-tour-medellin/"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/1343264"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Medellin",
     "regiaoId": "andes",
     "coords": {
@@ -650,7 +988,86 @@
       "MDE",
       "EOH"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Laureles-Estadio (perto da La 70)",
+        "perfil": "Residencial, 'onde os estrangeiros que moram aqui realmente saem'; a La 70 e a salsa ficam a pé; bem ligado pelo Metro (estação Estadio, Linha B). Mais barato e mais local que o Poblado.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 43000,
+          "max": 58000
+        },
+        "observacao": "Faixa de hostel 'a partir de' no Hostelworld (Baku Laureles: dorm R$ 65,81 ≈ 43 mil COP, privado R$ 89 ≈ 58 mil; Qantic: dorm R$ 78,70 ≈ 51 mil, privado R$ 86,50 ≈ 56 mil; 1 BRL ≈ 650 COP). Datas não especificadas e novembro/dezembro é alta temporada: espere acima disso; hotéis 3* não pesquisados.",
+        "seguranca": "Considerada das áreas mais seguras para estrangeiros (halfhalftravel; Medellín Unmapped), mas com cuidado à noite na La 70 (roubo de celular por moto).",
+        "fontes": [
+          {
+            "url": "https://www.hostelworld.com/hostels/south-america/colombia/medellin/"
+          },
+          {
+            "url": "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html"
+          },
+          {
+            "url": "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin"
+          },
+          {
+            "url": "https://colombiamove.com/blog/nightlife-medellin-bars-clubs-guide/"
+          }
+        ]
+      },
+      {
+        "nome": "El Poblado (Provenza/Manila e arredores do Lleras)",
+        "perfil": "Onde se concentram turistas, restaurantes, cafés e a vida noturna cara; muito policiado. Mais caro e é o foco dos casos de escopolamina em 2026.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 33000,
+          "max": 110000
+        },
+        "observacao": "Hostelworld 'a partir de' para hostels no Poblado: dorm R$ 50,62 a R$ 117,46 (≈ 33–76 mil COP) e quartos privados R$ 63 a R$ 168,70 (≈ 41–110 mil). Datas não especificadas; alta temporada em nov/dez; hotéis 4* não pesquisados (guia belaroundtheworld cita Poblado como melhor para primeira visita).",
+        "seguranca": "Mais visitado e policiado; Provenza/Lleras têm maior risco de pequenos crimes e golpes (Medellín Unmapped) e concentram o risco de escopolamina (tabiji.ai; medellin.co: Poblado é a maior fonte de casos, +89% de roubos com escopolamina até ago/2026). Caso de morte de turista em hotel da Manila em 14/08/2026 (investigação aberta).",
+        "fontes": [
+          {
+            "url": "https://www.hostelworld.com/hostels/south-america/colombia/medellin/"
+          },
+          {
+            "url": "https://www.belaroundtheworld.com/where-to-stay-in-medellin-colombia/"
+          },
+          {
+            "url": "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin"
+          },
+          {
+            "url": "http://medellin.co/blog/american-found-dead-manila-hotel-el-poblado-august-2026-traveler-safety/"
+          }
+        ]
+      },
+      {
+        "nome": "Centro (La Candelaria) — só para dormir barato, se necessário",
+        "perfil": "Hub do Metro, museus e mercados; mais local e mais barato, porém com furto de rua e cenário pesado à noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 52000,
+          "max": 57000
+        },
+        "observacao": "Um único hostel listado no Hostelworld 'Centro Hostel Medellín' (dorm R$ 80,56 ≈ 52 mil COP; privado R$ 88,27 ≈ 57 mil). Amostra mínima (n=1): tratar como indicativo.",
+        "seguranca": "Maior risco de furto/roubo de celular, principalmente à noite; Medellín Unmapped e halfhalftravel recomendam evitar o Centro à noite e andar só de dia.",
+        "fontes": [
+          {
+            "url": "https://www.hostelworld.com/hostels/south-america/colombia/medellin/"
+          },
+          {
+            "url": "https://medellinunmapped.substack.com/p/dangerous-and-safe-areas-in-medellin"
+          },
+          {
+            "url": "https://www.halfhalftravel.com/travel-guides/medellin-safe-for-travel.html"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Medellín é longa e em vale: a espinha dorsal é o Metro (Linha A norte–sul, B oeste, T bonde) e o Metrocable (H, J, K, L, M, P), tudo com o mesmo cartão Cívica. Tarifa 2026 para bilhete eventual/'al portador': 4.400 COP por viagem (1 a 4 integrações entre modos; sobe para 5.150, 5.900 e 6.650 conforme mais integrações); cartão Cívica 12.100 COP. Horários: seg–sáb 04:30–23:00; domingos/feriados A/B 05:00–22:00, K 08:30–22:00 e H/J/M/P 09:00–22:00; cabo do Arví (Linha L) 09:00–18:00 (dom 08:30), FECHADO às terças (Metro oficial). Tarifa do cabo Arví para estrangeiros: 26.700 COP (Res. 0008/2026). Do aeroporto José María Córdova (Rionegro): ônibus Combuses 20.000 COP por pessoa desde 01/01/2026, 24 h (El Colombiano) — evite o 'táxi' que te aborda na saída internacional (tabiji.ai). À noite e fora do Metro: Uber/InDrive/DiDi chamado por você no app (Colombia Move; tabiji.ai) — nunca pegue táxi que para na porta da balada. Guatapé e Jardín: Terminal del Norte (Metro A, estação Caribe, passarela) para Guatapé (~2 h); Terminal del Sur para Jardín (~3 h). Resumo de ritmo intenso e econômico: Poblado/Laureles são a base noturna; Centro e Comuna 13 de dia e com guia; museus (Casa de la Memoria e Jardín Botánico são grátis) como plano B de chuva. Conversão usada nas faixas: 1 BRL ≈ 650 COP (premissa dos outros arquivos da pesquisa).",
     "matrizInterna": [],
     "climaPorMes": [
       {
@@ -673,19 +1090,81 @@
         ]
       }
     ],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "seguranca": "Regra geral (Medellín Unmapped; halfhalftravel): sul/sudeste é mais rico e seguro (El Poblado, Envigado, Sabaneta, Laureles-Estadio); norte/nordeste tem renda menor e risco maior (Aranjuez, Castilla, Manrique, Moravia, Doce de Octubre). El Poblado: forte policiamento, mas Provenza e Parque Lleras concentram golpes e o caso mais sério de 2026 — escopolamina/drogagem, muitas vezes ligada a apps de encontro (ver golpesComuns). Laureles-Estadio: bom equilíbrio de custo e segurança; roubo de celular por moto na La 70/Carrera 70 (tabiji.ai) e cuidado à noite. Centro (La Candelaria, Parque Berrío, rio): furto de rua e celular; ir só de dia ou com guia (Medellín Unmapped; halfhalftravel). Comuna 13: de dia, com grupo/guia, é considerada segura e muito movimentada; à noite evite (halfhalftravel). Nordeste (Santo Domingo/Metrocable K): fique na estação e no cabo. Emergências: 123 (polícia/bombeiros/ambulância), Polícia de Turismo 155 (operadores em inglês), 132 ambulância (Medellín Unmapped). Nível do aviso dos EUA: Nível 3 'Reconsiderar viagem' para toda a Colômbia, mantido em atualização de 31/03/2026 (medellin.co); Medellín e El Poblado não estão no nível 4. O aviso britânico (FCDO) para a Colômbia estava 'ainda válido em 08/10/2026' (atualizado em 06/10/2026).",
+    "pegaTuristaAEvitar": [
+      "Bares e restaurantes do Parque Lleras: caros e de alto risco (Medellín Unmapped; Tom Plan My Trip 'era o lugar há 10 anos'). Prefira La 70 (barato) e Provenza (jantar).",
+      "Tours caros e de baixa qualidade e 'experiências paisa' comercializadas; prefira DIY de ônibus para Guatapé (~97 mil vs 80–130 mil de tour) e free tour/tour local de 40 mil na Comuna 13 (Medellín Unmapped; couplestravelstories).",
+      "'Guias' avulsos na base da Comuna 13: podem levar a áreas inseguras (tabiji.ai); feche com operadora conhecida ou combine por WhatsApp.",
+      "Táxis de rua e do aeroporto: risco de cobrança acima do justo e de 'paseo millonario'; a opção barata e direta é o ônibus Combuses (20.000 COP) ou Uber/InDrive chamado no app (tabiji.ai; El Colombiano).",
+      "Cafés 'para turista' com café fraco, shoppings sem graça (Unicentro, Premium Plaza) e vendedores insistentes do Centro: 'no, gracias' (Medellín Unmapped).",
+      "Guatapé: tuk-tuks cobram valores extras (reembolsar 5.000 de entrada de estacionamento do Peñol: até 15.000 no total) e tours fazem paradas obrigatórias em lojas de souvenir (couplestravelstories).",
+      "Perpetuo Socorro não é 'balada': é distrito criativo/café (Time Out via Telemedellín); não vá esperando clubes.",
+      "Preço do ônibus/entrada divulgado em blogs varia (Peñol 25–35 mil; ônibus Guatapé 14–25 mil): sempre confirme na bilheteria."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": [
+      {
+        "titulo": "Sentiu o terremoto de 10 de agosto de 2026, sem danos maiores",
+        "descricao": "O terremoto de magnitude 7,4 de 10/08/2026 foi sentido em Medellin, mas os danos relatados foram menores. As mortes e os colapsos se concentraram em Cali, Pereira, Manizales e no Choco. Nao ha restricao conhecida ao turismo na cidade.",
+        "gravidade": "informacao",
+        "desde": "2026-08-10",
+        "verificadoEm": "2026-10-08",
+        "fontes": [
+          {
+            "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+          },
+          {
+            "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+          },
+          {
+            "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "salento",
     "fontes": [
       {
+        "url": "https://en.wikivoyage.org/wiki/Salento"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pereira,_Colombia"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/09/23/volvio-a-temblar-en-colombia-un-sismo-de-magnitud-45-sacudio-los-departamentos-de-tolima-y-quindio/"
+      },
+      {
+        "url": "https://www.semana.com/turismo/articulo/salento-joya-turistica-del-eje-cafetero-busca-recuperar-visitantes-tras-el-terremoto-no-hay-restricciones/202650/"
+      },
+      {
+        "url": "https://www.vanguardia.com/colombia/2026/08/19/salento-sobrevivio-al-terremoto-pero-el-miedo-esta-dejando-sus-calles-vacias/"
+      },
+      {
+        "url": "https://cronicadelquindio.com/quindio/el-sismo-economico-que-sacude-al-turismo-de-salento-y-filandia/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+      },
+      {
+        "url": "https://princeoftravel.com/guides/10-tips-for-your-first-visit-to-salento/"
+      },
+      {
+        "url": "https://tabiji.ai/scams/salento/"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/1356246"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Salento",
     "regiaoId": "eje-cafetero",
     "coords": {
@@ -697,7 +1176,86 @@
       "PEI",
       "AXM"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Centro – Plaza de Bolívar / Calle Real",
+        "perfil": "Caminhável, perto dos Willys, ônibus e restaurantes; algum barulho nos fins de semana; é onde há hostels e hotéis simples.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 53000,
+          "max": 270000
+        },
+        "observacao": "Faixa ESTIMADA em USD do Kayak (Hostal Girasoles ~US$16, Posada Elenita ~US$17+, 3 estrelas US$27-82/noite, dados para 10-11/10) convertida a 3.313 COP/USD (câmbio assumido). Hostelgeeks (mai/2026) cita camas de € 5-14 e quartos privados de € 16-51; Wikivoyage lista dormitórios de 18.000-35.000 COP (sem data). A ocupação hoteleira do Quindío caiu de ~80% para 20-22% (governador, 07/10/2026): há espaço para negociar tarifa direta e cancelamento grátis.",
+        "seguranca": "Sem alerta específico em Wikivoyage; casas do centro histórico tiveram telhas e fachadas danificadas (El Tiempo 10/08/2026; 45 a 166 casas afetadas segundo fontes diferentes). Tabiji.ai (abr/2026, sem confirmação) cita adulteração de bebidas em bares da Calle Real: vigie o copo.",
+        "fontes": [
+          {
+            "url": "https://www.kayak.com/Salento-Hotels.303057.hotel.ksp"
+          },
+          {
+            "url": "https://www.es.kayak.com/Hoteles-en-Salento.303057.hotel.ksp"
+          },
+          {
+            "url": "https://hostelgeeks.com/best-hostels-in-salento-colombia/"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/Salento"
+          },
+          {
+            "url": "https://www.infobae.com/colombia/2026/10/08/el-quindio-busca-recuperar-el-turismo-tras-el-terremoto-la-ocupacion-hotelera-cayo-de-80-a-20-advirtio-el-gobernador/"
+          },
+          {
+            "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-salento-quindio-tras-el-fuerte-terremoto-de-7-4-varias-casas-tradicionales-resultaron-afectadas-3577880"
+          }
+        ]
+      },
+      {
+        "nome": "Arredores a pé (Hostal Vistaguila, Hostal Tralala, Plantation House, Coffee Tree)",
+        "perfil": "A 1 quarteirão até ~650 m da praça (5-10 min a pé): mais silêncio e vistas, ainda caminhável.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 56000,
+          "max": 120000
+        },
+        "observacao": "ESTIMADO: Hostelgeeks (mai/2026) dá dormitórios € 5-14 e quartos privados € 16-51 para Viajero/Tralala/Vistaguila; Wikivoyage cita dormitórios de 25.000-35.000 COP em alguns deles. Máximo escolhido na faixa baixa do Kayak (3 estrelas, não verificado individualmente).",
+        "seguranca": "Ruas laterais pouco iluminadas à noite; peça ao hostel o melhor caminho de volta (juízo do agente).",
+        "fontes": [
+          {
+            "url": "https://hostelgeeks.com/best-hostels-in-salento-colombia/"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/Salento"
+          },
+          {
+            "url": "https://www.openstreetmap.org/node/11436138234"
+          }
+        ]
+      },
+      {
+        "nome": "Hostels-finca na zona rural (La Serrana, Plantation House, Yambolombia)",
+        "perfil": "Natureza e café, 10-45 min a pé da praça; bom para quem quer paisagem, ruim para sair à noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 18000,
+          "max": 35000
+        },
+        "observacao": "Valores de dormitório (por cama) do Wikivoyage (sem data): La Serrana 30.000, Plantation House 35.000, Yambolombia 18.000. Preço de quarto privado não verificado. Valores provavelmente subiram desde a coleta do Wikivoyage.",
+        "seguranca": "Estradas de terra sem iluminação à noite; combine o Willys de volta e não caminhe sozinho no escuro (juízo do agente, sem fonte).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Salento"
+          },
+          {
+            "url": "https://www.asmallworld.com/explorer/articles/the-3-best-coffee-tours-in-salento-colombia"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Salento é pequena: centro, Calle Real e Alto de la Cruz se fazem a pé (tudo a menos de 10 min da Plaza de Bolívar). Willys compartilhados saem da praça para Cocora (5.000-7.000 COP por trecho; ~12.000 ida e volta) e para as fincas de café; os ônibus para Armenia e Pereira saem da rodoviária pequena perto da praça (Armenia: a cada 15-20 min até ~20:00; Pereira: de hora em hora, último ~18:00). Não há locadora em Salento e estacionar é ruim: não alugue carro. Aeroporto: AXM (Armenia) é o mais prático para Salento de ônibus; PEI (Pereira) exige ir ao terminal e o último ônibus sai cedo. Contexto nov/2026: terremoto M7,4 em 10/08/2026 (epicentro em San José del Palmar, Chocó; ~331 mortes no país, 107-109 só em Pereira) atingiu Pereira e o Quindío; enxame sísmico segue ativo (M4,5 em 23/09/2026, Chaparral/Tolima, sentido no Quindío). Leve seguro-viagem e reserve com cancelamento grátis. Em novembro, normais do aeroporto de Pereira: 302,1 mm e 19,1 dias de chuva (Wikipedia 1991-2020); em Cocora, saia cedo e leve capa/botas. Orçamento (R$8.000 por pessoa com voo): o Eje Cafetero é barato em solo (Cocora ~R$80-110 por pessoa, tour de café 35-60 mil COP, truta ~14 mil COP); gaste em Cocora, em UM tour de café e no tejo, e corte Acaime, Filandia e noite em Pereira se apertar. Conversões usadas: 1 BRL ≈ 650 COP e 1 USD ≈ 3.313 COP (convenção das outras ondas de pesquisa, não verificada nesta onda).",
     "matrizInterna": [],
     "climaPorMes": [
       {
@@ -720,7 +1278,36 @@
         ]
       }
     ],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": []
+    "seguranca": "Fontes lidas não relatam bairros perigosos em Salento; o risco principal é o sísmico e o de golpes de turista. O terremoto M7,4 de 10/08/2026 deixou 166 casas danificadas em Salento (Vanguardia/Semana) sem mortes locais; os efeitos mais graves foram em Pereira (107-109 mortes, 65+ prédios colapsados), Armenia (poucos óbitos), e zonas rurais de Quindío (Quimbaya, Montenegro, Filandia). O enxame sísmico continua (200 eventos >M2 em 48 h; um M4,5 em 23/09/2026, Infobae). Pereira: o centro ainda tem prédios danificados e a Zona Rosa sofreu fechamentos; checar estrutura do hotel antes de reservar. Cocora: operava normalmente em meados de agosto; confirme deslizamentos e trilha antes de subir.",
+    "pegaTuristaAEvitar": [
+      "Café 'premium' comprado em lojinhas da Calle Real: compre em fincas ou supermercados (não tenho números verificados de diferença).",
+      "Tour de café fechado em revendas (Civitatis ~R$438; Pelago US$60 para Las Acacias) – o balcão custa 30.000-60.000 COP.",
+      "Tejo em pacote com balada (Civitatis R$214) – jogar direto custa poucos pesos.",
+      "Jipe 'privado' oferecido na praça por 30.000-50.000 COP quando o compartilhado custa 5.000-7.000 COP (relato do agregador tabiji.ai, não verificado)."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": [
+      {
+        "titulo": "Regiao em recuperacao apos o terremoto de 10 de agosto de 2026",
+        "descricao": "Um terremoto de magnitude 7,4 com epicentro em San Jose del Palmar (Choco) atingiu o oeste da Colombia em 10/08/2026. O balanco oficial da UNGRD em 25/08 era de 331 mortos, 4.595 feridos e 257 desaparecidos no pais, com Cali (165) e Pereira (109) concentrando as mortes. No Quindio, Quimbaya teve 450 casas destruidas e Armenia registrou 1 morte. O aeroporto Matecana, em Pereira, ficou suspenso e reabriu em 25/08 operando so no terreo, das 05:00 a meia-noite, com capacidade reduzida; o de Armenia tambem foi suspenso para avaliacao. Mais de 325 replicas foram registradas. Confirme o estado dos voos, das estradas e dos passeios antes de fechar esta base.",
+        "gravidade": "atencao",
+        "desde": "2026-08-10",
+        "verificadoEm": "2026-10-08",
+        "fontes": [
+          {
+            "url": "https://es.wikipedia.org/wiki/Terremoto_de_Colombia_de_2026"
+          },
+          {
+            "url": "https://chequeado.com/el-explicador/terremoto-de-magnitud-7-4-en-colombia-el-gobierno-declara-desastre-nacional-y-reporta-al-menos-111-muertos/"
+          },
+          {
+            "url": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/"
+          },
+          {
+            "url": "https://www.elespectador.com/colombia/mas-regiones/se-aplaza-la-reapertura-de-operaciones-en-el-aeropuerto-matecana-de-pereira/"
+          }
+        ]
+      }
+    ]
   }
 ]

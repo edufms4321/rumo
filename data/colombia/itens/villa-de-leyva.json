@@ -1,0 +1,626 @@
+[
+  {
+    "id": "co-vdl-villa-de-leyva-plaza-mayor-e-centro-colonial",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Villa_de_Leyva"
+      },
+      {
+        "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Villa de Leyva: Plaza Mayor e centro colonial",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "atracao",
+    "tags": [
+      "colonial",
+      "praca",
+      "pernoite",
+      "fotos",
+      "pueblo-patrimonio"
+    ],
+    "coords": {
+      "lat": 5.6337655,
+      "lng": -73.5235903
+    },
+    "descricaoCurta": "Vila colonial de 1572 com uma das maiores praças de pedra do país (~1,4 ha); exige no mínimo 1 noite.",
+    "descricaoLonga": "A Plaza Mayor tem ~14.000 m² totalmente pavimentada e cercada de casas caiadas. A vila (2.149 m, 165 km de Bogotá) foi fundada em 1572, é Monumento Nacional (1954) e Pueblo Patrimonio (2010). O guia Colombia Move (atualizado em ago/2026) diz que 'duas noites é o mínimo honesto' e que um bate-volta significa 7-8 horas de ônibus. VEREDITO PARA 10-12 DIAS: bate-volta NÃO compensa; se incluir, faça 1 noite (sai cedo de Bogotá, volta no fim da tarde do dia seguinte) e junte Pozos Azules + Fósil + Casa Terracota. Com prioridades praia/natureza e vida noturna/compras, é o primeiro corte se o roteiro apertar.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim de tarde na praça; manhã seguinte nos atrativos.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Plaza_Mayor%2C_Villa_de_Leyva_02.jpg/1280px-Plaza_Mayor%2C_Villa_de_Leyva_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor,_Villa_de_Leyva_02.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Villa de Leyva: custa 2 dias de roteiro (7-9 h de ônibus no total) para um destino colonial - sem praia e sem balada.",
+      "Se for: durma 1 noite, ônibus cedo, quebre o trajeto com almoço e compre a volta pela manhã.",
+      "Altitude baixa (2.149 m): bom para recuperar do soroche."
+    ],
+    "alertas": [
+      "Tempo de ônibus: 3,5-4,5 h na semana, 5+ h na sexta à tarde (Colombia Move).",
+      "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+      "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "co-vdl-onibus-bogota-villa-de-leyva",
+    "fontes": [
+      {
+        "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      },
+      {
+        "url": "https://www.geckoroutes.com/es/colombia/bogota-a-villa-de-leyva/"
+      },
+      {
+        "url": "https://www.checkmybus.com/villa-de-leyva-cl/bogota-dc"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ônibus Bogotá - Villa de Leyva",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "passeio",
+    "tags": [
+      "transporte",
+      "onibus",
+      "terminal-salitre",
+      "longa-distancia"
+    ],
+    "coords": {
+      "lat": 4.657557,
+      "lng": -74.1136713
+    },
+    "descricaoCurta": "COP ~27.500-42.000 só ida, 3-4,5 h; primeiras saídas ~05:00, última ida ~13:30-15:40.",
+    "descricaoLonga": "Companhias citadas: Flota Valle de Tenza, Expreso Los Muiscas, Omega, Coflonorte, Expreso Gaviota. Saem do Terminal Salitre (e Terminal del Norte). Colombia Move (2026): COP 30.000-42.000 por pessoa, 3,5-4,5 h (5+ h na sexta à tarde), operadores Valle de Tenza e Los Muiscas. GeckoRoutes: a partir de COP ~27.500, saídas de 05:00 até ~13:30-15:40; volta VdL->Bogotá entre 06:30 e 14:00 (€9-12). CheckMyBus: primeira saída de VdL 04:30, última 17:20, mais rápida 3h06 (Valle de Tenza). As fontes divergem no último ônibus de volta.",
+    "duracao": {
+      "min": 186,
+      "tipica": 225,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "05:00",
+          "fecha": "15:40"
+        }
+      ]
+    },
+    "horariosObservacao": "05:00–15:40 (saídas de Bogotá)",
+    "diasFechados": [],
+    "melhorHorario": "Saia antes das 08:00.",
+    "preco": {
+      "moeda": "COP",
+      "min": 27500,
+      "max": 42000,
+      "por": "pessoa",
+      "inclui": "Só ida. 27.500 (GeckoRoutes), 30.000-42.000 (Colombia Move 2026), ~39.000 (Pulzo)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+        },
+        {
+          "url": "https://www.geckoroutes.com/es/colombia/bogota-a-villa-de-leyva/"
+        },
+        {
+          "url": "https://www.checkmybus.com/villa-de-leyva-cl/bogota-dc"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] 6-9 h de ônibus ida e volta só para Villa de Leyva. Se for, compre passagem no próprio terminal.",
+      "Compre a volta com antecedência em dias de feriado."
+    ],
+    "alertas": [
+      "Último ônibus de volta incerto (14:00 vs 17:20): planeje voltar antes das 14:00 ou durma lá. Horários agregadores, não oficiais.",
+      "Coordenada = ponto de ônibus 'Terminal de Transporte' (Av. La Esperanza), OSM. Duração em minutos (186 = mais rápida CheckMyBus)."
+    ],
+    "passeio": {
+      "pontoPartida": "Terminal de Transporte Salitre (Av. La Esperanza), Bogotá, ou Terminal del Norte",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "co-vdl-pozos-azules",
+    "fontes": [
+      {
+        "url": "https://www.pulzo.com/vivir-bien/cuanto-cuesta-visitar-pozos-azules-villa-leyva-3-horas-bogota-PP3448750"
+      },
+      {
+        "url": "https://www.eltiempo.com/cultura/gente/va-a-conocer-los-pozos-azules-de-villa-de-leyva-esto-cuesta-hacer-el-recorrido-856185"
+      },
+      {
+        "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Pozos Azules",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "natureza",
+    "tags": [
+      "lagoas",
+      "natureza",
+      "deserto",
+      "caminhada",
+      "fotos"
+    ],
+    "coords": {
+      "lat": 5.626168,
+      "lng": -73.5493042
+    },
+    "descricaoCurta": "Lagoas de cor azul-turquesa no semideserto, a ~3 km do centro; entrada COP 10.000-15.000, 08:00-17:00.",
+    "descricaoLonga": "Conjunto de lagos de coloração azul-esverdeada (selênio, enxofre e minerais) a ~3 km da vila; acesso a pé segundo El Tiempo. Pulzo: entrada COP 15.000, 08:00-17:00, local transport do terminal COP 4.000 ('desde'). Colombia Move (2026) lista COP 10.000. Sem prazo de reserva.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã ou fim de tarde.",
+    "preco": {
+      "moeda": "COP",
+      "min": 10000,
+      "max": 15000,
+      "por": "pessoa",
+      "inclui": "Entrada; 15.000 (El Tiempo/Pulzo 2024) ou 10.000 (Colombia Move 2026)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.pulzo.com/vivir-bien/cuanto-cuesta-visitar-pozos-azules-villa-leyva-3-horas-bogota-PP3448750"
+        },
+        {
+          "url": "https://www.eltiempo.com/cultura/gente/va-a-conocer-los-pozos-azules-de-villa-de-leyva-esto-cuesta-hacer-el-recorrido-856185"
+        },
+        {
+          "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pozos_Azules_en_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg/1280px-Pozos_Azules_en_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Foturcolombia",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pozos_Azules_en_Villa_de_Leyva,_Boyac%C3%A1,_Colombia.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Só se já estiver em Villa de Leyva; não justifica a viagem sozinho."
+    ],
+    "alertas": [
+      "Preço divergente entre fontes; horário em fonte única (Pulzo). Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+    ]
+  },
+  {
+    "id": "co-vdl-museo-el-fosil",
+    "fontes": [
+      {
+        "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      },
+      {
+        "url": "https://www.villadeleyva.net/zona-rural/museo-el-fosil/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo El Fósil",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "museu",
+    "tags": [
+      "fossil",
+      "paleontologia",
+      "museu",
+      "familia"
+    ],
+    "coords": {
+      "lat": 5.6370558,
+      "lng": -73.5586209
+    },
+    "descricaoCurta": "Museu de sítio com esqueleto de réptil marinho do Cretáceo, a 4 km da vila; COP 8.000-15.000, 08:00-17:00.",
+    "descricaoLonga": "Museu comunitário na vereda Monquirá, a 4 km de Villa de Leyva: mais de 500 peças e um plesiossauro exposto no local onde foi achado (villadeleyva.net). Horário informado: todos os dias 08:00-17:00. Preço: COP 8.000 (Colombia Move 2026) até 15.000 adultos (comentários de 2020).",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã.",
+    "preco": {
+      "moeda": "COP",
+      "min": 8000,
+      "max": 15000,
+      "por": "pessoa",
+      "inclui": "Entrada",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+        },
+        {
+          "url": "https://www.villadeleyva.net/zona-rural/museo-el-fosil/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Museo_el_Fosil_05.JPG/1280px-Museo_el_Fosil_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Jen jihz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_el_Fosil_05.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Interessante, mas só se já estiver em Villa de Leyva."
+    ],
+    "alertas": [
+      "Fontes pouco recentes e divergentes (preço e horário). Confirme no local. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+    ]
+  },
+  {
+    "id": "co-vdl-casa-terracota",
+    "fontes": [
+      {
+        "url": "https://villadeleyvainmobiliaria.com/blog/casa-terracota-villa-de-leyva/"
+      },
+      {
+        "url": "https://www.villadeleyva.net/zona-urbana/casa-terracota/"
+      },
+      {
+        "url": "https://mividaviajera.com/colombia/villa-de-leyva/casa-terracota/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa Terracota",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "atracao",
+    "tags": [
+      "arquitetura",
+      "argila",
+      "fotos",
+      "arte"
+    ],
+    "coords": {
+      "lat": 5.6348061,
+      "lng": -73.5365514
+    },
+    "descricaoCurta": "Casa gigante esculpida em argila (arquiteto Octavio Mendoza), a ~1,9 km da praça; entrada reportada COP 38.000-50.000 (2024).",
+    "descricaoLonga": "Obra de Octavio Mendoza, ~500 m² e ~400 t de argila. Villa de Leyva Inmobiliaria (abr/2024): adulto COP 38.000-50.000 conforme temporada; criança 8-17 COP 23.000-30.000; sênior 60+ COP 32.000-42.000; horário 08:00-17:00; ~1,9 km da Plaza Mayor (7 min de carro, 23 min a pé). Fontes mais antigas (2018) falavam em COP 10.000 e 09:00-18:00 - desatualizado. O site oficial tem 'Compra tus entradas', mas não consegui ler tarifas.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Fim da manhã.",
+    "preco": {
+      "moeda": "COP",
+      "min": 38000,
+      "max": 50000,
+      "por": "pessoa",
+      "inclui": "Adulto, por temporada (abr/2024; não confirmado em 2026)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://villadeleyvainmobiliaria.com/blog/casa-terracota-villa-de-leyva/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://casaterracota.com/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Casa_Terracota%2C_Villa_de_Leyva.jpg/1280px-Casa_Terracota%2C_Villa_de_Leyva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Kari5wiki",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_Terracota,_Villa_de_Leyva.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] COP 38-50 mil para ~45 min; só se Villa de Leyva já estiver no roteiro."
+    ],
+    "alertas": [
+      "Preço de 2024; horários divergentes entre fontes. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+    ]
+  },
+  {
+    "id": "co-vdl-vinedo-marques-de-villa-de-leyva-sutamarchan",
+    "fontes": [
+      {
+        "url": "https://colombia.travel/en/villa-de-leyva/marques-de-villa-de-leyva-winery"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Viñedo Marqués de Villa de Leyva (Sutamarchán)",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "passeio",
+    "tags": [
+      "vinho",
+      "vinicola",
+      "degustacao"
+    ],
+    "descricaoCurta": "Vinícola em Sutamarchán (12 km de Villa de Leyva) com visita guiada às adegas e degustação.",
+    "descricaoLonga": "Colombia.travel (portal oficial de turismo) confirma visitas guiadas às adegas 'durante todo o ano' no Viñedo Marqués de Villa de Leyva, em Sutamarchán, a 12 km de Villa de Leyva, com degustação (Cabernet Sauvignon rosé, blanc, reserva). A página não traz preço, horário nem duração.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Tarde, após a vila.",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Sem preço/horário confirmados e fora do perfil econômico/natureza; só com carro ou tour."
+    ],
+    "alertas": [
+      "Sem coordenada (não localizei no OSM), preço, horário ou telefone. Item 'estimado'.",
+      "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Sutamarchán (12 km de Villa de Leyva)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

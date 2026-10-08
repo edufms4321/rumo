@@ -1,0 +1,2586 @@
+{
+  "base": "bogota",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Bogotá é o hub aéreo e a base para 3 bate-voltas: Zipaquirá (ônibus Portal Norte, COP 10.500; 45 min-2 h), Laguna de Guatavita (ônibus Portal Norte até Guatavita/Sesquilé + transporte local; visita guiada ~2 h) e, só se sobrar 1 noite, Villa de Leyva (ônibus Terminal Salitre, 3,5-4,5 h). Dentro da cidade: TransMilenio de dia (COP 3.550 por viagem desde 14/01/2026; cartão TuLlave) e Uber/Cabify/DiDi/inDrive à noite - nunca táxi parado na rua. Sequência sugerida: dia 1 leve (Candelaria baixa altitude, ajiaco, descanso, sem álcool); dia 2 centro (Museo del Oro + Botero + free tour + Paloquemao); dia 3 Zipaquirá; dia 4 Guatavita; domingo: Ciclovía + Usaquén; Monserrate nos últimos dias; vida noturna em Chapinero (barata) e 1 noite na Zona T/Andrés DC.",
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "noitesRecomendadasObservacao": "Julgamento do agente (sem fonte): 3 noites cobrem centro + Zipaquirá + Guatavita + 1 noite de rumba; some +1 noite se incluir Villa de Leyva (pernoite lá) ou pegar o domingo de Ciclovía/Usaquén.",
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Chapinero (Chapinero Alto / Chapinero Central, perto de Zona T e Calle 63)",
+        "perfil": "Rumba barata a pé, cafés, restaurantes, comunidade LGBTQ+; 'se sente mais seguro' que a Candelaria; ~15% mais caro que ela (Hostelz).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 138000,
+          "max": 207000
+        },
+        "observacao": "Faixa DERIVADA: quarto privado em hostel (baixa temporada COP 120-180 mil, Hostelz) +15% (Hostelz). Novembro costuma ser baixa temporada, mas feriados/fins de semana sobem. Não é cotação real.",
+        "seguranca": "Chapinero/Zona Rosa estão entre os bairros com melhor vigilância noturna (Nomado); sacavoyage o recomenda como zona segura. Ainda assim: furto de celular em bares e 'paseo millonario' em táxis da Zona T.",
+        "fontes": [
+          "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia",
+          "https://sacavoyage.fr/es/quartiers-a-bogota/",
+          "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide"
+        ]
+      },
+      {
+        "nome": "La Candelaria (centro histórico)",
+        "perfil": "Mais barato; museus (Oro, Botero) e Plaza de Bolívar a pé; tranquilo/vazio depois das 22:00 - volte de táxi/app tarde.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 120000,
+          "max": 180000
+        },
+        "observacao": "Quarto privado em hostel, baixa temporada (Hostelz, fev/2026): COP 120-180 mil; alta: COP 150-250 mil. Dormitório de 8+ camas COP 35-55 mil (não mexe com casal que quer privacidade).",
+        "seguranca": "De dia ok; à noite risco: gov.uk e World Nomads relatam assaltos/roubos; sacavoyage: evite andar sozinho à noite. Evite ruas escuras na subida da Candelaria ao anoitecer (Hostelz).",
+        "fontes": [
+          "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia",
+          "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+          "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota",
+          "https://sacavoyage.fr/es/quartiers-a-bogota/"
+        ]
+      },
+      {
+        "nome": "Usaquén",
+        "perfil": "Arborizado e calmo, mercado de pulgas aos domingos, muitos restaurantes; bom para casais; mais distante do centro (taxi/TransMilenio).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem faixa em COP verificada (Hostelz cita 'híbridos hostal-hotel').",
+        "seguranca": "Considerado calmo e residencial (Hostelz); use app à noite.",
+        "fontes": [
+          "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia"
+        ]
+      },
+      {
+        "nome": "Zona T / Zona Rosa",
+        "perfil": "Bares, shoppings e restaurantes de luxo; poucos hostels e mais caros (Hostelz); fecha cedo (~01:00).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem faixa verificada. Para orçamento econômico, prefira Chapinero e vá à Zona T só à noite.",
+        "seguranca": "Muito policiada, mas é o epicentro do 'paseo millonario'; nunca pegue táxi na rua.",
+        "fontes": [
+          "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia",
+          "https://bogota.gov.co/en/node/285632",
+          "https://bogota.gov.co/mi-ciudad/seguridad/tenga-cuidado-con-estas-senales-cuando-coja-o-pida-taxi-en-bogota"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Zona Rosa/Zona T e Chapinero: bem policiadas, mas concentram os golpes noturnos (táxi com sequestro-relâmpago, escopolamina) - peça app. La Candelaria/centro: turístico e vigiado de dia; à noite roubos e furtos, não ande a pé (gov.uk, World Nomads, sacavoyage). Los Mártires, Santa Fe (sul), Kennedy, Ciudad Bolívar: maiores taxas de homicídio em 5 anos (sacavoyage) - Paloquemao fica em Los Mártires: vá de app e só de manhã. Entorno do terminal de ônibus principal à noite e vielas na subida da Candelaria ao anoitecer: evite (Hostelz). Galerías: alvo de operação do Gaula contra paseo millonario (fev/2026).",
+    "pegaTuristaAEvitar": [
+      "Táxi parado na rua, sobretudo na Zona T/Chapinero à saída de bares: usar zonas seguras de táxi ou app (Bogotá Gov; Portafolio).",
+      "Placas alteradas/cobertas, portas travadas, vidros que não abaixam, película muito escura, cédula do motorista não visível: sinais de táxi perigoso (Bogotá Gov, 18/05/2026).",
+      "Intermediários que cobram 'ingresso' ou 'guia' da Laguna de Guatavita: a CAR manda comprar só na bilheteria do parque.",
+      "Vendedores de esmeralda na rua; compre apenas em joalheria com certificado de autenticidade (Fedesmeraldas).",
+      "Estações de TransMilenio lotadas: furtos (World Nomads).",
+      "Beber pesado nas primeiras noites em altitude (álcool 'sobe' mais rápido)."
+    ],
+    "golpesComuns": [
+      "Paseo millonario: sequestro-relâmpago em táxi; vítimas são levadas a caixas eletrônicos e a contas via apps como Nequi. Em 2025 o Gaula contabilizou 27 casos e 52 detidos; em 2026 houve novas quadrilhas desmanteladas (Bogotá Gov; Publimetro).",
+      "Escopolamina em bebida/comida/aerossol: recuse ofertas de estranhos, não deixe copo sozinho (gov.uk; World Nomads).",
+      "Golpe via aplicativos de namoro: criminosos constroem confiança e depois drogam e roubam em bar, restaurante ou táxi (gov.uk).",
+      "Falso policial pedindo para 'conferir o dinheiro': exija ser levado ao CAI/delegacia mais próximo (gov.uk).",
+      "Caixa eletrônico: use só em horário comercial, dentro de banco/shopping (gov.uk).",
+      "Esmeralda falsa ou de origem trocada: exigir certificado e comprar só em loja formal (Valora Analitik)."
+    ],
+    "emergencia": {
+      "linha": "123",
+      "denunciaCrime": "314 3587212",
+      "AIDE_Secretaria_de_Seguranca": "(601) 377 9595 ext. 1137",
+      "observacao": "Números da prefeitura (Bogotá Gov, 18/05/2026) para vítimas de paseo millonario."
+    },
+    "altitude": {
+      "bogota_m": "~2.600 (bogota.gov.co: 2.600; El Tiempo: 2.601). O briefing dizia 2.553 m.",
+      "monserrate_m": 3152,
+      "guatavita_laguna_m": 3100,
+      "guatavita_pueblo_m": 2668,
+      "villa_de_leyva_m": 2149,
+      "regras": [
+        "Dias 1 e 2: sem Monserrate, trilhas ou esforço pesado; caminhadas planas apenas (Secretaria de Saúde; CDC).",
+        "Evitar álcool nas primeiras 48 h (CDC; Secretaria de Saúde: 'o álcool desidrata e o tabaco dificulta a respiração').",
+        "Hidratar antes, durante e depois de cada passeio; comer leve e com carboidrato; usar protetor solar.",
+        "Sintomas de soroche: dor de cabeça, tontura, náusea, fadiga, falta de ar, pressão baixa; costumam começar 2-12 h após a chegada e passar em 12-48 h com repouso (CDC; Secretaria de Saúde).",
+        "Procurar atendimento: falta de ar em repouso, tosse com sangue, confusão, perda de equilíbrio; descer de altitude é o tratamento mais eficaz (CDC). Quem tem apneia do sono, doença cardíaca ou pulmonar tem mais risco (El Tiempo).",
+        "Monserrate (3.152 m) e Laguna de Guatavita (3.100 m): só a partir do dia 3. Recomendação oficial: deixar Monserrate para os últimos dias."
+      ],
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/salud/recomendaciones-de-salud-para-viajar-bogota-en-el-2024",
+        "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+        "https://www.eltiempo.com/salud/el-soroche-que-afecta-a-los-visitantes-de-bogota-805731",
+        "https://es.wikipedia.org/wiki/Cerro_de_Monserrate"
+      ]
+    },
+    "clima": {
+      "aviso": "O briefing dizia que novembro é seco (107 mm, ~12 dias). NÃO confirmei isso: um resultado de busca (climate-data, página bloqueada) aponta 133 mm e 17 dias de chuva em novembro; matérias do IDEAM (El País, 13/11/2024) falam em chuvas significativas à tarde, mais intensas no norte de Bogotá. Trate novembro como estação chuvosa: capa de chuva leve, museus à tarde.",
+      "fontes": [
+        "https://www.elpais.com.co/colombia/ideam-pronostica-la-zona-y-el-horario-en-el-que-llovera-mas-en-bogota-durante-noviembre-1318.html"
+      ]
+    },
+    "orcamento": {
+      "ingressosPrincipaisPorPessoaCOP": {
+        "min": 206500,
+        "max": 212000,
+        "composicao": "Museo del Oro 21.000 + Monserrate teleférico/funicular 35.000 + Catedral de Sal Basic 125.000 + Laguna de Guatavita 25.500-31.000 (sem transporte nem comida)."
+      },
+      "gratuitos": [
+        "Museo Botero",
+        "Plaza de Bolívar",
+        "Ciclovía de domingo",
+        "Mercado de pulgas de Usaquén (entrada)",
+        "Paloquemao (entrada)",
+        "Museo del Oro aos domingos",
+        "Free tour (gorjeta)"
+      ],
+      "observacao": "Não converti para BRL: não tenho cotação verificada de COP/BRL para novembro/2026. Transporte: TransMilenio 3.550; ônibus Zipaquirá 10.500; ônibus Villa de Leyva 27.500-42.000 (ida)."
+    },
+    "feriadosNov2026": {
+      "texto": "Pela Lei Emiliani, Todos los Santos (1/nov, domingo) vai para segunda 2/nov e Independência de Cartagena (11/nov, quarta) vai para segunda 16/nov; ambos serão 'puentes' (fins de semana de 3 dias) com ônibus lotados e mais preços altos. CÁLCULO DO AGENTE, não verificado em fonte aberta - confirme o calendário oficial. Museo del Oro fecha segunda mesmo em feriado; Ciclovía e trem para Zipaquirá operam em feriados.",
+      "confianca": "estimado"
+    },
+    "regrasParaApp": [
+      {
+        "id": "altitude-dias-1-2",
+        "regra": "Nos 2 primeiros dias em Bogotá: sem Monserrate, trilhas ou esforço pesado; sem álcool nas primeiras 48 h; água constante.",
+        "aplicaA": [
+          "bogota"
+        ]
+      },
+      {
+        "id": "altitude-alta-so-dia-3",
+        "regra": "Monserrate (3.152 m) e Laguna de Guatavita (3.100 m) só a partir do dia 3.",
+        "aplicaA": [
+          "bogota",
+          "guatavita"
+        ]
+      },
+      {
+        "id": "noite-so-app",
+        "regra": "À noite, voltar apenas com app (Uber/Cabify/DiDi/inDrive) pedido dentro do local ou em zona segura de táxi; nunca táxi parado na rua.",
+        "aplicaA": [
+          "bogota"
+        ]
+      },
+      {
+        "id": "dias-fechados",
+        "regra": "Museo del Oro fecha segunda (e tem reforma até 6/nov/2026); Museo Botero fecha terça; sendero de Monserrate fecha terça; Laguna de Guatavita provavelmente fecha segunda; trem de Zipaquirá só sáb/dom/feriados.",
+        "aplicaA": [
+          "bogota",
+          "guatavita",
+          "zipaquira"
+        ]
+      },
+      {
+        "id": "villa-de-leyva",
+        "regra": "Villa de Leyva nunca em bate-volta; só com 1 noite e se sobrar 2 dias.",
+        "aplicaA": [
+          "villa-de-leyva"
+        ]
+      },
+      {
+        "id": "chuva",
+        "regra": "Novembro é estação chuvosa em Bogotá: reservar tarde para atividades cobertas.",
+        "aplicaA": [
+          "bogota"
+        ]
+      }
+    ],
+    "fontes": [
+      "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+      "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota",
+      "https://bogota.gov.co/mi-ciudad/seguridad/tenga-cuidado-con-estas-senales-cuando-coja-o-pida-taxi-en-bogota",
+      "https://www.portafolio.co/tendencias/sociales/bogota-activa-zonas-seguras-para-taxis-en-sectores-de-rumba-con-verificacion-en-tiempo-real-489352",
+      "https://bogota.gov.co/en/node/285632",
+      "https://bogota.gov.co/mi-ciudad/salud/recomendaciones-de-salud-para-viajar-bogota-en-el-2024",
+      "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+      "https://www.eltiempo.com/salud/el-soroche-que-afecta-a-los-visitantes-de-bogota-805731",
+      "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia",
+      "https://sacavoyage.fr/es/quartiers-a-bogota/",
+      "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide",
+      "https://www.publimetro.co/bogota/2026/07/30/no-dejes-que-los-bastardos-te-destruyan-extranjero-denuncia-paseo-millonario-y-abuso-sexual-con-escopolamina-en-taxi-que-tomo-en-la-zona-t-de-bogota/",
+      "https://bogota.gov.co/mi-ciudad/movilidad/tarifa-transmilenio-transmicable-y-transmizonal-2026-bogota",
+      "https://www.elpais.com.co/colombia/ideam-pronostica-la-zona-y-el-horario-en-el-que-llovera-mas-en-bogota-durante-noviembre-1318.html"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Museo del Oro",
+      "categoria": "museu",
+      "cidade": "bogota",
+      "tags": [
+        "museu",
+        "centro",
+        "indoor",
+        "chuva",
+        "cultura",
+        "gratis-domingo"
+      ],
+      "coords": {
+        "lat": 4.6018403,
+        "lng": -74.0718526
+      },
+      "descricaoCurta": "Maior coleção de ourivesaria pré-hispânica do país, no Parque de Santander; estrangeiro paga COP 21.000 e domingo é grátis.",
+      "descricaoLonga": "O Museo del Oro (Banco de la República) tem quatro salas permanentes (metalurgia, gente e ouro, cosmologia, ofrenda) mais o Exploratorio no 4o andar, com textos bilíngues espanhol-inglês. O site oficial diz que o percurso leva no mínimo 1h30 e que há conteúdo para 2 a 4 horas. Não precisa reservar (o site oficial atual diz 'No se requiere reserva previa'; páginas antigas da prefeitura ainda falavam em reserva obrigatória). Fica ao lado da Iglesia de San Francisco e a poucas quadras da Plaza de Bolívar. Estação TransMilenio 'Museo del Oro' (sentido Las Aguas).",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "09:00–19:00 (última entrada 18:00)",
+        "qua": "09:00–19:00 (última entrada 18:00)",
+        "qui": "09:00–19:00 (última entrada 18:00)",
+        "sex": "09:00–19:00 (última entrada 18:00)",
+        "sab": "09:00–19:00 (última entrada 18:00)",
+        "dom": "10:00–17:00 (última entrada 16:00); entrada gratuita para todos"
+      },
+      "diasFechados": [
+        "segunda (inclusive feriados)",
+        "24/12",
+        "25/12",
+        "31/12",
+        "01/01"
+      ],
+      "melhorHorario": "Terça a sábado na abertura (09:00); domingo é grátis mas fica cheio.",
+      "preco": {
+        "min": 0,
+        "max": 21000,
+        "por": "pessoa",
+        "inclui": "Estrangeiro não residente COP 21.000 (ter-sáb e feriados); nacional 10.000; estudante 5.000; domingo grátis para todos; menores de 12 e maiores de 62 grátis. Compra na bilheteria (dinheiro COP ou cartão) ou online só para estrangeiros.",
+        "fontes": [
+          "https://www.banrepcultural.org/bogota/museo-del-oro/visita",
+          "https://www.banrepcultural.org/bogota/museo-del-oro"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.banrepcultural.org/bogota/museo-del-oro/visita"
+      },
+      "contato": {
+        "telefone": "+57 (601) 343-2222 / +57 (601) 484-9980",
+        "whatsapp": "",
+        "site": "https://www.banrepcultural.org/bogota/museo-del-oro",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem tripé, luz ou flash (política Banrepcultural)",
+        "Pegue o bilhete na bilheteria mesmo quando a entrada é gratuita"
+      ],
+      "pontoPartida": "Cra. 6 #15-88, Parque de Santander, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor custo-benefício cultural de Bogotá: COP 21.000 (ou grátis no domingo).",
+        "Combine no mesmo dia: Museo del Oro -> Iglesia de San Francisco -> Museo Botero (grátis) -> Plaza de Bolívar.",
+        "Fecha segunda; domingo grátis coincide com Ciclovía/Usaquén - decida a prioridade."
+      ],
+      "alertas": [
+        "REFORMA: o site oficial avisa 'desde o 6 de outubro e até 6 de novembro de 2026 haverá fechamentos intermitentes nas salas de exposição permanente por renovação'. Se a viagem incluir 1-6 nov, confirme antes de ir.",
+        "Horários 'podem mudar sem aviso' (site oficial). Fechado em 2026: 24, 25 e 31 dez e 1 jan.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2009-10-25_01_Gold_armlet_%E2%80%93_Museo_del_Oro%2C_Bogot%C3%A1%2C_Colombia.jpg/1280px-2009-10-25_01_Gold_armlet_%E2%80%93_Museo_del_Oro%2C_Bogot%C3%A1%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "GRDN711",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2009-10-25_01_Gold_armlet_%E2%80%93_Museo_del_Oro,_Bogot%C3%A1,_Colombia.jpg"
+      },
+      "fontes": [
+        "https://www.banrepcultural.org/bogota/museo-del-oro/visita",
+        "https://www.banrepcultural.org/bogota/museo-del-oro",
+        "https://newsroom.rcnradio.com/actualidad/entrada-gratis-a-museos-de-bogota-en-2026-cuales-son"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Museo Botero",
+      "categoria": "museu",
+      "cidade": "bogota",
+      "tags": [
+        "museu",
+        "gratis",
+        "centro",
+        "indoor",
+        "chuva",
+        "cultura"
+      ],
+      "coords": {
+        "lat": 4.5966918,
+        "lng": -74.0730851
+      },
+      "descricaoCurta": "Entrada gratuita: 123 obras de Fernando Botero e 85 de mestres internacionais em um palacete colonial.",
+      "descricaoLonga": "Doação de Fernando Botero ao Banco de la República (2000): 208 obras expostas, 123 do próprio Botero e 85 de artistas das vanguardas. Entrada gratuita e sem reserva (site oficial). Atenção: abre segunda e FECHA TERÇA. Fica a poucos passos da Plaza de Bolívar e da Biblioteca Luis Ángel Arango.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "09:00–19:00",
+        "ter": "Fechado",
+        "qua": "09:00–19:00",
+        "qui": "09:00–19:00",
+        "sex": "09:00–19:00",
+        "sab": "09:00–19:00",
+        "dom": "10:00–17:00 (domingos e feriados)"
+      },
+      "diasFechados": [
+        "terça"
+      ],
+      "melhorHorario": "Segunda ou quarta a sábado de manhã; última entrada 1 h antes de fechar.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita, sem reserva",
+        "fontes": [
+          "https://www.banrepcultural.org/bogota/museo-botero"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.banrepcultural.org/bogota/museo-botero"
+      },
+      "contato": {
+        "telefone": "+57 (601) 484-9980 / +57 (601) 343-1111 ext. 2909",
+        "whatsapp": "",
+        "site": "https://www.banrepcultural.org/bogota/museo-botero",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido fotografar com tripé, luz ou flash"
+      ],
+      "pontoPartida": "Calle 11 No. 4-41, La Candelaria, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Grátis e bom plano de chuva (novembro é estação chuvosa).",
+        "Manhã de Candelaria: Botero -> Biblioteca Luis Ángel Arango (café Cultor) -> Plaza de Bolívar."
+      ],
+      "alertas": [
+        "Terça fechado; horário pode mudar sem aviso.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2019_Bogot%C3%A1_-_Entrada_del_Museo_Botero.jpg/1280px-2019_Bogot%C3%A1_-_Entrada_del_Museo_Botero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2019_Bogot%C3%A1_-_Entrada_del_Museo_Botero.jpg"
+      },
+      "fontes": [
+        "https://www.banrepcultural.org/bogota/museo-botero",
+        "https://newsroom.rcnradio.com/actualidad/entrada-gratis-a-museos-de-bogota-en-2026-cuales-son"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "La Candelaria: centro histórico a pé com free tour",
+      "categoria": "passeio",
+      "cidade": "bogota",
+      "tags": [
+        "centro-historico",
+        "free-tour",
+        "a-pe",
+        "cultura",
+        "grafite"
+      ],
+      "coords": {
+        "lat": 4.6007396,
+        "lng": -74.0730663
+      },
+      "descricaoCurta": "Bairro colonial; o free tour de ~3 h (gorjeta voluntária) é a forma mais barata e acompanhada de conhecê-lo.",
+      "descricaoLonga": "La Candelaria concentra Chorro de Quevedo, Plazoleta del Rosario, igrejas coloniais, grafite e os museus Oro/Botero. A Civitatis lista o 'Free Tour of Bogota' em inglês com 3 h de duração (gratuito, gorjeta no fim). Ponto de encontro e horário variam por operadora - confirme na reserva. De dia é turístico e patrulhado; à noite o consenso das fontes é não andar a pé e voltar de app/táxi seguro.",
+      "duracao": {
+        "min": 150,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (tours + museus abertos); saia das ruas internas antes de escurecer.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Free tour por gorjeta voluntária (valor sugerido não verificado)",
+        "fontes": [
+          "https://civitatis.com/en/bogota/candelaria-neighbourhood-free-tour"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://civitatis.com/en/bogota/candelaria-neighbourhood-free-tour"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plazoleta del Rosario / Chorro de Quevedo (confirmar no voucher do tour)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Free tour no dia 2 (já aclimatado): orientação grátis + dica de segurança local.",
+        "Leve gorjeta em dinheiro (sugestão do agente: COP 30-50 mil por pessoa - NÃO verificada).",
+        "Almoço/ajiaco perto: La Puerta Falsa (Calle 11 #6-50)."
+      ],
+      "alertas": [
+        "SEGURANÇA: gov.uk registra assaltos armados contra britânicos na Candelaria; World Nomads: 'roubos à noite e furtos de dia'; sacavoyage: evite andar sozinho à noite. Sem celular/joias à mostra; mochila na frente.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Horário dos tours não confirmado. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Plaza_del_Chorro_de_Quevedo_-_vista_panor%C3%A1mica.jpg/1280px-Plaza_del_Chorro_de_Quevedo_-_vista_panor%C3%A1mica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "TitiNicola",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_del_Chorro_de_Quevedo_-_vista_panor%C3%A1mica.jpg"
+      },
+      "fontes": [
+        "https://civitatis.com/en/bogota/candelaria-neighbourhood-free-tour",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota",
+        "https://sacavoyage.fr/es/quartiers-a-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza de Bolívar",
+      "categoria": "atracao",
+      "cidade": "bogota",
+      "tags": [
+        "praca",
+        "centro",
+        "gratis",
+        "historia",
+        "fotos"
+      ],
+      "coords": {
+        "lat": 4.5981694,
+        "lng": -74.0760021
+      },
+      "descricaoCurta": "Praça central de Bogotá cercada pelo Capitolio, Catedral Primada, Palácio de Justiça e Alcaldía.",
+      "descricaoLonga": "Fundada em 1539 sobre território muisca; recebeu o nome atual com a estátua de Bolívar em 1846 e é Monumento Nacional desde 1995. Ao redor: Capitolio Nacional (sul), Catedral Metropolitana e Palácio Arzobispal (leste), Palacio Liévano/Alcaldía (oeste), Palacio de Justicia (norte) e Casa del Florero (museu da Independência). Acesso livre; palco frequente de manifestações.",
+      "duracao": {
+        "min": 20,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; evite ficar após o entardecer.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso gratuito",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar_(Bogot%C3%A1)"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carrera 7 com Calle 11, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] 20-30 min dentro do passeio da Candelaria; é grátis.",
+        "Casa del Florero e Museo Nacional: grátis quarta 15-17h e no último domingo do mês (RCN)."
+      ],
+      "alertas": [
+        "Gov.uk: seja vigilante em locais frequentados por estrangeiros e perto de prédios oficiais. Não aceite 'ajuda' de estranhos para fotos/celular.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Espaço público sem horário. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Plaza_de_Bol%C3%ADvar_-_Bogot%C3%A1_-_Colombia_2024.jpg/1280px-Plaza_de_Bol%C3%ADvar_-_Bogot%C3%A1_-_Colombia_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "José Luiz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_de_Bol%C3%ADvar_-_Bogot%C3%A1_-_Colombia_2024.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar_(Bogot%C3%A1)",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://newsroom.rcnradio.com/actualidad/entrada-gratis-a-museos-de-bogota-en-2026-cuales-son"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cerro de Monserrate (funicular ou teleférico)",
+      "categoria": "mirante",
+      "cidade": "bogota",
+      "tags": [
+        "mirante",
+        "altitude",
+        "basilica",
+        "por-do-sol",
+        "vista"
+      ],
+      "coords": {
+        "lat": 4.6029048,
+        "lng": -74.0609995
+      },
+      "descricaoCurta": "Mirante a 3.152 m sobre Bogotá; funicular/teleférico custa COP 35.000 ida e volta (21.000 aos domingos).",
+      "descricaoLonga": "Santuário com basílica e vista de toda a cidade. Subida por funicular ou teleférico (ida e volta COP 35.000 seg-sáb; só ida 21.000; domingo ida e volta 21.000; Fast Pass 96.500) ou a pé (item separado). Funcionamento: seg-sáb 06:30-22:00, domingo 05:30-17:00, feriados 06:30-17:00. Basílica: terça só 12:00-19:00. A prefeitura não recomenda a subida a gestantes, cardíacos, hipertensos/diabéticos descompensados, doenças respiratórias crônicas.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "06:30–22:00",
+        "ter": "06:30–22:00",
+        "qua": "06:30–22:00",
+        "qui": "06:30–22:00",
+        "sex": "06:30–22:00",
+        "sab": "06:30–22:00",
+        "dom": "05:30–17:00 (feriados 06:30–17:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde em dia útil (pôr do sol + luzes da cidade); evite domingo (lotado).",
+      "preco": {
+        "min": 21000,
+        "max": 96500,
+        "por": "pessoa",
+        "inclui": "Seg-sáb e feriados: ida e volta 35.000; só ida 21.000; sênior 62+ 29.500; Fast Pass 96.500. Domingo: ida e volta 21.000. Fonte: monserrate.co",
+        "fontes": [
+          "https://monserrate.co/es/horarios-y-tarifas/",
+          "https://bogota.gov.co/que-hacer/recreacion-y-deporte/monserrate-bogota-semana-santa-horarios-y-recomendaciones-abril-2026"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://monserrate.co/es/horarios-y-tarifas/"
+      },
+      "contato": {
+        "telefone": "+57 601 747-0190 / +57 601 284-5700",
+        "whatsapp": "",
+        "site": "https://monserrate.co/es/horarios-y-tarifas/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Crianças com menos de 1 m não sobem",
+        "Proibido álcool, carrinhos de bebê, animais (não aos domingos/feriados) e aparelhos de som"
+      ],
+      "pontoPartida": "Estação Monserrate, Carrera 2 Este No. 21-48 (Paseo Bolívar), Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Teleférico/funicular (COP 35.000 ida e volta) rende a melhor vista de Bogotá; faça nos DIAS FINAIS (já aclimatado).",
+        "[CORTE SE APERTAR] Fast Pass (COP 96.500) só vale em feriado/domingo com fila grande.",
+        "Leve casaco: frio e vento a 3.152 m."
+      ],
+      "alertas": [
+        "ALTITUDE 3.152 m (Wikipedia; ~550 m acima de Bogotá). NÃO suba no 1o dia; sem álcool antes; devagar. Sintomas: dor de cabeça, tontura, falta de ar, náusea, fadiga. Se sentir, desça - descer é o tratamento mais eficaz (CDC).",
+        "Preços/horários podem mudar sem aviso (Semana Santa e Natal têm regime especial).",
+        "ALTITUDE: Bogotá fica a ~2.600 m (bogota.gov.co e El Tiempo dão 2.600/2.601 m; o briefing citava 2.553 m). Dias 1-2 sem esforço pesado, hidrate-se e evite álcool nas primeiras 48 h (CDC); deixe Monserrate (3.152 m) para os últimos dias (Secretaria de Saúde de Bogotá). Sintomas de soroche: dor de cabeça, tontura, náusea, fadiga, falta de ar; desça/procure médico se houver falta de ar em repouso ou confusão.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cerro_de_Monserrate_en_Bogot%C3%A1.JPG/1280px-Cerro_de_Monserrate_en_Bogot%C3%A1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cerro_de_Monserrate_en_Bogot%C3%A1.JPG"
+      },
+      "fontes": [
+        "https://monserrate.co/es/horarios-y-tarifas/",
+        "https://bogota.gov.co/que-hacer/recreacion-y-deporte/monserrate-bogota-semana-santa-horarios-y-recomendaciones-abril-2026",
+        "https://es.wikipedia.org/wiki/Cerro_de_Monserrate",
+        "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+        "https://bogota.gov.co/mi-ciudad/salud/recomendaciones-de-salud-para-viajar-bogota-en-el-2024"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Monserrate a pé (sendero peatonal)",
+      "categoria": "natureza",
+      "cidade": "bogota",
+      "tags": [
+        "trilha",
+        "altitude",
+        "esforco",
+        "manha"
+      ],
+      "coords": {
+        "lat": 4.6072539,
+        "lng": -74.054309
+      },
+      "descricaoCurta": "Trilha de pedra até o topo; subida só de manhã (05:00-13:00), fechada às terças - não faça antes de se aclimatar.",
+      "descricaoLonga": "Sendero peatonal oficial: subida de quarta a segunda 05:00-13:00, descida permitida até 16:00; FECHADO às terças (monserrate.co). Depois disso só funicular/teleférico. Não encontrei cobrança de ingresso do sendero na página oficial - confirme no local. A prefeitura manda deixar atividades como subir Monserrate para os últimos dias da viagem por causa da altitude. Coordenada = topo do cerro (OSM).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "05:00–13:00 (subida); descida até 16:00",
+        "ter": "Fechado",
+        "qua": "05:00–13:00 (subida); descida até 16:00",
+        "qui": "05:00–13:00 (subida); descida até 16:00",
+        "sex": "05:00–13:00 (subida); descida até 16:00",
+        "sab": "05:00–13:00 (subida); descida até 16:00",
+        "dom": "05:00–13:00 (subida); descida até 16:00"
+      },
+      "diasFechados": [
+        "terça"
+      ],
+      "melhorHorario": "Suba 05:30-08:00 (menos sol) e desça de teleférico (COP 21.000 só ida) se cansar.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Cobrança do sendero não localizada na página oficial; descida de funicular/teleférico COP 21.000. Confirmar no local.",
+        "fontes": [
+          "https://monserrate.co/es/horarios-y-tarifas/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+57 601 747-0190",
+        "whatsapp": "",
+        "site": "https://monserrate.co/es/horarios-y-tarifas/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não recomendado a gestantes, cardíacos, hipertensos/diabéticos descontrolados, doenças respiratórias crônicas ou mobilidade reduzida (prefeitura)"
+      ],
+      "pontoPartida": "Entrada do sendero, Paseo Bolívar / Cra. 2 Este, Bogotá",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Subir a pé é opcional; com ritmo INTENSO e primeiros dias em altitude, prefira teleférico.",
+        "Se subir: água, casaco, protetor solar, sem álcool na véspera."
+      ],
+      "alertas": [
+        "Esforço pesado nos 1-2 primeiros dias é o erro nº 1 dos turistas (Secretaria de Saúde). Altitude 3.152 m.",
+        "Sendero Pico del Águila segue fechado (bogota.gov.co, abr/2026).",
+        "ALTITUDE: Bogotá fica a ~2.600 m (bogota.gov.co e El Tiempo dão 2.600/2.601 m; o briefing citava 2.553 m). Dias 1-2 sem esforço pesado, hidrate-se e evite álcool nas primeiras 48 h (CDC); deixe Monserrate (3.152 m) para os últimos dias (Secretaria de Saúde de Bogotá). Sintomas de soroche: dor de cabeça, tontura, náusea, fadiga, falta de ar; desça/procure médico se houver falta de ar em repouso ou confusão.",
+        "Duração é estimativa do agente."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Entrada_sendero_peatonal_al_cerro_de_Monserrate_en_Bogot%C3%A1%2C_Colombia..JPG/1280px-Entrada_sendero_peatonal_al_cerro_de_Monserrate_en_Bogot%C3%A1%2C_Colombia..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Mónica Alejandra Ortiz",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Entrada_sendero_peatonal_al_cerro_de_Monserrate_en_Bogot%C3%A1,_Colombia..JPG"
+      },
+      "fontes": [
+        "https://monserrate.co/es/horarios-y-tarifas/",
+        "https://bogota.gov.co/que-hacer/recreacion-y-deporte/monserrate-bogota-semana-santa-horarios-y-recomendaciones-abril-2026",
+        "https://bogota.gov.co/mi-ciudad/salud/recomendaciones-de-salud-para-viajar-bogota-en-el-2024"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza de Mercado de Paloquemao",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": [
+        "mercado",
+        "frutas",
+        "flores",
+        "gastronomia",
+        "manha",
+        "barato"
+      ],
+      "coords": {
+        "lat": 4.6162529,
+        "lng": -74.0849713
+      },
+      "descricaoCurta": "Mercado de frutas, flores e comida popular; vá cedo e peça para provar granadilla, lulo, uchuva, zapote.",
+      "descricaoLonga": "Mercado coberto atacadista/varejista (Av. Calle 19 No. 25-04) com seções de frutas, verduras, carnes/comida pronta e o maior centro de flores cortadas do país (~800 variedades, Radio Nacional). Vendedores costumam oferecer provas. O que pedir: granadilla, lulo, uchuva, zapote, mamoncillo, maracujá; restaurantes internos servem lechona, frango grelhado e peixe. Não é mercado de souvenirs.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "A partir de 04:30; melhor 07:00–10:00",
+        "ter": "A partir de 04:30; melhor 07:00–10:00",
+        "qua": "A partir de 04:30; melhor 07:00–10:00",
+        "qui": "A partir de 04:30; melhor 07:00–10:00",
+        "sex": "A partir de 04:30; melhor 07:00–10:00",
+        "sab": "A partir de 04:30; melhor 07:00–10:00",
+        "dom": "Fecha mais cedo (~14:30 segundo Nomado)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "07:00-10:00 em dia útil (bancas abastecidas); mais movimentado ter/qui/sex.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada grátis; paga só o que consumir. Estacionamento ~COP 3.000/h (Nomado).",
+        "fontes": [
+          "https://www.nomadotravel.app/es/attractions/paloquemao-market"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "plazadepaloquemao.com (citado pelo Nomado; não aberto)",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Calle 19 No. 25-04, Los Mártires, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Café da manhã + frutas por poucos pesos; ótimo para o dia 2.",
+        "Vá e volte de Uber/Cabify: o entorno (Los Mártires) tem as maiores taxas de homicídio da cidade (sacavoyage); Nomado também recomenda app/táxi na 1a visita."
+      ],
+      "alertas": [
+        "Horários divergem: Nomado diz abrir 04:30 (seg-sáb) e fechar mais cedo domingo/feriados; Radio Nacional (2019) diz 03:30-13:30 todos os dias. Vá antes das 11:00.",
+        "Los Mártires: bairro de risco - não explore a pé fora do mercado.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Market_in_Bogot%C3%A1.jpg/1280px-Market_in_Bogot%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Mussi Katz",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Market_in_Bogot%C3%A1.jpg"
+      },
+      "fontes": [
+        "https://www.nomadotravel.app/es/attractions/paloquemao-market",
+        "https://www.radionacional.co/cultura/plaza-de-paloquemao-el-mercado-de-las-flores-en-bogota",
+        "https://sacavoyage.fr/es/quartiers-a-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado de las Pulgas de Usaquén (domingo)",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": [
+        "mercado",
+        "artesanato",
+        "domingo",
+        "usaquen",
+        "gastronomia"
+      ],
+      "coords": {
+        "lat": 4.6951704,
+        "lng": -74.0309408
+      },
+      "descricaoCurta": "Feira de artesanato e antiguidades na praça colonial de Usaquén, domingos 09:00-18:00; entrada grátis.",
+      "descricaoLonga": "Mercado de pulgas criado em 1990 na praça de Usaquén (Calle 119 com Carrera 6A). Artesanato, cerâmica, ruanas de lã, prata, couro, livros, arte e comida de rua, com música ao vivo. Combina com almoço no bairro e com a Ciclovía de domingo cedo. Leve COP em dinheiro e negocie.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": "09:00–18:00 (Nomado indica fechamento 17:30)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "09:00-10:30 (calmo); depois das 11:30 lota.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita; preços fixados por cada vendedor",
+        "fontes": [
+          "https://www.nomadotravel.app/es/attractions/usaquen-flea-market",
+          "https://bogota.gov.co/mi-ciudad/turismo/historia-y-horarios-de-los-mercados-de-las-pulgas-de-bogota"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "www.mercadopulgasusaquen.com (citado pelo Nomado; não aberto)",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 119 com Carrera 6A, Usaquén, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor lugar para lembranças autorais (cerâmica, ruana, prata).",
+        "Sequência de domingo: Ciclovía 07:00 -> Usaquén 10:00 -> almoço no bairro.",
+        "Compare 2-3 bancas antes de comprar e negocie."
+      ],
+      "alertas": [
+        "Sábado: Nomado diz que também funciona sábados e segundas feriado; bogota.gov.co (2022) e Radio Nacional (2023) falam só em domingo - sábado deixado em branco por falta de confirmação.",
+        "Furtos de celular/carteira em multidão (gov.uk/World Nomads).",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bogot%C3%A1_barrio_Usaqu%C3%A9n_plaza.JPG/1280px-Bogot%C3%A1_barrio_Usaqu%C3%A9n_plaza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_barrio_Usaqu%C3%A9n_plaza.JPG"
+      },
+      "fontes": [
+        "https://www.nomadotravel.app/es/attractions/usaquen-flea-market",
+        "https://bogota.gov.co/mi-ciudad/turismo/historia-y-horarios-de-los-mercados-de-las-pulgas-de-bogota",
+        "https://radionacional.co/cultura/mercado-de-las-pulgas-en-bogota-ubicacion-horarios-y-articulos-unicos"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ciclovía de domingo",
+      "categoria": "experiencia",
+      "cidade": "bogota",
+      "tags": [
+        "gratis",
+        "domingo",
+        "bike",
+        "a-pe",
+        "manha"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Ruas fechadas aos carros todo domingo e feriado, 07:00-14:00, num circuito de 127,69 km; gratuita.",
+      "descricaoLonga": "Programa do IDRD: todos os domingos e feriados do ano, das 07:00 às 14:00, com circuito de 127,69 km (7,05 km de ciclorrota). Gratuito. Aluguel de bike por operadoras (preço não verificado) ou a pé. Boa ideia para a manhã de domingo antes de Usaquén. Sem coordenada: é um circuito de ruas, não um ponto.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "Só em feriados: 07:00–14:00",
+        "ter": "Não opera (só domingos e feriados)",
+        "qua": "Não opera (só domingos e feriados)",
+        "qui": "Não opera (só domingos e feriados)",
+        "sex": "Não opera (só domingos e feriados)",
+        "sab": "Não opera (só domingos e feriados)",
+        "dom": "07:00–14:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "07:00-10:00.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito (aluguel de bike não verificado)",
+        "fontes": [
+          "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/horarios-y-rutas-de-la-ciclovia-bogotana-los-domingos-y-festivos"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/horarios-y-rutas-de-la-ciclovia-bogotana-los-domingos-y-festivos",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vários pontos (mapa no site do IDRD)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Custo zero e combina com Usaquén; só se tiver um domingo livre.",
+        "Altitude: pedale/ande em ritmo leve, sobretudo no 1o domingo."
+      ],
+      "alertas": [
+        "O trem para Zipaquirá também só roda sáb/dom/feriados - não dá para fazer Ciclovía de manhã e o trem no mesmo dia.",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2019_Bogot%C3%A1_-_Ciclov%C3%ADa_en_la_calle_26.jpg/1280px-2019_Bogot%C3%A1_-_Ciclov%C3%ADa_en_la_calle_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2019_Bogot%C3%A1_-_Ciclov%C3%ADa_en_la_calle_26.jpg"
+      },
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/horarios-y-rutas-de-la-ciclovia-bogotana-los-domingos-y-festivos"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Chapinero (Chapinero Alto e Central): rumba e bares",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": [
+        "noite",
+        "lgbtq",
+        "bares",
+        "cerveja-artesanal",
+        "balada",
+        "economico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Coração 'democrático' da rumba bogotana: cerveja nacional COP 8-15 mil, noite completa COP 80-150 mil.",
+      "descricaoLonga": "Segundo o guia Nomado (2026), Chapinero é onde vai a maioria dos bogotanos: estudantes, locais e a comunidade LGBTQ+. Passa pela Carrera 7, setor da Calle 67 e a 'Zona de Rumba' perto da Carrera 13. Muitos bares têm permissão de horário estendido (até 5-6 h nos fins de semana). Preços: coquetel em lounge médio COP 20-35 mil; cerveja nacional 8-15 mil; entrada de balada 15-50 mil (até 90 mil em eventos); noite completa (bebidas+entrada+transporte) COP 80-150 mil. Hostelz: Chapinero Alto tem cafés, clubes LGBTQ+ e cervejarias artesanais, 'se sente mais seguro' e custa ~15% mais que La Candelaria. Sem coordenada única (bairro amplo).",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegue antes da meia-noite: muitos locais cortam ou reduzem entrada na 1a hora (Nomado); pico depois da 01:00. Quinta já é movimentada.",
+      "preco": {
+        "min": 80000,
+        "max": 150000,
+        "por": "pessoa",
+        "inclui": "Estimativa de noite completa (bebidas+entrada+transporte) segundo Nomado; cerveja nacional 8-15 mil; coquetel 20-35 mil; entrada 15-50 mil",
+        "fontes": [
+          "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Maiores de 18; leve passaporte/cópia"
+      ],
+      "pontoPartida": "Carrera 13 / Calle 63-67 e Carrera 7 (Chapinero), Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor custo-benefício de vida noturna para casal econômico (metade do preço da Zona T).",
+        "Volte SEMPRE de Uber/Cabify/DiDi/inDrive, nunca com táxi parado na rua (gov.uk; Bogotá Gov).",
+        "Quinta antes da meia-noite = entrada reduzida/grátis em vários locais (Nomado)."
+      ],
+      "alertas": [
+        "ÁLCOOL x ALTITUDE: em Bogotá o álcool 'sobe' mais rápido e desidrata (Nomado; Secretaria de Saúde; CDC recomenda evitar álcool nas primeiras 48 h). Não beba pesado nas 2 primeiras noites; água entre drinques; coma antes de sair. Noites frias: 8-12 °C após a meia-noite (Nomado).",
+        "Nunca deixe copo sem vigilância e recuse bebidas de desconhecidos (escopolamina - gov.uk). O gov.uk também alerta para criminosos que usam aplicativos de namoro para drogar e roubar viajantes.",
+        "Preços e horários vêm de um único guia (Nomado, 2026) - confiança 'parcial'. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogot%C3%A1_Chapinero_de_noche.JPG/1280px-Bogot%C3%A1_Chapinero_de_noche.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_Chapinero_de_noche.JPG"
+      },
+      "fontes": [
+        "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide",
+        "https://www.hostelz.com/es/como-elegir-un-hostel-en-bogota-colombia",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://sacavoyage.fr/es/quartiers-a-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zona T / Zona Rosa / Parque de la 93",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": [
+        "noite",
+        "bares",
+        "restaurantes",
+        "compras",
+        "luxo",
+        "zona-t"
+      ],
+      "coords": {
+        "lat": 4.6677619,
+        "lng": -74.0537632
+      },
+      "descricaoCurta": "Corredor de bares e lounges de luxo (Carrera 12A com Calle 83); noite de COP 150-250 mil, fecha cedo (~01:00).",
+      "descricaoLonga": "A 'T' é a rua pedonal da Carrera 12A com Calle 83, no coração da Zona Rosa (Calles 82-85 aprox.). Público mais velho e internacional; cerveja artesanal COP 12-22 mil, importada 22-32 mil, coquetel premium 35-55 mil; noite completa COP 150-250 mil; muitos locais fecham ~01:00 nos fins de semana (Nomado). Há shoppings e lojas de design ao redor (Centro Comercial Andino, Atlantis na Calle 81-82). É o principal foco de 'paseo millonario' (sequestro-relâmpago em táxi) - leia os alertas. Desde fev/2026 existem 'zonas seguras para táxis' verificadas em tempo real na Zona T.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Jantar 19:00-21:00; bares 21:00-01:00. Caro: prefira Chapinero para balada longa.",
+      "preco": {
+        "min": 150000,
+        "max": 250000,
+        "por": "pessoa",
+        "inclui": "Noite completa estimada (Nomado). Cerveja artesanal 12-22 mil; importada 22-32 mil; coquetel premium 35-55 mil",
+        "fontes": [
+          "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Alguns locais têm dress code"
+      ],
+      "pontoPartida": "Carrera 12A com Calle 83, Zona Rosa, Bogotá",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Zona T é 2x mais cara que Chapinero; vá só 1 noite (jantar+1 bar) ou tome algo no Andrés DC (Calle 82) e vá embora.",
+        "Na volta, use o ponto de 'Taxi Seguro' (zona T) ou Uber/Cabify pedido ainda dentro do bar - não pare táxi na rua."
+      ],
+      "alertas": [
+        "PASEO MILLONARIO: Gaula/Polícia fizeram operações na Zona T (fev e abr/2026); em 16/06/2026 a polícia desmantelou o grupo 'Los Selectivos'; em 25-26/07/2026 um estrangeiro relatou ter sido drogado (suspeita de escopolamina) após pegar táxi na rua na Zona T (Publimetro). Distrito criou zonas seguras de táxi (Zona T, Modelia, Distrito Diverso) com validação de placa em tempo real.",
+        "ÁLCOOL x ALTITUDE: em Bogotá o álcool 'sobe' mais rápido e desidrata (Nomado; Secretaria de Saúde; CDC recomenda evitar álcool nas primeiras 48 h). Não beba pesado nas 2 primeiras noites; água entre drinques; coma antes de sair. Noites frias: 8-12 °C após a meia-noite (Nomado).",
+        "Preços de fonte única (Nomado). Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bogot%C3%A1_Zona_T.JPG/1280px-Bogot%C3%A1_Zona_T.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_Zona_T.JPG"
+      },
+      "fontes": [
+        "https://www.nomadotravel.app/es/guides/bogota-nightlife-guide",
+        "https://bogota.gov.co/mi-ciudad/seguridad/tenga-cuidado-con-estas-senales-cuando-coja-o-pida-taxi-en-bogota",
+        "https://www.portafolio.co/tendencias/sociales/bogota-activa-zonas-seguras-para-taxis-en-sectores-de-rumba-con-verificacion-en-tiempo-real-489352",
+        "https://bogota.gov.co/en/node/285632",
+        "https://www.publimetro.co/bogota/2026/07/30/no-dejes-que-los-bastardos-te-destruyan-extranjero-denuncia-paseo-millonario-y-abuso-sexual-con-escopolamina-en-taxi-que-tomo-en-la-zona-t-de-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Andrés Carne de Res (Chía)",
+      "categoria": "restaurante",
+      "cidade": "bogota",
+      "tags": [
+        "jantar",
+        "festa",
+        "icone",
+        "chia",
+        "noite",
+        "musica-ao-vivo"
+      ],
+      "coords": {
+        "lat": 4.8540242,
+        "lng": -74.0651789
+      },
+      "descricaoCurta": "Restaurante-balada temático original, em Chía (~1h-1h30 de Bogotá); sem preço confirmado; volta de madrugada exige planejamento.",
+      "descricaoLonga": "A casa original (Calle 3 No. 11A-56, Chía) é um 'labirinto' de salas com decoração, shows e comida de grelha; o site oficial descreve como a 'Ciudad de la Luna' e convida a 'pegar a rodadita' até Chía. Horário oficial: seg fechado; ter/qua 13:00-21:00; quinta 13:00-02:00; sex/sáb 12:00-03:00; domingo 08:00-22:00; feriados 12:00-22:00. Reserva: tel. 601 5893880 / 601 5893889 / 315 3559096 (opção 1). Traslado organizado de hotel (ida e volta) listado a USD 42,80 por pessoa, ~6 h no total e ~3 h livres no restaurante, SEM incluir o jantar (dicasdeviagem; reservar 12 h antes). Não consegui confirmar preço do cardápio nem couvert.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "13:00–21:00",
+        "qua": "13:00–21:00",
+        "qui": "13:00–02:00",
+        "sex": "12:00–03:00",
+        "sab": "12:00–03:00",
+        "dom": "08:00–22:00 (feriados 12:00–22:00)"
+      },
+      "diasFechados": [
+        "segunda"
+      ],
+      "melhorHorario": "Quinta a sábado à noite (ambiente pleno); reserve.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço de cardápio/couvert NÃO confirmado. Traslado ida/volta ~USD 42,80 por pessoa (sem refeição) segundo dicasdeviagem - valor em dólar, sem data de cotação.",
+        "fontes": [
+          "https://www.andrescarnederes.com/como-llegar",
+          "https://www.dicasdeviagem.com/passeios/transfer-de-bogota-ate-andres-carne-de-res-em-chia/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": "https://www.andrescarnederes.com/andres-carne-de-res"
+      },
+      "contato": {
+        "telefone": "+57 601 5893880 / +57 601 5893889 / +57 315 3559096 (opção 1)",
+        "whatsapp": "",
+        "site": "https://www.andrescarnederes.com/andres-carne-de-res",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 3 No. 11A-56, Chía (saída: Bogotá)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Para casal econômico com 10-12 dias: o traslado (~USD 43 por pessoa) + jantar + drinques faz Chía custar muito mais que o Andrés DC. Só vá se esta for A experiência de balada da viagem.",
+        "Se for: reserve, combine a volta ANTES (transfer da mesma empresa ou carro por app pedido ainda dentro), nunca saia procurando táxi na estrada.",
+        "Quinta é a noite com menos gente que sexta/sábado, ainda com festa."
+      ],
+      "alertas": [
+        "Volta de madrugada: não confirmei preço de Uber/táxi Chía->Bogotá nem horário do último ônibus (um blog menciona 21:30, não verificado). Tratar como indisponível depois das 21:30.",
+        "ÁLCOOL x ALTITUDE: em Bogotá o álcool 'sobe' mais rápido e desidrata (Nomado; Secretaria de Saúde; CDC recomenda evitar álcool nas primeiras 48 h). Não beba pesado nas 2 primeiras noites; água entre drinques; coma antes de sair. Noites frias: 8-12 °C após a meia-noite (Nomado).",
+        "A página oficial não lista preços nem couvert. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Exterior_of_Andr%C3%A9s_Carne_de_Res_%287964303918%29.jpg/1280px-Exterior_of_Andr%C3%A9s_Carne_de_Res_%287964303918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ratha Grimes from Seattle, WA, United States",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Exterior_of_Andr%C3%A9s_Carne_de_Res_(7964303918).jpg"
+      },
+      "fontes": [
+        "https://www.andrescarnederes.com/como-llegar",
+        "https://www.andrescarnederes.com/andres-carne-de-res",
+        "https://www.dicasdeviagem.com/passeios/transfer-de-bogota-ate-andres-carne-de-res-em-chia/",
+        "https://melonthego.com/a-bogota-experience-andres-dc/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Andrés D.C. (Zona Rosa, Bogotá)",
+      "categoria": "restaurante",
+      "cidade": "bogota",
+      "tags": [
+        "jantar",
+        "festa",
+        "zona-rosa",
+        "noite",
+        "icone"
+      ],
+      "coords": {
+        "lat": 4.6660779,
+        "lng": -74.0539686
+      },
+      "descricaoCurta": "A versão urbana do Andrés em 4 andares na Calle 82 #12-21; aberto até 02:00 (qui-sáb); evita ir a Chía.",
+      "descricaoLonga": "O site oficial descreve 'cuatro pisos' (Infierno, Tierra, Purgatorio e Cielo) no meio da capital. Fica na Calle 82 #12-21 (Zona Rosa), a poucas quadras da Zona T. Horários: dom 08:00-23:00; seg e feriados 12:00-23:00; ter/qua 12:00-00:00; qui 12:00-02:00; sex/sáb 12:00-02:00. Reserva pelos mesmos telefones do Andrés (601 5893880 / 5893889 / 315 3559096 opção 1). Blog (melonthego, atualizado em 2022) diz que é menor que Chía mas ainda 'verdadeira experiência colombiana' (chicharrón e lombo com chimichurri são citados). Preços não confirmados.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "12:00–23:00 (feriados 12:00–23:00)",
+        "ter": "12:00–00:00",
+        "qua": "12:00–00:00",
+        "qui": "12:00–02:00",
+        "sex": "12:00–02:00",
+        "sab": "12:00–02:00",
+        "dom": "08:00–23:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quinta a sábado depois das 21:00.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço do cardápio NÃO confirmado",
+        "fontes": [
+          "https://www.andrescarnederes.com/como-llegar"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.andrescarnederes.com/andres-dc"
+      },
+      "contato": {
+        "telefone": "+57 601 5893880 / +57 601 5893889 / +57 315 3559096 (opção 1)",
+        "whatsapp": "",
+        "site": "https://www.andrescarnederes.com/andres-dc",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 82 #12-21, Zona Rosa, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor escolha para quem quer a experiência Andrés sem viagem a Chía; faz parte da mesma região da Zona T.",
+        "Peça Uber/Cabify do próprio restaurante; a região é alvo de 'paseo millonario'."
+      ],
+      "alertas": [
+        "Zona T/Chapinero Norte: não pegar táxi na rua (Gaula, 2026).",
+        "ÁLCOOL x ALTITUDE: em Bogotá o álcool 'sobe' mais rápido e desidrata (Nomado; Secretaria de Saúde; CDC recomenda evitar álcool nas primeiras 48 h). Não beba pesado nas 2 primeiras noites; água entre drinques; coma antes de sair. Noites frias: 8-12 °C após a meia-noite (Nomado).",
+        "Sem preço confirmado. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.andrescarnederes.com/como-llegar",
+        "https://www.andrescarnederes.com/andres-dc",
+        "https://melonthego.com/a-bogota-experience-andres-dc/",
+        "https://bogota.gov.co/en/node/285632"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Galerías (Teusaquillo)",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": [
+        "bairro",
+        "comercio",
+        "seguranca",
+        "taxi"
+      ],
+      "coords": {
+        "lat": 4.6430327,
+        "lng": -74.075995
+      },
+      "descricaoCurta": "Bairro comercial/residencial de Teusaquillo; não é base turística e está na lista de zonas de 'paseo millonario'.",
+      "descricaoLonga": "Galerías aparece em fontes oficiais mais por segurança que por turismo: o Gaula fez operação preventiva contra 'paseos millonarios' em Zona T, Modelia e Galerías (1/fev/2026), com validação de veículos em 'zonas seguras' e recomendação de embarcar apenas em pontos seguros. Não consegui fonte confiável sobre bares/compras/preços de turista em Galerías.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Se for, de dia.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem dados de preço",
+        "fontes": [],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Galerías, Teusaquillo, Bogotá",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Sem evidência de que valha a ida para turista; use o tempo em Chapinero/Zona T/Usaquén."
+      ],
+      "alertas": [
+        "Sem fonte para horários, preços ou atrações: item 'estimado' - não incluir no roteiro sem validação.",
+        "Aviso oficial do Gaula (01/02/2026): paseo millonario em Zona T, Modelia e Galerías - só embarque em pontos verificados/app.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bogot%C3%A1_centro_comercial_Galer%C3%ADas.JPG/1280px-Bogot%C3%A1_centro_comercial_Galer%C3%ADas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_centro_comercial_Galer%C3%ADas.JPG"
+      },
+      "fontes": [
+        "https://bogota.gov.co/en/node/285632"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Esmeraldas: compra segura (centro, Av. Jiménez)",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": [
+        "esmeralda",
+        "joias",
+        "centro",
+        "golpe",
+        "certificado"
+      ],
+      "coords": {
+        "lat": 4.600917,
+        "lng": -74.0723338
+      },
+      "descricaoCurta": "O centro de Bogotá concentra o comércio de esmeraldas; só compre com certificado e em loja formal.",
+      "descricaoLonga": "O comércio de esmeraldas se concentra na região da Avenida Jiménez com Carrera 6-7 (perto do Museo del Oro; coordenada = Av. Jiménez no OSM, não o edifício de uma joalheria). Valora Analitik (2022): exija certificado de autenticidade (custo COP 80.000-200.000), com selo legal da Fedesmeraldas, e compre em joalheria formal; o tráfico de esmeraldas é 'muito comum'. Fatores de preço: tamanho, corte, cor saturada, clareza. Não consegui verificar endereços/horários de joalherias específicas nem preços de pedras; trate como orientação de segurança, não como indicação de loja.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dia, em dia útil, junto com a visita ao Museo del Oro.",
+      "preco": {
+        "min": 80000,
+        "max": 200000,
+        "por": "pessoa",
+        "inclui": "Custo do certificado de autenticidade (Valora Analitik, 2022) - não é preço da pedra",
+        "fontes": [
+          "https://www.valoraanalitik.com/invertir-en-esmeraldas-tenga-en-cuenta-recomendaciones/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Jiménez com Carrera 6-7, centro, Bogotá",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Com orçamento de R$ 8.000/pessoa incluindo voo, esmeralda não cabe; olhe, compare e, se comprar, só peça pequena + certificado.",
+        "Nunca compre de ambulante/camelô da rua; exija certificado (Fedesmeraldas) e nota fiscal; fotografe a pedra e o laudo.",
+        "Vá acompanhado e não carregue dinheiro vivo alto."
+      ],
+      "alertas": [
+        "Risco de falsificação/origem trocada e de assalto no centro. Fonte única (2022) - confiança parcial.",
+        "Coordenada é da Av. Jiménez (OSM), não de uma loja.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.valoraanalitik.com/invertir-en-esmeraldas-tenga-en-cuenta-recomendaciones/",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Artesanato: Pasaje Rivas e Mercado San Alejo",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": [
+        "artesanato",
+        "centro",
+        "barato",
+        "souvenirs",
+        "domingo"
+      ],
+      "coords": {
+        "lat": 4.5989563,
+        "lng": -74.0779597
+      },
+      "descricaoCurta": "Pasaje Rivas (seg-sáb) e feira San Alejo (domingo) para artesanato: redes, cestas, brinquedos de madeira, mochilas.",
+      "descricaoLonga": "Segundo bogota.gov.co (2022): Pasaje Rivas, Carrera 10 com Calle 10 (perto da Plaza de Bolívar), abre seg-sáb 09:00-18:30 e domingo 10:00-15:00, com artesanato colombiano, brinquedos de madeira, cestas, redes, artesanato indígena. Feira San Alejo, Carrera 7 No. 24-70, domingos e feriados 09:00-17:30, 330+ vendedores e uma seção de antiguidades. Preços individuais não verificados. Usaquén é a alternativa mais 'turística' e organizada.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "09:00–18:30",
+        "ter": "09:00–18:30",
+        "qua": "09:00–18:30",
+        "qui": "09:00–18:30",
+        "sex": "09:00–18:30",
+        "sab": "09:00–18:30",
+        "dom": "Pasaje Rivas 10:00–15:00; San Alejo 09:00–17:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; combine com Plaza de Bolívar (Pasaje Rivas fica a ~1 quadra).",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre; preços variam por vendedor (não verificados)",
+        "fontes": [
+          "https://bogota.gov.co/mi-ciudad/turismo/historia-y-horarios-de-los-mercados-de-las-pulgas-de-bogota"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carrera 10 com Calle 10, centro, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Souvenir barato e leve no dia do centro; negocie 20-30% (regra geral, sem fonte).",
+        "Para peças de melhor qualidade, prefira a feira de Usaquén de domingo."
+      ],
+      "alertas": [
+        "Fonte de 2022 e única - confirme horários. Centro: cuidado com furtos (gov.uk).",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Bogot%C3%A1_Pasaje_Rivas.JPG/1280px-Bogot%C3%A1_Pasaje_Rivas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1_Pasaje_Rivas.JPG"
+      },
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/turismo/historia-y-horarios-de-los-mercados-de-las-pulgas-de-bogota",
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Puerta Falsa (ajiaco, tamal e chocolate santafereño)",
+      "categoria": "restaurante",
+      "cidade": "bogota",
+      "tags": [
+        "ajiaco",
+        "tamal",
+        "tradicional",
+        "economico",
+        "centro",
+        "cafe-da-manha"
+      ],
+      "coords": {
+        "lat": 4.5979225,
+        "lng": -74.074677
+      },
+      "descricaoCurta": "Casa tradicional do centro (Calle 11 #6-50): tamal tolimense ~COP 10.500 e ajiaco santafereño ~COP 40.300.",
+      "descricaoLonga": "Restaurante pequeno (poucos lugares) famoso por ajiaco santafereño, tamal e chocolate santafereño (com queijo). Preços citados pela Blu Radio vêm do cardápio da FILIAL de Zipaquirá (nov/2024): tamal COP 10.500 e ajiaco COP 40.300 - na sede de Bogotá podem diferir. Horários da sede não confirmados em fonte aberta. Fica a 1-2 quadras da Plaza de Bolívar.",
+      "duracao": {
+        "min": 20,
+        "tipica": 40,
+        "max": 75
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Café da manhã (tamal + chocolate) ou almoço (ajiaco).",
+      "preco": {
+        "min": 10500,
+        "max": 40300,
+        "por": "pessoa",
+        "inclui": "Tamal 10.500; ajiaco 40.300 (cardápio da filial de Zipaquirá, 2024; sede não verificada)",
+        "fontes": [
+          "https://www.bluradio.com/turismo/un-restaurante-muy-antiguo-y-querido-en-bogota-tiene-local-en-zipaquira-y-pocos-lo-saben-rs15"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 11 #6-50, La Candelaria, Bogotá",
+      "dicasAgente": [
+        "[VALE CADA PESO] Tamal + chocolate com queijo como café da manhã barato; ajiaco no almoço (prato já faz refeição).",
+        "Há filial na praça de Zipaquirá (útil no dia da Catedral)."
+      ],
+      "alertas": [
+        "Preços são da filial de Zipaquirá (2024); horário da sede não confirmado. Ajiaco é prato de altitude: leve e hidratante, bom para o 1o dia.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Frente_la_puerta_falsa.jpg/1280px-Frente_la_puerta_falsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Cesar.cely",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Frente_la_puerta_falsa.jpg"
+      },
+      "fontes": [
+        "https://www.bluradio.com/turismo/un-restaurante-muy-antiguo-y-querido-en-bogota-tiene-local-en-zipaquira-y-pocos-lo-saben-rs15"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Café de especialidade (Cultor, Azahar, Libertario, Colo)",
+      "categoria": "cafe",
+      "cidade": "bogota",
+      "tags": [
+        "cafe",
+        "especialidade",
+        "chuva",
+        "pausa",
+        "biblioteca"
+      ],
+      "coords": {
+        "lat": 4.5971988,
+        "lng": -74.0729124
+      },
+      "descricaoCurta": "Roteiro de cafés de especialidade: Cultor na Biblioteca Luis Ángel Arango, Colo Coffee na Candelaria, Azahar e Libertario no norte.",
+      "descricaoLonga": "Flavors of Bogotá (atualizado fev/2026) lista: Café Cultor (inclui ponto na Biblioteca Luis Ángel Arango, Candelaria), Colo Coffee (Diagonal 20A #0-06 na Candelaria; Carrera 12A #83-48 na Zona T; Usaquén), Azahar (Calle 93B #13-91; Carrera 9 #79A-23), Libertario (Calle 70A #5-37; Carrera 13 #85-13), Amor Perfecto (Carrera 4 #66-46), Catación Pública (Calle 120A #3A-47, Usaquén). Preços e horários não informados na fonte. Coordenada = Biblioteca Luis Ángel Arango (OSM), onde há ponto do Cultor.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã ou tarde chuvosa.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não verificado",
+        "fontes": [
+          "https://flavorsofbogota.com/coffee-shops-in-bogota/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Biblioteca Luis Ángel Arango, Calle 11 #4-14 (Cultor); demais endereços na descrição",
+      "dicasAgente": [
+        "[VALE CADA PESO] 1 café de especialidade por dia vale como pausa de altitude (cafeína moderada é ok no CDC) e é barato em relação à Europa.",
+        "Colo Coffee em Usaquén combina com o Mercado de Pulgas de domingo."
+      ],
+      "alertas": [
+        "Preços/horários não confirmados.",
+        "Fonte única (blog) - confiança parcial.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://flavorsofbogota.com/coffee-shops-in-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "TransMilenio (ônibus expresso)",
+      "categoria": "passeio",
+      "cidade": "bogota",
+      "tags": [
+        "transporte",
+        "barato",
+        "metro-bus",
+        "portal-norte"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Passagem 2026: COP 3.550; baldeação grátis em 125 min com cartão personalizado; estações têm furtos.",
+      "descricaoLonga": "Tarifa do TransMilenio, TransMiCable e TransMiZonal desde 14/01/2026: COP 3.550 (+10,9%). Cartão TuLlave (Plus personalizado dá baldeação gratuita por 125 min). TransMiPass: 65 viagens por COP 160.000. Útil para: Museo del Oro (estação Museo del Oro), Portal Norte (ônibus para Zipaquirá/Guatavita), Usaquén. World Nomads: 'a bordo é razoável, mas as estações são cheias de batedores de carteira'. Preço do cartão TuLlave físico não localizado.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fora do horário de pico; evite com mochila aberta.",
+      "preco": {
+        "min": 3550,
+        "max": 3550,
+        "por": "pessoa",
+        "inclui": "Tarifa por viagem (2026); TransMiPass 65 viagens COP 160.000",
+        "fontes": [
+          "https://bogota.gov.co/mi-ciudad/movilidad/tarifa-transmilenio-transmicable-y-transmizonal-2026-bogota"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Estações em toda a cidade (Portal Norte para Zipaquirá/Guatavita)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor transporte barato de dia; à noite use Uber/Cabify.",
+        "Celular/mochila na frente, nunca na mão perto das portas."
+      ],
+      "alertas": [
+        "Furtos em estações e dentro de ônibus lotados (World Nomads).",
+        "Sem coordenada (rede)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/La_estaci%C3%B3n_Portal_del_Norte%2C_TransMilenio%2C_Bogot%C3%A1%2C_Colombia.jpg/1280px-La_estaci%C3%B3n_Portal_del_Norte%2C_TransMilenio%2C_Bogot%C3%A1%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sebastian Reategui",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_estaci%C3%B3n_Portal_del_Norte,_TransMilenio,_Bogot%C3%A1,_Colombia.jpg"
+      },
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/movilidad/tarifa-transmilenio-transmicable-y-transmizonal-2026-bogota",
+        "https://www.worldnomads.com/travel-safety/south-america/colombia/beware-the-dangers-of-bogota"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Catedral de Sal de Zipaquirá",
+      "categoria": "atracao",
+      "cidade": "zipaquira",
+      "tags": [
+        "catedral",
+        "mina-de-sal",
+        "bate-volta",
+        "indoor",
+        "chuva",
+        "icone"
+      ],
+      "coords": {
+        "lat": 5.0187088,
+        "lng": -74.0103258
+      },
+      "descricaoCurta": "Catedral subterrânea dentro de uma mina de sal: ingresso estrangeiro Basic COP 125.000, aberta 09:00-16:40 todos os dias.",
+      "descricaoLonga": "Tarifas oficiais (site da Catedral, consultado em 08/10/2026): estrangeiro adulto Basic COP 125.000 (criança 4-12/sênior 60+: 110.000); Standard 136.000 (122.000); Premium 164.000. O Basic inclui a catedral, audioguia, 4DX de salmoura, mapping, curta 3D, trem de saída, caminhada 'Huellas de Sal', museu arqueológico e 'Museo Monumental 180', naves, cúpula e espelho d'água. Standard soma City Tour + Museu Tutancâmon; Premium soma Ruta del Minero e muro de escalada. Guia profissional: COP 110.000 (compra na bilheteria); locker 7.000; estacionamento 13.000. Passaporte obrigatório para tarifa internacional. O tour guiado na mina leva pouco mais de 1 h. Funcionamento: todos os dias 09:00-16:40. Como ir: ônibus do Terminal Salitre ou da estação Portal Norte do TransMilenio até Zipaquirá (desce na Cra 15 com Calle 4, Parque de la Esperanza; ~15 min a pé até a catedral); a tarifa intermunicipal Bogotá-Zipaquirá em 2026 é COP 10.500 (Notícias Caracol) e a viagem leva 45 min a ~2 h conforme trânsito. Alternativa: Tren Turístico de la Sabana (só sáb/dom/feriados).",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–16:40",
+        "ter": "09:00–16:40",
+        "qua": "09:00–16:40",
+        "qui": "09:00–16:40",
+        "sex": "09:00–16:40",
+        "sab": "09:00–16:40",
+        "dom": "09:00–16:40"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (09:00) ou depois das 14:00; evite feriados (até 10.000 visitantes/dia na Semana Santa).",
+      "preco": {
+        "min": 125000,
+        "max": 164000,
+        "por": "pessoa",
+        "inclui": "Estrangeiro adulto: Basic 125.000 / Standard 136.000 / Premium 164.000 (criança 4-12 e sênior 60+: Basic 110.000, Standard 122.000). Basic inclui audioguia, 4DX, mapping, 3D, museus. Guia pessoal +110.000. Tuboleta (trem) confirma o Basic de 125.000.",
+        "fontes": [
+          "https://www.catedraldesal.gov.co/tarifas/",
+          "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.catedraldesal.gov.co/tarifas/"
+      },
+      "contato": {
+        "telefone": "+57 60(1) 851 9502 / 01 8000 955 528 / 315 760 7376",
+        "whatsapp": "",
+        "site": "https://www.catedraldesal.gov.co/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Documento (passaporte) obrigatório na entrada",
+        "Menores de 4 anos entram grátis"
+      ],
+      "pontoPartida": "Calle 1 com Carrera 6, Zipaquirá. Saída: Portal Norte/Terminal Salitre (ônibus) ou Gran Estación/Usaquén (trem)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Ícone da Colômbia, bom em dia de chuva; o Basic (COP 125.000) basta. Meio dia + volta.",
+        "[CORTE SE APERTAR] Standard/Premium e guia pessoal (+COP 110 mil): não precisa; audioguia já vem no Basic.",
+        "Ida de ônibus (COP 10.500) é muito mais barata que o trem; reserve 2,5 h dentro da mina + 1 h de ida e volta cada.",
+        "Na volta chegue ao ponto do ônibus antes do fim da tarde para pegar Portal Norte ainda com luz."
+      ],
+      "alertas": [
+        "Preço sobe em feriados/alta temporada (matérias de 2024 já falavam em variações). O site oficial mostra tarifas em widget dinâmico - valores lidos do código da página em 08/10/2026.",
+        "Matérias de 2024 (El País, Pulzo) citam Basic internacional COP 110.000 - está desatualizado.",
+        "Tempo de ônibus varia muito com trânsito da Autopista Norte (1-2 h). Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Catedral_de_Sal_01.jpg/1280px-Catedral_de_Sal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_de_Sal_01.jpg"
+      },
+      "fontes": [
+        "https://www.catedraldesal.gov.co/tarifas/",
+        "https://www.catedraldesal.gov.co/",
+        "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0",
+        "https://www.noticiascaracol.com/economia/aumenta-el-pasaje-de-buses-intermunicipales-en-cundinamarca-precios-para-2026-so35"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Tren Turístico de la Sabana (Bogotá-Zipaquirá)",
+      "categoria": "passeio",
+      "cidade": "bogota",
+      "tags": [
+        "trem",
+        "fim-de-semana",
+        "zipaquira",
+        "experiencia"
+      ],
+      "coords": {
+        "lat": 4.6470895,
+        "lng": -74.1014769
+      },
+      "descricaoCurta": "Trem só sáb/dom/feriados: COP 96.000 adulto; 08:45 Gran Estación, 4h30 em Zipaquirá, volta 17:15; não inclui a catedral.",
+      "descricaoLonga": "Tuboleta (oficial, 2026): um trem por dia, só sábados, domingos e feriados. Sai do lado oeste do Centro Comercial Gran Estación (Cra. 66 com Calle 25/26) às 08:45 e da Estação de Usaquén (Av. Cra. 9 #110-08) às 09:15; chega a Zipaquirá às 10:45 e parte às 15:15; volta a Usaquén às 16:45 e Gran Estación às 17:15 (8h30 no total). Tarifa: adulto COP 96.000; criança 3-12 e 60+: COP 90.000. Compra por Tuboleta tem acréscimo (COP 6.000 por passagem + 8.000 por compra). Não vende só ida; não inclui comida nem a Catedral; ônibus da estação até a Catedral custa COP 10.000 (só ida, em dinheiro, comprado no trem; 1,7 km). Venda abre ~15 dias antes. Estação La Sabana não é mais ponto de partida.",
+      "duracao": {
+        "min": 510,
+        "tipica": 510,
+        "max": 510
+      },
+      "horarios": {
+        "seg": "Não opera (só sáb, dom e feriados)",
+        "ter": "Não opera (só sáb, dom e feriados)",
+        "qua": "Não opera (só sáb, dom e feriados)",
+        "qui": "Não opera (só sáb, dom e feriados)",
+        "sex": "Não opera (só sáb, dom e feriados)",
+        "sab": "08:45 saída (Gran Estación) / 09:15 (Usaquén); volta 17:15",
+        "dom": "08:45 saída (Gran Estación) / 09:15 (Usaquén); volta 17:15"
+      },
+      "diasFechados": [
+        "segunda a sexta (só opera sáb, dom e feriados)"
+      ],
+      "melhorHorario": "Sempre o mesmo horário.",
+      "preco": {
+        "min": 90000,
+        "max": 96000,
+        "por": "pessoa",
+        "inclui": "Adulto 96.000; criança 3-12 / 60+ 90.000; ida e volta; sem refeição, sem entrada da Catedral. Acréscimo Tuboleta 6.000/passagem + 8.000/compra. RCN (out/2025) listava adulto 89.000: já subiu.",
+        "fontes": [
+          "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0",
+          "https://www.noticiasrcn.com/colombia/tren-de-la-sabana-cuanto-cuesta-horarios-recorrido-946137"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 7,
+        "esgotaRapido": true,
+        "link": "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0"
+      },
+      "contato": {
+        "telefone": "+57 601 5936300",
+        "whatsapp": "",
+        "site": "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem animais",
+        "Proibido fumar/vapear; não embarcam pessoas embriagadas"
+      ],
+      "pontoPartida": "Costado occidental C.C. Gran Estación, Carrera 66 com Calle 25 (08:45) ou Estación Usaquén, Av. Carrera 9 #110-08 (09:15)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] COP 96.000 (+ catedral) vs ônibus COP 10.500 de ida: o trem só vale se você curte a experiência e não se importa em ficar preso em Zipaquirá das 10:45 às 15:15.",
+        "Se escolher o trem: compre a entrada da Catedral no próprio trem (dinheiro) ou online antes; o tour leva ~1-2,5 h, cabe nas 4h30."
+      ],
+      "alertas": [
+        "A agenda do Tuboleta em 08/10/2026 só mostrava datas de 10 a 17 de outubro; a venda abre ~15 dias antes, então as datas de novembro (sáb/dom/feriados) ainda não estavam publicadas. Sem opção de só ida.",
+        "RCN (out/2025) trazia adulto a COP 89.000; Tuboleta (2026) mostra 96.000. Tarifas 'sujeitas a mudança sem aviso'.",
+        "Duração fixa de 510 min (8h30)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Tren_de_la_Sabana_2014-09-17_%284%29.jpg/1280px-Tren_de_la_Sabana_2014-09-17_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Jorge Mahecha",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tren_de_la_Sabana_2014-09-17_(4).jpg"
+      },
+      "fontes": [
+        "https://tuboleta.com/es/eventos/viaje-en-tren-zipaquira-0",
+        "https://www.noticiasrcn.com/colombia/tren-de-la-sabana-cuanto-cuesta-horarios-recorrido-946137",
+        "https://www.catedraldesal.gov.co/tarifas/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Laguna de Guatavita (Reserva Laguna del Cacique)",
+      "categoria": "natureza",
+      "cidade": "guatavita",
+      "tags": [
+        "laguna",
+        "el-dorado",
+        "muisca",
+        "trilha",
+        "altitude",
+        "bate-volta",
+        "natureza"
+      ],
+      "coords": {
+        "lat": 4.9777381,
+        "lng": -73.775289
+      },
+      "descricaoCurta": "Laguna sagrada muisca da lenda de El Dorado, a 3.100 m: visita só com guia da CAR (~2 h), ter-dom 09:00-16:00; estrangeiro ~COP 25.500-31.000.",
+      "descricaoLonga": "A reserva (613 ha, 57 km de Bogotá, tecnicamente em Sesquilé) é administrada pela CAR. Página oficial (arquivo de mar/2024): visitas SEMPRE em grupo com guia CAR, saídas a cada 15-20 minutos, ~2 h de duração; sem estacionamento; pagamentos só em dinheiro; proibido entrar com comida e bebida, pets, bebida alcoólica e drones; um único banheiro antes do percurso. Preço de ingresso estrangeiro: COP 25.500 (CAR, 2024) -> COP 28.000 (Pulzo, jan/2025) -> COP 31.000 (visitaguatavita.com, '2026'); nacional 18.000 -> 19.500 -> 21.500; moradores locais bem mais baratos. Horário: ter-dom 09:00-16:00, última entrada 15:00 (Semana 2024, visitaguatavita 2026); segunda fechada por manutenção (La FM falou em 'domingo a domingo' na reabertura de 1/set - fontes divergem). Como ir sem carro: ônibus desde Portal Norte até Guatavita/Sesquilé e depois transporte local até a entrada (~COP 20-30 mil em busetas/táxi, valores de blogs, não verificados). Pacotes guiados com transporte: COP 130-140 mil por pessoa (visitaguatavita).",
+      "duracao": {
+        "min": 120,
+        "tipica": 150,
+        "max": 210
+      },
+      "horarios": {
+        "seg": "Fechado (manutenção semanal; confirmar)",
+        "ter": "09:00–16:00 (última entrada 15:00)",
+        "qua": "09:00–16:00 (última entrada 15:00)",
+        "qui": "09:00–16:00 (última entrada 15:00)",
+        "sex": "09:00–16:00 (última entrada 15:00)",
+        "sab": "09:00–16:00 (última entrada 15:00)",
+        "dom": "09:00–16:00 (última entrada 15:00)"
+      },
+      "diasFechados": [
+        "segunda (manutenção; fontes divergem)"
+      ],
+      "melhorHorario": "Chegue às 09:00; saídas a cada 15-20 min; reserve a manhã inteira.",
+      "preco": {
+        "min": 25500,
+        "max": 31000,
+        "por": "pessoa",
+        "inclui": "Entrada estrangeira com guia CAR obrigatório (~2 h). Valores: 25.500 (CAR 2024), 28.000 (Pulzo jan/2025), 31.000 (visitaguatavita.com 2026). Só dinheiro. Tour com transporte: 130-140 mil.",
+        "fontes": [
+          "https://web.archive.org/web/20240304234808/https://parques.car.gov.co/PaginaWeb/PaginaEstatica/Guatavita/QueHacer.aspx",
+          "https://www.pulzo.com/vivir-bien/viajes-y-turismo/cuanto-cuesta-ingreso-laguna-guatavita-2025-hora-bogota-PP4209759",
+          "https://visitaguatavita.com/laguna-de-guatavita/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+57 (1) 580 11 11 / 01 8000 915 317 (CAR, atendimento seg-sex)",
+        "whatsapp": "",
+        "site": "https://web.archive.org/web/20240304234808/https://parques.car.gov.co/PaginaWeb/PaginaEstatica/Guatavita/QueHacer.aspx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem pets, comida, bebida alcoólica, drones, plásticos descartáveis",
+        "Sempre acompanhado de guia CAR; não sair da trilha",
+        "Caminhada em altitude (3.100 m): não recomendado a quem tem problemas cardíacos/respiratórios"
+      ],
+      "pontoPartida": "Entrada da reserva, Sesquilé/Guatavita. Saída: Portal Norte (ônibus para Guatavita/Sesquilé)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Natureza + cultura muisca por ~COP 30 mil: a melhor 'natureza' perto de Bogotá para quem prioriza trilha.",
+        "Vá no 2o-3o dia de aclimatação (3.100 m é alto): ritmo lento, casaco, capa de chuva.",
+        "Leve dinheiro em COP: não há maquininha (sem sinal).",
+        "Não pague a intermediários: a CAR manda comprar o ingresso só na bilheteria."
+      ],
+      "alertas": [
+        "Preço de ingresso: 3 fontes dão 25.500 / 28.000 / 31.000; o site oficial da CAR não abriu hoje (timeout) - confirme ao chegar. Horário e fechamento de segunda: Semana (2024) e visitaguatavita (2026) dizem ter-dom; La FM diz sete dias.",
+        "Distância/tempo de ônibus: fontes variam (1h15 a 3 h); preço do ônibus Bogotá-Guatavita varia de COP 10.000 a 40.000 conforme a fonte.",
+        "Obra de manutenção da casa cerimonial Kusmuy (La FM).",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Laguna_Guatavita_06.jpg/1280px-Laguna_Guatavita_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Burkhard Mücke",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Laguna_Guatavita_06.jpg"
+      },
+      "fontes": [
+        "https://web.archive.org/web/20240304234808/https://parques.car.gov.co/PaginaWeb/PaginaEstatica/Guatavita/QueHacer.aspx",
+        "https://www.pulzo.com/vivir-bien/viajes-y-turismo/cuanto-cuesta-ingreso-laguna-guatavita-2025-hora-bogota-PP4209759",
+        "https://visitaguatavita.com/laguna-de-guatavita/",
+        "https://www.semana.com/turismo/articulo/horarios-y-que-costo-tiene-entrar-a-la-laguna-de-guatavita/202441/",
+        "https://www.lafm.com.co/medio-ambiente/car-confirma-reapertura-de-la-laguna-de-guatavita",
+        "https://miviajeporcolombia.com/laguna-guatavita-actividades-alrededor-bogota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Guatavita (pueblo novo) e Embalse de Tominé",
+      "categoria": "atracao",
+      "cidade": "guatavita",
+      "tags": [
+        "pueblo",
+        "lago",
+        "praça",
+        "esportes-nauticos",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 4.9343953,
+        "lng": -73.8353008
+      },
+      "descricaoCurta": "Cidade 'colonial' reconstruída em 1967 ao lado da represa de Tominé; passeio curto antes ou depois da laguna.",
+      "descricaoLonga": "Guatavita (2.668 m, ~53 km a nordeste de Bogotá) foi inundada em 15/set/1967 pela represa de Tominé; o 'pueblo nuevo' de aparência colonial começou a ser construído em 1964. Atrações: arquitetura estilo europeu e ruas de pedra, Embalse de Tominé (esportes náuticos, camping), cemitério indígena e museu religioso (Wikipedia). Ônibus saem do Portal Norte com frequência, ~90 min (Portafolio). Combina com a Laguna (que tecnicamente fica em Sesquilé).",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço depois da laguna, fim de tarde.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio livre; preços de ônibus/ atividades não verificados",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Guatavita"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Praça de Guatavita; saída: Portal Norte (ônibus)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Só inclua se for à Laguna no mesmo dia e sobrar tempo; sem a laguna, não compensa a viagem."
+      ],
+      "alertas": [
+        "Pouca informação confiável sobre horários/preços; item parcial.",
+        "Preço do ônibus Bogotá-Guatavita: fontes de COP 10.000 a 40.000 (Semana 2024 diz 35-40 mil saindo da Calle 72 com Cra 13; outras dizem Portal Norte).",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Embalse_de_tomine%2C_guatavita.jpg/1280px-Embalse_de_tomine%2C_guatavita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Donatello Carloti Torregroza",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Embalse_de_tomine,_guatavita.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Guatavita",
+        "https://www.portafolio.co/economia/regiones/parece-un-pueblo-italiano-junto-al-lago-pero-esta-en-cundinamarca-y-pocos-lo-saben-642210",
+        "https://www.semana.com/turismo/articulo/cuanto-cuesta-el-pasaje-en-bus-de-bogota-a-guatavita-en-2024/202419/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Villa de Leyva: Plaza Mayor e centro colonial",
+      "categoria": "atracao",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "colonial",
+        "praça",
+        "pernoite",
+        "fotos",
+        "pueblo-patrimonio"
+      ],
+      "coords": {
+        "lat": 5.6337655,
+        "lng": -73.5235903
+      },
+      "descricaoCurta": "Vila colonial de 1572 com uma das maiores praças de pedra do país (~1,4 ha); exige no mínimo 1 noite.",
+      "descricaoLonga": "A Plaza Mayor tem ~14.000 m² totalmente pavimentada e cercada de casas caiadas. A vila (2.149 m, 165 km de Bogotá) foi fundada em 1572, é Monumento Nacional (1954) e Pueblo Patrimonio (2010). O guia Colombia Move (atualizado em ago/2026) diz que 'duas noites é o mínimo honesto' e que um bate-volta significa 7-8 horas de ônibus. VEREDITO PARA 10-12 DIAS: bate-volta NÃO compensa; se incluir, faça 1 noite (sai cedo de Bogotá, volta no fim da tarde do dia seguinte) e junte Pozos Azules + Fósil + Casa Terracota. Com prioridades praia/natureza e vida noturna/compras, é o primeiro corte se o roteiro apertar.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde na praça; manhã seguinte nos atrativos.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praça de acesso livre",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Villa_de_Leyva"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza Mayor, Villa de Leyva (Boyacá). Saída: Terminal Salitre, Bogotá",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Villa de Leyva: custa 2 dias de roteiro (7-9 h de ônibus no total) para um destino colonial - sem praia e sem balada.",
+        "Se for: durma 1 noite, ônibus cedo, quebre o trajeto com almoço e compre a volta pela manhã.",
+        "Altitude baixa (2.149 m): bom para recuperar do soroche."
+      ],
+      "alertas": [
+        "Tempo de ônibus: 3,5-4,5 h na semana, 5+ h na sexta à tarde (Colombia Move).",
+        "ALTITUDE (~2.600 m): primeiros 1-2 dias sem esforço pesado, muita água, sem álcool nas primeiras 48 h (Secretaria de Saúde de Bogotá; CDC). Veja o alerta completo em Monserrate e em notasDaBase.altitude.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Plaza_Mayor%2C_Villa_de_Leyva_02.jpg/1280px-Plaza_Mayor%2C_Villa_de_Leyva_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard Gagnon",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor,_Villa_de_Leyva_02.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Villa_de_Leyva",
+        "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ônibus Bogotá - Villa de Leyva",
+      "categoria": "passeio",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "transporte",
+        "onibus",
+        "terminal-salitre",
+        "longa-distancia"
+      ],
+      "coords": {
+        "lat": 4.657557,
+        "lng": -74.1136713
+      },
+      "descricaoCurta": "COP ~27.500-42.000 só ida, 3-4,5 h; primeiras saídas ~05:00, última ida ~13:30-15:40.",
+      "descricaoLonga": "Companhias citadas: Flota Valle de Tenza, Expreso Los Muiscas, Omega, Coflonorte, Expreso Gaviota. Saem do Terminal Salitre (e Terminal del Norte). Colombia Move (2026): COP 30.000-42.000 por pessoa, 3,5-4,5 h (5+ h na sexta à tarde), operadores Valle de Tenza e Los Muiscas. GeckoRoutes: a partir de COP ~27.500, saídas de 05:00 até ~13:30-15:40; volta VdL->Bogotá entre 06:30 e 14:00 (€9-12). CheckMyBus: primeira saída de VdL 04:30, última 17:20, mais rápida 3h06 (Valle de Tenza). As fontes divergem no último ônibus de volta.",
+      "duracao": {
+        "min": 186,
+        "tipica": 225,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "05:00–15:40 (saídas de Bogotá)",
+        "ter": "05:00–15:40 (saídas de Bogotá)",
+        "qua": "05:00–15:40 (saídas de Bogotá)",
+        "qui": "05:00–15:40 (saídas de Bogotá)",
+        "sex": "05:00–15:40 (saídas de Bogotá)",
+        "sab": "05:00–15:40 (saídas de Bogotá)",
+        "dom": "05:00–15:40 (saídas de Bogotá)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saia antes das 08:00.",
+      "preco": {
+        "min": 27500,
+        "max": 42000,
+        "por": "pessoa",
+        "inclui": "Só ida. 27.500 (GeckoRoutes), 30.000-42.000 (Colombia Move 2026), ~39.000 (Pulzo)",
+        "fontes": [
+          "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/",
+          "https://www.geckoroutes.com/es/colombia/bogota-a-villa-de-leyva/",
+          "https://www.checkmybus.com/villa-de-leyva-cl/bogota-dc"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal de Transporte Salitre (Av. La Esperanza), Bogotá, ou Terminal del Norte",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] 6-9 h de ônibus ida e volta só para Villa de Leyva. Se for, compre passagem no próprio terminal.",
+        "Compre a volta com antecedência em dias de feriado."
+      ],
+      "alertas": [
+        "Último ônibus de volta incerto (14:00 vs 17:20): planeje voltar antes das 14:00 ou durma lá. Horários agregadores, não oficiais.",
+        "Coordenada = ponto de ônibus 'Terminal de Transporte' (Av. La Esperanza), OSM. Duração em minutos (186 = mais rápida CheckMyBus)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/",
+        "https://www.geckoroutes.com/es/colombia/bogota-a-villa-de-leyva/",
+        "https://www.checkmybus.com/villa-de-leyva-cl/bogota-dc"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Pozos Azules",
+      "categoria": "natureza",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "lagoas",
+        "natureza",
+        "deserto",
+        "caminhada",
+        "fotos"
+      ],
+      "coords": {
+        "lat": 5.626168,
+        "lng": -73.5493042
+      },
+      "descricaoCurta": "Lagoas de cor azul-turquesa no semideserto, a ~3 km do centro; entrada COP 10.000-15.000, 08:00-17:00.",
+      "descricaoLonga": "Conjunto de lagos de coloração azul-esverdeada (selênio, enxofre e minerais) a ~3 km da vila; acesso a pé segundo El Tiempo. Pulzo: entrada COP 15.000, 08:00-17:00, local transport do terminal COP 4.000 ('desde'). Colombia Move (2026) lista COP 10.000. Sem prazo de reserva.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã ou fim de tarde.",
+      "preco": {
+        "min": 10000,
+        "max": 15000,
+        "por": "pessoa",
+        "inclui": "Entrada; 15.000 (El Tiempo/Pulzo 2024) ou 10.000 (Colombia Move 2026)",
+        "fontes": [
+          "https://www.pulzo.com/vivir-bien/cuanto-cuesta-visitar-pozos-azules-villa-leyva-3-horas-bogota-PP3448750",
+          "https://www.eltiempo.com/cultura/gente/va-a-conocer-los-pozos-azules-de-villa-de-leyva-esto-cuesta-hacer-el-recorrido-856185",
+          "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vereda Sopotá, Villa de Leyva (3 km do centro)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Só se já estiver em Villa de Leyva; não justifica a viagem sozinho."
+      ],
+      "alertas": [
+        "Preço divergente entre fontes; horário em fonte única (Pulzo). Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pozos_Azules_en_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg/1280px-Pozos_Azules_en_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Foturcolombia",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pozos_Azules_en_Villa_de_Leyva,_Boyac%C3%A1,_Colombia.jpg"
+      },
+      "fontes": [
+        "https://www.pulzo.com/vivir-bien/cuanto-cuesta-visitar-pozos-azules-villa-leyva-3-horas-bogota-PP3448750",
+        "https://www.eltiempo.com/cultura/gente/va-a-conocer-los-pozos-azules-de-villa-de-leyva-esto-cuesta-hacer-el-recorrido-856185",
+        "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo El Fósil",
+      "categoria": "museu",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "fossil",
+        "paleontologia",
+        "museu",
+        "familia"
+      ],
+      "coords": {
+        "lat": 5.6370558,
+        "lng": -73.5586209
+      },
+      "descricaoCurta": "Museu de sítio com esqueleto de réptil marinho do Cretáceo, a 4 km da vila; COP 8.000-15.000, 08:00-17:00.",
+      "descricaoLonga": "Museu comunitário na vereda Monquirá, a 4 km de Villa de Leyva: mais de 500 peças e um plesiossauro exposto no local onde foi achado (villadeleyva.net). Horário informado: todos os dias 08:00-17:00. Preço: COP 8.000 (Colombia Move 2026) até 15.000 adultos (comentários de 2020).",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "min": 8000,
+        "max": 15000,
+        "por": "pessoa",
+        "inclui": "Entrada",
+        "fontes": [
+          "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/",
+          "https://www.villadeleyva.net/zona-rural/museo-el-fosil/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vereda Monquirá, 4 km de Villa de Leyva",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Interessante, mas só se já estiver em Villa de Leyva."
+      ],
+      "alertas": [
+        "Fontes pouco recentes e divergentes (preço e horário). Confirme no local. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Museo_el_Fosil_05.JPG/1280px-Museo_el_Fosil_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Jen jihz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_el_Fosil_05.JPG"
+      },
+      "fontes": [
+        "https://colombiamove.com/blog/villa-de-leyva-colombia-guide/",
+        "https://www.villadeleyva.net/zona-rural/museo-el-fosil/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Casa Terracota",
+      "categoria": "atracao",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "arquitetura",
+        "argila",
+        "fotos",
+        "arte"
+      ],
+      "coords": {
+        "lat": 5.6348061,
+        "lng": -73.5365514
+      },
+      "descricaoCurta": "Casa gigante esculpida em argila (arquiteto Octavio Mendoza), a ~1,9 km da praça; entrada reportada COP 38.000-50.000 (2024).",
+      "descricaoLonga": "Obra de Octavio Mendoza, ~500 m² e ~400 t de argila. Villa de Leyva Inmobiliaria (abr/2024): adulto COP 38.000-50.000 conforme temporada; criança 8-17 COP 23.000-30.000; sênior 60+ COP 32.000-42.000; horário 08:00-17:00; ~1,9 km da Plaza Mayor (7 min de carro, 23 min a pé). Fontes mais antigas (2018) falavam em COP 10.000 e 09:00-18:00 - desatualizado. O site oficial tem 'Compra tus entradas', mas não consegui ler tarifas.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 75
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da manhã.",
+      "preco": {
+        "min": 38000,
+        "max": 50000,
+        "por": "pessoa",
+        "inclui": "Adulto, por temporada (abr/2024; não confirmado em 2026)",
+        "fontes": [
+          "https://villadeleyvainmobiliaria.com/blog/casa-terracota-villa-de-leyva/"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://casaterracota.com/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Via Moniquirá - Villa de Leyva, ~1,9 km da Plaza Mayor",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] COP 38-50 mil para ~45 min; só se Villa de Leyva já estiver no roteiro."
+      ],
+      "alertas": [
+        "Preço de 2024; horários divergentes entre fontes. Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Casa_Terracota%2C_Villa_de_Leyva.jpg/1280px-Casa_Terracota%2C_Villa_de_Leyva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Kari5wiki",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_Terracota,_Villa_de_Leyva.jpg"
+      },
+      "fontes": [
+        "https://villadeleyvainmobiliaria.com/blog/casa-terracota-villa-de-leyva/",
+        "https://www.villadeleyva.net/zona-urbana/casa-terracota/",
+        "https://mividaviajera.com/colombia/villa-de-leyva/casa-terracota/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Viñedo Marqués de Villa de Leyva (Sutamarchán)",
+      "categoria": "passeio",
+      "cidade": "villa-de-leyva",
+      "tags": [
+        "vinho",
+        "vinicola",
+        "degustacao"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Vinícola em Sutamarchán (12 km de Villa de Leyva) com visita guiada às adegas e degustação.",
+      "descricaoLonga": "Colombia.travel (portal oficial de turismo) confirma visitas guiadas às adegas 'durante todo o ano' no Viñedo Marqués de Villa de Leyva, em Sutamarchán, a 12 km de Villa de Leyva, com degustação (Cabernet Sauvignon rosé, blanc, reserva). A página não traz preço, horário nem duração.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde, após a vila.",
+      "preco": {
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço NÃO encontrado",
+        "fontes": [
+          "https://colombia.travel/en/villa-de-leyva/marques-de-villa-de-leyva-winery"
+        ],
+        "moeda": "COP",
+        "coletadoEm": "2026-10-08"
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Sutamarchán (12 km de Villa de Leyva)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Sem preço/horário confirmados e fora do perfil econômico/natureza; só com carro ou tour."
+      ],
+      "alertas": [
+        "Sem coordenada (não localizei no OSM), preço, horário ou telefone. Item 'estimado'.",
+        "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://colombia.travel/en/villa-de-leyva/marques-de-villa-de-leyva-winery"
+      ],
+      "confianca": "estimado"
+    }
+  ]
+}

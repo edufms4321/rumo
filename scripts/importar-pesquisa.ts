@@ -17,7 +17,7 @@
  * Julgamento humano vive em pesquisa/ajustes-manuais.json e e mesclado por
  * cima, para que reexecutar o script nao perca trabalho manual.
  */
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import {
   construirAeroportos,
@@ -50,10 +50,22 @@ function main(): void {
   console.log('Importando pesquisa -> data/colombia\n');
 
   const logistica = ler('onda-a-logistica.json');
-  const sanAndres = ler('onda-a-san-andres.json');
-  const cartagena = ler('onda-a-cartagena.json');
   const coords = ler('coords-cidades.json');
-  const bases = { sanAndres, cartagena };
+
+  // Le TODA onda de pesquisa que declare uma `base`. Assim a onda C entra
+  // sem tocar neste arquivo: basta soltar o JSON em pesquisa/.
+  const bases: Json = {};
+  for (const arquivo of readdirSync(PESQUISA).sort()) {
+    if (!/^onda-.*\.json$/.test(arquivo)) continue;
+    const conteudo = ler(arquivo);
+    if (!conteudo.base || !Array.isArray(conteudo.itens)) continue;
+    if (bases[conteudo.base]) {
+      console.log(`  aviso: ${arquivo} repete a base "${conteudo.base}"`);
+    }
+    bases[conteudo.base] = conteudo;
+  }
+  console.log(`  bases lidas: ${Object.keys(bases).join(', ')}
+`);
 
   const ajustes: Json = existsSync(join(PESQUISA, 'ajustes-manuais.json'))
     ? ler('ajustes-manuais.json')
@@ -65,14 +77,20 @@ function main(): void {
   gravar(SAIDA, 'aeroportos.json', filtrarSemFonte(construirAeroportos(logistica), 'aeroporto'));
   gravar(SAIDA, 'cidades.json', filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes), 'cidade'));
 
-  const itensPorCidade = construirItens(bases, ajustes);
+  const itensPorCidade = construirItens(Object.values(bases), ajustes);
   for (const [cidadeId, itens] of Object.entries(itensPorCidade)) {
     gravar(SAIDA, join('itens', `${cidadeId}.json`), filtrarSemFonte(itens, 'item'));
   }
 
   gravar(SAIDA, 'trechos.json', filtrarSemFonte(construirTrechos(logistica), 'trecho'));
   gravar(SAIDA, 'voos-internacionais.json', filtrarSemFonte(construirVoos(logistica), 'voo internacional'));
-  gravar(SAIDA, 'calendario.json', filtrarSemFonte(construirCalendario(logistica), 'evento'));
+  // Eventos escritos a mao entram por cima: sao os que exigiram verificacao
+  // em fonte primaria pelo agente principal (datas de fechamento, desastres).
+  const calendario = [
+    ...construirCalendario(logistica),
+    ...((ajustes.calendario ?? []) as Json[]),
+  ];
+  gravar(SAIDA, 'calendario.json', filtrarSemFonte(calendario, 'evento'));
   gravar(SAIDA, 'hospedagem.json', filtrarSemFonte(construirHospedagem(bases), 'hospedagem'));
 
   console.log('\nDeduzido pelo script (nao e dado de fonte):');

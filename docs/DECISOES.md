@@ -53,7 +53,7 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 ## D8 — Preço é objeto, nunca número
 
 **Decisão:** `{ moeda, min, max, por, inclui, coletadoEm, fontes, observacao }`.
-**Por quê:** a viagem é em novembro de 2026, a 13 meses da coleta. Um número solto seria uma afirmação falsa. Com faixa + data + fonte, a interface pode dizer a verdade: "preço de outubro de 2026, confirme".
+**Por quê:** a viagem é em novembro de 2026 e a coleta é de 8 de outubro de 2026 — cerca de quatro semanas antes, não treze meses como eu afirmei por engano no início. Um número solto seria uma afirmação falsa. Com faixa + data + fonte, a interface pode dizer a verdade: "preço de outubro de 2026, confirme".
 **Descartado:** `precoBRL: number` (simples e errado).
 
 ## D9 — Mapa com MapLibre + OpenFreeMap

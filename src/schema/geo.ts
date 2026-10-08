@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { BaseRecord, Coord, FaixaDeDiaria, Fonte, Preco, Slug, Url } from './base.ts';
+import { BaseRecord, Coord, FaixaDeDiaria, Fonte, IsoDate, Preco, Slug, Url } from './base.ts';
 
 export const Regiao = BaseRecord.extend({
   nome: z.string().min(1),
@@ -113,6 +113,27 @@ export const CidadeBase = BaseRecord.extend({
   climaPorMes: z.array(ClimaDoMes).default([]),
   seguranca: z.string().optional(),
   pegaTuristaAEvitar: z.array(z.string()).default([]),
+  /**
+   * Situacao conjuntural da cidade: desastre, obra, greve, fechamento
+   * prolongado. Diferente de `seguranca`, que e o estado normal do lugar.
+   *
+   * Este dado VENCE: por isso `verificadoEm` e obrigatorio e a interface
+   * mostra a data junto do aviso. Um alerta de catastrofe desatualizado
+   * assusta a toa; um ausente deixa o viajante no escuro.
+   */
+  situacaoAtual: z
+    .array(
+      z.object({
+        titulo: z.string().min(1),
+        descricao: z.string().min(1),
+        gravidade: z.enum(['informacao', 'atencao', 'grave']),
+        desde: IsoDate,
+        ate: IsoDate.optional(),
+        verificadoEm: IsoDate,
+        fontes: z.array(Fonte).min(1, 'alerta de situacao precisa de fonte'),
+      }),
+    )
+    .default([]),
   /**
    * Taxas que o viajante paga so por estar na cidade ou na ilha, independente
    * do que faca (ex.: Tarjeta de Turismo de San Andres). O motor soma isso ao

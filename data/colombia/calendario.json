@@ -320,5 +320,33 @@
       "observacao": "Seguro/tarifa flexível pesam em San Andrés. | n/a"
     },
     "descricao": "Fim oficial da temporada de furacões do Atlântico (1/jun a 30/nov)"
+  },
+  {
+    "id": "tayrona-fechamento-respira-2026-10",
+    "fontes": [
+      {
+        "url": "https://old.parquesnacionales.gov.co/portal/es/del-19-de-octubre-y-hasta-el-2-de-noviembre-el-parque-nacional-natural-tayrona-cerrara-sus-puertas-al-publico-y-entra-en-modo-respiratayrona/"
+      },
+      {
+        "url": "https://www.elespectador.com/ambiente/tras-dos-semanas-de-cierre-parque-tayrona-reabre-sus-puertas-este-3-de-noviembre/"
+      },
+      {
+        "url": "https://www.elcallejero.co/2026/10/07/parque-tayrona-tendra-su-ultimo-cierre-programado-del-ano/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Parque Tayrona fechado (Respira Tayrona): reabre em 3 de novembro",
+    "tipo": "temporada",
+    "dataInicio": "2026-10-19",
+    "dataFim": "2026-11-02",
+    "escopo": "santa-marta",
+    "impacto": {
+      "lotacao": "baixa",
+      "fechamentos": "O parque fica totalmente fechado: nao ha entrada de visitantes, nem hospedagem, camping ou passeio de barco dentro dele. Reabre em 3 de novembro de 2026, uma terca-feira.",
+      "observacao": "Terceiro e ultimo fechamento programado de 2026 (os outros foram 1 a 15 de fevereiro e 1 a 15 de junho). Confirmado no site da Parques Nacionales."
+    },
+    "valeEstarPresente": "evite",
+    "descricao": "Fechamento sazonal para descanso ecologico e espiritual, em territorio ancestral dos povos Kogui, Wiwa, Arhuaco e Kankuamo. Quem chegar a Santa Marta antes de 3 de novembro nao entra no Tayrona; alternativas abertas no periodo sao Bahia Concha e Playa Palangana."
   }
 ]

@@ -23,7 +23,7 @@ Disse a ele duas coisas que ele não pediu para ouvir, porque mudam o plano:
 3. **Tempo em minutos inteiros desde a meia-noite local.** Sem fuso na agenda: Colômbia é UTC−5 sem horário de verão e o Brasil não tem mais. Só o voo internacional guarda partida e chegada cada uma no horário local do seu aeroporto. *Alternativa descartada:* tudo em UTC, que transforma cada render em conversão e cada bug em pesadelo.
 4. **Estimativa de deslocamento em 3 camadas**, com a camada 3 (haversine × fator do modal, por cidade) sempre rotulada "estimativa" na interface. *Por quê:* nenhuma chave de API paga pode ser obrigatória, e mentir sobre precisão é pior que admitir estimativa.
 5. **Novo destino = nova pasta.** `src/data/carregar.ts` usa `import.meta.glob`, então o critério de aceite 7 da v1 já está satisfeito na Fase 1, não na Fase 6.
-6. **Preço é objeto** com faixa, moeda, data e fontes. Número solto seria mentira a 13 meses da viagem.
+6. **Preço é objeto** com faixa, moeda, data e fontes. Número solto seria mentira: faixa, moeda e data deixam o usuário conferir.
 
 **Validador escrito** (`scripts/validate-data.ts`), duas camadas: forma (Zod) e coerência entre registros (id duplicado, referência quebrada, coordenada fora do país). Erro reprova; aviso alimenta o documento de pendências.
 
@@ -95,3 +95,29 @@ Camadas, da melhor para a pior: trecho porta a porta do banco → trecho calcula
 **Estado:** 63 testes, typecheck e lint limpos, validador com 0 erro.
 
 **Próximo:** o resto do motor — as regras da seção 5 do briefing (horário de funcionamento, dia fechado, feriado, luz do dia, altitude, mergulho antes de voar, orçamento, noite sem hospedagem), cada uma com código de alerta e correção sugerida.
+
+---
+
+## 2026-10-08 16:35 — Onda B importada, e dois fatos que mudam a viagem
+
+**Erro meu, corrigido: a viagem é no mês que vem, não daqui a treze meses.** Hoje é 8 de outubro de 2026 e a viagem é em novembro de 2026. Eu disse "13 meses" na Fase 0 e repeti no plano, nos documentos e nos commits. Corrigi em todos os arquivos. Consequência real: os preços coletados valem, e reservar virou urgente — as Festas de Cartagena são daqui a cinco semanas, num feriadão.
+
+**Terremoto de magnitude 7,4 em 10/08/2026.** O agente do Eje Cafetero relatou; eu não repassei sem conferir. É real e pior que o resumo dele: 331 mortos, 4.595 feridos, 257 desaparecidos (UNGRD, 25/08); Cali 165, Pereira 109; aeroportos de Pereira, Cali, Armenia, Manizales e Quibdó suspensos. Gravei como `situacaoAtual` de Salento, Medellín e Bogotá, com as fontes que eu mesmo abri e com `verificadoEm`.
+
+Criei o campo `situacaoAtual` em vez de enfiar isso em `seguranca`: são coisas diferentes. `seguranca` é o estado normal do lugar; `situacaoAtual` é conjuntural e **vence**. Por isso `verificadoEm` é obrigatório e a interface mostra a data junto do aviso — alerta de catástrofe desatualizado assusta à toa.
+
+**Parque Tayrona fechado de 19/10 a 2/11/2026**, reabre dia 3. Confirmei no site da Parques Nacionales. Está no calendário do banco como `temporada` com `valeEstarPresente: evite`. É restrição dura de data para a viagem.
+
+**Buraco real no schema que a onda B expôs:** eu assumi que todo item é uma atividade agendável. Não é. "TransMilenio: como funciona" e "Alugar carro no Eje Cafetero compensa?" são cartões de **referência**: ajudam a decidir, aparecem em Descobrir, mas não se arrastam para um dia e não têm duração. Criei `agendavel`, com `duracao` opcional quando `agendavel: false`, e as exigências de bloco (`aluguel`, `passeio`) passaram a valer só para o que se agenda.
+
+A regra que resolve o caso difícil: **locadora sem tabela de veículos não é locadora, é conselho sobre aluguel.** O conversor rebaixa esses itens a cartão de referência e avisa, em vez de reprovar a importação.
+
+Também afrouxei `passeio.pontoPartida` para opcional: nem toda fonte publica o ponto de encontro, e exigir isso estava descartando itens legítimos (chegada no aeroporto de Pereira, por exemplo).
+
+**O conversor agora lê qualquer `pesquisa/onda-*.json` que declare uma `base`.** A onda C entra sem tocar em código.
+
+**Os agentes me corrigiram:** escrevi no briefing que a Pedra do Peñol tem "698 degraus". Nenhuma fonte diz isso — são 740, algumas dizem 702. Escrevi de memória, como fiz com os IDs do OpenStreetMap. Segunda vez no mesmo projeto; o padrão é escrever número de cabeça dentro de texto auxiliar, onde eu não aplico a mesma disciplina que aplico ao banco.
+
+**Estado:** 169 itens em 8 bases, 14 eventos, 17 sugestões de hospedagem, 20 trechos. Validador com 0 erro e 106 avisos. 63 testes, typecheck e lint limpos.
+
+**Próximo:** as regras restantes do motor.

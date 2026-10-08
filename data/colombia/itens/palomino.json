@@ -1,0 +1,316 @@
+[
+  {
+    "id": "co-plm-tubing-no-rio-palomino-caracoli-pozo-caiman-techo-ro",
+    "fontes": [
+      {
+        "url": "https://tubingriopalomino.com/"
+      },
+      {
+        "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/703378831"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tubing no rio Palomino (Caracolí, Pozo Caimán, Techo Rojo)",
+    "cidadeId": "palomino",
+    "categoria": "experiencia",
+    "tags": [
+      "tubing",
+      "rio",
+      "aventura",
+      "palomino",
+      "selva"
+    ],
+    "coords": {
+      "lat": 11.2448914,
+      "lng": -73.5598131
+    },
+    "descricaoCurta": "Descida do rio em boias: Caracolí 1 h (COP 65.000), Pozo Caimán 2–2,5 h (70.000), Techo Rojo 3,5 h com corredeiras (80.000); inclui guia, colete, seguro e transporte.",
+    "descricaoLonga": "Tabela do operador local tubingriopalomino.com: Caracolí (sem trilha) 1 h, COP 65.000; Pozo Caimán (25 min de trilha) 2–2,5 h, COP 70.000; Techo Rojo (45 min de trilha, corredeiras) 3,5 h, COP 80.000; Seiwiaka com visita à aldeia Kogui 5 h, COP 150.000. Inclui guia, coletes, seguro obrigatório, transporte e buscar no hotel (apenas em Palomino). Ponto de encontro: posto 'La Sierrita' em Palomino. Outro guia (Along Dusty Roads, jan/2026) cita COP 40.000–50.000, valor provavelmente defasado. O operador ainda lista cavalo na praia (COP 130.000–180.000), quadriciclo (140.000–180.000) e santuário de flamingos (240.000).",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã (rio mais calmo e menos fila).",
+    "preco": {
+      "moeda": "COP",
+      "min": 65000,
+      "max": 80000,
+      "por": "pessoa",
+      "inclui": "Guia, colete, seguro obrigatório, transporte e buscar no hotel (Palomino).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://tubingriopalomino.com/"
+        },
+        {
+          "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1,
+      "link": "https://tubingriopalomino.com/"
+    },
+    "contato": {
+      "whatsapp": "+57 313 243 9649",
+      "site": "https://tubingriopalomino.com/"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Paseo_por_el_rio_Palomino_en_Neumatico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "ADRYGIL",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Paseo_por_el_rio_Palomino_en_Neumatico.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Usar colete e seguir o guia",
+        "Sem horário publicado no site",
+        "Em época de chuva o rio sobe: perguntar condições"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: Pozo Caimán (COP 70.000, 2–2,5 h) é o melhor equilíbrio entre preço e aventura.",
+      "CORTE SE APERTAR: Seiwiaka (COP 150.000) e atividades de cavalo/quadriciclo."
+    ],
+    "alertas": [
+      "Faixa de preço única baseada em um operador + um guia; poucas fontes independentes.",
+      "Sem informação de horários.",
+      "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca."
+    ]
+  },
+  {
+    "id": "co-plm-praia-de-palomino-e-por-do-sol-alerta-de-correnteza",
+    "fontes": [
+      {
+        "url": "https://laguajirahoy.com/turismo/palomino-entre-las-cinco-playas-mas-peligrosas-del-caribe-colombiano.html"
+      },
+      {
+        "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/703378831"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia de Palomino e pôr do sol — alerta de correnteza",
+    "cidadeId": "palomino",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "perigo",
+      "correnteza",
+      "por-do-sol",
+      "palomino"
+    ],
+    "coords": {
+      "lat": 11.2448914,
+      "lng": -73.5598131
+    },
+    "descricaoCurta": "Praia selvagem de areia clara e ondas; fica entre as 5 mais perigosas do Caribe colombiano: ~30 mortes recentes segundo a Defesa Civil, concentradas na foz do rio.",
+    "descricaoLonga": "A Defesa Civil registra pelo menos 30 mortes nos últimos anos em Palomino, com redemoinhos e correntes na desembocadura do rio (La Guajira Hoy, jul/2025), e uma morte ocorreu poucos dias antes da matéria. O guia Along Dusty Roads (jan/2026) diz que 'não é seguro nadar no mar' em Palomino. Há salva-vidas e placas em português/inglês. Uso recomendado: caminhar, ver o pôr/nascer do sol, banhar-se no rio com colete, não entrar no mar. Não há caixa eletrônico: o mais próximo fica em Mingueo (~COP 10.000 de moto-táxi); leve dinheiro de Santa Marta.",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 360
+    },
+    "horariosObservacao": "Livre.",
+    "diasFechados": [],
+    "melhorHorario": "Pôr do sol; nunca banho no mar.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/La_playa_palomino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Fabian Abtonio Hoyos Pulido (Fahoyos127)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_playa_palomino.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não nadar no mar; atenção à foz do rio"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: pôr do sol e clima de vila.",
+      "CORTE SE APERTAR: banho de mar — não vale o risco."
+    ],
+    "alertas": [
+      "Já houve ao menos ~30 mortes (Defesa Civil). Fique longe da foz do rio mesmo com mar calmo.",
+      "Sem ATM na vila; leve dinheiro.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "co-plm-palomino-como-ir-de-santa-marta-e-vida-noturna-da-vi",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/"
+      },
+      {
+        "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+      },
+      {
+        "url": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
+      },
+      {
+        "url": "https://www.hostelworld.com/hostels/p/321636/beach-life-palomino-hostel-and-beach-club/"
+      },
+      {
+        "url": "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/703378831"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Palomino: como ir de Santa Marta e vida noturna da vila",
+    "cidadeId": "palomino",
+    "categoria": "experiencia",
+    "tags": [
+      "noite",
+      "bares",
+      "hostel",
+      "onibus",
+      "palomino",
+      "praia-clube"
+    ],
+    "coords": {
+      "lat": 11.2448914,
+      "lng": -73.5598131
+    },
+    "descricaoCurta": "Ônibus diretos de Santa Marta em ~2 h por COP ~12.000–21.400; à noite, festas de hostel na praia (Beach Life: ter–dom 21:00–2:00) e bares de bambu na rua principal.",
+    "descricaoLonga": "COMO IR: ônibus de Santa Marta (Terminal de Transportes e parada Cootransoriente atrás do Mercado) levam cerca de 2 h; Gecko cita faixa a partir de COP 21.400 (Cootransoriente ~US$4,40 só em dinheiro; Expreso Brasilia/Unitransco ~US$9,20; saídas 05:00–21:30), outro guia cita COP 12.000 (jan/2026). Os ônibus deixam na estrada principal; moto-táxi interno ~COP 5.000. NOITE: bares de bambu, happy hours, música ao vivo, hostels com festas (Beach Life, Dreamer, Praba, Hilltop etc.). Dorms entre US$5–20 (HostelGeeks, mai/2026). Palomino fica em La Guajira; a Troncal do Caribe é a rota única e foi bloqueada no paro armado de set/2026.",
+    "duracao": {
+      "min": 480,
+      "tipica": 960,
+      "max": 1440
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "05:00",
+          "fecha": "21:30"
+        }
+      ]
+    },
+    "horariosObservacao": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+    "diasFechados": [],
+    "melhorHorario": "Dormir 1 noite; chegada antes do meio-dia.",
+    "preco": {
+      "moeda": "COP",
+      "min": 12000,
+      "max": 21400,
+      "por": "pessoa",
+      "inclui": "Passagem de ônibus Santa Marta–Palomino (faixa entre fontes); dorm US$ 5–20.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/"
+        },
+        {
+          "url": "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+        },
+        {
+          "url": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Dinheiro em espécie (sem ATM na vila)",
+        "Evitar viagem noturna pela Troncal"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: 1 noite em Palomino combina tubing, pôr do sol e festa de vila.",
+      "CORTE SE APERTAR: 2ª noite; o litoral de Palomino se resolve em 24 h."
+    ],
+    "alertas": [
+      "Programação de festas é de resultado de busca e muda; confirmar nos hostels.",
+      "Preço do ônibus divergiu entre fontes (12.000 a 21.400).",
+      "Paro armado em Santa Marta (21–25/set/2026) bloqueou a Troncal do Caribe; confira o status antes."
+    ]
+  }
+]

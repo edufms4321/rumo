@@ -1,0 +1,2682 @@
+{
+  "base": "santa-marta",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "BASE E LOGÍSTICA: não alugue carro. Santa Marta (centro histórico) é a base para noite e compras; tudo sai do Mercado Público/Terminal: colectivo a Minca (COP ~10.000, 45 min, 07:00–18:00), ônibus Cootransoriente a El Zaino/Calabazo (COP ~10.000, 04:30–18:00), ônibus a Palomino (~2 h, COP 12.000–21.400), moto-táxi dentro de Minca (COP ~10.000) e barco de Taganga ao Tayrona (COP 63.000–150.000 o trecho). Táxi: exigir taxímetro (corrida mínima COP 8.000 em dez/2024; sem taxímetro só se paga a mínima). Sequência sugerida (ritmo intenso, orçamento enxuto): Santa Marta 2 noites (centro histórico + Museo del Oro + noite no Parque de los Novios) -> Tayrona 1 noite (rede em Cabo San Juan) -> Minca 1 noite -> Palomino 1 noite -> volta. CONTEXTO CRÍTICO DE NOVEMBRO/2026: (1) o Tayrona está FECHADO de 19/out a 02/nov e reabre em 03/nov (terça); (2) o puente de 13–16/nov (segunda 16/nov feriado) é tarifa alta (COP 96.500) e lota; (3) Sierra Nevada tem estação de chuvas em out–dez (cachoeiras e estradas de Minca com lama; avalanche de lama em Santa Marta em 31/out–01/nov/2024), apesar de Santa Marta ser a base mais seca; (4) segurança regional instável: paro armado das ACSN em Santa Marta de 21/22 a 25/set/2026, EUA emitiram alerta de segurança (24/set/2026) e o Tayrona teve 2 interdições de acessos terrestres em 2026. Leve dinheiro em espécie: sem caixa eletrônico no Tayrona, Minca e Palomino. Ciudad Perdida (4–5 dias, COP 1,86–2,15 milhões) NÃO cabe num roteiro de 10–12 dias com R$ 8.000 incluindo voo.",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Centro Histórico (Parque de los Novios / Calle 19)",
+        "perfil": "Melhor encaixe com vida noturna + compras: bares, restaurantes e museus a pé; hostels de mochileiro; também fica perto dos colectivos (Mercado Público).",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 35000,
+          "max": 180000
+        },
+        "observacao": "ESTIMADO: dorm de hostel a partir de ~COP 23.000–40.000 (Viajero Hostel 'desde 23.335', aggregators citam 'desde 38.000'); quarto privado simples varia. Valores de agregadores parecem baixos/mistos de moeda; confirmar em Booking/Hostelworld. Ruído noturno é a troca.",
+        "seguranca": "Bairro turístico vigiado em torno do Parque de los Novios; à noite use táxi registrado e evite becos e ruas vazias (Casa Carolina).",
+        "fontes": [
+          "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/",
+          "https://www.viajerohostels.com/es/destinos-colombia/santa-marta/",
+          "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/"
+        ]
+      },
+      {
+        "nome": "El Rodadero",
+        "perfil": "Zona de praia e resorts, boa para quem quer praia + restaurante + noite com mais conforto; menos charme histórico; ponto de saída dos barcos a Playa Blanca.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 60000,
+          "max": 250000
+        },
+        "observacao": "ESTIMADO: BuscaHoteles cita ~COP 59.000 como médio e hotéis 3 estrelas desde ~82.000; sem confirmação por duas fontes.",
+        "seguranca": "Zona turística, geralmente tranquila de dia; à noite táxi registrado.",
+        "fontes": [
+          "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/"
+        ]
+      },
+      {
+        "nome": "Taganga",
+        "perfil": "Vila de pescadores com mergulho barato e saídas de barco; cena de festa diminuiu; praia modesta.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem preço confirmado. Guia (2019) aponta hostels baratos, sem valores; preferível dormir no centro e visitar Taganga de dia.",
+        "seguranca": "Cautela à noite: evite ficar até tarde e longe da rua principal; houve assaltos graves a turistas em 2017 em praias vizinhas.",
+        "fontes": [
+          "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/"
+        ]
+      },
+      {
+        "nome": "Minca (vila e serra)",
+        "perfil": "Frescor, rede com vista, cachoeiras, café e cacau; transporte por moto-táxi e 4x4; dormir 1 noite.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 65000,
+          "max": 130000
+        },
+        "observacao": "DERIVADO: Gecko Routes cita budget US$ 20–40/noite; converti com a taxa implícita do mesmo guia (COP 10.000 = US$ 3,10). Confirmar por Booking. Novembro é chuvoso na serra.",
+        "seguranca": "Segura de dia; estradas de terra e moto-táxi exigem capacete e cuidado na chuva; sem ATM.",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/minca/",
+          "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+        ]
+      },
+      {
+        "nome": "Palomino",
+        "perfil": "Praia selvagem, tubing, festas de hostel; vilarejo informal; 1 noite basta.",
+        "diariaFaixa": {
+          "moeda": "COP",
+          "min": 16000,
+          "max": 165000
+        },
+        "observacao": "DERIVADO: HostelGeeks (mai/2026) cita dorms de US$ 5–20 e quartos privados ~US$ 51; converti com a taxa implícita do Gecko (COP 10.000 = US$ 3,10). Confirmar por Booking. Preços sobem em feriados.",
+        "seguranca": "Correnteza forte no mar (~30 mortes segundo a Defesa Civil); fora da água, vila informal; sem ATM.",
+        "fontes": [
+          "https://hostelgeeks.com/best-hostels-in-palomino-colombia/",
+          "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Centro Histórico/Parque de los Novios: zona turística movimentada de quinta a sábado; recomendável táxi registrado à noite e não andar sozinho em ruas vazias. El Rodadero: tranquilo, turístico. Taganga: cautela à noite (cena decaída e histórico de assaltos em 2017). Tayrona: riscos naturais (correntes em Arrecifes/Cañaveral/Castilletes; banho só em áreas sinalizadas) e institucionais (houve bloqueios e cobranças não autorizadas em fev/2026). Minca: segura, mas estrada e trilhas em chuva. Palomino: risco de afogamento na foz do rio. CONTEXTO 2026: paro armado das ACSN (grupo criminoso) em Santa Marta e Magdalena/La Guajira de 21/22 a 25/set/2026 com veículos queimados e bloqueios na Troncal do Caribe; o governo reforçou com mais de 1.100 agentes; os EUA emitiram alerta de segurança em 24/set/2026 (extremar precauções e verificar vias); a normalidade foi anunciada em 25/set, mas a presença militar continua. Aconselhável acompanhar notícias e a página da Parques Nacionales antes de cada deslocamento e ter plano B (Bahía Concha/Palangana) caso El Zaino/Calabazo fechem.",
+    "pegaTuristaAEvitar": [
+      "Táxi sem taxímetro ou com 'taxímetro quebrado' (cobrança de 2–3x; sem taxímetro só vale a corrida mínima de COP 8.000 em 2024).",
+      "Sobretaxa de saída do aeroporto e tarifas inventadas (relatos de COP 37.200 do aeroporto a Santa Marta contra tabela oficial).",
+      "Cobranças 'extras' ou ingressos vendidos por terceiros nas portas do Tayrona (houve cobranças não autorizadas em El Zaino/Calabazo/Neguanje em fev/2026; compre só em canais oficiais).",
+      "Intermediários que 'reservam' camping no Tayrona na entrada (um guia aconselha não reservar com vendedores na portaria).",
+      "Passeio de barco a Playa Blanca e ao Tayrona com preço inflado ou mar impróprio.",
+      "Mochila 'arhuaca' barata de barraca: provável imitação de fábrica; exija nome da tecelã e comunidade.",
+      "Tours de Ciudad Perdida de operadoras não autorizadas (só 4–5 empresas autorizadas)."
+    ],
+    "golpesComuns": [
+      "Taxímetro 'quebrado' / preço combinado absurdo no aeroporto e em Taganga.",
+      "Cobranças e 'taxas de entrada' não oficiais em portarias do Tayrona (Resolução 091/2026 descreve cobranças não autorizadas).",
+      "Reserva falsa de camping/rede na entrada do Tayrona.",
+      "Imitação de mochila arhuaca/wayúu vendida como autêntica.",
+      "Pagamento antecipado por transferência a 'guias independentes' de Ciudad Perdida (a trilha só pode ser feita com operadora autorizada)."
+    ],
+    "fontes": [
+      "https://www.pulzo.com/nacion/santa-marta-subio-tarifas-taxis-cuanto-quedo-carrera-minima-PP4181287",
+      "https://www.vanguardia.com/colombia/2026/09/24/eeuu-lanza-alerta-para-viajeros-en-santa-marta-por-bloqueos-y-situacion-de-seguridad/",
+      "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/",
+      "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/",
+      "https://www.parquesnacionales.gov.co/wp-content/uploads/2026/02/Resolucion-No091-Por-medio-de-la-cual-se-ordena-e_260217_125507.pdf",
+      "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+      "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/",
+      "https://www.publimetro.co/barranquilla/2024/11/01/avalancha-de-lodo-sepulto-taxis-y-camiones-tras-fuerte-aguacero-en-santa-marta/",
+      "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/",
+      "https://buscahoteles.co/guias/cuanto-cuesta-hotel-santa-marta/"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Parque Nacional Natural Tayrona — ingresso, setores e fechamento de 19/out a 02/nov/2026",
+      "categoria": "atracao",
+      "cidade": "tayrona",
+      "tags": [
+        "prioridade-maxima",
+        "praia",
+        "natureza",
+        "trilha",
+        "parque-nacional",
+        "fechamento-programado"
+      ],
+      "coords": {
+        "lat": 11.323558,
+        "lng": -74.0518074
+      },
+      "descricaoCurta": "Principal atração da região: praias e selva no Caribe. Em 2026 fecha de 19/out a 02/nov (reabre 03/nov). Ingresso de estrangeiro não residente: COP 81.000 (baixa) / 96.500 (alta), mais seguro obrigatório.",
+      "descricaoLonga": "VEREDITO SOBRE O FECHAMENTO: o Tayrona fecha 3 vezes por ano por acordo de consulta prévia com os povos Kogui, Wiwa, Arhuaco e Kankuamo (1-15/fev, 1-15/jun e 19/out-02/nov). Para 2026 as datas de outubro/novembro estão confirmadas: fechado de 19/out a 02/nov (inclusive), reabertura em 03/nov/2026. Durante o fechamento ficam proibidos visitantes, hospedagem, camping, alimentação e transporte marítimo/terrestre dentro do parque. Se a viagem for em novembro, os dias 01 e 02/nov estão perdidos e o Tayrona só entra no roteiro a partir de 03/nov.\n\nHISTÓRICO 2026 (risco operacional): (1) 17/fev: fechamento extra por 'risco público' (Resolução 091) após bloqueios em El Zaino, Calabazo e Neguanje, cobranças indevidas e ameaças a funcionários; reabertura em 05/mar com 80 Carabineros e roteiro de 18 meses de recuperação. (2) Reabertura de 16/jun (após o fechamento de junho) com Calabazo e El Zaino-Cañaveral interditados por problemas de mobilidade no corredor Santa Marta-Palomino (só Bahía Concha, Neguanje/Palangana e acesso marítimo). (3) Comunicado oficial de 03/jul/2026: Calabazo, Zaino, Palangana e Bahía Concha habilitados de novo. (4) Paro armado das ACSN em Santa Marta (21/22 a 25/set/2026): o parque seguiu aberto, mas o PNN Sierra Nevada suspendeu atividades por precaução. Conclusão: a operação é volátil; conferir o canal oficial uma semana antes e na véspera.\n\nINGRESSO 2026 (Resolução 551 de 19/12/2025, vigente desde 01/01/2026): estrangeiro NÃO residente e fora da CAN paga COP 81.000 em temporada baixa e COP 96.500 em alta; setor Bahía Concha COP 43.500 (valor único o ano todo). Estrangeiros residentes ou da CAN (Bolívia, Colômbia, Equador, Peru) pagam como colombianos (carta do próprio parque, set/2025); brasileiros PAGAM a tarifa de não residente. Temporada alta (Res. 695/2024): 1/dez-31/jan, 1/jun-31/jul, Semana Santa, 'puentes' com segunda-feira festiva (sexta a segunda) e a semana de recesso escolar de outubro. Em novembro/2026 o puente de 13 a 16/nov (feriado de segunda, 16/nov) cai em tarifa alta (96.500) e com mais gente; isso é cálculo meu a partir da regra e do calendário de feriados. O resto de novembro é tarifa baixa.\n\nSEGURO OBRIGATÓRIO: o ingresso NÃO inclui o seguro de acidentes/resgate, obrigatório para entrar; vendido nas bilheterias ou online. Valor diário citado entre COP 3.000 e 8.800 por pessoa conforme a fonte (a mais recente, 2026, cita 8.800).\n\nHORÁRIO E ÚLTIMA ENTRADA: comunicado oficial de 03/jul/2026 — todos os dias 08:00–16:00, com última entrada às 14:00. A página geral do parque lista janelas por setor mais largas e diferentes (ex.: Zaino até 17:00), então use 14:00 como limite seguro e chegue antes das 09:00.\n\nSETORES: El Zaino (principal; trilha até Cañaveral/Arrecifes/Cabo San Juan), Calabazo (acesso a Pueblito/Playa Brava; mais longo e pesado), Palangana (Playa Cristal/Neguanje; curto) e Bahía Concha (~11 km de Santa Marta). Acesso marítimo depende de clima e autoridade marítima. Capacidade diária citada: 6.900 visitantes.\n\nREGRAS: proibido plástico descartável, caixas de som, drones sem permissão, animais, álcool e alucinógenos; nadar só em áreas sinalizadas (bandeira vermelha = proibido).",
+      "duracao": {
+        "min": 360,
+        "tipica": 480,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "ter": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "qua": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "qui": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "sex": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "sab": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026).",
+        "dom": "08:00–16:00. Última entrada às 14:00 (comunicado oficial de 03/jul/2026)."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: FECHADO (Respira Tayrona / Nabbatashi); reabre 03/11/2026"
+      ],
+      "melhorHorario": "Chegar antes das 09:00 (calor e lotação). Evitar o puente de 13–16/nov se possível.",
+      "preco": {
+        "moeda": "COP",
+        "min": 81000,
+        "max": 96500,
+        "por": "pessoa",
+        "inclui": "Ingresso de estrangeiro não residente (baixa 81.000; alta 96.500; Bahía Concha 43.500). NÃO inclui seguro obrigatório (~COP 3.000–8.800/dia/pessoa, varia por fonte), transporte nem hospedagem.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+          "https://www.bluradio.com/regiones/caribe/parque-tayrona-ajusta-tarifas-para-2026-asi-quedaron-los-precios-rg10",
+          "https://newsroom.rcnradio.com/actualidad/cuanto-vale-la-entrada-al-parque-tayrona-en-2026-cambiaron-los-precios",
+          "https://www.elespectador.com/turismo/nuevas-tarifas-del-parque-tayrona-en-2026-cuanto-vale-la-entrada/",
+          "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+          "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/09/20254700092512.pdf",
+          "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/02/Resolucion-No.695-tarifas_ingreso_PNNC_2025.pdf"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": true,
+        "link": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/"
+      },
+      "contato": {
+        "telefone": "+57 601 3532400",
+        "whatsapp": "+57 3229471031",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Seguro de acidentes/resgate obrigatório",
+        "Sem plástico descartável, caixas de som, drones, animais, álcool",
+        "Brasileiro paga tarifa de estrangeiro não residente",
+        "Fechado 19/out–02/nov/2026"
+      ],
+      "pontoPartida": "Santa Marta (ônibus Cootransoriente atrás do Mercado Público até El Zaino/Calabazo, ~COP 10.000, 45–60 min)",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício de natureza da região (~COP 81.000 + seguro por pessoa).",
+        "Pagamento online pelo portal oficial (linkdepago.parquesnacionales.gov.co, código P0002, segundo a página do parque) ou na bilheteria; e-mail de arrecadação: recaudo.tayrona@parquesnacionales.gov.co.",
+        "Planeje o Tayrona entre 04/nov e 12/nov ou depois de 17/nov para fugir do puente; as datas de 19/out a 02/nov NÃO existem.",
+        "Com 1 dia só: entrar por Zaino às 08:00, van até Cañaveral, caminhar até Arrecifes/La Piscina/Cabo San Juan e sair antes das 16:00 — apertado. Para casal econômico, 1 noite de rede em Cabo San Juan rende muito mais.",
+        "CORTE SE APERTAR: Calabazo/Pueblito/Playa Brava (trecho longo e pesado) e ecohabs (muito caros para o perfil)."
+      ],
+      "alertas": [
+        "FECHAMENTO OFICIAL 'Respira Tayrona / Nabbatashi': 19/out a 02/nov/2026 (15 dias), reabertura em 03/nov/2026 (terça). Base: Resolução 005/2024 (citada na Resolução 091/2026 da Parques Nacionales) + comunicados de imprensa de 06-07/out/2026. Em novembro só vale visitar a partir de 03/nov.",
+        "Acessos terrestres já foram interditados duas vezes em 2026 (fev e jun) por bloqueios/segurança; confirmar no canal oficial antes de comprar transporte.",
+        "Pague só em canais oficiais: houve registro de cobranças não autorizadas em El Zaino/Calabazo/Neguanje em fev/2026 (Resolução 091).",
+        "Fontes divergem em horário por setor e em valor do seguro; confira na bilheteria.",
+        "A página 'old.parquesnacionales' é da era COVID (restrições de 2020); ignorar."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Vista_Parque_Tayrona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Zariacim6",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Vista_Parque_Tayrona.jpg"
+      },
+      "fontes": [
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.parquesnacionales.gov.co/wp-content/uploads/2026/02/Resolucion-No091-Por-medio-de-la-cual-se-ordena-e_260217_125507.pdf",
+        "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/09/20254700092512.pdf",
+        "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/02/Resolucion-No.695-tarifas_ingreso_PNNC_2025.pdf",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-reabre-al-publico-con-medidas-para-una-visita-segura/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parques-nacionales-naturales-de-colombia-anuncia-cierre-temporal-del-parque-tayrona-para-garantizar-condiciones-de-seguridad/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-renueva-su-energia-primer-cierre-temporal-del-2026/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/ultimo-cierre-del-tayrona-en-2025-durante-15-dias-se-suspenden-actividades-turisticas-para-que-la-naturaleza-respire/",
+        "https://www.parquesnacionales.gov.co/?s=tayrona+cierre",
+        "https://www.elcallejero.co/2026/10/07/parque-tayrona-tendra-su-ultimo-cierre-programado-del-ano/",
+        "https://diariodelnorte.net/caribe/parque-tayrona-tendra-su-ultimo-cierre-del-ano-del-19-de-octubre-al-2-de-noviembre/",
+        "https://cabosanjuantravel.co/blog/cierres-del-parque-tayrona.html",
+        "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+        "https://www.bluradio.com/regiones/caribe/parque-tayrona-ajusta-tarifas-para-2026-asi-quedaron-los-precios-rg10",
+        "https://newsroom.rcnradio.com/actualidad/cuanto-vale-la-entrada-al-parque-tayrona-en-2026-cambiaron-los-precios",
+        "https://www.elespectador.com/turismo/nuevas-tarifas-del-parque-tayrona-en-2026-cuanto-vale-la-entrada/",
+        "https://www.elespectador.com/ambiente/el-parque-tayrona-reabre-aunque-seguira-con-restricciones-en-algunos-accesos/",
+        "https://www.eltiempo.com/vida/viajar/parque-tayrona-reabre-al-turismo-pero-mantiene-restringidos-los-accesos-terrestres-por-calabazo-y-zaino-3564504",
+        "https://www.portafolio.co/economia/gobierno/gobierno-nacional-revisa-medidas-por-cierre-del-parque-tayrona-y-plantea-hoja-de-ruta-para-su-reapertura-488895",
+        "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/",
+        "https://www.openstreetmap.org/way/59062607"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Trilha El Zaino – Cañaveral – Arrecifes – La Piscina – Cabo San Juan",
+      "categoria": "passeio",
+      "cidade": "tayrona",
+      "tags": [
+        "trilha",
+        "caminhada",
+        "tayrona",
+        "selva",
+        "dia-inteiro"
+      ],
+      "coords": {
+        "lat": 11.2808012,
+        "lng": -73.9148171
+      },
+      "descricaoCurta": "Trilha principal do parque: van interna de ~3–5 km até Cañaveral/Castilletes e cerca de 2 a 2,5 h de caminhada pela selva até Cabo San Juan, passando por Arrecifes e La Piscina.",
+      "descricaoLonga": "Percurso (as fontes divergem nos tempos): do portão de El Zaino uma van interna leva à área de Cañaveral/Castilletes (3–5 km; ~COP 5.000); dali são cerca de 1 h até Arrecifes e mais ~1 a 1,5 h até Cabo San Juan, ou seja ~2 a 2,5 h pelo trecho de selva (Gecko Routes cita 8 km de trilha após a van). La Piscina fica entre Arrecifes e Cabo San Juan. Há a variante via Calabazo (4–5 h, dificuldade alta) e o trecho Pueblito/Playa Brava (uma fonte diz Pueblito fechado desde 2020, outra diz acessível: confirmar). Trilha de terra e raízes, escorregadia em novembro; calçado fechado, 2 L de água por pessoa e protetor biodegradável. Não há caixa eletrônico no parque.\n\nObs. de coordenada: o ponto é a vereda de El Zaino (OSM, 'hamlet'), não o portão exato.",
+      "duracao": {
+        "min": 120,
+        "tipica": 150,
+        "max": 210
+      },
+      "horarios": {
+        "seg": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "ter": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "qua": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "qui": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "sex": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "sab": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia.",
+        "dom": "08:00–16:00. Entrar até 14:00 (comunicado oficial de 03/jul/2026); saia da trilha com luz do dia."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Entrar às 08:00 para caminhar antes do sol forte; evitar chuva (trilha escorregadia).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Van interna Zaino–Cañaveral citada a ~COP 5.000 (Un Mundo Ahí Afuera, jan/2025); a trilha em si não tem custo além do ingresso.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://unmundoahiafuera.com/acampar-en-el-tayrona/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Calçado fechado",
+        "Água e protetor biodegradável",
+        "Sem plástico descartável"
+      ],
+      "pontoPartida": "Portão de El Zaino (ônibus Cootransoriente de Santa Marta, ~COP 10.000)",
+      "dicasAgente": [
+        "VALE CADA PESO: é o trajeto que faz o Tayrona valer a pena — praias e selva no mesmo dia.",
+        "Se for bate-volta, reduza a ambição: Arrecifes (só olhar) + La Piscina (nadar) e voltar; Cabo San Juan exige ~2,5 h de ida e a volta antes do fechamento.",
+        "CORTE SE APERTAR: cavalo (preço 2026 não confirmado) e guias particulares."
+      ],
+      "alertas": [
+        "Tempos de caminhada divergem entre fontes (Arrecifes→Cabo de 1 h a 2 h); trate como estimativa.",
+        "Coordenada = vereda Zaino (OSM), não o portão.",
+        "Acessos já foram bloqueados em 2026; veja o status antes."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://randomtrip.es/guia-tayrona-por-libre/",
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+        "https://bananomeridiano.com/dormir-en-tayrona/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/",
+        "https://www.openstreetmap.org/node/703472444",
+        "https://www.openstreetmap.org/way/179619134"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cabo San Juan del Guía",
+      "categoria": "praia",
+      "cidade": "tayrona",
+      "tags": [
+        "praia",
+        "cartao-postal",
+        "camping",
+        "mirante",
+        "nadar-ok"
+      ],
+      "coords": {
+        "lat": 11.3326115,
+        "lng": -73.9739309
+      },
+      "descricaoCurta": "A praia mais famosa do Tayrona: baía com rochas, camping, restaurante e mirante; apontada como das mais seguras para nadar no parque.",
+      "descricaoLonga": "Ponto final da trilha principal e base de hospedagem mais disputada do parque (redes, barracas e cabanas). A baía protegida é apontada como segura para banho, ao contrário de Arrecifes. O mirante sobre a rocha tem redes mais caras e frias à noite. Chegada por trilha (~2–2,5 h de El Zaino) ou de barco saindo de Taganga/El Rodadero (COP 63.000–150.000 o trecho segundo Gecko Routes; 75.000–100.000 ida e volta segundo outra fonte; mar às vezes agitado, até 2,5 h na pior condição). Sem caixa eletrônico no parque.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 720
+      },
+      "horarios": {
+        "seg": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "ter": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "qua": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "qui": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "sex": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "sab": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping.",
+        "dom": "08:00–16:00 (horário do parque). Quem dorme no local permanece no camping."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Chegar cedo no dia anterior ao pôr do sol; a manhã seguinte tem a praia quase vazia.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Visita à praia = apenas ingresso do parque (81.000/96.500) + seguro. Hospedagem: ver item 'Dormir dentro do Tayrona'.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+          "https://unmundoahiafuera.com/acampar-en-el-tayrona/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 2,
+        "esgotaRapido": true,
+        "link": "https://cabosanjuantravel.co/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Nadar só nas áreas sinalizadas",
+        "Respeitar bandeiras"
+      ],
+      "pontoPartida": "Portão de El Zaino ou barco de Taganga/El Rodadero",
+      "dicasAgente": [
+        "VALE CADA PESO: dormir aqui 1 noite (rede/camping) transforma o parque; lota na alta, mas em novembro (baixa) tende a ter vaga.",
+        "Se vier de barco, combine ida de barco e volta a pé (ou o inverso) para ver mais e reduzir enjoo."
+      ],
+      "alertas": [
+        "Mar pode ficar agitado (relato de volta 'bem ruim'); não marque voo no mesmo dia de uma travessia.",
+        "Parque fechado 19/out–02/nov/2026."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cabo_San_Juan_del_Guia_%285499855173%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "William Neuheisel from DC, US",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cabo_San_Juan_del_Guia_(5499855173).jpg"
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://randomtrip.es/guia-tayrona-por-libre/",
+        "https://bananomeridiano.com/dormir-en-tayrona/",
+        "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.openstreetmap.org/way/179544903",
+        "https://www.openstreetmap.org/way/179619133"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Piscina (Tayrona)",
+      "categoria": "praia",
+      "cidade": "tayrona",
+      "tags": [
+        "praia",
+        "snorkel",
+        "nadar-ok",
+        "tayrona"
+      ],
+      "coords": {
+        "lat": 11.3234537,
+        "lng": -73.9584942
+      },
+      "descricaoCurta": "Enseada protegida por recifes, entre Arrecifes e Cabo San Juan: uma das poucas praias do parque com água calma para nadar e fazer snorkel.",
+      "descricaoLonga": "Guias indicam La Piscina (e Cabo San Juan, Arenillas/La Piscinita) como áreas de banho seguras, protegidas por barreiras naturais, enquanto Arrecifes, Cañaveral e Castilletes são proibidas por correntes. Fica entre Arrecifes e Cabo San Juan, perto do Cabo pela posição no OSM. Boa para quem faz bate-volta e quer nadar sem ir até Cabo San Juan. Snorkel só com equipamento próprio ou alugado em restaurantes de praia.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "08:00–16:00 (horário do parque).",
+        "ter": "08:00–16:00 (horário do parque).",
+        "qua": "08:00–16:00 (horário do parque).",
+        "qui": "08:00–16:00 (horário do parque).",
+        "sex": "08:00–16:00 (horário do parque).",
+        "sab": "08:00–16:00 (horário do parque).",
+        "dom": "08:00–16:00 (horário do parque)."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Manhã (água mais clara e menos gente).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Incluído no ingresso do parque.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Seguir bandeiras e não nadar fora das áreas sinalizadas"
+      ],
+      "pontoPartida": "Trilha a partir de Arrecifes",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor 'parada de banho' para bate-volta.",
+        "CORTE SE APERTAR: passar direto se estiver cansado; Cabo San Juan tem banho igualmente seguro."
+      ],
+      "alertas": [
+        "Chuva e mar forte mudam as condições; obedeça bandeiras e guarda-parques.",
+        "Tempo exato de caminhada a partir de Arrecifes não confirmado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+        "https://randomtrip.es/guia-tayrona-por-libre/",
+        "https://www.openstreetmap.org/way/179619134"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Arrecifes (Tayrona) — NÃO nadar",
+      "categoria": "praia",
+      "cidade": "tayrona",
+      "tags": [
+        "praia",
+        "perigo",
+        "proibido-nadar",
+        "camping",
+        "tayrona"
+      ],
+      "coords": {
+        "lat": 11.3154172,
+        "lng": -73.94913
+      },
+      "descricaoCurta": "Praia bonita de ondas fortes e correntes de retorno: banho é proibido (mais de 100 afogamentos relatados). Serve para ver, fotografar e acampar.",
+      "descricaoLonga": "Guias afirmam que nadar é proibido em Arrecifes, Cañaveral e Castilletes por correntes e ressaca fortes, e que 'nessas praias se afogaram mais de 100 pessoas' (RandomTrip). Não achei fonte oficial com a contagem. O parque usa bandeiras: vermelha = proibição total, amarela = precaução extrema. Há camping, redes e restaurantes em Arrecifes (concessões privadas; capacidade listada no portal antigo da Parques Nacionales: camping para 400 e dois pontos de redes para 80, mas esse portal é desatualizado). Muitos visitantes fazem a primeira noite aqui por estar a ~1 h do início da trilha.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 720
+      },
+      "horarios": {
+        "seg": "08:00–16:00 (horário do parque).",
+        "ter": "08:00–16:00 (horário do parque).",
+        "qua": "08:00–16:00 (horário do parque).",
+        "qui": "08:00–16:00 (horário do parque).",
+        "sex": "08:00–16:00 (horário do parque).",
+        "sab": "08:00–16:00 (horário do parque).",
+        "dom": "08:00–16:00 (horário do parque)."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Fim de tarde (pôr do sol) — nunca para banho.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Incluído no ingresso do parque; acampamento é cobrado à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "PROIBIDO NADAR (correntes de retorno)"
+      ],
+      "pontoPartida": "Trilha a partir de Cañaveral (~1 h)",
+      "dicasAgente": [
+        "CORTE SE APERTAR: se já vai a La Piscina e Cabo San Juan, Arrecifes é só passagem; não gaste uma noite aqui se priorizar banho.",
+        "Leve repelente: acampar em Arrecifes/Cañaveral atrai mosquitos."
+      ],
+      "alertas": [
+        "Já houve mortes em Arrecifes. Mesmo entrar até a cintura é arriscado em dia de ressaca.",
+        "Número exato de afogamentos NÃO confirmado por fonte oficial."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/110_Playa_Arrecifes_Tayrona_Colombia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "David Shankbone",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:110_Playa_Arrecifes_Tayrona_Colombia.JPG"
+      },
+      "fontes": [
+        "https://randomtrip.es/guia-tayrona-por-libre/",
+        "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+        "https://old.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-caribe/parque-nacional-natural-tayrona/servicios-ecoturisticos/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.openstreetmap.org/relation/7443774"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Cristal e Neguanje (setor Palangana)",
+      "categoria": "praia",
+      "cidade": "tayrona",
+      "tags": [
+        "praia",
+        "bate-volta",
+        "snorkel",
+        "tayrona",
+        "palangana"
+      ],
+      "coords": {
+        "lat": 11.3274725,
+        "lng": -74.0771783
+      },
+      "descricaoCurta": "Entrada alternativa mais curta: Palangana dá acesso a Neguanje (baía de 4 km) e à Playa Cristal, de águas transparentes e capacidade limitada (~300 pessoas).",
+      "descricaoLonga": "O acesso é por Palangana (estrada de terra; moto-táxi/van no trecho final). Em jun/2026 foi um dos acessos que ficou aberto enquanto El Zaino e Calabazo estavam interditados, então serve de plano B. Horário citado em guia secundário: entrada 08:00–16:00, saída até 17:00; o comunicado oficial de 03/jul/2026 diz 08:00–16:00 com última entrada às 14:00. Pernoite é proibido em Playa Cristal, Neguanje e Playa del Amor.",
+      "duracao": {
+        "min": 180,
+        "tipica": 270,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "ter": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "qua": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "qui": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "sex": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "sab": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "dom": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026)."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Sair cedo para pegar vaga na Playa Cristal.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Ingresso do parque (81.000/96.500) + seguro. Moto-táxi final: ~US$5 por 5 km (Gecko Routes), cerca de COP 16.000 pela conversão do próprio guia.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+          "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem pernoite",
+        "Capacidade limitada na Playa Cristal"
+      ],
+      "pontoPartida": "Estrada de Palangana (saída para Neguanje) a partir de Santa Marta/Bonda",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor 'dia fácil' se o tempo estiver curto ou se El Zaino/Calabazo estiverem restritos.",
+        "CORTE SE APERTAR: se for dormir em Cabo San Juan, Palangana vira redundante."
+      ],
+      "alertas": [
+        "Valor do moto-táxi é conversão aproximada; confirmar na hora.",
+        "Mar pode ficar agitado; siga as bandeiras."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Santa_Marta_-_Playa_Cristal_en_el_Tayrona_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Alonso Cárdenas",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Santa_Marta_-_Playa_Cristal_en_el_Tayrona_-_panoramio.jpg"
+      },
+      "fontes": [
+        "https://www.calendariodecolombia.com/turismo/guia-para-visitar-el-parque-nacional-natural-tayrona-en-2026-horarios-precios-y-consejos-para-una-experiencia-unica",
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-reabre-al-publico-con-medidas-para-una-visita-segura/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/",
+        "https://www.openstreetmap.org/way/117746876",
+        "https://www.openstreetmap.org/way/117589525"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bahía Concha (setor do Tayrona mais perto de Santa Marta)",
+      "categoria": "praia",
+      "cidade": "santa-marta",
+      "tags": [
+        "praia",
+        "bate-volta",
+        "tayrona",
+        "facil"
+      ],
+      "coords": {
+        "lat": 11.2950415,
+        "lng": -74.1510576
+      },
+      "descricaoCurta": "Baía calma a ~11 km de Santa Marta, dentro do Tayrona, com tarifa única de COP 43.500 para estrangeiro não residente.",
+      "descricaoLonga": "É a entrada mais fácil e barata do Tayrona para meio dia: ônibus urbano até Bastidas/Chimila e conexão curta (~COP 17.000 e ~30 min segundo guia), sem trilha. O ingresso de Bahía Concha para estrangeiro não residente é COP 43.500 o ano todo (cerca de metade do ingresso geral), mas só vale para o setor. Esteve aberto mesmo nos períodos de bloqueio de jun/2026. Tem restaurantes de praia.",
+      "duracao": {
+        "min": 150,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "ter": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "qua": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "qui": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "sex": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "sab": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026).",
+        "dom": "08:00–16:00. Última entrada 14:00 (oficial 03/jul/2026)."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Manhã; fim de semana e feriado lotam.",
+      "preco": {
+        "moeda": "COP",
+        "min": 43500,
+        "max": 43500,
+        "por": "pessoa",
+        "inclui": "Ingresso do setor Bahía Concha para estrangeiro não residente (valor único). Seguro obrigatório à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+          "https://www.bluradio.com/regiones/caribe/parque-tayrona-ajusta-tarifas-para-2026-asi-quedaron-los-precios-rg10",
+          "https://newsroom.rcnradio.com/actualidad/cuanto-vale-la-entrada-al-parque-tayrona-en-2026-cambiaron-los-precios",
+          "https://www.elespectador.com/turismo/nuevas-tarifas-del-parque-tayrona-en-2026-cuanto-vale-la-entrada/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Seguro obrigatório"
+      ],
+      "pontoPartida": "Centro de Santa Marta (ônibus a Bastidas/Chimila + conexão) ou táxi",
+      "dicasAgente": [
+        "VALE CADA PESO: ótimo 'Tayrona light' para dia de chuva incerta ou de recuperação; metade do preço.",
+        "CORTE SE APERTAR: se for dormir em Cabo San Juan, não precisa."
+      ],
+      "alertas": [
+        "Preço do transporte (COP 17.000) vem de um guia de 2026 e pode variar."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bahia_Concha_-_Santa_Marta_-_Hector_Pertuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "HectorPertuz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bahia_Concha_-_Santa_Marta_-_Hector_Pertuz.jpg"
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+        "https://www.bluradio.com/regiones/caribe/parque-tayrona-ajusta-tarifas-para-2026-asi-quedaron-los-precios-rg10",
+        "https://newsroom.rcnradio.com/actualidad/cuanto-vale-la-entrada-al-parque-tayrona-en-2026-cambiaron-los-precios",
+        "https://www.elespectador.com/turismo/nuevas-tarifas-del-parque-tayrona-en-2026-cuanto-vale-la-entrada/",
+        "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-reabre-al-publico-con-medidas-para-una-visita-segura/",
+        "https://www.santamarta.gov.co/node/4208",
+        "https://www.openstreetmap.org/way/329971934"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Dormir dentro do Tayrona: rede, barraca ou ecohab",
+      "categoria": "experiencia",
+      "cidade": "tayrona",
+      "tags": [
+        "hospedagem",
+        "camping",
+        "rede",
+        "ecohab",
+        "tayrona"
+      ],
+      "coords": {
+        "lat": 11.3279926,
+        "lng": -73.9642162
+      },
+      "descricaoCurta": "Opções: rede ou barraca em Cabo San Juan/Arrecifes/Cañaveral (COP 30.000–110.000 por pessoa/noite conforme fonte) ou ecohab da Hotelera Tequendama (~COP 800.000/noite).",
+      "descricaoLonga": "As tarifas variam muito por fonte e data. Cabo San Juan: espaço para barraca própria ~COP 35.000; rede-camping 50.000–85.000; rede-mirante 70.000–105.000; barraca individual 75.000–110.000; barraca dupla ~190.000; cabana mirante 150.000–500.000 (cabosanjuantravel.co, que se diz 'reserva oficial' — não confirmei vínculo com a concessionária; reserva por WhatsApp com 50% adiantado). Arrecifes: redes por ~US$15 com café da manhã, camping e cabanas, parte reservável por Booking. Cañaveral — Camping Castilletes: espaço COP 20.000, barraca para 2 COP 80.000, rede 30.000, cabana para 2 COP 250.000. Ecohabs (Cañaveral, 14 unidades; Sociedad Hotelera Tequendama; +57 320 921 5393; reservas@ecohabsparquetayrona.com): ~COP 800.000/noite (Banano Meridiano, 2026) — fora do perfil econômico. Camping livre é proibido. TODA a hospedagem fica SUSPENSA de 19/out a 02/nov. Guias dizem que em alta convém reservar com 2–3 dias de antecedência; em novembro (baixa) deve haver mais folga.",
+      "duracao": {
+        "min": 960,
+        "tipica": 960,
+        "max": 1440
+      },
+      "horarios": {
+        "seg": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "ter": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "qua": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "qui": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "sex": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "sab": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00.",
+        "dom": "Check-in/saída conforme o camping; parque aberto a visitantes das 08:00 às 16:00."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: hospedagem suspensa"
+      ],
+      "melhorHorario": "Dormir em Cabo San Juan numa noite entre 04 e 12/nov (tarifa baixa, menos lotação).",
+      "preco": {
+        "moeda": "COP",
+        "min": 35000,
+        "max": 500000,
+        "por": "pessoa",
+        "inclui": "Faixa ampla: de espaço p/ barraca própria a cabana mirante. Rede-camping típica COP 50.000–85.000/pessoa. Ecohab ~COP 800.000/noite (fora da faixa). Não inclui ingresso do parque.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://bananomeridiano.com/dormir-en-tayrona/",
+          "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+          "https://cabosanjuantravel.co/",
+          "https://www.campingparquetayrona.com/",
+          "https://old.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-caribe/parque-nacional-natural-tayrona/servicios-ecoturisticos/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 3,
+        "esgotaRapido": true,
+        "link": "https://cabosanjuantravel.co/"
+      },
+      "contato": {
+        "telefone": "+57 320 921 5393",
+        "whatsapp": "+57 3112589907",
+        "site": "https://www.ecohabsparquetayrona.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Camping livre proibido",
+        "Parque fecha entre 19/out e 02/nov"
+      ],
+      "pontoPartida": "Cabo San Juan / Arrecifes / Cañaveral",
+      "dicasAgente": [
+        "VALE CADA PESO: 1 noite de rede em Cabo San Juan (~COP 50.000–85.000/pessoa) — melhor gasto de hospedagem da viagem.",
+        "CORTE SE APERTAR: ecohab (≈10x o preço de uma rede) e cabana mirante.",
+        "Reserve só por canais verificáveis; o guia Un Mundo Ahí Afuera desaconselha reservar com vendedores na entrada."
+      ],
+      "alertas": [
+        "Preços divergem entre 3+ fontes (rede-mirante de COP 50.000 a 105.000); tratar como faixa e confirmar por WhatsApp.",
+        "cabosanjuantravel.co se apresenta como 'Reserva Oficial', mas NÃO consegui confirmar vínculo com a Parques Nacionales ou a concessionária.",
+        "WhatsApp +57 3112589907 vem do site Banano Meridiano e de resultado de busca; não validado.",
+        "Coordenada = camping de Cabo San Juan (OSM way 179619133)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://cabosanjuantravel.co/",
+        "https://bananomeridiano.com/dormir-en-tayrona/",
+        "https://unmundoahiafuera.com/acampar-en-el-tayrona/",
+        "https://www.campingparquetayrona.com/",
+        "https://old.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-caribe/parque-nacional-natural-tayrona/servicios-ecoturisticos/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tayrona/",
+        "https://www.openstreetmap.org/way/179619133"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Como chegar ao Tayrona: ônibus, barco e vans (com custos)",
+      "categoria": "passeio",
+      "cidade": "tayrona",
+      "tags": [
+        "transporte",
+        "barco",
+        "onibus",
+        "logistica",
+        "tayrona"
+      ],
+      "coords": {
+        "lat": 11.2454202,
+        "lng": -74.2057755
+      },
+      "descricaoCurta": "Ônibus Cootransoriente de Santa Marta até El Zaino/Calabazo (~COP 10.000) ou lancha de Taganga/El Rodadero até Cabo San Juan (COP 63.000–150.000 o trecho).",
+      "descricaoLonga": "Ônibus: saem da parada Cootransoriente atrás do Mercado Público de Santa Marta, a cada ~20 min entre ~04:30 e 18:00; El Zaino ~1 h, Calabazo ~45 min; ~COP 10.000 (Gecko Routes) / 9.000 (RandomTrip). Táxi particular ~COP 50.000–60.000 (RandomTrip). Barco: de Taganga entre 09:30 e 11:00; COP 63.000–150.000 o trecho (Gecko) ou 75.000–100.000 ida e volta (outra fonte, não aberta por mim); 45 min com mar calmo, até 2,5 h com mar grosso, com risco de enjoo. Van interna El Zaino→Cañaveral ~COP 5.000. Dica de integração: ida a pé por El Zaino e volta de barco (ou o inverso).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "ter": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "qua": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "qui": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "sex": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "sab": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00.",
+        "dom": "Ônibus: ~04:30–18:00, a cada ~20 min. Barco: saídas entre 09:30 e 11:00."
+      },
+      "diasFechados": [
+        "2026-10-19 a 2026-11-02: parque fechado"
+      ],
+      "melhorHorario": "Pegar o ônibus antes das 07:00 para entrar às 08:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 9000,
+        "max": 150000,
+        "por": "pessoa",
+        "inclui": "Ônibus ~9.000–10.000 (ida); barco 63.000–150.000 (ida).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+          "https://randomtrip.es/guia-tayrona-por-libre/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mar agitado pode atrasar ou cancelar o barco"
+      ],
+      "pontoPartida": "Parada Cootransoriente atrás do Mercado Público de Santa Marta; molhe de Taganga",
+      "dicasAgente": [
+        "VALE CADA PESO: ônibus público — barato e simples.",
+        "CORTE SE APERTAR: barco de ida e volta (caro e sujeito ao mar)."
+      ],
+      "alertas": [
+        "Preços de barco divergem entre fontes; negocie e confirme.",
+        "Coordenada = Mercado Público de Santa Marta (OSM way 686929968), ponto de partida dos ônibus; o item cobre várias rotas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://randomtrip.es/guia-tayrona-por-libre/",
+        "https://www.openstreetmap.org/way/686929968"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Centro Histórico de Santa Marta (Catedral, praças e Paseo de Bastidas)",
+      "categoria": "atracao",
+      "cidade": "santa-marta",
+      "tags": [
+        "centro-historico",
+        "caminhada",
+        "gratis",
+        "catedral",
+        "malecom"
+      ],
+      "coords": {
+        "lat": 11.2434799,
+        "lng": -74.2110659
+      },
+      "descricaoCurta": "Passeio a pé de 2–3 h: Catedral Basílica, praças coloniais, Calle 19 pedonal e o calçadão da baía (Paseo de Bastidas). Faz ligação direta com museus e vida noturna.",
+      "descricaoLonga": "O centro histórico concentra os dois museus mais relevantes (Museo del Oro Tairona, na Casa de la Aduana) e o eixo de bares do Parque de los Novios, tudo a pé. A prefeitura destaca o Paseo de Bastidas como o limite da cidade com o mar. Hostel Viajero oferece 'tour gratuito de patrimônio cultural' (citado na página do hostel). Fora das fontes confirmadas: horários de abertura da Catedral e valor de eventuais visitas guiadas — não verifiquei.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "ter": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "qua": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "qui": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "sex": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "sab": "Livre (espaço público). Museus e igrejas têm horário próprio.",
+        "dom": "Livre (espaço público). Museus e igrejas têm horário próprio."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde (menos calor) emendando com jantar no Parque de los Novios.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito (espaço público); museus e tours à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.santamarta.gov.co/node/4208"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+57 605 4351719",
+        "whatsapp": "",
+        "site": "https://www.santamarta.gov.co/node/4208",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Parque de los Novios / Plaza de la Catedral",
+      "dicasAgente": [
+        "VALE CADA PESO: gratuito e útil como base para a noite.",
+        "Combine com Museo del Oro (entrada barata/gratuita) no mesmo passeio."
+      ],
+      "alertas": [
+        "Contato = Oficina de turismo da prefeitura (Calle 14 No. 2-49), seg–sex 08:00–12:00 e 14:00–18:00.",
+        "Evite caminhar sozinho e tarde fora das ruas principais (Casa Carolina)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2018_Santa_Marta_%28Colombia%29_-_Centro_Hist%C3%B3rico%2C_Catedral_Bas%C3%ADlica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2018_Santa_Marta_(Colombia)_-_Centro_Hist%C3%B3rico,_Catedral_Bas%C3%ADlica.jpg"
+      },
+      "fontes": [
+        "https://www.santamarta.gov.co/node/4208",
+        "https://santamarta.gov.co/museos",
+        "https://www.viajerohostels.com/es/destinos-colombia/santa-marta/",
+        "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/",
+        "https://www.openstreetmap.org/way/233437685"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo del Oro Tairona — Casa de la Aduana",
+      "categoria": "museu",
+      "cidade": "santa-marta",
+      "tags": [
+        "museu",
+        "tairona",
+        "gratis",
+        "historia",
+        "ar-condicionado"
+      ],
+      "coords": {
+        "lat": 11.2454122,
+        "lng": -74.2131077
+      },
+      "descricaoCurta": "Museu do Banco de la República na antiga Casa de la Aduana: 565 objetos (471 pré-hispânicos, 207 de ourivesaria) sobre a cultura Tairona. Boa preparação para o Tayrona e a Ciudad Perdida.",
+      "descricaoLonga": "Quatro salas (sociedades pré-hispânicas, o povo do Magdalena, histórias da Casa de la Aduana e 'Bolívar esteve aqui'), 1.226 m², inaugurado em 25/out/2014. Horário publicado pela prefeitura: terça a sábado 09:00–17:00 e domingo 10:00–15:00; segunda não aparece na lista (provavelmente fechado, a confirmar). Entrada gratuita segundo resultado de busca do portal losviajeros (não aberto por mim) — confirmar no local. Endereço: Carrera 2 com Calle 14, Plaza Bolívar.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "10:00–15:00"
+      },
+      "diasFechados": [
+        "Segunda-feira: não consta nos horários publicados (provável fechado; confirmar)"
+      ],
+      "melhorHorario": "Manhã cedo ou meio da tarde para fugir do calor.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita segundo fonte secundária (losviajeros, via busca); NÃO confirmado em site oficial.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.banrep.gov.co/es/noticias/nuevo-museo-oro-tairona",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carrera 2 con Calle 14, Plaza Bolívar",
+      "dicasAgente": [
+        "VALE CADA PESO: gratuito/barato e dá contexto para o resto da viagem.",
+        "CORTE SE APERTAR: se o dia estiver cheio de praia, pule — 1 h basta."
+      ],
+      "alertas": [
+        "Horário vem de uma única fonte oficial municipal; segunda-feira não informada.",
+        "Gratuidade não confirmada em fonte oficial."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2019_Santa_Marta_-_Esquina_del_Museo_del_Oro_Tairona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2019_Santa_Marta_-_Esquina_del_Museo_del_Oro_Tairona.jpg"
+      },
+      "fontes": [
+        "https://santamarta.gov.co/museos",
+        "https://www.banrep.gov.co/es/noticias/nuevo-museo-oro-tairona",
+        "https://www.openstreetmap.org/node/1665152560"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Quinta de San Pedro Alejandrino",
+      "categoria": "museu",
+      "cidade": "santa-marta",
+      "tags": [
+        "museu",
+        "bolivar",
+        "jardim-botanico",
+        "historia",
+        "arte"
+      ],
+      "coords": {
+        "lat": 11.2281007,
+        "lng": -74.1776799
+      },
+      "descricaoCurta": "Hacienda do século XVII onde Simón Bolívar morreu em 1830; hoje museu bolivariano, coleção de arte contemporânea e jardim botânico de bosque seco tropical.",
+      "descricaoLonga": "A Fundación Museo Bolivariano informa que abre todos os dias do ano, exceto 1º de janeiro, e tem bilheteria (+57 301 4767088) e WhatsApp (+57 324 6035658). O boletim oficial de horários e tarifas que consegui abrir é de 2017: baixa temporada 09:00–16:30 (bilheteria; espaços fecham 17:30) e alta 09:00–17:30; tarifa estrangeiro adulto COP 21.000 (colombiano 15.000), guia gratuita (gorjeta voluntária). Os valores atuais PODEM ser maiores — não achei tabela 2026. Fica ~5 km do centro (táxi ou ônibus).",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "ter": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "qua": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "qui": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "sex": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "sab": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial).",
+        "dom": "09:00–16:30 (bilheteria, baixa temporada; dado de 2017 — confirmar). Aberto todos os dias exceto 1/jan (site oficial)."
+      },
+      "diasFechados": [
+        "1 de janeiro"
+      ],
+      "melhorHorario": "Manhã (calor e luz boa para o jardim).",
+      "preco": {
+        "moeda": "COP",
+        "min": 21000,
+        "max": 21000,
+        "por": "pessoa",
+        "inclui": "Tarifa de estrangeiro adulto do boletim de 2017 (desatualizada). Guia gratuita; gorjeta voluntária.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.museobolivariano.org.co/la-quinta-san-pedro-alejandrino-extiende-horario/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+57 301 4767088",
+        "whatsapp": "+57 324 6035658",
+        "site": "https://www.museobolivariano.org.co/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "~5 km do centro (táxi)",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é o primeiro item a cortar se o roteiro for intenso; museu bolivariano interessa mais a quem curte história.",
+        "VALE CADA PESO: só se sobrar uma manhã livre na cidade."
+      ],
+      "alertas": [
+        "PREÇO E HORÁRIO DE 2017: valor provavelmente mais alto hoje; confirmar no WhatsApp."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Puente_en_el_jard%C3%ADn_de_la_Quinta_de_San_Pedro_Alejandrino._Santa_Marta._Colombia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Kamilokardona",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Puente_en_el_jard%C3%ADn_de_la_Quinta_de_San_Pedro_Alejandrino._Santa_Marta._Colombia.JPG"
+      },
+      "fontes": [
+        "https://www.museobolivariano.org.co/",
+        "https://www.museobolivariano.org.co/la-quinta-san-pedro-alejandrino-extiende-horario/",
+        "https://www.openstreetmap.org/way/289316374"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Parque de los Novios e Calle 19: eixo da noite de Santa Marta",
+      "categoria": "atracao",
+      "cidade": "santa-marta",
+      "tags": [
+        "vida-noturna",
+        "jantar",
+        "centro-historico",
+        "bares",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 11.2422153,
+        "lng": -74.2133065
+      },
+      "descricaoCurta": "Coração da noite samaria: o parque e a pedonal Calle 19 concentram bares, restaurantes e terraços; as melhores noites são de quinta a sábado.",
+      "descricaoLonga": "Parque de los Novios é o hub com bares, restaurantes e baladas ao redor; a Calle 17 (entre Carreras 2 e 4) é outra faixa forte; Carrera 3 entre o parque e a Plaza Bolívar tem terraços de restaurantes. Casa Carolina indica quinta a sábado como melhores noites, principalmente no meio e no fim do mês (dia de pagamento). A fonte recomenda ficar nas ruas principais, usar táxi registrado e evitar andar sozinho tarde.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "ter": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "qua": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "qui": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "sex": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "sab": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados.",
+        "dom": "Noite (bares costumam encher depois das 21:00–23:00). Horários exatos por casa não confirmados."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quinta a sábado, depois das 21:00.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada no parque é livre; consumo em bares é por conta própria.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Parque de los Novios (Calle 19 com Carrera 3)",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício de vida noturna da viagem — bares sem cover ou com cover de COP 5.000–10.000.",
+        "Volte de táxi registrado."
+      ],
+      "alertas": [
+        "Segurança: bairro turístico vigiado, mas evite andar sozinho tarde e longe das vias principais (Casa Carolina)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2018_Santa_Marta_%28Colombia%29_-_Centro_Hist%C3%B3rico_-_Palomas_en_el_Parque_de_los_Novios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Felipe Restrepo Acosta",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2018_Santa_Marta_(Colombia)_-_Centro_Hist%C3%B3rico_-_Palomas_en_el_Parque_de_los_Novios.jpg"
+      },
+      "fontes": [
+        "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/",
+        "https://baquianos.com/en/blog/where-to-dance-in-santa-marta",
+        "https://www.openstreetmap.org/way/146641583"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bares e baladas do centro: La Brisa Loca, La Azotea, Barbas, La Puerta, Comodoro",
+      "categoria": "bar",
+      "cidade": "santa-marta",
+      "tags": [
+        "balada",
+        "rooftop",
+        "dança",
+        "mochileiro",
+        "vida-noturna"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Rota de bares com música caribenha e crossover: La Brisa Loca (rooftop de hostel, cover COP 10.000 ou 5.000 antes das 23:00), La Azotea (cover 10.000), Barbas (cover 10.000), Oh la! La Puerta (sem cover).",
+      "descricaoLonga": "Endereços e perfil segundo guias: La Brisa Loca (Cl. 14 #3-58): rooftop de hostel, reggaeton/salsa/champeta, enche depois das 23:00, cover COP 10.000 (5.000 antes das 23:00 ou grátis). Oh la! La Puerta (Cl. 17 #2-29): casa antiga, mojitos, sem cover, um dos pontos de dança mais antigos. La Azotea (Cra. 3 #19-25): rooftop mais local, cover COP 10.000. Barbas Disco Bar (Cl. 19 #3-09): cover COP 10.000, dress code. La Bodeguita Pirata (Cl. 20 #3-16): sem cover. Casa Carolina ainda cita Comodoro (Cra. 3 #19-17, 2 andares), Latinos (Cra. 2 entre Cl. 17-18, salsa), Miko (Cl. 22, eletrônico, rooftop) e Crab's Bar (Cl. 18 #3-69, blues/rock). Taganga tem El Garaje (qua/sáb), mas a cena da vila diminuiu.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "ter": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "qua": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "qui": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "sex": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "sab": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca).",
+        "dom": "Noite; as casas esquentam depois das 23:00 (La Brisa Loca)."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Quinta a sábado.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 10000,
+        "por": "pessoa",
+        "inclui": "Cover citado: 0 a 10.000 COP por casa (Baquianos); bebidas à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://baquianos.com/en/blog/where-to-dance-in-santa-marta"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://baquianos.com/en/blog/where-to-dance-in-santa-marta",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dress code em algumas casas (Barbas)",
+        "Maiores de 18"
+      ],
+      "pontoPartida": "Parque de los Novios",
+      "dicasAgente": [
+        "VALE CADA PESO: La Brisa Loca e Oh la! La Puerta — economia e clima de mochileiro.",
+        "CORTE SE APERTAR: casas de cover pago no mesmo dia; faça 1 ou 2 por noite."
+      ],
+      "alertas": [
+        "Coordenadas não confirmadas casa a casa: deixei 0,0.",
+        "Valores de cover vêm de um guia de blog (Baquianos), sem data; confirmar no local."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://baquianos.com/en/blog/where-to-dance-in-santa-marta",
+        "https://www.hotelcasacarolina.com/en/nightlife-in-santa-marta/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Artesanato arhuaco e wayúu: como comprar de verdade (e evitar imitação)",
+      "categoria": "compras",
+      "cidade": "santa-marta",
+      "tags": [
+        "compras",
+        "artesanato",
+        "mochila",
+        "arhuaco",
+        "wayuu",
+        "autenticidade"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Mochilas arhuacas legítimas são tecidas à mão por mulheres arhuacas (Wati) em tons terra, com motivos como Gamako (rã) e Aku (cascavel); preços a partir de ~COP 140.000. Wayúu é crochê de La Guajira, outra técnica.",
+      "descricaoLonga": "COMO RECONHECER: segundo a Wikipedia, só as Wati (mulheres arhuacas) tecem a mochila segundo o costume; os materiais tradicionais incluem agave/fique e algodão, e hoje também lã de ovelha e fibras industriais; a paleta autêntica é de marrons, bege, cinza e preto, e cada desenho tem simbolismo familiar. Wayúu é outra tradição (crochê, em La Guajira) e costuma ser colorida. SINAIS DE IMITAÇÃO (minha síntese): cores neon em 'mochila arhuaca', preço muito abaixo da faixa, vendedor que não sabe dizer quem teceu nem de qual comunidade, estampa ou borda de fábrica. ONDE: a associação sem fins lucrativos Asowakamu (famílias arhuacas) vende pela Wakamu, com mochilas de ~COP 140.000 a 600.000; compra direta de tecelãs/associações é a melhor garantia. Não consegui confirmar lojas físicas específicas em Santa Marta (resultados de busca só mencionam lojas no calçadão da baía) — peça o nome da artesã e da comunidade antes de pagar. Um resultado de busca cita registro de marca coletiva 'Mochilas Arhuacas' pelo assentamento IJKE (vigência até dez/2021) — não verifiquei a situação atual. Faixa de preço de mochilas wayúu em lojas online: US$ 85–125 (resultado de busca, não aberto).",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dia, em loja/associação; evite compras por impulso em barracas de praia.",
+      "preco": {
+        "moeda": "COP",
+        "min": 140000,
+        "max": 600000,
+        "por": "grupo",
+        "inclui": "Faixa de mochila arhuaca na Wakamu (Asowakamu), por unidade. Preço de rua em Santa Marta NÃO verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://wakamu.com/",
+          "https://en.wikipedia.org/wiki/Arhuaca_mochila"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://wakamu.com/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro Histórico / calçadão da baía (lojas não confirmadas); Wakamu (online)",
+      "dicasAgente": [
+        "VALE CADA PESO: uma mochila arhuaca legítima (~COP 140.000+) é lembrança durável e remunera a comunidade.",
+        "CORTE SE APERTAR: souvenir barato de barraca (não é arhuaco)."
+      ],
+      "alertas": [
+        "Preço de rua e lojas físicas em Santa Marta: NÃO confirmados.",
+        "'Sinais de imitação' são síntese minha a partir da Wikipedia e do site Wakamu, não de fonte oficial."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mochilas_arhuacas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "AteneaSGP",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mochilas_arhuacas.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Arhuaca_mochila",
+        "https://wakamu.com/"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Playa Blanca (Santa Marta) — passeio de barco saindo de El Rodadero",
+      "categoria": "praia",
+      "cidade": "santa-marta",
+      "tags": [
+        "praia",
+        "barco",
+        "acuario",
+        "dia-inteiro",
+        "passeio"
+      ],
+      "coords": {
+        "lat": 11.2187035,
+        "lng": -74.238209
+      },
+      "descricaoCurta": "Praia de areia clara a ~10 min de barco do Rodadero; os pacotes de dia inteiro (barco + aquário + almoço) custam em torno de COP 147.000–157.000.",
+      "descricaoLonga": "Ponto de saída: Ed. Fuentemar, Cra. 1 #7-69, El Rodadero; saída 09:00, volta 16:00 (~7 h). Valor encontrado: COP 147.000 por pessoa (Nomades, que informa que a operadora parou de oferecer a atividade) e COP 157.000 até 31/jan/2026 (resultado de busca). Mergulho com golfinhos opcional (COP 170.000–270.000). Também há bote comum de Rodadero. Praia popular e turística; não encontrei fonte confiável sobre lotação e lixo em 2026.",
+      "duracao": {
+        "min": 240,
+        "tipica": 420,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "09:00–16:00 (saída diária segundo Nomades).",
+        "ter": "09:00–16:00 (saída diária segundo Nomades).",
+        "qua": "09:00–16:00 (saída diária segundo Nomades).",
+        "qui": "09:00–16:00 (saída diária segundo Nomades).",
+        "sex": "09:00–16:00 (saída diária segundo Nomades).",
+        "sab": "09:00–16:00 (saída diária segundo Nomades).",
+        "dom": "09:00–16:00 (saída diária segundo Nomades)."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dia de mar calmo; evitar fim de semana.",
+      "preco": {
+        "moeda": "COP",
+        "min": 147000,
+        "max": 157000,
+        "por": "pessoa",
+        "inclui": "Pacote de barco ida e volta + aquário + almoço (variável por operadora).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.nomades.com/santa-marta/playa-blanca-acuario-id1765"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.nomades.com/santa-marta/playa-blanca-acuario-id1765"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.nomades.com/santa-marta/playa-blanca-acuario-id1765",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mar agitado pode cancelar"
+      ],
+      "pontoPartida": "Ed. Fuentemar, Cra. 1 #7-69, El Rodadero",
+      "dicasAgente": [
+        "CORTE SE APERTAR: caro para o orçamento; Bahía Concha (COP 43.500 + seguro) e Playa Grande rendem mais por menos.",
+        "VALE CADA PESO: só se faltar outra praia na agenda e o orçamento estiver folgado."
+      ],
+      "alertas": [
+        "A página fonte diz que a operadora parou de operar a atividade; o preço pode estar defasado.",
+        "O segundo valor (157.000) vem de resultado de busca não aberto."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Playa_Blanca%2C_Santa_Marta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "RealChunflai",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Blanca,_Santa_Marta.jpg"
+      },
+      "fontes": [
+        "https://www.nomades.com/santa-marta/playa-blanca-acuario-id1765",
+        "https://www.openstreetmap.org/node/497424555"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Taganga: vale a pena?",
+      "categoria": "praia",
+      "cidade": "taganga",
+      "tags": [
+        "vila-de-pescadores",
+        "mergulho",
+        "bate-volta",
+        "por-do-sol"
+      ],
+      "coords": {
+        "lat": 11.2683918,
+        "lng": -74.189423
+      },
+      "descricaoCurta": "Vila de pescadores a ~10 min do centro: baía bonita, praia modesta, mergulho barato e saída de barcos ao Tayrona. Cena de festa decaiu; à noite exige cautela.",
+      "descricaoLonga": "Segundo o guia Cartagena Explorer (publicado em 2019, ainda usado como retrato), a praia é pequena e a água não é tão clara, mas a vista da baía é o charme; a vila 'decaiu' como destino de festa de mochileiros e Palomino assumiu o papel; à noite convém evitar ficar até tarde e ficar na rua principal. A prefeitura confirma: ~10 min do centro, ônibus urbanos frequentes saindo da Carrera 5, e Playa Grande a 5 min de barco ou 30–45 min a pé. O ponto forte hoje é o mergulho barato e o ponto de partida de barcos ao Tayrona. Táxi do aeroporto é caro pela sobretaxa (ver item de transporte). Veredito: vale meio dia ou uma noite para mergulho/pôr do sol; não vale base de hospedagem para quem prioriza noite.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "Livre.",
+        "ter": "Livre.",
+        "qua": "Livre.",
+        "qui": "Livre.",
+        "sex": "Livre.",
+        "sab": "Livre.",
+        "dom": "Livre."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde para o pôr do sol; dormir só se for mergulhar cedo.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Bairro/praia gratuita; refeição de peixe ~COP 15.000–20.000 (resultado de busca, não aberto).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.santamarta.gov.co/node/4208"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.santamarta.gov.co/node/4208",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Santa Marta: ônibus urbano da Carrera 5 (~10 min)",
+      "dicasAgente": [
+        "VALE CADA PESO: mergulho de iniciação e saída de barco ao Tayrona.",
+        "CORTE SE APERTAR: pernoitar em Taganga se a prioridade é balada (prefira o centro)."
+      ],
+      "alertas": [
+        "Guia principal é de 2019; sem fonte de 2025–26 confirmando o estado atual de Taganga.",
+        "Houve assaltos graves a turistas em praias vizinhas em 2017 (imprensa); não achei dados recentes: tratar com cautela à noite."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Taganga%2C_Santa_Marta%2C_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Henrr Pomares",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Taganga,_Santa_Marta,_Colombia.jpg"
+      },
+      "fontes": [
+        "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/",
+        "https://www.santamarta.gov.co/node/4208",
+        "https://www.openstreetmap.org/way/592691364"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mergulho em Taganga (Discover Scuba, Open Water, fun dives)",
+      "categoria": "experiencia",
+      "cidade": "taganga",
+      "tags": [
+        "mergulho",
+        "iniciante",
+        "padi",
+        "barato",
+        "tayrona-marinho"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Taganga é um dos lugares mais baratos para tirar o Open Water. Valores encontrados: Discover Scuba COP 420.000; Open Water COP 1.600.000 (Diving Taganga); outro operador pesquisado: Poseidon Dive Center (+57 314 8892687).",
+      "descricaoLonga": "Operadores citados: Diving Taganga (PADI/SSI, 26 anos, Calle 11, valores acima via agregador cursosdebuceo.com) e Poseidon Dive Center (Calle 18 #1-69, aberto 07:00–19:00, o site não mostra preços). Outras listagens trazem Open Water de 3–4 dias com 4 mergulhos no Tayrona (idade mínima 10). Qualidade do mergulho é descrita como mediana, mas barata. ALERTA CRÍTICO: não voar de 18 a 24 h depois do último mergulho (regra do material de operadora); a DAN recomenda no mínimo 12 h após um único mergulho sem descompressão e 18 h após vários mergulhos/dias seguidos (cabine a 2.438 m). Com viagem aérea internacional encaixada, trate 24 h como regra.",
+      "duracao": {
+        "min": 240,
+        "tipica": 360,
+        "max": 1440
+      },
+      "horarios": {
+        "seg": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "ter": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "qua": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "qui": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "sex": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "sab": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora.",
+        "dom": "Poseidon: diariamente 07:00–19:00 (escritório). Saídas de barco dependem da operadora."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (saídas de barco).",
+      "preco": {
+        "moeda": "COP",
+        "min": 330000,
+        "max": 1600000,
+        "por": "pessoa",
+        "inclui": "Faixa: mergulho recreativo COP 330.000 (rótulo ambíguo), Discover Scuba 420.000, Open Water 1.600.000 (Diving Taganga via agregador). Poseidon: sem preço público confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://cursosdebuceo.com/en/dive-centers//diving-taganga-padi-dive-resort/20613"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": "https://www.poseidondivecenter.com/"
+      },
+      "contato": {
+        "telefone": "+57 314 8892687",
+        "whatsapp": "",
+        "site": "https://www.poseidondivecenter.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não voar 18–24 h após o mergulho",
+        "Idade mínima 10 anos (curso)",
+        "Declaração de saúde"
+      ],
+      "pontoPartida": "Taganga (a ~10 min do centro de Santa Marta)",
+      "dicasAgente": [
+        "CORTE SE APERTAR: Open Water (COP 1,6 milhão por pessoa) só se for prioridade; Discover Scuba (COP 420.000) é o meio-termo.",
+        "VALE CADA PESO: 1 fun dive/Discover se for a única chance de ver o fundo do Caribe; programe 24 h antes de qualquer voo."
+      ],
+      "alertas": [
+        "NÃO VOAR 18–24 h depois de mergulhar (operadoras) e no mínimo 12 h (1 mergulho) ou 18 h (vários) segundo a DAN.",
+        "Preços via agregador, não do site da operadora; 'Recreational Diving 330.000' pode não ser 1 mergulho. Confirmar por WhatsApp."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://cursosdebuceo.com/en/dive-centers//diving-taganga-padi-dive-resort/20613",
+        "https://www.poseidondivecenter.com/",
+        "https://www.tur.com/en/santa-marta-130/curso-padi-aguas-abiertas-taganga-2278",
+        "https://dan.org/health-medicine/health-resource/health-safety-guidelines/guidelines-for-flying-after-diving/",
+        "https://www.cartagenaexplorer.com/visit-taganga-a-travel-guide-to-taganga-colombia/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Como circular sem alugar carro: colectivos, ônibus, táxi e moto-táxi",
+      "categoria": "aluguel-veiculo",
+      "cidade": "santa-marta",
+      "tags": [
+        "transporte",
+        "taxi",
+        "colectivo",
+        "logistica",
+        "custo"
+      ],
+      "coords": {
+        "lat": 11.2454202,
+        "lng": -74.2057755
+      },
+      "descricaoCurta": "Não precisa de carro: colectivos saem atrás do Mercado Público (Minca ~COP 10.000, Tayrona ~10.000), ônibus para Palomino e táxis com taxímetro (mínima COP 8.000 em dez/2024).",
+      "descricaoLonga": "MINCA: colectivos/vans saem 07:00–18:00 de trás do Mercado Público (Cra. 9 com Calle 12), saem quando lotam, ~45 min, COP 10.000. TAYRONA: ônibus Cootransoriente a cada ~20 min (04:30–18:00), COP ~10.000. PALOMINO: ônibus de várias empresas (Terminal de Transportes e parada Cootransoriente) ~2 h; faixa de preços de ~COP 12.000 (guia jan/2026) a ~COP 21.400 (Gecko). TÁXI: corrida mínima COP 8.000 e aeroporto→cidade/Rodadero com tabela oficial (dez/2024: Taganga/Bonda→aeroporto 52.728, Rodadero→aeroporto 30.264); sem taxímetro só se paga a mínima. MOTO EM MINCA: ~COP 160.000/dia (Cartagena Explorer, 2025). Dentro do Tayrona, vans internas ~COP 5.000. Durante o paro armado de set/2026 houve veículos queimados na Troncal do Caribe; ônibus e vans podem parar em eventos assim.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "ter": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "qua": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "qui": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "sex": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "sab": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko).",
+        "dom": "Colectivos Minca 07:00–18:00; ônibus Tayrona 04:30–18:00; Palomino 05:00–21:30 (Gecko)."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Evite viajar à noite pela Troncal.",
+      "preco": {
+        "moeda": "COP",
+        "min": 8000,
+        "max": 160000,
+        "por": "pessoa",
+        "inclui": "Faixa: táxi mínima COP 8.000 (2024) até aluguel de moto em Minca ~160.000/dia.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/santa-marta-to-minca/",
+          "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+          "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/",
+          "https://www.pulzo.com/nacion/santa-marta-subio-tarifas-taxis-cuanto-quedo-carrera-minima-PP4181287",
+          "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Taxímetro obrigatório; sem ele, paga-se só a corrida mínima"
+      ],
+      "pontoPartida": "Mercado Público (Calle 11–12) e Terminal de Transportes de Santa Marta",
+      "dicasAgente": [
+        "VALE CADA PESO: transporte público — barato e confiável.",
+        "CORTE SE APERTAR: moto alugada (risco e chuva em novembro) e transfers privados."
+      ],
+      "alertas": [
+        "Tabela de táxi citada é de dez/2024; pode ter reajuste em 2026.",
+        "Confira o status da Troncal do Caribe antes de sair (bloqueios no paro armado de set/2026)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/santa-marta-to-minca/",
+        "https://www.geckoroutes.com/colombia/colombia/santa-marta-to-tayrona-national-park/",
+        "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/",
+        "https://www.pulzo.com/nacion/santa-marta-subio-tarifas-taxis-cuanto-quedo-carrera-minima-PP4181287",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/",
+        "https://www.vanguardia.com/colombia/2026/09/24/eeuu-lanza-alerta-para-viajeros-en-santa-marta-por-bloqueos-y-situacion-de-seguridad/",
+        "https://www.openstreetmap.org/way/686929968"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Chegar a Minca e subir: colectivo, moto-táxi e 4x4 (preços e estrada)",
+      "categoria": "experiencia",
+      "cidade": "minca",
+      "tags": [
+        "transporte",
+        "minca",
+        "colectivo",
+        "moto-taxi",
+        "4x4",
+        "estrada"
+      ],
+      "coords": {
+        "lat": 11.1427624,
+        "lng": -74.1169296
+      },
+      "descricaoCurta": "Colectivo/van de Santa Marta (atrás do Mercado Público) a Minca: ~45 min e COP 10.000. Dentro da serra, moto-táxi custa ~COP 10.000 em trechos curtos e 4x4 de ~70.000 a 100.000 conforme destino.",
+      "descricaoLonga": "COLECTIVO: partem de trás do Mercado Público (Cra. 9 com Calle 12) entre 07:00 e 18:00, quando lotam; COP 10.000 (Gecko 2026) — outras fontes citam 8.000–9.000 (2021–2024). Táxi particular Santa Marta–Minca: COP 40.000–50.000 (2021), 90.000 (Mundo Nuevo) ou 150.000 (resultado de busca) — varia muito. MOTO-TÁXI: ~COP 10.000 em trechos curtos; Mundo Nuevo cobra 20.000 e 12 min com helmets. 4x4: ~COP 70.000 dentro de Minca (busca), 100.000 de Minca a Mundo Nuevo (Yosneyder, +57 310 354 2895) e 120.000 ida e volta por pessoa às cascatas (Pulzo 2024). Alerta de estrada: o acesso a Mundo Nuevo exige 4x4 alto e experiência off-road, viajar antes das 16:00 e evitar noite; na época de chuva (set–nov) a estrada vira lama. Não há caixa eletrônico em Minca; leve dinheiro de Santa Marta.\n\nNovembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "ter": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "qua": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "qui": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "sex": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "sab": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00.",
+        "dom": "Colectivos 07:00–18:00 (saem quando lotam, ~30 min de intervalo). Dica Mundo Nuevo: subir antes das 16:00."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Sair de Santa Marta pela manhã; descer antes de escurecer.",
+      "preco": {
+        "moeda": "COP",
+        "min": 8000,
+        "max": 150000,
+        "por": "pessoa",
+        "inclui": "Colectivo 8.000–10.000 (ida); moto-táxi 10.000–20.000; 4x4 70.000–120.000; táxi privado 40.000–150.000 (por veículo).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/santa-marta-to-minca/",
+          "https://mundonuevo.com.co/en/how-to-get-there/",
+          "https://www.pulzo.com/vivir-bien/cuanto-cuesta-entrada-minca-presupuesto-para-ir-capital-ecologica-PP3865615",
+          "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+57 310 3542895",
+        "whatsapp": "",
+        "site": "https://mundonuevo.com.co/en/how-to-get-there/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "4x4 alto e experiência para subir a Mundo Nuevo",
+        "Sem ATM em Minca"
+      ],
+      "pontoPartida": "Mercado Público de Santa Marta (Cra. 9 com Calle 12)",
+      "dicasAgente": [
+        "VALE CADA PESO: colectivo + moto-táxi — barato e resolve 90% do deslocamento.",
+        "CORTE SE APERTAR: 4x4 particular para cascatas (dá para ir de moto-táxi por COP 10.000–15.000)."
+      ],
+      "alertas": [
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca.",
+        "Preços de transporte variam entre 2021 e 2026; comparar.",
+        "Telefone do 4x4 (Yosneyder) vem da página do hostel Mundo Nuevo; não validado."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Minca_santamarta_paisajes_restaurante_vegetacion_fauna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "MirfakVelez_12",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Minca_santamarta_paisajes_restaurante_vegetacion_fauna.JPG"
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/santa-marta-to-minca/",
+        "https://www.geckoroutes.com/colombia/minca/",
+        "https://mundonuevo.com.co/en/how-to-get-there/",
+        "https://www.pulzo.com/vivir-bien/cuanto-cuesta-entrada-minca-presupuesto-para-ir-capital-ecologica-PP3865615",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/",
+        "https://www.publimetro.co/barranquilla/2024/11/01/avalancha-de-lodo-sepulto-taxis-y-camiones-tras-fuerte-aguacero-en-santa-marta/",
+        "https://www.openstreetmap.org/node/703472311"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Pozo Azul (Minca)",
+      "categoria": "natureza",
+      "cidade": "minca",
+      "tags": [
+        "cachoeira",
+        "banho",
+        "trilha",
+        "minca",
+        "gratis-ou-barato"
+      ],
+      "coords": {
+        "lat": 11.134079,
+        "lng": -74.1015335
+      },
+      "descricaoCurta": "Poços e quedas de água azulada a ~45 min–1 h a pé do centro de Minca; é o ponto mais popular da vila. Entrada gratuita ou seguro de COP 6.000 (varia por fonte).",
+      "descricaoLonga": "Acesso a pé (30 min até a entrada + ~30 min até as cascatas, segundo Baquianos) ou de moto-táxi por COP 10.000. Taxa: gratuita (Baquianos; Cartagena Explorer) ou seguro de COP 6.000 em 2025 (Travelers & Dreamers); estacionamento de moto ~COP 2.000. Não há bar nem restaurante: leve água e comida e traga o lixo de volta. Os poços mais altos exigem subir nas pedras. Em novembro, com a serra chuvosa, rios podem subir rápido: não entre na água em dia de chuva forte e peça informação local.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dias úteis e de manhã (menos gente).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 6000,
+        "por": "pessoa",
+        "inclui": "Seguro/taxa de COP 6.000 relatado em 2025; outras fontes dizem gratuita. Moto-táxi ida ~COP 10.000 à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://travelersanddreamers.com/minca-waterfalls/",
+          "https://baquianos.com/en/blog/how-to-get-pozo-azul",
+          "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem estrutura de alimentação",
+        "Atenção a cheias em época de chuva"
+      ],
+      "pontoPartida": "Vila de Minca (após a ponte; moto-táxi 10.000 ou a pé)",
+      "dicasAgente": [
+        "VALE CADA PESO: gratuito/barato e a melhor atração da vila.",
+        "CORTE SE APERTAR: nenhum — mas pule em dia de chuva."
+      ],
+      "alertas": [
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca.",
+        "Taxa varia entre fontes (0 a 6.000 COP)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://travelersanddreamers.com/minca-waterfalls/",
+        "https://baquianos.com/en/blog/how-to-get-pozo-azul",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/",
+        "https://www.openstreetmap.org/node/6441795785"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cascadas de Marinka (Minca)",
+      "categoria": "natureza",
+      "cidade": "minca",
+      "tags": [
+        "cachoeira",
+        "trilha",
+        "minca",
+        "poço-fundo",
+        "banho"
+      ],
+      "coords": {
+        "lat": 11.1169892,
+        "lng": -74.1175133
+      },
+      "descricaoCurta": "Três cascatas com poço fundo (~1,5 m) na base da primeira; ~1 h a pé (3,6 km) ou moto-táxi por ~COP 10.000 + 10 min de trilha. Entrada de COP 5.000 a 22.000 conforme a fonte.",
+      "descricaoLonga": "Propriedade privada com taxa de entrada. Valores encontrados: COP 15.000 (Weseektravel, abr/2025), 22.000 (Travelers & Dreamers), 10.000 (Pulzo 2024; Geckoroutes fev/2025), 5.000 (Baquianos/Cartagena Explorer); a faixa mais recente aponta 15.000–22.000. Horário: 09:00–17:00 (Weseektravel). Moto-táxi ~COP 10.000 por trecho (a última parte, ~10 min, é a pé). Melhor que Pozo Azul em lotação segundo a mesma fonte. Mosquitos e borrachudos: repelente.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (Weseektravel, 2025).",
+        "ter": "09:00–17:00 (Weseektravel, 2025).",
+        "qua": "09:00–17:00 (Weseektravel, 2025).",
+        "qui": "09:00–17:00 (Weseektravel, 2025).",
+        "sex": "09:00–17:00 (Weseektravel, 2025).",
+        "sab": "09:00–17:00 (Weseektravel, 2025).",
+        "dom": "09:00–17:00 (Weseektravel, 2025)."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, dia útil.",
+      "preco": {
+        "moeda": "COP",
+        "min": 15000,
+        "max": 22000,
+        "por": "pessoa",
+        "inclui": "Entrada em faixa recente 2025–26 (outras fontes citam 5.000–10.000). Moto-táxi à parte (~10.000 por trecho).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.weseektravel.com/marinka-waterfalls-minca/",
+          "https://travelersanddreamers.com/minca-waterfalls/",
+          "https://www.pulzo.com/vivir-bien/cuanto-cuesta-entrada-minca-presupuesto-para-ir-capital-ecologica-PP3865615",
+          "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Repelente",
+        "Em época de chuva, acessos escorregadios"
+      ],
+      "pontoPartida": "Vila de Minca (moto-táxi ~10.000 ou 1 h a pé)",
+      "dicasAgente": [
+        "VALE CADA PESO: poço fundo e menos gente que Pozo Azul.",
+        "CORTE SE APERTAR: combine com Pozo Azul no mesmo dia para diluir transporte."
+      ],
+      "alertas": [
+        "Entrada: 5.000 a 22.000 conforme data e fonte; usar 15.000–22.000 como previsão.",
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cascada_de_Marinka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "PapiPijuan",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascada_de_Marinka.jpg"
+      },
+      "fontes": [
+        "https://www.weseektravel.com/marinka-waterfalls-minca/",
+        "https://travelersanddreamers.com/minca-waterfalls/",
+        "https://www.pulzo.com/vivir-bien/cuanto-cuesta-entrada-minca-presupuesto-para-ir-capital-ecologica-PP3865615",
+        "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/",
+        "https://baquianos.com/en/blog/how-to-get-pozo-azul",
+        "https://www.openstreetmap.org/node/5607660732"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Finca La Victoria — tour de café",
+      "categoria": "cafe",
+      "cidade": "minca",
+      "tags": [
+        "cafe",
+        "fazenda",
+        "tour",
+        "minca",
+        "historia"
+      ],
+      "coords": {
+        "lat": 11.1227648,
+        "lng": -74.0948175
+      },
+      "descricaoCurta": "Fazenda familiar de café fundada em 1892; tour de 45 min a 2 h explica todo o processo, termina com xícara e café no andar de cima. Custo informado: COP 15.000–30.000.",
+      "descricaoLonga": "Valores divergem: COP 15.000 por ~1 h (Gecko Routes, fev/2025) e COP 20.000–30.000 por 1,5–2 h (Lonely Planet via busca). Chega-se de moto-táxi por estrada de terra íngreme (COP 4.000–10.000) ou 1,5 h a pé de Minca. Fica na cadeia café + cascatas dos passeios de dia. Não verifiquei horário de abertura em 2026 nem reserva — pergunte ao hostel.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (luz e menos calor).",
+      "preco": {
+        "moeda": "COP",
+        "min": 15000,
+        "max": 30000,
+        "por": "pessoa",
+        "inclui": "Tour guiado do café + degustação (não confirmado se a xícara está inclusa em todos os preços).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vila de Minca (moto-táxi 4.000–10.000)",
+      "dicasAgente": [
+        "VALE CADA PESO: tour curto, barato e tradicional.",
+        "CORTE SE APERTAR: se pegar chuva, passe para a próxima manhã."
+      ],
+      "alertas": [
+        "Horário e reserva de 2026 NÃO confirmados.",
+        "Faixa de preço combina duas fontes; apenas uma foi aberta."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/",
+        "https://www.openstreetmap.org/way/460193624"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cacau em Minca (La Candelaria e outras fincas)",
+      "categoria": "experiencia",
+      "cidade": "minca",
+      "tags": [
+        "cacau",
+        "chocolate",
+        "fazenda",
+        "tour",
+        "minca"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Tours de cacau cobrem da colheita à fabricação de chocolate 70–80% puro; Finca La Candelaria é a citada. Preço não confirmado.",
+      "descricaoLonga": "O guia Gecko Routes menciona a Finca La Candelaria e descreve o tour (colheita até chocolate), sem preço. Cartagena Explorer (2021) diz que visitas de cacau são alternativa ou combinação com o café. Não achei tarifa, horário nem contato confiáveis — registro de baixa confiança.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vila de Minca",
+      "dicasAgente": [
+        "CORTE SE APERTAR: café e cachoeiras vêm antes.",
+        "Pergunte ao hostel o preço do dia."
+      ],
+      "alertas": [
+        "Sem preço, horário ou contato confirmados; registro de baixa confiança."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Los Pinos (mirante) e Cerro Kennedy (trek de 2 dias)",
+      "categoria": "mirante",
+      "cidade": "minca",
+      "tags": [
+        "mirante",
+        "trilha",
+        "por-do-sol",
+        "minca",
+        "sierra-nevada"
+      ],
+      "coords": {
+        "lat": 11.1068287,
+        "lng": -74.1090452
+      },
+      "descricaoCurta": "Los Pinos: mirante com vista da selva, da cidade e do Caribe (hike de 5–8 h, 22 km, +900 m; ou moto-táxi). Cerro Kennedy: trek duro de 2 dias até ~3.100 m com vistas nevadas.",
+      "descricaoLonga": "Segundo Gecko Routes (fev/2025): Los Pinos é caminhada de dia inteiro (~22 km ida e volta, 5–8 h, +900 m) com panorama; o moto-táxi até lá é a opção curta (relatos de 25 min por ~COP 5.000 em busca, dado de baixa confiança). Cerro Kennedy é uma travessia desafiadora de 2 dias (~8 h subindo, 7 h descendo, +2.100 m) com pernoite perto do topo (ex.: Moncho's place) e nascer do sol. Tours de nascer do sol em 4x4 com café, cacau e cascatas duram 13–15 h e podem custar US$ 296 (Civitatis, busca) — fora do perfil econômico. Em novembro, nevoeiro e chuva diminuem a visibilidade.",
+      "duracao": {
+        "min": 300,
+        "tipica": 480,
+        "max": 1200
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol em Los Pinos; Cerro Kennedy: nascer do sol (pernoite).",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem preço confirmado: moto-táxi para Los Pinos citado ~COP 5.000 (busca); Cerro Kennedy depende do guia/hospedagem.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Cerro Kennedy exige preparo físico, barraca e roupa quente",
+        "Estrada ruim na chuva"
+      ],
+      "pontoPartida": "Vila de Minca (moto-táxi/4x4 ou a pé)",
+      "dicasAgente": [
+        "CORTE SE APERTAR: Cerro Kennedy (2 dias) — não cabe em roteiro intenso curto.",
+        "VALE CADA PESO: pôr do sol em Los Pinos, se o tempo abrir."
+      ],
+      "alertas": [
+        "Preço de moto-táxi para Los Pinos e tour de US$ 296 são de resultados de busca, não abertos.",
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/things-to-do-in-minca-colombia/",
+        "https://www.openstreetmap.org/node/3179297065"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Hostels de Minca com vista: Mundo Nuevo, Casa Elemento, Casa Loma",
+      "categoria": "experiencia",
+      "cidade": "minca",
+      "tags": [
+        "hospedagem",
+        "hostel",
+        "vista",
+        "minca",
+        "natureza"
+      ],
+      "coords": {
+        "lat": 11.1538137,
+        "lng": -74.1024597
+      },
+      "descricaoCurta": "Hospedagens de serra: Mundo Nuevo (acesso 4x4/moto ~COP 20.000–100.000), Casa Elemento (balanços e redes) e Casa Loma. Diárias de hostel de COP 70.000–160.000 em geral (estimado).",
+      "descricaoLonga": "Mundo Nuevo (Via antigua a Bonda Km 2,2; +57 300 360 4212) fica a 3,2 km de Minca (60 min a pé, 12 min de moto por 20.000). Casa Elemento e Casa Loma são citados como clássicos; Cartagena Explorer (2021) aponta Hostal Sierra Minca como o das redes/balanços instagramáveis (subida longa). Orçamento citado por guia: hotéis econômicos US$ 20–40/noite (Gecko). Preços de dorm não confirmados em fonte primária; confirme em Booking/Hostelworld. Aviso importante: sem ATM em Minca.",
+      "duracao": {
+        "min": 960,
+        "tipica": 960,
+        "max": 1440
+      },
+      "horarios": {
+        "seg": "Check-in/out conforme hostel.",
+        "ter": "Check-in/out conforme hostel.",
+        "qua": "Check-in/out conforme hostel.",
+        "qui": "Check-in/out conforme hostel.",
+        "sex": "Check-in/out conforme hostel.",
+        "sab": "Check-in/out conforme hostel.",
+        "dom": "Check-in/out conforme hostel."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dormir 1 noite em Minca (não 2) e usar a manhã seguinte para cachoeira.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não confirmado por fonte primária (US$ 20–40/noite = faixa econômica segundo Gecko).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/minca/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 3,
+        "esgotaRapido": false,
+        "link": "https://mundonuevo.com.co/en/how-to-get-there/"
+      },
+      "contato": {
+        "telefone": "+57 300 360 4212",
+        "whatsapp": "",
+        "site": "https://mundonuevo.com.co/en/how-to-get-there/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Minca vila / Mundo Nuevo (Km 2,2 via antigua a Bonda)",
+      "dicasAgente": [
+        "VALE CADA PESO: 1 noite de serra (rede/balanço, vista) e frescor depois do calor do litoral.",
+        "CORTE SE APERTAR: 2ª noite em Minca."
+      ],
+      "alertas": [
+        "Faixa de preço é indicativa; confirme em Booking/Hostelworld.",
+        "Em novembro, o frio e a chuva da serra pedem agasalho.",
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://mundonuevo.com.co/en/how-to-get-there/",
+        "https://www.cartagenaexplorer.com/travel-guide-minca-colombia/",
+        "https://www.geckoroutes.com/colombia/minca/",
+        "https://www.openstreetmap.org/way/163713056",
+        "https://www.openstreetmap.org/way/549222432"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Tubing no rio Palomino (Caracolí, Pozo Caimán, Techo Rojo)",
+      "categoria": "experiencia",
+      "cidade": "palomino",
+      "tags": [
+        "tubing",
+        "rio",
+        "aventura",
+        "palomino",
+        "selva"
+      ],
+      "coords": {
+        "lat": 11.2448914,
+        "lng": -73.5598131
+      },
+      "descricaoCurta": "Descida do rio em boias: Caracolí 1 h (COP 65.000), Pozo Caimán 2–2,5 h (70.000), Techo Rojo 3,5 h com corredeiras (80.000); inclui guia, colete, seguro e transporte.",
+      "descricaoLonga": "Tabela do operador local tubingriopalomino.com: Caracolí (sem trilha) 1 h, COP 65.000; Pozo Caimán (25 min de trilha) 2–2,5 h, COP 70.000; Techo Rojo (45 min de trilha, corredeiras) 3,5 h, COP 80.000; Seiwiaka com visita à aldeia Kogui 5 h, COP 150.000. Inclui guia, coletes, seguro obrigatório, transporte e buscar no hotel (apenas em Palomino). Ponto de encontro: posto 'La Sierrita' em Palomino. Outro guia (Along Dusty Roads, jan/2026) cita COP 40.000–50.000, valor provavelmente defasado. O operador ainda lista cavalo na praia (COP 130.000–180.000), quadriciclo (140.000–180.000) e santuário de flamingos (240.000).",
+      "duracao": {
+        "min": 60,
+        "tipica": 150,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (rio mais calmo e menos fila).",
+      "preco": {
+        "moeda": "COP",
+        "min": 65000,
+        "max": 80000,
+        "por": "pessoa",
+        "inclui": "Guia, colete, seguro obrigatório, transporte e buscar no hotel (Palomino).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tubingriopalomino.com/",
+          "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://tubingriopalomino.com/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "+57 313 243 9649",
+        "site": "https://tubingriopalomino.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Usar colete e seguir o guia",
+        "Sem horário publicado no site",
+        "Em época de chuva o rio sobe: perguntar condições"
+      ],
+      "pontoPartida": "Posto 'La Sierrita', Palomino",
+      "dicasAgente": [
+        "VALE CADA PESO: Pozo Caimán (COP 70.000, 2–2,5 h) é o melhor equilíbrio entre preço e aventura.",
+        "CORTE SE APERTAR: Seiwiaka (COP 150.000) e atividades de cavalo/quadriciclo."
+      ],
+      "alertas": [
+        "Faixa de preço única baseada em um operador + um guia; poucas fontes independentes.",
+        "Sem informação de horários.",
+        "Novembro é chuvoso na Sierra Nevada: guias citam estação de chuvas em out–dez e trilhas/estradas de lama (set–nov no acesso a Mundo Nuevo). Em 31/out–01/nov/2024 uma avalanche de lama enterrou táxi e caminhão em Santa Marta e houve alerta de cheia no rio Minca."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Paseo_por_el_rio_Palomino_en_Neumatico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "ADRYGIL",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Paseo_por_el_rio_Palomino_en_Neumatico.jpg"
+      },
+      "fontes": [
+        "https://tubingriopalomino.com/",
+        "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide",
+        "https://www.openstreetmap.org/node/703378831"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Praia de Palomino e pôr do sol — alerta de correnteza",
+      "categoria": "praia",
+      "cidade": "palomino",
+      "tags": [
+        "praia",
+        "perigo",
+        "correnteza",
+        "por-do-sol",
+        "palomino"
+      ],
+      "coords": {
+        "lat": 11.2448914,
+        "lng": -73.5598131
+      },
+      "descricaoCurta": "Praia selvagem de areia clara e ondas; fica entre as 5 mais perigosas do Caribe colombiano: ~30 mortes recentes segundo a Defesa Civil, concentradas na foz do rio.",
+      "descricaoLonga": "A Defesa Civil registra pelo menos 30 mortes nos últimos anos em Palomino, com redemoinhos e correntes na desembocadura do rio (La Guajira Hoy, jul/2025), e uma morte ocorreu poucos dias antes da matéria. O guia Along Dusty Roads (jan/2026) diz que 'não é seguro nadar no mar' em Palomino. Há salva-vidas e placas em português/inglês. Uso recomendado: caminhar, ver o pôr/nascer do sol, banhar-se no rio com colete, não entrar no mar. Não há caixa eletrônico: o mais próximo fica em Mingueo (~COP 10.000 de moto-táxi); leve dinheiro de Santa Marta.",
+      "duracao": {
+        "min": 60,
+        "tipica": 150,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "Livre.",
+        "ter": "Livre.",
+        "qua": "Livre.",
+        "qui": "Livre.",
+        "sex": "Livre.",
+        "sab": "Livre.",
+        "dom": "Livre."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol; nunca banho no mar.",
+      "preco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso à praia gratuito.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://laguajirahoy.com/turismo/palomino-entre-las-cinco-playas-mas-peligrosas-del-caribe-colombiano.html",
+          "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não nadar no mar; atenção à foz do rio"
+      ],
+      "pontoPartida": "Vilarejo de Palomino (a pé até a praia)",
+      "dicasAgente": [
+        "VALE CADA PESO: pôr do sol e clima de vila.",
+        "CORTE SE APERTAR: banho de mar — não vale o risco."
+      ],
+      "alertas": [
+        "Já houve ao menos ~30 mortes (Defesa Civil). Fique longe da foz do rio mesmo com mar calmo.",
+        "Sem ATM na vila; leve dinheiro."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/La_playa_palomino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "Fabian Abtonio Hoyos Pulido (Fahoyos127)",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_playa_palomino.jpg"
+      },
+      "fontes": [
+        "https://laguajirahoy.com/turismo/palomino-entre-las-cinco-playas-mas-peligrosas-del-caribe-colombiano.html",
+        "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide",
+        "https://www.openstreetmap.org/node/703378831"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Palomino: como ir de Santa Marta e vida noturna da vila",
+      "categoria": "experiencia",
+      "cidade": "palomino",
+      "tags": [
+        "noite",
+        "bares",
+        "hostel",
+        "ônibus",
+        "palomino",
+        "praia-clube"
+      ],
+      "coords": {
+        "lat": 11.2448914,
+        "lng": -73.5598131
+      },
+      "descricaoCurta": "Ônibus diretos de Santa Marta em ~2 h por COP ~12.000–21.400; à noite, festas de hostel na praia (Beach Life: ter–dom 21:00–2:00) e bares de bambu na rua principal.",
+      "descricaoLonga": "COMO IR: ônibus de Santa Marta (Terminal de Transportes e parada Cootransoriente atrás do Mercado) levam cerca de 2 h; Gecko cita faixa a partir de COP 21.400 (Cootransoriente ~US$4,40 só em dinheiro; Expreso Brasilia/Unitransco ~US$9,20; saídas 05:00–21:30), outro guia cita COP 12.000 (jan/2026). Os ônibus deixam na estrada principal; moto-táxi interno ~COP 5.000. NOITE: bares de bambu, happy hours, música ao vivo, hostels com festas (Beach Life, Dreamer, Praba, Hilltop etc.). Dorms entre US$5–20 (HostelGeeks, mai/2026). Palomino fica em La Guajira; a Troncal do Caribe é a rota única e foi bloqueada no paro armado de set/2026.",
+      "duracao": {
+        "min": 480,
+        "tipica": 960,
+        "max": 1440
+      },
+      "horarios": {
+        "seg": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "ter": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "qua": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "qui": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "sex": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "sab": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca).",
+        "dom": "Ônibus: 05:00–21:30 (Gecko). Festas de praia: terça a domingo, ~21:00–02:00 (Beach Life, busca)."
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dormir 1 noite; chegada antes do meio-dia.",
+      "preco": {
+        "moeda": "COP",
+        "min": 12000,
+        "max": 21400,
+        "por": "pessoa",
+        "inclui": "Passagem de ônibus Santa Marta–Palomino (faixa entre fontes); dorm US$ 5–20.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/",
+          "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide",
+          "https://hostelgeeks.com/best-hostels-in-palomino-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://hostelgeeks.com/best-hostels-in-palomino-colombia/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dinheiro em espécie (sem ATM na vila)",
+        "Evitar viagem noturna pela Troncal"
+      ],
+      "pontoPartida": "Terminal de Transportes de Santa Marta / parada Cootransoriente (atrás do Mercado Público)",
+      "dicasAgente": [
+        "VALE CADA PESO: 1 noite em Palomino combina tubing, pôr do sol e festa de vila.",
+        "CORTE SE APERTAR: 2ª noite; o litoral de Palomino se resolve em 24 h."
+      ],
+      "alertas": [
+        "Programação de festas é de resultado de busca e muda; confirmar nos hostels.",
+        "Preço do ônibus divergiu entre fontes (12.000 a 21.400).",
+        "Paro armado em Santa Marta (21–25/set/2026) bloqueou a Troncal do Caribe; confira o status antes."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.geckoroutes.com/colombia/santa-marta-to-palomino/",
+        "https://www.alongdustyroads.com/posts/palomino-colombia-travel-guide",
+        "https://hostelgeeks.com/best-hostels-in-palomino-colombia/",
+        "https://www.hostelworld.com/hostels/p/321636/beach-life-palomino-hostel-and-beach-club/",
+        "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/",
+        "https://www.openstreetmap.org/node/703378831"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ciudad Perdida (Teyuna): trekking de 4 a 5 dias — cabe na viagem?",
+      "categoria": "passeio",
+      "cidade": "santa-marta",
+      "tags": [
+        "trekking",
+        "arqueologia",
+        "teyuna",
+        "4-dias",
+        "sierra-nevada"
+      ],
+      "coords": {
+        "lat": 11.0400405,
+        "lng": -73.9252906
+      },
+      "descricaoCurta": "Trekking guiado obrigatório até a cidade Tairona: 4 dias custam COP 1.860.000 (Expotur) e 5 dias 2.150.000, incluindo tudo. Veredito: NÃO cabe com folga em 10–12 dias, em ritmo intenso e orçamento de R$ 8.000.",
+      "descricaoLonga": "VEREDITO: Ciudad Perdida consome 4 dias seguidos (5 se quiser mais conforto), com 6–8 h de caminhada por dia e travessias de rio; custa COP 1,86 milhão (4 dias; escritório Expotur) a 2,15 milhões (5 dias) e outros dias de transporte/recuperação. Em novembro há chuva e lama nas travessias; guias indicam melhor época de meados de dezembro a março e agosto, e o roteiro fecha por completo em setembro. Em set/2026 o PNN Sierra Nevada suspendeu atividades por precaução durante o paro armado das ACSN — não confirmei se o trekking foi afetado. Para quem prioriza praia/natureza e noite/compras num roteiro curto e econômico, Tayrona + Minca + Palomino entregam mais por menos; Ciudad Perdida só entra se cortar Palomino/Minca e se o orçamento permitir.\n\nDETALHES: apenas com operadora autorizada (independente é proibido); Expotur: 4 dias, ~30 km a pé (+50 km de 4x4), saída diária de Santa Marta, inclui transporte, comida, hospedagem em redes/camas com mosquiteiro, guia, seguro, contribuição às comunidades e entrada no parque arqueológico; idade mínima 12; recomenda vacina contra febre amarela; passaporte original na reserva; depósito de 7%. Operadoras citadas para 2026: Expotur, Wiwa Tour, Magic Tour e Baquianos (Turcol aparece em guias antigos e fora da lista de 2026; confirmar). Contatos Expotur: (+57) 320 511 1458 / 300 644 2700; Wiwa Tour: +57 320 510 9287, Calle 16 No. 5-61, Santa Marta.",
+      "duracao": {
+        "min": 5760,
+        "tipica": 5760,
+        "max": 7200
+      },
+      "horarios": {
+        "seg": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "ter": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "qua": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "qui": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "sex": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "sab": "Saídas diárias do escritório em Santa Marta (Expotur).",
+        "dom": "Saídas diárias do escritório em Santa Marta (Expotur)."
+      },
+      "diasFechados": [
+        "Setembro: rota fecha por completo para manutenção (guia de 2024)"
+      ],
+      "melhorHorario": "Dezembro a março e agosto são os meses mais secos; novembro é de chuva.",
+      "preco": {
+        "moeda": "COP",
+        "min": 1860000,
+        "max": 2150000,
+        "por": "pessoa",
+        "inclui": "4 dias: 1.860.000; 3 e 5 dias: 2.150.000 (Expotur). Inclui transporte, alimentação, hospedagem, guia, seguro, contribuição às comunidades e entrada.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://expotur-eco.com/product/tour-ciudad-perdida-4-dias/",
+          "https://expotur-eco.com/nuevo-precio-del-tour-a-ciudad-perdida-colombia/",
+          "https://southamericabackpacker.com/the-lost-city-trek-colombia/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 3,
+        "esgotaRapido": false,
+        "link": "https://expotur-eco.com/product/tour-ciudad-perdida-4-dias/"
+      },
+      "contato": {
+        "telefone": "+57 320 511 1458",
+        "whatsapp": "",
+        "site": "https://expotur-eco.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Idade mínima 12 anos",
+        "Apenas com operadora autorizada",
+        "Passaporte original na reserva",
+        "Boa condição física"
+      ],
+      "pontoPartida": "Escritório da operadora em Santa Marta",
+      "dicasAgente": [
+        "CORTE SE APERTAR: este é o primeiro corte do roteiro curto — 4 dias + ~COP 1,86 milhão por pessoa.",
+        "VALE CADA PESO: só se o roteiro tiver 14+ dias ou se trocar Palomino/Minca por ele."
+      ],
+      "alertas": [
+        "Tarifa citada por Expotur em 2026; um guia de 2024 citava 2.150.000 para 4 ou 5 dias e resultados de busca citam faixas de COP 1,1–1,35 milhão — divergência não resolvida.",
+        "O site da Wiwa Tour mostra valores que parecem truncados (ex.: '4 dias a partir de 186.000'); não usei esses números.",
+        "Meses secos de Dez–Mar: em novembro o trekking é de chuva e lama.",
+        "Status operacional após o paro armado de set/2026 NÃO confirmado.",
+        "Antecedência de reserva: Expotur diz saída diária; use 3 dias como sugestão minha."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/35Visita_Parque_Teyuna_Ciudad_perdida-Ovidio_Gonz%C3%A1lez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "credito": "REPÚBLICA DE COLOMBIA",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:35Visita_Parque_Teyuna_Ciudad_perdida-Ovidio_Gonz%C3%A1lez.jpg"
+      },
+      "fontes": [
+        "https://expotur-eco.com/product/tour-ciudad-perdida-4-dias/",
+        "https://expotur-eco.com/nuevo-precio-del-tour-a-ciudad-perdida-colombia/",
+        "https://southamericabackpacker.com/the-lost-city-trek-colombia/",
+        "https://www.wiwatour.com/",
+        "https://www.elespectador.com/ambiente/parque-tayrona-sigue-abierto-tras-el-fin-del-paro-armado-en-santa-marta/",
+        "https://www.openstreetmap.org/way/1019242960"
+      ],
+      "confianca": "parcial"
+    }
+  ]
+}

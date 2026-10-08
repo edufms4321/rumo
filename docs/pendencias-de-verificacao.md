@@ -86,3 +86,58 @@ Rode `npm run validate:data` para a lista atualizada.
 - **17 itens sem coordenada.** Não aparecem no mapa, e o deslocamento até eles sai como estimativa grosseira. São sobretudo locadoras, restaurantes pequenos e experiências sem endereço fixo.
 - **9 itens com horário divergente entre fontes.** O banco guarda o primeiro horário citado e marca o item com um alerta. Confira antes de ir.
 - **3 avisos de aeroporto fora da Colômbia** (GRU, CGH, VCP) — esperado, são os de origem.
+
+---
+
+# Onda B — Medellín, Eje Cafetero, Santa Marta, Bogotá (2026-10-08)
+
+## O que eu mesmo verifiquei em fonte primária (não é pendência)
+
+Três achados dos agentes eram graves demais para repassar sem conferir. Conferi:
+
+- **Terremoto de magnitude 7,4 em 10/08/2026**, epicentro em San José del Palmar (Chocó), 103 km de profundidade. Balanço da UNGRD em 25/08: **331 mortos, 4.595 feridos, 257 desaparecidos**. Cali 165 mortos, Pereira 109. Mais de 325 réplicas. Aeroportos de Pereira, Cali, Armenia, Manizales e Quibdó suspensos; o de Pereira reabriu em 25/08 só no térreo, das 5h à meia-noite. **Está gravado no banco** como `situacaoAtual` de Salento, Medellín e Bogotá, com data de verificação.
+- **Parque Tayrona fechado de 19/10 a 2/11/2026** ("Respira Tayrona"), reabre **3 de novembro**, uma terça. Fechamento total: nem entrada, nem hospedagem, nem barco. Confirmado no site da Parques Nacionales. **Está no calendário do banco.**
+- **Datas dos feriados de novembro** (segundas 2 e 16) — conferi a aritmética da Ley Emiliani. Três agentes independentes chegaram ao mesmo resultado, mas nenhum abriu a página anual oficial. Confirme quando sair.
+
+## Erro meu que os agentes corrigiram
+
+Eu escrevi no briefing que a Pedra do Peñol tem "698 degraus". **Nenhuma fonte diz isso** — as fontes dão 740, algumas 702. Eu tinha escrito de memória. O número não entrou no banco.
+
+## Santa Marta e Tayrona
+
+- Valor do **seguro obrigatório** do Tayrona: as fontes divergem entre COP 3.000 e 8.800 por pessoa por dia.
+- Tarifa 2026 de estrangeiro não residente: COP 81.000 (baixa temporada) / 96.500 (alta). Bahía Concha COP 43.500. Última entrada às 14:00. **Confirme a classificação de temporada da sua data** — o feriadão de 14 a 16/11 provavelmente é tarifa alta.
+- Preços de hospedagem dentro do parque (a rede-mirante de Cabo San Juan varia de 50 a 105 mil COP entre fontes). O site cabosanjuantravel.co se diz oficial, mas o vínculo com a concessionária não foi confirmado.
+- **A região esteve instável em 2026**: o Tayrona fechou em 17/02 por bloqueios e cobranças ilegais, reabriu em 05/03; em 16/06 reabriu com El Zaino e Calabazo interditados. Houve **paro armado em Santa Marta de 21 a 25/09/2026**, com bloqueios na Troncal. Confirme a situação na semana da viagem.
+- Taganga: a fonte principal é de 2019. Estado atual desconhecido.
+- Palomino: cerca de 30 mortes por correnteza. **Não nadar no mar.**
+- Ciudad Perdida: COP 1,86 a 2,15 milhões, 4 a 5 dias. Não cabe em 10–12 dias.
+
+## Medellín
+
+- **Escopolamina e aplicativos de encontro são risco documentado em 2026**, não boato. O alerta da Embaixada dos EUA de 22/07/2026 cita 13 relatos recentes; o aviso britânico seguia válido em 08/10. O foco é El Poblado. A página oficial da Embaixada deu 403 — o alerta foi lido por fonte secundária, então **confirme**.
+- Ingresso do Museo de Antioquia: COP 46.000 para estrangeiro, mas a tabela publicada é de 2025.
+- Cabo do Parque Arví, COP 26.700: **não está claro se é por trecho ou ida e volta**.
+- Pedra do Peñol: ingresso varia de COP 25.000 a 35.000 entre fontes.
+- Pueblito Paisa: horário e entrada não encontrados. Mercado del Río, Pergamino e Casa Kolacho: preços não encontrados (site com 403).
+- Cueva del Esplendor (Jardín): horário e preço atuais não encontrados.
+
+## Eje Cafetero
+
+- **Mirador Colina Iluminada, em Filandia, está fechado** desde o sismo, sem data de reabertura. A demolição foi suspensa para novos estudos.
+- Ocupação hoteleira do Quindío caiu de ~80% para ~20–22%. Diária negociável.
+- Taxa das fazendas dentro do Vale de Cocora: fontes de 2025 e 2026 divergem.
+- Las Acacias: telefone, horário e coordenada não encontrados. Don Elías: preço de uma só fonte, sem data.
+- Preço do tejo: fontes de 2019 a 2025.
+- Estado do Alto de la Cruz após o sismo: um relato cita danos na escadaria.
+- O agente recomenda **Armenia (AXM) em vez de Pereira (PEI)**: ônibus a cada 15–20 min até ~20:00, contra de hora em hora até ~18:00.
+
+## Bogotá
+
+- **Museo del Oro: fechamentos intermitentes das salas permanentes por reforma entre 6/10 e 6/11/2026.** Isso pega o começo da sua viagem. Estrangeiro paga COP 21.000; domingo é grátis. O Museo Botero fecha **terça**, não segunda.
+- Catedral de Sal (Zipaquirá): COP 125.000 para estrangeiro, confirmado no site oficial. O trem custa COP 96.000, só sáb/dom/feriados, e **não inclui a entrada** — o ônibus do Portal Norte custa COP 10.500.
+- Guatavita: ingresso de estrangeiro varia entre COP 25.500, 28.000 e 31.000 conforme a fonte; o dia de fechamento também diverge. O site da CAR deu timeout.
+- Villa de Leyva: preços e horários de El Fósil, Casa Terracota e Pozos Azules divergentes; último ônibus de volta entre 14:00 e 17:20 conforme a fonte.
+- **Paseo millonario** (sequestro-relâmpago em táxi) concentrado na Zona T.
+- Altitude de Bogotá: o banco usa 2.553 m (SRTM no ponto do OpenStreetMap); as fontes da cidade dão 2.600 a 2.640 m. A diferença não muda nenhuma regra do app, mas fica registrada.
+- Andrés Carne de Res: preço de cardápio e couvert não encontrados, nem o custo da volta de Chía de madrugada.

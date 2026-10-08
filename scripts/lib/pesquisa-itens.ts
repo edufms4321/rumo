@@ -26,10 +26,33 @@ import {
  * lugar real para nada se perder.
  */
 const CIDADE_DO_ITEM: Record<string, string> = {
+  // Cartagena e seus bate-voltas
   cartagena: 'cartagena',
   'islas-rosario': 'cartagena',
   baru: 'cartagena',
+  // Arquipelago
   'san-andres': 'san-andres',
+  // Medellin e seus bate-voltas
+  medellin: 'medellin',
+  guatape: 'medellin',
+  jardin: 'medellin',
+  // Eje Cafetero: Salento e a base
+  salento: 'salento',
+  cocora: 'salento',
+  filandia: 'salento',
+  pereira: 'salento',
+  armenia: 'salento',
+  // Caribe continental
+  'santa-marta': 'santa-marta',
+  tayrona: 'santa-marta',
+  minca: 'santa-marta',
+  taganga: 'santa-marta',
+  palomino: 'palomino',
+  // Andes
+  bogota: 'bogota',
+  zipaquira: 'bogota',
+  guatavita: 'bogota',
+  'villa-de-leyva': 'villa-de-leyva',
 };
 
 const PREFIXO_ID: Record<string, string> = {
@@ -108,7 +131,7 @@ function derivarSelos(i: Json, temPreco: boolean, gratuito: boolean): string[] {
  * ajustes manuais por id. Devolve um arquivo por cidade do banco.
  */
 export function construirItens(
-  bases: { sanAndres: Json; cartagena: Json },
+  pacotesDePesquisa: Json[],
   ajustes: Json,
 ): Record<string, Json[]> {
   const idsUsados = new Set<string>();
@@ -116,13 +139,23 @@ export function construirItens(
   const patchesDeItens: Json = ajustes.itens ?? {};
   const idsAjustados = new Set(Object.keys(patchesDeItens));
 
-  for (const pacote of [bases.cartagena, bases.sanAndres]) {
+  for (const pacote of pacotesDePesquisa) {
     for (const bruto of pacote.itens ?? []) {
       const item = converterItem(bruto, idsUsados);
       if (!item) continue;
       const patch = patchesDeItens[item.id];
       const final = patch ? mesclar(item, patch) : item;
       if (patch) idsAjustados.delete(item.id);
+
+      // Locadora sem tabela de veiculos nao e locadora: e conselho sobre
+      // aluguel. Vira cartao de referencia em vez de reprovar a importacao.
+      if (final.categoria === 'aluguel-veiculo' && !final.aluguel && final.agendavel) {
+        final.agendavel = false;
+        delete final.duracao;
+        avisos.push(
+          `"${final.nome}" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)`,
+        );
+      }
       const lista = (porCidade[final.cidadeId] ??= []);
       lista.push(final);
     }
@@ -184,6 +217,13 @@ export function converterItem(i: Json, idsUsados: Set<string>): Json | undefined
     });
   }
 
+  // Duracao zerada na pesquisa significa "isto nao e uma atividade": e um
+  // cartao de referencia (como funciona o TransMilenio, vale alugar carro).
+  const d = i.duracao as Json | undefined;
+  const temDuracao =
+    !!d && Number(d.min) > 0 && Number(d.tipica) > 0 && Number(d.max) > 0;
+  if (!temDuracao) derivado('item sem duracao tratado como cartao de referencia');
+
   const alertas = (i.alertas ?? []).map(String);
   if (alertaDePreco) alertas.push(alertaDePreco);
   if (!temCoords) alertas.push('coordenada nao encontrada: este item nao aparece no mapa');
@@ -206,7 +246,7 @@ export function converterItem(i: Json, idsUsados: Set<string>): Json | undefined
     ...(temCoords ? { coords: { lat: c!.lat, lng: c!.lng } } : {}),
     descricaoCurta: (String(i.descricaoCurta ?? '').trim() || String(i.nome)).slice(0, 220),
     descricaoLonga: String(i.descricaoLonga ?? ''),
-    duracao: i.duracao,
+    ...(temDuracao ? { duracao: i.duracao } : {}),
     ...(horarios ? { horarios } : {}),
     ...(horariosObservacao ? { horariosObservacao } : {}),
     diasFechados: (i.diasFechados ?? []).map(String),
@@ -224,6 +264,7 @@ export function converterItem(i: Json, idsUsados: Set<string>): Json | undefined
     },
     contato,
     imagens,
+    agendavel: temDuracao,
     restricoes: derivarRestricoes(i),
     selos: derivarSelos(i, !!preco, gratuito && !preco),
     dicas: (i.dicasAgente ?? []).map(String),

@@ -65,7 +65,9 @@ function CartaoDeItem({ item }: { item: Item }) {
         </div>
         <div>
           <dt className="inline font-medium">Duracao tipica: </dt>
-          <dd className="inline">{formatarDuracao(item.duracao.tipica)}</dd>
+          <dd className="inline">
+            {item.duracao ? formatarDuracao(item.duracao.tipica) : 'cartao de referencia'}
+          </dd>
         </div>
         <div>
           <dt className="inline font-medium">Preco: </dt>
