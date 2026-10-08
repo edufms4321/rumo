@@ -146,3 +146,24 @@ Decisões que valem registrar:
 **`npm run demo:dia` agora mostra os alertas.** Contra o dia de teste em Cartagena, o motor produz 8 alertas: 1 erro de deslocamento, 2 de luz do dia, dia sobrecarregado, item em cidade errada, dois de refeição e um de noites mínimas — todos com correção sugerida.
 
 **Próximo:** generalizar o conversor para o México (hoje ele é fixo em `data/colombia`) e começar a interface.
+
+---
+
+## 2026-10-08 17:07 — México no banco, conversor multi-destino
+
+**O México entrou e o app o mostrou sozinho.** 143 itens em 26 bases, ao lado dos 169 da Colômbia. Nenhuma linha de `src/` mudou — o critério de aceite 7 da v1 está provado na prática, não no papel.
+
+**Visto do México: confirmei em fonte oficial.** O agente relatou e eu fui checar, porque é o tipo de coisa que estraga viagem. Brasileiro precisa de visto desde 18/08/2022, inclusive **para só conectar** em aeroporto mexicano desde 22/10/2023. Desde 05/02/2026 existe visto eletrônico de US$ 10,30, entrada única, só por via aérea. Isento quem tem visto válido de EUA, Canadá, Reino Unido, Japão ou Schengen.
+
+**O México expôs quatro erros do meu modelo**, todos invisíveis enquanto só existia a Colômbia:
+
+1. **Moeda era enum fechado** com 4 valores. Quebrou no primeiro import. Virou código ISO aberto. Num app multi-destino, lista fechada de moeda é retrabalho garantido a cada país.
+2. **Fuso era um só por destino.** O México tem três. Sem corrigir, o pôr do sol e a chegada de voo sairiam errados em um terço do país. `CidadeBase.fusoOffsetMinutos` agora sobrescreve o do destino.
+3. **Não havia modal de trem.** O Tren Maya existe e aparece nos trechos.
+4. **O calendário só lia a forma da onda A da Colômbia.** O agente do México entregou calendário anual com `dataInicio`/`dataFim`/`recorrencia`. As duas formas convivem agora.
+
+**Onde o conhecimento do país mora.** Criei `scripts/destinos/<pais>.ts` com as tabelas que não dá para derivar: quais lugares são base, quais são bate-volta e de que base, como o agente escreveu cada nome, que IATA serve que cidade. É da **ferramenta de pesquisa**, não do app — e isso importa: o app continua lendo `/data` por glob e aceitando pasta pronta sem código.
+
+A regressão da Colômbia passou idêntica (169 itens, mesmos números) depois do refactor, que é como eu sei que a extração não mudou comportamento.
+
+**Estado:** 312 itens em dois países, 0 erro de validação, 98 testes, typecheck e lint limpos. Três agentes do México ainda rodando (Cidade do México, Yucatán, Bajío) e um da Colômbia (clima dos 12 meses).

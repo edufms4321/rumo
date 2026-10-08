@@ -6,6 +6,7 @@
  * responde (depende de clima, depende de luz do dia, nao voar apos mergulho).
  * Toda deducao e contada em `derivado()` e sai no relatorio.
  */
+import type { ConfigDeDestino } from '../destinos/tipos.ts';
 import {
   COLETADO_EM,
   type Json,
@@ -19,52 +20,6 @@ import {
   mesclar,
   slug,
 } from './pesquisa-utils.ts';
-
-/**
- * Rosario e Baru nao sao bases: ninguem monta a viagem dormindo lá, vai-se de
- * Cartagena e volta no mesmo dia. Viram itens de Cartagena, com etiqueta do
- * lugar real para nada se perder.
- */
-const CIDADE_DO_ITEM: Record<string, string> = {
-  // Cartagena e seus bate-voltas
-  cartagena: 'cartagena',
-  'islas-rosario': 'cartagena',
-  baru: 'cartagena',
-  // Arquipelago
-  'san-andres': 'san-andres',
-  // Medellin e seus bate-voltas
-  medellin: 'medellin',
-  guatape: 'medellin',
-  jardin: 'medellin',
-  // Eje Cafetero: Salento e a base
-  salento: 'salento',
-  cocora: 'salento',
-  filandia: 'salento',
-  pereira: 'salento',
-  armenia: 'salento',
-  // Caribe continental
-  'santa-marta': 'santa-marta',
-  tayrona: 'santa-marta',
-  minca: 'santa-marta',
-  taganga: 'santa-marta',
-  palomino: 'palomino',
-  // Andes
-  bogota: 'bogota',
-  zipaquira: 'bogota',
-  guatavita: 'bogota',
-  'villa-de-leyva': 'villa-de-leyva',
-};
-
-const PREFIXO_ID: Record<string, string> = {
-  cartagena: 'ctg',
-  'san-andres': 'adz',
-  'santa-marta': 'smr',
-  medellin: 'mde',
-  bogota: 'bog',
-  salento: 'slt',
-  'villa-de-leyva': 'vdl',
-  palomino: 'plm',
-};
 
 const RE_CLIMA = /barco|lancha|catamar|\bmar\b|snorkel|mergulho|praia|vela|caiaque|ilha|\bcay\b/i;
 const RE_LUZ = /p[oô]r[- ]do[- ]sol|mirante|trilha|praia|amanhecer|sunset|nascer do sol/i;
@@ -133,6 +88,7 @@ function derivarSelos(i: Json, temPreco: boolean, gratuito: boolean): string[] {
 export function construirItens(
   pacotesDePesquisa: Json[],
   ajustes: Json,
+  config: ConfigDeDestino,
 ): Record<string, Json[]> {
   const idsUsados = new Set<string>();
   const porCidade: Record<string, Json[]> = {};
@@ -141,7 +97,7 @@ export function construirItens(
 
   for (const pacote of pacotesDePesquisa) {
     for (const bruto of pacote.itens ?? []) {
-      const item = converterItem(bruto, idsUsados);
+      const item = converterItem(bruto, idsUsados, config);
       if (!item) continue;
       const patch = patchesDeItens[item.id];
       const final = patch ? mesclar(item, patch) : item;
@@ -168,15 +124,20 @@ export function construirItens(
   return porCidade;
 }
 
-export function converterItem(i: Json, idsUsados: Set<string>): Json | undefined {
+export function converterItem(
+  i: Json,
+  idsUsados: Set<string>,
+  config: ConfigDeDestino,
+): Json | undefined {
   const cidadeOriginal = String(i.cidade ?? '');
-  const cidadeId = CIDADE_DO_ITEM[cidadeOriginal];
+  const cidadeId = config.cidadeDoItem[cidadeOriginal];
   if (!cidadeId) {
     avisos.push(`item "${i.nome}" tem cidade desconhecida "${cidadeOriginal}": descartado`);
     return undefined;
   }
 
-  const base = `co-${PREFIXO_ID[cidadeId] ?? slug(cidadeId, 6)}-${slug(String(i.nome))}`;
+  const prefixo = config.prefixoId[cidadeId] ?? slug(cidadeId, 6);
+  const base = `${config.codigoPais.toLowerCase()}-${prefixo}-${slug(String(i.nome))}`;
   let id = base;
   let n = 2;
   while (idsUsados.has(id)) id = `${base}-${n++}`;

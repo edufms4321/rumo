@@ -222,7 +222,8 @@ function regraLuzDoDia(ctx: Contexto, alertas: Alerta[]): void {
       // usar a cidade-base daria a hora errada no alerta.
       const cidade = ctx.pacote.cidades.find((c) => c.id === b.item?.cidadeId);
       if (!cidade) continue;
-      const sol = luzDoDia(cidade.coords, dia.dia.data, ctx.pacote.destino.fusoOffsetMinutos);
+      const offset = cidade.fusoOffsetMinutos ?? ctx.pacote.destino.fusoOffsetMinutos;
+      const sol = luzDoDia(cidade.coords, dia.dia.data, offset);
       if (!sol.temNoiteEDia) continue;
       if (b.intervalo.fim <= sol.anoitecerMin) continue;
 

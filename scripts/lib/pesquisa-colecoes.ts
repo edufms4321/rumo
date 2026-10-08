@@ -6,6 +6,7 @@
  * precisa poder montar qualquer roteiro do pais; campo ausente faz o motor
  * usar padrao rotulado como estimativa, nunca impede o planejamento.
  */
+import type { ConfigDeDestino } from '../destinos/tipos.ts';
 import {
   COLETADO_EM,
   type Json,
@@ -21,91 +22,23 @@ import {
 /** Mapa id-da-base -> arquivo de pesquisa daquela base (onda-*.json). */
 export type Bases = Record<string, Json>;
 
-// ------------------------------------------------------------------- tabelas
+// ------------------------------------------------------------------ ajuda
 
-/** Regiao de cada base. */
-const REGIAO_DA_CIDADE: Record<string, string> = {
-  cartagena: 'caribe-continental',
-  'santa-marta': 'caribe-continental',
-  palomino: 'caribe-continental',
-  'san-andres': 'caribe-insular',
-  bogota: 'andes',
-  'villa-de-leyva': 'andes',
-  medellin: 'andes',
-  salento: 'eje-cafetero',
-};
-
-const NOME_DA_CIDADE: Record<string, string> = {
-  cartagena: 'Cartagena',
-  'santa-marta': 'Santa Marta',
-  palomino: 'Palomino',
-  'san-andres': 'San Andres',
-  bogota: 'Bogota',
-  'villa-de-leyva': 'Villa de Leyva',
-  medellin: 'Medellin',
-  salento: 'Salento',
-};
-
-/** Texto da pesquisa -> id de regiao, e qual cidade herda aquele clima. */
-const CLIMA_PARA_CIDADES: Array<{ contem: RegExp; cidades: string[]; regiao: string }> = [
-  { contem: /Caribe - Cartagena/i, cidades: ['cartagena'], regiao: 'caribe-continental' },
-  { contem: /Caribe seco/i, cidades: ['santa-marta', 'palomino'], regiao: 'caribe-continental' },
-  { contem: /Caribe insular/i, cidades: ['san-andres'], regiao: 'caribe-insular' },
-  { contem: /Andes - Bogot/i, cidades: ['bogota'], regiao: 'andes' },
-  { contem: /Andes - Villa de Leyva/i, cidades: ['villa-de-leyva'], regiao: 'andes' },
-  { contem: /Andes - Medell/i, cidades: ['medellin'], regiao: 'andes' },
-  { contem: /Eje Cafetero/i, cidades: ['salento'], regiao: 'eje-cafetero' },
-  { contem: /Pac[ií]fico/i, cidades: [], regiao: 'pacifico' },
-  { contem: /Amaz[oô]nia/i, cidades: [], regiao: 'amazonia' },
-];
-
-const DESCRICAO_DA_REGIAO: Record<string, string> = {
-  'caribe-continental': 'Costa caribenha continental: Cartagena, Santa Marta, Tayrona, Palomino.',
-  'caribe-insular': 'Arquipelago de San Andres, Providencia e Santa Catalina.',
-  andes: 'Cordilheira: Bogota, Medellin, Villa de Leyva e o altiplano.',
-  'eje-cafetero': 'Regiao do cafe: Salento, Filandia, Vale de Cocora, fazendas.',
-  pacifico: 'Costa do Pacifico: Choco, Nuqui, avistamento de baleias.',
-  amazonia: 'Amazonia colombiana, com base em Leticia.',
-};
-
-/** Nome que a pesquisa usa em trechos e eventos -> id de cidade. */
-const APELIDOS_DE_CIDADE: Array<[RegExp, string]> = [
-  [/villa de leyva/i, 'villa-de-leyva'],
-  [/san andr[eé]s/i, 'san-andres'],
-  [/santa marta/i, 'santa-marta'],
-  [/cartagena/i, 'cartagena'],
-  [/medell[ií]n/i, 'medellin'],
-  [/bogot[aá]/i, 'bogota'],
-  [/palomino/i, 'palomino'],
-  [/salento|pereira|armenia|eje cafetero/i, 'salento'],
-];
-
-function cidadePorTexto(texto: string): string | undefined {
-  for (const [padrao, id] of APELIDOS_DE_CIDADE) if (padrao.test(texto)) return id;
+function cidadePorTexto(texto: string, config: ConfigDeDestino): string | undefined {
+  for (const [padrao, id] of config.apelidosDeCidade) if (padrao.test(texto)) return id;
   return undefined;
 }
 
-/** Todas as cidades citadas num texto (para evento que vale em mais de uma). */
-function cidadesPorTexto(texto: string): string[] {
+/** Todas as bases citadas num texto (para evento que vale em mais de uma). */
+function cidadesPorTexto(texto: string, config: ConfigDeDestino): string[] {
   const achadas = new Set<string>();
-  for (const [padrao, id] of APELIDOS_DE_CIDADE) if (padrao.test(texto)) achadas.add(id);
+  for (const [padrao, id] of config.apelidosDeCidade) if (padrao.test(texto)) achadas.add(id);
   return [...achadas];
 }
 
-const IATA_PARA_CIDADE: Record<string, string> = {
-  CTG: 'cartagena',
-  ADZ: 'san-andres',
-  SMR: 'santa-marta',
-  MDE: 'medellin',
-  EOH: 'medellin',
-  BOG: 'bogota',
-  PEI: 'salento',
-  AXM: 'salento',
-};
-
 // ------------------------------------------------------------------ destino
 
-export function construirDestino(logistica: Json): Json {
+export function construirDestino(logistica: Json, config: ConfigDeDestino): Json {
   const d = logistica.destino;
   const r = d.requisitosEntradaBrasileiro ?? {};
 
@@ -118,23 +51,22 @@ export function construirDestino(logistica: Json): Json {
   ]);
 
   return {
-    id: 'colombia',
+    id: config.id,
     fontes: todasAsFontes,
     coletadoEm: logistica.coletadoEm || COLETADO_EM,
     confianca: 'parcial',
     observacaoDeConfianca:
       'Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.',
-    nome: 'Colombia',
-    codigoPais: 'CO',
-    moeda: 'COP',
-    fuso: 'America/Bogota',
-    fusoOffsetMinutos: -300,
-    idiomas: ['es'],
+    nome: config.nome,
+    codigoPais: config.codigoPais,
+    moeda: config.moeda,
+    fuso: config.fuso,
+    fusoOffsetMinutos: config.fusoOffsetMinutos,
+    idiomas: config.idiomas,
     ...(d.tomadas ? { tomadas: String(d.tomadas) } : {}),
     ...(d.voltagem ? { voltagem: String(d.voltagem) } : {}),
-    // Caixa que cobre a Colombia continental e o arquipelago de San Andres,
-    // que fica bem a oeste. Usada pelo validador para pegar coordenada errada.
-    caixaDelimitadora: { latMin: -4.3, latMax: 13.5, lngMin: -82.1, lngMax: -66.8 },
+    // Usada pelo validador para pegar coordenada fora do pais.
+    caixaDelimitadora: config.caixaDelimitadora,
     entrada: [
       {
         nacionalidade: 'BR',
@@ -182,17 +114,17 @@ export function construirDestino(logistica: Json): Json {
 
 // ------------------------------------------------------------------- regioes
 
-export function construirRegioes(logistica: Json): Json[] {
+export function construirRegioes(logistica: Json, config: ConfigDeDestino): Json[] {
   const porRegiao = new Map<string, Json[]>();
   for (const c of logistica.climaNovembro ?? []) {
-    const casamento = CLIMA_PARA_CIDADES.find((x) => x.contem.test(String(c.regiao)));
+    const casamento = config.climaParaCidades.find((x) => x.contem.test(String(c.regiao)));
     if (!casamento) continue;
     const lista = porRegiao.get(casamento.regiao) ?? [];
     lista.push(c);
     porRegiao.set(casamento.regiao, lista);
   }
 
-  const usadas = new Set(Object.values(REGIAO_DA_CIDADE));
+  const usadas = new Set(Object.values(config.regiaoDaCidade));
   const regioes: Json[] = [];
 
   for (const id of usadas) {
@@ -210,7 +142,7 @@ export function construirRegioes(logistica: Json): Json[] {
         .split('-')
         .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
         .join(' '),
-      descricaoCurta: DESCRICAO_DA_REGIAO[id] ?? 'Regiao da Colombia.',
+      descricaoCurta: config.descricaoDaRegiao[id] ?? 'Regiao da Colombia.',
     });
   }
   return regioes;
@@ -262,9 +194,9 @@ export function construirAeroportos(logistica: Json): Json[] {
 
 // ------------------------------------------------------------------- cidades
 
-function climaDaCidade(logistica: Json, cidadeId: string): Json[] {
+function climaDaCidade(logistica: Json, cidadeId: string, config: ConfigDeDestino): Json[] {
   for (const c of logistica.climaNovembro ?? []) {
-    const casamento = CLIMA_PARA_CIDADES.find((x) => x.contem.test(String(c.regiao)));
+    const casamento = config.climaParaCidades.find((x) => x.contem.test(String(c.regiao)));
     if (!casamento?.cidades.includes(cidadeId)) continue;
     if (!Number.isFinite(c.chuvaMm) || Number(c.chuvaMm) === 0) continue;
     const { confianca: nivel } = confianca(c.confianca);
@@ -308,37 +240,12 @@ function bairrosDaBase(notas: Json | undefined): Json[] {
   }));
 }
 
-/**
- * Fatores de deslocamento autorados por cidade. Sao ENTRADA DO MOTOR, nao
- * afirmacao sobre o mundo: velocidade media do modal e quanto a rota real
- * excede a linha reta. Toda saida da camada 3 do estimador aparece na
- * interface marcada como estimativa. Cidade fora desta tabela usa o padrao
- * do motor.
- */
-const FATORES: Record<string, Json> = {
-  // Centro historico compacto e plano; transito pesado fora dele.
-  cartagena: {
-    'a-pe': { kmh: 4.5, fatorRota: 1.25 },
-    'carro-app': { kmh: 20, fatorRota: 1.35 },
-    'transporte-publico': { kmh: 14, fatorRota: 1.5 },
-    'veiculo-alugado': { kmh: 20, fatorRota: 1.35 },
-  },
-  // Ilha de ~26 km de perimetro, estrada circular costeira, pouco transito.
-  // Mulita e buggy sao lentos, por isso 22 km/h e nao mais.
-  'san-andres': {
-    'a-pe': { kmh: 4.5, fatorRota: 1.2 },
-    'carro-app': { kmh: 24, fatorRota: 1.15 },
-    'transporte-publico': { kmh: 18, fatorRota: 1.25 },
-    'veiculo-alugado': { kmh: 22, fatorRota: 1.15 },
-    bicicleta: { kmh: 12, fatorRota: 1.15 },
-  },
-};
-
 export function construirCidades(
   logistica: Json,
   coords: Json,
   bases: Bases,
   ajustes: Json,
+  config: ConfigDeDestino,
 ): Json[] {
   const patchesDeCidade: Json = ajustes.cidades ?? {};
   const notasPorCidade: Record<string, Json> = {};
@@ -347,7 +254,7 @@ export function construirCidades(
   }
 
   const aeroportosPorCidade = new Map<string, string[]>();
-  for (const [iata, cidadeId] of Object.entries(IATA_PARA_CIDADE)) {
+  for (const [iata, cidadeId] of Object.entries(config.iataParaCidade)) {
     const existe = (logistica.aeroportos ?? []).some(
       (a: Json) => String(a.iata).toUpperCase() === iata,
     );
@@ -359,7 +266,7 @@ export function construirCidades(
 
   const cidades: Json[] = [];
 
-  for (const [id, regiaoId] of Object.entries(REGIAO_DA_CIDADE)) {
+  for (const [id, regiaoId] of Object.entries(config.regiaoDaCidade)) {
     const geo = coords[id];
     if (!geo) {
       avisos.push(`cidade ${id} sem coordenada em coords-cidades.json: descartada`);
@@ -410,10 +317,13 @@ export function construirCidades(
             observacaoDeConfianca:
               'Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.',
           }),
-      nome: NOME_DA_CIDADE[id] ?? id,
+      nome: config.nomeDaCidade[id] ?? id,
       regiaoId,
       coords: { lat: geo.lat, lng: geo.lng },
       altitudeM: Number(geo.altitudeM ?? 0),
+      ...(config.fusoPorCidade?.[id] !== undefined
+        ? { fusoOffsetMinutos: config.fusoPorCidade[id] }
+        : {}),
       aeroportos: aeroportosPorCidade.get(id) ?? [],
       ...(noitesValidas
         ? {
@@ -426,9 +336,9 @@ export function construirCidades(
         : {}),
       bairros: bairrosDaBase(notas),
       ...(notas?.comoCircular ? { comoCircular: String(notas.comoCircular).slice(0, 3000) } : {}),
-      ...(FATORES[id] ? { fatoresDeslocamento: FATORES[id] } : {}),
+      ...(config.fatores[id] ? { fatoresDeslocamento: config.fatores[id] } : {}),
       matrizInterna: [],
-      climaPorMes: climaDaCidade(logistica, id),
+      climaPorMes: climaDaCidade(logistica, id, config),
       ...(notas?.segurancaPorBairro
         ? { seguranca: String(notas.segurancaPorBairro).slice(0, 3000) }
         : {}),
@@ -455,6 +365,7 @@ export function construirCidades(
 const MODAL_VALIDO = new Set([
   'voo',
   'onibus',
+  'trem',
   'barco',
   'carro-fretado',
   'veiculo-alugado',
@@ -464,14 +375,14 @@ const MODAL_VALIDO = new Set([
   'bicicleta',
 ]);
 
-export function construirTrechos(logistica: Json): Json[] {
+export function construirTrechos(logistica: Json, config: ConfigDeDestino): Json[] {
   const trechos: Json[] = [];
   const ids = new Set<string>();
   const paresDeVoo = new Set<string>();
 
   for (const t of logistica.trechosEntreCidades ?? []) {
-    const de = cidadePorTexto(String(t.de ?? ''));
-    const para = cidadePorTexto(String(t.para ?? ''));
+    const de = cidadePorTexto(String(t.de ?? ''), config);
+    const para = cidadePorTexto(String(t.para ?? ''), config);
     if (!de || !para) {
       avisos.push(`trecho "${t.de} -> ${t.para}" nao mapeou para bases conhecidas: descartado`);
       continue;
@@ -541,8 +452,8 @@ export function construirTrechos(logistica: Json): Json[] {
       continue;
     }
     const [origem, destino] = rota;
-    const de = IATA_PARA_CIDADE[origem];
-    const para = IATA_PARA_CIDADE[destino];
+    const de = config.iataParaCidade[origem];
+    const para = config.iataParaCidade[destino];
     if (!de || !para || de === para) continue;
     if (paresDeVoo.has(`${de}>${para}`)) continue;
 
@@ -682,16 +593,24 @@ function mapearLotacao(texto: string): string | undefined {
   return undefined;
 }
 
-export function construirCalendario(logistica: Json): Json[] {
+export function construirCalendario(logistica: Json, config: ConfigDeDestino): Json[] {
   const eventos: Json[] = [];
   const ids = new Set<string>();
 
-  for (const e of logistica.calendarioNovembro2026 ?? []) {
-    const data = String(e.data ?? '');
+  // Duas formas de pesquisa convivem: a da onda A da Colombia, com um campo
+  // `data`, e a anual do Mexico, com `dataInicio`/`dataFim` e `recorrencia`.
+  const brutos = [
+    ...((logistica.calendarioNovembro2026 ?? []) as Json[]),
+    ...((logistica.calendarioAnual ?? []) as Json[]),
+  ];
+
+  for (const e of brutos) {
+    const data = String(e.data ?? e.dataInicio ?? '');
     if (!RE_DATA.test(data)) {
-      avisos.push(`evento sem data exata ficou fora do banco: "${e.nome}" (${data})`);
+      avisos.push(`evento sem data exata ficou fora do banco: "${e.nome}" (${data || 'vazio'})`);
       continue;
     }
+    const dataFim = RE_DATA.test(String(e.dataFim ?? '')) ? String(e.dataFim) : undefined;
     const tipo = ['feriado-nacional', 'feriado-local', 'festa', 'evento', 'temporada'].includes(
       String(e.tipo),
     )
@@ -699,8 +618,8 @@ export function construirCalendario(logistica: Json): Json[] {
       : 'evento';
 
     const local = String(e.local ?? '');
-    const nacional = /col[oô]mbia inteira|nacional/i.test(local);
-    const escopos = nacional ? ['nacional'] : cidadesPorTexto(local);
+    const nacional = /col[oô]mbia inteira|m[eé]xico inteiro|^nacional$|nacional/i.test(local);
+    const escopos = nacional ? ['nacional'] : cidadesPorTexto(local, config);
 
     if (escopos.length === 0) {
       avisos.push(`evento "${e.nome}" tem escopo "${local}" fora das bases do banco: descartado`);
@@ -734,6 +653,7 @@ export function construirCalendario(logistica: Json): Json[] {
         nome: String(e.nome).slice(0, 400),
         tipo,
         dataInicio: data,
+        ...(dataFim && dataFim > data ? { dataFim } : {}),
         escopo,
         ...(tipo === 'feriado-nacional' && /transferid/i.test(String(e.nome))
           ? { transferidoParaSegunda: true }
@@ -745,7 +665,7 @@ export function construirCalendario(logistica: Json): Json[] {
           ...(impactoBruto.seguranca ? { seguranca: String(impactoBruto.seguranca) } : {}),
           ...(prosa ? { observacao: prosa.slice(0, 1500) } : {}),
         },
-        descricao: String(e.nome).slice(0, 2000),
+        descricao: [e.quando, e.recorrencia, e.nome].filter(Boolean).join(' | ').slice(0, 2000),
       });
     }
   }

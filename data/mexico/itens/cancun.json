@@ -1,0 +1,616 @@
+[
+  {
+    "id": "mx-cun-playa-delfines-cancun",
+    "fontes": [
+      {
+        "url": "https://www.cancuntripinsider.com/guides/es-mx/playa-delfines-en-cancun"
+      },
+      {
+        "url": "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2611777999"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Delfines (Cancún)",
+    "cidadeId": "cancun",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "gratuita",
+      "mirante",
+      "letras-cancun",
+      "ondas-fortes",
+      "bandeira-vermelha"
+    ],
+    "coords": {
+      "lat": 21.0619642,
+      "lng": -86.778583
+    },
+    "descricaoCurta": "Praia pública e gratuita no sul da Zona Hotelera, com o mirador das letras de CANCÚN; mar aberto e forte, ótima para caminhar e fotografar.",
+    "descricaoLonga": "Praia pública com estacionamento gratuito junto ao mirador El Mirador; palapas gratuitas por ordem de chegada, banheiros, chuveiros e área infantil. Não há restaurantes, beach clubs nem bares: leve água e comida. Dá para o Caribe aberto, sem proteção natural: ondas e correntes fortes, bandeira vermelha frequente (salva-vidas das 9h às 17h, bandeiras verde/amarela/vermelha). Em 29/jul/2026 aparecia em AMARELO no semáforo de sargaço (Delfines, Marlín, Ballenas e Gaviota Azul), enquanto a zona norte estava verde. Ônibus R-1 e R-2 param em frente ao mirador.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00 (Praia livre; salva-vidas)",
+    "diasFechados": [],
+    "melhorHorario": "Manhã de dia de semana (nov–abr): estacionamento fácil e menos fila na foto das letras.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Delfines_%2812916929323%29.jpg?width=900",
+        "credito": "David Stanley from Nanaimo, Canada",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Delfines_(12916929323).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mar com correntes fortes: entrar na água só com bandeira verde."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é de graça e é o cartão-postal de Cancún; ir para foto e caminhada, não para nadar.",
+      "VALE CADA PESO: manhã cedo com mapa de sargaço verde.",
+      "CORTE SE APERTAR: se o semáforo estiver laranja/vermelho, trocar por Playa Tortugas/Caracol (norte) ou Isla Mujeres."
+    ],
+    "alertas": [
+      "Correntes de retorno: bandeira vermelha é frequente; não nadar.",
+      "Sargaço de abril a outubro, pico junho–agosto; checar o semáforo antes.",
+      "Sem comércio no local: levar tudo.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cun-playa-tortugas-cancun",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      },
+      {
+        "url": "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/"
+      },
+      {
+        "url": "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/445614179"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Tortugas (Cancún)",
+    "cidadeId": "cancun",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "gratuita",
+      "aguas-calmas",
+      "norte-de-cancun",
+      "ferry-isla-mujeres"
+    ],
+    "coords": {
+      "lat": 21.139726,
+      "lng": -86.7693058
+    },
+    "descricaoCurta": "Praia pública da zona norte da Zona Hotelera, mais calma e menos afetada por sargaço; ponto de embarque do ferry Ultramar para Isla Mujeres.",
+    "descricaoLonga": "Praia pública acessível de ônibus (o Wikivoyage lista Playa Tortugas e Las Perlas como públicas). Na zona norte, voltada à Bahía de Mujeres, com águas mais calmas que Delfines. Em 29/jul/2026, em plena alta de sargaço, Tortugas, Langosta, Caracol, Chac Mool e Punta Cancún estavam VERDES no semáforo estadual (Delfines/Marlín/Ballenas/Gaviota Azul em amarelo). Também é terminal do ferry Ultramar para Isla Mujeres (Blvd. Kukulcán km 6,5).",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã; ir de ônibus R-1/R-2 para economizar.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Tortugas_cancun.jpg?width=900",
+        "credito": "Jacquidiaz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Tortugas_cancun.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: melhor praia grátis de Cancún quando o sul está com sargaço.",
+      "Combinar com o ferry para Isla Mujeres no mesmo dia (embarque aqui, mais perto da Zona Hotelera que Puerto Juárez).",
+      "CORTE SE APERTAR: day-pass de beach club; esta praia é grátis."
+    ],
+    "alertas": [
+      "A tarifa de ônibus do Wikivoyage é de data não informada; confirme.",
+      "O semáforo do sargaço muda da manhã para a tarde.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cun-musa-museu-subaquatico-de-arte-cancun-isla-mujeres",
+    "fontes": [
+      {
+        "url": "https://www.musamexico.org"
+      },
+      {
+        "url": "https://open.er-api.com/v6/latest/USD"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "MUSA: Museu Subaquático de Arte (Cancún / Isla Mujeres)",
+    "cidadeId": "cancun",
+    "categoria": "museu",
+    "tags": [
+      "museu-subaquatico",
+      "musa",
+      "snorkel",
+      "esculturas",
+      "jason-decaires-taylor",
+      "punta-nizuc"
+    ],
+    "descricaoCurta": "Mais de 450 figuras de concreto sob o mar; snorkel a partir de US$58 (≈MXN 1.044) no site oficial.",
+    "descricaoLonga": "O MUSA tem galerias em Punta Nizuc (Cancún), Manchones (Isla Mujeres) e Punta Sam (Riviera Maya), com esculturas de Jason deCaires Taylor (45 módulos, 450 figuras em concreto marinho e fibra). Experiências oficiais: snorkel a partir de US$58 (Punta Nizuc, saindo de Cancún); mergulho US$115–189 (com ou sem certificação, de Cancún ou Isla Mujeres); barco com fundo de vidro US$58–78; tour combinado com selva US$70. Conversão a 18,0066 MXN/USD (8/out/2026): snorkel ≈1.044; vidro ≈1.044–1.404; mergulho ≈2.070–3.403. Horários e regras não constam na página extraída: peça confirmação por WhatsApp/telefone.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, com mar calmo e visibilidade melhor; evitar dias de ventania.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1044,
+      "max": 3403,
+      "por": "pessoa",
+      "inclui": "Snorkel a partir de US$58; mergulho até US$189 (convertidos a 18,0066 MXN/USD em 8/out/2026; estimativa)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.musamexico.org"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1,
+      "link": "https://www.musamexico.org"
+    },
+    "contato": {
+      "telefone": "+52 998 206 0182",
+      "site": "https://www.musamexico.org"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Dream_Collector_%2822343585365%29.jpg?width=900",
+        "credito": "Andy Blackledge from Scottsdale, AZ, USA",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:The_Dream_Collector_(22343585365).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mergulho: certificado ou batismo conforme pacote."
+      ],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a única atração 'museu' do roteiro com cara de mergulho; faz sentido para snorkel-lovers.",
+      "CORTE SE APERTAR: a versão com mergulho de cilindro; o snorkel já mostra boa parte das estátuas rasas."
+    ],
+    "alertas": [
+      "Preços em USD; no checkout pode haver variação cambial.",
+      "Horários e regras não confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-cun-coco-bongo-cancun-show-balada",
+    "fontes": [
+      {
+        "url": "https://escapadas.mexicodesconocido.com.mx/actividades/coco-bongo/"
+      },
+      {
+        "url": "https://etransfers.com/cancun-tours/coco-bongo-show-cancun"
+      },
+      {
+        "url": "https://www.civitatis.com/es/cancun/fiesta-coco-bongo/"
+      },
+      {
+        "url": "https://www.cocobongo.com"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/mexico"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/8330184151"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Coco Bongo Cancún (show + balada)",
+    "cidadeId": "cancun",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "show",
+      "zona-hotelera",
+      "open-bar",
+      "18",
+      "noite"
+    ],
+    "coords": {
+      "lat": 21.1328973,
+      "lng": -86.7472066
+    },
+    "descricaoCurta": "Mega-balada com show de acrobacias, shows temáticos e open bar; ~US$90 (≈1.620) o Regular em dia de semana, até 3.885 o Front Row.",
+    "descricaoLonga": "Casa de shows no Blvd. Kukulcán km 9,5 (Plaza Forum by the Sea). Funciona todos os dias das 20h às 3h; open bar das 20h30 às 2h15 (etransfers) e show principal por volta das 21h30. TIPOS DE INGRESSO: Regular (open bar nacional, 1 lanche; Civitatis diz válido de domingo a sexta), Premium, Gold Member e Front Row. PREÇOS: Mexico Desconocido lista em MXN Básico 1.890, Premium 2.436, Gold 3.150 e Front Row 3.885 (data do artigo não informada); a etransfers lista em USD Regular US$90–100, Premium US$125–140, Gold US$160–170, Front Row US$195–210 em dia de semana (≈1.620–1.800 o Regular ao câmbio de 8/out/2026); o Civitatis mostra 'a partir de R$537' (≈MXN 1.934). Mínimo 18 anos com identidade oficial; vestimenta smart casual (jeans, sapato fechado, camisa; sem chinelo, roupa de banho nem camiseta esportiva). Telefone 998 883 23 73. Gorjetas não incluídas.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 360
+    },
+    "horariosObservacao": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+    "diasFechados": [],
+    "melhorHorario": "Chegar às 20h30 para pegar bom lugar; sexta e sábado são mais lotados.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1620,
+      "max": 3885,
+      "por": "pessoa",
+      "inclui": "Entrada + show + open bar nacional/premium conforme o ingresso + lanche (Regular a Front Row); gorjetas não incluídas",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://escapadas.mexicodesconocido.com.mx/actividades/coco-bongo/"
+        },
+        {
+          "url": "https://etransfers.com/cancun-tours/coco-bongo-show-cancun"
+        },
+        {
+          "url": "https://www.civitatis.com/es/cancun/fiesta-coco-bongo/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 1,
+      "link": "https://www.cocobongo.com"
+    },
+    "contato": {
+      "telefone": "998 883 23 73",
+      "site": "https://www.cocobongo.com"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coco_Bongo.jpg?width=900",
+        "credito": "Oleg Yunakov",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Maiores de 18 anos com identidade oficial.",
+        "Smart casual; sem chinelo ou roupa de praia."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: uma noite no Coco Bongo vale a experiência se for beber bastante: o open bar paga o ingresso.",
+      "CORTE SE APERTAR: o Front Row/Gold (até 3.885) e a segunda noite; ficar com o Regular comprado antes online.",
+      "Comprar só no site oficial ou parceiros grandes, não de vendedor de rua."
+    ],
+    "alertas": [
+      "Regular não vale aos sábados (Civitatis); verificar a data antes de comprar.",
+      "Drogas misturadas à bebida são risco real em bares e baladas (travel.gc.ca); peça lata/garrafa lacrada e não largue o copo.",
+      "Preços de MXN e USD de fontes diferentes e de datas diferentes; o valor final varia por data e demanda."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-cun-mandala-beach-cancun-beach-club-de-dia-e-festa-na-pi",
+    "fontes": [
+      {
+        "url": "https://www.mandalatickets.com"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1154826949"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Mandala Beach (Cancún): beach club de dia e festa na piscina",
+    "cidadeId": "cancun",
+    "categoria": "bar",
+    "tags": [
+      "beach-club",
+      "balada",
+      "zona-hotelera",
+      "open-bar",
+      "festa-de-dia",
+      "18"
+    ],
+    "coords": {
+      "lat": 21.1327225,
+      "lng": -86.7465714
+    },
+    "descricaoCurta": "Beach club do Grupo Mandala ao lado do Coco Bongo: dia na praia/piscina e festa na quarta à noite.",
+    "descricaoLonga": "Beach club no Blvd. Kukulcán, ao lado do Coco Bongo. Dados de agregadores (não confirmados por mim em página aberta): Mandala Beach Day funcionaria diariamente das 11h às 17h30 e Mandala Beach Night (pool party) às quartas das 22h às 3h; cobertura de entrada ~MXN 475 e passe de bebidas ilimitadas ~MXN 1.200 em 3/out/2026; 18+ com identidade; traje 'beachwear sofisticado'. A venda oficial é pelo MandalaTickets (Mandala Beach e Mandala aparecem no menu de Cancún); eu não consegui abrir as páginas com preços. Perto do Coco Bongo, dá para fazer a noite em sequência.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Dia: 11h–17h; noite: quarta (pool party).",
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 1,
+      "link": "https://www.mandalatickets.com"
+    },
+    "contato": {
+      "site": "https://www.mandalatickets.com"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "18+ com identidade."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: só se o plano for festa de dia + noite no mesmo lugar e o sargaço do dia estiver verde.",
+      "CORTE SE APERTAR: o dia no beach club; use Playa Tortugas/Caracol (grátis) e guarde o dinheiro para uma noite de Coco Bongo."
+    ],
+    "alertas": [
+      "Preços não confirmados: valide no MandalaTickets antes de ir.",
+      "Mesmos riscos de drink spiking de qualquer balada.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-cun-mercado-28-e-feiras-de-artesanato-cancun",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/255581984"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado 28 e feiras de artesanato (Cancún)",
+    "cidadeId": "cancun",
+    "categoria": "compras",
+    "tags": [
+      "compras",
+      "artesanato",
+      "mercado-28",
+      "lembrancas",
+      "barganha",
+      "downtown"
+    ],
+    "coords": {
+      "lat": 21.1618371,
+      "lng": -86.8340967
+    },
+    "descricaoCurta": "O mercado turístico do centro de Cancún: lembranças, artesanato e praça de alimentação; barganhe 20–30% do preço inicial e cuidado com o ônibus que leva a uma 'loja falsa'.",
+    "descricaoLonga": "Mercado 28 (Av. Xel-Há, centro de Cancún): lembranças, artesanato, praça de alimentação e restaurantes. As Feiras da Av. Tulum têm souvenirs 'extremamente baratos' e vendedores menos agressivos; o Mercado 23 é mais local (mantimentos). O Wikivoyage alerta: existe um golpe de ônibus que leva turistas a uma loja falsa dizendo ser o Mercado 28 (o verdadeiro fica algumas quadras ao norte); a Lapis Jewelry Factory cobra preços 'exorbitantes' apesar dos descontos; regra de barganha: oferecer 20–30% do preço pedido. Shoppings da Zona Hotelera (La Isla, Kukulcán Plaza) têm marcas de outlet/grife.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, antes do calor e da multidão; levar pesos em espécie.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg?width=900",
+        "credito": "Kirt Edblom",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: feira da Av. Tulum e Mercado 28 para lembranças e redes: oferecer 20–30% do preço inicial.",
+      "VALE CADA PESO: tacos e comida corrida no entorno (ver item de comida barata).",
+      "CORTE SE APERTAR: shoppings (La Isla, Kukulcán Plaza) e a 'fábrica de joias' das excursões."
+    ],
+    "alertas": [
+      "Golpe do ônibus/transfer que leva a loja falsa se passando por Mercado 28 (Wikivoyage).",
+      "Horário de funcionamento não confirmado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cun-comida-barata-em-cancun-centro-parque-de-las-palapas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida)",
+    "cidadeId": "cancun",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "parque-de-las-palapas",
+      "comida-corrida",
+      "marisqueria",
+      "centro"
+    ],
+    "descricaoCurta": "Tacos a partir de M$30 no Parque de las Palapas, comida corrida de M$60–70 e tacos de peixe de M$37 no centro, longe dos preços da Zona Hotelera.",
+    "descricaoLonga": "Parque de las Palapas: tacos a partir de M$30 (jan/2025) com barracas à noite. Rodoviária: tortas M$25. Taquería el Poblano (Av. Tulum 65); El Cantón Toluqueño (Av. Tulum 4239): comida corrida M$60–70; Atotonilco (Xel-Há 107): cozinha regional US$4–10; Los de Pescados: tacos de peixe M$37 (jul/2021); Pescaditos (Av. Yaxchilán 69): frutos do mar fritos e chiles rellenos. Mercado 28 tem praça de alimentação. Preços de fontes de 2021–2025 (Wikivoyage); podem estar mais altos hoje.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite no Parque de las Palapas; almoço de comida corrida.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 25,
+      "max": 70,
+      "por": "pessoa",
+      "inclui": "Por prato/lanche: tortas M$25, tacos M$30–37, comida corrida M$60–70 (preços de jul/2021 a jan/2025)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque_de_las_Palapas_1.jpg?width=900",
+        "credito": "City Foodsters",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parque_de_las_Palapas_1.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: almoçar a comida corrida do centro todos os dias: é a refeição mais barata e farta.",
+      "VALE CADA PESO: noite no Parque de las Palapas para ver o clima local e comer barato.",
+      "CORTE SE APERTAR: jantar na Zona Hotelera."
+    ],
+    "alertas": [
+      "Preços dos restaurantes são antigos (2021–2025).",
+      "Cuidado à noite em áreas fora do circuito turístico.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  }
+]

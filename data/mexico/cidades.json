@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "cidade-do-mexico",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/17483459"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Cidade do Mexico",
+    "regiaoId": "valle-do-mexico",
+    "coords": {
+      "lat": 19.43263,
+      "lng": -99.13318
+    },
+    "altitudeM": 2228,
+    "aeroportos": [
+      "MEX",
+      "NLU"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 16,
+        "fatorRota": 1.5
+      },
+      "transporte-publico": {
+        "kmh": 15,
+        "fatorRota": 1.45
+      },
+      "veiculo-alugado": {
+        "kmh": 16,
+        "fatorRota": 1.5
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "puebla",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/245792117"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Puebla",
+    "regiaoId": "valle-do-mexico",
+    "coords": {
+      "lat": 19.0438,
+      "lng": -98.19815
+    },
+    "altitudeM": 2152,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "cancun",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/17611454"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Cancun",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 21.15275,
+      "lng": -86.84258
+    },
+    "altitudeM": 2,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [
+      "CUN"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.2
+      },
+      "carro-app": {
+        "kmh": 28,
+        "fatorRota": 1.2
+      },
+      "transporte-publico": {
+        "kmh": 20,
+        "fatorRota": 1.25
+      },
+      "veiculo-alugado": {
+        "kmh": 28,
+        "fatorRota": 1.2
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "playa-del-carmen",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/mexico"
+      },
+      {
+        "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+      },
+      {
+        "url": "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Riviera_Maya"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tulum"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/6329645"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa del Carmen",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 20.64628,
+      "lng": -87.08079
+    },
+    "altitudeM": 11,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Centro / Quinta Avenida (até ~4 quadras da avenida)",
+        "perfil": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 905,
+          "max": 1860
+        },
+        "observacao": "Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto.",
+        "seguranca": "Quinta Avenida com policiamento visível e furtos como principal risco; Centro a oeste da rodovia 307 pede cuidado à noite (Cancun Trip Insider, jun/2026). Bares da Calle 12 depois da meia-noite: risco de drink spiking.",
+        "fontes": [
+          {
+            "url": "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+          },
+          {
+            "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+          }
+        ]
+      },
+      {
+        "nome": "Avenidas 10ª a 30ª (Centro, lado local)",
+        "perfil": "Mais barato e mais 'local', com tacos, carrinhos de café da manhã e bares de bairro; 10–20 min a pé da praia.",
+        "observacao": "Sem tabela de preços confiável para esse recorte; o Wikivoyage cita que as avenidas numeradas (10ª, 15ª, 20ª, 30ª) são mais tranquilas e mais baratas.",
+        "seguranca": "Fonte aberta não detalha por quadra; usar táxi/aplicativo à noite e evitar caminhar sozinho de madrugada.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+          }
+        ]
+      },
+      {
+        "nome": "Playacar",
+        "perfil": "Condomínio fechado de resorts ao sul; muito seguro e tranquilo, mas caro e menos 'noite'.",
+        "observacao": "Não é opção econômica; hospedagem na área é de resort/Airbnb de padrão mais alto. Sem tabela de preços em fonte aberta.",
+        "seguranca": "Entre as áreas de menor risco: acesso controlado e segurança interna (Cancun Trip Insider, jun/2026). O acesso a pé de visitantes pode ser restringido.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+          },
+          {
+            "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+          }
+        ]
+      },
+      {
+        "nome": "Alternativa: Tulum Pueblo (base para ruínas, Cobá e cenotes)",
+        "perfil": "Pueblo com hospedagem barata e taquerias (pratos bem abaixo de M$100); a praia/zona hoteleira é cara.",
+        "observacao": "Sem tabela de preços em fonte aberta. Colectivo ao pueblo ~M$25–50 desde Playa; bicicleta M$100–250/24h (Wikivoyage, data antiga).",
+        "seguranca": "Mantenha cuidados em bares da zona hoteleira (drinks caros e golpes reportados, Wikivoyage); caixas eletrônicos e dinheiro em pesos.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Tulum"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Playa del Carmen é a base mais central da Riviera Maya, na rodovia 307: dá para fazer Tulum, Cobá, cenotes e Cozumel (ferry) saindo de lá, e Cancún (ônibus ADO/colectivo) para balada e compras. A Quinta Avenida e a praia são caminháveis. Colectivos (vans compartilhadas) correm pela rodovia 307 de ~4h30 às ~22h30: Playa–Tulum ~M$25–50 (Wikivoyage, dados de 2022); ADO liga Cancún, aeroporto, Playa e Tulum; Tren Maya também para em Cancún, Playa e Tulum. Taxis não têm taxímetro confiável: combine o preço antes; à noite é mais caro. Ferry Playa–Cozumel (Ultramar/Winjet) a cada hora, ~M$260 (dez/2023); Cancún (Puerto Juárez) sai para Isla Mujeres a cada 30 min. Para o circuito Cobá + cenotes + Valladolid, 1 a 3 dias de carro costumam ser mais eficientes que colectivos. Em Tulum, bicicleta (M$100–250/24h, Wikivoyage) para praia e cenotes. IMPORTANTE POR MÊS: sargaço de abril a outubro (pico maio–agosto), furacões de junho a novembro, tubarão-baleia 15/mai–17/set; melhor janela geral para praia: novembro a março.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.15
+      },
+      "carro-app": {
+        "kmh": 25,
+        "fatorRota": 1.25
+      },
+      "transporte-publico": {
+        "kmh": 20,
+        "fatorRota": 1.3
+      },
+      "veiculo-alugado": {
+        "kmh": 25,
+        "fatorRota": 1.25
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Quintana Roo está no Nível 2 (Exercise Increased Caution) do Departamento de Estado dos EUA (informação reproduzida pelo Cancun Trip Insider em jun/2026; a página oficial não abriu). Zonas turísticas têm menos violência de gangues, mas crimes ocorrem em hotéis, baladas e restaurantes (travel.gc.ca). Quinta Avenida: segura de dia, furtos em multidão; Playacar: muito seguro; Centro a oeste da 307: atenção à noite; Calle 12 depois da meia-noite: drink spiking. Colosio/Gonzalo Guerrero/Zazil-Ha: sem análise confiável em fonte aberta. Em geral: evite dirigir à noite, pague táxi com preço combinado, não saia sozinho de baladas, e use pesos em espécie e caixas dentro de bancos.",
+    "pegaTuristaAEvitar": [
+      "'Agências de turismo' e vendedores de passeio na Quinta Avenida (muitos são escritórios de timeshare)",
+      "Tours de um dia que embutem Ik Kil, Tulum, almoço e 'fábrica de joias' por preço várias vezes acima do independente",
+      "Tour guiado ao entrar em cenote (Dos Ojos: entrada ~350 vs guiado 700–800)",
+      "Beach clubs de Tulum e Playa com consumação mínima alta e 'taxa de serviço'",
+      "Táxi de rua sem preço combinado, sobretudo à noite e no aeroporto",
+      "Aluguel de carro com diária de US$5 sem seguro obrigatório",
+      "Falso 'Mercado 28' por ônibus de excursão e 'Lapis Jewelry Factory' (Wikivoyage)",
+      "Golpe do carrinho de golfe de rua em Isla Mujeres (MXN 5.500 por 1 h)",
+      "Tubarão-baleia a preço muito baixo (~1.300) sem licença Conanp"
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "tulum",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/5961574"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Tulum",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 20.42965,
+      "lng": -87.65293
+    },
+    "altitudeM": 23,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "bacalar",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/5961441"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Bacalar",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 18.94079,
+      "lng": -88.61643
+    },
+    "altitudeM": 73,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "isla-mujeres",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/10525366"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Isla Mujeres",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 21.23719,
+      "lng": -86.735
+    },
+    "altitudeM": 6,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "cozumel",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/6329316"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Cozumel",
+    "regiaoId": "caribe-mexicano",
+    "coords": {
+      "lat": 20.50143,
+      "lng": -86.94359
+    },
+    "altitudeM": 7,
+    "fusoOffsetMinutos": -300,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "merida",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/269908858"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Merida",
+    "regiaoId": "yucatan",
+    "coords": {
+      "lat": 20.96708,
+      "lng": -89.62374
+    },
+    "altitudeM": 13,
+    "aeroportos": [
+      "MID"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.8,
+        "fatorRota": 1.15
+      },
+      "carro-app": {
+        "kmh": 24,
+        "fatorRota": 1.25
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.4
+      },
+      "veiculo-alugado": {
+        "kmh": 24,
+        "fatorRota": 1.25
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "valladolid",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/5621776"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Valladolid",
+    "regiaoId": "yucatan",
+    "coords": {
+      "lat": 20.69025,
+      "lng": -88.2017
+    },
+    "altitudeM": 20,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "oaxaca",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mazunte"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Zipolite"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Huatulco"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oaxaca_City"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pacific_hurricane_season"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huatulco"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/5999647"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Oaxaca de Juarez",
+    "regiaoId": "oaxaca-vale",
+    "coords": {
+      "lat": 17.09659,
+      "lng": -96.72078
+    },
+    "altitudeM": 1624,
+    "aeroportos": [
+      "OAX"
+    ],
+    "noitesRecomendadas": {
+      "min": 8,
+      "ideal": 11,
+      "max": 14
+    },
+    "bairros": [
+      {
+        "nome": "Oaxaca: Centro Histórico / Jalatlaco",
+        "perfil": "Caminhável, perto de mercados, Santo Domingo e mezcalerías; Jalatlaco é mais tranquilo.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 600
+        },
+        "observacao": "Faixa econômica desde ~400-600 MXN (Wikivoyage, 2024-2025); intermediário 800-1.500. Em Día de Muertos preços sobem 30-60%.",
+        "seguranca": "Considerado seguro para turistas; roubos ocasionais à noite e batedores de carteira no Mercado de Abastos (Wikivoyage).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+          }
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: La Punta",
+        "perfil": "Relaxado, hostels e bares de praia, bom para aprender a surfar; balada moderada.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 200,
+          "max": 600
+        },
+        "observacao": "Dormitório desde ~200 MXN e quartos sem ar de 400-600 (Wikivoyage, abril/2024).",
+        "seguranca": "Considerada segura e popular com expatriados (Breathing Travel); evite praia à noite (Wikivoyage).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+          },
+          {
+            "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+          }
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: Zicatela / Brisas de Zicatela",
+        "perfil": "Festa e bares; ondas fortes; preço médio a alto.",
+        "observacao": "Faixa de diária não verificada.",
+        "seguranca": "Em geral segura nas áreas turísticas (Breathing Travel).",
+        "fontes": [
+          {
+            "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+          }
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: Carrizalillo / Centro",
+        "perfil": "Carrizalillo: surfe e banho seguro (escadaria); Centro: local e barato, balada moderada.",
+        "observacao": "Faixa não verificada; Centro é o mais barato segundo fonte.",
+        "seguranca": "Seguro nas áreas turísticas; usar táxi à noite (Breathing Travel).",
+        "fontes": [
+          {
+            "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+          }
+        ]
+      },
+      {
+        "nome": "Zipolite",
+        "perfil": "Praia naturista, hippie, hospedagem barata, vida noturna leve de praia.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 602,
+          "max": 650
+        },
+        "observacao": "Faixa de Wikivoyage (dado antigo).",
+        "seguranca": "Sem presença policial forte; evite caminhar sozinho na praia à noite; furtos ocasionais.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Zipolite"
+          }
+        ]
+      },
+      {
+        "nome": "Mazunte / San Agustinillo",
+        "perfil": "Vilas de praia, trilhas, Punta Cometa, centro das tartarugas.",
+        "observacao": "Faixa de diária não verificada.",
+        "seguranca": "Mar perigoso; evite praia escura à noite (assaltos passados).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mazunte"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Base na cidade de Oaxaca (centro caminhável; Monte Albán, Mitla, Tule, Teotitlán, Matatlán por tour/van ou colectivo, 8-10 a 60 km). Para a costa, a AUTOPISTA Barranca Larga–Ventanilla (2h30-3h; van 209-330 MXN, ônibus ADO ~US$23-28, carro com 490 MXN de pedágio por sentido) tornou o deslocamento viável: Oaxaca → Puerto Escondido ~3 h; de lá, Mazunte/Zipolite/San Agustinillo ficam 1,5-2 h por rodovia 200 (colectivos ~M$5-40); Huatulco ~2 h a leste de Puerto Escondido. Dentro de cada vila costeira, ande a pé/colectivo/táxi curto. Evite a estrada antiga 175/131 (5-8 h, enjoativa). Ordem sugerida: Oaxaca (3-4 noites) → autopista → Puerto Escondido (2-3) → Mazunte/Zipolite (2-3) → (opcional) Huatulco.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.25
+      },
+      "carro-app": {
+        "kmh": 20,
+        "fatorRota": 1.35
+      },
+      "transporte-publico": {
+        "kmh": 14,
+        "fatorRota": 1.45
+      },
+      "veiculo-alugado": {
+        "kmh": 20,
+        "fatorRota": 1.35
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Oaxaca cidade e vale: seguros para turistas, com roubos ocasionais à noite e batedores de carteira no Mercado de Abastos (especialmente sábados) (Wikivoyage). Costa: Puerto Escondido, Zipolite e Mazunte têm relatos de assaltos em praias à noite e de abordagem policial tardia; o maior risco é o MAR (Zicatela, Zipolite e Mazunte têm correntes de retorno fortíssimas; ~800 resgates/ano em PE). Huatulco é considerada muito segura e com águas calmas (Wikivoyage). Regiões rurais perto de Guerrero e entre Salina Cruz e Chiapas exigem cautela (Wikivoyage Oaxaca).",
+    "pegaTuristaAEvitar": [
+      "Hierve el Agua: várias cobranças em pontos diferentes (acesso comunitário, entrada, estacionamento) e risco de fechamento sem aviso; confirme na véspera.",
+      "Tours de balcão que 'não incluem as entradas' (Wikivoyage): sempre pergunte o que está incluído.",
+      "Mezcal sem rótulo completo ou sem certificação: veja o item de guia de compra.",
+      "Tapetes 'naturais' muito baratos e de cor sintética em Teotitlán (dica do agente).",
+      "Praias de Zicatela, Zipolite e Mazunte para nadar: o risco é o mar, não o crime.",
+      "Táxis de aeroporto/van sem preço combinado: combine antes (Wikivoyage cita táxi do aeroporto de Huatulco 400-843 MXN contra colectivo 20-40)."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "puerto-escondido",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/458608856"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Puerto Escondido",
+    "regiaoId": "oaxaca-costa",
+    "coords": {
+      "lat": 15.86933,
+      "lng": -97.07264
+    },
+    "altitudeM": 88,
+    "aeroportos": [
+      "PXM"
+    ],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "mazunte",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/458611007"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Mazunte",
+    "regiaoId": "oaxaca-costa",
+    "coords": {
+      "lat": 15.66759,
+      "lng": -96.55366
+    },
+    "altitudeM": 11,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "huatulco",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/6000028"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Huatulco",
+    "regiaoId": "oaxaca-costa",
+    "coords": {
+      "lat": 15.82209,
+      "lng": -96.20599
+    },
+    "altitudeM": 195,
+    "aeroportos": [
+      "HUX"
+    ],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "san-cristobal",
+    "fontes": [
+      {
+        "url": "https://www.travel.gc.ca/destinations/mexico"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security"
+      },
+      {
+        "url": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=M%C3%A9xico"
+      },
+      {
+        "url": "https://www.infobae.com/mexico/2026/06/09/eeuu-publica-alerta-de-viaje-y-niveles-de-advertencia-por-cada-estado-en-mexico-por-el-mundial-2026/"
+      },
+      {
+        "url": "https://www.aztecachiapas.com/noticias/chiapas-bajo-nivel-3-de-alerta-de-viaje-de-ee-uu-por-riesgo-de-terrorismo-y-crimen/"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/estados/embajada-de-estados-unidos-emite-nueva-alerta-de-viaje-para-zonas-de-chiapas-por-violencia/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chiapas%E2%80%93Guatemala_Cartel"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Chiapas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://visitchiapas.com/v1/Informacion-de-viajes"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/269911011"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "San Cristobal de las Casas",
+    "regiaoId": "chiapas",
+    "coords": {
+      "lat": 16.73538,
+      "lng": -92.63873
+    },
+    "altitudeM": 2128,
+    "aeroportos": [
+      "TGZ"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Centro histórico (entorno de Real de Guadalupe, Madero e Parque Central)",
+        "perfil": "Tudo a pé: cafés, bares de música ao vivo (Revo, Cocodrilo, La Viña de Bacco) e mercado de artesanato; hostels e posadas baratas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 80,
+          "max": 450
+        },
+        "observacao": "Faixa dos exemplos do Wikivoyage (sem data confiável): hostels M$80-250 (dormitório), Posada del Abuelito M$120 dorm / M$250-300 privado, Posada Belén M$300-450; hotel D'Monica a partir de US$58. Valores provavelmente defasados; some inflação. Bares com música ao vivo podem fazer barulho à noite (inferência do agente).",
+        "seguranca": "Região turística com alerta apenas de táxi de rua para mulheres sozinhas depois de escurecer (Wikivoyage) e de morros (Guadalupe/San Cristóbal) após o anoitecer.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+          },
+          {
+            "url": "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+          }
+        ]
+      },
+      {
+        "nome": "Entorno de Santo Domingo / Na Bolom (norte do centro)",
+        "perfil": "Perto da igreja e do mercado de artesanato, do Sna Jolobil e do Museo de la Medicina Maya; ambiente mais calmo (inferência).",
+        "observacao": "Sem preço fontado por bairro. Na Bolom tem hotel próprio (quartos decorados por comunidades maias, Wikipedia ES), sem tarifa coletada.",
+        "seguranca": "Sem dado específico de bairro além dos alertas gerais do centro.",
+        "fontes": [
+          {
+            "url": "https://es.wikipedia.org/wiki/Na_Bolom"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "San Cristóbal é a base de Los Altos (~2.120-2.200 m): centro todo a pé; colectivos urbanos M$8 (fev/2022, Wikivoyage); táxi M$30-40 (M$45+ após 22h). Chegada: aeroporto de Tuxtla (TGZ, ~1h15 de SC): colectivo/shuttle ~M$240 ou táxi ~M$600 (Wikivoyage, sem data); ônibus Tuxtla-SC a cada 15-20 min, M$40-45, 40 min-1h15 pelo pedágio 190D. Bate-voltas de SC: Chamula/Zinacantán (colectivo ou tour M$300; meia manhã), Cañón del Sumidero (tour M$430 de SC em nov/2023, ou ônibus até Tuxtla/Chiapa de Corzo + lancha M$320), El Chiflón/Montebello (bate-volta de ~12 h, mas Montebello cai na faixa de fronteira do aviso britânico). Palenque fica em OUTRA base (2 noites): ver o item 'Como ir de San Cristóbal a Palenque' (Rota A pela Hwy 199 x Rota B via Tuxtla/Villahermosa). Perfil econômico + natureza + noite/compras: SC entrega noite (bares com música ao vivo na Madero e Real de Guadalupe), compras (têxteis/âmbar) e natureza barata (Arcotete M$10-15, Sumidero); NÃO há praia na região: o equivalente são rios, cachoeiras e lagunas, e a cor da água é sazonal (ver Agua Azul). Não recomendo alugar carro: Canadá/Espanha/Reino Unido pedem pedágio e evitar noite, e há bloqueios com 'pedágio' informal em trechos livres. As durações marcadas como 'típicas' sem fonte são estimativas do agente.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Fontes só falam de pontos: (1) Cerro de Guadalupe e Cerro de San Cristóbal 'não são seguros depois que escurece' e mesmo de dia mulheres sozinhas podem ser assediadas (Wikivoyage); (2) mulheres sozinhas devem evitar táxi de rua após escurecer, com relato de 'uma série de assaltos por motoristas' (Wikivoyage ES) - use rádio-táxi do hotel; (3) o centro e a cidade de San Cristóbal são exceção no aviso canadense (08/10/2026) e a cidade de Palenque também. Resumo fontado dos avisos: Reino Unido (01/10/2026) desaconselha viagem não essencial na Hwy 199 Rancho Nuevo-Chancalá (SC-Palenque via Ocosingo) e na faixa de 40 km da fronteira com a Guatemala (Pacífico até Gracias a Dios); Canadá (08/10/2026) manda evitar viagens não essenciais a Chiapas exceto Palenque, Tuxtla e SC (com as estradas 186 e 190D); Espanha (24/07/2026) não recomenda visitar as zonas turísticas do estado; EUA Nível 3 segundo imprensa (jun/ago 2026), página oficial inacessível ao agente. Conflito armado concentrado no sul (Frontera Comalapa, Motozintla, Chicomuselo, Amatenango de la Frontera). Detalhes no item 'Panorama de segurança'.",
+    "pegaTuristaAEvitar": [
+      "Ir de táxi de rua à noite (mulheres sozinhas), segundo Wikivoyage: prefira rádio-táxi pedido pelo hotel.",
+      "Subir os morros de Guadalupe e San Cristóbal ao anoitecer.",
+      "Fotografar a igreja de Chamula e a de Zinacantán, ou moradores sem permissão (risco de multa, confisco da câmera ou agressão).",
+      "Dirigir ou viajar de noite nas estradas de Chiapas (Canadá, Espanha, Aztec Chiapas)."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "palenque",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/5999655"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Palenque",
+    "regiaoId": "chiapas",
+    "coords": {
+      "lat": 17.45316,
+      "lng": -91.81212
+    },
+    "altitudeM": 143,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "la-paz",
+    "fontes": [
+      {
+        "url": "https://www.golapaz.com/blog/post/gray-whales-where-how-and-when-to-see-them/"
+      },
+      {
+        "url": "https://www.golapaz.com/things-to-do/attractions-tours/whale-watching/"
+      },
+      {
+        "url": "https://gringogazette.com/best-whale-watching-spots-in-baja-california-sur/"
+      },
+      {
+        "url": "https://www.boundlessroads.com/baja-california-whale-watching/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Magdalena_Bay"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+      },
+      {
+        "url": "https://open.er-api.com/v6/latest/USD"
+      },
+      {
+        "url": "https://www.vallarta-adventures.com/tour/whale-watching/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      },
+      {
+        "url": "https://rivieranayarit.com/?p=5595"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Islas_Marietas_National_Park"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/temporada-del-tiburon-ballena-en-bcs-cuando-ir-y-donde-verlo-en-la-paz/vl2122447"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/como-saber-si-un-operador-esta-autorizado-para-tours-de-tiburon-ballena-en-la-paz/vl2128562"
+      },
+      {
+        "url": "https://gringogazette.com/?p=35992"
+      },
+      {
+        "url": "https://zetatijuana.com/2025/03/por-falta-de-ejemplares-mantienen-suspension-de-nado-en-el-refugio-del-tiburon-ballena/"
+      },
+      {
+        "url": "https://zetatijuana.com/2025/02/por-baja-presencia-de-especimenes-suspenden-nado-con-el-tiburon-ballena/"
+      },
+      {
+        "url": "https://zetatijuana.com/2022/12/instancias-retrasan-arranque-de-la-temporada-del-tiburon-ballena/"
+      },
+      {
+        "url": "https://zetatijuana.com/2024/11/decenas-de-permisionarios-sin-autorizacion-para-el-tiburon-ballena/"
+      },
+      {
+        "url": "https://golapaz.com/en/explore/espiritu-santo-island"
+      },
+      {
+        "url": "https://www.thoroughlytravel.com/isla-espiritu-santo/"
+      },
+      {
+        "url": "https://www.bajabound.com/bajaadventures/isla_espiritu_santo.php"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Esp%C3%ADritu_Santo_Island"
+      },
+      {
+        "url": "https://zetatijuana.com/2024/07/por-periodo-de-apareamiento-restringen-nado-con-lobo-marino-en-espiritu-santo/"
+      },
+      {
+        "url": "https://www.nhc.noaa.gov/climo/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Odile"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puerto_Vallarta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur"
+      },
+      {
+        "url": "https://thoroughlytravel.com/north-america/balandra-bay-mexico-most-beautiful-beach/"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/guia-para-visitar-balandra-sin-contratiempos-horarios-reservas-y-costos/vl2064539"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/playa-balandra-2025-cuanto-cuesta-entrar-y-donde-pagar-la-entrada/vl2108485"
+      },
+      {
+        "url": "https://www.luznoticias.mx/2025-01-16/mexico/en-esta-playa-de-bcs-solo-entraran-con-brazaletes-y-en-ciertos-horarios-cual-es/231571"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/154141788"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/9552538257"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Playa_Tecolote_1.jpg"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157"
+      },
+      {
+        "url": "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1692148991"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/76738165"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/75500039"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg"
+      },
+      {
+        "url": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+      },
+      {
+        "url": "https://mexiconewsdaily.com/travel/san-jose-art-walk-continues-to-attract-los-cabos-visitors/"
+      },
+      {
+        "url": "https://www.cabo-adventures.com/en/blog/san-jose-del-cabo-art-walk"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/156979177"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cabo_San_Lucas"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/13814307"
+      },
+      {
+        "url": "https://www.cabo-adventures.com/tour/cabo-pulmo-snorkel-expedition"
+      },
+      {
+        "url": "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/"
+      },
+      {
+        "url": "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cabo_Pulmo_National_Park"
+      },
+      {
+        "url": "https://dan.org/health-medicine/health-resource/health-safety-guidelines/guidelines-for-flying-after-diving/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+      },
+      {
+        "url": "https://routenote.com/blog/eagles-sueing-hotel-california-stealing-name-song/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2799963580"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/6981426895"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bah%C3%ADa_de_Loreto_National_Park"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/245255133"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Muelle_de_la_Playa_de_los_Muertos_al_atardecer,_Puerto_Vallarta.jpg"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1320783349"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/24847357"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zona_Rom%C3%A1ntica"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yelapa"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Sayulita"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sayulita"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/875624596"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/8894431"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg"
+      },
+      {
+        "url": "https://www.vallarta-adventures.com/en/blog/marieta-islands"
+      },
+      {
+        "url": "https://tipsparatuviaje.com/islas-marietas/"
+      },
+      {
+        "url": "https://geo-mexico.com/?p=14189"
+      },
+      {
+        "url": "https://www.gob.mx/conanp/prensa/el-parque-nacional-islas-marietas-no-cierra-unicamente-la-playa-del-amor-entrara-en-un-periodo-de-resguardo-temporal-29348"
+      },
+      {
+        "url": "https://flamingos.villadelpalmar.com/blog/destination/are-the-marietas-islands-hidden-beach-open"
+      },
+      {
+        "url": "https://www.mochileandoporelmundo.com/playa-escondita-marietas-mochileros/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huichol_art"
+      },
+      {
+        "url": "https://www.kayak.com.mx/Renta-economica-de-autos-La-Paz.9323.cars.ksp"
+      },
+      {
+        "url": "https://www.expatden.com/mexico/mexico-car-rental/"
+      },
+      {
+        "url": "https://www.luznoticias.mx/2026-07-15/mexico/baja-ferries-2026-cuanto-cuesta-viajar-de-mazatlan-a-la-paz-bcs-/297061"
+      },
+      {
+        "url": "https://www.luznoticias.mx/amp/2026-07-21/mexico/baja-ferries-de-topolobampo-a-la-paz-2026-que-dias-sale-y-que-horarios/297557"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pichilingue"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1161797116"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:La_paz_malecon_1702p1.jpg"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/266478791"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Paz",
+    "regiaoId": "baja-california-sur",
+    "coords": {
+      "lat": 24.16199,
+      "lng": -110.31585
+    },
+    "altitudeM": 10,
+    "fusoOffsetMinutos": -420,
+    "aeroportos": [
+      "LAP"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "La Paz - Centro / Malecón",
+        "perfil": "Base mais barata e prática: a pé do Malecón (bares, restaurantes, saída de tours e ônibus Playa Bus para Balandra).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 600
+        },
+        "observacao": "Faixa é de pensões econômicas segundo o Wikivoyage (sem data; provavelmente defasada - confirmar). Hotéis intermediários à beira-mar existem com preços não coletados.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+          }
+        ]
+      },
+      {
+        "nome": "San José del Cabo - centro histórico",
+        "perfil": "Cidade menos comercial que Cabo San Lucas, com galerias e Art Walk; caminhável, mas 30 min a pé de hotéis de praia sob o calor pode ser desconfortável.",
+        "observacao": "Ponto de referência: hotel econômico Señor Mañana a M$1.400 (Wikivoyage, sem data); teto não coletado.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+          }
+        ]
+      },
+      {
+        "nome": "Cabo San Lucas - centro / Marina / Medano",
+        "perfil": "Zona de festa e passeios de barco; a mais cara da região.",
+        "observacao": "Preços de hospedagem NÃO coletados.",
+        "seguranca": "Wikivoyage: evitar becos à noite e cuidar de batedores de carteira nas áreas de balada; não ficar perto da água em praias voltadas ao Pacífico (ondas perigosas).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+          }
+        ]
+      },
+      {
+        "nome": "Todos Santos - centro",
+        "perfil": "Pueblo mágico artístico, 1 h de La Paz; hospedagem de charme (Todos Santos Inn, em casa de 1870, é o hotel mais antigo segundo o Wikivoyage).",
+        "observacao": "Preços NÃO coletados. Restaurantes: pratos M$200-300 (Wikivoyage).",
+        "seguranca": "Não confirmada; atenção a apagões e falta de água citados pela Wikipedia.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur"
+          }
+        ]
+      },
+      {
+        "nome": "Puerto Vallarta - Zona Romántica",
+        "perfil": "Bairro mais animado e mais LGBTQ+ do México, a pé de praia, restaurantes e bares; ônibus urbano M$10.",
+        "observacao": "Preços de hospedagem NÃO coletados.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          {
+            "url": "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta"
+          },
+          {
+            "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+          }
+        ]
+      },
+      {
+        "nome": "Sayulita - vila / camping",
+        "perfil": "Vilarejo de surfe com mais de 40 restaurantes; hospedagem econômica em camping (Camping del Palmar, ao sul do rio).",
+        "observacao": "Preços NÃO coletados.",
+        "seguranca": "Arrastar os pés na água (arraias); esgoto ocasional nas áreas de banho (Wikivoyage).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Sayulita"
+          }
+        ]
+      },
+      {
+        "nome": "Loreto - centro",
+        "perfil": "Base para o Parque Nacional Bahía de Loreto e baleia-azul (fev-abr).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 810,
+          "max": 900
+        },
+        "observacao": "Moteis econômicos de ~US$45-50 (Wikivoyage, convertido a 18,0066 MXN/USD); resorts até ~M$7.000.",
+        "seguranca": "Não confirmada.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+          },
+          {
+            "url": "https://open.er-api.com/v6/latest/USD"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "La Paz: taxi/Uber dentro da cidade; ônibus 'Playa Bus' (EcoBajaTours) do Malecón a Balandra por 70 MXN em dinheiro, saídas de hora em hora das 08:00 às 18:30. Autotransportes Águila liga La Paz a Cabo San Lucas (~2 h), San José del Cabo (~2,5 h) e Loreto (Wikivoyage La Paz, tarifas não coletadas). Tours de barco saem da Marina de La Paz/Malecón (Espíritu Santo e tubarão-baleia: Marina La Paz ou Marina de Pescadores). Alugar carro compensa para Todos Santos, Cerritos, Bahía Magdalena e Cabo Pulmo: ver item de aluguel (TPL obrigatório!). Distâncias: La Paz-Todos Santos 74 km (~1 h), Todos Santos-Cabo San Lucas 75 km (~1 h 15), Cabo San Lucas-San José del Cabo 33 km (~40 min), total ~185 km. Pacífico central: ônibus Compostela de PV a Sayulita por MXN 60 (2026); ônibus urbano de PV a M$10; Yelapa só por barco. Conexão continente-La Paz: ferry Baja Ferries (Mazatlán qua/sex/dom 16:00; Topolobampo seg-sex 23:59 e dom 23:00). CALENDÁRIO DE TEMPORADAS (cada janela está detalhada, com fonte, nos itens de temporada): baleia-cinzenta nas lagoas: 15 dez a 30 abr em San Ignacio/Ojo de Liebre e 1 jan a 30 abr em Bahía Magdalena (pico prático fev-mar); baleia-jubarte: Los Cabos ~fim de nov/dez a mar-abr, Puerto Vallarta 8 dez a 23 mar (pico jan-fev); tubarão-baleia na Baía de La Paz: oficial 1 out a 30 abr, na prática ~nov a abr com pico fev-mar, e o nado pode ser SUSPENSO por baixa presença (ocorreu em jan-mar 2025); nado com lobos-marinhos em Los Islotes: permitido ~1 set a 31 mai e PROIBIDO 1 jun a 31 ago (reprodução); baleia-azul em Loreto: meados de fev a início de abr; furacões no Pacífico: 15 mai a 30 nov (pico fim de agosto; Odile atingiu Cabo em set/2014); calor extremo em La Paz: jun a set, máximas médias de 37-38 C e recorde de 44 C em jul; Art Walk de San José del Cabo: quintas, nov a jun. JANELA QUE JUNTA MAIS COISAS: fevereiro-março (tubarão-baleia + lobos-marinhos + cinzenta + jubarte + azul em Loreto) e fora de furacões/calor extremo. Hoje (2026-10-08) ainda estamos em temporada de furacões até 30 de novembro.",
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NÃO consegui ler o alerta oficial de viagem do Departamento de Estado dos EUA (travel.state.gov devolveu 403) nem outro órgão oficial: antes de comprar passagens, confira o alerta de viagem atual do governo brasileiro e dos EUA para Baja California Sur, Jalisco e Nayarit. O que as fontes consultadas dizem de concreto: em Cabo San Lucas, evite becos à noite e atente a batedores de carteira nas áreas de balada (Wikivoyage); no lado do Pacífico da Baja a correnteza é forte e é perigoso ficar na beira da água (Traveltinker, Wikivoyage); sob El Arco não se deve caminhar na praia por causa da maré (Posta); em Balandra e Sayulita, arraias (arrastar os pés); em Sayulita, esgoto ocasional na água; em Todos Santos, apagões e pressão sobre a água (Wikipedia). Segurança específica por bairro de La Paz, PV e Todos Santos NÃO foi coletada.",
+    "pegaTuristaAEvitar": [
+      "Los Cabos corredor e Cabo San Lucas à noite: tendem a ser as áreas mais caras (preços de balada não coletados).",
+      "Cabo Pulmo saindo de Los Cabos: 4.400+ MXN por pessoa em tour compartilhado.",
+      "Islas Marietas com Playa Escondida: ~1.700-2.125 MXN por pessoa por 20-30 min na praia.",
+      "Pacotes de catamarã/open bar: preços não coletados; compare com táxi aquático até El Arco (290-500 MXN).",
+      "Souvenirs 'Hotel California/Eagles' em Todos Santos: a ligação com a banda foi desmentida em juízo."
+    ],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "todos-santos",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/676876859"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Todos Santos",
+    "regiaoId": "baja-california-sur",
+    "coords": {
+      "lat": 23.45007,
+      "lng": -110.22537
+    },
+    "altitudeM": 42,
+    "fusoOffsetMinutos": -420,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "los-cabos",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/303079568"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Los Cabos",
+    "regiaoId": "baja-california-sur",
+    "coords": {
+      "lat": 22.89389,
+      "lng": -109.92006
+    },
+    "altitudeM": 29,
+    "fusoOffsetMinutos": -420,
+    "aeroportos": [
+      "SJD"
+    ],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "loreto",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/303081835"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Loreto",
+    "regiaoId": "baja-california-sur",
+    "coords": {
+      "lat": 26.00979,
+      "lng": -111.34525
+    },
+    "altitudeM": 9,
+    "fusoOffsetMinutos": -420,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "puerto-vallarta",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/2052329081"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Puerto Vallarta",
+    "regiaoId": "pacifico-central",
+    "coords": {
+      "lat": 20.64072,
+      "lng": -105.22031
+    },
+    "altitudeM": 13,
+    "aeroportos": [
+      "PVR"
+    ],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "sayulita",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/2769366905"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Sayulita",
+    "regiaoId": "pacifico-central",
+    "coords": {
+      "lat": 20.86893,
+      "lng": -105.4407
+    },
+    "altitudeM": 13,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "guanajuato",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/2340909"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Guanajuato",
+    "regiaoId": "bajio",
+    "coords": {
+      "lat": 20.9877,
+      "lng": -101
+    },
+    "altitudeM": 2015,
+    "aeroportos": [
+      "BJX"
+    ],
+    "bairros": [],
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 3.8,
+        "fatorRota": 1.4
+      },
+      "carro-app": {
+        "kmh": 18,
+        "fatorRota": 1.5
+      },
+      "transporte-publico": {
+        "kmh": 14,
+        "fatorRota": 1.5
+      },
+      "veiculo-alugado": {
+        "kmh": 18,
+        "fatorRota": 1.5
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "san-miguel-de-allende",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/5606268"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "San Miguel de Allende",
+    "regiaoId": "bajio",
+    "coords": {
+      "lat": 20.91305,
+      "lng": -100.73566
+    },
+    "altitudeM": 1984,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "queretaro",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/4062443"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Queretaro",
+    "regiaoId": "bajio",
+    "coords": {
+      "lat": 20.5923,
+      "lng": -100.39174
+    },
+    "altitudeM": 1823,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  },
+  {
+    "id": "guadalajara",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/node/1663173902"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "nome": "Guadalajara",
+    "regiaoId": "bajio",
+    "coords": {
+      "lat": 20.67204,
+      "lng": -103.3384
+    },
+    "altitudeM": 1547,
+    "aeroportos": [],
+    "bairros": [],
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "pegaTuristaAEvitar": [],
+    "taxasObrigatorias": [],
+    "situacaoAtual": []
+  }
+]

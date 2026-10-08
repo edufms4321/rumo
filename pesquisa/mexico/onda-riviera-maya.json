@@ -1,0 +1,3308 @@
+{
+  "base": "playa-del-carmen",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Playa del Carmen é a base mais central da Riviera Maya, na rodovia 307: dá para fazer Tulum, Cobá, cenotes e Cozumel (ferry) saindo de lá, e Cancún (ônibus ADO/colectivo) para balada e compras. A Quinta Avenida e a praia são caminháveis. Colectivos (vans compartilhadas) correm pela rodovia 307 de ~4h30 às ~22h30: Playa–Tulum ~M$25–50 (Wikivoyage, dados de 2022); ADO liga Cancún, aeroporto, Playa e Tulum; Tren Maya também para em Cancún, Playa e Tulum. Taxis não têm taxímetro confiável: combine o preço antes; à noite é mais caro. Ferry Playa–Cozumel (Ultramar/Winjet) a cada hora, ~M$260 (dez/2023); Cancún (Puerto Juárez) sai para Isla Mujeres a cada 30 min. Para o circuito Cobá + cenotes + Valladolid, 1 a 3 dias de carro costumam ser mais eficientes que colectivos. Em Tulum, bicicleta (M$100–250/24h, Wikivoyage) para praia e cenotes. IMPORTANTE POR MÊS: sargaço de abril a outubro (pico maio–agosto), furacões de junho a novembro, tubarão-baleia 15/mai–17/set; melhor janela geral para praia: novembro a março.",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Centro / Quinta Avenida (até ~4 quadras da avenida)",
+        "perfil": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 905,
+          "max": 1860
+        },
+        "observacao": "Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto.",
+        "seguranca": "Quinta Avenida com policiamento visível e furtos como principal risco; Centro a oeste da rodovia 307 pede cuidado à noite (Cancun Trip Insider, jun/2026). Bares da Calle 12 depois da meia-noite: risco de drink spiking.",
+        "fontes": [
+          "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/",
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+          "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+        ]
+      },
+      {
+        "nome": "Avenidas 10ª a 30ª (Centro, lado local)",
+        "perfil": "Mais barato e mais 'local', com tacos, carrinhos de café da manhã e bares de bairro; 10–20 min a pé da praia.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem tabela de preços confiável para esse recorte; o Wikivoyage cita que as avenidas numeradas (10ª, 15ª, 20ª, 30ª) são mais tranquilas e mais baratas.",
+        "seguranca": "Fonte aberta não detalha por quadra; usar táxi/aplicativo à noite e evitar caminhar sozinho de madrugada.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        ]
+      },
+      {
+        "nome": "Playacar",
+        "perfil": "Condomínio fechado de resorts ao sul; muito seguro e tranquilo, mas caro e menos 'noite'.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Não é opção econômica; hospedagem na área é de resort/Airbnb de padrão mais alto. Sem tabela de preços em fonte aberta.",
+        "seguranca": "Entre as áreas de menor risco: acesso controlado e segurança interna (Cancun Trip Insider, jun/2026). O acesso a pé de visitantes pode ser restringido.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+          "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+        ]
+      },
+      {
+        "nome": "Alternativa: Tulum Pueblo (base para ruínas, Cobá e cenotes)",
+        "perfil": "Pueblo com hospedagem barata e taquerias (pratos bem abaixo de M$100); a praia/zona hoteleira é cara.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem tabela de preços em fonte aberta. Colectivo ao pueblo ~M$25–50 desde Playa; bicicleta M$100–250/24h (Wikivoyage, data antiga).",
+        "seguranca": "Mantenha cuidados em bares da zona hoteleira (drinks caros e golpes reportados, Wikivoyage); caixas eletrônicos e dinheiro em pesos.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Quintana Roo está no Nível 2 (Exercise Increased Caution) do Departamento de Estado dos EUA (informação reproduzida pelo Cancun Trip Insider em jun/2026; a página oficial não abriu). Zonas turísticas têm menos violência de gangues, mas crimes ocorrem em hotéis, baladas e restaurantes (travel.gc.ca). Quinta Avenida: segura de dia, furtos em multidão; Playacar: muito seguro; Centro a oeste da 307: atenção à noite; Calle 12 depois da meia-noite: drink spiking. Colosio/Gonzalo Guerrero/Zazil-Ha: sem análise confiável em fonte aberta. Em geral: evite dirigir à noite, pague táxi com preço combinado, não saia sozinho de baladas, e use pesos em espécie e caixas dentro de bancos.",
+    "pegaTuristaAEvitar": [
+      "'Agências de turismo' e vendedores de passeio na Quinta Avenida (muitos são escritórios de timeshare)",
+      "Tours de um dia que embutem Ik Kil, Tulum, almoço e 'fábrica de joias' por preço várias vezes acima do independente",
+      "Tour guiado ao entrar em cenote (Dos Ojos: entrada ~350 vs guiado 700–800)",
+      "Beach clubs de Tulum e Playa com consumação mínima alta e 'taxa de serviço'",
+      "Táxi de rua sem preço combinado, sobretudo à noite e no aeroporto",
+      "Aluguel de carro com diária de US$5 sem seguro obrigatório",
+      "Falso 'Mercado 28' por ônibus de excursão e 'Lapis Jewelry Factory' (Wikivoyage)",
+      "Golpe do carrinho de golfe de rua em Isla Mujeres (MXN 5.500 por 1 h)",
+      "Tubarão-baleia a preço muito baixo (~1.300) sem licença Conanp"
+    ],
+    "golpesComuns": [
+      "Timeshare: presentes/café da manhã grátis em troca de apresentação de horas; direito a cancelar em 5 dias úteis (travel.gc.ca) e atenção a falsos corretores que oferecem comprar cotas",
+      "Câmbio/ATM: cubra o teclado, saque dentro de bancos e recuse conversão de moeda na maquininha (a regra da conversão é conhecimento geral, sem fonte aberta)",
+      "Drink spiking em baladas, bares e táxis; pedir garrafa lacrada e não largar o copo (travel.gc.ca)",
+      "Blitz com pedido de propina: não entregar dinheiro nem passaporte; pedir nome/matrícula, citar 911 e multa por escrito (travel.gc.ca)",
+      "Gasolina: conferir bomba zerada antes de abastecer (misstourist, carxplorer)",
+      "Seguro de carro: TPL obrigatório não incluído na diária anunciada (familycantravel, carxplorer, misstourist)",
+      "Golpe do ônibus que leva a uma loja falsa de 'Mercado 28' em Cancún (Wikivoyage)",
+      "Golf cart em Isla Mujeres com preço combinado diferente do cobrado (Poresto, dez/2024)"
+    ],
+    "fontes": [
+      "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+      "https://travel.gc.ca/destinations/mexico",
+      "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe",
+      "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/",
+      "https://en.wikivoyage.org/wiki/Riviera_Maya",
+      "https://en.wikivoyage.org/wiki/Tulum"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Sargaço no Caribe Mexicano: calendário, praias que sofrem e como checar em tempo real",
+      "categoria": "natureza",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "sargaço",
+        "sargazo",
+        "alerta",
+        "praia",
+        "calendário",
+        "monitoramento",
+        "furacão"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "O dado que mais muda o roteiro: o sargaço (alga marrom) pesa de abril a outubro, com pico em maio–agosto; a melhor janela de praia é novembro a março.",
+      "descricaoLonga": "CALENDARIO (as fontes divergem levemente, mas convergem no desenho): (1) Expansión/Red de Monitoreo: sargaço presente de abril a agosto; melhor época para as praias entre outubro e fevereiro. (2) howisthesargassum.com: pico maio–agosto (pior junho–julho), período mais seguro novembro–março; em 2026 a temporada começou antes do normal. (3) Cancun Trip Insider (Delfines): aproximadamente abril a outubro, pico junho–agosto. (4) O governo de Quintana Roo declarou OFICIALMENTE encerrada a temporada 2025 em 7/out/2025, mas a mesma matéria diz que o fenômeno pode persistir até novembro em alguns trechos; o pico de 2025 foi maio–junho (queda de 10–12% nas reservas). 2026 É ANO ATÍPICO/RECORDE: previsão oficial de ~119 mil toneladas (vs ~96 mil em 2025); em 26/mai/2026, 81% das 140 praias monitoradas estavam em alerta vermelho/excessivo e só 5 estavam sem sargaço; em jul/2026 a Secretaria de Ecologia disse que agosto–outubro teria as maiores chegadas, mas em 9/ago/2026 a biomassa no Caribe Mexicano caiu de 44.455 para 18.229 t (sinais de queda, mas 'cedo para declarar vitória'). QUEM SOFRE MAIS: Playa del Carmen, Tulum, Puerto Morelos, Mahahual e, em Cancún, Punta Cancún/Gaviota Azul e o trecho sul (Delfines, Marlín, Ballenas). QUEM ESCAPA MAIS: zona norte de Cancún (Langosta, Tortugas, Caracol, Chac Mool e Punta Cancún estavam VERDES em 29/jul/2026, no meio do pico) e, segundo o N+, Isla Mujeres e Cozumel como alternativas nos dias de maior acúmulo (a costa oeste de Cozumel e o norte de Isla Mujeres ficam a sotavento, mas não achei fonte aberta que garanta isso; trate como tendência, não promessa). HOJE (8/out/2026): howisthesargassum.com marca Gaviota Azul 'moderado' e zonas norte e sul de Cancún 'sem sargaço', água a 29 C. COMO ACOMPANHAR: (a) Semáforo del Sargazo da Red de Monitoreo del Sargazo de Quintana Roo e da Secretaría de Ecología estadual (verde/amarelo/laranja/vermelho por praia, replicado diariamente na imprensa local); (b) howisthesargassum.com (satélite NOAA/USF, webcams de hotéis, atualiza a cada 15 min); (c) USF Sargassum Watch System (optics.marine.usf.edu, mapas diários e boletim mensal); (d) Marinha (Semar) e Instituto Oceanográfico do Golfo y Caribe. Hotéis limpam de madrugada: o quadro muda entre manhã e tarde. OUTRAS DEPENDENCIAS DE EPOCA: a temporada de furacões no Atlântico/Caribe vai do início de junho ao fim de novembro (Canadá, travel.gc.ca, atualizado em 8/out/2026); tubarão-baleia: 15/mai a 17/set. RESUMO PARA ESCOLHER A DATA: NOV–MAR = praia ideal e baixo risco de sargaço; ABR e OUT = zona cinzenta; MAI–AGO = alto risco (jun–jul pior): compensar com cenotes, ruínas, Isla Mujeres e norte de Cancún.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Checar o semáforo/mapa na manhã do dia antes de decidir a praia; ter cenotes e ruínas como plano B dos dias ruins.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito: informação de planejamento",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.howisthesargassum.com/es/cancun",
+          "https://optics.marine.usf.edu/projects/SaWS.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.howisthesargassum.com/es/cancun",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: escolher a data fora de maio–agosto (idealmente novembro–março). É a decisão que mais protege o dinheiro gasto em praia.",
+        "VALE CADA PESO: salvar howisthesargassum.com e o semáforo estadual antes de sair do hotel; decidir a praia pelo mapa e não pelo hábito.",
+        "CORTE SE APERTAR: pagar day-pass de beach club em dia de sargaço vermelho; o ingresso costuma não ser reembolsado.",
+        "Em mês de sargaço pesado, base em Cancún norte/Isla Mujeres e dias de cenote/ruína compensam; Playa del Carmen e Tulum são as praias mais expostas.",
+        "Água de cenotes e da laguna de Bacalar não sofre com sargaço."
+      ],
+      "alertas": [
+        "Sargaço pode cheirar mal (sulfeto de hidrogênio) quando apodrece na areia; quem tem asma deve evitar.",
+        "A temporada 2026 foi atípica (previsão ~119 mil t): a regra 'abril–agosto' pode ter se estendido até outubro. Nunca prometer praia limpa só pelo calendário.",
+        "As fontes divergem sobre o pico (maio–agosto vs agosto–outubro em 2026); por isso a recomendação robusta é novembro–março.",
+        "Furacões: temporada de junho a novembro; pico estatístico de agosto a outubro (conhecimento geral, NÃO confirmado em fonte aberta). Contratar seguro viagem com cobertura de cancelamento."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulum_Beach_Panorama.jpg?width=900",
+        "credito": "Eden, Janine and Jim from New York City",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tulum_Beach_Panorama.jpg"
+      },
+      "fontes": [
+        "https://www.poresto.com/quintana-roo/2026/5/26/sargazo-invade-el-81-de-las-playas-de-quintana-roo.amp.html",
+        "https://www.poresto.com/quintana-roo/2025/10/7/confirman-cierre-de-la-temporada-de-sargazo-2025-en-quintana-roo-.amp.html",
+        "https://www.poresto.com/quintana-roo/cancun/2026/8/9/anticipan-descenso-del-sargazo-en-playas-de-quintana-roo.amp.html",
+        "https://www.poresto.com/quintana-roo/2026/7/24/sargazo-en-quintana-roo-preven-mas-de-92-mil-toneladas-este-2026.amp.html",
+        "https://politica.expansion.mx/mexico/2022/05/26/cuando-es-temporada-sargazo",
+        "https://www.howisthesargassum.com/es/cancun",
+        "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/",
+        "https://optics.marine.usf.edu/projects/SaWS.html",
+        "https://www.cancuntripinsider.com/guides/es-mx/playa-delfines-en-cancun",
+        "https://travel.gc.ca/destinations/mexico"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Playa Delfines (Cancún)",
+      "categoria": "praia",
+      "cidade": "cancun",
+      "tags": [
+        "praia",
+        "gratuita",
+        "mirante",
+        "letras CANCÚN",
+        "ondas fortes",
+        "bandeira vermelha"
+      ],
+      "coords": {
+        "lat": 21.0619642,
+        "lng": -86.778583
+      },
+      "descricaoCurta": "Praia pública e gratuita no sul da Zona Hotelera, com o mirador das letras de CANCÚN; mar aberto e forte, ótima para caminhar e fotografar.",
+      "descricaoLonga": "Praia pública com estacionamento gratuito junto ao mirador El Mirador; palapas gratuitas por ordem de chegada, banheiros, chuveiros e área infantil. Não há restaurantes, beach clubs nem bares: leve água e comida. Dá para o Caribe aberto, sem proteção natural: ondas e correntes fortes, bandeira vermelha frequente (salva-vidas das 9h às 17h, bandeiras verde/amarela/vermelha). Em 29/jul/2026 aparecia em AMARELO no semáforo de sargaço (Delfines, Marlín, Ballenas e Gaviota Azul), enquanto a zona norte estava verde. Ônibus R-1 e R-2 param em frente ao mirador.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (Praia livre; salva-vidas)",
+        "ter": "09:00–17:00 (Praia livre; salva-vidas)",
+        "qua": "09:00–17:00 (Praia livre; salva-vidas)",
+        "qui": "09:00–17:00 (Praia livre; salva-vidas)",
+        "sex": "09:00–17:00 (Praia livre; salva-vidas)",
+        "sab": "09:00–17:00 (Praia livre; salva-vidas)",
+        "dom": "09:00–17:00 (Praia livre; salva-vidas)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã de dia de semana (nov–abr): estacionamento fácil e menos fila na foto das letras.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso e estacionamento gratuitos",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.cancuntripinsider.com/guides/es-mx/playa-delfines-en-cancun"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mar com correntes fortes: entrar na água só com bandeira verde."
+      ],
+      "pontoPartida": "Ônibus R-1/R-2 da Zona Hotelera até El Mirador; ou carro/Uber.",
+      "dicasAgente": [
+        "VALE CADA PESO: é de graça e é o cartão-postal de Cancún; ir para foto e caminhada, não para nadar.",
+        "VALE CADA PESO: manhã cedo com mapa de sargaço verde.",
+        "CORTE SE APERTAR: se o semáforo estiver laranja/vermelho, trocar por Playa Tortugas/Caracol (norte) ou Isla Mujeres."
+      ],
+      "alertas": [
+        "Correntes de retorno: bandeira vermelha é frequente; não nadar.",
+        "Sargaço de abril a outubro, pico junho–agosto; checar o semáforo antes.",
+        "Sem comércio no local: levar tudo."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Delfines_%2812916929323%29.jpg?width=900",
+        "credito": "David Stanley from Nanaimo, Canada",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Delfines_(12916929323).jpg"
+      },
+      "fontes": [
+        "https://www.cancuntripinsider.com/guides/es-mx/playa-delfines-en-cancun",
+        "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/",
+        "https://www.openstreetmap.org/node/2611777999"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Tortugas (Cancún)",
+      "categoria": "praia",
+      "cidade": "cancun",
+      "tags": [
+        "praia",
+        "gratuita",
+        "águas calmas",
+        "norte de Cancún",
+        "ferry Isla Mujeres"
+      ],
+      "coords": {
+        "lat": 21.139726,
+        "lng": -86.7693058
+      },
+      "descricaoCurta": "Praia pública da zona norte da Zona Hotelera, mais calma e menos afetada por sargaço; ponto de embarque do ferry Ultramar para Isla Mujeres.",
+      "descricaoLonga": "Praia pública acessível de ônibus (o Wikivoyage lista Playa Tortugas e Las Perlas como públicas). Na zona norte, voltada à Bahía de Mujeres, com águas mais calmas que Delfines. Em 29/jul/2026, em plena alta de sargaço, Tortugas, Langosta, Caracol, Chac Mool e Punta Cancún estavam VERDES no semáforo estadual (Delfines/Marlín/Ballenas/Gaviota Azul em amarelo). Também é terminal do ferry Ultramar para Isla Mujeres (Blvd. Kukulcán km 6,5).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; ir de ônibus R-1/R-2 para economizar.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso gratuito à praia",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Blvd. Kukulcán km 6,5, Zona Hotelera; ônibus R-1/R-2 (tarifa ~M$12 segundo o Wikivoyage, data não informada).",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor praia grátis de Cancún quando o sul está com sargaço.",
+        "Combinar com o ferry para Isla Mujeres no mesmo dia (embarque aqui, mais perto da Zona Hotelera que Puerto Juárez).",
+        "CORTE SE APERTAR: day-pass de beach club; esta praia é grátis."
+      ],
+      "alertas": [
+        "A tarifa de ônibus do Wikivoyage é de data não informada; confirme.",
+        "O semáforo do sargaço muda da manhã para a tarde."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Tortugas_cancun.jpg?width=900",
+        "credito": "Jacquidiaz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Tortugas_cancun.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn",
+        "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/",
+        "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/",
+        "https://www.openstreetmap.org/way/445614179"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Mamitas (Playa del Carmen)",
+      "categoria": "praia",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "praia",
+        "beach club",
+        "consumação mínima",
+        "norte da Quinta",
+        "festa de dia"
+      ],
+      "coords": {
+        "lat": 20.6310923,
+        "lng": -87.0651952
+      },
+      "descricaoCurta": "A praia mais badalada de Playa del Carmen, no fim da Calle 28 Norte; acesso livre, mas espreguiçadeira exige consumação mínima.",
+      "descricaoLonga": "O acesso à praia é gratuito; o Mamita's Beach Club (Calle 28 Norte, Mza. 10, a ~2 quadras da Av. Constituyentes) funciona diariamente das 8h às 18h, tem 2 restaurantes, piscina, música, spa e boutique, e exige consumo mínimo do restaurante para usar espreguiçadeira. O valor do mínimo não está publicado nas fontes abertas. A praia de Playa é muito exposta ao sargaço em maio–agosto; confira o mapa.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–18:00 (beach club)",
+        "ter": "08:00–18:00 (beach club)",
+        "qua": "08:00–18:00 (beach club)",
+        "qui": "08:00–18:00 (beach club)",
+        "sex": "08:00–18:00 (beach club)",
+        "sab": "08:00–18:00 (beach club)",
+        "dom": "08:00–18:00 (beach club)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Final da manhã para o clima de festa; chegar cedo para pegar lugar na areia livre.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia gratuita; beach club exige consumação mínima (valor não confirmado)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.zonaturistica.com/que-hacer-en/quintana-roo/playa-del-carmen/mamitas-beach-club"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "984-803-2867",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé pela Quinta Avenida até a Calle 28 Norte e depois à praia.",
+      "dicasAgente": [
+        "VALE CADA PESO: ficar na areia livre ao lado do clube e gastar só numa cerveja/comida; o clima é o mesmo.",
+        "CORTE SE APERTAR: espreguiçadeira com mínimo alto; usar toalha e praias mais afastadas.",
+        "Quem quer 'balada de dia' sem pagar muito: Mamitas é o ponto, mas pergunte o mínimo antes de sentar."
+      ],
+      "alertas": [
+        "Valor da consumação mínima não confirmado.",
+        "Sargaço pesado em Playa del Carmen na temporada 2026."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamita_Beach_-_panoramio.jpg?width=900",
+        "credito": "Alfonzo Buscemi",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mamita_Beach_-_panoramio.jpg"
+      },
+      "fontes": [
+        "https://www.zonaturistica.com/que-hacer-en/quintana-roo/playa-del-carmen/mamitas-beach-club",
+        "https://www.openstreetmap.org/node/1044623720"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Punta Esmeralda (Playa del Carmen)",
+      "categoria": "praia",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "praia",
+        "cenote",
+        "gratuito",
+        "rio de água doce",
+        "águas rasas",
+        "natureza"
+      ],
+      "coords": {
+        "lat": 20.6483209,
+        "lng": -87.0507496
+      },
+      "descricaoCurta": "Praia gratuita onde um pequeno cenote deságua no mar, formando um riozinho de água doce; águas rasas e calmas.",
+      "descricaoLonga": "No fim do bairro Colosio, ao norte da Quinta Avenida, dá para chegar a pé ou de bicicleta pela Quinta Avenida. O acesso passa por uma propriedade de resort, mas praia e cenote são públicos e gratuitos. O cenote transborda na chuva e forma um riacho até o mar; águas rasas e tranquilas. Matérias aconselham não entrar depois das 17h por segurança e ir de manhã. O sargaço se acumula na orla em certas épocas, mas o cenote segue aproveitável.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, por causa do calor e da lotação.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.poresto.com/quintana-roo/2022/9/11/playa-del-carmen-como-visitar-una-playa-cenote-sin-tener-que-gastar-un-solo-peso.html",
+          "https://www.posta.com.mx/mexico/como-llegar-al-cenote-con-vista-al-mar-en-playa-del-carmen-que-pocos-conocen/vl1752333"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Quinta Avenida (norte) até o bairro Colosio, a pé ou de bicicleta.",
+      "dicasAgente": [
+        "VALE CADA PESO: custa zero e é o 'cenote com vista pro mar' sem pagar ingresso.",
+        "Combinar com Mamitas no mesmo passeio caminhando pela orla/Quinta Avenida.",
+        "CORTE SE APERTAR: nada a cortar, é grátis; só evitar horários de lotação."
+      ],
+      "alertas": [
+        "Informações de acesso vêm de matérias de 2022–2023; o resort pode alterar a passagem, confirme na hora.",
+        "Não ir ao entardecer/à noite."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.poresto.com/quintana-roo/2022/9/11/playa-del-carmen-como-visitar-una-playa-cenote-sin-tener-que-gastar-un-solo-peso.html",
+        "https://www.posta.com.mx/mexico/como-llegar-al-cenote-con-vista-al-mar-en-playa-del-carmen-que-pocos-conocen/vl1752333",
+        "https://www.openstreetmap.org/node/13222364149"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Praias de Tulum, Parque del Jaguar e a taxa da zona hoteleira",
+      "categoria": "praia",
+      "cidade": "tulum",
+      "tags": [
+        "praia",
+        "Tulum",
+        "acesso livre",
+        "Parque del Jaguar",
+        "zona hoteleira",
+        "taxa",
+        "sargaço"
+      ],
+      "coords": {
+        "lat": 20.2040355,
+        "lng": -87.4312713
+      },
+      "descricaoCurta": "Desde nov/2025 o governo garante acesso gratuito a praias de Tulum; o ingresso do Parque del Jaguar caiu para 100 (estrangeiro) em jul/2026 e as praias de hotel ainda impõem consumação ou restrição.",
+      "descricaoLonga": "SITUAÇÃO ATUAL (jul–set/2026): o plano federal 'Tulum Renace' reduziu os ingressos: estrangeiro paga MXN 265 por zona arqueológica + Parque del Jaguar (165 + 100, vigência 27/jul/2026), mexicanos 80; carrinhos elétricos MXN 20; o acesso às praias dentro do parque é gratuito todos os dias. Em 12/nov/2025 foram reabertos 5 acessos públicos dentro do Parque del Jaguar e 2 acessos na zona hoteleira (Conchitas, km 4,5, e Del Pueblo, km 5,5), todos gratuitos. Problemas que persistem (El Financiero, mar/2026): a maioria das praias pertence a hotéis que restringem ao hóspede ou cobram; os acessos públicos têm regras (sem comida/bebida de fora, bolsa revistada, horário ~8h–19h, caminhada de mais de 1 km). Alternativa sem consumação obrigatória: Villas Las Estrellas / Coco Unlimited via Acceso Playa Tecate (Carretera Tulum–Boca Paila km 8), podendo levar comida e bebida. O sargaço em Tulum é crítico na temporada; em 2026 foi das praias mais atingidas.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "ter": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "qua": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "qui": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "sex": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "sab": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)",
+        "dom": "08:00–19:00 (Acessos públicos tipicamente  (relato de mar/2026); sem acesso ao nascer/pôr do sol)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã de nov–mar; evitar mai–set por sargaço.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 100,
+        "por": "pessoa",
+        "inclui": "Praias dentro do Parque del Jaguar: gratuitas. Ingresso do parque 100 (estrangeiro) apenas se for usar as áreas internas",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.poresto.com/quintana-roo/riviera-maya/2026/7/20/parque-del-jaguar-en-tulum-cuanto-cuesta-ahora-una-visita-completa-para-nacionales-y-extranjeros.html",
+          "https://ruptura360.mx/periodismo-de-servicio/ruinas-arqueologicas-de-tulum/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem comida/bebida de fora em acessos públicos (relato)."
+      ],
+      "pontoPartida": "Carretera Tulum–Boca Paila; colectivo/bicicleta desde o pueblo (colectivo ~M$30 até a praia segundo o Wikivoyage, dado antigo).",
+      "dicasAgente": [
+        "VALE CADA PESO: usar os acessos públicos gratuitos (Conchitas/Del Pueblo ou Parque del Jaguar) e fazer a praia de manhã cedo.",
+        "CORTE SE APERTAR: clubes de praia de Tulum com consumação alta; o Wikivoyage alerta para drinks caros e golpes reportados.",
+        "Levar dinheiro em pesos; cartão nem sempre é aceito."
+      ],
+      "alertas": [
+        "Informação muito dinâmica (decreto de jul/2026 mudou preços e administração); confirme o valor na bilheteria.",
+        "Sargaço em Tulum é crítico na temporada.",
+        "As fontes de preço divergem entre 265 (somado, 2026) e 455 (valor pré-redução, reportagem de 15/jul/2026)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulum_Beach_Panorama.jpg?width=900",
+        "credito": "Eden, Janine and Jim from New York City",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tulum_Beach_Panorama.jpg"
+      },
+      "fontes": [
+        "https://www.poresto.com/quintana-roo/riviera-maya/2026/7/20/parque-del-jaguar-en-tulum-cuanto-cuesta-ahora-una-visita-completa-para-nacionales-y-extranjeros.html",
+        "https://www.adn40.mx/mexico/2025-11-13/cinco-playas-publicas-puedes-visitar-gratis-tulum/",
+        "https://www.elfinanciero.com.mx/estilo/2026/03/07/cuales-son-los-problemas-de-accesibilidad-a-playas-de-tulum-y-que-alternativas-hay/",
+        "https://tulumtimes.com/es/cultural-workers-union-tulum-fee-cuts",
+        "https://en.wikivoyage.org/wiki/Tulum",
+        "https://www.openstreetmap.org/relation/13527821"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Norte (Isla Mujeres)",
+      "categoria": "praia",
+      "cidade": "isla-mujeres",
+      "tags": [
+        "praia",
+        "águas rasas",
+        "Isla Mujeres",
+        "caribe calmo",
+        "pôr do sol"
+      ],
+      "coords": {
+        "lat": 21.2606483,
+        "lng": -86.750993
+      },
+      "descricaoCurta": "A melhor praia da ilha: areia branca e água rasa e calma, a poucos passos do desembarque do ferry.",
+      "descricaoLonga": "Segundo o Wikivoyage, Playa Norte oferece água rasa e clara, ideal para nadar; Playa Sol, no lado oeste, é boa para o pôr do sol e menos lotada. Costuma ser uma das opções que escapam do sargaço quando Cancún sul e Playa del Carmen estão ruins (o N+ citou Isla Mujeres como alternativa nos dias de maior acúmulo); mesmo assim confira o mapa. Fica no extremo norte do centro da ilha, caminhável do embarcadero.",
+      "duracao": {
+        "min": 90,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã cedo ou fim de tarde; ao meio-dia lota.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Acesso gratuito à praia",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé do embarcadero Rueda Medina (centro de Isla Mujeres).",
+      "dicasAgente": [
+        "VALE CADA PESO: praia grátis que rende o dia inteiro; combinar com o ferry e o carrinho de golfe.",
+        "CORTE SE APERTAR: espreguiçadeiras de restaurantes da orla; levar canga e comprar bebida em mercadinho."
+      ],
+      "alertas": [
+        "Isla Mujeres não é imune ao sargaço; checar o mapa.",
+        "Valores de ferry e táxi mudam; confirmar."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Norte%2C_Isla_Mujeres_QR_2020_01.jpg?width=900",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Norte,_Isla_Mujeres_QR_2020_01.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+        "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/",
+        "https://www.openstreetmap.org/node/4387935490"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Palancar (Cozumel)",
+      "categoria": "praia",
+      "cidade": "cozumel",
+      "tags": [
+        "praia",
+        "Cozumel",
+        "snorkel",
+        "costa oeste",
+        "recife",
+        "descanso"
+      ],
+      "coords": {
+        "lat": 20.3522293,
+        "lng": -87.0224394
+      },
+      "descricaoCurta": "Praia tranquila de areia branca na costa sudoeste de Cozumel, em frente ao recife Palancar; espreguiçadeiras e snorkel a poucos metros da areia.",
+      "descricaoLonga": "Segundo o Wikivoyage, Playa Palancar tem areia branca, espreguiçadeiras e redes sob palmeiras e aluguel de equipamento de snorkel (cerca de US$10, ≈MXN 180 ao câmbio de 8/out/2026). O recife Palancar fica no Parque Nacional Arrecifes de Cozumel, com mergulho de 15 a 34 m e correntes que costumam exigir guia/barco. A costa oeste da ilha é protegida dos ventos de leste (tendência; sem fonte aberta que garanta ausência de sargaço). Cozumel recebe muitos navios de cruzeiro, sobretudo de dezembro a abril (meia dúzia de navios grandes no mesmo dia), o que lota a ilha.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dias sem navio de cruzeiro ou a partir das 14h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 180,
+        "max": 180,
+        "por": "pessoa",
+        "inclui": "Aluguel de equipamento de snorkel (US$10 no Wikivoyage, convertido a 18,0066 MXN/USD em 8/out/2026; estimativa)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cozumel",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carro/scooter/táxi a partir de San Miguel; transporte público não confirmado.",
+      "dicasAgente": [
+        "VALE CADA PESO: snorkel direto da praia sem pagar passeio de barco.",
+        "CORTE SE APERTAR: o táxi de ida e volta pesa; dividir o carro/scooter com outra atração (Punta Sur) no mesmo dia."
+      ],
+      "alertas": [
+        "O preço de snorkel é do Wikivoyage e pode estar desatualizado.",
+        "Não voar nas 12–18 h seguintes se houver mergulho com cilindro (ver item de mergulho)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palancar_Beach_aerial_Cozumel_Mexico_%2821202324188%29.jpg?width=900",
+        "credito": "dronepicr",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palancar_Beach_aerial_Cozumel_Mexico_(21202324188).jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Cozumel",
+        "https://en.wikipedia.org/wiki/Palancar_Reef",
+        "https://www.openstreetmap.org/relation/16762823"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Gran Cenote (Tulum)",
+      "categoria": "natureza",
+      "cidade": "tulum",
+      "tags": [
+        "cenote",
+        "snorkel",
+        "tartarugas",
+        "Tulum",
+        "água cristalina",
+        "economia"
+      ],
+      "coords": {
+        "lat": 20.2465584,
+        "lng": -87.4641049
+      },
+      "descricaoCurta": "O cenote mais fácil e fotogênico perto de Tulum: caverna aberta, água transparente, tartarugas de água doce e ótimo para snorkel.",
+      "descricaoLonga": "Cenote semiaberto na Carretera Tulum–Nuevo X-Can, com plataformas e escadas. Horário relatado: 8h–16h45 todos os dias. Ingresso: as fontes divergem (200 em jan/2026; 300 no Wikivoyage; 500 em ago/2026), então trate 500 como o valor mais recente provável. Colete: reportagem de ago/2026 diz que está incluído na entrada; o Wikivoyage diz que coletes e nadadeiras são extras. Protetor solar e repelente: tomar banho/enxaguar antes de entrar (regra do local, para preservar a água). Ônibus de excursão chegam por volta das 10h30: ir na abertura.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "08:00–16:45",
+        "ter": "08:00–16:45",
+        "qua": "08:00–16:45",
+        "qui": "08:00–16:45",
+        "sex": "08:00–16:45",
+        "sab": "08:00–16:45",
+        "dom": "08:00–16:45"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (8h): água mais clara e sem fila de excursões.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 500,
+        "por": "pessoa",
+        "inclui": "Entrada; colete reportado como incluído (divergente)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jonnymelon.com/tulum-cenotes/",
+          "https://travelguidestip.com/tulum-cenotes-guide/",
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Enxaguar protetor solar e repelente antes de entrar."
+      ],
+      "pontoPartida": "Carretera Tulum–Nuevo X-Can, Tulum; bicicleta ou táxi desde o pueblo (táxi M$100–150 até a costa segundo o Wikivoyage, dado antigo).",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor primeiro cenote da viagem pela facilidade e pela água.",
+        "VALE CADA PESO: ir de bicicleta (aluguel M$100–250/24h, Wikivoyage) para economizar táxi.",
+        "CORTE SE APERTAR: se o ingresso estiver em 500 por pessoa, trocar por Calavera/Cristal/Escondido ou Casa Cenote."
+      ],
+      "alertas": [
+        "Preço oscila de 200 a 500 conforme a fonte; confirme na bilheteria.",
+        "Não use filtro solar na água; muitos cenotes pedem banho antes."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gran_Cenote_Tulum_%28125162155%29.jpeg?width=900",
+        "credito": "Dronepicr",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Gran_Cenote_Tulum_(125162155).jpeg"
+      },
+      "fontes": [
+        "https://www.jonnymelon.com/tulum-cenotes/",
+        "https://travelguidestip.com/tulum-cenotes-guide/",
+        "https://en.wikivoyage.org/wiki/Tulum",
+        "https://www.openstreetmap.org/node/976101133"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Dos Ojos (Tulum / Parque Dos Ojos)",
+      "categoria": "natureza",
+      "cidade": "tulum",
+      "tags": [
+        "cenote",
+        "snorkel",
+        "mergulho",
+        "cavernas",
+        "Dos Ojos"
+      ],
+      "coords": {
+        "lat": 20.3247342,
+        "lng": -87.3906066
+      },
+      "descricaoCurta": "Dois cenotes interligados em caverna, famosos por snorkel e mergulho; entrada ~350, mas atenção ao upsell do tour guiado de 700–800.",
+      "descricaoLonga": "Parque ao norte de Tulum, na estrada 307. Entrada básica relatada em 350 (jonnymelon jan/2026 e Wikivoyage concordam; travelguidestip ago/2026 dá 350–400); tour guiado 700–800. Horário 8h–17h com última entrada às 15h. O site oficial (cenotedosojos.com) enfatiza mergulho de caverna para mergulhadores certificados (open water mínimo), com guia obrigatório, e remete preços e reservas para páginas internas. Use protetor biodegradável (ou melhor, nenhum). Melhor luz entre 11h e 13h.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (última entrada 15:00)",
+        "ter": "08:00–17:00 (última entrada 15:00)",
+        "qua": "08:00–17:00 (última entrada 15:00)",
+        "qui": "08:00–17:00 (última entrada 15:00)",
+        "sex": "08:00–17:00 (última entrada 15:00)",
+        "sab": "08:00–17:00 (última entrada 15:00)",
+        "dom": "08:00–17:00 (última entrada 15:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Entre 11h e 13h para luz nos cenotes; chegar antes para evitar grupos de mergulho.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 800,
+        "por": "pessoa",
+        "inclui": "350–400 entrada básica; 700–800 tour guiado",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jonnymelon.com/tulum-cenotes/",
+          "https://travelguidestip.com/tulum-cenotes-guide/",
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.cenotedosojos.com",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mergulho de caverna exige certificação open water e guia.",
+        "Usar produtos biodegradáveis."
+      ],
+      "pontoPartida": "Estrada 307, ao norte de Tulum (colectivo Playa–Tulum para na entrada, a confirmar).",
+      "dicasAgente": [
+        "VALE CADA PESO: snorkel no Dos Ojos vale, mas só com entrada básica (350) e sem guia, se estiver confortável.",
+        "CORTE SE APERTAR: o tour guiado de 700–800 por pessoa e pacotes de agências em Playa que repassam o mesmo cenote por 3x o preço.",
+        "Alternativa mais barata: Casa Cenote ou Calavera."
+      ],
+      "alertas": [
+        "Colete: não ficou claro se está incluído; confirme.",
+        "Preços divergem por fonte (350–400 básico)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20230324_-_Cenote_Dos_Ojos_-_5.jpg?width=900",
+        "credito": "eugene_o",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:20230324_-_Cenote_Dos_Ojos_-_5.jpg"
+      },
+      "fontes": [
+        "https://www.cenotedosojos.com",
+        "https://www.jonnymelon.com/tulum-cenotes/",
+        "https://travelguidestip.com/tulum-cenotes-guide/",
+        "https://en.wikivoyage.org/wiki/Tulum",
+        "https://www.openstreetmap.org/node/4413564900"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Cenote Ik Kil (perto de Chichén Itzá)",
+      "categoria": "natureza",
+      "cidade": "valladolid",
+      "tags": [
+        "cenote",
+        "Ik Kil",
+        "Chichén Itzá",
+        "cipós",
+        "excursão",
+        "pega-turista"
+      ],
+      "coords": {
+        "lat": 20.6611312,
+        "lng": -88.5504959
+      },
+      "descricaoCurta": "O cenote 'de cartão-postal' com cipós pendurados a ~3 km de Chichén Itzá; lindo, mas é a parada obrigatória dos ônibus de excursão.",
+      "descricaoLonga": "Cenote aberto com paredes verticais e cascatas de raízes, a cerca de 3 km de Chichén Itzá. As fontes conflitam no ingresso: 80 MXN (jonnymelon, jan/2026) vs 400 MXN (Wikivoyage Chichén, referente a 2025). Horário relatado 9h–17h. É o cenote mais turístico do roteiro: mais lotado ao meio-dia, quando chegam os tours que combinam Chichén + Ik Kil + almoço. Para quem vai de carro/ônibus por conta própria, vale como parada de 1h depois de Chichén.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (9h) ou fim da tarde; evitar 11h–15h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 80,
+        "max": 400,
+        "por": "pessoa",
+        "inclui": "Entrada (valor divergente entre fontes)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jonnymelon.com/tulum-cenotes/",
+          "https://en.wikivoyage.org/wiki/Chichen_Itza"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "~3 km de Chichén Itzá, na estrada Mérida–Cancún.",
+      "dicasAgente": [
+        "VALE CADA PESO: só se estiver na região de Chichén e puder entrar na abertura.",
+        "CORTE SE APERTAR: é o principal pega-turista da região: excursões saindo de Cancún/Playa que 'incluem' Ik Kil elevam o preço do passeio; prefira Suytun ou Zací, mais baratos.",
+        "Levar maiô e toalha."
+      ],
+      "alertas": [
+        "Preço entre 80 e 400: pergunte na bilheteria antes de pagar.",
+        "Em baixa temporada o horário pode mudar."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Ik_Kil%2C_Yucatan%2C_Dec_2011_-_05.jpg?width=900",
+        "credito": "Shinya Suzuki",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Ik_Kil,_Yucatan,_Dec_2011_-_05.jpg"
+      },
+      "fontes": [
+        "https://www.jonnymelon.com/tulum-cenotes/",
+        "https://en.wikivoyage.org/wiki/Chichen_Itza",
+        "https://www.openstreetmap.org/way/49475814"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Cenote Suytun (Valladolid)",
+      "categoria": "natureza",
+      "cidade": "valladolid",
+      "tags": [
+        "cenote",
+        "Suytun",
+        "foto",
+        "luz",
+        "Valladolid",
+        "economia"
+      ],
+      "coords": {
+        "lat": 20.6989866,
+        "lng": -88.1245704
+      },
+      "descricaoCurta": "O cenote da plataforma de pedra e raio de luz, entre Valladolid e Chichén; barato e muito fotogênico.",
+      "descricaoLonga": "Cenote em caverna com plataforma central circular. Ingresso relatado em 120 MXN (jonnymelon, jan/2026) e horário 9h–17h. Fica na Carretera Mérida–Puerto Juárez (Tikuch, Valladolid), por isso é fácil encaixar na volta de Chichén. Fotos de 'pessoa na plataforma sob a luz' geram fila nos horários de pico.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (9h) para fila menor; o feixe de luz tende ao meio-dia (conhecimento geral).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 120,
+        "max": 120,
+        "por": "pessoa",
+        "inclui": "Entrada",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.jonnymelon.com/tulum-cenotes/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carretera Mérida–Puerto Juárez, Tikuch (Valladolid); de carro ou táxi desde Valladolid.",
+      "dicasAgente": [
+        "VALE CADA PESO: um dos cenotes mais baratos de visual espetacular.",
+        "CORTE SE APERTAR: sem carro, o táxi desde Valladolid pesa; só vale combinado com Chichén/Ek Balam no mesmo dia."
+      ],
+      "alertas": [
+        "Preço e horário de uma única fonte (jan/2026); confirme.",
+        "Se estiver chovendo, a luz do raio some."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Suytun_2009_06.jpg?width=900",
+        "credito": "Daniel Lobo",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Suytun_2009_06.jpg"
+      },
+      "fontes": [
+        "https://www.jonnymelon.com/tulum-cenotes/",
+        "https://www.openstreetmap.org/node/3680984963"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Casa Cenote (Tankah, Tulum)",
+      "categoria": "natureza",
+      "cidade": "tulum",
+      "tags": [
+        "cenote",
+        "manguezal",
+        "mar",
+        "snorkel",
+        "caiaque",
+        "econômico"
+      ],
+      "coords": {
+        "lat": 20.2670177,
+        "lng": -87.392274
+      },
+      "descricaoCurta": "Cenote ligado ao mar entre manguezais, com água doce e salgada; ótimo para snorkel tranquilo e caiaque.",
+      "descricaoLonga": "Cenote aberto e comprido ao norte de Tulum (Tankah), conectado ao mar por um sistema subterrâneo; reportado a 150–250 MXN, 9h–17h; aluga caiaques; exige produtos biodegradáveis (travelguidestip, ago/2026). Ambiente aberto, menos lotado que Gran Cenote.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Final da manhã/tarde, mais tranquilo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 250,
+        "por": "pessoa",
+        "inclui": "Entrada; caiaque à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://travelguidestip.com/tulum-cenotes-guide/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Produtos biodegradáveis."
+      ],
+      "pontoPartida": "Tankah, ~norte de Tulum; carro ou táxi.",
+      "dicasAgente": [
+        "VALE CADA PESO: ótimo custo-benefício para snorkel em água calma, com possibilidade de ver peixes.",
+        "CORTE SE APERTAR: aluguel de caiaque; só se sobrar tempo."
+      ],
+      "alertas": [
+        "Valor de uma única fonte; confirme."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Cenote_in_Mexico_%2842877772324%29.jpg?width=900",
+        "credito": "dronepicr",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Casa_Cenote_in_Mexico_(42877772324).jpg"
+      },
+      "fontes": [
+        "https://travelguidestip.com/tulum-cenotes-guide/",
+        "https://www.openstreetmap.org/way/302127218"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Azul (Bacalar)",
+      "categoria": "natureza",
+      "cidade": "bacalar",
+      "tags": [
+        "cenote",
+        "Bacalar",
+        "90 metros",
+        "laguna",
+        "estromatólitos",
+        "econômico"
+      ],
+      "coords": {
+        "lat": 18.6470061,
+        "lng": -88.4129825
+      },
+      "descricaoCurta": "Cenote de 90 m de profundidade ao lado da laguna de Bacalar; entrada baratíssima e restaurante com vista.",
+      "descricaoLonga": "Cenote circular de cerca de 200 m de extensão e 90 m de profundidade, a ~4 km de Bacalar, junto à laguna. Entrada reportada em MXN 25 (2022; pode ter subido). Restaurante local, coletes para alugar. A matéria da Food & Pleasure pede evitar protetor solar e repelente e NÃO tocar os estromatólitos (frágeis). Divergência: uma matéria patrocinada da Forbes México (2022) diz que nadar no cenote é proibido por segurança; outras fontes mostram snorkel e mergulho: confirme na entrada. Fecha às 18h segundo o Despegar.",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, com sol no ângulo certo para ver os tons de azul.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 25,
+        "por": "pessoa",
+        "inclui": "Entrada (dado de 2022)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://foodandpleasure.com/cenote-azul/",
+          "https://en.wikivoyage.org/wiki/Bacalar"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Evitar protetor solar e repelente.",
+        "Não tocar estromatólitos."
+      ],
+      "pontoPartida": "~4 km de Bacalar town pela Costera; táxi/bicicleta/colectivo.",
+      "dicasAgente": [
+        "VALE CADA PESO: custa quase nada e a vista do azul profundo é a imagem da viagem a Bacalar.",
+        "CORTE SE APERTAR: nada: é a atração mais barata do trecho; cortar só o almoço no restaurante local, se for caro."
+      ],
+      "alertas": [
+        "Preço de 2022: confirme; provavelmente maior hoje.",
+        "Fontes divergem sobre poder nadar."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Azul%2C_Bacalar%2C_Q._Roo_-_panoramio.jpg?width=900",
+        "credito": "holachetumal",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Azul,_Bacalar,_Q._Roo_-_panoramio.jpg"
+      },
+      "fontes": [
+        "https://foodandpleasure.com/cenote-azul/",
+        "https://en.wikivoyage.org/wiki/Bacalar",
+        "https://www.despegar.com.mx/lugares-turisticos/bacalar/cenotes-y-mas",
+        "https://forbes.com.mx/ad-conoce-bacalar-turismo/",
+        "https://www.openstreetmap.org/node/2580447954"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zona Arqueológica de Tulum (ruínas à beira-mar)",
+      "categoria": "atracao",
+      "cidade": "tulum",
+      "tags": [
+        "ruínas",
+        "maia",
+        "Tulum",
+        "beira-mar",
+        "INAH",
+        "foto",
+        "cedo"
+      ],
+      "coords": {
+        "lat": 20.2145734,
+        "lng": -87.42946
+      },
+      "descricaoCurta": "As ruínas maias mais fotogênicas do Caribe, sobre uma falésia; ingresso 2026 caiu para 265 (165 zona + 100 Parque del Jaguar).",
+      "descricaoLonga": "Zona arqueológica pós-clássica (c. 1200–1550) sobre o mar. HORÁRIO: 8h–17h, última entrada 16h. PREÇO (estrangeiro): após o decreto de 17/jul/2026, 165 MXN pela zona (em vigor desde 27/jul/2026) + 100 do Parque del Jaguar = 265; mexicanos pagam 80 e entram de graça aos domingos (estrangeiros NÃO, a menos que residentes). Antes da redução, uma reportagem de 15/jul/2026 falava em 455 para estrangeiros: confirme o valor atual na bilheteria. Estacionamento ~150 MXN; ~1 km da bilheteria até a entrada, a pé ou em trenzinho/carrinho elétrico (MXN 20). Desde jul/2026 a arrecadação passou da INAH a uma empresa militar (Gafsacomm); funcionários do INAH continuam nas bilheterias. Chegue na abertura: grupos de excursão chegam por volta das 10h.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (última entrada 16:00)",
+        "ter": "08:00–17:00 (última entrada 16:00)",
+        "qua": "08:00–17:00 (última entrada 16:00)",
+        "qui": "08:00–17:00 (última entrada 16:00)",
+        "sex": "08:00–17:00 (última entrada 16:00)",
+        "sab": "08:00–17:00 (última entrada 16:00)",
+        "dom": "08:00–17:00 (última entrada 16:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (8h) para fugir do calor e das excursões das 10h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 165,
+        "max": 265,
+        "por": "pessoa",
+        "inclui": "165 zona arqueológica + 100 Parque del Jaguar (estrangeiro, jul/2026); estacionamento ~150/veículo à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.yucatan.com.mx/mexico/2026/08/04/zona-arqueologica-de-tulum-tendra-nuevo-precio-de-entrada-estas-son-las-tarifas-2026.html",
+          "https://www.poresto.com/quintana-roo/riviera-maya/2026/7/20/parque-del-jaguar-en-tulum-cuanto-cuesta-ahora-una-visita-completa-para-nacionales-y-extranjeros.html",
+          "https://www.elimparcial.com/columnas/2026/09/18/la-zona-arqueologica-de-tulum-se-privatiza/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Entrada de Tulum Ruinas, na 307; colectivo desde Playa (M$25–50) ou carro.",
+      "dicasAgente": [
+        "VALE CADA PESO: as ruínas pelo preço atual (265) são uma das melhores relações custo-benefício do roteiro.",
+        "CORTE SE APERTAR: guia na porta e o trenzinho (dá para andar 1 km); passeios de 'Tulum + cenote + almoço' vendidos em Cancún costumam custar muitas vezes mais que ir por conta própria.",
+        "Combine com praia do Parque del Jaguar (acesso gratuito) no mesmo dia."
+      ],
+      "alertas": [
+        "Preço e administração mudaram em jul/2026; fonte oficial do INAH não pôde ser aberta (404).",
+        "Cobrança dobrada no passado; hoje a bilheteria deve ser única (sindicato pediu janela única, não confirmado)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Castillo_de_Tulum%2C_QR_2024.jpg?width=900",
+        "credito": "edenpictures",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Castillo_de_Tulum,_QR_2024.jpg"
+      },
+      "fontes": [
+        "https://www.yucatan.com.mx/mexico/2026/08/04/zona-arqueologica-de-tulum-tendra-nuevo-precio-de-entrada-estas-son-las-tarifas-2026.html",
+        "https://ruptura360.mx/periodismo-de-servicio/ruinas-arqueologicas-de-tulum/",
+        "https://www.poresto.com/quintana-roo/riviera-maya/2026/7/20/parque-del-jaguar-en-tulum-cuanto-cuesta-ahora-una-visita-completa-para-nacionales-y-extranjeros.html",
+        "https://www.elimparcial.com/columnas/2026/09/18/la-zona-arqueologica-de-tulum-se-privatiza/",
+        "https://tulumtimes.com/es/cultural-workers-union-tulum-fee-cuts",
+        "https://www.openstreetmap.org/relation/16824245"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Zona Arqueológica de Cobá (e a pirâmide Nohoch Mul)",
+      "categoria": "atracao",
+      "cidade": "tulum",
+      "tags": [
+        "ruínas",
+        "maia",
+        "Cobá",
+        "pirâmide",
+        "subir",
+        "bicicleta",
+        "selva"
+      ],
+      "coords": {
+        "lat": 20.4887815,
+        "lng": -87.7260038
+      },
+      "descricaoCurta": "Cidade maia na selva com a pirâmide mais alta da península (42 m, 120 degraus); a subida foi reaberta com escada de madeira, grupos de 15 e 15 min no topo.",
+      "descricaoLonga": "Sítio a cerca de 42–44 km a noroeste de Tulum (45 min de carro; ADO ~1h desde Tulum). SUBIR A PIRÂMIDE: sim, é possível de novo. Foi fechada por ~6 anos; obras começaram em jun/2025 com escada de madeira protegendo os 120 degraus originais; hoje: grupos de até 15 pessoas e 15 minutos no topo. HORÁRIO: 8h–17h com última entrada 16h (outra fonte diz 9h–17h, última 15h30). PREÇO: fontes muito divergentes, de ~100 a 421 para estrangeiros (mar/2026: 210 em blog espanhol; outra fonte: 421; fontes antigas: 70–100): confirme na bilheteria. O sítio é grande (2+ km até a pirâmide principal): alugue bicicleta (M$80, set/2025, Wikivoyage) ou triciclo com condutor. Leve água, repelente e calçado fechado.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "ter": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "qua": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "qui": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "sex": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "sab": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00",
+        "dom": "08:00–17:00 (última entrada 16:00); outra fonte: 09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (8h): caminhar de bicicleta e subir antes do calor.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 100,
+        "max": 421,
+        "por": "pessoa",
+        "inclui": "Entrada (fontes divergentes); bicicleta ~80 à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://blog.felicesvacaciones.es/que-dias-abre-coba",
+          "https://escapadas.mexicodesconocido.com.mx/atractivos/zona-arqueologica-de-coba/",
+          "https://en.wikivoyage.org/wiki/Cob%C3%A1",
+          "https://foodandpleasure.com/?p=230135"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Subida à pirâmide: grupos de até 15 pessoas, 15 min no topo (relato)."
+      ],
+      "pontoPartida": "Estrada 307 até Tulum, depois 44 km a noroeste; carro (45 min) ou ADO.",
+      "dicasAgente": [
+        "VALE CADA PESO: única pirâmide onde ainda dá para subir na região; combina com Tulum e um cenote no mesmo dia.",
+        "CORTE SE APERTAR: triciclo com condutor; uma bicicleta basta.",
+        "Dia pesado: Cobá fica a ~1h de Tulum; sem carro, fica puxado."
+      ],
+      "alertas": [
+        "Preço NÃO confirmado: 70–100 (fontes antigas) a 210–421 (2026); levar ~450 de reserva por pessoa.",
+        "Regras de subida podem mudar sem aviso (chuva, restauro)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cob%C3%A1_Nohoch_Mul_feb_2011.JPG?width=900",
+        "credito": "Yodigo",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cob%C3%A1_Nohoch_Mul_feb_2011.JPG"
+      },
+      "fontes": [
+        "https://blog.felicesvacaciones.es/que-dias-abre-coba",
+        "https://escapadas.mexicodesconocido.com.mx/atractivos/zona-arqueologica-de-coba/",
+        "https://en.wikivoyage.org/wiki/Cob%C3%A1",
+        "https://foodandpleasure.com/?p=230135",
+        "https://www.openstreetmap.org/way/50657879"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Chichén Itzá (ingresso único de 697 e como visitar)",
+      "categoria": "atracao",
+      "cidade": "valladolid",
+      "tags": [
+        "maia",
+        "maravilha",
+        "Chichén Itzá",
+        "dia inteiro",
+        "INAH",
+        "calor",
+        "bilhete único"
+      ],
+      "coords": {
+        "lat": 20.6828763,
+        "lng": -88.5687184
+      },
+      "descricaoCurta": "A grande maravilha maia: desde 27/mar/2026 há bilhete único de MXN 697 para estrangeiros (antes, duas filas somando 676); fica a ~2h30–3h de Playa/Cancún.",
+      "descricaoLonga": "INGRESSO REAL PARA ESTRANGEIRO: em 2026 eram DUAS taxas: INAH 105 + governo estadual de Yucatán (AAFY) 571 = 676. Desde 27/mar/2026 (testes em 21–22/mar) há JANELA ÚNICA com bilhete de 697 (pagamento único no Centro de Atención a Visitantes). Isenções de taxa estadual: maiores de 60, menores de 13, estudantes e professores com credencial etc. Domingo grátis só para mexicanos e estrangeiros RESIDENTES: o casal paga. Não se pode subir El Castillo nem o Templo dos Guerreiros (proibido desde 2006). CALOR: não achei aviso oficial do INAH em fonte aberta; no sítio sem sombra, o melhor é chegar à abertura, levar chapéu, protetor e 1,5 L de água cada, e sair antes do meio-dia (excursões chegam por volta das 11h). Horário oficial: não consegui confirmar (página do INAH deu 404); o Wikivoyage diz apenas 'diário'. Show de luz e som noturno: segundo o Wikivoyage, noturno às 20h (confirmar). COMO IR: ônibus ADO Cancún–Chichén ~M$258 (3h) (Wikivoyage); colectivo Valladolid–Chichén ~M$50 (45 min); carro por autopista cuota: Valladolid–Cancún M$427 (abr/2026).",
+      "duracao": {
+        "min": 150,
+        "tipica": 210,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura do sítio: entrar antes das excursões e do calor; ver El Castillo, jogo de bola e Cenote Sagrado antes das 11h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 697,
+        "max": 697,
+        "por": "pessoa",
+        "inclui": "Bilhete único para estrangeiros (desde 27/mar/2026): inclui as taxas federal (INAH) e estadual; estacionamento/guia à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html",
+          "https://en.wikivoyage.org/wiki/Chichen_Itza",
+          "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido subir nas estruturas.",
+        "Tripés exigem licença (Wikivoyage)."
+      ],
+      "pontoPartida": "Entrada do Centro de Atención a Visitantes; chegar de ônibus ADO/ carro / Tren Maya + transfer.",
+      "dicasAgente": [
+        "VALE CADA PESO: é a atração arqueológica #1 da península: ir com a abertura.",
+        "VALE CADA PESO: fazer Chichén + Suytun + Valladolid (almoço M$80–110) em um dia de carro.",
+        "CORTE SE APERTAR: tours de Cancún/Playa que embutem Ik Kil e almoço: com ADO (~M$258) + entrada de 697 você controla o custo.",
+        "CORTE SE APERTAR: guias na porta e souvenirs de dentro do sítio (preços iniciais costumam ser negociáveis)."
+      ],
+      "alertas": [
+        "Entrada era 676 (duas taxas) até mar/2026 e 697 hoje; confirmar se houve novo reajuste.",
+        "Calor extremo e quase nenhuma sombra: hidratação obrigatória.",
+        "Horário oficial NÃO confirmado."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen_Itza_3.jpg?width=900",
+        "credito": "Daniel Schwen",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+      },
+      "fontes": [
+        "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html",
+        "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html",
+        "https://en.wikivoyage.org/wiki/Chichen_Itza",
+        "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html",
+        "https://www.openstreetmap.org/way/49475802"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Laguna de los Siete Colores (Bacalar): barco, veleiro ou caiaque",
+      "categoria": "passeio",
+      "cidade": "bacalar",
+      "tags": [
+        "Bacalar",
+        "laguna",
+        "veleiro",
+        "caiaque",
+        "estromatólitos",
+        "alerta ambiental",
+        "Siete Colores"
+      ],
+      "coords": {
+        "lat": 18.7692904,
+        "lng": -88.3060049
+      },
+      "descricaoCurta": "A laguna azul de água doce: barco compartilhado (~250), veleiro (~1.100) ou caiaque (150–250/h); precisa de pelo menos 1 noite e traz alerta ambiental sério.",
+      "descricaoLonga": "COMO IR: ~5 h por rodovia desde Cancún (Wikivoyage); ADO a partir das grandes cidades, Tren Maya e colectivos desde Tulum por ~M$180. VALE COM POUCO TEMPO? Só se você puder dormir 1 noite: como bate-volta de Cancún/Playa são ~10 h de estrada. TIPOS DE PASSEIO: (a) barco compartilhado ~M$250 por 2 h com 5 paradas (Wikivoyage, data não informada); (b) veleiro compartilhado: Civitatis cobra a partir de R$300,94 por pessoa (≈MXN 1.083 ao câmbio de 8/out/2026) por 4 h, com guia, água, cerveja e guacamole; paradas típicas: Cenote Negro, Isla de los Pájaros, Canal de los Piratas; embarque no muelle da Av. 5; cancelamento grátis até 48 h; (c) caiaque M$150–250 por hora (Wikivoyage). RESTRIÇÕES: o Wikivoyage informa que a laguna fecha para atividades às QUARTAS-FEIRAS; uma matéria de 2020 confirma o acordo de descanso da navegação às quartas com o município, mas diz que particulares o desrespeitavam. Em jul/2026 a Proteção Civil exigiu colete em todos os passeios e lotação máxima. ALERTA AMBIENTAL: a laguna perde cores por esgoto não tratado, turismo desordenado e fertilizantes (UNAM, jul/2020; recuperação levaria décadas) e, após a tempestade Cristóbal (jun/2020), a água ficou acinzentada/esverdeada e só parte recuperou a cor em 14 meses (matéria de ago/2021). Não encontrei fonte de 2026 sobre a cor ATUAL da água: peça fotos recentes à hospedagem/operadora e vá no meio do dia, com sol alto. PROTETOR SOLAR: a regra explícita que encontrei (Food & Pleasure) é para o Cenote Azul — evitar protetor e repelente e não tocar estromatólitos; por prudência, use roupa UV e protetor só ANTES de chegar, e escolha operadora que proíba protetor a bordo.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [
+        "qua"
+      ],
+      "melhorHorario": "Sol alto (10h–14h) para as cores; evitar quarta-feira.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 1083,
+        "por": "pessoa",
+        "inclui": "Barco compartilhado ~250/2 h; veleiro ~1.083/4 h com bebidas e guacamole (R$300,94 convertidos a 3,6 MXN/BRL); caiaque 150–250/h",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Bacalar",
+          "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Colete obrigatório em passeios (jul/2026).",
+        "Evitar protetor solar e repelente na água."
+      ],
+      "pontoPartida": "Muelle da Av. 5, Bacalar (veleiros); vários píeres na costera.",
+      "dicasAgente": [
+        "VALE CADA PESO: o veleiro de 4 h com paradas no Cenote Negro e no Canal de los Piratas é o melhor passeio da região; dividir um barco privado também sai razoável.",
+        "CORTE SE APERTAR: se tiver só 1 dia de região, cortar Bacalar e ficar com Isla Mujeres/Cobá; a viagem custa um dia inteiro.",
+        "Combinar com Cenote Azul (ingresso baixíssimo) e dormir 1 noite em hostal."
+      ],
+      "alertas": [
+        "ALERTA AMBIENTAL: a laguna está degradada; não use protetor, repelente nem produtos químicos na água e não pise nos estromatólitos.",
+        "A COR atual da água não pôde ser confirmada (últimos relatos são de 2020–2021).",
+        "Valores do Wikivoyage são de data não informada (barco M$250 provavelmente subiu).",
+        "Navegação restrita às quartas-feiras; confirme com a operadora."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Bacalar.JPG?width=900",
+        "credito": "Wasquewhat",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Laguna_de_Bacalar.JPG"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Bacalar",
+        "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/",
+        "https://www.rivieramayanews.mx/bacalar-launches-preventive-measures-for-summer-vacation-season/",
+        "https://www.poresto.com/quintana-roo/2020/10/28/particulares-no-respetan-dias-de-navegacion-en-bacalar-acusan.html",
+        "https://ruptura360.mx/medioambiente/unam-laguna-de-bacalar-siete-colores/",
+        "https://ruptura360.mx/medioambiente/secuelas-laguna-bacalar-en-riesgo/",
+        "https://foodandpleasure.com/cenote-azul/",
+        "https://www.openstreetmap.org/relation/10271432"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ferry Cancún–Isla Mujeres (Ultramar e Xailing)",
+      "categoria": "experiencia",
+      "cidade": "isla-mujeres",
+      "tags": [
+        "ferry",
+        "Isla Mujeres",
+        "Ultramar",
+        "Xailing",
+        "transporte",
+        "econômico"
+      ],
+      "coords": {
+        "lat": 21.1876128,
+        "lng": -86.8076662
+      },
+      "descricaoCurta": "Travessia de ~18 min a cada 30 min; Ultramar saía a 270 por adulto (540 ida e volta, valores de 2024); Puerto Juárez é o ponto mais frequente.",
+      "descricaoLonga": "Operadoras: Ultramar (Puerto Juárez, Playa Tortugas km 6,5 e Playa Caracol km 9,5) e Xailing (Grupo Xcaret, Embarcadero de Cancún, saídas 9h–19h). TARIFAS (reportagem de jan/2024; valores de 2026 podem ser maiores): Ultramar adulto 270 ida / 540 ida e volta, criança 200/400, residentes de Q. Roo 100/200; Xailing 261 adulto e 198 criança (taxa ambiental incluída). Cancún→Isla: 5h30–23h, a cada 30 min; Isla→Cancún: 6h–0h. Duração: ~18 min de Puerto Juárez (Wikivoyage). Bagagem de 25 kg; chegar 30–40 min antes; bilhetes válidos por 6 meses. O Wikivoyage lista M$258–468 em 2022 para vários terminais. Taxa de saneamento ambiental municipal inclusa.",
+      "duracao": {
+        "min": 18,
+        "tipica": 25,
+        "max": 40
+      },
+      "horarios": {
+        "seg": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "ter": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "qua": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "qui": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "sex": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "sab": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+        "dom": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída cedo (6h–9h) para ter o dia inteiro na ilha.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 270,
+        "max": 540,
+        "por": "pessoa",
+        "inclui": "Ultramar adulto: 270 só ida / 540 ida e volta (jan/2024); inclui taxa ambiental",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/",
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php"
+      },
+      "contato": {
+        "telefone": "+52 (998) 460-3084",
+        "whatsapp": "+52 (998) 460-3084",
+        "site": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php",
+        "instagram": "@ultramarferry"
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal Marítima Puerto Juárez (Av. López Portillo, Cancún); Playa Tortugas (km 6,5) e Playa Caracol (km 9,5) na Zona Hotelera.",
+      "dicasAgente": [
+        "VALE CADA PESO: a travessia + dia em Isla Mujeres é o passeio de ilha mais barato da região.",
+        "Saindo de Puerto Juárez, o ônibus R-1/R-2 até lá é barato; os terminais da Zona Hotelera são mais caros em transporte, mas mais fáceis para hóspedes da hotelera.",
+        "CORTE SE APERTAR: terminais premium (Playa Caracol/Tortugas) e Xailing se Puerto Juárez fizer sentido no seu hotel."
+      ],
+      "alertas": [
+        "Preços de jan/2024: confirme em 2026; o site oficial não exibiu valores na extração.",
+        "Ferries não aceitam bilhete trocado entre operadoras (relato Wikivoyage para Cozumel)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/",
+        "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php",
+        "https://www.ultramarferry.com",
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+        "https://www.openstreetmap.org/node/6182277415"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Carrinho de golfe em Isla Mujeres: preço, documentos e golpe",
+      "categoria": "aluguel-veiculo",
+      "cidade": "isla-mujeres",
+      "tags": [
+        "golf cart",
+        "Isla Mujeres",
+        "aluguel",
+        "golpe",
+        "documentos",
+        "ilha em 1 dia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Alugar um carrinho de golfe é o jeito clássico de rodar a ilha (~7 km); a faixa varia de ~900 a ~2.000 por dia, e há golpe na orla.",
+      "descricaoLonga": "ALUGUEL (preencha com os veículos): carrinho de golfe elétrico/a gasolina para até 4 passageiros (Privilege Hotels); scooter de aluguel também existe (Wikivoyage: US$30/dia em 2019). PREÇOS: Wikivoyage (2019) cita ~US$50/dia (≈MXN 900 ao câmbio de 8/out/2026); buscas de 2026 indicam MXN 1.300–2.000 por dia, mas essa faixa não foi confirmada em página aberta, então use 900–2.000 como alcance. DOCUMENTOS: é exigida carteira de motorista válida, que fica no balcão; pagamento antecipado em dinheiro ou cartão (Privilege Hotels). Não há confirmação de que a CNH brasileira seja aceita — leve a CNH física e o passaporte. REGRAS: máximo 4 pessoas, proibido em praia, calçadão e estrada de terra; sinalizar com a mão; estacionar só em calçada lisa/branca (amarelo proibido); não pode embarcar no ferry; aluguéis diários após 9h devem voltar até 17h. GOLPE: em dez/2024 um turista pagou MXN 5.500 por 1 h de aluguel combinado a 1.000 com um agenciador na Av. Rueda Medina; a prefeitura diz haver ~30 agências cadastradas e ~40 comissionistas; alugue em loja estabelecida e feche o preço total por escrito. Táxi na cidade: M$30 (Wikivoyage). A ilha tem ~7 km de comprimento.",
+      "duracao": {
+        "min": 240,
+        "tipica": 360,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "ter": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "qua": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "qui": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "sex": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "sab": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+        "dom": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pegar às 9h, devolver às 17h; contornar a ilha de manhã e deixar praia para a tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 900,
+        "max": 2000,
+        "por": "grupo",
+        "inclui": "Aluguel por dia (1 carrinho para até 4 pessoas), gasolina normalmente inclusa; faixa estimada (900 = US$50 de 2019; 2.000 = relatos de 2026 não confirmados)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+          "https://open.er-api.com/v6/latest/USD",
+          "https://www.privilegehotels.com/isla-mujeres/blog/golf-car-rental"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Carteira de motorista válida.",
+        "Máx. 4 pessoas; proibido na praia/calçadão; não embarca no ferry."
+      ],
+      "pontoPartida": "Lojas ao redor do embarcadero (Av. Rueda Medina), não com agenciadores avulsos.",
+      "dicasAgente": [
+        "VALE CADA PESO: dividido por dois, o carrinho cobre a ilha toda (Playa Norte, Garrafón, Punta Sur, ruínas) em 1 dia: melhor custo-benefício da ilha.",
+        "VALE CADA PESO: fechar o preço TOTAL (dia, seguro/avaria, gasolina) antes de assinar; tirar fotos do carrinho antes e depois.",
+        "CORTE SE APERTAR: scooter ou bicicleta (a ilha é pequena) ou táxi M$30 dentro do centro."
+      ],
+      "alertas": [
+        "GOLPE: cobrança de MXN 5.500 por 1 h combinada a 1.000 (dez/2024). Não feche com agenciador de rua.",
+        "Preço 2026 não foi confirmado em página aberta; a faixa é estimada.",
+        "Dirigir apenas com carteira válida; com álcool é crime."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golf_Cart_Rental_Business_Isla_Mujeres_2022.jpg?width=900",
+        "credito": "Larry D. Moore",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Golf_Cart_Rental_Business_Isla_Mujeres_2022.jpg"
+      },
+      "fontes": [
+        "https://www.poresto.com/quintana-roo/isla-mujeres/2024/12/10/turista-expone-estafa-en-negocios-de-carritos-de-golf-en-isla-mujeres-le-cobraron-mas-de-5-mil-pesos.amp.html",
+        "https://www.privilegehotels.com/isla-mujeres/blog/golf-car-rental",
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Ferry Playa del Carmen–Cozumel (Ultramar e Winjet)",
+      "categoria": "experiencia",
+      "cidade": "cozumel",
+      "tags": [
+        "ferry",
+        "Cozumel",
+        "Ultramar",
+        "Winjet",
+        "transporte"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Travessia de ~30–45 min a cada hora entre Playa del Carmen e Cozumel, ~260 por adulto só ida (dez/2023); dois operadores.",
+      "descricaoLonga": "Duas empresas operam a rota a cada hora: Winjet e Ultramar (Wikivoyage, dez/2023: M$260). Saídas de Playa de 8h às 20h, travessia ~30 min (Wikivoyage Playa) — outras fontes citam 40–45 min. Terminais: Terminal Marítima NAVEGA (Av. Benito Juárez, Playa) e Terminal Marítima San Miguel (Av. Rafael Melgar, Cozumel). Bagagem: 25 kg. Compre ida de cada vez: os bilhetes não são transferíveis entre operadores. Cozumel fica cheia de turistas de cruzeiro de dezembro a abril.",
+      "duracao": {
+        "min": 30,
+        "tipica": 35,
+        "max": 45
+      },
+      "horarios": {
+        "seg": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "ter": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "qua": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "qui": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "sex": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "sab": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+        "dom": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Primeiro barco da manhã para aproveitar o dia.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 260,
+        "max": 260,
+        "por": "pessoa",
+        "inclui": "Ida adulta (dez/2023); 2026 provavelmente igual ou maior",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+          "https://en.wikivoyage.org/wiki/Cozumel"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php"
+      },
+      "contato": {
+        "telefone": "+52 (998) 460-3084",
+        "whatsapp": "+52 (998) 460-3084",
+        "site": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php",
+        "instagram": "@ultramarferry"
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal Marítima NAVEGA, Av. Benito Juárez, Playa del Carmen.",
+      "dicasAgente": [
+        "VALE CADA PESO: ida e volta ~520 para uma ilha inteira de snorkel e praias.",
+        "CORTE SE APERTAR: alugar scooter/carro na ilha (~US$25/55 por dia no Wikivoyage, dado de 2022) só se dividir bem; táxi e praia de Palancar podem bastar."
+      ],
+      "alertas": [
+        "Preço de dez/2023 e fev/2022: confirmar em 2026.",
+        "Em dia de vento/mar agitado o ferry pode atrasar ou cancelar."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+        "https://en.wikivoyage.org/wiki/Cozumel",
+        "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar",
+      "categoria": "passeio",
+      "cidade": "cozumel",
+      "tags": [
+        "mergulho",
+        "snorkel",
+        "Cozumel",
+        "Palancar",
+        "recife",
+        "alerta",
+        "voo"
+      ],
+      "coords": {
+        "lat": 20.3522293,
+        "lng": -87.0224394
+      },
+      "descricaoCurta": "Palancar é recife de classe mundial (15–34 m, correntes); respeite as 12–18 h de espera antes de voar após mergulhar com cilindro.",
+      "descricaoLonga": "Palancar fica na costa sudoeste de Cozumel, no Parque Nacional Arrecifes de Cozumel; mergulhos de 15 a 34 m, com formações de recife, cavernas e correntes. Snorkel: dá para fazer da Playa Palancar (aluguel ~US$10). PREÇOS DE PASSEIO/MERGULHO: não obtive tabela confiável de operadoras de Cozumel em fonte aberta; a MUSA (Cancún/Isla Mujeres) lista mergulho a US$115–189. ALERTA OFICIAL DO DAN: espere no mínimo 12 h depois de um único mergulho sem descompressão e 18 h depois de vários mergulhos no mesmo dia ou em dias seguidos antes de voar (consenso do workshop de 2002). Muitas operadoras pedem 24 h por precaução (prática comum; não confirmada em fonte aberta). Planeje o mergulho para o dia anterior ao voo com margem. Além disso, o Wikivoyage recomenda não beber álcool por ~12 h antes e depois de mergulhar.",
+      "duracao": {
+        "min": 240,
+        "tipica": 300,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (menos vento); mergulhos de 2 tanques saem cedo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço de operadoras de Cozumel não confirmado; aluguel de snorkel na praia ~180 (US$10 do Wikivoyage convertido)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cozumel",
+          "https://dan.org/health-medicine/health-resources/diseases-conditions/flying-after-diving/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mergulho com cilindro exige certificação (ou batismo)",
+        "Não voar nas 12–18 h seguintes (DAN)."
+      ],
+      "pontoPartida": "Píer de San Miguel ou praia de Palancar, conforme operadora.",
+      "dicasAgente": [
+        "VALE CADA PESO: snorkel de Palancar/Playa pela via mais barata: aluguel na praia (~180).",
+        "CORTE SE APERTAR: mergulho de cilindro (batismo) se o orçamento estiver curto: além do custo, cria restrição de voo.",
+        "Se for mergulhar, programe o voo para 24 h depois do último mergulho (margem de segurança)."
+      ],
+      "alertas": [
+        "ALERTA: não voar nas 12 h (1 mergulho) a 18 h (vários mergulhos) após mergulho com cilindro (DAN). Em dúvida, espere 24 h.",
+        "Preços de operadoras não confirmados.",
+        "Cozumel Palancar Gardens teve fechamento temporário em 2019 para avaliação do recife."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palancar_beach_Cozumel_Mexico_%2821202413478%29.jpg?width=900",
+        "credito": "dronepicr",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palancar_beach_Cozumel_Mexico_(21202413478).jpg"
+      },
+      "fontes": [
+        "https://dan.org/health-medicine/health-resources/diseases-conditions/flying-after-diving/",
+        "https://en.wikipedia.org/wiki/Palancar_Reef",
+        "https://en.wikivoyage.org/wiki/Cozumel",
+        "https://www.openstreetmap.org/relation/16762823"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "MUSA: Museu Subaquático de Arte (Cancún / Isla Mujeres)",
+      "categoria": "museu",
+      "cidade": "cancun",
+      "tags": [
+        "museu subaquático",
+        "MUSA",
+        "snorkel",
+        "esculturas",
+        "Jason deCaires Taylor",
+        "Punta Nizuc"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Mais de 450 figuras de concreto sob o mar; snorkel a partir de US$58 (≈MXN 1.044) no site oficial.",
+      "descricaoLonga": "O MUSA tem galerias em Punta Nizuc (Cancún), Manchones (Isla Mujeres) e Punta Sam (Riviera Maya), com esculturas de Jason deCaires Taylor (45 módulos, 450 figuras em concreto marinho e fibra). Experiências oficiais: snorkel a partir de US$58 (Punta Nizuc, saindo de Cancún); mergulho US$115–189 (com ou sem certificação, de Cancún ou Isla Mujeres); barco com fundo de vidro US$58–78; tour combinado com selva US$70. Conversão a 18,0066 MXN/USD (8/out/2026): snorkel ≈1.044; vidro ≈1.044–1.404; mergulho ≈2.070–3.403. Horários e regras não constam na página extraída: peça confirmação por WhatsApp/telefone.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, com mar calmo e visibilidade melhor; evitar dias de ventania.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1044,
+        "max": 3403,
+        "por": "pessoa",
+        "inclui": "Snorkel a partir de US$58; mergulho até US$189 (convertidos a 18,0066 MXN/USD em 8/out/2026; estimativa)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.musamexico.org",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.musamexico.org"
+      },
+      "contato": {
+        "telefone": "+52 998 206 0182",
+        "whatsapp": "",
+        "site": "https://www.musamexico.org",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mergulho: certificado ou batismo conforme pacote."
+      ],
+      "pontoPartida": "Saída de marinas em Cancún ou Isla Mujeres (confirmar com a operadora).",
+      "dicasAgente": [
+        "VALE CADA PESO: a única atração 'museu' do roteiro com cara de mergulho; faz sentido para snorkel-lovers.",
+        "CORTE SE APERTAR: a versão com mergulho de cilindro; o snorkel já mostra boa parte das estátuas rasas."
+      ],
+      "alertas": [
+        "Preços em USD; no checkout pode haver variação cambial.",
+        "Horários e regras não confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Dream_Collector_%2822343585365%29.jpg?width=900",
+        "credito": "Andy Blackledge from Scottsdale, AZ, USA",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:The_Dream_Collector_(22343585365).jpg"
+      },
+      "fontes": [
+        "https://www.musamexico.org",
+        "https://open.er-api.com/v6/latest/USD"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Nado com tubarão-baleia (Isla Mujeres / Cancún)",
+      "categoria": "passeio",
+      "cidade": "isla-mujeres",
+      "tags": [
+        "tubarão-baleia",
+        "whale shark",
+        "Isla Mujeres",
+        "Holbox",
+        "passeio",
+        "temporada",
+        "Conanp"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Temporada de 15/mai a 17/set (pico julho–agosto); em 2026 o preço caiu a ~1.300 por pessoa, mas ainda é um passeio de dia inteiro com regras rígidas.",
+      "descricaoLonga": "TEMPORADA: 15 de maio a 17 de setembro; pico julho e agosto (ambientalistas sugerem restringir a julho–agosto). Fora dessas datas, tours com tubarão-baleia são ilegais; em outubro/2026 a temporada de 2026 já terminou: o próximo ciclo começa em meados de maio de 2027. PREÇO: Poresto (nov/2025) relata operadoras baixando para MXN 1.300 por pessoa (recomendado: 2.000+, 'guerra de preços'); Cancun Trip Insider (out/2026) lista US$155–229 por pessoa (≈MXN 2.790–4.120) mais taxas de parque/doca de US$10–30 em dinheiro. Duração 6–10 h: 60–90 min de barco por trecho, 30–45 min na água e snorkel de recife. Saídas: Puerto Juárez, Punta Sam ou Isla Mujeres (mais perto dos tubarões). REGRAS: sem protetor solar na água, colete salva-vidas obrigatório, máx. 2 nadadores + 1 guia por tubarão, não tocar/montar nem bloquear o caminho, sem flash a menos de 3 m; mergulho de cilindro é proibido (só snorkel). OPERADORAS: existem ~120 embarcações licenciadas partindo de Isla Mujeres, até 10 pessoas por barco; escolha operadora com permissão da Conanp e peça o número da licença do barco. Não encontrei lista oficial aberta. 2026 foi previsto como mais um ano fraco (menos visitantes e queda de reservas).",
+      "duracao": {
+        "min": 360,
+        "tipica": 480,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Julho e agosto são os meses de maior presença; saídas de manhã cedo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1300,
+        "max": 4120,
+        "por": "pessoa",
+        "inclui": "Passeio com café/almoço, equipamento, colete e guia (varia); taxas de parque/doca US$10–30 em dinheiro à parte; faixa baixa do Poresto e alta convertida de US$229 a 18,0066",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.poresto.com/quintana-roo/isla-mujeres/2025/11/28/preven-otra-mala-temporada-de-avistamiento-del-tiburon-ballena-en-2026-en-isla-mujeres.html",
+          "https://www.cancuntripinsider.com/guides/cancun/whale-shark-tour-cancun-mexico",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 3,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem protetor solar na água.",
+        "Colete obrigatório.",
+        "Só snorkel."
+      ],
+      "pontoPartida": "Puerto Juárez / Punta Sam / Isla Mujeres (conforme a operadora).",
+      "dicasAgente": [
+        "VALE CADA PESO: encontro com o maior peixe do mundo é raro; se for em julho–agosto, vale reservar.",
+        "CORTE SE APERTAR: é um dos passeios mais caros da região; se o orçamento apertar, corte e priorize Isla Mujeres, cenotes e ruínas.",
+        "Desconfiar do preço muito baixo (~1.300): confira licença Conanp, nº de passageiros e se inclui taxas."
+      ],
+      "alertas": [
+        "Temporada 2026 já encerrada; próxima: meados de maio de 2027 (15/mai–17/set).",
+        "Preços variam muito entre fontes (moeda e data); confirme.",
+        "Não toque nos animais; multa e perda de licença para operadoras."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale_shark_at_Isla_Mujeres.jpg?width=900",
+        "credito": "MarAlliance2018",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Whale_shark_at_Isla_Mujeres.jpg"
+      },
+      "fontes": [
+        "https://www.poresto.com/quintana-roo/isla-mujeres/2025/11/28/preven-otra-mala-temporada-de-avistamiento-del-tiburon-ballena-en-2026-en-isla-mujeres.html",
+        "https://www.cancuntripinsider.com/guides/cancun/whale-shark-tour-cancun-mexico",
+        "https://www.nathab.com/blog/know-before-you-go-responsible-whale-shark-tourism-in-mexico",
+        "https://open.er-api.com/v6/latest/USD"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Coco Bongo Cancún (show + balada)",
+      "categoria": "bar",
+      "cidade": "cancun",
+      "tags": [
+        "balada",
+        "show",
+        "Zona Hotelera",
+        "open bar",
+        "18+",
+        "noite"
+      ],
+      "coords": {
+        "lat": 21.1328973,
+        "lng": -86.7472066
+      },
+      "descricaoCurta": "Mega-balada com show de acrobacias, shows temáticos e open bar; ~US$90 (≈1.620) o Regular em dia de semana, até 3.885 o Front Row.",
+      "descricaoLonga": "Casa de shows no Blvd. Kukulcán km 9,5 (Plaza Forum by the Sea). Funciona todos os dias das 20h às 3h; open bar das 20h30 às 2h15 (etransfers) e show principal por volta das 21h30. TIPOS DE INGRESSO: Regular (open bar nacional, 1 lanche; Civitatis diz válido de domingo a sexta), Premium, Gold Member e Front Row. PREÇOS: Mexico Desconocido lista em MXN Básico 1.890, Premium 2.436, Gold 3.150 e Front Row 3.885 (data do artigo não informada); a etransfers lista em USD Regular US$90–100, Premium US$125–140, Gold US$160–170, Front Row US$195–210 em dia de semana (≈1.620–1.800 o Regular ao câmbio de 8/out/2026); o Civitatis mostra 'a partir de R$537' (≈MXN 1.934). Mínimo 18 anos com identidade oficial; vestimenta smart casual (jeans, sapato fechado, camisa; sem chinelo, roupa de banho nem camiseta esportiva). Telefone 998 883 23 73. Gorjetas não incluídas.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "ter": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "qua": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "qui": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "sex": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "sab": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30",
+        "dom": "20:00–03:00; open bar 20:30–02:15; show principal ~21:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar às 20h30 para pegar bom lugar; sexta e sábado são mais lotados.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1620,
+        "max": 3885,
+        "por": "pessoa",
+        "inclui": "Entrada + show + open bar nacional/premium conforme o ingresso + lanche (Regular a Front Row); gorjetas não incluídas",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://escapadas.mexicodesconocido.com.mx/actividades/coco-bongo/",
+          "https://etransfers.com/cancun-tours/coco-bongo-show-cancun",
+          "https://www.civitatis.com/es/cancun/fiesta-coco-bongo/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.cocobongo.com"
+      },
+      "contato": {
+        "telefone": "998 883 23 73",
+        "whatsapp": "",
+        "site": "https://www.cocobongo.com",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Maiores de 18 anos com identidade oficial.",
+        "Smart casual; sem chinelo ou roupa de praia."
+      ],
+      "pontoPartida": "Blvd. Kukulcán km 9,5, Zona Hotelera (ônibus R-1/R-2 até a Zona Hotelera ou Uber).",
+      "dicasAgente": [
+        "VALE CADA PESO: uma noite no Coco Bongo vale a experiência se for beber bastante: o open bar paga o ingresso.",
+        "CORTE SE APERTAR: o Front Row/Gold (até 3.885) e a segunda noite; ficar com o Regular comprado antes online.",
+        "Comprar só no site oficial ou parceiros grandes, não de vendedor de rua."
+      ],
+      "alertas": [
+        "Regular não vale aos sábados (Civitatis); verificar a data antes de comprar.",
+        "Drogas misturadas à bebida são risco real em bares e baladas (travel.gc.ca); peça lata/garrafa lacrada e não largue o copo.",
+        "Preços de MXN e USD de fontes diferentes e de datas diferentes; o valor final varia por data e demanda."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coco_Bongo.jpg?width=900",
+        "credito": "Oleg Yunakov",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg"
+      },
+      "fontes": [
+        "https://escapadas.mexicodesconocido.com.mx/actividades/coco-bongo/",
+        "https://etransfers.com/cancun-tours/coco-bongo-show-cancun",
+        "https://www.civitatis.com/es/cancun/fiesta-coco-bongo/",
+        "https://www.cocobongo.com",
+        "https://travel.gc.ca/destinations/mexico",
+        "https://www.openstreetmap.org/node/8330184151"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mandala Beach (Cancún): beach club de dia e festa na piscina",
+      "categoria": "bar",
+      "cidade": "cancun",
+      "tags": [
+        "beach club",
+        "balada",
+        "Zona Hotelera",
+        "open bar",
+        "festa de dia",
+        "18+"
+      ],
+      "coords": {
+        "lat": 21.1327225,
+        "lng": -86.7465714
+      },
+      "descricaoCurta": "Beach club do Grupo Mandala ao lado do Coco Bongo: dia na praia/piscina e festa na quarta à noite.",
+      "descricaoLonga": "Beach club no Blvd. Kukulcán, ao lado do Coco Bongo. Dados de agregadores (não confirmados por mim em página aberta): Mandala Beach Day funcionaria diariamente das 11h às 17h30 e Mandala Beach Night (pool party) às quartas das 22h às 3h; cobertura de entrada ~MXN 475 e passe de bebidas ilimitadas ~MXN 1.200 em 3/out/2026; 18+ com identidade; traje 'beachwear sofisticado'. A venda oficial é pelo MandalaTickets (Mandala Beach e Mandala aparecem no menu de Cancún); eu não consegui abrir as páginas com preços. Perto do Coco Bongo, dá para fazer a noite em sequência.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dia: 11h–17h; noite: quarta (pool party).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não confirmado em página aberta (agregador cita ~475 de entrada e ~1.200 com open bar)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mandalatickets.com"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.mandalatickets.com"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.mandalatickets.com",
+        "instagram": ""
+      },
+      "restricoes": [
+        "18+ com identidade."
+      ],
+      "pontoPartida": "Blvd. Kukulcán, Zona Hotelera (perto do Coco Bongo).",
+      "dicasAgente": [
+        "VALE CADA PESO: só se o plano for festa de dia + noite no mesmo lugar e o sargaço do dia estiver verde.",
+        "CORTE SE APERTAR: o dia no beach club; use Playa Tortugas/Caracol (grátis) e guarde o dinheiro para uma noite de Coco Bongo."
+      ],
+      "alertas": [
+        "Preços não confirmados: valide no MandalaTickets antes de ir.",
+        "Mesmos riscos de drink spiking de qualquer balada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.mandalatickets.com",
+        "https://www.openstreetmap.org/way/1154826949"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Quinta Avenida e a noite de Playa del Carmen",
+      "categoria": "bar",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "Quinta Avenida",
+        "Playa del Carmen",
+        "vida noturna",
+        "bares",
+        "calle 12",
+        "calle 8",
+        "compras"
+      ],
+      "coords": {
+        "lat": 20.634724,
+        "lng": -87.0666549
+      },
+      "descricaoCurta": "A Quinta Avenida é um calçadão de ~20 quadras com lojas e restaurantes; bares fecham ~22h, mas as baladas viram a noite; Calle 8 tem bares locais e Calle 12 reúne turistas.",
+      "descricaoLonga": "Calçadão (pedonal, de paralelepípedo) de cerca de 20 quadras (Wikivoyage). Restaurantes e bares costumam fechar por volta das 22h, mas as baladas funcionam pela noite. Calle 8 (entre a 5ª e a 10ª avenidas): bares locais com música ao vivo e mesa de sinuca, fecham ~2h; Calle 12: bares voltados a turistas perto da praia, onde houve relatos de drink spiking depois da meia-noite (Cancun Trip Insider, jun/2026): fique em grupo e nunca largue o copo. Os 'agências de viagem' da Quinta costumam ser salas de timeshare (ver item de golpes). Para preços melhores, afaste-se 2 quadras da Quinta (Wikivoyage). Colectivos Playa–Tulum/Cancún circulam 4h30–22h30 (Wikivoyage, fev/2022). Em 1 a 2 noites: jantar com tacos na avenida 10–30, bar na Calle 8 e, se quiser balada, ir à Calle 12 com o grupo.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol + jantar às 19h; baladas depois de 23h.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Passeio livre; consumo por conta própria",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé desde qualquer hotel do Centro; fora da zona turística, preferir transporte de aplicativo/taxi estabelecido à noite.",
+      "dicasAgente": [
+        "VALE CADA PESO: passar de dia e à noite pela Quinta e Calle 8; é grátis e dá a energia da cidade.",
+        "VALE CADA PESO: bares da Calle 8 e restaurantes 2 quadras para dentro (Av. 10–30): mais baratos que a Quinta.",
+        "CORTE SE APERTAR: jantar e drinks 'na Quinta' e cobertura de balada; o Wikivoyage recomenda sair da avenida para pagar menos."
+      ],
+      "alertas": [
+        "Drink spiking reportado perto da Calle 12 depois da meia-noite.",
+        "Nenhuma sala de 'turismo' da Quinta deve ser tratada como informação oficial: são vendas de timeshare.",
+        "Os preços do Wikivoyage são antigos."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking_on_Quinta_Avenida%2C_Playa_del_Carmen%2C_QR%2C_Mexico.jpg?width=900",
+        "credito": "Dennis Sylvester Hurd",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Walking_on_Quinta_Avenida,_Playa_del_Carmen,_QR,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+        "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe",
+        "https://www.openstreetmap.org/way/69686188"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bares e noite em Tulum (praia e pueblo)",
+      "categoria": "bar",
+      "cidade": "tulum",
+      "tags": [
+        "Tulum",
+        "bares",
+        "praia",
+        "vida noturna",
+        "caro",
+        "golpes"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "A noite de Tulum é cara e concentrada na zona hoteleira (Santino, Batey's e beach clubs); o pueblo tem tacos e bares mais baratos.",
+      "descricaoLonga": "O Wikivoyage cita Santino, Batey's e beach clubs como cenário de balada, mas alerta: bebidas caras e golpes reportados. A cidade se divide em Pueblo (hospedagem barata e taquerias com pratos bem abaixo de M$100), Playa (hotéis e baladas) e Ruinas. Leve pesos; coloque suprimentos do pueblo antes de ir à praia. Para quem é econômico, a melhor estratégia é fazer o jantar e o primeiro drink no pueblo e ir à praia só pelo clima, sem sentar em mesa de beach club.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Jantar no pueblo e visita curta à zona hoteleira.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Consumo variável; sem tabela confiável",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Zona hoteleira pela Carretera Tulum–Boca Paila; colectivo/bicicleta/táxi desde o pueblo.",
+      "dicasAgente": [
+        "VALE CADA PESO: um drink ao pôr do sol em beach club, sem mesa, para ver a cena.",
+        "CORTE SE APERTAR: mesas e consumação mínima; Tulum é a noite mais cara da viagem."
+      ],
+      "alertas": [
+        "Wikivoyage registra 'drinks overpriced and scams have been reported': fechar a conta antes e conferir a nota.",
+        "Informações sobre bares específicos são limitadas; não achei preços de fonte aberta."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Tulum"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Mercado 28 e feiras de artesanato (Cancún)",
+      "categoria": "compras",
+      "cidade": "cancun",
+      "tags": [
+        "compras",
+        "artesanato",
+        "Mercado 28",
+        "lembranças",
+        "barganha",
+        "downtown"
+      ],
+      "coords": {
+        "lat": 21.1618371,
+        "lng": -86.8340967
+      },
+      "descricaoCurta": "O mercado turístico do centro de Cancún: lembranças, artesanato e praça de alimentação; barganhe 20–30% do preço inicial e cuidado com o ônibus que leva a uma 'loja falsa'.",
+      "descricaoLonga": "Mercado 28 (Av. Xel-Há, centro de Cancún): lembranças, artesanato, praça de alimentação e restaurantes. As Feiras da Av. Tulum têm souvenirs 'extremamente baratos' e vendedores menos agressivos; o Mercado 23 é mais local (mantimentos). O Wikivoyage alerta: existe um golpe de ônibus que leva turistas a uma loja falsa dizendo ser o Mercado 28 (o verdadeiro fica algumas quadras ao norte); a Lapis Jewelry Factory cobra preços 'exorbitantes' apesar dos descontos; regra de barganha: oferecer 20–30% do preço pedido. Shoppings da Zona Hotelera (La Isla, Kukulcán Plaza) têm marcas de outlet/grife.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, antes do calor e da multidão; levar pesos em espécie.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre; compras por conta própria",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. Xel-Há, centro de Cancún (ônibus R-1/R-2 da Zona Hotelera, ~M$12).",
+      "dicasAgente": [
+        "VALE CADA PESO: feira da Av. Tulum e Mercado 28 para lembranças e redes: oferecer 20–30% do preço inicial.",
+        "VALE CADA PESO: tacos e comida corrida no entorno (ver item de comida barata).",
+        "CORTE SE APERTAR: shoppings (La Isla, Kukulcán Plaza) e a 'fábrica de joias' das excursões."
+      ],
+      "alertas": [
+        "Golpe do ônibus/transfer que leva a loja falsa se passando por Mercado 28 (Wikivoyage).",
+        "Horário de funcionamento não confirmado."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg?width=900",
+        "credito": "Kirt Edblom",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_01.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn",
+        "https://www.openstreetmap.org/way/255581984"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Golpes e armadilhas: timeshare, câmbio, bebidas, táxi e blitz",
+      "categoria": "experiencia",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "golpes",
+        "timeshare",
+        "câmbio",
+        "segurança",
+        "drink spiking",
+        "blitz",
+        "alerta"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Os golpes que mais custam caro: sala de timeshare disfarçada de 'agência de turismo', câmbio/ATM, bebida adulterada, táxi sem preço e propina em blitz.",
+      "descricaoLonga": "TIMESHARE: muitas 'agências de viagem' da Quinta Avenida de Playa del Carmen são escritórios de timeshare (Wikivoyage). O governo canadense avisa que o comprador pode cancelar o contrato em até 5 dias úteis sem multa e que quadrilhas se fazem passar por corretores oferecendo valores altos por cotas: consulte advogado mexicano antes de assinar. Não aceite 'brinde' ou 'café da manhã grátis' em troca de uma apresentação de horas. CÂMBIO/ATM: cubra o teclado ao digitar a senha, saque em caixas dentro de bancos ou estabelecimentos e confira o extrato (travel.gc.ca); o Wikivoyage sobre Cancún pede evitar golpes de câmbio em ATMs; em Playa há casas com taxa justa. Dica geral (sem fonte aberta): escolha SEMPRE ser cobrado em pesos e recuse a conversão da maquininha/ATM para reais ou dólares. BEBIDAS: criminosos adulteram comida, bebida, chiclete e cigarros em baladas, bares e táxis; peça latas/garrafas lacradas, não largue o copo (travel.gc.ca); houve relatos perto da Calle 12 (Playa) após a meia-noite. TÁXI: combine o preço antes; operadores não oficiais no aeroporto cobram a mais; à noite o preço sobe; prefira aplicativo/ponto oficial. BLITZ/POLICIA: policiais corruptos podem pedir dinheiro por infrações pequenas, inclusive em carros alugados; o governo canadense orienta: não entregar dinheiro nem passaporte, pedir nome e matrícula, mencionar ligar para o 911 e pedir multa por escrito para pagar depois. GASOLINA: desça do carro e confira se a bomba está zerada. TOURS DE CENOTE: no Dos Ojos a entrada básica é ~350 e o tour guiado 700–800; compare antes de aceitar o guia da porta. ISLA MUJERES: golpe do carrinho de golfe (ver item).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Informação gratuita",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://travel.gc.ca/destinations/mexico"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: ler este item antes de sair do hotel; perder 4 horas numa apresentação de timeshare custa uma diária de roteiro.",
+        "VALE CADA PESO: pagar sempre em pesos e sacar em caixa dentro de banco.",
+        "CORTE SE APERTAR: táxi de rua sem preço combinado e tours vendidos em calçada."
+      ],
+      "alertas": [
+        "Dirigir à noite é arriscado; usar apenas rodovias de pedágio (travel.gc.ca).",
+        "A informação sobre conversão de moeda em maquininhas é conhecimento geral, sem fonte aberta."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://travel.gc.ca/destinations/mexico",
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn",
+        "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe",
+        "https://www.poresto.com/quintana-roo/isla-mujeres/2024/12/10/turista-expone-estafa-en-negocios-de-carritos-de-golf-en-isla-mujeres-le-cobraron-mas-de-5-mil-pesos.amp.html"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida)",
+      "categoria": "restaurante",
+      "cidade": "cancun",
+      "tags": [
+        "comida barata",
+        "tacos",
+        "Parque de las Palapas",
+        "comida corrida",
+        "marisquería",
+        "centro"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Tacos a partir de M$30 no Parque de las Palapas, comida corrida de M$60–70 e tacos de peixe de M$37 no centro, longe dos preços da Zona Hotelera.",
+      "descricaoLonga": "Parque de las Palapas: tacos a partir de M$30 (jan/2025) com barracas à noite. Rodoviária: tortas M$25. Taquería el Poblano (Av. Tulum 65); El Cantón Toluqueño (Av. Tulum 4239): comida corrida M$60–70; Atotonilco (Xel-Há 107): cozinha regional US$4–10; Los de Pescados: tacos de peixe M$37 (jul/2021); Pescaditos (Av. Yaxchilán 69): frutos do mar fritos e chiles rellenos. Mercado 28 tem praça de alimentação. Preços de fontes de 2021–2025 (Wikivoyage); podem estar mais altos hoje.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite no Parque de las Palapas; almoço de comida corrida.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 70,
+        "por": "pessoa",
+        "inclui": "Por prato/lanche: tortas M$25, tacos M$30–37, comida corrida M$60–70 (preços de jul/2021 a jan/2025)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Cancún (Av. Tulum, Xel-Há, Yaxchilán).",
+      "dicasAgente": [
+        "VALE CADA PESO: almoçar a comida corrida do centro todos os dias: é a refeição mais barata e farta.",
+        "VALE CADA PESO: noite no Parque de las Palapas para ver o clima local e comer barato.",
+        "CORTE SE APERTAR: jantar na Zona Hotelera."
+      ],
+      "alertas": [
+        "Preços dos restaurantes são antigos (2021–2025).",
+        "Cuidado à noite em áreas fora do circuito turístico."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque_de_las_Palapas_1.jpg?width=900",
+        "credito": "City Foodsters",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parque_de_las_Palapas_1.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Comida barata em Playa del Carmen (tacos, carrinhos e cantinas)",
+      "categoria": "restaurante",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "comida barata",
+        "tacos",
+        "carrinhos",
+        "Playa del Carmen",
+        "longe da Quinta"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Tacos de US$2–3, carrinhos de café da manhã na Calle 2 Nte com 15ª Av. e cachorros-quentes de M$25; afaste-se 2 quadras da Quinta para pagar menos.",
+      "descricaoLonga": "Segundo o Wikivoyage: tacos geralmente US$2–3; carrinhos de café da manhã na Calle 2 Nte com 15ª Avenida; vendedores noturnos vendem cachorro-quente por M$25. Mais barato nas avenidas numeradas (10ª, 15ª, 20ª, 30ª). Preços de dados do Wikivoyage (data não informada); no Centro, as refeições fora da Quinta costumam ficar bem abaixo de restaurantes turísticos.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 75
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Café da manhã nos carrinhos; almoço nas avenidas 10–30.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 54,
+        "por": "pessoa",
+        "inclui": "Cachorro-quente M$25; tacos US$2–3 (≈36–54 ao câmbio de 8/out/2026)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle 2 Norte com 15ª Avenida e avenidas 10–30.",
+      "dicasAgente": [
+        "VALE CADA PESO: tacos nas avenidas 10–30, a 2 quadras da Quinta.",
+        "CORTE SE APERTAR: restaurantes na Quinta com cardápio em dólares e 'gorjeta sugerida' inflada."
+      ],
+      "alertas": [
+        "Preços de data não informada; confirme."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar",
+      "categoria": "restaurante",
+      "cidade": "isla-mujeres",
+      "tags": [
+        "marisquería",
+        "frutos do mar",
+        "tik-n-chik",
+        "Isla Mujeres",
+        "Bacalar",
+        "econômico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Isla Mujeres tem tacos a US$0,75, meio frango assado a ~US$5 e o prato típico tik-n-chik (peixe grelhado ao achiote); em Bacalar, marisquería à beira da laguna por ~M$300.",
+      "descricaoLonga": "Isla Mujeres (Wikivoyage): tacos a US$0,75, meio frango assado com acompanhamentos a US$5, frutos do mar de gama média a US$10–20; 'o peixe é fresco e abundante', com a especialidade tik-n-chik (peixe grelhado marinado em achiote). Cerveja em happy hour: 2 por ~US$3; vida noturna mais animada na Rua Hidalgo. Bacalar: Antojitos Orizaba (comida yucateca econômica) e Chiltepín Marisquillos (frutos do mar à beira da laguna, ~M$300). Preços de Wikivoyage, data não informada.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço no centro de Isla Mujeres.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 14,
+        "max": 360,
+        "por": "pessoa",
+        "inclui": "Tacos US$0,75 (≈14) a frutos do mar US$10–20 (≈180–360) conforme o Wikivoyage, convertidos a 18,0066 MXN/USD",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+          "https://en.wikivoyage.org/wiki/Bacalar",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Isla Mujeres / Bacalar.",
+      "dicasAgente": [
+        "VALE CADA PESO: tik-n-chik e ceviche em restaurantes 2 ruas atrás do calçadão.",
+        "CORTE SE APERTAR: restaurantes na frente do embarcadero e jantar 'à beira da laguna' em Bacalar."
+      ],
+      "alertas": [
+        "Preços do Wikivoyage; estimativas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+        "https://en.wikivoyage.org/wiki/Bacalar"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado e cenote Zací em Valladolid",
+      "categoria": "restaurante",
+      "cidade": "valladolid",
+      "tags": [
+        "Valladolid",
+        "mercado",
+        "cochinita pibil",
+        "Cenote Zací",
+        "econômico"
+      ],
+      "coords": {
+        "lat": 20.6916702,
+        "lng": -88.1973624
+      },
+      "descricaoCurta": "Valladolid: refeições de M$80–110 no mercado, tacos de M$16 e o cenote Zací a M$60 (Wikivoyage); base ótima para Chichén, Suytun e Ek Balam.",
+      "descricaoLonga": "Cidade de ~56 mil habitantes, Pueblo Mágico a ~45 min de Chichén Itzá. Mercado de comida: refeições por ~M$80–110; tacos a ~M$16; especialidades: cochinita pibil e relleno negro. Cenote Zací: ingresso M$60 (Wikivoyage) e caminho sob cortina de estalactites. Chegar: ADO Cancún–Valladolid ~2 h; Playa del Carmen 1h30; Tren Maya também para em Valladolid.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço no mercado depois de Chichén.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 16,
+        "max": 110,
+        "por": "pessoa",
+        "inclui": "Tacos M$16 até refeição de mercado M$80–110; Zací M$60 à parte",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Valladolid_(Yucat%C3%A1n)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Valladolid, a ~40 km de Chichén Itzá.",
+      "dicasAgente": [
+        "VALE CADA PESO: almoço no mercado + Zací é um dos dias mais baratos da viagem.",
+        "CORTE SE APERTAR: restaurantes de praça turística; vale dormir em Valladolid se for fazer Chichén + Suytun + Ek Balam."
+      ],
+      "alertas": [
+        "Preços de data não informada (Wikivoyage)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Yucat%C3%A1n)",
+        "https://www.openstreetmap.org/way/50510578"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Xcaret: veredito de custo-benefício",
+      "categoria": "atracao",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "parque temático",
+        "Xcaret",
+        "rios subterrâneos",
+        "show noturno",
+        "caro",
+        "veredito"
+      ],
+      "coords": {
+        "lat": 20.5819731,
+        "lng": -87.1216693
+      },
+      "descricaoCurta": "Parque ecoarqueológico com +50 atrações e o show noturno México Espectacular; entrada geral 2.756–2.859, Plus 3.311, Total 4.159 (abr/2026).",
+      "descricaoLonga": "PREÇOS 2026 (adulto): Entrada geral 2.756 (viveusa, 17/abr/2026) ou 2.859 (Excelsior, 27/mar/2026); Xcaret Plus 3.311 (adiciona buffet e acesso a lockers/chuveiros); Xcaret Total 4.159 (inclui ainda uma atividade extraordinária). Criança (5–11) 25% de desconto; menores de 4 grátis. Combos: Xcaret + Xel-Há Todo Incluído a partir de ~5.400; Xcaret + Xplor ~5.200. Até 15% de desconto comprando online com antecedência. HORÁRIO (site oficial): segunda a domingo, 8h30–22h30; o show noturno está incluído. Endereço: Carretera Chetumal–Puerto Juárez km 282, Playa del Carmen. O que inclui a entrada geral: rios subterrâneos, aquário de recife, aviário, borboletário, ruínas, shows. COMIDA NÃO está na entrada geral (só no Plus/Total). VEREDITO PARA QUEM É ECONÔMICO: casal gasta ~5.500–5.700 só na entrada geral (≈US$310), mais comida e transporte: isso equivale a ~11–27 entradas de cenote (200–500 cada). Só vale se você quer tudo em um dia (cultura, natureza e o show) e comprou online com 10–15% off. Em sargaço pesado, Xcaret/Xel-Há/El Recodo já foram atingidos (Expansión, 2022).",
+      "duracao": {
+        "min": 480,
+        "tipica": 600,
+        "max": 780
+      },
+      "horarios": {
+        "seg": "08:30–22:30",
+        "ter": "08:30–22:30",
+        "qua": "08:30–22:30",
+        "qui": "08:30–22:30",
+        "sex": "08:30–22:30",
+        "sab": "08:30–22:30",
+        "dom": "08:30–22:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar às 8h30 para fazer os rios subterrâneos antes de lotar; o show de noite fecha o dia.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 2756,
+        "max": 4159,
+        "por": "pessoa",
+        "inclui": "Entrada geral: +50 atrações e show; Plus: + buffet/lockers; Total: + atividade extra (abr/2026)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.viveusa.mx/destinos/cuanto-cuesta-ir-a-xcaret-en-2026-precios-reales-paquetes-como-pagar-menos-y-atracciones/",
+          "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+          "https://www.xcaret.com/en/parks/xcaret/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 7,
+        "esgotaRapido": false,
+        "link": "https://www.xcaret.com/en/parks/xcaret/"
+      },
+      "contato": {
+        "telefone": "998-883-3143",
+        "whatsapp": "",
+        "site": "https://www.xcaret.com/en/parks/xcaret/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carretera Chetumal–Puerto Juárez km 282, Playa del Carmen; colectivo/ônibus até a entrada.",
+      "dicasAgente": [
+        "VALE CADA PESO: só se quiser a experiência completa em um dia e puder comprar online com desconto; nesse caso escolha a Entrada geral (a comida é à parte).",
+        "CORTE SE APERTAR: Xcaret Plus/Total e pacotes combinados; se fizer um dos três parques, Xel-Há costuma fechar melhor a conta (tudo incluído).",
+        "CORTE SE APERTAR: se o sargaço estiver pesado, os rios subterrâneos e o show seguem ótimos, mas a praia do parque também sofre."
+      ],
+      "alertas": [
+        "Valores divergem entre fontes (2.756 vs 2.859): confirme no site no dia da compra.",
+        "Compra na bilheteria é mais cara que online (reportagem de abr/2026)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xcaret_Letras.jpg?width=900",
+        "credito": "Tativert",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Xcaret_Letras.jpg"
+      },
+      "fontes": [
+        "https://www.xcaret.com/en/parks/xcaret/",
+        "https://www.viveusa.mx/destinos/cuanto-cuesta-ir-a-xcaret-en-2026-precios-reales-paquetes-como-pagar-menos-y-atracciones/",
+        "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+        "https://politica.expansion.mx/mexico/2022/05/26/cuando-es-temporada-sargazo",
+        "https://www.openstreetmap.org/node/4820580122"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Xel-Há: tudo incluído com snorkel",
+      "categoria": "atracao",
+      "cidade": "tulum",
+      "tags": [
+        "parque temático",
+        "Xel-Há",
+        "snorkel",
+        "tudo incluído",
+        "enseada",
+        "veredito"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Parque de enseada com snorkel ilimitado, tirolesas e toboáguas; Todo Incluído a 2.599 (mar/2026), fecha às terças-feiras.",
+      "descricaoLonga": "PREÇO: Todo Incluído 2.599 por adulto (Excelsior, 27/mar/2026): comida, bebidas e atividades. HORÁRIO (site oficial): segunda e quarta a domingo, 8h30–18h; FECHADO ÀS TERÇAS. Descontos online: 10% (7–20 dias de antecedência), 15% (21+ dias) e 20% em pacotes de vários parques; crianças 5–11 pagam 75%; menores de 4 grátis. Inclui snorkel ilimitado, cenotes, lagunas e cavernas, atividades aquáticas (tirolesas, toboáguas, mergulho), restaurantes e bares. VEREDITO: para um casal que bebe, é o único dos três em que o gasto extra é próximo de zero (~5.200 por dois; ≈US$289), mas ainda equivale a muitos dias de cenote. Só vale se você comprar online com 15% off e usar o dia inteiro. Em sargaço pesado, Xel-Há também foi atingido (Expansión 2022).",
+      "duracao": {
+        "min": 420,
+        "tipica": 540,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "08:30–18:00",
+        "ter": "Fechado",
+        "qua": "08:30–18:00",
+        "qui": "08:30–18:00",
+        "sex": "08:30–18:00",
+        "sab": "08:30–18:00",
+        "dom": "08:30–18:00"
+      },
+      "diasFechados": [
+        "ter"
+      ],
+      "melhorHorario": "Chegar na abertura; o snorkel é melhor cedo, antes da lotação.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 2599,
+        "max": 2599,
+        "por": "pessoa",
+        "inclui": "Todo Incluído (mar/2026): comida, bebidas e atividades",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+          "https://www.xelha.com"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 21,
+        "esgotaRapido": false,
+        "link": "https://www.xelha.com"
+      },
+      "contato": {
+        "telefone": "998-883-3143",
+        "whatsapp": "",
+        "site": "https://www.xelha.com",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carretera 307, Riviera Maya (endereço exato não confirmado); colectivo/ônibus.",
+      "dicasAgente": [
+        "VALE CADA PESO: se for escolher UM parque, Xel-Há (tudo incluído) para casal que quer snorkel e bebida; compre online 21 dias antes (15% off).",
+        "CORTE SE APERTAR: o dia inteiro de parque se o roteiro tiver Casa Cenote, Gran Cenote e Isla Mujeres (todos mais baratos)."
+      ],
+      "alertas": [
+        "Fecha às terças.",
+        "O preço pode variar por data e por promoção; confirme no site oficial."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mexico_-_Xel-Ha_entrance_station%2C_2010.jpg?width=900",
+        "credito": "Dennis G. Jarvis",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mexico_-_Xel-Ha_entrance_station,_2010.jpg"
+      },
+      "fontes": [
+        "https://www.xelha.com",
+        "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+        "https://www.xcaret.com/en/parks/xel-ha/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Xplor: aventura de dia e Xplor Fuego à noite",
+      "categoria": "atracao",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "parque temático",
+        "Xplor",
+        "tirolesa",
+        "veículos anfíbios",
+        "caverna",
+        "veredito"
+      ],
+      "coords": {
+        "lat": 20.5938187,
+        "lng": -87.1224711
+      },
+      "descricaoCurta": "Tirolesas, veículos anfíbios, rios de caverna e toboágua; 3.199 de dia até 17h e 2.599 no Xplor Fuego (noite).",
+      "descricaoLonga": "PREÇOS (Excelsior, 27/mar/2026): Xplor 3.199 (diurno, até 17h) e Xplor Fuego 2.599 (17h30–23h, exploração com tochas). HORÁRIO (site oficial): segunda a sábado, 8h30–19h (fecha aos domingos pelo que consta). Inclui 7 circuitos de tirolesa, veículos anfíbios pela selva e cavernas, remo em rio subterrâneo, nado em rio de estalactites, tirolesa com splash e o Toboganxote (5 toboáguas e piscina de ondas), com buffet/sucos. Descontos online: 10% (7–20 dias), 15% (21+ dias), 20% em combos; crianças 5–11 com 25% off. VEREDITO PARA QUEM É ECONÔMICO: 6.400 para o casal só de dia é o parque mais caro e o de menor retorno para o orçamento; corte, a não ser que o foco seja adrenalina.",
+      "duracao": {
+        "min": 360,
+        "tipica": 480,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "08:30–19:00",
+        "ter": "08:30–19:00",
+        "qua": "08:30–19:00",
+        "qui": "08:30–19:00",
+        "sex": "08:30–19:00",
+        "sab": "08:30–19:00",
+        "dom": "Fechado"
+      },
+      "diasFechados": [
+        "dom"
+      ],
+      "melhorHorario": "Abertura (8h30) para fazer tudo com fila baixa.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 2599,
+        "max": 3199,
+        "por": "pessoa",
+        "inclui": "Xplor diurno 3.199; Xplor Fuego (noite) 2.599 (mar/2026)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+          "https://www.xplor.travel/en/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 14,
+        "esgotaRapido": false,
+        "link": "https://www.xplor.travel/en/"
+      },
+      "contato": {
+        "telefone": "998-883-3143",
+        "whatsapp": "",
+        "site": "https://www.xplor.travel/en/",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Carretera Chetumal–Puerto Juárez km 282 Int. B, Rancho Xcaret, Playa del Carmen.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é o primeiro parque a cortar (o mais caro e o de menor retorno para o orçamento).",
+        "VALE CADA PESO: só se estiver num combo de 20% off e o resto do orçamento estiver tranquilo."
+      ],
+      "alertas": [
+        "Xplor Fuego usa horário noturno diferente; confirme.",
+        "Dias de fechamento: só o horário de seg–sáb foi citado no site oficial."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Route_307_%28Xplor_adventure_park%29%2C_Quintana_Roo%2C_Mexico.jpg?width=900",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Route_307_(Xplor_adventure_park),_Quintana_Roo,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://www.xplor.travel/en/",
+        "https://www.excelsior.com.mx/estilo-de-vida/parques-xcaret-cuantos-hay-donde-estan-y-precios",
+        "https://www.openstreetmap.org/way/550358722"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Alugar carro na Riviera Maya: compensa? Seguro, pedágios e blitz",
+      "categoria": "aluguel-veiculo",
+      "cidade": "playa-del-carmen",
+      "tags": [
+        "carro",
+        "aluguel",
+        "seguro obrigatório",
+        "pedágio",
+        "blitz",
+        "ADO",
+        "colectivo"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Compensa para o circuito Cobá + cenotes + Valladolid (3+ diárias); para Playa–Tulum–Cancún os colectivos/ADO bastam. Cuidado: a diária anunciada (~US$5) não inclui o seguro obrigatório.",
+      "descricaoLonga": "ALUGUEL (veículos e preços): (a) Thrifty/DiscoverCars, aeroporto de Cancún, em 5/out/2026: Econômico (Chevrolet Beat ou similar) R$85,29/dia ≈ MXN 307; Compacto (Nissan March ou similar) R$85,29/dia; Standard (VW Vento ou similar) R$90,85; Full-size (Chevrolet Cavalier) R$82,54. ATENÇÃO: reviews relatam taxas obrigatórias extras no balcão que dobram ou triplicam o preço. (b) Preço realista com seguro: econômico US$20–60/dia, sedã US$30–70, SUV US$35–100 (misstourist, 2023); outra fonte (carxplorer, jan/2026): US$40–70/dia, com seguro dobrando ou até multiplicando por ~10 o preço anunciado de US$5. Extras: GPS US$10–20, cadeirinha US$5–10, estacionamento na cidade US$10–20/dia. (c) Cozumel (Wikivoyage, 2022): carro ~US$55/dia, scooter ~US$25/dia. SEGURO OBRIGATÓRIO (A ARMADILHA CLÁSSICA): a responsabilidade civil (TPL/RC) é exigida por lei; o seguro do seu cartão e o da sua seguradora geralmente não cobrem TPL no México. A locadora anuncia diária baixíssima sem TPL e só informa no balcão; a locadora pode vender TPL direto por ~US$20–40/dia; cobertura CDW de plataformas de terceiros custa ~US$7–12/dia, mas NÃO substitui o TPL cobrado no balcão. Compare sempre o custo TOTAL com taxas de aeroporto e impostos; reservar direto com Europcar foi relatado como incluindo o seguro. A caução no cartão varia de US$700 a US$2.500 (cartão de crédito; débito geralmente recusado). PEDÁGIOS (cuota, abril/2026, carro): Valladolid–Cancún MXN 427; Mérida–Valladolid 248; total Mérida–Cancún 675; reajuste de 4,61% em 13/abr/2026 também nas casetas Cancún–Playa del Carmen, Valladolid–Playa e Cancún–Chetumal (valores não encontrados). Pagamento em pesos em dinheiro. A rodovia 307 (Cancún–Tulum) é livre. BLITZ/PROPINA: policiais podem parar carros alugados e pedir dinheiro por infração mínima; o governo canadense orienta não entregar dinheiro nem passaporte, pedir nome e matrícula do agente, mencionar 911 e pedir multa por escrito para pagar depois; há reportes de gasolina com bomba não zerada (desça e confira) e de topes (lombadas) sem sinalização. Evite dirigir depois de escurecer (iluminação ruim; crime em rodovias) e use pedágio. Há inspeções de veículos nas divisas estaduais (Wikivoyage). ALTERNATIVAS: colectivo Playa–Tulum M$25–50; ADO Cancún–Chichén ~M$258 (3 h); colectivo Valladolid–Chichén ~M$50; ADO para Cobá. CONTAS: Chichén só de ADO custa ~M$1.030 para dois (ida e volta); de carro, soma-se diária com seguro + pedágios (Valladolid–Cancún custa M$427; Cancún–Chichén é parte desse trecho) + gasolina: empata ou perde em um dia de um destino; ganha em dias com 3+ paradas (Cobá + cenote + Tulum + Valladolid).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Retirar o carro em Playa/Tulum para o circuito de dias e devolver; não manter parado.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 307,
+        "max": 1260,
+        "por": "grupo",
+        "inclui": "Diária base anunciada ~307 (econômico, sem TPL) até ~1.260 (US$70, realista com seguro) por carro/dia; caução e pedágios à parte (R$ convertido a 3,6 MXN/BRL e US$ a 18,0066 em 8/out/2026)",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.discovercars.com/partners/thrifty-1935",
+          "https://carxplorer.com/should-i-rent-a-car-in-cancun/",
+          "https://misstourist.com/renting-a-car-in-cancun-mexico/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 7,
+        "esgotaRapido": false,
+        "link": "https://www.discovercars.com/partners/thrifty-1935"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Cartão de crédito para caução (débito geralmente recusado).",
+        "Idade mínima/licença conforme locadora (confirmar)."
+      ],
+      "pontoPartida": "Aeroporto de Cancún (CUN) ou escritórios em Playa/Tulum.",
+      "dicasAgente": [
+        "VALE CADA PESO: 1 a 3 dias de carro para o circuito Tulum ruínas + Cobá + Gran Cenote/Casa Cenote + Valladolid, dividindo por dois.",
+        "VALE CADA PESO: reservar com seguro TPL INCLUÍDO (Europcar Mexico foi relatado assim) e conferir o total por escrito.",
+        "CORTE SE APERTAR: carro durante a estadia em Playa (usar colectivo/ADO/ônibus) e qualquer aluguel no aeroporto sem comparar o TOTAL.",
+        "CORTE SE APERTAR: scooter em Cozumel sem experiência (risco de acidente)."
+      ],
+      "alertas": [
+        "ARMADILHA: a diária de US$5–10 sem TPL vira US$40–50+ no balcão.",
+        "Blitz: não entregar passaporte nem dinheiro; seguir o procedimento do governo canadense.",
+        "Dados de aluguel de fontes de 2023 e 2026 (parte em BRL); confirme valores finais antes de reservar.",
+        "Evitar dirigir à noite."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.discovercars.com/partners/thrifty-1935",
+        "https://carxplorer.com/should-i-rent-a-car-in-cancun/",
+        "https://misstourist.com/renting-a-car-in-cancun-mexico/",
+        "https://www.familycantravel.com/rental-car-scams-mexico/",
+        "https://travel.gc.ca/destinations/mexico",
+        "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html",
+        "https://ruptura360.mx/el-estado/casetas-de-quintana-roo-suben-precios-13-abril/",
+        "https://en.wikivoyage.org/wiki/Cozumel",
+        "https://en.wikivoyage.org/wiki/Riviera_Maya",
+        "https://en.wikivoyage.org/wiki/Chichen_Itza",
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn",
+        "https://open.er-api.com/v6/latest/USD"
+      ],
+      "confianca": "parcial"
+    }
+  ]
+}

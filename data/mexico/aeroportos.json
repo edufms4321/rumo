@@ -1,0 +1,250 @@
+[
+  {
+    "id": "mex",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mexico_City_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "MEX",
+    "nome": "Aeropuerto Internacional Benito Juárez (AICM)",
+    "cidadeNome": "Cidade do México",
+    "coords": {
+      "lat": 19.43611,
+      "lng": -99.07194
+    }
+  },
+  {
+    "id": "nlu",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Felipe_%C3%81ngeles_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "NLU",
+    "nome": "Aeropuerto Internacional Felipe Ángeles (AIFA)",
+    "cidadeNome": "Santa Lucía/Zumpango, Estado de México (serve a CDMX)",
+    "coords": {
+      "lat": 19.75667,
+      "lng": -99.01528
+    },
+    "tempoAoCentroMin": 90
+  },
+  {
+    "id": "cun",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Canc%C3%BAn_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CUN",
+    "nome": "Aeropuerto Internacional de Cancún",
+    "cidadeNome": "Cancún",
+    "coords": {
+      "lat": 21.03667,
+      "lng": -86.87694
+    }
+  },
+  {
+    "id": "mid",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/M%C3%A9rida_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "MID",
+    "nome": "Aeropuerto Internacional Manuel Crescencio Rejón",
+    "cidadeNome": "Mérida",
+    "coords": {
+      "lat": 20.93694,
+      "lng": -89.65778
+    }
+  },
+  {
+    "id": "oax",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Oaxaca_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "OAX",
+    "nome": "Aeropuerto Internacional de Xoxocotlán",
+    "cidadeNome": "Oaxaca de Juárez",
+    "coords": {
+      "lat": 17,
+      "lng": -96.72667
+    },
+    "tempoAoCentroMin": 25
+  },
+  {
+    "id": "tgz",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "TGZ",
+    "nome": "Aeropuerto Internacional Ángel Albino Corzo",
+    "cidadeNome": "Tuxtla Gutiérrez (Chiapa de Corzo)",
+    "coords": {
+      "lat": 16.56361,
+      "lng": -93.0225
+    }
+  },
+  {
+    "id": "sjd",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Los_Cabos_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SJD",
+    "nome": "Aeropuerto Internacional de Los Cabos",
+    "cidadeNome": "San José del Cabo",
+    "coords": {
+      "lat": 23.15167,
+      "lng": -109.72083
+    }
+  },
+  {
+    "id": "lap",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/La_Paz_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "LAP",
+    "nome": "Aeropuerto Internacional Manuel Márquez de León",
+    "cidadeNome": "La Paz",
+    "coords": {
+      "lat": 24.0725,
+      "lng": -110.36222
+    }
+  },
+  {
+    "id": "pvr",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Licenciado_Gustavo_D%C3%ADaz_Ordaz_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "PVR",
+    "nome": "Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
+    "cidadeNome": "Puerto Vallarta",
+    "coords": {
+      "lat": 20.68,
+      "lng": -105.25417
+    }
+  },
+  {
+    "id": "bjx",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Baj%C3%ADo_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "BJX",
+    "nome": "Aeropuerto Internacional del Bajío",
+    "cidadeNome": "Silao/León (serve Guanajuato)",
+    "coords": {
+      "lat": 20.99333,
+      "lng": -101.48083
+    }
+  },
+  {
+    "id": "hux",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bah%C3%ADas_de_Huatulco_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Huatulco"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "HUX",
+    "nome": "Aeropuerto Internacional Bahías de Huatulco",
+    "cidadeNome": "Santa María Huatulco",
+    "coords": {
+      "lat": 15.77528,
+      "lng": -96.2625
+    }
+  },
+  {
+    "id": "pxm",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Puerto_Escondido_International_Airport"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "PXM",
+    "nome": "Aeropuerto Internacional de Puerto Escondido",
+    "cidadeNome": "Puerto Escondido",
+    "coords": {
+      "lat": 15.87667,
+      "lng": -97.08889
+    }
+  }
+]

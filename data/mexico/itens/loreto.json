@@ -1,0 +1,64 @@
+[
+  {
+    "id": "mx-lto-loreto-e-parque-nacional-bahia-de-loreto-baleia-azul",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bah%C3%ADa_de_Loreto_National_Park"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+      },
+      {
+        "url": "https://www.boundlessroads.com/baja-california-whale-watching/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Loreto e Parque Nacional Bahía de Loreto (baleia-azul e ilhas)",
+    "cidadeId": "loreto",
+    "categoria": "natureza",
+    "tags": [
+      "loreto",
+      "parque-nacional",
+      "baleia-azul",
+      "ilhas",
+      "unesco",
+      "fev-abr"
+    ],
+    "coords": {
+      "lat": 25.8642,
+      "lng": -111.1217
+    },
+    "descricaoCurta": "Parque criado em 1996 (206.581 ha), UNESCO em 2005; baleia-azul de meados de fev a início de abr. A Wikipedia dá ~126 milhas (≈203 km) ao norte de La Paz (tempo por estrada não coletado): só para quem tem dias sobrando.",
+    "descricaoLonga": "O Parque Nacional Bahía de Loreto foi criado por decreto em 19 de julho de 1996, tem 206.581 hectares (88% marinhos), Ramsar em 2004 e UNESCO em 2005; as ilhas principais são Coronado, Carmen, Danzante, Monserrate e Santa Catalina. O Wikivoyage o descreve como talvez a área mais rica do mundo em diversidade de baleias e golfinhos. A janela de baleia-azul em Loreto é meados de fevereiro a início de abril (guia 2026-27). Voos: o aeroporto de Loreto (LTO) tem Alaska, American, WestJet e Volaris; do aeroporto só táxi, sem transporte público. Hospedagem: de ~US$45-50 em moteis econômicos (≈810-900 MXN a 18,0066 MXN/USD) até ~M$7.000 em resorts. Taxa do parque, preços de passeios e distância por estrada exata NÃO foram coletados (a Wikipedia cita o parque a ~126 milhas ao norte de La Paz, sem dizer se é linha reta ou estrada).",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Baleia-azul só ~meados de fev a início de abr"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: Loreto fica a centenas de km de La Paz (~126 milhas segundo a Wikipedia; tempo de estrada não coletado); só entra se houver 2+ dias livres e interesse em baleia-azul (fev-abr).",
+      "VALE CADA PESO apenas em fev-março-início de abril, quando a janela de baleia-azul coincide."
+    ],
+    "alertas": [
+      "Coordenada = centro do parque (Wikipedia), não da cidade.",
+      "Taxa do parque e preços de tours NÃO coletados.",
+      "Distância de La Paz vem do texto da Wikipedia (milhas, em linha reta/estrada não especificado).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  }
+]

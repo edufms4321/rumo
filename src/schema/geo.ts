@@ -67,6 +67,13 @@ export const CidadeBase = BaseRecord.extend({
   regiaoId: Slug,
   coords: Coord,
   altitudeM: z.number().int(),
+  /**
+   * Offset proprio, quando a cidade nao segue o fuso principal do destino.
+   * O Mexico tem tres: Quintana Roo (Cancun) em UTC-5, o centro em UTC-6 e
+   * a Baja California Sur em UTC-7. Sem isto, o por do sol e o horario de
+   * chegada de voo sairiam errados em um terco do pais.
+   */
+  fusoOffsetMinutos: z.number().int().optional(),
   aeroportos: z.array(z.string().length(3)).default([]),
   /**
    * Ausente = ainda nao pesquisado. A sugestao de noites por cidade

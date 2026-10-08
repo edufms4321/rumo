@@ -1,0 +1,91 @@
+[
+  {
+    "id": "mx-hux-passeio-de-barco-pelas-baias-de-huatulco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Huatulco"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huatulco"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/1700837"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de barco pelas baías de Huatulco",
+    "cidadeId": "huatulco",
+    "categoria": "passeio",
+    "tags": [
+      "baias",
+      "barco",
+      "snorkel",
+      "parque-nacional",
+      "aguas-calmas"
+    ],
+    "coords": {
+      "lat": 15.7493404,
+      "lng": -96.1284951
+    },
+    "descricaoCurta": "Barcos saem de Santa Cruz e visitam várias das 9 baías; coletivo ~550-600 MXN (abril/2024).",
+    "descricaoLonga": "Huatulco tem nove baías (Santa Cruz, Chahué, Tangolunda, Maguey, Órgano, Cacaluta, La Entrega, San Agustín, Conejos) e quatro são reservas ecológicas. Passeio coletivo de barco com paradas de snorkel: ~550-600 MXN por pessoa (Wikivoyage, abril/2024). Taxa do Parque Nacional e outras pagas à parte (valores não verificados). O coral morreu em grande parte na onda de calor de 2023; ainda há muitos peixes. Águas calmas e protegidas, mais seguras para banho que Zipolite/Zicatela. Estação seca: dezembro a maio; chuvas: junho a novembro.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã (mar mais calmo, menos vento).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 550,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "Barco coletivo com paradas (abril/2024). Parque Nacional/taxas não incluídos; snorkel pode ser alugado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Huatulco"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Huatulco"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahía_Santa_Cruz_en_Huatulco.jpg?width=1200",
+        "credito": "Arturo Alcalá Hernández",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bahía_Santa_Cruz_en_Huatulco.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO para quem quer mar calmo e snorkel; CORTE SE APERTAR se o foco for balada ou surfe (Huatulco tem pouca vida noturna)."
+    ],
+    "alertas": [
+      "Preço de 2024; atualize. Snorkel prejudicado pelo branqueamento de coral de 2023.",
+      "Vida noturna em Huatulco é limitada (Wikivoyage); balada séria está em Puerto Escondido a ~2 h."
+    ],
+    "passeio": {
+      "pontoPartida": "Marina de Santa Cruz Huatulco.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

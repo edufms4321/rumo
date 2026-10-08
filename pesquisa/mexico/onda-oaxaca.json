@@ -1,0 +1,2932 @@
+{
+  "base": "oaxaca",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "Base na cidade de Oaxaca (centro caminhável; Monte Albán, Mitla, Tule, Teotitlán, Matatlán por tour/van ou colectivo, 8-10 a 60 km). Para a costa, a AUTOPISTA Barranca Larga–Ventanilla (2h30-3h; van 209-330 MXN, ônibus ADO ~US$23-28, carro com 490 MXN de pedágio por sentido) tornou o deslocamento viável: Oaxaca → Puerto Escondido ~3 h; de lá, Mazunte/Zipolite/San Agustinillo ficam 1,5-2 h por rodovia 200 (colectivos ~M$5-40); Huatulco ~2 h a leste de Puerto Escondido. Dentro de cada vila costeira, ande a pé/colectivo/táxi curto. Evite a estrada antiga 175/131 (5-8 h, enjoativa). Ordem sugerida: Oaxaca (3-4 noites) → autopista → Puerto Escondido (2-3) → Mazunte/Zipolite (2-3) → (opcional) Huatulco.",
+    "noitesRecomendadas": {
+      "min": 8,
+      "ideal": 11,
+      "max": 14
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Oaxaca: Centro Histórico / Jalatlaco",
+        "perfil": "Caminhável, perto de mercados, Santo Domingo e mezcalerías; Jalatlaco é mais tranquilo.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 600
+        },
+        "observacao": "Faixa econômica desde ~400-600 MXN (Wikivoyage, 2024-2025); intermediário 800-1.500. Em Día de Muertos preços sobem 30-60%.",
+        "seguranca": "Considerado seguro para turistas; roubos ocasionais à noite e batedores de carteira no Mercado de Abastos (Wikivoyage).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: La Punta",
+        "perfil": "Relaxado, hostels e bares de praia, bom para aprender a surfar; balada moderada.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 200,
+          "max": 600
+        },
+        "observacao": "Dormitório desde ~200 MXN e quartos sem ar de 400-600 (Wikivoyage, abril/2024).",
+        "seguranca": "Considerada segura e popular com expatriados (Breathing Travel); evite praia à noite (Wikivoyage).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+          "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: Zicatela / Brisas de Zicatela",
+        "perfil": "Festa e bares; ondas fortes; preço médio a alto.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Faixa de diária não verificada.",
+        "seguranca": "Em geral segura nas áreas turísticas (Breathing Travel).",
+        "fontes": [
+          "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+        ]
+      },
+      {
+        "nome": "Puerto Escondido: Carrizalillo / Centro",
+        "perfil": "Carrizalillo: surfe e banho seguro (escadaria); Centro: local e barato, balada moderada.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Faixa não verificada; Centro é o mais barato segundo fonte.",
+        "seguranca": "Seguro nas áreas turísticas; usar táxi à noite (Breathing Travel).",
+        "fontes": [
+          "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+        ]
+      },
+      {
+        "nome": "Zipolite",
+        "perfil": "Praia naturista, hippie, hospedagem barata, vida noturna leve de praia.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 602,
+          "max": 650
+        },
+        "observacao": "Faixa de Wikivoyage (dado antigo).",
+        "seguranca": "Sem presença policial forte; evite caminhar sozinho na praia à noite; furtos ocasionais.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Zipolite"
+        ]
+      },
+      {
+        "nome": "Mazunte / San Agustinillo",
+        "perfil": "Vilas de praia, trilhas, Punta Cometa, centro das tartarugas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Faixa de diária não verificada.",
+        "seguranca": "Mar perigoso; evite praia escura à noite (assaltos passados).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mazunte"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Oaxaca cidade e vale: seguros para turistas, com roubos ocasionais à noite e batedores de carteira no Mercado de Abastos (especialmente sábados) (Wikivoyage). Costa: Puerto Escondido, Zipolite e Mazunte têm relatos de assaltos em praias à noite e de abordagem policial tardia; o maior risco é o MAR (Zicatela, Zipolite e Mazunte têm correntes de retorno fortíssimas; ~800 resgates/ano em PE). Huatulco é considerada muito segura e com águas calmas (Wikivoyage). Regiões rurais perto de Guerrero e entre Salina Cruz e Chiapas exigem cautela (Wikivoyage Oaxaca).",
+    "pegaTuristaAEvitar": [
+      "Hierve el Agua: várias cobranças em pontos diferentes (acesso comunitário, entrada, estacionamento) e risco de fechamento sem aviso; confirme na véspera.",
+      "Tours de balcão que 'não incluem as entradas' (Wikivoyage): sempre pergunte o que está incluído.",
+      "Mezcal sem rótulo completo ou sem certificação: veja o item de guia de compra.",
+      "Tapetes 'naturais' muito baratos e de cor sintética em Teotitlán (dica do agente).",
+      "Praias de Zicatela, Zipolite e Mazunte para nadar: o risco é o mar, não o crime.",
+      "Táxis de aeroporto/van sem preço combinado: combine antes (Wikivoyage cita táxi do aeroporto de Huatulco 400-843 MXN contra colectivo 20-40)."
+    ],
+    "golpesComuns": [
+      "Cobranças múltiplas em Hierve el Agua (es.wikipedia).",
+      "Venda de mezcal falsificado ou sem certificação para turistas.",
+      "Tours vendidos baratos que depois cobram entradas à parte (Wikivoyage).",
+      "Batedores de carteira em mercados lotados (Mercado de Abastos, sábados)."
+    ],
+    "fontes": [
+      "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+      "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+      "https://en.wikivoyage.org/wiki/Mazunte",
+      "https://en.wikivoyage.org/wiki/Zipolite",
+      "https://en.wikivoyage.org/wiki/Huatulco",
+      "https://en.wikipedia.org/wiki/Oaxaca_City",
+      "https://en.wikipedia.org/wiki/Pacific_hurricane_season",
+      "https://en.wikipedia.org/wiki/Huatulco"
+    ],
+    "sazonalidade": {
+      "ChuvaVale": "Cidade de Oaxaca: chuva concentrada no verão; junho é o mês mais chuvoso (~171 mm); mais quente em abril (média de máx. 33,3 °C) e mais fresco em dezembro (Wikipedia).",
+      "ChuvaCosta": "Huatulco: seca de dezembro a maio, chuvas de junho a novembro (Wikipedia).",
+      "FurachoPacifico": "Temporada de furacões do Pacífico oriental: 15 de maio a 30 de novembro, pico em agosto-setembro (Wikipedia). Evite agosto-setembro na costa se puder.",
+      "SurfeZicatela": "Ondas gigantes (20+ pés) de maio a outubro; campeonatos em novembro; baixa temporada turística em meados/fim do verão.",
+      "Tartarugas": "Arribadas em Escobilla de maio a fevereiro/março; soltura no Centro de la Tortuga (Mazunte) de março a novembro; meses de pico não confirmados.",
+      "Bioluminescencia": "Maio a novembro com pico agosto-outubro (uma agência); outro operador diz setembro a maio; lua nova é o fator-chave; evite lua cheia.",
+      "Guelaguetza": "Duas segundas-feiras após 16/07: 2026 foi 20 e 27/07; 2027 provável 19 e 26/07 (inferido).",
+      "DiaDeMuertos": "27/10 a 2/11 (2026); hotéis esgotam 5-6 meses antes, +30-60%.",
+      "ZipoliteAlta": "Alta temporada de novembro a maio; Festival Nudista no primeiro fim de semana de fevereiro.",
+      "MelhorJanelaCostaEconomica": "Dezembro a maio é seca; novembro tem fim de chuvas e de furacões, muito bom para praia com preços ainda não de pico (inferência do agente)."
+    }
+  },
+  "itens": [
+    {
+      "nome": "Monte Albán (zona arqueológica)",
+      "categoria": "atracao",
+      "cidade": "monte-alban",
+      "tags": [
+        "unesco",
+        "zapoteca",
+        "arqueologia",
+        "mirante",
+        "inah"
+      ],
+      "coords": {
+        "lat": 17.051667,
+        "lng": -96.781944
+      },
+      "descricaoCurta": "Capital zapoteca no topo de um morro a ~8-10 km do centro de Oaxaca; Patrimônio Mundial UNESCO.",
+      "descricaoLonga": "Cidade zapoteca (Patrimônio Mundial desde 1987) com Gran Plaza, Plataforma Norte, Juego de Pelota, Danzantes e museu de sítio incluído no ingresso. É o item arqueológico mais forte da viagem e cabe em meio dia saindo do centro. Estrangeiros pagam 210 MXN (mexicanos 105). O INAH lista 08:00-17:00 todos os dias, com última entrada às 16:00 (museu de sítio até 16:30). A entrada de domingo gratuita vale só para mexicanos/residentes, não para turistas brasileiros.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar na abertura (08:00) ou depois das 14:30: menos grupos de excursão e luz melhor para foto. Em estação de chuva (junho a outubro) as manhãs costumam ser mais firmes que as tardes.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 210,
+        "max": 210,
+        "por": "pessoa",
+        "inclui": "Zona arqueológica + museu de sítio. Tarifa de estrangeiro (INAH categoria I, válida de 01/01 a 31/12/2026). Mexicanos: 105. Transporte não incluso.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://lugares.inah.gob.mx/en/node/5803",
+          "https://lugares.inah.gob.mx/en/node/5064",
+          "https://www.adn40.mx/mexico/2026-09-26/con-tu-tarjeta-inapam-entras-gratis-a-monte-alban-en-oaxaca-asi-se-llega-desde-el-centro-y-esto-cuesta-si-no-tienes-la-credencial-en-septiembre-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 951 515 0400",
+        "whatsapp": "",
+        "site": "https://lugares.inah.gob.mx/en/node/5803",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido fumar, comida de fora e animais (regra INAH)."
+      ],
+      "pontoPartida": "Saída das agências/ônibus turístico perto da rua Mina (centro de Oaxaca); ~20-30 min de carro.",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício cultural da cidade (210 MXN).",
+        "Ônibus turístico do centro: cerca de 120-150 MXN ida e volta, saídas ~de hora em hora (adn40, set/2026). Ônibus urbano R37/R54 custa 8-10 MXN mas deixa ~3 km antes da entrada, em subida.",
+        "Combine com Tule/Matatlán ou Atzompa só se não for pegar o dia de Hierve el Agua; Monte Albán sozinho fecha a manhã."
+      ],
+      "alertas": [
+        "SOMBRA: nenhuma fonte aberta descreve a sombra; pelas descrições o sítio é uma esplanada aberta de pedra, então trate como pouca sombra (inferência, não verificado). Leve chapéu, protetor e água.",
+        "Tarifa de ingresso de domingo gratuita é só para mexicanos/residentes."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aspecto_de_Monte_Albán,_Oaxaca.jpg?width=1200",
+        "credito": "Dacuauhtli",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Aspecto_de_Monte_Albán,_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/5803",
+        "https://lugares.inah.gob.mx/en/node/5064",
+        "https://www.adn40.mx/mexico/2026-09-26/con-tu-tarjeta-inapam-entras-gratis-a-monte-alban-en-oaxaca-asi-se-llega-desde-el-centro-y-esto-cuesta-si-no-tienes-la-credencial-en-septiembre-2026/",
+        "https://www.openstreetmap.org/node/458632090"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Hierve el Agua (cascatas petrificadas)",
+      "categoria": "natureza",
+      "cidade": "hierve-el-agua",
+      "tags": [
+        "cascata-petrificada",
+        "piscinas-naturais",
+        "mirante",
+        "risco-de-fechamento",
+        "dinheiro-em-especie"
+      ],
+      "coords": {
+        "lat": 16.8678348,
+        "lng": -96.2763842
+      },
+      "descricaoCurta": "Cascatas de travertino e piscinas naturais a ~70 km de Oaxaca; ABERTO segundo fontes de 2026, mas com histórico de fechamentos por disputa entre comunidades.",
+      "descricaoLonga": "Formações de carbonato de cálcio com piscinas naturais com vista para o vale, no território de San Lorenzo Albarradas/San Isidro Roaguía. ESTADO ATUAL (08/10/2026): a Infobae (05/06/2026, citando o Tripadvisor de maio/2026) e dois guias de viagem de 2026 apontam o sítio como aberto, com horário 09:00-17:00 e cobrança de 20 MXN (acesso San Lorenzo Albarradas) + 50 MXN (entrada do parque). NÃO encontrei notícia de fechamento ou bloqueio em 2025-2026 (a ferramenta de busca estava limitada), mas o conflito agrário não foi resolvido: em março de 2021 Albarradas anunciou 'cierre definitivo', em out/2021 Roaguía reabriu e Albarradas bloqueou o acesso; depois o sítio voltou a receber turistas sem acordo formal. Fontes divergem em horário (07:00-17:00 vs 09:00-17:00) e nas taxas (50-70 + 20-30 de estrada + estacionamento 50-100). Trate como DESTINO COM RISCO DE FECHAR SEM AVISO: confirme na véspera com o hotel/agência.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar cedo (09:00) para pegar as piscinas vazias e voltar antes do fim da tarde; estação seca (novembro a abril) tem trilhas menos enlameadas.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 70,
+        "max": 100,
+        "por": "pessoa",
+        "inclui": "20 MXN (acesso comunidade San Lorenzo Albarradas) + 50 MXN (entrada do parque) = 70; fonte secundária cita 20-30 de taxa de estrada e 50-100 de estacionamento. Transporte público de Oaxaca ~110-120 MXN ida e volta (van verde Mitla ~20-25 + camionete de Mitla ~75). Passeios de agência custam bem mais.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.infobae.com/mexico/2026/06/05/hierve-el-agua-oaxaca-como-llegar-en-transporte-publico-desde-cdmx-y-cuanto-cuesta-el-viaje-en-2026/",
+          "https://www.hierveelagua.org/",
+          "https://montealbanoaxaca.com/how-do-i-get-to-hierve-el-agua-is-it-open-right-now/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Somente dinheiro em espécie; sem caixa eletrônico no local (Infobae, hierveelagua.org).",
+        "Limite diário informal de ~200 visitantes citado por guia independente (hierveelagua.org)."
+      ],
+      "pontoPartida": "Van verde 'Mitla' no Estadio Eduardo Vasconcelos (Oaxaca) ~1h, depois camionete coletiva de Mitla ~45 min em estrada de terra; ou carro/tour (~1h20 pela rota Mitla-Xaagá-Roaguía).",
+      "dicasAgente": [
+        "Só vale a ida se confirmado aberto na véspera: converse com o hotel ou pergunte em Mitla.",
+        "Economia: transporte público sai ~110-120 MXN ida e volta, mas gasta o dia inteiro; sair de Mitla/Tule no mesmo dia.",
+        "CORTE SE APERTAR: é o item com mais risco de dar errado; reserve-o para um dia 'flexível' do roteiro, não para o último dia antes do voo."
+      ],
+      "alertas": [
+        "RISCO DE FECHAMENTO: conflito de 18+ anos entre San Lorenzo Albarradas e San Isidro Roaguía. Fechado 2005-2007 e na pandemia (2020-2021); 'fechamento definitivo' anunciado em 24/03/2021; reabertura por Roaguía em 13/10/2021 seguida de bloqueio por Albarradas (14/10/2021). Sem notícia de fechamento em 2025-2026 nas fontes abertas, mas isso NÃO é confirmação em tempo real.",
+        "Fontes divergem: horário 07:00-17:00 (hierveelagua.org) vs 09:00-17:00 (Infobae/Tripadvisor 2026); taxas 70 MXN (Infobae) vs 70-100+ (outros).",
+        "Várias cobranças em pontos diferentes ao longo do acesso (es.wikipedia). Estação chuvosa (jun-set) deixa trilhas enlameadas.",
+        "A rota mais curta passa por Albarradas e já foi bloqueada; a rota alternativa vai por Mitla-Xaagá-Roaguía."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hierve_el_Agua_nature.jpg?width=1200",
+        "credito": "Paumucito",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Hierve_el_Agua_nature.jpg"
+      },
+      "fontes": [
+        "https://www.infobae.com/mexico/2026/06/05/hierve-el-agua-oaxaca-como-llegar-en-transporte-publico-desde-cdmx-y-cuanto-cuesta-el-viaje-en-2026/",
+        "https://www.hierveelagua.org/",
+        "https://montealbanoaxaca.com/how-do-i-get-to-hierve-el-agua-is-it-open-right-now/",
+        "https://oaxaca.eluniversal.com.mx/municipios/pese-disputas-falta-de-recursos-empujo-pobladores-la-reapertura-de-hierve-el-agua/",
+        "https://www.adn40.mx/mexico/hierve-el-agua-oaxaca-cierre-indefinido-lhp/",
+        "https://www.nvinoticias.com/oaxaca/prevencion/hierve-el-agua-destino-turistico-en-disputa-y-severas-confrontaciones/119806",
+        "https://es.wikipedia.org/wiki/Hierve_el_Agua",
+        "https://www.openstreetmap.org/way/230276526"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mitla (zona arqueológica)",
+      "categoria": "atracao",
+      "cidade": "mitla",
+      "tags": [
+        "zapoteca",
+        "mixteca",
+        "mosaicos-de-pedra",
+        "inah",
+        "mercado-de-mezcal"
+      ],
+      "coords": {
+        "lat": 16.9272875,
+        "lng": -96.3596037
+      },
+      "descricaoCurta": "Sítio zapoteca/mixteca famoso pelos mosaicos geométricos de pedra, a ~45 km de Oaxaca.",
+      "descricaoLonga": "Palácios com frisos de greca em pedra encaixada, diferentes de Monte Albán. Ingresso de estrangeiro 210 MXN (mexicanos 105; visita fora do horário 730). INAH: 08:00-17:00 todos os dias, última entrada 16:30. É parada natural no mesmo dia de Hierve el Agua, Matatlán e Tule (ficam na mesma rodovia 190).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; combine com mercado de artesanato e mezcal da vila.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 210,
+        "max": 210,
+        "por": "pessoa",
+        "inclui": "Entrada da zona arqueológica (tarifa estrangeiro 2026).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://lugares.inah.gob.mx/en/node/4350",
+          "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 951 515 0400",
+        "whatsapp": "",
+        "site": "https://lugares.inah.gob.mx/en/node/4350",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Rodovia 190 sentido Tehuantepec, desvio ao norte no km 39; van/colectivo do centro de Oaxaca.",
+      "dicasAgente": [
+        "Vale pelo conjunto de dia no vale; sozinho é opcional.",
+        "CORTE SE APERTAR: se você já viu Monte Albán e tem pouco tempo, Mitla é o primeiro corte."
+      ],
+      "alertas": [
+        "Última entrada 16:30."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oaxaca_ruins_1976_-_Mitla_Window.jpg?width=1200",
+        "credito": "Infrogmation",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Oaxaca_ruins_1976_-_Mitla_Window.jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/4350",
+        "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/",
+        "https://www.openstreetmap.org/way/155180313"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Árbol del Tule (Santa María del Tule)",
+      "categoria": "atracao",
+      "cidade": "oaxaca",
+      "tags": [
+        "arvore",
+        "parada-rapida",
+        "ahuehuete",
+        "gratis-por-fora"
+      ],
+      "coords": {
+        "lat": 17.0464679,
+        "lng": -96.6361632
+      },
+      "descricaoCurta": "Ahuehuete de ~14 m de diâmetro no adro da igreja de Santa María del Tule, a ~12-14 km do centro.",
+      "descricaoLonga": "Árvore Taxodium mucronatum com tronco entre os mais largos do mundo (diâmetro ~14 m, circunferência 40-58 m conforme a fonte, idade estimada em mais de 2.000 anos), no adro da igreja. Dá para ver de fora grátis; a área cercada cobra entrada baixa. Parada de 30-45 min na ida a Teotitlán/Mitla/Matatlán. Abraço tradicional na segunda segunda-feira de outubro (em 2026 seria 12/10).",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 45
+      },
+      "horarios": {
+        "seg": "08:00–20:00",
+        "ter": "08:00–20:00",
+        "qua": "08:00–20:00",
+        "qui": "08:00–20:00",
+        "sex": "08:00–20:00",
+        "sab": "08:00–20:00",
+        "dom": "08:00–20:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Qualquer hora; fim da tarde tem menos ônibus de turismo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 50,
+        "por": "pessoa",
+        "inclui": "Entrada da área cercada. Fontes divergem: 25 MXN (Posta) vs 50 MXN (calendário de tour da biblioteca OLL, jan/2025). Ver de fora: grátis.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.posta.com.mx/mexico/arbol-del-tule-cuando-es-el-unico-dia-para-poder-abrazarlo-esto-se-sabe/v-vl2111297",
+          "https://www.oaxlibrary.org/event-details/tour-mezcal-and-pulque-tour"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Colectivo/ônibus urbano para Tule saindo do centro de Oaxaca; 12-14 km a leste.",
+      "dicasAgente": [
+        "Vale como parada de 30 min no caminho do dia de vale (não vale ida exclusiva).",
+        "Fotografar de fora já entrega a escala; a entrada paga é opcional."
+      ],
+      "alertas": [
+        "Posta diz que em 2025 o dia do abraço foi 15/10, o que não bate com 'segunda segunda-feira'; confirmar a data de 2026 com a prefeitura se quiser estar lá.",
+        "Horário 08:00-20:00 vem de uma única matéria jornalística."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Árbol_del_Tule_by_ovedc_04.jpg?width=1200",
+        "credito": "Ovedc",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Árbol_del_Tule_by_ovedc_04.jpg"
+      },
+      "fontes": [
+        "https://www.posta.com.mx/mexico/arbol-del-tule-cuando-es-el-unico-dia-para-poder-abrazarlo-esto-se-sabe/v-vl2111297",
+        "https://www.vistazo.com/discover/el-arbol-con-el-tronco-mas-ancho-del-mundo-se-encuentra-en-un-pueblo-de-apenas-8165-habitantes-a-1560-metros-de-altitud/",
+        "https://www.oaxlibrary.org/event-details/tour-mezcal-and-pulque-tour",
+        "https://www.openstreetmap.org/node/353469160"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Teotitlán del Valle (tapetes de lã)",
+      "categoria": "compras",
+      "cidade": "oaxaca",
+      "tags": [
+        "artesanato",
+        "tapetes",
+        "tingimento-natural",
+        "cochonilha",
+        "ig-protegida"
+      ],
+      "coords": {
+        "lat": 17.0499381,
+        "lng": -96.5028049
+      },
+      "descricaoCurta": "Vila zapoteca de tecelões de tapetes de lã com tintas naturais (cochonilha, índigo), a ~30 km de Oaxaca.",
+      "descricaoLonga": "Tapetes de lã em tear de pedal, com tinturas naturais de cochonilha (vermelhos), índigo (azuis), casca de romã e noz (es.wikipedia, México Desconocido). Há Indicação Geográfica Protegida 'Tapetes de Teotitlán, Santa Ana y San Miguel del Valle' (citada em resultado de busca; documento do IMPI não aberto). Visite oficinas familiares (veja tingimento ao vivo) e compre direto do tecelão. Igreja do séc. XVII sobre antigo templo zapoteca.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; oficinas funcionam em horário comercial (horários exatos não verificados).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Visita às oficinas costuma ser gratuita; tapetes: preço varia pelo tamanho e densidade de tecido, não coletei faixa verificada.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Colectivo/táxi a partir de Oaxaca (~30 km pela rodovia 190); entra no circuito de tours do vale (a partir de ~150 MXN, Wikivoyage).",
+      "dicasAgente": [
+        "VALE CADA PESO para quem quer comprar um souvenir de verdade, mas gaste só se for comprar: tapete natural é caro de propósito.",
+        "COMO RECONHECER TINTA NATURAL (dica do agente, conhecimento geral, sem fonte aberta específica): peça para ver os potes/insetos de cochonilha e a demonstração de tingimento; cores naturais são mais suaves e levemente irregulares; um tapete 'natural' muito barato e de cores neon é suspeito; esfregue um pano branco úmido num canto escondido; lã pura não derrete ao queimar uma fibra (acrílico derrete).",
+        "CORTE SE APERTAR: se não vai comprar nada, a vila tem pouco a oferecer além das oficinas."
+      ],
+      "alertas": [
+        "Preços de tapetes NÃO verificados; negocie e compare em 2-3 oficinas.",
+        "Dica de reconhecimento de tinta natural é inferência do agente, não vem de fonte aberta específica."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tejido_de_Tapetes_Artesanales_en_Telar._Teotitlán_Del_Valle,_Oaxaca.jpg?width=1200",
+        "credito": "Axel Alvarado Chávez",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tejido_de_Tapetes_Artesanales_en_Telar._Teotitlán_Del_Valle,_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Teotitl%C3%A1n_del_Valle",
+        "https://www.mexicodesconocido.com.mx/alfombras-de-teotitlan-magia-y-arte-tejidos-a-mano.html",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://www.openstreetmap.org/relation/6000179"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Templo e ex-convento de Santo Domingo de Guzmán",
+      "categoria": "atracao",
+      "cidade": "oaxaca",
+      "tags": [
+        "barroco",
+        "igreja",
+        "centro-historico",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 17.0656246,
+        "lng": -96.7230004
+      },
+      "descricaoCurta": "Igreja barroca do séc. XVI-XVII, principal cartão-postal de Oaxaca; abriga o Museo de las Culturas e o Jardín Etnobotánico.",
+      "descricaoLonga": "Ex-convento dominicano na rua Macedonio Alcalá. A igreja em si é o centro da vida noturna de paseo da cidade (andador de pedestres à frente) e o conjunto reúne o Museo de las Culturas de Oaxaca e o Jardín Etnobotánico. Horário da igreja e eventuais missas não foram verificados.",
+      "duracao": {
+        "min": 20,
+        "tipica": 40,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde, com luz dourada na fachada.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada da igreja: não verificado (costuma ser gratuita; sem fonte aberta).",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Respeitar missas e traje em igreja."
+      ],
+      "pontoPartida": "A pé do Zócalo (~800 m) pela Macedonio Alcalá.",
+      "dicasAgente": [
+        "VALE CADA PESO (custa zero): passe de dia e de novo à noite pelo andador."
+      ],
+      "alertas": [
+        "Horário e custo da igreja não verificados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Templo_de_Santo_Domingo_de_Guzmán,_Oaxaca-2.jpg?width=1200",
+        "credito": "Nanahuatl",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Templo_de_Santo_Domingo_de_Guzmán,_Oaxaca-2.jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/4252",
+        "https://www.openstreetmap.org/way/121991411"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo de las Culturas de Oaxaca",
+      "categoria": "museu",
+      "cidade": "oaxaca",
+      "tags": [
+        "inah",
+        "zapoteca",
+        "mixteca",
+        "tumba-7",
+        "convento"
+      ],
+      "coords": {
+        "lat": 17.0659197,
+        "lng": -96.7231501
+      },
+      "descricaoCurta": "Museu no ex-convento de Santo Domingo: tesouro da Tumba 7 de Monte Albán e história de Oaxaca.",
+      "descricaoLonga": "Museu do INAH com peças zapotecas e mixtecas (inclui o Tesouro da Tumba 7 de Monte Albán), biblioteca histórica e claustros. O site do INAH lista ingresso de estrangeiro a 210 MXN (mexicanos 105), mas o horário é DIVERGENTE: INAH diz terça a sábado 10:00-16:00 (e domingo gratuito para mexicanos, o que sugere abertura aos domingos); outras fontes de viagem dizem terça a domingo 09:00-17:00 ou terça a sexta 10:00-15:00. Confirme por telefone (+52 951 516 2991) antes de ir. Visita guiada de agência (~2h30) é cobrada à parte.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "10:00–16:00",
+        "qua": "10:00–16:00",
+        "qui": "10:00–16:00",
+        "sex": "10:00–16:00",
+        "sab": "10:00–16:00",
+        "dom": ""
+      },
+      "diasFechados": [
+        "seg"
+      ],
+      "melhorHorario": "Terça a sexta de manhã, antes dos grupos.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 210,
+        "max": 210,
+        "por": "pessoa",
+        "inclui": "Tarifa de estrangeiro conforme INAH lugares; outras fontes citam 85-90 MXN (valores antigos).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://lugares.inah.gob.mx/en/node/4252",
+          "https://www.civitatis.com/en/oaxaca/museum-cultures/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 951 516 2991",
+        "whatsapp": "",
+        "site": "https://lugares.inah.gob.mx/en/node/4252",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Santo Domingo, esquina Macedonio Alcalá com Gurrión, centro.",
+      "dicasAgente": [
+        "VALE CADA PESO se você for a Monte Albán (a Tumba 7 aqui dá contexto), senão CORTE SE APERTAR: pelo ritmo intenso e perfil praia, é o museu mais fácil de pular."
+      ],
+      "alertas": [
+        "HORÁRIO DIVERGENTE entre fontes; domingo ficou vazio no campo de horário por não haver confirmação.",
+        "Preço divergente: 210 (INAH) vs ~85-90 (fontes antigas)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Imagen_de_Museo_de_las_Culturas_de_Oaxaca_04.jpg?width=1200",
+        "credito": "Avecus",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Imagen_de_Museo_de_las_Culturas_de_Oaxaca_04.jpg"
+      },
+      "fontes": [
+        "https://lugares.inah.gob.mx/en/node/4252",
+        "https://www.civitatis.com/en/oaxaca/museum-cultures/",
+        "https://www.openstreetmap.org/node/5302483021"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Jardín Etnobotánico de Oaxaca",
+      "categoria": "atracao",
+      "cidade": "oaxaca",
+      "tags": [
+        "jardim",
+        "visita-guiada-obrigatoria",
+        "horario-fixo",
+        "plantas-nativas"
+      ],
+      "coords": {
+        "lat": 17.0665049,
+        "lng": -96.7222755
+      },
+      "descricaoCurta": "Jardim de plantas nativas atrás de Santo Domingo; SÓ visita guiada, em horário fixo.",
+      "descricaoLonga": "Jardim de cactos e plantas úteis das etnias de Oaxaca no Centro Cultural Santo Domingo. Só se entra em visita guiada de ~30 min, de segunda a sábado, às 10:00, 12:00 e 17:00 (México Desconocido); chegue 10 min antes. Outro resultado de busca (não aberto) fala só em 12:00 e 17:00 com visitas em espanhol/inglês/francês, então confirme o horário do dia. Preço citado: 50 MXN (México Desconocido); outro resultado cita 100 MXN.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "ter": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "qua": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "qui": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "sex": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "sab": "Somente visita guiada: 10:00, 12:00 e 17:00 (chegar 10 min antes)",
+        "dom": "Fechado"
+      },
+      "diasFechados": [
+        "dom"
+      ],
+      "melhorHorario": "Visita das 10:00 (menos calor).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 100,
+        "por": "pessoa",
+        "inclui": "Visita guiada (única forma de entrar). Fontes divergem: 50 MXN (México Desconocido) vs 100 MXN (resultado de busca).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mexicodesconocido.com.mx/jardin-etnobotanico-de-oaxaca-un-espacio-para-fotografiar.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Somente com guia; sem entrada livre."
+      ],
+      "pontoPartida": "Centro Cultural Santo Domingo, portaria do ex-convento.",
+      "dicasAgente": [
+        "VALE CADA PESO se o horário encaixar no passeio por Santo Domingo; senão CORTE SE APERTAR (30 min)."
+      ],
+      "alertas": [
+        "Horário fixo e guiado: se perder o horário, perde a visita.",
+        "Domingo fechado (inferido de 'segunda a sábado', confirmar)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jardín_Etnobotánico_de_Oaxaca_03.JPG?width=1200",
+        "credito": "Kaldari",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jardín_Etnobotánico_de_Oaxaca_03.JPG"
+      },
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/jardin-etnobotanico-de-oaxaca-un-espacio-para-fotografiar.html",
+        "https://www.openstreetmap.org/way/42373046"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zócalo e Catedral de Oaxaca",
+      "categoria": "atracao",
+      "cidade": "oaxaca",
+      "tags": [
+        "praca",
+        "gratis",
+        "cafes",
+        "musica-ao-vivo",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 17.0605953,
+        "lng": -96.7253435
+      },
+      "descricaoCurta": "Praça central com cafés, música ao vivo e vendedores; ponto de partida de tudo no centro.",
+      "descricaoLonga": "Praça arborizada cercada de portais com cafés e restaurantes, com eventos culturais e manifestações frequentes (Wikivoyage). Mercados 20 de Noviembre e Benito Juárez ficam a 1-3 quadras. À noite, música tradicional ao vivo é comum.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde/noite.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro histórico.",
+      "dicasAgente": [
+        "VALE CADA PESO (zero): ponto de encontro e de pré-balada; cafés dos portais são mais caros que os mercados."
+      ],
+      "alertas": [
+        "Manifestações/bloqueios no Zócalo acontecem (Wikivoyage): confira antes de planejar tour pelo centro."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oaxaca_de_Juárez,_Zócalo_1.jpg?width=1200",
+        "credito": "LBM1948",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Oaxaca_de_Juárez,_Zócalo_1.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://www.openstreetmap.org/way/30049804"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Calle Macedonio Alcalá (andador turístico)",
+      "categoria": "compras",
+      "cidade": "oaxaca",
+      "tags": [
+        "andador",
+        "pedestre",
+        "agencias-de-passeio",
+        "bares",
+        "artesanato"
+      ],
+      "coords": {
+        "lat": 17.0637416,
+        "lng": -96.7241802
+      },
+      "descricaoCurta": "Rua de pedestres do Zócalo a Santo Domingo, com agências, restaurantes, galerias e bares.",
+      "descricaoLonga": "Eixo turístico do centro. Ao longo dele ficam agências com tours de dia inteiro para oficinas, mezcal e sítios (a partir de ~150 MXN, Wikivoyage), restaurantes (ex.: María Bonita com comida corrida a ~70 MXN) e bares (Selva, Los Danzantes). Compare agências a pé e confira se o preço inclui as entradas.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Entardecer.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito para caminhar. Tours: a partir de ~150 MXN (Wikivoyage), sem entradas em muitos casos.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Zócalo, 5-8 min a pé até Santo Domingo.",
+      "dicasAgente": [
+        "Use para comparar preços de tours e comprar a van para a costa se quiser sair do centro."
+      ],
+      "alertas": [
+        "Wikivoyage alerta para tours que 'não incluem as entradas': pergunte sempre o que está incluso."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle_Macedonio_Alcala,_Oaxaca._-_panoramio.jpg?width=1200",
+        "credito": "holachetumal",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Calle_Macedonio_Alcala,_Oaxaca._-_panoramio.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://foodandpleasure.com/bares-en-oaxaca/",
+        "https://www.openstreetmap.org/way/467214667"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado 20 de Noviembre e Pasillo de Humo",
+      "categoria": "restaurante",
+      "cidade": "oaxaca",
+      "tags": [
+        "mercado",
+        "carne-assada",
+        "tasajo",
+        "cecina",
+        "economico",
+        "pasillo-de-humo"
+      ],
+      "coords": {
+        "lat": 17.0579866,
+        "lng": -96.7269998
+      },
+      "descricaoCurta": "Mercado coberto com o corredor da carne assada (Pasillo de Humo), melhor custo-benefício de comida em Oaxaca.",
+      "descricaoLonga": "Na entrada leste fica o Pasillo de Humo: você escolhe tasajo, cecina enchilada e chorizo, e eles grelham na brasa na hora; leve tortilhas e acompanhamentos dos puestos vizinhos. O mercado tem ainda dezenas de puestos de café da manhã e almoço (comida corrida a ~70-100 MXN, Wikivoyage). Horário (07:00-20:00) vem de agregador, não de fonte oficial.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "07:00–20:00",
+        "ter": "07:00–20:00",
+        "qua": "07:00–20:00",
+        "qui": "07:00–20:00",
+        "sex": "07:00–20:00",
+        "sab": "07:00–20:00",
+        "dom": "07:00–20:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço 13:00-15:00; ou cedo para o café da manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 70,
+        "max": 150,
+        "por": "pessoa",
+        "inclui": "Comida corrida ~70-100 MXN (Wikivoyage); carne do corredor: preço por quilo não verificado, estimei até 150 por pessoa.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+          "https://tablejourney.com/mexico/oaxaca/markets/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A 3 quadras ao sul do Zócalo.",
+      "dicasAgente": [
+        "VALE CADA PESO: item nº 1 de custo-benefício. Faça uma refeição ali pelo menos uma vez.",
+        "Confirme o preço antes de a carne ser pesada/grelhada."
+      ],
+      "alertas": [
+        "Faixa de preço máxima é estimativa do agente; confirme preço antes de pedir."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_20_de_noviembre_-_Oaxaca_de_Juárez_-_10.jpg?width=1200",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_20_de_noviembre_-_Oaxaca_de_Juárez_-_10.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://tablejourney.com/mexico/oaxaca/markets/",
+        "https://www.openstreetmap.org/way/156027537"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado Benito Juárez",
+      "categoria": "compras",
+      "cidade": "oaxaca",
+      "tags": [
+        "mercado",
+        "chapulines",
+        "mole",
+        "chocolate",
+        "artesanato",
+        "souvenirs"
+      ],
+      "coords": {
+        "lat": 17.0589356,
+        "lng": -96.7266807
+      },
+      "descricaoCurta": "Mercado de 1894 a uma quadra do Zócalo: chapulines, tejate, queijo quesillo, chocolate e pasta de mole.",
+      "descricaoLonga": "Quarteirão inteiro com roupas, couro, mole, flores e comida; barracas de comida ao longo do muro sul (Wikivoyage). Bom para souvenirs comestíveis baratos (chocolate, pasta de mole, mezcal em garrafinha). Compare preços com o 20 de Noviembre.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "10:00–20:00",
+        "ter": "10:00–20:00",
+        "qua": "10:00–20:00",
+        "qui": "10:00–20:00",
+        "sex": "10:00–20:00",
+        "sab": "10:00–20:00",
+        "dom": "10:00–20:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A 1 quadra a sudoeste do Zócalo.",
+      "dicasAgente": [
+        "Vale para mole/chocolate; CORTE SE APERTAR as compras de artesanato (compre em Teotitlán/Ocotlán se for ao vale)."
+      ],
+      "alertas": [
+        "Horário vem de agregador (tablejourney)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_Oaxaca_Benito_Juarez.JPG?width=1200",
+        "credito": "Abdeel Yañez Quintanar",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Oaxaca_Benito_Juarez.JPG"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://tablejourney.com/mexico/oaxaca/markets/",
+        "https://www.openstreetmap.org/way/121991406"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Mezcaloteca",
+      "categoria": "bar",
+      "cidade": "oaxaca",
+      "tags": [
+        "mezcal",
+        "degustacao",
+        "somente-com-reserva",
+        "prioridade-do-cliente"
+      ],
+      "coords": {
+        "lat": 17.0661634,
+        "lng": -96.7216111
+      },
+      "descricaoCurta": "Sala de degustação de mezcais de todo o México, só com hora marcada, atrás de Santo Domingo.",
+      "descricaoLonga": "Associação civil com catálogo amplo de mezcais (não só de Oaxaca). Degustação guiada de 3 mezcais por 320 MXN por adulto, com explicação do processo e compra de garrafas. Funciona de segunda a sábado 17:00-21:30, fechado aos domingos, apenas com reserva.",
+      "duracao": {
+        "min": 60,
+        "tipica": 75,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "17:00–21:30",
+        "ter": "17:00–21:30",
+        "qua": "17:00–21:30",
+        "qui": "17:00–21:30",
+        "sex": "17:00–21:30",
+        "sab": "17:00–21:30",
+        "dom": "Fechado"
+      },
+      "diasFechados": [
+        "dom"
+      ],
+      "melhorHorario": "17:00-19:00; reserve com 1-2 dias.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 320,
+        "max": 320,
+        "por": "pessoa",
+        "inclui": "Degustação de 3 mezcais (preço de fonte turística, data não confirmada).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/987/la-mezcaloteca-oaxaca.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": "https://mezcaloteca.com"
+      },
+      "contato": {
+        "telefone": "951 514 0082",
+        "whatsapp": "",
+        "site": "https://mezcaloteca.com",
+        "instagram": "@mezcaloteca"
+      },
+      "restricoes": [
+        "Só com reserva (hora marcada)."
+      ],
+      "pontoPartida": "Calle de la Reforma 506, Jalatlaco, atrás do Centro Cultural Santo Domingo.",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor lugar para entender mezcal sem ser empurrado a comprar; prioridade do cliente.",
+        "Faça aqui a primeira degustação para calibrar paladar antes de comprar garrafa."
+      ],
+      "alertas": [
+        "Preço e horário vêm de uma única página turística (data de atualização não informada): confirme por telefone."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mezcal_bottles_.jpg?width=1200",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg"
+      },
+      "fontes": [
+        "https://www.zonaturistica.com/que-hacer-en-el-lugar-turistico/987/la-mezcaloteca-oaxaca.html",
+        "https://traveltooaxaca.com/best-mezcalerias-oaxaca-city",
+        "https://www.openstreetmap.org/node/4576199090"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "In Situ Mezcalería",
+      "categoria": "bar",
+      "cidade": "oaxaca",
+      "tags": [
+        "mezcal",
+        "selecao-ampla",
+        "bar",
+        "compras"
+      ],
+      "coords": {
+        "lat": 17.0594207,
+        "lng": -96.7213593
+      },
+      "descricaoCurta": "Mezcalería com uma das maiores seleções de mezcal de produtores de Oaxaca, na Vicente Guerrero.",
+      "descricaoLonga": "Declara ter a maior seleção de mezcais de Oaxaca, com dois endereços (centro e Casa de Barro). Serve como degustação e loja. Preços de dose e horários não foram verificados.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Entardecer.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço de dose/flight não verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Vicente Guerrero 413, centro.",
+      "dicasAgente": [
+        "Boa alternativa para comprar garrafa com rótulo e certificação visíveis; compare com a Mezcaloteca."
+      ],
+      "alertas": [
+        "Sem preço/horário verificado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://traveltooaxaca.com/best-mezcalerias-oaxaca-city",
+        "https://www.openstreetmap.org/node/12663614901"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Txalaparta (bar com pista de dança)",
+      "categoria": "bar",
+      "cidade": "oaxaca",
+      "tags": [
+        "danca",
+        "noite",
+        "mezcal",
+        "terraco"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Bar com área de dança e terraço aberto no centro; serve mezcal, mojitos e cerveja.",
+      "descricaoLonga": "Único lugar citado nas fontes abertas com pista de dança no centro (além de bares de mezcal). Preço e horário não verificados.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite de sexta e sábado (inferência).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Não verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Mariano Matamoros 208, centro.",
+      "dicasAgente": [
+        "Pista de dança mais 'balada' do centro segundo a fonte aberta; Oaxaca não é cidade de clubes."
+      ],
+      "alertas": [
+        "Sem preço, horário ou coordenada verificados."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://foodandpleasure.com/bares-en-oaxaca/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tour de palenques em Santiago Matatlán (mezcal)",
+      "categoria": "passeio",
+      "cidade": "oaxaca",
+      "tags": [
+        "mezcal",
+        "palenque",
+        "matatlan",
+        "tour",
+        "prioridade-do-cliente",
+        "nao-dirija-depois"
+      ],
+      "coords": {
+        "lat": 16.864722,
+        "lng": -96.383611
+      },
+      "descricaoCurta": "Passeio de 5-7 h pelos destiladores de mezcal de Matatlán, a 'capital mundial do mezcal', ~45 km de Oaxaca.",
+      "descricaoLonga": "Tours típicos incluem 30 min no Tule e ~3 h em palenques de Matatlán (5 h no total), ou versões de ~7 h com campos de agave, pulquería e ônibus-barril. Exemplo com preço coletado: tour da biblioteca Oaxaca Lending Library (7 h, jan/2025) a 800 MXN por pessoa não sócio (+20 de taxa), com extras: caminhão-barril 100 MXN, entrada do Tule 50 MXN e almoço à parte. Outras operadoras (Oaxaca Culture, Lokalee, ByFood) não mostravam preço na página aberta. Wikivoyage recomenda o Rancho Zapata e alerta contra tours que não incluem entradas.",
+      "duracao": {
+        "min": 300,
+        "tipica": 360,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída 09:00-09:30 e volta ~16:30.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 800,
+        "max": 1000,
+        "por": "pessoa",
+        "inclui": "800 MXN (+20 taxa) é o preço de um tour de 7 h de jan/2025 sem extras; teto de 1.000 inclui caminhão-barril e entrada do Tule (estimativa). Almoço à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.oaxlibrary.org/event-details/tour-mezcal-and-pulque-tour",
+          "https://lokalee.app/en/tours/the-mezcal-tour",
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Álcool: não dirigir."
+      ],
+      "pontoPartida": "Hotel/ponto no centro de Oaxaca (ex.: igreja de Jalatlaco ou perto do Fiesta Americana).",
+      "dicasAgente": [
+        "VALE CADA PESO: é a experiência de mezcal mais completa (prioridade do cliente); faça em tour com transporte incluso.",
+        "ALERTA PARA DIRIGIR: se alugar carro e visitar palenques por conta, as degustações são grandes e a estrada é a rodovia 190; NÃO dirija depois de provar mezcal (conselho do agente; fontes abertas só listam tours com van).",
+        "Compre mezcal direto do palenque olhando rótulo/certificação (veja item 'Como não comprar mezcal falsificado')."
+      ],
+      "alertas": [
+        "Preço de 800 MXN é de janeiro/2025 (tour sold out na data); atualize antes de reservar.",
+        "Vários tours aparecem sem preço nas páginas abertas."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mezcal_don_Balta,_Santa_María_del_Tule,_Oaxaca.jpg?width=1200",
+        "credito": "Nanahuatl",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mezcal_don_Balta,_Santa_María_del_Tule,_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://www.oaxlibrary.org/event-details/tour-mezcal-and-pulque-tour",
+        "https://lokalee.app/en/tours/the-mezcal-tour",
+        "https://www.lokalee.app/en/tours/oaxaca-mezcal-and-pulque-tour-by-barrel-bus",
+        "https://going.com/guides/matatlan-mezcal",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://www.openstreetmap.org/node/458606682"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Como não comprar mezcal falsificado (guia de compra)",
+      "categoria": "compras",
+      "cidade": "oaxaca",
+      "tags": [
+        "mezcal",
+        "golpe",
+        "guia",
+        "rotulo",
+        "nom-070"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Checklist para comprar mezcal: rótulo NOM-070, certificação (CRM/outros), categoria e produtor.",
+      "descricaoLonga": "A norma NOM-070-SCFI-2016 define mezcal como destilado de agave maduro, 35-55% de álcool, exige rótulo com espécie(s) de agave, estado de produção, lote e certificação de organismo acreditado, e divide em ancestral, artesanal e industrial. Desde março de 2021, além do Consejo Regulador del Mezcal (CRM) há outros certificadores autorizados (PAMFA, CMX, CIDAM), então a ausência de holograma do CRM não prova falsificação. Sinais de alerta: sem dados de lote/agave/produtor, teor fora de 35-55%, sem certificação, produzido fora da zona de denominação. A palavra 'mezcal' no rótulo não garante qualidade.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Garrafas de produtores variam muito; faixa de preço não verificada em fonte aberta.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Compre em mezcalerías especializadas (Mezcaloteca, In Situ) ou direto do palenque; peça para ver rótulo completo.",
+        "Peça categoria (ancestral/artesanal), espécie de agave e produtor; desconfie de preço muito abaixo do usual.",
+        "Regra do embarque: confira o limite de líquidos/álcool da sua companhia aérea e de bagagem de despacho."
+      ],
+      "alertas": [
+        "Dicas práticas de preço e embarque são conselhos do agente; a parte normativa vem de Mezcalistas/NOM-070."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mezcal_bottles_.jpg?width=1200",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mezcal_bottles_.jpg"
+      },
+      "fontes": [
+        "https://www.mezcalistas.com/?p=84713",
+        "https://www.mezcalistas.com/?p=34511"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado de Tlacolula (tianguis de domingo)",
+      "categoria": "compras",
+      "cidade": "oaxaca",
+      "tags": [
+        "mercado",
+        "domingo",
+        "barbacoa",
+        "mezcal",
+        "tianguis",
+        "valle"
+      ],
+      "coords": {
+        "lat": 16.9543088,
+        "lng": -96.4785439
+      },
+      "descricaoCurta": "Maior tianguis do vale, só aos domingos: produtores zapotecas, barbacoa, mezcal, chapulines.",
+      "descricaoLonga": "Tianguis de domingo a ~30 min a leste de Oaxaca, com agricultores, açougueiros e produtores de mezcal (tablejourney: 08:00-17:00 aos domingos, cerca de 600 vendedores; Wikivoyage: até 16:00). É o dia certo para ir se o roteiro tiver um domingo livre; combine com Teotitlán, Mitla e Matatlán.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": "08:00–16:00"
+      },
+      "diasFechados": [
+        "seg",
+        "ter",
+        "qua",
+        "qui",
+        "sex",
+        "sab"
+      ],
+      "melhorHorario": "Chegar antes das 10:00.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada livre; comida e compras à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Colectivo/van no centro/Mercado de Abastos; ~30 min.",
+      "dicasAgente": [
+        "O DOMINGO muda o roteiro: planeje o dia de vale (Tlacolula+Teotitlán+Mitla+Matatlán) para o domingo."
+      ],
+      "alertas": [
+        "Fora do domingo o mercado fica bem menor; Mitla e Matatlán funcionam todo dia."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlacolula_Market_230122_1.jpg?width=1200",
+        "credito": "Bluerasberry",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tlacolula_Market_230122_1.jpg"
+      },
+      "fontes": [
+        "https://tablejourney.com/mexico/oaxaca/markets/",
+        "https://tablejourney.com/neighborhood/oaxaca/valles-centrales/",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://www.openstreetmap.org/node/4584769389"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Calendário de tianguis do vale (qual dia em qual vila)",
+      "categoria": "experiencia",
+      "cidade": "oaxaca",
+      "tags": [
+        "mercado",
+        "calendario",
+        "planejamento",
+        "valle"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Qual vila tem mercado em qual dia: domingo Tlacolula, quarta/domingo Etla, quinta Zaachila, sexta Ocotlán (a confirmar).",
+      "descricaoLonga": "Agregador de mercados lista: Tlacolula aos domingos (08:00-17:00), Reyes Etla às quartas e domingos (08:00-15:00; 'Wednesday-Sunday tianguis' no texto), Zaachila às quintas (08:00-17:00). Ocotlán (sexta) não confirmado. Mercados da cidade funcionam todo dia: 20 de Noviembre (07:00-20:00), Benito Juárez (10:00-20:00), Sánchez Pascuas (06:00-19:00), Central de Abastos (06:00-19:00, com tianguis de fim de semana) e La Merced (07:00-19:00). Como a viagem tem data livre, ponha o dia de vale no domingo (Tlacolula) e o dia sul (Zaachila/Ocotlán) na quinta/sexta se houver folga.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "Etla 08:00–15:00",
+        "qui": "Zaachila 08:00–17:00",
+        "sex": "Ocotlán (a confirmar)",
+        "sab": "",
+        "dom": "Tlacolula 08:00–17:00; Etla 08:00–15:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Domingo=Tlacolula, quarta=Etla, quinta=Zaachila, sexta=Ocotlán (a confirmar).",
+        "Central de Abastos: Wikivoyage alerta para batedores de carteira, principalmente aos sábados."
+      ],
+      "alertas": [
+        "Dias da semana vêm de agregador (tablejourney); só Etla/Tlacolula/Zaachila aparecem na página aberta; Ocotlán é estimado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://tablejourney.com/mexico/oaxaca/markets/",
+        "https://tablejourney.com/neighborhood/oaxaca/valles-centrales/",
+        "https://tablejourney.com/mexico/oaxaca/markets/mercado-reyes-etla/",
+        "https://www.mezcalistas.com/?p=4256",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Oaxaca → costa: autopista Barranca Larga–Ventanilla x estrada antiga (van, ônibus, carro)",
+      "categoria": "experiencia",
+      "cidade": "oaxaca",
+      "tags": [
+        "transporte",
+        "autopista",
+        "decisivo",
+        "puerto-escondido",
+        "enjoo"
+      ],
+      "coords": {
+        "lat": 17.0703631,
+        "lng": -96.7170019
+      },
+      "descricaoCurta": "A autopista nova (~2h30-3h) mudou o roteiro; a estrada antiga (175/131) leva 5-8 h e enjoa.",
+      "descricaoLonga": "AUTOPISTA Barranca Larga–Ventanilla (trecho de 104,2 km da autopista Oaxaca–Puerto Escondido; inaugurada em 2024): 2h30-3h para carro/ônibus; passou a ser cobrada em 2025. PEDÁGIO (CAPUFE, reajuste em 13/04/2026): carro 245 MXN por praça, 2 praças (Barranca Larga e Ventanilla) = 490 MXN por sentido (980 ida e volta); moto 122 por praça. ESTRADA ANTIGA gratuita: Federal 175 (via Pochutla, ~317 km, melhor conservada) ou 131 (via Juquila, ~258 km, mais rápida e muito sinuosa), 5-7 h de carro (oaxway) e 8-9 h de van compartilhada em fonte mais antiga. ÔNIBUS: ADO/ADO GL, cerca de 5 saídas por dia, ~3 h, a partir de US$ 23 (Busbud; preço em MXN não confirmado). VAN COMPARTILHADA: Wikivoyage cita 209-330 MXN por pessoa e ~3 h pela autopista; confirme se a van vai pela autopista. Há também voo (veja item do voo). CARRO ALUGADO: diária de ~US$ 60-120 em guia independente (montealbanoaxaca); com 490 MXN de pedágio por sentido, casal gasta menos de van/ônibus; só compensa para parar em Monte Albán/Hierve el Agua ou dividir com mais gente. NÃO dirija após degustar mezcal.",
+      "duracao": {
+        "min": 150,
+        "tipica": 180,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Sair cedo (07:00-08:00) para chegar à costa antes do pôr do sol; evitar viajar à noite pela estrada antiga.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 209,
+        "max": 330,
+        "por": "pessoa",
+        "inclui": "Van compartilhada pela autopista (Wikivoyage). Pedágio de carro: 490 por sentido (grupo). Ônibus ADO: ~US$ 23-28, MXN não confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://oaxaca.heraldodemexico.com.mx/local/2026/4/16/la-mas-cara-del-pais-con-el-aumento-de-tarifas-de-capufe-la-autopista-oaxaca-puerto-escondido-cuesta-casi-mil-pesos-16628.html",
+          "https://oaxway.com/carretera/casetas-y-peajes/",
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Terminal ADO / escritórios de vans no centro de Oaxaca → Puerto Escondido (rodoviária em Av. Oaxaca) ou Pochutla/Zipolite/Mazunte.",
+      "dicasAgente": [
+        "VALE CADA PESO: pegue a AUTOPISTA (van ou ADO). Economiza 3-5 h em cada sentido, essencial num roteiro intenso.",
+        "ENJOO: a estrada antiga é descrita como 'bumpy and curvy, notoriously bad for anyone prone to carsickness' (traveltooaxaca); tome remédio e sente na frente se for por ela.",
+        "Para Zipolite/Mazunte, Wikivoyage cita ônibus de Líneas Unidas ~4 h por M$370 (vem da rota nova); para Huatulco, van de ~6 h por ~300-400 MXN (dado antigo).",
+        "Se alugar carro na ida, some 490 de pedágio por sentido + gasolina; a van de 209-330 por pessoa costuma ser mais barata para casal."
+      ],
+      "alertas": [
+        "Vans: Wikivoyage Puerto Escondido ainda cita 6-7 h e 170-209 MXN (dado antigo); Wikivoyage Oaxaca cita 3 h e 209-330. Confirme se a van usa a autopista.",
+        "Chuvas (junho a outubro): deslizamentos podem ocorrer; moradores e prestadores reclamaram em abril/2026 de trechos incompletos e má manutenção após as chuvas de 2025 (Heraldo).",
+        "Preço do ônibus ADO em MXN não confirmado (só US$ no Busbud).",
+        "Início de operação da autopista em fev/2024 e cobrança a partir de jan/2025 vêm de resultado de busca (não aberto) e Wikivoyage ('early 2024')."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://oaxaca.heraldodemexico.com.mx/local/2026/4/16/la-mas-cara-del-pais-con-el-aumento-de-tarifas-de-capufe-la-autopista-oaxaca-puerto-escondido-cuesta-casi-mil-pesos-16628.html",
+        "https://oaxway.com/carretera/casetas-y-peajes/",
+        "https://montealbanoaxaca.com/ado-bus-vs-rental-car-vs-shuttle-best-ways-to-travel-from-oaxaca-to-puerto-escondido/",
+        "https://traveltooaxaca.com/oaxaca-to-puerto-escondido-mexico/",
+        "https://traveltooaxaca.com/bus-from-oaxaca-to-puerto-escondido/",
+        "https://www.busbud.com/en/bus-oaxaca-puerto-escondido/r/9g51p1-9fffq9",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+        "https://en.wikivoyage.org/wiki/Zipolite",
+        "https://en.wikivoyage.org/wiki/Huatulco",
+        "https://www.openstreetmap.org/way/155171792"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Voo Oaxaca → Puerto Escondido (Aerotucán / Aerovega)",
+      "categoria": "experiencia",
+      "cidade": "oaxaca",
+      "tags": [
+        "transporte",
+        "aviao-pequeno",
+        "caro",
+        "corte-se-apertar"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Monomotores/bimotores de 6-8 lugares, ~45 min, ~2.000-3.500 MXN por trecho; com a autopista, é opcional.",
+      "descricaoLonga": "Aerotucán: ~3.000-3.500 MXN por trecho, 15 kg de bagagem, telefone +52 951 502 0840; Aerovega: ~2.000-2.500 MXN em dinheiro, avião de 6 lugares. Voo de ~45 min, cerca de uma saída por dia por companhia (informações de página de viagem sem data; o site da Aerotucán não mostrou tarifas). Com a autopista de 3 h, o voo só compensa por conforto ou se você tem pouco tempo; avião pequeno balança mais.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 2000,
+        "max": 3500,
+        "por": "pessoa",
+        "inclui": "Preço por trecho, informado por blog; confirme com a companhia.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://traveltooaxaca.com/oaxaca-to-puerto-escondido-flight/",
+          "https://aerotaxisdemexico.com/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 14,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 951 502 0840",
+        "whatsapp": "",
+        "site": "https://aerotaxisdemexico.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Bagagem 15 kg (Aerotucán)."
+      ],
+      "pontoPartida": "Aeroporto de Oaxaca → aeroporto de Puerto Escondido.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: ~3.000 MXN por pessoa por trecho contra 209-330 da van. Não faz sentido no perfil econômico."
+      ],
+      "alertas": [
+        "Dados da página traveltooaxaca (data não informada, pode ser anterior à autopista); confirme horários e tarifas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://traveltooaxaca.com/oaxaca-to-puerto-escondido-flight/",
+        "https://aerotaxisdemexico.com/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Zicatela (Mexican Pipeline)",
+      "categoria": "praia",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "surfe-avancado",
+        "correnteza-forte",
+        "baladas",
+        "nao-nadar",
+        "mexican-pipeline"
+      ],
+      "coords": {
+        "lat": 15.8437439,
+        "lng": -97.0526098
+      },
+      "descricaoCurta": "Praia lendária de ondas gigantes; vista e balada sim, mergulho NÃO: correnteza fortíssima.",
+      "descricaoLonga": "Famosa pelo 'Mexican Pipeline': canhão submarino que amplifica as ondas (swells de 20+ pés de maio a outubro; baixa temporada turística em meados/fim do verão, mas ondas no auge; campeonatos em novembro). Cerca de 800 pessoas são resgatadas por ano em Zicatela e Playa Principal por ~12 salva-vidas profissionais e voluntários; casos típicos são banhistas e bodyboarders novatos em correntes de retorno. Zicatela NÃO é para iniciantes nem para banho: use Carrizalillo ou La Punta para aprender. É o polo de bares e baladas de Puerto Escondido.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Nascer do sol para caminhar; pôr do sol nos bares de praia.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia pública.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não é recomendada para natação nem iniciantes em surfe."
+      ],
+      "pontoPartida": "Sul de Puerto Escondido (Av. del Morro/Brisas de Zicatela); táxi do centro ~10-20 min.",
+      "dicasAgente": [
+        "VALE CADA PESO (zero) como cenário e festa; entrar na água só em Punta Zicatela/La Punta com aula.",
+        "Wikivoyage: evite praias à noite por relatos de assaltos; a polícia pode abordar turistas tarde da noite."
+      ],
+      "alertas": [
+        "CORRENTEZA FORTÍSSIMA: não nade, nem boogie board sem experiência (vivapuerto.com).",
+        "Praia de Playa Principal tem queda brusca de ~10 m de profundidade perto da margem (vivapuerto)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Zicatela,_Oaxaca.jpg?width=1200",
+        "credito": "Daniel Sebastián Hernández Lozano",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Zicatela,_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://www.vivapuerto.com/vp5/lifeguards.php",
+        "https://www.tripexpert.com/oaxaca/attractions/playa-zicatela",
+        "https://en.wikipedia.org/wiki/Puerto_Escondido,_Oaxaca",
+        "https://breathingtravel.com/where-to-stay-in-puerto-escondido/",
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+        "https://www.openstreetmap.org/way/192166819"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Playa Carrizalillo",
+      "categoria": "praia",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "enseada",
+        "banho-seguro",
+        "surfe-iniciante",
+        "167-degraus",
+        "mais-bonita"
+      ],
+      "coords": {
+        "lat": 15.8595515,
+        "lng": -97.0785137
+      },
+      "descricaoCurta": "Enseada de águas claras, a mais indicada para nadar e para primeiras aulas de surfe.",
+      "descricaoLonga": "Wikivoyage: 'a praia mais bonita e mais segura para nadar', acesso por 167 degraus. Para surfe de iniciante é descrita como a mais amigável: água clara, ondas pequenas a médias com poucas pedras. Bom para um dia de praia mais tranquilo e para primeira aula. Preço de acesso, espreguiçadeiras e barcos não foram verificados.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (menos gente) ou fim da tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia pública; serviços (guarda-sol/cadeira) não verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "167 degraus de acesso (difícil para mobilidade reduzida)."
+      ],
+      "pontoPartida": "Descida de escada a partir do bairro Carrizalillo, ~10 min de táxi do centro.",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor opção para banho de mar e aula de surfe de iniciante."
+      ],
+      "alertas": [
+        "Escadaria de 167 degraus na volta; leve água."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Carrizalillo.jpg?width=1200",
+        "credito": "Ix kimiaranda",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Carrizalillo.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+        "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/",
+        "https://www.openstreetmap.org/way/192166817"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "La Punta (Punta Zicatela)",
+      "categoria": "praia",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "ponta-sul",
+        "surfe-iniciante",
+        "bohemio",
+        "bares-de-praia",
+        "hospedagem-economica"
+      ],
+      "coords": {
+        "lat": 15.833333,
+        "lng": -97.038333
+      },
+      "descricaoCurta": "Ponta sul da Zicatela: clima relaxado, ondas menores, hostels, restaurantes e bares de praia.",
+      "descricaoLonga": "Área mais relaxada e frequentada por expatriados, com ondas menores para aprender. Vida noturna moderada (bares de praia e restaurantes), não a festa pesada da Zicatela. Lineup mais cheio e ocasionais ondas grandes (Mexico News Daily). Indicada como base para quem quer surfar e ter vida noturna leve.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã para surfe; pôr do sol para beber.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia pública.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé do fim da Zicatela; ~15-25 min de táxi do centro.",
+      "dicasAgente": [
+        "VALE CADA PESO como base de hospedagem econômica: Wikivoyage cita dormitório desde ~200 MXN e quartos sem ar desde 400-600 (abril/2024).",
+        "Honestidade: vida noturna aqui é bem mais calma que a Zicatela/Adoquín."
+      ],
+      "alertas": [
+        "Ondas maiores podem aparecer de surpresa (Mexico News Daily). Evite caminhar sozinho na praia à noite (Wikivoyage)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Zicatela,_Puerto_Escondido.jpg?width=1200",
+        "credito": "Anna Bertho",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Punta_Zicatela,_Puerto_Escondido.jpg"
+      },
+      "fontes": [
+        "https://breathingtravel.com/where-to-stay-in-puerto-escondido/",
+        "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/",
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+        "https://www.openstreetmap.org/node/458636105"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aula de surfe para iniciantes em Puerto Escondido",
+      "categoria": "experiencia",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "surfe",
+        "aula",
+        "iniciante",
+        "carrizalillo",
+        "la-punta"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Aula de 2 horas com instrutor e prancha por ~800-900 MXN, em Carrizalillo ou La Punta.",
+      "descricaoLonga": "Aulas de iniciante duram cerca de 2 h e custam 800-900 MXN com instrutor certificado e prancha incluídos (Mexico News Daily, abril/2024). Mexico News Daily cita a Chingon Surf Lessons e várias escolas no caminho para La Punta. Uma semana de aulas dá base para ondas pequenas a médias. Carrizalillo é a mais amigável para quem começa.",
+      "duracao": {
+        "min": 120,
+        "tipica": 120,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã cedo (vento mais fraco).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 800,
+        "max": 900,
+        "por": "pessoa",
+        "inclui": "Aula de ~2 h com instrutor certificado e prancha (valores de abril/2024).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Saber nadar; cansaço de remar contra a corrente é real."
+      ],
+      "pontoPartida": "Escolas em Carrizalillo/La Punta.",
+      "dicasAgente": [
+        "VALE CADA PESO: uma aula só basta para saber se você gosta; casal pode dividir aula semiprivada se a escola oferecer."
+      ],
+      "alertas": [
+        "Preços de abril/2024; atualize em 2026."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bioluminescência na Laguna de Manialtepec",
+      "categoria": "passeio",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "bioluminescencia",
+        "passeio-noturno",
+        "lua-nova",
+        "laguna"
+      ],
+      "coords": {
+        "lat": 15.94583,
+        "lng": -97.19444
+      },
+      "descricaoCurta": "Passeio de barco noturno (2,5 h) em laguna ~20 min de Puerto Escondido; ~950 MXN, melhor na lua nova.",
+      "descricaoLonga": "Passeio com buscar no hotel às 18:30 e retorno ~21:00, barco na laguna, tempo de banho, colete e guia bilíngue (operador Lassault México, 950 MXN por pessoa). ÉPOCA: fontes divergem. Uma agência local indica maio a novembro com pico de agosto a outubro (chuvas aumentam os dinoflagelados); outro operador (puerto-escondido.mx) fala em setembro a maio como melhor momento; um terceiro diz que opera o ano todo com pico de julho a novembro. Todos concordam que a LUA NOVA é o fator-chave e a lua cheia atrapalha. Planeje sempre pela fase da lua, não só pelo mês.",
+      "duracao": {
+        "min": 150,
+        "tipica": 150,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "18:30–21:00",
+        "ter": "18:30–21:00",
+        "qua": "18:30–21:00",
+        "qui": "18:30–21:00",
+        "sex": "18:30–21:00",
+        "sab": "18:30–21:00",
+        "dom": "18:30–21:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Lua nova; evite lua cheia.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 800,
+        "max": 950,
+        "por": "pessoa",
+        "inclui": "Transporte do hotel, barco na laguna, banho, colete, guia bilíngue. Valores de operadores de 2025-2026: 950 (puerto-escondido.mx); outros resultados citam 800.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 954 133 6245",
+        "whatsapp": "",
+        "site": "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não passar protetor solar antes de entrar na água (plâncton)."
+      ],
+      "pontoPartida": "Buscar no hotel em Puerto Escondido; laguna a ~20 min.",
+      "dicasAgente": [
+        "VALE CADA PESO se coincidir com lua nova; senão CORTE SE APERTAR (950 MXN para ver pouco)."
+      ],
+      "alertas": [
+        "Visibilidade varia com correntes e lua; um viajante relatou ver pouco (Civitatis). Confira a fase da lua antes de reservar.",
+        "Épocas divergem entre operadores (maio-nov x set-mai x o ano todo)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Manialtepec_Oaxaca.jpg?width=1200",
+        "credito": "Lunita28mx",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Laguna_de_Manialtepec_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/",
+        "https://oceantravelhuatulco.com/blog/detalle/mejor-epoca-para-ver-la-bioluminiscencia-en-manialtepec",
+        "https://paraisolaguna.com/en/bioluminescence-tour-oaxaca/",
+        "https://www.civitatis.com/en/puerto-escondido/night-tour-manialtepec-lagoon/",
+        "https://es.wikipedia.org/wiki/Laguna_de_Manialtepec"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Vida noturna em Puerto Escondido: Zicatela, Adoquín e La Punta",
+      "categoria": "bar",
+      "cidade": "puerto-escondido",
+      "tags": [
+        "balada",
+        "bares",
+        "zicatela",
+        "adoquin",
+        "casa-babylon",
+        "live-music"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "A balada real da região: bares da Zicatela (Casa Babylon, Palapita, Playa Kabbalah, Bar Fly) e La Piedra de la Iguana.",
+      "descricaoLonga": "Honestidade: é a melhor vida noturna da costa, mas é de cidade pequena de surfistas. Zicatela concentra bares e boates (post-surf, música ao vivo, DJs); Casa Babylon mistura livraria, café e balada; La Piedra de la Iguana Social Club (Brisas de Zicatela) é famosa por festas de Réveillon e Semana Santa com EDM e fogo; Adoquín (Av. Pérez Gasga) tem opções de bar. La Punta tem bares de praia e clima mais calmo. Preços e horários não foram verificados. Huatulco tem pouco: 'a vida noturna séria está em Puerto Escondido'.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite de sexta e sábado (inferência).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços não verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Zicatela/La Punta; táxi do centro.",
+      "dicasAgente": [
+        "VALE CADA PESO: a única balada de verdade da costa; combine com hospedagem em La Punta ou Zicatela.",
+        "Voltar de táxi: evite praia de madrugada (assaltos relatados; Wikivoyage)."
+      ],
+      "alertas": [
+        "Preços, dias e coordenadas dos locais não verificados; fontes são guias de viagem sem datas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://suitcasemag.com/to-drink-puerto-escondido-mexico",
+        "https://breathingtravel.com/where-to-stay-in-puerto-escondido/",
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+        "https://en.wikivoyage.org/wiki/Huatulco"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Punta Cometa (pôr do sol)",
+      "categoria": "mirante",
+      "cidade": "mazunte",
+      "tags": [
+        "por-do-sol",
+        "trilha-curta",
+        "ponto-mais-ao-sul",
+        "piscinas-de-pedra"
+      ],
+      "coords": {
+        "lat": 15.6600903,
+        "lng": -96.5576719
+      },
+      "descricaoCurta": "Península rochosa com o melhor pôr do sol da costa; trilha curta saindo de Mazunte.",
+      "descricaoLonga": "Península que marca o ponto mais ao sul de Oaxaca, com vista do nascer e do pôr do sol e piscinas naturais de pedra (Wikivoyage). Trilha sinalizada pelo morro ao lado dos bangalôs Alta Mira. Há taxa comunitária de ~30 MXN por pessoa (Civitatis, não incluída no tour) e há uma bilheteria mapeada no OpenStreetMap perto da entrada. Há também sinal de campamento tortuguero (cooperativa).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar 1h antes do pôr do sol; levar lanterna para voltar.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 30,
+        "max": 30,
+        "por": "pessoa",
+        "inclui": "Taxa comunitária (valor de tour da Civitatis).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.civitatis.com/mx/huatulco/excursion-punta-cometa-atardecer/",
+          "https://en.wikivoyage.org/wiki/Mazunte"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Trilha de pedra; tênis."
+      ],
+      "pontoPartida": "A pé de Playa Mazunte / Rinconcito (cerca de 20-30 min).",
+      "dicasAgente": [
+        "VALE CADA PESO (30 MXN): pôr do sol obrigatório se for a Mazunte.",
+        "Mar de Mazunte tem correntezas perigosas; evite praia deserta à noite (Wikivoyage: assaltos passados)."
+      ],
+      "alertas": [
+        "Valor de 30 MXN vem de tour guiado; confirme na bilheteria."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Cometa,_Mazunte,_Oaxaca.jpg?width=1200",
+        "credito": "Anna Bertho",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Punta_Cometa,_Mazunte,_Oaxaca.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mazunte",
+        "https://www.civitatis.com/mx/huatulco/excursion-punta-cometa-atardecer/",
+        "https://en.wikipedia.org/wiki/Punta_Cometa",
+        "https://www.openstreetmap.org/way/323351395",
+        "https://www.openstreetmap.org/node/13288315594"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Centro Mexicano de la Tortuga (Mazunte)",
+      "categoria": "museu",
+      "cidade": "mazunte",
+      "tags": [
+        "tartarugas",
+        "familia",
+        "aquario",
+        "soltura-marco-a-novembro"
+      ],
+      "coords": {
+        "lat": 15.6665216,
+        "lng": -96.5517721
+      },
+      "descricaoCurta": "Centro de conservação com 3 das 8 espécies marinhas do mundo e soltura de filhotes de março a novembro.",
+      "descricaoLonga": "Instituição aberta quarta a sábado 10:00-16:30 e domingo 10:00-14:30 (fechada segunda e terça segundo fonte de 2025). Ingresso geral 50 MXN (estudantes 25; grátis menores de 12, maiores de 60 e pessoas com deficiência). Há soltura de tartarugas entre março e novembro. Mostra espécies marinhas, de água doce e terrestres, incubação em condições semi-naturais e jardim de cactos. Wikivoyage antigo cita 37 MXN.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "Fechado",
+        "qua": "10:00–16:30",
+        "qui": "10:00–16:30",
+        "sex": "10:00–16:30",
+        "sab": "10:00–16:30",
+        "dom": "10:00–14:30"
+      },
+      "diasFechados": [
+        "seg",
+        "ter"
+      ],
+      "melhorHorario": "Chegar de manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 50,
+        "por": "pessoa",
+        "inclui": "Entrada geral (fonte de fev/2025).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga",
+          "https://en.wikivoyage.org/wiki/Mazunte"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Mazunte, a pé.",
+      "dicasAgente": [
+        "VALE CADA PESO (50 MXN): barato e útil para entender a temporada.",
+        "Soltura aberta ao público entre março e novembro (outras datas e preço da soltura não verificados)."
+      ],
+      "alertas": [
+        "Preço e horário de 2025; Wikivoyage (antigo) fala em 37 MXN.",
+        "Quanto custa participar da soltura não foi encontrado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga",
+        "https://en.wikivoyage.org/wiki/Mazunte",
+        "https://es.wikipedia.org/wiki/Mazunte",
+        "https://www.openstreetmap.org/node/3726419327"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tartarugas: arribada em Playa Escobilla e solturas de filhotes",
+      "categoria": "experiencia",
+      "cidade": "mazunte",
+      "tags": [
+        "tartarugas",
+        "arribada",
+        "escobilla",
+        "temporada",
+        "guia-autorizado"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Maior desova de tartaruga-oliva da região: temporada maio a fevereiro/março; só com guias autorizados.",
+      "descricaoLonga": "Santuário Playa Escobilla (Santa María Tonameca), a 41 km de Puerto Escondido e 68 km de Huatulco pela Rodovia 200. TEMPORADA: arribadas de maio a fevereiro/março do ano seguinte (a de 2026-27 começou em maio de 2026 com ~11.290 fêmeas na primeira onda); cada fêmea põe ~100 ovos que eclodem em 45-60 dias, então filhotes saem ao longo de praticamente todo o período. O Centro Mexicano de la Tortuga faz soltura de março a novembro. Salva-vidas de Puerto Escondido protegem ninhos e controlam luzes. Não encontrei preço verificado nem lista de operadoras sérias: use o CMT em Mazunte ou guias autorizados (comunidade/cooperativa). Meses de pico (setembro a novembro, segundo resultado de busca não aberto) não confirmados.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite/madrugada em arribada; soltura de filhotes costuma ser ao entardecer (não verificado).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só com guias autorizados; não tocar nos ovos/tartarugas."
+      ],
+      "pontoPartida": "Mazunte / Puerto Escondido / Huatulco, rodovia 200.",
+      "dicasAgente": [
+        "VALE CADA PESO se a época coincidir; peça o calendário de soltura direto ao CMT ou à cooperativa.",
+        "Confirme que o operador é autorizado e que não há manipulação de tartarugas."
+      ],
+      "alertas": [
+        "Meses de pico e preço de visita NÃO confirmados; não encontrei operadoras verificadas.",
+        "Coordenadas de Escobilla não confirmadas em fonte aberta (0,0)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg?width=1200",
+        "credito": "Claudio Giovenzana",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg"
+      },
+      "fontes": [
+        "https://www.escapadah.com/tendencias/2026/5/21/inicia-temporada-2026-2027-del-arribo-de-tortuga-golfina-en-mexico-donde-podras-observarlas-40010.html",
+        "https://www.eluniversal.com.mx/estados/playa-escobilla-en-oaxaca-el-santuario-de-la-tortuga-golfina/",
+        "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga",
+        "https://www.vivapuerto.com/vp5/lifeguards.php"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zipolite (praia naturista)",
+      "categoria": "praia",
+      "cidade": "zipolite",
+      "tags": [
+        "praia-naturista",
+        "nudismo-legal",
+        "correnteza-forte",
+        "bohemio",
+        "hospedagem-economica"
+      ],
+      "coords": {
+        "lat": 15.66278,
+        "lng": -96.50944
+      },
+      "descricaoCurta": "PRAIA NATURISTA: nudez permitida; vibe hippie e hospedagem barata, mar perigoso.",
+      "descricaoLonga": "Zipolite é a praia onde a nudez é legalmente permitida (município de San Pedro Pochutla, reconhecimento em 2016, também em Playa del Amor), com clima hippie e barata hospedagem. 'Roupa opcional': há muita gente vestida, mas esteja preparado. O mar é muito perigoso: correntes de retorno, 'praia dos mortos' em zapoteca, com salva-vidas voluntários e bandeiras coloridas. Temporada alta de novembro a maio; Festival Nudista no primeiro fim de semana de fevereiro. Hospedagem econômica em torno de 600-650 MXN (Wikivoyage, dado antigo). Ônibus de Oaxaca ~4 h, ~370 MXN (Líneas Unidas).",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol e noite de fogueira.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia pública.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Praia naturista: respeite a regra de não fotografar pessoas nuas. Nudez não vale nas ruas."
+      ],
+      "pontoPartida": "Colectivo/ônibus de Pochutla ou Mazunte; Huatulco a ~45 km (táxi do aeroporto 400-843 MXN, colectivo 20-40).",
+      "dicasAgente": [
+        "VALE CADA PESO: ótimo custo-benefício de hospedagem e vida noturna leve de praia/fogueira.",
+        "Evite nadar sozinho; siga as bandeiras dos salva-vidas voluntários.",
+        "Drogas são comuns e a polícia monitora uso em público (Wikivoyage)."
+      ],
+      "alertas": [
+        "PRAIA NATURISTA: avise sobre isso antes de reservar (se o casal não estiver confortável).",
+        "CORRENTEZA PERIGOSA: afogamentos ocorrem com frequência.",
+        "Evite caminhar sozinho na praia à noite; furtos e assaltos ocasionais."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZipoliteFromAmor.JPG?width=1200",
+        "credito": "AlejandroLinaresGarcia",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:ZipoliteFromAmor.JPG"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Zipolite",
+        "https://en.wikivoyage.org/wiki/Zipolite"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "San Agustinillo (praia)",
+      "categoria": "praia",
+      "cidade": "mazunte",
+      "tags": [
+        "praia",
+        "vila-pesqueira",
+        "tranquilo",
+        "restaurantes-de-praia"
+      ],
+      "coords": {
+        "lat": 15.6661137,
+        "lng": -96.5446368
+      },
+      "descricaoCurta": "Vila de pescadores ao lado de Mazunte, com praia e restaurantes, mais calma que Zipolite.",
+      "descricaoLonga": "San Agustinillo fica a pouca distância de Mazunte (Wikivoyage: 5 min a pé; mapa OSM mostra ~1 km). Opções de praia com restaurantes no estilo palapa. O mar da costa de Mazunte é conhecido por correntezas fortes. Dados de ondas, preços e hospedagem não foram verificados em fonte aberta.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã e fim de tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Praia pública.",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "A pé ou colectivo de Mazunte (~M$5).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: pouco adiciona além de Mazunte/Zipolite; vale se você quiser base mais calma."
+      ],
+      "alertas": [
+        "Dados de condições de mar e preços não verificados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_San_Agustinillo.jpg?width=1200",
+        "credito": "Sgroey",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_San_Agustinillo.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mazunte",
+        "https://www.openstreetmap.org/node/458620752"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Passeio de barco pelas baías de Huatulco",
+      "categoria": "passeio",
+      "cidade": "huatulco",
+      "tags": [
+        "baias",
+        "barco",
+        "snorkel",
+        "parque-nacional",
+        "aguas-calmas"
+      ],
+      "coords": {
+        "lat": 15.7493404,
+        "lng": -96.1284951
+      },
+      "descricaoCurta": "Barcos saem de Santa Cruz e visitam várias das 9 baías; coletivo ~550-600 MXN (abril/2024).",
+      "descricaoLonga": "Huatulco tem nove baías (Santa Cruz, Chahué, Tangolunda, Maguey, Órgano, Cacaluta, La Entrega, San Agustín, Conejos) e quatro são reservas ecológicas. Passeio coletivo de barco com paradas de snorkel: ~550-600 MXN por pessoa (Wikivoyage, abril/2024). Taxa do Parque Nacional e outras pagas à parte (valores não verificados). O coral morreu em grande parte na onda de calor de 2023; ainda há muitos peixes. Águas calmas e protegidas, mais seguras para banho que Zipolite/Zicatela. Estação seca: dezembro a maio; chuvas: junho a novembro.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (mar mais calmo, menos vento).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 550,
+        "max": 600,
+        "por": "pessoa",
+        "inclui": "Barco coletivo com paradas (abril/2024). Parque Nacional/taxas não incluídos; snorkel pode ser alugado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Huatulco",
+          "https://en.wikipedia.org/wiki/Huatulco"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Marina de Santa Cruz Huatulco.",
+      "dicasAgente": [
+        "VALE CADA PESO para quem quer mar calmo e snorkel; CORTE SE APERTAR se o foco for balada ou surfe (Huatulco tem pouca vida noturna)."
+      ],
+      "alertas": [
+        "Preço de 2024; atualize. Snorkel prejudicado pelo branqueamento de coral de 2023.",
+        "Vida noturna em Huatulco é limitada (Wikivoyage); balada séria está em Puerto Escondido a ~2 h."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahía_Santa_Cruz_en_Huatulco.jpg?width=1200",
+        "credito": "Arturo Alcalá Hernández",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bahía_Santa_Cruz_en_Huatulco.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Huatulco",
+        "https://en.wikipedia.org/wiki/Huatulco",
+        "https://www.openstreetmap.org/relation/1700837"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Guelaguetza (Lunes del Cerro)",
+      "categoria": "experiencia",
+      "cidade": "oaxaca",
+      "tags": [
+        "festival",
+        "folclore",
+        "julho",
+        "ingressos",
+        "lotacao"
+      ],
+      "coords": {
+        "lat": 17.06863889,
+        "lng": -96.731
+      },
+      "descricaoCurta": "Festival folclórico nas duas segundas-feiras após 16 de julho (2026: 20 e 27 de julho) no Auditorio Guelaguetza.",
+      "descricaoLonga": "Duas apresentações por dia (10:00 e 17:00) no Auditorio Guelaguetza do Cerro del Fortín. Em 2026: 20 e 27 de julho. Ingressos oficiais só na Superboletos (venda geral a partir de 01/06; pré-venda Banamex a partir de 15/05): Palco A 1.632 MXN, Palco B 1.321 MXN (mais taxas); palcos C e D são gratuitos. Mais de 140 atividades culturais ao longo de julho. O festival ocorre nas duas segundas-feiras mais próximas de 16 de julho (es.wikipedia). Para 2027, as datas esperadas são 19 e 26 de julho (inferência, não confirmada). JÁ PASSOU em 2026; julho é estação chuvosa e de furacões na costa.",
+      "duracao": {
+        "min": 180,
+        "tipica": 240,
+        "max": 360
+      },
+      "horarios": {
+        "seg": "Apresentações às 10:00 e 17:00 nas segundas do festival",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Sessão da manhã (10:00) para fugir do calor; palcos gratuitos exigem chegar muito cedo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 1632,
+        "por": "pessoa",
+        "inclui": "Palcos C/D gratuitos; Palco B 1.321; Palco A 1.632 (+ taxas). Preços de 2026.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.eluniversal.com.mx/destinos/cuando-sera-la-guelaguetza-2026/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 120,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Cerro del Fortín, Oaxaca.",
+      "dicasAgente": [
+        "CORTE SE APERTAR para este perfil: o foco é praia/noite e julho é época de chuva na costa (Huatulco: chuvas de junho a novembro; temporada de furacões do Pacífico 15/05 a 30/11, pico agosto-setembro). Só vale se a viagem já for em julho.",
+        "Planeje hospedagem com meses de antecedência: em eventos grandes de Oaxaca, os hotéis lotam e sobem de preço (veja Día de Muertos)."
+      ],
+      "alertas": [
+        "Datas de 2027 são inferidas pela regra das duas segundas-feiras; confirme no calendário oficial da Secretaría de Culturas.",
+        "Antecedência de 120 dias é estimativa do agente (sem fonte)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2018_Desfile_Guelaguetza_Oaxaca_Mexico_1.jpg?width=1200",
+        "credito": "Bernardojbp",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2018_Desfile_Guelaguetza_Oaxaca_Mexico_1.jpg"
+      },
+      "fontes": [
+        "https://www.eluniversal.com.mx/destinos/cuando-sera-la-guelaguetza-2026/",
+        "https://es.wikipedia.org/wiki/Guelaguetza",
+        "https://en.wikipedia.org/wiki/Pacific_hurricane_season"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Día de Muertos em Oaxaca",
+      "categoria": "experiencia",
+      "cidade": "oaxaca",
+      "tags": [
+        "festival",
+        "outubro-novembro",
+        "comparsas",
+        "panteones",
+        "lotacao-alta"
+      ],
+      "coords": {
+        "lat": 17.0639834,
+        "lng": -96.7126689
+      },
+      "descricaoCurta": "Celebração de 27 de outubro a 2 de novembro (2026); hotéis esgotam 5-6 meses antes e sobem 30-60%.",
+      "descricaoLonga": "Em 2026 as atividades vão de 27 de outubro a 2 de novembro, com noites fortes em 31/10 (vigília), 1/11 (anjinhos) e 2/11. Há comparsas, muerteadas, altares nos mercados e visitas a cemitérios (Xoxocotlán, Panteón General, San Felipe del Agua, panteões de bairro de Xochimilco). Maioria das atividades é gratuita. Hotéis em Oaxaca esgotam com 5-6 meses de antecedência e os preços sobem 30-60% na semana; em 2023 a ocupação em Oaxaca cidade foi de 78,6% com mais de 90% em 1 e 2 de novembro. HOJE é 08/10/2026: faltam ~19 dias e a disponibilidade deve estar muito apertada; para quem viaja em 2027, reserve assim que abrir.",
+      "duracao": {
+        "min": 180,
+        "tipica": 360,
+        "max": 720
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite de 31/10 e 1/11 nos cemitérios; comparsas à noite no centro.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Comparsas, altares e cemitérios são gratuitos; hospedagem sobe 30-60%.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.airalo.com/es-419/blog/dia-de-muertos-en-oaxaca",
+          "https://www.oyster.com/articles/oaxaca-or-mexico-city-for-da-de-muertos/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 150,
+        "esgotaRapido": true,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Pedir permissão antes de fotografar; é cerimônia familiar."
+      ],
+      "pontoPartida": "Centro histórico e cemitérios; vá a pé (centro lotado).",
+      "dicasAgente": [
+        "VALE CADA PESO para vida noturna (comparsas e rua): é a melhor festa de rua do ano em Oaxaca, mas encarece muito; para o perfil econômico, vá pelo orçamento só se reservar com meses de antecedência.",
+        "Combine 3 noites em Oaxaca (29/10 a 2/11) e depois costa em novembro (fim da época de chuvas na costa, temporada de furacões até 30/11)."
+      ],
+      "alertas": [
+        "Dados de preço/antecedência vêm de guias (Oyster, Airalo, ADN40 2023); confirme na hora.",
+        "Datas de 2027 devem ser as mesmas (27/10 a 2/11), a confirmar."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Día_de_Muertos_en_Santa_María_Atzompa.jpg?width=1200",
+        "credito": "Pedro Daniel Godínez Corona",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Día_de_Muertos_en_Santa_María_Atzompa.jpg"
+      },
+      "fontes": [
+        "https://www.airalo.com/es-419/blog/dia-de-muertos-en-oaxaca",
+        "https://www.oyster.com/articles/oaxaca-or-mexico-city-for-da-de-muertos/",
+        "https://www.adn40.mx/mexico/dia-muertos-oaxaca-derrama-economica-ocupacion-hotelera-promocion-turistica-ayuda-acapulco/",
+        "https://www.razon.com.mx/estilos/oaxaca-dia-muertos-celebra-comparsas-503689/",
+        "https://www.openstreetmap.org/way/71724672"
+      ],
+      "confianca": "parcial"
+    }
+  ]
+}

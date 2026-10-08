@@ -120,3 +120,28 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Decisão:** quando duas janelas lidas do mesmo dia se sobrepõem ("08:00–17:15 ou 08:30–17:30"), o conversor mantém a primeira e põe um alerta no item.
 **Por quê:** tratadas como dois períodos, o motor concluiria que o lugar abre das 08:00 às 17:30 — horário que nenhuma fonte afirma. Aconteceu em 9 dos 58 itens.
 **Descartado:** usar a interseção das janelas (produz um horário que também não vem de fonte nenhuma); manter as duas (amplia o horário sem base).
+
+## D19 — Configuração de pesquisa por destino, separada do app
+
+**Decisão:** o conhecimento específico de cada país (quais lugares são base e quais são bate-volta, como o agente escreveu cada nome, que aeroporto serve que base, fatores de deslocamento) vive em `scripts/destinos/<pais>.ts`. O conversor recebe isso como parâmetro.
+**Por quê:** traduzir texto de agente para o schema exige saber, por exemplo, que Chichén Itzá não é base e que quem a visita dorme em Valladolid. Isso não é derivável.
+**Isto NÃO contraria o critério de aceite 7.** O **app** lê `/data/<destino>/` por `import.meta.glob` e não conhece nenhum desses arquivos: largar uma pasta pronta em `/data` coloca o destino no app sem código. A configuração é da **ferramenta de pesquisa**. Provado: `data/mexico/` entrou e o app mostrou 143 itens sem uma linha alterada em `src/`.
+**Descartado:** adivinhar as bases pelo texto (frágil justamente nos casos que importam).
+
+## D20 — Moeda é código ISO aberto, não lista fechada
+
+**Decisão:** `Moeda` passou de `enum(['COP','BRL','USD','EUR'])` para qualquer código ISO de 3 letras.
+**Por quê:** o México quebrou o enum logo no primeiro import. Num app multi-destino, fechar a lista de moedas é garantir retrabalho a cada país.
+**Descartado:** adicionar MXN ao enum (adiaria o problema por um destino).
+
+## D21 — Fuso por cidade, não só por país
+
+**Decisão:** `CidadeBase.fusoOffsetMinutos` é opcional e sobrescreve o do destino.
+**Por quê:** o México tem três fusos — Quintana Roo em UTC−5, o centro em UTC−6, a Baja California Sur em UTC−7. Sem isso, o cálculo de pôr do sol e o horário de chegada de voo sairiam errados em um terço do país. A Colômbia não expôs esse problema porque tem fuso único.
+**Descartado:** um offset por destino (errado para qualquer país largo).
+
+## D22 — Item pode não ser agendável
+
+**Decisão:** `Item.agendavel`. Quando falso, a duração é opcional e as exigências de bloco por categoria não se aplicam.
+**Por quê:** "TransMilenio: como funciona" e "vale alugar carro no Eje Cafetero?" são cartões de referência. Eles ajudam a decidir e pertencem ao banco, mas não se arrastam para um dia.
+**Regra que resolve o caso difícil:** locadora sem tabela de veículos não é locadora, é conselho sobre aluguel — o conversor rebaixa a cartão de referência e avisa.

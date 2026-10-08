@@ -24,7 +24,14 @@ export const HoraHHMM = z
   .string()
   .regex(/^(?:[01]\d|2[0-3]):[0-5]\d$/, 'use o formato HH:MM');
 
-export const Moeda = z.enum(['COP', 'BRL', 'USD', 'EUR']);
+/**
+ * Codigo ISO 4217 de 3 letras. Lista aberta de proposito: o app e
+ * multi-destino e cada pacote traz a sua moeda (COP, MXN, PEN...).
+ * A conversao para BRL vem de `viagem.cambio.taxas`, que o usuario edita.
+ */
+export const Moeda = z
+  .string()
+  .regex(/^[A-Z]{3}$/, 'use o codigo ISO de 3 letras, ex.: MXN');
 export type Moeda = z.infer<typeof Moeda>;
 
 /**
@@ -171,6 +178,7 @@ export const Modal = z.enum([
   'bicicleta',
   'voo',
   'onibus',
+  'trem',
   'barco',
   'carro-fretado',
 ]);

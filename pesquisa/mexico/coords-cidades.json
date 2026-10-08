@@ -1,0 +1,184 @@
+{
+  "cidade-do-mexico": {
+    "lat": 19.43263,
+    "lng": -99.13318,
+    "altitudeM": 2228,
+    "osm": "https://www.openstreetmap.org/relation/17483459",
+    "nomeOsm": "Ciudad de México, Cuauhtémoc, Ciudad de México, México"
+  },
+  "puebla": {
+    "lat": 19.0438,
+    "lng": -98.19815,
+    "altitudeM": 2152,
+    "osm": "https://www.openstreetmap.org/node/245792117",
+    "nomeOsm": "Puebla, Municipio de Puebla, Puebla, 72000, México"
+  },
+  "cancun": {
+    "lat": 21.15275,
+    "lng": -86.84258,
+    "altitudeM": 2,
+    "osm": "https://www.openstreetmap.org/relation/17611454",
+    "nomeOsm": "Cancún, Benito Juárez, Distrito 5, Quintana Roo, México"
+  },
+  "playa-del-carmen": {
+    "lat": 20.64628,
+    "lng": -87.08079,
+    "altitudeM": 11,
+    "osm": "https://www.openstreetmap.org/relation/6329645",
+    "nomeOsm": "Playa del Carmen, Quintana Roo, México"
+  },
+  "tulum": {
+    "lat": 20.42965,
+    "lng": -87.65293,
+    "altitudeM": 23,
+    "osm": "https://www.openstreetmap.org/relation/5961574",
+    "nomeOsm": "Tulum, Quintana Roo, México"
+  },
+  "bacalar": {
+    "lat": 18.94079,
+    "lng": -88.61643,
+    "altitudeM": 73,
+    "osm": "https://www.openstreetmap.org/relation/5961441",
+    "nomeOsm": "Bacalar, Quintana Roo, México"
+  },
+  "isla-mujeres": {
+    "lat": 21.23719,
+    "lng": -86.735,
+    "altitudeM": 6,
+    "osm": "https://www.openstreetmap.org/relation/10525366",
+    "nomeOsm": "Isla Mujeres, Quintana Roo, México"
+  },
+  "cozumel": {
+    "lat": 20.50143,
+    "lng": -86.94359,
+    "altitudeM": 7,
+    "osm": "https://www.openstreetmap.org/relation/6329316",
+    "nomeOsm": "San Miguel de Cozumel, Cozumel, Quintana Roo, México"
+  },
+  "merida": {
+    "lat": 20.96708,
+    "lng": -89.62374,
+    "altitudeM": 13,
+    "osm": "https://www.openstreetmap.org/node/269908858",
+    "nomeOsm": "Mérida, Yucatán, 97000, México"
+  },
+  "valladolid": {
+    "lat": 20.69025,
+    "lng": -88.2017,
+    "altitudeM": 20,
+    "osm": "https://www.openstreetmap.org/relation/5621776",
+    "nomeOsm": "Valladolid, Yucatán, México"
+  },
+  "oaxaca": {
+    "lat": 17.09659,
+    "lng": -96.72078,
+    "altitudeM": 1624,
+    "osm": "https://www.openstreetmap.org/relation/5999647",
+    "nomeOsm": "Oaxaca de Juárez, Oaxaca, México"
+  },
+  "puerto-escondido": {
+    "lat": 15.86933,
+    "lng": -97.07264,
+    "altitudeM": 88,
+    "osm": "https://www.openstreetmap.org/node/458608856",
+    "nomeOsm": "Puerto Escondido, San Pedro Mixtepec, Oaxaca, 71800, México"
+  },
+  "mazunte": {
+    "lat": 15.66759,
+    "lng": -96.55366,
+    "altitudeM": 11,
+    "osm": "https://www.openstreetmap.org/node/458611007",
+    "nomeOsm": "Mazunte, Santa María Tonameca, Oaxaca, 70949, México"
+  },
+  "huatulco": {
+    "lat": 15.82209,
+    "lng": -96.20599,
+    "altitudeM": 195,
+    "osm": "https://www.openstreetmap.org/relation/6000028",
+    "nomeOsm": "Santa María Huatulco, Oaxaca, México"
+  },
+  "san-cristobal": {
+    "lat": 16.73538,
+    "lng": -92.63873,
+    "altitudeM": 2128,
+    "osm": "https://www.openstreetmap.org/node/269911011",
+    "nomeOsm": "San Cristóbal, San Cristóbal de las Casas, Chiapas, 29200, México"
+  },
+  "palenque": {
+    "lat": 17.45316,
+    "lng": -91.81212,
+    "altitudeM": 143,
+    "osm": "https://www.openstreetmap.org/relation/5999655",
+    "nomeOsm": "Palenque, Chiapas, 29960, México"
+  },
+  "la-paz": {
+    "lat": 24.16199,
+    "lng": -110.31585,
+    "altitudeM": 10,
+    "osm": "https://www.openstreetmap.org/node/266478791",
+    "nomeOsm": "La Paz, Municipio de La Paz, Baja California Sur, 23020, México"
+  },
+  "todos-santos": {
+    "lat": 23.45007,
+    "lng": -110.22537,
+    "altitudeM": 42,
+    "osm": "https://www.openstreetmap.org/node/676876859",
+    "nomeOsm": "Todos Santos, Municipio de La Paz, Baja California Sur, 23300, México"
+  },
+  "los-cabos": {
+    "lat": 22.89389,
+    "lng": -109.92006,
+    "altitudeM": 29,
+    "osm": "https://www.openstreetmap.org/node/303079568",
+    "nomeOsm": "Cabo San Lucas, Municipio de Los Cabos, Baja California Sur, 23470, México"
+  },
+  "loreto": {
+    "lat": 26.00979,
+    "lng": -111.34525,
+    "altitudeM": 9,
+    "osm": "https://www.openstreetmap.org/node/303081835",
+    "nomeOsm": "Loreto, Municipio de Loreto, Baja California Sur, 23880, México"
+  },
+  "puerto-vallarta": {
+    "lat": 20.64072,
+    "lng": -105.22031,
+    "altitudeM": 13,
+    "osm": "https://www.openstreetmap.org/node/2052329081",
+    "nomeOsm": "Puerto Vallarta, Región Costa Norte, Jalisco, 48300, México"
+  },
+  "sayulita": {
+    "lat": 20.86893,
+    "lng": -105.4407,
+    "altitudeM": 13,
+    "osm": "https://www.openstreetmap.org/node/2769366905",
+    "nomeOsm": "Sayulita, Bahía de Banderas, Nayarit, 63132, México"
+  },
+  "guanajuato": {
+    "lat": 20.9877,
+    "lng": -101,
+    "altitudeM": 2015,
+    "osm": "https://www.openstreetmap.org/relation/2340909",
+    "nomeOsm": "Guanajuato, México"
+  },
+  "san-miguel-de-allende": {
+    "lat": 20.91305,
+    "lng": -100.73566,
+    "altitudeM": 1984,
+    "osm": "https://www.openstreetmap.org/relation/5606268",
+    "nomeOsm": "San Miguel de Allende, Guanajuato, México"
+  },
+  "queretaro": {
+    "lat": 20.5923,
+    "lng": -100.39174,
+    "altitudeM": 1823,
+    "osm": "https://www.openstreetmap.org/relation/4062443",
+    "nomeOsm": "Santiago de Querétaro, Municipio de Querétaro, Querétaro, México"
+  },
+  "guadalajara": {
+    "lat": 20.67204,
+    "lng": -103.3384,
+    "altitudeM": 1547,
+    "osm": "https://www.openstreetmap.org/node/1663173902",
+    "nomeOsm": "Guadalajara, Región Centro, Jalisco, 44450, México"
+  }
+}

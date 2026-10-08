@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "mx-plq-zona-arqueologica-de-palenque",
+    "fontes": [
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+      },
+      {
+        "url": "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/"
+      },
+      {
+        "url": "https://www.tvazteca.com/aztecanoticias/esto-costara-visitar-teotihuacan-palenque-y-museos-aumento-121-a-extranjeros"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Palenque"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Palenque_(Chiapas)"
+      },
+      {
+        "url": "https://www.travel.gc.ca/destinations/mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Zona Arqueológica de Palenque",
+    "cidadeId": "palenque",
+    "categoria": "atracao",
+    "tags": [
+      "maya",
+      "unesco",
+      "selva",
+      "arqueologia",
+      "madrugada"
+    ],
+    "coords": {
+      "lat": 17.48416667,
+      "lng": -92.04638889
+    },
+    "descricaoCurta": "Cidade maia na selva (UNESCO 1987); INAH cobra M$210 de estrangeiro em 2026, mais uma segunda taxa local.",
+    "descricaoLonga": "INAH (site oficial): aberto de segunda a domingo 08:00-17:00, última entrada 16:00; estrangeiro M$210, nacional/residente M$105 (vigente em 2026); a página avisa que 'podem existir cobranças adicionais por terceiros (governos estaduais, organizações comunitárias)'. Acesso pelo CATVI (Centro de Atención al Visitante) onde há bilheteria e transporte; tel (01 961) 612 2824. SEGUNDA TAXA: Wikivoyage (mar/2025) lista INAH M$100 + 'government' M$215, compradas separadamente no museu a ~1,3 km da entrada real, e transporte de ida e volta M$60; para 2026 o INAH elevou o seu valor, e eu NÃO confirmei o valor atual da taxa da reserva/Parque Nacional (criado em 20/07/1981, Wikipedia ES) - a soma exata em 2026 é desconhecida. Conteúdo: Templo das Inscrições (tumba de Pakal), o Palácio, o Grupo da Cruz, aqueduto; o Wikipedia ES diz que só cerca de 2,5 km² foram escavados e 'mais de mil estruturas seguem cobertas pela selva'. Dentro do sítio, Wikivoyage cita as cachoeiras Motiepa e Las Sombrillas (trilha na selva). Colectivo da cidade até as ruínas: M$30 a cada 10-15 min (Wikivoyage).",
+    "duracao": {
+      "min": 150,
+      "tipica": 210,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00 (última entrada 16:00)",
+    "diasFechados": [],
+    "melhorHorario": "Chegue às 08:00 (calor ~30-35 °C e chuva forte na estação úmida).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 425,
+      "por": "pessoa",
+      "inclui": "INAH M$210 estrangeiro em 2026 (oficial). Máximo M$425 = 210 + taxa local M$215 de mar/2025 (NÃO confirmada para 2026). Transporte ruínas M$60 ida e volta (mar/2025) e colectivo cidade M$30 por fora.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+        },
+        {
+          "url": "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/"
+        },
+        {
+          "url": "https://www.tvazteca.com/aztecanoticias/esto-costara-visitar-teotihuacan-palenque-y-museos-aumento-121-a-extranjeros"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(01 961) 612 2824",
+      "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Templo_de_las_Inscripciones_Palenque_Chiapas.jpg?width=1200",
+        "credito": "BIOLOGO JORGE AYALA",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Templo_de_las_Inscripciones_Palenque_Chiapas.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Última entrada 16:00."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Principal razão para ir a Palenque; selva + Maya em um só sítio.",
+      "Leve repelente, água e roupa leve; tênis fechado. Precipitação mensal em Palenque: pico em setembro (442 mm) e outubro (318 mm); mais seco fev-abr (78-102 mm) (Wikipedia ES).",
+      "A cidade de Palenque e as ruínas estão na lista de EXCEÇÕES do aviso canadense (com a rodovia 186)."
+    ],
+    "alertas": [
+      "Preço total 2026 não fechado: falta o valor da taxa local/reserva.",
+      "TV Azteca cita M$209 (estrangeiro) e o INAH oficial M$210: vale o oficial."
+    ]
+  },
+  {
+    "id": "mx-plq-museo-de-sitio-alberto-ruz-lhuillier-palenque",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Palenque"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Museo_Alberto_Ruz_Lhuillier"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo de Sitio Alberto Ruz Lhuillier (Palenque)",
+    "cidadeId": "palenque",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "maya",
+      "palenque",
+      "inah"
+    ],
+    "coords": {
+      "lat": 17.48873407,
+      "lng": -92.04205702
+    },
+    "descricaoCurta": "Museu de sítio do INAH com peças de Palenque; Wikivoyage diz que a bilheteria das ruínas fica no museu.",
+    "descricaoLonga": "O Museo de Sitio Dr. Alberto Ruz Lhuillier foi construído pelo INAH nos anos 1970 (Wikipedia ES). O Wikivoyage diz que os ingressos (INAH e taxa do governo) são comprados no museu, ~1,3 km antes da entrada real das ruínas. A página oficial do INAH fala em CATVI; os dois relatos podem ser a mesma área de recepção, não consegui conciliar. Horário e preço próprios do museu não confirmados.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Depois das ruínas (quando o sol está mais forte).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo_del_sitio_in_Palenque_by_ovedc_01.jpg?width=1200",
+        "credito": "Ovedc",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_del_sitio_in_Palenque_by_ovedc_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Se faltar tempo, as ruínas já são o essencial; mas o museu fica no caminho."
+    ],
+    "alertas": [
+      "Horário/preço do museu não confirmados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-plq-como-ir-de-san-cristobal-a-palenque-ocosingo-hwy-199",
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      },
+      {
+        "url": "https://www.travel.gc.ca/destinations/mexico"
+      },
+      {
+        "url": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=M%C3%A9xico"
+      },
+      {
+        "url": "https://www.aztecachiapas.com/turismo-chiapas/como-llegar-a-palenque-rapido-rutas-tiempos-y-distancias-en-2026/"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/estados/chiapas-cuentan-386-topes-en-carretera-san-cristobal-palenque/"
+      },
+      {
+        "url": "https://www.aztecachiapas.com/noticias/bloqueo-total-en-ocosingo-reportan-tres-tramos-carreteros-cerrados/"
+      },
+      {
+        "url": "https://www.aztecachiapas.com/noticias/tres-bloqueos-carreteros-en-ocosingo-sin-paso-a-palenque-altamirano-y-san-cristobal/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Ocosingo"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/27417188"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa",
+    "cidadeId": "palenque",
+    "categoria": "passeio",
+    "tags": [
+      "transporte",
+      "estrada",
+      "seguranca",
+      "ado",
+      "colectivo"
+    ],
+    "descricaoCurta": "Duas rotas: Hwy 199 por Ocosingo (~190-212 km, 4,5 a 6 h) ou ADO via Tuxtla/Villahermosa (~450 km, 8-9 h). A 199 está citada no aviso britânico.",
+    "descricaoLonga": "ROTA A, VIA OCOSINGO (Hwy 199, 'a curta'): Wikivoyage: ~190 km; o ADO faz a rota longa (B); vans/colectivos e 'scenic shuttles' fazem, parando em Misol-Ha e Agua Azul. Colectivo SC-Ocosingo ~2 h, M$120 (Wikivoyage Ocosingo, sem data); Ocosingo-Palenque M$140 (out/2025, rua de colectivos ao sul do mercado central de Ocosingo). Aztec Chiapas 2026: de San Cristóbal 4,5 h; El Universal (2020, atualizado 2023): 212 km, 386 lombadas, tempo real ~6 h em vez de 2,5 h. Avisos: Reino Unido = 'all but essential travel' entre Rancho Nuevo e Chancalá (01/10/2026); bloqueios em Ocosingo em set e nov/2024 (alguns só passam pagando tarifa por tipo de veículo; um 100% fechado, só a pé); notícia de 2020 liga as lombadas a assaltos, ponto crítico entre La Gravera e Agua Azul. ROTA B, VIA TUXTLA E VILLAHERMOSA (ADO): Wikivoyage: 450 km, 4 ônibus ADO/dia, 8-9 h; San Cristóbal-Tuxtla por pedágio 190D (Ómnibus de Chiapas a cada 15-20 min, M$40-45, 40 min-1h15) e depois Tuxtla-Villahermosa-Palenque; Villahermosa-Palenque ~150 km, 2h50 (Aztec Chiapas 2026) em rodovia plana. Wikivoyage (Tuxtla): Palenque fica 'a cerca de 6 horas' de Tuxtla. O Canadá cita como exceção Palenque (e a rodovia 186), Tuxtla e San Cristóbal (e a 190D). OPERADORAS: ADO/OCC (terminal ADO-OCC de San Cristóbal mapeado em OSM, Av. Insurgentes); para passeio de cachoeiras saindo de Palenque, o Wikivoyage lista Transportadora Turística Tulum e Kichan Bajlum (kichantravel.com); empresas de shuttle SC-Palenque não nomeadas em fonte aberta. EVITAR DIRIGIR À NOITE: Aztec Chiapas 2026, Canadá e Espanha.",
+    "duracao": {
+      "min": 270,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída de manhã cedo para chegar com luz do dia.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 260,
+      "max": 260,
+      "por": "pessoa",
+      "inclui": "Rota A com dois colectivos: M$120 + M$140 = M$260 (preços de datas diferentes: out/2025 para o segundo trecho). ADO (rota B): preço não coletado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Ocosingo"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não dirigir à noite (Canadá/Espanha/Aztec Chiapas)."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se o casal quer economizar e fazer cachoeiras no caminho, a Rota A é a única que passa por Misol-Ha/Agua Azul - mas é a que tem aviso explícito.",
+      "Recomendação do agente (não é 'verdade oficial'): para quem leva o aviso britânico a sério, use a Rota B (ônibus ADO diurno via Tuxtla/Villahermosa); faça Misol-Ha/Agua Azul num bate-volta de Palenque com operadora.",
+      "Antes de embarcar, cheque bloqueios em redes sociais locais/Ángeles Verdes 078.",
+      "Em bloqueio: não acelerar nem fugir, parar se solicitado (recomendação da Espanha)."
+    ],
+    "alertas": [
+      "Aviso britânico (01/10/2026) cobre exatamente Rancho Nuevo-Chancalá (Hwy 199). Canadá não coloca a 199 entre as exceções.",
+      "Não há fonte de 2026 sobre bloqueios recentes nessa estrada; os eventos fontados são de set e nov/2024 e de 2020.",
+      "Horários e preço do ADO, e nomes de operadoras de shuttle SC-Palenque, não confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Terminal ADO-OCC de San Cristóbal (Av. Insurgentes) ou ponto de colectivo de Ocosingo",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-plq-cascadas-de-agua-azul",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Cascadas_de_Agua_Azul"
+      },
+      {
+        "url": "https://www.unotv.com/estados/chiapas/chiapas-gamma-pinta-de-chocolate-las-cascadas-de-agua-azul/"
+      },
+      {
+        "url": "https://www.es.kayak.com/news/?p=7062"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Palenque_(Chiapas)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cascadas de Agua Azul",
+    "cidadeId": "palenque",
+    "categoria": "natureza",
+    "tags": [
+      "cachoeira",
+      "nadar",
+      "sazonal",
+      "rio",
+      "praia-natureza",
+      "agua-azul"
+    ],
+    "coords": {
+      "lat": 17.255702777778,
+      "lng": -92.11595
+    },
+    "descricaoCurta": "Cascatas turquesa (~64 km de Palenque); ficam barrentas na chuva - outubro é o auge da chuva.",
+    "descricaoLonga": "Wikipedia ES: coordenadas 17°15'21\"N 92°06'57\"O, nos limites de Chilón, Tumbalá e Salto de Agua, a 64 km de Palenque; água azul por sais de magnésio e cloretos; em época de chuva o volume aumenta e 'as águas perdem a cor'; recomenda inverno e primavera para nadar; ingresso M$50, cobrado pelas comunidades (sem data). QUANDO VALE A PENA: o clima de Palenque (Wikipedia ES) tem pico de chuva em setembro (442 mm) e outubro (318 mm), com junho a novembro todos acima de ~200 mm (julho 203, nov 215); o trimestre mais seco é fev-abr (78-102 mm). Meu julgamento: água mais azul de dezembro/janeiro a maio, com melhor chance entre fevereiro e abril; pior de junho a novembro, com setembro-outubro no topo (hoje, 8/out, é a pior época). Exemplo fontado: em 5/out/2020, após 4 dias seguidos de chuva (tempestade tropical Gamma), a água virou 'chocolate' (UnoTV). A Kayak afirma que 'todos os meses são perfeitos' e que no verão a água está mais azul - fonte contraditória; a cor depende da chuva dos últimos dias, não só do mês. Wikivoyage: passeios saindo de Palenque custam ~M$500 (mar/2025) e dão ~2,5 h em Agua Azul.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Dezembro-maio, de manhã, sem chuva nos 3 dias anteriores.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "Ingresso M$50 cobrado pelas comunidades (Wikipedia ES, sem data). Tour de Palenque ~M$500 (mar/2025) por fora.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Cascadas_de_Agua_Azul"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascadas_de_Agua_Azul2020p3.jpg?width=1200",
+        "credito": "Carlos Valenzuela",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascadas_de_Agua_Azul2020p3.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Nadar só nas áreas autorizadas; correntes fortes na época de cheia."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] SÓ na seca (dez/jan-mai). Se a previsão for de chuva forte nos dias anteriores, corte.",
+      "[CORTE SE APERTAR] Em jun-nov o risco de ver 'água de chocolate' é alto (incluindo hoje).",
+      "Fica NA Hwy 199, o corredor citado pelo aviso britânico (dedução pela geografia + Wikivoyage 'rota curta pára em Misol Ha e Agua Azul')."
+    ],
+    "alertas": [
+      "Mês exato da mudança de cor NÃO é fixado por fonte oficial; é derivado do clima de Palenque + Wikipedia ES.",
+      "Ingresso sem data."
+    ]
+  },
+  {
+    "id": "mx-plq-misol-ha-cachoeira",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Misol-Ha"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1529015422"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Misol-Ha (cachoeira)",
+    "cidadeId": "palenque",
+    "categoria": "natureza",
+    "tags": [
+      "cachoeira",
+      "nadar",
+      "palenque",
+      "selva",
+      "agua-azul"
+    ],
+    "coords": {
+      "lat": 17.390772222222,
+      "lng": -91.998480555556
+    },
+    "descricaoCurta": "Queda de ~30-45 m com piscina natural; ingresso em torno de M$30 (2022); costuma ser parada de 30 min no tour.",
+    "descricaoLonga": "Wikipedia ES: 17°23'27\"N 91°59'55\"O, ejido San Miguel, Salto de Agua; queda de ~30 m (a ficha técnica fala 45 m); parque turístico administrado por cooperativa ejidal com restaurante e cabanas; é possível nadar 'com cuidado'. Wikivoyage: ingresso M$30 (jun/2022); no tour padrão de Palenque o tempo no local é 30 min. Wikipedia ES não confirma caverna atrás da cachoeira.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã; mais cheia e barrenta na chuva (inferência).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 30,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "M$30 (Wikivoyage, jun/2022) - provavelmente maior hoje.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiapas%2C_Misol-Ha%2C_by_ovedc_10.jpg?width=1200",
+        "credito": "Ovedc",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chiapas,_Misol-Ha,_by_ovedc_10.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Nadar com cuidado."
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Quase sempre vem de brinde no tour de cachoeiras de Palenque; não vale ida isolada."
+    ],
+    "alertas": [
+      "Preço de 2022; em Hwy 199 (corredor com aviso britânico)."
+    ]
+  },
+  {
+    "id": "mx-plq-tour-de-cachoeiras-saindo-de-palenque-misol-ha-agua",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul)",
+    "cidadeId": "palenque",
+    "categoria": "passeio",
+    "tags": [
+      "tour",
+      "cachoeira",
+      "economico",
+      "meio-dia"
+    ],
+    "descricaoCurta": "Passeio de tarde: coleta ao meio-dia, volta ~19h, 30 min em Misol-Ha e 2,5 h em Agua Azul; ~M$500.",
+    "descricaoLonga": "Wikivoyage Palenque (mar/2025): ~M$500 por pessoa, coleta ao meio-dia e volta ~19:00; 30 min em Misol-Ha e 2,5 h em Agua Azul; operadoras: Transportadora Turística Tulum e Kichan Bajlum (kichantravel.com). Roberto Barrios (melhor para nadar e mais remota) não vem no pacote padrão. Atenção: o roteiro usa a Hwy 199.",
+    "duracao": {
+      "min": 360,
+      "tipica": 420,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Escolha dia seco (ver Agua Azul).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 500,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "~M$500 (mar/2025, Wikivoyage); ingressos das cachoeiras provavelmente por fora (não confirmado).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://kichantravel.com"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] É a forma mais barata e fácil de ver Agua Azul + Misol-Ha em 1 tarde, mas só vale na estação seca.",
+      "[CORTE SE APERTAR] Em jun-nov, troque por Palenque + descanso."
+    ],
+    "alertas": [
+      "Preço de 2025; ingressos podem ser extras.",
+      "Hwy 199 = corredor com aviso britânico.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Agências no centro de Palenque",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-plq-cascadas-de-roberto-barrios",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4677299204"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5485667421"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Cascadas de Roberto Barrios",
+    "cidadeId": "palenque",
+    "categoria": "natureza",
+    "tags": [
+      "cachoeira",
+      "nadar",
+      "remoto",
+      "selva",
+      "agua-azul"
+    ],
+    "coords": {
+      "lat": 17.3297705,
+      "lng": -91.9270805
+    },
+    "descricaoCurta": "Cachoeiras mais tranquilas e boas para nadar, mas mais remotas; bilheteria mapeada em OSM.",
+    "descricaoLonga": "Wikivoyage Palenque descreve as três quedas: Misol-Ha (a mais alta), Agua Azul (a mais popular, azul vivo) e Roberto Barrios ('melhor para nadar; a mais remota'). OSM mapeia 'Cascadas Roberto Barrios', um segundo conjunto 'Valle de Bascán' e a bilheteria. Preço, horário e estado atual não confirmados.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, seca.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascada_Roberto_Barrios_15.jpg?width=1200",
+        "credito": "ZoRrO0880",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascada_Roberto_Barrios_15.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Só se Agua Azul estiver barrenta e você tiver carro/tour dedicado; sem fonte sobre transporte."
+    ],
+    "alertas": [
+      "Pouca informação e nenhuma sobre segurança ou acesso atual.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-plq-yaxchilan-sitio-maia-no-rio-usumacinta",
+    "fontes": [
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Yaxchilan"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Yaxchil%C3%A1n"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaxchil%C3%A1n"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      },
+      {
+        "url": "https://www.travel.gc.ca/destinations/mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Yaxchilán (sítio maia no rio Usumacinta)",
+    "cidadeId": "palenque",
+    "categoria": "atracao",
+    "tags": [
+      "maya",
+      "barco",
+      "selva",
+      "usumacinta",
+      "dia-inteiro"
+    ],
+    "coords": {
+      "lat": 16.9,
+      "lng": -90.966666666667
+    },
+    "descricaoCurta": "Cidade maia só acessível por lancha desde Frontera Corozal; INAH: 08:00-14:30.",
+    "descricaoLonga": "INAH: seg-dom 08:00-14:30; a página diz 'gratuito por Lei Federal dos direitos da comunidade' (provável taxa local por fora). Acesso: de Palenque por Chancalá até Frontera Corozal (~105 km) e depois barco pelo Usumacinta (~30 km, ~30-60 min). Wikivoyage (jun/2024): combi Palenque-Frontera Corozal ~2,5 h, M$140, de hora em hora das 06:00 às 17:00; barco M$1.500-2.500 por lancha (≈M$400-500 por pessoa em grupo); capitães esperam 2 h; ingresso M$150 pago a associação civil local; checkpoint comunitário na chegada; sem caixa eletrônico em Frontera Corozal. Wikipedia ES/EN: dintéis esculpidos bem conservados e estelas.",
+    "duracao": {
+      "min": 480,
+      "tipica": 600,
+      "max": 720
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "14:30"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–14:30",
+    "diasFechados": [],
+    "melhorHorario": "Chegue cedo ao embarcadero (saída ~09-10h).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 550,
+      "max": 650,
+      "por": "pessoa",
+      "inclui": "Taxa local M$150 + barco ≈M$400-500 p/p em grupo (jun/2024). Combi Palenque-Frontera Corozal ~M$140 (só ida?) por fora. INAH diz 'gratuito'.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Yaxchilan"
+        },
+        {
+          "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(01 916) 34 52684"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg?width=1200",
+        "credito": "ZoRrO0880",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Calçado fechado; sem caixa eletrônico em Frontera Corozal."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se estiver operando e o orçamento permitir, é o passeio de selva mais marcante. Dividir o barco corta o custo.",
+      "Leve dinheiro em espécie.",
+      "Está na fronteira com a Guatemala, mas fora do trecho 'Pacífico até Gracias a Dios' do aviso britânico (dedução)."
+    ],
+    "alertas": [
+      "NÃO consegui confirmar se os passeios estão operando em out/2026 (última evidência: Wikivoyage jun/2024).",
+      "Conflito de preço: INAH diz gratuito; Wikivoyage M$150."
+    ]
+  },
+  {
+    "id": "mx-plq-bonampak-murais-maias",
+    "fontes": [
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Bonampak"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bonampak"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bonampak (murais maias)",
+    "cidadeId": "palenque",
+    "categoria": "atracao",
+    "tags": [
+      "maya",
+      "murais",
+      "lacandon",
+      "selva"
+    ],
+    "coords": {
+      "lat": 16.704,
+      "lng": -91.065
+    },
+    "descricaoCurta": "Murais maias do Templo 1; o site do INAH diz que o edifício das pinturas permanece FECHADO.",
+    "descricaoLonga": "Wikipedia ES: 16°42'14\"N 91°03'54\"O, ~21 km ao sul de Yaxchilán; murais cobrem ~150 m², 114 cláusulas glíficas e 272 figuras; Estela 1 de ~6 m. INAH: seg-dom 08:00-16:30; ingresso geral M$210; contato Centro INAH Chiapas (961) 612-83-60 / 612-28-24; AVISO: 'Permanecerão fechados os edifícios 4, 5, 6, 7, 8, 15 e o das pinturas' - ou seja, o edifício dos murais pode estar fechado (data do aviso não informada). Wikivoyage: só chega de carro/tour (estrada de terra), usa-se obrigatoriamente van lacandona; taxas de ejido e transporte lacandón (≈M$400 no total em 2022). Não há ônibus.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "16:30"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–16:30",
+    "diasFechados": [],
+    "melhorHorario": "Manhã.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "INAH M$210 ingresso geral (oficial). Taxas do ejido e do transporte lacandón por fora (total ≈M$400 em 2022, Wikivoyage - desatualizado).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bonampak"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(961) 612-83-60",
+      "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bonampak_Murals_July_2009_03.jpg?width=1200",
+        "credito": "Joaquin Bravo Contreras",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bonampak_Murals_July_2009_03.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Edifício das pinturas pode estar fechado (aviso INAH)."
+      ]
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[CORTE SE APERTAR] Se o edifício dos murais estiver fechado, perde o sentido do passeio (confirmar por telefone com o INAH)."
+    ],
+    "alertas": [
+      "O aviso 'edificios ... y de las pinturas cerrados' é do site oficial, sem data visível; confirmar antes."
+    ]
+  },
+  {
+    "id": "mx-plq-passeio-yaxchilan-bonampak-saindo-de-palenque-dia-in",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Yaxchilan"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bonampak"
+      },
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan"
+      },
+      {
+        "url": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Passeio Yaxchilán + Bonampak saindo de Palenque (dia inteiro)",
+    "cidadeId": "palenque",
+    "categoria": "passeio",
+    "tags": [
+      "tour",
+      "maya",
+      "usumacinta",
+      "selva",
+      "dia-inteiro"
+    ],
+    "descricaoCurta": "Dia inteiro (≈12 h): van até Frontera Corozal, barco no Usumacinta e Bonampak; Wikivoyage diz que qualquer agência de Palenque organiza.",
+    "descricaoLonga": "Wikivoyage Palenque: Yaxchilán e Bonampak 'podem ser organizados em bate-volta ou com pernoite por qualquer agência da cidade'; sem preço. Componentes por conta própria (Wikivoyage, jun/2024): combi M$140, barco M$400-500 p/p, ingresso M$150, mais as taxas de Bonampak (INAH M$210 + ejido + van lacandona). Se está operando: NÃO confirmado.",
+    "duracao": {
+      "min": 600,
+      "tipica": 720,
+      "max": 780
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída muito cedo (06:00-07:00).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cruising_down_R%C3%ADo_Usumacinta%2C_border_between_M%C3%A9xico_and_Guatemala.jpg?width=1200",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cruising_down_R%C3%ADo_Usumacinta,_border_between_M%C3%A9xico_and_Guatemala.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "[VALE CADA PESO] Se o orçamento permitir e o passeio estiver mesmo saindo.",
+      "[CORTE SE APERTAR] Se o edifício dos murais de Bonampak estiver fechado, vá só a Yaxchilán."
+    ],
+    "alertas": [
+      "Operação em 2026 não confirmada; preço total desconhecido.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Agências no centro de Palenque",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

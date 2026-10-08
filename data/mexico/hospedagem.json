@@ -1,0 +1,177 @@
+[
+  {
+    "id": "la-paz-la-paz-centro-malecon",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "la-paz",
+    "bairro": "La Paz - Centro / Malecón",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 400,
+      "max": 600
+    },
+    "porQue": "Base mais barata e prática: a pé do Malecón (bares, restaurantes, saída de tours e ônibus Playa Bus para Balandra). — Faixa é de pensões econômicas segundo o Wikivoyage (sem data; provavelmente defasada - confirmar). Hotéis intermediários à beira-mar existem com preços não coletados."
+  },
+  {
+    "id": "la-paz-san-jose-del-cabo-centro-historico",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "la-paz",
+    "bairro": "San José del Cabo - centro histórico",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 1400,
+      "max": 1400
+    },
+    "porQue": "Cidade menos comercial que Cabo San Lucas, com galerias e Art Walk; caminhável, mas 30 min a pé de hotéis de praia sob o calor pode ser desconfortável. — Ponto de referência: hotel econômico Señor Mañana a M$1.400 (Wikivoyage, sem data); teto não coletado."
+  },
+  {
+    "id": "la-paz-loreto-centro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+      },
+      {
+        "url": "https://open.er-api.com/v6/latest/USD"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "la-paz",
+    "bairro": "Loreto - centro",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 810,
+      "max": 900
+    },
+    "porQue": "Base para o Parque Nacional Bahía de Loreto e baleia-azul (fev-abr). — Moteis econômicos de ~US$45-50 (Wikivoyage, convertido a 18,0066 MXN/USD); resorts até ~M$7.000."
+  },
+  {
+    "id": "san-cristobal-centro-historico-entorno-de-real-de-gu",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "san-cristobal",
+    "bairro": "Centro histórico (entorno de Real de Guadalupe, Madero e Parque Central)",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 80,
+      "max": 450
+    },
+    "porQue": "Tudo a pé: cafés, bares de música ao vivo (Revo, Cocodrilo, La Viña de Bacco) e mercado de artesanato; hostels e posadas baratas. — Faixa dos exemplos do Wikivoyage (sem data confiável): hostels M$80-250 (dormitório), Posada del Abuelito M$120 dorm / M$250-300 privado, Posada Belén M$300-450; hotel D'Monica a partir de US$58. Valores provavelmente defasados; some inflação. Bares com música ao vivo podem fazer barulho à noite (inferência do agente)."
+  },
+  {
+    "id": "oaxaca-oaxaca-centro-historico-jalatlaco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "oaxaca",
+    "bairro": "Oaxaca: Centro Histórico / Jalatlaco",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 400,
+      "max": 600
+    },
+    "porQue": "Caminhável, perto de mercados, Santo Domingo e mezcalerías; Jalatlaco é mais tranquilo. — Faixa econômica desde ~400-600 MXN (Wikivoyage, 2024-2025); intermediário 800-1.500. Em Día de Muertos preços sobem 30-60%."
+  },
+  {
+    "id": "oaxaca-puerto-escondido-la-punta",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "oaxaca",
+    "bairro": "Puerto Escondido: La Punta",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 600
+    },
+    "porQue": "Relaxado, hostels e bares de praia, bom para aprender a surfar; balada moderada. — Dormitório desde ~200 MXN e quartos sem ar de 400-600 (Wikivoyage, abril/2024)."
+  },
+  {
+    "id": "oaxaca-zipolite",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Zipolite"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "oaxaca",
+    "bairro": "Zipolite",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 602,
+      "max": 650
+    },
+    "porQue": "Praia naturista, hippie, hospedagem barata, vida noturna leve de praia. — Faixa de Wikivoyage (dado antigo)."
+  },
+  {
+    "id": "playa-del-carmen-centro-quinta-avenida-ate-4-quadras",
+    "fontes": [
+      {
+        "url": "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      },
+      {
+        "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "playa-del-carmen",
+    "bairro": "Centro / Quinta Avenida (até ~4 quadras da avenida)",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 905,
+      "max": 1860
+    },
+    "porQue": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho. — Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto."
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "id": "mexico",
+  "fontes": [
+    {
+      "url": "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+    },
+    {
+      "url": "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf"
+    },
+    {
+      "url": "https://consulmex.sre.gob.mx/saopaulo/index.php/component/content/article/43"
+    },
+    {
+      "url": "https://www.melhoresdestinos.com.br/mexico-confirma-visto-eletronico-brasileiros.html"
+    },
+    {
+      "url": "https://mexpro.com/blog/fmm-procedures-change/"
+    },
+    {
+      "url": "https://www.essemundoenosso.com.br/imigracao-no-mexico-dicas-e-documentos/"
+    },
+    {
+      "url": "https://wise.com/br/blog/viajar-para-mexico"
+    },
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico"
+    },
+    {
+      "url": "https://www.xataka.com.br/diversos/mexico-aperta-controles-imigracao-antes-da-copa-do-mundo-2026-70-dos-rejeitados-sao-paises-que-participarao-do-torneio-e-metade-deles-sao-da-colombia"
+    },
+    {
+      "url": "https://istoe.com.br/brasileiros-ficam-17-horas-detidos-sem-agua-ou-comida-em-aeroporto-no-mexico/"
+    },
+    {
+      "url": "https://en.wikivoyage.org/wiki/Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+      "url": "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks"
+    },
+    {
+      "url": "https://latamtravellers.com/blogs/news/is-mexico-safe-in-2026-state-by-state-advisory"
+    },
+    {
+      "url": "https://travel.gc.ca/destinations/mexico"
+    }
+  ],
+  "coletadoEm": "2026-10-08",
+  "confianca": "parcial",
+  "observacaoDeConfianca": "Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.",
+  "nome": "Mexico",
+  "codigoPais": "MX",
+  "moeda": "MXN",
+  "fuso": "America/Mexico_City",
+  "fusoOffsetMinutos": -360,
+  "idiomas": [
+    "es"
+  ],
+  "tomadas": "Tipos A e B (pinos chatos, padrão americano); plugues brasileiros de pinos redondos (padrão N) precisam de adaptador.",
+  "voltagem": "127 V / 60 Hz como padrão (a Wikipedia lista também instalações 120/240 V e 127/220 V); aparelhos brasileiros 127 V ou bivolt funcionam.",
+  "caixaDelimitadora": {
+    "latMin": 14.3,
+    "latMax": 32.8,
+    "lngMin": -118.5,
+    "lngMax": -86.4
+  },
+  "entrada": [
+    {
+      "nacionalidade": "BR",
+      "documento": "Passaporte válido é obrigatório (e necessário para pedir o e-visto: foto da página de dados). Validade mínima: recomenda-se 6 meses a partir da entrada, com páginas em branco (Wise cita 3 a 6 meses); NÃO foi possível abrir fonte oficial mexicana que fixe o mínimo exato.",
+      "vistoNecessario": false,
+      "formularioMigratorio": "Prática relatada por blogs (fonte secundária): passagem de volta impressa, reservas de hotel para TODAS as noites impressas, prova de fundos (dinheiro ou cartão com limite/extrato), roteiro com vouchers e, se possível, vínculo (contracheque, matrícula, passaportes anteriores). O oficial pergunta objetivo, tempo, destino final, quanto dinheiro leva, se viaja só, hospedagem, profissão e seguro; pode haver entrevista secundária ('Setor de Revisão') antes de negar entrada. Leve tudo impresso (internet limitada na área de imigração). Valores ≥ USD 10.000 em espécie devem ser declarados no Brasil e no México.",
+      "comprovantesExigidos": [],
+      "observacoes": "BRASILEIROS PRECISAM DE VISTO desde 18/08/2022 (turismo e negócios) e, desde 22/10/2023, também para CONEXAO/TRANSITO em aeroporto mexicano (página da Embaixada do Brasil no México). Isenção: quem tem visto vigente dos EUA, Canadá, Reino Unido, Japão ou Espaço Schengen (ou residência permanente nesses países) entra só com FMM; a mesma página alerta que e-visto/ETA de terceiros países e vistos de entrada única costumam ser recusados pela imigração mexicana e que o oficial tem discricionariedade. NOVIDADE: desde 05/02/2026 brasileiros que viajem por VIA AEREA, por menos de 180 dias e sem atividade remunerada podem pedir VISTO ELETRONICO em https://visaelectronica.sre.gob.mx/ (USD 10 por processo, validade 180 dias, entrada única; apresentar impresso ou digital no embarque e na entrada). Se negado, ou se precisar de visto de múltiplas entradas, vale o visto consular com agendamento em citas.sre.gob.mx (Consulado em SP: Rua Holanda, 274). Obs.: a página do Consulado (artigo 43) e a da Embaixada ainda trazem textos anteriores ao e-visto (visto consular USD 54); prevalece o guia do Consulado de 10/02/2026. Não confirmado em fonte aberta se o e-visto cobre trânsito aéreo.",
+      "fontes": [
+        {
+          "url": "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+        },
+        {
+          "url": "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf"
+        },
+        {
+          "url": "https://consulmex.sre.gob.mx/saopaulo/index.php/component/content/article/43"
+        },
+        {
+          "url": "https://www.melhoresdestinos.com.br/mexico-confirma-visto-eletronico-brasileiros.html"
+        },
+        {
+          "url": "https://mexpro.com/blog/fmm-procedures-change/"
+        },
+        {
+          "url": "https://www.essemundoenosso.com.br/imigracao-no-mexico-dicas-e-documentos/"
+        },
+        {
+          "url": "https://wise.com/br/blog/viajar-para-mexico"
+        },
+        {
+          "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico"
+        },
+        {
+          "url": "https://www.xataka.com.br/diversos/mexico-aperta-controles-imigracao-antes-da-copa-do-mundo-2026-70-dos-rejeitados-sao-paises-que-participarao-do-torneio-e-metade-deles-sao-da-colombia"
+        },
+        {
+          "url": "https://istoe.com.br/brasileiros-ficam-17-horas-detidos-sem-agua-ou-comida-em-aeroporto-no-mexico/"
+        }
+      ]
+    }
+  ],
+  "saude": {
+    "vacinasRecomendadas": [
+      "Rotina em dia (sarampo/MMR, tétano-difteria-coqueluche, gripe, varicela, pólio, COVID-19) - CDC",
+      "Hepatite A (não vacinados)",
+      "Hepatite B (viajantes até 60 anos)",
+      "Febre tifoide (maioria dos viajantes)",
+      "Chikungunya só para estadas longas (6+ meses) - CDC",
+      "Febre amarela: NÃO recomendada pelo CDC para o México (checar exigência de certificado para quem vem do Brasil)"
+    ],
+    "aguaPotavel": "Não beber água da torneira (Wikivoyage: potável em tese, mas não recomendada); usar água engarrafada/purificada e cuidado com gelo. CDC alerta para diarreia do viajante e, em 2026, aumento de ciclosporíase em viajantes de Cancún/Riviera Maya. Risco de malária só em Campeche, Chiapas e sul de Chihuahua (CDC); dengue/zika: repelente com 20%+ DEET.",
+    "observacoes": "Não obrigatório para turistas brasileiros (Wise: recomendado). Em aluguel de carro o seguro mexicano de responsabilidade civil é exigido; seguro dos EUA não vale (Wikivoyage).",
+    "fontes": [
+      {
+        "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico"
+      },
+      {
+        "url": "https://wise.com/br/blog/viajar-para-mexico"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mexico_City"
+      }
+    ]
+  },
+  "seguranca": {
+    "orientacaoGeral": "O aviso dos EUA (reemitido 29/05/2026; nível geral 2 'Exercise Increased Caution') dá nível por estado. Nível 4 (não viajar): Colima, Guerrero, Michoacán, Sinaloa, Tamaulipas, Zacatecas. Nível 3 (reconsiderar): Baja California, Chihuahua, Guanajuato, Jalisco (Fox) - outra fonte de mai/2026 acrescenta Durango, Morelos e Sonora. Nível 2: Cidade do México, Quintana Roo, Oaxaca, Chiapas, Baja California Sur, Puebla, Estado de México, Nayarit, Veracruz, Querétaro etc. Nível 1: Yucatán e Campeche. O aviso do Canadá manda evitar viagens não essenciais a Chiapas (exceções: Palenque, Tuxtla Gutiérrez, San Cristóbal), Guanajuato, Jalisco (áreas de fronteira), Nayarit, Michoacán, Guerrero, Colima, Sinaloa, Sonora, Tamaulipas, Zacatecas, Chihuahua e Nuevo León; Quintana Roo/Cancún/Tulum, Oaxaca, Baja California Sur e CDMX não constam. Zonas turísticas costumam ter reforço de segurança, mas crime violento ocorre também em hotéis, bares e restaurantes; evite viagens rodoviárias à noite, use transporte oficial/por app e obedeça a pontos de controle. PONTOS DE ATENÇÃO NO ROTEIRO: Guanajuato/San Miguel de Allende (nível 3 EUA), Guadalajara/Puerto Vallarta (Jalisco, nível 3 EUA) e santuários de monarcas no lado de Michoacán (nível 4). Os avisos oficiais (travel.state.gov) não abriram nesta coleta (403/Cloudflare): dados via imprensa e página do Canadá. Não foi possível abrir o alerta do Itamaraty para o México.",
+    "golpesComuns": [
+      "Apresentações de timeshare com 'brindes' (carro, jantar, noites grátis) em Cancún, Puerto Vallarta e similares (Wikivoyage)",
+      "Táxis chamados na rua, sobretudo na CDMX: prefira táxi de 'sitio', chamado pelo hotel/restaurante ou por app (Wikivoyage)",
+      "Policiais de trânsito que retêm a CNH até receber propina; evite dirigir à noite; animais na pista (Wikivoyage)",
+      "Guardadores informais (viene-viene/franeleros) cobram M$3-20 e às vezes mais perto de vida noturna (Wikivoyage)",
+      "Caixas eletrônicos: recuse conversão dinâmica e aceite só a tarifa do banco; caixas de cidades pequenas podem ficar sem cédulas (Wikivoyage)"
+    ],
+    "appsDeTransporte": [
+      "Uber",
+      "DiDi",
+      "Táxi de sitio (ponto autorizado)"
+    ],
+    "fontes": [
+      {
+        "url": "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks"
+      },
+      {
+        "url": "https://latamtravellers.com/blogs/news/is-mexico-safe-in-2026-state-by-state-advisory"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/mexico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico"
+      }
+    ]
+  },
+  "dinheiro": {
+    "cambioObservacao": "Moeda: peso mexicano (MXN). USD circula em Cancún e Los Cabos (caixas com dupla moeda), mas pesos são preferíveis e o dólar costuma sair pior. Em aeroportos de chegada (CDMX, Cancún) há casas de câmbio com taxa em geral razoável (Wikivoyage). Cotação do dia NÃO coletada. Declaração obrigatória de ≥ USD 10.000 em espécie (Wise).",
+    "cartaoAceito": "Cartões aceitos em hotéis, grandes restaurantes, lojas de departamento e postos nas cidades; fora das cidades leve pesos em espécie e confirme antes de consumir (Wikivoyage).",
+    "saque": "Caixas mostram a tarifa do banco e pedem aceite. Exemplos de tarifa (jan/2024, Mastercard britânico): Inbursa M$22,04; BanBajío M$23,20; Mifel M$26,68; BanCoppel M$29; Citibanamex M$30,74. Caixas de cidades pequenas podem ficar sem cédulas: não deixe para a última hora.",
+    "gorjeta": "Restaurantes: 10% a 15% (deixe na mesa; bares/baladas costumam incluir 15% na conta); não se espera gorjeta em táxi ou ônibus, exceto em tours; carregadores/camareiras: gorjeta pequena.",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico"
+      },
+      {
+        "url": "https://wise.com/br/blog/viajar-para-mexico"
+      }
+    ]
+  },
+  "conectividade": {
+    "operadoras": [
+      "Telcel (melhor cobertura nacional e a mais cara - Wikivoyage)"
+    ],
+    "comoComprarChip": "Chip pré-pago Telcel 'Amigo Express' em lojas Oxxo; aparelho precisa estar desbloqueado. Outras operadoras e eSIM NÃO foram pesquisados nesta coleta; confirmar roaming da operadora brasileira.",
+    "esim": "Dados antigos (nov/2021): chip M$29; primeira recarga mínima M$50; M$50 = 400 MB/7 dias; M$100 = 1,3 GB/15 dias. Preços atuais NÃO confirmados.",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico"
+      }
+    ]
+  },
+  "linksUteis": []
+}

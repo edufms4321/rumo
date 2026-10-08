@@ -1,0 +1,3025 @@
+{
+  "base": "la-paz",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "La Paz: taxi/Uber dentro da cidade; ônibus 'Playa Bus' (EcoBajaTours) do Malecón a Balandra por 70 MXN em dinheiro, saídas de hora em hora das 08:00 às 18:30. Autotransportes Águila liga La Paz a Cabo San Lucas (~2 h), San José del Cabo (~2,5 h) e Loreto (Wikivoyage La Paz, tarifas não coletadas). Tours de barco saem da Marina de La Paz/Malecón (Espíritu Santo e tubarão-baleia: Marina La Paz ou Marina de Pescadores). Alugar carro compensa para Todos Santos, Cerritos, Bahía Magdalena e Cabo Pulmo: ver item de aluguel (TPL obrigatório!). Distâncias: La Paz-Todos Santos 74 km (~1 h), Todos Santos-Cabo San Lucas 75 km (~1 h 15), Cabo San Lucas-San José del Cabo 33 km (~40 min), total ~185 km. Pacífico central: ônibus Compostela de PV a Sayulita por MXN 60 (2026); ônibus urbano de PV a M$10; Yelapa só por barco. Conexão continente-La Paz: ferry Baja Ferries (Mazatlán qua/sex/dom 16:00; Topolobampo seg-sex 23:59 e dom 23:00). CALENDÁRIO DE TEMPORADAS (cada janela está detalhada, com fonte, nos itens de temporada): baleia-cinzenta nas lagoas: 15 dez a 30 abr em San Ignacio/Ojo de Liebre e 1 jan a 30 abr em Bahía Magdalena (pico prático fev-mar); baleia-jubarte: Los Cabos ~fim de nov/dez a mar-abr, Puerto Vallarta 8 dez a 23 mar (pico jan-fev); tubarão-baleia na Baía de La Paz: oficial 1 out a 30 abr, na prática ~nov a abr com pico fev-mar, e o nado pode ser SUSPENSO por baixa presença (ocorreu em jan-mar 2025); nado com lobos-marinhos em Los Islotes: permitido ~1 set a 31 mai e PROIBIDO 1 jun a 31 ago (reprodução); baleia-azul em Loreto: meados de fev a início de abr; furacões no Pacífico: 15 mai a 30 nov (pico fim de agosto; Odile atingiu Cabo em set/2014); calor extremo em La Paz: jun a set, máximas médias de 37-38 C e recorde de 44 C em jul; Art Walk de San José del Cabo: quintas, nov a jun. JANELA QUE JUNTA MAIS COISAS: fevereiro-março (tubarão-baleia + lobos-marinhos + cinzenta + jubarte + azul em Loreto) e fora de furacões/calor extremo. Hoje (2026-10-08) ainda estamos em temporada de furacões até 30 de novembro.",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "La Paz - Centro / Malecón",
+        "perfil": "Base mais barata e prática: a pé do Malecón (bares, restaurantes, saída de tours e ônibus Playa Bus para Balandra).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 600
+        },
+        "observacao": "Faixa é de pensões econômicas segundo o Wikivoyage (sem data; provavelmente defasada - confirmar). Hotéis intermediários à beira-mar existem com preços não coletados.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+        ]
+      },
+      {
+        "nome": "San José del Cabo - centro histórico",
+        "perfil": "Cidade menos comercial que Cabo San Lucas, com galerias e Art Walk; caminhável, mas 30 min a pé de hotéis de praia sob o calor pode ser desconfortável.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 1400,
+          "max": 0
+        },
+        "observacao": "Ponto de referência: hotel econômico Señor Mañana a M$1.400 (Wikivoyage, sem data); teto não coletado.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+        ]
+      },
+      {
+        "nome": "Cabo San Lucas - centro / Marina / Medano",
+        "perfil": "Zona de festa e passeios de barco; a mais cara da região.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Preços de hospedagem NÃO coletados.",
+        "seguranca": "Wikivoyage: evitar becos à noite e cuidar de batedores de carteira nas áreas de balada; não ficar perto da água em praias voltadas ao Pacífico (ondas perigosas).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Los_Cabos"
+        ]
+      },
+      {
+        "nome": "Todos Santos - centro",
+        "perfil": "Pueblo mágico artístico, 1 h de La Paz; hospedagem de charme (Todos Santos Inn, em casa de 1870, é o hotel mais antigo segundo o Wikivoyage).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Preços NÃO coletados. Restaurantes: pratos M$200-300 (Wikivoyage).",
+        "seguranca": "Não confirmada; atenção a apagões e falta de água citados pela Wikipedia.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Todos_Santos",
+          "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur"
+        ]
+      },
+      {
+        "nome": "Puerto Vallarta - Zona Romántica",
+        "perfil": "Bairro mais animado e mais LGBTQ+ do México, a pé de praia, restaurantes e bares; ônibus urbano M$10.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Preços de hospedagem NÃO coletados.",
+        "seguranca": "Não confirmada em fonte consultada.",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta",
+          "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+        ]
+      },
+      {
+        "nome": "Sayulita - vila / camping",
+        "perfil": "Vilarejo de surfe com mais de 40 restaurantes; hospedagem econômica em camping (Camping del Palmar, ao sul do rio).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Preços NÃO coletados.",
+        "seguranca": "Arrastar os pés na água (arraias); esgoto ocasional nas áreas de banho (Wikivoyage).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Sayulita"
+        ]
+      },
+      {
+        "nome": "Loreto - centro",
+        "perfil": "Base para o Parque Nacional Bahía de Loreto e baleia-azul (fev-abr).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 810,
+          "max": 900
+        },
+        "observacao": "Moteis econômicos de ~US$45-50 (Wikivoyage, convertido a 18,0066 MXN/USD); resorts até ~M$7.000.",
+        "seguranca": "Não confirmada.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "NÃO consegui ler o alerta oficial de viagem do Departamento de Estado dos EUA (travel.state.gov devolveu 403) nem outro órgão oficial: antes de comprar passagens, confira o alerta de viagem atual do governo brasileiro e dos EUA para Baja California Sur, Jalisco e Nayarit. O que as fontes consultadas dizem de concreto: em Cabo San Lucas, evite becos à noite e atente a batedores de carteira nas áreas de balada (Wikivoyage); no lado do Pacífico da Baja a correnteza é forte e é perigoso ficar na beira da água (Traveltinker, Wikivoyage); sob El Arco não se deve caminhar na praia por causa da maré (Posta); em Balandra e Sayulita, arraias (arrastar os pés); em Sayulita, esgoto ocasional na água; em Todos Santos, apagões e pressão sobre a água (Wikipedia). Segurança específica por bairro de La Paz, PV e Todos Santos NÃO foi coletada.",
+    "pegaTuristaAEvitar": [
+      "Los Cabos corredor e Cabo San Lucas à noite: tendem a ser as áreas mais caras (preços de balada não coletados).",
+      "Cabo Pulmo saindo de Los Cabos: 4.400+ MXN por pessoa em tour compartilhado.",
+      "Islas Marietas com Playa Escondida: ~1.700-2.125 MXN por pessoa por 20-30 min na praia.",
+      "Pacotes de catamarã/open bar: preços não coletados; compare com táxi aquático até El Arco (290-500 MXN).",
+      "Souvenirs 'Hotel California/Eagles' em Todos Santos: a ligação com a banda foi desmentida em juízo."
+    ],
+    "golpesComuns": [
+      "Aluguel de carro: tarifa online baixíssima sem o seguro TPL obrigatório; no balcão o valor sobe e o depósito chega a US$3.000+ (ExpatDen, Kayak).",
+      "Operadoras de tubarão-baleia sem permissão: em 2024 cerca de 26 prestadores ficaram sem autorização; exija banderola/adesivo, número de permissão e nome da embarcação; confirme na lista da CONANP e no RNT (Posta, Zeta).",
+      "Artesanato 'huichol' vendido por atravessadores ou ambulantes: compre direto do artesão, cooperativa ou galeria (Wikipedia).",
+      "Barcos em Cabo San Lucas: peça preço total incluindo taxa de doca (Posta cita taxa à parte).",
+      "Playa Escondida (Marietas) sem operadora autorizada pela CONANP: não existe acesso independente (Vallarta Adventures, Riviera Nayarit)."
+    ],
+    "fontes": [
+      "https://www.golapaz.com/blog/post/gray-whales-where-how-and-when-to-see-them/",
+      "https://www.golapaz.com/things-to-do/attractions-tours/whale-watching/",
+      "https://gringogazette.com/best-whale-watching-spots-in-baja-california-sur/",
+      "https://www.boundlessroads.com/baja-california-whale-watching/",
+      "https://en.wikipedia.org/wiki/Magdalena_Bay",
+      "https://en.wikivoyage.org/wiki/Los_Cabos",
+      "https://en.wikipedia.org/wiki/Los_Cabos_Municipality",
+      "https://open.er-api.com/v6/latest/USD",
+      "https://www.vallarta-adventures.com/tour/whale-watching/",
+      "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+      "https://rivieranayarit.com/?p=5595",
+      "https://en.wikipedia.org/wiki/Islas_Marietas_National_Park",
+      "https://www.posta.com.mx/bcs/temporada-del-tiburon-ballena-en-bcs-cuando-ir-y-donde-verlo-en-la-paz/vl2122447",
+      "https://www.posta.com.mx/bcs/como-saber-si-un-operador-esta-autorizado-para-tours-de-tiburon-ballena-en-la-paz/vl2128562",
+      "https://gringogazette.com/?p=35992",
+      "https://zetatijuana.com/2025/03/por-falta-de-ejemplares-mantienen-suspension-de-nado-en-el-refugio-del-tiburon-ballena/",
+      "https://zetatijuana.com/2025/02/por-baja-presencia-de-especimenes-suspenden-nado-con-el-tiburon-ballena/",
+      "https://zetatijuana.com/2022/12/instancias-retrasan-arranque-de-la-temporada-del-tiburon-ballena/",
+      "https://zetatijuana.com/2024/11/decenas-de-permisionarios-sin-autorizacion-para-el-tiburon-ballena/",
+      "https://golapaz.com/en/explore/espiritu-santo-island",
+      "https://www.thoroughlytravel.com/isla-espiritu-santo/",
+      "https://www.bajabound.com/bajaadventures/isla_espiritu_santo.php",
+      "https://en.wikipedia.org/wiki/Esp%C3%ADritu_Santo_Island",
+      "https://zetatijuana.com/2024/07/por-periodo-de-apareamiento-restringen-nado-con-lobo-marino-en-espiritu-santo/",
+      "https://www.nhc.noaa.gov/climo/",
+      "https://en.wikipedia.org/wiki/Hurricane_Odile",
+      "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+      "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+      "https://thoroughlytravel.com/north-america/balandra-bay-mexico-most-beautiful-beach/",
+      "https://www.posta.com.mx/bcs/guia-para-visitar-balandra-sin-contratiempos-horarios-reservas-y-costos/vl2064539",
+      "https://www.posta.com.mx/bcs/playa-balandra-2025-cuanto-cuesta-entrar-y-donde-pagar-la-entrada/vl2108485",
+      "https://www.luznoticias.mx/2025-01-16/mexico/en-esta-playa-de-bcs-solo-entraran-con-brazaletes-y-en-ciertos-horarios-cual-es/231571",
+      "https://www.openstreetmap.org/way/154141788",
+      "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)",
+      "https://www.openstreetmap.org/node/9552538257",
+      "https://commons.wikimedia.org/wiki/File:Playa_Tecolote_1.jpg",
+      "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157",
+      "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+      "https://www.openstreetmap.org/node/1692148991",
+      "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo",
+      "https://www.openstreetmap.org/way/76738165",
+      "https://www.openstreetmap.org/way/75500039",
+      "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg",
+      "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269",
+      "https://mexiconewsdaily.com/travel/san-jose-art-walk-continues-to-attract-los-cabos-visitors/",
+      "https://www.cabo-adventures.com/en/blog/san-jose-del-cabo-art-walk",
+      "https://www.openstreetmap.org/way/156979177",
+      "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+      "https://www.openstreetmap.org/relation/13814307",
+      "https://www.cabo-adventures.com/tour/cabo-pulmo-snorkel-expedition",
+      "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/",
+      "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/",
+      "https://en.wikipedia.org/wiki/Cabo_Pulmo_National_Park",
+      "https://dan.org/health-medicine/health-resource/health-safety-guidelines/guidelines-for-flying-after-diving/",
+      "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur",
+      "https://en.wikivoyage.org/wiki/Todos_Santos",
+      "https://routenote.com/blog/eagles-sueing-hotel-california-stealing-name-song/",
+      "https://www.openstreetmap.org/node/2799963580",
+      "https://www.openstreetmap.org/node/6981426895",
+      "https://en.wikipedia.org/wiki/Bah%C3%ADa_de_Loreto_National_Park",
+      "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)",
+      "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta",
+      "https://www.openstreetmap.org/way/245255133",
+      "https://commons.wikimedia.org/wiki/File:Muelle_de_la_Playa_de_los_Muertos_al_atardecer,_Puerto_Vallarta.jpg",
+      "https://www.openstreetmap.org/way/1320783349",
+      "https://www.openstreetmap.org/way/24847357",
+      "https://en.wikipedia.org/wiki/Zona_Rom%C3%A1ntica",
+      "https://en.wikipedia.org/wiki/Yelapa",
+      "https://en.wikivoyage.org/wiki/Sayulita",
+      "https://en.wikipedia.org/wiki/Sayulita",
+      "https://www.openstreetmap.org/way/875624596",
+      "https://www.openstreetmap.org/relation/8894431",
+      "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg",
+      "https://www.vallarta-adventures.com/en/blog/marieta-islands",
+      "https://tipsparatuviaje.com/islas-marietas/",
+      "https://geo-mexico.com/?p=14189",
+      "https://www.gob.mx/conanp/prensa/el-parque-nacional-islas-marietas-no-cierra-unicamente-la-playa-del-amor-entrara-en-un-periodo-de-resguardo-temporal-29348",
+      "https://flamingos.villadelpalmar.com/blog/destination/are-the-marietas-islands-hidden-beach-open",
+      "https://www.mochileandoporelmundo.com/playa-escondita-marietas-mochileros/",
+      "https://en.wikipedia.org/wiki/Huichol_art",
+      "https://www.kayak.com.mx/Renta-economica-de-autos-La-Paz.9323.cars.ksp",
+      "https://www.expatden.com/mexico/mexico-car-rental/",
+      "https://www.luznoticias.mx/2026-07-15/mexico/baja-ferries-2026-cuanto-cuesta-viajar-de-mazatlan-a-la-paz-bcs-/297061",
+      "https://www.luznoticias.mx/amp/2026-07-21/mexico/baja-ferries-de-topolobampo-a-la-paz-2026-que-dias-sale-y-que-horarios/297557",
+      "https://en.wikipedia.org/wiki/Pichilingue",
+      "https://www.openstreetmap.org/way/1161797116",
+      "https://commons.wikimedia.org/wiki/File:La_paz_malecon_1702p1.jpg"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Temporada da baleia-cinzenta (Bahía Magdalena, Ojo de Liebre, San Ignacio)",
+      "categoria": "natureza",
+      "cidade": "la-paz",
+      "tags": [
+        "temporada",
+        "baleia-cinzenta",
+        "dez-abr",
+        "bate-volta-la-paz",
+        "sazonal"
+      ],
+      "coords": {
+        "lat": 24.58333333,
+        "lng": -112
+      },
+      "descricaoCurta": "Janela oficial: 15 dez a 30 abr (Ojo de Liebre e San Ignacio) e 1 jan a 30 abr (Bahía Magdalena). Pico prático: meados de fev a início de abr.",
+      "descricaoLonga": "As baleias-cinzentas migram da região do Mar de Bering e se reúnem em três lagoas/baías da Baja California Sur: Ojo de Liebre (Guerrero Negro), San Ignacio e Bahía Magdalena. Segundo o turismo de La Paz, a temporada oficial vai de 15 de dezembro a 30 de abril em San Ignacio e Ojo de Liebre, e de 1 de janeiro a 30 de abril em Bahía Magdalena; pico de janeiro a março. Um guia de preços 2026-27 detalha janelas práticas por porto: San Ignacio fim de fev a início de abr (março é o auge, filhotes mais curiosos); Puerto López Mateos meados de fev a início de abr; Puerto San Carlos e Puerto Chale meados de fev a março; Guerrero Negro fim de jan a março. Para quem tem La Paz como base, só Bahía Magdalena (portos Chale, San Carlos e López Mateos, menos de 3 h de carro) cabe em bate-volta; San Ignacio e Ojo de Liebre ficam a cerca de 10 h de estrada. Fora de dez-abr não há baleia-cinzenta: planejar viagem entre maio e novembro significa abrir mão deste item.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fev a março (pico). Hora do dia ideal não confirmada em fonte.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1500,
+        "max": 1600,
+        "por": "grupo",
+        "inclui": "Por HORA de barco nos portos de Bahía Magdalena (cooperativas locais). Guerrero Negro: ~1.200 MXN (≈US$50) por pessoa. Não inclui transporte desde La Paz.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.boundlessroads.com/baja-california-whale-watching/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só dezembro a abril; verificar presença de baleias e clima com operador antes de ir",
+        "Operar apenas com barcos/cooperativas com permissão (NOM-131)"
+      ],
+      "pontoPartida": "Portos de Bahía Magdalena: Puerto Chale, Puerto San Carlos, Puerto López Mateos (menos de 3 h de carro de La Paz). Coordenada = Magdalena Bay (Wikipedia).",
+      "dicasAgente": [
+        "VALE CADA PESO se a viagem cair em fev-março: custo de barco por hora dividido entre o casal costuma ser baixo comparado ao de Los Cabos.",
+        "Alugar carro (ver item de aluguel) torna o bate-volta a Magdalena viável; sem carro, só tour pronto de La Paz (preço não coletado).",
+        "CORTE SE APERTAR: Guerrero Negro e San Ignacio (10 h de estrada cada) só fazem sentido com 2+ dias extras.",
+        "Combina com tubarão-baleia na Baía de La Paz (out-abr) e leões-marinhos de Los Islotes (set-mai): a janela fev-março junta tudo."
+      ],
+      "alertas": [
+        "Preços de passeios prontos saindo de La Paz NÃO foram coletados.",
+        "Há divergência entre janela oficial (15 dez/1 jan a 30 abr) e janela prática por porto (meados de fev a abr): início da temporada não garante baleias em abundância.",
+        "Reserva e horários não confirmados em fonte."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.golapaz.com/blog/post/gray-whales-where-how-and-when-to-see-them/",
+        "https://www.golapaz.com/things-to-do/attractions-tours/whale-watching/",
+        "https://gringogazette.com/best-whale-watching-spots-in-baja-california-sur/",
+        "https://www.boundlessroads.com/baja-california-whale-watching/",
+        "https://en.wikipedia.org/wiki/Magdalena_Bay"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Temporada da baleia-jubarte em Los Cabos",
+      "categoria": "natureza",
+      "cidade": "los-cabos",
+      "tags": [
+        "temporada",
+        "baleia-jubarte",
+        "nov-abr",
+        "cabo-san-lucas",
+        "sazonal"
+      ],
+      "coords": {
+        "lat": 22.8947,
+        "lng": -109.9153
+      },
+      "descricaoCurta": "Janela: fim de novembro/dezembro a março-abril; pico jan-março. Passeios a partir de ~US$89 (≈1.600 MXN) por pessoa.",
+      "descricaoLonga": "Baleias-jubarte passam o inverno na ponta sul da Baja. Fontes divergem levemente na janela: um guia 2026-27 dá 'fim de nov a março' em Cabo San Lucas; um guia local de jan/2026 dá 'dezembro a abril' para Los Cabos (com zonas restritas); o Wikivoyage dá janeiro a março, com pico no início de março. Passeios em Cabo começam em cerca de US$89 por pessoa (≈1.603 MXN à taxa de 18,0066 MXN/USD de 2026-10-08), o que é caro para o perfil econômico. Operações devem seguir a NOM-131. Coordenada = Cabo San Lucas (Wikipedia), não um ponto de embarque.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1603,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço 'a partir de' US$89 por pessoa (conversão a 18,0066 MXN/USD). Teto não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.boundlessroads.com/baja-california-whale-watching/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só ~dez a março/abril",
+        "Algumas zonas são restritas; usar operadora autorizada"
+      ],
+      "pontoPartida": "Marina de Cabo San Lucas (ponto exato não confirmado em fonte).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: o jeito mais barato de ver jubarte no roteiro é Puerto Vallarta (dez-mar); Los Cabos cobra preço de resort.",
+        "Se já estiver em Cabo San Lucas em jan-março, observe se o passeio de barco até El Arco (290-500 MXN) rende avistamento: NÃO confirmado em fonte."
+      ],
+      "alertas": [
+        "Duração, horários e operadora específica não coletados.",
+        "Janela varia por fonte (fim nov a abr)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.boundlessroads.com/baja-california-whale-watching/",
+        "https://gringogazette.com/best-whale-watching-spots-in-baja-california-sur/",
+        "https://en.wikivoyage.org/wiki/Los_Cabos",
+        "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Temporada da baleia-jubarte em Puerto Vallarta (Baía de Banderas)",
+      "categoria": "natureza",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "temporada",
+        "baleia-jubarte",
+        "dez-mar",
+        "bahia-de-banderas",
+        "sazonal"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Temporada oficial 8 dez a 23 mar; avistamento 'garantido' pela Vallarta Adventures de 20 dez a 1 mar; pico jan-fev.",
+      "descricaoLonga": "Jubarte vêm acasalar e parir na Baía de Banderas. A Vallarta Adventures informa temporada oficial de 8 de dezembro a 23 de março e avistamentos garantidos de 20 de dezembro a 1 de março; passeio de 3 horas, idade mínima 6 anos, chegar 45 min antes, com hidrofones. O Wikivoyage confirma dezembro a março. Passeios às Islas Marietas entre dezembro e março também podem incluir jubarte (Riviera Nayarit; Wikipedia diz dez-mar). Preço NÃO divulgado na página (contato por telefone).",
+      "duracao": {
+        "min": 0,
+        "tipica": 180,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não divulgado na página da operadora consultada.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.vallarta-adventures.com/tour/whale-watching/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "1-888-526-2238 (Vallarta Adventures, número divulgado na página)",
+        "whatsapp": "",
+        "site": "https://www.vallarta-adventures.com/tour/whale-watching/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Idade mínima 6 anos (Vallarta Adventures)",
+        "Só 8 dez a 23 mar (oficial)"
+      ],
+      "pontoPartida": "Check-in da operadora (chegar 45 min antes); endereço não coletado.",
+      "dicasAgente": [
+        "VALE CADA PESO em jan-fev se o casal já estiver em PV: janela clara e fonte.",
+        "Uma saída para as Marietas (dez-mar) pode juntar baleia + ilha: compare antes de pagar dois passeios."
+      ],
+      "alertas": [
+        "Preço, horários de saída e outras operadoras não coletados.",
+        "Vallarta Adventures é operadora comercial; página pode ter viés de marketing ('garantido')."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.vallarta-adventures.com/tour/whale-watching/",
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+        "https://rivieranayarit.com/?p=5595",
+        "https://en.wikipedia.org/wiki/Islas_Marietas_National_Park"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Nado com tubarão-baleia na Baía de La Paz (temporada e regras)",
+      "categoria": "passeio",
+      "cidade": "la-paz",
+      "tags": [
+        "temporada",
+        "tubarao-baleia",
+        "out-abr",
+        "el-mogote",
+        "regulamentado",
+        "sazonal"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Temporada oficial 1 out a 30 abr, mas só abre com tubarões suficientes na zona: 2025-26 começou ~3-12 nov; pico fev-março. O nado já foi SUSPENSO em jan-mar 2025. Tour ~1.300-1.800 MXN.",
+      "descricaoLonga": "A temporada oficial vai de 1 de outubro a 30 de abril (Zeta, 2022), mas só se autoriza o nado se houver tubarões dentro do 'Refúgio do Tubarão-Baleia' (El Mogote): em 2022 a abertura foi em 27 de nov (atraso de permissões e de chegada dos animais); em 2025-26 a temporada começou em 3 de nov segundo o Posta (a abertura formal exige pelo menos 14 tubarões documentados na zona) e em 12 de nov segundo o Gringo Gazette, com encerramento em 30 de abr de 2026. Balanço 2025-26 (Comitê): 56 exemplares identificados, 950 avistamentos e 45.350 visitantes; fevereiro e março foram os meses de pico; 94,4% eram machos juvenis. Preço relatado: 1.300 a 1.800 MXN por pessoa. Risco real: em 2025 o nado foi suspenso a partir de 27 de janeiro por baixa presença (limiar citado: mínimo de 7 exemplares dentro do polígono; a NOM-171 manda suspender com 5 ou menos), e a suspensão ainda durava em 18 de março de 2025; foi o segundo ano seguido de suspensão. Regras de operação: NOM-171-SEMARNAT-2018, só barcos com autorização da DGVS/CONANP e carta de adesão, mínimo de 50 m entre embarcações, saída apenas da Marina La Paz ou Marina de Pescadores, rastreador GPS, zonas e horários definidos. Em 2024 foram emitidas 83 permissões (máximo histórico 111) e cerca de 26 operadores ficaram sem autorização: contratar operador irregular é risco.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1300,
+        "max": 1800,
+        "por": "pessoa",
+        "inclui": "Faixa informada em maio/2026 (balanço da temporada 2025-26). Inclusões não detalhadas.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://gringogazette.com/?p=35992"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só com operadora autorizada (banderola/adesivo oficial, número de permissão e nome da embarcação visíveis)",
+        "Mínimo de 50 m entre barcos",
+        "Nado depende de haver tubarões na zona; pode ser suspenso pela CONANP"
+      ],
+      "pontoPartida": "Marina La Paz ou Marina de Pescadores (única saída permitida).",
+      "dicasAgente": [
+        "VALE CADA PESO em fev-março (pico documentado), com ressalva: não há garantia de nado.",
+        "Pergunte à operadora a política de remarcação/reembolso se o nado estiver suspenso no dia.",
+        "Confira a operadora na lista sazonal da CONANP, no RNT e com a Dirección de Comercio de La Paz (Posta, nov/2025).",
+        "Regras de nado frequentemente citadas por guias (máx. 5 nadadores + 1 guia por tubarão, ~30 min, sem flash, protetor biodegradável, sem toque) vieram de resumo de busca e NÃO foram confirmadas em página aberta: pedir à operadora."
+      ],
+      "alertas": [
+        "Início de temporada diverge entre fontes (3 nov x 12 nov em 2025).",
+        "Limiar de tubarões para abrir/suspender varia por fonte (mais de 6 em 2022; 5 ou menos suspende; 7 em 2025; 14 para abertura formal em 2025-26).",
+        "Duração do passeio não coletada.",
+        "Data de início da temporada 2026-27 NÃO confirmada até 2026-10-08."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.posta.com.mx/bcs/temporada-del-tiburon-ballena-en-bcs-cuando-ir-y-donde-verlo-en-la-paz/vl2122447",
+        "https://www.posta.com.mx/bcs/como-saber-si-un-operador-esta-autorizado-para-tours-de-tiburon-ballena-en-la-paz/vl2128562",
+        "https://gringogazette.com/?p=35992",
+        "https://zetatijuana.com/2025/03/por-falta-de-ejemplares-mantienen-suspension-de-nado-en-el-refugio-del-tiburon-ballena/",
+        "https://zetatijuana.com/2025/02/por-baja-presencia-de-especimenes-suspenden-nado-con-el-tiburon-ballena/",
+        "https://zetatijuana.com/2022/12/instancias-retrasan-arranque-de-la-temporada-del-tiburon-ballena/",
+        "https://zetatijuana.com/2024/11/decenas-de-permisionarios-sin-autorizacion-para-el-tiburon-ballena/",
+        "https://www.boundlessroads.com/baja-california-whale-watching/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Isla Espíritu Santo - passeio de dia inteiro (lobos-marinhos, snorkel, praias)",
+      "categoria": "passeio",
+      "cidade": "la-paz",
+      "tags": [
+        "espiritu-santo",
+        "unesco",
+        "conanp",
+        "lobos-marinhos",
+        "snorkel",
+        "dia-inteiro",
+        "area-protegida"
+      ],
+      "coords": {
+        "lat": 24.47138889,
+        "lng": -110.3325
+      },
+      "descricaoCurta": "Barco de La Paz até o arquipélago (UNESCO): praia, snorkel e, set-mai, nado com lobos-marinhos em Los Islotes. ~US$100-150 (≈1.800-2.700 MXN) por pessoa; pulseira CONANP ~150 MXN/dia.",
+      "descricaoLonga": "Arquipélago a ~26 km de La Paz, reserva da biosfera (1994), Patrimônio Mundial (2005) e Parque Nacional (2007). O acesso é limitado a 40% da capacidade e exige pulseira de acesso da CONANP e operadora autorizada (GoLaPaz). Passeios de dia inteiro saem das marinas de La Paz ou do píer do Malecón; travessia de 45 a 90 min conforme o mar (Thoroughly Travel); até Los Islotes, 1 a 1,5 h (Baja Bound). Preço de passeio com almoço e nado com lobos: US$100-150 por pessoa (≈1.801-2.701 MXN a 18,0066 MXN/USD); veleiros/barcos privados a partir de US$600 por barco. A pulseira/ingresso CONANP foi citada a 150 MXN por dia e normalmente já vem incluída. Há mais de 10 pontos de snorkel/mergulho, caiaque, stand-up, pesca e glamping na ilha. Fontes divergem sobre a janela de nado com lobos: o GoLaPaz diz 1 set a 31 mai; o Thoroughly Travel diz meados de out a fim de mai. A proibição por reprodução (1 jun a 31 ago) está no item Los Islotes.",
+      "duracao": {
+        "min": 360,
+        "tipica": 480,
+        "max": 540
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1801,
+        "max": 2701,
+        "por": "pessoa",
+        "inclui": "Almoço e nado com lobos-marinhos; pulseira CONANP geralmente incluída (~150 MXN/dia, valor de uma só fonte). Convertido de US$100-150 a 18,0066 MXN/USD.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.thoroughlytravel.com/isla-espiritu-santo/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 612 197 5824 (Baja Bound, contato publicado no site; operadora de exemplo, autorização atual não verificada)",
+        "whatsapp": "",
+        "site": "https://www.bajabound.com/bajaadventures/isla_espiritu_santo.php",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só com operador autorizado e guia certificado pela CONANP",
+        "Pulseira CONANP obrigatória",
+        "Capacidade do arquipélago limitada a 40%",
+        "Nado com lobos-marinhos proibido de 1 jun a 31 ago (ver item Los Islotes)"
+      ],
+      "pontoPartida": "Marinas de La Paz ou píer do Malecón (GoLaPaz); 'Marina de La Paz, no centro' (Baja Bound).",
+      "dicasAgente": [
+        "VALE CADA PESO: é o passeio mais forte de La Paz e o principal motivo para escolher La Paz como base.",
+        "Dá para reduzir custo escolhendo grupo grande/lancha em vez de veleiro privado (US$600+).",
+        "Pergunte se a pulseira CONANP e o almoço estão incluídos antes de fechar.",
+        "Não combine Espíritu Santo (dia inteiro) com Balandra (turnos de 4 h) no mesmo dia."
+      ],
+      "alertas": [
+        "Duração típica (6-9 h) é ESTIMADA: fontes dizem 'dia inteiro'/'cerca de um dia'.",
+        "Valor da pulseira (150 MXN) vem de uma única fonte.",
+        "Janela de nado com lobos diverge entre fontes (1 set vs meados de out).",
+        "Horário de saída e lista oficial de operadoras da temporada não coletados."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/La_lobera_or_los_Islotes.JPG/1280px-La_lobera_or_los_Islotes.JPG",
+        "credito": "AlexisSalinas01",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_lobera_or_los_Islotes.JPG"
+      },
+      "fontes": [
+        "https://golapaz.com/en/explore/espiritu-santo-island",
+        "https://www.thoroughlytravel.com/isla-espiritu-santo/",
+        "https://www.bajabound.com/bajaadventures/isla_espiritu_santo.php",
+        "https://en.wikipedia.org/wiki/Esp%C3%ADritu_Santo_Island",
+        "https://zetatijuana.com/2024/07/por-periodo-de-apareamiento-restringen-nado-con-lobo-marino-en-espiritu-santo/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Los Islotes: nado com lobos-marinhos - janela e PROIBIÇÃO na época de reprodução",
+      "categoria": "experiencia",
+      "cidade": "la-paz",
+      "tags": [
+        "lobos-marinhos",
+        "los-islotes",
+        "la-lobera",
+        "restricao-sazonal",
+        "jun-ago",
+        "espiritu-santo"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Nado/snorkel/mergulho PROIBIDO de 1 jun a 31 ago (reprodução). Janela permitida: 1 set a 31 mai (GoLaPaz).",
+      "descricaoLonga": "A CONANP, junto com prefeitura e estado, restringe de 1 de junho a 31 de agosto o nado, snorkel e mergulho na área de La Lobera/Los Islotes (Isla Espíritu Santo), porque é a época de nascimentos, amamentação e acasalamento; machos territoriais ficam agressivos, o que gera risco para nadadores (Zeta Tijuana, jul/2024). O GoLaPaz informa nado com lobos de 1 de setembro a 31 de maio. Um blog (Thoroughly Travel, out/2026) escreve 'meados de outubro a fim de maio': trate como divergente e confirme com a operadora. Conclusão para o roteiro: viagem em junho-agosto = passeio a Espíritu Santo SEM nado com lobos; setembro a maio = nado permitido.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Faz parte do passeio a Espíritu Santo (ver item).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.thoroughlytravel.com/isla-espiritu-santo/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido nadar, mergulhar ou fazer snorkel em Los Islotes de 1 jun a 31 ago"
+      ],
+      "pontoPartida": "Saída de La Paz (ver Isla Espíritu Santo).",
+      "dicasAgente": [
+        "VALE CADA PESO de setembro a maio.",
+        "Se a viagem cair em jun-ago, confirme com a operadora o que substitui o nado com lobos e se o preço cai."
+      ],
+      "alertas": [
+        "Janela 'meados de outubro' (Thoroughly Travel) conflita com GoLaPaz (1 set).",
+        "Coordenada de Los Islotes não obtida de fonte aberta: 0,0."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://zetatijuana.com/2024/07/por-periodo-de-apareamiento-restringen-nado-con-lobo-marino-en-espiritu-santo/",
+        "https://golapaz.com/en/explore/espiritu-santo-island",
+        "https://www.thoroughlytravel.com/isla-espiritu-santo/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Temporada de furacões no Pacífico mexicano (risco para a viagem)",
+      "categoria": "experiencia",
+      "cidade": "la-paz",
+      "tags": [
+        "temporada",
+        "furacao",
+        "risco",
+        "mai-nov",
+        "baja",
+        "pacifico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Oficial: 15 mai a 30 nov; maioria das tempestades de fim de jun a início de out; pico no fim de agosto. Baja Sur (Odile, set/2014) é exposta; Puerto Vallarta raramente é atingida.",
+      "descricaoLonga": "O NHC define a temporada do Pacífico leste de 15 de maio a 30 de novembro; em média (1991-2020) 15 tempestades nomeadas, 8 furacões e 4 furacões maiores; a maior atividade fica entre fim de junho e início de outubro, com pico no fim de agosto, e a primeira tempestade nomeada costuma surgir em junho. Exemplo de risco real na Baja: o furacão Odile, categoria 3 ao tocar terra perto de Cabo San Lucas em 15 set/2014 (UTC), deixou ~26 mil turistas estrangeiros ilhados e US$1,82 bi em danos em BCS. Em Puerto Vallarta a temporada de chuvas vai de meados de junho a meados de outubro (mais chuva de julho a setembro, agosto é o mais úmido) e o Wikivoyage diz que furacões raramente atingem a cidade (última grande tempestade citada: 2002); a Wikipedia lembra o Patrícia (cat. 5, 2015) como o mais forte já medido no hemisfério ocidental. Hoje é 8 de outubro de 2026: ainda estamos dentro da temporada oficial, que vai até 30 de novembro. Janela de menor risco: dezembro a abril.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Voos e passeios marítimos podem ser cancelados sem aviso; portos fecham em alerta"
+      ],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Prefira dezembro a abril para Baja Sur e Pacífico central; setembro merece cuidado extra em Baja Sur pelo precedente Odile.",
+        "Se viajar de jun a nov: passagens/hotéis reembolsáveis e seguro viagem com cobertura de cancelamento por clima.",
+        "VALE CADA PESO: seguro viagem se a data cair de jun a out."
+      ],
+      "alertas": [
+        "A ideia 'setembro é o mais arriscado para Baja Sur' é inferência (caso Odile + pico de atividade), não estatística específica de BCS.",
+        "Não foi coletada previsão da temporada 2026."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.nhc.noaa.gov/climo/",
+        "https://en.wikipedia.org/wiki/Hurricane_Odile",
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Calor extremo no verão (La Paz e Baja Sur)",
+      "categoria": "experiencia",
+      "cidade": "la-paz",
+      "tags": [
+        "temporada",
+        "calor",
+        "jun-set",
+        "clima",
+        "baja"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "La Paz: máximas médias de 37,4 a 38,2 C de junho a setembro; recorde de 44,0 C em julho. Ventos 'coromuel' refrescam as noites.",
+      "descricaoLonga": "Segundo a Wikipedia (seção de clima), as máximas médias em La Paz ficam entre 37,4 e 38,2 C de junho a setembro e o recorde é 44,0 C em julho. A chuva concentra-se em agosto (45,5 mm) e setembro (81,4 mm); março a junho são os mais secos. Os ventos 'coromuel', típicos de La Paz, trazem alívio noturno no verão. Em Los Cabos a água do mar fica entre 77 e 84 F no verão (Wikipedia). Em Puerto Vallarta o verão é úmido, com chuvas de meados de junho a meados de outubro. Para ritmo intenso, jun-set exige passeios de manhã cedo e pausas ao meio-dia; e coincide com a proibição de nado com lobos (jun-ago) e com a temporada de furacões.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "No verão, concentrar atividades ao ar livre antes das 10:00 (sugestão do agente derivada das temperaturas).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Para ritmo intenso e praia, dezembro a março tende a ser mais ameno (inferência; temperaturas de inverno não coletadas).",
+        "Balandra tem 'basicamente nenhuma facilidade': leve água e sombra no verão."
+      ],
+      "alertas": [
+        "Temperaturas de inverno não foram coletadas; só verão em La Paz."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+        "https://en.wikipedia.org/wiki/Los_Cabos_Municipality",
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+        "https://thoroughlytravel.com/north-america/balandra-bay-mexico-most-beautiful-beach/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Playa Balandra",
+      "categoria": "praia",
+      "cidade": "la-paz",
+      "tags": [
+        "praia",
+        "la-paz",
+        "conanp",
+        "limite-diario",
+        "aguas-calmas",
+        "pulseira-digital",
+        "hongo-de-balandra"
+      ],
+      "coords": {
+        "lat": 24.3206944,
+        "lng": -110.3228665
+      },
+      "descricaoCurta": "Baía rasa e turquesa a ~27 km de La Paz, com limite de 450 pessoas por turno (8h-12h e 13h-17h) e pulseira CONANP de 120 MXN.",
+      "descricaoLonga": "Área de Proteção de Flora e Fauna regulada pela CONANP. Acesso por pulseira digital/QR válida por um dia, em dois turnos: 08:00-12:00 e 13:00-17:00, com 450 pessoas por turno (900/dia). O Posta (jul/2025) informa que no 2º turno só 100 pulseiras digitais são distribuídas, o restante depende de disponibilidade no local; sem reserva é possível esperar até ~3 h e ficar de fora. Ingresso: 120 MXN por pessoa por dia; crianças menores de 12, pessoas com deficiência e idosos têm gratuidade; há descontos para estudantes/residentes. Compra no portal 'Descubre las Áreas Naturales Protegidas de México' (descubreanp.conanp.gob.mx, escolher Baja California Sur), na entrada da área ou nos módulos oficiais da CONANP. Regras: sem veículos motorizados, sem animais, sem pesca, sem drones, sem música alta, levar o lixo, não escalar a formação 'Hongo de Balandra', pulseira visível o tempo todo. Estrutura: praticamente nenhuma (levar comida e água); estacionamento com ~80 vagas lota cedo. Chegada: 27 km (30 min) de La Paz; ônibus 'Playa Bus' (EcoBajaTours) a 70 MXN em dinheiro, saídas de hora em hora entre 08:00 e 18:30 do Terminal do Malecón e retornos a cada 2 h; táxi/Uber ~150 MXN por trecho. Atenção às arraias: arrastar os pés ao entrar na água.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "ter": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "qua": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "qui": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "sex": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "sab": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)",
+        "dom": "08:00-12:00 e 13:00-17:00 (dois turnos de 4 h; 450 pessoas por turno)"
+      },
+      "diasFechados": [
+        "Primeiro domingo de cada mês: só moradores (informação de uma única fonte)"
+      ],
+      "melhorHorario": "Chegar 30-60 min antes do turno; manhã (1º turno) tem mais pulseiras disponíveis.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 120,
+        "max": 120,
+        "por": "pessoa",
+        "inclui": "Pulseira digital CONANP de um dia. Transporte à parte (Playa Bus 70 MXN; táxi ~150 MXN por trecho).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.posta.com.mx/bcs/playa-balandra-2025-cuanto-cuesta-entrar-y-donde-pagar-la-entrada/vl2108485",
+          "https://www.luznoticias.mx/2025-01-16/mexico/en-esta-playa-de-bcs-solo-entraran-con-brazaletes-y-en-ciertos-horarios-cual-es/231571",
+          "https://thoroughlytravel.com/north-america/balandra-bay-mexico-most-beautiful-beach/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 1,
+        "esgotaRapido": true,
+        "link": "https://descubreanp.conanp.gob.mx"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://descubreanp.conanp.gob.mx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Pulseira digital obrigatória",
+        "Sem veículos motorizados, animais, pesca, drones",
+        "Não subir no Hongo de Balandra",
+        "Sem estrutura: levar água/comida"
+      ],
+      "pontoPartida": "Playa Bus do Terminal do Malecón (La Paz) ou carro/táxi (27 km).",
+      "dicasAgente": [
+        "VALE CADA PESO: melhor custo-benefício de praia da região (120 MXN + 70 MXN de ônibus).",
+        "Reserve online com antecedência em fins de semana/feriado/alta temporada; no 2º turno há só 100 pulseiras garantidas.",
+        "Com carro, combine com Tecolote (mesma região norte) no mesmo dia."
+      ],
+      "alertas": [
+        "O portal descubreanp.conanp.gob.mx não abriu na minha tentativa (conexão recusada); a URL veio de matérias que o citam.",
+        "Fechamento no 1º domingo do mês vem de uma fonte (Thoroughly Travel); as demais não citam dia de fechamento.",
+        "Descontos divergem entre fontes (estudantes 75% x 50%)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Playa_Balandra%2C_Baja_California_Sur_5.jpg/1280px-Playa_Balandra%2C_Baja_California_Sur_5.jpg",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Balandra,_Baja_California_Sur_5.jpg"
+      },
+      "fontes": [
+        "https://www.posta.com.mx/bcs/guia-para-visitar-balandra-sin-contratiempos-horarios-reservas-y-costos/vl2064539",
+        "https://www.posta.com.mx/bcs/playa-balandra-2025-cuanto-cuesta-entrar-y-donde-pagar-la-entrada/vl2108485",
+        "https://www.luznoticias.mx/2025-01-16/mexico/en-esta-playa-de-bcs-solo-entraran-con-brazaletes-y-en-ciertos-horarios-cual-es/231571",
+        "https://thoroughlytravel.com/north-america/balandra-bay-mexico-most-beautiful-beach/",
+        "https://www.openstreetmap.org/way/154141788"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Playa El Tecolote",
+      "categoria": "praia",
+      "cidade": "la-paz",
+      "tags": [
+        "praia",
+        "la-paz",
+        "norte-de-la-paz"
+      ],
+      "coords": {
+        "lat": 24.3364858,
+        "lng": -110.315271
+      },
+      "descricaoCurta": "Praia no extremo norte de La Paz, citada pelo Wikivoyage entre as mais populares (Pichilingue, Balandra, El Tecolote). Fica ~2 km ao norte de Balandra pelas coordenadas OSM.",
+      "descricaoLonga": "O Wikivoyage lista El Tecolote com Balandra e Pichilingue como praias populares de La Paz. Pelas coordenadas do OpenStreetMap, a praia fica ~2 km ao norte de Balandra (distância calculada das coordenadas, não medida em rota). Preço de acesso, horários, restaurantes e serviços NÃO foram confirmados em fonte aberta nesta coleta; também não foi confirmado se exige pulseira CONANP como Balandra.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Mesma região/estrada de Balandra (norte de La Paz).",
+      "dicasAgente": [
+        "VALE CADA PESO se tiver carro: junto com Balandra faz um dia de praia barato (custo do Tecolote não confirmado).",
+        "CORTE SE APERTAR: sem carro, priorize Balandra (ônibus Playa Bus documentado)."
+      ],
+      "alertas": [
+        "Quase tudo (preço, horário, estrutura, restrições) NÃO confirmado.",
+        "Classificado como 'estimado': só há menção em guia e coordenada OSM."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Playa_Tecolote_1.jpg/1280px-Playa_Tecolote_1.jpg",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Tecolote_1.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)",
+        "https://www.openstreetmap.org/node/9552538257",
+        "https://commons.wikimedia.org/wiki/File:Playa_Tecolote_1.jpg"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "El Arco e Playa del Amor (Cabo San Lucas) - táxi aquático",
+      "categoria": "passeio",
+      "cidade": "los-cabos",
+      "tags": [
+        "los-cabos",
+        "el-arco",
+        "playa-del-amor",
+        "lands-end",
+        "barco",
+        "icone"
+      ],
+      "coords": {
+        "lat": 22.8760239,
+        "lng": -109.8945633
+      },
+      "descricaoCurta": "Passeio de barco de ~40-45 min até El Arco e Lands End; faixas de 290 a 500 MXN por pessoa + taxa de doca. É o ícone de Cabo e o jeito mais barato de vê-lo.",
+      "descricaoLonga": "El Arco é a formação de rocha no 'Finisterra' de Cabo San Lucas. As opções documentadas (Posta): Cabo Best Tours a partir de 290 MXN (barco pequeno; Playa del Amor opcional com custo extra), Esperanzas Tours ~500 MXN por 40 min (com descontos de 20-30% em algumas épocas) e Tours Los Cabos 395 MXN por adulto (250 MXN para crianças de 4 a 9 anos), cerca de 45 min pela baía; há taxa de uso de doca à parte. O Traveltinker sugere táxi aquático ou panga até El Arco e Lands End (cerca de 1 h ida e volta) e reservar de manhã para fugir da multidão. SEGURANÇA: autoridades desaconselham caminhar pela praia sob El Arco por causa da maré e das ondas do Pacífico/Mar de Cortés; o Wikivoyage também alerta contra ficar perto da água em praias voltadas ao Pacífico. A coordenada é a do Arco (OSM); a Playa del Amor fica ao lado, mas seu ponto exato não foi obtido.",
+      "duracao": {
+        "min": 40,
+        "tipica": 45,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, para evitar multidão (Traveltinker).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 290,
+        "max": 500,
+        "por": "pessoa",
+        "inclui": "Passeio de barco até El Arco (40-45 min). Taxa de doca à parte (valor mencionado em busca: ~100 MXN, não confirmado em página aberta). Playa del Amor tem custo extra em alguns operadores.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Desaconselhado caminhar sob El Arco na praia (maré)"
+      ],
+      "pontoPartida": "Marina/área de táxis aquáticos de Cabo San Lucas.",
+      "dicasAgente": [
+        "VALE CADA PESO: é o 'cartão postal' de Los Cabos mais barato (290-500 MXN) e dura menos de 1 h.",
+        "Compare 3 barqueiros no píer e peça preço total com taxa de doca.",
+        "CORTE SE APERTAR: pacotes de catamarã com open bar tendem a custar bem mais (preços não coletados)."
+      ],
+      "alertas": [
+        "Preços são do Posta (data da matéria não identificada) e variam por operador/temporada.",
+        "Horário de funcionamento não coletado.",
+        "Duas matérias divergem na duração (40-45 min x 1 h ida e volta)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/El_Arco%2C_Cabo_San_Lucas%2C_Baja_California_Sur_%2816638939645%29.jpg/1280px-El_Arco%2C_Cabo_San_Lucas%2C_Baja_California_Sur_%2816638939645%29.jpg",
+        "credito": "Comisión Mexicana de Filmaciones from México D. F., México",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Arco,_Cabo_San_Lucas,_Baja_California_Sur_(16638939645).jpg"
+      },
+      "fontes": [
+        "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157",
+        "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+        "https://en.wikivoyage.org/wiki/Los_Cabos",
+        "https://www.openstreetmap.org/node/1692148991"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Chileno (corredor turístico de Los Cabos)",
+      "categoria": "praia",
+      "cidade": "los-cabos",
+      "tags": [
+        "praia",
+        "los-cabos",
+        "corredor",
+        "snorkel",
+        "bandeira-azul"
+      ],
+      "coords": {
+        "lat": 22.9498354,
+        "lng": -109.8070831
+      },
+      "descricaoCurta": "Praia do corredor Cabo San Lucas - San José del Cabo, citada pelo Wikivoyage como 'Blue Flag' (qualidade da água).",
+      "descricaoLonga": "O Wikivoyage de San José del Cabo cita El Chileno entre as praias próximas com certificação Blue Flag de qualidade da água. Coordenada do OpenStreetMap (Playa Chileno, Chileno Bay). NÃO foram confirmados em fonte aberta: acesso público/estacionamento, horário, taxa, estrutura, qualidade de snorkel e se o ponto de acesso é gratuito.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Corredor turístico (rodovia entre Cabo San Lucas e San José del Cabo, ~33 km / ~40 min entre as duas cidades).",
+      "dicasAgente": [
+        "VALE CADA PESO se tiver carro: praia de corredor sem custo de ingresso confirmado seria alternativa gratuita ao passeio de barco (acesso/custo NÃO confirmados).",
+        "Leve água e comida: não há informação de preço/estrutura."
+      ],
+      "alertas": [
+        "Acesso, preço, horário e serviços NÃO confirmados.",
+        "Selo Blue Flag citado por fonte colaborativa (Wikivoyage); validade atual não verificada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo",
+        "https://www.openstreetmap.org/way/76738165",
+        "https://en.wikivoyage.org/wiki/Los_Cabos"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Santa María (corredor turístico de Los Cabos)",
+      "categoria": "praia",
+      "cidade": "los-cabos",
+      "tags": [
+        "praia",
+        "los-cabos",
+        "corredor",
+        "snorkel"
+      ],
+      "coords": {
+        "lat": 22.9297275,
+        "lng": -109.8162386
+      },
+      "descricaoCurta": "Baía do corredor de Los Cabos, ~2 km ao sul de Chileno pelas coordenadas OSM. Dados práticos NÃO confirmados nesta coleta.",
+      "descricaoLonga": "Existe como 'Playa Santa María' no OpenStreetMap, próxima à rodovia Cabo San Lucas - La Paz/corredor, e há foto livre no Wikimedia Commons. Nenhuma página aberta nesta coleta descreve acesso, taxa, horário, estrutura ou qualidade de snorkel. Registro mantido por ser pedido no escopo, com confiança baixa.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Corredor turístico de Los Cabos.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: sem dados confirmados de acesso/custo, não monte o roteiro em torno desta praia; use Chileno/Medano/El Arco como referência."
+      ],
+      "alertas": [
+        "Quase tudo NÃO confirmado (acesso, preço, horário, estrutura).",
+        "Confiança 'estimado'."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Playa_Santa_Maria%2C_Baja_California_%28432544031%29.jpg/1280px-Playa_Santa_Maria%2C_Baja_California_%28432544031%29.jpg",
+        "credito": "Fulvio Spada from Torino, Italy",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg"
+      },
+      "fontes": [
+        "https://www.openstreetmap.org/way/75500039",
+        "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Los Cabos com orçamento apertado: a verdade sobre preços e o que dá para fazer",
+      "categoria": "experiencia",
+      "cidade": "los-cabos",
+      "tags": [
+        "los-cabos",
+        "orcamento",
+        "economia",
+        "onibus",
+        "dicas"
+      ],
+      "coords": {
+        "lat": 22.8947,
+        "lng": -109.9153
+      },
+      "descricaoCurta": "Los Cabos é o destino mais caro da região. Para o perfil econômico: base em La Paz, 1-2 dias em Los Cabos, passeios curtos e eventos gratuitos.",
+      "descricaoLonga": "Honestamente: Los Cabos é um polo de resorts (cerca de 2 milhões de visitantes por ano, mais de 1 milhão dos EUA; corredor de 32 km com campos de golfe de Nicklaus e Dye) e os preços acompanham. Comparativos dos próprios guias: hospedagem econômica listada em San José del Cabo a 1.400 MXN (Señor Mañana, Wikivoyage, sem data) contra pensões de 400-600 MXN em La Paz (Wikivoyage La Paz, sem data, provavelmente defasado); passeio de baleia em Cabo a partir de ~1.603 MXN; Cabo Pulmo a partir de 4.400 MXN; barco até El Arco 290-500 MXN. O que cabe no bolso: (1) ônibus Ruta del Desierto do aeroporto por ~80 MXN (Wikivoyage); (2) comida de rua e restaurantes econômicos no centro (tacos e frutos do mar; Las Guacamayas e El Toro Güero citados em San José); (3) Art Walk de San José às quintas (grátis); (4) táxi aquático até El Arco; (5) Playa Medano como praia pública de convivência na baía (citada no Wikivoyage). Estratégia sugerida: dormir em La Paz (ou Todos Santos), fazer Los Cabos em bate-volta de 1-2 dias de carro (La Paz-Cabo San Lucas ~2 h de ônibus Águila) e evitar noite em Cabo San Lucas.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: passeios de resort, jantares de marina, Cabo Pulmo (4.400+ MXN) e festas em Cabo San Lucas.",
+        "VALE CADA PESO: El Arco de barco (290-500 MXN) + Art Walk de San José (grátis, quintas nov-jun) + comer em San José.",
+        "Pergunte preço total (com taxas) antes de entrar em qualquer barco ou bar."
+      ],
+      "alertas": [
+        "Preços de hospedagem do Wikivoyage não têm data e podem estar defasados.",
+        "Preços de bebidas e jantares em Cabo San Lucas NÃO foram coletados.",
+        "Tarifa do ônibus La Paz-Cabo não coletada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Los_Cabos_Municipality",
+        "https://en.wikivoyage.org/wiki/Los_Cabos",
+        "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo",
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)",
+        "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157",
+        "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269",
+        "https://www.boundlessroads.com/baja-california-whale-watching/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "San José del Cabo Art Walk (quintas à noite)",
+      "categoria": "atracao",
+      "cidade": "los-cabos",
+      "tags": [
+        "san-jose-del-cabo",
+        "art-walk",
+        "galerias",
+        "gratis",
+        "quinta-feira",
+        "nov-jun"
+      ],
+      "coords": {
+        "lat": 23.0621198,
+        "lng": -109.694762
+      },
+      "descricaoCurta": "Toda quinta, 17h-21h, de novembro a junho: galerias abertas, música e ruas fechadas ao trânsito no distrito de arte. Gratuito.",
+      "descricaoLonga": "Evento gratuito desde 2006: toda quinta-feira à noite, das 17:00 às 21:00, de novembro a junho, no distrito de galerias do centro histórico de San José del Cabo (Calle Álvaro Obregón, em torno da Plaza Mijares). As fontes divergem no trecho exato da rua fechada: Mexico News Daily cita Obregón entre Hidalgo e Guerrero; Cabo Adventures, entre Hidalgo e Zaragoza (10 min a pé). Barreiras de trânsito entram às 16:30. Dicas do guia: começar pelo extremo de Hidalgo, calçado confortável (paralelepípedo), levar pesos para músicos e vendedores, jantar antes das 18h para fugir da multidão. Bares/restaurantes próximos citados: La Lupita Taco & Mezcal, Jazmín's, Mi Cocina (Casa Natalia), La Dolce (rooftop) e a cantina Tropicana's. Fora de novembro-junho não há Art Walk.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "17:00-21:00 (só às quintas, nov a jun; ruas fechadas desde ~16:30)",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [
+        "Todos os dias exceto quinta",
+        "Julho a outubro (fora da temporada)"
+      ],
+      "melhorHorario": "Chegar ~17:00 e jantar antes das 18:00 (Cabo Adventures).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita; custos só de comida/bebida/arte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://mexiconewsdaily.com/travel/san-jose-art-walk-continues-to-attract-los-cabos-visitors/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Plaza Mijares / Calle Álvaro Obregón, centro histórico de San José del Cabo.",
+      "dicasAgente": [
+        "VALE CADA PESO: programa grátis, bom para casal e para jantar barato em San José.",
+        "Funciona só em nov-jun; confirme se a data da viagem cai numa quinta."
+      ],
+      "alertas": [
+        "Segmento exato de ruas fechadas diverge entre fontes.",
+        "Preços de comida/bebida não coletados."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://mexiconewsdaily.com/travel/san-jose-art-walk-continues-to-attract-los-cabos-visitors/",
+        "https://www.cabo-adventures.com/en/blog/san-jose-del-cabo-art-walk",
+        "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo",
+        "https://www.openstreetmap.org/way/156979177"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Vida noturna em Cabo San Lucas (Cabo Wabo, El Squid Roe, The Office)",
+      "categoria": "bar",
+      "cidade": "los-cabos",
+      "tags": [
+        "vida-noturna",
+        "cabo-san-lucas",
+        "cabo-wabo",
+        "festa",
+        "caro"
+      ],
+      "coords": {
+        "lat": 22.8836946,
+        "lng": -109.913066
+      },
+      "descricaoCurta": "Cena de festa mais famosa (e mais cara) da Baja Sur. Wikivoyage cita Cabo Wabo, El Squid Roe e The Office (Medano). Preços NÃO coletados.",
+      "descricaoLonga": "Segundo o Wikivoyage, destacam-se o Cabo Wabo Cantina (de Sammy Hagar), El Squid Roe ('o melhor bar da cidade') e The Office, na Playa Medano, com 'ambiente mais adulto'. Dicas de segurança do mesmo guia: evitar becos à noite e cuidar de batedores de carteira nas áreas de balada. Nesta pesquisa NÃO foram coletados couvert, preço de bebida, horários, dress code nem políticas de entrada; trate como caro, de acordo com o perfil do destino. A coordenada é a do Cabo Wabo Cantina (OSM).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Horários não coletados.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Cabo San Lucas / Playa Medano.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: festa em Cabo San Lucas é o item que mais tende a estourar o orçamento econômico.",
+        "Se fizer: pré-balada em San José/La Paz, uma noite só, e combine volta (Uber/táxi) antes de sair."
+      ],
+      "alertas": [
+        "Sem preços, sem horários, sem fonte oficial: confiança baixa para tudo além dos nomes e dicas de segurança.",
+        "Guia colaborativo (Wikivoyage), sem data."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Los_Cabos",
+        "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+        "https://www.openstreetmap.org/relation/13814307"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Cabo Pulmo - parque nacional (mergulho e snorkel)",
+      "categoria": "natureza",
+      "cidade": "los-cabos",
+      "tags": [
+        "cabo-pulmo",
+        "mergulho",
+        "snorkel",
+        "parque-nacional",
+        "unesco",
+        "recife"
+      ],
+      "coords": {
+        "lat": 23.43361111,
+        "lng": -109.42444444
+      },
+      "descricaoCurta": "Recife de ~20 mil anos, repovoamento de 463% (1999-2009). Snorkel guiado ~4.400 MXN (Adventures in Baja) a US$275 (≈4.950 MXN); 2 tanques US$295 (≈5.310 MXN).",
+      "descricaoLonga": "Parque nacional no Cabo Leste (Wikipedia: decreto federal em 5 jun 1995; Mexico News Daily: parque nacional em 2000), Patrimônio Mundial da UNESCO em 2005 e sítio Ramsar em 2008; ~71 km² geridos pela CONANP. O recife tem cerca de 20.000 anos e é descrito como o mais antigo dos três sistemas de recife da costa do Pacífico norte-americano e o recife de coral mais ao norte do Pacífico leste; após a proibição de pesca, a biomassa subiu 463% entre 1999 e 2009 (outra fonte: 462% até 2010). Há 20 operadoras credenciadas; mergulho exige certificação e guia; grupos de no máximo 6 mergulhadores; cotas diárias/mensais de mergulhadores são avaliadas continuamente. Snorkel: Adventures in Baja, tour compartilhado a 4.400 MXN por pessoa (sinal de 2.200), privado para até 8 por 24.000 MXN, inclui traslado de Cabo (2-2,5 h por trecho), equipamento completo, guia/capitão, taxa do parque, água/lanche e almoço na vila. Dive Cabo: US$275 por pessoa (≈4.952 MXN), saídas às terças, quintas e sábados, 05:20 às 17:00 (11,5 h), mínimo de 3 pessoas, sinal de US$100. Cabo Adventures: 8 h, snorkel, almoço, mínimo de 10 anos, taxa de US$10 por pessoa cobrada à parte. Mergulho com 2 tanques: US$295 por pessoa (≈5.312 MXN), mínimo 2 mergulhadores, com transporte e almoço (Mexico News Daily). A taxa do parque varia por fonte: 'menos de US$4' (MND) a US$10 (Cabo Adventures); a maioria dos tours já inclui.",
+      "duracao": {
+        "min": 480,
+        "tipica": 690,
+        "max": 690
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "05:20-17:00 (Dive Cabo, saída de Cabo San Lucas)",
+        "qua": "",
+        "qui": "05:20-17:00 (Dive Cabo, saída de Cabo San Lucas)",
+        "sex": "",
+        "sab": "05:20-17:00 (Dive Cabo, saída de Cabo San Lucas)",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída cedo (05:20 no Dive Cabo) por causa dos 2-2,5 h de estrada.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 4400,
+        "max": 5312,
+        "por": "pessoa",
+        "inclui": "Snorkel compartilhado 4.400 MXN (Adventures in Baja); Dive Cabo US$275 ≈4.952 MXN; mergulho 2 tanques US$295 ≈5.312 MXN (conversão a 18,0066 MXN/USD). Inclui traslado de Cabo, equipamento, taxa do parque (maioria), almoço.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269",
+          "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/",
+          "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 2,
+        "esgotaRapido": false,
+        "link": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mergulho exige certificação e guia",
+        "Máx. 6 mergulhadores por grupo",
+        "Colete salva-vidas obrigatório (Adventures in Baja)",
+        "Cabo Adventures: idade mín. 10 anos e peso máx. 114 kg; grávidas e pessoas com problema de coluna não podem"
+      ],
+      "pontoPartida": "Hotéis de Cabo San Lucas/corredor (traslado incluído); Dive Cabo: Hotel Tesoro, Local D1, Blvd. Marina, Centro, Cabo San Lucas.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é um dos passeios mais caros da região (4.400+ MXN/pessoa saindo de Cabo). Com carro alugado e snorkel por conta própria o custo cairia, mas a exigência de guia/credenciada NÃO foi confirmada para snorkel de praia.",
+        "VALE CADA PESO somente se mergulho/snorkel for prioridade do casal: é um caso de recuperação documentada (biomassa +463% em 1999-2009), citado como o recife de coral mais ao norte do Pacífico leste.",
+        "NÃO VOAR depois de mergulhar com cilindro: ver item DAN. Se mergulhar, deixe 18 h antes do voo."
+      ],
+      "alertas": [
+        "Quatro fontes divergem em ano de criação do parque, taxa de entrada e % de aumento de biomassa.",
+        "Parques/UNESCO: o status 'World Heritage in Danger' mencionado na Wikipedia (2019) refere-se ao conjunto Gulf of California, por causa da vaquita.",
+        "Temporada ideal/visibilidade por mês NÃO coletada.",
+        "Preço em USD convertido; câmbio varia."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Pez_%C3%A1ngel_real_%28Holacanthus_passer%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_25.jpg/1280px-Pez_%C3%A1ngel_real_%28Holacanthus_passer%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_25.jpg",
+        "credito": "Diego Delso",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_real_(Holacanthus_passer),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_25.jpg"
+      },
+      "fontes": [
+        "https://www.cabo-adventures.com/tour/cabo-pulmo-snorkel-expedition",
+        "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/",
+        "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269",
+        "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/",
+        "https://en.wikipedia.org/wiki/Cabo_Pulmo_National_Park",
+        "https://open.er-api.com/v6/latest/USD"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Alerta: NÃO voar depois de mergulhar (intervalos DAN)",
+      "categoria": "experiencia",
+      "cidade": "los-cabos",
+      "tags": [
+        "seguranca",
+        "mergulho",
+        "dan",
+        "voo",
+        "descompressao"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Mínimo de 12 h após um mergulho sem descompressão; mínimo de 18 h após vários mergulhos/vários dias; bem mais que 18 h após mergulho com descompressão.",
+      "descricaoLonga": "Segundo o DAN (Divers Alert Network), após um único mergulho sem descompressão o intervalo mínimo de superfície antes de voar é de 12 horas; para mergulhos repetitivos ou vários dias seguidos, 18 horas; após mergulhos com descompressão obrigatória ou mistura de gases, 'substancialmente mais de 18 horas'. O próprio DAN ressalva que os testes foram em câmara seca com voluntários em repouso: para mergulhadores imersos e se exercitando, pode ser necessário esperar mais; não há garantia de evitar a doença descompressiva. Aplicação ao roteiro: se fizer mergulho com cilindro em Cabo Pulmo ou Espíritu Santo, programe o último mergulho para pelo menos 18 h antes do voo de volta (por exemplo, não mergulhar no último dia). Snorkel/respiração em apneia não foi tratado na fonte consultada.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Aguardar 12 h (1 mergulho) ou 18 h (vários mergulhos/dias) antes de voar"
+      ],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: reservar o mergulho para o penúltimo dia custa nada e evita risco de saúde.",
+        "Pergunte à operadora de mergulho qual intervalo ela adota antes de voos."
+      ],
+      "alertas": [
+        "Orientação genérica de saúde; não substitui médico/instrutor. Vale para mergulho com cilindro, não confirmado para snorkel."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://dan.org/health-medicine/health-resource/health-safety-guidelines/guidelines-for-flying-after-diving/"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Todos Santos - pueblo mágico, galerias e festivais",
+      "categoria": "atracao",
+      "cidade": "todos-santos",
+      "tags": [
+        "todos-santos",
+        "pueblo-magico",
+        "galerias",
+        "arte",
+        "surf",
+        "a-1h-de-la-paz"
+      ],
+      "coords": {
+        "lat": 23.44861111,
+        "lng": -110.22333333
+      },
+      "descricaoCurta": "Cidade de ~7.200 habitantes a 74 km (~1 h) de La Paz, com galerias na região da Calle Centenario, festivais em nov e jan e praias de surf no Pacífico.",
+      "descricaoLonga": "Todos Santos fica no Pacífico, cerca de 1 h de La Paz (74 km pela Hwy 19) e 1 h 15 de Cabo San Lucas (75 km). Tem 7.185 habitantes (censo 2020), missão fundada em 1723 e passado açucareiro (último engenho fechado em 1965); a cidade renasceu quando a nascente voltou em 1981 e a rodovia foi asfaltada nos anos 80. O Wikivoyage lista o status de Pueblo Mágico, o Todos Santos Film Festival (todo novembro, há mais de 20 anos) e o Tropic of Cancer Music Festival (janeiro). Restaurantes citados: Oystera, Café Todos Santos (italiano, 'um dos melhores e mais caros', cerca de M$200), Taller 17; faixa de pratos M$200-300. Traveltinker sugere caminhar pelo distrito de galerias em torno da Calle Centenario ('uma hora some fácil'). Há pressão sobre água e energia (apagões frequentes), segundo a Wikipedia. Preços de entrada em galerias, horários e ônibus La Paz-Todos Santos NÃO foram coletados.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dia inteiro com praia de Cerritos no fim da tarde (sugestão do agente).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Todos Santos.",
+      "dicasAgente": [
+        "VALE CADA PESO: bate-volta de La Paz (1 h) barato e charmoso; combine com Cerritos e jantar.",
+        "CORTE SE APERTAR: restaurantes de destaque (M$200-300 por prato) elevam o dia; almoce em lugares simples.",
+        "Verifique o calendário: Film Festival em novembro e música em janeiro mudam lotação e preços de hospedagem."
+      ],
+      "alertas": [
+        "Datas exatas dos festivais NÃO coletadas.",
+        "Ônibus/frete La Paz-Todos Santos não coletado; carro é a opção documentada (ver aluguel).",
+        "Wikivoyage de Todos Santos é um esboço ('outline')."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Todos_Santos_Teatro.jpg/1280px-Todos_Santos_Teatro.jpg",
+        "credito": "Fisches Nachtgesang",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Todos_Santos_Teatro.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur",
+        "https://en.wikivoyage.org/wiki/Todos_Santos",
+        "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+        "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Hotel California (Todos Santos): o mito x os fatos",
+      "categoria": "atracao",
+      "cidade": "todos-santos",
+      "tags": [
+        "todos-santos",
+        "hotel-california",
+        "eagles",
+        "mito",
+        "bar",
+        "patio"
+      ],
+      "coords": {
+        "lat": 23.4489162,
+        "lng": -110.2256844
+      },
+      "descricaoCurta": "Hotel real, aberto em 1950, antes da música dos Eagles (1976). A banda NEGOU na justiça qualquer ligação; processo de 2017 terminou em acordo em 2018.",
+      "descricaoLonga": "FATOS: o hotel de Todos Santos abriu em 1950 com o nome 'Hotel California', bem antes da canção de 1976. Quando os canadenses John e Debbie Stewart assumiram, em 2001, passaram a usar o nome da música para marketing e souvenirs, segundo a cobertura do caso. Em 2017 os Eagles processaram os donos alegando que o hotel induzia clientes a acreditar que tinha relação com a banda, o que 'não é o caso', e que o hotel teria inspirado a letra, 'o que é falso'. O caso foi resolvido por acordo em 2018: o hotel manteve o nome e abandonou o pedido de registro de marca nos EUA (Wikipedia). VEREDITO: o hotel existe e o nome é real; a ligação com os Eagles/inspiração da música é MITO desmentido pela própria banda em juízo. O pátio é bom para um drinque (Traveltinker). Preços de bar, quarto e horários NÃO foram coletados.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle Benito Juárez, centro de Todos Santos (endereço pelo OpenStreetMap).",
+      "dicasAgente": [
+        "VALE CADA PESO: uma parada de 1 drinque no pátio, sem esperar nada de 'autêntico Eagles'.",
+        "CORTE SE APERTAR: souvenirs com a marca da música (a própria disputa judicial girou em torno disso)."
+      ],
+      "alertas": [
+        "Preços e horários NÃO coletados.",
+        "Billboard/Hollywood Reporter redirecionaram para páginas de terceiros e não foram abertos; os fatos do processo vêm de RouteNote e Wikipedia.",
+        "A frase do site do hotel ('unequivocally false' sobre propriedade dos Eagles) apareceu só em resumo de busca, não foi verificada em página aberta."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hotel_California_en_pueblo_m%C3%A1gico_Todos_Santos%2C_La_Paz%2C_Baja_California_Sur.jpg/1280px-Hotel_California_en_pueblo_m%C3%A1gico_Todos_Santos%2C_La_Paz%2C_Baja_California_Sur.jpg",
+        "credito": "Legion007k",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Hotel_California_en_pueblo_m%C3%A1gico_Todos_Santos,_La_Paz,_Baja_California_Sur.jpg"
+      },
+      "fontes": [
+        "https://routenote.com/blog/eagles-sueing-hotel-california-stealing-name-song/",
+        "https://en.wikipedia.org/wiki/Todos_Santos,_Baja_California_Sur",
+        "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+        "https://www.openstreetmap.org/node/2799963580"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Playa Los Cerritos (surfe, Todos Santos/El Pescadero)",
+      "categoria": "praia",
+      "cidade": "todos-santos",
+      "tags": [
+        "praia",
+        "surfe",
+        "pacifico",
+        "cerritos",
+        "aula-iniciante"
+      ],
+      "coords": {
+        "lat": 23.3296433,
+        "lng": -110.1761676
+      },
+      "descricaoCurta": "Praia de surfe no Pacífico a ~14 km em linha reta ao sul de Todos Santos; aula de iniciante de ~45 min e bares de praia (Traveltinker). Cuidado com a correnteza.",
+      "descricaoLonga": "O Traveltinker recomenda parar em Playa Los Cerritos para nadar ou fazer uma aula de surfe para iniciantes (cerca de 45 min), com clima descontraído e alguns bares de praia. O mesmo guia alerta que o lado do Pacífico da Baja tem 'correnteza de verdade' (undertow) e que não é água calma como no Mar de Cortés: respeitar bandeiras e não entrar além da profundidade. Dinheiro em pesos é recomendado em surf breaks e barracas. A distância de ~14 km em linha reta de Todos Santos foi calculada a partir das coordenadas OSM (rótulo OSM: El Pescadero). Preços de aula, aluguel de prancha e melhor época de surfe NÃO foram coletados.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Correnteza forte: respeitar bandeiras"
+      ],
+      "pontoPartida": "Estrada ao sul de Todos Santos (Hwy 19), acesso por El Pescadero (rótulo OSM).",
+      "dicasAgente": [
+        "VALE CADA PESO: aula curta de iniciante + pôr do sol; o preço não foi coletado, peça valor fechado.",
+        "Leve pesos em espécie."
+      ],
+      "alertas": [
+        "Preços, horários e estrutura NÃO coletados.",
+        "Época das ondas NÃO coletada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+        "https://www.openstreetmap.org/node/6981426895"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Loreto e Parque Nacional Bahía de Loreto (baleia-azul e ilhas)",
+      "categoria": "natureza",
+      "cidade": "loreto",
+      "tags": [
+        "loreto",
+        "parque-nacional",
+        "baleia-azul",
+        "ilhas",
+        "unesco",
+        "fev-abr"
+      ],
+      "coords": {
+        "lat": 25.8642,
+        "lng": -111.1217
+      },
+      "descricaoCurta": "Parque criado em 1996 (206.581 ha), UNESCO em 2005; baleia-azul de meados de fev a início de abr. A Wikipedia dá ~126 milhas (≈203 km) ao norte de La Paz (tempo por estrada não coletado): só para quem tem dias sobrando.",
+      "descricaoLonga": "O Parque Nacional Bahía de Loreto foi criado por decreto em 19 de julho de 1996, tem 206.581 hectares (88% marinhos), Ramsar em 2004 e UNESCO em 2005; as ilhas principais são Coronado, Carmen, Danzante, Monserrate e Santa Catalina. O Wikivoyage o descreve como talvez a área mais rica do mundo em diversidade de baleias e golfinhos. A janela de baleia-azul em Loreto é meados de fevereiro a início de abril (guia 2026-27). Voos: o aeroporto de Loreto (LTO) tem Alaska, American, WestJet e Volaris; do aeroporto só táxi, sem transporte público. Hospedagem: de ~US$45-50 em moteis econômicos (≈810-900 MXN a 18,0066 MXN/USD) até ~M$7.000 em resorts. Taxa do parque, preços de passeios e distância por estrada exata NÃO foram coletados (a Wikipedia cita o parque a ~126 milhas ao norte de La Paz, sem dizer se é linha reta ou estrada).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços de passeios e taxa do parque não coletados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Baleia-azul só ~meados de fev a início de abr"
+      ],
+      "pontoPartida": "Marina/cais de Loreto (não confirmado em fonte).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: Loreto fica a centenas de km de La Paz (~126 milhas segundo a Wikipedia; tempo de estrada não coletado); só entra se houver 2+ dias livres e interesse em baleia-azul (fev-abr).",
+        "VALE CADA PESO apenas em fev-março-início de abril, quando a janela de baleia-azul coincide."
+      ],
+      "alertas": [
+        "Coordenada = centro do parque (Wikipedia), não da cidade.",
+        "Taxa do parque e preços de tours NÃO coletados.",
+        "Distância de La Paz vem do texto da Wikipedia (milhas, em linha reta/estrada não especificado)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Bah%C3%ADa_de_Loreto_National_Park",
+        "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)",
+        "https://www.boundlessroads.com/baja-california-whale-watching/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Los Muertos e o píer (Zona Romántica, Puerto Vallarta)",
+      "categoria": "praia",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "praia",
+        "puerto-vallarta",
+        "zona-romantica",
+        "pier",
+        "lgbtq",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 20.5979493,
+        "lng": -105.2394664
+      },
+      "descricaoCurta": "A praia principal do centro antigo de Puerto Vallarta, ao sul do Rio Cuale; ponto de encontro diverso, incluindo o público LGBTQ+.",
+      "descricaoLonga": "Segundo a Wikipedia, Playa de los Muertos é a praia principal da cidade velha e atrai públicos variados, incluindo turistas LGBTQ+; fica junto à Zona Romántica, onde se concentram restaurantes e vida noturna. O Wikivoyage cita ônibus urbano a M$10 (janeiro de 2026) e Uber disponível. A praia e o píer existem (há foto livre no Wikimedia Commons do 'Muelle de la Playa de los Muertos'), mas preços de espreguiçadeira/sombra, horários de bares de praia e qualidade de snorkel NÃO foram coletados. A água pode ser menos transparente que a de Balandra: não verificado em fonte.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde para o pôr do sol no píer (sugestão do agente).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Zona Romántica, sul do Rio Cuale.",
+      "dicasAgente": [
+        "VALE CADA PESO: praia urbana grátis com bares e comida a pé do hostel/hotel; ônibus a M$10.",
+        "CORTE SE APERTAR: espreguiçadeira com consumação mínima (política não coletada); sente na areia."
+      ],
+      "alertas": [
+        "Serviços, preços e horários NÃO coletados."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Muelle_de_la_Playa_de_los_Muertos_al_atardecer%2C_Puerto_Vallarta.jpg/1280px-Muelle_de_la_Playa_de_los_Muertos_al_atardecer%2C_Puerto_Vallarta.jpg",
+        "credito": "Renata Cabrera Rosas",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Muelle_de_la_Playa_de_los_Muertos_al_atardecer,_Puerto_Vallarta.jpg"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+        "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta",
+        "https://www.openstreetmap.org/way/245255133",
+        "https://commons.wikimedia.org/wiki/File:Muelle_de_la_Playa_de_los_Muertos_al_atardecer,_Puerto_Vallarta.jpg"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Playa Conchas Chinas (Puerto Vallarta)",
+      "categoria": "praia",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "praia",
+        "puerto-vallarta",
+        "sul",
+        "mais-tranquila"
+      ],
+      "coords": {
+        "lat": 20.5919509,
+        "lng": -105.2439809
+      },
+      "descricaoCurta": "Praia ao sul de Los Muertos (cerca de 0,7 km pelas coordenadas OSM). Dados práticos NÃO confirmados.",
+      "descricaoLonga": "O Wikipedia de Puerto Vallarta diz que existem opções mais tranquilas ao sul de Los Muertos; Conchas Chinas existe no OpenStreetMap a ~0,7 km ao sul-sudoeste de Los Muertos (distância calculada das coordenadas). Nenhuma página aberta nesta coleta traz acesso, preço, snorkel ou maré; o item fica como lembrete do escopo, com confiança baixa.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Sul de Los Muertos/Zona Romántica.",
+      "dicasAgente": [
+        "CORTE SE APERTAR: não monte dia em torno desta praia sem checar acesso/maré no local."
+      ],
+      "alertas": [
+        "Quase tudo NÃO confirmado.",
+        "Confiança 'estimado'."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+        "https://www.openstreetmap.org/way/1320783349"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Malecón de Puerto Vallarta",
+      "categoria": "atracao",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "malecon",
+        "puerto-vallarta",
+        "esculturas",
+        "gratis",
+        "passeio",
+        "por-do-sol"
+      ],
+      "coords": {
+        "lat": 20.6103646,
+        "lng": -105.2351071
+      },
+      "descricaoCurta": "Calçadão à beira-mar com esculturas, restaurantes, lojinhas e artesanato; o 'paseo' de domingo à noite é especialmente popular.",
+      "descricaoLonga": "O Wikivoyage descreve o Malecón como passeio à beira-mar com restaurantes, lojas de souvenir, vendedores de artesanato e esculturas; a Wikipedia diz que o calçadão é especialmente popular no 'paseo' de domingo à noite. Gratuito. Para compras: é aqui que turistas encontram artesanato (ver item Huichol), mas qualidade e autenticidade variam. Horários de bares/restaurantes e preços NÃO foram coletados.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Pôr do sol e domingo à noite (paseo).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro de Puerto Vallarta, ao longo da orla.",
+      "dicasAgente": [
+        "VALE CADA PESO: programa grátis, ideal para a primeira noite.",
+        "Para artesanato, evite comprar no primeiro puesto: compare e leia o item de artesanato Huichol."
+      ],
+      "alertas": [
+        "Preços, horários e dados de segurança NÃO coletados."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Malec%C3%B3n%2C_Puerto_Vallarta%2C_February_2023.jpg/1280px-Malec%C3%B3n%2C_Puerto_Vallarta%2C_February_2023.jpg",
+        "credito": "Another Believer",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n,_Puerto_Vallarta,_February_2023.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+        "https://www.openstreetmap.org/way/24847357"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Zona Romántica: vida noturna e o principal bairro LGBTQ+ do México",
+      "categoria": "bar",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "zona-romantica",
+        "lgbtq",
+        "vida-noturna",
+        "puerto-vallarta",
+        "pride",
+        "drag"
+      ],
+      "coords": {
+        "lat": 20.603748,
+        "lng": -105.235608
+      },
+      "descricaoCurta": "Centro da cena LGBTQ+ de Puerto Vallarta (CNN: 'top LGBT destination' do México). ~30 bares e casas ao mesmo tempo; Vallarta Pride em maio.",
+      "descricaoLonga": "INFORMAÇÃO ÚTIL: a Zona Romántica é o epicentro da cena LGBTQ+ de Puerto Vallarta. A Wikipedia reproduz que a CNN chamou PV de 'top LGBT destination' do México, com uma das melhores semanas de Pride do mundo, e que o The Independent a chamou de 'capital gay do México'. Existem cerca de 30 bares e casas noturnas ao mesmo tempo, citando Bar Frida, CC Slaughters, Paco's Ranch e La Noche; shows de drag em Palm Cabaret and Bar e Act II. O Vallarta Pride acontece em meados/fim de maio; houve ~17 mil participantes em 2017. A Playa Los Muertos, ao lado, é o ponto de encontro de dia. A primeira casa importante, Club Paco Paco, abriu em 1989. Para o casal brasileiro, vale como o bairro de vida noturna mais forte da região: bares, restaurantes e clubes concentrados a pé. Preços (couvert, drinks), horários e a política de entrada de cada casa NÃO foram coletados.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite; Pride em maio concentra eventos (datas exatas de 2027 não coletadas).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Zona Romántica, ao sul do Rio Cuale e junto a Playa Los Muertos.",
+      "dicasAgente": [
+        "VALE CADA PESO: é o melhor 'custo de noite' da região para quem curte balada concentrada e a pé.",
+        "Reservar hospedagem aqui permite ir e voltar a pé do bairro das baladas (preços de hospedagem NÃO coletados).",
+        "No Pride (maio), reserve com muita antecedência e espere preços mais altos (inferência)."
+      ],
+      "alertas": [
+        "Fonte principal é a Wikipedia (colaborativa), sem data de atualização; a lista de casas muda com o tempo.",
+        "Segurança noturna por quadra NÃO foi coletada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/LGBTQ_culture_in_Puerto_Vallarta",
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+        "https://en.wikipedia.org/wiki/Zona_Rom%C3%A1ntica"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Yelapa (vilarejo acessível só por barco)",
+      "categoria": "praia",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "yelapa",
+        "barco",
+        "vilarejo",
+        "cachoeira",
+        "puerto-vallarta"
+      ],
+      "coords": {
+        "lat": 20.48833333,
+        "lng": -105.44527778
+      },
+      "descricaoCurta": "Vilarejo de ~1.500 habitantes na ponta sul da Baía de Banderas, sem estrada para carros: só barcos/ferries de hora em hora.",
+      "descricaoLonga": "A Wikipedia informa que Yelapa não tem estrada para veículos comuns e só se chega pelos ferries/táxis aquáticos, a cada hora, saindo de Puerto Vallarta ou de Boca de Tomatlán; a localidade fica em Cabo Corrientes, Jalisco. Tem ~1.500 habitantes e uma cachoeira (citada na ficha). Julho a setembro traz chuvas intensas, mas o clima local é mais ameno que em outros trechos da costa. Preço da passagem, horário do primeiro/último barco e duração NÃO foram coletados (pesquisa extra não concluída).",
+      "duracao": {
+        "min": 0,
+        "tipica": 420,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Cais de Boca de Tomatlán ou píer de Playa Los Muertos (barcos de hora em hora, segundo a Wikipedia).",
+      "dicasAgente": [
+        "VALE CADA PESO se tiver um dia sobrando em PV: é a praia 'selvagem' da região.",
+        "CORTE SE APERTAR: pacotes de excursão com almoço e open bar (não coletados); vá por conta com táxi aquático.",
+        "Volte antes do último barco (horário não coletado)."
+      ],
+      "alertas": [
+        "Preço, horários e duração NÃO coletados.",
+        "Duração típica (7 h) é ESTIMADA."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yelapa_Beach.JPG/1280px-Yelapa_Beach.JPG",
+        "credito": "RichardMills65",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Yelapa_Beach.JPG"
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Yelapa",
+        "https://en.wikipedia.org/wiki/Yelapa"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Sayulita: praia e surfe para iniciantes",
+      "categoria": "praia",
+      "cidade": "sayulita",
+      "tags": [
+        "sayulita",
+        "surfe",
+        "iniciante",
+        "praia",
+        "pueblo",
+        "riviera-nayarit"
+      ],
+      "coords": {
+        "lat": 20.8710113,
+        "lng": -105.4406378
+      },
+      "descricaoCurta": "Praia de águas rasas ('50 m de pé') e ondas pequenas jan-março; ônibus de PV por MXN 60 (2026). Aula de grupo de ~500-1.200 MXN (não confirmado em página aberta).",
+      "descricaoLonga": "O Wikivoyage descreve Sayulita como 'excelente e tranquila' para quem aprende a surfar: fundo de areia e ondas pequenas e manejáveis de janeiro a março; a praia principal tem água rasa por ~50 m da margem. Chegada: ônibus verde e branco 'Compostela' (letreiro Sayulita) do aeroporto/ponte de pedestres de Puerto Vallarta por MXN 60 (2026), a cada 10 min, das 05:15 às 22:30; a cidade fica a ~23 milhas ao norte de PV pela Hwy 200. Mais de 40 restaurantes; margaritas gigantes no Costeño's; camping econômico no Camping del Palmar (ao sul do rio). Cuidados: arrastar os pés na água (arraias) e esgoto ocasional nas áreas de banho por causa do crescimento turístico. Wikipedia: surfistas frequentam desde os anos 1960 e o pico de turismo é no inverno. Preços de aula (resumo de busca, não confirmado em página aberta): grupo de 2 h ~500-900 MXN em escolas como Lunazul, Captain Hook e Sininen; Marea Surf School ~1.200 MXN em grupo e ~1.500 MXN particular, com prancha e lycra.",
+      "duracao": {
+        "min": 120,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Jan-março para ondas pequenas de iniciante (Wikivoyage).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 500,
+        "max": 1200,
+        "por": "pessoa",
+        "inclui": "Aula de grupo de ~2 h com prancha (valor vindo de resumo de busca; páginas das escolas não foram abertas). Aula particular ~1.400-2.000 MXN.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Sayulita"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Arrastar os pés ao entrar na água (arraias)"
+      ],
+      "pontoPartida": "Playa Sayulita; ônibus 'Compostela' de PV.",
+      "dicasAgente": [
+        "VALE CADA PESO: aula de grupo é barata e a praia é a mais amigável para iniciantes do Pacífico central.",
+        "CORTE SE APERTAR: jantares na praça/Costeño's; coma no mercado e nas barracas (preços não coletados).",
+        "Hospedagem econômica: camping no Camping del Palmar (preço não coletado)."
+      ],
+      "alertas": [
+        "Preços de aula NÃO estão confirmados em página aberta (fonte: resumo de busca que citava mexicotravelandleisure.com, que devolveu 403 ao abrir).",
+        "Cuidado com esgoto ocasional na água (Wikivoyage)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Beach_in_Sayulita%2C_Mexico.jpg/1280px-Beach_in_Sayulita%2C_Mexico.jpg",
+        "credito": "Peon In Politics",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Beach_in_Sayulita,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Sayulita",
+        "https://en.wikipedia.org/wiki/Sayulita",
+        "https://www.openstreetmap.org/way/875624596"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "San Pancho (San Francisco, Nayarit)",
+      "categoria": "praia",
+      "cidade": "sayulita",
+      "tags": [
+        "san-pancho",
+        "praia",
+        "riviera-nayarit",
+        "vilarejo",
+        "tranquilo"
+      ],
+      "coords": {
+        "lat": 20.9018872,
+        "lng": -105.4090897
+      },
+      "descricaoCurta": "Vilarejo litorâneo ~3-4 km ao nordeste de Sayulita pelas coordenadas OSM. Dados práticos NÃO confirmados.",
+      "descricaoLonga": "San Francisco ('San Pancho'), em Bahía de Banderas, Nayarit, aparece no OpenStreetMap a cerca de 3 a 4 km de Sayulita (distância calculada das coordenadas) e há fotos livres do acesso à praia no Wikimedia Commons. Nenhuma página aberta nesta coleta traz preços, ondas, hospedagem ou vida noturna. Mantido por estar no escopo.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Entre Sayulita e a Hwy 200 (posição relativa pelas coordenadas).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: só inclua se sobrar tempo em Sayulita; faltam dados de custo e estrutura."
+      ],
+      "alertas": [
+        "Quase tudo NÃO confirmado.",
+        "Confiança 'estimado'."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Acceso_a_la_Playa_San_Pancho_en_San_Francisco%2C_Nayarit_02.jpg/1280px-Acceso_a_la_Playa_San_Pancho_en_San_Francisco%2C_Nayarit_02.jpg",
+        "credito": "Luisalvaz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg"
+      },
+      "fontes": [
+        "https://www.openstreetmap.org/relation/8894431",
+        "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Islas Marietas e Playa Escondida (Playa del Amor)",
+      "categoria": "passeio",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "islas-marietas",
+        "playa-escondida",
+        "conanp",
+        "limite-diario",
+        "116-por-dia",
+        "snorkel",
+        "parque-nacional"
+      ],
+      "coords": {
+        "lat": 20.699,
+        "lng": -105.585
+      },
+      "descricaoCurta": "Playa Escondida: limite de 116 visitantes por dia, grupos de até 15, ~20-30 min na praia, só com operadora autorizada pela CONANP. ~1.700 MXN (2019) a ~US$118 (≈2.125 MXN) por pessoa.",
+      "descricaoLonga": "O Parque Nacional Islas Marietas (reserva da biosfera/Ramsar) fica a ~7,9 km de Punta de Mita. A Playa Escondida (Playa del Amor), dentro de uma cratera, foi fechada em abril/maio de 2016 por saturação de turistas (CONANP; chegou a mais de 2.500 pessoas por dia) e reaberta em 31 de agosto de 2016 com regras rígidas. LIMITE: 116 pessoas por dia (capacidade avaliada em 116 sem danos), permanência de 20 a 30 minutos (fontes divergem), grupos de até 15; uso de colete salva-vidas; proibidos nadadeiras, máscara/snorkel e mergulho na praia. Só com operadora autorizada pela CONANP: não existe visita independente. DIAS/HORÁRIOS: parque fecha às segundas; Playa Escondida abre de quarta a domingo, 08:00-17:00 (parque ter-dom 08:00-18:00); segundas e terças fechada para manutenção. Saídas: Marina Puerto Vallarta, Marina Nuevo Vallarta, Corral del Risco (Punta de Mita) e Sayulita; da Marina de PV são ~55 min de lancha, do Anclote (Punta Mita) ~15 min. O passeio completo dura ~5 h (Vallarta Adventures); Riviera Nayarit fala em ~2 h mais transporte. PREÇO: US$118 (de US$169) no blog da Vallarta Adventures (≈2.125 MXN a 18,0066), mais taxa de entrada do parque de 125 MXN; uma matéria de 2019 citava 1.700 MXN com taxa de 85 MXN (inclusive saindo de Nuevo Vallarta por 850 MXN no tour básico). Reserva: Riviera Nayarit indica central +52 311 689 0064; há dois tipos de tour: básico (praias externas, snorkel) e premium (com Playa Escondida, pulseira e reserva separadas). ÉPOCA: não encontrei fechamento anual fixo; a praia pode fechar por maré/ondas/clima (Villa del Palmar, 2023; a Wikipedia diz que só é acessível na maré baixa). Entre dezembro e março os passeios podem incluir jubarte.",
+      "duracao": {
+        "min": 120,
+        "tipica": 300,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "Fechado",
+        "ter": "08:00-18:00 (parque aberto; Playa Escondida FECHADA às terças)",
+        "qua": "08:00-17:00 (Playa Escondida); parque até 18:00",
+        "qui": "08:00-17:00 (Playa Escondida); parque até 18:00",
+        "sex": "08:00-17:00 (Playa Escondida); parque até 18:00",
+        "sab": "08:00-17:00 (Playa Escondida); parque até 18:00",
+        "dom": "08:00-17:00 (Playa Escondida); parque até 18:00"
+      },
+      "diasFechados": [
+        "Segunda-feira (parque inteiro)",
+        "Terça-feira (Playa Escondida)"
+      ],
+      "melhorHorario": "Manhã (primeiros turnos); quotas diárias de 116 esgotam (confirmar com a operadora).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1700,
+        "max": 2125,
+        "por": "pessoa",
+        "inclui": "Tour até as Marietas com Playa Escondida. 1.700 MXN = valor de matéria de 2019; 2.125 MXN = US$118 convertido a 18,0066 MXN/USD (Vallarta Adventures). Taxa do parque (85 a 125 MXN conforme a fonte) pode ser cobrada à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://tipsparatuviaje.com/islas-marietas/",
+          "https://www.vallarta-adventures.com/en/blog/marieta-islands",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 14,
+        "esgotaRapido": true,
+        "link": "https://rivieranayarit.com/?p=5595"
+      },
+      "contato": {
+        "telefone": "(+52) 311-689-0064 (central Riviera Nayarit citada na página); +52 322 226 8413 (Vallarta Adventures, matéria de 2019)",
+        "whatsapp": "",
+        "site": "https://rivieranayarit.com/?p=5595",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Só com operadora autorizada pela CONANP",
+        "Colete salva-vidas obrigatório; sem nadadeiras/snorkel/mergulho na praia",
+        "Máx. 15 pessoas por grupo; 116 visitantes por dia",
+        "Idade: mín. 10 e máx. 65 anos na Vallarta Adventures; Riviera Nayarit diz que não é indicado para menores de 4 anos: confirmar com a operadora",
+        "Fechado seg (parque) e ter (Playa Escondida)"
+      ],
+      "pontoPartida": "Marina Puerto Vallarta, Marina Nuevo Vallarta, Corral del Risco (Punta de Mita) ou Sayulita (Riviera Nayarit).",
+      "dicasAgente": [
+        "CORTE SE APERTAR: é um dos itens que mais estouram o orçamento econômico (2.000+ MXN por pessoa para 20-30 min na praia).",
+        "Alternativa mais barata: tour básico das Marietas (praias externas e snorkel) sem Playa Escondida, que a Riviera Nayarit lista separadamente; preço atual não confirmado.",
+        "VALE CADA PESO só se o casal quiser a foto/experiência única: reserve com ~2 semanas (recomendação de resumo de busca; confirmar) e fora de seg/ter."
+      ],
+      "alertas": [
+        "Preço e taxa do parque divergem entre fontes (2019 x blog da operadora) e entre 85/100/125 MXN.",
+        "Idade mínima e tempo na praia (20 x 30 min) divergem.",
+        "Antecedência de 14 dias vem de resumo de busca, não confirmada.",
+        "Não confirmei fechamento sazonal anual; checar disponibilidade com a operadora para a data."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Parque_Nacional_Islas_Marietas_%289374867684%29.jpg/1280px-Parque_Nacional_Islas_Marietas_%289374867684%29.jpg",
+        "credito": "Christian Frausto Bernal from Tepic, Nayarit, MEXICO",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Islas_Marietas_(9374867684).jpg"
+      },
+      "fontes": [
+        "https://www.vallarta-adventures.com/en/blog/marieta-islands",
+        "https://rivieranayarit.com/?p=5595",
+        "https://tipsparatuviaje.com/islas-marietas/",
+        "https://geo-mexico.com/?p=14189",
+        "https://www.gob.mx/conanp/prensa/el-parque-nacional-islas-marietas-no-cierra-unicamente-la-playa-del-amor-entrara-en-un-periodo-de-resguardo-temporal-29348",
+        "https://flamingos.villadelpalmar.com/blog/destination/are-the-marietas-islands-hidden-beach-open",
+        "https://www.mochileandoporelmundo.com/playa-escondita-marietas-mochileros/",
+        "https://en.wikipedia.org/wiki/Islas_Marietas_National_Park"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Artesanato huichol (wixárika): como reconhecer o autêntico (Puerto Vallarta e Sayulita)",
+      "categoria": "compras",
+      "cidade": "puerto-vallarta",
+      "tags": [
+        "artesanato",
+        "huichol",
+        "wixarika",
+        "compras",
+        "autenticidade",
+        "sayulita"
+      ],
+      "coords": {
+        "lat": 20.6103646,
+        "lng": -105.2351071
+      },
+      "descricaoCurta": "Quadros de lã (nierikas) e peças de miçangas são feitos com cera e resina; atravessadores ganham mais que os artesãos: compre direto ou em galeria/cooperativa.",
+      "descricaoLonga": "COMO RECONHECER: a Wikipedia descreve os quadros de lã (nierikas) como lã comercial pressionada em tábuas cobertas de cera de abelha e resina (técnica adaptada em 1962 por Ramón Medina Silva) e as peças de miçanga como máscaras, esculturas de madeira e animais cobertos de miçangas de vidro comerciais fixadas com cera e resina. Peças autênticas são feitas à mão, com fios/miçangas pressionados um a um na base de cera e resina; reprodução industrial tende a ter acabamento uniforme (INFERÊNCIA do agente a partir da técnica, não está nas fontes). Há debate sobre autenticidade: símbolos tradicionais (religiosos) permanecem centrais, mas temas modernos (natal, aviões, jaguar) são vistos como borderline. VENDA: a maioria dos turistas encontra as peças em PV e Guadalajara com vendedores de rua; atravessadores lucram bem mais que o artesão; compre direto do artesão ou em instituições culturais/galerias estabelecidas. Em Sayulita, artesãos huichol vendem diariamente na praça (Wikivoyage). Resumos de busca (NÃO confirmados em página aberta) citam preços de tigelas pequenas ~US$30-80 e quadros grandes US$2.000-5.000, certificados de autenticidade em galerias de PV e uma cooperativa em Sayulita; trate como indicação a verificar. A coordenada usada é a do Malecón de PV, onde há venda de artesanato; Sayulita também tem pontos de venda.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Faixas de preço não confirmadas em página aberta.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/Huichol_art"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Malecón de PV, galerias e praça de Sayulita.",
+      "dicasAgente": [
+        "VALE CADA PESO: uma peça pequena comprada direto do artesão ou em cooperativa/galeria, com explicação do significado.",
+        "CORTE SE APERTAR: peças grandes e 'certificados' sem origem clara; pergunte quem fez e onde.",
+        "Regra prática: pergunte o nome do artesão e a comunidade; desconfie de dezenas de peças idênticas no mesmo puesto (inferência)."
+      ],
+      "alertas": [
+        "Critérios de 'autêntico' além de técnica (cera + resina, feito à mão) NÃO têm padrão oficial citado; há controvérsia na literatura.",
+        "Preços NÃO confirmados em página aberta."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Huichol_art",
+        "https://en.wikivoyage.org/wiki/Sayulita",
+        "https://en.wikipedia.org/wiki/Puerto_Vallarta"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Aluguel de carro na Baja: preço real, seguro obrigatório e distâncias",
+      "categoria": "aluguel-veiculo",
+      "cidade": "la-paz",
+      "tags": [
+        "carro",
+        "aluguel",
+        "seguro",
+        "tpl",
+        "la-paz",
+        "baja",
+        "distancias"
+      ],
+      "coords": {
+        "lat": 24.14222222,
+        "lng": -110.31083333
+      },
+      "descricaoCurta": "Diária de carro econômico em La Paz: ~145-354 MXN no Kayak, mas o seguro obrigatório (TPL, US$10-20/dia) e o depósito (US$3.000+) mudam a conta. La Paz-Todos Santos 74 km; La Paz-Cabo ~185 km.",
+      "descricaoLonga": "PREÇOS (Kayak México, La Paz): econômico 145-354 MXN/dia (mais barato achado: 145), compacto 160, intermediário 162, sedan grande 223, SUV intermediário 284, SUV padrão 307, van 375. Média de carros pequenos: ~138 MXN em fevereiro e ~450 MXN em dezembro (alta temporada). Reservar ~48 dias antes tende a render preço abaixo da média. Locadoras listadas: Localiza (a partir de 120 MXN), Fox, Mas By Mex (550+), Avis, Europcar (a partir de 120), MEXRENTACAR (a partir de 208), além de Alamo, Budget, Hertz, Enterprise, National e Thrifty. SEGURO OBRIGATÓRIO (a ARMADILHA): a lei federal de estradas (art. 63 Bis, segundo ExpatDen) exige seguro de responsabilidade civil a terceiros (TPL) em estradas federais; o seguro do cartão de crédito e apólices estrangeiras costumam NÃO valer para isso. A tarifa online barata muitas vezes exclui o TPL: US$10-20/dia (≈180-360 MXN a 18,0066), cobertura total sem franquia US$25-90/dia; o depósito costuma ser US$3.000 ou mais bloqueado no cartão. Orientações: pedir os termos do seguro por escrito, fotografar todos os danos na retirada, confirmar quilometragem e IVA. ESTIMATIVA do agente: diária real em La Paz ≈ 145-354 MXN + 180-360 MXN de TPL ≈ 325-714 MXN antes de combustível. DISTÂNCIAS (Traveltinker): La Paz-Todos Santos 74 km (~1 h pela Hwy 19), Todos Santos-Cabo San Lucas 75 km (~1 h 15), Cabo San Lucas-San José del Cabo 33 km (~40 min pelo corredor), total La Paz-San José ~185 km. A Hwy 19 (lado Pacífico) é asfaltada e tranquila; postos de gasolina rareiam entre as cidades (não deixar o tanque abaixo da metade); dinheiro em pesos em barracas e surf breaks. Atenção: lado do Pacífico tem correnteza forte.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 325,
+        "max": 714,
+        "por": "grupo",
+        "inclui": "Estimativa do agente: diária de carro econômico (145-354 MXN, Kayak) + TPL obrigatório (180-360 MXN) por dia; sem combustível, sem seguro total e sem taxas de retirada.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.kayak.com.mx/Renta-economica-de-autos-La-Paz.9323.cars.ksp",
+          "https://www.expatden.com/mexico/mexico-car-rental/",
+          "https://open.er-api.com/v6/latest/USD"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 30,
+        "esgotaRapido": false,
+        "link": "https://www.kayak.com.mx/Renta-economica-de-autos-La-Paz.9323.cars.ksp"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "TPL obrigatório pela lei federal de estradas",
+        "Depósito no cartão de crédito (US$3.000+ citado)"
+      ],
+      "pontoPartida": "Aeroporto/centro de La Paz (várias locadoras).",
+      "dicasAgente": [
+        "VALE CADA PESO se for fazer Todos Santos + Cerritos + Magdalena/Balandra: o carro divide custo entre os dois e economiza ônibus/tours.",
+        "CORTE SE APERTAR: não alugue só para La Paz urbana (taxi/Uber e Playa Bus resolvem).",
+        "Peça o preço FINAL por escrito com TPL, IVA e taxas antes de pagar; compare 'tudo incluído' x 'tarifa base'."
+      ],
+      "alertas": [
+        "Moeda do Kayak MX presumida como MXN (página em pesos); data exata da cotação não informada.",
+        "Valores de TPL/depósito são de um guia geral sobre México (ExpatDen), não específicos de La Paz.",
+        "Veículos exatos por locadora (modelos) NÃO foram coletados.",
+        "Preços de ônibus Águila La Paz-Cabo não coletados."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.kayak.com.mx/Renta-economica-de-autos-La-Paz.9323.cars.ksp",
+        "https://www.expatden.com/mexico/mexico-car-rental/",
+        "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/",
+        "https://open.er-api.com/v6/latest/USD"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ferry Baja Ferries: Mazatlán / Topolobampo para La Paz",
+      "categoria": "experiencia",
+      "cidade": "la-paz",
+      "tags": [
+        "ferry",
+        "transporte",
+        "mazatlan",
+        "topolobampo",
+        "la-paz",
+        "noturno"
+      ],
+      "coords": {
+        "lat": 24.27611111,
+        "lng": -110.32777778
+      },
+      "descricaoCurta": "Mazatlán-La Paz: qua/sex/dom 16:00, ~16 h, adulto 2.150 MXN. Topolobampo-La Paz: seg-sex 23:59 e dom 23:00, ~10 h, adulto 1.850 MXN.",
+      "descricaoLonga": "MAZATLÁN para LA PAZ (navio Cabo Star): quartas, sextas e domingos, saída 16:00, chegada 08:00 do dia seguinte (~16 h); check-in 14:00 com veículo ou 14:30 sem. Tarifas 2026: adulto 2.150 MXN, criança 3-11 anos e idoso 60+ 1.075 MXN, bebê 0-2 grátis, pet 650; cápsula de descanso 950, sala VIP 650, cabine padrão (2 beliches) 2.500, cabine VIP (2 camas) 3.200; bicicleta 450, moto 4.900, carro/pickup até 6 m 6.850. TOPOLOBAMPO para LA PAZ: segunda a sexta saída 23:59 (registro 21:30 sem veículo / 21:00 com veículo), sábado sem serviço, domingo saída 23:00; chegada ~09:00; ~10 h. Tarifas: adulto 1.850, criança/idoso 925, cabine (1-4 pessoas, 2 beliches, TV, banheiro) 2.400. A matéria de busca citava carro por 5.950 MXN em Topolobampo e 6.850 em Mazatlán, vigentes desde 1 de maio de 2026 (não confirmado em página aberta para Topolobampo). A saída La Paz-Topolobampo/Mazatlán NÃO foi confirmada em página aberta. Comparação: o Wikivoyage citava ~M$1.290 em 2021 (tarifa antiga). A coordenada é a de Pichilingue (Wikipedia), região do terminal de balsas de La Paz. Reservar com antecedência é recomendado (Luz Noticias).",
+      "duracao": {
+        "min": 600,
+        "tipica": 600,
+        "max": 960
+      },
+      "horarios": {
+        "seg": "23:59-09:00 Topolobampo-La Paz (saída-chegada)",
+        "ter": "23:59-09:00 Topolobampo-La Paz (saída-chegada)",
+        "qua": "16:00-08:00 Mazatlán-La Paz (+1 dia); 23:59-09:00 Topolobampo-La Paz",
+        "qui": "23:59-09:00 Topolobampo-La Paz (saída-chegada)",
+        "sex": "16:00-08:00 Mazatlán-La Paz (+1 dia); 23:59-09:00 Topolobampo-La Paz",
+        "sab": "Fechado",
+        "dom": "16:00-08:00 Mazatlán-La Paz (+1 dia); 23:00-09:00 Topolobampo-La Paz"
+      },
+      "diasFechados": [
+        "Sábado: sem saída Topolobampo-La Paz (Mazatlán também não opera aos sábados)"
+      ],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1850,
+        "max": 2150,
+        "por": "pessoa",
+        "inclui": "Passagem adulta só ida (poltrona/ 'basic ticket'): 1.850 MXN Topolobampo, 2.150 MXN Mazatlán; cabines 2.400-3.200 MXN por cabine; carro até 6 m 6.850 MXN (Mazatlán). Vigência 2026.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.luznoticias.mx/2026-07-15/mexico/baja-ferries-2026-cuanto-cuesta-viajar-de-mazatlan-a-la-paz-bcs-/297061",
+          "https://www.luznoticias.mx/amp/2026-07-21/mexico/baja-ferries-de-topolobampo-a-la-paz-2026-que-dias-sale-y-que-horarios/297557"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 7,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Check-in 14:00/14:30 (Mazatlán) ou 21:00-21:30 (Topolobampo)"
+      ],
+      "pontoPartida": "Terminal de balsas de La Paz (Pichilingue, pela coordenada Wikipedia) na chegada; embarque em Mazatlán ou Topolobampo.",
+      "dicasAgente": [
+        "VALE CADA PESO se a viagem conectar continente e Baja por mar: a noite no navio substitui uma diária de hotel.",
+        "CORTE SE APERTAR: cabine VIP (3.200 MXN); cápsula (950 MXN) ou poltrona basta.",
+        "Levar carro custa 6.850 MXN: normalmente é melhor alugar em La Paz."
+      ],
+      "alertas": [
+        "Tarifas citam 'vigência 2026' e podem mudar sem aviso.",
+        "Saídas La Paz-continente e a distância Pichilingue-centro de La Paz NÃO foram confirmadas.",
+        "Duas matérias de portal de notícias (Luz Noticias), não o site oficial da Baja Ferries."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.luznoticias.mx/2026-07-15/mexico/baja-ferries-2026-cuanto-cuesta-viajar-de-mazatlan-a-la-paz-bcs-/297061",
+        "https://www.luznoticias.mx/amp/2026-07-21/mexico/baja-ferries-de-topolobampo-a-la-paz-2026-que-dias-sale-y-que-horarios/297557",
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)",
+        "https://en.wikipedia.org/wiki/Pichilingue"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Malecón de La Paz e vida noturna",
+      "categoria": "bar",
+      "cidade": "la-paz",
+      "tags": [
+        "malecon",
+        "la-paz",
+        "vida-noturna",
+        "maleconeando",
+        "barato",
+        "por-do-sol"
+      ],
+      "coords": {
+        "lat": 24.1726483,
+        "lng": -110.3065622
+      },
+      "descricaoCurta": "Orla central de La Paz: bares e baladas ao longo do Malecón e o costume local de 'maleconear' (passear). Opção mais barata de noite na região.",
+      "descricaoLonga": "Segundo o Wikivoyage, o Malecón de La Paz concentra boates e bares, e 'maleconear' é o passatempo local de passear/circular pela orla; restaurantes econômicos ficam no centro, com frutos do mar frescos, e opções de médio e alto padrão na orla. Táxis custam cerca de 5-10 dólares por corrida e há Uber (guia sem data). É também ponto de saída de tours (píer do Malecón) e do terminal do ônibus 'Playa Bus' para Balandra. Nomes de bares, couvert, preço de drink e horários NÃO foram coletados.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde e noite (pôr do sol sobre a baía) - sugestão do agente.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "",
+        "coletadoEm": "2026-10-08",
+        "fontes": []
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Orla central de La Paz (Malecón).",
+      "dicasAgente": [
+        "VALE CADA PESO: noite barata em La Paz (passear + comer frutos do mar no centro) como contraponto a Cabo San Lucas.",
+        "Hospedagem econômica no centro: pensões de M$400-600 segundo o Wikivoyage (sem data; provavelmente defasado)."
+      ],
+      "alertas": [
+        "Sem nomes de bares, preços e horários; guia colaborativo e sem data.",
+        "Segurança noturna do Malecón NÃO coletada."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/La_paz_malecon_1702p1.jpg/1280px-La_paz_malecon_1702p1.jpg",
+        "credito": "Carlos Valenzuela",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_paz_malecon_1702p1.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)",
+        "https://www.openstreetmap.org/way/1161797116",
+        "https://commons.wikimedia.org/wiki/File:La_paz_malecon_1702p1.jpg"
+      ],
+      "confianca": "parcial"
+    }
+  ]
+}

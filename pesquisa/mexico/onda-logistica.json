@@ -1,0 +1,4440 @@
+{
+ "coletadoEm": "2026-10-08",
+ "destino": {
+  "pais": "México",
+  "moeda": "MXN",
+  "fuso": "Maioria do país (CDMX, Oaxaca, Chiapas, Yucatán, Guadalajara, Puerto Vallarta, Bajío): UTC−06:00 (Zona Centro). Quintana Roo (Cancún, Tulum): UTC−05:00. Baja California Sur (La Paz, Los Cabos), Sinaloa, Sonora e Nayarit (exceto Bahía de Banderas): UTC−07:00. Baja California: UTC−08:00. Horário de verão só na faixa de fronteira norte e em Baja California.",
+  "fusoOffset": "UTC−06:00 (CDMX). São Paulo (UTC−03:00, sem horário de verão) fica 3 h à frente da CDMX, 2 h à frente de Cancún e 4 h à frente de La Paz/Los Cabos.",
+  "idioma": "Espanhol",
+  "tomadas": "Tipos A e B (pinos chatos, padrão americano); plugues brasileiros de pinos redondos (padrão N) precisam de adaptador.",
+  "voltagem": "127 V / 60 Hz como padrão (a Wikipedia lista também instalações 120/240 V e 127/220 V); aparelhos brasileiros 127 V ou bivolt funcionam.",
+  "requisitosEntradaBrasileiro": {
+   "passaporte": "Passaporte válido é obrigatório (e necessário para pedir o e-visto: foto da página de dados). Validade mínima: recomenda-se 6 meses a partir da entrada, com páginas em branco (Wise cita 3 a 6 meses); NÃO foi possível abrir fonte oficial mexicana que fixe o mínimo exato.",
+   "visto": "BRASILEIROS PRECISAM DE VISTO desde 18/08/2022 (turismo e negócios) e, desde 22/10/2023, também para CONEXAO/TRANSITO em aeroporto mexicano (página da Embaixada do Brasil no México). Isenção: quem tem visto vigente dos EUA, Canadá, Reino Unido, Japão ou Espaço Schengen (ou residência permanente nesses países) entra só com FMM; a mesma página alerta que e-visto/ETA de terceiros países e vistos de entrada única costumam ser recusados pela imigração mexicana e que o oficial tem discricionariedade. NOVIDADE: desde 05/02/2026 brasileiros que viajem por VIA AEREA, por menos de 180 dias e sem atividade remunerada podem pedir VISTO ELETRONICO em https://visaelectronica.sre.gob.mx/ (USD 10 por processo, validade 180 dias, entrada única; apresentar impresso ou digital no embarque e na entrada). Se negado, ou se precisar de visto de múltiplas entradas, vale o visto consular com agendamento em citas.sre.gob.mx (Consulado em SP: Rua Holanda, 274). Obs.: a página do Consulado (artigo 43) e a da Embaixada ainda trazem textos anteriores ao e-visto (visto consular USD 54); prevalece o guia do Consulado de 10/02/2026. Não confirmado em fonte aberta se o e-visto cobre trânsito aéreo.",
+   "FMM_formaMigratoria": "Em chegadas aéreas o FMM é digital (FMMd): gerado nos filtros migratórios automáticos (QR) e baixável após a chegada; a taxa de turismo vem embutida na passagem aérea (fonte secundária Mexpro). Permanência: até 180 dias, mas o oficial define os dias (pode conceder menos) e não prorroga. Guarde o FMM: será exigido na saída; a perda gera multa/trâmites e pode fazer perder o voo (Embaixada do Brasil).",
+   "vacinas": "Nenhuma vacina é exigida para entrada segundo o CDC (febre amarela 'não recomendada e não exigida' para o México). Não confirmado em fonte mexicana se há exigência de certificado de febre amarela para viajantes procedentes do Brasil; verificar antes de embarcar.",
+   "comprovantes": "Prática relatada por blogs (fonte secundária): passagem de volta impressa, reservas de hotel para TODAS as noites impressas, prova de fundos (dinheiro ou cartão com limite/extrato), roteiro com vouchers e, se possível, vínculo (contracheque, matrícula, passaportes anteriores). O oficial pergunta objetivo, tempo, destino final, quanto dinheiro leva, se viaja só, hospedagem, profissão e seguro; pode haver entrevista secundária ('Setor de Revisão') antes de negar entrada. Leve tudo impresso (internet limitada na área de imigração). Valores ≥ USD 10.000 em espécie devem ser declarados no Brasil e no México.",
+   "fontes": [
+    "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico",
+    "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf",
+    "https://consulmex.sre.gob.mx/saopaulo/index.php/component/content/article/43",
+    "https://www.melhoresdestinos.com.br/mexico-confirma-visto-eletronico-brasileiros.html",
+    "https://mexpro.com/blog/fmm-procedures-change/",
+    "https://www.essemundoenosso.com.br/imigracao-no-mexico-dicas-e-documentos/",
+    "https://wise.com/br/blog/viajar-para-mexico",
+    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "https://www.xataka.com.br/diversos/mexico-aperta-controles-imigracao-antes-da-copa-do-mundo-2026-70-dos-rejeitados-sao-paises-que-participarao-do-torneio-e-metade-deles-sao-da-colombia",
+    "https://istoe.com.br/brasileiros-ficam-17-horas-detidos-sem-agua-ou-comida-em-aeroporto-no-mexico/"
+   ],
+   "confianca": "alta para exigência de visto/e-visto/isenções (Embaixada e guia do Consulado); media para validade do passaporte e comprovantes (fontes secundárias). Rigor com brasileiros: caso documentado em Cancún em jul/2022 (família de 8 detida 17 h por autorizações de entrada 'desatualizadas', IstoÉ); INM negou entrada a 19.992 estrangeiros em 2025 (Xataka; maioria colombianos, não há número específico para brasileiros)."
+  },
+  "saude": {
+   "vacinasRecomendadas": [
+    "Rotina em dia (sarampo/MMR, tétano-difteria-coqueluche, gripe, varicela, pólio, COVID-19) - CDC",
+    "Hepatite A (não vacinados)",
+    "Hepatite B (viajantes até 60 anos)",
+    "Febre tifoide (maioria dos viajantes)",
+    "Chikungunya só para estadas longas (6+ meses) - CDC",
+    "Febre amarela: NÃO recomendada pelo CDC para o México (checar exigência de certificado para quem vem do Brasil)"
+   ],
+   "aguaPotavel": "Não beber água da torneira (Wikivoyage: potável em tese, mas não recomendada); usar água engarrafada/purificada e cuidado com gelo. CDC alerta para diarreia do viajante e, em 2026, aumento de ciclosporíase em viajantes de Cancún/Riviera Maya. Risco de malária só em Campeche, Chiapas e sul de Chihuahua (CDC); dengue/zika: repelente com 20%+ DEET.",
+   "altitudeCidadeDoMexico": "2.240 m (Wikipedia). Possível mal de altitude nos primeiros dias. Puebla, San Cristóbal de las Casas e San Miguel de Allende também são altas (ver temperaturas mínimas nos normais).",
+   "seguroObrigatorio": "Não obrigatório para turistas brasileiros (Wise: recomendado). Em aluguel de carro o seguro mexicano de responsabilidade civil é exigido; seguro dos EUA não vale (Wikivoyage).",
+   "fontes": [
+    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "https://en.wikivoyage.org/wiki/Mexico",
+    "https://wise.com/br/blog/viajar-para-mexico",
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ]
+  },
+  "seguranca": {
+   "orientacaoGeral": "O aviso dos EUA (reemitido 29/05/2026; nível geral 2 'Exercise Increased Caution') dá nível por estado. Nível 4 (não viajar): Colima, Guerrero, Michoacán, Sinaloa, Tamaulipas, Zacatecas. Nível 3 (reconsiderar): Baja California, Chihuahua, Guanajuato, Jalisco (Fox) - outra fonte de mai/2026 acrescenta Durango, Morelos e Sonora. Nível 2: Cidade do México, Quintana Roo, Oaxaca, Chiapas, Baja California Sur, Puebla, Estado de México, Nayarit, Veracruz, Querétaro etc. Nível 1: Yucatán e Campeche. O aviso do Canadá manda evitar viagens não essenciais a Chiapas (exceções: Palenque, Tuxtla Gutiérrez, San Cristóbal), Guanajuato, Jalisco (áreas de fronteira), Nayarit, Michoacán, Guerrero, Colima, Sinaloa, Sonora, Tamaulipas, Zacatecas, Chihuahua e Nuevo León; Quintana Roo/Cancún/Tulum, Oaxaca, Baja California Sur e CDMX não constam. Zonas turísticas costumam ter reforço de segurança, mas crime violento ocorre também em hotéis, bares e restaurantes; evite viagens rodoviárias à noite, use transporte oficial/por app e obedeça a pontos de controle. PONTOS DE ATENÇÃO NO ROTEIRO: Guanajuato/San Miguel de Allende (nível 3 EUA), Guadalajara/Puerto Vallarta (Jalisco, nível 3 EUA) e santuários de monarcas no lado de Michoacán (nível 4). Os avisos oficiais (travel.state.gov) não abriram nesta coleta (403/Cloudflare): dados via imprensa e página do Canadá. Não foi possível abrir o alerta do Itamaraty para o México.",
+   "estadosComAlertaDoItamaraty": [],
+   "golpesComuns": [
+    "Apresentações de timeshare com 'brindes' (carro, jantar, noites grátis) em Cancún, Puerto Vallarta e similares (Wikivoyage)",
+    "Táxis chamados na rua, sobretudo na CDMX: prefira táxi de 'sitio', chamado pelo hotel/restaurante ou por app (Wikivoyage)",
+    "Policiais de trânsito que retêm a CNH até receber propina; evite dirigir à noite; animais na pista (Wikivoyage)",
+    "Guardadores informais (viene-viene/franeleros) cobram M$3-20 e às vezes mais perto de vida noturna (Wikivoyage)",
+    "Caixas eletrônicos: recuse conversão dinâmica e aceite só a tarifa do banco; caixas de cidades pequenas podem ficar sem cédulas (Wikivoyage)"
+   ],
+   "appsDeTransporte": [
+    "Uber",
+    "DiDi",
+    "Táxi de sitio (ponto autorizado)"
+   ],
+   "fontes": [
+    "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks",
+    "https://latamtravellers.com/blogs/news/is-mexico-safe-in-2026-state-by-state-advisory",
+    "https://travel.gc.ca/destinations/mexico",
+    "https://en.wikivoyage.org/wiki/Mexico"
+   ]
+  },
+  "dinheiro": {
+   "cambio": "Moeda: peso mexicano (MXN). USD circula em Cancún e Los Cabos (caixas com dupla moeda), mas pesos são preferíveis e o dólar costuma sair pior. Em aeroportos de chegada (CDMX, Cancún) há casas de câmbio com taxa em geral razoável (Wikivoyage). Cotação do dia NÃO coletada. Declaração obrigatória de ≥ USD 10.000 em espécie (Wise).",
+   "cartaoAceito": "Cartões aceitos em hotéis, grandes restaurantes, lojas de departamento e postos nas cidades; fora das cidades leve pesos em espécie e confirme antes de consumir (Wikivoyage).",
+   "saqueEmCaixa": "Caixas mostram a tarifa do banco e pedem aceite. Exemplos de tarifa (jan/2024, Mastercard britânico): Inbursa M$22,04; BanBajío M$23,20; Mifel M$26,68; BanCoppel M$29; Citibanamex M$30,74. Caixas de cidades pequenas podem ficar sem cédulas: não deixe para a última hora.",
+   "gorjeta": "Restaurantes: 10% a 15% (deixe na mesa; bares/baladas costumam incluir 15% na conta); não se espera gorjeta em táxi ou ônibus, exceto em tours; carregadores/camareiras: gorjeta pequena.",
+   "fontes": [
+    "https://en.wikivoyage.org/wiki/Mexico",
+    "https://wise.com/br/blog/viajar-para-mexico"
+   ]
+  },
+  "chipEsim": {
+   "operadoras": [
+    "Telcel (melhor cobertura nacional e a mais cara - Wikivoyage)"
+   ],
+   "comoComprar": "Chip pré-pago Telcel 'Amigo Express' em lojas Oxxo; aparelho precisa estar desbloqueado. Outras operadoras e eSIM NÃO foram pesquisados nesta coleta; confirmar roaming da operadora brasileira.",
+   "faixaPreco": "Dados antigos (nov/2021): chip M$29; primeira recarga mínima M$50; M$50 = 400 MB/7 dias; M$100 = 1,3 GB/15 dias. Preços atuais NÃO confirmados.",
+   "fontes": [
+    "https://en.wikivoyage.org/wiki/Mexico"
+   ]
+  },
+  "fontesGerais": [
+   "https://en.wikipedia.org/wiki/Mains_electricity_by_country",
+   "https://en.wikipedia.org/wiki/Time_in_Mexico",
+   "https://en.wikivoyage.org/wiki/Mexico"
+  ]
+ },
+ "voosInternacionais": [
+  {
+   "rota": "GRU-MEX",
+   "cias": [
+    "Aeroméxico (direto)",
+    "LATAM (direto)",
+    "Avianca (com conexão)"
+   ],
+   "escala": "Direto (Aeroméxico e LATAM, Boeing 787). Também há opções com 1 conexão (ex.: Avianca, R$ 2.922 ida e volta). Atenção: conectar em aeroporto mexicano exige visto mexicano para brasileiros.",
+   "duracaoTotalMin": 571,
+   "frequencia": "Kayak: ~2 voos/dia (~14/semana): Aeroméxico e LATAM com 7 voos/semana cada. Outras fontes antigas citam 3-10 semanais; usar Kayak como referência mais recente.",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 2785,
+    "max": 3913,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Faixa típica do Kayak (últimas 72 h + 12 meses de histórico). Mais barato encontrado R$ 2.922 (Avianca com escala); direto mínimo R$ 2.995 (Aeroméxico). Média citada pela Wise: ~R$ 4.386 (data indefinida). Março é o mês mais barato (R$ 2.787) segundo o Kayak. Preço indicativo, muda diariamente."
+   },
+   "linkDeBusca": "https://www.kayak.com.br/flight-routes/GRU/MEX",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/GRU/MEX",
+    "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cidade-do-Mexico-Juarez-e-outros-aeroportos-MEX",
+    "https://wise.com/br/blog/viajar-para-mexico"
+   ],
+   "confianca": "media (preços agregados do Kayak sem data exata; duração média 9h31 do Kayak)"
+  },
+  {
+   "rota": "GRU-CUN",
+   "cias": [
+    "Copa (via PTY)",
+    "Avianca (via BOG)",
+    "Arajet (via PUJ)",
+    "LATAM",
+    "GOL",
+    "Aeroméxico (via MEX)"
+   ],
+   "escala": "SEM voo direto hoje (Kayak: 'atualmente não há voos diretos'). 1 conexão: PTY (35% das opções), PUJ (28%), BOG (22%) ou MEX. Evite conexão em MEX: brasileiro precisa de visto até para trânsito. Voo direto Aeroméxico GRU-CUN existia em 2022 e não aparece mais; GOL retomou BSB-CUN em dez/2024 (não verificado se segue ativo).",
+   "duracaoTotalMin": 707,
+   "frequencia": "Várias opções diárias combinadas entre cias (Kayak não informa número exato).",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 2445,
+    "max": 3227,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Faixa típica do Kayak; mais barato recente R$ 2.042; março mais barato (R$ 2.317). Tempo total típico com 1 escala: 11 a 13 h (menor: 11h47 via PTY). Preço indicativo."
+   },
+   "linkDeBusca": "https://www.kayak.com.br/flight-routes/GRU/CUN",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/GRU/CUN",
+    "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cancun-CUN",
+    "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+   ],
+   "confianca": "media"
+  }
+ ],
+ "voosInternos": [
+  {
+   "rota": "MEX-CUN",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris",
+    "Turkish Airlines (listada pelo Kayak)"
+   ],
+   "duracaoMin": 146,
+   "frequencia": "~190 voos/semana (27-28/dia)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 618,
+    "max": 1056,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato visto: ida R$ 324 (Viva), ida e volta R$ 573 (Volaris). Fev. é o mês mais barato (~R$ 544), dez. o mais caro."
+   },
+   "observacoes": "Preço em BRL (Kayak Brasil), não em MXN. Low-cost cobram bagagem à parte: ver alerta de bagagem. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/CUN",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-OAX",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris"
+   ],
+   "duracaoMin": 78,
+   "frequencia": "~55/semana (Aeroméxico 41, Viva 7, Volaris 7)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 659,
+    "max": 1165,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 354 (Volaris); 'mais barato ida e volta' R$ 834 citado pela página (inconsistente com a faixa típica)."
+   },
+   "observacoes": "Alternativa ao ônibus de ~6,5-8,5 h. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/OAX",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-TGZ",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris"
+   ],
+   "duracaoMin": 103,
+   "frequencia": "~42/semana (~6/dia)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 693,
+    "max": 1158,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 399; ida e volta R$ 594. Janeiro é o mais barato (~R$ 709)."
+   },
+   "observacoes": "Aeroporto de Tuxtla fica ~30 km da cidade e ~1h15 de ônibus direto a San Cristóbal (Wikivoyage, dado de 2016). ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/TGZ",
+    "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-SJD",
+   "cias": [
+    "Aeroméxico",
+    "Volaris",
+    "Viva Aerobus"
+   ],
+   "duracaoMin": 143,
+   "frequencia": "~48/semana (6-7/dia)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 838,
+    "max": 1224,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 319 (Volaris); ida e volta R$ 728 (Viva)."
+   },
+   "observacoes": "SJD (San José del Cabo) fica a 30-60 min de Cabo San Lucas. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/SJD",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-LAP",
+   "cias": [
+    "Aeroméxico",
+    "Volaris"
+   ],
+   "duracaoMin": 149,
+   "frequencia": "~25/semana",
+   "faixaPreco": {
+    "moeda": "USD",
+    "min": 193,
+    "max": 289,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Kayak.com (USD): mais barato ida US$ 75, ida e volta US$ 157."
+   },
+   "observacoes": "La Paz-LAP. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com/flight-routes/MEX/LAP",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-PVR",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris"
+   ],
+   "duracaoMin": 103,
+   "frequencia": "~63/semana (~9/dia)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 565,
+    "max": 916,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 359 (Volaris); ida e volta R$ 549 (Viva). Terça é o dia de partida mais barato."
+   },
+   "observacoes": "ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/PVR",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-MID",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris"
+   ],
+   "duracaoMin": 122,
+   "frequencia": "~96/semana (13-14/dia)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 727,
+    "max": 1116,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 344; melhor ida e volta R$ 819. Fev. é o mais barato (~R$ 734)."
+   },
+   "observacoes": "Alternativa: Tren Maya não liga a CDMX. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/MID",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-BJX",
+   "cias": [
+    "Aeroméxico (direto)",
+    "Viva Aerobus e Volaris (opções com conexão segundo o Kayak)"
+   ],
+   "duracaoMin": 79,
+   "frequencia": "~39/semana (4-6/dia)",
+   "faixaPreco": {
+    "moeda": "USD",
+    "min": 266,
+    "max": 407,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Kayak.com (USD): mais barato ida US$ 77, ida e volta US$ 162."
+   },
+   "observacoes": "BJX (Bajío/León-Silao) atende Guanajuato; San Miguel de Allende fica a ~95 km (Wikivoyage). Wikivoyage lista Viva/Volaris também com voos para BJX. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com/flight-routes/MEX/BJX",
+    "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-HUX",
+   "cias": [
+    "Aeroméxico",
+    "Viva Aerobus",
+    "Volaris"
+   ],
+   "duracaoMin": 87,
+   "frequencia": "~28/semana (Aeroméxico 14, Viva 7, Volaris 7)",
+   "faixaPreco": {
+    "moeda": "USD",
+    "min": 142,
+    "max": 226,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Kayak.com (USD): mais barato ida US$ 53, ida e volta US$ 111."
+   },
+   "observacoes": "Huatulco. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com/flight-routes/MEX/HUX",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "MEX-PXM",
+   "cias": [
+    "Viva Aerobus",
+    "Aeroméxico",
+    "Volaris"
+   ],
+   "duracaoMin": 78,
+   "frequencia": "~28/semana (Viva 14, Volaris 7, Aeroméxico 7)",
+   "faixaPreco": {
+    "moeda": "BRL",
+    "min": 580,
+    "max": 1026,
+    "tipo": "ida-e-volta",
+    "coletadoEm": "2026-10-08",
+    "observacao": "Mais barato ida R$ 501; ida e volta R$ 533."
+   },
+   "observacoes": "Puerto Escondido. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+   "fontes": [
+    "https://www.kayak.com.br/flight-routes/MEX/PXM",
+    "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+   ],
+   "confianca": "media"
+  },
+  {
+   "rota": "OAX-PXM",
+   "cias": [
+    "Aerotucán (avião pequeno; citado por GeckoRoutes e Wikivoyage)"
+   ],
+   "duracaoMin": 70,
+   "frequencia": "Não confirmada",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 3600,
+    "max": 0,
+    "tipo": "ida (a partir de, convertido do €180 que o site mostra)",
+    "coletadoEm": "2026-10-08"
+   },
+   "observacoes": "Não há voo comercial regular; só aviões pequenos. Com a rodovia nova (~3 h) o ônibus/van costuma compensar.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/",
+    "https://en.wikivoyage.org/wiki/Mexico"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "rota": "CUN-MID",
+   "cias": [],
+   "duracaoMin": 0,
+   "frequencia": "",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 0,
+    "max": 0,
+    "tipo": "",
+    "coletadoEm": "2026-10-08"
+   },
+   "observacoes": "Voo direto CUN-MID NÃO confirmado (a página do Kayak não existe); use ônibus ADO (3h10-4h50) ou Tren Maya (~3h30).",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/cancun-a-merida/"
+   ],
+   "confianca": "baixa"
+  }
+ ],
+ "trechosEntreCidades": [
+  {
+   "de": "Cancún",
+   "para": "Tulum",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO",
+    "AU (mais barata, sem banheiro)"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 145,
+   "frequencia": "Várias saídas diárias (ADO); colectivos a cada ~15 min via Playa del Carmen (~3 h, ~95 MXN)",
+   "faixaPreco": {
+    "moeda": "EUR",
+    "min": 14,
+    "max": 16
+   },
+   "terminais": {
+    "saida": "Terminal ADO Cancún (centro) ou terminais do aeroporto",
+    "chegada": "Terminal ADO Tulum"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Preço em EUR conforme GeckoRoutes (equivale a ~275-350 MXN segundo outras fontes não abertas). Van privada 1h30 a partir de ~€83/veículo.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/cancun-a-tulum/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cancún",
+   "para": "Tulum",
+   "modal": "trem",
+   "operadoras": [
+    "Tren Maya"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 96,
+   "frequencia": "Parte dos ~20 serviços diários do Tren Maya",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 245,
+    "max": 245
+   },
+   "terminais": {
+    "saida": "Estação Cancún Aeropuerto (ligada ao terminal do aeroporto)",
+    "chegada": "Estação Tulum"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Exemplo 'Turista México' Cancún-Tulum: 245 MXN, 1h36 (Infobae).",
+   "fontes": [
+    "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/",
+    "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/",
+    "https://www.trenmaya.gob.mx"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cancún",
+   "para": "Mérida",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 190,
+   "frequencia": "Várias saídas por dia (manhã e noite)",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 475,
+    "max": 475
+   },
+   "terminais": {
+    "saida": "ADO Cancún (centro, Calle Pino) / ADO aeroporto",
+    "chegada": "ADO Mérida (Tame/Centro) ou Altabrisa"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Duração 3h10-4h50 conforme horário. Preço 'a partir de' €24 (~475 MXN) segundo GeckoRoutes.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/cancun-a-merida/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cancún",
+   "para": "Mérida",
+   "modal": "trem",
+   "operadoras": [
+    "Tren Maya"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 210,
+   "frequencia": "Mérida-Teya→Cancún: saídas às 07:00, 09:18, 10:45, 13:05, 15:20 e 16:22 (exemplo Quinta Fuerza)",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 547,
+    "max": 547
+   },
+   "terminais": {
+    "saida": "Estação Cancún Aeropuerto",
+    "chegada": "Estação Mérida-Teya (fora do centro)"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Mérida-Cancún: 547 MXN ('Turista México' promocional, 3h30). Estação Teya fica fora do centro de Mérida (Quinta Fuerza menciona só Teya; distância ao centro não confirmada).",
+   "fontes": [
+    "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/",
+    "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/",
+    "https://www.trenmaya.gob.mx"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Mérida",
+   "para": "Valladolid",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO",
+    "ADO GL"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 135,
+   "frequencia": "Serviços frequentes de 1ª classe (Wikivoyage)",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 0,
+    "max": 0
+   },
+   "terminais": {
+    "saida": "ADO Mérida",
+    "chegada": "Terminal de Autobuses Valladolid (Calle 39 nº 221, centro)"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Valladolid fica a ~45 min do acesso leste de Chichén Itzá e junto à autopista 180D Cancún-Mérida (a ~5 km do centro). Preço não confirmado em fonte aberta.",
+   "fontes": [
+    "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Mérida",
+   "para": "Chichén Itzá",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 105,
+   "frequencia": "Saídas 07:15, 09:30 e 12:00 de Mérida (letstraveltomexico); retorno por ADO ou colectivo via Valladolid",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 160,
+    "max": 160
+   },
+   "terminais": {
+    "saida": "Estação ADO Mérida (Calle 70 nº 555, centro)",
+    "chegada": "Entrada de Chichén Itzá"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "De carro ~1h30 pela 180D (pedágio ~23 MXN). Uber/Didi não pegam passageiros em Chichén. Passeios guiados podem sair mais baratos que ônibus + entrada + guia.",
+   "fontes": [
+    "https://letstraveltomexico.com/merida-to-chichen-itza/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Valladolid",
+   "para": "Chichén Itzá",
+   "modal": "carro",
+   "operadoras": [
+    "Colectivo/ônibus local/táxi"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 45,
+   "frequencia": "Não confirmada",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 0,
+    "max": 0
+   },
+   "terminais": {
+    "saida": "Valladolid",
+    "chegada": "Chichén Itzá (acesso leste)"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "45 min de carro até o acesso leste (Wikivoyage). Preços de colectivo/ônibus 2ª classe não confirmados em fonte aberta.",
+   "fontes": [
+    "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cancún",
+   "para": "Chichén Itzá",
+   "modal": "trem",
+   "operadoras": [
+    "Tren Maya"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 90,
+   "frequencia": "Parte dos serviços do Tren Maya",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 351,
+    "max": 351
+   },
+   "terminais": {
+    "saida": "Estação Cancún Aeropuerto",
+    "chegada": "Estação Chichén Itzá"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Cancún-Chichén Itzá: 351 MXN, 1h30 (promo Infobae).",
+   "fontes": [
+    "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/",
+    "https://www.trenmaya.gob.mx"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "de": "Palenque",
+   "para": "Cancún",
+   "modal": "trem",
+   "operadoras": [
+    "Tren Maya (circuito completo Palenque-Cancún)"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 600,
+   "frequencia": "Parte dos serviços diários",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 1169,
+    "max": 2226
+   },
+   "terminais": {
+    "saida": "Estação Palenque",
+    "chegada": "Estação Cancún Aeropuerto"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Faixa: 1.169 MXN ('Turista México' promo, ~10 h) até 2.004 MXN (Premier nacional) / 2.226,50 MXN (tarifa internacional) na tabela de verão 2026 da Expansión; fontes divergem. Compra: reservas.ventaboletostrenmaya.com.mx, app, bilheterias. Tren Maya OPERA de fato: 34 estações, 1.554 km, ~20 serviços/dia, >2,3 milhões de passageiros desde dez/2023.",
+   "fontes": [
+    "https://www.trenmaya.gob.mx",
+    "https://expansion.mx/tendencias/2026/07/28/cuanto-cuesta-boleto-tren-maya-2026-mexicanos",
+    "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cidade do México",
+   "para": "Puebla",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO",
+    "AU"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 120,
+   "frequencia": "Frequente a partir da TAPO",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 224,
+    "max": 400
+   },
+   "terminais": {
+    "saida": "TAPO (Terminal de Autobuses de Oriente)",
+    "chegada": "CAPU (Centro de Autobuses Puebla)"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "GeckoRoutes informa 1h30-4h30 (trânsito/tipo de serviço); ~137 km em linha reta, 165 km por estrada. Van Turismo Tlaxcala ~770 MXN com traslado a hotel.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-puebla/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cidade do México",
+   "para": "Teotihuacán",
+   "modal": "onibus",
+   "operadoras": [
+    "Autobuses Teotihuacanos"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 80,
+   "frequencia": "A cada 15-20 min, 06:00-21:00",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 68,
+    "max": 136
+   },
+   "terminais": {
+    "saida": "Terminal Central del Norte (Metro Autobuses del Norte, linha 5; portão 8)",
+    "chegada": "Entradas 2 ou 3 das pirâmides"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "68 MXN ida / 136 MXN ida e volta. Carro/Uber: ~45-60 min (Wikivoyage) por 400-500 MXN (Uber, GeckoRoutes). Confira se o ônibus vai às 'Pirámides' e não só ao povoado de San Juan Teotihuacán. A partir do AIFA são ~40 min de carro.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-teotihuacan/",
+    "https://en.wikivoyage.org/wiki/Teotihuacan"
+   ],
+   "confianca": "alta"
+  },
+  {
+   "de": "Cidade do México",
+   "para": "Oaxaca",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO (ADO/GL/Platino)",
+    "Cristóbal Colón (OCC)",
+    "AU",
+    "Fypsa"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 385,
+   "frequencia": "Várias saídas diárias, inclusive noturnas",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 552,
+    "max": 670
+   },
+   "terminais": {
+    "saida": "TAPO (Terminal de Autobuses de Oriente)",
+    "chegada": "Central de Autobuses Oaxaca (ADO/OCC); AU em outro terminal"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Duração 6h25-8h35 (GeckoRoutes); Wikivoyage: ~6,5 h. Preço: ADO M$552 e Fypsa M$270 (Wikivoyage, fev/2026); 'a partir de' 670 MXN (GeckoRoutes). Voo MEX-OAX: 78 min, ver voos internos.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-oaxaca/",
+    "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Oaxaca",
+   "para": "Puerto Escondido",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO",
+    "OCC",
+    "ADO GL"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 180,
+   "frequencia": "Várias saídas diárias; vans/colectivos de hora em hora (Villa del Pacífico, Service Express); Oaxaca Shuttle 1 saída/dia ao meio-dia",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 295,
+    "max": 600
+   },
+   "terminais": {
+    "saida": "Central de Autobuses Oaxaca",
+    "chegada": "Terminal OCC/ADO Puerto Escondido"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "ROTA NOVA: a autopista Barranca Larga-Ventanilla (aberta no início de 2024) cortou a viagem para ~3 h (ônibus 295 MXN; colectivo 3h30 ~300 MXN; shuttle 2h40 ~600 MXN). ROTA ANTIGA de serra (ônibus 2ª classe: 7-8 h, até ~10,5 h antes da autopista): curvas fechadas - ALERTA DE ENJOO: tome remédio antes, sente na frente/janela, evite comer pesado e prefira horário diurno. Confirme com a empresa que o serviço usa a autopista nova. Voo: só aviões pequenos (Aerotucán). Semana Santa lota a cidade (Wikivoyage).",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/",
+    "https://en.wikivoyage.org/wiki/Puerto_Escondido",
+    "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "San Cristóbal de las Casas",
+   "para": "Palenque",
+   "modal": "onibus",
+   "operadoras": [
+    "ADO"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 505,
+   "frequencia": "~4 saídas/dia (ex.: 10:00, 12:10, 13:10; opções noturnas)",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 460,
+    "max": 460
+   },
+   "terminais": {
+    "saida": "Terminal de San Cristóbal (10 min a pé do centro; OCC na Av. Insurgentes)",
+    "chegada": "Central de Autobuses ADO Palenque"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "8h05-8h45 de ônibus (Wikivoyage: 8-9 h). Táxi seguro ~7 h por ~5.500 MXN/veículo. Há dois caminhos: via Villahermosa (rodovia pedagiada, mais longa e bem conservada) e via Ocosingo (mais curta, serra, com relatos de preocupações de segurança); a estrada para San Cristóbal é sinuosa e causa enjoo. Chiapas: nível 2 EUA, mas o Canadá recomenda evitar viagens não essenciais ao estado, com exceção de Palenque, Tuxtla e San Cristóbal.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/san-cristobal-de-las-casas-a-palenque/",
+    "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+    "https://en.wikivoyage.org/wiki/Palenque",
+    "https://travel.gc.ca/destinations/mexico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "La Paz",
+   "para": "Todos Santos",
+   "modal": "onibus",
+   "operadoras": [
+    "Autotransportes Águila",
+    "ABC",
+    "Playa Bus"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 60,
+   "frequencia": "3 saídas: 06:30, 08:00 e 10:00",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 247,
+    "max": 247
+   },
+   "terminais": {
+    "saida": "Terminal de La Paz (malecón)",
+    "chegada": "Todos Santos"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Todos Santos fica a ~1 h de La Paz e ~1 h de Cabo San Lucas (Wikivoyage). Poucas saídas: considere carro/transfer.",
+   "fontes": [
+    "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361",
+    "https://en.wikivoyage.org/wiki/Todos_Santos"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "La Paz",
+   "para": "Los Cabos (Cabo San Lucas / San José del Cabo)",
+   "modal": "onibus",
+   "operadoras": [
+    "Autotransportes Águila",
+    "ABC",
+    "Playa Bus"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 120,
+   "frequencia": "Cabo San Lucas: de hora em hora, 07:00-21:30; San José del Cabo: saídas similares; navette a SJD 06:30-11:00",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 404,
+    "max": 482
+   },
+   "terminais": {
+    "saida": "Terminal de La Paz (malecón)",
+    "chegada": "Cabo San Lucas / San José del Cabo"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "404 MXN (Cabo San Lucas, rota curta via Todos Santos) e 482 MXN (San José del Cabo); navette ao aeroporto SJD 738 MXN. Duração real do ônibus não confirmada; de carro: Cabo-La Paz ~2 h (97 mi), SJD-La Paz ~2h30 (116 mi) segundo The Cabo Sun.",
+   "fontes": [
+    "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361",
+    "https://thecabosun.com/these-are-the-best-ways-to-get-between-los-cabos-and-la-paz/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Guadalajara",
+   "para": "Puerto Vallarta",
+   "modal": "onibus",
+   "operadoras": [
+    "Primera Plus",
+    "ETN",
+    "Vallarta Plus",
+    "Autovías"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 330,
+   "frequencia": "Várias saídas diárias",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 723,
+    "max": 879
+   },
+   "terminais": {
+    "saida": "Nueva Central Camionera (Tlaquepaque) ou Terminal Milenio (Zapopan)",
+    "chegada": "Central Camionera Puerto Vallarta (Av. Insurgentes; ~15-20 min a pé do Malecón)"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "4,5-6 h conforme linha/trânsito; tarifas 2026 reportadas 723-879 MXN (Aztecajalisco); pedágio de carro ~2.600 MXN ida e volta. Jalisco é nível 3 (EUA) e o Canadá aconselha evitar viagens não essenciais a áreas de fronteira de Jalisco.",
+   "fontes": [
+    "https://www.aztecajalisco.com/noticias-jalisco/como-llegar-barato-guadalajara-a-puerto-vallarta/",
+    "https://www.mexicotravelandleisure.com/blog/guadalajara-to-puerto-vallarta/",
+    "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cidade do México",
+   "para": "Guanajuato",
+   "modal": "onibus",
+   "operadoras": [
+    "ETN",
+    "Primera Plus",
+    "Omnibus de México"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 270,
+   "frequencia": "~10 saídas/dia por empresa (ETN e Primera Plus), Terminal Norte sala 1",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 400,
+    "max": 700
+   },
+   "terminais": {
+    "saida": "Terminal Central de Autobuses del Norte (ou Terminal Poniente/Observatorio)",
+    "chegada": "Central de Autobuses Guanajuato"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "4-5 h; faixa 400-700 MXN. De avião: o BJX tem ônibus só até León (Wikivoyage, jan/2024). Guanajuato: nível 3 (EUA).",
+   "fontes": [
+    "https://blog.felicesvacaciones.es/cuanto-cuesta-el-boleto-de-autobus-de-mexico-a-guanajuato",
+    "https://en.wikivoyage.org/wiki/Guanajuato"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Cidade do México",
+   "para": "San Miguel de Allende",
+   "modal": "onibus",
+   "operadoras": [
+    "Primera Plus",
+    "ETN",
+    "Futura Select"
+   ],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 285,
+   "frequencia": "Primera Plus 07:15/09:15/11:15+; Futura 07:45; ETN 06:00-16:30",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 870,
+    "max": 870
+   },
+   "terminais": {
+    "saida": "Central de Autobuses del Norte",
+    "chegada": "Central de Autobuses San Miguel de Allende"
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "Ônibus 3h50-5h30; total com transferes 4h30-6h10. Preço 'a partir de' ~870 MXN segundo GeckoRoutes (€43). Carro privado (3 pax) ~8.300 MXN. ~297 km por estrada.",
+   "fontes": [
+    "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-san-miguel-de-allende/"
+   ],
+   "confianca": "media"
+  },
+  {
+   "de": "Guanajuato",
+   "para": "San Miguel de Allende",
+   "modal": "onibus",
+   "operadoras": [],
+   "duracaoPortaAPortaMin": 0,
+   "duracaoVeiculoMin": 0,
+   "frequencia": "Não coletada",
+   "faixaPreco": {
+    "moeda": "MXN",
+    "min": 0,
+    "max": 0
+   },
+   "terminais": {
+    "saida": "",
+    "chegada": ""
+   },
+   "antecedenciaDias": 0,
+   "observacoes": "DADOS NÃO CONFIRMADOS neste trecho direto (duração, preço, empresas). Referências: BJX fica a ~95 km a oeste de SMA e Querétaro (QRO) a ~90 km a sudeste; navette Bajiogo a partir de QRO/BJX por ~M$500-600 (jan/2024).",
+   "fontes": [
+    "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "baixa"
+  }
+ ],
+ "aeroportos": [
+  {
+   "iata": "MEX",
+   "nome": "Aeropuerto Internacional Benito Juárez (AICM)",
+   "cidade": "Cidade do México",
+   "coords": {
+    "lat": 19.43611,
+    "lng": -99.07194
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Wikivoyage: hotéis do centro a 15 min de táxi SÓ se o trânsito estiver leve ('raramente'). Metrô linha 5 até Terminal Aérea. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City_International_Airport",
+    "https://en.wikivoyage.org/wiki/Mexico_City"
+   ]
+  },
+  {
+   "iata": "NLU",
+   "nome": "Aeropuerto Internacional Felipe Ángeles (AIFA)",
+   "cidade": "Santa Lucía/Zumpango, Estado de México (serve a CDMX)",
+   "coords": {
+    "lat": 19.75667,
+    "lng": -99.01528
+   },
+   "tempoAoCentroMin": 90,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "ATENÇÃO: 49 km da cidade, 'reserve pelo menos 90 min' até o centro (Wikivoyage); transporte público limitado. Trem Felipe Ángeles AIFA-Buenavista inaugurado em 26/04/2026 (Wikipedia) - tempo/tarifa não confirmados. Teotihuacán fica a ~40 min de carro do AIFA. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Felipe_%C3%81ngeles_International_Airport",
+    "https://en.wikivoyage.org/wiki/Mexico_City"
+   ]
+  },
+  {
+   "iata": "CUN",
+   "nome": "Aeropuerto Internacional de Cancún",
+   "cidade": "Cancún",
+   "coords": {
+    "lat": 21.03667,
+    "lng": -86.87694
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "~10 km da zona hoteleira e ~15 km do centro (Wikivoyage); minutos não informados. Estação do Tren Maya no aeroporto; shuttle entre terminais a cada 10 min. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn_International_Airport",
+    "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+   ]
+  },
+  {
+   "iata": "MID",
+   "nome": "Aeropuerto Internacional Manuel Crescencio Rejón",
+   "cidade": "Mérida",
+   "coords": {
+    "lat": 20.93694,
+    "lng": -89.65778
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "7,6 km a sudoeste da praça central (Wikivoyage); minutos não informados. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida_International_Airport",
+    "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+   ]
+  },
+  {
+   "iata": "OAX",
+   "nome": "Aeropuerto Internacional de Xoxocotlán",
+   "cidade": "Oaxaca de Juárez",
+   "coords": {
+    "lat": 17.0,
+    "lng": -96.72667
+   },
+   "tempoAoCentroMin": 25,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "~8 km do centro, 20-30 min de carro; táxi com preço fixo ~M$350 (fev/2026) (Wikivoyage). Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_International_Airport",
+    "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+   ]
+  },
+  {
+   "iata": "TGZ",
+   "nome": "Aeropuerto Internacional Ángel Albino Corzo",
+   "cidade": "Tuxtla Gutiérrez (Chiapa de Corzo)",
+   "coords": {
+    "lat": 16.56361,
+    "lng": -93.0225
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "~30 km da cidade; ônibus direto ao San Cristóbal ~1h15 (dado de 2016). Minutos ao centro não informados. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez_International_Airport",
+    "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ]
+  },
+  {
+   "iata": "SJD",
+   "nome": "Aeropuerto Internacional de Los Cabos",
+   "cidade": "San José del Cabo",
+   "coords": {
+    "lat": 23.15167,
+    "lng": -109.72083
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Até Cabo San Lucas 30-60 min conforme trânsito; ~1h30 de Todos Santos (Wikivoyage). Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Los_Cabos_International_Airport",
+    "https://en.wikivoyage.org/wiki/Los_Cabos",
+    "https://en.wikivoyage.org/wiki/Todos_Santos"
+   ]
+  },
+  {
+   "iata": "LAP",
+   "nome": "Aeropuerto Internacional Manuel Márquez de León",
+   "cidade": "La Paz",
+   "coords": {
+    "lat": 24.0725,
+    "lng": -110.36222
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Tempo ao centro não coletado. Wikivoyage: de La Paz a Todos Santos ~60 min. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz_International_Airport",
+    "https://en.wikivoyage.org/wiki/Todos_Santos"
+   ]
+  },
+  {
+   "iata": "PVR",
+   "nome": "Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
+   "cidade": "Puerto Vallarta",
+   "coords": {
+    "lat": 20.68,
+    "lng": -105.25417
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Ônibus 'Centro' M$22 (jan/2026) no ponto junto à passarela; táxi oficial branco do aeroporto é mais caro que o amarelo da rua (Wikivoyage). Distância/tempo ao centro não confirmados. Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Licenciado_Gustavo_D%C3%ADaz_Ordaz_International_Airport",
+    "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+   ]
+  },
+  {
+   "iata": "BJX",
+   "nome": "Aeropuerto Internacional del Bajío",
+   "cidade": "Silao/León (serve Guanajuato)",
+   "coords": {
+    "lat": 20.99333,
+    "lng": -101.48083
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "~95 km de San Miguel de Allende; sem ônibus direto do aeroporto a Guanajuato, só a León (jan/2024) (Wikivoyage). Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Baj%C3%ADo_International_Airport",
+    "https://en.wikivoyage.org/wiki/Guanajuato",
+    "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+   ]
+  },
+  {
+   "iata": "HUX",
+   "nome": "Aeropuerto Internacional Bahías de Huatulco",
+   "cidade": "Santa María Huatulco",
+   "coords": {
+    "lat": 15.77528,
+    "lng": -96.2625
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Táxis autorizados são mais caros; ônibus local M$20 (2024) na rua principal a ~500 m do terminal (Wikivoyage). Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Bah%C3%ADas_de_Huatulco_International_Airport",
+    "https://en.wikivoyage.org/wiki/Huatulco"
+   ]
+  },
+  {
+   "iata": "PXM",
+   "nome": "Aeropuerto Internacional de Puerto Escondido",
+   "cidade": "Puerto Escondido",
+   "coords": {
+    "lat": 15.87667,
+    "lng": -97.08889
+   },
+   "tempoAoCentroMin": 0,
+   "antecedenciaDomesticaMin": 0,
+   "antecedenciaInternacionalMin": 0,
+   "desembarqueDomesticoMin": 0,
+   "desembarqueInternacionalMin": 0,
+   "observacoes": "Aeroporto 'próximo da cidade'; colectivo ~M$35/pessoa (Wikivoyage). Antecedência de check-in e tempos de desembarque NÃO confirmados em fonte aberta (sites das cias não carregaram): usar a regra da companhia.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Escondido_International_Airport",
+    "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+   ]
+  }
+ ],
+ "climaPorRegiaoEMes": [
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 1,
+   "tempMinC": 8.5,
+   "tempMaxC": 22.4,
+   "chuvaMm": 11.9,
+   "diasDeChuva": 2.7,
+   "resumo": "Máx. média 22.4 °C / mín. média 8.5 °C; 11.9 mm em ~2.7 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 2,
+   "tempMinC": 9.5,
+   "tempMaxC": 24.3,
+   "chuvaMm": 5.7,
+   "diasDeChuva": 2.1,
+   "resumo": "Máx. média 24.3 °C / mín. média 9.5 °C; 5.7 mm em ~2.1 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 3,
+   "tempMinC": 11.1,
+   "tempMaxC": 26.1,
+   "chuvaMm": 11.8,
+   "diasDeChuva": 3.8,
+   "resumo": "Máx. média 26.1 °C / mín. média 11.1 °C; 11.8 mm em ~3.8 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 4,
+   "tempMinC": 13.1,
+   "tempMaxC": 27.5,
+   "chuvaMm": 24.2,
+   "diasDeChuva": 6.7,
+   "resumo": "Máx. média 27.5 °C / mín. média 13.1 °C; 24.2 mm em ~6.7 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 5,
+   "tempMinC": 13.7,
+   "tempMaxC": 27.2,
+   "chuvaMm": 59.4,
+   "diasDeChuva": 11.1,
+   "resumo": "Máx. média 27.2 °C / mín. média 13.7 °C; 59.4 mm em ~11.1 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 6,
+   "tempMinC": 13.8,
+   "tempMaxC": 25.8,
+   "chuvaMm": 132.5,
+   "diasDeChuva": 16.3,
+   "resumo": "Máx. média 25.8 °C / mín. média 13.8 °C; 132.5 mm em ~16.3 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 7,
+   "tempMinC": 13.0,
+   "tempMaxC": 24.7,
+   "chuvaMm": 174.0,
+   "diasDeChuva": 21.8,
+   "resumo": "Máx. média 24.7 °C / mín. média 13 °C; 174 mm em ~21.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 8,
+   "tempMinC": 13.2,
+   "tempMaxC": 24.6,
+   "chuvaMm": 175.6,
+   "diasDeChuva": 20.8,
+   "resumo": "Máx. média 24.6 °C / mín. média 13.2 °C; 175.6 mm em ~20.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 9,
+   "tempMinC": 13.1,
+   "tempMaxC": 23.7,
+   "chuvaMm": 158.1,
+   "diasDeChuva": 18.2,
+   "resumo": "Máx. média 23.7 °C / mín. média 13.1 °C; 158.1 mm em ~18.2 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 10,
+   "tempMinC": 11.8,
+   "tempMaxC": 23.5,
+   "chuvaMm": 71.3,
+   "diasDeChuva": 10.1,
+   "resumo": "Máx. média 23.5 °C / mín. média 11.8 °C; 71.3 mm em ~10.1 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 11,
+   "tempMinC": 9.9,
+   "tempMaxC": 22.8,
+   "chuvaMm": 17.4,
+   "diasDeChuva": 3.7,
+   "resumo": "Máx. média 22.8 °C / mín. média 9.9 °C; 17.4 mm em ~3.7 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Vale do México (CDMX, Tacubaya) - 2.240 m",
+   "mes": 12,
+   "tempMinC": 8.5,
+   "tempMaxC": 22.4,
+   "chuvaMm": 5.0,
+   "diasDeChuva": 1.2,
+   "resumo": "Máx. média 22.4 °C / mín. média 8.5 °C; 5 mm em ~1.2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Antropologia, Palacio de Bellas Artes), mercados cobertos e cafés; programe passeios externos (Teotihuacán, Xochimilco) para a manhã, quando a chuva é menos provável.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, estação Tacubaya (via Wikipedia)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 1,
+   "tempMinC": 5.3,
+   "tempMaxC": 23.0,
+   "chuvaMm": 9.8,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 23 °C / mín. média 5.3 °C; 9.8 mm em ~2.4 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 2,
+   "tempMinC": 6.8,
+   "tempMaxC": 24.9,
+   "chuvaMm": 7.5,
+   "diasDeChuva": 1.9,
+   "resumo": "Máx. média 24.9 °C / mín. média 6.8 °C; 7.5 mm em ~1.9 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 3,
+   "tempMinC": 8.8,
+   "tempMaxC": 26.9,
+   "chuvaMm": 13.9,
+   "diasDeChuva": 4.1,
+   "resumo": "Máx. média 26.9 °C / mín. média 8.8 °C; 13.9 mm em ~4.1 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 4,
+   "tempMinC": 11.0,
+   "tempMaxC": 28.4,
+   "chuvaMm": 28.7,
+   "diasDeChuva": 7.5,
+   "resumo": "Máx. média 28.4 °C / mín. média 11 °C; 28.7 mm em ~7.5 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 5,
+   "tempMinC": 12.2,
+   "tempMaxC": 28.5,
+   "chuvaMm": 91.0,
+   "diasDeChuva": 14.9,
+   "resumo": "Máx. média 28.5 °C / mín. média 12.2 °C; 91 mm em ~14.9 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 6,
+   "tempMinC": 12.8,
+   "tempMaxC": 26.5,
+   "chuvaMm": 202.2,
+   "diasDeChuva": 20.2,
+   "resumo": "Máx. média 26.5 °C / mín. média 12.8 °C; 202.2 mm em ~20.2 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 7,
+   "tempMinC": 11.9,
+   "tempMaxC": 26.0,
+   "chuvaMm": 174.7,
+   "diasDeChuva": 18.1,
+   "resumo": "Máx. média 26 °C / mín. média 11.9 °C; 174.7 mm em ~18.1 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 8,
+   "tempMinC": 12.0,
+   "tempMaxC": 26.1,
+   "chuvaMm": 191.3,
+   "diasDeChuva": 20.0,
+   "resumo": "Máx. média 26.1 °C / mín. média 12 °C; 191.3 mm em ~20 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 9,
+   "tempMinC": 11.9,
+   "tempMaxC": 25.0,
+   "chuvaMm": 213.5,
+   "diasDeChuva": 21.2,
+   "resumo": "Máx. média 25 °C / mín. média 11.9 °C; 213.5 mm em ~21.2 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 10,
+   "tempMinC": 10.3,
+   "tempMaxC": 25.2,
+   "chuvaMm": 82.4,
+   "diasDeChuva": 12.2,
+   "resumo": "Máx. média 25.2 °C / mín. média 10.3 °C; 82.4 mm em ~12.2 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 11,
+   "tempMinC": 7.9,
+   "tempMaxC": 24.5,
+   "chuvaMm": 25.7,
+   "diasDeChuva": 4.0,
+   "resumo": "Máx. média 24.5 °C / mín. média 7.9 °C; 25.7 mm em ~4 dias de chuva (seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Puebla (Planalto central) - ~2.100 m",
+   "mes": 12,
+   "tempMinC": 5.9,
+   "tempMaxC": 23.5,
+   "chuvaMm": 4.2,
+   "diasDeChuva": 1.1,
+   "resumo": "Máx. média 23.5 °C / mín. média 5.9 °C; 4.2 mm em ~1.1 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus e igrejas (Capilla del Rosario), gastronomia em mercados; saídas ao vulcão/pirâmide de Cholula pela manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puebla_(city)"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 1,
+   "tempMinC": 19.3,
+   "tempMaxC": 28.5,
+   "chuvaMm": 56.4,
+   "diasDeChuva": 6.4,
+   "resumo": "Máx. média 28.5 °C / mín. média 19.3 °C; 56.4 mm em ~6.4 dias de chuva (moderado).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): mínimo sazonal (inverno) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 2,
+   "tempMinC": 19.6,
+   "tempMaxC": 29.3,
+   "chuvaMm": 42.7,
+   "diasDeChuva": 4.4,
+   "resumo": "Máx. média 29.3 °C / mín. média 19.6 °C; 42.7 mm em ~4.4 dias de chuva (seco).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): mínimo sazonal (inverno) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 3,
+   "tempMinC": 20.8,
+   "tempMaxC": 30.6,
+   "chuvaMm": 45.4,
+   "diasDeChuva": 3.9,
+   "resumo": "Máx. média 30.6 °C / mín. média 20.8 °C; 45.4 mm em ~3.9 dias de chuva (seco).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): começa a subir (primavera) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 4,
+   "tempMinC": 22.4,
+   "tempMaxC": 32.1,
+   "chuvaMm": 37.1,
+   "diasDeChuva": 3.2,
+   "resumo": "Máx. média 32.1 °C / mín. média 22.4 °C; 37.1 mm em ~3.2 dias de chuva (seco).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): alto (primavera/verão) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 5,
+   "tempMinC": 23.9,
+   "tempMaxC": 33.3,
+   "chuvaMm": 84.4,
+   "diasDeChuva": 5.9,
+   "resumo": "Máx. média 33.3 °C / mín. média 23.9 °C; 84.4 mm em ~5.9 dias de chuva (moderado).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): alto (primavera/verão) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 6,
+   "tempMinC": 24.6,
+   "tempMaxC": 33.6,
+   "chuvaMm": 145.6,
+   "diasDeChuva": 10.3,
+   "resumo": "Máx. média 33.6 °C / mín. média 24.6 °C; 145.6 mm em ~10.3 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov), atividade menor neste mês; Sargaço (Riviera Maya): PICO (jun-jul) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 7,
+   "tempMinC": 24.5,
+   "tempMaxC": 34.0,
+   "chuvaMm": 111.4,
+   "diasDeChuva": 9.8,
+   "resumo": "Máx. média 34 °C / mín. média 24.5 °C; 111.4 mm em ~9.8 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov), atividade menor neste mês; Sargaço (Riviera Maya): PICO (jun-jul) [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 8,
+   "tempMinC": 24.5,
+   "tempMaxC": 34.2,
+   "chuvaMm": 115.1,
+   "diasDeChuva": 9.6,
+   "resumo": "Máx. média 34.2 °C / mín. média 24.5 °C; 115.1 mm em ~9.6 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov): atividade mais intensa de meados de ago a meados de out, pico ~10/set; Sargaço (Riviera Maya): alto (verão), começando a ceder [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 9,
+   "tempMinC": 24.1,
+   "tempMaxC": 33.3,
+   "chuvaMm": 223.1,
+   "diasDeChuva": 14.3,
+   "resumo": "Máx. média 33.3 °C / mín. média 24.1 °C; 223.1 mm em ~14.3 dias de chuva (muito chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov): atividade mais intensa de meados de ago a meados de out, pico ~10/set; Sargaço (Riviera Maya): em queda, mas ainda acima do normal em 2026 [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 10,
+   "tempMinC": 23.1,
+   "tempMaxC": 31.6,
+   "chuvaMm": 242.1,
+   "diasDeChuva": 14.8,
+   "resumo": "Máx. média 31.6 °C / mín. média 23.1 °C; 242.1 mm em ~14.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov): atividade mais intensa de meados de ago a meados de out, pico ~10/set; Sargaço (Riviera Maya): em queda [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 11,
+   "tempMinC": 21.5,
+   "tempMaxC": 30.1,
+   "chuvaMm": 112.5,
+   "diasDeChuva": 8.8,
+   "resumo": "Máx. média 30.1 °C / mín. média 21.5 °C; 112.5 mm em ~8.8 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Atlântico/Caribe (1/jun-30/nov), atividade menor neste mês; Sargaço (Riviera Maya): baixo [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Caribe / Quintana Roo (Cancún, aeroporto)",
+   "mes": 12,
+   "tempMinC": 20.0,
+   "tempMaxC": 28.9,
+   "chuvaMm": 79.5,
+   "diasDeChuva": 7.7,
+   "resumo": "Máx. média 28.9 °C / mín. média 20 °C; 79.5 mm em ~7.7 dias de chuva (moderado).",
+   "marEVento": "Fora da temporada de furacões do Atlântico/Caribe; Sargaço (Riviera Maya): baixo [USF: pico jun-jul; mínimo no inverno]",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Cenotes cobertos/semi-cobertos, Museo Maya, shopping e spa; a chuva caribenha costuma ser em pancadas curtas, reorganize para a manhã.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media - SMN via Wikipedia; o rótulo diz 1991-2020 mas a referência citada é a série 1951-2010 (a amostra pode ser a série mais antiga)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 1,
+   "tempMinC": 16.9,
+   "tempMaxC": 30.8,
+   "chuvaMm": 34.4,
+   "diasDeChuva": 4.4,
+   "resumo": "Máx. média 30.8 °C / mín. média 16.9 °C; 34.4 mm em ~4.4 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 2,
+   "tempMinC": 17.5,
+   "tempMaxC": 32.1,
+   "chuvaMm": 26.7,
+   "diasDeChuva": 3.1,
+   "resumo": "Máx. média 32.1 °C / mín. média 17.5 °C; 26.7 mm em ~3.1 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 3,
+   "tempMinC": 19.1,
+   "tempMaxC": 34.5,
+   "chuvaMm": 26.4,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 34.5 °C / mín. média 19.1 °C; 26.4 mm em ~2.4 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 4,
+   "tempMinC": 21.0,
+   "tempMaxC": 36.3,
+   "chuvaMm": 25.0,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 36.3 °C / mín. média 21 °C; 25 mm em ~2.4 dias de chuva (seco). Calor extremo de dia.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 5,
+   "tempMinC": 22.3,
+   "tempMaxC": 36.7,
+   "chuvaMm": 66.8,
+   "diasDeChuva": 5.2,
+   "resumo": "Máx. média 36.7 °C / mín. média 22.3 °C; 66.8 mm em ~5.2 dias de chuva (moderado). Calor extremo de dia.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 6,
+   "tempMinC": 22.8,
+   "tempMaxC": 35.1,
+   "chuvaMm": 152.0,
+   "diasDeChuva": 11.5,
+   "resumo": "Máx. média 35.1 °C / mín. média 22.8 °C; 152 mm em ~11.5 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 7,
+   "tempMinC": 22.6,
+   "tempMaxC": 35.0,
+   "chuvaMm": 143.1,
+   "diasDeChuva": 11.9,
+   "resumo": "Máx. média 35 °C / mín. média 22.6 °C; 143.1 mm em ~11.9 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 8,
+   "tempMinC": 22.6,
+   "tempMaxC": 35.1,
+   "chuvaMm": 152.3,
+   "diasDeChuva": 12.5,
+   "resumo": "Máx. média 35.1 °C / mín. média 22.6 °C; 152.3 mm em ~12.5 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 9,
+   "tempMinC": 22.6,
+   "tempMaxC": 34.2,
+   "chuvaMm": 184.2,
+   "diasDeChuva": 13.5,
+   "resumo": "Máx. média 34.2 °C / mín. média 22.6 °C; 184.2 mm em ~13.5 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 10,
+   "tempMinC": 21.4,
+   "tempMaxC": 32.7,
+   "chuvaMm": 98.7,
+   "diasDeChuva": 7.8,
+   "resumo": "Máx. média 32.7 °C / mín. média 21.4 °C; 98.7 mm em ~7.8 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 11,
+   "tempMinC": 19.2,
+   "tempMaxC": 31.6,
+   "chuvaMm": 42.4,
+   "diasDeChuva": 4.1,
+   "resumo": "Máx. média 31.6 °C / mín. média 19.2 °C; 42.4 mm em ~4.1 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Yucatán interior (Mérida)",
+   "mes": 12,
+   "tempMinC": 17.5,
+   "tempMaxC": 30.7,
+   "chuvaMm": 44.5,
+   "diasDeChuva": 4.1,
+   "resumo": "Máx. média 30.7 °C / mín. média 17.5 °C; 44.5 mm em ~4.1 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museo del Mundo Maya, Gran Museo, mercados e cenotes cobertos; evitar sítios abertos (Uxmal, Chichén) no meio do dia, quando faz calor e há tempestades à tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020, Mérida Centro/Observatório (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 1,
+   "tempMinC": 10.3,
+   "tempMaxC": 28.9,
+   "chuvaMm": 2.4,
+   "diasDeChuva": 1.0,
+   "resumo": "Máx. média 28.9 °C / mín. média 10.3 °C; 2.4 mm em ~1 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 2,
+   "tempMinC": 11.6,
+   "tempMaxC": 31.1,
+   "chuvaMm": 4.6,
+   "diasDeChuva": 1.3,
+   "resumo": "Máx. média 31.1 °C / mín. média 11.6 °C; 4.6 mm em ~1.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 3,
+   "tempMinC": 13.6,
+   "tempMaxC": 33.3,
+   "chuvaMm": 17.6,
+   "diasDeChuva": 2.3,
+   "resumo": "Máx. média 33.3 °C / mín. média 13.6 °C; 17.6 mm em ~2.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 4,
+   "tempMinC": 15.8,
+   "tempMaxC": 34.9,
+   "chuvaMm": 47.3,
+   "diasDeChuva": 5.7,
+   "resumo": "Máx. média 34.9 °C / mín. média 15.8 °C; 47.3 mm em ~5.7 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 5,
+   "tempMinC": 16.7,
+   "tempMaxC": 33.8,
+   "chuvaMm": 97.9,
+   "diasDeChuva": 10.5,
+   "resumo": "Máx. média 33.8 °C / mín. média 16.7 °C; 97.9 mm em ~10.5 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 6,
+   "tempMinC": 16.7,
+   "tempMaxC": 30.9,
+   "chuvaMm": 188.3,
+   "diasDeChuva": 17.2,
+   "resumo": "Máx. média 30.9 °C / mín. média 16.7 °C; 188.3 mm em ~17.2 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 7,
+   "tempMinC": 15.9,
+   "tempMaxC": 30.1,
+   "chuvaMm": 118.6,
+   "diasDeChuva": 16.9,
+   "resumo": "Máx. média 30.1 °C / mín. média 15.9 °C; 118.6 mm em ~16.9 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 8,
+   "tempMinC": 15.9,
+   "tempMaxC": 30.0,
+   "chuvaMm": 131.8,
+   "diasDeChuva": 16.5,
+   "resumo": "Máx. média 30 °C / mín. média 15.9 °C; 131.8 mm em ~16.5 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 9,
+   "tempMinC": 16.1,
+   "tempMaxC": 29.1,
+   "chuvaMm": 163.6,
+   "diasDeChuva": 17.2,
+   "resumo": "Máx. média 29.1 °C / mín. média 16.1 °C; 163.6 mm em ~17.2 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 10,
+   "tempMinC": 14.5,
+   "tempMaxC": 29.3,
+   "chuvaMm": 63.1,
+   "diasDeChuva": 7.6,
+   "resumo": "Máx. média 29.3 °C / mín. média 14.5 °C; 63.1 mm em ~7.6 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 11,
+   "tempMinC": 12.3,
+   "tempMaxC": 29.0,
+   "chuvaMm": 9.1,
+   "diasDeChuva": 2.3,
+   "resumo": "Máx. média 29 °C / mín. média 12.3 °C; 9.1 mm em ~2.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - serra / Valles Centrais (Oaxaca de Juárez, ~1.550 m)",
+   "mes": 12,
+   "tempMinC": 11.0,
+   "tempMaxC": 28.9,
+   "chuvaMm": 9.0,
+   "diasDeChuva": 0.9,
+   "resumo": "Máx. média 28.9 °C / mín. média 11 °C; 9 mm em ~0.9 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Mercados, oficinas de mezcal/mole, Museo de las Culturas; Monte Albán pela manhã. A chuva costuma vir no fim da tarde.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Oaxaca_City"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 1,
+   "tempMinC": 23.0,
+   "tempMaxC": 32.0,
+   "chuvaMm": 3.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 32 °C / mín. média 23 °C; 3 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 2,
+   "tempMinC": 23.0,
+   "tempMaxC": 32.0,
+   "chuvaMm": 1.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 32 °C / mín. média 23 °C; 1 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 3,
+   "tempMinC": 24.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 1.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 33 °C / mín. média 24 °C; 1 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 4,
+   "tempMinC": 25.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 1.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 33 °C / mín. média 25 °C; 1 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 5,
+   "tempMinC": 26.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 27.0,
+   "diasDeChuva": 2.0,
+   "resumo": "Máx. média 33 °C / mín. média 26 °C; 27 mm em ~2 dias de chuva (seco).",
+   "marEVento": "Temporada de furacões do Pacífico começa em 15/mai",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 6,
+   "tempMinC": 26.0,
+   "tempMaxC": 32.0,
+   "chuvaMm": 176.0,
+   "diasDeChuva": 7.0,
+   "resumo": "Máx. média 32 °C / mín. média 26 °C; 176 mm em ~7 dias de chuva (muito chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 7,
+   "tempMinC": 26.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 124.0,
+   "diasDeChuva": 6.0,
+   "resumo": "Máx. média 33 °C / mín. média 26 °C; 124 mm em ~6 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 8,
+   "tempMinC": 26.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 121.0,
+   "diasDeChuva": 6.0,
+   "resumo": "Máx. média 33 °C / mín. média 26 °C; 121 mm em ~6 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 9,
+   "tempMinC": 25.0,
+   "tempMaxC": 32.0,
+   "chuvaMm": 174.0,
+   "diasDeChuva": 7.0,
+   "resumo": "Máx. média 32 °C / mín. média 25 °C; 174 mm em ~7 dias de chuva (muito chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 10,
+   "tempMinC": 25.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 66.0,
+   "diasDeChuva": 3.0,
+   "resumo": "Máx. média 33 °C / mín. média 25 °C; 66 mm em ~3 dias de chuva (moderado).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 11,
+   "tempMinC": 24.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 9.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 33 °C / mín. média 24 °C; 9 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Oaxaca - costa (Huatulco)",
+   "mes": 12,
+   "tempMinC": 23.0,
+   "tempMaxC": 33.0,
+   "chuvaMm": 1.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 33 °C / mín. média 23 °C; 1 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Baías protegidas e passeios de barco ficam inviáveis com chuva/ressaca; tenha dias de folga, spa e cafés em La Crucecita.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_Huatulco",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - Fonte secundária citada na Wikipedia (WeatherSpark/Holiday-Weather), valores arredondados; NÃO é normal oficial SMN"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 1,
+   "tempMinC": 5.1,
+   "tempMaxC": 20.9,
+   "chuvaMm": 9.9,
+   "diasDeChuva": 4.4,
+   "resumo": "Máx. média 20.9 °C / mín. média 5.1 °C; 9.9 mm em ~4.4 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 2,
+   "tempMinC": 5.3,
+   "tempMaxC": 22.0,
+   "chuvaMm": 9.1,
+   "diasDeChuva": 5.0,
+   "resumo": "Máx. média 22 °C / mín. média 5.3 °C; 9.1 mm em ~5 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 3,
+   "tempMinC": 6.6,
+   "tempMaxC": 23.2,
+   "chuvaMm": 16.0,
+   "diasDeChuva": 5.1,
+   "resumo": "Máx. média 23.2 °C / mín. média 6.6 °C; 16 mm em ~5.1 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 4,
+   "tempMinC": 8.5,
+   "tempMaxC": 24.0,
+   "chuvaMm": 37.1,
+   "diasDeChuva": 7.6,
+   "resumo": "Máx. média 24 °C / mín. média 8.5 °C; 37.1 mm em ~7.6 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 5,
+   "tempMinC": 10.5,
+   "tempMaxC": 23.1,
+   "chuvaMm": 141.1,
+   "diasDeChuva": 16.1,
+   "resumo": "Máx. média 23.1 °C / mín. média 10.5 °C; 141.1 mm em ~16.1 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 6,
+   "tempMinC": 11.9,
+   "tempMaxC": 22.0,
+   "chuvaMm": 234.9,
+   "diasDeChuva": 22.0,
+   "resumo": "Máx. média 22 °C / mín. média 11.9 °C; 234.9 mm em ~22 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 7,
+   "tempMinC": 10.8,
+   "tempMaxC": 22.4,
+   "chuvaMm": 140.6,
+   "diasDeChuva": 17.4,
+   "resumo": "Máx. média 22.4 °C / mín. média 10.8 °C; 140.6 mm em ~17.4 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 8,
+   "tempMinC": 11.2,
+   "tempMaxC": 22.4,
+   "chuvaMm": 180.3,
+   "diasDeChuva": 19.3,
+   "resumo": "Máx. média 22.4 °C / mín. média 11.2 °C; 180.3 mm em ~19.3 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 9,
+   "tempMinC": 11.5,
+   "tempMaxC": 21.9,
+   "chuvaMm": 228.7,
+   "diasDeChuva": 22.8,
+   "resumo": "Máx. média 21.9 °C / mín. média 11.5 °C; 228.7 mm em ~22.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 10,
+   "tempMinC": 10.4,
+   "tempMaxC": 21.5,
+   "chuvaMm": 106.2,
+   "diasDeChuva": 16.9,
+   "resumo": "Máx. média 21.5 °C / mín. média 10.4 °C; 106.2 mm em ~16.9 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 11,
+   "tempMinC": 7.9,
+   "tempMaxC": 21.0,
+   "chuvaMm": 32.3,
+   "diasDeChuva": 9.6,
+   "resumo": "Máx. média 21 °C / mín. média 7.9 °C; 32.3 mm em ~9.6 dias de chuva (seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - serra (San Cristóbal de las Casas, ~2.200 m)",
+   "mes": 12,
+   "tempMinC": 6.3,
+   "tempMaxC": 20.5,
+   "chuvaMm": 9.2,
+   "diasDeChuva": 2.9,
+   "resumo": "Máx. média 20.5 °C / mín. média 6.3 °C; 9.2 mm em ~2.9 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Textil Maya, Ámbar), mercados e cafés; leve agasalho e capa de chuva, as noites são frias o ano todo.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 1,
+   "tempMinC": 16.2,
+   "tempMaxC": 29.8,
+   "chuvaMm": 0.9,
+   "diasDeChuva": 0.7,
+   "resumo": "Máx. média 29.8 °C / mín. média 16.2 °C; 0.9 mm em ~0.7 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 2,
+   "tempMinC": 17.0,
+   "tempMaxC": 31.5,
+   "chuvaMm": 2.6,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 31.5 °C / mín. média 17 °C; 2.6 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 3,
+   "tempMinC": 18.4,
+   "tempMaxC": 33.9,
+   "chuvaMm": 3.2,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 33.9 °C / mín. média 18.4 °C; 3.2 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 4,
+   "tempMinC": 20.7,
+   "tempMaxC": 35.6,
+   "chuvaMm": 12.3,
+   "diasDeChuva": 1.7,
+   "resumo": "Máx. média 35.6 °C / mín. média 20.7 °C; 12.3 mm em ~1.7 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 5,
+   "tempMinC": 21.9,
+   "tempMaxC": 35.4,
+   "chuvaMm": 82.4,
+   "diasDeChuva": 8.1,
+   "resumo": "Máx. média 35.4 °C / mín. média 21.9 °C; 82.4 mm em ~8.1 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 6,
+   "tempMinC": 21.5,
+   "tempMaxC": 32.8,
+   "chuvaMm": 217.2,
+   "diasDeChuva": 17.8,
+   "resumo": "Máx. média 32.8 °C / mín. média 21.5 °C; 217.2 mm em ~17.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 7,
+   "tempMinC": 20.9,
+   "tempMaxC": 32.0,
+   "chuvaMm": 176.1,
+   "diasDeChuva": 16.9,
+   "resumo": "Máx. média 32 °C / mín. média 20.9 °C; 176.1 mm em ~16.9 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 8,
+   "tempMinC": 20.9,
+   "tempMaxC": 32.1,
+   "chuvaMm": 186.0,
+   "diasDeChuva": 16.6,
+   "resumo": "Máx. média 32.1 °C / mín. média 20.9 °C; 186 mm em ~16.6 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 9,
+   "tempMinC": 20.9,
+   "tempMaxC": 31.3,
+   "chuvaMm": 190.8,
+   "diasDeChuva": 18.1,
+   "resumo": "Máx. média 31.3 °C / mín. média 20.9 °C; 190.8 mm em ~18.1 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 10,
+   "tempMinC": 20.2,
+   "tempMaxC": 30.7,
+   "chuvaMm": 65.6,
+   "diasDeChuva": 8.4,
+   "resumo": "Máx. média 30.7 °C / mín. média 20.2 °C; 65.6 mm em ~8.4 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 11,
+   "tempMinC": 18.5,
+   "tempMaxC": 30.4,
+   "chuvaMm": 14.5,
+   "diasDeChuva": 2.5,
+   "resumo": "Máx. média 30.4 °C / mín. média 18.5 °C; 14.5 mm em ~2.5 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Chiapas - depressão central (Tuxtla Gutiérrez)",
+   "mes": 12,
+   "tempMinC": 16.9,
+   "tempMaxC": 29.7,
+   "chuvaMm": 2.9,
+   "diasDeChuva": 1.3,
+   "resumo": "Máx. média 29.7 °C / mín. média 16.9 °C; 2.9 mm em ~1.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Zoológico Miguel Álvarez del Toro e museus; Cañón del Sumidero em barco pode ser suspenso por chuva forte.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez"
+   ],
+   "confianca": "media - SMN, série 1951-2010 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 1,
+   "tempMinC": 12.3,
+   "tempMaxC": 25.4,
+   "chuvaMm": 9.3,
+   "diasDeChuva": 2.3,
+   "resumo": "Máx. média 25.4 °C / mín. média 12.3 °C; 9.3 mm em ~2.3 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 2,
+   "tempMinC": 12.8,
+   "tempMaxC": 26.5,
+   "chuvaMm": 5.5,
+   "diasDeChuva": 1.6,
+   "resumo": "Máx. média 26.5 °C / mín. média 12.8 °C; 5.5 mm em ~1.6 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 3,
+   "tempMinC": 13.7,
+   "tempMaxC": 29.3,
+   "chuvaMm": 0.8,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 29.3 °C / mín. média 13.7 °C; 0.8 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 4,
+   "tempMinC": 15.2,
+   "tempMaxC": 32.2,
+   "chuvaMm": 0.2,
+   "diasDeChuva": 0.3,
+   "resumo": "Máx. média 32.2 °C / mín. média 15.2 °C; 0.2 mm em ~0.3 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Baleias-cinzentas nas lagoas da Baja no inverno (meses exatos de início/fim não confirmados)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 5,
+   "tempMinC": 16.9,
+   "tempMaxC": 35.3,
+   "chuvaMm": 0.2,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 35.3 °C / mín. média 16.9 °C; 0.2 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico começa em 15/mai",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 6,
+   "tempMinC": 19.9,
+   "tempMaxC": 37.4,
+   "chuvaMm": 0.5,
+   "diasDeChuva": 0.8,
+   "resumo": "Máx. média 37.4 °C / mín. média 19.9 °C; 0.5 mm em ~0.8 dias de chuva (muito seco). Calor extremo de dia.",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 7,
+   "tempMinC": 23.8,
+   "tempMaxC": 38.2,
+   "chuvaMm": 11.7,
+   "diasDeChuva": 3.4,
+   "resumo": "Máx. média 38.2 °C / mín. média 23.8 °C; 11.7 mm em ~3.4 dias de chuva (muito seco). Calor extremo de dia.",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 8,
+   "tempMinC": 25.2,
+   "tempMaxC": 37.8,
+   "chuvaMm": 45.5,
+   "diasDeChuva": 6.3,
+   "resumo": "Máx. média 37.8 °C / mín. média 25.2 °C; 45.5 mm em ~6.3 dias de chuva (seco). Calor extremo de dia.",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 9,
+   "tempMinC": 24.7,
+   "tempMaxC": 35.9,
+   "chuvaMm": 81.4,
+   "diasDeChuva": 6.3,
+   "resumo": "Máx. média 35.9 °C / mín. média 24.7 °C; 81.4 mm em ~6.3 dias de chuva (moderado).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 10,
+   "tempMinC": 21.2,
+   "tempMaxC": 34.0,
+   "chuvaMm": 17.3,
+   "diasDeChuva": 1.8,
+   "resumo": "Máx. média 34 °C / mín. média 21.2 °C; 17.3 mm em ~1.8 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 11,
+   "tempMinC": 17.2,
+   "tempMaxC": 29.8,
+   "chuvaMm": 6.2,
+   "diasDeChuva": 1.2,
+   "resumo": "Máx. média 29.8 °C / mín. média 17.2 °C; 6.2 mm em ~1.2 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - La Paz",
+   "mes": 12,
+   "tempMinC": 13.9,
+   "tempMaxC": 25.5,
+   "chuvaMm": 6.9,
+   "diasDeChuva": 1.7,
+   "resumo": "Máx. média 25.5 °C / mín. média 13.9 °C; 6.9 mm em ~1.7 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Baleias-cinzentas nas lagoas da Baja no inverno (meses exatos de início/fim não confirmados)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Malecón, museus e cafés; passeios de barco (ilhas) dependem de mar/vento e ficam suspensos em tempestade.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 1,
+   "tempMinC": 12.8,
+   "tempMaxC": 26.6,
+   "chuvaMm": 6.0,
+   "diasDeChuva": 0.9,
+   "resumo": "Máx. média 26.6 °C / mín. média 12.8 °C; 6 mm em ~0.9 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Temporada de baleias em Los Cabos (jan-mar)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 2,
+   "tempMinC": 12.9,
+   "tempMaxC": 27.1,
+   "chuvaMm": 4.7,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 27.1 °C / mín. média 12.9 °C; 4.7 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Temporada de baleias em Los Cabos (jan-mar)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 3,
+   "tempMinC": 13.9,
+   "tempMaxC": 28.5,
+   "chuvaMm": 1.4,
+   "diasDeChuva": 0.3,
+   "resumo": "Máx. média 28.5 °C / mín. média 13.9 °C; 1.4 mm em ~0.3 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Temporada de baleias em Los Cabos (jan-mar)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 4,
+   "tempMinC": 15.4,
+   "tempMaxC": 30.1,
+   "chuvaMm": 0.0,
+   "diasDeChuva": 0.0,
+   "resumo": "Máx. média 30.1 °C / mín. média 15.4 °C; 0 mm em ~0 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Baleias-cinzentas nas lagoas da Baja no inverno (meses exatos de início/fim não confirmados)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 5,
+   "tempMinC": 16.5,
+   "tempMaxC": 32.1,
+   "chuvaMm": 0.1,
+   "diasDeChuva": 0.1,
+   "resumo": "Máx. média 32.1 °C / mín. média 16.5 °C; 0.1 mm em ~0.1 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico começa em 15/mai",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 6,
+   "tempMinC": 18.5,
+   "tempMaxC": 32.6,
+   "chuvaMm": 0.4,
+   "diasDeChuva": 0.1,
+   "resumo": "Máx. média 32.6 °C / mín. média 18.5 °C; 0.4 mm em ~0.1 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 7,
+   "tempMinC": 22.4,
+   "tempMaxC": 34.4,
+   "chuvaMm": 7.8,
+   "diasDeChuva": 1.0,
+   "resumo": "Máx. média 34.4 °C / mín. média 22.4 °C; 7.8 mm em ~1 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 8,
+   "tempMinC": 23.8,
+   "tempMaxC": 34.7,
+   "chuvaMm": 85.1,
+   "diasDeChuva": 3.6,
+   "resumo": "Máx. média 34.7 °C / mín. média 23.8 °C; 85.1 mm em ~3.6 dias de chuva (moderado).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 9,
+   "tempMinC": 23.3,
+   "tempMaxC": 33.7,
+   "chuvaMm": 110.0,
+   "diasDeChuva": 4.0,
+   "resumo": "Máx. média 33.7 °C / mín. média 23.3 °C; 110 mm em ~4 dias de chuva (chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 10,
+   "tempMinC": 21.2,
+   "tempMaxC": 33.4,
+   "chuvaMm": 25.3,
+   "diasDeChuva": 1.4,
+   "resumo": "Máx. média 33.4 °C / mín. média 21.2 °C; 25.3 mm em ~1.4 dias de chuva (seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 11,
+   "tempMinC": 17.5,
+   "tempMaxC": 30.4,
+   "chuvaMm": 16.9,
+   "diasDeChuva": 1.1,
+   "resumo": "Máx. média 30.4 °C / mín. média 17.5 °C; 16.9 mm em ~1.1 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Baja California Sur - Los Cabos (Cabo San Lucas)",
+   "mes": 12,
+   "tempMinC": 14.0,
+   "tempMaxC": 27.4,
+   "chuvaMm": 7.3,
+   "diasDeChuva": 0.8,
+   "resumo": "Máx. média 27.4 °C / mín. média 14 °C; 7.3 mm em ~0.8 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico; Baleias-cinzentas nas lagoas da Baja no inverno (meses exatos de início/fim não confirmados)",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Cabo e San José del Cabo têm hotéis com spa/restaurantes; passeios de barco são cancelados em ressaca ou aviso de ciclone.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Cabo_San_Lucas",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta - SMN, normais 1991-2020 (via Wikipedia)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 1,
+   "tempMinC": 16.7,
+   "tempMaxC": 26.7,
+   "chuvaMm": 33.8,
+   "diasDeChuva": 2.2,
+   "resumo": "Máx. média 26.7 °C / mín. média 16.7 °C; 33.8 mm em ~2.2 dias de chuva (seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 2,
+   "tempMinC": 16.7,
+   "tempMaxC": 26.7,
+   "chuvaMm": 5.3,
+   "diasDeChuva": 0.7,
+   "resumo": "Máx. média 26.7 °C / mín. média 16.7 °C; 5.3 mm em ~0.7 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 3,
+   "tempMinC": 17.2,
+   "tempMaxC": 27.2,
+   "chuvaMm": 2.0,
+   "diasDeChuva": 0.6,
+   "resumo": "Máx. média 27.2 °C / mín. média 17.2 °C; 2 mm em ~0.6 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 4,
+   "tempMinC": 18.9,
+   "tempMaxC": 27.8,
+   "chuvaMm": 1.5,
+   "diasDeChuva": 0.2,
+   "resumo": "Máx. média 27.8 °C / mín. média 18.9 °C; 1.5 mm em ~0.2 dias de chuva (muito seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 5,
+   "tempMinC": 21.7,
+   "tempMaxC": 29.4,
+   "chuvaMm": 15.4,
+   "diasDeChuva": 1.0,
+   "resumo": "Máx. média 29.4 °C / mín. média 21.7 °C; 15.4 mm em ~1 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico começa em 15/mai",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 6,
+   "tempMinC": 25.0,
+   "tempMaxC": 31.7,
+   "chuvaMm": 187.6,
+   "diasDeChuva": 10.8,
+   "resumo": "Máx. média 31.7 °C / mín. média 25 °C; 187.6 mm em ~10.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 7,
+   "tempMinC": 25.0,
+   "tempMaxC": 32.2,
+   "chuvaMm": 328.1,
+   "diasDeChuva": 16.4,
+   "resumo": "Máx. média 32.2 °C / mín. média 25 °C; 328.1 mm em ~16.4 dias de chuva (extremamente chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 8,
+   "tempMinC": 24.4,
+   "tempMaxC": 32.2,
+   "chuvaMm": 312.4,
+   "diasDeChuva": 15.2,
+   "resumo": "Máx. média 32.2 °C / mín. média 24.4 °C; 312.4 mm em ~15.2 dias de chuva (extremamente chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 9,
+   "tempMinC": 24.4,
+   "tempMaxC": 32.2,
+   "chuvaMm": 370.0,
+   "diasDeChuva": 15.6,
+   "resumo": "Máx. média 32.2 °C / mín. média 24.4 °C; 370 mm em ~15.6 dias de chuva (extremamente chuvoso).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): pico em fim de ago-set",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 10,
+   "tempMinC": 23.9,
+   "tempMaxC": 31.7,
+   "chuvaMm": 93.8,
+   "diasDeChuva": 5.1,
+   "resumo": "Máx. média 31.7 °C / mín. média 23.9 °C; 93.8 mm em ~5.1 dias de chuva (moderado).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov): atividade elevada (fim de jun a início de out)",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 11,
+   "tempMinC": 20.6,
+   "tempMaxC": 30.0,
+   "chuvaMm": 19.8,
+   "diasDeChuva": 1.4,
+   "resumo": "Máx. média 30 °C / mín. média 20.6 °C; 19.8 mm em ~1.4 dias de chuva (muito seco).",
+   "marEVento": "Temporada de furacões do Pacífico (15/mai-30/nov), atividade menor neste mês",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Pacífico central (Puerto Vallarta)",
+   "mes": 12,
+   "tempMinC": 17.8,
+   "tempMaxC": 27.8,
+   "chuvaMm": 22.5,
+   "diasDeChuva": 1.9,
+   "resumo": "Máx. média 27.8 °C / mín. média 17.8 °C; 22.5 mm em ~1.9 dias de chuva (seco).",
+   "marEVento": "Fora da temporada de furacões do Pacífico",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Centro histórico, galerias, spas e restaurantes cobertos; na estação chuvosa as pancadas são fortes, mas costumam ceder em horas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta",
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "baixa - WMO/Weatherbase citados na Wikipedia (série antiga, valores convertidos de °F, sem período declarado)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 1,
+   "tempMinC": 10.6,
+   "tempMaxC": 24.1,
+   "chuvaMm": 16.3,
+   "diasDeChuva": 2.2,
+   "resumo": "Máx. média 24.1 °C / mín. média 10.6 °C; 16.3 mm em ~2.2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 2,
+   "tempMinC": 11.9,
+   "tempMaxC": 26.2,
+   "chuvaMm": 11.0,
+   "diasDeChuva": 1.5,
+   "resumo": "Máx. média 26.2 °C / mín. média 11.9 °C; 11 mm em ~1.5 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 3,
+   "tempMinC": 13.5,
+   "tempMaxC": 28.5,
+   "chuvaMm": 8.3,
+   "diasDeChuva": 1.3,
+   "resumo": "Máx. média 28.5 °C / mín. média 13.5 °C; 8.3 mm em ~1.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 4,
+   "tempMinC": 15.6,
+   "tempMaxC": 30.5,
+   "chuvaMm": 3.8,
+   "diasDeChuva": 0.8,
+   "resumo": "Máx. média 30.5 °C / mín. média 15.6 °C; 3.8 mm em ~0.8 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 5,
+   "tempMinC": 17.2,
+   "tempMaxC": 31.9,
+   "chuvaMm": 26.3,
+   "diasDeChuva": 3.8,
+   "resumo": "Máx. média 31.9 °C / mín. média 17.2 °C; 26.3 mm em ~3.8 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 6,
+   "tempMinC": 17.2,
+   "tempMaxC": 30.1,
+   "chuvaMm": 183.8,
+   "diasDeChuva": 15.4,
+   "resumo": "Máx. média 30.1 °C / mín. média 17.2 °C; 183.8 mm em ~15.4 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 7,
+   "tempMinC": 16.2,
+   "tempMaxC": 27.4,
+   "chuvaMm": 271.3,
+   "diasDeChuva": 21.1,
+   "resumo": "Máx. média 27.4 °C / mín. média 16.2 °C; 271.3 mm em ~21.1 dias de chuva (extremamente chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 8,
+   "tempMinC": 16.3,
+   "tempMaxC": 27.2,
+   "chuvaMm": 220.5,
+   "diasDeChuva": 19.3,
+   "resumo": "Máx. média 27.2 °C / mín. média 16.3 °C; 220.5 mm em ~19.3 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 9,
+   "tempMinC": 16.4,
+   "tempMaxC": 26.7,
+   "chuvaMm": 193.7,
+   "diasDeChuva": 15.9,
+   "resumo": "Máx. média 26.7 °C / mín. média 16.4 °C; 193.7 mm em ~15.9 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 10,
+   "tempMinC": 15.3,
+   "tempMaxC": 26.7,
+   "chuvaMm": 58.8,
+   "diasDeChuva": 6.6,
+   "resumo": "Máx. média 26.7 °C / mín. média 15.3 °C; 58.8 mm em ~6.6 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 11,
+   "tempMinC": 12.9,
+   "tempMaxC": 25.6,
+   "chuvaMm": 12.3,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 25.6 °C / mín. média 12.9 °C; 12.3 mm em ~2.4 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Jalisco - Guadalajara (~1.550 m)",
+   "mes": 12,
+   "tempMinC": 11.1,
+   "tempMaxC": 24.3,
+   "chuvaMm": 7.4,
+   "diasDeChuva": 1.3,
+   "resumo": "Máx. média 24.3 °C / mín. média 11.1 °C; 7.4 mm em ~1.3 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museus (Cabañas), Mercado San Juan de Dios, Tlaquepaque coberto; chuva forte à tarde de jun a set.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guadalajara"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 1,
+   "tempMinC": 8.3,
+   "tempMaxC": 24.1,
+   "chuvaMm": 12.8,
+   "diasDeChuva": 2.6,
+   "resumo": "Máx. média 24.1 °C / mín. média 8.3 °C; 12.8 mm em ~2.6 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 2,
+   "tempMinC": 9.8,
+   "tempMaxC": 26.4,
+   "chuvaMm": 13.3,
+   "diasDeChuva": 2.0,
+   "resumo": "Máx. média 26.4 °C / mín. média 9.8 °C; 13.3 mm em ~2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 3,
+   "tempMinC": 11.8,
+   "tempMaxC": 28.8,
+   "chuvaMm": 8.9,
+   "diasDeChuva": 2.1,
+   "resumo": "Máx. média 28.8 °C / mín. média 11.8 °C; 8.9 mm em ~2.1 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 4,
+   "tempMinC": 14.3,
+   "tempMaxC": 31.1,
+   "chuvaMm": 8.2,
+   "diasDeChuva": 2.0,
+   "resumo": "Máx. média 31.1 °C / mín. média 14.3 °C; 8.2 mm em ~2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 5,
+   "tempMinC": 16.2,
+   "tempMaxC": 32.1,
+   "chuvaMm": 28.1,
+   "diasDeChuva": 6.3,
+   "resumo": "Máx. média 32.1 °C / mín. média 16.2 °C; 28.1 mm em ~6.3 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 6,
+   "tempMinC": 16.8,
+   "tempMaxC": 29.9,
+   "chuvaMm": 119.8,
+   "diasDeChuva": 12.7,
+   "resumo": "Máx. média 29.9 °C / mín. média 16.8 °C; 119.8 mm em ~12.7 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 7,
+   "tempMinC": 15.5,
+   "tempMaxC": 27.7,
+   "chuvaMm": 187.9,
+   "diasDeChuva": 17.8,
+   "resumo": "Máx. média 27.7 °C / mín. média 15.5 °C; 187.9 mm em ~17.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 8,
+   "tempMinC": 15.6,
+   "tempMaxC": 27.8,
+   "chuvaMm": 170.4,
+   "diasDeChuva": 14.8,
+   "resumo": "Máx. média 27.8 °C / mín. média 15.6 °C; 170.4 mm em ~14.8 dias de chuva (muito chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 9,
+   "tempMinC": 15.3,
+   "tempMaxC": 27.3,
+   "chuvaMm": 126.1,
+   "diasDeChuva": 12.3,
+   "resumo": "Máx. média 27.3 °C / mín. média 15.3 °C; 126.1 mm em ~12.3 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 10,
+   "tempMinC": 13.3,
+   "tempMaxC": 27.4,
+   "chuvaMm": 37.7,
+   "diasDeChuva": 5.8,
+   "resumo": "Máx. média 27.4 °C / mín. média 13.3 °C; 37.7 mm em ~5.8 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 11,
+   "tempMinC": 10.8,
+   "tempMaxC": 26.0,
+   "chuvaMm": 9.9,
+   "diasDeChuva": 2.0,
+   "resumo": "Máx. média 26 °C / mín. média 10.8 °C; 9.9 mm em ~2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío - León/Guanajuato (~1.800 m)",
+   "mes": 12,
+   "tempMinC": 9.0,
+   "tempMaxC": 24.6,
+   "chuvaMm": 7.2,
+   "diasDeChuva": 1.5,
+   "resumo": "Máx. média 24.6 °C / mín. média 9 °C; 7.2 mm em ~1.5 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Museos, minas, túneis e teatros em Guanajuato; Mercado Hidalgo; saídas curtas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Le%C3%B3n,_Guanajuato"
+   ],
+   "confianca": "media - Normais 1991-2020, estação Downtown León (via Wikipedia). Guanajuato capital não tem tabela própria; use León como proxy"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 1,
+   "tempMinC": 4.6,
+   "tempMaxC": 22.4,
+   "chuvaMm": 15.9,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 22.4 °C / mín. média 4.6 °C; 15.9 mm em ~2.4 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 2,
+   "tempMinC": 6.3,
+   "tempMaxC": 24.6,
+   "chuvaMm": 11.3,
+   "diasDeChuva": 1.9,
+   "resumo": "Máx. média 24.6 °C / mín. média 6.3 °C; 11.3 mm em ~1.9 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 3,
+   "tempMinC": 8.7,
+   "tempMaxC": 27.9,
+   "chuvaMm": 13.1,
+   "diasDeChuva": 2.2,
+   "resumo": "Máx. média 27.9 °C / mín. média 8.7 °C; 13.1 mm em ~2.2 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 4,
+   "tempMinC": 11.4,
+   "tempMaxC": 30.0,
+   "chuvaMm": 14.0,
+   "diasDeChuva": 2.4,
+   "resumo": "Máx. média 30 °C / mín. média 11.4 °C; 14 mm em ~2.4 dias de chuva (muito seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 5,
+   "tempMinC": 13.2,
+   "tempMaxC": 30.8,
+   "chuvaMm": 40.0,
+   "diasDeChuva": 5.6,
+   "resumo": "Máx. média 30.8 °C / mín. média 13.2 °C; 40 mm em ~5.6 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 6,
+   "tempMinC": 13.4,
+   "tempMaxC": 28.8,
+   "chuvaMm": 114.7,
+   "diasDeChuva": 10.7,
+   "resumo": "Máx. média 28.8 °C / mín. média 13.4 °C; 114.7 mm em ~10.7 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 7,
+   "tempMinC": 12.8,
+   "tempMaxC": 27.2,
+   "chuvaMm": 146.8,
+   "diasDeChuva": 13.4,
+   "resumo": "Máx. média 27.2 °C / mín. média 12.8 °C; 146.8 mm em ~13.4 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 8,
+   "tempMinC": 12.9,
+   "tempMaxC": 27.3,
+   "chuvaMm": 98.6,
+   "diasDeChuva": 9.0,
+   "resumo": "Máx. média 27.3 °C / mín. média 12.9 °C; 98.6 mm em ~9 dias de chuva (moderado).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 9,
+   "tempMinC": 12.3,
+   "tempMaxC": 26.2,
+   "chuvaMm": 109.4,
+   "diasDeChuva": 9.9,
+   "resumo": "Máx. média 26.2 °C / mín. média 12.3 °C; 109.4 mm em ~9.9 dias de chuva (chuvoso).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 10,
+   "tempMinC": 10.3,
+   "tempMaxC": 25.3,
+   "chuvaMm": 43.2,
+   "diasDeChuva": 5.5,
+   "resumo": "Máx. média 25.3 °C / mín. média 10.3 °C; 43.2 mm em ~5.5 dias de chuva (seco).",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 11,
+   "tempMinC": 7.7,
+   "tempMaxC": 24.1,
+   "chuvaMm": 19.3,
+   "diasDeChuva": 2.7,
+   "resumo": "Máx. média 24.1 °C / mín. média 7.7 °C; 19.3 mm em ~2.7 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  },
+  {
+   "regiao": "Bajío alto - San Miguel de Allende (~1.900 m)",
+   "mes": 12,
+   "tempMinC": 5.1,
+   "tempMaxC": 23.0,
+   "chuvaMm": 5.5,
+   "diasDeChuva": 1.7,
+   "resumo": "Máx. média 23 °C / mín. média 5.1 °C; 5.5 mm em ~1.7 dias de chuva (muito seco). Noites frias.",
+   "marEVento": "Sem litoral",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Chuva pouco provável: plano B só para imprevistos (ver sugestão geral: Galerias, ateliês, Parroquia e cafés; vinícolas e termas próximas como alternativas.)",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/San_Miguel_de_Allende"
+   ],
+   "confianca": "media - Normais 1991-2020 (via Wikipedia; fonte SMN)"
+  }
+ ],
+ "calendarioAnual": [
+  {
+   "nome": "Ano-Novo (feriado oficial)",
+   "tipo": "feriado-nacional",
+   "quando": "1 de janeiro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2027-01-01",
+   "dataFim": "2027-01-01",
+   "recorrencia": "anual, data fixa",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Fim de ano é o período mais caro nos voos internos (Kayak: dezembro é o mês mais caro MEX-CUN)",
+    "lotacao": "Muito alta (Natal-Ano-Novo)",
+    "fechamentos": "Comércio e serviços reduzidos no dia"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico",
+    "https://www.kayak.com.br/flight-routes/MEX/CUN"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Dia da Constituição (feriado oficial)",
+   "tipo": "feriado-nacional",
+   "quando": "1ª segunda-feira de fevereiro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2027-02-01",
+   "dataFim": "2027-02-01",
+   "recorrencia": "anual: 1ª segunda de fevereiro (2026: 02/fev)",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Fim de semana prolongado: pressão em ônibus e hotéis de destinos de curta distância da CDMX",
+    "lotacao": "Alta para escapadas domésticas",
+    "fechamentos": "Bancos e órgãos públicos fechados"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico",
+    "https://www.kayak.com.br/flight-routes/MEX/CUN"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Natalício de Benito Juárez (feriado oficial)",
+   "tipo": "feriado-nacional",
+   "quando": "3ª segunda-feira de março [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2027-03-15",
+   "dataFim": "2027-03-15",
+   "recorrencia": "anual: 3ª segunda de março (2026: 16/mar)",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Fim de semana prolongado, efeito moderado",
+    "lotacao": "Moderada a alta",
+    "fechamentos": "Bancos e órgãos públicos fechados"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Semana Santa e Páscoa (Domingo de Ramos a Páscoa)",
+   "tipo": "temporada",
+   "quando": "21 a 28 de março de 2027 (Quinta e Sexta-feira Santas: 25 e 26/mar); 2026 foi 29/mar-05/abr; 2028 será 09-16/abr",
+   "dataInicio": "2027-03-21",
+   "dataFim": "2027-03-28",
+   "recorrencia": "anual, data móvel (domingo de Páscoa: 28/03/2027)",
+   "local": "Nacional; Iztapalapa (CDMX), Taxco, San Miguel de Allende e San Luis Potosí têm celebrações notáveis",
+   "impacto": {
+    "preco": "Período de férias nacional: tarifas e hotéis sobem (percentual não quantificado nesta coleta)",
+    "lotacao": "Muito alta; Puerto Escondido, segundo o Wikivoyage, foi 'sobrecarregado' pelos feriados de Semana Santa depois da rodovia nova",
+    "fechamentos": "Quinta/Sexta-feira Santa: fechamentos em parte do comércio e procissões bloqueiam ruas"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Holy_Week_in_Mexico",
+    "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Carnaval de Veracruz",
+   "tipo": "festa",
+   "quando": "9 dias antes da Quarta-feira de Cinzas (2027: Cinzas em 10/fev; carnaval de ~01 a 09/fev)",
+   "dataInicio": "2027-02-01",
+   "dataFim": "2027-02-09",
+   "recorrencia": "anual, data móvel (derivada da Páscoa)",
+   "local": "Veracruz (estado nível 2 EUA)",
+   "impacto": {
+    "preco": "Hotéis lotados; preço não quantificado",
+    "lotacao": "Muito alta na cidade",
+    "fechamentos": "Desfiles bloqueiam o centro/malecón"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Carnaval_de_Veracruz"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Carnaval de Mazatlán",
+   "tipo": "festa",
+   "quando": "6 dias antes da Quarta-feira de Cinzas (2027: ~04 a 09/fev)",
+   "dataInicio": "2027-02-04",
+   "dataFim": "2027-02-09",
+   "recorrencia": "anual, data móvel",
+   "local": "Mazatlán, Sinaloa (nível 4 EUA; Canadá cita exceção para zonas turísticas de Mazatlán)",
+   "impacto": {
+    "preco": "Não quantificado",
+    "lotacao": "Muito alta",
+    "fechamentos": "Ruas fechadas para desfiles"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Carnaval_de_Mazatl%C3%A1n",
+    "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks",
+    "https://travel.gc.ca/destinations/mexico"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "nome": "Dia do Trabalho (feriado oficial)",
+   "tipo": "feriado-nacional",
+   "quando": "1 de maio [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2027-05-01",
+   "dataFim": "2027-05-01",
+   "recorrencia": "anual, data fixa (2027 cai num sábado)",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Efeito pequeno quando cai no fim de semana",
+    "lotacao": "Moderada",
+    "fechamentos": "Bancos e órgãos públicos fechados"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Guelaguetza (Lunes del Cerro)",
+   "tipo": "festa",
+   "quando": "As duas segundas-feiras seguintes a 16 de julho (2027: 19 e 26/jul; 2026 foi 20 e 27/jul), com eventos paralelos durante julho; se a 1ª segunda cair em 18/jul, adia-se uma semana",
+   "dataInicio": "2027-07-19",
+   "dataFim": "2027-07-26",
+   "recorrencia": "anual desde 1969",
+   "local": "Oaxaca de Juárez (anfiteatro do Cerro del Fortín)",
+   "impacto": {
+    "preco": "Hotéis da cidade sobem muito e esgotam com antecedência (não quantificado nesta coleta)",
+    "lotacao": "Muito alta",
+    "fechamentos": "Trânsito/estacionamento limitados no centro nos dias do evento"
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Guelaguetza"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Independência do México - Grito (15/set) e feriado (16/set)",
+   "tipo": "feriado-nacional",
+   "quando": "Noite de 15/set (Grito) e 16/set (feriado oficial) [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2027-09-15",
+   "dataFim": "2027-09-16",
+   "recorrencia": "anual, data fixa",
+   "local": "Nacional; Zócalo da CDMX e praças de todo o país",
+   "impacto": {
+    "preco": "Hotéis do Centro de CDMX sobem; não quantificado",
+    "lotacao": "Muito alta no Zócalo na noite de 15/set",
+    "fechamentos": "Ruas do centro fechadas; comércio e bancos fechados em 16/set"
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Grito_de_Dolores",
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Transmissão do Poder Executivo (feriado a cada 6 anos)",
+   "tipo": "feriado-nacional",
+   "quando": "1º de outubro, a cada seis anos (já em vigor; próxima em 2030) [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2030-10-01",
+   "dataFim": "2030-10-01",
+   "recorrencia": "a cada 6 anos",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Sem efeito em 2026-2029",
+    "lotacao": "Sem efeito em 2026-2029",
+    "fechamentos": "Sem efeito em 2026-2029"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Festival Internacional Cervantino",
+   "tipo": "festa",
+   "quando": "Todo outubro (edição de 2020: 14-18/out online); datas de 2026 NÃO confirmadas - pode estar em curso hoje (08/10/2026)",
+   "dataInicio": "",
+   "dataFim": "",
+   "recorrencia": "anual, outono",
+   "local": "Guanajuato (nível 3 EUA)",
+   "impacto": {
+    "preco": "Hospedagem em Guanajuato sobe e esgota no festival (não quantificado)",
+    "lotacao": "Muito alta",
+    "fechamentos": "Ruas do centro histórico fechadas a veículos em dias de espetáculo"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Festival_Internacional_Cervantino",
+    "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "nome": "Dia de Muertos",
+   "tipo": "festa",
+   "quando": "1 e 2 de novembro (outras localidades incluem 31/out ou 6/nov); Mixquic, Pátzcuaro/Janitzio (Michoacán, nível 4 EUA) e Oaxaca são os polos tradicionais; CDMX faz desfile desde 2016 (29/out em 2016)",
+   "dataInicio": "2026-11-01",
+   "dataFim": "2026-11-02",
+   "recorrencia": "anual, data fixa; NÃO é feriado de lei, mas é patrimônio da UNESCO e mobiliza o país",
+   "local": "Nacional; Oaxaca, Mixquic (CDMX), Pátzcuaro",
+   "impacto": {
+    "preco": "Hotéis em Oaxaca e CDMX sobem e esgotam semanas antes (não quantificado)",
+    "lotacao": "Muito alta em cemitérios e praças",
+    "fechamentos": "Cemitérios e centros históricos têm acesso restrito/lotados; muitos negócios reduzem horário"
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Dia da Revolução (feriado oficial)",
+   "tipo": "feriado-nacional",
+   "quando": "3ª segunda-feira de novembro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2026-11-16",
+   "dataFim": "2026-11-16",
+   "recorrencia": "anual: 3ª segunda de novembro (2027: 15/nov)",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Fim de semana prolongado (sáb 14 a seg 16/nov/2026)",
+    "lotacao": "Moderada a alta",
+    "fechamentos": "Bancos e órgãos públicos fechados"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Natal (feriado oficial) e recesso de fim de ano",
+   "tipo": "feriado-nacional",
+   "quando": "25 de dezembro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES]",
+   "dataInicio": "2026-12-25",
+   "dataFim": "2026-12-25",
+   "recorrencia": "anual, data fixa",
+   "local": "Nacional",
+   "impacto": {
+    "preco": "Dezembro é o mês mais caro em voo MEX-CUN (Kayak)",
+    "lotacao": "Muito alta nos destinos de praia e CDMX",
+    "fechamentos": "Comércio fecha no dia 25"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico",
+    "https://www.kayak.com.br/flight-routes/MEX/CUN"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Temporada de baleias - Los Cabos (baleia-jubarte)",
+   "tipo": "temporada",
+   "quando": "Janeiro a março (reprodução)",
+   "dataInicio": "2027-01-01",
+   "dataFim": "2027-03-31",
+   "recorrencia": "anual",
+   "local": "Los Cabos / Cabo San Lucas, Baja California Sur",
+   "impacto": {
+    "preco": "Passeios de barco com preço de alta demanda (não quantificado)",
+    "lotacao": "Alta nos passeios",
+    "fechamentos": "Passeios cancelados por mar/vento"
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Temporada de baleias-cinzentas nas lagoas da Baja",
+   "tipo": "temporada",
+   "quando": "Inverno, com chegada em dez-jan (meses exatos de início e fim NÃO confirmados em fonte aberta); Bahía Magdalena é o sítio citado",
+   "dataInicio": "",
+   "dataFim": "",
+   "recorrencia": "anual",
+   "local": "Bahía Magdalena / lagoas de Ojo de Liebre e San Ignacio (litoral oeste de BCS)",
+   "impacto": {
+    "preco": "Não coletado",
+    "lotacao": "Não coletado",
+    "fechamentos": "Fechamentos ao fim da temporada: não coletado"
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Bah%C3%ADa_Magdalena"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "nome": "Borboleta-monarca (hibernação)",
+   "tipo": "temporada",
+   "quando": "As borboletas ocupam o santuário de outubro a março; visitas costumam ocorrer de novembro a março; só 4 das 12 colônias abrem ao público (Sierra Chincua, La Mesa, El Capulín, El Rosario)",
+   "dataInicio": "2026-11-01",
+   "dataFim": "2027-03-31",
+   "recorrencia": "anual",
+   "local": "Reserva da Biosfera da Mariposa Monarca (Michoacán e Estado de México). Atenção: El Rosario e Sierra Chincua ficam em Michoacán (nível 4 EUA); La Mesa e El Capulín no Estado de México (nível 2)",
+   "impacto": {
+    "preco": "Não quantificado",
+    "lotacao": "Alta nos fins de semana",
+    "fechamentos": "Sem acesso fora da temporada"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Monarch_Butterfly_Biosphere_Reserve",
+    "https://es.wikipedia.org/wiki/Reserva_de_la_Biosfera_Mariposa_Monarca",
+    "https://www.foxnews.com/travel/americans-warned-popular-travel-routes-this-summer-could-carry-crime-kidnapping-risks"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Nidificação de tartarugas marinhas (Quintana Roo)",
+   "tipo": "temporada",
+   "quando": "Meses exatos NÃO confirmados em fonte aberta; Xcacel-Xcacelito (Riviera Maya) é o sítio de maior densidade de nidificação do país para caguama e tartaruga-verde",
+   "dataInicio": "",
+   "dataFim": "",
+   "recorrencia": "anual",
+   "local": "Santuário Xcacel-Xcacelito, Quintana Roo",
+   "impacto": {
+    "preco": "Não coletado",
+    "lotacao": "Acesso controlado",
+    "fechamentos": "Acesso restrito/guiado no período de nidificação"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Xcacel-Xcacelito"
+   ],
+   "confianca": "baixa"
+  },
+  {
+   "nome": "Temporada de furacões - Pacífico",
+   "tipo": "temporada",
+   "quando": "15 de maio a 30 de novembro; pico em fim de agosto; atividade elevada de fim de junho a início de outubro (média 1991-2020: 15 tempestades nomeadas, 8 furacões, 4 grandes)",
+   "dataInicio": "2027-05-15",
+   "dataFim": "2027-11-30",
+   "recorrencia": "anual",
+   "local": "Costa do Pacífico (Oaxaca, Guerrero, Jalisco, Baja California Sur)",
+   "impacto": {
+    "preco": "Baixa temporada: tarifas e hotéis mais baratos",
+    "lotacao": "Baixa",
+    "fechamentos": "Cancelamentos de voo/passeio e fechamentos de porto em tempestades"
+   },
+   "valeEstarPresente": "evite",
+   "fontes": [
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta"
+  },
+  {
+   "nome": "Temporada de furacões - Atlântico/Caribe/Golfo",
+   "tipo": "temporada",
+   "quando": "1 de junho a 30 de novembro; pico ~10 de setembro, com atividade mais intensa de meados de agosto a meados de outubro (média: 14 tempestades, 7 furacões, 3 grandes)",
+   "dataInicio": "2027-06-01",
+   "dataFim": "2027-11-30",
+   "recorrencia": "anual",
+   "local": "Quintana Roo, Yucatán, Golfo do México",
+   "impacto": {
+    "preco": "Baixa temporada: tarifas mais baratas",
+    "lotacao": "Baixa",
+    "fechamentos": "Cancelamentos de voo/passeio; Tren Maya e rodovias podem parar sob alerta"
+   },
+   "valeEstarPresente": "evite",
+   "fontes": [
+    "https://www.nhc.noaa.gov/climo/"
+   ],
+   "confianca": "alta"
+  },
+  {
+   "nome": "Temporada de sargaço - Riviera Maya",
+   "tipo": "temporada",
+   "quando": "Chega em quase toda primavera e verão desde 2011; pico em junho-julho; mínimo no inverno. Boletim de set/2026: quantidade em queda, porém ainda alta para o mês",
+   "dataInicio": "2027-04-01",
+   "dataFim": "2027-08-31",
+   "recorrencia": "anual, intensidade varia por ano",
+   "local": "Praias do Caribe mexicano (Cancún-Tulum-Playa del Carmen)",
+   "impacto": {
+    "preco": "Não quantificado",
+    "lotacao": "Praias com menos banhistas nos piores dias",
+    "fechamentos": "Algumas praias interditadas/limpeza diária"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://optics.marine.usf.edu/projects/SaWS.html"
+   ],
+   "confianca": "media"
+  },
+  {
+   "nome": "Estação chuvosa (normais climáticos)",
+   "tipo": "temporada",
+   "quando": "Aproximadamente junho a outubro na maior parte do país (Cancún/Mérida: set-out são os mais chuvosos; Oaxaca/CDMX: jun-set; Puerto Vallarta: jun-set; Baja California Sur: ago-set)",
+   "dataInicio": "2027-06-01",
+   "dataFim": "2027-10-31",
+   "recorrencia": "anual",
+   "local": "Todo o país, com variações regionais",
+   "impacto": {
+    "preco": "Preços mais baixos fora dos feriados",
+    "lotacao": "Menor lotação",
+    "fechamentos": "Estradas de serra podem ter deslizamentos"
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://en.wikipedia.org/wiki/Mexico_City",
+    "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "https://en.wikipedia.org/wiki/Puerto_Vallarta"
+   ],
+   "confianca": "alta"
+  }
+ ],
+ "temporadas": {
+  "alta": "Dezembro a abril: período mais seco no Caribe, Yucatán, Oaxaca, Chiapas, Pacífico e Baja (normais SMN: Cancún 37-56 mm/mês de jan-abr; Oaxaca 2-47 mm; La Paz < 10 mm) e fora da temporada de furacões; inclui Natal/Ano-Novo (preço de voo MEX-CUN em dezembro é o mais alto do ano, Kayak), Semana Santa (21-28/mar/2027) e, no verão mexicano, julho-agosto (férias escolares e Guelaguetza em Oaxaca, 19 e 26/jul/2027). Quanto custa cada pico de hospedagem NÃO foi levantado.",
+  "baixa": "Maio/junho a outubro: chuvas e furacões. Cancún é mais chuvoso em set-out (223-242 mm), a costa do Pacífico em jul-set (Puerto Vallarta 328/312/370 mm em jul/ago/set). Kayak mostra os voos Brasil-México mais baratos em março (GRU-MEX R$ 2.787) e MEX-CUN mais barato em fevereiro (R$ 544).",
+  "furacoes": "Pacífico: 15/mai a 30/nov (pico em fim de ago-set; elevada de fim de jun a início de out). Atlântico/Caribe/Golfo: 1/jun a 30/nov (pico ~10/set, com maior atividade de meados de ago a meados de out). NHC.",
+  "explicacao": "As melhores janelas combinam clima seco, fora dos furacões e sem sargaço: nov-abr para a maioria das regiões; CDMX/Bajío/Oaxaca serra: nov-mar (chuva <= 18 mm/mês; noites frias em dez-fev); Caribe: dez-abr (sargaço no mínimo no inverno); Yucatán interior: dez-mar (antes do calor de 36 °C+ de abr-mai); Baja California Sur: nov-mai (temperatura máxima 25-32 °C jan-abr; baleias jan-mar); Pacífico central: nov-mai. Piores riscos: set-out no Caribe e no Pacífico (chuva e furacões). Preços de alta temporada não foram quantificados.",
+  "fontes": [
+   "https://www.nhc.noaa.gov/climo/",
+   "https://optics.marine.usf.edu/projects/SaWS.html",
+   "https://www.kayak.com.br/flight-routes/MEX/CUN",
+   "https://www.kayak.com.br/flight-routes/GRU/MEX",
+   "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+   "https://en.wikipedia.org/wiki/Oaxaca_City",
+   "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+   "https://en.wikipedia.org/wiki/Puerto_Vallarta"
+  ]
+ }
+}

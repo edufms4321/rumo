@@ -1,0 +1,1281 @@
+[
+  {
+    "id": "cancun-tulum-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/cancun-a-tulum/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "tulum",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO",
+      "AU (mais barata, sem banheiro)"
+    ],
+    "duracaoVeiculoMin": 145,
+    "frequencia": "Várias saídas diárias (ADO); colectivos a cada ~15 min via Playa del Carmen (~3 h, ~95 MXN)",
+    "preco": {
+      "moeda": "EUR",
+      "min": 14,
+      "max": 16,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/cancun-a-tulum/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal ADO Cancún (centro) ou terminais do aeroporto",
+    "terminalChegada": "Terminal ADO Tulum",
+    "observacoes": "Preço em EUR conforme GeckoRoutes (equivale a ~275-350 MXN segundo outras fontes não abertas). Van privada 1h30 a partir de ~€83/veículo.",
+    "alertas": []
+  },
+  {
+    "id": "cancun-tulum-trem",
+    "fontes": [
+      {
+        "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+      },
+      {
+        "url": "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/"
+      },
+      {
+        "url": "https://www.trenmaya.gob.mx"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "tulum",
+    "modal": "trem",
+    "operadoras": [
+      "Tren Maya"
+    ],
+    "duracaoVeiculoMin": 96,
+    "frequencia": "Parte dos ~20 serviços diários do Tren Maya",
+    "preco": {
+      "moeda": "MXN",
+      "min": 245,
+      "max": 245,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+        },
+        {
+          "url": "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/"
+        },
+        {
+          "url": "https://www.trenmaya.gob.mx"
+        }
+      ]
+    },
+    "terminalSaida": "Estação Cancún Aeropuerto (ligada ao terminal do aeroporto)",
+    "terminalChegada": "Estação Tulum",
+    "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Exemplo 'Turista México' Cancún-Tulum: 245 MXN, 1h36 (Infobae).",
+    "alertas": []
+  },
+  {
+    "id": "cancun-merida-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/cancun-a-merida/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "merida",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO"
+    ],
+    "duracaoVeiculoMin": 190,
+    "frequencia": "Várias saídas por dia (manhã e noite)",
+    "preco": {
+      "moeda": "MXN",
+      "min": 475,
+      "max": 475,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/cancun-a-merida/"
+        }
+      ]
+    },
+    "terminalSaida": "ADO Cancún (centro, Calle Pino) / ADO aeroporto",
+    "terminalChegada": "ADO Mérida (Tame/Centro) ou Altabrisa",
+    "observacoes": "Duração 3h10-4h50 conforme horário. Preço 'a partir de' €24 (~475 MXN) segundo GeckoRoutes.",
+    "alertas": []
+  },
+  {
+    "id": "cancun-merida-trem",
+    "fontes": [
+      {
+        "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+      },
+      {
+        "url": "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/"
+      },
+      {
+        "url": "https://www.trenmaya.gob.mx"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "merida",
+    "modal": "trem",
+    "operadoras": [
+      "Tren Maya"
+    ],
+    "duracaoVeiculoMin": 210,
+    "frequencia": "Mérida-Teya→Cancún: saídas às 07:00, 09:18, 10:45, 13:05, 15:20 e 16:22 (exemplo Quinta Fuerza)",
+    "preco": {
+      "moeda": "MXN",
+      "min": 547,
+      "max": 547,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+        },
+        {
+          "url": "https://quintafuerza.mx/turismo/tren-maya-precios-horarios-rutas-y-como-comprar-boletos/"
+        },
+        {
+          "url": "https://www.trenmaya.gob.mx"
+        }
+      ]
+    },
+    "terminalSaida": "Estação Cancún Aeropuerto",
+    "terminalChegada": "Estação Mérida-Teya (fora do centro)",
+    "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Mérida-Cancún: 547 MXN ('Turista México' promocional, 3h30). Estação Teya fica fora do centro de Mérida (Quinta Fuerza menciona só Teya; distância ao centro não confirmada).",
+    "alertas": []
+  },
+  {
+    "id": "merida-valladolid-onibus",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "merida",
+    "paraCidadeId": "valladolid",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO",
+      "ADO GL"
+    ],
+    "duracaoVeiculoMin": 135,
+    "frequencia": "Serviços frequentes de 1ª classe (Wikivoyage)",
+    "terminalSaida": "ADO Mérida",
+    "terminalChegada": "Terminal de Autobuses Valladolid (Calle 39 nº 221, centro)",
+    "observacoes": "Valladolid fica a ~45 min do acesso leste de Chichén Itzá e junto à autopista 180D Cancún-Mérida (a ~5 km do centro). Preço não confirmado em fonte aberta.",
+    "alertas": []
+  },
+  {
+    "id": "merida-valladolid-onibus-2",
+    "fontes": [
+      {
+        "url": "https://letstraveltomexico.com/merida-to-chichen-itza/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "merida",
+    "paraCidadeId": "valladolid",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO"
+    ],
+    "duracaoVeiculoMin": 105,
+    "frequencia": "Saídas 07:15, 09:30 e 12:00 de Mérida (letstraveltomexico); retorno por ADO ou colectivo via Valladolid",
+    "preco": {
+      "moeda": "MXN",
+      "min": 160,
+      "max": 160,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://letstraveltomexico.com/merida-to-chichen-itza/"
+        }
+      ]
+    },
+    "terminalSaida": "Estação ADO Mérida (Calle 70 nº 555, centro)",
+    "terminalChegada": "Entrada de Chichén Itzá",
+    "observacoes": "De carro ~1h30 pela 180D (pedágio ~23 MXN). Uber/Didi não pegam passageiros em Chichén. Passeios guiados podem sair mais baratos que ônibus + entrada + guia.",
+    "alertas": []
+  },
+  {
+    "id": "cancun-valladolid-trem",
+    "fontes": [
+      {
+        "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+      },
+      {
+        "url": "https://www.trenmaya.gob.mx"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "baixa",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "valladolid",
+    "modal": "trem",
+    "operadoras": [
+      "Tren Maya"
+    ],
+    "duracaoVeiculoMin": 90,
+    "frequencia": "Parte dos serviços do Tren Maya",
+    "preco": {
+      "moeda": "MXN",
+      "min": 351,
+      "max": 351,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+        },
+        {
+          "url": "https://www.trenmaya.gob.mx"
+        }
+      ]
+    },
+    "terminalSaida": "Estação Cancún Aeropuerto",
+    "terminalChegada": "Estação Chichén Itzá",
+    "observacoes": "Tren Maya: promoção de até 30% ('Turista México', sem sobretaxa de estrangeiro) valia até 30/06/2026 segundo Infobae; tarifa dinâmica desde mar/2025; preços atuais podem ser maiores. Fontes divergem em tarifas; operação diária 07-23 h com ~20 serviços/dia (32 previstos até o fim do ano). Cancún-Chichén Itzá: 351 MXN, 1h30 (promo Infobae).",
+    "alertas": []
+  },
+  {
+    "id": "palenque-cancun-trem",
+    "fontes": [
+      {
+        "url": "https://www.trenmaya.gob.mx"
+      },
+      {
+        "url": "https://expansion.mx/tendencias/2026/07/28/cuanto-cuesta-boleto-tren-maya-2026-mexicanos"
+      },
+      {
+        "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "palenque",
+    "paraCidadeId": "cancun",
+    "modal": "trem",
+    "operadoras": [
+      "Tren Maya (circuito completo Palenque-Cancún)"
+    ],
+    "duracaoVeiculoMin": 600,
+    "frequencia": "Parte dos serviços diários",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1169,
+      "max": 2226,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.trenmaya.gob.mx"
+        },
+        {
+          "url": "https://expansion.mx/tendencias/2026/07/28/cuanto-cuesta-boleto-tren-maya-2026-mexicanos"
+        },
+        {
+          "url": "https://www.infobae.com/mexico/2026/06/12/paquetes-tren-maya-para-el-verano-2026-precios-rutas-y-como-reservar/"
+        }
+      ]
+    },
+    "terminalSaida": "Estação Palenque",
+    "terminalChegada": "Estação Cancún Aeropuerto",
+    "observacoes": "Faixa: 1.169 MXN ('Turista México' promo, ~10 h) até 2.004 MXN (Premier nacional) / 2.226,50 MXN (tarifa internacional) na tabela de verão 2026 da Expansión; fontes divergem. Compra: reservas.ventaboletostrenmaya.com.mx, app, bilheterias. Tren Maya OPERA de fato: 34 estações, 1.554 km, ~20 serviços/dia, >2,3 milhões de passageiros desde dez/2023.",
+    "alertas": []
+  },
+  {
+    "id": "cidade-do-mexico-puebla-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-puebla/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "puebla",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO",
+      "AU"
+    ],
+    "duracaoVeiculoMin": 120,
+    "frequencia": "Frequente a partir da TAPO",
+    "preco": {
+      "moeda": "MXN",
+      "min": 224,
+      "max": 400,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-puebla/"
+        }
+      ]
+    },
+    "terminalSaida": "TAPO (Terminal de Autobuses de Oriente)",
+    "terminalChegada": "CAPU (Centro de Autobuses Puebla)",
+    "observacoes": "GeckoRoutes informa 1h30-4h30 (trânsito/tipo de serviço); ~137 km em linha reta, 165 km por estrada. Van Turismo Tlaxcala ~770 MXN com traslado a hotel.",
+    "alertas": []
+  },
+  {
+    "id": "cidade-do-mexico-oaxaca-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-oaxaca/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "oaxaca",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO (ADO/GL/Platino)",
+      "Cristóbal Colón (OCC)",
+      "AU",
+      "Fypsa"
+    ],
+    "duracaoVeiculoMin": 385,
+    "frequencia": "Várias saídas diárias, inclusive noturnas",
+    "preco": {
+      "moeda": "MXN",
+      "min": 552,
+      "max": 670,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-oaxaca/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        }
+      ]
+    },
+    "terminalSaida": "TAPO (Terminal de Autobuses de Oriente)",
+    "terminalChegada": "Central de Autobuses Oaxaca (ADO/OCC); AU em outro terminal",
+    "observacoes": "Duração 6h25-8h35 (GeckoRoutes); Wikivoyage: ~6,5 h. Preço: ADO M$552 e Fypsa M$270 (Wikivoyage, fev/2026); 'a partir de' 670 MXN (GeckoRoutes). Voo MEX-OAX: 78 min, ver voos internos.",
+    "alertas": []
+  },
+  {
+    "id": "oaxaca-puerto-escondido-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "oaxaca",
+    "paraCidadeId": "puerto-escondido",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO",
+      "OCC",
+      "ADO GL"
+    ],
+    "duracaoVeiculoMin": 180,
+    "frequencia": "Várias saídas diárias; vans/colectivos de hora em hora (Villa del Pacífico, Service Express); Oaxaca Shuttle 1 saída/dia ao meio-dia",
+    "preco": {
+      "moeda": "MXN",
+      "min": 295,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        }
+      ]
+    },
+    "terminalSaida": "Central de Autobuses Oaxaca",
+    "terminalChegada": "Terminal OCC/ADO Puerto Escondido",
+    "observacoes": "ROTA NOVA: a autopista Barranca Larga-Ventanilla (aberta no início de 2024) cortou a viagem para ~3 h (ônibus 295 MXN; colectivo 3h30 ~300 MXN; shuttle 2h40 ~600 MXN). ROTA ANTIGA de serra (ônibus 2ª classe: 7-8 h, até ~10,5 h antes da autopista): curvas fechadas - ALERTA DE ENJOO: tome remédio antes, sente na frente/janela, evite comer pesado e prefira horário diurno. Confirme com a empresa que o serviço usa a autopista nova. Voo: só aviões pequenos (Aerotucán). Semana Santa lota a cidade (Wikivoyage).",
+    "alertas": []
+  },
+  {
+    "id": "san-cristobal-palenque-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/san-cristobal-de-las-casas-a-palenque/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "san-cristobal",
+    "paraCidadeId": "palenque",
+    "modal": "onibus",
+    "operadoras": [
+      "ADO"
+    ],
+    "duracaoVeiculoMin": 505,
+    "frequencia": "~4 saídas/dia (ex.: 10:00, 12:10, 13:10; opções noturnas)",
+    "preco": {
+      "moeda": "MXN",
+      "min": 460,
+      "max": 460,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/san-cristobal-de-las-casas-a-palenque/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Palenque"
+        },
+        {
+          "url": "https://travel.gc.ca/destinations/mexico"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal de San Cristóbal (10 min a pé do centro; OCC na Av. Insurgentes)",
+    "terminalChegada": "Central de Autobuses ADO Palenque",
+    "observacoes": "8h05-8h45 de ônibus (Wikivoyage: 8-9 h). Táxi seguro ~7 h por ~5.500 MXN/veículo. Há dois caminhos: via Villahermosa (rodovia pedagiada, mais longa e bem conservada) e via Ocosingo (mais curta, serra, com relatos de preocupações de segurança); a estrada para San Cristóbal é sinuosa e causa enjoo. Chiapas: nível 2 EUA, mas o Canadá recomenda evitar viagens não essenciais ao estado, com exceção de Palenque, Tuxtla e San Cristóbal.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-todos-santos-onibus",
+    "fontes": [
+      {
+        "url": "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "todos-santos",
+    "modal": "onibus",
+    "operadoras": [
+      "Autotransportes Águila",
+      "ABC",
+      "Playa Bus"
+    ],
+    "duracaoVeiculoMin": 60,
+    "frequencia": "3 saídas: 06:30, 08:00 e 10:00",
+    "preco": {
+      "moeda": "MXN",
+      "min": 247,
+      "max": 247,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal de La Paz (malecón)",
+    "terminalChegada": "Todos Santos",
+    "observacoes": "Todos Santos fica a ~1 h de La Paz e ~1 h de Cabo San Lucas (Wikivoyage). Poucas saídas: considere carro/transfer.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-los-cabos-onibus",
+    "fontes": [
+      {
+        "url": "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361"
+      },
+      {
+        "url": "https://thecabosun.com/these-are-the-best-ways-to-get-between-los-cabos-and-la-paz/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "los-cabos",
+    "modal": "onibus",
+    "operadoras": [
+      "Autotransportes Águila",
+      "ABC",
+      "Playa Bus"
+    ],
+    "duracaoVeiculoMin": 120,
+    "frequencia": "Cabo San Lucas: de hora em hora, 07:00-21:30; San José del Cabo: saídas similares; navette a SJD 06:30-11:00",
+    "preco": {
+      "moeda": "MXN",
+      "min": 404,
+      "max": 482,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.luznoticias.mx/2025-04-15/mexico/cuanto-cuesta-viajar-en-autobus-de-la-paz-a-los-cabos-bcs/241361"
+        },
+        {
+          "url": "https://thecabosun.com/these-are-the-best-ways-to-get-between-los-cabos-and-la-paz/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal de La Paz (malecón)",
+    "terminalChegada": "Cabo San Lucas / San José del Cabo",
+    "observacoes": "404 MXN (Cabo San Lucas, rota curta via Todos Santos) e 482 MXN (San José del Cabo); navette ao aeroporto SJD 738 MXN. Duração real do ônibus não confirmada; de carro: Cabo-La Paz ~2 h (97 mi), SJD-La Paz ~2h30 (116 mi) segundo The Cabo Sun.",
+    "alertas": []
+  },
+  {
+    "id": "guadalajara-puerto-vallarta-onibus",
+    "fontes": [
+      {
+        "url": "https://www.aztecajalisco.com/noticias-jalisco/como-llegar-barato-guadalajara-a-puerto-vallarta/"
+      },
+      {
+        "url": "https://www.mexicotravelandleisure.com/blog/guadalajara-to-puerto-vallarta/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "guadalajara",
+    "paraCidadeId": "puerto-vallarta",
+    "modal": "onibus",
+    "operadoras": [
+      "Primera Plus",
+      "ETN",
+      "Vallarta Plus",
+      "Autovías"
+    ],
+    "duracaoVeiculoMin": 330,
+    "frequencia": "Várias saídas diárias",
+    "preco": {
+      "moeda": "MXN",
+      "min": 723,
+      "max": 879,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.aztecajalisco.com/noticias-jalisco/como-llegar-barato-guadalajara-a-puerto-vallarta/"
+        },
+        {
+          "url": "https://www.mexicotravelandleisure.com/blog/guadalajara-to-puerto-vallarta/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+        }
+      ]
+    },
+    "terminalSaida": "Nueva Central Camionera (Tlaquepaque) ou Terminal Milenio (Zapopan)",
+    "terminalChegada": "Central Camionera Puerto Vallarta (Av. Insurgentes; ~15-20 min a pé do Malecón)",
+    "observacoes": "4,5-6 h conforme linha/trânsito; tarifas 2026 reportadas 723-879 MXN (Aztecajalisco); pedágio de carro ~2.600 MXN ida e volta. Jalisco é nível 3 (EUA) e o Canadá aconselha evitar viagens não essenciais a áreas de fronteira de Jalisco.",
+    "alertas": []
+  },
+  {
+    "id": "cidade-do-mexico-guanajuato-onibus",
+    "fontes": [
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-el-boleto-de-autobus-de-mexico-a-guanajuato"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "guanajuato",
+    "modal": "onibus",
+    "operadoras": [
+      "ETN",
+      "Primera Plus",
+      "Omnibus de México"
+    ],
+    "duracaoVeiculoMin": 270,
+    "frequencia": "~10 saídas/dia por empresa (ETN e Primera Plus), Terminal Norte sala 1",
+    "preco": {
+      "moeda": "MXN",
+      "min": 400,
+      "max": 700,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-el-boleto-de-autobus-de-mexico-a-guanajuato"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Central de Autobuses del Norte (ou Terminal Poniente/Observatorio)",
+    "terminalChegada": "Central de Autobuses Guanajuato",
+    "observacoes": "4-5 h; faixa 400-700 MXN. De avião: o BJX tem ônibus só até León (Wikivoyage, jan/2024). Guanajuato: nível 3 (EUA).",
+    "alertas": []
+  },
+  {
+    "id": "cidade-do-mexico-san-miguel-de-allende-onibus",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-san-miguel-de-allende/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "san-miguel-de-allende",
+    "modal": "onibus",
+    "operadoras": [
+      "Primera Plus",
+      "ETN",
+      "Futura Select"
+    ],
+    "duracaoVeiculoMin": 285,
+    "frequencia": "Primera Plus 07:15/09:15/11:15+; Futura 07:45; ETN 06:00-16:30",
+    "preco": {
+      "moeda": "MXN",
+      "min": 870,
+      "max": 870,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-san-miguel-de-allende/"
+        }
+      ]
+    },
+    "terminalSaida": "Central de Autobuses del Norte",
+    "terminalChegada": "Central de Autobuses San Miguel de Allende",
+    "observacoes": "Ônibus 3h50-5h30; total com transferes 4h30-6h10. Preço 'a partir de' ~870 MXN segundo GeckoRoutes (€43). Carro privado (3 pax) ~8.300 MXN. ~297 km por estrada.",
+    "alertas": []
+  },
+  {
+    "id": "guanajuato-san-miguel-de-allende-onibus",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "baixa",
+    "deCidadeId": "guanajuato",
+    "paraCidadeId": "san-miguel-de-allende",
+    "modal": "onibus",
+    "operadoras": [],
+    "frequencia": "Não coletada",
+    "observacoes": "DADOS NÃO CONFIRMADOS neste trecho direto (duração, preço, empresas). Referências: BJX fica a ~95 km a oeste de SMA e Querétaro (QRO) a ~90 km a sudeste; navette Bajiogo a partir de QRO/BJX por ~M$500-600 (jan/2024).",
+    "alertas": []
+  },
+  {
+    "id": "cidade-do-mexico-cancun-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/CUN"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "cancun",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris",
+      "Turkish Airlines (listada pelo Kayak)"
+    ],
+    "duracaoVeiculoMin": 146,
+    "frequencia": "~190 voos/semana (27-28/dia)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 618,
+      "max": 1056,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/CUN"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "CUN",
+    "observacoes": "Preço em BRL (Kayak Brasil), não em MXN. Low-cost cobram bagagem à parte: ver alerta de bagagem. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-oaxaca-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/OAX"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "oaxaca",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 78,
+    "frequencia": "~55/semana (Aeroméxico 41, Viva 7, Volaris 7)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 659,
+      "max": 1165,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/OAX"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "OAX",
+    "observacoes": "Alternativa ao ônibus de ~6,5-8,5 h. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-san-cristobal-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/TGZ"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "san-cristobal",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 103,
+    "frequencia": "~42/semana (~6/dia)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 693,
+      "max": 1158,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/TGZ"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "TGZ",
+    "observacoes": "Aeroporto de Tuxtla fica ~30 km da cidade e ~1h15 de ônibus direto a San Cristóbal (Wikivoyage, dado de 2016). ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-los-cabos-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/SJD"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "los-cabos",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Volaris",
+      "Viva Aerobus"
+    ],
+    "duracaoVeiculoMin": 143,
+    "frequencia": "~48/semana (6-7/dia)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 838,
+      "max": 1224,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/SJD"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "SJD",
+    "observacoes": "SJD (San José del Cabo) fica a 30-60 min de Cabo San Lucas. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-la-paz-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com/flight-routes/MEX/LAP"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "la-paz",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 149,
+    "frequencia": "~25/semana",
+    "preco": {
+      "moeda": "USD",
+      "min": 193,
+      "max": 289,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com/flight-routes/MEX/LAP"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "LAP",
+    "observacoes": "La Paz-LAP. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-puerto-vallarta-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/PVR"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "puerto-vallarta",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 103,
+    "frequencia": "~63/semana (~9/dia)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 565,
+      "max": 916,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/PVR"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "PVR",
+    "observacoes": "ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-merida-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/MID"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "merida",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 122,
+    "frequencia": "~96/semana (13-14/dia)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 727,
+      "max": 1116,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/MID"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "MID",
+    "observacoes": "Alternativa: Tren Maya não liga a CDMX. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-guanajuato-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com/flight-routes/MEX/BJX"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "guanajuato",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico (direto)",
+      "Viva Aerobus e Volaris (opções com conexão segundo o Kayak)"
+    ],
+    "duracaoVeiculoMin": 79,
+    "frequencia": "~39/semana (4-6/dia)",
+    "preco": {
+      "moeda": "USD",
+      "min": 266,
+      "max": 407,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com/flight-routes/MEX/BJX"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "BJX",
+    "observacoes": "BJX (Bajío/León-Silao) atende Guanajuato; San Miguel de Allende fica a ~95 km (Wikivoyage). Wikivoyage lista Viva/Volaris também com voos para BJX. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-huatulco-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com/flight-routes/MEX/HUX"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "huatulco",
+    "modal": "voo",
+    "operadoras": [
+      "Aeroméxico",
+      "Viva Aerobus",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 87,
+    "frequencia": "~28/semana (Aeroméxico 14, Viva 7, Volaris 7)",
+    "preco": {
+      "moeda": "USD",
+      "min": 142,
+      "max": 226,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com/flight-routes/MEX/HUX"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "HUX",
+    "observacoes": "Huatulco. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cidade-do-mexico-puerto-escondido-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/PXM"
+      },
+      {
+        "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cidade-do-mexico",
+    "paraCidadeId": "puerto-escondido",
+    "modal": "voo",
+    "operadoras": [
+      "Viva Aerobus",
+      "Aeroméxico",
+      "Volaris"
+    ],
+    "duracaoVeiculoMin": 78,
+    "frequencia": "~28/semana (Viva 14, Volaris 7, Aeroméxico 7)",
+    "preco": {
+      "moeda": "BRL",
+      "min": 580,
+      "max": 1026,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/MEX/PXM"
+        },
+        {
+          "url": "https://www.volaris.com/es/informacion-de-viaje/equipaje"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MEX",
+    "terminalChegada": "PXM",
+    "observacoes": "Puerto Escondido. ALERTA DE BAGAGEM LOW-COST: na Volaris (site oficial) a Tarifa Zero inclui APENAS 1 item pessoal; a Básica inclui item pessoal + 1 bagagem de mão (soma até 20 kg); só a Plus inclui mala despachada (até 25 kg). Compre bagagem na reserva (mais barato que no aeroporto). Regras da Viva Aerobus NÃO foram confirmadas (página não carregou); assuma que são semelhantes e confira antes de pagar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "oaxaca-puerto-escondido-voo",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "oaxaca",
+    "paraCidadeId": "puerto-escondido",
+    "modal": "voo",
+    "operadoras": [
+      "Aerotucán (avião pequeno; citado por GeckoRoutes e Wikivoyage)"
+    ],
+    "duracaoVeiculoMin": 70,
+    "frequencia": "Não confirmada",
+    "preco": {
+      "moeda": "MXN",
+      "min": 3600,
+      "max": 3600,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/oaxaca-a-puerto-escondido/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida (a partir de, convertido do €180 que o site mostra))"
+    },
+    "terminalSaida": "OAX",
+    "terminalChegada": "PXM",
+    "observacoes": "Não há voo comercial regular; só aviões pequenos. Com a rodovia nova (~3 h) o ônibus/van costuma compensar.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cancun-merida-voo",
+    "fontes": [
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/cancun-a-merida/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "cancun",
+    "paraCidadeId": "merida",
+    "modal": "voo",
+    "operadoras": [],
+    "terminalSaida": "CUN",
+    "terminalChegada": "MID",
+    "observacoes": "Voo direto CUN-MID NÃO confirmado (a página do Kayak não existe); use ônibus ADO (3h10-4h50) ou Tren Maya (~3h30).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  }
+]

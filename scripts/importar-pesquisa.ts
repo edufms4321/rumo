@@ -1,24 +1,32 @@
 /**
- * Converte a saida crua dos subagentes de pesquisa (pesquisa/onda-*.json) no
- * banco validado (data/colombia/*.json). Rode com:
+ * Converte a saida crua dos subagentes de pesquisa no banco validado.
  *
- *   npm run importar:pesquisa
+ *   npm run importar:pesquisa            # colombia (padrao)
+ *   npm run importar:pesquisa -- mexico
  *   npm run validate:data
  *
- * Por que script e nao edicao a mao: as ondas B e C vem no mesmo formato e o
- * mapeamento precisa ser auditavel e repetivel.
+ * Por que script e nao edicao a mao: as ondas de pesquisa vem todas no mesmo
+ * formato, e o mapeamento precisa ser auditavel e repetivel.
  *
  * O script nunca inventa valor factual. Campo vazio na pesquisa continua
  * vazio; preco zerado vira ausencia de preco mais um alerta no item;
- * coordenada 0,0 vira ausencia de coordenada; horario em prosa so vira janela
- * estruturada quando da para ler HH:MM sem ambiguidade. Tudo que ele DEDUZ
- * aparece no relatorio final, separado do que veio de fonte.
+ * coordenada 0,0 vira ausencia de coordenada; registro sem nenhuma fonte nao
+ * entra no banco. Tudo que ele DEDUZ sai no relatorio final, separado do que
+ * veio de fonte.
  *
- * Julgamento humano vive em pesquisa/ajustes-manuais.json e e mesclado por
- * cima, para que reexecutar o script nao perca trabalho manual.
+ * Julgamento humano vive em <pasta>/ajustes-manuais.json e e mesclado por
+ * cima, para que reexecutar nao perca trabalho manual.
+ *
+ * O conhecimento especifico de cada pais (quais lugares sao base, como o
+ * agente escreveu cada nome, que aeroporto serve que base) vive em
+ * scripts/destinos/. Isso e da FERRAMENTA DE PESQUISA, nao do app: o app le
+ * /data/<destino>/ por import.meta.glob e nao precisa de nada disto.
  */
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
+import { colombia } from './destinos/colombia.ts';
+import { mexico } from './destinos/mexico.ts';
+import type { ConfigDeDestino } from './destinos/tipos.ts';
 import {
   construirAeroportos,
   construirCalendario,
@@ -39,55 +47,80 @@ import {
 } from './lib/pesquisa-utils.ts';
 
 const RAIZ = resolve(import.meta.dirname, '..');
-const PESQUISA = join(RAIZ, 'pesquisa');
-const SAIDA = join(RAIZ, 'data', 'colombia');
 
-function ler(arquivo: string): Json {
-  return JSON.parse(readFileSync(join(PESQUISA, arquivo), 'utf8'));
+const DESTINOS: Record<string, ConfigDeDestino> = { colombia, mexico };
+
+function escolherDestino(): ConfigDeDestino {
+  const pedido = process.argv[2] ?? 'colombia';
+  const config = DESTINOS[pedido];
+  if (!config) {
+    console.error(
+      `Destino desconhecido: "${pedido}". Disponiveis: ${Object.keys(DESTINOS).join(', ')}.`,
+    );
+    process.exit(1);
+  }
+  return config;
 }
 
 function main(): void {
-  console.log('Importando pesquisa -> data/colombia\n');
+  const config = escolherDestino();
+  const PESQUISA = join(RAIZ, config.pastaDePesquisa);
+  const SAIDA = join(RAIZ, 'data', config.id);
 
-  const logistica = ler('onda-a-logistica.json');
+  const ler = (arquivo: string): Json => JSON.parse(readFileSync(join(PESQUISA, arquivo), 'utf8'));
+
+  console.log(`Importando ${config.pastaDePesquisa} -> data/${config.id}\n`);
+
+  const arquivosDaPasta = readdirSync(PESQUISA, { withFileTypes: true })
+    .filter((e) => e.isFile() && e.name.endsWith('.json'))
+    .map((e) => e.name)
+    .sort();
+
+  const arquivoDeLogistica = arquivosDaPasta.find((a) => a.includes('logistica'));
+  if (!arquivoDeLogistica) {
+    console.error(`Nenhum arquivo de logistica em ${config.pastaDePesquisa}.`);
+    process.exit(1);
+  }
+  const logistica = ler(arquivoDeLogistica);
   const coords = ler('coords-cidades.json');
 
-  // Le TODA onda de pesquisa que declare uma `base`. Assim a onda C entra
-  // sem tocar neste arquivo: basta soltar o JSON em pesquisa/.
+  // Le TODA onda que declare uma `base`. Uma onda nova entra so soltando o
+  // JSON na pasta - nenhuma mudanca de codigo.
   const bases: Json = {};
-  for (const arquivo of readdirSync(PESQUISA).sort()) {
-    if (!/^onda-.*\.json$/.test(arquivo)) continue;
+  for (const arquivo of arquivosDaPasta) {
+    if (!arquivo.startsWith('onda-')) continue;
     const conteudo = ler(arquivo);
     if (!conteudo.base || !Array.isArray(conteudo.itens)) continue;
-    if (bases[conteudo.base]) {
-      console.log(`  aviso: ${arquivo} repete a base "${conteudo.base}"`);
-    }
+    if (bases[conteudo.base]) console.log(`  aviso: ${arquivo} repete a base "${conteudo.base}"`);
     bases[conteudo.base] = conteudo;
   }
-  console.log(`  bases lidas: ${Object.keys(bases).join(', ')}
-`);
+  console.log(`  bases lidas: ${Object.keys(bases).join(', ') || '(nenhuma)'}\n`);
 
   const ajustes: Json = existsSync(join(PESQUISA, 'ajustes-manuais.json'))
     ? ler('ajustes-manuais.json')
     : {};
-  if (!ajustes.itens) console.log('  (sem pesquisa/ajustes-manuais.json)\n');
 
-  gravar(SAIDA, 'destino.json', construirDestino(logistica));
-  gravar(SAIDA, 'regioes.json', filtrarSemFonte(construirRegioes(logistica), 'regiao'));
+  gravar(SAIDA, 'destino.json', construirDestino(logistica, config));
+  gravar(SAIDA, 'regioes.json', filtrarSemFonte(construirRegioes(logistica, config), 'regiao'));
   gravar(SAIDA, 'aeroportos.json', filtrarSemFonte(construirAeroportos(logistica), 'aeroporto'));
-  gravar(SAIDA, 'cidades.json', filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes), 'cidade'));
+  gravar(
+    SAIDA,
+    'cidades.json',
+    filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes, config), 'cidade'),
+  );
 
-  const itensPorCidade = construirItens(Object.values(bases), ajustes);
+  const itensPorCidade = construirItens(Object.values(bases), ajustes, config);
   for (const [cidadeId, itens] of Object.entries(itensPorCidade)) {
     gravar(SAIDA, join('itens', `${cidadeId}.json`), filtrarSemFonte(itens, 'item'));
   }
 
-  gravar(SAIDA, 'trechos.json', filtrarSemFonte(construirTrechos(logistica), 'trecho'));
-  gravar(SAIDA, 'voos-internacionais.json', filtrarSemFonte(construirVoos(logistica), 'voo internacional'));
+  gravar(SAIDA, 'trechos.json', filtrarSemFonte(construirTrechos(logistica, config), 'trecho'));
+  gravar(SAIDA, 'voos-internacionais.json', filtrarSemFonte(construirVoos(logistica), 'voo'));
+
   // Eventos escritos a mao entram por cima: sao os que exigiram verificacao
-  // em fonte primaria pelo agente principal (datas de fechamento, desastres).
+  // em fonte primaria pelo agente principal (fechamentos, desastres).
   const calendario = [
-    ...construirCalendario(logistica),
+    ...construirCalendario(logistica, config),
     ...((ajustes.calendario ?? []) as Json[]),
   ];
   gravar(SAIDA, 'calendario.json', filtrarSemFonte(calendario, 'evento'));

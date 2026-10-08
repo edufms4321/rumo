@@ -1,0 +1,687 @@
+[
+  {
+    "id": "mx-cab-temporada-da-baleia-jubarte-em-los-cabos",
+    "fontes": [
+      {
+        "url": "https://www.boundlessroads.com/baja-california-whale-watching/"
+      },
+      {
+        "url": "https://gringogazette.com/best-whale-watching-spots-in-baja-california-sur/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Temporada da baleia-jubarte em Los Cabos",
+    "cidadeId": "los-cabos",
+    "categoria": "natureza",
+    "tags": [
+      "temporada",
+      "baleia-jubarte",
+      "nov-abr",
+      "cabo-san-lucas",
+      "sazonal"
+    ],
+    "coords": {
+      "lat": 22.8947,
+      "lng": -109.9153
+    },
+    "descricaoCurta": "Janela: fim de novembro/dezembro a março-abril; pico jan-março. Passeios a partir de ~US$89 (≈1.600 MXN) por pessoa.",
+    "descricaoLonga": "Baleias-jubarte passam o inverno na ponta sul da Baja. Fontes divergem levemente na janela: um guia 2026-27 dá 'fim de nov a março' em Cabo San Lucas; um guia local de jan/2026 dá 'dezembro a abril' para Los Cabos (com zonas restritas); o Wikivoyage dá janeiro a março, com pico no início de março. Passeios em Cabo começam em cerca de US$89 por pessoa (≈1.603 MXN à taxa de 18,0066 MXN/USD de 2026-10-08), o que é caro para o perfil econômico. Operações devem seguir a NOM-131. Coordenada = Cabo San Lucas (Wikipedia), não um ponto de embarque.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 1603,
+      "max": 1603,
+      "por": "pessoa",
+      "inclui": "Preço 'a partir de' US$89 por pessoa (conversão a 18,0066 MXN/USD). Teto não coletado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.boundlessroads.com/baja-california-whale-watching/"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Só ~dez a março/abril",
+        "Algumas zonas são restritas; usar operadora autorizada"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: o jeito mais barato de ver jubarte no roteiro é Puerto Vallarta (dez-mar); Los Cabos cobra preço de resort.",
+      "Se já estiver em Cabo San Lucas em jan-março, observe se o passeio de barco até El Arco (290-500 MXN) rende avistamento: NÃO confirmado em fonte."
+    ],
+    "alertas": [
+      "Duração, horários e operadora específica não coletados.",
+      "Janela varia por fonte (fim nov a abr)."
+    ]
+  },
+  {
+    "id": "mx-cab-el-arco-e-playa-del-amor-cabo-san-lucas-taxi-aquatic",
+    "fontes": [
+      {
+        "url": "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157"
+      },
+      {
+        "url": "https://thetraveltinker.com/road-trip/baja-california-sur-road-trip/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1692148991"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Arco e Playa del Amor (Cabo San Lucas) - táxi aquático",
+    "cidadeId": "los-cabos",
+    "categoria": "passeio",
+    "tags": [
+      "los-cabos",
+      "el-arco",
+      "playa-del-amor",
+      "lands-end",
+      "barco",
+      "icone"
+    ],
+    "coords": {
+      "lat": 22.8760239,
+      "lng": -109.8945633
+    },
+    "descricaoCurta": "Passeio de barco de ~40-45 min até El Arco e Lands End; faixas de 290 a 500 MXN por pessoa + taxa de doca. É o ícone de Cabo e o jeito mais barato de vê-lo.",
+    "descricaoLonga": "El Arco é a formação de rocha no 'Finisterra' de Cabo San Lucas. As opções documentadas (Posta): Cabo Best Tours a partir de 290 MXN (barco pequeno; Playa del Amor opcional com custo extra), Esperanzas Tours ~500 MXN por 40 min (com descontos de 20-30% em algumas épocas) e Tours Los Cabos 395 MXN por adulto (250 MXN para crianças de 4 a 9 anos), cerca de 45 min pela baía; há taxa de uso de doca à parte. O Traveltinker sugere táxi aquático ou panga até El Arco e Lands End (cerca de 1 h ida e volta) e reservar de manhã para fugir da multidão. SEGURANÇA: autoridades desaconselham caminhar pela praia sob El Arco por causa da maré e das ondas do Pacífico/Mar de Cortés; o Wikivoyage também alerta contra ficar perto da água em praias voltadas ao Pacífico. A coordenada é a do Arco (OSM); a Playa del Amor fica ao lado, mas seu ponto exato não foi obtido.",
+    "duracao": {
+      "min": 40,
+      "tipica": 45,
+      "max": 60
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, para evitar multidão (Traveltinker).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 290,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "Passeio de barco até El Arco (40-45 min). Taxa de doca à parte (valor mencionado em busca: ~100 MXN, não confirmado em página aberta). Playa del Amor tem custo extra em alguns operadores.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/El_Arco%2C_Cabo_San_Lucas%2C_Baja_California_Sur_%2816638939645%29.jpg/1280px-El_Arco%2C_Cabo_San_Lucas%2C_Baja_California_Sur_%2816638939645%29.jpg",
+        "credito": "Comisión Mexicana de Filmaciones from México D. F., México",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:El_Arco,_Cabo_San_Lucas,_Baja_California_Sur_(16638939645).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Desaconselhado caminhar sob El Arco na praia (maré)"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é o 'cartão postal' de Los Cabos mais barato (290-500 MXN) e dura menos de 1 h.",
+      "Compare 3 barqueiros no píer e peça preço total com taxa de doca.",
+      "CORTE SE APERTAR: pacotes de catamarã com open bar tendem a custar bem mais (preços não coletados)."
+    ],
+    "alertas": [
+      "Preços são do Posta (data da matéria não identificada) e variam por operador/temporada.",
+      "Horário de funcionamento não coletado.",
+      "Duas matérias divergem na duração (40-45 min x 1 h ida e volta)."
+    ],
+    "passeio": {
+      "pontoPartida": "Marina/área de táxis aquáticos de Cabo San Lucas.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-cab-playa-chileno-corredor-turistico-de-los-cabos",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/76738165"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Chileno (corredor turístico de Los Cabos)",
+    "cidadeId": "los-cabos",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "los-cabos",
+      "corredor",
+      "snorkel",
+      "bandeira-azul"
+    ],
+    "coords": {
+      "lat": 22.9498354,
+      "lng": -109.8070831
+    },
+    "descricaoCurta": "Praia do corredor Cabo San Lucas - San José del Cabo, citada pelo Wikivoyage como 'Blue Flag' (qualidade da água).",
+    "descricaoLonga": "O Wikivoyage de San José del Cabo cita El Chileno entre as praias próximas com certificação Blue Flag de qualidade da água. Coordenada do OpenStreetMap (Playa Chileno, Chileno Bay). NÃO foram confirmados em fonte aberta: acesso público/estacionamento, horário, taxa, estrutura, qualidade de snorkel e se o ponto de acesso é gratuito.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO se tiver carro: praia de corredor sem custo de ingresso confirmado seria alternativa gratuita ao passeio de barco (acesso/custo NÃO confirmados).",
+      "Leve água e comida: não há informação de preço/estrutura."
+    ],
+    "alertas": [
+      "Acesso, preço, horário e serviços NÃO confirmados.",
+      "Selo Blue Flag citado por fonte colaborativa (Wikivoyage); validade atual não verificada.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cab-playa-santa-maria-corredor-turistico-de-los-cabos",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/way/75500039"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Playa Santa María (corredor turístico de Los Cabos)",
+    "cidadeId": "los-cabos",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "los-cabos",
+      "corredor",
+      "snorkel"
+    ],
+    "coords": {
+      "lat": 22.9297275,
+      "lng": -109.8162386
+    },
+    "descricaoCurta": "Baía do corredor de Los Cabos, ~2 km ao sul de Chileno pelas coordenadas OSM. Dados práticos NÃO confirmados nesta coleta.",
+    "descricaoLonga": "Existe como 'Playa Santa María' no OpenStreetMap, próxima à rodovia Cabo San Lucas - La Paz/corredor, e há foto livre no Wikimedia Commons. Nenhuma página aberta nesta coleta descreve acesso, taxa, horário, estrutura ou qualidade de snorkel. Registro mantido por ser pedido no escopo, com confiança baixa.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Playa_Santa_Maria%2C_Baja_California_%28432544031%29.jpg/1280px-Playa_Santa_Maria%2C_Baja_California_%28432544031%29.jpg",
+        "credito": "Fulvio Spada from Torino, Italy",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg"
+      }
+    ],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: sem dados confirmados de acesso/custo, não monte o roteiro em torno desta praia; use Chileno/Medano/El Arco como referência."
+    ],
+    "alertas": [
+      "Quase tudo NÃO confirmado (acesso, preço, horário, estrutura).",
+      "Confiança 'estimado'.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cab-los-cabos-com-orcamento-apertado-a-verdade-sobre-pre",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      },
+      {
+        "url": "https://www.posta.com.mx/bcs/cuanto-cuesta-ir-de-cabo-san-lucas-a-la-playa-del-arco-de-cabo-esto-debes-saber/vl2106157"
+      },
+      {
+        "url": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+      },
+      {
+        "url": "https://www.boundlessroads.com/baja-california-whale-watching/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Los Cabos com orçamento apertado: a verdade sobre preços e o que dá para fazer",
+    "cidadeId": "los-cabos",
+    "categoria": "experiencia",
+    "tags": [
+      "los-cabos",
+      "orcamento",
+      "economia",
+      "onibus",
+      "dicas"
+    ],
+    "coords": {
+      "lat": 22.8947,
+      "lng": -109.9153
+    },
+    "descricaoCurta": "Los Cabos é o destino mais caro da região. Para o perfil econômico: base em La Paz, 1-2 dias em Los Cabos, passeios curtos e eventos gratuitos.",
+    "descricaoLonga": "Honestamente: Los Cabos é um polo de resorts (cerca de 2 milhões de visitantes por ano, mais de 1 milhão dos EUA; corredor de 32 km com campos de golfe de Nicklaus e Dye) e os preços acompanham. Comparativos dos próprios guias: hospedagem econômica listada em San José del Cabo a 1.400 MXN (Señor Mañana, Wikivoyage, sem data) contra pensões de 400-600 MXN em La Paz (Wikivoyage La Paz, sem data, provavelmente defasado); passeio de baleia em Cabo a partir de ~1.603 MXN; Cabo Pulmo a partir de 4.400 MXN; barco até El Arco 290-500 MXN. O que cabe no bolso: (1) ônibus Ruta del Desierto do aeroporto por ~80 MXN (Wikivoyage); (2) comida de rua e restaurantes econômicos no centro (tacos e frutos do mar; Las Guacamayas e El Toro Güero citados em San José); (3) Art Walk de San José às quintas (grátis); (4) táxi aquático até El Arco; (5) Playa Medano como praia pública de convivência na baía (citada no Wikivoyage). Estratégia sugerida: dormir em La Paz (ou Todos Santos), fazer Los Cabos em bate-volta de 1-2 dias de carro (La Paz-Cabo San Lucas ~2 h de ônibus Águila) e evitar noite em Cabo San Lucas.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: passeios de resort, jantares de marina, Cabo Pulmo (4.400+ MXN) e festas em Cabo San Lucas.",
+      "VALE CADA PESO: El Arco de barco (290-500 MXN) + Art Walk de San José (grátis, quintas nov-jun) + comer em San José.",
+      "Pergunte preço total (com taxas) antes de entrar em qualquer barco ou bar."
+    ],
+    "alertas": [
+      "Preços de hospedagem do Wikivoyage não têm data e podem estar defasados.",
+      "Preços de bebidas e jantares em Cabo San Lucas NÃO foram coletados.",
+      "Tarifa do ônibus La Paz-Cabo não coletada.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cab-san-jose-del-cabo-art-walk-quintas-a-noite",
+    "fontes": [
+      {
+        "url": "https://mexiconewsdaily.com/travel/san-jose-art-walk-continues-to-attract-los-cabos-visitors/"
+      },
+      {
+        "url": "https://www.cabo-adventures.com/en/blog/san-jose-del-cabo-art-walk"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/156979177"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "San José del Cabo Art Walk (quintas à noite)",
+    "cidadeId": "los-cabos",
+    "categoria": "atracao",
+    "tags": [
+      "san-jose-del-cabo",
+      "art-walk",
+      "galerias",
+      "gratis",
+      "quinta-feira",
+      "nov-jun"
+    ],
+    "coords": {
+      "lat": 23.0621198,
+      "lng": -109.694762
+    },
+    "descricaoCurta": "Toda quinta, 17h-21h, de novembro a junho: galerias abertas, música e ruas fechadas ao trânsito no distrito de arte. Gratuito.",
+    "descricaoLonga": "Evento gratuito desde 2006: toda quinta-feira à noite, das 17:00 às 21:00, de novembro a junho, no distrito de galerias do centro histórico de San José del Cabo (Calle Álvaro Obregón, em torno da Plaza Mijares). As fontes divergem no trecho exato da rua fechada: Mexico News Daily cita Obregón entre Hidalgo e Guerrero; Cabo Adventures, entre Hidalgo e Zaragoza (10 min a pé). Barreiras de trânsito entram às 16:30. Dicas do guia: começar pelo extremo de Hidalgo, calçado confortável (paralelepípedo), levar pesos para músicos e vendedores, jantar antes das 18h para fugir da multidão. Bares/restaurantes próximos citados: La Lupita Taco & Mezcal, Jazmín's, Mi Cocina (Casa Natalia), La Dolce (rooftop) e a cantina Tropicana's. Fora de novembro-junho não há Art Walk.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "horarios": {
+      "qui": [
+        {
+          "abre": "17:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "17:00-21:00 (só às quintas, nov a jun; ruas fechadas desde ~16:30)",
+    "diasFechados": [
+      "Todos os dias exceto quinta",
+      "Julho a outubro (fora da temporada)"
+    ],
+    "melhorHorario": "Chegar ~17:00 e jantar antes das 18:00 (Cabo Adventures).",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: programa grátis, bom para casal e para jantar barato em San José.",
+      "Funciona só em nov-jun; confirme se a data da viagem cai numa quinta."
+    ],
+    "alertas": [
+      "Segmento exato de ruas fechadas diverge entre fontes.",
+      "Preços de comida/bebida não coletados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-cab-vida-noturna-em-cabo-san-lucas-cabo-wabo-el-squid-ro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Los_Cabos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cabo_San_Lucas"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/13814307"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Vida noturna em Cabo San Lucas (Cabo Wabo, El Squid Roe, The Office)",
+    "cidadeId": "los-cabos",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "cabo-san-lucas",
+      "cabo-wabo",
+      "festa",
+      "caro"
+    ],
+    "coords": {
+      "lat": 22.8836946,
+      "lng": -109.913066
+    },
+    "descricaoCurta": "Cena de festa mais famosa (e mais cara) da Baja Sur. Wikivoyage cita Cabo Wabo, El Squid Roe e The Office (Medano). Preços NÃO coletados.",
+    "descricaoLonga": "Segundo o Wikivoyage, destacam-se o Cabo Wabo Cantina (de Sammy Hagar), El Squid Roe ('o melhor bar da cidade') e The Office, na Playa Medano, com 'ambiente mais adulto'. Dicas de segurança do mesmo guia: evitar becos à noite e cuidar de batedores de carteira nas áreas de balada. Nesta pesquisa NÃO foram coletados couvert, preço de bebida, horários, dress code nem políticas de entrada; trate como caro, de acordo com o perfil do destino. A coordenada é a do Cabo Wabo Cantina (OSM).",
+    "diasFechados": [],
+    "melhorHorario": "Horários não coletados.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: festa em Cabo San Lucas é o item que mais tende a estourar o orçamento econômico.",
+      "Se fizer: pré-balada em San José/La Paz, uma noite só, e combine volta (Uber/táxi) antes de sair."
+    ],
+    "alertas": [
+      "Sem preços, sem horários, sem fonte oficial: confiança baixa para tudo além dos nomes e dicas de segurança.",
+      "Guia colaborativo (Wikivoyage), sem data.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-cab-cabo-pulmo-parque-nacional-mergulho-e-snorkel",
+    "fontes": [
+      {
+        "url": "https://www.cabo-adventures.com/tour/cabo-pulmo-snorkel-expedition"
+      },
+      {
+        "url": "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/"
+      },
+      {
+        "url": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+      },
+      {
+        "url": "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cabo_Pulmo_National_Park"
+      },
+      {
+        "url": "https://open.er-api.com/v6/latest/USD"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Cabo Pulmo - parque nacional (mergulho e snorkel)",
+    "cidadeId": "los-cabos",
+    "categoria": "natureza",
+    "tags": [
+      "cabo-pulmo",
+      "mergulho",
+      "snorkel",
+      "parque-nacional",
+      "unesco",
+      "recife"
+    ],
+    "coords": {
+      "lat": 23.43361111,
+      "lng": -109.42444444
+    },
+    "descricaoCurta": "Recife de ~20 mil anos, repovoamento de 463% (1999-2009). Snorkel guiado ~4.400 MXN (Adventures in Baja) a US$275 (≈4.950 MXN); 2 tanques US$295 (≈5.310 MXN).",
+    "descricaoLonga": "Parque nacional no Cabo Leste (Wikipedia: decreto federal em 5 jun 1995; Mexico News Daily: parque nacional em 2000), Patrimônio Mundial da UNESCO em 2005 e sítio Ramsar em 2008; ~71 km² geridos pela CONANP. O recife tem cerca de 20.000 anos e é descrito como o mais antigo dos três sistemas de recife da costa do Pacífico norte-americano e o recife de coral mais ao norte do Pacífico leste; após a proibição de pesca, a biomassa subiu 463% entre 1999 e 2009 (outra fonte: 462% até 2010). Há 20 operadoras credenciadas; mergulho exige certificação e guia; grupos de no máximo 6 mergulhadores; cotas diárias/mensais de mergulhadores são avaliadas continuamente. Snorkel: Adventures in Baja, tour compartilhado a 4.400 MXN por pessoa (sinal de 2.200), privado para até 8 por 24.000 MXN, inclui traslado de Cabo (2-2,5 h por trecho), equipamento completo, guia/capitão, taxa do parque, água/lanche e almoço na vila. Dive Cabo: US$275 por pessoa (≈4.952 MXN), saídas às terças, quintas e sábados, 05:20 às 17:00 (11,5 h), mínimo de 3 pessoas, sinal de US$100. Cabo Adventures: 8 h, snorkel, almoço, mínimo de 10 anos, taxa de US$10 por pessoa cobrada à parte. Mergulho com 2 tanques: US$295 por pessoa (≈5.312 MXN), mínimo 2 mergulhadores, com transporte e almoço (Mexico News Daily). A taxa do parque varia por fonte: 'menos de US$4' (MND) a US$10 (Cabo Adventures); a maioria dos tours já inclui.",
+    "duracao": {
+      "min": 480,
+      "tipica": 690,
+      "max": 690
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "05:20",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "05:20",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "05:20",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "05:20-17:00 (Dive Cabo, saída de Cabo San Lucas)",
+    "diasFechados": [],
+    "melhorHorario": "Saída cedo (05:20 no Dive Cabo) por causa dos 2-2,5 h de estrada.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 4400,
+      "max": 5312,
+      "por": "pessoa",
+      "inclui": "Snorkel compartilhado 4.400 MXN (Adventures in Baja); Dive Cabo US$275 ≈4.952 MXN; mergulho 2 tanques US$295 ≈5.312 MXN (conversão a 18,0066 MXN/USD). Inclui traslado de Cabo, equipamento, taxa do parque (maioria), almoço.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+        },
+        {
+          "url": "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/"
+        },
+        {
+          "url": "https://mexiconewsdaily.com/travel/los-cabos-best-dive-site-is-also-its-greatest-conservation-story/"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2,
+      "link": "https://www.wetravel.com/trips/cabo-pulmo-snorkeling-shared-tour-adventures-in-baja-4303066269"
+    },
+    "contato": {
+      "site": "https://www.divecabo.com/tours/cabo-pulmo-snorkel-tour/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Pez_%C3%A1ngel_real_%28Holacanthus_passer%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_25.jpg/1280px-Pez_%C3%A1ngel_real_%28Holacanthus_passer%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_25.jpg",
+        "credito": "Diego Delso",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_real_(Holacanthus_passer),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_25.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mergulho exige certificação e guia",
+        "Máx. 6 mergulhadores por grupo",
+        "Colete salva-vidas obrigatório (Adventures in Baja)",
+        "Cabo Adventures: idade mín. 10 anos e peso máx. 114 kg; grávidas e pessoas com problema de coluna não podem"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: é um dos passeios mais caros da região (4.400+ MXN/pessoa saindo de Cabo). Com carro alugado e snorkel por conta própria o custo cairia, mas a exigência de guia/credenciada NÃO foi confirmada para snorkel de praia.",
+      "VALE CADA PESO somente se mergulho/snorkel for prioridade do casal: é um caso de recuperação documentada (biomassa +463% em 1999-2009), citado como o recife de coral mais ao norte do Pacífico leste.",
+      "NÃO VOAR depois de mergulhar com cilindro: ver item DAN. Se mergulhar, deixe 18 h antes do voo."
+    ],
+    "alertas": [
+      "Quatro fontes divergem em ano de criação do parque, taxa de entrada e % de aumento de biomassa.",
+      "Parques/UNESCO: o status 'World Heritage in Danger' mencionado na Wikipedia (2019) refere-se ao conjunto Gulf of California, por causa da vaquita.",
+      "Temporada ideal/visibilidade por mês NÃO coletada.",
+      "Preço em USD convertido; câmbio varia."
+    ]
+  },
+  {
+    "id": "mx-cab-alerta-nao-voar-depois-de-mergulhar-intervalos-dan",
+    "fontes": [
+      {
+        "url": "https://dan.org/health-medicine/health-resource/health-safety-guidelines/guidelines-for-flying-after-diving/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Alerta: NÃO voar depois de mergulhar (intervalos DAN)",
+    "cidadeId": "los-cabos",
+    "categoria": "experiencia",
+    "tags": [
+      "seguranca",
+      "mergulho",
+      "dan",
+      "voo",
+      "descompressao"
+    ],
+    "descricaoCurta": "Mínimo de 12 h após um mergulho sem descompressão; mínimo de 18 h após vários mergulhos/vários dias; bem mais que 18 h após mergulho com descompressão.",
+    "descricaoLonga": "Segundo o DAN (Divers Alert Network), após um único mergulho sem descompressão o intervalo mínimo de superfície antes de voar é de 12 horas; para mergulhos repetitivos ou vários dias seguidos, 18 horas; após mergulhos com descompressão obrigatória ou mistura de gases, 'substancialmente mais de 18 horas'. O próprio DAN ressalva que os testes foram em câmara seca com voluntários em repouso: para mergulhadores imersos e se exercitando, pode ser necessário esperar mais; não há garantia de evitar a doença descompressiva. Aplicação ao roteiro: se fizer mergulho com cilindro em Cabo Pulmo ou Espíritu Santo, programe o último mergulho para pelo menos 18 h antes do voo de volta (por exemplo, não mergulhar no último dia). Snorkel/respiração em apneia não foi tratado na fonte consultada.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Aguardar 12 h (1 mergulho) ou 18 h (vários mergulhos/dias) antes de voar"
+      ],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: reservar o mergulho para o penúltimo dia custa nada e evita risco de saúde.",
+      "Pergunte à operadora de mergulho qual intervalo ela adota antes de voos."
+    ],
+    "alertas": [
+      "Orientação genérica de saúde; não substitui médico/instrutor. Vale para mergulho com cilindro, não confirmado para snorkel.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

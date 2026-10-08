@@ -1,0 +1,2964 @@
+{
+  "base": "san-cristobal",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "San Cristóbal é a base de Los Altos (~2.120-2.200 m): centro todo a pé; colectivos urbanos M$8 (fev/2022, Wikivoyage); táxi M$30-40 (M$45+ após 22h). Chegada: aeroporto de Tuxtla (TGZ, ~1h15 de SC): colectivo/shuttle ~M$240 ou táxi ~M$600 (Wikivoyage, sem data); ônibus Tuxtla-SC a cada 15-20 min, M$40-45, 40 min-1h15 pelo pedágio 190D. Bate-voltas de SC: Chamula/Zinacantán (colectivo ou tour M$300; meia manhã), Cañón del Sumidero (tour M$430 de SC em nov/2023, ou ônibus até Tuxtla/Chiapa de Corzo + lancha M$320), El Chiflón/Montebello (bate-volta de ~12 h, mas Montebello cai na faixa de fronteira do aviso britânico). Palenque fica em OUTRA base (2 noites): ver o item 'Como ir de San Cristóbal a Palenque' (Rota A pela Hwy 199 x Rota B via Tuxtla/Villahermosa). Perfil econômico + natureza + noite/compras: SC entrega noite (bares com música ao vivo na Madero e Real de Guadalupe), compras (têxteis/âmbar) e natureza barata (Arcotete M$10-15, Sumidero); NÃO há praia na região: o equivalente são rios, cachoeiras e lagunas, e a cor da água é sazonal (ver Agua Azul). Não recomendo alugar carro: Canadá/Espanha/Reino Unido pedem pedágio e evitar noite, e há bloqueios com 'pedágio' informal em trechos livres. As durações marcadas como 'típicas' sem fonte são estimativas do agente.",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "noitesRecomendadasObservacao": "Julgamento do agente (sem fonte): 4 noites em SC cobrem 1 dia de centro/mercados/Na Bolom + Chamula/Zinacantán, 1 dia de Sumidero, 1 dia de natureza (Arcotete/El Chiflón) e 1 noite extra de bar/música; some +2 noites em Palenque (ruínas + cachoeiras em dia seco) = 6 no total. Altitude e frio podem pedir uma noite 'leve' no início.",
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Centro histórico (entorno de Real de Guadalupe, Madero e Parque Central)",
+        "perfil": "Tudo a pé: cafés, bares de música ao vivo (Revo, Cocodrilo, La Viña de Bacco) e mercado de artesanato; hostels e posadas baratas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 80,
+          "max": 450
+        },
+        "observacao": "Faixa dos exemplos do Wikivoyage (sem data confiável): hostels M$80-250 (dormitório), Posada del Abuelito M$120 dorm / M$250-300 privado, Posada Belén M$300-450; hotel D'Monica a partir de US$58. Valores provavelmente defasados; some inflação. Bares com música ao vivo podem fazer barulho à noite (inferência do agente).",
+        "seguranca": "Região turística com alerta apenas de táxi de rua para mulheres sozinhas depois de escurecer (Wikivoyage) e de morros (Guadalupe/San Cristóbal) após o anoitecer.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+          "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      {
+        "nome": "Entorno de Santo Domingo / Na Bolom (norte do centro)",
+        "perfil": "Perto da igreja e do mercado de artesanato, do Sna Jolobil e do Museo de la Medicina Maya; ambiente mais calmo (inferência).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem preço fontado por bairro. Na Bolom tem hotel próprio (quartos decorados por comunidades maias, Wikipedia ES), sem tarifa coletada.",
+        "seguranca": "Sem dado específico de bairro além dos alertas gerais do centro.",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Na_Bolom",
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Fontes só falam de pontos: (1) Cerro de Guadalupe e Cerro de San Cristóbal 'não são seguros depois que escurece' e mesmo de dia mulheres sozinhas podem ser assediadas (Wikivoyage); (2) mulheres sozinhas devem evitar táxi de rua após escurecer, com relato de 'uma série de assaltos por motoristas' (Wikivoyage ES) - use rádio-táxi do hotel; (3) o centro e a cidade de San Cristóbal são exceção no aviso canadense (08/10/2026) e a cidade de Palenque também. Resumo fontado dos avisos: Reino Unido (01/10/2026) desaconselha viagem não essencial na Hwy 199 Rancho Nuevo-Chancalá (SC-Palenque via Ocosingo) e na faixa de 40 km da fronteira com a Guatemala (Pacífico até Gracias a Dios); Canadá (08/10/2026) manda evitar viagens não essenciais a Chiapas exceto Palenque, Tuxtla e SC (com as estradas 186 e 190D); Espanha (24/07/2026) não recomenda visitar as zonas turísticas do estado; EUA Nível 3 segundo imprensa (jun/ago 2026), página oficial inacessível ao agente. Conflito armado concentrado no sul (Frontera Comalapa, Motozintla, Chicomuselo, Amatenango de la Frontera). Detalhes no item 'Panorama de segurança'.",
+    "pegaTuristaAEvitar": [
+      "Ir de táxi de rua à noite (mulheres sozinhas), segundo Wikivoyage: prefira rádio-táxi pedido pelo hotel.",
+      "Subir os morros de Guadalupe e San Cristóbal ao anoitecer.",
+      "Fotografar a igreja de Chamula e a de Zinacantán, ou moradores sem permissão (risco de multa, confisco da câmera ou agressão).",
+      "Dirigir ou viajar de noite nas estradas de Chiapas (Canadá, Espanha, Aztec Chiapas)."
+    ],
+    "golpesComuns": [
+      "Bloqueios de estrada com cobrança de 'pedágio' informal por tipo de veículo (Ocosingo, 11/11/2024; avisos do Reino Unido e do Canadá): em bloqueio, não acelerar nem fugir e parar se solicitado (Espanha).",
+      "Lombadas ('topes') em excesso na estrada SC-Palenque, citadas por reportagem de 2020 (atualizada 2023) como pontos usados por bandos para assaltar turistas.",
+      "Peças 'artesanais' que podem ser industriais ou bordadas à máquina: ver item de têxtil; importações da Guatemala e da China pressionam o mercado (Wikipedia ES).",
+      "Telefone de denúncia de extorsão: 089; assistência rodoviária: 078; emergência 911 (visitchiapas.com)."
+    ],
+    "fontes": [
+      "https://www.travel.gc.ca/destinations/mexico",
+      "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+      "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
+      "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=M%C3%A9xico",
+      "https://www.infobae.com/mexico/2026/06/09/eeuu-publica-alerta-de-viaje-y-niveles-de-advertencia-por-cada-estado-en-mexico-por-el-mundial-2026/",
+      "https://www.aztecachiapas.com/noticias/chiapas-bajo-nivel-3-de-alerta-de-viaje-de-ee-uu-por-riesgo-de-terrorismo-y-crimen/",
+      "https://www.eluniversal.com.mx/estados/embajada-de-estados-unidos-emite-nueva-alerta-de-viaje-para-zonas-de-chiapas-por-violencia/",
+      "https://en.wikipedia.org/wiki/Chiapas%E2%80%93Guatemala_Cartel",
+      "https://en.wikivoyage.org/wiki/Chiapas",
+      "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+      "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+      "https://visitchiapas.com/v1/Informacion-de-viajes",
+      "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Panorama de segurança em Chiapas: o que cada governo diz (leia antes de reservar)",
+      "categoria": "experiencia",
+      "cidade": "san-cristobal",
+      "tags": [
+        "seguranca",
+        "alerta-oficial",
+        "estrada",
+        "leitura-obrigatoria"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Resumo datado dos avisos oficiais: Reino Unido (01/10/2026) desaconselha a Hwy 199 San Cristóbal–Palenque e a faixa de 40 km da fronteira; Canadá (08/10/2026) manda evitar viagens não essenciais a Chiapas, com exceções.",
+      "descricaoLonga": "Registro de referência (não é atividade). COMPARAÇÃO DOS AVISOS, cada um com a data da página lida: (1) REINO UNIDO/FCDO, atualizado em 1 out 2026: 'advise against all but essential travel' em duas áreas de Chiapas: a faixa de 40 km da fronteira com a Guatemala 'entre a costa do Pacífico até e incluindo o posto de Gracias a Dios' e a Rodovia Federal 199 'entre Rancho Nuevo (saída de San Cristóbal) e o entroncamento de Chancalá (perto de Palenque)'. Ou seja, a estrada San Cristóbal–Ocosingo–Palenque está literalmente citada. (2) CANADÁ, página atualizada em 8 out 2026 07:16 ET: 'Avoid non-essential travel' a Chiapas por 'high levels of violence and organized crime', EXCETO a cidade e ruínas de Palenque (e a rodovia 186 que leva até lá), a cidade de Tuxtla Gutiérrez (aeroporto e a estrada principal) e a cidade de San Cristóbal (e a autopista de pedágio 190D entre as duas). Geral para o México: usar só estradas de pedágio, evitar dirigir depois de escurecer, 'bloqueios ilegais são comuns' e gangues armadas já atacaram viajantes que não pararam ou não pagaram um 'pedágio'. (3) ESPANHA/Exteriores, atualizado em 24 jul 2026: a insegurança em Chiapas 'se ha ido deteriorando' e hoje NÃO se recomenda visitar as zonas turísticas do estado; recomenda pedágio em vez de estrada livre e evitar dirigir à noite. (4) EUA: segundo Infobae (9 jun 2026) e Aztec Chiapas (publicado 18 ago 2025, atualizado 3 ago 2026), Chiapas está no Nível 3 'Reconsider Travel' (risco de violência de grupos terroristas, cartéis e gangues; restrições a funcionários americanos na fronteira com a Guatemala e no município de Ocozocoautla). ATENÇÃO: não consegui abrir a página oficial travel.state.gov (erro 403); o Nível 3 vem de dois veículos que a citam. Alerta da Embaixada dos EUA de abr/2024 (via El Universal, 20 abr 2024): restringiu viagens de funcionários a grandes áreas do leste/sul de Chiapas, incluindo a fronteira, o entorno de Ocosingo e o de Tapachula. CONTEXTO DO CONFLITO (Wikipedia EN): a violência se concentra em Frontera Comalapa, Motozintla, Chicomuselo e Amatenango de la Frontera (sul, junto à Guatemala), por disputa entre Cártel de Sinaloa, CJNG e o Cártel Chiapas–Guatemala, com deslocamentos em massa em 2023–2024. Isso é longe do circuito San Cristóbal–Palenque, mas é o motivo dos avisos. BLOQUEIOS NA ESTRADA SC–OCOSINGO–PALENQUE (jornalismo local): 9 set 2024, três bloqueios em Ocosingo (inclusive Ocosingo–Palenque e Ocosingo–San Cristóbal) sem passagem de veículos; 11 nov 2024, três bloqueios, dois deixavam passar 'mediante o pagamento de uma tarifa que varia conforme o tipo de veículo' e um (Ocosingo–Palenque) estava totalmente fechado (só a pé). Isso é o 'pedágio informal' das advertências britânica e canadense. Reportagem de 2020 (atualizada 2023): 386 'topes' (lombadas) em ~212 km e menção de bandos que usam as lombadas para assaltar turistas, com ponto crítico entre La Gravera e Agua Azul. ÁREAS TURÍSTICAS: o Canadá exclui do aviso apenas Palenque, San Cristóbal e Tuxtla (com as estradas 186 e 190D); Wikivoyage (Chiapas) diz que 'Chiapas é geralmente um estado seguro' com cuidado com pertences. CONCLUSÃO DO AGENTE: o risco concentra-se em (a) estradas fora de pedágio, sobretudo a Hwy 199 Ocosingo–Palenque, (b) viajar à noite, (c) faixa da fronteira sul (inclui o Parque Lagunas de Montebello, que fica colado na Guatemala; deduzi isso pela geografia, não está escrito nas fontes). San Cristóbal centro, Palenque cidade/ruínas e Tuxtla são os pontos de menor preocupação nos avisos.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Consultar as páginas oficiais na véspera de cada deslocamento.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Registro informativo, sem custo.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.travel.gc.ca/destinations/mexico",
+          "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.travel.gc.ca/destinations/mexico",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não é atividade agendável."
+      ],
+      "pontoPartida": "",
+      "dicasAgente": [
+        "[VALE CADA PESO] Leia as 4 fontes: elas divergem (UK/Canadá/Espanha mais duros; Wikivoyage e operadoras mais leves).",
+        "Teste prático: se a seguradora de viagem excluir 'regiões com aviso Nível 3/essential travel only', confirme se a cobertura vale em Chiapas antes de embarcar.",
+        "Telefones úteis (site oficial visitchiapas.com): 911 emergência, 078 Ángeles Verdes (assistência rodoviária), 089 denúncia de extorsão, 01-800-280-3500 Secretaria de Turismo de Chiapas (seg-sex 8h-16h)."
+      ],
+      "alertas": [
+        "Reino Unido: Hwy 199 (SC–Palenque via Ocosingo) e faixa de 40 km da fronteira = 'all but essential travel' (atualizado 01/10/2026).",
+        "Canadá: evitar viagens não essenciais a Chiapas, exceto Palenque (cidade, ruínas, hwy 186), Tuxtla e San Cristóbal (e o pedágio 190D) (atualizado 08/10/2026).",
+        "Espanha: zonas turísticas de Chiapas 'no se recomienda' (atualizado 24/07/2026).",
+        "EUA: Nível 3 para Chiapas segundo imprensa (jun/ago 2026); página oficial inacessível ao agente.",
+        "Canadá registra, em 08/10/2026, a tempestade tropical 'Simon' na seção de desastres naturais; outubro ainda é época de chuva/ciclones."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.travel.gc.ca/destinations/mexico",
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+        "https://www.gov.uk/foreign-travel-advice/mexico",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=M%C3%A9xico",
+        "https://www.infobae.com/mexico/2026/06/09/eeuu-publica-alerta-de-viaje-y-niveles-de-advertencia-por-cada-estado-en-mexico-por-el-mundial-2026/",
+        "https://www.aztecachiapas.com/noticias/chiapas-bajo-nivel-3-de-alerta-de-viaje-de-ee-uu-por-riesgo-de-terrorismo-y-crimen/",
+        "https://www.eluniversal.com.mx/estados/embajada-de-estados-unidos-emite-nueva-alerta-de-viaje-para-zonas-de-chiapas-por-violencia/",
+        "https://en.wikipedia.org/wiki/Chiapas%E2%80%93Guatemala_Cartel",
+        "https://www.aztecachiapas.com/noticias/tres-bloqueos-carreteros-en-ocosingo-sin-paso-a-palenque-altamirano-y-san-cristobal/",
+        "https://www.aztecachiapas.com/noticias/bloqueo-total-en-ocosingo-reportan-tres-tramos-carreteros-cerrados/",
+        "https://www.eluniversal.com.mx/estados/chiapas-cuentan-386-topes-en-carretera-san-cristobal-palenque/",
+        "https://en.wikivoyage.org/wiki/Chiapas",
+        "https://visitchiapas.com/v1/Informacion-de-viajes"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Centro histórico e Parque Central (Zócalo) de San Cristóbal",
+      "categoria": "atracao",
+      "cidade": "san-cristobal",
+      "tags": [
+        "centro",
+        "gratis",
+        "caminhada",
+        "pueblo-magico",
+        "fotografia"
+      ],
+      "coords": {
+        "lat": 16.737028475,
+        "lng": -92.637609325
+      },
+      "descricaoCurta": "Praça central, ruas de calçada de pedra e fachadas coloridas; base para tudo a pé e de graça.",
+      "descricaoLonga": "San Cristóbal foi declarada Pueblo Mágico em 2003 e fica a ~2.120 m de altitude. O Parque Central (31 de Março) é o ponto de encontro: catedral ao lado, cafés e bares nas ruas Real de Guadalupe e Madero (a poucos quarteirões). Fica tudo caminhável; táxis custam M$30-40 (M$45+ após 22h, segundo Wikivoyage ES). Na praça saem os tours para Chamula/Zinacantán (ponto das 09:30 citado pelo Wikivoyage).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "00:00–23:59",
+        "ter": "00:00–23:59",
+        "qua": "00:00–23:59",
+        "qui": "00:00–23:59",
+        "sex": "00:00–23:59",
+        "sab": "00:00–23:59",
+        "dom": "00:00–23:59"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde e noite; manhã cedo para fotos sem gente.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Espaço público, sem ingresso.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Frio à noite o ano todo (ver notas de altitude)."
+      ],
+      "pontoPartida": "Parque Central",
+      "dicasAgente": [
+        "[VALE CADA PESO] De graça e é a sua base.",
+        "Leve casaco SEMPRE: a média das mínimas é ~5 °C em jan e ~12 °C em jun (Wikipedia ES); Wikivoyage diz que a maioria dos prédios não tem aquecimento central.",
+        "Mulheres sozinhas: evitar táxi de rua depois de escurecer; peça ao hotel/restaurante um rádio-táxi (Wikivoyage)."
+      ],
+      "alertas": [
+        "Horário '00:00–23:59' é só indicação de espaço aberto; não há horário oficial.",
+        "Duração típica é estimativa do agente (sem fonte)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Z%C3%B3calo_de_San_Crist%C3%B3bal_de_las_Casas_y_Cruz_de_madera.jpg?width=1200",
+        "credito": "BIOLOGO JORGE AYALA",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Z%C3%B3calo_de_San_Crist%C3%B3bal_de_las_Casas_y_Cruz_de_madera.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/way/1363465371"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Catedral de San Cristóbal de las Casas",
+      "categoria": "atracao",
+      "cidade": "san-cristobal",
+      "tags": [
+        "igreja",
+        "centro",
+        "gratis",
+        "arquitetura"
+      ],
+      "coords": {
+        "lat": 16.73754,
+        "lng": -92.63774
+      },
+      "descricaoCurta": "Catedral barroca colorida de frente para o Parque Central; parada obrigatória de 15-20 min.",
+      "descricaoLonga": "A catedral é o marco do Zócalo e está listada entre os principais edifícios coloniais da cidade pela Wikipedia. Entrada em geral livre; respeite missas e evite flash. Horário e preço de entrada não confirmados em fonte aberta.",
+      "duracao": {
+        "min": 10,
+        "tipica": 20,
+        "max": 40
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã ou fim de tarde, luz boa na fachada.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço/doação não confirmado em fonte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Templo em uso: roupa discreta, sem flash."
+      ],
+      "pontoPartida": "Parque Central",
+      "dicasAgente": [
+        "[VALE CADA PESO] Está no caminho de tudo.",
+        "Duração típica é estimativa do agente (sem fonte)."
+      ],
+      "alertas": [
+        "Horário não confirmado; coordenada vem da Wikipedia ES (geosearch)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_de_San_Crist%C3%B3bal_de_las_Casas_1.jpg?width=1200",
+        "credito": "GameOfLight",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_de_San_Crist%C3%B3bal_de_las_Casas_1.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/w/api.php?action=query&list=geosearch&gscoord=16.737|-92.637&gsradius=10000&gslimit=100&format=json"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Templo e ex-convento de Santo Domingo",
+      "categoria": "atracao",
+      "cidade": "san-cristobal",
+      "tags": [
+        "igreja",
+        "museu",
+        "artesanato",
+        "centro"
+      ],
+      "coords": {
+        "lat": 16.741638888889,
+        "lng": -92.637277777778
+      },
+      "descricaoCurta": "Igreja barroca dourada ao norte do centro; no entorno funciona o maior mercado de artesanato da cidade.",
+      "descricaoLonga": "Santo Domingo de Guzmán é o templo mais fotografado da cidade; o ex-convento abriga o museu Museo de los Altos de Chiapas (Wikipedia ES lista a instituição, sem preço/horário). Ao redor, o Wikivoyage descreve o mercado de artesanato 20 de Noviembre 'nas dependências do Templo de Santo Domingo' como 'um dos melhores lugares para comprar souvenirs e têxteis'.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (menos gente, vendedores montando bancas).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço do museu não confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Templo em uso."
+      ],
+      "pontoPartida": "Centro; 8-10 min a pé do Zócalo",
+      "dicasAgente": [
+        "[VALE CADA PESO] Igreja + feira no mesmo ponto.",
+        "Combine com Sna Jolobil (a ~2 quadras, ver item) para comparar preço e qualidade antes de comprar."
+      ],
+      "alertas": [
+        "Horários/preço do museu não confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior_de_Santo_Domingo%2C_San_Crist%C3%B3bal_de_las_Casas%2C_Chiapas_-_2.jpg?width=1200",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Interior_de_Santo_Domingo,_San_Crist%C3%B3bal_de_las_Casas,_Chiapas_-_2.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/w/api.php?action=query&list=geosearch&gscoord=16.737|-92.637&gsradius=10000&gslimit=100&format=json"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado de artesanato de Santo Domingo / 20 de Noviembre",
+      "categoria": "compras",
+      "cidade": "san-cristobal",
+      "tags": [
+        "artesanato",
+        "textil",
+        "ambar",
+        "souvenir",
+        "barganha"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Feira de rua ao redor do templo de Santo Domingo com têxteis, âmbar e souvenirs; negociação esperada.",
+      "descricaoLonga": "O Wikivoyage coloca o mercado 20 de Noviembre nas dependências do Templo de Santo Domingo. O estado produz ~90% do âmbar do México (Wikipedia ES, Artesanía de Chiapas) e o têxtil de tear de cintura é a peça-símbolo; a Wikipedia ES observa que imitações da Guatemala e da China afetaram o negócio dos artesãos locais. Há também o 'Mercado de Dulces y Artesanías' na Av. Insurgentes, onde 'os vendedores são menos dispostos a barganhar' (Wikivoyage).",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã/início da tarde; negocie com calma, compre mais de uma peça.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem ingresso; preço das peças varia, não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Santo Domingo",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se for comprar lembrança, aqui é o melhor custo-benefício + opção de comparar com Sna Jolobil.",
+        "[CORTE SE APERTAR] Se não vai comprar, o templo já cumpre.",
+        "Ver o item 'Como reconhecer têxtil feito à mão' antes de comprar."
+      ],
+      "alertas": [
+        "Coordenada deixada 0,0: o mercado não tem ponto próprio verificado em OSM/Wikipedia.",
+        "Horários não confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tejedora_de_telar_de_cintura.jpg?width=1200",
+        "credito": "Brenda Berenice Morales Garcia",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tejedora_de_telar_de_cintura.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/wiki/Artesan%C3%ADa_y_arte_popular_en_Chiapas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado Municipal José Castillo Tielemans",
+      "categoria": "compras",
+      "cidade": "san-cristobal",
+      "tags": [
+        "mercado",
+        "comida-barata",
+        "economico",
+        "local"
+      ],
+      "coords": {
+        "lat": 16.743392817647056,
+        "lng": -92.63515945882352
+      },
+      "descricaoCurta": "Mercado popular onde a comida regional custa preço de rua; bom para comer barato e ver o cotidiano.",
+      "descricaoLonga": "O Wikivoyage lista o mercado na rua General Utrilla, aberto 'do amanhecer ao entardecer', com comida regional a preços de rua. É a opção econômica para café da manhã e almoço e para observar produtores indígenas vendendo verduras.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (ritmo mais vivo).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem ingresso; refeições por conta própria (preço não coletado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. General Utrilla",
+      "dicasAgente": [
+        "[VALE CADA PESO] Comer barato e rápido num roteiro intenso.",
+        "Carregue dinheiro trocado."
+      ],
+      "alertas": [
+        "Horário só como prosa ('amanhecer a entardecer')."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_San_Cristobal_de_las_Casas_1.jpg?width=1200",
+        "credito": "Darij (https://www.flickr.com/photos/darij/)",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_San_Cristobal_de_las_Casas_1.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/way/27922430"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Sna Jolobil (cooperativa de tecelãs)",
+      "categoria": "compras",
+      "cidade": "san-cristobal",
+      "tags": [
+        "cooperativa",
+        "textil",
+        "comercio-justo",
+        "artesanato"
+      ],
+      "coords": {
+        "lat": 16.7421928,
+        "lng": -92.6376278
+      },
+      "descricaoCurta": "Cooperativa de tecelãs mayas: referência de qualidade e preço justo, mesmo que você só vá olhar.",
+      "descricaoLonga": "A Wikipedia ES cita a Asociación Sna Jolobil (fundada em 1976) como uma das duas grandes organizações têxteis de Chiapas, junto à J'pas Joloviletic (1984, ~800 artesãs de 23 comunidades). O Wikivoyage informa endereço (Calz. Lázaro Cárdenas 42), telefone +52 967 678 7178 e que vende têxteis autenticamente feitos à mão 'com preços mais altos que os vendedores de rua'. OSM mapeia a loja como 'shop=charity'.",
+      "duracao": {
+        "min": 20,
+        "tipica": 40,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Horário comercial (horário não confirmado).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem ingresso; peças custam mais que na rua (preço não coletado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 967 678 7178",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calz. Lázaro Cárdenas 42",
+      "dicasAgente": [
+        "[VALE CADA PESO] Visita grátis e serve de régua: veja o preço/qualidade aqui antes de pechinchar na rua.",
+        "Pague a diferença se quiser peça de tear de cintura de verdade e renda para as tecelãs."
+      ],
+      "alertas": [
+        "Horário não confirmado.",
+        "Endereço e telefone vêm do Wikivoyage (sem data)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tejedora_de_telar_de_cintura.jpg?width=1200",
+        "credito": "Brenda Berenice Morales Garcia",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tejedora_de_telar_de_cintura.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/wiki/Artesan%C3%ADa_y_arte_popular_en_Chiapas",
+        "https://www.openstreetmap.org/node/12544944903"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "TierraAdentro Centro Cultural (café e produtos de cooperativas)",
+      "categoria": "compras",
+      "cidade": "san-cristobal",
+      "tags": [
+        "cooperativa",
+        "cafe",
+        "cultura",
+        "zapatista",
+        "noite"
+      ],
+      "coords": {
+        "lat": 16.7376526,
+        "lng": -92.6360044
+      },
+      "descricaoCurta": "Espaço cultural na Real de Guadalupe com café, produtos de cooperativas e eventos; aberto até tarde.",
+      "descricaoLonga": "O Wikivoyage descreve o TierraAdentro (Real de Guadalupe 24; diário 08:00-23:00; tel +52 967 674 6766) como centro cultural com bens de cooperativas zapatistas. OSM mapeia como café. Bom para tomar café de cooperativa e comprar artesanato de comércio justo.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "08:00–23:00",
+        "ter": "08:00–23:00",
+        "qua": "08:00–23:00",
+        "qui": "08:00–23:00",
+        "sex": "08:00–23:00",
+        "sab": "08:00–23:00",
+        "dom": "08:00–23:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem ingresso; consumo por conta (preço não coletado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 967 674 6766",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Real de Guadalupe 24",
+      "dicasAgente": [
+        "[VALE CADA PESO] Café + compra com causa num só lugar, no mesmo eixo dos bares.",
+        "[CORTE SE APERTAR] Se o orçamento é curto, vá só olhar."
+      ],
+      "alertas": [
+        "Horário e endereço do Wikivoyage (sem data)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/368940942"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo Na Bolom",
+      "categoria": "museu",
+      "cidade": "san-cristobal",
+      "tags": [
+        "museu",
+        "lacandon",
+        "biblioteca",
+        "jardim",
+        "cultura"
+      ],
+      "coords": {
+        "lat": 16.74166667,
+        "lng": -92.62972222
+      },
+      "descricaoCurta": "Casa-museu do casal Blom (arqueólogo e fotógrafa) com acervo maia e lacandón; M$45 adulto.",
+      "descricaoLonga": "Construído em 1898 como seminário católico, virou casa de Frans Blom e Gertrude Duby; tem museu (arqueologia maia, etnografia lacandona, arte colonial, têxteis), biblioteca com +50 mil fotos, hotel, restaurante e viveiro de árvores nativas (Wikipedia ES). Wikivoyage: terça a domingo 09:00-20:00; M$45 adulto, M$25 desconto (sem data).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "09:00–20:00",
+        "qua": "09:00–20:00",
+        "qui": "09:00–20:00",
+        "sex": "09:00–20:00",
+        "sab": "09:00–20:00",
+        "dom": "09:00–20:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde (ótimo quando chove ou esfria).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 45,
+        "por": "pessoa",
+        "inclui": "M$45 adulto / M$25 desconto segundo Wikivoyage (sem data).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Centro-norte (Vicente Guerrero)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Bom, mas não prioritário; fica caro só no tempo (1,5 h) para quem tem ritmo intenso.",
+        "Preço baixo: cabe se sobrar fim de tarde."
+      ],
+      "alertas": [
+        "Segunda-feira: Wikivoyage lista 'Tue-Sun'; não confirmei fechamento.",
+        "Horário/preço de 2026 não confirmados em site oficial."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Crist%C3%B3bal_-_Na_Bolom_-_Jaguar.JPG?width=1200",
+        "credito": "Éclusette",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:San_Crist%C3%B3bal_-_Na_Bolom_-_Jaguar.JPG"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Na_Bolom",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://en.wikipedia.org/w/api.php?action=query&prop=coordinates&titles=Casa_Na_Bolom&format=json"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo de la Medicina Maya",
+      "categoria": "museu",
+      "cidade": "san-cristobal",
+      "tags": [
+        "museu",
+        "cultura",
+        "indigena",
+        "economico"
+      ],
+      "coords": {
+        "lat": 16.7500329,
+        "lng": -92.6386895
+      },
+      "descricaoCurta": "Museu dirigido por coletivo de curandeiros indígenas; ingresso de M$25.",
+      "descricaoLonga": "Segundo Wikivoyage, é operado por um coletivo de curandeiros indígenas; seg-sex 10:00-18:00, sáb-dom 10:00-16:00, M$25; há tratamentos.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 75
+      },
+      "horarios": {
+        "seg": "10:00–18:00",
+        "ter": "10:00–18:00",
+        "qua": "10:00–18:00",
+        "qui": "10:00–18:00",
+        "sex": "10:00–18:00",
+        "sab": "10:00–16:00",
+        "dom": "10:00–16:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Qualquer horário.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 25,
+        "max": 25,
+        "por": "pessoa",
+        "inclui": "M$25 (Wikivoyage, sem data).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Norte do centro",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Interessante, mas é o primeiro corte numa agenda cheia."
+      ],
+      "alertas": [
+        "Preço e horário só do Wikivoyage."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo_de_la_Medicina_Maya.jpg?width=1200",
+        "credito": "StellarD",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_de_la_Medicina_Maya.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/310648764"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Parque Ecoturístico El Arcotete",
+      "categoria": "natureza",
+      "cidade": "san-cristobal",
+      "tags": [
+        "natureza",
+        "caverna",
+        "economico",
+        "trilha",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 16.7257213,
+        "lng": -92.5848718
+      },
+      "descricaoCurta": "Arco natural de pedra e cavernas a ~5-10 km do centro; ingresso de M$10 (M$15 nas cavernas).",
+      "descricaoLonga": "Wikivoyage: fica 5-10 km no caminho de Tenejapa, com bosque de pinheiros, área de piquenique e mirantes; entrada geral M$10 e M$15 para a seção das cavernas. OSM tem um 'colectivo al Arcotete' perto do centro.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 10,
+        "max": 15,
+        "por": "pessoa",
+        "inclui": "M$10 geral / M$15 cavernas (Wikivoyage, sem data).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Leve agasalho: frio e umidade."
+      ],
+      "pontoPartida": "Colectivo no centro (ponto mapeado em OSM)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Natureza barata (praia/natureza é seu interesse).",
+        "Evite voltar tarde ao escurecer."
+      ],
+      "alertas": [
+        "Horário não confirmado. Preço de fonte sem data."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/11425866200",
+        "https://www.openstreetmap.org/node/9936370917"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Miradores do Cerro de Guadalupe e do Cerro San Cristóbal",
+      "categoria": "mirante",
+      "cidade": "san-cristobal",
+      "tags": [
+        "mirante",
+        "gratis",
+        "por-do-sol",
+        "cuidado-noite"
+      ],
+      "coords": {
+        "lat": 16.7380668875,
+        "lng": -92.6254227
+      },
+      "descricaoCurta": "Duas igrejas no alto de morros com vista da cidade; grátis, mas não são seguros depois que escurece.",
+      "descricaoLonga": "A coordenada é a Iglesia de Guadalupe (OSM). O Wikivoyage alerta que os morros 'não são seguros após o escurecer' e que mesmo de dia mulheres sozinhas podem ser assediadas; o Cerro de San Cristóbal (San Cristobalito) tem a outra igreja, sem coordenada verificada.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim de tarde, descendo ANTES de escurecer.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem ingresso (não confirmado em fonte).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não subir à noite; evitar sozinha."
+      ],
+      "pontoPartida": "Real de Guadalupe (leste do centro)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Vista grátis, mas só de dia/pôr do sol e em dupla.",
+        "Segurança: Wikivoyage ES e EN concordam em não ir ao anoitecer."
+      ],
+      "alertas": [
+        "Coordenada do San Cristobalito não verificada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/way/678919181"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Café Museo Café",
+      "categoria": "cafe",
+      "cidade": "san-cristobal",
+      "tags": [
+        "cafe",
+        "chiapas",
+        "cultura",
+        "museu-cafe"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Café-museu sobre o café de Chiapas (região produtora); entrada do museu M$30.",
+      "descricaoLonga": "Wikivoyage: María Adelina Flores 10, seg-sáb 08:00-22:00, admissão do museu M$30. Chiapas é região de café e o estado tem outras opções de cooperativa (Café Toyol Witz, comércio justo, Comitán 10B).",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "08:00–22:00",
+        "ter": "08:00–22:00",
+        "qua": "08:00–22:00",
+        "qui": "08:00–22:00",
+        "sex": "08:00–22:00",
+        "sab": "08:00–22:00",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 30,
+        "por": "pessoa",
+        "inclui": "Café por conta; M$30 é a entrada do museu (Wikivoyage, sem data).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Calle María Adelina Flores 10",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se quer 'experiência de café' de verdade; o café comum custa pouco.",
+        "Alternativa de comércio justo: Café Toyol Witz (Comitán 10B)."
+      ],
+      "alertas": [
+        "Coordenada deixada 0,0 (OSM não retornou o local).",
+        "Domingo não informado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "YIK Café",
+      "categoria": "cafe",
+      "cidade": "san-cristobal",
+      "tags": [
+        "cafe",
+        "centro",
+        "cedo-e-tarde"
+      ],
+      "coords": {
+        "lat": 16.7375071,
+        "lng": -92.6353721
+      },
+      "descricaoCurta": "Café no eixo 20 de Noviembre, aberto das 07:30 às 23:00 (Wikivoyage).",
+      "descricaoLonga": "Wikivoyage: Av. 20 de Noviembre 8, diário 07:30-23:00. OSM classifica como restaurante. Útil para café da manhã cedo antes dos passeios e para bebida à noite.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "07:30–23:00",
+        "ter": "07:30–23:00",
+        "qua": "07:30–23:00",
+        "qui": "07:30–23:00",
+        "sex": "07:30–23:00",
+        "sab": "07:30–23:00",
+        "dom": "07:30–23:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã cedo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Av. 20 de Noviembre 8",
+      "dicasAgente": [
+        "[VALE CADA PESO] Abre cedo, bom para antes de sair para Sumidero/cachoeiras."
+      ],
+      "alertas": [
+        "Horário do Wikivoyage sem data."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/9932491218"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cacao Nativa",
+      "categoria": "cafe",
+      "cidade": "san-cristobal",
+      "tags": [
+        "cafe",
+        "cacau",
+        "chocolate",
+        "centro"
+      ],
+      "coords": {
+        "lat": 16.7343915,
+        "lng": -92.6381556
+      },
+      "descricaoCurta": "Café/chocolateria no centro (Wikivoyage), aberto 08:00-22:00.",
+      "descricaoLonga": "Wikivoyage: rua Benito Juárez, perto do Templo de San Francisco, diário 08:00-22:00. OSM mapeia como café. O cacau é produto de Chiapas.",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "08:00–22:00",
+        "ter": "08:00–22:00",
+        "qua": "08:00–22:00",
+        "qui": "08:00–22:00",
+        "sex": "08:00–22:00",
+        "sab": "08:00–22:00",
+        "dom": "08:00–22:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Benito Juárez, perto do Templo de San Francisco",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Um dos vários cafés bons do centro; não é essencial."
+      ],
+      "alertas": [
+        "Horário do Wikivoyage sem data."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/5362500922"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Café Bar Revolución ('El Revo')",
+      "categoria": "bar",
+      "cidade": "san-cristobal",
+      "tags": [
+        "bar",
+        "musica-ao-vivo",
+        "noite",
+        "centro"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Bar-café com música ao vivo todas as noites; ponto clássico da vida noturna de San Cristóbal.",
+      "descricaoLonga": "Wikivoyage EN e ES citam o Café Bar Revolución ('El Revo') na região da Francisco I. Madero com música ao vivo toda noite. O Wikivoyage descreve a cena da cidade (ruas Madero e adjacentes) com 'eventos eletrônicos, shows ao vivo, jams, cabarés e cinema local de nicho'.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "A partir das 21h-22h (horário de funcionamento não confirmado).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Consumo; preço não coletado (cobrança de cover não confirmada).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Francisco I. Madero (centro)",
+      "dicasAgente": [
+        "[VALE CADA PESO] O mais citado; música ao vivo sem pesar no bolso (preço de bebida não confirmado).",
+        "Volte para o hotel de rádio-táxi: Wikivoyage alerta mulheres sozinhas contra táxi de rua depois de escurecer.",
+        "Leve casaco: a noite esfria."
+      ],
+      "alertas": [
+        "Coordenada 0,0 (local não localizado em OSM). Horário não confirmado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "El Cocodrilo Bar",
+      "categoria": "bar",
+      "cidade": "san-cristobal",
+      "tags": [
+        "bar",
+        "musica-ao-vivo",
+        "noite",
+        "zocalo"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Bar com música ao vivo na esquina sudeste do Zócalo, dentro do Hotel Santa Clara.",
+      "descricaoLonga": "Wikivoyage EN/ES: bar no canto SE do Zócalo, no Hotel Santa Clara, com música ao vivo todas as noites. O hotel está mapeado em OSM (16.7365, -92.6372), mas o bar em si não tem ponto próprio verificado.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Noite.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Consumo; preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Esquina SE do Zócalo (Hotel Santa Clara)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Pega o Zócalo e a música no mesmo lugar, sem deslocamento à noite (mais seguro).",
+        "Combine com o Revo: um por noite."
+      ],
+      "alertas": [
+        "Coordenada 0,0 (bar não localizado em OSM)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/3684991068"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "La Viña de Bacco",
+      "categoria": "bar",
+      "cidade": "san-cristobal",
+      "tags": [
+        "bar",
+        "vinho",
+        "tapas",
+        "economico"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Bar de vinhos na Real de Guadalupe com tapas grátis; taça a partir de M$35.",
+      "descricaoLonga": "Wikivoyage: Real de Guadalupe 7, seg-sáb 14:00-24:00, taça a partir de M$35 com tapas grátis (preço sem data).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "14:00–24:00",
+        "ter": "14:00–24:00",
+        "qua": "14:00–24:00",
+        "qui": "14:00–24:00",
+        "sex": "14:00–24:00",
+        "sab": "14:00–24:00",
+        "dom": ""
+      },
+      "diasFechados": [
+        "domingo (não confirmado)"
+      ],
+      "melhorHorario": "Tarde/noite.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 35,
+        "max": 35,
+        "por": "pessoa",
+        "inclui": "Taça a partir de M$35, com tapas, segundo Wikivoyage (sem data).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Real de Guadalupe 7",
+      "dicasAgente": [
+        "[VALE CADA PESO] Economiza a janta: taça barata + tapas grátis.",
+        "Perfidia Bar y Bocadillos (María Adelina Flores 23) é outra opção listada."
+      ],
+      "alertas": [
+        "Preço/horário do Wikivoyage sem data; domingo não informado."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Como reconhecer têxtil feito à mão (tear de cintura) e onde comprar de forma justa",
+      "categoria": "experiencia",
+      "cidade": "san-cristobal",
+      "tags": [
+        "compras",
+        "textil",
+        "etico",
+        "guia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Guia: tear de cintura produz tecido estreito (largura do braço), com brocado feito à mão; cooperativas: Sna Jolobil e J'pas Joloviletic.",
+      "descricaoLonga": "Fatos fontados: (1) Os têxteis tradicionais de Chiapas são feitos em 'telares de cintura' por artesãs com lã/algodão e tintas naturais; o bordado brocado é típico (Wikipedia ES, Artesanía y arte popular en Chiapas). (2) Pelo próprio método, o tear de cintura produz 'tecido estreito: a largura é limitada pela envergadura da tecelã' (Wikipedia EN, Backstrap loom): peças largas e sem costura aparente costumam ser feitas em tear industrial; peças largas feitas à mão têm emendas. (3) Na Wikipedia ES, 'importados da Guatemala e da China afetaram em 50% o negócio dos artesãos locais'. (4) Cooperativas: Sna Jolobil (1976) e J'pas Joloviletic (1984, ~800 artesãs de 23 comunidades). (5) Zinacantán: o bordado floral moderno é 'feito hoje à máquina' em muitas peças, ao passo que a blusa feminina é tecida à mão e bordada à máquina (Wikipedia ES) - ou seja, 'artesanal' pode significar meio a meio. INTERPRETAÇÃO DO AGENTE (não está em fonte): peça muito barata e muito uniforme tende a ser industrial; pergunte quanto tempo levou, em qual comunidade foi feita e peça para ver a borda (selvagem) e o avesso.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Visite Sna Jolobil primeiro e depois o mercado de rua.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Registro informativo; preços das peças não coletados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Artesan%C3%ADa_y_arte_popular_en_Chiapas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 967 678 7178",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Sna Jolobil, Calz. Lázaro Cárdenas 42",
+      "dicasAgente": [
+        "[VALE CADA PESO] Comprar 1 peça verdadeira vale mais que 5 imitações.",
+        "Pergunte a comunidade de origem e o tempo de feitura; evite regatear até o centavo numa peça de tear de cintura."
+      ],
+      "alertas": [
+        "A regra prática da borda/avesso é interpretação do agente; confirme com a cooperativa."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tejedora_de_telar_de_cintura.jpg?width=1200",
+        "credito": "Brenda Berenice Morales Garcia",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Tejedora_de_telar_de_cintura.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Artesan%C3%ADa_y_arte_popular_en_Chiapas",
+        "https://en.wikipedia.org/wiki/Backstrap_loom",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/wiki/Zinacant%C3%A1n"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "San Juan Chamula (igreja de San Juan Bautista)",
+      "categoria": "experiencia",
+      "cidade": "san-cristobal",
+      "tags": [
+        "indigena",
+        "igreja",
+        "cultura",
+        "proibido-fotografar",
+        "respeito"
+      ],
+      "coords": {
+        "lat": 16.7875,
+        "lng": -92.689166666667
+      },
+      "descricaoCurta": "Igreja tzotzil sem bancos, chão de agulhas de pinheiro e velas; PROIBIDO fotografar dentro; ingresso ~M$30.",
+      "descricaoLonga": "Wikipedia ES: coordenadas 16°47'15\"N 92°41'21\"O, 2.270 m; a igreja não tem bancos, tem velas multicoloridas no chão e fiéis se ajoelham sobre agulhas de pinheiro; fotografia dentro da igreja é proibida 'por crenças espirituais locais'. Wikipedia EN: a fotografia dentro da igreja é 'estritamente proibida' (também a procissão de Natal) e 'visitantes podem ser multados e expulsos da cidade'. Wikivoyage (Chamula): ingresso M$30; fotografar dentro pode levar a confisco da câmera, multa ou até cadeia; guiado é recomendado mas NÃO obrigatório; colectivo ~M$22 (outras versões do Wikivoyage citam M$15-20); mercado de artesanato seg-sáb 08:00-20:00, dom 08:00-18:30. Wikivoyage SC: não fotografe NENHUM morador sem permissão, sob risco de agressão e perda da câmera. O valor da multa NÃO foi encontrado em fonte. A comunidade tem polícia própria.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (tours saem às 09:30 e voltam ~14:30). Domingo tem feira colorida.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 30,
+        "max": 330,
+        "por": "pessoa",
+        "inclui": "Ingresso da igreja M$30 (Wikivoyage Chamula, sem data) + colectivo ~M$15-25 ida (não consolidado) ou tour guiado M$300 (Alex y Raul Tours, nov/2023, Wikivoyage) - tour pode já incluir/ou não o ingresso (não informado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Juan_Chamula",
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido fotografar dentro da igreja (e não fotografar moradores sem permissão)."
+      ],
+      "pontoPartida": "Colectivo no mercado de San Cristóbal (Chamula) ou ponto do tour no Parque Central às 09:30",
+      "dicasAgente": [
+        "[VALE CADA PESO] Experiência cultural forte por ~M$30 + colectivo; é o programa mais 'único' de San Cristóbal.",
+        "Guarde o celular e a câmera ANTES de entrar; não mire nem finja usar.",
+        "Compre peças no mercado da vila: ajuda a comunidade, mas negocie com respeito.",
+        "Tour guiado não é obrigatório, mas um guia explica o ritual; M$300 (nov/2023) é o único preço fontado."
+      ],
+      "alertas": [
+        "Valor da multa por foto NÃO confirmado; o Wikivoyage fala em multa, confisco de câmera e até cadeia.",
+        "Preços do Wikivoyage sem data consistente; confirme no local.",
+        "Colectivo: preços divergem entre versões (M$15-25)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_de_la_Iglesia_de_San_Juan_Bautista_en_San_Juan_Chamula%2C_Chiapas_01.jpg?width=1200",
+        "credito": "B.jars",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Vista_de_la_Iglesia_de_San_Juan_Bautista_en_San_Juan_Chamula,_Chiapas_01.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/San_Juan_Chamula",
+        "https://en.wikipedia.org/wiki/San_Juan_Chamula",
+        "https://en.wikivoyage.org/wiki/San_Juan_Chamula",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zinacantán (igreja de San Lorenzo e feira de flores)",
+      "categoria": "experiencia",
+      "cidade": "san-cristobal",
+      "tags": [
+        "indigena",
+        "textil",
+        "flores",
+        "cultura",
+        "proibido-fotografar"
+      ],
+      "coords": {
+        "lat": 16.760118888889,
+        "lng": -92.723580555556
+      },
+      "descricaoCurta": "Vila tzotzil conhecida pela igreja de San Lorenzo e pelo mercado de flores de domingo; sem fotos da igreja.",
+      "descricaoLonga": "Wikipedia ES: coordenadas 16°45'36\"N 92°43'25\"O, 2.166 m; festa do padroeiro San Lorenzo 8-10 de agosto; o bordado floral dos homens antes era à mão e hoje é à máquina. Wikivoyage: colectivo ~M$25 (outra versão M$12), ~20 min; ingresso 'em teoria cobrado, mas nem sempre há quem cobre'; 'nenhuma foto do interior ou exterior da igreja é permitida'. Não há colectivo direto Chamula-Zinacantán; é preciso voltar a San Cristóbal ou pegar táxi (M$110). Tours de 'vilas maias' costumam incluir as duas.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; domingo para a feira de flores.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 25,
+        "por": "pessoa",
+        "inclui": "Colectivo M$12-25 (Wikivoyage, versões divergentes); ingresso da igreja não informado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+          "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido fotografar a igreja e moradores sem permissão."
+      ],
+      "pontoPartida": "Colectivo no mercado de San Cristóbal",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Se já fez Chamula, Zinacantán é opcional; vale se vier no tour combinado ou aos domingos pela feira de flores.",
+        "Não fotografe a igreja, nem o interior nem o exterior."
+      ],
+      "alertas": [
+        "Valor de ingresso não confirmado."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zinacantan_-_Chiapas_-_Mexico_2021_-_Church_Facade.jpg?width=1200",
+        "credito": "Adam Jones",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Zinacantan_-_Chiapas_-_Mexico_2021_-_Church_Facade.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Zinacant%C3%A1n",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://es.wikipedia.org/wiki/Artesan%C3%ADa_y_arte_popular_en_Chiapas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Passeio de lancha no Cañón del Sumidero (saída de Chiapa de Corzo)",
+      "categoria": "passeio",
+      "cidade": "tuxtla",
+      "tags": [
+        "canion",
+        "barco",
+        "natureza",
+        "fauna",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 16.709499,
+        "lng": -93.023766
+      },
+      "descricaoCurta": "Lancha coletiva de ~2 h até a barragem Chicoasén; M$320 + gorjeta ~M$50; paredões de até ~1.000 m.",
+      "descricaoLonga": "Wikivoyage (Chiapa de Corzo): dois embarcaderos (Cahuaré e o principal em Chiapa de Corzo, 09:00-16:30), M$320 por pessoa em lancha coletiva (parte quando enche, espera de 1-2 h), passeio de 2+ h até a barragem e volta, gorjeta 'quase obrigatória' M$50; saídas costumam acabar ~14:30; guia em espanhol; avistamento de jacarés e macacos-aranha. Wikivoyage SC: tour saindo de San Cristóbal M$430 (nov/2023). Wikipedia EN: ~30 km navegáveis até a barragem Chicoasén; seis cooperativas operam ~120 barcos de 10-40 lugares; paredões de até ~1.000 m (Wikipedia ES fala em >1.300 m). PARQUE NACIONAL desde 8 dez 1980 e sítio Ramsar desde 2004 (Wikipedia ES). ALERTA SOBRE LIXO/ÁGUA: Wikipedia EN: ~5.000 t de resíduos por ano no canyon, o rio Grijalva recebe esgoto de ~552 mil pessoas em 17 municípios, 80-90% do lixo sólido é galhos, madeira e sedimento de desmatamento, e há excesso de aguapé (lírio aquático) por contaminação fecal; Wikipedia ES: ameaça por poluição dos afluentes e lixo dos ejidos; nível varia com operação da barragem e chuvas. Meses específicos do pior lixo/nível NÃO constam nas fontes.",
+      "duracao": {
+        "min": 150,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–16:30",
+        "ter": "09:00–16:30",
+        "qua": "09:00–16:30",
+        "qui": "09:00–16:30",
+        "sex": "09:00–16:30",
+        "sab": "09:00–16:30",
+        "dom": "09:00–16:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Primeira saída do dia (menos fila e luz boa); evite dia seguinte a grandes chuvas (dedução).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 320,
+        "max": 430,
+        "por": "pessoa",
+        "inclui": "M$320 lancha coletiva (Wikivoyage, sem data) + gorjeta ~M$50; tour de San Cristóbal M$430 (nov/2023) inclui transporte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Chiapa_de_Corzo",
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Saídas normalmente até ~14:30 (Wikivoyage)."
+      ],
+      "pontoPartida": "Embarcadero de Chiapa de Corzo (ou Cahuaré); de San Cristóbal ~1h por pedágio 190D",
+      "dicasAgente": [
+        "[VALE CADA PESO] Programa nº1 da natureza de Chiapas; M$320 é preço de passeio de dia inteiro em outros destinos.",
+        "Vá a partir de San Cristóbal por pedágio 190D (exceção no aviso do Canadá).",
+        "Combine com os 5 miradores por terra e o novo mirante de aço (La Ceiba, La Coyota, El Roblar, El Tepehuaje, Los Chiapa)."
+      ],
+      "alertas": [
+        "Alerta: lixo e aguapé citados pela Wikipedia; sem dado de mês específico - ver fotos recentes antes de ir.",
+        "Preço do Wikivoyage sem data; confirme no embarcadero."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lanchas_en_el_Parque_Nacional_Ca%C3%B1%C3%B3n_del_Sumidero.jpg?width=1200",
+        "credito": "B.jars",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Lanchas_en_el_Parque_Nacional_Ca%C3%B1%C3%B3n_del_Sumidero.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Chiapa_de_Corzo",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://en.wikipedia.org/wiki/Sumidero_Canyon",
+        "https://es.wikipedia.org/wiki/Ca%C3%B1%C3%B3n_del_Sumidero",
+        "https://es.wikipedia.org/wiki/Parque_nacional_Ca%C3%B1%C3%B3n_del_Sumidero",
+        "https://www.openstreetmap.org/node/9922242217"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Miradores do Cañón del Sumidero (por terra, saindo de Tuxtla)",
+      "categoria": "mirante",
+      "cidade": "tuxtla",
+      "tags": [
+        "mirante",
+        "canion",
+        "carro-ou-taxi",
+        "natureza"
+      ],
+      "coords": {
+        "lat": 16.8183661,
+        "lng": -93.0691167
+      },
+      "descricaoCurta": "Cinco miradores: La Ceiba, La Coyota, El Roblar, El Tepehuaje e Los Chiapa (com nova torre de aço de 10 m).",
+      "descricaoLonga": "Aztec Chiapas (28 ago 2026): o circuito tem cinco miradores e o mirante Los Chiapa ganhou uma torre de aço de 10 m (14,7 t, 10 pessoas), a 1.270 m, acessada pela trilha 'Pañuelo Rojo'; acesso saindo de Tuxtla em carro, transporte público ou tour. Wikivoyage (Tuxtla): miradores 'fechados às terças'; entrada M$60 se você fez o passeio de barco no mesmo dia; táxi percorre todos por ~M$500 por veículo; sem carro o acesso é por 'horário de atletas das 6 às 8 da manhã'. Coordenada: Mirador La Coyota (OSM).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "Fechado",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [
+        "terça"
+      ],
+      "melhorHorario": "Manhã, antes da neblina/calor.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 60,
+        "max": 250,
+        "por": "pessoa",
+        "inclui": "M$60 de ingresso se fez a lancha no mesmo dia; táxi M$500 por veículo (≈M$250 por pessoa para 2) - Wikivoyage Tuxtla, sem data.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Tuxtla Gutiérrez (táxi/carro)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Se apertar, a lancha já mostra o canyon de baixo; os miradores só com táxi dividido (M$500)."
+      ],
+      "alertas": [
+        "Fechamento às terças e preços do Wikivoyage (sem data); a torre de aço é de ago/2026 sem preço/horário confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Viewpoint_of_the_Sumidero_Canyon.jpg?width=1200",
+        "credito": "AnbyG",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Viewpoint_of_the_Sumidero_Canyon.jpg"
+      },
+      "fontes": [
+        "https://www.aztecachiapas.com/turismo-chiapas/una-vista-impresionante-nueva-torre-de-acero-en-los-miradores-del-canon-del-sumidero/",
+        "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez",
+        "https://es.wikipedia.org/wiki/Parque_nacional_Ca%C3%B1%C3%B3n_del_Sumidero",
+        "https://www.openstreetmap.org/node/2230859310"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Zona Arqueológica de Palenque",
+      "categoria": "atracao",
+      "cidade": "palenque",
+      "tags": [
+        "maya",
+        "unesco",
+        "selva",
+        "arqueologia",
+        "madrugada"
+      ],
+      "coords": {
+        "lat": 17.48416667,
+        "lng": -92.04638889
+      },
+      "descricaoCurta": "Cidade maia na selva (UNESCO 1987); INAH cobra M$210 de estrangeiro em 2026, mais uma segunda taxa local.",
+      "descricaoLonga": "INAH (site oficial): aberto de segunda a domingo 08:00-17:00, última entrada 16:00; estrangeiro M$210, nacional/residente M$105 (vigente em 2026); a página avisa que 'podem existir cobranças adicionais por terceiros (governos estaduais, organizações comunitárias)'. Acesso pelo CATVI (Centro de Atención al Visitante) onde há bilheteria e transporte; tel (01 961) 612 2824. SEGUNDA TAXA: Wikivoyage (mar/2025) lista INAH M$100 + 'government' M$215, compradas separadamente no museu a ~1,3 km da entrada real, e transporte de ida e volta M$60; para 2026 o INAH elevou o seu valor, e eu NÃO confirmei o valor atual da taxa da reserva/Parque Nacional (criado em 20/07/1981, Wikipedia ES) - a soma exata em 2026 é desconhecida. Conteúdo: Templo das Inscrições (tumba de Pakal), o Palácio, o Grupo da Cruz, aqueduto; o Wikipedia ES diz que só cerca de 2,5 km² foram escavados e 'mais de mil estruturas seguem cobertas pela selva'. Dentro do sítio, Wikivoyage cita as cachoeiras Motiepa e Las Sombrillas (trilha na selva). Colectivo da cidade até as ruínas: M$30 a cada 10-15 min (Wikivoyage).",
+      "duracao": {
+        "min": 150,
+        "tipica": 210,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (última entrada 16:00)",
+        "ter": "08:00–17:00 (última entrada 16:00)",
+        "qua": "08:00–17:00 (última entrada 16:00)",
+        "qui": "08:00–17:00 (última entrada 16:00)",
+        "sex": "08:00–17:00 (última entrada 16:00)",
+        "sab": "08:00–17:00 (última entrada 16:00)",
+        "dom": "08:00–17:00 (última entrada 16:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegue às 08:00 (calor ~30-35 °C e chuva forte na estação úmida).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 210,
+        "max": 425,
+        "por": "pessoa",
+        "inclui": "INAH M$210 estrangeiro em 2026 (oficial). Máximo M$425 = 210 + taxa local M$215 de mar/2025 (NÃO confirmada para 2026). Transporte ruínas M$60 ida e volta (mar/2025) e colectivo cidade M$30 por fora.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+          "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/",
+          "https://www.tvazteca.com/aztecanoticias/esto-costara-visitar-teotihuacan-palenque-y-museos-aumento-121-a-extranjeros",
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "(01 961) 612 2824",
+        "whatsapp": "",
+        "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Última entrada 16:00."
+      ],
+      "pontoPartida": "CATVI (Centro de Atención al Visitante) na entrada; colectivo desde o centro de Palenque",
+      "dicasAgente": [
+        "[VALE CADA PESO] Principal razão para ir a Palenque; selva + Maya em um só sítio.",
+        "Leve repelente, água e roupa leve; tênis fechado. Precipitação mensal em Palenque: pico em setembro (442 mm) e outubro (318 mm); mais seco fev-abr (78-102 mm) (Wikipedia ES).",
+        "A cidade de Palenque e as ruínas estão na lista de EXCEÇÕES do aviso canadense (com a rodovia 186)."
+      ],
+      "alertas": [
+        "Preço total 2026 não fechado: falta o valor da taxa local/reserva.",
+        "TV Azteca cita M$209 (estrangeiro) e o INAH oficial M$210: vale o oficial."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Templo_de_las_Inscripciones_Palenque_Chiapas.jpg?width=1200",
+        "credito": "BIOLOGO JORGE AYALA",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Templo_de_las_Inscripciones_Palenque_Chiapas.jpg"
+      },
+      "fontes": [
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+        "https://www.chilango.com/que-hacer/arte-y-cultura/precios-de-entrada-museos-cdmx-zonas-arqueologicas-del-pais-2026/",
+        "https://www.tvazteca.com/aztecanoticias/esto-costara-visitar-teotihuacan-palenque-y-museos-aumento-121-a-extranjeros",
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Palenque",
+        "https://es.wikipedia.org/wiki/Palenque_(Chiapas)",
+        "https://www.travel.gc.ca/destinations/mexico"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Museo de Sitio Alberto Ruz Lhuillier (Palenque)",
+      "categoria": "museu",
+      "cidade": "palenque",
+      "tags": [
+        "museu",
+        "maya",
+        "palenque",
+        "inah"
+      ],
+      "coords": {
+        "lat": 17.48873407,
+        "lng": -92.04205702
+      },
+      "descricaoCurta": "Museu de sítio do INAH com peças de Palenque; Wikivoyage diz que a bilheteria das ruínas fica no museu.",
+      "descricaoLonga": "O Museo de Sitio Dr. Alberto Ruz Lhuillier foi construído pelo INAH nos anos 1970 (Wikipedia ES). O Wikivoyage diz que os ingressos (INAH e taxa do governo) são comprados no museu, ~1,3 km antes da entrada real das ruínas. A página oficial do INAH fala em CATVI; os dois relatos podem ser a mesma área de recepção, não consegui conciliar. Horário e preço próprios do museu não confirmados.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Depois das ruínas (quando o sol está mais forte).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço próprio do museu não confirmado; costuma estar incluído no ingresso das ruínas (não confirmado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Entrada do complexo, estrada para as ruínas",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Se faltar tempo, as ruínas já são o essencial; mas o museu fica no caminho."
+      ],
+      "alertas": [
+        "Horário/preço do museu não confirmados."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo_del_sitio_in_Palenque_by_ovedc_01.jpg?width=1200",
+        "credito": "Ovedc",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_del_sitio_in_Palenque_by_ovedc_01.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Palenque",
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+        "https://es.wikipedia.org/wiki/Museo_Alberto_Ruz_Lhuillier"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa",
+      "categoria": "passeio",
+      "cidade": "palenque",
+      "tags": [
+        "transporte",
+        "estrada",
+        "seguranca",
+        "ado",
+        "colectivo"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Duas rotas: Hwy 199 por Ocosingo (~190-212 km, 4,5 a 6 h) ou ADO via Tuxtla/Villahermosa (~450 km, 8-9 h). A 199 está citada no aviso britânico.",
+      "descricaoLonga": "ROTA A, VIA OCOSINGO (Hwy 199, 'a curta'): Wikivoyage: ~190 km; o ADO faz a rota longa (B); vans/colectivos e 'scenic shuttles' fazem, parando em Misol-Ha e Agua Azul. Colectivo SC-Ocosingo ~2 h, M$120 (Wikivoyage Ocosingo, sem data); Ocosingo-Palenque M$140 (out/2025, rua de colectivos ao sul do mercado central de Ocosingo). Aztec Chiapas 2026: de San Cristóbal 4,5 h; El Universal (2020, atualizado 2023): 212 km, 386 lombadas, tempo real ~6 h em vez de 2,5 h. Avisos: Reino Unido = 'all but essential travel' entre Rancho Nuevo e Chancalá (01/10/2026); bloqueios em Ocosingo em set e nov/2024 (alguns só passam pagando tarifa por tipo de veículo; um 100% fechado, só a pé); notícia de 2020 liga as lombadas a assaltos, ponto crítico entre La Gravera e Agua Azul. ROTA B, VIA TUXTLA E VILLAHERMOSA (ADO): Wikivoyage: 450 km, 4 ônibus ADO/dia, 8-9 h; San Cristóbal-Tuxtla por pedágio 190D (Ómnibus de Chiapas a cada 15-20 min, M$40-45, 40 min-1h15) e depois Tuxtla-Villahermosa-Palenque; Villahermosa-Palenque ~150 km, 2h50 (Aztec Chiapas 2026) em rodovia plana. Wikivoyage (Tuxtla): Palenque fica 'a cerca de 6 horas' de Tuxtla. O Canadá cita como exceção Palenque (e a rodovia 186), Tuxtla e San Cristóbal (e a 190D). OPERADORAS: ADO/OCC (terminal ADO-OCC de San Cristóbal mapeado em OSM, Av. Insurgentes); para passeio de cachoeiras saindo de Palenque, o Wikivoyage lista Transportadora Turística Tulum e Kichan Bajlum (kichantravel.com); empresas de shuttle SC-Palenque não nomeadas em fonte aberta. EVITAR DIRIGIR À NOITE: Aztec Chiapas 2026, Canadá e Espanha.",
+      "duracao": {
+        "min": 270,
+        "tipica": 360,
+        "max": 600
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída de manhã cedo para chegar com luz do dia.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 260,
+        "max": 260,
+        "por": "pessoa",
+        "inclui": "Rota A com dois colectivos: M$120 + M$140 = M$260 (preços de datas diferentes: out/2025 para o segundo trecho). ADO (rota B): preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Ocosingo",
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Não dirigir à noite (Canadá/Espanha/Aztec Chiapas)."
+      ],
+      "pontoPartida": "Terminal ADO-OCC de San Cristóbal (Av. Insurgentes) ou ponto de colectivo de Ocosingo",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se o casal quer economizar e fazer cachoeiras no caminho, a Rota A é a única que passa por Misol-Ha/Agua Azul - mas é a que tem aviso explícito.",
+        "Recomendação do agente (não é 'verdade oficial'): para quem leva o aviso britânico a sério, use a Rota B (ônibus ADO diurno via Tuxtla/Villahermosa); faça Misol-Ha/Agua Azul num bate-volta de Palenque com operadora.",
+        "Antes de embarcar, cheque bloqueios em redes sociais locais/Ángeles Verdes 078.",
+        "Em bloqueio: não acelerar nem fugir, parar se solicitado (recomendação da Espanha)."
+      ],
+      "alertas": [
+        "Aviso britânico (01/10/2026) cobre exatamente Rancho Nuevo-Chancalá (Hwy 199). Canadá não coloca a 199 entre as exceções.",
+        "Não há fonte de 2026 sobre bloqueios recentes nessa estrada; os eventos fontados são de set e nov/2024 e de 2020.",
+        "Horários e preço do ADO, e nomes de operadoras de shuttle SC-Palenque, não confirmados."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+        "https://www.travel.gc.ca/destinations/mexico",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=M%C3%A9xico",
+        "https://www.aztecachiapas.com/turismo-chiapas/como-llegar-a-palenque-rapido-rutas-tiempos-y-distancias-en-2026/",
+        "https://www.eluniversal.com.mx/estados/chiapas-cuentan-386-topes-en-carretera-san-cristobal-palenque/",
+        "https://www.aztecachiapas.com/noticias/bloqueo-total-en-ocosingo-reportan-tres-tramos-carreteros-cerrados/",
+        "https://www.aztecachiapas.com/noticias/tres-bloqueos-carreteros-en-ocosingo-sin-paso-a-palenque-altamirano-y-san-cristobal/",
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://en.wikivoyage.org/wiki/Ocosingo",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://en.wikivoyage.org/wiki/Tuxtla_Guti%C3%A9rrez",
+        "https://www.openstreetmap.org/way/27417188"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cascadas de Agua Azul",
+      "categoria": "natureza",
+      "cidade": "agua-azul",
+      "tags": [
+        "cachoeira",
+        "nadar",
+        "sazonal",
+        "rio",
+        "praia-natureza"
+      ],
+      "coords": {
+        "lat": 17.255702777778,
+        "lng": -92.11595
+      },
+      "descricaoCurta": "Cascatas turquesa (~64 km de Palenque); ficam barrentas na chuva - outubro é o auge da chuva.",
+      "descricaoLonga": "Wikipedia ES: coordenadas 17°15'21\"N 92°06'57\"O, nos limites de Chilón, Tumbalá e Salto de Agua, a 64 km de Palenque; água azul por sais de magnésio e cloretos; em época de chuva o volume aumenta e 'as águas perdem a cor'; recomenda inverno e primavera para nadar; ingresso M$50, cobrado pelas comunidades (sem data). QUANDO VALE A PENA: o clima de Palenque (Wikipedia ES) tem pico de chuva em setembro (442 mm) e outubro (318 mm), com junho a novembro todos acima de ~200 mm (julho 203, nov 215); o trimestre mais seco é fev-abr (78-102 mm). Meu julgamento: água mais azul de dezembro/janeiro a maio, com melhor chance entre fevereiro e abril; pior de junho a novembro, com setembro-outubro no topo (hoje, 8/out, é a pior época). Exemplo fontado: em 5/out/2020, após 4 dias seguidos de chuva (tempestade tropical Gamma), a água virou 'chocolate' (UnoTV). A Kayak afirma que 'todos os meses são perfeitos' e que no verão a água está mais azul - fonte contraditória; a cor depende da chuva dos últimos dias, não só do mês. Wikivoyage: passeios saindo de Palenque custam ~M$500 (mar/2025) e dão ~2,5 h em Agua Azul.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Dezembro-maio, de manhã, sem chuva nos 3 dias anteriores.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 50,
+        "por": "pessoa",
+        "inclui": "Ingresso M$50 cobrado pelas comunidades (Wikipedia ES, sem data). Tour de Palenque ~M$500 (mar/2025) por fora.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Cascadas_de_Agua_Azul",
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Nadar só nas áreas autorizadas; correntes fortes na época de cheia."
+      ],
+      "pontoPartida": "Palenque (tour) ou Hwy 199",
+      "dicasAgente": [
+        "[VALE CADA PESO] SÓ na seca (dez/jan-mai). Se a previsão for de chuva forte nos dias anteriores, corte.",
+        "[CORTE SE APERTAR] Em jun-nov o risco de ver 'água de chocolate' é alto (incluindo hoje).",
+        "Fica NA Hwy 199, o corredor citado pelo aviso britânico (dedução pela geografia + Wikivoyage 'rota curta pára em Misol Ha e Agua Azul')."
+      ],
+      "alertas": [
+        "Mês exato da mudança de cor NÃO é fixado por fonte oficial; é derivado do clima de Palenque + Wikipedia ES.",
+        "Ingresso sem data."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascadas_de_Agua_Azul2020p3.jpg?width=1200",
+        "credito": "Carlos Valenzuela",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascadas_de_Agua_Azul2020p3.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Cascadas_de_Agua_Azul",
+        "https://www.unotv.com/estados/chiapas/chiapas-gamma-pinta-de-chocolate-las-cascadas-de-agua-azul/",
+        "https://www.es.kayak.com/news/?p=7062",
+        "https://es.wikipedia.org/wiki/Palenque_(Chiapas)",
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Misol-Ha (cachoeira)",
+      "categoria": "natureza",
+      "cidade": "agua-azul",
+      "tags": [
+        "cachoeira",
+        "nadar",
+        "palenque",
+        "selva"
+      ],
+      "coords": {
+        "lat": 17.390772222222,
+        "lng": -91.998480555556
+      },
+      "descricaoCurta": "Queda de ~30-45 m com piscina natural; ingresso em torno de M$30 (2022); costuma ser parada de 30 min no tour.",
+      "descricaoLonga": "Wikipedia ES: 17°23'27\"N 91°59'55\"O, ejido San Miguel, Salto de Agua; queda de ~30 m (a ficha técnica fala 45 m); parque turístico administrado por cooperativa ejidal com restaurante e cabanas; é possível nadar 'com cuidado'. Wikivoyage: ingresso M$30 (jun/2022); no tour padrão de Palenque o tempo no local é 30 min. Wikipedia ES não confirma caverna atrás da cachoeira.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; mais cheia e barrenta na chuva (inferência).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 30,
+        "max": 30,
+        "por": "pessoa",
+        "inclui": "M$30 (Wikivoyage, jun/2022) - provavelmente maior hoje.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Nadar com cuidado."
+      ],
+      "pontoPartida": "Hwy 199, ~20-30 km de Palenque (tour/colectivo)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Quase sempre vem de brinde no tour de cachoeiras de Palenque; não vale ida isolada."
+      ],
+      "alertas": [
+        "Preço de 2022; em Hwy 199 (corredor com aviso britânico)."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiapas%2C_Misol-Ha%2C_by_ovedc_10.jpg?width=1200",
+        "credito": "Ovedc",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chiapas,_Misol-Ha,_by_ovedc_10.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Misol-Ha",
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://www.openstreetmap.org/node/1529015422"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul)",
+      "categoria": "passeio",
+      "cidade": "palenque",
+      "tags": [
+        "tour",
+        "cachoeira",
+        "economico",
+        "meio-dia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Passeio de tarde: coleta ao meio-dia, volta ~19h, 30 min em Misol-Ha e 2,5 h em Agua Azul; ~M$500.",
+      "descricaoLonga": "Wikivoyage Palenque (mar/2025): ~M$500 por pessoa, coleta ao meio-dia e volta ~19:00; 30 min em Misol-Ha e 2,5 h em Agua Azul; operadoras: Transportadora Turística Tulum e Kichan Bajlum (kichantravel.com). Roberto Barrios (melhor para nadar e mais remota) não vem no pacote padrão. Atenção: o roteiro usa a Hwy 199.",
+      "duracao": {
+        "min": 360,
+        "tipica": 420,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Escolha dia seco (ver Agua Azul).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 500,
+        "max": 500,
+        "por": "pessoa",
+        "inclui": "~M$500 (mar/2025, Wikivoyage); ingressos das cachoeiras provavelmente por fora (não confirmado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://kichantravel.com",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Agências no centro de Palenque",
+      "dicasAgente": [
+        "[VALE CADA PESO] É a forma mais barata e fácil de ver Agua Azul + Misol-Ha em 1 tarde, mas só vale na estação seca.",
+        "[CORTE SE APERTAR] Em jun-nov, troque por Palenque + descanso."
+      ],
+      "alertas": [
+        "Preço de 2025; ingressos podem ser extras.",
+        "Hwy 199 = corredor com aviso britânico."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cascadas de Roberto Barrios",
+      "categoria": "natureza",
+      "cidade": "agua-azul",
+      "tags": [
+        "cachoeira",
+        "nadar",
+        "remoto",
+        "selva"
+      ],
+      "coords": {
+        "lat": 17.3297705,
+        "lng": -91.9270805
+      },
+      "descricaoCurta": "Cachoeiras mais tranquilas e boas para nadar, mas mais remotas; bilheteria mapeada em OSM.",
+      "descricaoLonga": "Wikivoyage Palenque descreve as três quedas: Misol-Ha (a mais alta), Agua Azul (a mais popular, azul vivo) e Roberto Barrios ('melhor para nadar; a mais remota'). OSM mapeia 'Cascadas Roberto Barrios', um segundo conjunto 'Valle de Bascán' e a bilheteria. Preço, horário e estado atual não confirmados.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã, seca.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Povoado Profesor Roberto Barrios, saindo de Palenque",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Só se Agua Azul estiver barrenta e você tiver carro/tour dedicado; sem fonte sobre transporte."
+      ],
+      "alertas": [
+        "Pouca informação e nenhuma sobre segurança ou acesso atual."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascada_Roberto_Barrios_15.jpg?width=1200",
+        "credito": "ZoRrO0880",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascada_Roberto_Barrios_15.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://www.openstreetmap.org/node/4677299204",
+        "https://www.openstreetmap.org/node/5485667421"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Cascadas El Chiflón",
+      "categoria": "natureza",
+      "cidade": "chiflon",
+      "tags": [
+        "cachoeira",
+        "nadar",
+        "trilha",
+        "comitan"
+      ],
+      "coords": {
+        "lat": 16.1899453,
+        "lng": -92.2738256
+      },
+      "descricaoCurta": "Sequência de quedas turquesa perto de Comitán; ingresso M$80 (abr/2023) e colectivo M$50.",
+      "descricaoLonga": "Wikivoyage Comitán: ~40 min de Comitán (clima mais quente), colectivos M$50 (abr/2023) da Transporte La Angostura; ingresso M$80 (abr/2023); trilha quase até o topo com vistas, banho nas piscinas baixas/médias (não sob as quedas), comida na trilha. OSM tem 'Cascadas de El Chiflón' e o trecho 'Velo de Novia'. Wikivoyage SC: bate-volta com Montebello de ~12 h saindo de San Cristóbal.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; boa para o 'dia de natureza' saindo de San Cristóbal ou Comitán.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 80,
+        "max": 130,
+        "por": "pessoa",
+        "inclui": "Ingresso M$80 + colectivo M$50 (abr/2023, Wikivoyage) = ~M$130.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Comit%C3%A1n"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Comitán (colectivo) ou tour de San Cristóbal",
+      "dicasAgente": [
+        "[VALE CADA PESO] Natureza/praia-de-rio perto de SC com entrada barata.",
+        "Verifique cor da água antes: não encontrei dado de temporada para El Chiflón."
+      ],
+      "alertas": [
+        "Preços de 2023.",
+        "Sem dado de segurança específico."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascadas_El_Chifl%C3%B3n%2C_Octubre_2020_-_2.jpg?width=1200",
+        "credito": "Carlos t",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cascadas_El_Chifl%C3%B3n,_Octubre_2020_-_2.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Comit%C3%A1n",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.openstreetmap.org/node/1259829047"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Parque Nacional Lagunas de Montebello",
+      "categoria": "natureza",
+      "cidade": "montebello",
+      "tags": [
+        "lagos",
+        "fronteira",
+        "natureza",
+        "cores",
+        "dia-inteiro"
+      ],
+      "coords": {
+        "lat": 16.0775,
+        "lng": -91.680555555556
+      },
+      "descricaoCurta": "~59 lagos de verde a turquesa a 1.500 m, colados na Guatemala; ingresso M$35-36 + ejido.",
+      "descricaoLonga": "Wikipedia ES: 6.022 ha, ~59 lagos, 1.500 m, município de La Trinitaria, limite fronteiriço com Huehuetenango (Guatemala); criado em 1959; Ramsar 2003; ingresso M$35 mais M$25 do ejido. Wikivoyage: entrada em torno de M$36, km 36 da Hwy 307 (~2,5 h de Tuxtla de carro); colectivos de Comitán M$70-80; mosquitos; protetor solar proibido nos lagos; chuva frequente no verão e início do outono. Wikivoyage SC: bate-volta de ~12 h com El Chiflón saindo de San Cristóbal. SEGURANÇA: o Reino Unido aconselha 'all but essential travel' na faixa de 40 km da fronteira 'até e incluindo o posto de Gracias a Dios'; como Montebello fica na fronteira, é provável (dedução minha pela geografia) que esteja dentro dessa faixa. Canadá: fora das exceções.",
+      "duracao": {
+        "min": 240,
+        "tipica": 360,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã; seco com menos chuva.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 36,
+        "max": 61,
+        "por": "pessoa",
+        "inclui": "M$35-36 do parque + M$25 do ejido (Wikipedia ES; Wikivoyage) = até ~M$61; colectivo Comitán M$70-80.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://es.wikipedia.org/wiki/Parque_nacional_Lagunas_de_Montebello",
+          "https://en.wikivoyage.org/wiki/Lagunas_de_Montebello_National_Park",
+          "https://en.wikivoyage.org/wiki/Comit%C3%A1n"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem protetor solar dentro dos lagos."
+      ],
+      "pontoPartida": "Comitán (colectivo) ou tour de San Cristóbal",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Com pouco tempo e com os avisos oficiais para a faixa da fronteira, é o primeiro corte; El Chiflón é a opção natureza mais segura de agenda.",
+        "Se for, só em tour/colectivo de dia."
+      ],
+      "alertas": [
+        "Aviso britânico para faixa de 40 km da fronteira; inclusão de Montebello é dedução do agente.",
+        "Preços sem data."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagunas_de_Montebello_National_Park.jpg?width=1200",
+        "credito": "Carlos t",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Lagunas_de_Montebello_National_Park.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Parque_nacional_Lagunas_de_Montebello",
+        "https://en.wikivoyage.org/wiki/Lagunas_de_Montebello_National_Park",
+        "https://en.wikivoyage.org/wiki/Comit%C3%A1n",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas",
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+        "https://www.travel.gc.ca/destinations/mexico"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Las Nubes (cachoeiras)",
+      "categoria": "natureza",
+      "cidade": "montebello",
+      "tags": [
+        "cachoeira",
+        "turquesa",
+        "remoto",
+        "selva"
+      ],
+      "coords": {
+        "lat": 16.1975389,
+        "lng": -91.3289273
+      },
+      "descricaoCurta": "Cachoeiras turquesa na estrada para Palenque/fronteira; informação limitada, só para quem tem carro/tempo.",
+      "descricaoLonga": "Wikivoyage (Montebello): Las Nubes fica 'ao longo da rodovia em direção a Palenque' com cachoeiras turquesa e atividades aquáticas. OSM mapeia o ponto 'Las Nubes' (cachoeira) próximo à fronteira. Preço, horário, acesso e segurança NÃO confirmados em fonte; a região está fora das exceções do aviso canadense.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não coletado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Lagunas_de_Montebello_National_Park"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Estrada Comitán–Palenque (fronteira)",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Sem dados confiáveis de acesso/segurança e longe; corte."
+      ],
+      "alertas": [
+        "Dados muito escassos; coordenada é do ponto OSM 'Las Nubes' (waterway=waterfall)."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Lagunas_de_Montebello_National_Park",
+        "https://www.openstreetmap.org/node/8226304552"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "Yaxchilán (sítio maia no rio Usumacinta)",
+      "categoria": "atracao",
+      "cidade": "palenque",
+      "tags": [
+        "maya",
+        "barco",
+        "selva",
+        "usumacinta",
+        "dia-inteiro"
+      ],
+      "coords": {
+        "lat": 16.9,
+        "lng": -90.966666666667
+      },
+      "descricaoCurta": "Cidade maia só acessível por lancha desde Frontera Corozal; INAH: 08:00-14:30.",
+      "descricaoLonga": "INAH: seg-dom 08:00-14:30; a página diz 'gratuito por Lei Federal dos direitos da comunidade' (provável taxa local por fora). Acesso: de Palenque por Chancalá até Frontera Corozal (~105 km) e depois barco pelo Usumacinta (~30 km, ~30-60 min). Wikivoyage (jun/2024): combi Palenque-Frontera Corozal ~2,5 h, M$140, de hora em hora das 06:00 às 17:00; barco M$1.500-2.500 por lancha (≈M$400-500 por pessoa em grupo); capitães esperam 2 h; ingresso M$150 pago a associação civil local; checkpoint comunitário na chegada; sem caixa eletrônico em Frontera Corozal. Wikipedia ES/EN: dintéis esculpidos bem conservados e estelas.",
+      "duracao": {
+        "min": 480,
+        "tipica": 600,
+        "max": 720
+      },
+      "horarios": {
+        "seg": "08:00–14:30",
+        "ter": "08:00–14:30",
+        "qua": "08:00–14:30",
+        "qui": "08:00–14:30",
+        "sex": "08:00–14:30",
+        "sab": "08:00–14:30",
+        "dom": "08:00–14:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegue cedo ao embarcadero (saída ~09-10h).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 550,
+        "max": 650,
+        "por": "pessoa",
+        "inclui": "Taxa local M$150 + barco ≈M$400-500 p/p em grupo (jun/2024). Combi Palenque-Frontera Corozal ~M$140 (só ida?) por fora. INAH diz 'gratuito'.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Yaxchilan",
+          "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "(01 916) 34 52684",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Calçado fechado; sem caixa eletrônico em Frontera Corozal."
+      ],
+      "pontoPartida": "Frontera Corozal (barco)",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se estiver operando e o orçamento permitir, é o passeio de selva mais marcante. Dividir o barco corta o custo.",
+        "Leve dinheiro em espécie.",
+        "Está na fronteira com a Guatemala, mas fora do trecho 'Pacífico até Gracias a Dios' do aviso britânico (dedução)."
+      ],
+      "alertas": [
+        "NÃO consegui confirmar se os passeios estão operando em out/2026 (última evidência: Wikivoyage jun/2024).",
+        "Conflito de preço: INAH diz gratuito; Wikivoyage M$150."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg?width=1200",
+        "credito": "ZoRrO0880",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg"
+      },
+      "fontes": [
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan",
+        "https://en.wikivoyage.org/wiki/Yaxchilan",
+        "https://es.wikipedia.org/wiki/Yaxchil%C3%A1n",
+        "https://en.wikipedia.org/wiki/Yaxchil%C3%A1n",
+        "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+        "https://www.travel.gc.ca/destinations/mexico"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Bonampak (murais maias)",
+      "categoria": "atracao",
+      "cidade": "palenque",
+      "tags": [
+        "maya",
+        "murais",
+        "lacandon",
+        "selva"
+      ],
+      "coords": {
+        "lat": 16.704,
+        "lng": -91.065
+      },
+      "descricaoCurta": "Murais maias do Templo 1; o site do INAH diz que o edifício das pinturas permanece FECHADO.",
+      "descricaoLonga": "Wikipedia ES: 16°42'14\"N 91°03'54\"O, ~21 km ao sul de Yaxchilán; murais cobrem ~150 m², 114 cláusulas glíficas e 272 figuras; Estela 1 de ~6 m. INAH: seg-dom 08:00-16:30; ingresso geral M$210; contato Centro INAH Chiapas (961) 612-83-60 / 612-28-24; AVISO: 'Permanecerão fechados os edifícios 4, 5, 6, 7, 8, 15 e o das pinturas' - ou seja, o edifício dos murais pode estar fechado (data do aviso não informada). Wikivoyage: só chega de carro/tour (estrada de terra), usa-se obrigatoriamente van lacandona; taxas de ejido e transporte lacandón (≈M$400 no total em 2022). Não há ônibus.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00–16:30",
+        "ter": "08:00–16:30",
+        "qua": "08:00–16:30",
+        "qui": "08:00–16:30",
+        "sex": "08:00–16:30",
+        "sab": "08:00–16:30",
+        "dom": "08:00–16:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 210,
+        "max": 210,
+        "por": "pessoa",
+        "inclui": "INAH M$210 ingresso geral (oficial). Taxas do ejido e do transporte lacandón por fora (total ≈M$400 em 2022, Wikivoyage - desatualizado).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak",
+          "https://en.wikivoyage.org/wiki/Bonampak"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "(961) 612-83-60",
+        "whatsapp": "",
+        "site": "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Edifício das pinturas pode estar fechado (aviso INAH)."
+      ],
+      "pontoPartida": "Palenque (tour) / Lacanjá Chansayab",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Se o edifício dos murais estiver fechado, perde o sentido do passeio (confirmar por telefone com o INAH)."
+      ],
+      "alertas": [
+        "O aviso 'edificios ... y de las pinturas cerrados' é do site oficial, sem data visível; confirmar antes."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bonampak_Murals_July_2009_03.jpg?width=1200",
+        "credito": "Joaquin Bravo Contreras",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bonampak_Murals_July_2009_03.jpg"
+      },
+      "fontes": [
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak",
+        "https://es.wikipedia.org/wiki/Bonampak",
+        "https://en.wikivoyage.org/wiki/Bonampak"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Passeio Yaxchilán + Bonampak saindo de Palenque (dia inteiro)",
+      "categoria": "passeio",
+      "cidade": "palenque",
+      "tags": [
+        "tour",
+        "maya",
+        "usumacinta",
+        "selva",
+        "dia-inteiro"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Dia inteiro (≈12 h): van até Frontera Corozal, barco no Usumacinta e Bonampak; Wikivoyage diz que qualquer agência de Palenque organiza.",
+      "descricaoLonga": "Wikivoyage Palenque: Yaxchilán e Bonampak 'podem ser organizados em bate-volta ou com pernoite por qualquer agência da cidade'; sem preço. Componentes por conta própria (Wikivoyage, jun/2024): combi M$140, barco M$400-500 p/p, ingresso M$150, mais as taxas de Bonampak (INAH M$210 + ejido + van lacandona). Se está operando: NÃO confirmado.",
+      "duracao": {
+        "min": 600,
+        "tipica": 720,
+        "max": 780
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saída muito cedo (06:00-07:00).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço do tour fechado NÃO coletado; veja componentes no texto.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque",
+          "https://en.wikivoyage.org/wiki/Yaxchilan"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Agências no centro de Palenque",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se o orçamento permitir e o passeio estiver mesmo saindo.",
+        "[CORTE SE APERTAR] Se o edifício dos murais de Bonampak estiver fechado, vá só a Yaxchilán."
+      ],
+      "alertas": [
+        "Operação em 2026 não confirmada; preço total desconhecido."
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cruising_down_R%C3%ADo_Usumacinta%2C_border_between_M%C3%A9xico_and_Guatemala.jpg?width=1200",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cruising_down_R%C3%ADo_Usumacinta,_border_between_M%C3%A9xico_and_Guatemala.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Palenque",
+        "https://en.wikivoyage.org/wiki/Yaxchilan",
+        "https://en.wikivoyage.org/wiki/Bonampak",
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-de-yaxchilan",
+        "https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak"
+      ],
+      "confianca": "estimado"
+    }
+  ]
+}

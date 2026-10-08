@@ -1,0 +1,219 @@
+[
+  {
+    "id": "mx-bac-cenote-azul-bacalar",
+    "fontes": [
+      {
+        "url": "https://foodandpleasure.com/cenote-azul/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bacalar"
+      },
+      {
+        "url": "https://www.despegar.com.mx/lugares-turisticos/bacalar/cenotes-y-mas"
+      },
+      {
+        "url": "https://forbes.com.mx/ad-conoce-bacalar-turismo/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2580447954"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Azul (Bacalar)",
+    "cidadeId": "bacalar",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "bacalar",
+      "90-metros",
+      "laguna",
+      "estromatolitos",
+      "economico"
+    ],
+    "coords": {
+      "lat": 18.6470061,
+      "lng": -88.4129825
+    },
+    "descricaoCurta": "Cenote de 90 m de profundidade ao lado da laguna de Bacalar; entrada baratíssima e restaurante com vista.",
+    "descricaoLonga": "Cenote circular de cerca de 200 m de extensão e 90 m de profundidade, a ~4 km de Bacalar, junto à laguna. Entrada reportada em MXN 25 (2022; pode ter subido). Restaurante local, coletes para alugar. A matéria da Food & Pleasure pede evitar protetor solar e repelente e NÃO tocar os estromatólitos (frágeis). Divergência: uma matéria patrocinada da Forbes México (2022) diz que nadar no cenote é proibido por segurança; outras fontes mostram snorkel e mergulho: confirme na entrada. Fecha às 18h segundo o Despegar.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, com sol no ângulo certo para ver os tons de azul.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 25,
+      "max": 25,
+      "por": "pessoa",
+      "inclui": "Entrada (dado de 2022)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://foodandpleasure.com/cenote-azul/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bacalar"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Azul%2C_Bacalar%2C_Q._Roo_-_panoramio.jpg?width=900",
+        "credito": "holachetumal",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Azul,_Bacalar,_Q._Roo_-_panoramio.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evitar protetor solar e repelente.",
+        "Não tocar estromatólitos."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: custa quase nada e a vista do azul profundo é a imagem da viagem a Bacalar.",
+      "CORTE SE APERTAR: nada: é a atração mais barata do trecho; cortar só o almoço no restaurante local, se for caro."
+    ],
+    "alertas": [
+      "Preço de 2022: confirme; provavelmente maior hoje.",
+      "Fontes divergem sobre poder nadar."
+    ]
+  },
+  {
+    "id": "mx-bac-laguna-de-los-siete-colores-bacalar-barco-veleiro-ou",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bacalar"
+      },
+      {
+        "url": "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/"
+      },
+      {
+        "url": "https://www.rivieramayanews.mx/bacalar-launches-preventive-measures-for-summer-vacation-season/"
+      },
+      {
+        "url": "https://www.poresto.com/quintana-roo/2020/10/28/particulares-no-respetan-dias-de-navegacion-en-bacalar-acusan.html"
+      },
+      {
+        "url": "https://ruptura360.mx/medioambiente/unam-laguna-de-bacalar-siete-colores/"
+      },
+      {
+        "url": "https://ruptura360.mx/medioambiente/secuelas-laguna-bacalar-en-riesgo/"
+      },
+      {
+        "url": "https://foodandpleasure.com/cenote-azul/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/10271432"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Laguna de los Siete Colores (Bacalar): barco, veleiro ou caiaque",
+    "cidadeId": "bacalar",
+    "categoria": "passeio",
+    "tags": [
+      "bacalar",
+      "laguna",
+      "veleiro",
+      "caiaque",
+      "estromatolitos",
+      "alerta-ambiental",
+      "siete-colores"
+    ],
+    "coords": {
+      "lat": 18.7692904,
+      "lng": -88.3060049
+    },
+    "descricaoCurta": "A laguna azul de água doce: barco compartilhado (~250), veleiro (~1.100) ou caiaque (150–250/h); precisa de pelo menos 1 noite e traz alerta ambiental sério.",
+    "descricaoLonga": "COMO IR: ~5 h por rodovia desde Cancún (Wikivoyage); ADO a partir das grandes cidades, Tren Maya e colectivos desde Tulum por ~M$180. VALE COM POUCO TEMPO? Só se você puder dormir 1 noite: como bate-volta de Cancún/Playa são ~10 h de estrada. TIPOS DE PASSEIO: (a) barco compartilhado ~M$250 por 2 h com 5 paradas (Wikivoyage, data não informada); (b) veleiro compartilhado: Civitatis cobra a partir de R$300,94 por pessoa (≈MXN 1.083 ao câmbio de 8/out/2026) por 4 h, com guia, água, cerveja e guacamole; paradas típicas: Cenote Negro, Isla de los Pájaros, Canal de los Piratas; embarque no muelle da Av. 5; cancelamento grátis até 48 h; (c) caiaque M$150–250 por hora (Wikivoyage). RESTRIÇÕES: o Wikivoyage informa que a laguna fecha para atividades às QUARTAS-FEIRAS; uma matéria de 2020 confirma o acordo de descanso da navegação às quartas com o município, mas diz que particulares o desrespeitavam. Em jul/2026 a Proteção Civil exigiu colete em todos os passeios e lotação máxima. ALERTA AMBIENTAL: a laguna perde cores por esgoto não tratado, turismo desordenado e fertilizantes (UNAM, jul/2020; recuperação levaria décadas) e, após a tempestade Cristóbal (jun/2020), a água ficou acinzentada/esverdeada e só parte recuperou a cor em 14 meses (matéria de ago/2021). Não encontrei fonte de 2026 sobre a cor ATUAL da água: peça fotos recentes à hospedagem/operadora e vá no meio do dia, com sol alto. PROTETOR SOLAR: a regra explícita que encontrei (Food & Pleasure) é para o Cenote Azul — evitar protetor e repelente e não tocar estromatólitos; por prudência, use roupa UV e protetor só ANTES de chegar, e escolha operadora que proíba protetor a bordo.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [
+      "qua"
+    ],
+    "melhorHorario": "Sol alto (10h–14h) para as cores; evitar quarta-feira.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 250,
+      "max": 1083,
+      "por": "pessoa",
+      "inclui": "Barco compartilhado ~250/2 h; veleiro ~1.083/4 h com bebidas e guacamole (R$300,94 convertidos a 3,6 MXN/BRL); caiaque 150–250/h",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bacalar"
+        },
+        {
+          "url": "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 1,
+      "link": "https://www.civitatis.com/es/bacalar/paseo-velero-laguna-bacalar/"
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Bacalar.JPG?width=900",
+        "credito": "Wasquewhat",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Laguna_de_Bacalar.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Colete obrigatório em passeios (jul/2026).",
+        "Evitar protetor solar e repelente na água."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: o veleiro de 4 h com paradas no Cenote Negro e no Canal de los Piratas é o melhor passeio da região; dividir um barco privado também sai razoável.",
+      "CORTE SE APERTAR: se tiver só 1 dia de região, cortar Bacalar e ficar com Isla Mujeres/Cobá; a viagem custa um dia inteiro.",
+      "Combinar com Cenote Azul (ingresso baixíssimo) e dormir 1 noite em hostal."
+    ],
+    "alertas": [
+      "ALERTA AMBIENTAL: a laguna está degradada; não use protetor, repelente nem produtos químicos na água e não pise nos estromatólitos.",
+      "A COR atual da água não pôde ser confirmada (últimos relatos são de 2020–2021).",
+      "Valores do Wikivoyage são de data não informada (barco M$250 provavelmente subiu).",
+      "Navegação restrita às quartas-feiras; confirme com a operadora."
+    ],
+    "passeio": {
+      "pontoPartida": "Muelle da Av. 5, Bacalar (veleiros); vários píeres na costera.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

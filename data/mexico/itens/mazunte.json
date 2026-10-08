@@ -1,0 +1,419 @@
+[
+  {
+    "id": "mx-maz-punta-cometa-por-do-sol",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mazunte"
+      },
+      {
+        "url": "https://www.civitatis.com/mx/huatulco/excursion-punta-cometa-atardecer/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Punta_Cometa"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/323351395"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/13288315594"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Punta Cometa (pôr do sol)",
+    "cidadeId": "mazunte",
+    "categoria": "mirante",
+    "tags": [
+      "por-do-sol",
+      "trilha-curta",
+      "ponto-mais-ao-sul",
+      "piscinas-de-pedra"
+    ],
+    "coords": {
+      "lat": 15.6600903,
+      "lng": -96.5576719
+    },
+    "descricaoCurta": "Península rochosa com o melhor pôr do sol da costa; trilha curta saindo de Mazunte.",
+    "descricaoLonga": "Península que marca o ponto mais ao sul de Oaxaca, com vista do nascer e do pôr do sol e piscinas naturais de pedra (Wikivoyage). Trilha sinalizada pelo morro ao lado dos bangalôs Alta Mira. Há taxa comunitária de ~30 MXN por pessoa (Civitatis, não incluída no tour) e há uma bilheteria mapeada no OpenStreetMap perto da entrada. Há também sinal de campamento tortuguero (cooperativa).",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Chegar 1h antes do pôr do sol; levar lanterna para voltar.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 30,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "Taxa comunitária (valor de tour da Civitatis).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.civitatis.com/mx/huatulco/excursion-punta-cometa-atardecer/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mazunte"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Cometa,_Mazunte,_Oaxaca.jpg?width=1200",
+        "credito": "Anna Bertho",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Punta_Cometa,_Mazunte,_Oaxaca.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Trilha de pedra; tênis."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (30 MXN): pôr do sol obrigatório se for a Mazunte.",
+      "Mar de Mazunte tem correntezas perigosas; evite praia deserta à noite (Wikivoyage: assaltos passados)."
+    ],
+    "alertas": [
+      "Valor de 30 MXN vem de tour guiado; confirme na bilheteria."
+    ]
+  },
+  {
+    "id": "mx-maz-centro-mexicano-de-la-tortuga-mazunte",
+    "fontes": [
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mazunte"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Mazunte"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3726419327"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro Mexicano de la Tortuga (Mazunte)",
+    "cidadeId": "mazunte",
+    "categoria": "museu",
+    "tags": [
+      "tartarugas",
+      "familia",
+      "aquario",
+      "soltura-marco-a-novembro"
+    ],
+    "coords": {
+      "lat": 15.6665216,
+      "lng": -96.5517721
+    },
+    "descricaoCurta": "Centro de conservação com 3 das 8 espécies marinhas do mundo e soltura de filhotes de março a novembro.",
+    "descricaoLonga": "Instituição aberta quarta a sábado 10:00-16:30 e domingo 10:00-14:30 (fechada segunda e terça segundo fonte de 2025). Ingresso geral 50 MXN (estudantes 25; grátis menores de 12, maiores de 60 e pessoas com deficiência). Há soltura de tartarugas entre março e novembro. Mostra espécies marinhas, de água doce e terrestres, incubação em condições semi-naturais e jardim de cactos. Wikivoyage antigo cita 37 MXN.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": "fechado",
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "16:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "14:30"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 10:00–16:30 | 10:00–14:30",
+    "diasFechados": [
+      "seg",
+      "ter"
+    ],
+    "melhorHorario": "Chegar de manhã.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "Entrada geral (fonte de fev/2025).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mazunte"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (50 MXN): barato e útil para entender a temporada.",
+      "Soltura aberta ao público entre março e novembro (outras datas e preço da soltura não verificados)."
+    ],
+    "alertas": [
+      "Preço e horário de 2025; Wikivoyage (antigo) fala em 37 MXN.",
+      "Quanto custa participar da soltura não foi encontrado."
+    ]
+  },
+  {
+    "id": "mx-maz-tartarugas-arribada-em-playa-escobilla-e-solturas-de",
+    "fontes": [
+      {
+        "url": "https://www.escapadah.com/tendencias/2026/5/21/inicia-temporada-2026-2027-del-arribo-de-tortuga-golfina-en-mexico-donde-podras-observarlas-40010.html"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/estados/playa-escobilla-en-oaxaca-el-santuario-de-la-tortuga-golfina/"
+      },
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2025/02/19/41712-plan-perfecto-en-oaxaca-fin-de-semana-en-mazunte-visitando-el-centro-mexicano-de-la-tortuga"
+      },
+      {
+        "url": "https://www.vivapuerto.com/vp5/lifeguards.php"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tartarugas: arribada em Playa Escobilla e solturas de filhotes",
+    "cidadeId": "mazunte",
+    "categoria": "experiencia",
+    "tags": [
+      "tartarugas",
+      "arribada",
+      "escobilla",
+      "temporada",
+      "guia-autorizado"
+    ],
+    "descricaoCurta": "Maior desova de tartaruga-oliva da região: temporada maio a fevereiro/março; só com guias autorizados.",
+    "descricaoLonga": "Santuário Playa Escobilla (Santa María Tonameca), a 41 km de Puerto Escondido e 68 km de Huatulco pela Rodovia 200. TEMPORADA: arribadas de maio a fevereiro/março do ano seguinte (a de 2026-27 começou em maio de 2026 com ~11.290 fêmeas na primeira onda); cada fêmea põe ~100 ovos que eclodem em 45-60 dias, então filhotes saem ao longo de praticamente todo o período. O Centro Mexicano de la Tortuga faz soltura de março a novembro. Salva-vidas de Puerto Escondido protegem ninhos e controlam luzes. Não encontrei preço verificado nem lista de operadoras sérias: use o CMT em Mazunte ou guias autorizados (comunidade/cooperativa). Meses de pico (setembro a novembro, segundo resultado de busca não aberto) não confirmados.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite/madrugada em arribada; soltura de filhotes costuma ser ao entardecer (não verificado).",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg?width=1200",
+        "credito": "Claudio Giovenzana",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só com guias autorizados; não tocar nos ovos/tartarugas."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO se a época coincidir; peça o calendário de soltura direto ao CMT ou à cooperativa.",
+      "Confirme que o operador é autorizado e que não há manipulação de tartarugas."
+    ],
+    "alertas": [
+      "Meses de pico e preço de visita NÃO confirmados; não encontrei operadoras verificadas.",
+      "Coordenadas de Escobilla não confirmadas em fonte aberta (0,0).",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-maz-zipolite-praia-naturista",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zipolite"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Zipolite"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Zipolite (praia naturista)",
+    "cidadeId": "mazunte",
+    "categoria": "praia",
+    "tags": [
+      "praia-naturista",
+      "nudismo-legal",
+      "correnteza-forte",
+      "bohemio",
+      "hospedagem-economica",
+      "zipolite"
+    ],
+    "coords": {
+      "lat": 15.66278,
+      "lng": -96.50944
+    },
+    "descricaoCurta": "PRAIA NATURISTA: nudez permitida; vibe hippie e hospedagem barata, mar perigoso.",
+    "descricaoLonga": "Zipolite é a praia onde a nudez é legalmente permitida (município de San Pedro Pochutla, reconhecimento em 2016, também em Playa del Amor), com clima hippie e barata hospedagem. 'Roupa opcional': há muita gente vestida, mas esteja preparado. O mar é muito perigoso: correntes de retorno, 'praia dos mortos' em zapoteca, com salva-vidas voluntários e bandeiras coloridas. Temporada alta de novembro a maio; Festival Nudista no primeiro fim de semana de fevereiro. Hospedagem econômica em torno de 600-650 MXN (Wikivoyage, dado antigo). Ônibus de Oaxaca ~4 h, ~370 MXN (Líneas Unidas).",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Pôr do sol e noite de fogueira.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZipoliteFromAmor.JPG?width=1200",
+        "credito": "AlejandroLinaresGarcia",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:ZipoliteFromAmor.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Praia naturista: respeite a regra de não fotografar pessoas nuas. Nudez não vale nas ruas."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: ótimo custo-benefício de hospedagem e vida noturna leve de praia/fogueira.",
+      "Evite nadar sozinho; siga as bandeiras dos salva-vidas voluntários.",
+      "Drogas são comuns e a polícia monitora uso em público (Wikivoyage)."
+    ],
+    "alertas": [
+      "PRAIA NATURISTA: avise sobre isso antes de reservar (se o casal não estiver confortável).",
+      "CORRENTEZA PERIGOSA: afogamentos ocorrem com frequência.",
+      "Evite caminhar sozinho na praia à noite; furtos e assaltos ocasionais.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-maz-san-agustinillo-praia",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mazunte"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/458620752"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "San Agustinillo (praia)",
+    "cidadeId": "mazunte",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "vila-pesqueira",
+      "tranquilo",
+      "restaurantes-de-praia"
+    ],
+    "coords": {
+      "lat": 15.6661137,
+      "lng": -96.5446368
+    },
+    "descricaoCurta": "Vila de pescadores ao lado de Mazunte, com praia e restaurantes, mais calma que Zipolite.",
+    "descricaoLonga": "San Agustinillo fica a pouca distância de Mazunte (Wikivoyage: 5 min a pé; mapa OSM mostra ~1 km). Opções de praia com restaurantes no estilo palapa. O mar da costa de Mazunte é conhecido por correntezas fortes. Dados de ondas, preços e hospedagem não foram verificados em fonte aberta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã e fim de tarde.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_San_Agustinillo.jpg?width=1200",
+        "credito": "Sgroey",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_San_Agustinillo.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: pouco adiciona além de Mazunte/Zipolite; vale se você quiser base mais calma."
+    ],
+    "alertas": [
+      "Dados de condições de mar e preços não verificados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "2027-01-01-ano-novo-feriado-oficial-nacional",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/CUN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Ano-Novo (feriado oficial)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2027-01-01",
+    "escopo": "nacional",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Comércio e serviços reduzidos no dia",
+      "observacao": "Fim de ano é o período mais caro nos voos internos (Kayak: dezembro é o mês mais caro MEX-CUN) | Muito alta (Natal-Ano-Novo)"
+    },
+    "descricao": "1 de janeiro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual, data fixa | Ano-Novo (feriado oficial)"
+  },
+  {
+    "id": "2027-02-01-dia-da-constituicao-feriado-oficial-nacio",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/CUN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Dia da Constituição (feriado oficial)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2027-02-01",
+    "escopo": "nacional",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Bancos e órgãos públicos fechados",
+      "observacao": "Fim de semana prolongado: pressão em ônibus e hotéis de destinos de curta distância da CDMX | Alta para escapadas domésticas"
+    },
+    "descricao": "1ª segunda-feira de fevereiro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual: 1ª segunda de fevereiro (2026: 02/fev) | Dia da Constituição (feriado oficial)"
+  },
+  {
+    "id": "2027-03-15-natalicio-de-benito-juarez-feriado-ofic-n",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Natalício de Benito Juárez (feriado oficial)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2027-03-15",
+    "escopo": "nacional",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Bancos e órgãos públicos fechados",
+      "observacao": "Fim de semana prolongado, efeito moderado | Moderada a alta"
+    },
+    "descricao": "3ª segunda-feira de março [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual: 3ª segunda de março (2026: 16/mar) | Natalício de Benito Juárez (feriado oficial)"
+  },
+  {
+    "id": "2027-03-21-semana-santa-e-pascoa-domingo-de-ramos-sa",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Holy_Week_in_Mexico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Semana Santa e Páscoa (Domingo de Ramos a Páscoa)",
+    "tipo": "temporada",
+    "dataInicio": "2027-03-21",
+    "dataFim": "2027-03-28",
+    "escopo": "san-miguel-de-allende",
+    "impacto": {
+      "preco": "sobe",
+      "lotacao": "alta",
+      "fechamentos": "Quinta/Sexta-feira Santa: fechamentos em parte do comércio e procissões bloqueiam ruas",
+      "observacao": "Período de férias nacional: tarifas e hotéis sobem (percentual não quantificado nesta coleta) | Muito alta; Puerto Escondido, segundo o Wikivoyage, foi 'sobrecarregado' pelos feriados de Semana Santa depois da rodovia nova"
+    },
+    "descricao": "21 a 28 de março de 2027 (Quinta e Sexta-feira Santas: 25 e 26/mar); 2026 foi 29/mar-05/abr; 2028 será 09-16/abr | anual, data móvel (domingo de Páscoa: 28/03/2027) | Semana Santa e Páscoa (Domingo de Ramos a Páscoa)"
+  },
+  {
+    "id": "2027-03-21-semana-santa-e-pascoa-domingo-de-ramos-ci",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Holy_Week_in_Mexico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Semana Santa e Páscoa (Domingo de Ramos a Páscoa)",
+    "tipo": "temporada",
+    "dataInicio": "2027-03-21",
+    "dataFim": "2027-03-28",
+    "escopo": "cidade-do-mexico",
+    "impacto": {
+      "preco": "sobe",
+      "lotacao": "alta",
+      "fechamentos": "Quinta/Sexta-feira Santa: fechamentos em parte do comércio e procissões bloqueiam ruas",
+      "observacao": "Período de férias nacional: tarifas e hotéis sobem (percentual não quantificado nesta coleta) | Muito alta; Puerto Escondido, segundo o Wikivoyage, foi 'sobrecarregado' pelos feriados de Semana Santa depois da rodovia nova"
+    },
+    "descricao": "21 a 28 de março de 2027 (Quinta e Sexta-feira Santas: 25 e 26/mar); 2026 foi 29/mar-05/abr; 2028 será 09-16/abr | anual, data móvel (domingo de Páscoa: 28/03/2027) | Semana Santa e Páscoa (Domingo de Ramos a Páscoa)"
+  },
+  {
+    "id": "2027-05-01-dia-do-trabalho-feriado-oficial-nacional",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Dia do Trabalho (feriado oficial)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2027-05-01",
+    "escopo": "nacional",
+    "impacto": {
+      "fechamentos": "Bancos e órgãos públicos fechados",
+      "observacao": "Efeito pequeno quando cai no fim de semana | Moderada"
+    },
+    "descricao": "1 de maio [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual, data fixa (2027 cai num sábado) | Dia do Trabalho (feriado oficial)"
+  },
+  {
+    "id": "2027-07-19-guelaguetza-lunes-del-cerro-oaxaca",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Guelaguetza"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Guelaguetza (Lunes del Cerro)",
+    "tipo": "festa",
+    "dataInicio": "2027-07-19",
+    "dataFim": "2027-07-26",
+    "escopo": "oaxaca",
+    "impacto": {
+      "preco": "sobe-muito",
+      "lotacao": "alta",
+      "fechamentos": "Trânsito/estacionamento limitados no centro nos dias do evento",
+      "observacao": "Hotéis da cidade sobem muito e esgotam com antecedência (não quantificado nesta coleta) | Muito alta"
+    },
+    "descricao": "As duas segundas-feiras seguintes a 16 de julho (2027: 19 e 26/jul; 2026 foi 20 e 27/jul), com eventos paralelos durante julho; se a 1ª segunda cair em 18/jul, adia-se uma semana | anual desde 1969 | Guelaguetza (Lunes del Cerro)"
+  },
+  {
+    "id": "2027-09-15-independencia-do-mexico-grito-15-set-cida",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grito_de_Dolores"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Independência do México - Grito (15/set) e feriado (16/set)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2027-09-15",
+    "dataFim": "2027-09-16",
+    "escopo": "cidade-do-mexico",
+    "impacto": {
+      "preco": "sobe",
+      "lotacao": "alta",
+      "fechamentos": "Ruas do centro fechadas; comércio e bancos fechados em 16/set",
+      "observacao": "Hotéis do Centro de CDMX sobem; não quantificado | Muito alta no Zócalo na noite de 15/set"
+    },
+    "descricao": "Noite de 15/set (Grito) e 16/set (feriado oficial) [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual, data fixa | Independência do México - Grito (15/set) e feriado (16/set)"
+  },
+  {
+    "id": "2030-10-01-transmissao-do-poder-executivo-feriado-na",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Transmissão do Poder Executivo (feriado a cada 6 anos)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2030-10-01",
+    "escopo": "nacional",
+    "impacto": {
+      "fechamentos": "Sem efeito em 2026-2029",
+      "observacao": "Sem efeito em 2026-2029 | Sem efeito em 2026-2029"
+    },
+    "descricao": "1º de outubro, a cada seis anos (já em vigor; próxima em 2030) [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | a cada 6 anos | Transmissão do Poder Executivo (feriado a cada 6 anos)"
+  },
+  {
+    "id": "2026-11-01-dia-de-muertos-cidade-do-mexico",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Dia de Muertos",
+    "tipo": "festa",
+    "dataInicio": "2026-11-01",
+    "dataFim": "2026-11-02",
+    "escopo": "cidade-do-mexico",
+    "impacto": {
+      "preco": "sobe",
+      "lotacao": "alta",
+      "fechamentos": "Cemitérios e centros históricos têm acesso restrito/lotados; muitos negócios reduzem horário",
+      "observacao": "Hotéis em Oaxaca e CDMX sobem e esgotam semanas antes (não quantificado) | Muito alta em cemitérios e praças"
+    },
+    "descricao": "1 e 2 de novembro (outras localidades incluem 31/out ou 6/nov); Mixquic, Pátzcuaro/Janitzio (Michoacán, nível 4 EUA) e Oaxaca são os polos tradicionais; CDMX faz desfile desde 2016 (29/out em 2016) | anual, data fixa; NÃO é feriado de lei, mas é patrimônio da UNESCO e mobiliza o país | Dia de Muertos"
+  },
+  {
+    "id": "2026-11-01-dia-de-muertos-oaxaca",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Dia de Muertos",
+    "tipo": "festa",
+    "dataInicio": "2026-11-01",
+    "dataFim": "2026-11-02",
+    "escopo": "oaxaca",
+    "impacto": {
+      "preco": "sobe",
+      "lotacao": "alta",
+      "fechamentos": "Cemitérios e centros históricos têm acesso restrito/lotados; muitos negócios reduzem horário",
+      "observacao": "Hotéis em Oaxaca e CDMX sobem e esgotam semanas antes (não quantificado) | Muito alta em cemitérios e praças"
+    },
+    "descricao": "1 e 2 de novembro (outras localidades incluem 31/out ou 6/nov); Mixquic, Pátzcuaro/Janitzio (Michoacán, nível 4 EUA) e Oaxaca são os polos tradicionais; CDMX faz desfile desde 2016 (29/out em 2016) | anual, data fixa; NÃO é feriado de lei, mas é patrimônio da UNESCO e mobiliza o país | Dia de Muertos"
+  },
+  {
+    "id": "2026-11-16-dia-da-revolucao-feriado-oficial-nacional",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Dia da Revolução (feriado oficial)",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2026-11-16",
+    "escopo": "nacional",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Bancos e órgãos públicos fechados",
+      "observacao": "Fim de semana prolongado (sáb 14 a seg 16/nov/2026) | Moderada a alta"
+    },
+    "descricao": "3ª segunda-feira de novembro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual: 3ª segunda de novembro (2027: 15/nov) | Dia da Revolução (feriado oficial)"
+  },
+  {
+    "id": "2026-12-25-natal-feriado-oficial-e-recesso-de-fim-na",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_M%C3%A9xico"
+      },
+      {
+        "url": "https://www.kayak.com.br/flight-routes/MEX/CUN"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Natal (feriado oficial) e recesso de fim de ano",
+    "tipo": "feriado-nacional",
+    "dataInicio": "2026-12-25",
+    "escopo": "nacional",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Comércio fecha no dia 25",
+      "observacao": "Dezembro é o mês mais caro em voo MEX-CUN (Kayak) | Muito alta nos destinos de praia e CDMX"
+    },
+    "descricao": "25 de dezembro [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual, data fixa | Natal (feriado oficial) e recesso de fim de ano"
+  },
+  {
+    "id": "2027-01-01-temporada-de-baleias-los-cabos-baleia-los",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Los_Cabos_Municipality"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Temporada de baleias - Los Cabos (baleia-jubarte)",
+    "tipo": "temporada",
+    "dataInicio": "2027-01-01",
+    "dataFim": "2027-03-31",
+    "escopo": "los-cabos",
+    "impacto": {
+      "lotacao": "alta",
+      "fechamentos": "Passeios cancelados por mar/vento",
+      "observacao": "Passeios de barco com preço de alta demanda (não quantificado) | Alta nos passeios"
+    },
+    "descricao": "Janeiro a março (reprodução) | anual | Temporada de baleias - Los Cabos (baleia-jubarte)"
+  },
+  {
+    "id": "2027-05-15-temporada-de-furacoes-pacifico-oaxaca",
+    "fontes": [
+      {
+        "url": "https://www.nhc.noaa.gov/climo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "alta",
+    "nome": "Temporada de furacões - Pacífico",
+    "tipo": "temporada",
+    "dataInicio": "2027-05-15",
+    "dataFim": "2027-11-30",
+    "escopo": "oaxaca",
+    "impacto": {
+      "lotacao": "baixa",
+      "fechamentos": "Cancelamentos de voo/passeio e fechamentos de porto em tempestades",
+      "observacao": "Baixa temporada: tarifas e hotéis mais baratos | Baixa"
+    },
+    "descricao": "15 de maio a 30 de novembro; pico em fim de agosto; atividade elevada de fim de junho a início de outubro (média 1991-2020: 15 tempestades nomeadas, 8 furacões, 4 grandes) | anual | Temporada de furacões - Pacífico"
+  },
+  {
+    "id": "2027-04-01-temporada-de-sargaco-riviera-maya-playa-d",
+    "fontes": [
+      {
+        "url": "https://optics.marine.usf.edu/projects/SaWS.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Temporada de sargaço - Riviera Maya",
+    "tipo": "temporada",
+    "dataInicio": "2027-04-01",
+    "dataFim": "2027-08-31",
+    "escopo": "playa-del-carmen",
+    "impacto": {
+      "fechamentos": "Algumas praias interditadas/limpeza diária",
+      "observacao": "Não quantificado | Praias com menos banhistas nos piores dias"
+    },
+    "descricao": "Chega em quase toda primavera e verão desde 2011; pico em junho-julho; mínimo no inverno. Boletim de set/2026: quantidade em queda, porém ainda alta para o mês | anual, intensidade varia por ano | Temporada de sargaço - Riviera Maya"
+  },
+  {
+    "id": "2027-04-01-temporada-de-sargaco-riviera-maya-cancun",
+    "fontes": [
+      {
+        "url": "https://optics.marine.usf.edu/projects/SaWS.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Temporada de sargaço - Riviera Maya",
+    "tipo": "temporada",
+    "dataInicio": "2027-04-01",
+    "dataFim": "2027-08-31",
+    "escopo": "cancun",
+    "impacto": {
+      "fechamentos": "Algumas praias interditadas/limpeza diária",
+      "observacao": "Não quantificado | Praias com menos banhistas nos piores dias"
+    },
+    "descricao": "Chega em quase toda primavera e verão desde 2011; pico em junho-julho; mínimo no inverno. Boletim de set/2026: quantidade em queda, porém ainda alta para o mês | anual, intensidade varia por ano | Temporada de sargaço - Riviera Maya"
+  },
+  {
+    "id": "2027-04-01-temporada-de-sargaco-riviera-maya-tulum",
+    "fontes": [
+      {
+        "url": "https://optics.marine.usf.edu/projects/SaWS.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "nome": "Temporada de sargaço - Riviera Maya",
+    "tipo": "temporada",
+    "dataInicio": "2027-04-01",
+    "dataFim": "2027-08-31",
+    "escopo": "tulum",
+    "impacto": {
+      "fechamentos": "Algumas praias interditadas/limpeza diária",
+      "observacao": "Não quantificado | Praias com menos banhistas nos piores dias"
+    },
+    "descricao": "Chega em quase toda primavera e verão desde 2011; pico em junho-julho; mínimo no inverno. Boletim de set/2026: quantidade em queda, porém ainda alta para o mês | anual, intensidade varia por ano | Temporada de sargaço - Riviera Maya"
+  }
+]

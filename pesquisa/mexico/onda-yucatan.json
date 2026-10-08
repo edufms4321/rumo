@@ -1,0 +1,2791 @@
+{
+  "base": "merida",
+  "coletadoEm": "2026-10-08",
+  "notasDaBase": {
+    "comoCircular": "No Centro de Mérida (Calles 56–66 e 57–65) vai-se a pé; ônibus Va y Ven custam MXN 12 por viagem (IE-TRAM 14), exigem cartão recarregável de MXN 25 (não aceitam dinheiro; Wikivoyage); ônibus particulares de bairro ~MXN 8; Uber, Didi e Cabify cobrem a cidade (Uber é mais fácil em dinheiro; Didi esconde a forma de pagamento). Táxis geralmente sem taxímetro: combine o preço antes. Aeroporto: ônibus 79 Aviação ~MXN 8 até a Calle 69/70 (info de 2022). Em dia útil, o módulo de turismo no Palacio Municipal tem tours gratuitos às 09:30 e 18:30 (dados de 2015). Bate-voltas: Uxmal/Puuc (85 km), Celestún (90 km, ônibus Oriente ou combi a cada hora), Progreso (ônibus Autoprogreso 28 por trecho), Izamal (ônibus Oriente), Cuzamá/Homún (~1 h); Valladolid, Chichén e Ek Balam (120–170 km) rendem mais com 1–2 noites em Valladolid (colectivo Valladolid–Chichén MXN 40–50, Valladolid–Ek Balam MXN 70). Río Lagartos/Las Coloradas ficam a 230 km (3h30) — durma em Valladolid ou Río Lagartos. Carro alugado compensa para Uxmal/Puuc, Celestún, Izamal e Río Lagartos (ver itens de aluguel). Pedágio Mérida–Valladolid MXN 248 (carro, abr/2026). Estações do Tren Maya: Mérida-Teya, Maxcanú, Izamal, Valladolid, Chichén Itzá (sem tarifas verificadas).",
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "melhoresBairrosParaFicar": [
+      {
+        "nome": "Centro Histórico (Calles 56–66 / 57–65, perto da Plaza Grande e do Parque de Santa Lucía)",
+        "perfil": "Base ideal para casal econômico: tudo a pé (eventos gratuitos, cantinas, mercados, Casa de Montejo); hostels e pousadas em casarões coloniais; muito vida de rua à noite.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 140,
+          "max": 1000
+        },
+        "observacao": "Dados antigos de Wikivoyage (2015–2022): dormitório MXN 140–200 (Hostal Zócalo, 2022) e ~300 (Che Nomadas, 2022); hotéis como Los Aluxes a partir de 630 (2015), Piedra de Agua 850+, Marionetas ~1.000 (abr/2022), Peregrino ~1.000. Hospedajes de MXN 100–250 listados no Wikivoyage (jan/2022) são hotéis de 'estadia de 3 horas' — não servem para dormir. Preços de out/2026 NÃO verificados — consulte as plataformas.",
+        "seguranca": "Mérida é considerada relativamente segura; Wikivoyage alerta para batedores de carteira e indica a Policía Turística (+52 999 942 0060), com cabines no Parque Hidalgo e no Parque de Santa Lucía (08:00–20:00).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      {
+        "nome": "Santiago / San Sebastián / García Ginerés (residencial, a oeste do Centro)",
+        "perfil": "Bairros locais, mais baratos, com Mercado de Santiago, Parque de Santiago (Remembranzas às terças) e bom acesso ao Centro a pé/Uber; menos opções noturnas.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Sem preço verificado em fonte aberta (Aventura Hotel, no Wikivoyage, é citado como hotel econômico 'perto do Parque de Santiago', sem preço). Faixa não estimada.",
+        "seguranca": "Sem fonte por bairro; vale a regra geral do Wikivoyage (cuidado com batedores de carteira) e Uber à noite.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      {
+        "nome": "Paseo de Montejo / zona norte (Itzimná, hoteis de rede, Altabrisa)",
+        "perfil": "Bairro 'chique': mansões, bares do Paseo, hotéis de rede (Holiday Inn, Hyatt, Fiesta Americana), mais calmo e mais caro; faz sentido só se o orçamento permitir ou se quiser piscina.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 0,
+          "max": 0
+        },
+        "observacao": "Wikivoyage informa hotéis de rede em USD (2015–2016): Holiday Inn a partir de US$75, Hyatt a partir de US$84, Rosas y Xocolate a partir de US$245 — sem conversão por falta de fonte de câmbio. Para economizar, prefira o Centro.",
+        "seguranca": "Considerado área de hotelaria e residencial; sem fonte específica; Policía Turística presente na avenida (Wikivoyage).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      }
+    ],
+    "segurancaPorBairro": "Não achei fontes por bairro. O Wikivoyage descreve Mérida como relativamente segura, com risco principal de batedores de carteira; a Policía Turística (+52 999 942 0060) atua no Centro e no Paseo de Montejo, com cabines no Parque Hidalgo e no Parque de Santa Lucía (08:00–20:00). Em mercados e eventos lotados, guarde celular e carteira. À noite, volte de Uber/Didi/Cabify em vez de andar até a periferia. Fora de Mérida, em Chichén/Ek Balam há assédio de vendedores (ver golpes).",
+    "pegaTuristaAEvitar": [
+      "Táxis sem taxímetro: combine o preço antes; taxímetro 'noche' ligado de dia (Wikivoyage).",
+      "Chichén Itzá (moto/carro): não estacione no cruzamento principal onde pessoas 'orientam' o estacionamento — siga até o Centro de Visitantes (Wikivoyage).",
+      "Ek Balam: vendedores de beira de estrada pressionam para você pagar por 'cuidar do carro' — pode recusar (Wikivoyage).",
+      "Tours de ônibus/turibus e calesas a preços de turista (Turibus MXN 120 em 2016; calesa ~MXN 350 por 45 min, dados antigos).",
+      "Hospedajes de MXN 100–250 no Centro: o Wikivoyage os lista como hotéis por 3 horas — não são para dormir."
+    ],
+    "golpesComuns": [
+      "Estacionamento 'oficial' improvisado perto de Chichén e Ek Balam (Wikivoyage).",
+      "Show noturno de Chichén divulgado como 'grátis' em guias antigos (Wikivoyage): hoje custa ~MXN 1.163.",
+      "Seguro de responsabilidade civil (TPL) cobrado só no balcão da locadora (conhecimento geral; não verificado em fonte aberta).",
+      "Batedores de carteira em mercados e eventos lotados (Wikivoyage).",
+      "Guia na entrada de Chichén: MXN ~1.300 (jun/2026, Wikivoyage) — pergunte o preço antes de contratar."
+    ],
+    "fontes": [
+      "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+      "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n",
+      "https://yucatantoday.com/en/a-week-in-merida-the-magic-never-ends",
+      "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html",
+      "https://en.wikivoyage.org/wiki/Chichen_Itza"
+    ]
+  },
+  "itens": [
+    {
+      "nome": "Chichén Itzá (zona arqueológica)",
+      "categoria": "atracao",
+      "cidade": "chichen-itza",
+      "tags": [
+        "maya",
+        "unesco",
+        "piramide",
+        "ruinas",
+        "imperdivel",
+        "calor",
+        "madrugar"
+      ],
+      "coords": {
+        "lat": 20.682889,
+        "lng": -88.568611
+      },
+      "descricaoCurta": "Maior ícone maia do Yucatán; desde 27/03/2026 o ingresso é único (INAH + taxa estadual) e custa MXN 697 para estrangeiros.",
+      "descricaoLonga": "Preço (o que você pediu, separado): ingresso de estrangeiro = INAH (federal) 105 + taxa estadual 592 = MXN 697 (Posta, matéria sobre o equinócio; Xataka e Diario de Yucatán confirmam o total de 697). Até 26/03/2026 eram dois guichês e dois pagamentos (em jan/2026 a soma era 676 = 105 INAH + 571 estadual, Por Esto); desde 27/03/2026 há 'boleto único' em um só guichê no Centro de Atención a Visitantes. Nota: as matérias de 2026 atribuem a parte estadual à Agência de Administração Fiscal de Yucatán (AAFY), e não ao Cultur; o Cultur segue cobrando estacionamento (carro MXN 124 desde 01/05/2026) e o show noturno. Mexicanos pagam 310 e entram grátis aos domingos; menores de 13 anos têm entrada grátis. Horário: 08:00–16:00 (as fontes divergem se o último acesso é 15:00 ou 16:00). Não se sobe mais no Castillo (proibido desde 2006, Wikivoyage); tripé é proibido e vídeo com câmera dedicada/GoPro exige permissão paga (MXN 63 segundo a Posta/2026; MXN 50 segundo o Wikivoyage mais antigo). Guia credenciado na entrada: MXN 1.300 (Wikivoyage, jun/2026). O sítio recebe mais de 2,2 milhões de visitantes/ano (Diario de Yucatán). EQUINÓCIO: fenômeno da 'descida de Kukulcán' por volta de 20–21/mar (em 2026: 20/mar às 08:46, sombra visível ~15:00–17:00; operação especial 20–22/mar; em 20/mar abriu às 09:00 e em 21–22/mar às 08:00; venda/entrada fecham 16:00; evacuação 17:30). Lotação: >32 mil visitantes em 2025 (Plano Informativo); proibidos drones, tripés, bebida alcoólica, cigarro eletrônico. O equinócio de outono (~22–23/set) também projeta a sombra, mas não achei fonte de lotação/horários. COMO IR: de Mérida ~1h30 de carro (autopista: Mérida–Valladolid MXN 248 no pedágio 2026); de Valladolid ~45 min — colectivo na Calle 39 (1 quarteirão a oeste da rodoviária ADO) a MXN 40–50, primeiro às 07:00 (Wikivoyage, mar/2025), volta de meia em meia hora. Existe estação do Tren Maya (Chichén Itzá) na MEX-180D, sem tarifa verificada. Duração é estimativa minha.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "ter": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "qua": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "qui": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "sex": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "sab": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)",
+        "dom": "08:00–16:00 (último acesso 15:00–16:00 conforme a fonte)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (08:00): menos calor e antes dos ônibus de excursão; evite 11:00–15:00 (sol a pino, sem sombra).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 697,
+        "max": 697,
+        "por": "pessoa",
+        "inclui": "INAH 105 + taxa estadual 592 (boleto único desde 27/03/2026). Em jan/2026 era 676 (105 + 571). Estacionamento carro MXN 124 à parte. Vídeo (GoPro/câmera) MXN 63 à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.posta.com.mx/yucatan/cuanto-cuesta-ver-el-equinoccio-de-primavera-en-chichen-itza/vl2174856",
+          "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html",
+          "https://www.xataka.com.mx/otros-1/mayor-dolor-cabeza-para-entrar-a-chichen-itza-desaparece-solo-pago-sola-fila",
+          "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html",
+          "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido subir no Castillo desde 2006",
+        "Tripé proibido sem permissão",
+        "Drone proibido",
+        "Sem comida/bebida alcoólica dentro (regras do equinócio)"
+      ],
+      "pontoPartida": "Saída: Mérida (Terminal ou carro) ou Valladolid (colectivo Calle 39). Entrada pelo Centro de Atención a Visitantes.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Faça UMA vez, chegando na abertura: é o grande ícone da viagem e, como o ingresso é caro (697), não vale diluir em visita de 1 hora ao meio-dia.",
+        "[CORTE SE APERTAR] Guia (MXN 1.300) e o show noturno (veja item próprio) — dá para ler as placas e usar um áudio-guia no celular.",
+        "Combine no mesmo dia com Cenote Ik Kil (MXN 400 no Wikivoyage 2024; 200 em um guia de 2026) ou, mais barato, com Cenote Zací em Valladolid. Durma em Valladolid e chegue às 08:00 em vez de sair de Mérida de madrugada.",
+        "Ritmo intenso: Chichén (manhã) + Ek Balam ou cenote (tarde) a partir de Valladolid é o melhor encaixe."
+      ],
+      "alertas": [
+        "Ingresso mudou 2x em 2026 (676 em jan → 697 desde mar); confirme na bilheteria — pode ter reajuste novo depois de out/2026.",
+        "Wikivoyage ainda diz que o show luz e som é 'grátis' — está desatualizado (ver item Noches de Kukulcán).",
+        "Não consegui abrir o site oficial do INAH/Cultur (links dão 404/DNS); preço vem de imprensa local de 2026 + Wikivoyage."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Daniel Schwen",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+      },
+      "fontes": [
+        "https://www.posta.com.mx/yucatan/cuanto-cuesta-ver-el-equinoccio-de-primavera-en-chichen-itza/vl2174856",
+        "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html",
+        "https://www.xataka.com.mx/otros-1/mayor-dolor-cabeza-para-entrar-a-chichen-itza-desaparece-solo-pago-sola-fila",
+        "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html",
+        "https://planoinformativo.com/1133343/todo-listo-en-chichen-itza-para-el-operativo-del-equinoccio-de-primavera-2026",
+        "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html",
+        "https://en.wikivoyage.org/wiki/Chichen_Itza",
+        "https://en.wikipedia.org/wiki/Chichen_Itza"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Noches de Kukulcán (show noturno em Chichén Itzá)",
+      "categoria": "experiencia",
+      "cidade": "chichen-itza",
+      "tags": [
+        "noite",
+        "video-mapping",
+        "chichen",
+        "show",
+        "caro"
+      ],
+      "coords": {
+        "lat": 20.682889,
+        "lng": -88.568611
+      },
+      "descricaoCurta": "Video mapping de ~30 min no Castillo, de quarta a domingo às 19:00; total cobrado ~MXN 1.163 (taxa estadual 433 + cobrança INAH).",
+      "descricaoLonga": "Espetáculo de video mapping com percurso noturno na zona arqueológica, com narração em espanhol, ~30 min (Posta; site oficial de venda). Dias: quarta a domingo; início 19:00 (chegar 15 min antes). Preço: a taxa estadual do show 'se mantém em MXN 433', mas com o que o INAH cobra o total sobe para MXN 1.163 para a maioria dos visitantes; no domingo, mexicanos pagam 730 (Diario de Yucatán, 30/04/2026). Não está claro nas fontes se esse total inclui a entrada diurna — presuma que NÃO e confirme no site de venda (exige login/conta). Em 2025 foram 18.269 espectadores. No equinócio de 2026 o show foi só em 20/mar às 19:30.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "Sem espetáculo",
+        "ter": "Sem espetáculo",
+        "qua": "19:00–19:30",
+        "qui": "19:00–19:30",
+        "sex": "19:00–19:30",
+        "sab": "19:00–19:30",
+        "dom": "19:00–19:30"
+      },
+      "diasFechados": [
+        "segunda",
+        "terça"
+      ],
+      "melhorHorario": "19:00 (único horário divulgado).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1163,
+        "max": 1163,
+        "por": "pessoa",
+        "inclui": "Taxa estadual 433 + cobrança INAH = 1.163 para a maioria (730 para mexicanos aos domingos). Se inclui a entrada diurna: NÃO confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html",
+          "https://www.posta.com.mx/yucatan/noches-de-kukulcan-el-espectaculo-de-alto-nivel-en-chichen-itza/vl2157936"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://nochesdekukulkan.com.mx/evento/1"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://nochesdekukulkan.com.mx/evento/1",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Ingresso comprado online (exige login)",
+        "Volta à noite: sem transporte público — precisa de carro/tour"
+      ],
+      "pontoPartida": "Zona arqueológica de Chichén Itzá (acesso noturno controlado). De Mérida só dá volta de carro/tour (~1h30 + 1h30).",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] ~MXN 1.163 por pessoa por 30 min, mais a volta de ~2h até Mérida à noite, só se vale para quem quer ver o Castillo iluminado e dormir em Valladolid/Pisté.",
+        "[VALE CADA PESO] só se você já dorme perto (Valladolid ~45 min): vira a única 'balada cultural' da região e libera o dia seguinte de manhã para Ek Balam."
+      ],
+      "alertas": [
+        "Antecedência de compra não divulgada (antecedenciaDias=0 = desconhecido).",
+        "O site de venda só abre com login; preço exato por categoria não pôde ser conferido."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.posta.com.mx/yucatan/noches-de-kukulcan-el-espectaculo-de-alto-nivel-en-chichen-itza/vl2157936",
+        "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html",
+        "https://nochesdekukulkan.com.mx/evento/1",
+        "https://planoinformativo.com/1133343/todo-listo-en-chichen-itza-para-el-operativo-del-equinoccio-de-primavera-2026",
+        "https://en.wikipedia.org/wiki/Chichen_Itza"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Uxmal (zona arqueológica)",
+      "categoria": "atracao",
+      "cidade": "uxmal",
+      "tags": [
+        "maya",
+        "unesco",
+        "puuc",
+        "piramide",
+        "menos-lotado",
+        "meio-dia-quente"
+      ],
+      "coords": {
+        "lat": 20.359444,
+        "lng": -89.771389
+      },
+      "descricaoCurta": "Sítio maia Puuc (UNESCO) a 85 km de Mérida; ingresso estrangeiro ~MXN 580–586; a Pirâmide do Adivinho não pode mais ser escalada.",
+      "descricaoLonga": "Preço: em jan/2026 o total para estrangeiros era MXN 586 (Por Esto e Riviera Maya News); em ago/2025 o Wikivoyage anotou MXN 480 (estadual, aceita cartão) + MXN 100 (INAH, só dinheiro) = 580, pagos em dois guichês adjacentes. Horário: todos os dias 08:00–17:00. Escalada: a Pirâmide do Adivinho (35 m) NÃO pode ser escalada (Wikivoyage); um guia mais antigo (Mexperience) ainda falava de subir nela e na Gran Pirámide — informação conflitante e desatualizada; o status da Gran Pirámide não consegui confirmar. COMO IR: 85 km a sudoeste de Mérida (MEX-180 por ~15 km, depois MEX-261 por ~40 km). Ônibus 2ª classe SUR (Mérida→Campeche) às 06:00, 09:00 e meio-dia (fev/2023), ida ~MXN 97, volta 09:30/12:00/15:00/17:00 — horários antigos, confirme. Tren Maya: estações Mérida-Teya ou Maxcanú. Veredito contra Chichén (opinião minha): Uxmal é mais barato (586 vs 697), bem restaurado, com menos gente e mais contato com o mato, mas é o 'segundo prato': se só couber UM sítio, escolha Chichén; se tiver carro e dia sobrando, Uxmal+Puuc compensa pela paisagem; para quem prioriza praia/natureza e noite, é o primeiro corte. Calor: sombra escassa; no 'Puuc' o sol bate forte, leve boné e água.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "08:00 (abertura) ou depois das 15:00; evite 11:00–14:00.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 580,
+        "max": 586,
+        "por": "pessoa",
+        "inclui": "Total INAH + taxa estadual (jan/2026: 586; ago/2025: 100 INAH + 480 estadual). INAH só em dinheiro.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.poresto.com/yucatan/2026/1/7/acceso-a-zonas-arqueologicas-de-yucatan-sube-en-2026-cuanto-cuesta-entrar-a-chichen-itza-uxmal-y-ek-balam.html",
+          "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+          "https://en.wikivoyage.org/wiki/Uxmal"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Pirâmide do Adivinho: subida proibida",
+        "INAH cobra só em dinheiro (Wikivoyage 2025)"
+      ],
+      "pontoPartida": "Mérida → MEX-180 oeste → MEX-261 sul (≈85 km, ~1h15). Ônibus SUR na rodoviária TAME/2ª classe.",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Para o seu perfil (praia/natureza + noite), Uxmal é o primeiro corte se faltar dia; com carro alugado e um dia livre, vale.",
+        "[VALE CADA PESO] Se for: faça Uxmal de manhã e a Ruta Puuc (Kabah/Sayil/Labná) na volta, no mesmo dia.",
+        "Leve dinheiro vivo para o guichê do INAH."
+      ],
+      "alertas": [
+        "Preço varia entre fontes (580 em ago/2025, 586 em jan/2026).",
+        "Horários de ônibus são de 2023: confirme antes."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Uxmal_Pyramid_of_the_Magician.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Sybz",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Uxmal_Pyramid_of_the_Magician.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Uxmal",
+        "https://www.poresto.com/yucatan/2026/1/7/acceso-a-zonas-arqueologicas-de-yucatan-sube-en-2026-cuanto-cuesta-entrar-a-chichen-itza-uxmal-y-ek-balam.html",
+        "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+        "https://www.mexperience.com/?p=5103",
+        "https://en.wikipedia.org/wiki/Uxmal"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Ruta Puuc (Kabah, Sayil, Labná)",
+      "categoria": "passeio",
+      "cidade": "uxmal",
+      "tags": [
+        "maya",
+        "puuc",
+        "carro",
+        "ruinas",
+        "arco-labna",
+        "calor"
+      ],
+      "coords": {
+        "lat": 20.177758,
+        "lng": -89.652178
+      },
+      "descricaoCurta": "Circuito de pequenos sítios Puuc ao sul de Uxmal; ingressos de estrangeiros de MXN 536 (Kabah) a 626 (Sayil/Labná) — cada um.",
+      "descricaoLonga": "Kabah (MXN 536), Sayil (626) e Labná (626) cobram ingressos separados (Riviera Maya News, jan/2026). Sayil: aberto todos os dias 08:00–17:00, último ingresso 16:00; INAH fala em tarifa federal de MXN 145 para estrangeiros (a parte estadual soma o restante); gratuito para mexicanos aos domingos. O circuito é longo (Kabah é ligada a Uxmal por uma antiga sacbé de 18 km; Labná é famosa pelo arco; Xlapak é menor; ainda há a gruta de Loltún). O Wikivoyage cita um tour de ônibus ATS saindo da rodoviária 2ª classe de Mérida às 08:00 (info antiga). Coordenada do item = Sayil. Veredito (opinião): com ingressos de 536–626 por sítio, três paradas somam ~1.800 por pessoa — caro para o perfil econômico; só vale se Uxmal é prioridade e você tem carro.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "ter": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "qua": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "qui": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "sex": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "sab": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)",
+        "dom": "08:00–17:00 (último ingresso 16:00 em Sayil; demais sítios: confirmar)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Saia cedo; vá às 08:00 e emende com Uxmal; o sol aqui é forte (pouca sombra).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 536,
+        "max": 626,
+        "por": "pessoa",
+        "inclui": "Por sítio: Kabah 536, Sayil 626, Labná 626 (jan/2026). Parte federal em Sayil: 145.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+          "https://lugares.inah.gob.mx/en/node/5410"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 913 4034 / +52 999 944 0043",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Carro recomendado — transporte público quase inexistente",
+        "Último ingresso 16:00 (Sayil)"
+      ],
+      "pontoPartida": "Saia de Mérida ou Uxmal; MEX-261 sul até a Carretera Estatal 31 (Ruta Puuc).",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Três ingressos de ~600 para ruínas menores que Uxmal não combinam com orçamento enxuto; se quiser uma amostra, escolha só Kabah ou Labná.",
+        "[VALE CADA PESO] Só com carro alugado, dividindo com o casal, e se você já pagou Uxmal no mesmo dia (sem custo extra de deslocamento)."
+      ],
+      "alertas": [
+        "Preços dos três sítios vêm de uma única matéria (jan/2026).",
+        "Horários de Kabah/Labná não verificados individualmente."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sayil_Palace.jpg/1280px-Sayil_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Gary Todd",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Sayil_Palace.jpg"
+      },
+      "fontes": [
+        "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+        "https://lugares.inah.gob.mx/en/node/5410",
+        "https://en.wikivoyage.org/wiki/Ruta_Puuc",
+        "https://es.wikipedia.org/wiki/Sayil",
+        "https://www.openstreetmap.org/way/26751067"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Ek Balam (zona arqueológica + Cenote X'Canché)",
+      "categoria": "atracao",
+      "cidade": "valladolid",
+      "tags": [
+        "maya",
+        "subir",
+        "acropole",
+        "cenote",
+        "valladolid",
+        "caro"
+      ],
+      "coords": {
+        "lat": 20.891086,
+        "lng": -88.136264
+      },
+      "descricaoCurta": "Única grande pirâmide ainda escalável da região (Acrópole, 106 degraus); ingresso estrangeiro MXN 691–709.",
+      "descricaoLonga": "É possível subir: a Acrópole (106 degraus, escada íngreme e escorregadia) segue aberta à escalada em 2025–2026 (Yucatán Magazine, jul/2025: sem restrição nova depois do acidente de 01/07/2025; Wikivoyage, jun/2026, só adverte sobre os degraus). Preço: jan/2026 = MXN 691 (210 INAH + 481 estadual; Riviera Maya News); jun/2026 = 210 INAH (só dinheiro) + 499 estadual (aceita cartão) = 709 (Wikivoyage). Aberto diariamente 08:00–17:00, bilheteria fecha 16:00. Estacionamento MXN 100; guia ~1 h por MXN 600 (espanhol)/800 (inglês). Cenote X'Canché a 2 km (caminho a pé/bike/triciclo): ingresso extra MXN 170, colete incluso, tirolesas de MXN 100–150; bilheteria do cenote fecha ~15:30 e a água fecha ~16:00 (Wikivoyage, jun/2026). COMO IR: sem ônibus — colectivo em Valladolid (Calle 37 entre 42 e 44, sai a partir de 06:30) a MXN 70/pessoa, ou MXN 280 para o carro inteiro (mar/2025); fica a poucos km de Valladolid. É o único sítio onde subir realmente funciona — por isso é o melhor 'custo-benefício de emoção' do roteiro intenso.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (bilheteria fecha 16:00)",
+        "ter": "08:00–17:00 (bilheteria fecha 16:00)",
+        "qua": "08:00–17:00 (bilheteria fecha 16:00)",
+        "qui": "08:00–17:00 (bilheteria fecha 16:00)",
+        "sex": "08:00–17:00 (bilheteria fecha 16:00)",
+        "sab": "08:00–17:00 (bilheteria fecha 16:00)",
+        "dom": "08:00–17:00 (bilheteria fecha 16:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "08:00 (abertura): subir antes do calor, com degraus secos e menos fila na Acrópole.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 691,
+        "max": 709,
+        "por": "pessoa",
+        "inclui": "Sítio: INAH 210 (só dinheiro) + estadual 481–499. Cenote X'Canché 170 à parte; estacionamento 100.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+          "https://en.wikivoyage.org/wiki/Ek_Balam"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Escalada exige calçado fechado com sola aderente",
+        "Degraus escorregadios, principalmente na descida/chuva",
+        "INAH cobra só em dinheiro"
+      ],
+      "pontoPartida": "Valladolid: colectivo Calle 37 x 42–44 (MXN 70 por pessoa) ou táxi/carro.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se a ideia é SUBIR numa pirâmide maia: aqui é a que dá, e com vista de selva. Faça de manhã e emende o Cenote X'Canché.",
+        "[CORTE SE APERTAR] Se já pagou Chichén no mesmo trecho e não liga para escalar, é o ingresso mais caro de ruína menor (~700)."
+      ],
+      "alertas": [
+        "Preço total em 2026 oscila entre 691 e 709 (fontes diferentes).",
+        "Acidente grave em 01/07/2025: o INAH 'exortou cuidado'; a política pode mudar — confirme na bilheteria."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Acropolis%2C_Ek_Balam%2C_Yucatan%2C_Mexico.jpg/1280px-Acropolis%2C_Ek_Balam%2C_Yucatan%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acropolis,_Ek_Balam,_Yucatan,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Ek_Balam",
+        "https://yucatanmagazine.com/ek-balam-pyramid-accident/",
+        "https://www.poresto.com/yucatan/2025/7/1/turista-cae-de-una-piramide-en-la-zona-arqueologica-de-ek-balam-en-yucatan.html",
+        "https://www.rivieramayanews.mx/yucatan-imposes-highest-archaeological-fees-in-mexico-for-foreign-tourists/",
+        "https://es.wikipedia.org/wiki/Ek_Balam"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Convento de San Bernardino de Siena e Calzada de los Frailes (Valladolid)",
+      "categoria": "atracao",
+      "cidade": "valladolid",
+      "tags": [
+        "colonial",
+        "convento",
+        "valladolid",
+        "caminhada",
+        "barato",
+        "fotos"
+      ],
+      "coords": {
+        "lat": 20.6858823,
+        "lng": -88.2100007
+      },
+      "descricaoCurta": "Convento franciscano do séc. XVI (1552–1560) no bairro de Sisal, a ~1 km (10–15 min a pé) do centro pela charmosa Calzada de los Frailes.",
+      "descricaoLonga": "Convento franciscano (construído 1552–1560) no barrio de Sisal, Calle 41-A x 50. Horário: 08:00–18:00 (Wikivoyage 2024) ou até 19:00 (Zona Turística) — fontes divergem. Preço (Wikivoyage, fev/2024): MXN 40 de segunda a sábado e 20 aos domingos; não consegui fonte oficial/mais recente. A Calzada de los Frailes (Calle 41-A) liga o centro ('cinco calles') ao convento: casas coloniais coloridas, ótimo para caminhar no fim da tarde e para fotos, com restaurantes e bares em sequência. Coordenada do item = convento (OSM).",
+      "duracao": {
+        "min": 30,
+        "tipica": 45,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "08:00–18:00 (outra fonte: até 19:00)",
+        "ter": "08:00–18:00 (outra fonte: até 19:00)",
+        "qua": "08:00–18:00 (outra fonte: até 19:00)",
+        "qui": "08:00–18:00 (outra fonte: até 19:00)",
+        "sex": "08:00–18:00 (outra fonte: até 19:00)",
+        "sab": "08:00–18:00 (outra fonte: até 19:00)",
+        "dom": "08:00–18:00 (outra fonte: até 19:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Final da tarde (calor menor) combinando a Calzada a pé; igreja abre cedo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 20,
+        "max": 40,
+        "por": "pessoa",
+        "inclui": "Convento: 40 (seg–sáb) e 20 (dom) segundo Wikivoyage 2024. Calzada é rua pública (grátis).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Respeitar roupas adequadas em área de culto"
+      ],
+      "pontoPartida": "A pé da praça central pela Calzada de los Frailes (~1 km, calculado pelas coordenadas OSM/Wikipedia).",
+      "dicasAgente": [
+        "[VALE CADA PESO] É praticamente de graça e rende fotos/uma tarde tranquila; ancore o fim do dia em Valladolid aqui.",
+        "[CORTE SE APERTAR] A parte paga (convento) só se sobrar tempo; a Calzada sozinha já entrega o cenário."
+      ],
+      "alertas": [
+        "Preço e horário do convento são de uma fonte colaborativa (2024); sem checagem oficial.",
+        "Projeções noturnas no convento (quarta–domingo) apareceram só em um resumo de busca: não confirmado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Convento_de_San_Bernardino_de_Siena%2C_Valladolid%2C_Yucatan%2C_Mexico_Abril_2021.jpg/1280px-Convento_de_San_Bernardino_de_Siena%2C_Valladolid%2C_Yucatan%2C_Mexico_Abril_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Convento_de_San_Bernardino_de_Siena,_Valladolid,_Yucatan,_Mexico_Abril_2021.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)",
+        "https://www.zonaturistica.com/que-hacer-en/yucatan/valladolid/ex-convento-de-san-bernardino-de-siena",
+        "https://www.openstreetmap.org/relation/5555891",
+        "https://www.openstreetmap.org/way/26658273"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Zací (Valladolid)",
+      "categoria": "natureza",
+      "cidade": "valladolid",
+      "tags": [
+        "cenote",
+        "urbano",
+        "barato",
+        "nadar",
+        "valladolid"
+      ],
+      "coords": {
+        "lat": 20.6916702,
+        "lng": -88.1973624
+      },
+      "descricaoCurta": "Cenote no meio da cidade, a poucos quarteirões da praça; entrada MXN 50–60.",
+      "descricaoLonga": "Cenote aberto em um parque público a poucos metros da praça central, com passarela sob cortina de estalactites; dá para pular de 6 m. Wikivoyage (fev/2024): MXN 60, 09:00–17:00, pode haver espera e pedem para não ficar mais de 1 h quando lota; guia 2026 de cenotes: MXN 50, 08:00–18:00. Restaurante no local. Telefone (Wikivoyage): +52 985 856 0721.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "ter": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "qua": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "qui": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "sex": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "sab": "09:00–17:00 (outra fonte: 08:00–18:00)",
+        "dom": "09:00–17:00 (outra fonte: 08:00–18:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura ou fim da tarde (lota ao meio-dia).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 50,
+        "max": 60,
+        "por": "pessoa",
+        "inclui": "Entrada simples; consumo mínimo não confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)",
+          "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 985 856 0721",
+        "whatsapp": "",
+        "site": "https://www.facebook.com/CenoteZaci15/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Colete e ducha antes de entrar (padrão em cenotes)"
+      ],
+      "pontoPartida": "Calle 37 nº 189-B (Wikivoyage), a cerca de 500 m da praça principal.",
+      "dicasAgente": [
+        "[VALE CADA PESO] O melhor custo-benefício de cenote da viagem: refresco no calor de Valladolid por ~MXN 50.",
+        "Combine com a Calzada de los Frailes e jantar no centro."
+      ],
+      "alertas": [
+        "Preço varia entre 50 e 60 conforme a fonte; sem fonte oficial."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cenote_Zac%C3%AD_03.jpg/1280px-Cenote_Zac%C3%AD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Haakon S. Krohn",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Zac%C3%AD_03.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)",
+        "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/",
+        "https://www.openstreetmap.org/way/50510578",
+        "https://en.wikipedia.org/wiki/Valladolid,_Yucat%C3%A1n"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Oxman (Hacienda San Lorenzo Oxman)",
+      "categoria": "natureza",
+      "cidade": "valladolid",
+      "tags": [
+        "cenote",
+        "hacienda",
+        "tirolesa",
+        "piscina",
+        "restaurante"
+      ],
+      "coords": {
+        "lat": 20.6675605,
+        "lng": -88.230058
+      },
+      "descricaoCurta": "Cenote aberto com cipós/tirolesa dentro de uma hacienda, a ~10 min de Valladolid; MXN 150–250.",
+      "descricaoLonga": "Fica dentro da Hacienda San Lorenzo Oxman (piscina, redes, restaurante), a cerca de 10 min de carro de Valladolid. Guia Roam & Thrive (atualizado 14/12/2025): ingresso básico MXN 150; versão de 250 inclui crédito de MXN 50 no restaurante; colete obrigatório; aberto 07:00–17:00 todos os dias; não aceita cartão. Guia Mérida Experiences (2026): MXN 200 só cenote / 400 com refeição, 09:00–17:00. CONSUMO MÍNIMO: não encontrei exigência de consumo mínimo — o que existe são ingressos com crédito de consumo. Buffet de fim de semana ~MXN 300 (fonte de busca, não confirmada).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "ter": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "qua": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "qui": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "sex": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "sab": "09:00–17:00 (outra fonte: 07:00–17:00)",
+        "dom": "09:00–17:00 (outra fonte: 07:00–17:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (evita grupos de tour e o calor).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 250,
+        "por": "pessoa",
+        "inclui": "150 só cenote; 250 com crédito de MXN 50 no restaurante (dez/2025). Outro guia 2026 fala em 200/400.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://roamandthrive.com/cenote-oxman-valladolid-mexico",
+          "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Dinheiro vivo (cartão não aceito)",
+        "Colete obrigatório"
+      ],
+      "pontoPartida": "Valladolid → Oxman (~10 min de carro, ~30 min de bicicleta); táxi com preço combinado antes.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Cenote mais 'aventura' (cipós, pulo) por pouco; bom para casal jovem — vá cedo.",
+        "[CORTE SE APERTAR] Se já visitou Zací + Suytun/Yokdzonot, é o mais fácil de pular."
+      ],
+      "alertas": [
+        "Preço e horário divergem entre as duas fontes.",
+        "Sem fonte oficial (sem site/telefone verificados)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Swimming_in_Oxman_Cenote.jpg/1280px-Swimming_in_Oxman_Cenote.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Swimming_in_Oxman_Cenote.jpg"
+      },
+      "fontes": [
+        "https://roamandthrive.com/cenote-oxman-valladolid-mexico",
+        "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/",
+        "https://www.openstreetmap.org/way/265533249"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Suytun (a foto do raio de sol)",
+      "categoria": "natureza",
+      "cidade": "valladolid",
+      "tags": [
+        "cenote",
+        "foto",
+        "instagram",
+        "fila",
+        "valladolid"
+      ],
+      "coords": {
+        "lat": 20.6989866,
+        "lng": -88.1245704
+      },
+      "descricaoCurta": "O cenote da plataforma com raio de luz; vá no fim da manhã para a foto, mas cedo para fugir da fila.",
+      "descricaoLonga": "Cenote semi-fechado com a plataforma central iluminada por um feixe de luz; a 9 km de Valladolid (~15 min, MEX-180 livre, desvio no km 8 para Tikuch), estacionamento grátis. Horário: 09:00–17:00 (guia 2026) ou 08:00–17:00 (blog). Preço: guia Mérida Experiences (2026) = MXN 280; um blog antigo cita 80 — fontes divergem muito; planeje 280. Colete incluso. A luz cai mais certeiro entre 12:00 e 14:00, que é justamente o horário de maior fila; chegando na abertura (09:00) a luz é fraca mas não há espera. Proibido usar protetor solar/repelente na água.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "09:00–17:00",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura para evitar fila; 12:00–14:00 para a luz (lotado).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 80,
+        "max": 280,
+        "por": "pessoa",
+        "inclui": "Colete incluso. 280 (guia 2026) vs 80 (blog antigo): fontes divergem.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/",
+          "https://www.vamonostomexico.com/travel-guide/cenote-suytun/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Sem protetor solar/repelente na água",
+        "Colete obrigatório"
+      ],
+      "pontoPartida": "Valladolid → Hwy 180 (livre) ~9 km; km 8 virar para Tikuch.",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Pelo preço (~280) e pela fila do raio de sol, é o cenote mais 'foto' e menos 'banho'. Zací custa 1/5 disso.",
+        "[VALE CADA PESO] Só se a foto do raio de luz for prioridade — vá às 12:00 e aceite a fila ou às 09:00 e ignore o raio."
+      ],
+      "alertas": [
+        "Preço pouco confiável (80 vs 280).",
+        "Duração é estimativa minha."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Cenote_Suytun_2009_06.jpg/1280px-Cenote_Suytun_2009_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Daniel Lobo",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Suytun_2009_06.jpg"
+      },
+      "fontes": [
+        "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/",
+        "https://www.vamonostomexico.com/travel-guide/cenote-suytun/",
+        "https://www.openstreetmap.org/node/3680984963"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenote Yokdzonot (cooperativa de mulheres maias)",
+      "categoria": "natureza",
+      "cidade": "chichen-itza",
+      "tags": [
+        "cenote",
+        "comunitario",
+        "tirolesa",
+        "culinaria",
+        "chichen"
+      ],
+      "coords": {
+        "lat": 20.7070013,
+        "lng": -88.7309127
+      },
+      "descricaoCurta": "Cenote comunitário administrado por cooperativa de mulheres maias (Zaaz Koolen Haa), a menos de 20 km de Chichén Itzá.",
+      "descricaoLonga": "Cenote de ~40 m de diâmetro e ~45 m de profundidade, com plataforma de salto e tirolesa, restaurante e aulas de cozinha maia (panuchos, empanadas, sopes) — gerido pela cooperativa Zaaz Koolen Haa (~16 integrantes, parte da rede APTC); a renda é dividida entre as famílias e 10% vai para obras da comunidade (Third Eye Mom, 2024). Preço de entrada e horário: não consegui confirmar em fonte aberta (resumos de busca falavam em 100–350 MXN, sem validação) — consulte a cooperativa na hora. Fica em Yokdzonot (Calle 20), a oeste de Chichén Itzá, na rota Mérida–Chichén.",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço não confirmado por fonte aberta.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://thirdeyemom.com/2024/04/28/a-maya-cooking-class-and-visit-to-the-cenote-yokdzonot-in-mexicos-yucatan-peninsula/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Preço/horário a confirmar no local"
+      ],
+      "pontoPartida": "Na estrada Mérida–Chichén (Calle 20, Yokdzonot), a ~20 km antes de Chichén Itzá.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se vai de carro e passa por ali: dinheiro vai para a comunidade, menos tour-ônibus que o Ik Kil e opção de almoço regional.",
+        "[CORTE SE APERTAR] Sem preço confirmado, não monte o roteiro em torno dele; é um 'se der'."
+      ],
+      "alertas": [
+        "Preço e horário NÃO verificados (por isso preco=0).",
+        "Coordenada é do cenote no OpenStreetMap."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cenote_Yokdzonot-1_%28473922163%29.jpg/1280px-Cenote_Yokdzonot-1_%28473922163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ryan from Toronto, Canada",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Yokdzonot-1_(473922163).jpg"
+      },
+      "fontes": [
+        "https://thirdeyemom.com/2024/04/28/a-maya-cooking-class-and-visit-to-the-cenote-yokdzonot-in-mexicos-yucatan-peninsula/",
+        "https://www.openstreetmap.org/way/172230040",
+        "https://es.wikipedia.org/wiki/Yokdzonot_(Yaxcab%C3%A1)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenotes de Cuzamá (passeio de 'truck' puxado a cavalo)",
+      "categoria": "passeio",
+      "cidade": "merida",
+      "tags": [
+        "cenote",
+        "cuzama",
+        "truck",
+        "cavalo",
+        "bem-estar-animal",
+        "meia-manha"
+      ],
+      "coords": {
+        "lat": 20.711111,
+        "lng": -89.325278
+      },
+      "descricaoCurta": "Três cenotes (Chelentún, Chansinic'ché, Bolonchoojol) acessados em carrinho sobre trilhos de henequém puxado por cavalo; ~MXN 400–600 por carrinho (1–4 pessoas).",
+      "descricaoLonga": "Como funciona: você estaciona no paradero de Chunkanán, entra em uma plataforma de madeira sobre os antigos trilhos do henequém puxada por cavalo e percorre ~7 km até três cenotes (Chelentún, Chansinic'ché/Chakzinik'ché, Bolonchoojol/Bolón-Chohol), com cerca de 30 min em cada. Preço: MXN 400 por carrinho de até 4 pessoas (Off Path Travels, 2022); outra fonte fala em 400–600 por grupo, negociável com os guias locais (Programa Destinos México). Inclui carrinho, guia e acesso aos três cenotes (colete costuma estar incluso). Horário: 08:00–17:00 (Programa Destinos; fonte antiga fala 08:00–16:00). Da cidade: ~1 h de carro de Mérida (48 km); alternativas de colectivo do terminal Noreste e mototáxi para o paradero (preços de 2013/2022, desatualizados). Melhor de novembro a abril (menos chuva e calor). BEM-ESTAR ANIMAL: visitantes e blogs relatam desconforto com os cavalos/mulas (alguns relatam animais mal cuidados); Santa Bárbara (Homún) usa mulas em esquema semelhante. Coordenada = vilarejo de Chunkanán (Wikipedia).",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "ter": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "qua": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "qui": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "sex": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "sab": "08:00–16:00 (fonte mais recente: até 17:00)",
+        "dom": "08:00–16:00 (fonte mais recente: até 17:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (luz natural nas aberturas; menos calor); novembro–abril.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 600,
+        "por": "grupo",
+        "inclui": "Carrinho para até 4 pessoas, ida e volta, guia e acesso aos 3 cenotes. Negociável.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.offpathtravels.com/cenotes-cuzama/",
+          "https://programadestinosmexico.com/cenotes-de-cuzama-yucatan/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Carrinho até 4 pessoas",
+        "Roupa de banho e colete",
+        "Dinheiro vivo"
+      ],
+      "pontoPartida": "Paradero Cenotes Chunkanán (Cuzamá), 48 km ao sudeste de Mérida (~1 h).",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Se bem-estar animal é um critério seu, evite: os relatos de cavalos mal cuidados são recorrentes; prefira cenotes a pé (Zací, Yokdzonot).",
+        "[VALE CADA PESO] Se aceitar o ponto ético: ~100–150 por pessoa (carrinho dividido por dois) é barato para 3 cenotes bem diferentes, perto de Mérida.",
+        "Negocie o preço do carrinho e confirme se colete está incluso."
+      ],
+      "alertas": [
+        "Preço baseado em fontes de 2022 (e uma de 2013). Pode ter subido.",
+        "Não achei site oficial ativo para confirmar tarifa (o site 'lostrescenotesdecuzama.com.mx' abriu sem conteúdo extraível)."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cenote_Chan_Sinic_Che2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Yodigo",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Chan_Sinic_Che2.jpg"
+      },
+      "fontes": [
+        "https://www.offpathtravels.com/cenotes-cuzama/",
+        "https://programadestinosmexico.com/cenotes-de-cuzama-yucatan/",
+        "https://es.wikipedia.org/wiki/Chunkan%C3%A1n_(Yucat%C3%A1n)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Cenotes de Santa Bárbara (Homún)",
+      "categoria": "natureza",
+      "cidade": "merida",
+      "tags": [
+        "cenote",
+        "homun",
+        "mula",
+        "restaurante",
+        "meia-manha"
+      ],
+      "coords": {
+        "lat": 20.7376176,
+        "lng": -89.3000846
+      },
+      "descricaoCurta": "Três cenotes (Cascabel, Chaksikin, Xooch) em Homún, a ~1 h de Mérida; MXN 250 (tour de truck) a ~600 (com refeição).",
+      "descricaoLonga": "Complexo de 3 cenotes (Cascabel, Chaksikin, Xooch; alguns guias citam um quarto, Pool Cocom) em Homún, com restaurante. Yucatán Travel: tour de ~4 h em 'truck' puxado por mula a MXN 250 por pessoa, 08:00–19:00; reservas +52 999 965 1198 / Facebook cenotessantabarbara. Guias de 2025–2026: MXN 450–600 (pacotes com refeição), 09:00–17:00 (Diario de Yucatán, set/2025). Faixa honesta: 250–600 dependendo do pacote. É a alternativa de 'cenote de caverna' mais perto de Mérida, sem a roleta de preço e com bastante grupo de tour.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "ter": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "qua": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "qui": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "sex": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "sab": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)",
+        "dom": "09:00–17:00 (Yucatán Travel diz 08:00–19:00)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Abertura (menos grupos) e fora de feriados.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 600,
+        "por": "pessoa",
+        "inclui": "250 tour de truck (Yucatán Travel); 450–600 pacotes com comida/guia (2025–2026).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://yucatan.travel/en/experience/003-cenoteando-en-truck",
+          "https://www.yucatan.com.mx/merida/2025/09/05/cenotes-cerca-de-merida-para-visitar-en-el-puente-de-septiembre.html",
+          "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 965 1198",
+        "whatsapp": "",
+        "site": "https://www.facebook.com/cenotessantabarbara/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Roupa de banho; sem animais de estimação",
+        "Não acessível para cadeira de rodas"
+      ],
+      "pontoPartida": "Homún (~45–50 min de Mérida). Ônibus/colectivo: não verificados.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se for escolher UM cenote de caverna perto de Mérida e não quiser Cuzamá (cavalos).",
+        "[CORTE SE APERTAR] O pacote com refeição (450–600) é caro; vá pelo tour básico de 250 ou só o ingresso."
+      ],
+      "alertas": [
+        "Faixa de preço bem larga — fontes de naturezas diferentes (oficial vs. guia).",
+        "Coordenada é do restaurante/entrada do complexo no OpenStreetMap."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Cenote_Santa_Barbara%2C_Homun%2C_Yucatan%2C_Mexico.jpg/1280px-Cenote_Santa_Barbara%2C_Homun%2C_Yucatan%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Santa_Barbara,_Homun,_Yucatan,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://yucatan.travel/en/experience/003-cenoteando-en-truck",
+        "https://www.yucatan.com.mx/merida/2025/09/05/cenotes-cerca-de-merida-para-visitar-en-el-puente-de-septiembre.html",
+        "https://meridaexperiences.com/guia-mejores-cenotes-yucatan/",
+        "https://www.openstreetmap.org/way/1214342662"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Semana Meridana: eventos gratuitos por dia da semana (Mérida)",
+      "categoria": "experiencia",
+      "cidade": "merida",
+      "tags": [
+        "gratis",
+        "noite",
+        "cultura",
+        "vaqueria",
+        "serenata",
+        "noche-mexicana",
+        "mais-vida-noturna-de-merida"
+      ],
+      "coords": {
+        "lat": 20.9670748,
+        "lng": -89.6237445
+      },
+      "descricaoCurta": "Programação gratuita todo dia à noite no Centro: vaquería (seg), serenata (qui), Noche Mexicana (sáb), Mérida en Domingo (dom).",
+      "descricaoLonga": "Programa municipal 'Semana Meridana', todos gratuitos. SEG: Vaquería Yucateca nos Bajos del Palacio Municipal, ~21:00–22:00. TER: Trova no Centro Cultural Olimpo (~20:00–21:00) e/ou Remembranzas Musicales (dança/danzón) no Parque de Santiago (~20:30–21:30). QUA: 'Diálogos del Conquistador', video mapping na Casa de Montejo, ~20:00–21:00 (Posta diz 20:30). QUI: Serenata Yucateca no Parque de Santa Lucía, ~21:00–22:00 (a mais popular, mais de 60 anos de história). SEX: demonstração de Pok ta Pok (jogo de bola maia) na Catedral/Plaza Grande, ~20:00–21:00; mais video mapping 'Islas de Luz' no Monumento a la Patria (~20:00–22:00; a Posta diz que é só no 1º e 3º sábados — fontes divergem). SÁB: Noche Mexicana no Remate de Paseo de Montejo, ~20:00–23:00 (shows folclóricos, artesanato, comida regional). DOM: Biciruta na Paseo de Montejo/Calle 60 (~08:00–12:30) e Mérida en Domingo na Plaza Grande (~09:00–21:00, feira de artesanato/comida). Quinta a domingo: Distrito Mejorada (feirinhas, arte e música ao vivo perto do Parque de La Mejorada, Posta). Os horários exatos variam um pouco entre as fontes; confirme no Yucatán Today ou no módulo de turismo.",
+      "duracao": {
+        "min": 45,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "21:00–22:00 Vaquería (Palacio Municipal)",
+        "ter": "20:00–21:00 Trova (Olimpo); 20:30–21:30 Remembranzas (Santiago)",
+        "qua": "20:00–21:00 Diálogos del Conquistador (Casa de Montejo)",
+        "qui": "21:00–22:00 Serenata (Santa Lucía)",
+        "sex": "20:00–21:00 Pok ta Pok; 20:00–22:00 Islas de Luz",
+        "sab": "20:00–23:00 Noche Mexicana (Paseo de Montejo)",
+        "dom": "09:00–21:00 Mérida en Domingo; Biciruta 08:00–12:30"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Início da noite (20:00–21:00): o calor cede e a brisa do Golfo chega.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://yucatantoday.com/en/a-week-in-merida-the-magic-never-ends",
+          "https://www.posta.com.mx/yucatan/que-eventos-tiene-la-semana-meridana-consulta-la-cartelera/vl2236463",
+          "https://www.posta.com.mx/yucatan/que-actividades-y-eventos-gratis-hay-en-el-centro-historico-de-merida/vl2152608",
+          "https://www.yucatan.com.mx/merida/2025/04/10/que-hacer-en-merida-lugares-para-visitar-gratis.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "https://www.merida.gob.mx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Chegue 15–20 min antes (lota)",
+        "Atenção a bolsos em multidões"
+      ],
+      "pontoPartida": "Plaza Grande / Palacio Municipal / Parque de Santa Lucía / Remate de Paseo de Montejo (cada evento tem local próprio).",
+      "dicasAgente": [
+        "[VALE CADA PESO] É grátis e é praticamente a 'vida noturna' principal de Mérida: monte as noites do roteiro em torno dele (quinta=Santa Lucía, sábado=Noche Mexicana, segunda=Vaquería).",
+        "Faça as noites de terça/quarta/sexta como plano B barato (trova, video mapping, Pok ta Pok).",
+        "Jante antes na área (Calle 60/62) ou compre marquesitas/tamales de rua."
+      ],
+      "alertas": [
+        "Horários/locais variam por fonte — algumas fontes são notícias de 2025/2026, outras de anos anteriores.",
+        "Programação pode mudar em feriados e chuvas."
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jarana_Yucateca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "Yodigo",
+        "licenca": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jarana_Yucateca.jpg"
+      },
+      "fontes": [
+        "https://yucatantoday.com/en/a-week-in-merida-the-magic-never-ends",
+        "https://www.posta.com.mx/yucatan/que-eventos-tiene-la-semana-meridana-consulta-la-cartelera/vl2236463",
+        "https://www.posta.com.mx/yucatan/que-actividades-y-eventos-gratis-hay-en-el-centro-historico-de-merida/vl2152608",
+        "https://www.yucatan.com.mx/merida/2025/04/10/que-hacer-en-merida-lugares-para-visitar-gratis.html",
+        "https://www.openstreetmap.org/way/1296783856"
+      ],
+      "confianca": "verificado"
+    },
+    {
+      "nome": "Paseo de Montejo (+ Palacio Cantón e Monumento a la Patria)",
+      "categoria": "atracao",
+      "cidade": "merida",
+      "tags": [
+        "avenida",
+        "mansoes",
+        "passeio",
+        "bike",
+        "museu",
+        "noite"
+      ],
+      "coords": {
+        "lat": 20.9783483,
+        "lng": -89.618942
+      },
+      "descricaoCurta": "Bulevar de mansões inspirado nos Champs-Élysées, com Palacio Cantón (museu regional) e Monumento a la Patria; aos domingos vira ciclovia.",
+      "descricaoLonga": "Avenida de mais de 6 km inspirada nos Champs-Élysées (projeto de 1888; trecho inicial pronto em 1904), cheia de mansões do boom do henequém, o Monumento a los Montejo, o Monumento a la Patria (obra de Rómulo Rozo) e o Palacio Cantón, hoje Museo Regional de Antropología (Wikipedia). Wikivoyage (dados de 2015, desatualizados): Palacio Cantón terça–domingo 08:00–17:00, MXN 48 (grátis aos domingos para mexicanos/residentes); Quinta Montes Molina com visitas guiadas ~MXN 60; tour gratuito das mansões às 18:30 saindo do módulo de turismo em Paseo de Montejo 56A x 33A. Aos domingos 08:00–12:30 a avenida e a Calle 60 fecham para carros (Biciruta); à noite há a Noche Mexicana no Remate (sábado). Uma família vende tamales todo fim de tarde no Monumento a la Patria (Wikivoyage). Passeio de calesa ~45 min por ~MXN 350 (Wikivoyage; preço antigo).",
+      "duracao": {
+        "min": 60,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": "Biciruta 08:00–12:30; rua aberta o dia todo"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Fim da tarde/noite (mais fresco) ou domingo de manhã (Biciruta).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 48,
+        "por": "pessoa",
+        "inclui": "Avenida pública é grátis; Palacio Cantón MXN 48 (2015, Wikivoyage — confirmar).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+          "https://es.wikipedia.org/wiki/Paseo_de_Montejo"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Calor extremo ao meio-dia; leve água",
+        "Preços/horários de museus podem ter mudado desde 2015"
+      ],
+      "pontoPartida": "A pé/Uber do Centro; ônibus 'Paseo de Montejo/Altabrisa' saem da Calle 56 (Wikivoyage).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Grátis e visual: ande no fim da tarde, pare no Palacio Cantón se tiver 1 hora, termine na Noche Mexicana (sábado).",
+        "[CORTE SE APERTAR] Calesa, tour de ônibus (Turibus ~MXN 120 em 2016) e museus pagos: o bulevar a pé já cumpre o roteiro."
+      ],
+      "alertas": [
+        "Preços de museu e do Turibus vêm de dados antigos (2015–2016)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Palacio_Cant%C3%B3n_2016_Merida_Yucatan_Mexico_02.jpg/1280px-Palacio_Cant%C3%B3n_2016_Merida_Yucatan_Mexico_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Gildardo Sánchez",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palacio_Cant%C3%B3n_2016_Merida_Yucatan_Mexico_02.jpg"
+      },
+      "fontes": [
+        "https://es.wikipedia.org/wiki/Paseo_de_Montejo",
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://www.openstreetmap.org/way/28680201",
+        "https://www.openstreetmap.org/way/236526502"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Gran Museo del Mundo Maya",
+      "categoria": "museu",
+      "cidade": "merida",
+      "tags": [
+        "museu",
+        "maya",
+        "ar-condicionado",
+        "chuva",
+        "indoor"
+      ],
+      "coords": {
+        "lat": 21.0343902,
+        "lng": -89.6285334
+      },
+      "descricaoCurta": "Museu moderno de cultura maia (abriu em 2012) ao norte de Mérida; MXN 100–200, fecha às terças.",
+      "descricaoLonga": "Museu de arquitetura inspirada no 'Ninho de Pássaro' de Pequim (Wikivoyage), com salas como 'Mayas de Hoy', 'Mayas de Ayer' e 'Mayas Ancestrales', teatro Mayamax e estacionamento grátis. Horário oficial: quarta a segunda, 09:00–17:00 (ADN40 set/2026; site oficial); fecha às terças. Preço: ADN40 (30/09/2026) cita 'general' MXN 200 e mexicanos adultos MXN 100; idosos mexicanos 25. Wikivoyage (dados antigos) citava MXN 150 para estrangeiros. A exposição permanente leva ~2 h. Fica a ~7 km ao norte do Centro (cálculo pelas coordenadas OSM). Telefone: (999) 341 04 30 ext. 1003/1027. Não consegui confirmar o 'show de luz e som' noturno que apareceu em uma única busca.",
+      "duracao": {
+        "min": 90,
+        "tipica": 120,
+        "max": 180
+      },
+      "horarios": {
+        "seg": "09:00–17:00",
+        "ter": "Fechado",
+        "qua": "09:00–17:00",
+        "qui": "09:00–17:00",
+        "sex": "09:00–17:00",
+        "sab": "09:00–17:00",
+        "dom": "09:00–17:00"
+      },
+      "diasFechados": [
+        "terça"
+      ],
+      "melhorHorario": "Tarde quente (13:00–16:00): ótimo refúgio com ar-condicionado.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 100,
+        "max": 200,
+        "por": "pessoa",
+        "inclui": "Geral 200 / mexicanos adultos 100 (set/2026). Para estrangeiro assuma ~200; antigo Wikivoyage: 150.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.adn40.mx/mexico/2026-09-30/los-adultos-mayores-pagan-25-pesos-el-museo-maya-de-merida-que-conviene-visitar-durante-el-paseo-de-las-animas/",
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 341 0430",
+        "whatsapp": "",
+        "site": "https://www.granmuseodelmundomaya.com.mx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Fechado às terças",
+        "Longe do Centro (Uber/táxi)"
+      ],
+      "pontoPartida": "Calle 60 Norte nº 299-E, Unidad Revolución. Uber/Didi do Centro (~7 km).",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Para perfil praia/noite/compras e ritmo intenso, é o primeiro museu a cortar; a Casa de Montejo e o Palacio Cantón dão cultura barata no Centro.",
+        "[VALE CADA PESO] Só em dia de chuva ou calor extremo, para ocupar 2–3 h em ar-condicionado."
+      ],
+      "alertas": [
+        "Preço para estrangeiro não foi detalhado na fonte — 200 é inferência do 'geral'.",
+        "Show noturno não confirmado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Gran_Museo_del_Mundo_Maya_-_Dic_2018_01.jpg/1280px-Gran_Museo_del_Mundo_Maya_-_Dic_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Gildardo Sánchez",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Gran_Museo_del_Mundo_Maya_-_Dic_2018_01.jpg"
+      },
+      "fontes": [
+        "https://www.granmuseodelmundomaya.com.mx",
+        "https://www.adn40.mx/mexico/2026-09-30/los-adultos-mayores-pagan-25-pesos-el-museo-maya-de-merida-que-conviene-visitar-durante-el-paseo-de-las-animas/",
+        "https://yucatantoday.com/en/directory/galleries-and-museums/great-museum-of-the-mayan-world",
+        "https://www.openstreetmap.org/way/533677673"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Plaza Grande, Catedral e Palacios (Centro Histórico de Mérida)",
+      "categoria": "atracao",
+      "cidade": "merida",
+      "tags": [
+        "centro",
+        "praca",
+        "catedral",
+        "gratis",
+        "colonial",
+        "palacios"
+      ],
+      "coords": {
+        "lat": 20.9670748,
+        "lng": -89.6237445
+      },
+      "descricaoCurta": "Coração de Mérida: praça, Catedral de San Ildefonso (1561–1599), Palacio de Gobierno com murais e Palacio Municipal.",
+      "descricaoLonga": "Praça central (antigo centro maia de T'Hó) rodeada pela Catedral de San Ildefonso (primeira catedral da América continental; obra de 1561–1599 com pedras do templo maia), pelo Palacio de Gobierno (murais de Fernando Castro Pacheco; ~08:00–22:00, grátis — dado de 2015), pelo Palacio Municipal e pela Casa de Montejo. Horários da catedral divergem: 06:00–12:00 e 16:00–19:00 (Wikivoyage 2015) vs 07:30–13:00 e 17:00–20:00 (Diario de Yucatán 2025). Perto: MACAY (arte contemporânea, Pasaje de la Revolución), Palacio de la Música (aberto 2018; 10:00–16:00, fecha seg/ter segundo Wikivoyage) e o módulo de turismo no Palacio Municipal (08:00–20:00; tour gratuito em inglês/espanhol às 09:30 — dado de 2015). Domingo: ruas fechadas e feira de artesanato/comida (Mérida en Domingo). Tamales e marquesitas nos arredores.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (09:30 tour grátis) ou noite (iluminada, eventos).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito (praça/catedral/Palacio de Gobierno).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+          "https://www.yucatan.com.mx/merida/2025/04/10/que-hacer-en-merida-lugares-para-visitar-gratis.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Respeitar roupas em culto",
+        "Bolsos em multidão (Policía Turística: +52 999 942 0060)"
+      ],
+      "pontoPartida": "Calle 60 x 61 (a catedral e o Zócalo ficam nessa esquina).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Grátis; todo roteiro passa por aqui. Use como ponto de encontro de eventos noturnos.",
+        "Faça o free walking tour do módulo de turismo só se o horário bater (dados de 2015)."
+      ],
+      "alertas": [
+        "Horários/valores vêm de Wikivoyage com data antiga — conferir no local."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg/1280px-Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Cecilia Ortiz",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://www.yucatan.com.mx/merida/2025/04/10/que-hacer-en-merida-lugares-para-visitar-gratis.html",
+        "https://www.openstreetmap.org/way/1296783856",
+        "https://www.openstreetmap.org/way/31296521",
+        "https://es.wikipedia.org/wiki/Casa_de_los_Montejo"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Museo Casa de Montejo (Casa de los Montejo)",
+      "categoria": "museu",
+      "cidade": "merida",
+      "tags": [
+        "museu",
+        "colonial",
+        "gratis",
+        "plaza-grande",
+        "video-mapping"
+      ],
+      "coords": {
+        "lat": 20.9661816,
+        "lng": -89.6240304
+      },
+      "descricaoCurta": "Palácio de 1549 dos conquistadores Montejo na Plaza Grande; entrada gratuita e video mapping às quartas à noite.",
+      "descricaoLonga": "Palácio de Francisco de Montejo, datado de 1549, remodelado em 1850; os descendentes moraram aqui até 1978. O térreo funciona como agência bancária, mas o interior restaurado abre como museu: Wikivoyage (dado de 2015) informa terça–sábado 10:00–19:00 e domingo 10:00–14:00, entrada gratuita. Às quartas à noite acontece o video mapping 'Diálogos del Conquistador' na fachada (Semana Meridana). Telefone listado: +52 999 253 6732.",
+      "duracao": {
+        "min": 20,
+        "tipica": 30,
+        "max": 60
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "10:00–19:00",
+        "qua": "10:00–19:00",
+        "qui": "10:00–19:00",
+        "sex": "10:00–19:00",
+        "sab": "10:00–19:00",
+        "dom": "10:00–14:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Antes do almoço.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Gratuito (Wikivoyage, 2015).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 253 6732",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Horários antigos — segunda sem informação"
+      ],
+      "pontoPartida": "Calle 63 nº 506, ao lado da Plaza Grande.",
+      "dicasAgente": [
+        "[VALE CADA PESO] 20–30 min grátis, ao lado da praça; combina com o video mapping de quarta.",
+        "Segunda-feira: sem dado de horário; ligue antes."
+      ],
+      "alertas": [
+        "Dados de horário/preço são de 2015 (Wikivoyage)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg/1280px-Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Cecilia Ortiz",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_M%C3%A9rida_-_Casa_Montejo_2015.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://www.openstreetmap.org/relation/17925035",
+        "https://es.wikipedia.org/wiki/Casa_de_los_Montejo"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mercado Lucas de Gálvez (e Mercado San Benito)",
+      "categoria": "compras",
+      "cidade": "merida",
+      "tags": [
+        "mercado",
+        "local",
+        "comida",
+        "caos",
+        "barato"
+      ],
+      "coords": {
+        "lat": 20.9636873,
+        "lng": -89.6207582
+      },
+      "descricaoCurta": "Mercado central, enorme e caótico, com comida, roupas, frutas; vizinho ao mercado San Benito.",
+      "descricaoLonga": "Grande mercado coberto na região da Calle 65–67 com 54–56, com barracas que vendem de sapatos e roupas a frutas, doces, frutos do mar e animais (Wikivoyage). O San Benito (Calle 69 x 54) fica colado ao sul e concentra carne, flores, joias e especiarias. Funciona diariamente até cerca de 17:00–18:00 (hora de abertura não confirmada). Bom para comer barato e ver o cotidiano; para artesanato de qualidade e hamacas, os preços de mercado dependem de negociação — compare com a Casa de las Artesanías (preço fixo). Domingo: feira de artesanato e comida na Plaza Grande (09:00–21:00).",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "até ~17:00–18:00 (abertura não confirmada)",
+        "ter": "até ~17:00–18:00 (abertura não confirmada)",
+        "qua": "até ~17:00–18:00 (abertura não confirmada)",
+        "qui": "até ~17:00–18:00 (abertura não confirmada)",
+        "sex": "até ~17:00–18:00 (abertura não confirmada)",
+        "sab": "até ~17:00–18:00 (abertura não confirmada)",
+        "dom": "até ~17:00–18:00 (abertura não confirmada)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã (menos calor).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Entrada gratuita; compras variam.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Muito movimento; cuidado com bolsos",
+        "Fecha no meio da tarde"
+      ],
+      "pontoPartida": "Calle 56 x 65–67 (~500 m da Plaza Grande, calculado pelas coordenadas).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Para comer barato (tortas, sucos, tacos) e sentir a cidade.",
+        "[CORTE SE APERTAR] Para hamacas/guayaberas de qualidade: prefira Casa de las Artesanías e lojas fixas (ver itens de compras)."
+      ],
+      "alertas": [
+        "Horário de abertura não verificado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mercado_Lucas_de_Galvez%2C_M%C3%A9rida%2C_Yucat%C3%A1n_Junio_2024.jpg/1280px-Mercado_Lucas_de_Galvez%2C_M%C3%A9rida%2C_Yucat%C3%A1n_Junio_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Eden, Janine and Jim",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Lucas_de_Galvez,_M%C3%A9rida,_Yucat%C3%A1n_Junio_2024.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://www.openstreetmap.org/way/196178904"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Hamacas: como reconhecer uma boa e onde comprar sem preço de turista",
+      "categoria": "compras",
+      "cidade": "merida",
+      "tags": [
+        "hamaca",
+        "artesanato",
+        "guia-de-compra",
+        "negociar"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Guia de compra: trama fechada, material (nylon/algodão/crochê), tamanho e preço de 800 a 4.000 MXN.",
+      "descricaoLonga": "Como reconhecer uma boa hamaca (Yucatán Today): trama apertada (pouco espaço entre os fios); material — nylon é o mais barato, algodão intermediário, crochê o mais caro; tamanho (individual, duplo, 'king') muda o preço; franjas/macramé encarecem. Peça para abrir a rede inteira antes de comprar e confira a largura (o guia sugere largura bem maior que o dobro da sua altura para dormir confortável). Faixa de preço do guia: MXN 800–4.000. Onde comprar sem preço de turista: (1) Casa de las Artesanías (loja do governo, preço fixo, Calle 63 nº 503), (2) Bazar de Artesanías García Rejón (Calle 65) para comparar, (3) feira de domingo na Plaza Grande. Não consegui verificar uma loja específica de hamacas (nenhuma loja citada em fonte aberta e atual), então use essas comparações e desconfie de vendedores de rua que 'baixam' do dobro do preço.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 800,
+        "max": 4000,
+        "por": "grupo",
+        "inclui": "Preço por hamaca (guia Yucatán Today); nylon na ponta baixa, crochê/algodão na alta.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://yucatantoday.com/en/typical-yucatecan-handcrafts"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Casa de las Artesanías e Bazar García Rejón (Centro).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Uma boa hamaca de algodão com trama fechada é a compra mais 'Yucatán' e dura anos; compare 2–3 lojas antes.",
+        "[CORTE SE APERTAR] Não compre a primeira rede de feira: pague mais pela trama, não pelas franjas."
+      ],
+      "alertas": [
+        "Nenhuma loja específica de hamacas verificada; nomes de lojas famosas não foram confirmados em fonte aberta.",
+        "Sem coordenada (item é um guia, não um local)."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg/1280px-Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "VasenkaPhotography",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg"
+      },
+      "fontes": [
+        "https://yucatantoday.com/en/typical-yucatecan-handcrafts",
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Guayaberas e artesanato: Guayaberas Presuel, Camisería Canul e Casa de las Artesanías",
+      "categoria": "compras",
+      "cidade": "merida",
+      "tags": [
+        "guayabera",
+        "artesanato",
+        "huipil",
+        "preco-fixo",
+        "centro"
+      ],
+      "coords": {
+        "lat": 20.9672191,
+        "lng": -89.6282709
+      },
+      "descricaoCurta": "Lojas sem vendedor de rua e com preço claro para guayaberas, huipiles e artesanato; guayabera boa: 800–4.000 MXN.",
+      "descricaoLonga": "Guayaberas Presuel (Calle 66 nº 417-A x 47 e 49; diariamente 10:00–18:00; telefone +52 999 924 1586): loja familiar tradicional, sem vendedores de rua; preços marcados, de ~MXN 30 (artesanias pequenas) a mais de 1.000 para guayaberas/huipiles de qualidade (Wikivoyage). Camisería Canul (Calle 62 nº 484; seg–sáb 08:30–21:00, dom 10:00–13:00; +52 999 923 0157): guayaberas e huipiles sob medida. Casa de las Artesanías (Calle 63 nº 503 x 64 e 66; seg–sáb 09:00–20:00, dom 09:00–13:00; +52 999 928 6676): loja do governo, preços fixos. Dados de horários/preço do Wikivoyage (alguns de 2015). Como reconhecer qualidade (Yucatán Today): melhor tecido é 100% linho e/ou algodão; confira se o bordado é à mão ou à máquina de acordo com o preço (olhe o avesso: forro sintético indica máquina); guayabera boa: MXN 800–4.000; roupa bordada à máquina: 350–700; ponto cruz à mão: 1.500+. Coordenada do item = Casa de las Artesanías (OpenStreetMap); as outras lojas ficam a poucos quarteirões.",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "09:00–20:00 (Casa de las Artesanías)",
+        "ter": "09:00–20:00",
+        "qua": "09:00–20:00",
+        "qui": "09:00–20:00",
+        "sex": "09:00–20:00",
+        "sab": "09:00–20:00",
+        "dom": "09:00–13:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã ou final da tarde.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 800,
+        "max": 4000,
+        "por": "pessoa",
+        "inclui": "Guayabera de qualidade 800–4.000 (guia); lembranças pequenas desde 30 (Presuel).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://yucatantoday.com/en/typical-yucatecan-handcrafts",
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 924 1586",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Lojas fecham cedo aos domingos"
+      ],
+      "pontoPartida": "Centro Histórico: Calle 62–66 (a poucos quarteirões da Plaza Grande).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Uma guayabera de linho de loja séria (Presuel/Canul) resolve o 'presente para casa' e o jantar mais arrumado; preço claro, sem vendedor.",
+        "[CORTE SE APERTAR] Bordado à mão caro: se for para uso casual, uma de algodão/bordado máquina (350–700) basta."
+      ],
+      "alertas": [
+        "Alguns dados de horário são de 2015; telefone/horário podem ter mudado.",
+        "Presuel/Canul não foram localizados no OpenStreetMap; só a Casa de las Artesanías tem coordenada confirmada."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://yucatantoday.com/en/typical-yucatecan-handcrafts",
+        "https://www.openstreetmap.org/node/9071323117"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Vida noturna em Mérida: o que existe de verdade",
+      "categoria": "bar",
+      "cidade": "merida",
+      "tags": [
+        "noite",
+        "cantina",
+        "bar",
+        "musica-ao-vivo",
+        "tranquila",
+        "honesto"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Mérida é tranquila: cantinas, bares com música ao vivo, eventos gratuitos e vídeo mapping — não é cidade de balada de Cancún.",
+      "descricaoLonga": "Visão honesta (julgamento meu, sustentado por fontes sobre locais): a noite de Mérida gira em torno de (1) a programação gratuita da Semana Meridana no Centro, (2) cantinas e bares: La Negrita Cantina (Calle 49 x 60–62, desde 1917, diariamente 12:00–22:00, happy hour 17:00–19:00, música ao vivo durante a semana, lota nos fins de semana — Wikivoyage 2017); Mayan Pub (Calle 62 nº 473, quarta–domingo 19:00–03:00, jardim, sinuca, música ao vivo nos fins de semana); La Bierhaus (Calle 62 nº 487; 07:00–03:00); El Gallito (cantina, 12:00–22:00; cerveja MXN 25 em 2017); Cafetería Impala (Paseo de Montejo 497; diariamente 17:30–02:00, instituição desde 1958), (3) jantar tarde em casarões (Amaro, 11:00–01:00; música ao vivo). Há ainda o Distrito Mejorada (quinta a domingo: feirinhas, arte, música ao vivo, Posta) e a Calle 47 como novo corredor gastronômico (Diario de Yucatán, 2025). Não encontrei dados confiáveis de boates/clubes de grande porte — para balada de verdade em ritmo intenso, a opção realista é Cancún/Playa del Carmen (3–4 h de estrada), o que não é viável como base de Mérida. Dica de segurança: Policía Turística nas praças (08:00–20:00 em Hidalgo e Santa Lucía); use Uber/Didi de volta tarde da noite.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Das 20:00 às 23:00 (eventos) e depois cantinas até ~22:00–03:00 (varia).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Eventos gratuitos; cerveja em cantina ~25 (2017). Preços atuais não verificados.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+          "https://yucatantoday.com/en/night-life?area-of-interest=destinos",
+          "https://www.posta.com.mx/yucatan/que-eventos-tiene-la-semana-meridana-consulta-la-cartelera/vl2236463"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Valores/horários de bares vêm de dados de 2017"
+      ],
+      "pontoPartida": "Centro: Calle 60–62 (Plaza Grande, Santa Lucía); Paseo de Montejo (Impala, Hennessy's).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Combine eventos gratuitos + cantinas: noites de MXN baixo sem perder o clima local.",
+        "[CORTE SE APERTAR] Expectativa de balada: se este é o interesse nº 2 do casal, avise o planejador — Mérida entrega 'barzinho com música', não pista."
+      ],
+      "alertas": [
+        "Preços/horários de bares com data de 2017 (Wikivoyage); confirme no Instagram/Facebook.",
+        "Não confirmei boates grandes; afirmação 'Cancún é a opção de balada' é inferência."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://yucatantoday.com/en/night-life?area-of-interest=destinos",
+        "https://www.posta.com.mx/yucatan/que-eventos-tiene-la-semana-meridana-consulta-la-cartelera/vl2236463",
+        "https://www.yucatan.com.mx/merida/2025/04/10/que-hacer-en-merida-lugares-para-visitar-gratis.html"
+      ],
+      "confianca": "estimado"
+    },
+    {
+      "nome": "La Chaya Maya (restaurante tradicional yucateco)",
+      "categoria": "restaurante",
+      "cidade": "merida",
+      "tags": [
+        "comida-yucateca",
+        "cochinita-pibil",
+        "sopa-de-lima",
+        "tradicional",
+        "casarao"
+      ],
+      "coords": {
+        "lat": 20.9698697,
+        "lng": -89.6239233
+      },
+      "descricaoCurta": "Restaurante tradicional (07:00–23:00 todos os dias) de cozinha yucateca, muito popular entre locais e turistas.",
+      "descricaoLonga": "Restaurante de cozinha yucateca tradicional em casarão colonial, aberto das 07:00 às 23:00 todos os dias (site oficial); telefone de reservas 999 129 8643. A unidade original (Centro, Calle 62 x 57) costuma estar cheia, principalmente no almoço de domingo; a 'Casona' (Calle 55 x 60 e 62) é maior e mais atmosférica (13:00–22:00 no Wikivoyage). Ingredientes típicos: sementes de abóbora, milho, chile, feijão, chaya e achiote. Para pedir: cochinita pibil (porco marinado em achiote e laranja azeda, em tacos ou cochinita), sopa de lima (caldo de frango/peru com lima yucateca e tiras de tortilla frita), poc chuc, panuchos e salbutes; agua de chaya para refrescar. Preço médio não verificado em fonte aberta.",
+      "duracao": {
+        "min": 45,
+        "tipica": 75,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "07:00–23:00",
+        "ter": "07:00–23:00",
+        "qua": "07:00–23:00",
+        "qui": "07:00–23:00",
+        "sex": "07:00–23:00",
+        "sab": "07:00–23:00",
+        "dom": "07:00–23:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Almoço (13:00–15:00) ou jantar cedo; domingo lota.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preço médio não verificado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.lachayamaya.com",
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 129 8643",
+        "whatsapp": "",
+        "site": "https://www.lachayamaya.com",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Domingo no almoço: fila"
+      ],
+      "pontoPartida": "Calle 62 x 57, Centro (unidade original) — a poucos minutos da Plaza Grande.",
+      "dicasAgente": [
+        "[VALE CADA PESO] A introdução mais segura à cozinha yucateca no Centro (cochinita + sopa de lima + agua de chaya).",
+        "[CORTE SE APERTAR] Para economizar, coma o mesmo (cochinita, panuchos) nos mercados de Santa Ana/Santiago por uma fração do preço."
+      ],
+      "alertas": [
+        "Preço do cardápio não confirmado."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg/1280px-La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "edenpictures",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:La_Chaya_Maya,_exterior,_M%C3%A9rida,_Yucat%C3%A1n_June_2024.jpg"
+      },
+      "fontes": [
+        "https://www.lachayamaya.com",
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://yucatantoday.com/en/yucatecan-gastronomy?area-of-interest=gastronomia",
+        "https://www.openstreetmap.org/node/3220978685"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Comer barato: Mercado de Santa Ana, Santiago e San Sebastián (cochinita, sopa de lima, marquesitas)",
+      "categoria": "restaurante",
+      "cidade": "merida",
+      "tags": [
+        "mercado",
+        "comida-barata",
+        "marquesita",
+        "cochinita",
+        "panucho",
+        "cafe-da-manha"
+      ],
+      "coords": {
+        "lat": 20.9757797,
+        "lng": -89.6205755
+      },
+      "descricaoCurta": "Mercados com comida regional barata: Santa Ana (05:30–23:30), Santiago, San Sebastián; marquesitas e sorvetes para o calor.",
+      "descricaoLonga": "Mercado de Santa Ana (Calle 47, Paseo de Montejo): grande variedade de cozinha regional, aberto diariamente 05:30–23:30 (Wikivoyage, 2026) — ótimo para café da manhã barato; mercado de Santiago (Calle 57) e Mercado San Sebastián (Calle 70 entre 75 e 77; 06:00–14:30 e 17:00–00:00; panuchos, salbutes, huevos motuleños). O que pedir (Yucatán Today): cochinita pibil; sopa de lima; poc chuc; panuchos (tortilla frita recheada de feijão) e salbutes (tortilla macia); e MARQUESITAS, o snack de rua mais popular — cones/crêpes crocantes recheados com queijo Edam, Nutella, doce de leite ou geleia. Refresco: agua de chaya. Para o calor: Dulcería y Sorbetería Colón (desde 1907, Calle 61 nº 500, diariamente 08:00–23:00; sorvetes de coco, manga, abacaxi, limão). Preços unitários não verificados em fonte aberta — referência de Valladolid (out/2023): torta ~MXN 30 e taco ~MXN 16 (jan/2022).",
+      "duracao": {
+        "min": 30,
+        "tipica": 60,
+        "max": 90
+      },
+      "horarios": {
+        "seg": "05:30–23:30 (Mercado de Santa Ana)",
+        "ter": "05:30–23:30 (Mercado de Santa Ana)",
+        "qua": "05:30–23:30 (Mercado de Santa Ana)",
+        "qui": "05:30–23:30 (Mercado de Santa Ana)",
+        "sex": "05:30–23:30 (Mercado de Santa Ana)",
+        "sab": "05:30–23:30 (Mercado de Santa Ana)",
+        "dom": "05:30–23:30 (Mercado de Santa Ana)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Café da manhã no mercado (05:30–10:00) ou jantar de rua.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Preços unitários não verificados em Mérida.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+          "https://yucatantoday.com/en/yucatecan-gastronomy?area-of-interest=gastronomia",
+          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [],
+      "pontoPartida": "Mercado de Santa Ana: Calle 47 x 60 (Barrio de Santa Ana).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Tome o café da manhã e jante em mercado pelo menos 2x na viagem — economiza muito e é a comida local de verdade.",
+        "Prove marquesitas à noite (praças, Malecón de Progreso, Valladolid) e sorvete na Colón nas tardes quentes."
+      ],
+      "alertas": [
+        "Sem preço verificado de Mérida; referências vêm de Valladolid (2022–2023).",
+        "Água/gelo: evite gelo de procedência duvidosa em barracas."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sopa_de_lima_%28Yucatan_chicken_lime_soup%29%2C_restaurante_Amaro%2C_Merida%2C_Yucatan%2C_Mexico.jpg/1280px-Sopa_de_lima_%28Yucatan_chicken_lime_soup%29%2C_restaurante_Amaro%2C_Merida%2C_Yucatan%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Sopa_de_lima_(Yucatan_chicken_lime_soup),_restaurante_Amaro,_Merida,_Yucatan,_Mexico.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://yucatantoday.com/en/yucatecan-gastronomy?area-of-interest=gastronomia",
+        "https://www.openstreetmap.org/node/5942622688",
+        "https://www.openstreetmap.org/node/3250007650"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Celestún: flamingos (barco) e praia",
+      "categoria": "passeio",
+      "cidade": "celestun",
+      "tags": [
+        "flamingos",
+        "natureza",
+        "barco",
+        "praia",
+        "manguezal",
+        "novembro-a-marco"
+      ],
+      "coords": {
+        "lat": 20.8575482,
+        "lng": -90.3835991
+      },
+      "descricaoCurta": "Reserva da Biosfera Ría Celestún: flamingos de novembro a março (pico dez–fev); barco ~MXN 1.500–2.500 por lancha.",
+      "descricaoLonga": "FLAMINGOS: em Celestún a temporada vai de novembro a março (pico entre dezembro e fevereiro — Yucatán Today; Wikivoyage: janeiro e fevereiro são o pico). De abril a julho a maior parte migra para Ría Lagartos para nidificar, e em Celestún sobram bandos pequenos. PASSEIO: o preço é POR BARCO (não por pessoa), cabendo ~6–8 pessoas e sem negociação (Yucatán Today); Wikivoyage lista MXN 1.500, Mente Urbana (2026) MXN 2.000–2.500 por barco; relatos não verificados falam em 3.000. Passeio básico 75–90 min; completo 2–2,5 h incluindo o manguezal e o 'Ojo de Agua Baldiosera' (nadável) e a floresta petrificada. Saída: Parador Turístico (ponte da MEX-281, onde se vendem os ingressos) ou direto da praia/píer; horários recomendados 07:00–09:00 e 16:00–18:00 (evite o meio-dia: luz plana). Operadoras: cooperativas locais no Parador; a cooperativa Guardianes de los Manglares (Calle 2-D, 08:00–15:00, +52 999 645 4310) oferece caiaque/canoa. COMO IR: 90 km de Mérida (~1h30) pela MEX-281; combis saem a cada hora da Calle 67 x 48/Mérida a MXN 60 (~90 min, Yucatán Today), ônibus Oriente MXN 72–200 conforme a fonte. Praias: Playa Sul/Norte; Tótem Beach Club (day pass MXN 300). A temporada de polvo é agosto–outubro (Wikivoyage). Dicas de praia: areia mais acinzentada e água mais verde-escura que o Caribe (Wikivoyage).",
+      "duracao": {
+        "min": 75,
+        "tipica": 120,
+        "max": 150
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Nov–mar: 07:00–09:00 (luz e menos calor) ou 16:00–18:00.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1500,
+        "max": 2500,
+        "por": "grupo",
+        "inclui": "Por barco de ~6–8 pessoas (75–90 min). Fontes: 1.500 (Wikivoyage) a 2.000–2.500 (Mente Urbana 2026). Dividir com outros viajantes baixa o custo por pessoa.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Celest%C3%BAn",
+          "https://menteurbana.mx/yucatan/ver-flamingos-celestun-guia",
+          "https://yucatantoday.com/en/celestun",
+          "https://yucatantoday.com/en/blog/yucatan-biosphere-reserves-celestun-ria-lagartos"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 645 4310",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Passeio é por barco inteiro (divida o custo)",
+        "Leve repelente e protetor solar"
+      ],
+      "pontoPartida": "Celestún, Parador Turístico (MEX-281, perto da ponte) — a 90 km a oeste de Mérida.",
+      "dicasAgente": [
+        "[VALE CADA PESO] De novembro a março: é a melhor natureza barata perto de Mérida. Divida o barco com outros casais e combine com praia + marisco no almoço.",
+        "[CORTE SE APERTAR] De abril a outubro (flamingos escassos aqui; calor): corte e vá a Río Lagartos se quiser flamingos.",
+        "Saia de Mérida às 06:30–07:00 para pegar o barco cedo."
+      ],
+      "alertas": [
+        "Preço do barco varia de 1.500 a 2.500 (fontes), com relatos de 3.000 não verificados.",
+        "Horário de saída não padronizado — operam conforme demanda."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Flamingos%2C_Celest%C3%BAn_2026_02.jpg/1280px-Flamingos%2C_Celest%C3%BAn_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "TSolange",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Flamingos,_Celest%C3%BAn_2026_02.jpg"
+      },
+      "fontes": [
+        "https://yucatantoday.com/en/blog/yucatan-biosphere-reserves-celestun-ria-lagartos",
+        "https://yucatantoday.com/en/celestun",
+        "https://menteurbana.mx/yucatan/ver-flamingos-celestun-guia",
+        "https://en.wikivoyage.org/wiki/Celest%C3%BAn",
+        "https://yucatantoday.com/en/blog/flamingos-in-yucatan",
+        "https://www.openstreetmap.org/node/9312584117"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Río Lagartos: passeio de flamingos (março–outubro)",
+      "categoria": "passeio",
+      "cidade": "rio-lagartos",
+      "tags": [
+        "flamingos",
+        "natureza",
+        "barco",
+        "nidificacao",
+        "longe-de-merida"
+      ],
+      "coords": {
+        "lat": 21.5975,
+        "lng": -88.157778
+      },
+      "descricaoCurta": "Reserva da Biosfera Ría Lagartos: flamingos principalmente de março a outubro; passeio de barco de ~2–4 h, MXN ~250–800 por pessoa.",
+      "descricaoLonga": "FLAMINGOS: a temporada é diferente da de Celestún — em Ría Lagartos o pico é de março a outubro; por volta de meados de março as aves se dispersam para leste e começam a nidificar em abril/maio (Yucatán Today). Existe flamingo o ano todo (um blog fala em novembro–março, mas Yucatán Today sustenta março–outubro). PASSEIO: saem do porto de Río Lagartos ou de San Felipe, ~4 h com banho de lama ('baño maya') e ave-observação; melhor ao amanhecer (Yucatán Today/Yucatán Travel). Preços: passeios de barco de 1–2 h custam 250–800 por pessoa e tours de meio dia 500–1.500 (Felices Vacaciones); para ir de barco a Las Coloradas o Wikivoyage cita a partir de ~MXN 3.000 por barco (preço antigo). Operadoras: restaurantes como El Manglar organizam passeios; hotéis (Punta Ponto, Posada Mercy) indicam guias. COMO IR: 230 km de Mérida (~3h30) ou 100 km de Valladolid (~1h30 pela MEX-295); sem voo direto — de ônibus, via Tizimín. Hospedagem econômica na cidade: MXN ~800–2.000 por noite (Wikivoyage 2023–2024).",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 300
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Amanhecer (melhor luz e menos calor); março–outubro.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 800,
+        "por": "pessoa",
+        "inclui": "Passeio de barco de 1–2 h: 250–800 por pessoa (estimativa de blog); tours de meio dia 500–1.500. Preço oficial por barco não confirmado.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://blog.felicesvacaciones.es/cuanto-cuesta-el-tour-en-rio-lagartos",
+          "https://en.wikivoyage.org/wiki/Rio_Lagartos",
+          "https://yucatan.travel/en/adventure-and-nature/rio-lagartos/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Muito longe de Mérida — melhor dormir em Río Lagartos ou Valladolid"
+      ],
+      "pontoPartida": "Porto de Río Lagartos (ou San Felipe).",
+      "dicasAgente": [
+        "[VALE CADA PESO] Entre março e outubro, se tiver carro e dormir em Valladolid/Río Lagartos: combina flamingos + Las Coloradas.",
+        "[CORTE SE APERTAR] Se a base é só Mérida: 3h30 de ida é pesado; Celestún (nov–mar) é a alternativa próxima."
+      ],
+      "alertas": [
+        "Preço por barco não verificado — a faixa vem de blog e de dado antigo de Wikivoyage.",
+        "Fontes divergem sobre a melhor época (nov–mar vs mar–out): sigo Yucatán Today."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg/1280px-Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Adam Baker from Houston, TX",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_R%C3%ADo_Lagartos_1.jpg"
+      },
+      "fontes": [
+        "https://yucatantoday.com/en/blog/flamingos-in-yucatan",
+        "https://yucatantoday.com/en/blog/yucatan-biosphere-reserves-celestun-ria-lagartos",
+        "https://en.wikivoyage.org/wiki/Rio_Lagartos",
+        "https://blog.felicesvacaciones.es/cuanto-cuesta-el-tour-en-rio-lagartos",
+        "https://yucatan.travel/en/adventure-and-nature/rio-lagartos/",
+        "https://es.wikipedia.org/wiki/R%C3%ADo_Lagartos"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Las Coloradas (lagoa rosa)",
+      "categoria": "natureza",
+      "cidade": "rio-lagartos",
+      "tags": [
+        "lagoa-rosa",
+        "foto",
+        "natureza",
+        "salina",
+        "sol-a-pino"
+      ],
+      "coords": {
+        "lat": 21.608333,
+        "lng": -87.989722
+      },
+      "descricaoCurta": "Salinas rosadas (subproduto industrial) ainda abertas em 2026; só com visita guiada (~MXN 300 a pé; 890 no safári); não se pode nadar.",
+      "descricaoLonga": "Aberto em 2026 (La Verdad, maio/2026): acesso apenas por visitas guiadas a pé ou de bicicleta. Preços para estrangeiros: caminhada de 45 min MXN 300 (Mente Urbana 2026; nacionais 250); bicicleta 30 min 320, bicicleta 1 h 390, safári 90 min 890 (El Universal, 2022/23). Horário 08:00–17:00, todos os dias (El Universal). Melhor horário: entre 11:00 e 15:00, com sol forte, para a cor rosa aparecer (La Verdad; Yucatán Today: 11–13h). Nadar: proibido segundo La Verdad, Mente Urbana e El Universal (sal e cristais cortam a pele); o site oficial do parque diz que há banho 'com diretrizes' — trate como proibido. A cor rosa é efeito da produção de sal (não natural, Wikivoyage); terreno da Salinera de Yucatán (Yucatán Travel). Fica a 20 min de Río Lagartos de carro (30 min em outra fonte) e ~230 km de Mérida (3h30). Reservas pelo site/FareHarbor; telefone/WhatsApp 999 996 7196; e-mail hola@lascoloradas.com.mx. Leve dinheiro (cartão raramente aceito).",
+      "duracao": {
+        "min": 45,
+        "tipica": 90,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "08:00–17:00",
+        "ter": "08:00–17:00",
+        "qua": "08:00–17:00",
+        "qui": "08:00–17:00",
+        "sex": "08:00–17:00",
+        "sab": "08:00–17:00",
+        "dom": "08:00–17:00"
+      },
+      "diasFechados": [],
+      "melhorHorario": "11:00–13:00 com céu limpo.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 890,
+        "por": "pessoa",
+        "inclui": "Estrangeiro: caminhada 45 min 300 (2026); bicicleta 320–390; safári 890 (2022/23).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://menteurbana.mx/yucatan/las-coloradas-yucatan/",
+          "https://www.eluniversal.com.mx/destinos/las-coloradas-cuanto-cuesta-un-tour-en-las-lagunas-de-color-rosa/",
+          "https://laverdad.com.mx/2026/05/como-visitar-las-coloradas-en-yucatan-horarios-precios-y-restricciones/"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://lascoloradas.com.mx"
+      },
+      "contato": {
+        "telefone": "+52 999 996 7196",
+        "whatsapp": "+52 999 996 7196",
+        "site": "https://lascoloradas.com.mx",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Proibido nadar (na prática)",
+        "Sem drones",
+        "Leve dinheiro, repelente, boné"
+      ],
+      "pontoPartida": "Las Coloradas (Parque Turístico), a ~20 min de Río Lagartos.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Se você já vai a Río Lagartos: é a foto mais surreal do roteiro e custa ~MXN 300.",
+        "[CORTE SE APERTAR] Se sai de Mérida só para isso (7 h de estrada ida e volta), corte."
+      ],
+      "alertas": [
+        "Preço do safári e da bicicleta vem de matéria de 2022/23 — pode ter subido.",
+        "Fontes divergem sobre poder nadar."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Las_Coloradas2.jpg/1280px-Las_Coloradas2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Wasquewhat",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Las_Coloradas2.jpg"
+      },
+      "fontes": [
+        "https://menteurbana.mx/yucatan/las-coloradas-yucatan/",
+        "https://www.eluniversal.com.mx/destinos/las-coloradas-cuanto-cuesta-un-tour-en-las-lagunas-de-color-rosa/",
+        "https://laverdad.com.mx/2026/05/como-visitar-las-coloradas-en-yucatan-horarios-precios-y-restricciones/",
+        "https://yucatantoday.com/en/blog/a-natural-wonder-of-the-world-las-coloradas",
+        "https://lascoloradas.com.mx",
+        "https://yucatan.travel/aventura-y-naturaleza/las-coloradas/",
+        "https://es.wikipedia.org/wiki/Las_Coloradas_(M%C3%A9xico)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Progreso: praia, malecón e o píer mais longo do mundo",
+      "categoria": "praia",
+      "cidade": "progreso",
+      "tags": [
+        "praia",
+        "bate-volta",
+        "frutos-do-mar",
+        "malecon",
+        "barato",
+        "onibus"
+      ],
+      "coords": {
+        "lat": 21.2884663,
+        "lng": -89.658625
+      },
+      "descricaoCurta": "Praia de Mérida a 40–50 min de ônibus (MXN 28 por trecho); malecón de 6,5 km; o píer de 8 km é recorde Guinness, mas não é aberto ao público.",
+      "descricaoLonga": "COMO IR: ônibus Autoprogreso saem da Calle 62 entre 65 e 67 (Mérida) a cada ~15 min, 06:00–22:00, 40–50 min; passagem MXN 28 (ida) / 56 (ida e volta) em 2026; de carro ~30 min. O QUE TEM: malecón de ~6,5 km com restaurantes de frutos do mar e vendedores; praia no Golfo do México; a cidade é porto de cruzeiros. O PÍER (Muelle de Altura/Fiscal) tem 8.018,98 m e recebeu o recorde Guinness em jul/2023 (El Universal), mas o Wikivoyage informa que por lei não se pode entrar nele (dado de 2015) — o que se vê é do malecón. Perto: Museo del Meteorito (Chicxulub) aberto 11:00–18:00 (Wikivoyage 2025); El Corchito (reserva com cenotes e manguezal; ingresso de estrangeiro MXN 199 desde 01/05/2026; barco 90–271; caiaque 90/h); Xcambó (sítio maia, MXN 100 em mar/2025). Bate-volta vale? Para perfil praia/natureza com orçamento: SIM, como meio dia barato (transporte ~MXN 56 por pessoa), mas é praia de Golfo (areia/água menos 'caribenha'; inferência do que o Wikivoyage diz de Celestún, mesmo golfo) — não faça disso o ponto alto.",
+      "duracao": {
+        "min": 120,
+        "tipica": 240,
+        "max": 480
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Manhã/meio de tarde; evite meio-dia no verão.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 56,
+        "por": "pessoa",
+        "inclui": "Praia grátis; ônibus 56 ida e volta por pessoa; El Corchito 199 (estrangeiro) à parte.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.posta.com.mx/yucatan/cuanto-cuesta-ir-a-progreso-en-autobus-precios-y-descuentos/vl2236157",
+          "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html",
+          "https://en.wikivoyage.org/wiki/Progreso"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Píer fiscal não é visitável"
+      ],
+      "pontoPartida": "Terminal Autoprogreso, Calle 62 entre 65 e 67, Centro de Mérida.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Meio dia de praia + ceviche/peixe frito por pouco; ótimo para depois de dias de ruína.",
+        "[CORTE SE APERTAR] Se já fez Celestún (praia + flamingos) na viagem, Progreso é o primeiro a cortar.",
+        "Marquesita no malecón ao fim do dia."
+      ],
+      "alertas": [
+        "Informação sobre acesso ao píer é do Wikivoyage (2015).",
+        "Qualidade da água/areia de Progreso não verificada em fonte aberta."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Muelle_fiscal_de_Progreso%2C_Yucat%C3%A1n.jpg/1280px-Muelle_fiscal_de_Progreso%2C_Yucat%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Escalante-Pasos",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Muelle_fiscal_de_Progreso,_Yucat%C3%A1n.jpg"
+      },
+      "fontes": [
+        "https://www.posta.com.mx/yucatan/cuanto-cuesta-ir-a-progreso-en-autobus-precios-y-descuentos/vl2236157",
+        "https://en.wikivoyage.org/wiki/Progreso",
+        "https://www.eluniversal.com.mx/estados/muelle-de-progreso-yucatan-obtiene-el-record-guinness-como-el-mas-largo-del-mundo/",
+        "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html",
+        "https://www.openstreetmap.org/way/314667089"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Izamal (cidade amarela) e pirâmide Kinich Kakmó",
+      "categoria": "atracao",
+      "cidade": "izamal",
+      "tags": [
+        "cidade-amarela",
+        "convento",
+        "piramide",
+        "calesa",
+        "bate-volta",
+        "gratis"
+      ],
+      "coords": {
+        "lat": 20.9324465,
+        "lng": -89.0178182
+      },
+      "descricaoCurta": "Cidade amarela a ~70 km de Mérida: convento franciscano de 1549, pirâmide Kinich Kakmó escalável (grátis) e calesas; bate-volta fácil.",
+      "descricaoLonga": "Izamal (a ~65–70 km de Mérida, ~1 h de carro) tem o Convento de San Antonio de Padua (1549, com um dos maiores átrios do mundo; entrada em horário regular aparentemente gratuita — Matador), a pirâmide Kinich Kakmó (34 m, ainda ESCALÁVEL; vista 360° ao nascer/pôr do sol — Por Esto, jul/2026) e outras zonas arqueológicas gratuitas e abertas 08:00–17:00 (Zona Turística; Matador). Calesas puxadas por mulas saem da praça central (preço não verificado). Show de luz e som no átrio: Matador diz quinta a sábado às 20:00 (último, no convento, MXN 77); Wikivoyage (mais antigo) diz todos os dias menos domingo, 20:30 — fontes divergem. Aos domingos, 09:00–15:00, há paseo com música no Parque Zamna. Restaurante Kinich (11:00–19:00, ~US$10–15, Wikivoyage 2018). COMO IR: ônibus Oriente do terminal Noreste (Calle 67 x 50/52), de hora em hora (05:00–21:00), volta até 18:40, ida e volta MXN 74 (mar/2023); combi na Calle 50 (45 pesos; 05:00–17:30); colectivo entre 54/52 e 65 a cada 20 min, último de volta às 18:00; táxi MXN 700 só ida (2018); Tren Maya também para em Izamal. Vale bate-volta? SIM: é barato, curto e dá fotos; ideal ao fim do dia com o show (sai por ~MXN 100–200 por pessoa), mas é um passeio de ritmo calmo — para perfil praia/noite é opcional.",
+      "duracao": {
+        "min": 180,
+        "tipica": 300,
+        "max": 420
+      },
+      "horarios": {
+        "seg": "08:00–17:00 (zonas arqueológicas)",
+        "ter": "08:00–17:00 (zonas arqueológicas)",
+        "qua": "08:00–17:00 (zonas arqueológicas)",
+        "qui": "08:00–17:00 (zonas arqueológicas)",
+        "sex": "08:00–17:00 (zonas arqueológicas)",
+        "sab": "08:00–17:00 (zonas arqueológicas)",
+        "dom": "08:00–17:00 (zonas arqueológicas)"
+      },
+      "diasFechados": [],
+      "melhorHorario": "Chegar ~15:00, subir Kinich Kakmó no fim da tarde e ficar para o show (qui–sáb).",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 77,
+        "por": "pessoa",
+        "inclui": "Convento e zonas arqueológicas gratuitos (Matador, Zona Turística); show: projeção final no convento MXN 77.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://matadornetwork.com/es/que-hacer-en-izamal/",
+          "https://www.zonaturistica.com/que-hacer/yucatan/izamal/zona-arqueologica-de-izamal",
+          "https://en.wikivoyage.org/wiki/Izamal"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Escalada exige cuidado com os degraus",
+        "Último ônibus de volta 18:40 (Oriente)"
+      ],
+      "pontoPartida": "Terminal Noreste, Calle 67 x 50/52 (Mérida), ônibus Oriente; ou carro pela MEX-180.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Meio dia quase gratuito: convento, pirâmide escalável e calesa. É a 'cidade colorida' mais barata de alcançar de Mérida.",
+        "[CORTE SE APERTAR] Show de luz e som e calesa (preços não verificados) se o orçamento estiver apertado."
+      ],
+      "alertas": [
+        "Dias do show de luz e som divergem (qui–sáb vs. todos menos domingo).",
+        "Preços de horários de ônibus de 2023; combi/colectivo e taxi são de datas variadas."
+      ],
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pap-Hol-Chac_-_ya_Convento_de_San_Antonio_de_Padua%2C_Izamal%2C_Yucatan%2C_Mexico_Marzo_2021-_02.jpg/1280px-Pap-Hol-Chac_-_ya_Convento_de_San_Antonio_de_Padua%2C_Izamal%2C_Yucatan%2C_Mexico_Marzo_2021-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sharon Hahn Darlin",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pap-Hol-Chac_-_ya_Convento_de_San_Antonio_de_Padua,_Izamal,_Yucatan,_Mexico_Marzo_2021-_02.jpg"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Izamal",
+        "https://matadornetwork.com/es/que-hacer-en-izamal/",
+        "https://www.zonaturistica.com/que-hacer/yucatan/izamal/zona-arqueologica-de-izamal",
+        "https://www.poresto.com/yucatan/2026/7/20/no-es-chichen-itza-esta-es-la-piramide-mas-alta-de-yucatan-a-la-que-aun-se-puede-subir.html",
+        "https://www.openstreetmap.org/relation/6978576",
+        "https://www.openstreetmap.org/way/27143006"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Alugar carro no Yucatán: preços, seguro obrigatório e pedágio",
+      "categoria": "aluguel-veiculo",
+      "cidade": "merida",
+      "tags": [
+        "carro",
+        "seguro-TPL",
+        "pedagio",
+        "logistica",
+        "economia"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Aqui costuma compensar: locais com tarifa de MXN ~490–690/dia (+ IVA) vs. agências que cobram 1.600+; atenção ao seguro de responsabilidade civil (TPL) e ao pedágio Mérida–Cancún.",
+      "descricaoLonga": "PREÇOS: Quickly Car Rental (Mérida) cobra de MXN 490/dia (hatch manual, baixa temporada) a 890 (SUV) + IVA, com seguro 'Full Cover' incluído; Mayan Drive Rental Car cobra de MXN 1.600/dia (compacto) a 1.900 (crossover); Hertz Mérida (aeroporto e Centro) tinha promoção de até 40% off para reservas de 07/set–11/out/2026, retirada até 15/dez/2026, incluindo km ilimitado e responsabilidade civil de até MXN 700.000. SEGURO OBRIGATÓRIO MEXICANO: o seguro de responsabilidade civil (TPL) é exigido por lei; o Wikivoyage lembra que é obrigatório. A armadilha clássica: reservar em comparadores por diárias muito baixas SEM a TPL e pagar o seguro no balcão (o que costuma multiplicar o preço) — não achei uma fonte aberta que documente esse golpe específico (afirmação do meu conhecimento geral, marcada como não verificada), então SEMPRE confira no voucher se 'TPL / responsabilidad civil' vem incluída e quanto é a franquia (Quickly: 5% colisão, 10% roubo). PEDÁGIO (abr/2026): Mérida–Valladolid MXN 248 (carro); Valladolid–Cancún MXN 427; Mérida–Cancún MXN 675 total. Leve pesos em dinheiro (cartão/dólar costumam não ser aceitos nas casetas — Wikivoyage; Por Esto recomenda dinheiro ou TAG). Estacionamento em Chichén: MXN 124. BLITZ: não consegui fonte confiável sobre abordagens policiais; boas práticas do Wikivoyage — rodar cedo, evitar rodovias secundárias à noite, atenção a 'topes' e 'vados', gasolina com atendente (posto Costco tem autosserviço). Rodovia livre paralela à autopista passa por vilas com muitos topes. VALE ALUGAR? Sim para Uxmal/Puuc, Celestún, Cuzamá/Homún, Izamal e especialmente Río Lagartos/Las Coloradas (transporte público fraco). Para Chichén/Ek Balam partindo de Valladolid, colectivos custam MXN 40–70 por pessoa.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 490,
+        "max": 3000,
+        "por": "grupo",
+        "inclui": "Por dia: Quickly 490–1.290 (carros) + IVA; Mayan Drive 1.600–1.900 (carros); vans 1.700–3.000. Pedágio Mérida–Cancún 675 (carro).",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://quicklycar.com.mx/",
+          "https://www.mayandriverentalcar.com/",
+          "https://www.hertzmexico.com/renta-de-autos-en-merida/",
+          "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": "https://www.hertzmexico.com/renta-de-autos-en-merida/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Cartão de crédito + carteira de motorista + ID (Hertz)",
+        "Idade mínima/hora de retirada: conferir com a locadora"
+      ],
+      "pontoPartida": "Aeroporto de Mérida (MID) ou Centro.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Alugue 2–3 dias específicos (Uxmal/Puuc, Celestún, Río Lagartos), não a semana inteira: Mérida é fácil sem carro (Uber/ônibus).",
+        "[CORTE SE APERTAR] Ofertas muito abaixo das locadoras locais (~MXN 490/dia + IVA) sem TPL inclusa; feche pelo voucher com seguro completo.",
+        "Faça fotos do carro, confirme a franquia e o tanque cheio antes de sair."
+      ],
+      "alertas": [
+        "A 'armadilha do seguro' é conhecimento geral meu e não pôde ser comprovada em fonte aberta.",
+        "Preços de locadoras mudam por temporada — consulte as páginas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://quicklycar.com.mx/",
+        "https://www.mayandriverentalcar.com/",
+        "https://www.hertzmexico.com/renta-de-autos-en-merida/",
+        "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html",
+        "https://en.wikivoyage.org/wiki/Driving_in_Mexico",
+        "https://en.wikivoyage.org/wiki/Chichen_Itza",
+        "https://www.yucatan.com.mx/yucatan/2026/04/30/aumentan-precios-en-el-corchito-y-el-estacionamiento-de-chichen-itza.html"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Quickly Car Rental (Mérida) — locadora local barata",
+      "categoria": "aluguel-veiculo",
+      "cidade": "merida",
+      "tags": [
+        "locadora",
+        "barato",
+        "sem-caucao",
+        "debito"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Locadora local com carros a partir de MXN 490/dia (+ IVA), seguro Full Cover incluído, sem caução e sem cartão de crédito obrigatório.",
+      "descricaoLonga": "Frota (MXN/dia, sem IVA, baixa/alta temporada): hatchback manual 490/690; sedan manual 590/740; sedan automático 640/790; sedan intermediário 740/890; pick-up cabine simples 790/1.090; SUV 890/1.090; pick-up cabine dupla 990/1.290; minivan 890/1.240; van 8 passageiros 1.090/1.540; van 15 passageiros 1.700/2.400. Inclui 'Seguro Full Cover' com 8 coberturas, km ilimitado em Yucatán, Quintana Roo e Campeche e assistência 24 h; franquias de 5% (colisão) e 10% (roubo) sobre o valor de tabela do veículo. Sem caução, aceita débito ou transferência SPEI e não cobra multa de cancelamento (van de 15 lugares exige 50% de sinal). Aeroporto (MID) e escritório local, aberto 24/7; telefone +52 999 900 5548. Mínimo de 2 diárias na baixa e 3 na alta. IMPORTANTE: some 16% de IVA e confirme se a TPL está dentro do 'Full Cover'.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 490,
+        "max": 2400,
+        "por": "grupo",
+        "inclui": "Por dia, sem IVA: hatch manual 490–690; SUV 890–1.090; vans 1.090–2.400.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://quicklycar.com.mx/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://quicklycar.com.mx/"
+      },
+      "contato": {
+        "telefone": "+52 999 900 5548",
+        "whatsapp": "",
+        "site": "https://quicklycar.com.mx/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Mínimo 2 dias (baixa) / 3 dias (alta)",
+        "Franquia 5%/10%"
+      ],
+      "pontoPartida": "Aeroporto de Mérida (MID) ou escritório local, 24/7.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Melhor relação preço/cobertura entre as locadoras que abri: carro cheio de seguro por ~MXN 570–800/dia com IVA.",
+        "Pergunte por escrito se TPL e cobertura de vidros/pneus estão incluídos."
+      ],
+      "alertas": [
+        "Preços do site sem IVA; datas de baixa/alta temporada não detalhadas.",
+        "Não verifiquei avaliações de clientes nem reclamações."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://quicklycar.com.mx/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Mayan Drive Rental Car (Mérida)",
+      "categoria": "aluguel-veiculo",
+      "cidade": "merida",
+      "tags": [
+        "locadora",
+        "local",
+        "entrega-gratis",
+        "seguro-incluido"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "Locadora 100% yucateca, preço mais alto (MXN 1.600+/dia) com seguro incluído, entrega grátis em Mérida/aeroporto.",
+      "descricaoLonga": "Frota e preços (MXN) para 1 dia / 3 dias / 7 dias: compacto Honda Fit/Mitsubishi Mirage 1.600 / 3.400 / 6.300; sedan/hatch Subaru Impreza/Mazda6/Kia Forte 1.800 / 4.200 / 7.900; crossover Jeep Patriot/Subaru XV Crosstrek 1.900 / 4.800 / 9.500; SUV Subaru Outback/Jeep Liberty/Forester 1.800 / 4.900 / 9.500; minivan 8 lugares Hyundai Starex 3.000 / 8.000 / 15.000; van 12 lugares 3.000 / 8.000 / 15.000. Todos com seguro incluído, CarPlay, km ilimitado e câmera de ré. Escritório: Calle 20 entre 43 e 45, Leonardo Valle, Mérida. Entrega grátis em casa/aeroporto de Mérida. WhatsApp +52 999 134 6263; e-mail mayanrentalcar@gmail.com. Com 7 dias fica ~MXN 900/dia, ainda acima da Quickly (~570–800/dia com IVA).",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "",
+      "preco": {
+        "moeda": "MXN",
+        "min": 1600,
+        "max": 3000,
+        "por": "grupo",
+        "inclui": "1 dia: compacto 1.600; sedan 1.800; crossover 1.900; vans 3.000. 7 dias a partir de 6.300.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://www.mayandriverentalcar.com/"
+        ]
+      },
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": "https://www.mayandriverentalcar.com/"
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "+52 999 134 6263",
+        "site": "https://www.mayandriverentalcar.com/",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Seguro incluído (cobertura exata não detalhada)"
+      ],
+      "pontoPartida": "Entrega no hotel/aeroporto de Mérida.",
+      "dicasAgente": [
+        "[CORTE SE APERTAR] Pela diferença de preço (2–3x), só se quiser carro mais novo/confortável ou entrega sem burocracia.",
+        "[VALE CADA PESO] Se o casal valoriza 'sem surpresa de seguro' e atendimento direto por WhatsApp."
+      ],
+      "alertas": [
+        "Cobertura do seguro incluso não explicitada no site.",
+        "Preço mais alto que o de locadoras locais econômicas."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://www.mayandriverentalcar.com/"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "nome": "Calor no Yucatán: meses insuportáveis e como montar o dia",
+      "categoria": "experiencia",
+      "cidade": "merida",
+      "tags": [
+        "clima",
+        "calor",
+        "chuva",
+        "planejamento",
+        "madrugar"
+      ],
+      "coords": {
+        "lat": 0,
+        "lng": 0
+      },
+      "descricaoCurta": "De abril a agosto as máximas médias passam de 35°C (pico em maio ~36–37°C); chuvas de junho a outubro; novembro–fevereiro é a janela mais amena.",
+      "descricaoLonga": "Dados da Wikipedia (Mérida, clima 'Aw'): máxima média anual 33,5°C; mais fria em dezembro/janeiro (~30,6–30,8°C), mais quente em abril–maio (36,3–36,7°C); recorde de 44,2°C (maio). Médias das máximas por mês (tabela): jan 30,8; fev 32,1; mar 34,5; abr 36,3; mai 36,7; jun 35,1; jul 35,0; ago 35,1; set 34,2; out 32,7; nov 31,6; dez 30,7. Estação chuvosa: junho a outubro (setembro ≈184 mm; ~996 mm/ano), sujeita a ondas tropicais. Wikivoyage: janeiro ~24°C (média diária), junho ~35°C; a cidade funciona de manhã e à noite, com siesta. MESES INSUPORTÁVEIS AO MEIO-DIA: abril, maio e junho (35–37°C de máxima média, com picos acima de 40°C) e, em menor grau, julho–agosto (35°C + umidade e chuva). MELHOR JANELA: novembro a fevereiro (coincide com flamingos em Celestún, nov–mar). O QUE ISSO FAZ COM O ROTEIRO: (1) ruínas na abertura (08:00) e fora de 11:00–15:00; (2) cenotes, praia e museus com ar-condicionado entre 11:00 e 16:00; (3) comece o dia cedo e deixe a noite (20:00–23:00) para eventos e jantar; (4) leve água, boné, protetor e roupa leve; (5) em jun–out, tenha plano B para chuva da tarde (2–3 h) e escadas escorregadias em ruínas.",
+      "duracao": {
+        "min": 0,
+        "tipica": 0,
+        "max": 0
+      },
+      "horarios": {
+        "seg": "",
+        "ter": "",
+        "qua": "",
+        "qui": "",
+        "sex": "",
+        "sab": "",
+        "dom": ""
+      },
+      "diasFechados": [],
+      "melhorHorario": "Agenda: 08:00–11:00 ruínas; 11:00–16:00 cenote/praia/museu; 20:00 eventos.",
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "inclui": "Sem custo.",
+        "coletadoEm": "2026-10-08",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+        ]
+      },
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": [
+        "Insolação/desidratação entre abril e agosto"
+      ],
+      "pontoPartida": "Planeje o dia em blocos de manhã cedo e fim de tarde/noite.",
+      "dicasAgente": [
+        "[VALE CADA PESO] Para casal em ritmo intenso: viaje entre novembro e fevereiro; evite abril–junho, a menos que aceite madrugar e ficar em cenote/piscina ao meio-dia.",
+        "Se viajar em abril–agosto: Río Lagartos (flamingos mar–out) funciona, mas só ao amanhecer; deixe ruínas para 08:00–10:00."
+      ],
+      "alertas": [
+        "Estatísticas da Wikipedia (dados climáticos históricos, não previsão).",
+        "Duas versões da tabela (36,3°C vs 36,7°C em maio) aparecem nas leituras; ordem de grandeza igual."
+      ],
+      "imagem": {
+        "url": "",
+        "credito": "",
+        "licenca": "",
+        "fonte": ""
+      },
+      "fontes": [
+        "https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n",
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      ],
+      "confianca": "parcial"
+    }
+  ]
+}

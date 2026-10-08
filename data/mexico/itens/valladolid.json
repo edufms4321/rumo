@@ -1,0 +1,433 @@
+[
+  {
+    "id": "mx-vld-cenote-ik-kil-perto-de-chichen-itza",
+    "fontes": [
+      {
+        "url": "https://www.jonnymelon.com/tulum-cenotes/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/49475814"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Cenote Ik Kil (perto de Chichén Itzá)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "ik-kil",
+      "chichen-itza",
+      "cipos",
+      "excursao",
+      "pega-turista"
+    ],
+    "coords": {
+      "lat": 20.6611312,
+      "lng": -88.5504959
+    },
+    "descricaoCurta": "O cenote 'de cartão-postal' com cipós pendurados a ~3 km de Chichén Itzá; lindo, mas é a parada obrigatória dos ônibus de excursão.",
+    "descricaoLonga": "Cenote aberto com paredes verticais e cascatas de raízes, a cerca de 3 km de Chichén Itzá. As fontes conflitam no ingresso: 80 MXN (jonnymelon, jan/2026) vs 400 MXN (Wikivoyage Chichén, referente a 2025). Horário relatado 9h–17h. É o cenote mais turístico do roteiro: mais lotado ao meio-dia, quando chegam os tours que combinam Chichén + Ik Kil + almoço. Para quem vai de carro/ônibus por conta própria, vale como parada de 1h depois de Chichén.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Abertura (9h) ou fim da tarde; evitar 11h–15h.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 80,
+      "max": 400,
+      "por": "pessoa",
+      "inclui": "Entrada (valor divergente entre fontes)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.jonnymelon.com/tulum-cenotes/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Ik_Kil%2C_Yucatan%2C_Dec_2011_-_05.jpg?width=900",
+        "credito": "Shinya Suzuki",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Ik_Kil,_Yucatan,_Dec_2011_-_05.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "pega-turista",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: só se estiver na região de Chichén e puder entrar na abertura.",
+      "CORTE SE APERTAR: é o principal pega-turista da região: excursões saindo de Cancún/Playa que 'incluem' Ik Kil elevam o preço do passeio; prefira Suytun ou Zací, mais baratos.",
+      "Levar maiô e toalha."
+    ],
+    "alertas": [
+      "Preço entre 80 e 400: pergunte na bilheteria antes de pagar.",
+      "Em baixa temporada o horário pode mudar."
+    ]
+  },
+  {
+    "id": "mx-vld-cenote-suytun-valladolid",
+    "fontes": [
+      {
+        "url": "https://www.jonnymelon.com/tulum-cenotes/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3680984963"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cenote Suytun (Valladolid)",
+    "cidadeId": "valladolid",
+    "categoria": "natureza",
+    "tags": [
+      "cenote",
+      "suytun",
+      "foto",
+      "luz",
+      "valladolid",
+      "economia"
+    ],
+    "coords": {
+      "lat": 20.6989866,
+      "lng": -88.1245704
+    },
+    "descricaoCurta": "O cenote da plataforma de pedra e raio de luz, entre Valladolid e Chichén; barato e muito fotogênico.",
+    "descricaoLonga": "Cenote em caverna com plataforma central circular. Ingresso relatado em 120 MXN (jonnymelon, jan/2026) e horário 9h–17h. Fica na Carretera Mérida–Puerto Juárez (Tikuch, Valladolid), por isso é fácil encaixar na volta de Chichén. Fotos de 'pessoa na plataforma sob a luz' geram fila nos horários de pico.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Abertura (9h) para fila menor; o feixe de luz tende ao meio-dia (conhecimento geral).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 120,
+      "max": 120,
+      "por": "pessoa",
+      "inclui": "Entrada",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.jonnymelon.com/tulum-cenotes/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cenote_Suytun_2009_06.jpg?width=900",
+        "credito": "Daniel Lobo",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Cenote_Suytun_2009_06.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: um dos cenotes mais baratos de visual espetacular.",
+      "CORTE SE APERTAR: sem carro, o táxi desde Valladolid pesa; só vale combinado com Chichén/Ek Balam no mesmo dia."
+    ],
+    "alertas": [
+      "Preço e horário de uma única fonte (jan/2026); confirme.",
+      "Se estiver chovendo, a luz do raio some."
+    ]
+  },
+  {
+    "id": "mx-vld-chichen-itza-ingresso-unico-de-697-e-como-visitar",
+    "fontes": [
+      {
+        "url": "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html"
+      },
+      {
+        "url": "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+      },
+      {
+        "url": "https://www.yucatan.com.mx/merida/2026/04/14/precio-de-la-autopista-merida-cancun-en-2026.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/49475802"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Chichén Itzá (ingresso único de 697 e como visitar)",
+    "cidadeId": "valladolid",
+    "categoria": "atracao",
+    "tags": [
+      "maia",
+      "maravilha",
+      "chichen-itza",
+      "dia-inteiro",
+      "inah",
+      "calor",
+      "bilhete-unico"
+    ],
+    "coords": {
+      "lat": 20.6828763,
+      "lng": -88.5687184
+    },
+    "descricaoCurta": "A grande maravilha maia: desde 27/mar/2026 há bilhete único de MXN 697 para estrangeiros (antes, duas filas somando 676); fica a ~2h30–3h de Playa/Cancún.",
+    "descricaoLonga": "INGRESSO REAL PARA ESTRANGEIRO: em 2026 eram DUAS taxas: INAH 105 + governo estadual de Yucatán (AAFY) 571 = 676. Desde 27/mar/2026 (testes em 21–22/mar) há JANELA ÚNICA com bilhete de 697 (pagamento único no Centro de Atención a Visitantes). Isenções de taxa estadual: maiores de 60, menores de 13, estudantes e professores com credencial etc. Domingo grátis só para mexicanos e estrangeiros RESIDENTES: o casal paga. Não se pode subir El Castillo nem o Templo dos Guerreiros (proibido desde 2006). CALOR: não achei aviso oficial do INAH em fonte aberta; no sítio sem sombra, o melhor é chegar à abertura, levar chapéu, protetor e 1,5 L de água cada, e sair antes do meio-dia (excursões chegam por volta das 11h). Horário oficial: não consegui confirmar (página do INAH deu 404); o Wikivoyage diz apenas 'diário'. Show de luz e som noturno: segundo o Wikivoyage, noturno às 20h (confirmar). COMO IR: ônibus ADO Cancún–Chichén ~M$258 (3h) (Wikivoyage); colectivo Valladolid–Chichén ~M$50 (45 min); carro por autopista cuota: Valladolid–Cancún M$427 (abr/2026).",
+    "duracao": {
+      "min": 150,
+      "tipica": 210,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Abertura do sítio: entrar antes das excursões e do calor; ver El Castillo, jogo de bola e Cenote Sagrado antes das 11h.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 697,
+      "max": 697,
+      "por": "pessoa",
+      "inclui": "Bilhete único para estrangeiros (desde 27/mar/2026): inclui as taxas federal (INAH) e estadual; estacionamento/guia à parte",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.yucatan.com.mx/yucatan/2026/03/24/eliminan-el-doble-pago-para-entrar-a-chichen-itza-aplicaran-boleto-unico.html"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Chichen_Itza"
+        },
+        {
+          "url": "https://www.poresto.com/yucatan/merida/2026/1/2/cuanto-cuesta-la-entrada-a-chichen-itza-para-mexicanos-yucatecos-y-extranjeros-en-2026.html"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen_Itza_3.jpg?width=900",
+        "credito": "Daniel Schwen",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Proibido subir nas estruturas.",
+        "Tripés exigem licença (Wikivoyage)."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é a atração arqueológica #1 da península: ir com a abertura.",
+      "VALE CADA PESO: fazer Chichén + Suytun + Valladolid (almoço M$80–110) em um dia de carro.",
+      "CORTE SE APERTAR: tours de Cancún/Playa que embutem Ik Kil e almoço: com ADO (~M$258) + entrada de 697 você controla o custo.",
+      "CORTE SE APERTAR: guias na porta e souvenirs de dentro do sítio (preços iniciais costumam ser negociáveis)."
+    ],
+    "alertas": [
+      "Entrada era 676 (duas taxas) até mar/2026 e 697 hoje; confirmar se houve novo reajuste.",
+      "Calor extremo e quase nenhuma sombra: hidratação obrigatória.",
+      "Horário oficial NÃO confirmado."
+    ]
+  },
+  {
+    "id": "mx-vld-mercado-e-cenote-zaci-em-valladolid",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Valladolid_(Yucat%C3%A1n)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/50510578"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado e cenote Zací em Valladolid",
+    "cidadeId": "valladolid",
+    "categoria": "restaurante",
+    "tags": [
+      "valladolid",
+      "mercado",
+      "cochinita-pibil",
+      "cenote-zaci",
+      "economico"
+    ],
+    "coords": {
+      "lat": 20.6916702,
+      "lng": -88.1973624
+    },
+    "descricaoCurta": "Valladolid: refeições de M$80–110 no mercado, tacos de M$16 e o cenote Zací a M$60 (Wikivoyage); base ótima para Chichén, Suytun e Ek Balam.",
+    "descricaoLonga": "Cidade de ~56 mil habitantes, Pueblo Mágico a ~45 min de Chichén Itzá. Mercado de comida: refeições por ~M$80–110; tacos a ~M$16; especialidades: cochinita pibil e relleno negro. Cenote Zací: ingresso M$60 (Wikivoyage) e caminho sob cortina de estalactites. Chegar: ADO Cancún–Valladolid ~2 h; Playa del Carmen 1h30; Tren Maya também para em Valladolid.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço no mercado depois de Chichén.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 16,
+      "max": 110,
+      "por": "pessoa",
+      "inclui": "Tacos M$16 até refeição de mercado M$80–110; Zací M$60 à parte",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Valladolid_(Yucat%C3%A1n)"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: almoço no mercado + Zací é um dos dias mais baratos da viagem.",
+      "CORTE SE APERTAR: restaurantes de praça turística; vale dormir em Valladolid se for fazer Chichén + Suytun + Ek Balam."
+    ],
+    "alertas": [
+      "Preços de data não informada (Wikivoyage)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  }
+]

@@ -84,6 +84,7 @@ const NOME_DO_MODAL: Record<Modal, string> = {
   'veiculo-alugado': 'com o veiculo alugado',
   'carro-fretado': 'de carro',
   onibus: 'de onibus',
+  trem: 'de trem',
   barco: 'de barco',
   voo: 'de aviao',
 };

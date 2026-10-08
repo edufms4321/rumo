@@ -1,0 +1,101 @@
+[
+  {
+    "id": "gru-mex",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/GRU/MEX"
+      },
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cidade-do-Mexico-Juarez-e-outros-aeroportos-MEX"
+      },
+      {
+        "url": "https://wise.com/br/blog/viajar-para-mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "origemIata": "GRU",
+    "destinoIata": "MEX",
+    "cias": [
+      "Aeroméxico (direto)",
+      "LATAM (direto)",
+      "Avianca (com conexão)"
+    ],
+    "escalas": "Direto (Aeroméxico e LATAM, Boeing 787). Também há opções com 1 conexão (ex.: Avianca, R$ 2.922 ida e volta). Atenção: conectar em aeroporto mexicano exige visto mexicano para brasileiros.",
+    "duracaoTotalMin": 571,
+    "frequencia": "Kayak: ~2 voos/dia (~14/semana): Aeroméxico e LATAM com 7 voos/semana cada. Outras fontes antigas citam 3-10 semanais; usar Kayak como referência mais recente.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 2785,
+      "max": 3913,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/GRU/MEX"
+        },
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cidade-do-Mexico-Juarez-e-outros-aeroportos-MEX"
+        },
+        {
+          "url": "https://wise.com/br/blog/viajar-para-mexico"
+        }
+      ],
+      "observacao": "Faixa típica do Kayak (últimas 72 h + 12 meses de histórico). Mais barato encontrado R$ 2.922 (Avianca com escala); direto mínimo R$ 2.995 (Aeroméxico). Média citada pela Wise: ~R$ 4.386 (data indefinida). Março é o mês mais barato (R$ 2.787) segundo o Kayak. Preço indicativo, muda diariamente."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/GRU/MEX",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "gru-cun",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/GRU/CUN"
+      },
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cancun-CUN"
+      },
+      {
+        "url": "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "origemIata": "GRU",
+    "destinoIata": "CUN",
+    "cias": [
+      "Copa (via PTY)",
+      "Avianca (via BOG)",
+      "Arajet (via PUJ)",
+      "LATAM",
+      "GOL",
+      "Aeroméxico (via MEX)"
+    ],
+    "escalas": "SEM voo direto hoje (Kayak: 'atualmente não há voos diretos'). 1 conexão: PTY (35% das opções), PUJ (28%), BOG (22%) ou MEX. Evite conexão em MEX: brasileiro precisa de visto até para trânsito. Voo direto Aeroméxico GRU-CUN existia em 2022 e não aparece mais; GOL retomou BSB-CUN em dez/2024 (não verificado se segue ativo).",
+    "duracaoTotalMin": 707,
+    "frequencia": "Várias opções diárias combinadas entre cias (Kayak não informa número exato).",
+    "preco": {
+      "moeda": "BRL",
+      "min": 2445,
+      "max": 3227,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/GRU/CUN"
+        },
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-Guarulhos-GRU/Cancun-CUN"
+        },
+        {
+          "url": "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+        }
+      ],
+      "observacao": "Faixa típica do Kayak; mais barato recente R$ 2.042; março mais barato (R$ 2.317). Tempo total típico com 1 escala: 11 a 13 h (menor: 11h47 via PTY). Preço indicativo."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/flight-routes/GRU/CUN",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  }
+]

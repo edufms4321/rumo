@@ -1,0 +1,3169 @@
+{
+ "coletadoEm": "2026-10-08",
+ "climaPorCidadeEMes": [
+  {
+   "cidade": "cartagena",
+   "mes": 1,
+   "tempMinC": 24.0,
+   "tempMaxC": 31.1,
+   "chuvaMm": 0.5,
+   "diasDeChuva": 0.1,
+   "resumo": "Pleno período seco, céu aberto e alísios (0 mm, 0.1 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~19 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.3 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 2,
+   "tempMinC": 24.2,
+   "tempMaxC": 31.1,
+   "chuvaMm": 0.3,
+   "diasDeChuva": 0.1,
+   "resumo": "Mês mais seco do ano (0 mm, 0.1 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~21 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.5 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 3,
+   "tempMinC": 24.9,
+   "tempMaxC": 31.2,
+   "chuvaMm": 3.2,
+   "diasDeChuva": 0.4,
+   "resumo": "Seco, calor crescente (3 mm, 0.4 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~20 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 4,
+   "tempMinC": 25.8,
+   "tempMaxC": 31.7,
+   "chuvaMm": 18.6,
+   "diasDeChuva": 2.0,
+   "resumo": "Ainda seco: chuva rara (19 mm, 2.0 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~14 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.9 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 5,
+   "tempMinC": 26.1,
+   "tempMaxC": 32.0,
+   "chuvaMm": 117.4,
+   "diasDeChuva": 7.0,
+   "resumo": "Início da estação chuvosa (117 mm, 7.0 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~10 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 6,
+   "tempMinC": 26.1,
+   "tempMaxC": 32.3,
+   "chuvaMm": 92.5,
+   "diasDeChuva": 8.5,
+   "resumo": "Chuvoso, um pouco menos que maio e julho (92 mm, 8.5 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~9 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 7,
+   "tempMinC": 25.7,
+   "tempMaxC": 32.2,
+   "chuvaMm": 121.1,
+   "diasDeChuva": 8.5,
+   "resumo": "Chuvoso (121 mm, 8.5 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~10 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.9 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 8,
+   "tempMinC": 25.9,
+   "tempMaxC": 32.2,
+   "chuvaMm": 127.5,
+   "diasDeChuva": 9.5,
+   "resumo": "Chuvoso (128 mm, 9.5 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~9 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 9,
+   "tempMinC": 25.8,
+   "tempMaxC": 32.1,
+   "chuvaMm": 133.1,
+   "diasDeChuva": 10.3,
+   "resumo": "Chuvoso (133 mm, 10.3 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~8 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 10,
+   "tempMinC": 25.6,
+   "tempMaxC": 31.7,
+   "chuvaMm": 236.5,
+   "diasDeChuva": 12.1,
+   "resumo": "Pico das chuvas: mês mais chuvoso do ano (236 mm, 12.1 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~9 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~0.9 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 11,
+   "tempMinC": 25.5,
+   "tempMaxC": 31.5,
+   "chuvaMm": 178.2,
+   "diasDeChuva": 8.9,
+   "resumo": "Ainda muito chuvoso (178 mm, 8.9 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~10 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "cartagena",
+   "mes": 12,
+   "tempMinC": 24.8,
+   "tempMaxC": 31.4,
+   "chuvaMm": 44.7,
+   "diasDeChuva": 2.6,
+   "resumo": "Volta ao período seco (45 mm, 2.6 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~14 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Dia coberto: museus do centro histórico (Palácio da Inquisição, Museu Naval do Caribe, Museu do Ouro Zenú), aula de culinária caribenha, cafés e rooftops; deixar passeio de barco/Ilhas do Rosário para o dia seguinte se o mar estiver turvo ou houver alerta.",
+   "estacao": "Aeropuerto Rafael Núñez (IDEAM 14015080, 2 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=10.4&longitude=-75.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=10.6&longitude=-75.8&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 1,
+   "tempMinC": 25.2,
+   "tempMaxC": 28.8,
+   "chuvaMm": 84.0,
+   "diasDeChuva": 12.4,
+   "resumo": "Resto da estação úmida, com ventos fortes (84 mm, 12.4 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~28 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 2,
+   "tempMinC": 25.2,
+   "tempMaxC": 28.9,
+   "chuvaMm": 35.9,
+   "diasDeChuva": 7.9,
+   "resumo": "Seco (36 mm, 7.9 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 3,
+   "tempMinC": 25.5,
+   "tempMaxC": 29.4,
+   "chuvaMm": 28.1,
+   "diasDeChuva": 4.5,
+   "resumo": "Mês mais seco do ano (28 mm, 4.5 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~25 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.6 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 4,
+   "tempMinC": 26.2,
+   "tempMaxC": 30.0,
+   "chuvaMm": 27.4,
+   "diasDeChuva": 3.9,
+   "resumo": "Seco (27 mm, 3.9 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~23 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.6 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 5,
+   "tempMinC": 26.5,
+   "tempMaxC": 30.3,
+   "chuvaMm": 145.9,
+   "diasDeChuva": 9.3,
+   "resumo": "Início da estação úmida (146 mm, 9.3 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~22 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.5 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 6,
+   "tempMinC": 26.4,
+   "tempMaxC": 30.4,
+   "chuvaMm": 196.0,
+   "diasDeChuva": 13.5,
+   "resumo": "Úmido (196 mm, 13.5 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~24 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.6 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Estação de furacões aberta, mas passagens a menos de 300 km são raras em jun-ago (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 7,
+   "tempMinC": 26.3,
+   "tempMaxC": 30.2,
+   "chuvaMm": 186.4,
+   "diasDeChuva": 16.1,
+   "resumo": "Úmido (186 mm, 16.1 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Estação de furacões aberta, mas passagens a menos de 300 km são raras em jun-ago (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 8,
+   "tempMinC": 26.3,
+   "tempMaxC": 30.5,
+   "chuvaMm": 189.8,
+   "diasDeChuva": 15.8,
+   "resumo": "Úmido (190 mm, 15.8 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~22 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Estação de furacões aberta, mas passagens a menos de 300 km são raras em jun-ago (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 9,
+   "tempMinC": 26.0,
+   "tempMaxC": 30.8,
+   "chuvaMm": 227.2,
+   "diasDeChuva": 15.6,
+   "resumo": "Úmido, entrada no pico do furacão (227 mm, 15.6 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~16 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Mês de pico de risco de ciclone tropical (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 10,
+   "tempMinC": 25.8,
+   "tempMaxC": 30.4,
+   "chuvaMm": 317.1,
+   "diasDeChuva": 18.4,
+   "resumo": "Pico de chuva e de risco de furacão (317 mm, 18.4 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~17 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Mês de pico de risco de ciclone tropical (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 11,
+   "tempMinC": 25.6,
+   "tempMaxC": 29.6,
+   "chuvaMm": 317.6,
+   "diasDeChuva": 19.1,
+   "resumo": "Pico de chuva e de risco de furacão (Eta e Iota passaram em nov/2020) (318 mm, 19.1 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~23 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.5 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos. Mês de pico de risco de ciclone tropical (ver temporadaFuracoes).",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "san-andres",
+   "mes": 12,
+   "tempMinC": 25.5,
+   "tempMaxC": 29.3,
+   "chuvaMm": 153.3,
+   "diasDeChuva": 15.2,
+   "resumo": "Fim da estação úmida (153 mm, 15.2 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Casa Museo Isleña e comércio no centro; mergulho/snorkel dependem de mar calmo: manter 1 dia de folga no roteiro para reprogramar passeios de barco (Johnny Cay, Acuario/Haynes Cay) e a volta de carro/moto pela ilha.",
+   "estacao": "Aeropuerto Sesquicentenario (IDEAM 17015010, 1 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_(island)",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=12.55&longitude=-81.6&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=12.6&longitude=-81.5&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 1,
+   "tempMinC": 22.6,
+   "tempMaxC": 33.1,
+   "chuvaMm": 0.1,
+   "diasDeChuva": 0.1,
+   "resumo": "Seco e ventoso (0 mm, 0.1 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~33 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.3 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 2,
+   "tempMinC": 23.5,
+   "tempMaxC": 33.7,
+   "chuvaMm": 1.3,
+   "diasDeChuva": 0.2,
+   "resumo": "Seco e ventoso (1 mm, 0.2 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~34 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.4 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 3,
+   "tempMinC": 24.5,
+   "tempMaxC": 33.9,
+   "chuvaMm": 2.2,
+   "diasDeChuva": 0.3,
+   "resumo": "Seco (2 mm, 0.3 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~32 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 4,
+   "tempMinC": 25.5,
+   "tempMaxC": 33.8,
+   "chuvaMm": 13.6,
+   "diasDeChuva": 1.4,
+   "resumo": "Quase seco (14 mm, 1.4 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~25 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 5,
+   "tempMinC": 25.7,
+   "tempMaxC": 33.2,
+   "chuvaMm": 51.8,
+   "diasDeChuva": 3.9,
+   "resumo": "Chuvas leves a moderadas (52 mm, 3.9 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~18 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.8 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 6,
+   "tempMinC": 25.4,
+   "tempMaxC": 33.3,
+   "chuvaMm": 60.2,
+   "diasDeChuva": 5.4,
+   "resumo": "Chuvas leves a moderadas (60 mm, 5.4 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~19 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 7,
+   "tempMinC": 25.0,
+   "tempMaxC": 33.4,
+   "chuvaMm": 62.0,
+   "diasDeChuva": 6.2,
+   "resumo": "Chuvas leves a moderadas (62 mm, 6.2 dias com chuva).",
+   "marEVento": "ventos moderados a fortes: média de ~22 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.3 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 8,
+   "tempMinC": 24.8,
+   "tempMaxC": 33.1,
+   "chuvaMm": 62.5,
+   "diasDeChuva": 8.5,
+   "resumo": "Chuvas leves a moderadas (62 mm, 8.5 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~17 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.8 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 9,
+   "tempMinC": 24.7,
+   "tempMaxC": 32.9,
+   "chuvaMm": 99.0,
+   "diasDeChuva": 8.8,
+   "resumo": "Chuvoso moderado (99 mm, 8.8 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~13 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.3 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 10,
+   "tempMinC": 24.4,
+   "tempMaxC": 32.4,
+   "chuvaMm": 126.9,
+   "diasDeChuva": 8.9,
+   "resumo": "Pico das chuvas do ano (127 mm, 8.9 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~14 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 11,
+   "tempMinC": 24.0,
+   "tempMaxC": 32.4,
+   "chuvaMm": 74.3,
+   "diasDeChuva": 5.6,
+   "resumo": "Ainda úmido (74 mm, 5.6 dias com chuva).",
+   "marEVento": "ventos fracos a moderados: média de ~18 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.7 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "santa-marta",
+   "mes": 12,
+   "tempMinC": 23.1,
+   "tempMaxC": 32.7,
+   "chuvaMm": 8.3,
+   "diasDeChuva": 1.1,
+   "resumo": "Volta ao período seco (8 mm, 1.1 dias com chuva).",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro Tairona e Casa de la Aduana no centro, Quinta de San Pedro Alejandrino, almoço/café em Minca (serra, mais úmida); empurrar Tayrona/barco para outro dia se chover forte ou o mar estiver agitado.",
+   "estacao": "Aeropuerto Simón Bolívar (IDEAM 15015050, 4 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Santa_Marta",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.3&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.6&longitude=-74.3&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 1,
+   "tempMinC": 20.0,
+   "tempMaxC": 30.1,
+   "chuvaMm": 27.4,
+   "diasDeChuva": 1.5,
+   "resumo": "Seco (27 mm, 1.5 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fortes (alísios): média de ~30 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.0 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 2,
+   "tempMinC": 20.2,
+   "tempMaxC": 30.1,
+   "chuvaMm": 45.7,
+   "diasDeChuva": 2.2,
+   "resumo": "Seco (leve alta de chuva em fevereiro) (46 mm, 2.2 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fortes (alísios): média de ~30 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.1 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 3,
+   "tempMinC": 20.9,
+   "tempMaxC": 30.1,
+   "chuvaMm": 31.5,
+   "diasDeChuva": 1.8,
+   "resumo": "Seco (32 mm, 1.8 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.9 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 4,
+   "tempMinC": 21.7,
+   "tempMaxC": 30.4,
+   "chuvaMm": 113.8,
+   "diasDeChuva": 5.3,
+   "resumo": "Início das chuvas (114 mm, 5.3 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~23 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.8 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 5,
+   "tempMinC": 22.3,
+   "tempMaxC": 31.0,
+   "chuvaMm": 160.0,
+   "diasDeChuva": 7.4,
+   "resumo": "Chuvoso (primeiro pico) (160 mm, 7.4 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~19 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.7 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 6,
+   "tempMinC": 22.6,
+   "tempMaxC": 31.7,
+   "chuvaMm": 113.7,
+   "diasDeChuva": 5.6,
+   "resumo": "Chuvoso (114 mm, 5.6 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~22 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.8 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 7,
+   "tempMinC": 22.4,
+   "tempMaxC": 32.0,
+   "chuvaMm": 67.2,
+   "diasDeChuva": 3.2,
+   "resumo": "Menos chuva do meio do ano (67 mm, 3.2 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~25 km/h a 10 m; mar aberto agitado (altura máx. diária média de onda ~2.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 8,
+   "tempMinC": 22.2,
+   "tempMaxC": 32.0,
+   "chuvaMm": 137.3,
+   "diasDeChuva": 5.4,
+   "resumo": "Chuvoso (137 mm, 5.4 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~19 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.7 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 9,
+   "tempMinC": 21.9,
+   "tempMaxC": 31.5,
+   "chuvaMm": 205.8,
+   "diasDeChuva": 9.4,
+   "resumo": "Chuvoso (206 mm, 9.4 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fracos a moderados: média de ~14 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 10,
+   "tempMinC": 22.1,
+   "tempMaxC": 31.1,
+   "chuvaMm": 294.7,
+   "diasDeChuva": 11,
+   "resumo": "Pico das chuvas (295 mm, 11.0 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fracos a moderados: média de ~14 km/h a 10 m; mar aberto mais calmo (altura máx. diária média de onda ~1.2 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 11,
+   "tempMinC": 22.1,
+   "tempMaxC": 30.6,
+   "chuvaMm": 314.2,
+   "diasDeChuva": 9.1,
+   "resumo": "Pico das chuvas (mês mais chuvoso) (314 mm, 9.1 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos moderados a fortes: média de ~20 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.5 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "palomino",
+   "mes": 12,
+   "tempMinC": 21.4,
+   "tempMaxC": 30.1,
+   "chuvaMm": 109.3,
+   "diasDeChuva": 3.5,
+   "resumo": "Chuva cai, volta ao seco (109 mm, 3.5 dias com chuva). Temperaturas são interpolação entre duas estações vizinhas, não medição em Palomino.",
+   "marEVento": "ventos fortes (alísios): média de ~27 km/h a 10 m; mar aberto moderado (altura máx. diária média de onda ~1.8 m). Valores de MODELO (ERA5/Open-Meteo; vento 1991-2020, ondas = média de ~1.550 dias dentro de 2016-2025), não medição; baías abrigadas e o lado sotavento da ilha ficam mais calmos.",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Poucas opções cobertas: ficar na pousada (rede, massagem, culinária local); tubing no Rio Palomino só se não chover nas montanhas da Sierra (o rio sobe rápido); alternativa é voltar a Santa Marta para museus.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Palomino (IDEAM 15030020, 30 m). Temperaturas: média das estações IDEAM Termoguajira (Dibulla, ~30 km a leste) e Parque Tayrona (~60 km a oeste)",
+   "normalPeriodo": "1981-2010 (Palomino não tem normal 1991-2020 no arquivo IDEAM)",
+   "fontes": [
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.4&longitude=-73.55&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean&wind_speed_unit=kmh&timezone=America%2FBogota",
+    "https://marine-api.open-meteo.com/v1/marine?latitude=11.7&longitude=-73.6&start_date=2016-01-01&end_date=2025-12-31&daily=wave_height_max&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 1,
+   "tempMinC": 17.5,
+   "tempMaxC": 27.9,
+   "chuvaMm": 71.5,
+   "diasDeChuva": 8.0,
+   "resumo": "Mês mais seco, ainda assim com chuva em ~8 dias (72 mm, 8.0 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 2,
+   "tempMinC": 17.8,
+   "tempMaxC": 28.3,
+   "chuvaMm": 80.7,
+   "diasDeChuva": 9.3,
+   "resumo": "Seco (81 mm, 9.3 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 3,
+   "tempMinC": 17.9,
+   "tempMaxC": 28.2,
+   "chuvaMm": 132.3,
+   "diasDeChuva": 13.6,
+   "resumo": "Chuvas voltam (132 mm, 13.6 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 4,
+   "tempMinC": 17.9,
+   "tempMaxC": 27.8,
+   "chuvaMm": 181.2,
+   "diasDeChuva": 17.7,
+   "resumo": "1ª estação chuvosa (181 mm, 17.7 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 5,
+   "tempMinC": 18.0,
+   "tempMaxC": 27.9,
+   "chuvaMm": 218.9,
+   "diasDeChuva": 18.6,
+   "resumo": "Pico da 1ª estação chuvosa (219 mm, 18.6 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 6,
+   "tempMinC": 17.7,
+   "tempMaxC": 28.3,
+   "chuvaMm": 145.0,
+   "diasDeChuva": 14.2,
+   "resumo": "Menos chuvoso do meio do ano (145 mm, 14.2 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 7,
+   "tempMinC": 17.5,
+   "tempMaxC": 28.6,
+   "chuvaMm": 134.0,
+   "diasDeChuva": 13.5,
+   "resumo": "Menos chuvoso do meio do ano (134 mm, 13.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 8,
+   "tempMinC": 17.6,
+   "tempMaxC": 28.7,
+   "chuvaMm": 126.1,
+   "diasDeChuva": 14.4,
+   "resumo": "Menos chuvoso do meio do ano (Feria de las Flores entre o fim de jul e o início de ago) (126 mm, 14.4 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 9,
+   "tempMinC": 17.5,
+   "tempMaxC": 28.1,
+   "chuvaMm": 170.7,
+   "diasDeChuva": 16.4,
+   "resumo": "Chuvas voltam (171 mm, 16.4 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 10,
+   "tempMinC": 17.4,
+   "tempMaxC": 27.3,
+   "chuvaMm": 211.5,
+   "diasDeChuva": 19.5,
+   "resumo": "2ª estação chuvosa: mês com mais dias de chuva do ano (212 mm, 19.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 11,
+   "tempMinC": 17.6,
+   "tempMaxC": 27.1,
+   "chuvaMm": 171.3,
+   "diasDeChuva": 16.9,
+   "resumo": "2ª estação chuvosa (171 mm, 16.9 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "medellin",
+   "mes": 12,
+   "tempMinC": 17.6,
+   "tempMaxC": 27.3,
+   "chuvaMm": 115.4,
+   "diasDeChuva": 11.3,
+   "resumo": "Chuva diminui, entrada no período seco (Alumbrados) (115 mm, 11.3 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu de Antioquia, Casa da Memória, Parque Explora, Museu de Arte Moderna; Comuna 13 e Metrocable até o Parque Arví só com céu aberto.",
+   "estacao": "Aeropuerto Olaya Herrera (IDEAM 27015330, 1490 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 1,
+   "tempMinC": 6.4,
+   "tempMaxC": 20.1,
+   "chuvaMm": 32.9,
+   "diasDeChuva": 4.9,
+   "resumo": "Mês mais seco e de madrugadas mais frias (33 mm, 4.9 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 2,
+   "tempMinC": 7.6,
+   "tempMaxC": 20.2,
+   "chuvaMm": 51.4,
+   "diasDeChuva": 7.4,
+   "resumo": "Seco, céu mais aberto (51 mm, 7.4 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 3,
+   "tempMinC": 8.6,
+   "tempMaxC": 19.8,
+   "chuvaMm": 83.4,
+   "diasDeChuva": 10.9,
+   "resumo": "Volta das chuvas, tardes de garoa (83 mm, 10.9 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 4,
+   "tempMinC": 9.6,
+   "tempMaxC": 19.5,
+   "chuvaMm": 116.7,
+   "diasDeChuva": 13.4,
+   "resumo": "Pico da 1ª estação chuvosa (117 mm, 13.4 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 5,
+   "tempMinC": 9.6,
+   "tempMaxC": 19.4,
+   "chuvaMm": 109.0,
+   "diasDeChuva": 13.5,
+   "resumo": "Ainda chuvoso (109 mm, 13.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 6,
+   "tempMinC": 9.1,
+   "tempMaxC": 18.9,
+   "chuvaMm": 57.4,
+   "diasDeChuva": 10.2,
+   "resumo": "Transição para a janela seca do meio do ano (57 mm, 10.2 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 7,
+   "tempMinC": 8.6,
+   "tempMaxC": 18.5,
+   "chuvaMm": 48.6,
+   "diasDeChuva": 9.5,
+   "resumo": "Janela seca do meio do ano (49 mm, 9.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 8,
+   "tempMinC": 8.4,
+   "tempMaxC": 18.8,
+   "chuvaMm": 44.3,
+   "diasDeChuva": 9.1,
+   "resumo": "Janela seca do meio do ano (44 mm, 9.1 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 9,
+   "tempMinC": 7.8,
+   "tempMaxC": 19.2,
+   "chuvaMm": 56.7,
+   "diasDeChuva": 9.0,
+   "resumo": "Chuva aumenta de novo (57 mm, 9.0 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 10,
+   "tempMinC": 8.3,
+   "tempMaxC": 19.4,
+   "chuvaMm": 108.2,
+   "diasDeChuva": 12.1,
+   "resumo": "Pico da 2ª estação chuvosa (108 mm, 12.1 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 11,
+   "tempMinC": 8.6,
+   "tempMaxC": 19.4,
+   "chuvaMm": 107.2,
+   "diasDeChuva": 12.1,
+   "resumo": "2ª estação chuvosa (107 mm, 12.1 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "bogota",
+   "mes": 12,
+   "tempMinC": 7.5,
+   "tempMaxC": 19.8,
+   "chuvaMm": 61.4,
+   "diasDeChuva": 7.7,
+   "resumo": "Chuva diminui, entrada no período seco (61 mm, 7.7 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu do Ouro, Museu Botero, Museu Nacional, La Candelaria; Monserrate só com céu limpo (de manhã); Catedral de Sal de Zipaquirá é passeio de dia inteiro e coberto.",
+   "estacao": "Aeropuerto El Dorado (IDEAM 21205791, 2547 m)",
+   "normalPeriodo": "1991-2020",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "salento",
+   "mes": 1,
+   "tempMinC": 12.9,
+   "tempMaxC": 20.6,
+   "chuvaMm": 249.7,
+   "diasDeChuva": 9.2,
+   "resumo": "Chuvoso mesmo na época menos úmida (volume alto concentrado em poucos dias) (250 mm, 9.2 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 2,
+   "tempMinC": 13.1,
+   "tempMaxC": 20.8,
+   "chuvaMm": 190.8,
+   "diasDeChuva": 9.1,
+   "resumo": "Menos chuva do 1º semestre (191 mm, 9.1 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 3,
+   "tempMinC": 13.2,
+   "tempMaxC": 20.8,
+   "chuvaMm": 255.3,
+   "diasDeChuva": 12.5,
+   "resumo": "Chuvoso (255 mm, 12.5 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 4,
+   "tempMinC": 13.7,
+   "tempMaxC": 20.7,
+   "chuvaMm": 262.4,
+   "diasDeChuva": 12.2,
+   "resumo": "Chuvoso (262 mm, 12.2 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 5,
+   "tempMinC": 13.8,
+   "tempMaxC": 20.6,
+   "chuvaMm": 225.2,
+   "diasDeChuva": 11.9,
+   "resumo": "Chuvoso (225 mm, 11.9 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 6,
+   "tempMinC": 13.7,
+   "tempMaxC": 20.8,
+   "chuvaMm": 111.4,
+   "diasDeChuva": 7.0,
+   "resumo": "Transição para a janela seca (111 mm, 7.0 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 7,
+   "tempMinC": 13.4,
+   "tempMaxC": 20.8,
+   "chuvaMm": 62.3,
+   "diasDeChuva": 4.9,
+   "resumo": "Melhor janela do ano (62 mm, 4.9 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 8,
+   "tempMinC": 13.3,
+   "tempMaxC": 21.3,
+   "chuvaMm": 72.4,
+   "diasDeChuva": 4.5,
+   "resumo": "Melhor janela do ano (72 mm, 4.5 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 9,
+   "tempMinC": 13.1,
+   "tempMaxC": 20.9,
+   "chuvaMm": 140.1,
+   "diasDeChuva": 7.5,
+   "resumo": "Chuvas voltam (140 mm, 7.5 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 10,
+   "tempMinC": 13.1,
+   "tempMaxC": 20.3,
+   "chuvaMm": 383.1,
+   "diasDeChuva": 14.4,
+   "resumo": "Muito chuvoso (383 mm, 14.4 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 11,
+   "tempMinC": 13.1,
+   "tempMaxC": 19.8,
+   "chuvaMm": 475.6,
+   "diasDeChuva": 16.6,
+   "resumo": "Mês mais chuvoso do ano (476 mm, 16.6 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "salento",
+   "mes": 12,
+   "tempMinC": 13.0,
+   "tempMaxC": 20.2,
+   "chuvaMm": 273.2,
+   "diasDeChuva": 11.0,
+   "resumo": "Ainda muito chuvoso (273 mm, 11.0 dias com chuva). Temperaturas estimadas por reanálise: a amplitude diária real tende a ser maior que a do modelo.",
+   "marEVento": "",
+   "pesoNaDecisao": "alto",
+   "planoBChuva": "Fazer a trilha do Cocora cedo (a manhã costuma ser mais firme) e deixar a tarde para uma finca de café (Don Elías, El Ocaso), Filandia ou café na praça; levar capa de chuva e bota impermeável.",
+   "estacao": "Chuva e dias de chuva: pluviômetro Salento (IDEAM 26120160, 1926 m). Temperaturas: reanálise ERA5 para 4.637,-75.571 (célula a ~1974 m); não existe estação IDEAM de temperatura em Salento no arquivo de normais",
+   "normalPeriodo": "chuva/dias: 1991-2020 (IDEAM); temperaturas: 1991-2020 (ERA5, modelo)",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 1,
+   "tempMinC": 9.7,
+   "tempMaxC": 23.4,
+   "chuvaMm": 57.1,
+   "diasDeChuva": 6.0,
+   "resumo": "Seco (57 mm, 6.0 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 2,
+   "tempMinC": 10.5,
+   "tempMaxC": 23.7,
+   "chuvaMm": 79.8,
+   "diasDeChuva": 8.2,
+   "resumo": "Seco a moderado (80 mm, 8.2 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 3,
+   "tempMinC": 11.1,
+   "tempMaxC": 23.6,
+   "chuvaMm": 133.8,
+   "diasDeChuva": 12.7,
+   "resumo": "Começam as chuvas (134 mm, 12.7 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 4,
+   "tempMinC": 11.5,
+   "tempMaxC": 23.2,
+   "chuvaMm": 131.6,
+   "diasDeChuva": 13.4,
+   "resumo": "Chuvoso (132 mm, 13.4 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 5,
+   "tempMinC": 11.5,
+   "tempMaxC": 23.0,
+   "chuvaMm": 108.0,
+   "diasDeChuva": 11.3,
+   "resumo": "Chuvoso, em queda (108 mm, 11.3 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 6,
+   "tempMinC": 11.1,
+   "tempMaxC": 22.5,
+   "chuvaMm": 44.2,
+   "diasDeChuva": 6.6,
+   "resumo": "Entrada na estação seca (44 mm, 6.6 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 7,
+   "tempMinC": 10.5,
+   "tempMaxC": 22.3,
+   "chuvaMm": 34.3,
+   "diasDeChuva": 5.8,
+   "resumo": "Mês mais seco do ano (34 mm, 5.8 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 8,
+   "tempMinC": 10.6,
+   "tempMaxC": 22.6,
+   "chuvaMm": 35.9,
+   "diasDeChuva": 4.9,
+   "resumo": "Seco (Festival del Viento y las Cometas em meados de agosto, segundo a Wikipedia/es) (36 mm, 4.9 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 9,
+   "tempMinC": 10.5,
+   "tempMaxC": 23.0,
+   "chuvaMm": 58.4,
+   "diasDeChuva": 7.0,
+   "resumo": "Chuvas retornam (58 mm, 7.0 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 10,
+   "tempMinC": 10.9,
+   "tempMaxC": 22.9,
+   "chuvaMm": 134.1,
+   "diasDeChuva": 13.5,
+   "resumo": "Chuvoso (134 mm, 13.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 11,
+   "tempMinC": 11.2,
+   "tempMaxC": 22.4,
+   "chuvaMm": 140.0,
+   "diasDeChuva": 15.1,
+   "resumo": "Mês mais chuvoso do ano (140 mm, 15.1 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "medio",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "cidade": "villa-de-leyva",
+   "mes": 12,
+   "tempMinC": 10.6,
+   "tempMaxC": 22.9,
+   "chuvaMm": 92.1,
+   "diasDeChuva": 9.5,
+   "resumo": "Chuva diminui (92 mm, 9.5 dias com chuva).",
+   "marEVento": "",
+   "pesoNaDecisao": "baixo",
+   "planoBChuva": "Museu Paleontológico, Casa Terracota (parte coberta), vinícolas, Convento de Santo Ecce Homo, café na Plaza Mayor; trilhas no Santuário Iguaque/Pozos Azules só com tempo firme.",
+   "estacao": "Villa de Leyva (IDEAM 24015300, 2215 m)",
+   "normalPeriodo": "chuva, dias de chuva e temp. mínima: 1991-2020; temp. máxima: 1981-2010",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "verificado"
+  }
+ ],
+ "calendarioAnual": [
+  {
+   "nome": "Año Nuevo",
+   "tipo": "feriado-nacional",
+   "quando": "1 de janeiro",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-01-01",
+   "dataFim2026": "2026-01-01",
+   "dataInicio2027": "2027-01-01",
+   "dataFim2027": "2027-01-01",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Tarifas altíssimas na virada nas cidades de praia.",
+    "lotacao": "Máxima nos destinos de praia (virada de ano).",
+    "fechamentos": "Comércio, bancos e muitos restaurantes fecham no dia 1; museus em geral fecham (não verificado)."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Día de los Reyes Magos",
+   "tipo": "feriado-nacional",
+   "quando": "6 de janeiro (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-01-12",
+   "dataFim2026": "2026-01-12",
+   "dataInicio2027": "2027-01-11",
+   "dataFim2027": "2027-01-11",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Fecha a temporada de fim de ano; preços ainda altos no fim de semana prolongado.",
+    "lotacao": "Retorno em massa de veranistas: estradas e aeroportos lotados.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Día de San José",
+   "tipo": "feriado-nacional",
+   "quando": "19 de março (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-03-23",
+   "dataFim2026": "2026-03-23",
+   "dataInicio2027": "2027-03-22",
+   "dataFim2027": "2027-03-22",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Fim de semana prolongado; alta moderada nos destinos de praia (é época seca no Caribe).",
+    "lotacao": "Alta no Caribe continental (março é o mês mais seco).",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Jueves Santo",
+   "tipo": "feriado-nacional",
+   "quando": "Quinta-feira antes da Páscoa (móvel)",
+   "recorrencia": "móvel: Páscoa - 3 dias (Ley 51/1983 cita Jueves y Viernes Santos)",
+   "dataInicio2026": "2026-04-02",
+   "dataFim2026": "2026-04-02",
+   "dataInicio2027": "2027-03-25",
+   "dataFim2027": "2027-03-25",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Semana Santa é a temporada mais cara do ano nos destinos nacionais (praia e cidades coloniais).",
+    "lotacao": "Máxima do ano em Cartagena, Santa Marta, Mompox, Popayán, Villa de Leyva.",
+    "fechamentos": "Comércio e bancos fecham na quinta e na sexta."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa. Data de Páscoa calculada (algoritmo gregoriano) e conferida com festivos.com.co (não oficial)"
+  },
+  {
+   "nome": "Viernes Santo",
+   "tipo": "feriado-nacional",
+   "quando": "Sexta-feira antes da Páscoa (móvel)",
+   "recorrencia": "móvel: Páscoa - 2 dias (Ley 51/1983)",
+   "dataInicio2026": "2026-04-03",
+   "dataFim2026": "2026-04-03",
+   "dataInicio2027": "2027-03-26",
+   "dataFim2027": "2027-03-26",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Idem Jueves Santo.",
+    "lotacao": "Máxima do ano.",
+    "fechamentos": "Comércio, bancos e muitos restaurantes fecham; procissões fecham ruas no centro histórico."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Día del Trabajo",
+   "tipo": "feriado-nacional",
+   "quando": "1 de maio",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-05-01",
+   "dataFim2026": "2026-05-01",
+   "dataInicio2027": "2027-05-01",
+   "dataFim2027": "2027-05-01",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Alta moderada; em 2026 cai na sexta (fim de semana de 3 dias); em 2027 cai no sábado e não gera folga extra.",
+    "lotacao": "Alta em 2026; normal em 2027.",
+    "fechamentos": "Bancos e comércio fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Ascensión del Señor",
+   "tipo": "feriado-nacional",
+   "quando": "Quinta-feira, 39 dias após a Páscoa; feriado vai para a segunda (+43 dias)",
+   "recorrencia": "móvel (Páscoa) e transferível para segunda (Ley 51/1983)",
+   "dataInicio2026": "2026-05-18",
+   "dataFim2026": "2026-05-18",
+   "dataInicio2027": "2027-05-10",
+   "dataFim2027": "2027-05-10",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Corpus Christi",
+   "tipo": "feriado-nacional",
+   "quando": "Quinta-feira, 60 dias após a Páscoa; feriado vai para a segunda (+64 dias)",
+   "recorrencia": "móvel (Páscoa) e transferível (Ley 51/1983)",
+   "dataInicio2026": "2026-06-08",
+   "dataFim2026": "2026-06-08",
+   "dataInicio2027": "2027-05-31",
+   "dataFim2027": "2027-05-31",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Sagrado Corazón de Jesús",
+   "tipo": "feriado-nacional",
+   "quando": "Sexta-feira, 68 dias após a Páscoa; feriado vai para a segunda (+71 dias)",
+   "recorrencia": "móvel (Páscoa) e transferível (Ley 51/1983)",
+   "dataInicio2026": "2026-06-15",
+   "dataFim2026": "2026-06-15",
+   "dataInicio2027": "2027-06-07",
+   "dataFim2027": "2027-06-07",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta; em 2026 forma uma sequência de segundas-feiras feriado (8 e 15 jun, 29 jun, 13 e 20 jul).",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "San Pedro y San Pablo",
+   "tipo": "feriado-nacional",
+   "quando": "29 de junho (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-06-29",
+   "dataFim2026": "2026-06-29",
+   "dataInicio2027": "2027-07-05",
+   "dataFim2027": "2027-07-05",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta (meio de ano, férias escolares do Calendário A: não verificado).",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Nuestra Señora del Rosario de Chiquinquirá (feriado NOVO)",
+   "tipo": "feriado-nacional",
+   "quando": "9 de julho (criado pela Ley 2578 de 1º/jun/2026; segue a regra da Ley 51/1983)",
+   "recorrencia": "transferível: segunda seguinte (art. 6 da Ley 2578/2026 manda aplicar a Ley 51/1983)",
+   "dataInicio2026": "2026-07-13",
+   "dataFim2026": "2026-07-13",
+   "dataInicio2027": "2027-07-12",
+   "dataFim2027": "2027-07-12",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda. Em 2026 forma o bloco de 5 segundas-feiras-feriado entre 8/jun e 20/jul.",
+    "lotacao": "Alta; Chiquinquirá (Boyacá, perto de Villa de Leyva) recebe peregrinos.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "http://www.secretariasenado.gov.co/senado/basedoc/ley_2578_2026.html",
+    "https://www.portafolio.co/economia/gobierno/cuando-es-el-nuevo-festivo-en-colombia-en-2026-la-ley-emiliani-lo-explica-495507",
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa. Feriado criado em 2026; 2026 é o primeiro ano (celebrado em 13/jul/2026). A data de 2027 (12/jul) é CÁLCULO pela regra, sem calendário oficial de 2027 encontrado."
+  },
+  {
+   "nome": "Día de la Independencia",
+   "tipo": "feriado-nacional",
+   "quando": "20 de julho",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-07-20",
+   "dataFim2026": "2026-07-20",
+   "dataInicio2027": "2027-07-20",
+   "dataFim2027": "2027-07-20",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Em 2026 cai na segunda (fim de semana de 3 dias); em 2027 cai na terça (sem puente oficial).",
+    "lotacao": "Alta em 2026; Bogotá tem desfiles e eventos.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Batalla de Boyacá",
+   "tipo": "feriado-nacional",
+   "quando": "7 de agosto",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-08-07",
+   "dataFim2026": "2026-08-07",
+   "dataInicio2027": "2027-08-07",
+   "dataFim2027": "2027-08-07",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Em 2026 cai na sexta (fim de semana prolongado, coincide com a Feria de las Flores em Medellín); em 2027 cai no sábado.",
+    "lotacao": "Alta em Medellín em 2026.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Asunción de la Virgen",
+   "tipo": "feriado-nacional",
+   "quando": "15 de agosto (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-08-17",
+   "dataFim2026": "2026-08-17",
+   "dataInicio2027": "2027-08-16",
+   "dataFim2027": "2027-08-16",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Día de la Raza (Día de la Diversidad Étnica y Cultural)",
+   "tipo": "feriado-nacional",
+   "quando": "12 de outubro (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-10-12",
+   "dataFim2026": "2026-10-12",
+   "dataInicio2027": "2027-10-18",
+   "dataFim2027": "2027-10-18",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda. Coincide com a semana de receso escolar de outubro (não verificado).",
+    "lotacao": "Alta; em 2026 coincide com o Rock al Parque (10 a 12/out).",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Todos los Santos",
+   "tipo": "feriado-nacional",
+   "quando": "1º de novembro (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-11-02",
+   "dataFim2026": "2026-11-02",
+   "dataInicio2027": "2027-11-01",
+   "dataFim2027": "2027-11-01",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda.",
+    "lotacao": "Alta, mas é mês chuvoso no Caribe e nos Andes (ver clima).",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Independencia de Cartagena",
+   "tipo": "feriado-nacional",
+   "quando": "11 de novembro (transferível)",
+   "recorrencia": "transferível: segunda seguinte (Ley 51/1983)",
+   "dataInicio2026": "2026-11-16",
+   "dataFim2026": "2026-11-16",
+   "dataInicio2027": "2027-11-15",
+   "dataFim2027": "2027-11-15",
+   "local": "nacional",
+   "impacto": {
+    "preco": "Vira fim de semana de 3 dias ('puente festivo'). (estimado, sem fonte de preço) Lotação e tarifas sobem em Cartagena, Santa Marta/Rodadero, San Andrés e Medellín; voos e ônibus intermunicipais lotam na sexta e na segunda. Em Cartagena as Fiestas Novembrinas elevam muito hotéis e restaurantes.",
+    "lotacao": "Máxima em Cartagena; é o feriado da cidade.",
+    "fechamentos": "Bancos e repartições fecham; ruas do centro fecham para desfiles."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Regra oficial confirmada (Ley 51/1983, art. 1 inc. 2, funcionpublica.gov.co): se não cai na segunda, passa para a segunda seguinte. As datas de 2026 e 2027 são CÁLCULO meu pela regra, conferidas com festivos.com.co (fonte privada, não oficial; listas idênticas ao meu cálculo); NÃO encontrei calendário oficial publicado (Presidência/MinTrabajo) para 2026-2027, por isso 'parcial'. Para 2026 a chance de erro é muito baixa."
+  },
+  {
+   "nome": "Inmaculada Concepción",
+   "tipo": "feriado-nacional",
+   "quando": "8 de dezembro",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-12-08",
+   "dataFim2026": "2026-12-08",
+   "dataInicio2027": "2027-12-08",
+   "dataFim2027": "2027-12-08",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Abre a temporada de fim de ano; 'Día de las Velitas' é na véspera (7/dez), que não é feriado.",
+    "lotacao": "Alta; em 2026 cai na terça e em 2027 na quarta, então o puente depende do empregador.",
+    "fechamentos": "Bancos e repartições fecham."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Navidad",
+   "tipo": "feriado-nacional",
+   "quando": "25 de dezembro",
+   "recorrencia": "fixo (Ley 51/1983)",
+   "dataInicio2026": "2026-12-25",
+   "dataFim2026": "2026-12-25",
+   "dataInicio2027": "2027-12-25",
+   "dataFim2027": "2027-12-25",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Pico de preços do ano nos destinos de praia e na Feria de Cali.",
+    "lotacao": "Máxima.",
+    "fechamentos": "Comércio, bancos e muitos restaurantes fecham no dia 25."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "verificado",
+   "nota": "Data fixa por lei: Ley 51 de 1983 (art. 1) em funcionpublica.gov.co. Conferido com festivos.com.co (não oficial)."
+  },
+  {
+   "nome": "Carnaval de Barranquilla",
+   "tipo": "festa",
+   "cidadeEvento": "Barranquilla",
+   "quando": "Sábado a terça-feira, 4 dias antes da Quarta-feira de Cinzas; pré-carnaval começa em 20 de janeiro (Lectura del Bando); Batalla de Flores no sábado, Gran Parada de Tradición no domingo, Gran Parada de Comparsas na segunda, Joselito na terça",
+   "recorrencia": "móvel (depende da Páscoa)",
+   "dataInicio2026": "2026-02-14",
+   "dataFim2026": "2026-02-17",
+   "dataInicio2027": "2027-02-06",
+   "dataFim2027": "2027-02-09",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Hospedagem em Barranquilla multiplica; Cartagena e Santa Marta sentem a demanda do feriadão.",
+    "lotacao": "Máxima em Barranquilla; hotéis esgotam meses antes.",
+    "fechamentos": "Comércio local fecha/reduz nos 4 dias; Barranquilla é cidade-base, não está entre as 8 bases do banco."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.carnavaldebarranquilla.org/",
+    "https://es.wikipedia.org/wiki/Carnaval_de_Barranquilla"
+   ],
+   "confianca": "verificado",
+   "nota": "2027 (6 a 9/fev) confirmado no site oficial do Carnaval; 2026 (14 a 17/fev) pela Wikipedia/es e pela regra da Quarta-feira de Cinzas (Páscoa 5/abr/2026 menos 46 dias = 18/fev)."
+  },
+  {
+   "nome": "Semana Santa",
+   "tipo": "festa",
+   "quando": "Domingo de Ramos até Domingo de Páscoa; quinta e sexta são feriado nacional",
+   "recorrencia": "móvel (Páscoa)",
+   "dataInicio2026": "2026-03-29",
+   "dataFim2026": "2026-04-05",
+   "dataInicio2027": "2027-03-21",
+   "dataFim2027": "2027-03-28",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Temporada mais cara do ano nos destinos nacionais; hotéis de praia e cidades coloniais com mínimo de noites.",
+    "lotacao": "Máxima em Cartagena, Santa Marta, Mompox, Popayán e Villa de Leyva; Los Nevados fecha na semana seguinte (ver fechamentos).",
+    "fechamentos": "Quinta e sexta santas: comércio e bancos fecham; procissões bloqueiam ruas dos centros históricos."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "parcial",
+   "nota": "Páscoa 2026 = 5/abr e 2027 = 28/mar (cálculo gregoriano, coerente com Jueves Santo 2/abr/2026 e 25/mar/2027 em festivos.com.co). A Ley 51 oficial só fixa Jueves e Viernes Santo como feriados; a duração da 'semana' é convenção litúrgica."
+  },
+  {
+   "nome": "Feria de las Flores (Desfile de Silleteros)",
+   "tipo": "festa",
+   "quando": "Dez dias entre o fim de julho e o início/meados de agosto, com o Desfile de Silleteros no último domingo",
+   "recorrencia": "anual, datas definidas pela Alcaldía a cada ano",
+   "dataInicio2026": "2026-07-31",
+   "dataFim2026": "2026-08-09",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "medellin",
+   "impacto": {
+    "preco": "(estimado) Hotéis de Medellín sobem; coincide com o feriado de 7/ago (sexta em 2026).",
+    "lotacao": "Alta em toda a cidade; 80% da programação é pública e gratuita segundo a Alcaldía.",
+    "fechamentos": "Vias fechadas no dia do desfile."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://www.medellin.gov.co/feriadelasflores"
+   ],
+   "confianca": "parcial",
+   "nota": "2026 confirmado no site da Alcaldía (31/jul a 9/ago/2026; edição 69 do Desfile já realizada). 2027 NÃO publicado; deixei em branco em vez de chutar."
+  },
+  {
+   "nome": "Festival de la Leyenda Vallenata",
+   "tipo": "festa",
+   "cidadeEvento": "Valledupar",
+   "quando": "Final de abril / início de maio, uma semana",
+   "recorrencia": "anual",
+   "dataInicio2026": "2026-04-25",
+   "dataFim2026": "2026-05-02",
+   "dataInicio2027": "2027-04-28",
+   "dataFim2027": "2027-05-01",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Hospedagem em Valledupar esgota; longe das bases do banco (Valledupar fica a ~4-5 h de Santa Marta por estrada: não verificado).",
+    "lotacao": "Alta em Valledupar.",
+    "fechamentos": "Centro de Valledupar fechado ao trânsito nos dias de concurso."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://festivalvallenato.com/programacion/",
+    "https://festivalvallenato.com/academia-diseno-y-patrimonio-se-articulan-para-crear-la-imagen-del-60o-festival-de-la-leyenda-vallenata/"
+   ],
+   "confianca": "verificado",
+   "nota": "2026: programação oficial vai de 25/abr a 2/mai (inauguração do 59º em 29/abr). 2027: 60º Festival de 28/abr a 1º/mai (boletim oficial de set/2026)."
+  },
+  {
+   "nome": "Feria de Cali",
+   "tipo": "festa",
+   "quando": "25 a 30 de dezembro todos os anos (Salsódromo, Superconcierto, Carnaval de Cali Viejo)",
+   "recorrencia": "anual, datas fixas por tradição",
+   "dataInicio2026": "2026-12-25",
+   "dataFim2026": "2026-12-30",
+   "dataInicio2027": "2027-12-25",
+   "dataFim2027": "2027-12-30",
+   "local": "cali",
+   "impacto": {
+    "preco": "(estimado) Hospedagem em Cali no máximo do ano; competindo com o pico de fim de ano nas praias.",
+    "lotacao": "Salsódromo reúne ~600 mil pessoas segundo a Wikipedia/es.",
+    "fechamentos": "Vias fechadas nos desfiles."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Feria_de_Cali"
+   ],
+   "confianca": "parcial",
+   "nota": "Padrão 25-30/dez vem da Wikipedia/es (68ª edição em 2025); NÃO consegui abrir o site oficial da Feria (DNS falhou), então 2026/2027 são extrapolação do padrão."
+  },
+  {
+   "nome": "Fiestas de la Independencia de Cartagena (Fiestas Novembrinas)",
+   "tipo": "festa",
+   "quando": "Em torno de 11 de novembro; 4 dias de festa segundo a Wikipedia/es; inclui o Concurso Nacional de Belleza",
+   "recorrencia": "anual",
+   "dataInicio2026": "2026-11-11",
+   "dataFim2026": "2026-11-16",
+   "dataInicio2027": "2027-11-11",
+   "dataFim2027": "2027-11-15",
+   "local": "cartagena",
+   "impacto": {
+    "preco": "(estimado) Hotéis do centro histórico e de Bocagrande sobem; feriadão de 3 dias (16/nov/2026 e 15/nov/2027).",
+    "lotacao": "Máxima em Cartagena.",
+    "fechamentos": "Desfiles fecham ruas do centro; praias e restaurantes lotados."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Cartagena_de_Indias"
+   ],
+   "confianca": "parcial",
+   "nota": "A programação oficial 2026/2027 não foi encontrada. As datas são a janela entre 11/nov (data histórica) e a segunda-feira do feriado transferido; é estimativa. A Wikipedia/es diz que a festa dura 4 dias. Novembro também é mês chuvoso em Cartagena (178 mm, IDEAM)."
+  },
+  {
+   "nome": "Festival Internacional de Cine de Cartagena (FICCI)",
+   "tipo": "evento",
+   "quando": "Em 2026 e 2027 em abril (historicamente fev-mar; a Wikipedia/es está desatualizada)",
+   "recorrencia": "anual, mês variável",
+   "dataInicio2026": "2026-04-14",
+   "dataFim2026": "2026-04-19",
+   "dataInicio2027": "2027-04-06",
+   "dataFim2027": "2027-04-11",
+   "local": "cartagena",
+   "impacto": {
+    "preco": "(estimado) Alta moderada de hotéis; em 2026 veio logo depois da Semana Santa (5/abr).",
+    "lotacao": "Média; sessões com acesso livre no Patio de Banderas segundo o FICCI.",
+    "fechamentos": "Nenhum relevante."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://www.ficcifestival.com/",
+    "https://www.ficcifestival.com/articulos/con-mas-de-2000-asistentes-el-ficci-inauguro-su-edicion-numero-65",
+    "https://www.ficcifestival.com/articulos/ficci-66-abre-su-convocatoria-oficial-para-peliculas-de-colombia-iberoamerica-y-el-mundo"
+   ],
+   "confianca": "verificado",
+   "nota": "FICCI 65: 14 a 19/abr/2026; FICCI 66: 6 a 11/abr/2027 (site oficial)."
+  },
+  {
+   "nome": "Hay Festival Cartagena",
+   "tipo": "evento",
+   "quando": "Final de janeiro",
+   "recorrencia": "anual",
+   "dataInicio2026": "",
+   "dataFim2026": "",
+   "dataInicio2027": "2027-01-28",
+   "dataFim2027": "2027-01-31",
+   "local": "cartagena",
+   "impacto": {
+    "preco": "(estimado) Hotéis do centro histórico sobem em janeiro, que já é alta temporada seca.",
+    "lotacao": "Média a alta.",
+    "fechamentos": "Nenhum relevante."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://hayfestival.org/cartagena"
+   ],
+   "confianca": "parcial",
+   "nota": "2027 confirmado no site do festival (28 a 31/jan). A data de 2026 não foi coletada."
+  },
+  {
+   "nome": "Festival Iberoamericano de Teatro de Bogotá (FITB) / Festival Internacional de Artes Vivas (FIAV)",
+   "tipo": "evento",
+   "quando": "O FITB era bienal (anos pares, março-abril, ~17 dias); a última edição foi a de 2024 (15 a 31 de março), e a Wikipedia/es diz que foi substituído pelo FIAV",
+   "recorrencia": "FITB inativo; sucessor FIAV",
+   "dataInicio2026": "",
+   "dataFim2026": "",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "bogota",
+   "impacto": {
+    "preco": "Não avaliado.",
+    "lotacao": "Não avaliado.",
+    "fechamentos": "Não avaliado."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Festival_Iberoamericano_de_Teatro_de_Bogot%C3%A1"
+   ],
+   "confianca": "parcial",
+   "nota": "NÃO CONFIRMADO: não achei em fonte oficial se o FIAV acontece em 2026/2027 nem em que datas. Não assuma que existe um 'Festival de Teatro' bienal em Bogotá em 2026."
+  },
+  {
+   "nome": "Alumbrados Navideños de Medellín",
+   "tipo": "evento",
+   "quando": "Acendimento no início de dezembro (a Wikipedia/es cita o 7 de dezembro, 'Día de las Velitas', mas o texto é antigo) e iluminação até início de janeiro",
+   "recorrencia": "anual",
+   "dataInicio2026": "",
+   "dataFim2026": "",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "medellin",
+   "impacto": {
+    "preco": "(estimado) Dezembro é alta em Medellín.",
+    "lotacao": "Alta nas noites, principalmente no Río e no Parque Norte.",
+    "fechamentos": "Vias do centro e do rio fechadas à noite."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Alumbrado_navide%C3%B1o_de_Medell%C3%ADn"
+   ],
+   "confianca": "parcial",
+   "nota": "NÃO CONFIRMADO em fonte oficial (EPM/Alcaldía) para 2026/2027; o site da EPM não carregou e a página de turismo de Medellín não traz datas. Deixei em branco."
+  },
+  {
+   "nome": "Rock al Parque",
+   "tipo": "evento",
+   "quando": "Fim de semana do feriado de outubro, no Parque Simón Bolívar (30ª edição em 2026)",
+   "recorrencia": "anual, em geral outubro",
+   "dataInicio2026": "2026-10-10",
+   "dataFim2026": "2026-10-12",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "bogota",
+   "impacto": {
+    "preco": "(estimado) Hotéis de Bogotá sobem no fim de semana.",
+    "lotacao": "Muito alta; o próprio festival publica restrições e transporte.",
+    "fechamentos": "Acessos ao Parque Simón Bolívar restritos."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://rockalparque.gov.co/"
+   ],
+   "confianca": "verificado",
+   "nota": "2026: 10, 11 e 12 de outubro (site oficial do Idartes). Começa em 2 dias a partir de 2026-10-08. 2027 não publicado."
+  },
+  {
+   "nome": "Salsa al Parque",
+   "tipo": "evento",
+   "quando": "Fim de semana no Parque Simón Bolívar (2026: fim de novembro)",
+   "recorrencia": "anual",
+   "dataInicio2026": "2026-11-28",
+   "dataFim2026": "2026-11-29",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "bogota",
+   "impacto": {
+    "preco": "Pouco impacto (evento gratuito).",
+    "lotacao": "Alta no parque.",
+    "fechamentos": "Acessos restritos ao parque."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://salsaalparque.gov.co/"
+   ],
+   "confianca": "verificado",
+   "nota": "2026: 28 e 29 de novembro (site oficial). 2027 não publicado."
+  },
+  {
+   "nome": "Festival del Viento y las Cometas",
+   "tipo": "festa",
+   "quando": "Meados de agosto",
+   "recorrencia": "anual",
+   "dataInicio2026": "",
+   "dataFim2026": "",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "villa-de-leyva",
+   "impacto": {
+    "preco": "(estimado) Hospedagem sobe no fim de semana do festival.",
+    "lotacao": "Alta na Plaza Mayor.",
+    "fechamentos": "Nenhum relevante."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://es.wikipedia.org/wiki/Villa_de_Leyva"
+   ],
+   "confianca": "parcial",
+   "nota": "Só 'meados de agosto' (Wikipedia/es); datas exatas de 2026/2027 não encontradas. Agosto é um dos meses mais secos em Villa de Leyva (36 mm, IDEAM)."
+  },
+  {
+   "nome": "Temporada de furacões do Atlântico/Caribe",
+   "tipo": "temporada",
+   "quando": "1º de junho a 30 de novembro (oficial NHC); pico geral em 10 de setembro, mas em San Andrés e Providencia o risco se concentra em set-nov, com outubro no topo (análise HURDAT2 abaixo)",
+   "recorrencia": "anual, datas fixas",
+   "dataInicio2026": "2026-06-01",
+   "dataFim2026": "2026-11-30",
+   "dataInicio2027": "2027-06-01",
+   "dataFim2027": "2027-11-30",
+   "local": "san-andres",
+   "impacto": {
+    "preco": "(estimado) Baixa temporada em San Andrés; promoções frequentes.",
+    "lotacao": "Baixa.",
+    "fechamentos": "Voos e passeios de barco cancelados com alerta; Crab Cay (Providencia) já está fechado por obra até 17/dez/2026."
+   },
+   "valeEstarPresente": "evite",
+   "fontes": [
+    "https://www.nhc.noaa.gov/climo/",
+    "https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2025-092326.txt"
+   ],
+   "confianca": "verificado",
+   "nota": "Ver temporadaFuracoes para a contagem por mês."
+  },
+  {
+   "nome": "Época de alísios fortes e mar agitado no Caribe",
+   "tipo": "temporada",
+   "quando": "Dezembro a abril (pico jan-fev); segundo pico menor em julho",
+   "recorrencia": "anual, sazonal (sem data oficial)",
+   "dataInicio2026": "2026-12-01",
+   "dataFim2026": "2027-04-30",
+   "dataInicio2027": "2027-12-01",
+   "dataFim2027": "2028-04-30",
+   "local": "santa-marta",
+   "impacto": {
+    "preco": "(estimado) Coincide com a alta temporada seca.",
+    "lotacao": "Alta.",
+    "fechamentos": "Passeios de barco podem ser cancelados por vento/ondas."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.30&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean"
+   ],
+   "confianca": "estimado",
+   "nota": "Baseado em reanálise ERA5 (vento médio 10 m, 1991-2020): Santa Marta 32,6 km/h em jan, 34,5 em fev, 31,9 em mar contra 13,2 em set. Modelo, não medição, e sem fonte oficial IDEAM de vento."
+  },
+  {
+   "nome": "Temporada alta de fim de ano",
+   "tipo": "temporada",
+   "quando": "Da Inmaculada (8/dez) até o puente de Reyes (2ª semana de janeiro); inclui Natal, Feria de Cali (25-30/dez) e a virada",
+   "recorrencia": "anual",
+   "dataInicio2026": "2026-12-08",
+   "dataFim2026": "2027-01-11",
+   "dataInicio2027": "2027-12-08",
+   "dataFim2027": "2028-01-10",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Preços e mínimo de noites no pico em praia, Cartagena e Medellín (Alumbrados).",
+    "lotacao": "Máxima do ano.",
+    "fechamentos": "Comércio fecha em 25/dez e 1º/jan."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "estimado",
+   "nota": "Janela construída a partir de feriados confirmados (8/dez, 25/dez, 1º/jan e Reyes: 11/jan/2027 e 10/jan/2028, este último calculado). Ocupação e preço são estimativa qualitativa, sem fonte de dados."
+  },
+  {
+   "nome": "Temporada de meio de ano (bloco de feriados de junho-julho)",
+   "tipo": "temporada",
+   "quando": "Sequência de feriados em segunda-feira (Corpus, Sagrado Corazón, San Pedro, Chiquinquirá, Independencia) coincidindo com as férias escolares",
+   "recorrencia": "anual",
+   "dataInicio2026": "2026-06-08",
+   "dataFim2026": "2026-07-20",
+   "dataInicio2027": "2027-05-31",
+   "dataFim2027": "2027-07-20",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Tarifas altas em fins de semana prolongados; julho é janela seca nos Andes e no Caribe de chuvas moderadas.",
+    "lotacao": "Alta em fins de semana prolongados.",
+    "fechamentos": "Los Nevados e Tayrona têm fechamentos programados na primeira quinzena de junho (Tayrona)."
+   },
+   "valeEstarPresente": "depende",
+   "fontes": [
+    "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+    "https://festivos.com.co/2026",
+    "https://festivos.com.co/2027"
+   ],
+   "confianca": "estimado",
+   "nota": "Janela baseada em feriados calculados; as férias escolares do Calendário A (junho-julho) NÃO foram verificadas em fonte do MinEducación."
+  },
+  {
+   "nome": "Temporada de Caño Cristales",
+   "tipo": "temporada",
+   "cidadeEvento": "La Macarena (Meta)",
+   "quando": "Do fim de maio até dezembro (a cor da Macarenia depende do nível do rio)",
+   "recorrencia": "anual, abertura e fechamento definidos pelo Parques Nacionales/Cormacarena",
+   "dataInicio2026": "2026-05-29",
+   "dataFim2026": "2026-12-31",
+   "dataInicio2027": "",
+   "dataFim2027": "",
+   "local": "nacional",
+   "impacto": {
+    "preco": "(estimado) Pacotes aéreos limitados (voo para La Macarena); sem fonte de preço.",
+    "lotacao": "Quotas por trilha.",
+    "fechamentos": "Fecha fora da temporada; em 2022 fechou em 7/dez por vazão baixa."
+   },
+   "valeEstarPresente": "sim",
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/inicia-temporada-en-cano-cristales-naturalmente-responsable/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/sector-cano-cristales-esta-cerrado-al-publico/"
+   ],
+   "confianca": "parcial",
+   "nota": "O comunicado de 2026 diz que as trilhas ficam abertas 'desde el 29 de mayo y hasta el mes de diciembre'. A data exata de encerramento pode antecipar por vazão (caso de dez/2022). 2027 não publicado."
+  }
+ ],
+ "fechamentosRecorrentes": [
+  {
+   "lugar": "Parque Nacional Natural Tayrona: 1º fechamento 'Respira Tayrona' (Kugkui Shikasa)",
+   "cidade": "santa-marta",
+   "padrao": "1 a 15 de fevereiro todos os anos (confirmado em 2022, 2024, 2025 e 2026); acertado com os povos Kogui, Wiwa, Arhuaco e Kankuamo. O parque diz que são 3 fechamentos por ano: fevereiro, junho e entre outubro e novembro.",
+   "datas2026": [
+    "2026-02-01 a 2026-02-15 (iniciado; comunicado do PNN de 30/jan/2026)"
+   ],
+   "datas2027": [
+    "2027-02-01 a 2027-02-15: NÃO publicado; é só extrapolação do padrão"
+   ],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-renueva-su-energia-primer-cierre-temporal-del-2026/",
+    "https://www.parquesnacionales.gov.co/?s=cierre+temporal+tayrona"
+   ],
+   "confianca": "verificado para 2026; estimado para 2027"
+  },
+  {
+   "lugar": "Parque Nacional Natural Tayrona: 2º fechamento 'Respira Tayrona' (junho)",
+   "cidade": "santa-marta",
+   "padrao": "1 a 15 de junho (confirmado em 2023, 2025 e 2026).",
+   "datas2026": [
+    "2026-06-01 a 2026-06-15 (comunicado de 29/mai/2026); reabertura em 16/jun/2026 com acesso só por Bahía Concha, Neguanje e via marítima"
+   ],
+   "datas2027": [
+    "2027-06-01 a 2027-06-15: NÃO publicado; extrapolação do padrão"
+   ],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/?s=respira+tayrona",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-inicia-periodo-de-sanacion-cultural-respira-tayrona/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-reabre-al-publico-con-medidas-para-una-visita-segura/"
+   ],
+   "confianca": "verificado para 2026; estimado para 2027"
+  },
+  {
+   "lugar": "Parque Nacional Natural Tayrona: 3º fechamento 'Respira Tayrona' (Nabbatashi, outubro-novembro)",
+   "cidade": "santa-marta",
+   "padrao": "19 de outubro a 2 de novembro (confirmado em 2023 e 2025). Até 2026-10-08 o PNN ainda NÃO tinha publicado a data de 2026 na busca do site.",
+   "datas2026": [
+    "Provável 2026-10-19 a 2026-11-02 (ESTIMADO pelo padrão 2023 e 2025); CONFIRMAR em parquesnacionales.gov.co antes de reservar qualquer data entre 19/out e 2/nov"
+   ],
+   "datas2027": [
+    "2027-10-19 a 2027-11-02: NÃO publicado; extrapolação"
+   ],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-nacional-natural-tayrona-se-alista-para-el-tercer-cierre-del-ano-respiratayrona/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/ultimo-cierre-del-tayrona-en-2025-durante-15-dias-se-suspenden-actividades-turisticas-para-que-la-naturaleza-respire/",
+    "https://www.parquesnacionales.gov.co/?s=nabbatashi"
+   ],
+   "confianca": "estimado"
+  },
+  {
+   "lugar": "Parque Nacional Natural Tayrona: fechamento por segurança (Resolución 091/2026) e reabertura gradual",
+   "cidade": "santa-marta",
+   "padrao": "NÃO recorrente. Em 17/fev/2026 o governo fechou o parque por bloqueios e ameaças nos acessos (Zaino, Neguanje, Cañaveral). Missão técnica em 25/fev estudou reabertura setorizada. Após o Respira de junho, só Bahía Concha, Neguanje e barco funcionavam; em 3/jul/2026 os setores Calabazo, Zaino, Palangana e Bahía Concha estavam habilitados. Horário informado: todos os dias 8h-16h, último ingresso 14h.",
+   "datas2026": [
+    "2026-02-17 até data de reabertura não localizada (fechamento total); 2026-06-16 a ~2026-07-03: Calabazo e Zaino–Cañaveral restritos; 2026-07-03: todos os setores habilitados"
+   ],
+   "datas2027": [],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parques-nacionales-naturales-de-colombia-anuncia-cierre-temporal-del-parque-tayrona-para-garantizar-condiciones-de-seguridad/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/tayrona-reabre-al-publico-con-medidas-para-una-visita-segura/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/parque-tayrona-ya-opera-con-todos-sus-sectores-para-visitantes/"
+   ],
+   "confianca": "verificado (eventos); a data exata da reabertura entre fev e jun/2026 não foi confirmada"
+  },
+  {
+   "lugar": "Caño Cristales (PNN Sierra de La Macarena)",
+   "cidade": "La Macarena (Meta), fora das 8 bases",
+   "padrao": "Temporada turística de fim de maio até dezembro; fecha no restante do ano. O fechamento pode antecipar por vazão baixa (em 2022 fechou em 7/dez).",
+   "datas2026": [
+    "Aberto de 2026-05-29 até dezembro de 2026 (data final não fixada); fechado de janeiro até 28/mai"
+   ],
+   "datas2027": [
+    "Não publicado"
+   ],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/inicia-temporada-en-cano-cristales-naturalmente-responsable/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/sector-cano-cristales-esta-cerrado-al-publico/",
+    "https://www.parquesnacionales.gov.co/?s=ca%C3%B1o+cristales"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "lugar": "Johnny Cay (Parque Regional Natural, CORALINA)",
+   "cidade": "san-andres",
+   "padrao": "NÃO encontrei fechamento recorrente documentado. Johnny Cay é administrado pela CORALINA (não pelo Parques Nacionales) e tem compra de tickets online. Cancelamentos acontecem por mar/clima (não confirmado em fonte).",
+   "datas2026": [],
+   "datas2027": [],
+   "fontes": [
+    "https://www.coralina.gov.co/tramites/54/compra-de-tickets-johnny-cay/",
+    "https://www.coralina.gov.co/publicaciones/20/parques-regionales-naturales/",
+    "https://www.parquesnacionales.gov.co/?s=johnny+cay"
+   ],
+   "confianca": "estimado"
+  },
+  {
+   "lugar": "Crab Cay / Cayo Cangrejo (PNN Old Providence McBean Lagoon)",
+   "cidade": "san-andres",
+   "padrao": "NÃO recorrente: fechado por obras (demolição e construção do píer) pela Resolución 439 de 17/set/2026. O resto do parque segue aberto (mergulho, snorkel, aves, caminhadas).",
+   "datas2026": [
+    "2026-09-18 a 2026-12-17 (reabertura prevista em 17/dez; pode ser ampliada por mau tempo)"
+   ],
+   "datas2027": [],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/cierre-temporal-del-sector-crab-cay-en-el-pnn-old-providence/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/boletines/cierre-temporal-del-sector-crab-cay-en-el-pnn-old-providence-mcbean-lagoon/"
+   ],
+   "confianca": "verificado"
+  },
+  {
+   "lugar": "PNN Los Nevados (Nevado del Ruiz / Eje Cafetero)",
+   "cidade": "salento",
+   "padrao": "Resolución 207 de 2023 prevê 4 fechamentos de 5 dias úteis (segunda a sexta) por ano: semana seguinte à Semana Santa, 3ª segunda-feira de maio, 4ª segunda-feira de setembro e 4ª segunda-feira de novembro. Durante o fechamento, só fica aberto o acesso norte (Brisas, estrada até o Valle de las Tumbas). As datas de 2025 (21-25/abr e 24-28/nov) conferem com a regra.",
+   "datas2026": [
+    "2026-04-06 a 2026-04-10 (calculado pela regra)",
+    "2026-05-18 a 2026-05-22 (calculado pela regra)",
+    "2026-09-28 a 2026-10-02 (calculado pela regra)",
+    "2026-11-23 a 2026-11-27 (calculado pela regra)"
+   ],
+   "datas2027": [
+    "2027-03-29 a 2027-04-02 (calculado pela regra)",
+    "2027-05-17 a 2027-05-21 (calculado pela regra)",
+    "2027-09-27 a 2027-10-01 (calculado pela regra)",
+    "2027-11-22 a 2027-11-26 (calculado pela regra)"
+   ],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/primer-cierre-temporal-del-ano-en-el-pnn-los-nevados-para-la-regeneracion-natural-del-ecosistema/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/el-parque-nacional-natural-los-nevados-realizara-cierre-temporal-para-permitir-la-regeneracion-del-paramo-los-bosques-altoandinos-y-los-glaciares/"
+   ],
+   "confianca": "parcial"
+  },
+  {
+   "lugar": "Santuario de Fauna y Flora Iguaque (perto de Villa de Leyva)",
+   "cidade": "villa-de-leyva",
+   "padrao": "NÃO recorrente: fechado por incêndio florestal (Resolución 450 de 2026), por cerca de 2 semanas a partir de ~25/set/2026; data de reabertura ainda não comunicada em 2026-10-08.",
+   "datas2026": [
+    "~2026-09-25 até data de reabertura a confirmar"
+   ],
+   "datas2027": [],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/boletines/cierre-temporal-del-santuario-de-fauna-y-flora-iguaque/",
+    "https://www.parquesnacionales.gov.co/?s=iguaque"
+   ],
+   "confianca": "verificado (fechamento); reabertura não confirmada"
+  },
+  {
+   "lugar": "Fechamentos emergenciais de parques por El Niño/clima (exemplo)",
+   "cidade": "vários",
+   "padrao": "Ad hoc na estação seca: em 1º/fev/2024 o PNN fechou 9 áreas e restringiu 2 até 15/fev/2024 por risco do El Niño; em set/2022 fechou Los Flamencos por depressão tropical. Corales del Rosario e Old Providence ficaram abertos em fev/2024.",
+   "datas2026": [],
+   "datas2027": [],
+   "fontes": [
+    "https://www.parquesnacionales.gov.co/sala-prensa/boletines/parques-nacionales-naturales-de-colombia-mantendra-la-operacion-ecoturistica-en-la-mayoria-de-las-areas-protegidas-y-anuncia-cierres-temporales-y-parciales-en-algunas-de-ellas-donde-se-presenta-alto-r/",
+    "https://www.parquesnacionales.gov.co/?s=corales+del+rosario+cierre"
+   ],
+   "confianca": "verificado (ocorrências passadas); não são recorrentes"
+  }
+ ],
+ "melhorEpocaPorRegiao": [
+  {
+   "regiao": "Caribe continental (Cartagena, Santa Marta, Palomino/Tayrona)",
+   "melhoresMeses": [
+    1,
+    2,
+    3
+   ],
+   "pioresMeses": [
+    9,
+    10,
+    11
+   ],
+   "porque": "Melhores: jan-mar. Cartagena recebe 0.5/0.3/3.2 mm e 0.1/0.1/0.4 dias de chuva; Santa Marta 0.1/1.3/2.2 mm (IDEAM 1991-2020). Dezembro e abril são ombros: Cartagena 44.7 mm em dez e 18.6 mm em abr; Santa Marta 8.3 e 13.6 mm. Ressalva importante: os alísios sopram forte em jan-mar (Santa Marta ~33 km/h de média a 10 m contra ~13 km/h em set, ERA5 modelo), com mar aberto agitado; Palomino/Tayrona são mais úmidos que o aeroporto de Santa Marta (Palomino: 27.4-45.7 mm em jan-mar, mas 294.7 e 314.2 mm em out e nov, normal 1981-2010). Piores: set-nov. Cartagena tem 236.5 mm e 12.1 dias de chuva em outubro (o mês mais chuvoso) e 178.2 mm em novembro; Santa Marta 126.9 mm em outubro; Palomino 314.2 mm em novembro. Em outubro-novembro ainda cai o 3º fechamento do Tayrona (padrão 19/out a 2/nov). Furacões raramente chegam (Cartagena: 7 sistemas TS/furacão a menos de 300 km em 60 anos, 1966-2025), então o problema é a chuva, não o furacão. Julho tem um segundo pico de vento (Santa Marta ~22 km/h) com chuva moderada (~62 mm).",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128",
+    "https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2025-092326.txt",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=11.30&longitude=-74.25&start_date=1991-01-01&end_date=2020-12-31&daily=wind_speed_10m_mean"
+   ]
+  },
+  {
+   "regiao": "Caribe insular (San Andrés e Providencia)",
+   "melhoresMeses": [
+    2,
+    3,
+    4
+   ],
+   "pioresMeses": [
+    9,
+    10,
+    11
+   ],
+   "porque": "Melhores: fev-abr. San Andrés recebe 35.9, 28.1 e 27.4 mm com 7.9, 4.5 e 3.9 dias de chuva (aeroporto Sesquicentenario, IDEAM 1991-2020). Janeiro ainda tem 84.0 mm e 12.4 dias, e dezembro 153.3 mm. Piores: set-nov, quando se juntam chuva e furacões: 227.2, 317.1 e 317.6 mm e 18.4-19.1 dias de chuva em out-nov. Pela análise do HURDAT2 (NHC), 58 de 71 sistemas tropicais (82%) que passaram a menos de 300 km de San Andrés desde 1851 foram em set-nov (out 23, nov 19, set 16); em Providencia 69 de 86 (80%). Eta (3/nov/2020, a 161 km) e Iota (16/nov/2020, a 22 km de Providencia, 135 kt) são os casos recentes. Maio-agosto são úmidos (146-196 mm) mas com poucos ciclones próximos. Temperatura quase constante: máx. 28.8-30.8 °C, mín. 25.2-26.5 °C. Atenção: Crab Cay (Providencia) está fechado de 18/set a 17/dez/2026.",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2025-092326.txt",
+    "https://www.nhc.noaa.gov/climo/",
+    "https://www.parquesnacionales.gov.co/sala-prensa/noticias/cierre-temporal-del-sector-crab-cay-en-el-pnn-old-providence/"
+   ]
+  },
+  {
+   "regiao": "Andes (Bogotá, Villa de Leyva; Medellín como vale andino)",
+   "melhoresMeses": [
+    1,
+    2,
+    7,
+    8
+   ],
+   "pioresMeses": [
+    4,
+    5,
+    10,
+    11
+   ],
+   "porque": "Bogotá tem dois períodos secos: jan-fev (32.9 e 51.4 mm; 4.9 e 7.4 dias de chuva) e jul-ago (48.6 e 44.3 mm; 9.5 e 9.1 dias). Piores: abr-mai (116.7 e 109.0 mm) e out-nov (108.2 e 107.2 mm; ~12 dias). Villa de Leyva repete o desenho com amplitude maior: jul-ago 34.3-35.9 mm contra 134.1-140.0 mm em out-nov. Medellín: janeiro-fevereiro (71.5-80.7 mm) e jun-ago (126.1-145.0 mm) são os mais secos; abr-mai (181.2-218.9 mm) e out-nov (211.5-171.3 mm, 19.5 dias de chuva em outubro) são os piores. Temperatura quase não varia ao longo do ano (Bogotá máx. 18.5-20.2 °C, mín. 6.4-9.6 °C). A altitude manda mais que o mês.",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://web.archive.org/web/20160815025712if_/http://www.ideam.gov.co/documents/21021/553571/Promedios%2BClimatol%C3%B3gicos%2B%2B1981%2B-%2B2010.xlsx/f28d0b07-1208-4a46-8ccf-bddd70fb4128"
+   ]
+  },
+  {
+   "regiao": "Eje Cafetero (Salento, Valle de Cocora)",
+   "melhoresMeses": [
+    7,
+    8
+   ],
+   "pioresMeses": [
+    10,
+    11
+   ],
+   "porque": "Pluviômetro de Salento (IDEAM 1991-2020): julho 62.3 mm em 4.9 dias e agosto 72.4 mm em 4.5 dias, contra 383.1 mm em outubro (14.4 dias) e 475.6 mm em novembro (16.6 dias), ou seja, 6 a 8 vezes o volume de julho. Junho é ombro (111.4 mm). Mar-mai também são fortemente chuvosos (255.3-262.4 mm). Até janeiro, o 'mês seco', soma 249.7 mm: a região é úmida o ano todo. Total anual 2.702 mm no pluviômetro. As temperaturas de Salento no banco são de reanálise (ERA5), não de estação.",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd",
+    "https://archive-api.open-meteo.com/v1/archive?latitude=4.6372&longitude=-75.5711&start_date=1991-01-01&end_date=2020-12-31&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FBogota"
+   ]
+  },
+  {
+   "regiao": "Amazônia (Leticia)",
+   "melhoresMeses": [
+    7,
+    8,
+    9
+   ],
+   "pioresMeses": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "porque": "Aeroporto Vásquez Cobo, Leticia (IDEAM 1991-2020): menos chuva em agosto (139.9 mm; 11.8 dias) e julho (162.8 mm; 12.6 dias); setembro 207.8 mm. Mais chuva em jan-abr (385.7, 336.4, 386.3, 348.4 mm; 21.7-19.4 dias de chuva por mês). Total anual 3.359 mm. Máxima de 29.9-32.0 °C e mínima de 21.6-23.2 °C o ano todo. A Amazônia nunca fica seca: até agosto ainda cai mais de 100 mm. O nível do rio (cheia/vazante) NÃO foi pesquisado em fonte oficial aqui, e ele muda o tipo de passeio.",
+   "fontes": [
+    "https://web.archive.org/web/20240606062955if_/http://www.ideam.gov.co/documents/21021/553571/Normales+Climatol%C3%B3gicas+Est%C3%A1ndar_Periodo+1991-2020.xlsx/347421fe-b205-478f-9c24-55d0ea3785cd"
+   ]
+  }
+ ],
+ "temporadaFuracoes": {
+  "inicioOficial": "1º de junho",
+  "fimOficial": "30 de novembro",
+  "fonteOficial": "https://www.nhc.noaa.gov/climo/ (NHC/NOAA: temporada do Atlântico, incluindo o Caribe, vai de 1º de junho a 30 de novembro; atividade máxima em 10 de setembro, maioria entre meados de agosto e meados de outubro no Atlântico em geral).",
+  "observacao": "O pico geral do Atlântico (set) NÃO é o pico no Caribe ocidental: em San Andrés e Providencia pesam mais outubro e novembro, porque os sistemas se formam no próprio Caribe ocidental no fim da temporada.",
+  "metodo": "Contei, com o HURDAT2 do NHC (hurdat2-1851-2025-092326.txt), os sistemas distintos que estiveram em estágio de tempestade tropical ou furacão a menos de 300 km (e de 150 km) de cada ponto, por mês. 'Desde 1851' tem subnotificação antiga; 'desde 1966' (60 temporadas) é a era de satélite.",
+  "sanAndres_300km_desde1851_TSouFuracao": {
+   "mai": 2,
+   "jun": 2,
+   "jul": 5,
+   "ago": 3,
+   "set": 16,
+   "out": 23,
+   "nov": 19,
+   "dez": 1
+  },
+  "sanAndres_300km_desde1966_TSouFuracao": {
+   "jul": 2,
+   "ago": 1,
+   "set": 7,
+   "out": 7,
+   "nov": 9
+  },
+  "sanAndres_150km_desde1966_TSouFuracao": {
+   "jul": 1,
+   "set": 1,
+   "out": 4,
+   "nov": 2
+  },
+  "providencia_300km_desde1851_TSouFuracao": {
+   "mai": 3,
+   "jun": 2,
+   "jul": 6,
+   "ago": 5,
+   "set": 21,
+   "out": 29,
+   "nov": 19,
+   "dez": 1
+  },
+  "providencia_300km_desde1966_TSouFuracao": {
+   "mai": 1,
+   "jul": 2,
+   "ago": 2,
+   "set": 8,
+   "out": 9,
+   "nov": 9
+  },
+  "providencia_150km_desde1966_TSouFuracao": {
+   "set": 3,
+   "out": 2,
+   "nov": 2
+  },
+  "cartagena_300km_desde1966_TSouFuracao": {
+   "jul": 1,
+   "ago": 1,
+   "set": 1,
+   "out": 3,
+   "nov": 1
+  },
+  "santaMarta_300km_desde1966_TSouFuracao": {
+   "jul": 1,
+   "ago": 1,
+   "set": 3,
+   "out": 3,
+   "nov": 2,
+   "dez": 1
+  },
+  "palomino_300km_desde1966_TSouFuracao": {
+   "jul": 1,
+   "ago": 1,
+   "set": 4,
+   "out": 3,
+   "nov": 2
+  },
+  "mesesQuePesamEmSanAndresEProvidencia": [
+   "out",
+   "nov",
+   "set"
+  ],
+  "mesesQuePesamPouco": [
+   "jun",
+   "jul",
+   "ago (existe risco, mas poucos sistemas por ano)"
+  ],
+  "mesesSemRiscoPraticoNoRegistro": [
+   "dez a mai (apenas 1 caso em dez e poucos em mai desde 1851)"
+  ],
+  "casosRecentes": [
+   "Iota: passou a 22 km de Providencia em 2020-11-16 com 135 kt no HURDAT2; segundo a Wikipedia, 98% da infraestrutura da ilha foi destruída.",
+   "Eta: passou a 161 km de Providencia em 2020-11-03, 130 kt.",
+   "Beta (2005): passou a ~19 km de Providencia em 2005-10-29."
+  ],
+  "comparativoContinente": "Cartagena, Santa Marta e Palomino têm poucos sistemas por década (Cartagena: 7 em 60 anos a menos de 300 km). O risco principal no continente em set-nov é a chuva, não o vento ciclônico.",
+  "fontes": [
+   "https://www.nhc.noaa.gov/climo/",
+   "https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2025-092326.txt",
+   "https://en.wikipedia.org/wiki/Providencia_Island,_Colombia"
+  ],
+  "confianca": "verificado (contagem feita sobre o HURDAT2 oficial); a interpretação 'o que pesa' é minha"
+ },
+ "metodologia": {
+  "climaFonteOficial": "IDEAM, 'Normales Climatológicas Estándar, Periodo 1991-2020' (planilha baixada via Wayback Machine, snapshot de 6/jun/2024, a mesma que a Wikipedia cita) e IDEAM 'Promedios Climatológicos 1981-2010' (snapshot de 15/ago/2016). Usei as linhas das estações de cada base. Cartagena, Santa Marta, San Andrés, Medellín, Bogotá e Villa de Leyva: 1991-2020 (exceto Tmax de Villa de Leyva: 1981-2010).",
+  "gapsDeEstacao": "Palomino: só há pluviômetro (normal 1981-2010); temperaturas são a média de Termoguajira (Dibulla) e Tayrona. Verificação cruzada com normais 1991-2020 de pluviômetros vizinhos: Buritaca (a oeste) 1.909 mm/ano e Dibulla (a leste) 1.392 mm/ano, contra 1.620 mm/ano em Palomino (1981-2010), coerente. Salento: só pluviômetro; temperaturas de reanálise ERA5 (Open-Meteo), marcadas como parcial.",
+  "marEVento": "Não há normal oficial de vento/ondas na planilha do IDEAM. Usei ERA5 (vento 10 m, 1991-2020) e a API Marine do Open-Meteo (altura máxima diária de onda, média de ~1.550 dias dentro de 2016-2025, ponto no mar aberto). São modelos; rotulados como tal.",
+  "crossCheck": "A Wikipedia (tabelas citando o IDEAM) bate exatamente com a planilha para Cartagena, Santa Marta e Bogotá. DIVERGÊNCIA: para Medellín (Olaya Herrera) a Wikipedia mostra 2.238 mm/ano, mas a planilha oficial do IDEAM mostra 1.758 mm/ano (mesmos dias de chuva); usei a planilha. climate-data.org e weather-and-climate.com retornaram HTTP 403 e não foram usados.",
+  "diasDeChuva": "Campo 'diasDeChuva' = 'No. de días con lluvia' da planilha IDEAM (definição do limiar pode variar por estação).",
+  "pesoNaDecisao": "alto = o clima muda de forma decisiva a experiência naquele mês (chuva ≥150 mm nas bases de praia, ≥200 mm em Salento, ou combinação com vento ≥28 km/h; San Andrés em set-nov soma risco de furacão); medio = efeito notável porém administrável; baixo = clima raramente interfere. Para Medellín, Bogotá e Villa de Leyva (turismo urbano/vila), uso apenas 'medio' quando há ≥17, ≥12 e ≥13 dias de chuva. Regra minha, aplicada de forma mecânica.",
+  "feriados": "Fonte oficial da regra: Ley 51 de 1983 (funcionpublica.gov.co) e Ley 2578 de 2026 (Secretaría del Senado, novo feriado de Chiquinquirá). Datas de 2026/2027 calculadas pela regra e cruzadas com festivos.com.co (fonte privada); não achei calendário oficial publicado para 2026-2027 no Ministério do Trabalho/Presidência. Feriados de data fixa = 'verificado'; os transferíveis/móveis = 'parcial' (regra oficial + cálculo).",
+  "feriadoFalso": "Descartei calendariodecolombia.com: a página listava Páscoa em 12/abr/2026 (data da Páscoa ortodoxa) e o Dia de Reyes numa segunda 6/jan/2026, que é terça. Dados incompatíveis com a Ley 51.",
+  "limitacoes": [
+   "Firecrawl e Perplexity sem chave; WebSearch chegou ao limite de 200 buscas por sessão no meio da pesquisa, então as últimas fontes foram abertas por URL direta.",
+   "Feria de Cali, Alumbrados de Medellín, Festival de Teatro/FIAV, Festival del Viento y las Cometas, Fiestas de Cartagena (programação) NÃO foram confirmados em fonte oficial para 2026/2027.",
+   "Datas de 2027 de Feria de las Flores, Rock al Parque, Salsa al Parque e 3º fechamento do Tayrona não estão publicadas.",
+   "Nível do rio na Amazônia e fechamentos recorrentes de Johnny Cay: sem fonte.",
+   "Impactos de preço/lotação são qualitativos (estimado); não há série de preços coletada."
+  ],
+  "camposExtras": "Além do schema pedido, adicionei: estacao e normalPeriodo (clima); nota e cidadeEvento (calendário); temporadaFuracoes (item 2 da cobertura); metodologia."
+ }
+}

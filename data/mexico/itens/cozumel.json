@@ -1,0 +1,304 @@
+[
+  {
+    "id": "mx-czm-playa-palancar-cozumel",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cozumel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Palancar_Reef"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/16762823"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Palancar (Cozumel)",
+    "cidadeId": "cozumel",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "cozumel",
+      "snorkel",
+      "costa-oeste",
+      "recife",
+      "descanso"
+    ],
+    "coords": {
+      "lat": 20.3522293,
+      "lng": -87.0224394
+    },
+    "descricaoCurta": "Praia tranquila de areia branca na costa sudoeste de Cozumel, em frente ao recife Palancar; espreguiçadeiras e snorkel a poucos metros da areia.",
+    "descricaoLonga": "Segundo o Wikivoyage, Playa Palancar tem areia branca, espreguiçadeiras e redes sob palmeiras e aluguel de equipamento de snorkel (cerca de US$10, ≈MXN 180 ao câmbio de 8/out/2026). O recife Palancar fica no Parque Nacional Arrecifes de Cozumel, com mergulho de 15 a 34 m e correntes que costumam exigir guia/barco. A costa oeste da ilha é protegida dos ventos de leste (tendência; sem fonte aberta que garanta ausência de sargaço). Cozumel recebe muitos navios de cruzeiro, sobretudo de dezembro a abril (meia dúzia de navios grandes no mesmo dia), o que lota a ilha.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Dias sem navio de cruzeiro ou a partir das 14h.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 180,
+      "max": 180,
+      "por": "pessoa",
+      "inclui": "Aluguel de equipamento de snorkel (US$10 no Wikivoyage, convertido a 18,0066 MXN/USD em 8/out/2026; estimativa)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Cozumel"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palancar_Beach_aerial_Cozumel_Mexico_%2821202324188%29.jpg?width=900",
+        "credito": "dronepicr",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palancar_Beach_aerial_Cozumel_Mexico_(21202324188).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: snorkel direto da praia sem pagar passeio de barco.",
+      "CORTE SE APERTAR: o táxi de ida e volta pesa; dividir o carro/scooter com outra atração (Punta Sur) no mesmo dia."
+    ],
+    "alertas": [
+      "O preço de snorkel é do Wikivoyage e pode estar desatualizado.",
+      "Não voar nas 12–18 h seguintes se houver mergulho com cilindro (ver item de mergulho)."
+    ]
+  },
+  {
+    "id": "mx-czm-ferry-playa-del-carmen-cozumel-ultramar-e-winjet",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cozumel"
+      },
+      {
+        "url": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ferry Playa del Carmen–Cozumel (Ultramar e Winjet)",
+    "cidadeId": "cozumel",
+    "categoria": "experiencia",
+    "tags": [
+      "ferry",
+      "cozumel",
+      "ultramar",
+      "winjet",
+      "transporte"
+    ],
+    "descricaoCurta": "Travessia de ~30–45 min a cada hora entre Playa del Carmen e Cozumel, ~260 por adulto só ida (dez/2023); dois operadores.",
+    "descricaoLonga": "Duas empresas operam a rota a cada hora: Winjet e Ultramar (Wikivoyage, dez/2023: M$260). Saídas de Playa de 8h às 20h, travessia ~30 min (Wikivoyage Playa) — outras fontes citam 40–45 min. Terminais: Terminal Marítima NAVEGA (Av. Benito Juárez, Playa) e Terminal Marítima San Miguel (Av. Rafael Melgar, Cozumel). Bagagem: 25 kg. Compre ida de cada vez: os bilhetes não são transferíveis entre operadores. Cozumel fica cheia de turistas de cruzeiro de dezembro a abril.",
+    "duracao": {
+      "min": 30,
+      "tipica": 35,
+      "max": 45
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "20:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–20:00 (saídas de Playa, Wikivoyage); confirmar último retorno",
+    "diasFechados": [],
+    "melhorHorario": "Primeiro barco da manhã para aproveitar o dia.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 260,
+      "max": 260,
+      "por": "pessoa",
+      "inclui": "Ida adulta (dez/2023); 2026 provavelmente igual ou maior",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Cozumel"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php"
+    },
+    "contato": {
+      "telefone": "+52 (998) 460-3084",
+      "whatsapp": "+52 (998) 460-3084",
+      "site": "https://ultramarsales.ultramarferry.com/en/ferry-cozumel.php",
+      "instagram": "@ultramarferry"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: ida e volta ~520 para uma ilha inteira de snorkel e praias.",
+      "CORTE SE APERTAR: alugar scooter/carro na ilha (~US$25/55 por dia no Wikivoyage, dado de 2022) só se dividir bem; táxi e praia de Palancar podem bastar."
+    ],
+    "alertas": [
+      "Preço de dez/2023 e fev/2022: confirmar em 2026.",
+      "Em dia de vento/mar agitado o ferry pode atrasar ou cancelar.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-czm-mergulho-e-snorkel-em-cozumel-palancar-e-alerta-de-n",
+    "fontes": [
+      {
+        "url": "https://dan.org/health-medicine/health-resources/diseases-conditions/flying-after-diving/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Palancar_Reef"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cozumel"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/16762823"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar",
+    "cidadeId": "cozumel",
+    "categoria": "passeio",
+    "tags": [
+      "mergulho",
+      "snorkel",
+      "cozumel",
+      "palancar",
+      "recife",
+      "alerta",
+      "voo"
+    ],
+    "coords": {
+      "lat": 20.3522293,
+      "lng": -87.0224394
+    },
+    "descricaoCurta": "Palancar é recife de classe mundial (15–34 m, correntes); respeite as 12–18 h de espera antes de voar após mergulhar com cilindro.",
+    "descricaoLonga": "Palancar fica na costa sudoeste de Cozumel, no Parque Nacional Arrecifes de Cozumel; mergulhos de 15 a 34 m, com formações de recife, cavernas e correntes. Snorkel: dá para fazer da Playa Palancar (aluguel ~US$10). PREÇOS DE PASSEIO/MERGULHO: não obtive tabela confiável de operadoras de Cozumel em fonte aberta; a MUSA (Cancún/Isla Mujeres) lista mergulho a US$115–189. ALERTA OFICIAL DO DAN: espere no mínimo 12 h depois de um único mergulho sem descompressão e 18 h depois de vários mergulhos no mesmo dia ou em dias seguidos antes de voar (consenso do workshop de 2002). Muitas operadoras pedem 24 h por precaução (prática comum; não confirmada em fonte aberta). Planeje o mergulho para o dia anterior ao voo com margem. Além disso, o Wikivoyage recomenda não beber álcool por ~12 h antes e depois de mergulhar.",
+    "duracao": {
+      "min": 240,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã (menos vento); mergulhos de 2 tanques saem cedo.",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palancar_beach_Cozumel_Mexico_%2821202413478%29.jpg?width=900",
+        "credito": "dronepicr",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Palancar_beach_Cozumel_Mexico_(21202413478).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mergulho com cilindro exige certificação (ou batismo)",
+        "Não voar nas 12–18 h seguintes (DAN)."
+      ],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: snorkel de Palancar/Playa pela via mais barata: aluguel na praia (~180).",
+      "CORTE SE APERTAR: mergulho de cilindro (batismo) se o orçamento estiver curto: além do custo, cria restrição de voo.",
+      "Se for mergulhar, programe o voo para 24 h depois do último mergulho (margem de segurança)."
+    ],
+    "alertas": [
+      "ALERTA: não voar nas 12 h (1 mergulho) a 18 h (vários mergulhos) após mergulho com cilindro (DAN). Em dúvida, espere 24 h.",
+      "Preços de operadoras não confirmados.",
+      "Cozumel Palancar Gardens teve fechamento temporário em 2019 para avaliação do recife.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "passeio": {
+      "pontoPartida": "Píer de San Miguel ou praia de Palancar, conforme operadora.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

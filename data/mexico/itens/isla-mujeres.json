@@ -1,0 +1,523 @@
+[
+  {
+    "id": "mx-imu-playa-norte-isla-mujeres",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      },
+      {
+        "url": "https://www.nmas.com.mx/medio-ambiente/donde-hay-sargazo-cancun-hoy-29-de-julio-2026-reporte-lista-playas-recale-mexico/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4387935490"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Norte (Isla Mujeres)",
+    "cidadeId": "isla-mujeres",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "aguas-rasas",
+      "isla-mujeres",
+      "caribe-calmo",
+      "por-do-sol"
+    ],
+    "coords": {
+      "lat": 21.2606483,
+      "lng": -86.750993
+    },
+    "descricaoCurta": "A melhor praia da ilha: areia branca e água rasa e calma, a poucos passos do desembarque do ferry.",
+    "descricaoLonga": "Segundo o Wikivoyage, Playa Norte oferece água rasa e clara, ideal para nadar; Playa Sol, no lado oeste, é boa para o pôr do sol e menos lotada. Costuma ser uma das opções que escapam do sargaço quando Cancún sul e Playa del Carmen estão ruins (o N+ citou Isla Mujeres como alternativa nos dias de maior acúmulo); mesmo assim confira o mapa. Fica no extremo norte do centro da ilha, caminhável do embarcadero.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã cedo ou fim de tarde; ao meio-dia lota.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Norte%2C_Isla_Mujeres_QR_2020_01.jpg?width=900",
+        "credito": "Bernard DUPONT",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Norte,_Isla_Mujeres_QR_2020_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: praia grátis que rende o dia inteiro; combinar com o ferry e o carrinho de golfe.",
+      "CORTE SE APERTAR: espreguiçadeiras de restaurantes da orla; levar canga e comprar bebida em mercadinho."
+    ],
+    "alertas": [
+      "Isla Mujeres não é imune ao sargaço; checar o mapa.",
+      "Valores de ferry e táxi mudam; confirmar.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-imu-ferry-cancun-isla-mujeres-ultramar-e-xailing",
+    "fontes": [
+      {
+        "url": "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/"
+      },
+      {
+        "url": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php"
+      },
+      {
+        "url": "https://www.ultramarferry.com"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/6182277415"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ferry Cancún–Isla Mujeres (Ultramar e Xailing)",
+    "cidadeId": "isla-mujeres",
+    "categoria": "experiencia",
+    "tags": [
+      "ferry",
+      "isla-mujeres",
+      "ultramar",
+      "xailing",
+      "transporte",
+      "economico"
+    ],
+    "coords": {
+      "lat": 21.1876128,
+      "lng": -86.8076662
+    },
+    "descricaoCurta": "Travessia de ~18 min a cada 30 min; Ultramar saía a 270 por adulto (540 ida e volta, valores de 2024); Puerto Juárez é o ponto mais frequente.",
+    "descricaoLonga": "Operadoras: Ultramar (Puerto Juárez, Playa Tortugas km 6,5 e Playa Caracol km 9,5) e Xailing (Grupo Xcaret, Embarcadero de Cancún, saídas 9h–19h). TARIFAS (reportagem de jan/2024; valores de 2026 podem ser maiores): Ultramar adulto 270 ida / 540 ida e volta, criança 200/400, residentes de Q. Roo 100/200; Xailing 261 adulto e 198 criança (taxa ambiental incluída). Cancún→Isla: 5h30–23h, a cada 30 min; Isla→Cancún: 6h–0h. Duração: ~18 min de Puerto Juárez (Wikivoyage). Bagagem de 25 kg; chegar 30–40 min antes; bilhetes válidos por 6 meses. O Wikivoyage lista M$258–468 em 2022 para vários terminais. Taxa de saneamento ambiental municipal inclusa.",
+    "duracao": {
+      "min": 18,
+      "tipica": 25,
+      "max": 40
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "05:30",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "05:30–23:00 (saídas de Cancún, a cada 30 min); retorno 06:00–00:00",
+    "diasFechados": [],
+    "melhorHorario": "Saída cedo (6h–9h) para ter o dia inteiro na ilha.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 270,
+      "max": 540,
+      "por": "pessoa",
+      "inclui": "Ultramar adulto: 270 só ida / 540 ida e volta (jan/2024); inclui taxa ambiental",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://ruptura360.mx/periodismo-de-servicio/ferry-isla-mujeres-2023/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php"
+    },
+    "contato": {
+      "telefone": "+52 (998) 460-3084",
+      "whatsapp": "+52 (998) 460-3084",
+      "site": "https://ultramarsales.ultramarferry.com/en/ferry-isla-mujeres.php",
+      "instagram": "@ultramarferry"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a travessia + dia em Isla Mujeres é o passeio de ilha mais barato da região.",
+      "Saindo de Puerto Juárez, o ônibus R-1/R-2 até lá é barato; os terminais da Zona Hotelera são mais caros em transporte, mas mais fáceis para hóspedes da hotelera.",
+      "CORTE SE APERTAR: terminais premium (Playa Caracol/Tortugas) e Xailing se Puerto Juárez fizer sentido no seu hotel."
+    ],
+    "alertas": [
+      "Preços de jan/2024: confirme em 2026; o site oficial não exibiu valores na extração.",
+      "Ferries não aceitam bilhete trocado entre operadoras (relato Wikivoyage para Cozumel)."
+    ]
+  },
+  {
+    "id": "mx-imu-carrinho-de-golfe-em-isla-mujeres-preco-documentos-e",
+    "fontes": [
+      {
+        "url": "https://www.poresto.com/quintana-roo/isla-mujeres/2024/12/10/turista-expone-estafa-en-negocios-de-carritos-de-golf-en-isla-mujeres-le-cobraron-mas-de-5-mil-pesos.amp.html"
+      },
+      {
+        "url": "https://www.privilegehotels.com/isla-mujeres/blog/golf-car-rental"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Carrinho de golfe em Isla Mujeres: preço, documentos e golpe",
+    "cidadeId": "isla-mujeres",
+    "categoria": "aluguel-veiculo",
+    "tags": [
+      "golf-cart",
+      "isla-mujeres",
+      "aluguel",
+      "golpe",
+      "documentos",
+      "ilha-em-1-dia"
+    ],
+    "descricaoCurta": "Alugar um carrinho de golfe é o jeito clássico de rodar a ilha (~7 km); a faixa varia de ~900 a ~2.000 por dia, e há golpe na orla.",
+    "descricaoLonga": "ALUGUEL (preencha com os veículos): carrinho de golfe elétrico/a gasolina para até 4 passageiros (Privilege Hotels); scooter de aluguel também existe (Wikivoyage: US$30/dia em 2019). PREÇOS: Wikivoyage (2019) cita ~US$50/dia (≈MXN 900 ao câmbio de 8/out/2026); buscas de 2026 indicam MXN 1.300–2.000 por dia, mas essa faixa não foi confirmada em página aberta, então use 900–2.000 como alcance. DOCUMENTOS: é exigida carteira de motorista válida, que fica no balcão; pagamento antecipado em dinheiro ou cartão (Privilege Hotels). Não há confirmação de que a CNH brasileira seja aceita — leve a CNH física e o passaporte. REGRAS: máximo 4 pessoas, proibido em praia, calçadão e estrada de terra; sinalizar com a mão; estacionar só em calçada lisa/branca (amarelo proibido); não pode embarcar no ferry; aluguéis diários após 9h devem voltar até 17h. GOLPE: em dez/2024 um turista pagou MXN 5.500 por 1 h de aluguel combinado a 1.000 com um agenciador na Av. Rueda Medina; a prefeitura diz haver ~30 agências cadastradas e ~40 comissionistas; alugue em loja estabelecida e feche o preço total por escrito. Táxi na cidade: M$30 (Wikivoyage). A ilha tem ~7 km de comprimento.",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–17:00 (Aluguéis típicos  (diário); 24 h em algumas lojas)",
+    "diasFechados": [],
+    "melhorHorario": "Pegar às 9h, devolver às 17h; contornar a ilha de manhã e deixar praia para a tarde.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 900,
+      "max": 2000,
+      "por": "grupo",
+      "inclui": "Aluguel por dia (1 carrinho para até 4 pessoas), gasolina normalmente inclusa; faixa estimada (900 = US$50 de 2019; 2.000 = relatos de 2026 não confirmados)",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        },
+        {
+          "url": "https://www.privilegehotels.com/isla-mujeres/blog/golf-car-rental"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golf_Cart_Rental_Business_Isla_Mujeres_2022.jpg?width=900",
+        "credito": "Larry D. Moore",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Golf_Cart_Rental_Business_Isla_Mujeres_2022.jpg"
+      }
+    ],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Carteira de motorista válida.",
+        "Máx. 4 pessoas; proibido na praia/calçadão; não embarca no ferry."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: dividido por dois, o carrinho cobre a ilha toda (Playa Norte, Garrafón, Punta Sur, ruínas) em 1 dia: melhor custo-benefício da ilha.",
+      "VALE CADA PESO: fechar o preço TOTAL (dia, seguro/avaria, gasolina) antes de assinar; tirar fotos do carrinho antes e depois.",
+      "CORTE SE APERTAR: scooter ou bicicleta (a ilha é pequena) ou táxi M$30 dentro do centro."
+    ],
+    "alertas": [
+      "GOLPE: cobrança de MXN 5.500 por 1 h combinada a 1.000 (dez/2024). Não feche com agenciador de rua.",
+      "Preço 2026 não foi confirmado em página aberta; a faixa é estimada.",
+      "Dirigir apenas com carteira válida; com álcool é crime.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-imu-nado-com-tubarao-baleia-isla-mujeres-cancun",
+    "fontes": [
+      {
+        "url": "https://www.poresto.com/quintana-roo/isla-mujeres/2025/11/28/preven-otra-mala-temporada-de-avistamiento-del-tiburon-ballena-en-2026-en-isla-mujeres.html"
+      },
+      {
+        "url": "https://www.cancuntripinsider.com/guides/cancun/whale-shark-tour-cancun-mexico"
+      },
+      {
+        "url": "https://www.nathab.com/blog/know-before-you-go-responsible-whale-shark-tourism-in-mexico"
+      },
+      {
+        "url": "https://open.er-api.com/v6/latest/USD"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Nado com tubarão-baleia (Isla Mujeres / Cancún)",
+    "cidadeId": "isla-mujeres",
+    "categoria": "passeio",
+    "tags": [
+      "tubarao-baleia",
+      "whale-shark",
+      "isla-mujeres",
+      "holbox",
+      "passeio",
+      "temporada",
+      "conanp"
+    ],
+    "descricaoCurta": "Temporada de 15/mai a 17/set (pico julho–agosto); em 2026 o preço caiu a ~1.300 por pessoa, mas ainda é um passeio de dia inteiro com regras rígidas.",
+    "descricaoLonga": "TEMPORADA: 15 de maio a 17 de setembro; pico julho e agosto (ambientalistas sugerem restringir a julho–agosto). Fora dessas datas, tours com tubarão-baleia são ilegais; em outubro/2026 a temporada de 2026 já terminou: o próximo ciclo começa em meados de maio de 2027. PREÇO: Poresto (nov/2025) relata operadoras baixando para MXN 1.300 por pessoa (recomendado: 2.000+, 'guerra de preços'); Cancun Trip Insider (out/2026) lista US$155–229 por pessoa (≈MXN 2.790–4.120) mais taxas de parque/doca de US$10–30 em dinheiro. Duração 6–10 h: 60–90 min de barco por trecho, 30–45 min na água e snorkel de recife. Saídas: Puerto Juárez, Punta Sam ou Isla Mujeres (mais perto dos tubarões). REGRAS: sem protetor solar na água, colete salva-vidas obrigatório, máx. 2 nadadores + 1 guia por tubarão, não tocar/montar nem bloquear o caminho, sem flash a menos de 3 m; mergulho de cilindro é proibido (só snorkel). OPERADORAS: existem ~120 embarcações licenciadas partindo de Isla Mujeres, até 10 pessoas por barco; escolha operadora com permissão da Conanp e peça o número da licença do barco. Não encontrei lista oficial aberta. 2026 foi previsto como mais um ano fraco (menos visitantes e queda de reservas).",
+    "duracao": {
+      "min": 360,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "melhorHorario": "Julho e agosto são os meses de maior presença; saídas de manhã cedo.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1300,
+      "max": 4120,
+      "por": "pessoa",
+      "inclui": "Passeio com café/almoço, equipamento, colete e guia (varia); taxas de parque/doca US$10–30 em dinheiro à parte; faixa baixa do Poresto e alta convertida de US$229 a 18,0066",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.poresto.com/quintana-roo/isla-mujeres/2025/11/28/preven-otra-mala-temporada-de-avistamiento-del-tiburon-ballena-en-2026-en-isla-mujeres.html"
+        },
+        {
+          "url": "https://www.cancuntripinsider.com/guides/cancun/whale-shark-tour-cancun-mexico"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale_shark_at_Isla_Mujeres.jpg?width=900",
+        "credito": "MarAlliance2018",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Whale_shark_at_Isla_Mujeres.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Sem protetor solar na água.",
+        "Colete obrigatório.",
+        "Só snorkel."
+      ],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: encontro com o maior peixe do mundo é raro; se for em julho–agosto, vale reservar.",
+      "CORTE SE APERTAR: é um dos passeios mais caros da região; se o orçamento apertar, corte e priorize Isla Mujeres, cenotes e ruínas.",
+      "Desconfiar do preço muito baixo (~1.300): confira licença Conanp, nº de passageiros e se inclui taxas."
+    ],
+    "alertas": [
+      "Temporada 2026 já encerrada; próxima: meados de maio de 2027 (15/mai–17/set).",
+      "Preços variam muito entre fontes (moeda e data); confirme.",
+      "Não toque nos animais; multa e perda de licença para operadoras.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Puerto Juárez / Punta Sam / Isla Mujeres (conforme a operadora).",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-imu-comida-barata-e-frutos-do-mar-em-isla-mujeres-tik-n",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bacalar"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar",
+    "cidadeId": "isla-mujeres",
+    "categoria": "restaurante",
+    "tags": [
+      "marisqueria",
+      "frutos-do-mar",
+      "tik-n-chik",
+      "isla-mujeres",
+      "bacalar",
+      "economico"
+    ],
+    "descricaoCurta": "Isla Mujeres tem tacos a US$0,75, meio frango assado a ~US$5 e o prato típico tik-n-chik (peixe grelhado ao achiote); em Bacalar, marisquería à beira da laguna por ~M$300.",
+    "descricaoLonga": "Isla Mujeres (Wikivoyage): tacos a US$0,75, meio frango assado com acompanhamentos a US$5, frutos do mar de gama média a US$10–20; 'o peixe é fresco e abundante', com a especialidade tik-n-chik (peixe grelhado marinado em achiote). Cerveja em happy hour: 2 por ~US$3; vida noturna mais animada na Rua Hidalgo. Bacalar: Antojitos Orizaba (comida yucateca econômica) e Chiltepín Marisquillos (frutos do mar à beira da laguna, ~M$300). Preços de Wikivoyage, data não informada.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço no centro de Isla Mujeres.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 14,
+      "max": 360,
+      "por": "pessoa",
+      "inclui": "Tacos US$0,75 (≈14) a frutos do mar US$10–20 (≈180–360) conforme o Wikivoyage, convertidos a 18,0066 MXN/USD",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bacalar"
+        },
+        {
+          "url": "https://open.er-api.com/v6/latest/USD"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: tik-n-chik e ceviche em restaurantes 2 ruas atrás do calçadão.",
+      "CORTE SE APERTAR: restaurantes na frente do embarcadero e jantar 'à beira da laguna' em Bacalar."
+    ],
+    "alertas": [
+      "Preços do Wikivoyage; estimativas.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  }
+]

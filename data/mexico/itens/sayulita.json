@@ -1,0 +1,149 @@
+[
+  {
+    "id": "mx-say-sayulita-praia-e-surfe-para-iniciantes",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Sayulita"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sayulita"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/875624596"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Sayulita: praia e surfe para iniciantes",
+    "cidadeId": "sayulita",
+    "categoria": "praia",
+    "tags": [
+      "sayulita",
+      "surfe",
+      "iniciante",
+      "praia",
+      "pueblo",
+      "riviera-nayarit"
+    ],
+    "coords": {
+      "lat": 20.8710113,
+      "lng": -105.4406378
+    },
+    "descricaoCurta": "Praia de águas rasas ('50 m de pé') e ondas pequenas jan-março; ônibus de PV por MXN 60 (2026). Aula de grupo de ~500-1.200 MXN (não confirmado em página aberta).",
+    "descricaoLonga": "O Wikivoyage descreve Sayulita como 'excelente e tranquila' para quem aprende a surfar: fundo de areia e ondas pequenas e manejáveis de janeiro a março; a praia principal tem água rasa por ~50 m da margem. Chegada: ônibus verde e branco 'Compostela' (letreiro Sayulita) do aeroporto/ponte de pedestres de Puerto Vallarta por MXN 60 (2026), a cada 10 min, das 05:15 às 22:30; a cidade fica a ~23 milhas ao norte de PV pela Hwy 200. Mais de 40 restaurantes; margaritas gigantes no Costeño's; camping econômico no Camping del Palmar (ao sul do rio). Cuidados: arrastar os pés na água (arraias) e esgoto ocasional nas áreas de banho por causa do crescimento turístico. Wikipedia: surfistas frequentam desde os anos 1960 e o pico de turismo é no inverno. Preços de aula (resumo de busca, não confirmado em página aberta): grupo de 2 h ~500-900 MXN em escolas como Lunazul, Captain Hook e Sininen; Marea Surf School ~1.200 MXN em grupo e ~1.500 MXN particular, com prancha e lycra.",
+    "duracao": {
+      "min": 120,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Jan-março para ondas pequenas de iniciante (Wikivoyage).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 500,
+      "max": 1200,
+      "por": "pessoa",
+      "inclui": "Aula de grupo de ~2 h com prancha (valor vindo de resumo de busca; páginas das escolas não foram abertas). Aula particular ~1.400-2.000 MXN.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Sayulita"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Beach_in_Sayulita%2C_Mexico.jpg/1280px-Beach_in_Sayulita%2C_Mexico.jpg",
+        "credito": "Peon In Politics",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Beach_in_Sayulita,_Mexico.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Arrastar os pés ao entrar na água (arraias)"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: aula de grupo é barata e a praia é a mais amigável para iniciantes do Pacífico central.",
+      "CORTE SE APERTAR: jantares na praça/Costeño's; coma no mercado e nas barracas (preços não coletados).",
+      "Hospedagem econômica: camping no Camping del Palmar (preço não coletado)."
+    ],
+    "alertas": [
+      "Preços de aula NÃO estão confirmados em página aberta (fonte: resumo de busca que citava mexicotravelandleisure.com, que devolveu 403 ao abrir).",
+      "Cuidado com esgoto ocasional na água (Wikivoyage)."
+    ]
+  },
+  {
+    "id": "mx-say-san-pancho-san-francisco-nayarit",
+    "fontes": [
+      {
+        "url": "https://www.openstreetmap.org/relation/8894431"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "San Pancho (San Francisco, Nayarit)",
+    "cidadeId": "sayulita",
+    "categoria": "praia",
+    "tags": [
+      "san-pancho",
+      "praia",
+      "riviera-nayarit",
+      "vilarejo",
+      "tranquilo"
+    ],
+    "coords": {
+      "lat": 20.9018872,
+      "lng": -105.4090897
+    },
+    "descricaoCurta": "Vilarejo litorâneo ~3-4 km ao nordeste de Sayulita pelas coordenadas OSM. Dados práticos NÃO confirmados.",
+    "descricaoLonga": "San Francisco ('San Pancho'), em Bahía de Banderas, Nayarit, aparece no OpenStreetMap a cerca de 3 a 4 km de Sayulita (distância calculada das coordenadas) e há fotos livres do acesso à praia no Wikimedia Commons. Nenhuma página aberta nesta coleta traz preços, ondas, hospedagem ou vida noturna. Mantido por estar no escopo.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Acceso_a_la_Playa_San_Pancho_en_San_Francisco%2C_Nayarit_02.jpg/1280px-Acceso_a_la_Playa_San_Pancho_en_San_Francisco%2C_Nayarit_02.jpg",
+        "credito": "Luisalvaz",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Acceso_a_la_Playa_San_Pancho_en_San_Francisco,_Nayarit_02.jpg"
+      }
+    ],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: só inclua se sobrar tempo em Sayulita; faltam dados de custo e estrutura."
+    ],
+    "alertas": [
+      "Quase tudo NÃO confirmado.",
+      "Confiança 'estimado'.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  }
+]

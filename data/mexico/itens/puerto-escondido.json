@@ -1,0 +1,501 @@
+[
+  {
+    "id": "mx-pxm-playa-zicatela-mexican-pipeline",
+    "fontes": [
+      {
+        "url": "https://www.vivapuerto.com/vp5/lifeguards.php"
+      },
+      {
+        "url": "https://www.tripexpert.com/oaxaca/attractions/playa-zicatela"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puerto_Escondido,_Oaxaca"
+      },
+      {
+        "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/192166819"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Playa Zicatela (Mexican Pipeline)",
+    "cidadeId": "puerto-escondido",
+    "categoria": "praia",
+    "tags": [
+      "surfe-avancado",
+      "correnteza-forte",
+      "baladas",
+      "nao-nadar",
+      "mexican-pipeline"
+    ],
+    "coords": {
+      "lat": 15.8437439,
+      "lng": -97.0526098
+    },
+    "descricaoCurta": "Praia lendária de ondas gigantes; vista e balada sim, mergulho NÃO: correnteza fortíssima.",
+    "descricaoLonga": "Famosa pelo 'Mexican Pipeline': canhão submarino que amplifica as ondas (swells de 20+ pés de maio a outubro; baixa temporada turística em meados/fim do verão, mas ondas no auge; campeonatos em novembro). Cerca de 800 pessoas são resgatadas por ano em Zicatela e Playa Principal por ~12 salva-vidas profissionais e voluntários; casos típicos são banhistas e bodyboarders novatos em correntes de retorno. Zicatela NÃO é para iniciantes nem para banho: use Carrizalillo ou La Punta para aprender. É o polo de bares e baladas de Puerto Escondido.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Nascer do sol para caminhar; pôr do sol nos bares de praia.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Zicatela,_Oaxaca.jpg?width=1200",
+        "credito": "Daniel Sebastián Hernández Lozano",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Zicatela,_Oaxaca.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não é recomendada para natação nem iniciantes em surfe."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (zero) como cenário e festa; entrar na água só em Punta Zicatela/La Punta com aula.",
+      "Wikivoyage: evite praias à noite por relatos de assaltos; a polícia pode abordar turistas tarde da noite."
+    ],
+    "alertas": [
+      "CORRENTEZA FORTÍSSIMA: não nade, nem boogie board sem experiência (vivapuerto.com).",
+      "Praia de Playa Principal tem queda brusca de ~10 m de profundidade perto da margem (vivapuerto).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pxm-playa-carrizalillo",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/192166817"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Playa Carrizalillo",
+    "cidadeId": "puerto-escondido",
+    "categoria": "praia",
+    "tags": [
+      "enseada",
+      "banho-seguro",
+      "surfe-iniciante",
+      "167-degraus",
+      "mais-bonita"
+    ],
+    "coords": {
+      "lat": 15.8595515,
+      "lng": -97.0785137
+    },
+    "descricaoCurta": "Enseada de águas claras, a mais indicada para nadar e para primeiras aulas de surfe.",
+    "descricaoLonga": "Wikivoyage: 'a praia mais bonita e mais segura para nadar', acesso por 167 degraus. Para surfe de iniciante é descrita como a mais amigável: água clara, ondas pequenas a médias com poucas pedras. Bom para um dia de praia mais tranquilo e para primeira aula. Preço de acesso, espreguiçadeiras e barcos não foram verificados.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã (menos gente) ou fim da tarde.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Playa_Carrizalillo.jpg?width=1200",
+        "credito": "Ix kimiaranda",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Carrizalillo.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "167 degraus de acesso (difícil para mobilidade reduzida)."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: melhor opção para banho de mar e aula de surfe de iniciante."
+    ],
+    "alertas": [
+      "Escadaria de 167 degraus na volta; leve água.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pxm-la-punta-punta-zicatela",
+    "fontes": [
+      {
+        "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+      },
+      {
+        "url": "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/458636105"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Punta (Punta Zicatela)",
+    "cidadeId": "puerto-escondido",
+    "categoria": "praia",
+    "tags": [
+      "ponta-sul",
+      "surfe-iniciante",
+      "bohemio",
+      "bares-de-praia",
+      "hospedagem-economica"
+    ],
+    "coords": {
+      "lat": 15.833333,
+      "lng": -97.038333
+    },
+    "descricaoCurta": "Ponta sul da Zicatela: clima relaxado, ondas menores, hostels, restaurantes e bares de praia.",
+    "descricaoLonga": "Área mais relaxada e frequentada por expatriados, com ondas menores para aprender. Vida noturna moderada (bares de praia e restaurantes), não a festa pesada da Zicatela. Lineup mais cheio e ocasionais ondas grandes (Mexico News Daily). Indicada como base para quem quer surfar e ter vida noturna leve.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã para surfe; pôr do sol para beber.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Zicatela,_Puerto_Escondido.jpg?width=1200",
+        "credito": "Anna Bertho",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Punta_Zicatela,_Puerto_Escondido.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO como base de hospedagem econômica: Wikivoyage cita dormitório desde ~200 MXN e quartos sem ar desde 400-600 (abril/2024).",
+      "Honestidade: vida noturna aqui é bem mais calma que a Zicatela/Adoquín."
+    ],
+    "alertas": [
+      "Ondas maiores podem aparecer de surpresa (Mexico News Daily). Evite caminhar sozinho na praia à noite (Wikivoyage).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pxm-aula-de-surfe-para-iniciantes-em-puerto-escondido",
+    "fontes": [
+      {
+        "url": "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aula de surfe para iniciantes em Puerto Escondido",
+    "cidadeId": "puerto-escondido",
+    "categoria": "experiencia",
+    "tags": [
+      "surfe",
+      "aula",
+      "iniciante",
+      "carrizalillo",
+      "la-punta"
+    ],
+    "descricaoCurta": "Aula de 2 horas com instrutor e prancha por ~800-900 MXN, em Carrizalillo ou La Punta.",
+    "descricaoLonga": "Aulas de iniciante duram cerca de 2 h e custam 800-900 MXN com instrutor certificado e prancha incluídos (Mexico News Daily, abril/2024). Mexico News Daily cita a Chingon Surf Lessons e várias escolas no caminho para La Punta. Uma semana de aulas dá base para ondas pequenas a médias. Carrizalillo é a mais amigável para quem começa.",
+    "duracao": {
+      "min": 120,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã cedo (vento mais fraco).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 800,
+      "max": 900,
+      "por": "pessoa",
+      "inclui": "Aula de ~2 h com instrutor certificado e prancha (valores de abril/2024).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://mexiconewsdaily.com/travel/want-to-learn-to-surf-like-a-pro-come-to-puerto-escondido/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Saber nadar; cansaço de remar contra a corrente é real."
+      ]
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: uma aula só basta para saber se você gosta; casal pode dividir aula semiprivada se a escola oferecer."
+    ],
+    "alertas": [
+      "Preços de abril/2024; atualize em 2026.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-pxm-bioluminescencia-na-laguna-de-manialtepec",
+    "fontes": [
+      {
+        "url": "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/"
+      },
+      {
+        "url": "https://oceantravelhuatulco.com/blog/detalle/mejor-epoca-para-ver-la-bioluminiscencia-en-manialtepec"
+      },
+      {
+        "url": "https://paraisolaguna.com/en/bioluminescence-tour-oaxaca/"
+      },
+      {
+        "url": "https://www.civitatis.com/en/puerto-escondido/night-tour-manialtepec-lagoon/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Laguna_de_Manialtepec"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bioluminescência na Laguna de Manialtepec",
+    "cidadeId": "puerto-escondido",
+    "categoria": "passeio",
+    "tags": [
+      "bioluminescencia",
+      "passeio-noturno",
+      "lua-nova",
+      "laguna"
+    ],
+    "coords": {
+      "lat": 15.94583,
+      "lng": -97.19444
+    },
+    "descricaoCurta": "Passeio de barco noturno (2,5 h) em laguna ~20 min de Puerto Escondido; ~950 MXN, melhor na lua nova.",
+    "descricaoLonga": "Passeio com buscar no hotel às 18:30 e retorno ~21:00, barco na laguna, tempo de banho, colete e guia bilíngue (operador Lassault México, 950 MXN por pessoa). ÉPOCA: fontes divergem. Uma agência local indica maio a novembro com pico de agosto a outubro (chuvas aumentam os dinoflagelados); outro operador (puerto-escondido.mx) fala em setembro a maio como melhor momento; um terceiro diz que opera o ano todo com pico de julho a novembro. Todos concordam que a LUA NOVA é o fator-chave e a lua cheia atrapalha. Planeje sempre pela fase da lua, não só pelo mês.",
+    "duracao": {
+      "min": 150,
+      "tipica": 150,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "18:30",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "18:30–21:00",
+    "diasFechados": [],
+    "melhorHorario": "Lua nova; evite lua cheia.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 800,
+      "max": 950,
+      "por": "pessoa",
+      "inclui": "Transporte do hotel, barco na laguna, banho, colete, guia bilíngue. Valores de operadores de 2025-2026: 950 (puerto-escondido.mx); outros resultados citam 800.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "+52 954 133 6245",
+      "site": "https://www.puerto-escondido.mx/en/tour-item/bioluminescence-tour/"
+    },
+    "imagens": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Manialtepec_Oaxaca.jpg?width=1200",
+        "credito": "Lunita28mx",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Laguna_de_Manialtepec_Oaxaca.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não passar protetor solar antes de entrar na água (plâncton)."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se coincidir com lua nova; senão CORTE SE APERTAR (950 MXN para ver pouco)."
+    ],
+    "alertas": [
+      "Visibilidade varia com correntes e lua; um viajante relatou ver pouco (Civitatis). Confira a fase da lua antes de reservar.",
+      "Épocas divergem entre operadores (maio-nov x set-mai x o ano todo)."
+    ],
+    "passeio": {
+      "pontoPartida": "Buscar no hotel em Puerto Escondido; laguna a ~20 min.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-pxm-vida-noturna-em-puerto-escondido-zicatela-adoquin-e",
+    "fontes": [
+      {
+        "url": "https://suitcasemag.com/to-drink-puerto-escondido-mexico"
+      },
+      {
+        "url": "https://breathingtravel.com/where-to-stay-in-puerto-escondido/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Huatulco"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Vida noturna em Puerto Escondido: Zicatela, Adoquín e La Punta",
+    "cidadeId": "puerto-escondido",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "bares",
+      "zicatela",
+      "adoquin",
+      "casa-babylon",
+      "live-music"
+    ],
+    "descricaoCurta": "A balada real da região: bares da Zicatela (Casa Babylon, Palapita, Playa Kabbalah, Bar Fly) e La Piedra de la Iguana.",
+    "descricaoLonga": "Honestidade: é a melhor vida noturna da costa, mas é de cidade pequena de surfistas. Zicatela concentra bares e boates (post-surf, música ao vivo, DJs); Casa Babylon mistura livraria, café e balada; La Piedra de la Iguana Social Club (Brisas de Zicatela) é famosa por festas de Réveillon e Semana Santa com EDM e fogo; Adoquín (Av. Pérez Gasga) tem opções de bar. La Punta tem bares de praia e clima mais calmo. Preços e horários não foram verificados. Huatulco tem pouco: 'a vida noturna séria está em Puerto Escondido'.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite de sexta e sábado (inferência).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a única balada de verdade da costa; combine com hospedagem em La Punta ou Zicatela.",
+      "Voltar de táxi: evite praia de madrugada (assaltos relatados; Wikivoyage)."
+    ],
+    "alertas": [
+      "Preços, dias e coordenadas dos locais não verificados; fontes são guias de viagem sem datas.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  }
+]

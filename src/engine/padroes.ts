@@ -30,6 +30,8 @@ export const FATORES_PADRAO: Record<Modal, FatorDeModal> = {
   'veiculo-alugado': { kmh: 20, fatorRota: 1.4 },
   'carro-fretado': { kmh: 60, fatorRota: 1.3 },
   onibus: { kmh: 50, fatorRota: 1.35 },
+  // Trem regional, tipo Tren Maya: mais rapido que onibus, trajeto mais reto.
+  trem: { kmh: 80, fatorRota: 1.15 },
   barco: { kmh: 25, fatorRota: 1.1 },
   voo: { kmh: 700, fatorRota: 1.05 },
 };
