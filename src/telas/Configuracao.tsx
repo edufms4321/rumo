@@ -56,7 +56,7 @@ export function Configuracao() {
 
   return (
     <div className="mx-auto max-w-3xl">
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight">Configuracao da viagem</h1>
+      <h2 className="mb-6 text-2xl font-semibold tracking-tight">Configuracao da viagem</h2>
 
       {requisito?.vistoNecessario && (
         <Cartao className="mb-6 border-[var(--cor-erro-borda)] bg-[var(--cor-erro-fundo)] p-4">

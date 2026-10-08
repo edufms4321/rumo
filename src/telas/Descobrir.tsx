@@ -153,6 +153,9 @@ export function Descobrir() {
         </Cartao>
       )}
 
+      {/* Degrau entre o h1 do Layout e os h3 dos cartoes: sem ele o leitor
+          de tela pula um nivel. */}
+      <h2 className="sr-only">Resultados</h2>
       <p className="mb-3 text-xs text-[var(--cor-texto-suave)]">
         {itens.length} {itens.length === 1 ? 'resultado' : 'resultados'}
         {temFiltro && (
@@ -259,6 +262,7 @@ function CartaoDeItem({
   return (
     <Cartao className="group flex h-full flex-col overflow-hidden transition-shadow hover:shadow-[var(--sombra-flutuante)]">
       <button
+        aria-label={`Abrir ${item.nome}`}
         className="relative block h-32 w-full shrink-0 overflow-hidden bg-[var(--cor-fundo-afundado)] text-left"
         onClick={aoAbrir}
         type="button"

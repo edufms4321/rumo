@@ -62,7 +62,7 @@ export function Calendario() {
     <div>
       <header className="mb-5 flex flex-wrap items-end justify-between gap-3">
         <div>
-          <h1 className="text-2xl font-semibold tracking-tight">Calendario da viagem</h1>
+          <h2 className="text-2xl font-semibold tracking-tight">Calendario da viagem</h2>
           <p className="mt-1 text-sm text-[var(--cor-texto-suave)]">
             {viagem.dias.length} dias · {dados.orcamento.total.min > 0 && `a partir de ${formatarBRL(dados.orcamento.total.min)} · `}
             {dados.alertas.filter((a) => a.nivel === 'erro').length} conflito(s)

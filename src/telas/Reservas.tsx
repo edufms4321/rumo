@@ -80,7 +80,7 @@ export function Reservas() {
   return (
     <div className="mx-auto max-w-4xl">
       <header className="mb-6">
-        <h1 className="text-2xl font-semibold tracking-tight">Reservas e pendencias</h1>
+        <h2 className="text-2xl font-semibold tracking-tight">Reservas e pendencias</h2>
         <p className="mt-1.5 text-sm text-[var(--cor-texto-suave)]">
           {pendencias.length === 0
             ? 'Nada na agenda precisa de reserva.'

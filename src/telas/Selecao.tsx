@@ -69,7 +69,7 @@ export function Selecao() {
   return (
     <div className="mx-auto max-w-5xl">
       <header className="mb-6">
-        <h1 className="text-2xl font-semibold tracking-tight">Minha selecao</h1>
+        <h2 className="text-2xl font-semibold tracking-tight">Minha selecao</h2>
         <p className="mt-1.5 text-sm text-[var(--cor-texto-suave)]">
           {viagem.favoritos.length} itens em {grupos.length} base
           {grupos.length > 1 ? 's' : ''} · {formatarDuracao(totalDeMinutos)} de atividade ·{' '}

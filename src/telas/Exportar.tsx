@@ -136,7 +136,7 @@ export function Exportar() {
 
   return (
     <div className="mx-auto max-w-3xl">
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight">Exportar</h1>
+      <h2 className="mb-6 text-2xl font-semibold tracking-tight">Exportar</h2>
 
       <Secao titulo="Levar a viagem com voce">
         <div className="grid gap-3 sm:grid-cols-2">

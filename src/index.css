@@ -62,7 +62,9 @@
 
   --cor-texto: var(--color-areia-900);
   --cor-texto-suave: var(--color-areia-600);
-  --cor-texto-fraco: var(--color-areia-500);
+  /* Nao e areia-500 (0.565): sobre areia-50 da 4.38:1 e sobre areia-100,
+     4.16:1 — reprova no minimo 4.5:1. 0.53 passa nos dois. */
+  --cor-texto-fraco: oklch(0.53 0.012 78);
 
   --cor-acento: var(--color-mar-600);
   --cor-acento-forte: var(--color-mar-700);
@@ -82,7 +84,8 @@
   --cor-erro: oklch(0.52 0.19 25);
   --cor-erro-fundo: oklch(0.96 0.03 25);
   --cor-erro-borda: oklch(0.85 0.08 25);
-  --cor-atencao: oklch(0.56 0.13 70);
+  /* 0.56 dava 4.21:1 sobre o proprio fundo de atencao. */
+  --cor-atencao: oklch(0.53 0.13 70);
   --cor-atencao-fundo: oklch(0.96 0.045 80);
   --cor-atencao-borda: oklch(0.86 0.09 80);
   --cor-dica: var(--color-mar-600);
@@ -105,7 +108,7 @@
 
   --cor-texto: var(--color-areia-100);
   --cor-texto-suave: var(--color-areia-400);
-  --cor-texto-fraco: var(--color-areia-500);
+  --cor-texto-fraco: oklch(0.62 0.012 78); /* mais claro que areia-500: no fundo escuro, 0.565 da 3.98:1 e reprova no axe (minimo 4.5:1) */
 
   --cor-acento: var(--color-mar-400);
   --cor-acento-forte: var(--color-mar-300);
@@ -146,7 +149,7 @@
 
     --cor-texto: var(--color-areia-100);
     --cor-texto-suave: var(--color-areia-400);
-    --cor-texto-fraco: var(--color-areia-500);
+    --cor-texto-fraco: oklch(0.62 0.012 78); /* mais claro que areia-500: no fundo escuro, 0.565 da 3.98:1 e reprova no axe (minimo 4.5:1) */
 
     --cor-acento: var(--color-mar-400);
     --cor-acento-forte: var(--color-mar-300);

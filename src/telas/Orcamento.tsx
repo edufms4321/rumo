@@ -46,7 +46,7 @@ export function Orcamento() {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight">Orcamento</h1>
+      <h2 className="mb-6 text-2xl font-semibold tracking-tight">Orcamento</h2>
 
       <div className="mb-6 grid gap-3 sm:grid-cols-3">
         <Numero

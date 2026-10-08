@@ -23,7 +23,7 @@ import {
   Wallet,
 } from 'lucide-react';
 import { Suspense, useEffect, useMemo, useState } from 'react';
-import { NavLink, Outlet, useParams } from 'react-router';
+import { NavLink, Outlet, useLocation, useParams } from 'react-router';
 import { formatarFaixaBRL } from '../engine/orcamento.ts';
 import { calcularOrcamento } from '../engine/orcamento.ts';
 import { validarViagem } from '../engine/regras.ts';
@@ -98,7 +98,12 @@ function BarraDeSituacao() {
   const estourou = numeros.orcamento.estourou;
 
   return (
-    <div className="nao-imprimir sticky bottom-0 z-30 border-t border-[var(--cor-borda)] bg-[var(--cor-fundo-elevado)]/95 backdrop-blur">
+    // Landmark de verdade: sem isso o resumo fica fora de qualquer regiao e
+    // quem navega por landmarks nunca chega nele.
+    <footer
+      aria-label="Resumo da viagem"
+      className="nao-imprimir sticky bottom-0 z-30 border-t border-[var(--cor-borda)] bg-[var(--cor-fundo-elevado)]/95 backdrop-blur"
+    >
       <div className="mx-auto flex max-w-[1600px] flex-wrap items-center gap-x-6 gap-y-1.5 px-4 py-2 text-xs sm:px-6">
         <Numero rotulo="Tempo livre" valor={formatarDuracao(numeros.livre)} />
         <Numero rotulo="Ocupado" valor={formatarDuracao(numeros.ocupado)} />
@@ -126,7 +131,7 @@ function BarraDeSituacao() {
           )}
         </div>
       </div>
-    </div>
+    </footer>
   );
 }
 
@@ -196,6 +201,14 @@ export function Layout() {
   const garantirPacote = usarLoja((e) => e.garantirPacote);
   const viagemAtivaId = usarLoja((e) => e.viagemAtivaId);
   const statusDoPacote = usarStatusDoPacote();
+  const { pathname } = useLocation();
+
+  const tituloDaTela = (() => {
+    if (!viagemId) return 'Rumo — planejamento de viagem';
+    if (/\/dia\//.test(pathname)) return `Montar o dia — ${viagem?.nome ?? 'viagem'}`;
+    const aba = ABAS.find((a) => pathname.endsWith(`/${a.para}`));
+    return `${aba?.rotulo ?? 'Viagem'} — ${viagem?.nome ?? 'viagem'}`;
+  })();
 
   // A URL manda: entrar por link direto abre a viagem certa.
   useEffect(() => {
@@ -279,7 +292,19 @@ export function Layout() {
         )}
       </header>
 
+      {/*
+        O h1 da pagina mora aqui, nao em cada tela.
+
+        Motivo: varias telas trocam o conteudo inteiro por um estado vazio
+        ("ainda nao tem datas") e, quando faziam isso, a pagina ficava sem
+        nenhum cabecalho — o leitor de tela perdia a referencia de onde
+        esta. No Layout ele existe sempre. E invisivel porque as telas ja
+        se anunciam visualmente; quem le com os olhos nao precisa de dois
+        titulos.
+      */}
+
       <main className="mx-auto w-full max-w-[1600px] flex-1 px-4 py-6 sm:px-6">
+        {viagemId && <h1 className="sr-only">{tituloDaTela}</h1>}
         {viagemId && statusDoPacote === 'carregando' ? (
           <CarregandoPacote />
         ) : viagemId && statusDoPacote === 'erro' ? (

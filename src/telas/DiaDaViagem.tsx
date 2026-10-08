@@ -146,12 +146,12 @@ export function DiaDaViagem() {
           >
             ← calendario
           </Link>
-          <h1 className="mt-0.5 text-xl font-semibold tracking-tight">
+          <h2 className="mt-0.5 text-xl font-semibold tracking-tight">
             {dia.data.split('-').reverse().join('/')}
             {cidade && (
               <span className="font-normal text-[var(--cor-texto-suave)]"> · {cidade.nome}</span>
             )}
-          </h1>
+          </h2>
         </div>
 
         <div className="flex flex-wrap items-center gap-1.5">
