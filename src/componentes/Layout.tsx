@@ -304,7 +304,7 @@ export function Layout() {
       */}
 
       <main className="mx-auto w-full max-w-[1600px] flex-1 px-4 py-6 sm:px-6">
-        {viagemId && <h1 className="sr-only">{tituloDaTela}</h1>}
+        {viagemId && <h1 className="nao-imprimir sr-only">{tituloDaTela}</h1>}
         {viagemId && statusDoPacote === 'carregando' ? (
           <CarregandoPacote />
         ) : viagemId && statusDoPacote === 'erro' ? (

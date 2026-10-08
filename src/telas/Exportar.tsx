@@ -136,9 +136,9 @@ export function Exportar() {
 
   return (
     <div className="mx-auto max-w-3xl">
-      <h2 className="mb-6 text-2xl font-semibold tracking-tight">Exportar</h2>
+      <h2 className="nao-imprimir mb-6 text-2xl font-semibold tracking-tight">Exportar</h2>
 
-      <Secao titulo="Levar a viagem com voce">
+      <Secao className="nao-imprimir" titulo="Levar a viagem com voce">
         <div className="grid gap-3 sm:grid-cols-2">
           <Acao
             aoClicar={() => window.print()}
@@ -193,7 +193,7 @@ export function Exportar() {
         )}
       </Secao>
 
-      <Secao titulo="Abrir no Google Maps, por dia">
+      <Secao className="nao-imprimir" titulo="Abrir no Google Maps, por dia">
         {viagem.dias.length === 0 ? (
           <p className="text-xs text-[var(--cor-texto-fraco)]">A viagem ainda nao tem dias.</p>
         ) : (
@@ -228,8 +228,12 @@ export function Exportar() {
         )}
       </Secao>
 
+      {/* No papel, o roteiro vem antes da bagagem. Na tela ele esta
+          escondido, entao a ordem aqui so afeta a impressao. */}
+      <RoteiroParaImpressao />
+
       {bagagem && bagagem.total > 0 && (
-        <Secao titulo="Lista de bagagem">
+        <Secao className="print:break-before-page" titulo="Lista de bagagem">
           <p className="mb-3 text-xs text-[var(--cor-texto-suave)]">
             Montada a partir do clima dos meses que a sua viagem cobre e das atividades que voce
             agendou. Cada linha diz por que esta ali.
@@ -256,7 +260,6 @@ export function Exportar() {
         </Secao>
       )}
 
-      <RoteiroParaImpressao />
     </div>
   );
 }

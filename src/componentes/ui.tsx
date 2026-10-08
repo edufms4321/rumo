@@ -316,13 +316,15 @@ export function Secao({
   titulo,
   acao,
   children,
+  className,
 }: {
   titulo: string;
   acao?: ReactNode;
   children: ReactNode;
+  className?: string;
 }) {
   return (
-    <section className="mb-8">
+    <section className={cn('mb-8', className)}>
       <div className="mb-3 flex items-center justify-between gap-3">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-[var(--cor-texto-suave)]">
           {titulo}
