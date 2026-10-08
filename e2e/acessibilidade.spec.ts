@@ -55,6 +55,9 @@ async function montarViagemComUmDia(page: Page) {
 
 for (const tema of ['light', 'dark'] as const) {
   test(`sem violacao de acessibilidade nas telas — tema ${tema}`, async ({ page }) => {
+    // Dez varreduras do axe num teste so: lento por natureza, e mais ainda
+    // na maquina do CI. O limite padrao de 30 s nao serve aqui.
+    test.setTimeout(180_000);
     const urlDoDia = await montarViagemComUmDia(page);
     await page.emulateMedia({ colorScheme: tema });
 

@@ -3056,6 +3056,10 @@
       },
       {
         "url": "https://www.mochileandoporelmundo.com/restaurantes-donde-comer-en-cartagena-de-indias-colombia/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3091958569",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -3122,7 +3126,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 10.365429,
+      "lng": -75.503541
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-ctg-coroncoro-menu-del-dia-barato-em-getsemani",

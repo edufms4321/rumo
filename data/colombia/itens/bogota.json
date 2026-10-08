@@ -948,6 +948,10 @@
       },
       {
         "url": "https://sacavoyage.fr/es/quartiers-a-bogota/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/11249982",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1020,7 +1024,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 4.636585,
+      "lng": -74.06502
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-bog-zona-t-zona-rosa-parque-de-la-93",

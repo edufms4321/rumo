@@ -16,6 +16,7 @@ import {
   MapPin,
   MessageCircle,
   Phone,
+  Star,
   TriangleAlert,
 } from 'lucide-react';
 import { useState } from 'react';
@@ -57,6 +58,22 @@ export function PainelDoItem({
   if (!item) return null;
 
   const cidade = pacote.cidades.find((c) => c.id === item.cidadeId);
+
+  /**
+   * Monta a busca no site de terceiro. Nada e enviado alem do que ja esta
+   * no nome do lugar; a coordenada entra so no Maps, onde ela leva o mapa
+   * ao ponto certo.
+   */
+  const alvo = item;
+  const buscaExterna = (onde: 'tripadvisor' | 'maps'): string => {
+    const termo = `${alvo.nome.split(/\s[—–-]\s|:\s|\(/)[0]?.trim() ?? alvo.nome} ${cidade?.nome ?? ''}`.trim();
+    if (onde === 'maps') {
+      return alvo.coords
+        ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(termo)}&center=${alvo.coords.lat},${alvo.coords.lng}`
+        : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(termo)}`;
+    }
+    return `https://www.tripadvisor.com.br/Search?q=${encodeURIComponent(termo)}`;
+  };
   const favorito = viagem.favoritos.includes(item.id);
   const procedencia = procedenciaDoItem(item, hoje, viagem);
   const mensagem = mensagemDeConfirmacao(item);
@@ -265,6 +282,38 @@ export function PainelDoItem({
             </ul>
           </Cartao>
         )}
+
+        {/*
+          Opiniao de quem foi.
+
+          O TripAdvisor proibe explicitamente o acesso automatizado (o
+          robots.txt dele barra o ClaudeBot e a pagina devolve 403), e as
+          notas sao conteudo deles. Entao o app nao copia nada: ele monta o
+          link de busca e manda voce ler na fonte, ja com o nome e a cidade
+          preenchidos. Zero dado de terceiro guardado aqui, e sempre
+          atualizado, porque quem responde e o site deles.
+        */}
+        <div>
+          <p className="mb-1.5 text-2xs uppercase tracking-wide text-[var(--cor-texto-fraco)]">
+            Ver o que dizem (abre fora do app)
+          </p>
+          <div className="flex flex-wrap gap-2">
+            <Botao
+              onClick={() => window.open(buscaExterna('tripadvisor'), '_blank', 'noopener')}
+              tamanho="pequeno"
+              variante="contorno"
+            >
+              <Star size={13} /> Avaliacoes <ExternalLink size={11} />
+            </Botao>
+            <Botao
+              onClick={() => window.open(buscaExterna('maps'), '_blank', 'noopener')}
+              tamanho="pequeno"
+              variante="contorno"
+            >
+              <MapPin size={13} /> Google Maps <ExternalLink size={11} />
+            </Botao>
+          </div>
+        </div>
 
         {(item.contato.telefone ||
           item.contato.whatsapp ||

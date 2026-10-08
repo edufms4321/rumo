@@ -148,6 +148,14 @@ function escolher(
     if (!nomeOsm) continue;
     if (!alvo.every((p) => nomeOsm.includes(p))) continue;
 
+    // Conter as palavras nao basta: "Jeeps a Cocora y Filandia" contem
+    // "filandia" e nao e a cidade de Filandia. Exigimos que os conjuntos de
+    // palavras fortes se pareçam de verdade (metade ou mais em comum).
+    const doOsm = new Set(palavrasFortes(r.name ?? ''));
+    const comuns = alvo.filter((p) => doOsm.has(p)).length;
+    const uniao = new Set([...alvo, ...doOsm]).size;
+    if (uniao === 0 || comuns / uniao < 0.5) continue;
+
     if (!r.osm_type || !r.osm_id) continue;
     return {
       coord: {
