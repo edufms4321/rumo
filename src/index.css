@@ -1,15 +1,262 @@
 @import 'tailwindcss';
 
+/*
+  Sistema visual do Rumo.
+
+  Princípio: o app mostra dado de procedência variável o tempo todo. A cor
+  precisa carregar significado — verificado, parcial, estimado, erro, atenção,
+  dica — sem virar árvore de Natal. Por isso a base é neutra e quente, e a cor
+  só aparece onde significa alguma coisa.
+
+  Tudo em tokens, redefinidos no escuro. Nada de cor solta no componente.
+*/
+
 @theme {
-  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
+
+  /* Tipografia com escala modular restrita. */
+  --text-2xs: 0.6875rem;
+  --text-2xs--line-height: 1rem;
+
+  /* O acento: azul-petróleo. Sóbrio, não corporativo, legível nos dois temas. */
+  --color-mar-50: oklch(0.97 0.015 210);
+  --color-mar-100: oklch(0.94 0.03 210);
+  --color-mar-200: oklch(0.88 0.055 210);
+  --color-mar-300: oklch(0.79 0.085 210);
+  --color-mar-400: oklch(0.68 0.11 213);
+  --color-mar-500: oklch(0.58 0.12 216);
+  --color-mar-600: oklch(0.49 0.11 218);
+  --color-mar-700: oklch(0.41 0.09 220);
+  --color-mar-800: oklch(0.33 0.07 222);
+  --color-mar-900: oklch(0.26 0.05 224);
+  --color-mar-950: oklch(0.18 0.035 226);
+
+  /* Neutros quentes: papel, não cinza de escritório. */
+  --color-areia-50: oklch(0.985 0.004 85);
+  --color-areia-100: oklch(0.967 0.006 85);
+  --color-areia-200: oklch(0.925 0.008 85);
+  --color-areia-300: oklch(0.865 0.009 83);
+  --color-areia-400: oklch(0.705 0.011 80);
+  --color-areia-500: oklch(0.565 0.012 78);
+  --color-areia-600: oklch(0.455 0.012 76);
+  --color-areia-700: oklch(0.375 0.011 74);
+  --color-areia-800: oklch(0.262 0.009 72);
+  --color-areia-900: oklch(0.198 0.008 70);
+  --color-areia-950: oklch(0.138 0.007 68);
 }
 
+/*
+  Tokens semânticos. O componente nunca usa --color-mar-600 direto: usa
+  --cor-acento. Trocar o tema é trocar este bloco.
+*/
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
+
+  --cor-fundo: var(--color-areia-50);
+  --cor-fundo-elevado: #fff;
+  --cor-fundo-afundado: var(--color-areia-100);
+  --cor-borda: var(--color-areia-200);
+  --cor-borda-forte: var(--color-areia-300);
+
+  --cor-texto: var(--color-areia-900);
+  --cor-texto-suave: var(--color-areia-600);
+  --cor-texto-fraco: var(--color-areia-500);
+
+  --cor-acento: var(--color-mar-600);
+  --cor-acento-forte: var(--color-mar-700);
+  --cor-acento-fraco: var(--color-mar-50);
+  --cor-acento-borda: var(--color-mar-200);
+  --cor-acento-texto: #fff;
+
+  /* Procedência do dado. */
+  --cor-verificado: oklch(0.48 0.12 152);
+  --cor-verificado-fundo: oklch(0.96 0.03 152);
+  --cor-parcial: oklch(0.52 0.12 75);
+  --cor-parcial-fundo: oklch(0.96 0.04 85);
+  --cor-estimado: oklch(0.52 0.14 20);
+  --cor-estimado-fundo: oklch(0.96 0.025 20);
+
+  /* Níveis de alerta do motor. */
+  --cor-erro: oklch(0.52 0.19 25);
+  --cor-erro-fundo: oklch(0.96 0.03 25);
+  --cor-erro-borda: oklch(0.85 0.08 25);
+  --cor-atencao: oklch(0.56 0.13 70);
+  --cor-atencao-fundo: oklch(0.96 0.045 80);
+  --cor-atencao-borda: oklch(0.86 0.09 80);
+  --cor-dica: var(--color-mar-600);
+  --cor-dica-fundo: var(--color-mar-50);
+  --cor-dica-borda: var(--color-mar-200);
+
+  --sombra-card: 0 1px 2px oklch(0 0 0 / 0.04), 0 1px 3px oklch(0 0 0 / 0.04);
+  --sombra-flutuante: 0 8px 24px -6px oklch(0 0 0 / 0.14), 0 2px 6px oklch(0 0 0 / 0.06);
+  --raio: 0.625rem;
+}
+
+:root[data-tema='escuro'] {
+  color-scheme: dark;
+
+  --cor-fundo: var(--color-areia-950);
+  --cor-fundo-elevado: var(--color-areia-900);
+  --cor-fundo-afundado: oklch(0.112 0.006 68);
+  --cor-borda: oklch(0.275 0.008 70);
+  --cor-borda-forte: oklch(0.355 0.009 70);
+
+  --cor-texto: var(--color-areia-100);
+  --cor-texto-suave: var(--color-areia-400);
+  --cor-texto-fraco: var(--color-areia-500);
+
+  --cor-acento: var(--color-mar-400);
+  --cor-acento-forte: var(--color-mar-300);
+  --cor-acento-fraco: oklch(0.26 0.05 224);
+  --cor-acento-borda: oklch(0.36 0.07 222);
+  --cor-acento-texto: var(--color-areia-950);
+
+  --cor-verificado: oklch(0.76 0.14 152);
+  --cor-verificado-fundo: oklch(0.26 0.05 152);
+  --cor-parcial: oklch(0.82 0.13 85);
+  --cor-parcial-fundo: oklch(0.28 0.05 80);
+  --cor-estimado: oklch(0.76 0.13 20);
+  --cor-estimado-fundo: oklch(0.27 0.06 20);
+
+  --cor-erro: oklch(0.74 0.16 25);
+  --cor-erro-fundo: oklch(0.26 0.07 25);
+  --cor-erro-borda: oklch(0.38 0.1 25);
+  --cor-atencao: oklch(0.82 0.13 80);
+  --cor-atencao-fundo: oklch(0.27 0.05 80);
+  --cor-atencao-borda: oklch(0.38 0.08 80);
+  --cor-dica: var(--color-mar-300);
+  --cor-dica-fundo: oklch(0.25 0.045 224);
+  --cor-dica-borda: oklch(0.34 0.06 222);
+
+  --sombra-card: 0 1px 2px oklch(0 0 0 / 0.3);
+  --sombra-flutuante: 0 10px 30px -8px oklch(0 0 0 / 0.55), 0 2px 8px oklch(0 0 0 / 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema='claro']) {
+    color-scheme: dark;
+
+    --cor-fundo: var(--color-areia-950);
+    --cor-fundo-elevado: var(--color-areia-900);
+    --cor-fundo-afundado: oklch(0.112 0.006 68);
+    --cor-borda: oklch(0.275 0.008 70);
+    --cor-borda-forte: oklch(0.355 0.009 70);
+
+    --cor-texto: var(--color-areia-100);
+    --cor-texto-suave: var(--color-areia-400);
+    --cor-texto-fraco: var(--color-areia-500);
+
+    --cor-acento: var(--color-mar-400);
+    --cor-acento-forte: var(--color-mar-300);
+    --cor-acento-fraco: oklch(0.26 0.05 224);
+    --cor-acento-borda: oklch(0.36 0.07 222);
+    --cor-acento-texto: var(--color-areia-950);
+
+    --cor-verificado: oklch(0.76 0.14 152);
+    --cor-verificado-fundo: oklch(0.26 0.05 152);
+    --cor-parcial: oklch(0.82 0.13 85);
+    --cor-parcial-fundo: oklch(0.28 0.05 80);
+    --cor-estimado: oklch(0.76 0.13 20);
+    --cor-estimado-fundo: oklch(0.27 0.06 20);
+
+    --cor-erro: oklch(0.74 0.16 25);
+    --cor-erro-fundo: oklch(0.26 0.07 25);
+    --cor-erro-borda: oklch(0.38 0.1 25);
+    --cor-atencao: oklch(0.82 0.13 80);
+    --cor-atencao-fundo: oklch(0.27 0.05 80);
+    --cor-atencao-borda: oklch(0.38 0.08 80);
+    --cor-dica: var(--color-mar-300);
+    --cor-dica-fundo: oklch(0.25 0.045 224);
+    --cor-dica-borda: oklch(0.34 0.06 222);
+
+    --sombra-card: 0 1px 2px oklch(0 0 0 / 0.3);
+    --sombra-flutuante: 0 10px 30px -8px oklch(0 0 0 / 0.55), 0 2px 8px oklch(0 0 0 / 0.3);
+  }
 }
 
 html,
 body,
 #root {
   min-height: 100%;
+}
+
+body {
+  background: var(--cor-fundo);
+  color: var(--cor-texto);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Foco visível de verdade, em tudo. Teclado é requisito, não enfeite. */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--cor-acento);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Números em tabela não dançam ao atualizar. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: var(--cor-acento-fraco);
+  color: var(--cor-acento-forte);
+}
+
+/* Barra de rolagem discreta no escuro e no claro. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--cor-borda-forte) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ------------------------------------------------------------ impressão */
+/*
+  O PDF do roteiro sai daqui, não de biblioteca: o navegador já sabe quebrar
+  página, manter fonte e gerar sumário. Ver docs/DECISOES.md, D10.
+*/
+@media print {
+  :root {
+    --cor-fundo: #fff;
+    --cor-fundo-elevado: #fff;
+    --cor-texto: #000;
+    --cor-texto-suave: #333;
+  }
+
+  .nao-imprimir {
+    display: none !important;
+  }
+
+  .quebrar-pagina-antes {
+    break-before: page;
+  }
+
+  .nao-quebrar {
+    break-inside: avoid;
+  }
+
+  body {
+    background: #fff;
+    font-size: 10.5pt;
+  }
+
+  a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 8pt;
+    color: #555;
+    word-break: break-all;
+  }
 }

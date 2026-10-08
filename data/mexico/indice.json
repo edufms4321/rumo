@@ -1,0 +1,16 @@
+{
+  "id": "mexico",
+  "nome": "Mexico",
+  "moeda": "MXN",
+  "totais": {
+    "itens": 266,
+    "cidades": 26,
+    "trechos": 30,
+    "eventos": 18
+  },
+  "confianca": {
+    "verificado": 49,
+    "parcial": 193,
+    "estimado": 24
+  }
+}

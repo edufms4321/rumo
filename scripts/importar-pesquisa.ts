@@ -131,21 +131,31 @@ function main(): void {
 `);
 
   const destino = construirDestino(logistica, config);
+  const cidades = filtrarSemFonte(
+    construirCidades(logistica, coords, bases, ajustes, config, matriz),
+    'cidade',
+  );
+  const trechos = filtrarSemFonte(construirTrechos(logistica, config), 'trecho');
+  const itensPorCidade = construirItens(Object.values(bases), ajustes, config);
+
   gravar(SAIDA, 'destino.json', ajustes.destino ? mesclar(destino, ajustes.destino) : destino);
   gravar(SAIDA, 'regioes.json', filtrarSemFonte(construirRegioes(logistica, config), 'regiao'));
   gravar(SAIDA, 'aeroportos.json', filtrarSemFonte(construirAeroportos(logistica), 'aeroporto'));
-  gravar(
-    SAIDA,
-    'cidades.json',
-    filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes, config, matriz), 'cidade'),
-  );
+  gravar(SAIDA, 'cidades.json', cidades);
 
-  const itensPorCidade = construirItens(Object.values(bases), ajustes, config);
+  let totalDeItens = 0;
+  const porConfianca = { verificado: 0, parcial: 0, estimado: 0 };
   for (const [cidadeId, itens] of Object.entries(itensPorCidade)) {
-    gravar(SAIDA, join('itens', `${cidadeId}.json`), filtrarSemFonte(itens, 'item'));
+    const filtrados = filtrarSemFonte(itens, 'item');
+    totalDeItens += filtrados.length;
+    for (const i of filtrados) {
+      const nivel = String(i.confianca) as keyof typeof porConfianca;
+      if (nivel in porConfianca) porConfianca[nivel] += 1;
+    }
+    gravar(SAIDA, join('itens', `${cidadeId}.json`), filtrados);
   }
 
-  gravar(SAIDA, 'trechos.json', filtrarSemFonte(construirTrechos(logistica, config), 'trecho'));
+  gravar(SAIDA, 'trechos.json', trechos);
   gravar(SAIDA, 'voos-internacionais.json', filtrarSemFonte(construirVoos(logistica), 'voo'));
 
   // Eventos escritos a mao entram por cima: sao os que exigiram verificacao
@@ -154,8 +164,24 @@ function main(): void {
     ...construirCalendario(logistica, config),
     ...((ajustes.calendario ?? []) as Json[]),
   ];
-  gravar(SAIDA, 'calendario.json', filtrarSemFonte(calendario, 'evento'));
+  const eventos = filtrarSemFonte(calendario, 'evento');
+  gravar(SAIDA, 'calendario.json', eventos);
   gravar(SAIDA, 'hospedagem.json', filtrarSemFonte(construirHospedagem(bases), 'hospedagem'));
+
+  // Indice leve: a tela inicial lista os destinos sem baixar o pacote inteiro.
+  // Sem isto, abrir o app puxaria os dois paises antes de desenhar a 1a tela.
+  gravar(SAIDA, 'indice.json', {
+    id: config.id,
+    nome: config.nome,
+    moeda: config.moeda,
+    totais: {
+      itens: totalDeItens,
+      cidades: cidades.length,
+      trechos: trechos.length,
+      eventos: eventos.length,
+    },
+    confianca: porConfianca,
+  });
 
   console.log('\nDeduzido pelo script (nao e dado de fonte):');
   for (const [rotulo, n] of relatorioDeDerivacoes()) {

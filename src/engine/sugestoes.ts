@@ -209,3 +209,148 @@ export function compararRoteiros(
 
   return { a, b, diferencas };
 }
+
+// --------------------------------------------- sugestao de janela de datas
+
+export interface JanelaSugerida {
+  inicio: string;
+  fim: string;
+  /** 0 a 100. So serve para ordenar; o que vale e o porque. */
+  nota: number;
+  chuvaMediaMm: number;
+  diasDeChuvaMedia: number;
+  /** Frases curtas explicando a nota. E isto que o usuario le. */
+  porque: string[];
+  /** Eventos que caem dentro da janela. */
+  eventos: Array<{ nome: string; data: string; veredito?: string }>;
+}
+
+/**
+ * Pontua janelas de datas para uma viagem de N dias.
+ *
+ * Nao existe "melhor mes" universal: depende de quais bases o viajante quer.
+ * Por isso a funcao recebe as cidades que interessam — normalmente as dos
+ * favoritos — e so olha o clima delas.
+ *
+ * A nota serve para ordenar. O que o app mostra e `porque`, em numero.
+ */
+export function sugerirJanelas(
+  pacote: PacoteDestino,
+  opcoes: {
+    duracaoEmDias: number;
+    cidadesDeInteresse: string[];
+    /** Primeiro dia possivel, AAAA-MM-DD. */
+    aPartirDe: string;
+    /** Quantas janelas devolver. */
+    quantas?: number;
+    /** De quantos em quantos dias testar. 1 = todo dia. */
+    passo?: number;
+  },
+): JanelaSugerida[] {
+  const { duracaoEmDias, cidadesDeInteresse, aPartirDe, quantas = 5, passo = 3 } = opcoes;
+  if (duracaoEmDias < 1) return [];
+
+  const cidades = pacote.cidades.filter(
+    (c) => cidadesDeInteresse.length === 0 || cidadesDeInteresse.includes(c.id),
+  );
+  const comClima = cidades.filter((c) => c.climaPorMes.length > 0);
+  if (comClima.length === 0) return [];
+
+  const inicioMs = Date.parse(`${aPartirDe}T00:00:00Z`);
+  const janelas: JanelaSugerida[] = [];
+
+  // Um ano a frente, de `passo` em `passo` dias.
+  for (let deslocamento = 0; deslocamento <= 365; deslocamento += passo) {
+    const inicioData = new Date(inicioMs + deslocamento * 86_400_000);
+    const fimData = new Date(inicioMs + (deslocamento + duracaoEmDias - 1) * 86_400_000);
+    const inicio = inicioData.toISOString().slice(0, 10);
+    const fim = fimData.toISOString().slice(0, 10);
+
+    // Meses que a janela cobre.
+    const meses = new Set<number>();
+    for (let d = 0; d < duracaoEmDias; d += 1) {
+      meses.add(new Date(inicioMs + (deslocamento + d) * 86_400_000).getUTCMonth() + 1);
+    }
+
+    let somaChuva = 0;
+    let somaDias = 0;
+    let amostras = 0;
+    const porque: string[] = [];
+
+    for (const cidade of comClima) {
+      for (const mes of meses) {
+        const clima = cidade.climaPorMes.find((c) => c.mes === mes);
+        if (!clima) continue;
+        somaChuva += clima.chuvaMm;
+        somaDias += clima.diasDeChuva;
+        amostras += 1;
+      }
+    }
+    if (amostras === 0) continue;
+
+    const chuvaMedia = somaChuva / amostras;
+    const diasChuvaMedia = somaDias / amostras;
+
+    // 0 mm = 100 pontos; 350 mm ou mais = 0.
+    const notaDeChuva = Math.max(0, 100 - (chuvaMedia / 350) * 100);
+
+    const eventos = pacote.calendario
+      .filter((e) => {
+        const fimDoEvento = e.dataFim ?? e.dataInicio;
+        return e.dataInicio <= fim && fimDoEvento >= inicio;
+      })
+      .filter(
+        (e) => e.escopo === 'nacional' || cidadesDeInteresse.length === 0 || cidadesDeInteresse.includes(e.escopo),
+      );
+
+    let penalidade = 0;
+    for (const e of eventos) {
+      if (e.valeEstarPresente === 'evite') penalidade += 25;
+      else if (e.impacto.lotacao === 'alta') penalidade += 8;
+      if (e.impacto.preco === 'sobe-muito') penalidade += 10;
+      else if (e.impacto.preco === 'sobe') penalidade += 4;
+    }
+
+    const nota = Math.max(0, Math.round(notaDeChuva - penalidade));
+
+    porque.push(
+      `Media de ${Math.round(chuvaMedia)} mm e ${diasChuvaMedia.toFixed(0)} dias de chuva nas bases escolhidas.`,
+    );
+    const fechados = eventos.filter((e) => e.valeEstarPresente === 'evite');
+    if (fechados.length > 0) {
+      porque.push(`Pega ${fechados.map((e) => e.nome).join('; ')}.`);
+    }
+    const lotados = eventos.filter(
+      (e) => e.impacto.lotacao === 'alta' && e.valeEstarPresente !== 'evite',
+    );
+    if (lotados.length > 0) {
+      porque.push(`Lotacao alta por ${lotados.length} evento(s) no periodo.`);
+    }
+    if (eventos.length === 0) porque.push('Nenhum feriado ou festa grande no periodo.');
+
+    janelas.push({
+      inicio,
+      fim,
+      nota,
+      chuvaMediaMm: Math.round(chuvaMedia),
+      diasDeChuvaMedia: Number(diasChuvaMedia.toFixed(1)),
+      porque,
+      eventos: eventos.slice(0, 6).map((e) => ({
+        nome: e.nome,
+        data: e.dataInicio,
+        ...(e.valeEstarPresente ? { veredito: e.valeEstarPresente } : {}),
+      })),
+    });
+  }
+
+  // Ordena por nota e evita devolver cinco janelas que se sobrepoem.
+  const ordenadas = janelas.sort((a, b) => b.nota - a.nota);
+  const escolhidas: JanelaSugerida[] = [];
+  for (const janela of ordenadas) {
+    const colide = escolhidas.some((j) => j.inicio <= janela.fim && janela.inicio <= j.fim);
+    if (colide) continue;
+    escolhidas.push(janela);
+    if (escolhidas.length >= quantas) break;
+  }
+  return escolhidas;
+}

@@ -11,3 +11,6 @@ playwright-report/
 .env.*
 !.env.example
 *.tsbuildinfo
+.playwright-mcp/
+qa-*.png
+dev-dist/

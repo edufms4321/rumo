@@ -86,6 +86,10 @@ export function montarPacote(arquivos: Record<string, unknown>): ResultadoDaMont
       continue;
     }
 
+    // indice.json e gerado pelo importador para a tela inicial, nao e dado
+    // do pacote: sai sem aviso, senao vira ruido em toda validacao.
+    if (base === 'indice') continue;
+
     const chave = ARQUIVOS_EM_LISTA[base as keyof typeof ARQUIVOS_EM_LISTA];
     if (!chave) {
       ignorados.push(normalizado);
