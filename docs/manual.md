@@ -74,6 +74,7 @@ Entre dois blocos o app insere o trajeto sozinho. Toque nele para ver a conta ab
 
 - **Tudo fica no seu navegador.** Não há conta, não há servidor, ninguém vê seus dados. Em troca: **faça o backup** em Exportar → Backup (.json). Se você limpar os dados do navegador, a viagem vai junto.
 - **Ctrl+Z e Ctrl+Shift+Z** desfazem e refazem.
+- **Sem mouse:** dê Tab até o bloco na linha do tempo e use **↑ ↓** para mover de 15 em 15 minutos, **Shift+↑ ↓** para mudar a duração. Na prática é mais preciso que arrastar.
 - **Funciona offline** depois da primeira visita. O mapa precisa de internet na primeira vez que você abrir cada região.
 - **O PDF sai pela impressão do navegador** (Exportar → Roteiro em PDF → "Salvar como PDF"). Marque "Gráficos de fundo" para manter as cores dos alertas.
 - **Preço de voo é fotografia do dia.** O app guarda a faixa, a data e o link de busca — use o link.

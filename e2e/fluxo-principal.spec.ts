@@ -248,3 +248,34 @@ test('uma tela quebrada nao apaga o app', async ({ page }) => {
     );
   }
 });
+
+test('da para mover um bloco so com o teclado', async ({ page }) => {
+  await criarViagem(page);
+  await definirDatas(page, '2027-02-10', '2027-02-12');
+  await page.getByRole('link', { name: 'Descobrir' }).click();
+  await page.getByRole('button', { name: 'Favoritar' }).first().click();
+  await page.getByRole('link', { name: 'Calendario' }).click();
+  await page.getByRole('link', { name: 'Abrir o dia' }).first().click();
+  await page.getByRole('button', { name: /^Adicionar/ }).first().click();
+
+  const bloco = page.getByRole('group', { name: /das \d\d:\d\d as \d\d:\d\d/ }).first();
+  const antes = (await bloco.getAttribute('aria-label')) ?? '';
+  await bloco.focus();
+
+  // Duas setas para baixo = 30 min mais tarde.
+  await page.keyboard.press('ArrowDown');
+  await page.keyboard.press('ArrowDown');
+  await expect(bloco).not.toHaveAttribute('aria-label', antes);
+
+  const hora = (rotulo: string) => {
+    const m = /das (\d\d):(\d\d)/.exec(rotulo);
+    return m ? Number(m[1]) * 60 + Number(m[2]) : 0;
+  };
+  const depois = (await bloco.getAttribute('aria-label')) ?? '';
+  expect(hora(depois) - hora(antes)).toBe(30);
+
+  // Shift+seta muda a duracao, nao o inicio.
+  await page.keyboard.press('Shift+ArrowDown');
+  const comShift = (await bloco.getAttribute('aria-label')) ?? '';
+  expect(hora(comShift)).toBe(hora(depois));
+});

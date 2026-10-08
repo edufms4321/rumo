@@ -215,6 +215,7 @@ export function DiaDaViagem() {
       <div className="grid min-w-0 gap-4 lg:grid-cols-[minmax(0,1fr)_20rem]">
         <LinhaDoTempo
           cidade={cidade?.nome}
+          diaId={dia.id}
           pixelsPorMinuto={pixelsPorMinuto}
           resolvido={resolvido}
         />
@@ -360,10 +361,12 @@ function LinhaDoTempo({
   resolvido,
   pixelsPorMinuto,
   cidade,
+  diaId,
 }: {
   resolvido: ReturnType<typeof resolverDia>;
   pixelsPorMinuto: number;
   cidade?: string;
+  diaId: string;
 }) {
   const { setNodeRef, isOver } = useDroppable({ id: 'linha-do-tempo' });
   const alturaTotal = (HORA_FINAL - HORA_INICIAL) * 60 * pixelsPorMinuto;
@@ -425,6 +428,7 @@ function LinhaDoTempo({
             <BlocoNaLinha
               altura={altura}
               coluna={coluna}
+              diaId={diaId}
               key={b.bloco.id}
               lacuna={lacuna}
               pixelsPorMinuto={pixelsPorMinuto}
@@ -459,6 +463,7 @@ function BlocoNaLinha({
   lacuna,
   pixelsPorMinuto,
   coluna,
+  diaId,
 }: {
   resolvido: ReturnType<typeof resolverDia>['blocos'][number];
   topo: number;
@@ -466,6 +471,7 @@ function BlocoNaLinha({
   lacuna?: LacunaResolvida;
   pixelsPorMinuto: number;
   coluna: { coluna: number; colunas: number };
+  diaId: string;
 }) {
   const bloco = resolvido.bloco;
   const [detalheAberto, definirDetalhe] = useState(false);
@@ -500,16 +506,46 @@ function BlocoNaLinha({
           ? 'border-dashed border-[var(--cor-borda-forte)] bg-transparent'
           : 'border-[var(--cor-borda-forte)] bg-[var(--cor-fundo-elevado)]';
 
+  /**
+   * Teclado na linha do tempo.
+   *
+   * Arrastar com o mouse e otimo e, para quem usa teclado, inacessivel. O
+   * dnd-kit tem sensor de teclado, mas aqui a linha do tempo e posicao
+   * livre, nao lista ordenavel: o bloco cai onde o ponteiro esta, e um
+   * evento de teclado nao tem ponteiro. Entao, em vez de simular um
+   * arrasto, o bloco responde direto as setas — que, na pratica, e mais
+   * preciso do que arrastar, inclusive com mouse.
+   *
+   * Setas: move de 15 em 15 min. Com Shift: muda a duracao.
+   */
+  function aoTeclar(e: React.KeyboardEvent) {
+    const passo = 15;
+    if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+      e.preventDefault();
+      const sinal = e.key === 'ArrowUp' ? -1 : 1;
+      if (e.shiftKey) acoes.redimensionarBloco(bloco.id, bloco.durationMin + sinal * passo);
+      else acoes.moverBloco(bloco.id, diaId, bloco.startMin + sinal * passo);
+    }
+  }
+
   return (
     <>
       <div
-        className={cn('absolute rounded-[var(--raio)] border p-2 shadow-sm', cor)}
+        aria-label={`${resolvido.rotulo}, das ${paraHHMM(resolvido.intervalo.inicio)} as ${paraHHMM(resolvido.intervalo.fim)}. Setas movem de 15 em 15 minutos; com Shift, mudam a duracao.`}
+        className={cn(
+          'absolute rounded-[var(--raio)] border p-2 shadow-sm',
+          'focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--cor-acento)]',
+          cor,
+        )}
+        onKeyDown={aoTeclar}
+        role="group"
         style={{
           top: topo,
           height: altura,
           left: `calc(3.5rem + (100% - 4rem) * ${coluna.coluna / coluna.colunas})`,
           width: `calc((100% - 4rem) / ${coluna.colunas} - 0.25rem)`,
         }}
+        tabIndex={0}
       >
         <div className="flex h-full flex-col overflow-hidden">
           <div className="flex items-start justify-between gap-1.5">
