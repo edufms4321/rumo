@@ -134,6 +134,20 @@ Só Wikimedia Commons (com autor e licença exatos) ou site oficial que declare 
 ]
 ```
 
+## Ferramentas que preenchem buracos para você
+
+Depois que a pasta existe e o validador passa, três comandos cuidam do que sobrou. Nenhum deles inventa nada: o que não vier da API fica vazio.
+
+```bash
+npm run coords -- <destino>      # coordenada vinda do OpenStreetMap
+npm run imagens -- <destino>     # imagem de licença livre do Wikimedia Commons
+npm run pendencias               # regera docs/pendencias-de-verificacao.md
+```
+
+Os dois primeiros **só mostram** o que achariam; acrescente `--gravar` para gravar. Rode sempre sem `--gravar` primeiro e leia a lista: na primeira vez que rodei o de coordenadas, três dos cinco "achados" estavam errados — um café no lugar da cidade de Filandia, uma pousada no lugar da Playa San Luis e uma área rural no lugar de Pereira, porque o endereço devolvido contém o nome do lugar. Os critérios ficaram mais duros depois disso, mas **o olho continua sendo o último filtro**.
+
+Quando o script acha, ele acrescenta a URL devolvida pela API às `fontes` do item e anota na observação de confiança que o dado não foi conferido no local.
+
 ## Fatores de deslocamento da cidade
 
 Alimentam a camada 3 do estimador (sempre rotulada "estimativa" na interface). `kmh` é a velocidade média real do modal naquela cidade; `fatorRota` corrige a distância em linha reta para a distância percorrida.
