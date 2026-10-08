@@ -1,0 +1,50 @@
+{
+ "punta-cana": {
+  "lat": 18.55655,
+  "lng": -68.36916,
+  "altitudeM": 12,
+  "osm": "https://www.openstreetmap.org/node/2613949295",
+  "nomeOsm": "Punta Cana, Higüey, La Altagracia, 41201, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=18.55655&longitude=-68.36916"
+ },
+ "bayahibe": {
+  "lat": 18.36871,
+  "lng": -68.83969,
+  "altitudeM": 5,
+  "osm": "https://www.openstreetmap.org/node/4711700294",
+  "nomeOsm": "Bayahibe, San Rafael del Yuma, La Altagracia, 41202, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=18.36871&longitude=-68.83969"
+ },
+ "santo-domingo": {
+  "lat": 18.47139,
+  "lng": -69.89184,
+  "altitudeM": 20,
+  "osm": "https://www.openstreetmap.org/relation/7407678",
+  "nomeOsm": "São Domingos, Distrito Nacional, 03201, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=18.47139&longitude=-69.89184"
+ },
+ "las-terrenas": {
+  "lat": 19.31101,
+  "lng": -69.54307,
+  "altitudeM": 14,
+  "osm": "https://www.openstreetmap.org/relation/7187336",
+  "nomeOsm": "Las Terrenas, Samaná, 82201, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=19.31101&longitude=-69.54307"
+ },
+ "puerto-plata": {
+  "lat": 19.79766,
+  "lng": -70.69326,
+  "altitudeM": 9,
+  "osm": "https://www.openstreetmap.org/relation/7380607",
+  "nomeOsm": "Puerto Plata, 32106, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=19.79766&longitude=-70.69326"
+ },
+ "jarabacoa": {
+  "lat": 19.12094,
+  "lng": -70.64193,
+  "altitudeM": 530,
+  "osm": "https://www.openstreetmap.org/relation/7380800",
+  "nomeOsm": "Jarabacoa, La Vega, 71402, República Dominicana",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=19.12094&longitude=-70.64193"
+ }
+}

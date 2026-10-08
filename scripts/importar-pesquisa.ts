@@ -27,6 +27,7 @@ import { join, resolve } from 'node:path';
 import { colombia } from './destinos/colombia.ts';
 import { mexico } from './destinos/mexico.ts';
 import { nordeste } from './destinos/nordeste.ts';
+import { puntaCana } from './destinos/punta-cana.ts';
 import type { ConfigDeDestino } from './destinos/tipos.ts';
 import {
   construirAeroportos,
@@ -50,7 +51,7 @@ import {
 
 const RAIZ = resolve(import.meta.dirname, '..');
 
-const DESTINOS: Record<string, ConfigDeDestino> = { colombia, mexico, nordeste };
+const DESTINOS: Record<string, ConfigDeDestino> = { colombia, mexico, nordeste, 'punta-cana': puntaCana };
 
 function escolherDestino(): ConfigDeDestino {
   const pedido = process.argv[2] ?? 'colombia';
