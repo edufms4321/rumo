@@ -38,6 +38,19 @@ function diasEntre(a: string, b: string): number {
   return Math.round((Date.parse(b) - Date.parse(a)) / 86_400_000);
 }
 
+/** O que o conversor descartou, gravado por importar-pesquisa. */
+function descartes(id: string): string[] {
+  for (const pasta of [join('pesquisa', id), 'pesquisa']) {
+    const caminho = join(pasta, 'descartados.json');
+    if (!existsSync(caminho)) continue;
+    const j = JSON.parse(readFileSync(caminho, 'utf8')) as { avisos?: string[] };
+    // A pasta raiz serve a Colombia; para os outros ela nao vale.
+    if (pasta === 'pesquisa' && id !== 'colombia') return [];
+    return j.avisos ?? [];
+  }
+  return [];
+}
+
 function lerDestino(id: string) {
   const raiz = join('data', id);
   const destino = JSON.parse(readFileSync(join(raiz, 'destino.json'), 'utf8')) as {
@@ -155,6 +168,20 @@ function secaoDoDestino(d: ReturnType<typeof lerDestino>): string {
       'Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.',
       reservaSemPrazo.map((i) => linha(i, d.cidades, 'antecedência da reserva')),
     ),
+    (() => {
+      const fora = descartes(d.id);
+      if (fora.length === 0) return '';
+      const mostra = fora.slice(0, 25);
+      return [
+        `### Pesquisa que nao entrou no banco — ${fora.length}`,
+        '',
+        'O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.',
+        '',
+        ...mostra.map((a) => `- ${a}`),
+        ...(fora.length > mostra.length ? [`- _...e mais ${fora.length - mostra.length}._`] : []),
+        '',
+      ].join('\n');
+    })(),
     tabela(
       'Sem coordenada',
       'Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.',

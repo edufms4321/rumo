@@ -130,6 +130,37 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 
 _...e mais 41. `npm run validate:data` imprime a lista inteira._
 
+### Pesquisa que nao entrou no banco — 36
+
+O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
+
+- trecho "Santa Marta -> Parque Tayrona (entrada El Zaino)" nao mapeou para bases conhecidas: descartado
+- aluguel sem bloco estruturado: co-adz-rentcarx-mulitas-buggys-golf-carts-e-scooters -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-adz-rolling-san-andres-rolling-playas-mula-kawasaki-4010 -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-adz-alquiler-speed-racer-mulitas -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-adz-parchill-mulitas-xs-4010-e-pro-kawasaki -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-adz-scooters-chemas-scooter-e-motos-sai -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-slt-alugar-carro-no-eje-cafetero-compensa -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: co-smr-como-circular-sem-alugar-carro-colectivos-onibus-tax -> escrever em ajustes-manuais.json
+- "Como circular sem alugar carro: colectivos, ônibus, táxi e moto-táxi" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
+- voo "gru-adz" sem nenhuma fonte: fora do banco
+- evento sem data exata ficou fora do banco: "Reinado Nacional de la Belleza (Cartagena)" (2026-11-__)
+- evento sem data exata ficou fora do banco: "Shows internacionais em Bogotá e Medellín (Cypress Hill, Juanes, Eros Ramazzotti, Hayley Williams, Beéle etc.; DaviArena)" (2026-11-__)
+- evento sem data exata ficou fora do banco: "Acendimento dos alumbrados de Natal de Medellín (2025: 28/nov; 2026: sem data confirmada)" (2026-11-__)
+- evento sem data exata ficou fora do banco: "Fechamento do Parque Tayrona 'Respira Tayrona' (estratégia que fecha o parque 3 vezes ao ano: fev, jun e entre out e nov)" (2026-11-__)
+- evento "Feria de Cali (25 a 30/dez) — NÃO é em novembro" tem escopo "Cali" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "Feria de las Flores (Desfile de Silleteros) (2027)" (vazio)
+- evento "Feria de Cali (2026)" tem escopo "cali" fora das bases do banco: descartado
+- evento "Feria de Cali (2027)" tem escopo "cali" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "Hay Festival Cartagena (2026)" (vazio)
+- evento sem data exata ficou fora do banco: "Festival Iberoamericano de Teatro de Bogotá (FITB) / Festival Internacional de Artes Vivas (FIAV) (2026)" (vazio)
+- evento sem data exata ficou fora do banco: "Festival Iberoamericano de Teatro de Bogotá (FITB) / Festival Internacional de Artes Vivas (FIAV) (2027)" (vazio)
+- evento sem data exata ficou fora do banco: "Alumbrados Navideños de Medellín (2026)" (vazio)
+- evento sem data exata ficou fora do banco: "Alumbrados Navideños de Medellín (2027)" (vazio)
+- evento sem data exata ficou fora do banco: "Rock al Parque (2027)" (vazio)
+- evento sem data exata ficou fora do banco: "Salsa al Parque (2027)" (vazio)
+- _...e mais 11._
+
 ### Sem coordenada — 28
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
@@ -294,6 +325,37 @@ Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
 | Item | Base | O que falta |
 |---|---|---|
 | Noches de Kukulcán (show noturno em Chichén Itzá) | Valladolid | antecedência da reserva |
+
+### Pesquisa que nao entrou no banco — 34
+
+O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
+
+- trecho "Valladolid -> Chichén Itzá" virou a mesma base (valladolid): descartado
+- trecho "Cidade do México -> Teotihuacán" virou a mesma base (cidade-do-mexico): descartado
+- aluguel sem bloco estruturado: mx-lap-aluguel-de-carro-na-baja-preco-real-seguro-obrigator -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-gto-alugar-carro-compensa-veredito-para-o-circuito-bajio -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-mex-vale-alugar-carro-na-cidade-do-mexico -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-imu-carrinho-de-golfe-em-isla-mujeres-preco-documentos-e -> escrever em ajustes-manuais.json
+- "Carrinho de golfe em Isla Mujeres: preço, documentos e golpe" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
+- aluguel sem bloco estruturado: mx-pdc-alugar-carro-na-riviera-maya-compensa-seguro-pedagio -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-mid-alugar-carro-no-yucatan-precos-seguro-obrigatorio-e -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-mid-quickly-car-rental-merida-locadora-local-barata -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: mx-mid-mayan-drive-rental-car-merida -> escrever em ajustes-manuais.json
+- evento "Carnaval de Veracruz" tem escopo "Veracruz (estado nível 2 EUA)" fora das bases do banco: descartado
+- evento "Carnaval de Mazatlán" tem escopo "Mazatlán, Sinaloa (nível 4 EUA; Canadá cita exceção para zonas turísticas de Mazatlán)" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "Festival Internacional Cervantino" (vazio)
+- evento sem data exata ficou fora do banco: "Temporada de baleias-cinzentas nas lagoas da Baja" (vazio)
+- evento "Borboleta-monarca (hibernação)" tem escopo "Reserva da Biosfera da Mariposa Monarca (Michoacán e Estado de México). Atenção: El Rosario e Sierra Chincua ficam em Michoacán (nível 4 EUA); La Mesa e El Capulín no Estado de México (nível 2)" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "Nidificação de tartarugas marinhas (Quintana Roo)" (vazio)
+- evento "Temporada de furacões - Atlântico/Caribe/Golfo" tem escopo "Quintana Roo, Yucatán, Golfo do México" fora das bases do banco: descartado
+- evento "Estação chuvosa (normais climáticos)" tem escopo "Todo o país, com variações regionais" fora das bases do banco: descartado
+- bairro "Cabo San Lucas - centro / Marina / Medano" (la-paz) sem faixa de diaria: fora de hospedagem.json
+- bairro "Todos Santos - centro" (la-paz) sem faixa de diaria: fora de hospedagem.json
+- bairro "Puerto Vallarta - Zona Romántica" (la-paz) sem faixa de diaria: fora de hospedagem.json
+- bairro "Sayulita - vila / camping" (la-paz) sem faixa de diaria: fora de hospedagem.json
+- bairro "Guanajuato - Região da rodoviária / sul do centro" (guanajuato) sem faixa de diaria: fora de hospedagem.json
+- bairro "Guadalajara - Colonia Americana / Av. Chapultepec" (guanajuato) sem faixa de diaria: fora de hospedagem.json
+- _...e mais 9._
 
 ### Sem coordenada — 28
 
@@ -476,6 +538,37 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Circuito Betania (Santo Amaro) | Barreirinhas | horário de funcionamento |
 
 _...e mais 218. `npm run validate:data` imprime a lista inteira._
+
+### Pesquisa que nao entrou no banco — 92
+
+O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
+
+- trecho "Porto Seguro -> Trancoso" virou a mesma base (trancoso): descartado
+- trecho "Trancoso -> Caraíva" virou a mesma base (trancoso): descartado
+- trecho "Natal -> São Miguel do Gostoso" nao mapeou para bases conhecidas: descartado
+- trecho "Teresina -> São Raimundo Nonato (Serra da Capivara)" nao mapeou para bases conhecidas: descartado
+- evento sem data exata ficou fora do banco: "Feriados nacionais fixos do Brasil (9 datas)" (vazio)
+- evento sem data exata ficou fora do banco: "ALERTA LEGAL: Carnaval e Corpus Christi NÃO são feriados nacionais" (vazio)
+- evento sem data exata ficou fora do banco: "Datas magnas estaduais do Nordeste" (vazio)
+- evento "Sexta-feira da Paixão (Sexta-feira Santa)" tem escopo "Brasil (na forma de dia de guarda municipal)" fora das bases do banco: descartado
+- evento "O Maior São João do Mundo — Campina Grande (PB)" tem escopo "Campina Grande (PB), Parque do Povo (42.000 m², no centro), com polos em Galante, Catolé da Boa Vista e São José da Mata" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "São João de Caruaru (PE)" (vazio)
+- evento sem data exata ficou fora do banco: "Festival de Jazz e Blues de Guaramiranga (CE) — o único festival de jazz do Nordeste que se confirmou" (vazio)
+- evento sem data exata ficou fora do banco: "Micareta de Feira de Santana (BA)" (vazio)
+- evento sem data exata ficou fora do banco: "Fortal — Fortaleza (CE)  [MÊS NÃO CONFIRMADO]" (vazio)
+- evento sem data exata ficou fora do banco: "Réveillon no Nordeste (Salvador, Porto de Galinhas, Jericoacoara, Pipa)" (vazio)
+- evento sem data exata ficou fora do banco: "Alta temporada de junho e julho (São João no interior, férias no litoral)" (vazio)
+- evento sem data exata ficou fora do banco: "Festival de Inverno Bahia e Wine Brasil Music (agosto)" (vazio)
+- evento sem data exata ficou fora do banco: "NOTA DE CORREÇÃO — o Círio de Nazaré NÃO é evento do Nordeste" (vazio)
+- bairro "Rio Vermelho" (salvador) sem faixa de diaria: fora de hospedagem.json
+- bairro "Barra / Ondina" (salvador) sem faixa de diaria: fora de hospedagem.json
+- bairro "Pelourinho / Centro Histórico" (salvador) sem faixa de diaria: fora de hospedagem.json
+- bairro "Segunda Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
+- bairro "Terceira Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
+- bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
+- bairro "Centro (Vila)" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
+- bairro "Centro / Rua da Pituba (Pedro Longo)" (itacare) sem faixa de diaria: fora de hospedagem.json
+- _...e mais 67._
 
 ### Sem coordenada — 144
 

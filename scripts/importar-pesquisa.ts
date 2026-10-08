@@ -22,7 +22,7 @@
  * scripts/destinos/. Isso e da FERRAMENTA DE PESQUISA, nao do app: o app le
  * /data/<destino>/ por import.meta.glob e nao precisa de nada disto.
  */
-import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { colombia } from './destinos/colombia.ts';
 import { mexico } from './destinos/mexico.ts';
@@ -230,6 +230,21 @@ function main(): void {
     console.log(`\n${avisos.length} aviso(s) - material para docs/pendencias-de-verificacao.md:`);
     for (const aviso of avisos) console.log(`  - ${aviso}`);
   }
+
+  /*
+    Grava o que NAO entrou no banco.
+
+    Ate aqui isso vivia so no terminal, e terminal se fecha. Pesquisa cara
+    — um evento sem data exata, um bairro sem faixa de diaria, um item com
+    a cidade fora do mapa — sumia sem deixar rastro, e ninguem ficava
+    sabendo que faltava. Agora vira arquivo, e o gerador de pendencias le
+    dali.
+  */
+  writeFileSync(
+    join(PESQUISA, 'descartados.json'),
+    `${JSON.stringify({ geradoEm: new Date().toISOString().slice(0, 10), avisos }, null, 1)}
+`,
+  );
 
   console.log('\nAgora rode: npm run validate:data');
 }
