@@ -56,18 +56,70 @@
    ],
    "taxasObrigatorias": [
     {
-     "nome": "Propina legal de 10% (gorjeta obrigatoria por lei em hoteis, restaurantes, cafes e bares com consumo no local)",
+     "nome": "Tarjeta de turista (cartao de turismo) - US$ 10",
+     "valor": {
+      "moeda": "USD",
+      "min": 10,
+      "max": 10,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, mas JA vem embutida no preco da passagem aerea emitida no exterior; nao se paga nada na chegada",
+     "fontes": [
+      "https://dgii.gov.do/sobreTarjetaTurista/Paginas/reembolsos.aspx"
+     ],
+     "observacao": "Confirmado na pagina oficial da DGII (Receita dominicana), com base no Decreto 430-17. Justamente por ja estar na passagem, recuse qualquer cobranca de 'taxa de cartao de turismo' em especie no aeroporto."
+    },
+    {
+     "nome": "Imposto de saida / taxa de embarque - US$ 20",
+     "valor": {
+      "moeda": "USD",
+      "min": 20,
+      "max": 20,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, tambem JA incluido na tarifa aerea",
+     "fontes": [
+      "https://www.godominicanrepublic.com/travel/entry-requirements/"
+     ],
+     "observacao": "A pagina oficial do Ministerio de Turismo afirma textualmente que a taxa de saida e de US$ 20 e que ja esta inclusa no preco da passagem."
+    },
+    {
+     "nome": "E-Ticket migratorio de entrada e saida - GRATUITO",
+     "valor": {
+      "moeda": "USD",
+      "min": 0,
+      "max": 0,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante preenche; custo zero",
+     "fontes": [
+      "https://www.godominicanrepublic.com/travel/entry-requirements/",
+      "https://travel.gc.ca/destinations/dominican-republic"
+     ],
+     "observacao": "Obrigatorio na entrada E na saida, para todo passageiro de voo comercial. O portal oficial (eticket.migracion.gob.do) devolveu HTTP 403 nesta sessao, por WebFetch e por curl, entao a obrigatoriedade e a gratuidade foram confirmadas pelo site oficial de turismo e pela pagina oficial do governo do Canada, que concordam. Evite intermediario que cobra pelo preenchimento."
+    },
+    {
+     "nome": "Propina legal de 10% em hotel, restaurante, cafe e bar com consumo no local",
      "valor": {
       "moeda": "DOP",
       "min": 10,
       "max": 10,
-      "tipo": "percentual-sobre-a-conta (10%), NAO valor absoluto - a moeda aqui e so formalidade do formato",
+      "tipo": "percentual-sobre-a-conta",
       "coletadoEm": "2026-10-08"
      },
-     "quemPaga": "O consumidor, somada automaticamente a conta. Base legal: art. 228 da Lei 16-92 (Codigo de Trabalho) e Decreto 258-93. Nao se aplica a pedido para viagem, delivery nem plataforma digital (Resolucao 1438-22 do ProConsumidor e sentenca 033-2021 da SCJ).",
+     "quemPaga": "o viajante, somada na conta por obrigacao legal (art. 228 da Lei 16-92)",
      "fontes": [
       "https://aba.org.do/articulos-perspectivas/cuando-aplica-10-por-ciento-propina-legal-rd/"
-     ]
+     ],
+     "observacao": "Os campos min/max expressam PERCENTUAL (10%), nao valor absoluto - limitacao do formato. Vem somada ao ITBIS."
+    },
+    {
+     "nome": "ITBIS sobre consumo",
+     "quemPaga": "o viajante, somado na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
     },
     {
      "nome": "Passageiro extra no taxi tabelado (acima de 4 pessoas por veiculo)",
@@ -78,11 +130,12 @@
       "tipo": "por-pessoa-adicional",
       "coletadoEm": "2026-10-08"
      },
-     "quemPaga": "O passageiro. Consta como NOTA no rodape das duas tabelas oficiais da Asociacion de Taxistas Turistico de Veron Bavaro: 'estas tarifas son de 1 a 4 personas, los extras pagan 20 USD p/p adicionales'.",
+     "quemPaga": "o grupo, pago ao taxista",
      "fontes": [
       "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf",
       "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
-     ]
+     ],
+     "observacao": "Tabela oficial da Asociacion de Taxistas Turistico de Veron Bavaro hospedada em PDF pelo aeroporto PUJ. ATENCAO: a tabela acessivel e a de 2024 - o link da versao 2025 na pagina do aeroporto devolveu 404, entao os valores podem ter subido."
     }
    ],
    "fontes": [
@@ -149,12 +202,11 @@
       "tipo": "por-pessoa",
       "coletadoEm": "2026-10-08"
      },
-     "quemPaga": "todo visitante, dominicano ou estrangeiro; a maioria dos tours organizados ja inclui no preco, mas algumas operadoras cobram separado em dinheiro no porto",
+     "quemPaga": "o viajante, em dinheiro e em pesos, normalmente FORA do preco do passeio",
      "fontes": [
-      "https://holabayahibe.com/en/guides/bayahibe/mano-juan-self-guided-tour",
-      "https://dominicanrepublic365.com/travel-guides/saona-island-day-trip-guide",
-      "https://www.traveloversky.com/en/saona-island/"
-     ]
+      "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+     ],
+     "observacao": "NAO existe fonte oficial aberta para este valor. Duas fontes independentes dao RD$ 250 e uma terceira da 400 DOP (~US$ 7). A materia do Acento que abri confirma apenas que o ministerio anunciou aumento e que Saona/Catalina/Cayo Arena passariam a custar 'entre 100 e 500 pesos', sem tabela por parque, e e de 2017. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
     },
     {
      "nome": "Sendero Ecologico y Arqueologico Padre Nuestro (entrada com guia incluido)",
@@ -165,10 +217,16 @@
       "tipo": "por-pessoa",
       "coletadoEm": "2026-10-08"
      },
-     "quemPaga": "visitante; pagamento em pesos, em dinheiro",
+     "quemPaga": "o viajante, na entrada da trilha",
      "fontes": [
-      "https://www.visitarepublicadominicana.org/sendero-ecologico-y-arqueologico-padre-nuestro"
-     ]
+      "https://visitarepublicadominicana.org/sendero-ecologico-y-arqueologico-padre-nuestro"
+     ],
+     "observacao": "Fonte unica. Horario e taxa do posto de guarda-parques da Cueva del Puente e da Cueva de Chicho nao sao publicados."
+    },
+    {
+     "nome": "ITBIS e propina legal de 10% sobre consumo",
+     "quemPaga": "o viajante, somados na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
     }
    ],
    "observacao": "NAO consegui abrir o tarifario oficial do Ministerio de Medio Ambiente dominicano: tanto https://ambiente.gob.do/permiso-de-entrada-a-las-areas-protegidas/ como https://ambiente.gob.do/informacion-ambiental/areas-protegidas/ devolveram HTTP 403, e a pagina da legislacao no LEAP/UNEP (Resolucion 0017/2017) tambem devolveu 403. Portanto o valor exato e atual do bracelete de Cotubanama NAO esta verificado em fonte oficial. O que tenho: duas fontes independentes de viagem dizem RD$250 e uma terceira diz 400 DOP (~US$7); uma materia do Acento de 06/04/2017 registra que o ministerio anunciou aumento e que entradas de Saona, Catalina e Cayo Arena passariam a custar entre 100 e 500 pesos, sem detalhar por area. Nao achei tabela por nacionalidade aplicada a Cotubanama. Faixas de preco de hospedagem e dados de criminalidade por bairro tambem NAO foram verificados.",
@@ -241,12 +299,47 @@
     "Prostituição e turismo sexual em Boca Chica: a cidade tem registro documentado de exploração sexual, inclusive de menores. Além de crime grave na República Dominicana, qualquer abordagem desse tipo é também um vetor clássico de extorsão e roubo. Fuja."
    ],
    "taxasObrigatorias": [
-    "ITBIS (imposto sobre bens e serviços): 18%, aplicado em restaurantes, hotéis e serviços. Preço anunciado muitas vezes NÃO inclui.",
-    "Taxa de serviço legal em restaurantes e hotéis: 10%, de aplicação obrigatória por lei dominicana — vem somada na conta junto com o ITBIS (na prática, ~28% sobre o valor do consumo).",
-    "Taxa de turismo/hotelaria embutida na diária de hotel: existe, mas eu NÃO confirmei o percentual vigente em 2026 em fonte oficial dominicana — confirme na reserva.",
-    "Cartão/eTicket de entrada e saída da República Dominicana: formulário eletrônico obrigatório para entrar e sair; a taxa de turista para brasileiros normalmente já vem embutida no bilhete aéreo. NÃO confirmei nesta pesquisa o valor nem o status atual — verifique no site oficial de migração antes de viajar.",
-    "Entrada em Los Tres Ojos: RD$100 por pessoa, mais RD$100 opcionais pelo uso de câmera.",
-    "Entradas de museus na Zona Colonial: RD$100 (Alcázar de Colón), RD$100 (Museo de las Casas Reales), RD$70 (Fortaleza Ozama), RD$60 (Catedral Primada). Faro a Colón: US$2 estrangeiro / RD$100 dominicano adulto."
+    {
+     "nome": "Entrada do Parque Nacional Los Tres Ojos",
+     "valor": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 100,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, na bilheteria",
+     "fontes": [
+      "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-a-los-tres-ojos"
+     ],
+     "observacao": "Fonte unica (blog de viagem). Ha ainda RD$ 100 OPCIONAIS pelo uso de camera. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
+    },
+    {
+     "nome": "Entradas dos museus e monumentos da Zona Colonial",
+     "valor": {
+      "moeda": "DOP",
+      "min": 60,
+      "max": 100,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, em cada bilheteria",
+     "fontes": [
+      "https://dgm.gob.do/todos-los-servicios/visita-a-museo-alcazar-de-colon/",
+      "https://diariolibre.com/actualidad/ciudad/2024/03/11/faro-a-colon-vuelve-a-ser-atractivo-para-turistas-y-nacionales/2637394"
+     ],
+     "observacao": "Faixa observada: RD$ 100 Alcazar de Colon (unico com duas fontes, uma governamental - a DGM), RD$ 100 Museo de las Casas Reales, RD$ 70 Fortaleza Ozama, RD$ 60 Catedral Primada (outra fonte diz 50). O Faro a Colon aparece como US$ 2 estrangeiro / RD$ 100 dominicano, de reportagem de marco de 2024. Precos de fonte unica, exceto o Alcazar."
+    },
+    {
+     "nome": "ITBIS e propina legal de 10% sobre consumo em restaurante e hotel",
+     "quemPaga": "o viajante, somados na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
+    },
+    {
+     "nome": "Taxa de turismo/hotelaria embutida na diaria de hotel",
+     "quemPaga": "o hospede, dentro da diaria",
+     "observacao": "Existe, mas NAO confirmei o percentual vigente em 2026 em nenhuma fonte oficial dominicana. Confirme no momento da reserva."
+    }
    ],
    "fontes": [
     "https://en.wikipedia.org/wiki/Ciudad_Colonial_(Santo_Domingo)",
@@ -311,10 +404,73 @@
     "'Taxa' extra cobrada na chegada ao Parque Nacional Los Haitises que supostamente não estava no pacote. Exija por escrito, na reserva, se a entrada do parque está incluída."
    ],
    "taxasObrigatorias": [
-    "Santuário de Mamíferos Marinos Bancos de la Plata y la Navidad (passeio de baleias): RD$ 250 por pessoa, conforme reportagem do Acento. NÃO confirmei se está dentro ou fora do preço da operadora.",
-    "Parque Nacional Los Haitises: ~US$ 10 por estrangeiro e ~US$ 5 por dominicano/residente, segundo o blog da Felices Vacaciones; outra passagem da mesma fonte cita RD$ 200 adulto / RD$ 100 criança. As duas versões não fecham — leve pesos e confirme na hora.",
-    "Salto El Limón: entrada por pessoa; a Felices Vacaciones diz RD$ 200 (guia local incluído) e o Wikivoyage diz 'RD$ 50-100'. Faixa real provável RD$ 50-200.",
-    "Pedágios Santo Domingo -> Samaná / Las Terrenas (Autopista del Nordeste + Bulevar Turístico del Atlántico), categoria 1 (carro/SUV), tarifas de 01/01/2022 segundo o Diario Libre: Marbella RD$ 60, Guaraguao RD$ 200, Naranjal RD$ 200, Catey RD$ 400 = RD$ 860 por sentido. ATENÇÃO: houve reajuste geral de pedágios em 15/01/2025 (Diario Libre) e NÃO encontrei a tabela de 2026 — orce mais."
+    {
+     "nome": "Taxa do Santuario de Mamiferos Marinos Bancos de la Plata y la Navidad (passeio de baleias jubarte)",
+     "valor": {
+      "moeda": "DOP",
+      "min": 250,
+      "max": 250,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante; nao esta claro se dentro ou fora do preco da operadora",
+     "fontes": [
+      "https://acento.com.do/economia/divisar-los-colosos-en-la-inmensidad-del-atlantico-las-ballenas-jorobadas-que-dinamizanla-economia-de-samana-9298125.html"
+     ],
+     "observacao": "Fonte unica (reportagem do Acento). NAO confirmei se a taxa esta inclusa nos US$ 65 cobrados pela operadora oficial (whalesamana.com) ou se e paga por fora - pergunte na reserva."
+    },
+    {
+     "nome": "Entrada do Parque Nacional Los Haitises",
+     "valor": {
+      "moeda": "DOP",
+      "min": 200,
+      "max": 200,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante; algumas excursoes incluem, outras nao",
+     "fontes": [
+      "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-parque-nacional-los-haitises"
+     ],
+     "observacao": "Fonte UNICA e internamente contraditoria: a mesma pagina da duas versoes que nao fecham (~US$ 10 estrangeiro / US$ 5 dominicano em um trecho, RD$ 200 adulto / RD$ 100 crianca em outro). Registrei a versao em pesos. Leve dinheiro e confirme na hora. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
+    },
+    {
+     "nome": "Entrada da Cascada El Limon (Salto El Limon)",
+     "valor": {
+      "moeda": "DOP",
+      "min": 50,
+      "max": 200,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, na entrada de um dos paradores",
+     "fontes": [
+      "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-salto-del-limon",
+      "https://en.wikivoyage.org/wiki/Las_Terrenas"
+     ],
+     "observacao": "Duas fontes que NAO concordam: RD$ 200 com guia local incluido numa, 'RD$ 50-100' na outra. Gravei a faixa inteira. O aluguel de cavalo avulso nao foi encontrado em nenhuma fonte."
+    },
+    {
+     "nome": "Pedagios Santo Domingo -> Samana / Las Terrenas (Autopista del Nordeste + Bulevar Turistico del Atlantico), categoria 1 (carro/SUV)",
+     "valor": {
+      "moeda": "DOP",
+      "min": 860,
+      "max": 860,
+      "tipo": "por-veiculo-por-sentido",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "quem dirige carro proprio ou alugado, por sentido",
+     "fontes": [
+      "https://diariolibre.com/economia/finanzas/2022/01/03/estimamos-incremento-5-10--trafico-por-carretera-a-samana/1563365",
+      "https://www.diariolibre.com/actualidad/nacional/2025/01/10/cuales-son-los-peajes-que-aumentaran-de-precio/2964110"
+     ],
+     "observacao": "Soma das quatro pracas com tarifas de 01/01/2022: Marbella RD$ 60 + Guaraguao RD$ 200 + Naranjal RD$ 200 + Catey RD$ 400. DESATUALIZADO: houve reajuste geral de pedagios em 15/01/2025 e a reportagem que abri nao detalha os novos valores destas quatro pracas - orce mais que RD$ 860."
+    },
+    {
+     "nome": "ITBIS e propina legal de 10% sobre consumo",
+     "quemPaga": "o viajante, somados na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
+    }
    ],
    "fontes": [
     "https://en.wikivoyage.org/wiki/Las_Terrenas",
@@ -375,12 +531,46 @@
     "NÃO CONFIRMEI com fonte: golpe de câmbio em casa de câmbio de rua, golpe de cartão clonado em restaurante, e cobrança de 'taxa de praia' - ouvi falar, não achei fonte, então não estou afirmando."
    ],
    "taxasObrigatorias": [
-    "e-Ticket de migração: formulário eletrônico de entrada e saída OBRIGATÓRIO para todo passageiro de voo comercial, e é GRATUITO, em https://eticket.migracion.gob.do/. Pode ser preenchido a qualquer momento antes do check-in. Fonte oficial de turismo do país.",
-    "Imposto de saída: US$20, já INCLUÍDO no preço da passagem aérea. Fonte oficial.",
-    "Passaporte: a regra geral é validade mínima de 6 meses, MAS brasileiros estão na exceção vigente até 31/12/2026 e podem entrar com passaporte válido apenas pelo período da estadia. Fonte oficial. Confirme perto da viagem porque a exceção tem data de fim.",
-    "Taxa de prorrogação de estadia: se ficar mais de 30 dias, há cobrança em escala progressiva conforme o total de dias. Fonte oficial, sem tabela de valores publicada na página.",
-    "Entrada em área protegida (Damajagua): o Ministério de Medio Ambiente cobra entrada nas áreas protegidas e a bilheteria do monumento NÃO aceita cartão - leve pesos ou dólares em dinheiro.",
-    "NÃO CONFIRMEI: ITBIS de 18% e taxa de serviço de 10% em hotel e restaurante. Esses dois números circulam em todo guia de República Dominicana, mas eu não achei a página oficial nesta sessão - então trate como provável, não como confirmado, e olhe a conta."
+    {
+     "nome": "Entrada dos 27 Charcos de Damajagua, por circuito (7, 12 ou 27 charcos)",
+     "valor": {
+      "moeda": "USD",
+      "min": 11,
+      "max": 21,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, na bilheteria, SO em dinheiro (pesos ou dolares) - nao aceita cartao",
+     "fontes": [
+      "https://27waterfalls.org/prices/"
+     ],
+     "observacao": "US$ 11 para 7 charcos, US$ 16 para 12 charcos e US$ 21 para 27 charcos, conforme a tabela do 27waterfalls.org. Fonte UNICA e comercial - nao e tarifario do Ministerio de Medio Ambiente, que nao foi acessivel. Gorjeta de guia (US$ 5-20) fica por fora, e o guia e obrigatorio. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
+    },
+    {
+     "nome": "Entrada generica de area protegida do Ministerio de Medio Ambiente",
+     "valor": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 500,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, na bilheteria da area, em dinheiro",
+     "fontes": [
+      "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+     ],
+     "observacao": "Faixa generica anunciada pelo ministerio, de reportagem de 2017, SEM tabela por parque. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
+    },
+    {
+     "nome": "Taxa de prorrogacao de estadia acima de 30 dias",
+     "quemPaga": "o viajante que exceder o prazo, na saida",
+     "observacao": "A pagina oficial de turismo informa que extensoes alem de 30 dias geram cobranca em escala progressiva, mas NAO publica a tabela de valores. Tambem nao confirmei em fonte oficial dominicana se o prazo de permanencia para brasileiro e de 30 ou de 60 dias - fontes secundarias divergem."
+    },
+    {
+     "nome": "ITBIS e propina legal de 10% sobre consumo",
+     "quemPaga": "o viajante, somados na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
+    }
    ],
    "fontes": [
     "https://www.godominicanrepublic.com/destinations/puerto-plata/",
@@ -457,29 +647,36 @@
    ],
    "taxasObrigatorias": [
     {
-     "nome": "Taxa de servico em restaurantes",
-     "valor": "10% sobre a conta",
-     "observacao": "Descrita como obrigatoria por legislacao dominicana na fonte odessia.com (guia agregador, nao oficial). NAO confirmei em fonte governamental. A mesma fonte diz que e costume somar 5 a 10% em dinheiro direto ao garcom."
+     "nome": "Entrada das cachoeiras de Jarabacoa (Salto de Jimenoa, Salto de Baiguate)",
+     "valor": {
+      "moeda": "DOP",
+      "min": 50,
+      "max": 150,
+      "tipo": "por-pessoa",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o viajante, na entrada, em pesos e em dinheiro",
+     "fontes": [
+      "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+     ],
+     "observacao": "Fontes CONFLITANTES para o Jimenoa: RD$ 50, RD$ 100 e RD$ 150. Para o Baiguate uma fonte unica diz gratuito. Nenhum valor vem de fonte oficial - o que consegui de governo foi a faixa generica RD$ 100-500 para areas protegidas, de reportagem de 2017. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio."
     },
     {
-     "nome": "ITBIS (imposto sobre bens e servicos)",
-     "valor": "percentual NAO confirmado nesta sessao",
-     "observacao": "Normalmente aparece somado em restaurantes e hoteis na Republica Dominicana. NAO abri nenhuma fonte oficial da DGII nesta pesquisa, entao nao informo a aliquota. Confirme na nota."
+     "nome": "Guia obrigatorio e mulas para o Pico Duarte (Parques Nacionais Armando Bermudez / Jose del Carmen Ramirez)",
+     "valor": {
+      "moeda": "DOP",
+      "min": 400,
+      "max": 800,
+      "tipo": "por-dia",
+      "coletadoEm": "2026-10-08"
+     },
+     "quemPaga": "o trekker, pago no posto de La Cienaga de Manabao",
+     "observacao": "Valores de UMA fonte secundaria sem data: entrada ~RD$ 100, guia ~RD$ 800/dia, mulas ~RD$ 400-450 cada. O guia e obrigatorio. NAO achei a pagina do Ministerio de Medio Ambiente com o tarifario destes dois parques. O tarifario oficial de areas protegidas do Ministerio de Medio Ambiente dominicano NAO foi acessivel: ambiente.gob.do devolveu HTTP 403 por WebFetch e por curl, e a resolucao no LEAP/UNEP tambem deu 403. Portanto nenhum preco de parque nacional neste arquivo vem de fonte primaria do ministerio. Omiti as fontes porque nenhuma pagina aberta publica esta tabela de forma atribuivel."
     },
     {
-     "nome": "Entrada de areas protegidas (Ministerio de Medio Ambiente)",
-     "valor": "faixa citada: RD$100 a RD$500",
-     "observacao": "Faixa vem de reportagem do Acento de 06/04/2017 sobre reajuste de tarifas de areas protegidas - fonte ANTIGA e generica, sem valor por parque. A tabela oficial atual do Ministerio de Medio Ambiente y Recursos Naturales NAO foi localizada nesta sessao. Para o Pico Duarte, os guias informam que a tabela vigente esta afixada na caseta do parque em La Cienaga: confirme la."
-    },
-    {
-     "nome": "Entrada das cachoeiras (Jimenoa, Baiguate)",
-     "valor": "Jimenoa: RD$50 a RD$150 segundo fontes conflitantes; Baiguate: uma fonte diz gratuito",
-     "observacao": "Nenhum site oficial com tabela de precos foi encontrado. Leve pesos em dinheiro - nao ha indicacao de que aceitem cartao."
-    },
-    {
-     "nome": "Guia e mulas no Pico Duarte",
-     "valor": "guia ~RD$800/dia; mulas ~RD$400 a RD$450 cada",
-     "observacao": "Valores de UMA fonte (guia Moon), sem data de atualizacao. Guia e obrigatorio. Considere desatualizado para 2026."
+     "nome": "ITBIS e taxa de servico de 10% sobre consumo",
+     "quemPaga": "o viajante, somados na conta",
+     "observacao": "Os 18% de ITBIS e os 10% de servico circulam em todo guia de Republica Dominicana, mas NAO achei a pagina oficial da DGII nesta sessao. Trate como provavel, nao como confirmado, e confira a conta: na pratica o acrescimo somado passa de 25% sobre o consumo."
     }
    ],
    "fontes": [
@@ -3997,7 +4194,7 @@
     "max": 70,
     "tipo": "por-pessoa",
     "coletadoEm": "2026-10-08",
-    "observacao": "US$ 65 adulto / US$ 35 criança no site oficial da Whale Samana; +US$ 5 opcional pela parada em Cayo Levantado (daí o máximo de 70). Taxa do santuário de RD$ 250 por pessoa citada pelo Acento, com inclusão NÃO confirmada. Não inclui transporte de Las Terrenas até Samaná."
+    "observacao": "US$ 65 adulto / US$ 35 criança no site oficial da Whale Samana; +US$ 5 opcional pela parada em Cayo Levantado (daí o máximo de 70). Taxa do santuário de RD$ 250 por pessoa citada pelo Acento, com inclusão NÃO confirmada. Não inclui transporte de Las Terrenas até Samaná. RESSALVA DE MOEDA: a pagina oficial escreve apenas '$65' e '$35', sem nomear a moeda; tratei como USD porque e a praxe do turismo dominicano, mas o site NAO declara USD. A pagina tambem nao data a tabela e nao menciona a taxa do santuario, o que confirma que a inclusao dos RD$ 250 segue em aberto."
    },
    "contato": {
     "site": "https://www.whalesamana.com/",
@@ -4030,7 +4227,7 @@
     "http://router.project-osrm.org/route/v1/driving/-69.5408,19.3219;-69.3390,19.2037?overview=false",
     "https://nominatim.openstreetmap.org/search?format=json&q=Santa+B%C3%A1rbara+de+Saman%C3%A1"
    ],
-   "observacao": "A data de 15/jan a 31/mar é do site da operadora oficial e é coerente com três fontes jornalísticas dominicanas e com a abertura oficial de 16/01/2026 pelo Ministerio de Medio Ambiente — por isso 'verificado' para os MESES. Não ficou confirmado: duração em horas (os subdomínios /whale-watching-tour/ e /reservations/ do site deram 404), se os RD$ 250 do santuário estão inclusos, e o preço 2026 reconfirmado (o site não datava a tabela). Não listo as páginas da IWC nem a Frommer's porque retornaram 403."
+   "observacao": "A data de 15/jan a 31/mar é do site da operadora oficial e é coerente com três fontes jornalísticas dominicanas e com a abertura oficial de 16/01/2026 pelo Ministerio de Medio Ambiente — por isso 'verificado' para os MESES. Não ficou confirmado: duração em horas (os subdomínios /whale-watching-tour/ e /reservations/ do site deram 404), se os RD$ 250 do santuário estão inclusos, e o preço 2026 reconfirmado (o site não datava a tabela). Não listo as páginas da IWC nem a Frommer's porque retornaram 403. Reconferi pessoalmente https://www.whalesamana.com/ nesta sessao: datas (15/jan-5/fev saida 10:00; 6/fev-13/mar saidas 9:00 e 13:30; 14-31/mar saida 10:00), precos 65/35 e cais de partida na Calle Mella #4 batem com o relatado; a moeda e a taxa do santuario continuam nao declaradas na fonte."
   },
   {
    "nome": "Parque Nacional Los Haitises",

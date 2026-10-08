@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "do-puj-playa-bavaro-trecho-el-cortecito-los-corales",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/B%C3%A1varo"
+      },
+      {
+        "url": "https://www.puntacanatravelblog.com/general-information-faq/scams-in-punta-cana/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+El+Cortecito&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Bavaro - trecho El Cortecito / Los Corales",
+    "cidadeId": "punta-cana",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "publica",
+      "gratuito",
+      "vida-de-rua",
+      "familia",
+      "mar-calmo"
+    ],
+    "coords": {
+      "lat": 18.6681834,
+      "lng": -68.3985297
+    },
+    "descricaoCurta": "O trecho de Bavaro onde a praia e publica de verdade e da para chegar a pe, comer fora do resort e voltar.",
+    "descricaoLonga": "Bavaro e uma faixa de cerca de 10 km de areia branca na Costa do Coco, quase toda ocupada por all-inclusive. El Cortecito e Los Corales sao o pedaco onde existe rua, restaurante independente, mercadinho e acesso publico a areia sem passar por portaria - no resto da faixa voce tecnicamente pode andar na areia (praia na Republica Dominicana e bem publico) mas nao ha estacionamento nem entrada franca. Mar raso, protegido por recife, bom para criancas. Custo: nada para entrar; espreguiçadeira e guarda-sol sao dos restaurantes e liberados para quem consome - nao confirmei valores de aluguel avulso. Quando ir: cedo (ate 10h) a areia esta limpa e vazia; a partir do meio-dia aparecem vendedores ambulantes e a abordagem e constante. Armadilhas: vendedor de passeio na areia (sem reembolso se der errado), foto com papagaio/iguana 'gratis' que vira cobranca de USD 20-50, e preco de turista em barraquinha. O que NAO confirmei: preco de cadeira/guarda-sol, se ha salva-vidas, e horario de funcionamento dos quiosques.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-playa-macao",
+    "fontes": [
+      {
+        "url": "https://playa.do/playa-macao/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+Macao+Dominican+Republic&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Macao",
+    "cidadeId": "punta-cana",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "publica",
+      "surf",
+      "onda-forte",
+      "sem-salva-vidas",
+      "buggy",
+      "playa-macao"
+    ],
+    "coords": {
+      "lat": 18.774248,
+      "lng": -68.5377438
+    },
+    "descricaoCurta": "Praia publica de falesia e ondas ao norte de Bavaro, onde param quase todos os passeios de buggy.",
+    "descricaoLonga": "Macao e o oposto de Bavaro: mar aberto, ondas, vento alisio e nenhum resort colado na areia no nucleo publico. E a praia de surf da regiao (Macao Surf Camp e Punta Cana Surf Adventure dao aula ali - nao consegui preco publicado de nenhum dos dois) e o ponto de parada obrigatorio dos tours de buggy/ATV, o que significa que entre 10h e 14h chega onda de gente e poeira vermelha. Como chegar: de carro alugado ou taxi; nao ha rota de guagua verificada ate a areia, e a fonte local recomenda fechar ida E volta com preco total antes de descer, porque pegar transporte de volta ali e problema. Seguranca: ha correnteza e NAO ha garantia de salva-vidas - a orientacao local e checar o boletim do INDOMET e os alertas do COE antes de entrar no mar. Quando ir: cedo, antes dos buggies. O que NAO confirmei: se o estacionamento cobra e quanto (ha relatos de cobranca informal), se os banheiros entregues em obra do governo em 2022 ainda funcionam, e preco de aula de surf.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-playa-juanillo-cap-cana",
+    "fontes": [
+      {
+        "url": "https://www.queverenpuntacana.com/2026/09/03/playa-juanillo-acceso-gratuito-chiringuitos-y-como-llegar/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+Juanillo+Cap+Cana&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Juanillo (Cap Cana)",
+    "cidadeId": "punta-cana",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "cap-cana",
+      "mar-calmo",
+      "beach-club",
+      "turquesa"
+    ],
+    "coords": {
+      "lat": 18.4997301,
+      "lng": -68.3780755
+    },
+    "descricaoCurta": "A agua mais turquesa e calma da regiao, dentro do condominio de Cap Cana, com acesso gratuito mas controlado na portaria.",
+    "descricaoLonga": "Juanillo fica dentro de Cap Cana, condominio fechado ao sul do aeroporto. A praia em si e publica e a entrada e gratuita durante o dia - voce passa pela guarita, costuma ter que registrar documento e placa do carro, e pronto. Mar sem onda, fundo de areia, tom turquesa que nao existe em Bavaro. Nao ha espreguiçadeira publica: as cadeiras e sombrinhas sao dos chiringuitos/restaurantes e liberadas para quem consome. Faixas de gasto observadas pela fonte local: prato informal (peixe frito, ceviche, yuca) USD 10-15; restaurante de praia USD 20-35 por prato; aluguel de stand-up paddle ou caiaque USD 15-25 por hora. Como chegar de Bavaro: taxi/transfer USD 35-50 por trecho, carro alugado 30-40 min, excursao organizada USD 50-90 por pessoa. Melhor horario: chegar entre 9h e 11h, por causa de vaga de estacionamento e movimento. Armadilha: ir no domingo, quando enche de familia dominicana e o estacionamento lota. O que NAO confirmei: se o acesso e barrado fora do horario diurno e em que horario exatamente, se ha cobranca de estacionamento, e cardapio/preco de restaurante especifico.",
+    "duracao": {
+      "min": 180,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 10,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A PRAIA e gratuita. A faixa citada e o que se gasta comendo nos quiosques/restaurantes da areia (USD 10-15 informal, USD 20-35 restaurante), que e na pratica o 'pedagio' para usar cadeira e sombrinha. Fonte unica (blog local em espanhol), nao e preco oficial de estabelecimento. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-playa-uvero-alto",
+    "fontes": [
+      {
+        "url": "https://www.todopuntacana.com/en/punta-cana-beaches/uvero-alto-beach/"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf"
+      },
+      {
+        "url": "https://puntacanatravelblog.com/general-information-faq/public-transport-in-punta-cana"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Uvero+Alto&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Uvero Alto",
+    "cidadeId": "punta-cana",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "areia-dourada",
+      "vazia",
+      "kitesurf",
+      "isolada",
+      "uvero-alto"
+    ],
+    "coords": {
+      "lat": 18.806863,
+      "lng": -68.5808177
+    },
+    "descricaoCurta": "Ponta norte da costa de Punta Cana: areia dourada, mais onda e vento, bem menos gente.",
+    "descricaoLonga": "Uvero Alto e o extremo norte da faixa turistica, depois de Macao. A areia e dourada em vez de branca, a praia e larga e longa, e a agua tem condicao boa para surf, bodyboard e kitesurf - ou seja, mais mexida que Bavaro. E onde ficam Excellence Punta Cana, Zoetry Agua, Grand Sirenis e Dreams Onyx. Serve para quem quer caminhar quilometros sem esbarrar em ninguem; nao serve para quem quer sair do hotel a pe, porque nao ha nucleo comercial. Custo real: a praia e gratuita, mas o DESLOCAMENTO e o preco de verdade - taxi tabelado do aeroporto PUJ ate os hoteis de Uvero Alto e USD 70 (Excellence, Breathless, Dreams Onyx, Secrets Tides, Live Aqua, Ocean El Faro) e USD 80 (Sivory, Zoetry), por veiculo de ate 4 pessoas, e o Uber nao atende a regiao. Isso muda a conta de qualquer passeio: cada ida e volta a Bavaro custa caro. Quando ir: manha, antes do vento aumentar. O que NAO confirmei: se ha salva-vidas, se ha quiosque publico na areia, e preco de aula de kite.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-scape-park-cap-cana-hoyo-azul",
+    "fontes": [
+      {
+        "url": "https://scapepark.com"
+      },
+      {
+        "url": "https://scapepark.com/en/tours/full-admission"
+      },
+      {
+        "url": "https://scapepark.com/en/tours/blue-hole"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Scape+Park+Cap+Cana&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Scape Park Cap Cana + Hoyo Azul",
+    "cidadeId": "punta-cana",
+    "categoria": "atracao",
+    "tags": [
+      "parque-aventura",
+      "cenote",
+      "tirolesa",
+      "caverna",
+      "hoyo-azul",
+      "dia-inteiro",
+      "cap-cana"
+    ],
+    "coords": {
+      "lat": 18.4841034,
+      "lng": -68.4409287
+    },
+    "descricaoCurta": "Parque de aventura em Cap Cana com 8 atracoes na entrada cheia, incluindo o cenote Hoyo Azul.",
+    "descricaoLonga": "Preco oficial do site do parque: US$ 129 por pessoa na Full Admission, adulto e crianca pelo mesmo valor. Inclui 8 atracoes: Cultural Route, Saltos Azules (cordas e balancos sobre agua), trilha do Hoyo Azul/cenote, Zip Line Eco Splash, expedicao a caverna, Monkey Playground (macacos-prego, papagaios, iguanas-rinoceronte), Rope Runners (circuito de cordas nas arvores) e Super Ride Zip-Line. NAO inclui comida, bebida, fotos, armario nem as atracoes opcionais (buggy, catamara Sunshine Cruise, pacote Juanillo VIP - nao consegui preco publicado desses). Funciona todos os dias das 9h as 17h, com as atracoes fechando as 16h30 e algumas com horario reduzido. O Hoyo Azul e o ponto alto: trilha de cerca de 750 m, uns 15 minutos de caminhada tranquila, ate um cenote de agua turquesa com cerca de 3,6 m (12 pes) no ponto mais fundo. Restricoes oficiais: peso entre 60 e 280 libras (27-127 kg), minimo 100 libras no Super Ride; altura entre 1,22 m e 1,96 m; gravidas nao fazem tirolesa; proibido sob efeito de alcool. Vale? Vale se voce quer o pacote de adrenalina do dia inteiro. Se voce so quer ver o Hoyo Azul, e caro - e o cenote isolado nao tem preco separado publicado no site, so dentro da Full Admission. Dica: va cedo, o Hoyo Azul fica lotado depois das 11h e a agua esfria a tarde.",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 480
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 129,
+      "max": 129,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$129 e o preco de balcao da Full Admission no site oficial scapepark.com, mesmo valor para adulto e crianca. Pacotes com buggy, catamara ou Juanillo VIP existem mas o site nao publica os valores deles. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "site": "https://scapepark.com",
+      "telefone": "+1 809-390-3576",
+      "whatsapp": "+1 809-390-3576"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-reserva-ecologica-ojos-indigenas-indigenous-eyes",
+    "fontes": [
+      {
+        "url": "https://www.puntacana.com/en/to-do/ojos-indigenas"
+      },
+      {
+        "url": "https://puntacana.org/en/environment/indigenous-eyes-ecological-reserve"
+      },
+      {
+        "url": "https://cana.tours/es/tours"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Reserva+Ecologica+Ojos+Indigenas&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Reserva Ecologica Ojos Indigenas (Indigenous Eyes)",
+    "cidadeId": "punta-cana",
+    "categoria": "natureza",
+    "tags": [
+      "reserva",
+      "lagoa",
+      "cenote",
+      "trilha",
+      "banho",
+      "fundacion-puntacana"
+    ],
+    "coords": {
+      "lat": 18.5113323,
+      "lng": -68.3770568
+    },
+    "descricaoCurta": "Reserva privada de 600 hectares da Fundacion Puntacana com 12 lagoas de agua doce, visitavel so com tour guiado.",
+    "descricaoLonga": "Atencao: a informacao que circula em blogs de que se entra pagando RD$50 esta DESATUALIZADA. Hoje, segundo o site oficial do Puntacana Resort, o acesso de quem nao e hospede e feito pelo tour guiado 'Los Ojos Eco Journey', que custa US$ 90 para visitante externo e US$ 40 para hospede do The Westin Puntacana e do Four Points by Sheraton, com duracao de cerca de 2h45. O roteiro inclui explicacao sobre apicultura, o programa de conservacao do gaviao de La Hispaniola (Ridgway's Hawk) e da iguana-rinoceronte, visita a loja YAUYA e banho na lagoa Inriri. A reserva tem 1.500 acres, 12 lagoas de agua doce alimentadas pelo rio subterraneo Yauya, mais de 500 especies de plantas (36% endemicas) e cerca de 100 especies de aves (27 endemicas); o site da fundacao diz que se pode nadar em quatro das nascentes. Hospede do Puntacana Resort & Club consegue visita por conta propria. Leve repelente, sapato fechado e roupa de banho. O que NAO confirmei: horario de funcionamento (nenhuma das paginas oficiais que abri publica abertura e fechamento - os '9h as 16h30' que circulam vem de blogs e podem ser do regime antigo), se o tour sai em horario fixo, e politica para criancas.",
+    "duracao": {
+      "min": 120,
+      "tipica": 165,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 40,
+      "max": 90,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$90 visitante externo, US$40 hospede do The Westin Puntacana ou Four Points by Sheraton - valores do site oficial puntacana.com. Um operador local (cana.tours) vende o mesmo 'Los Ojos Tour Ecologico' por US$90 adulto e US$35 crianca, o que bate com o preco oficial. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "site": "https://puntacana.org/en/environment/indigenous-eyes-ecological-reserve",
+      "telefone": "+1 809-959-9221"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-montana-redonda",
+    "fontes": [
+      {
+        "url": "https://redondamountain.com/es/blog/round-mountain-price-tickets-what-included/"
+      },
+      {
+        "url": "https://www.queverenpuntacana.com/2026/07/31/montana-redonda-punta-cana-vistas-y-precios/"
+      },
+      {
+        "url": "https://cana.tours/en/montana-redonda-punta-cana"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Redonda+Miches+El+Seibo&format=json&limit=5&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Montana Redonda",
+    "cidadeId": "punta-cana",
+    "categoria": "mirante",
+    "tags": [
+      "mirante",
+      "balanco",
+      "foto",
+      "miches",
+      "bate-volta",
+      "4x4",
+      "montana-redonda"
+    ],
+    "coords": {
+      "lat": 18.9823893,
+      "lng": -68.9167032
+    },
+    "descricaoCurta": "Morro isolado perto de Miches com balancos e redes penduradas sobre a vista da Bahia de Samana e da Laguna Redonda.",
+    "descricaoLonga": "E o lugar dos balancos de Instagram da Republica Dominicana: um morro de uns 300 m que se destaca na planicie, com vista 360 para a Bahia de Samana, a Laguna Redonda e a costa de Miches. No topo ha balancos, redes, uma cruz e quiosques vendendo coco e comida. A entrada em si e barata: as fontes que achei dao 250 DOP adulto / 100 DOP crianca em uma, e cerca de 600 DOP (uns US$10) em outra - ou seja, elas NAO batem, e eu nao encontrei tabela oficial, entao trate como faixa aproximada. O que custa e chegar: de taxi privado de Bavaro, uma fonte fala em US$40-60 ida e volta, mas a tabela oficial da associacao de taxistas do aeroporto cobra US$160 (so ida) / US$200 (ida e volta) ate Miches, o que da a dimensao da distancia real. Excursao organizada de meio dia a partir de US$79 por adulto (criancas de 4 a 11 com 30% de desconto), com van ate a base e transporte 4x4 ate o topo incluido. A subida final e por uma estrada de terra vermelha: carro de passeio comum sofre, por isso existe o caminhao/4x4 local. Uma fonte diz '20 minutos de Bavaro' e outra diz 'duas horas' - a segunda e a realista, porque sao cerca de 100 km por Higuey. Quando ir: 9h-10h ou fim de tarde; meio-dia e sol direto sem sombra. Armadilha: pagar excursao de dia inteiro quando o que voce quer e so a foto - se der para dividir taxi ou alugar carro, sai muito mais barato.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "ENTRADA apenas. Fontes divergem: redondamountain.com diz 250 DOP adulto e 100 DOP crianca; queverenpuntacana.com diz cerca de 600 DOP (~US$10) por pessoa. Nao achei tabela oficial. O transporte 4x4 ate o topo e cobrado a parte e nao consegui o valor avulso em fonte confiavel. Excursao de meio dia saindo de Punta Cana: a partir de US$79 por adulto. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-basilica-nuestra-senora-de-la-altagracia-higuey",
+    "fontes": [
+      {
+        "url": "https://eldia.com.do/basilica-de-higuey-la-meca-de-los-creyentes/"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
+      },
+      {
+        "url": "https://puntacanatravelblog.com/general-information-faq/public-transport-in-punta-cana"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Basilica+Nuestra+Senora+de+la+Altagracia+Higuey&format=json&limit=2"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Basilica Nuestra Senora de la Altagracia (Higuey)",
+    "cidadeId": "punta-cana",
+    "categoria": "atracao",
+    "tags": [
+      "igreja",
+      "arquitetura",
+      "religioso",
+      "higuey",
+      "gratuito",
+      "cultura"
+    ],
+    "coords": {
+      "lat": 18.6155158,
+      "lng": -68.7168773
+    },
+    "descricaoCurta": "A igreja mais importante do pais, em concreto modernista, a uma hora de Bavaro - e a unica coisa 'de verdade' perto de Punta Cana.",
+    "descricaoLonga": "Inaugurada em 21 de janeiro de 1971 (obra iniciada em 1954), projeto dos arquitetos franceses A. Dunoyer de Segonzac e Pierre Dupre, substituiu um santuario de 1572. Planta em cruz latina, concreto cinza, porta de bronze banhada a ouro 24 quilates e campanario com 45 sinos de bronce. Abriga a imagem da Virgen de la Altagracia, padroeira espiritual do pais, de 33,5 cm por 45 cm, escola espanhola, em moldura de ouro e pedras preciosas. E o principal destino de romaria da Republica Dominicana. Aos domingos ha sete missas, a primeira as 6h30 e a ultima as 17h. Sabado e domingo sao os dias mais cheios; em 21 de janeiro, Dia de la Altagracia, a cidade inteira para e e impossivel visitar com calma. Como chegar: taxi tabelado do aeroporto PUJ ate Higuey custa US$70 so ida e US$90 ida e volta pela tabela oficial da associacao de taxistas; de guagua, Higuey-Bavaro custa cerca de 185 DOP (200 DOP no expresso) em valores de 2025. Combine com o mercado e o centro de Higuey no mesmo dia. O que NAO confirmei: horario de abertura e fechamento do templo em dias uteis, missas de segunda a sabado, se ha cobranca de entrada (as fontes nao mencionam nenhuma, e igreja de romaria no pais nao costuma cobrar), e se o museu da Altagracia funciona.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 180
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-puj-jellyfish-restaurant",
+    "fontes": [
+      {
+        "url": "https://www.jellyfishrestaurant.com/"
+      },
+      {
+        "url": "https://quantocustaviajar.com/republica-dominicana/punta-cana/alimentacao"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+El+Cortecito&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Jellyfish Restaurant",
+    "cidadeId": "punta-cana",
+    "categoria": "restaurante",
+    "tags": [
+      "pe-na-areia",
+      "frutos-do-mar",
+      "por-do-sol",
+      "fora-do-resort",
+      "bavaro"
+    ],
+    "coords": {
+      "lat": 18.6681834,
+      "lng": -68.3985297
+    },
+    "descricaoCurta": "O restaurante pe na areia mais conhecido de Bavaro, aberto o dia todo, fora de resort.",
+    "descricaoLonga": "Fica na Calle Chicago, Playa Bavaro, direto na areia. Cozinha descrita pelo proprio restaurante como mistura caribenha, americana e europeia com ingredientes locais; na pratica e peixe grelhado, lagosta, paella e coquetel. Estrutura aberta com gazebos, musica ao vivo e DJ em algumas noites, e e uma das casas mais usadas para casamento na regiao - o que significa que em dia de evento parte do espaco pode estar fechada. O site oficial diz 'Open Daily 7:00 AM - Midnight'; o OpenTable lista a operacao dividida em cafe 7h-11h, almoco 11h-17h e jantar 17h-23h, com faixa de conta de US$31 a US$50 por pessoa. Um guia brasileiro estima US$45-70 por pessoa. Nenhum preco sai do proprio restaurante, entao trate a faixa como ordem de grandeza. Reserva pelo telefone 809-551-1451 ou pelo OpenTable. Quando ir: fim de tarde, pelo por do sol - de dia bate sol forte. Armadilha: e caro para o padrao local e lotado de turista; se voce quer comida dominicana de verdade, nao e aqui.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 31,
+      "max": 70,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa combinando OpenTable (US$31-50) e um guia de viagem brasileiro (US$45-70). O site oficial NAO publica precos. Lembre que a conta leva 10% de propina legal por cima. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {
+      "site": "https://www.jellyfishrestaurant.com/",
+      "telefone": "+1 809-551-1451",
+      "instagram": "@jellyfishpuntacana"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-puj-la-casita-de-yeya",
+    "fontes": [
+      {
+        "url": "https://lacasitadeyeya.com.do/"
+      },
+      {
+        "url": "https://lacasitadeyeya.com.do/menu/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+El+Cortecito&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Casita de Yeya",
+    "cidadeId": "punta-cana",
+    "categoria": "restaurante",
+    "tags": [
+      "dominicano",
+      "criollo",
+      "mofongo",
+      "fora-do-resort",
+      "preco-local",
+      "local"
+    ],
+    "coords": {
+      "lat": 18.6681834,
+      "lng": -68.3985297
+    },
+    "descricaoCurta": "Casa de comida dominicana caseira com tres unidades na regiao (Village, Downtown e Los Corales) e preco em peso.",
+    "descricaoLonga": "Este e o item 'comida local fora de resort' da lista. Cozinha caribenha e latina caseira: mofongo com longaniza, pescado a la campesina, sancocho, mariscos. O cardapio do site esta em pesos dominicanos, com pratos especiais de RD$825 a RD$1.975 - ou seja, algo como US$14 a US$33 ao cambio aproximado, bem abaixo dos restaurantes de turista da praia, e com comida que dominicano come. Tem tres unidades: Punta Cana Village, Downtown Punta Cana e Los Corales. Contato por WhatsApp +1 (849) 584-5645; Instagram @lacasitadeyeya. Quando ir: almoco, que e quando a cozinha criolla trabalha melhor; a conta leva 10% de propina legal por cima. O que NAO confirmei: horario de funcionamento (o site nao publica), endereco exato de cada uma das tres unidades, se aceita cartao, e se ha fila.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 825,
+      "max": 1975,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa dos pratos 'especiais' listados no site oficial do restaurante, em pesos dominicanos. Pratos comuns do cardapio do dia devem custar menos que o piso dessa faixa, mas o site nao detalha. | tipo: por-prato"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://lacasitadeyeya.com.do/",
+      "whatsapp": "+1 849-584-5645",
+      "instagram": "@lacasitadeyeya"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-coco-bongo-punta-cana",
+    "fontes": [
+      {
+        "url": "https://www.civitatis.com/en/punta-cana/coco-bongo-punta-cana-nightclub-party"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Imagine+Punta+Cana&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Coco Bongo Punta Cana",
+    "cidadeId": "punta-cana",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "show",
+      "open-bar",
+      "turistico",
+      "downtown"
+    ],
+    "coords": {
+      "lat": 18.6362655,
+      "lng": -68.4054702
+    },
+    "descricaoCurta": "Casa de show e balada com numeros acrobaticos e covers, o programa noturno mais vendido de Punta Cana.",
+    "descricaoLonga": "Fica no Downtown Punta Cana (Carretera Barcelo-Veron, esquina com El Boulevard). O formato e sempre o mesmo: show de duas a tres horas com covers, acrobacia aerea e trechos de filme, intercalado com pista; open bar nacional incluido no ingresso basico, premium nos niveis acima. Categorias vendidas: Regular, Premium, Gold Member e Front Row. PRECO: nao consegui pagina oficial da casa (os dominios que testei nao respondem ou dao 404), entao tudo que tenho vem de revenda: a Civitatis vende a partir de R$483,54 por pessoa com transfer incluido, cerca de US$90; OTAs listam Gold Member na casa dos US$170-375 e Front Row US$250-260. A variacao entre vendedores e enorme para o mesmo produto - isso e o principal alerta aqui. Horario citado pelas revendas: 20h as 2h de domingo a quinta e ate 3h sexta e sabado, com open bar das 20h a 1h. Idade minima 18 anos. Quando ir: meio de semana, menos fila. Armadilhas: comprar no lobby do resort sem comparar; o 'skip the line' as vezes nao pula fila nenhuma; e beber open bar nacional com estomago vazio num lugar onde o taxi de volta custa US$20-30.",
+    "duracao": {
+      "min": 240,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 90,
+      "max": 375,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "FONTE UNICA ABERTA: Civitatis, que mostrou R$483,54 (cerca de US$90) na categoria de entrada com transfer. O teto de US$375 (Gold Member) veio de listagens de OTA citadas em busca e NAO foi aberto por mim - trate o teto como indicativo. Nao existe preco oficial aqui porque nao achei site da casa no ar. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-puj-imagine-punta-cana-balada-dentro-de-caverna",
+    "fontes": [
+      {
+        "url": "https://www.imaginepuntacana.com/"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Imagine+Punta+Cana&format=json&limit=3&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Imagine Punta Cana (balada dentro de caverna)",
+    "cidadeId": "punta-cana",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "caverna",
+      "open-bar",
+      "balada",
+      "madrugada"
+    ],
+    "coords": {
+      "lat": 18.6362655,
+      "lng": -68.4054702
+    },
+    "descricaoCurta": "Unica balada do pais dentro de uma caverna natural, com salas tematicas e open bar.",
+    "descricaoLonga": "Caverna natural transformada em clube, com ambientes separados: Main Cave (bachata, merengue, reggaeton, hip hop), Electro Cave e Chill Out Cave. Segundo o site oficial funciona das 22h as 3h, com transporte de hotel organizado em tres zonas de Punta Cana e entrada so para maiores de 18 anos. Tres categorias: Open Bar (bebidas da casa), Open Bar Premium (bebidas internacionais premium e areas exclusivas) e mesa VIP com garrafa. PRECO: o site oficial NAO publica valores nas paginas que abri. Fontes de terceiros citam open bar de US$50 (quinta e domingo) a US$60 (sexta e sabado), e tambem US$55 com premium por mais US$15 - sao numeros proximos mas de fonte nao oficial. Contato oficial: telefone e WhatsApp +1 (829) 838-5353, e-mail reservas@partyatthecave.com, Instagram @imaginecave. Como chegar: taxi tabelado do aeroporto ate a 'Disco Imagine' e US$25 pela tabela oficial, o que da ideia da zona (Veron). Quando ir: sexta e sabado concentram o publico; o site fala em operacao 'every Saturday'. Armadilha: comprar pacote de semana inteira de transporte que voce nao vai usar.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 300
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 50,
+      "max": 75,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "NAO e preco oficial - o site da casa nao publica valores. Faixa reunida de fontes terceiras: US$50 quinta/domingo e US$60 sexta/sabado para open bar nacional; outra fonte cita US$55 open bar internacional e +US$15 para premium. Confirme no WhatsApp +1 829-838-5353 antes de ir. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "site": "https://www.imaginepuntacana.com/",
+      "telefone": "+1 829-838-5353",
+      "whatsapp": "+1 829-838-5353",
+      "instagram": "@imaginecave"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-puj-isla-saona-dia-inteiro-saindo-de-punta-cana-cana-tou",
+    "fontes": [
+      {
+        "url": "https://cana.tours/es/tours/tour-isla-saona"
+      },
+      {
+        "url": "https://cana.tours/es/tours"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Isla Saona - dia inteiro saindo de Punta Cana (Cana Tours)",
+    "cidadeId": "punta-cana",
+    "categoria": "passeio",
+    "tags": [
+      "ilha",
+      "lancha",
+      "piscina-natural",
+      "estrela-do-mar",
+      "dia-inteiro",
+      "parque-nacional"
+    ],
+    "descricaoCurta": "O passeio classico da regiao: dia inteiro na Isla Saona, dentro do Parque Nacional Cotubanama, com buffet e bebida inclusos.",
+    "descricaoLonga": "Importante entender a geografia antes de comprar: Saona NAO sai de Punta Cana - sai de Bayahibe, a cerca de 1h30-2h de van. Por isso o passeio consome o dia inteiro. O operador Cana Tours vende o 'Saona Premium 4 Playas' por US$120 por adulto e US$70 por crianca de 3 a 11 anos, duracao de 8 horas de programacao (9 a 10 horas porta a porta saindo de Bavaro ou Cap Cana). Inclui: transfer de hotel ida e volta, lancha rapida ida e volta desde a marina de Bayahibe, buffet dominicano na vila de Mano Juan, bebidas (rum local, cerveja, agua, refrigerante), a TAXA DO PARQUE NACIONAL COTUBANAMA, guia bilingue e equipamento de snorkel. Nao inclui gorjeta nem souvenir. Horarios: recolhida no hotel 7h30, saida de lancha 9h, retorno ao hotel 17h. Outros operadores vendem o mesmo destino de US$68 a US$125 - a diferenca costuma estar em lancha vs catamara, grupo grande vs pequeno, e se a taxa do parque esta ou nao embutida. Armadilha classica: comprar o mais barato e descobrir no dia que a taxa do parque e a bebida sao a parte, e que a 'piscina natural' vira festa de catamara com 200 pessoas. Dica: pergunte sempre se a taxa do parque esta inclusa e quantas pessoas vao no barco.",
+    "duracao": {
+      "min": 480,
+      "tipica": 570,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 70,
+      "max": 120,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$120 adulto e US$70 crianca (3-11 anos) no operador Cana Tours, preco publicado no site do proprio operador. Outros operadores anunciam de US$68 a US$125, mas essas faixas vieram de resultado de busca em OTA e nao de paginas que abri. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {
+      "site": "https://cana.tours/es/tours/tour-isla-saona",
+      "whatsapp": "+1 849-377-5889"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "do-puj-buggy-4x4-cenote-em-macao-cana-tours",
+    "fontes": [
+      {
+        "url": "https://cana.tours/es/tours/aventura-en-buggy"
+      },
+      {
+        "url": "https://cana.tours/es/tours"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Playa+Macao+Dominican+Republic&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Buggy 4x4 + cenote em Macao (Cana Tours)",
+    "cidadeId": "punta-cana",
+    "categoria": "passeio",
+    "tags": [
+      "buggy",
+      "atv",
+      "cenote",
+      "macao",
+      "aventura",
+      "meio-periodo",
+      "playa-macao"
+    ],
+    "coords": {
+      "lat": 18.774248,
+      "lng": -68.5377438
+    },
+    "descricaoCurta": "Meio periodo de buggy pela roca ate Macao, com banho em cenote e parada em vila dominicana.",
+    "descricaoLonga": "O passeio mais vendido depois de Saona. Preco do operador Cana Tours: US$55 por adulto em buggy compartilhado, US$109 por adulto em buggy individual, US$30 por crianca como passageira. Duracao total de 4 horas incluindo transfer. Inclui transfer de hotel, briefing de seguranca, direcao do buggy por trilhas privadas, degustacao de cafe, chocolate, chas de ervas e mamajuana, banho no Cenote Cueva Chiquita, visita a uma vila dominicana com lojas locais e agua. Saidas em tres horarios: manha (recolhida 7h30-8h30, inicio 9h), meio-dia (10h30-11h30) e tarde (13h30-14h30). Restricoes: idade minima 8 anos para ir no buggy, 18 anos para dirigir, nao exige experiencia, contraindicado para gravidas e para quem tem limitacao de mobilidade. Leve sapato fechado, protetor solar FPS 50+, roupa seca para depois, calca comprida recomendada e celular em saco estanque. Realidade: voce vai ficar coberto de lama vermelha - e parte da coisa. Armadilha: nao compre com vendedor de praia; se der problema nao ha reembolso nem remarcacao.",
+    "duracao": {
+      "min": 240,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 30,
+      "max": 109,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$55 adulto em buggy compartilhado, US$109 adulto em buggy individual, US$30 crianca passageira. Precos publicados no site do operador Cana Tours. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "site": "https://cana.tours/es/tours/aventura-en-buggy",
+      "whatsapp": "+1 849-377-5889"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "do-puj-marinarium-cruzeiro-de-snorkel-com-tubaroes-lixa-e-a",
+    "fontes": [
+      {
+        "url": "https://marinariumparks.com/pages/marinarium-snorkeling-cruise"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Marinarium%2C+Cabeza+de+Toro&format=json&limit=2&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Marinarium - cruzeiro de snorkel com tubaroes-lixa e arraias",
+    "cidadeId": "punta-cana",
+    "categoria": "passeio",
+    "tags": [
+      "snorkel",
+      "catamara",
+      "tubarao-lixa",
+      "arraia",
+      "piscina-natural",
+      "meio-periodo"
+    ],
+    "coords": {
+      "lat": 18.6480269,
+      "lng": -68.3578239
+    },
+    "descricaoCurta": "Catamara com fundo de vidro saindo de Cabeza de Toro, snorkel em recife e em um parque marinho cercado com tubaroes-lixa e arraias.",
+    "descricaoLonga": "Operacao propria, com preco publicado no site oficial: US$115 por adulto (12 anos ou mais) com imposto incluido, US$57,50 por crianca de 2 a 12 anos, gratis para menores de 2 anos. Duracao de 3h30, em duas saidas diarias: 9h as 12h30 e 13h30 as 17h. Inclui snorkel com tubaroes-lixa e arraias num parque marinho de 40.000 m2, navegacao de catamara com fundo de vidro ao longo da reserva de Cabeza de Toro, open bar e petiscos, parada na piscina natural com bar flutuante e transporte com ar-condicionado desde os resorts. A recolhida cobre os resorts de Punta Cana, Bayahibe e La Romana, com taxa extra para alguns pontos. Leve toalha, protetor solar biodegradavel (obrigatorio em area de recife) e dinheiro para gorjeta. Telefone +1 809 468 3183. Quando ir: saida da manha, mar mais calmo. Armadilhas: e um parque marinho cercado, nao vida selvagem livre - se voce espera mergulho de natureza intocada, vai se decepcionar; e o open bar comeca cedo demais para quem vai entrar na agua.",
+    "duracao": {
+      "min": 210,
+      "tipica": 210,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 57.5,
+      "max": 115,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$115 adulto (12+) e US$57,50 crianca (2-12), ambos com imposto incluido segundo o site oficial do Marinarium; menores de 2 anos gratis. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "site": "https://marinariumparks.com/pages/marinarium-snorkeling-cruise",
+      "telefone": "+1 809-468-3183"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "do-puj-palma-real-shopping-village",
+    "fontes": [
+      {
+        "url": "https://visitantes.do/palma-real-shopping-village/"
+      },
+      {
+        "url": "https://sanjuanpuntacana.com/"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf"
+      },
+      {
+        "url": "https://www.puntacanatravelblog.com/general-information-faq/scams-in-punta-cana/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Palma Real Shopping Village",
+    "cidadeId": "punta-cana",
+    "categoria": "compras",
+    "tags": [
+      "shopping",
+      "compras",
+      "cinema",
+      "cambio",
+      "shuttle-gratuito",
+      "bavaro"
+    ],
+    "descricaoCurta": "O shopping principal de Bavaro, com shuttle gratuito dos hoteis, cinema, bancos e casa de cambio.",
+    "descricaoLonga": "Av. Alemania 57, Bavaro. Aberto todos os dias das 10h as 22h (restaurantes costumam ficar depois). Telefone 809 552 8725, e-mail info@palmarealsv.com. Tem marcas internacionais, joalherias, gift shops, restaurantes, cinema, bancos, caixas eletronicos e agencia de cambio - essa ultima e o motivo pratico mais forte para ir, porque a taxa de cambio aqui tende a ser bem melhor que no aeroporto, onde uma fonte relata perda de cerca de 20% do valor. Oferece transporte gratuito para clientes dos hoteis, com partidas a cada duas horas segundo guias de turismo. Taxi tabelado do aeroporto PUJ ate 'Plaza Palma Real' e US$30 pela tabela oficial. Alternativa mais popular e mais barata: o San Juan Shopping Center (Cruce Coco Loco, Av. Barcelo Km 9, telefone +1 809 466-6000, WhatsApp +1 829 521-7873, info@sanjuansc.com), que e mais voltado ao publico local - mas o site deles nao publica horario de funcionamento. Armadilha: preco de shopping turistico nao e preco local; para charuto, rum e mercado, o centro de Higuey e os supermercados (Jumbo, Sirena) saem muito mais em conta. O que NAO confirmei: horario e pontos exatos do shuttle gratuito, e lista atual de lojas.",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 300
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809-552-8725"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-puj-taxi-tabelado-guagua-e-uber-em-punta-cana-como-voce",
+    "fontes": [
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/en/airport-services"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/en/services/transportations"
+      },
+      {
+        "url": "https://puntacanatravelblog.com/general-information-faq/public-transport-in-punta-cana"
+      },
+      {
+        "url": "https://www.airporttransferportal.com/es/airport-guides/puj"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Taxi tabelado, guagua e Uber em Punta Cana (como voce vai se mover)",
+    "cidadeId": "punta-cana",
+    "categoria": "experiencia",
+    "tags": [
+      "transporte",
+      "taxi",
+      "tarifa-fixa",
+      "guagua",
+      "uber",
+      "aeroporto-puj",
+      "critico"
+    ],
+    "descricaoCurta": "Taxi aqui e tabelado em dolar, por veiculo, e caro - e essa conta muda todo o seu roteiro.",
+    "descricaoLonga": "Este e o item que mais afeta o orcamento de quem nao fica preso no resort. A Asociacion de Taxistas Turistico de Veron Bavaro (RNC 430-09743-8) publica duas tabelas oficiais, hospedadas em PDF pelo proprio Aeropuerto Internacional de Punta Cana, e os precos sao por VEICULO de 1 a 4 pessoas, em dolar, nao negociaveis; passageiro extra custa US$20 cada.\n\nDO AEROPORTO PUJ (so ida): Hotel Sheraton US$10; Club Med / Los Corales P.C / Westin P.C / Marina P.C e Hospiten Bavaro US$20; Cruce de Veron e Pueblo Bavaro US$25; Playa San Juan / Cocoloco / Disco Imagine / AC by Marriott US$25; Cap Cana / Hyatt Ziva / Margaritaville / Secrets Cap Cana US$30; Barcelo, Melia Caribe, Paradisus Palma Real, Plaza Palma Real, Lopesan Costa, Cruce de Friusa, Be Live, Catalonia, Radisson Blu, Dreams Flora US$30; Playa Bavaro / Cortecito Inn / Capitan Cook, Impressive, Vista Sol, Dreams Royal Beach, Whala Bavaro, Bavaro Princess, Paradisus Punta Cana, Caribe Deluxe Princess, Occidental Grand, Grand Palladium, Natura (Cayacoa) US$35; VIK, Ocean Blue, Punta Cana Princess, Occidental Caribe, Riu Republica, Royalton P.C, Memories Splash, Majestic Colonial, Riu, Gran Bahia Principe, Iberostar US$40; Hard Rock US$50; Dreams Macao US$60; Excellence / Sirenis / Jewel / Royalton Chic / Ocean El Faro / Live Aqua / Now Onyx / Breathless / Excellence El Carmen / Dreams Onyx / Nickelodeon / Secrets Tides US$70; Sivory e Zoetry US$80.\n\nLONGA DISTANCIA (ida / ida e volta): La Otra Banda 60/80; Higuey 70/90; Lagunas de Nisibon 75/120; Bayahibe 100/130; El Seibo 120/150; Casa de Campo-La Romana 120/150; Hato Mayor 130/160; Sabana de la Mar 150/180; San Pedro de Macoris 150/200; Miches 160/200; Juan Dolio 160/200; Boca Chica / Aeropuerto Las Americas 175/200; Santo Domingo 200/260; Samana 350/450; Puerto Plata 375/475; Las Terrenas 400/500.\n\nGUAGUA (transporte publico real): vans de sindicato, param em qualquer ponto da via se voce acenar, rodam aproximadamente das 5h-6h as 20h-22h, a maioria das linhas a cada 30 minutos. Tarifas de 2025 segundo o Punta Cana Travel Blog: trechos internos de Bavaro cerca de 75 DOP; Bavaro (Friusa, Los Corales, El Cortecito) ate Veron cerca de 85 DOP; Higuey-Bavaro 185 DOP, expresso 200 DOP. Nao ha linha regular servindo o terminal do aeroporto.\n\nUBER: existe em parte da area e e MUITO mais barato (uma fonte cita cerca de US$6 por UberX pegando fora do resort contra US$20+ de taxi), mas nao cobre Uvero Alto, Miches e geralmente nem Macao, e motoristas costumam nao entrar no lobby dos resorts - voce caminha ate a rua.\n\nO que NAO confirmei: a tabela de taxi vigente de 2025 (o link rotulado 2025 no site do aeroporto da 404; o que consegui ler e 'taxis-rate-2024.pdf' e 'taxis-rate-lomg-distance-2024.pdf'), e a tarifa de guagua direta do aeroporto, onde as fontes divergem entre 40, 75, 100 e 150 DOP.",
+    "duracao": {
+      "min": 15,
+      "tipica": 40,
+      "max": 90
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 10,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa da tabela oficial da Asociacion de Taxistas Turistico de Veron Bavaro publicada pelo aeroporto PUJ (arquivo 'taxis-rate-2024.pdf'). Passageiro acima de 4: +US$20 cada. Longa distancia vai de US$60 (La Otra Banda) a US$500 (fronteira com o Haiti) em tabela separada. Guagua, em DOP: cerca de 75-200 DOP por trecho (dado de 2025, fonte unica). | tipo: por-veiculo-ate-4-pessoas (taxi aeroporto PUJ, so ida)"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-puj-aluguel-de-carro-em-punta-cana",
+    "fontes": [
+      {
+        "url": "https://www.queverenpuntacana.com/2026/08/11/alquiler-de-coche-en-punta-cana-guia-esencial/"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/en/services/transportations"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aluguel de carro em Punta Cana",
+    "cidadeId": "punta-cana",
+    "categoria": "aluguel-veiculo",
+    "tags": [
+      "carro",
+      "aluguel",
+      "autopista-del-coral",
+      "caucao",
+      "seguro",
+      "liberdade"
+    ],
+    "descricaoCurta": "Faz sentido se o seu roteiro inclui Macao, Montana Redonda e Higuey; nao faz se voce vai ficar no resort.",
+    "descricaoLonga": "Faixas de diaria segundo um guia local: economico (Hyundai i10, Kia Picanto) US$25-35/dia (1.400-2.000 DOP); compacto/sedan (Hyundai Accent, Kia Rio) US$35-50/dia; SUV (Toyota Rush, Hyundai Creta) US$55-80/dia; 4x4 de luxo (Jeep Wrangler) US$90-150/dia. Seguro: na Republica Dominicana o seguro e OBRIGATORIO e o basico (SLP) geralmente NAO vem no preco anunciado; a cobertura ampla (CDW) sai por mais US$15-25 por dia. Caucao bloqueada no cartao de credito fisico: entre US$500 e US$2.000. Idade minima entre 21 e 25 anos conforme a locadora, com taxa de US$10-15 por dia para motorista com menos de 25. Combustivel: gasolina regular por volta de 220-240 DOP o galao, politica full-to-full. Estradas: a Autopista del Coral liga Bavaro ao aeroporto e a Santo Domingo em menos de uma hora e esta em bom estado; o problema sao motociclistas (passolas) em todo canto e pouca sinalizacao fora das rodovias. Locadoras no aeroporto PUJ com telefone publicado pelo proprio aeroporto: Ameri Rent (Terminal A) 809-959-0707; Avis/Budget/Payless (B) 809-959-0534; Europcar (A) 809-959-0177; FOX (B) 809-959-0188; Hertz/Dollar/Thrifty (A e B) 809-959-0100; National (B) 809-959-0200; Enterprise (A) 809-959-0300; Alamo (B) 809-959-0400; Nelly (A) 809-959-0500; Sixt (B) 809-959-0600. Conta pratica: um carro economico com CDW sai a uns US$45-60/dia. Um taxi ida e volta Bavaro-Miches custa US$200 pela tabela; Bavaro-Higuey US$90. Dois passeios por conta propria ja pagam dois dias de carro. Se voce vai so a praia do hotel, nao alugue.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 25,
+      "max": 150,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Diaria do VEICULO, sem o CDW (mais US$15-25/dia) e sem a taxa de motorista jovem (mais US$10-15/dia). Faixa de FONTE UNICA: guia local queverenpuntacana.com. Nao abri tarifario de nenhuma locadora, entao nao e preco verificado. | tipo: por-dia-por-veiculo"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7
+    },
+    "contato": {
+      "site": "https://www.puntacanainternationalairport.com/en/services/transportations"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-puj-como-o-modelo-tudo-incluido-de-punta-cana-define-tod",
+    "fontes": [
+      {
+        "url": "https://www.tourismanalytics.com/puntacana-statistics.html"
+      },
+      {
+        "url": "https://zolfm.com/noticia/luis-alvarez-renta-vamos-a-tener-que-vigilar-la-estrategia-de-precios-del-turismo-para-2026"
+      },
+      {
+        "url": "https://revistamercado.do/turismo/maximo-historico-turistas-gastan-us-172-49-al-dia-en-rd/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Como o modelo tudo-incluído de Punta Cana define todo o seu orçamento",
+    "cidadeId": "punta-cana",
+    "categoria": "experiencia",
+    "tags": [
+      "tudo-incluido",
+      "orcamento",
+      "resort",
+      "aviso",
+      "planejamento"
+    ],
+    "descricaoCurta": "Em Punta Cana a diária do resort já cobre comida e bebida, então cada refeição fora e cada passeio é custo extra — e isso muda a lógica do roteiro inteiro.",
+    "descricaoLonga": "Punta Cana/Bávaro é o polo mais concentrado de resort tudo-incluído do Caribe: a Tourism Analytics, citando a Asonahores (associação de hotéis dominicana), registra cerca de 50.046 quartos de hotel só em Punta Cana, e a Asonahores aponta que a Hyatt Inclusive Collection sozinha opera algo em torno de 27% da oferta hoteleira do país. Consequência prática para o roteiro: (1) a diária já inclui café, almoço, jantar, bebidas alcoólicas e normalmente as atividades da praia do hotel, então comer num restaurante de rua é SEMPRE custo adicional em cima de uma comida que você já pagou; (2) praticamente todo passeio é vendido em formato 'pickup no lobby, devolução no lobby', com 40 a 90 minutos de ônibus recolhendo gente em outros hotéis antes de começar — a duração real do dia é sempre maior que a anunciada; (3) o balcão de tours DENTRO do resort costuma ser o canal mais caro, porque paga comissão ao hotel. FAIXA DE DIÁRIA: a única referência com fonte que consegui foi uma declaração do economista Luis Álvarez Renta publicada em mídia dominicana (ZOL FM), falando de quartos a 'entre 250 e 300 dólares por noite' e de novos projetos tudo-incluído em 'rangos de 300, 400 y hasta 500 dólares por noche'. NÃO é tarifário oficial, é fala de um analista — trate como ordem de grandeza, não como preço. Como contraponto oficial e verificável, o Banco Central dominicano (via Ministerio de Turismo, reportado pela Revista Mercado) mede o GASTO MÉDIO DIÁRIO POR TURISTA no país em US$ 172,49 (jan-jun/2025), com estadia média de cerca de 8 noites — isso é gasto total por pessoa por dia, não tarifa de hotel, mas serve de piso realista de orçamento. O QUE SE PERDE FICANDO SÓ NO RESORT, honestamente: você não come comida dominicana de verdade (mangú, sancocho, la bandera, pescado frito de barraca de praia), não vê nenhuma cidade dominicana (Higüey, La Romana, Santo Domingo), paga bebida industrializada em vez do rum local bom, e sai do país tendo visto só uma faixa de areia privatizada — Punta Cana é, por desenho, a parte menos dominicana da República Dominicana. NÃO CONFIRMEI: nenhuma tarifa média oficial de hotel (ADR) da Asonahores ou do Ministerio de Turismo; a página da Tourism Analytics declara explicitamente que não publica ADR, e a Caribbean Journal bloqueou o acesso (403).",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 250,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "FONTE ÚNICA e indireta: declaração do economista Luis Álvarez Renta em mídia dominicana (ZOL FM), falando de 250-300 USD/noite em hotéis estabelecidos e 300-500 USD/noite em novos projetos tudo-incluído. NÃO é tarifário oficial e não distingue temporada, categoria nem ocupação. Não encontrei ADR oficial da Asonahores nem do Ministerio de Turismo. Referência oficial separada e confirmada: gasto médio diário POR TURISTA de US$ 172,49 (Banco Central/Min. Turismo, jan-jun 2025). | tipo: por-quarto-por-noite"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-puj-entrada-na-republica-dominicana-para-brasileiro-e-ti",
+    "fontes": [
+      {
+        "url": "https://www.godominicanrepublic.com/travel/entry-requirements/"
+      },
+      {
+        "url": "https://dgii.gov.do/sobreTarjetaTurista/Paginas/reembolsos.aspx"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/dominican-republic"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Entrada na República Dominicana para brasileiro: E-Ticket obrigatório, passaporte e taxas já embutidas na passagem",
+    "cidadeId": "punta-cana",
+    "categoria": "experiencia",
+    "tags": [
+      "documentacao",
+      "e-ticket",
+      "visto",
+      "taxas",
+      "aviso",
+      "burocracia"
+    ],
+    "descricaoCurta": "Brasileiro não precisa de visto de turismo, mas o formulário eletrônico E-Ticket de entrada E de saída é obrigatório e gratuito — e as taxas de turismo já vêm dentro do preço da passagem.",
+    "descricaoLonga": "VISTO: o site oficial do Ministerio de Turismo dominicano (godominicanrepublic.com, a marca oficial 'Go Dominican Republic') diz que visitantes dos EUA, Canadá, Reino Unido, UE, México e América Central e do Sul NÃO precisam de visto. Brasil está nominalmente citado na mesma página num outro ponto: a página informa que cidadãos de UE, Reino Unido, Canadá, EUA, BRASIL, Chile, Argentina, Colômbia e Equador podem entrar com passaporte válido até 31 de dezembro de 2026 mesmo que a validade expire durante a estadia — ou seja, para brasileiro a regra normal de 6 meses de validade de passaporte está dispensada até 31/12/2026. CONFIRA ISSO perto da viagem, porque é uma medida com data de validade. E-TICKET: a mesma página oficial afirma, com estas palavras, que 'All foreign and Dominican passengers entering or departing the Dominican Republic on commercial flights must complete the free electronic entry and exit form' — ou seja, obrigatório tanto na ENTRADA quanto na SAÍDA, gratuito, e precisa estar preenchido ANTES de chegar ao balcão da companhia aérea. O portal é eticket.migracion.gob.do; preencha pelo site oficial e não por intermediário que cobra. ATENÇÃO: tentei abrir eticket.migracion.gob.do e migracion.gob.do/en/e-ticket nesta pesquisa e os DOIS devolveram HTTP 403 (bloqueio ao acesso automatizado) — então confirmei o conteúdo do E-Ticket pelo site oficial de turismo e pela página oficial do governo do Canadá (travel.gc.ca), que diz 'complete before boarding your flight; present digital or printed copy at customs'. Existem muitos sites que imitam o portal e cobram pelo preenchimento: o oficial é gratuito. TAXAS: duas taxas que você JÁ PAGOU sem saber. (1) Tarjeta de Turista: a DGII (Receita dominicana) confirma em sua página oficial que custa US$ 10,00 e está incluída nos bilhetes aéreos emitidos no exterior, com base no Decreto 430-17 — você não paga nada na chegada, e justamente por isso recuse qualquer 'taxa de cartão de turismo' cobrada em espécie no aeroporto. (2) Taxa de embarque/saída: a página oficial de turismo diz, textualmente, 'The departure tax is US$20. It is already included in your airline ticket fare.' VACINA: NÃO confirmei exigência de febre amarela por fonte oficial dominicana nem brasileira — fontes secundárias de agências de visto falam em certificado internacional de febre amarela, o que não consegui verificar em nenhum documento oficial, então NÃO trate isso como confirmado; consulte a Anvisa e a companhia aérea. PRAZO DE PERMANÊNCIA: também NÃO confirmei. Fontes secundárias divergem entre 30 dias e 60 dias (prorrogáveis) para brasileiro, e a página oficial de turismo não dá o número de dias padrão — diz apenas que extensões além de 30 dias geram taxas adicionais. Trate 30 dias como o número conservador e confirme com o consulado.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://eticket.migracion.gob.do/"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

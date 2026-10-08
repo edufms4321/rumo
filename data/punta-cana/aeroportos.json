@@ -1,0 +1,204 @@
+[
+  {
+    "id": "puj",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://puntacanainternationalairport.com/en/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "PUJ",
+    "nome": "Aeropuerto Internacional de Punta Cana",
+    "cidadeNome": "Punta Cana",
+    "coords": {
+      "lat": 18.567093,
+      "lng": -68.364558
+    },
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. O proprio aeroporto recomenda chegar com NO MINIMO 3 HORAS (180 min) para voo internacional com destino aos Estados Unidos, por causa da triagem extra de seguranca (CESAC/DHS). Essa e a unica antecedencia publicada na pagina; ela NAO e necessariamente a mesma para voo ao Brasil, mas usei como referencia internacional por ser o unico numero com fonte. Antecedencia domestica, tempo ao centro e tempo de desembarque nao foram publicados - ficam 0. Contexto: PUJ e privado (Grupo Puntacana), nao pertence a Aerodom, e e a principal porta de entrada do turismo do pais. Nao tem 'centro' classico: os resorts de Bavaro/Punta Cana ficam espalhados num raio curto e o transfer do resort e o padrao."
+  },
+  {
+    "id": "sdq",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://aerodom.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SDQ",
+    "nome": "Aeropuerto Internacional Las Americas - Jose Francisco Pena Gomez",
+    "cidadeNome": "Santo Domingo",
+    "coords": {
+      "lat": 18.42970085144,
+      "lng": -69.668899536133
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Principal aeroporto internacional da capital, operado pela Aerodom. Fica a leste da cidade, na rodovia Las Americas, e NAO na cidade - o deslocamento ate a Zona Colonial e longo, mas o tempo exato nao foi publicado em fonte que eu tenha aberto, entao fica 0. A pagina da Aerodom nao publica antecedencia recomendada de check-in."
+  },
+  {
+    "id": "jbq",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://aerodom.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "JBQ",
+    "nome": "Aeropuerto Internacional La Isabela - Dr. Joaquin Balaguer (El Higuero)",
+    "cidadeNome": "Santo Domingo",
+    "coords": {
+      "lat": 18.5725002289,
+      "lng": -69.9856033325
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Segundo aeroporto de Santo Domingo, tambem Aerodom, conhecido como El Higuero. Fica ao NORTE da cidade, bem mais perto do centro que o SDQ. E o aeroporto da aviacao regional, executiva e de voos domesticos/charter - NAO e porta de entrada de voo do Brasil. Se houver trecho interno por aviao, pode sair daqui e nao do SDQ: confira o aeroporto no bilhete, porque confundir JBQ com SDQ custa horas."
+  },
+  {
+    "id": "lrm",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/La_Romana_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "LRM",
+    "nome": "Aeropuerto Internacional La Romana - Casa de Campo",
+    "cidadeNome": "La Romana",
+    "coords": {
+      "lat": 18.452222,
+      "lng": -68.911111
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Aeroporto do resort Casa de Campo, serve La Romana e e a opcao mais proxima de BAYAHIBE e do embarque para a Isla Saona. Movimento baixo, muito charter e voo sazonal. Util como alternativa a PUJ para quem vai ficar em Bayahibe, mas com poucas ligacoes - nao conte com ele vindo do Brasil."
+  },
+  {
+    "id": "pop",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://aerodom.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "POP",
+    "nome": "Aeropuerto Internacional Gregorio Luperon",
+    "cidadeNome": "Puerto Plata",
+    "coords": {
+      "lat": 19.7579,
+      "lng": -70.57
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Porta de entrada da COSTA NORTE: Puerto Plata, Sosua, Cabarete e, por estrada, Cabrera. Operado pela Aerodom. E o aeroporto certo para quem vai fazer kitesurf em Cabarete - entrar por PUJ e atravessar o pais de carro e um erro de roteiro que custa um dia inteiro em cada ponta."
+  },
+  {
+    "id": "azs",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://aerodom.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "AZS",
+    "nome": "Aeropuerto Internacional Samana El Catey - Presidente Juan Bosch",
+    "cidadeNome": "Samana",
+    "coords": {
+      "lat": 19.269259,
+      "lng": -69.737405
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Aeroporto da peninsula de SAMANA, operado pela Aerodom - e o acesso aereo para a TEMPORADA DE BALEIAS JUBARTE e para Las Terrenas. Atencao: El Catey fica no lado OESTE da peninsula, longe tanto de Las Terrenas quanto da cidade de Samana - ainda ha estrada depois de pousar, e o tempo exato nao foi publicado em fonte aberta, entao fica 0. A Aerodom tambem opera o pequeno Arroyo Barril, na propria peninsula."
+  },
+  {
+    "id": "sti",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cibao_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "STI",
+    "nome": "Aeropuerto Internacional del Cibao",
+    "cidadeNome": "Santiago de los Caballeros",
+    "coords": {
+      "lat": 19.40406,
+      "lng": -70.604431
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Aeroporto de Santiago, no vale do Cibao, no INTERIOR. Nao e Aerodom (tem administracao propria). E o aeroporto mais proximo da CORDILHEIRA e de JARABACOA / Constanza, e tambem uma alternativa de acesso a costa norte. Forte em voos para Estados Unidos e Porto Rico por causa da diaspora dominicana; sem ligacao direta com o Brasil."
+  },
+  {
+    "id": "gru",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "GRU",
+    "nome": "Aeroporto Internacional de Sao Paulo/Guarulhos - Governador Andre Franco Montoro",
+    "cidadeNome": "Sao Paulo",
+    "coords": {
+      "lat": -23.431274,
+      "lng": -46.469954
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. AEROPORTO DE ORIGEM. E de Guarulhos que sai praticamente todo voo internacional de Sao Paulo para o Caribe - e o unico dos tres de Sao Paulo que serve a rota. Antecedencias e tempo de deslocamento ao centro nao foram coletados em fonte nesta sessao: ficam 0."
+  },
+  {
+    "id": "vcp",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "VCP",
+    "nome": "Aeroporto Internacional de Viracopos",
+    "cidadeNome": "Campinas",
+    "coords": {
+      "lat": -23.007404,
+      "lng": -47.134502
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Fica em CAMPINAS, nao em Sao Paulo - cerca de 100 km da capital, com onibus executivo ligando os dois (tempo nao coletado em fonte, fica 0). E hub da Azul. So entra no roteiro se aparecer conexao da Azul que valha o deslocamento extra; some o tempo de ir a Campinas ao calculo porta a porta."
+  },
+  {
+    "id": "cgh",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CGH",
+    "nome": "Aeroporto de Congonhas - Deputado Freitas Nobre",
+    "cidadeNome": "Sao Paulo",
+    "coords": {
+      "lat": -23.627657,
+      "lng": -46.654601
+    },
+    "observacoes": "0 = sem fonte (convencao deste arquivo), nunca zero de verdade. Aeroporto DENTRO da cidade de Sao Paulo, o mais proximo do centro, mas e essencialmente DOMESTICO e com restricao operacional - NAO serve voo para o Caribe. Entra na lista apenas como origem teorica: na pratica, quem mora perto de Congonhas ainda precisa ir a Guarulhos para esta viagem."
+  }
+]

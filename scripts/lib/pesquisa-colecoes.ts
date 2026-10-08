@@ -366,6 +366,19 @@ export function construirCidades(
       const v = (t.valor ?? t.preco) as Json | undefined;
       const min = Number(v?.min ?? v?.valor ?? 0);
       if (!t.nome || !Number.isFinite(min) || min <= 0) continue;
+      /*
+        Percentual nao e taxa fixa.
+
+        A pesquisa de Punta Cana trouxe "propina legal de 10%" com valor
+        10, e o conversor somou DEZ PESOS por pessoa no orcamento. Nao e
+        dinheiro: e uma porcentagem da conta. O mesmo vale para cobranca
+        condicional ("passageiro extra acima de 4"), que depende de quem
+        viaja. As duas continuam no texto da base; fora do somatorio.
+      */
+      const texto = `${t.nome} ${t.quemPaga ?? ''}`;
+      if (/\d+\s*%|por\s*cento|percentual/i.test(texto)) continue;
+      if (/extra|acima de \d|adicional por|por passageiro extra/i.test(texto)) continue;
+
       const fontesDaTaxa = fontes(t.fontes ?? v?.fontes);
       // Sem fonte a taxa nao entra: o validador reprovaria, e com razao.
       if (fontesDaTaxa.length === 0) continue;

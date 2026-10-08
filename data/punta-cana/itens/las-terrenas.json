@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "do-ltr-observacao-de-baleias-jubarte-na-baia-de-samana",
+    "fontes": [
+      {
+        "url": "https://www.whalesamana.com/"
+      },
+      {
+        "url": "https://presidencia.gob.do/noticias/medio-ambiente-abre-temporada-de-avistamiento-de-ballenas-jorobadas-2026-con-acuerdo-de"
+      },
+      {
+        "url": "https://diariolibre.com/planeta/medioambiente/2026/01/16/inicia-la-temporada-de-avistamiento-de-ballenas-jorobadas-2026/3406638"
+      },
+      {
+        "url": "https://eldia.com.do/medio-ambiente-abre-temporada-2026-de-avistamiento-de-ballenas-jorobadas-en-samana/"
+      },
+      {
+        "url": "https://acento.com.do/especiales/samana-santuario-de-gigantes-la-temporada-de-ballenas-jorobadas-en-el-caribe-dominicano-9622135.html"
+      },
+      {
+        "url": "https://acento.com.do/economia/divisar-los-colosos-en-la-inmensidad-del-atlantico-las-ballenas-jorobadas-que-dinamizanla-economia-de-samana-9298125.html"
+      },
+      {
+        "url": "http://router.project-osrm.org/route/v1/driving/-69.5408,19.3219;-69.3390,19.2037?overview=false"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Santa+B%C3%A1rbara+de+Saman%C3%A1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Observação de baleias jubarte na Baía de Samaná",
+    "cidadeId": "las-terrenas",
+    "categoria": "passeio",
+    "tags": [
+      "baleias-jubarte",
+      "sazonal",
+      "barco",
+      "santa-barbara-de-samana",
+      "criterio-de-data",
+      "bate-volta"
+    ],
+    "coords": {
+      "lat": 19.2036865,
+      "lng": -69.3389611
+    },
+    "descricaoCurta": "O passeio de barco que só existe entre 15 de janeiro e 31 de março, e que define a data da sua viagem.",
+    "descricaoLonga": "ESTE É O ITEM QUE DECIDE SUA DATA. A temporada oficial de avistamento de jubartes na Baía de Samaná e no Santuario de Mamíferos Marinos Bancos de la Plata y la Navidad vai de 15 DE JANEIRO a 31 DE MARÇO. A operadora Whale Samana (ex-Victoria Marine, no mercado desde 1983) publica no próprio site 'January 15 through March 31' e divide a temporada em três blocos de horário: 15/jan a 5/fev, uma saída diária às 10:00; 6/fev a 13/mar, duas saídas, 9:00 e 13:30; 14 a 31/mar, uma saída às 10:00. Reportagens dominicanas confirmam a janela de janeiro a março com FEVEREIRO como melhor mês (Acento). O Ministerio de Medio Ambiente abriu oficialmente a temporada 2026 em 16/01/2026 e autorizou 46 permissões ambientais (43 com saída da área de Samaná e 3 saindo de Puerto Plata) — a mesma nota presta homenagem PÓSTUMA a Kim Beddall, a canadense que criou o avistamento responsável em Samaná; ou seja, ela já não guia os passeios, embora muitos anúncios ainda usem o nome dela. PREÇO: US$ 65 adulto e US$ 35 criança no site da Whale Samana, com adicional opcional de US$ 5 para parada em Cayo Levantado. Existe ainda a taxa do santuário, RD$ 250 por pessoa segundo o Acento — NÃO consegui confirmar se ela está embutida nos US$ 65. SAI DE SANTA BÁRBARA DE SAMANÁ, NÃO DE LAS TERRENAS: o embarque é no cais principal da cidade de Samaná, em frente ao escritório da operadora na Calle Mella #4. De Las Terrenas até lá são 37,9 km / cerca de 1 h de carro pela rota do OSRM — some ida e volta e o dia inteiro já está comprometido. Armadilhas: pacotes vendidos de Punta Cana ou Santo Domingo custam 2 a 6 vezes mais pela mesma baleia; e vender 'passeio de baleias' fora de 15/jan-31/mar é outra coisa. NÃO CONFIRMEI: duração exata do passeio em horas, se a taxa do santuário está inclusa, e se a operadora faz transporte desde Las Terrenas.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 65,
+      "max": 70,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "US$ 65 adulto / US$ 35 criança no site oficial da Whale Samana; +US$ 5 opcional pela parada em Cayo Levantado (daí o máximo de 70). Taxa do santuário de RD$ 250 por pessoa citada pelo Acento, com inclusão NÃO confirmada. Não inclui transporte de Las Terrenas até Samaná. RESSALVA DE MOEDA: a pagina oficial escreve apenas '$65' e '$35', sem nomear a moeda; tratei como USD porque e a praxe do turismo dominicano, mas o site NAO declara USD. A pagina tambem nao data a tabela e nao menciona a taxa do santuario, o que confirma que a inclusao dos RD$ 250 segue em aberto. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7
+    },
+    "contato": {
+      "site": "https://www.whalesamana.com/",
+      "telefone": "+1-809-538-2494"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "do-ltr-parque-nacional-los-haitises",
+    "fontes": [
+      {
+        "url": "https://www.godominicanrepublic.com/things-to-do/national-park-los-haitises"
+      },
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-parque-nacional-los-haitises"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Parque+Nacional+Los+Haitises"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Parque Nacional Los Haitises",
+    "cidadeId": "las-terrenas",
+    "categoria": "natureza",
+    "tags": [
+      "mangue",
+      "cavernas",
+      "petroglifos",
+      "barco",
+      "bate-volta",
+      "aves",
+      "los-haitises"
+    ],
+    "coords": {
+      "lat": 18.9941269,
+      "lng": -69.6036923
+    },
+    "descricaoCurta": "Mogotes de calcário, manguezais e cavernas com a maior concentração de petróglifos do país, acessíveis só de barco com guia autorizado.",
+    "descricaoLonga": "Área protegida de cerca de 1.600 km² na margem sul da Baía de Samaná, com morros de calcário saindo da água, manguezais, e cavernas descritas pelo órgão oficial de turismo dominicano (Go Dominican Republic) como as de maior número de petróglifos e pictografias do país. Fauna de destaque: gavião de La Hispaniola (Ridgway's hawk, ameaçado), pelicanos, garças. ACESSO: só por excursão de barco, e a visita é regulada — entra-se com guia autorizado. Os pontos de saída são Santa Bárbara de Samaná (travessia mais longa pela baía), Sabana de la Mar e o complexo de Caño Hondo, do lado sul. Pacotes vendidos em OTAs saindo do porto de Samaná apareceram, nas buscas, entre US$ 70 e US$ 135 por pessoa, muitos combinando Los Haitises com almoço e piscinas naturais em Caño Hondo, em roteiros de 5h30 a 8h. ENTRADA DO PARQUE: existe e é separada do passeio. O blog da Felices Vacaciones indica ~US$ 10 por estrangeiro e ~US$ 5 por dominicano/residente; outra passagem da mesma fonte fala em RD$ 200 adulto e RD$ 100 criança. As duas versões não fecham entre si. Armadilhas: pacote que não diz se a entrada está incluída; e saída de Samaná com mar agitado (a travessia da baía é longa). NÃO CONFIRMEI nenhum preço de operadora em site oficial — a página da Expedia que eu tentei abrir devolveu HTTP 429, então os valores de US$ 70-135 vêm apenas de resumos de busca e NÃO entram como preço verificado.",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 5,
+      "max": 10,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Este valor é SOMENTE a entrada do parque (~US$ 5 residente / ~US$ 10 estrangeiro, blog Felices Vacaciones, que em outro trecho cita RD$ 200 / RD$ 100 — contradição não resolvida). O passeio de barco é cobrado à parte e eu NÃO consegui confirmar nenhum valor em fonte aberta; trate US$ 70-135 por pessoa como ordem de grandeza não verificada. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {
+      "site": "https://www.godominicanrepublic.com/things-to-do/national-park-los-haitises"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-cascada-el-limon-salto-el-limon",
+    "fontes": [
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-salto-del-limon"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://www.civitatis.com/es/las-terrenas/paseo-caballo-cascada-limon/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Salto+El+Lim%C3%B3n+Samana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cascada El Limón (Salto El Limón)",
+    "cidadeId": "las-terrenas",
+    "categoria": "natureza",
+    "tags": [
+      "cachoeira",
+      "trilha",
+      "cavalo",
+      "bate-volta",
+      "mata",
+      "el-limon"
+    ],
+    "coords": {
+      "lat": 19.2703036,
+      "lng": -69.4461678
+    },
+    "descricaoCurta": "Queda d'água de mata fechada a ~20 km de Las Terrenas, alcançada por trilha curta e íngreme, a pé ou a cavalo.",
+    "descricaoLonga": "A cachoeira clássica da península, cerca de 20 km a leste de Las Terrenas segundo o Wikivoyage. Não se chega de carro: do ponto de entrada sai uma trilha de lama e pedra, com subidas e descidas. Sobre o esforço, as fontes divergem: o Wikivoyage fala em 'cerca de 30 minutos' de caminhada, o blog da Felices Vacaciones também fala em ~30-45 min por trecho (e menciona ~2.500 degraus de pedra, número que me parece exagerado e que NÃO confirmei), e outro resumo de busca falava em ~5 km ida e volta / ~2 h. Conte 1 h a 1h30 de ida e volta de caminhada, mais o tempo no poço. PREÇO DA ENTRADA: divergente. Felices Vacaciones diz RD$ 200 por pessoa, com acompanhamento de guia local JÁ INCLUÍDO; o Wikivoyage diz 'RD$ 50-100'. Leve RD$ 200 por pessoa em dinheiro e não se surpreenda com menos. GUIA: pelas fontes, vem com a entrada — não é um extra obrigatório que alguém deva lhe vender na porta; mas gorjeta é esperada (um avaliador na Civitatis relatou que os guias pedem gorjeta sem isso estar na descrição). CAVALO: existe e é pago à parte; NÃO encontrei o valor do aluguel isolado em nenhuma fonte. Alternativa fechada: excursão a cavalo saindo de Las Terrenas (Civitatis, 4 h, retirada nos hotéis às 9:00, inclui transporte, cavalo, guia em espanhol, almoço buffet, água/refrigerante/rum, cancelamento grátis até 48 h antes) — a página me mostrou o preço em REAL, R$ 236,40 por pessoa, porque a Civitatis detecta o país; não converto para dólar para não inventar número. Armadilhas: proibido levar bebida alcoólica e comida de fora; trilha escorregadia depois de chuva; fim de semana e feriado cheios.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 50,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa resultante de duas fontes que NÃO concordam: Felices Vacaciones diz RD$ 200 com guia incluído, Wikivoyage diz RD$ 50-100. Aluguel de cavalo é extra e não tem preço confirmado. A excursão organizada a cavalo saindo de Las Terrenas aparecia na Civitatis a R$ 236,40 (BRL) por pessoa em 08/10/2026, 4 h, com almoço. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-cayo-levantado-ilha-bacardi",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cayo_Levantado"
+      },
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-el-bote-para-ir-a-cayo-levantado"
+      },
+      {
+        "url": "https://www.whalesamana.com/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Cayo+Levantado"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cayo Levantado (Ilha Bacardi)",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "ilha",
+      "barco",
+      "praia-publica",
+      "resort",
+      "bate-volta",
+      "cayo-levantado"
+    ],
+    "coords": {
+      "lat": 19.1663119,
+      "lng": -69.2746621
+    },
+    "descricaoCurta": "Ilhota na Baía de Samaná com praia pública de um lado e resort cinco estrelas do outro, a 15-20 min de barco de Samaná.",
+    "descricaoLonga": "Ilha de ~0,9 km leste-oeste por 0,5 km norte-sul na Baía de Samaná (Wikipédia), apelidada de 'Ilha Bacardi' por ter aparecido em propaganda de rum. Hoje a maior parte da ilha é ocupada por um resort cinco estrelas da bandeira Bahia Principe (Wikipédia), mas existe praia de uso público. ACESSO: só de barco, do cais/porto de Santa Bárbara de Samaná. PREÇO DO BARCO: a fonte que consegui abrir (blog Felices Vacaciones) fala em '~US$ 25 por pessoa' ida e volta desde o porto de Samaná, e estima um dia completo em ~US$ 115 por pessoa quando se somam acesso às instalações do hotel (~US$ 40) e atividades aquáticas (~US$ 50) — ou seja, o caro NÃO é a travessia, é o pacote do resort. Resumos de busca que eu não consegui abrir citavam números bem diferentes (US$ 15-20 em barco compartilhado, US$ 45-60 em táxi aquático privado, RD$ 250 por pessoa, RD$ 3.000 o barco privado) — por isso a faixa que registro é larga e a confiança é parcial. É PÚBLICO? A praia é, segundo a mesma fonte, de acesso livre; as instalações do hotel são pagas. NÃO CONFIRMEI em fonte oficial do parque/porto. Armadilhas: horários de barco concentrados na manhã, com último retorno à tarde — perca o barco e você fica; na alta temporada de baleias (jan-mar) a ilha enche e os preços sobem; muitas excursões de baleias já oferecem a parada na ilha por US$ 5 adicionais (Whale Samana), que é de longe a forma mais barata de pôr o pé lá.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 15,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Travessia ida e volta. O único número de fonte que eu abri é ~US$ 25 por pessoa (Felices Vacaciones); a faixa 15-60 incorpora as variações de barco compartilhado vs. táxi aquático privado que apareceram em resumos de busca NÃO abertos. Acesso às instalações do resort e atividades aquáticas são cobrados à parte (estimados em +US$ 40 e +US$ 50). Alternativa barata: adicional de US$ 5 na excursão de baleias da Whale Samana. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-playa-las-ballenas",
+    "fontes": [
+      {
+        "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Las+Ballenas+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Las Ballenas",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "familia",
+      "mar-calmo",
+      "snorkel",
+      "por-do-sol",
+      "a-pe-do-centro"
+    ],
+    "coords": {
+      "lat": 19.3227305,
+      "lng": -69.5542881
+    },
+    "descricaoCurta": "Extensão oeste da praia urbana, com mar raso e calmo e os rochedos que parecem baleias ao largo.",
+    "descricaoLonga": "A praia mais prática de Las Terrenas: fica na continuação oeste do centro, alcançável a pé, e é descrita como de mar raso e calmo, com areia longa, boa para famílias. O nome vem de dois grandes rochedos ao largo que lembram baleias — dá para fazer snorkel em volta deles, onde há peixes e manchas de recife. O Wikivoyage reforça 'areia larga, muitos coqueiros e um clima mais residencial e tranquilo'. É um dos melhores pontos de pôr do sol da cidade. Estrutura: bares e restaurantes de pé na areia ao longo do trecho urbano. Armadilhas: na temporada de sargaço do Caribe (que costuma ir de abril a outubro, com pico entre maio e agosto) a areia pode receber alga marrom — NÃO encontrei dado de sargaço específico para Las Terrenas, só o padrão regional, então trate isso como risco, não como certeza. Não há salva-vidas confirmado.",
+    "duracao": {
+      "min": 60,
+      "tipica": 180,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-playa-bonita",
+    "fontes": [
+      {
+        "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Bonita+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Bonita",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "surfe",
+      "boutique",
+      "motoconcho",
+      "restaurantes-na-areia"
+    ],
+    "coords": {
+      "lat": 19.3147798,
+      "lng": -69.5635287
+    },
+    "descricaoCurta": "Praia larga a ~10 minutos de motoconcho do centro, com um lado calmo e outro com ondas, e hotéis pequenos de estilo boutique.",
+    "descricaoLonga": "A praia 'de postal' mais próxima do centro: o Wikivoyage a situa a 'uma longa caminhada ou 10 minutos de motoconcho' da cidade. A fonte local descreve água calma de um lado e ondas suaves do outro, com escola de surfe no local (Surf School Playa Bonita) e área de areia larga que acomoda atividades e mesas de restaurante. Na orla ficam o Mosquito Boutique Hotel e o Mosquito Beach Club, que servem tacos de peixe e drinks, e o restaurante Atlantis. Quando ocorre, a ondulação em Playa Bonita é maior do que em Las Ballenas — bom para surfe, menos bom para criança pequena. Armadilhas: você depende de motoconcho ou veículo para ir e voltar, e a volta à noite é o momento de maior risco de trânsito (ver o item de aviso sobre motoconchos); erosão de areia já foi tema recorrente na praia, o que NÃO consegui verificar com fonte nesta pesquisa.",
+    "duracao": {
+      "min": 90,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-playa-coson",
+    "fontes": [
+      {
+        "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Coson+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Cosón",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "deserta",
+      "por-do-sol",
+      "surfe",
+      "quadriciclo",
+      "clube-de-praia"
+    ],
+    "coords": {
+      "lat": 19.2940204,
+      "lng": -69.6184158
+    },
+    "descricaoCurta": "Faixa de areia dourada quilométrica a oeste de Las Terrenas, com um dos melhores pores do sol do país.",
+    "descricaoLonga": "A praia grande e vazia da base: 'longa e larga, com areia dourada macia que se estende por milhas', a oeste do povoado, no ponto onde o rio Cosón encontra o mar. Está a cerca de 5 minutos de carro do centro de Las Terrenas, e o acesso prático é de motoconcho, quadriciclo ou carro — não é caminhada. Quando o mar fica grande demais em Playa Bonita, Cosón vira a opção de surfe; também tem kitesurf, cavalgada e clubes de praia. É a melhor escolha para pôr do sol e para quem quer andar quilômetros sem encontrar ninguém. Armadilhas: não há estrutura contínua, então leve água e dinheiro; sem iluminação e com estrada secundária, voltar depois do escuro é ruim; na área há hotéis de maior padrão, o que puxa o preço dos restaurantes de praia para cima.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-playa-rincon-las-galeras",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Galeras"
+      },
+      {
+        "url": "http://router.project-osrm.org/route/v1/driving/-69.5408,19.3219;-69.3390,19.2037?overview=false"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Rincon+Samana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Rincón (Las Galeras)",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "bate-volta",
+      "barco",
+      "estrada-ruim",
+      "agua-doce",
+      "paradisiaca",
+      "las-galeras"
+    ],
+    "coords": {
+      "lat": 19.2910861,
+      "lng": -69.2517778
+    },
+    "descricaoCurta": "A praia mais celebrada da península: areia larga, coqueiral e um riacho de água doce na ponta esquerda.",
+    "descricaoLonga": "Praia grande e aberta perto de Las Galeras, com 'um poço de água doce na extremidade esquerda, de água fria e calma' segundo o Wikivoyage — detalhe que a diferencia de todas as outras. QUALIDADE: é consistentemente citada como a melhor praia da região; é larga, longa e com pouca construção. COMO CHEGAR: três caminhos, todos a partir de Las Galeras. (1) Barco: a maioria vai assim, saída típica ~9:00 e retorno ~16:00, ~20 min por trecho; resumos de busca citam a associação Asoldega com ida e volta por RD$ 2.500 o barco, ou ~RD$ 800 por pessoa com quatro ou mais pessoas. (2) Estrada: ~18,5 km de Las Galeras, 40-50 min; o Wikivoyage diz que o trecho é pavimentado mas se deteriorando, e outras fontes indicam que só os últimos ~3 km seguem sem asfalto, transitáveis por carro comum exceto após chuva forte. (3) Táxi ida e volta com espera (9:00-17:00) citado em RD$ 3.000, e motoconcho ida e volta em RD$ 1.200 — ambos de resumo de busca, NÃO de página aberta. ATENÇÃO LOGÍSTICA: de Las Terrenas, Las Galeras não é um pulo. O caminho passa por Samaná (Las Terrenas->Samaná: 37,9 km, ~1 h pelo OSRM) e de Samaná a Las Galeras o Wikivoyage estima ~1 h de guagua. Ou seja, 2 h a 2h30 por trecho — é um dia inteiro, ou uma pernoite em Las Galeras. Dinheiro: o Wikivoyage avisa que Las Galeras tem UM caixa eletrônico e muitos cartões estrangeiros não passam; leve pesos.",
+    "duracao": {
+      "min": 240,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 800,
+      "max": 3000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "A praia em si é gratuita; a faixa é só o TRANSPORTE de ida e volta desde Las Galeras, e mistura valores por pessoa (RD$ 800 em barco com 4+ pessoas) com valores por veículo/barco fechado (RD$ 2.500 barco, RD$ 3.000 táxi com espera, RD$ 1.200 motoconcho). Esses números vieram de resumos de busca, não de páginas que eu abri — trate como estimado. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-playa-fronton-las-galeras",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Galeras"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Front%C3%B3n+Samana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Playa Frontón (Las Galeras)",
+    "cidadeId": "las-terrenas",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "remota",
+      "escalada",
+      "barco",
+      "trilha",
+      "snorkel",
+      "las-galeras"
+    ],
+    "coords": {
+      "lat": 19.2971529,
+      "lng": -69.1515878
+    },
+    "descricaoCurta": "Praia isolada sob paredões de calcário a leste de Las Galeras, com mais de 13 vias de escalada.",
+    "descricaoLonga": "Uma das praias remotas de Las Galeras, encaixada sob falésias de calcário. O Wikivoyage a registra como destino de escalada em rocha, com 'mais de 13 vias'. Chega-se de barco a partir de Las Galeras ou por trilha longa — o Wikivoyage deixa claro que as praias externas 'podem ficar a uma longa caminhada da cidade'. É o oposto de Cayo Levantado: sem estrutura, sem quiosque, sem sombra garantida. Vá com água, comida, protetor e calçado fechado, e combine o horário de retorno do barco antes de desembarcar, porque não há como sair a pé rapidamente. NÃO CONFIRMEI: preço do barco até Frontón, duração da trilha, se a entrada é livre, nem se há guia obrigatório.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-pueblo-de-los-pescadores-praca-gastronomica-e-vida-n",
+    "fontes": [
+      {
+        "url": "https://diariolibre.com/economia/turismo/2025/02/21/gobierno-entrega-reconstruida-plaza-del-pueblo-de-los-pescadores/3005649"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Pueblo de los Pescadores (praça gastronômica e vida noturna)",
+    "cidadeId": "las-terrenas",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "bares",
+      "beira-mar",
+      "centro",
+      "reconstruido-2025"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "A praça de bares e restaurantes à beira-mar que concentra a noite de Las Terrenas, reaberta em fevereiro de 2025 depois de um incêndio.",
+    "descricaoLonga": "É o centro da noite em Las Terrenas: uma fileira de bares e restaurantes com os pés praticamente na areia, na antiga vila de pescadores. HISTÓRICO IMPORTANTE: o conjunto original, de madeira, pegou fogo em 2021 (segundo incêndio em cerca de dez anos) e foi reconstruído pelo governo dominicano com investimento de RD$ 293,6 milhões. O Diario Libre registra a entrega da praça reconstruída em 20 DE FEVEREIRO DE 2025, com 10 módulos de venda de comida e bebida, ruas de paralelepípedo para pedestres, banheiros compartilhados, área de serviço, sistema de detecção e combate a incêndio — e SEM estacionamento para veículos. O mesmo texto diz que a praça passou a ser propriedade do Estado e que não necessariamente todos os antigos donos voltariam, com novas regras de operação ainda por anunciar. CONSEQUÊNCIA PRÁTICA PARA VOCÊ: a lista de bares que circula na internet (Replay, El Mosquito Art Bar, Clandestino, entre outros) pode estar desatualizada. Eu NÃO consegui confirmar quais estabelecimentos estão abertos hoje — a reportagem do El Caribe que teria essa lista devolveu HTTP 403. Vá e olhe no local. Faixa de preço observada em resumo de busca (não confirmada): doses a RD$ 100-150. Armadilhas: é o ponto mais turístico da cidade, então preço de bebida e abordagem de vendedores são maiores ali; e, como não há estacionamento, você chega a pé ou de motoconcho.",
+    "duracao": {
+      "min": 60,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-la-terrasse",
+    "fontes": [
+      {
+        "url": "https://simplydominican.com/best-restaurants-samana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://diariolibre.com/economia/turismo/2025/02/21/gobierno-entrega-reconstruida-plaza-del-pueblo-de-los-pescadores/3005649"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Terrasse",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "frances",
+      "frutos-do-mar",
+      "beira-mar",
+      "pueblo-de-los-pescadores",
+      "jantar"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "Casa francesa veterana na orla do Pueblo de los Pescadores, conhecida por polvo, steak au poivre e ravióli de lagosta.",
+    "descricaoLonga": "É a referência da cozinha francesa de Las Terrenas — a cidade foi fundada e povoada por franceses, e o Wikipédia registra que 'o francês é a segunda língua de Las Terrenas', o que explica o nível e a quantidade de bistrôs. O La Terrasse é descrito como uma das casas mais antigas da região, na beira-mar do Pueblo de los Pescadores, faixa de preço $$$, com destaque para polvo, steak au poivre e ravióli de lagosta. CUIDADO COM O ENDEREÇO: o Pueblo de los Pescadores queimou em 2021 e foi reconstruído e reentregue em fevereiro de 2025 como praça pública com 10 módulos, e o governo avisou que não necessariamente todos os antigos ocupantes voltariam. Eu NÃO consegui confirmar se o La Terrasse está operando ali hoje. Ligue ou passe na frente antes de contar com ele para uma noite específica. Para referência de preço na cidade, o Wikivoyage registra 'restaurantes turísticos: 300 a 600 pesos por refeição' e comida local por RD$ 200 a caixinha.",
+    "duracao": {
+      "min": 60,
+      "tipica": 105,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-restaurant-atlantis-playa-bonita",
+    "fontes": [
+      {
+        "url": "https://simplydominican.com/best-restaurants-samana"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Bonita+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Restaurant Atlantis (Playa Bonita)",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "frances",
+      "frutos-do-mar",
+      "playa-bonita",
+      "bouillabaisse",
+      "pe-na-areia"
+    ],
+    "coords": {
+      "lat": 19.3147798,
+      "lng": -69.5635287
+    },
+    "descricaoCurta": "Cozinha francesa de peixe em Playa Bonita, com bouillabaisse de Marselha como prato assinatura.",
+    "descricaoLonga": "Restaurante francês instalado em Playa Bonita, com foco em frutos do mar e peixe fresco; a bouillabaisse de Marselha é o prato mais citado. É a escolha de jantar quando você está hospedado em Playa Bonita e não quer descer ao centro, ou quando quer uma noite mais tranquila e mais caprichada que a praça gastronômica. Logística: ~10 min de motoconcho do centro de Las Terrenas segundo o Wikivoyage; a volta à noite é o trecho de maior risco de trânsito, então vale táxi em vez de moto. Referência de preço geral da cidade (Wikivoyage): restaurante turístico RD$ 300-600 por refeição — mas um francês de peixe em Playa Bonita tende a ficar acima disso, e eu NÃO tenho os valores da casa.",
+    "duracao": {
+      "min": 60,
+      "tipica": 105,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "809-240-6111"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-ltr-casa-azul-pizzeria",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://simplydominican.com/best-restaurants-samana"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa Azul Pizzeria",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "italiano",
+      "pizza",
+      "barato",
+      "centro",
+      "calle-libertad",
+      "entrega"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "Pizzaria italiana no centro, na Calle Libertad, a opção boa e barata entre tantos bistrôs caros.",
+    "descricaoLonga": "A outra metade da herança europeia de Las Terrenas é italiana, e a Casa Azul é a pizzaria de referência no centro, na Calle Libertad. PREÇO: esta é uma das poucas casas da cidade com números que conferem em duas fontes independentes — o Wikivoyage registra 'pizza de 12 polegadas OU salada tamanho refeição por 300-500 pesos', e o Simply Dominican coloca a faixa em US$ 3-14, que é compatível. Faz entrega e aceita reserva. É a escolha quando você quer comer bem gastando RD$ 300-500 em vez dos RD$ 300-600 (ou bem mais) dos restaurantes turísticos de frente para o mar. Armadilha: fica no miolo do centro, não na praia — não espere vista.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 300,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "RD$ 300-500 por pizza de 12 polegadas ou salada-refeição (Wikivoyage); compatível com a faixa US$ 3-14 citada pelo Simply Dominican. Bebida não inclusa. As duas fontes concordam, mas nenhuma é o site da casa e o dado do Wikivoyage não traz data recente. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-el-cabito-las-galeras",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Galeras"
+      },
+      {
+        "url": "https://simplydominican.com/best-restaurants-samana"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Las+Galeras+Samana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Cabito (Las Galeras)",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "mirante",
+      "frutos-do-mar",
+      "falesia",
+      "las-galeras",
+      "por-do-sol",
+      "baleias-da-terra"
+    ],
+    "coords": {
+      "lat": 19.2908611,
+      "lng": -69.1997199
+    },
+    "descricaoCurta": "Restaurante no alto de uma falésia de 15 metros sobre a baía de Rincón, com lula, paella e vista aberta.",
+    "descricaoLonga": "Se você for a Las Galeras, este é o lugar: um restaurante 'empoleirado numa falésia de 15 m de altura com vista sobre a baía de Rincón', segundo o Wikivoyage, com faixa de preço 'US$ 5-20'. O Simply Dominican acrescenta a cozinha — caribenha e de frutos do mar, com lula, paella e guisados — e informa que o lugar também aluga cabanas e um quarto na árvore para passar a noite, o que resolve o problema de o trajeto de Las Terrenas até Las Galeras ser longo (2 h a 2h30 por trecho, passando por Samaná). Na temporada de baleias, falésias viradas para o mar aberto são pontos clássicos de avistamento de terra; isso NÃO consegui confirmar especificamente para o El Cabito. Armadilhas: dinheiro em pesos (Las Galeras tem um único caixa eletrônico e muitos cartões estrangeiros não passam, segundo o Wikivoyage); e acesso por estrada secundária, que de noite é ruim.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 5,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa 'US$ 5-20' registrada pelo Wikivoyage, sem data recente de coleta; o Simply Dominican confirma o perfil da casa mas não dá valores. Fonte única para o preço — trate como indicativo. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-ltr-compras-em-las-terrenas-paseo-de-la-costanera-plaza",
+    "fontes": [
+      {
+        "url": "https://www.bahia-principe.com/en/blog/where-can-i-go-shopping-in-samana/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Compras em Las Terrenas: Paseo de la Costanera, Plaza Colonial e larimar",
+    "cidadeId": "las-terrenas",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "larimar",
+      "rum",
+      "cafe",
+      "cacau",
+      "souvenir",
+      "centro"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "Rua de lojas e praça colonial no centro para rum, café, cacau, arte taína em madeira e joia de larimar.",
+    "descricaoLonga": "Las Terrenas concentra suas compras em duas áreas do centro, segundo o guia da Bahia Principe: o PASEO DE LA COSTANERA, faixa de lojinhas com 'produtos locais como rum, café, cacau' e artesanato dominicano, com destaque para peças de arte taína entalhadas em madeira e pedra; e a PLAZA COLONIAL, praça de estilo colonial com 'souvenirs e trabalhos artesanais e artísticos'. O que vale comprar: rum, café, cacau, doces dominicanos, entalhes em madeira e pedra, e principalmente LARIMAR — pedra semipreciosa azul que só existe na República Dominicana, usada em prata; a mesma fonte diz que o comércio de larimar está concentrado em Santa Bárbara de Samaná, a capital provincial, não em Las Terrenas, o que é útil se você for fazer o bate-volta das baleias. Armadilhas: larimar e âmbar vendidos na praia ou por ambulante, sem procedência, são loteria — compre em loja; pechinche, mas com educação; e cheque se o preço está em peso ou dólar, porque o câmbio embutido costuma ser ruim. NÃO CONFIRMEI: existência e horário da feira de produtores que vários sites atribuem à 'Plaza Rosada' nos sábados de manhã, nem o mercado 'El Arte de Las Terrenas' na Calle Duarte — as páginas que traziam isso (ExpatExchange) devolveram HTTP 403, e o conteúdo parecia conter erros grosseiros (citava lugares de Punta Cana e Puerto Plata como se fossem de Las Terrenas). Não use essa informação.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-aluguel-de-scooter-ou-quadriciclo-em-las-terrenas",
+    "fontes": [
+      {
+        "url": "https://4stogo.com/blog/posts/renting-scooters-quads-dr"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://eldia.com.do/embajada-de-ee-uu-alerta-sobre-riesgos-de-motoconchos-en-republica-dominicana/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aluguel de scooter ou quadriciclo em Las Terrenas",
+    "cidadeId": "las-terrenas",
+    "categoria": "aluguel-veiculo",
+    "tags": [
+      "scooter",
+      "quadriciclo",
+      "aluguel",
+      "mobilidade",
+      "deposito-no-cartao",
+      "capacete-obrigatorio"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "A forma mais usada de alcançar Playa Bonita, Cosón e El Limón por conta própria — e a que mais exige cuidado.",
+    "descricaoLonga": "Las Terrenas vive de scooter e quadriciclo: é o que liga o centro a Playa Bonita, Playa Cosón e à região de El Limón sem depender de motoconcho. PREÇOS (duas fontes, com diferença de anos): o Wikivoyage registra scooter ~US$ 20/dia, quadriciclo US$ 40-50/dia e carro/jipe a partir de ~US$ 55/dia, mas com data de setembro de 2020; um levantamento de 2025 de locadora (4stogo) dá scooter US$ 25-40/dia e quadriciclo US$ 60-120/dia, além de tours guiados por US$ 80-150. Para 2026, orce pela faixa mais alta. REQUISITOS, segundo a 4stogo: 18 anos ou mais, carteira de motorista válida (com habilitação de moto, de preferência), e DEPÓSITO DE GARANTIA de US$ 100-300 bloqueado no cartão de crédito. CAPACETE é obrigatório por lei e locadoras sérias fornecem. A mesma fonte recomenda calçado fechado e NÃO dirigir depois do anoitecer, por causa da iluminação precária e de animais na pista. SEGURO: confirme por escrito o que está coberto; sem isso, qualquer dano sai do seu bolso. Onde alugar: há balcões no centro e muitos hotéis intermediam (Wikivoyage). ARMADILHAS: depósito alto no cartão que demora a ser liberado; veículo entregue com avaria não anotada (fotografe tudo antes de sair); e, principalmente, o cenário de trânsito dominicano — ~3.000 mortes por ano, 75% motociclistas, segundo imprensa local. Se você não anda de moto no Brasil, não comece aqui.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 20,
+      "max": 120,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa junta os dois extremos das duas fontes: scooter US$ 20/dia (Wikivoyage, set/2020) a US$ 40/dia (4stogo, 2025); quadriciclo US$ 40-50/dia (Wikivoyage) a US$ 60-120/dia (4stogo). As fontes não concordam e nenhuma é de locadora local de Las Terrenas com tabela publicada — orce pelo teto. À parte: depósito de US$ 100-300 bloqueado no cartão. | tipo: por-dia"
+    },
+    "reserva": {
+      "necessaria": false,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-como-chegar-a-las-terrenas-autopista-del-nordeste-pe",
+    "fontes": [
+      {
+        "url": "https://diariolibre.com/economia/finanzas/2022/01/03/estimamos-incremento-5-10--trafico-por-carretera-a-samana/1563365"
+      },
+      {
+        "url": "https://www.diariolibre.com/economia/entre-rd-200-y-rd-745-seran-las-reducciones-en-el-costo-de-los-viajes-por-la-autopista-del-nordeste-BH30406986"
+      },
+      {
+        "url": "https://www.diariolibre.com/actualidad/nacional/2025/01/10/cuales-son-los-peajes-que-aumentaran-de-precio/2964110"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "http://router.project-osrm.org/route/v1/driving/-69.9312,18.4861;-69.5408,19.3219?overview=false"
+      },
+      {
+        "url": "http://router.project-osrm.org/route/v1/driving/-69.5408,19.3219;-69.3390,19.2037?overview=false"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Como chegar a Las Terrenas: Autopista del Nordeste, pedágios e aeroporto El Catey",
+    "cidadeId": "las-terrenas",
+    "categoria": "experiencia",
+    "tags": [
+      "logistica",
+      "pedagio",
+      "aeroporto-azs",
+      "autopista-del-nordeste",
+      "bulevar-turistico-del-atlantic",
+      "onibus"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "De Santo Domingo são ~148 km de rodovia pedagiada; de avião, o aeroporto El Catey (AZS) fica a ~45 min.",
+    "descricaoLonga": "DE SANTO DOMINGO POR TERRA: o caminho é a Autopista del Nordeste (rodovia Juan Pablo II) seguida do Bulevar Turístico del Atlántico, que é o trecho que leva até Las Terrenas. A rota calculada no OSRM dá 148,1 km e cerca de 2h50 de carro; o Wikivoyage fala em 'cerca de duas horas' e o Wikipédia registra que a conclusão da rodovia em 2012 reduziu o tempo até Santa Bárbara de Samaná para aproximadamente duas horas. Conte 2h a 3h, dependendo de trânsito na saída da capital. PEDÁGIOS — e são o aspecto mais caro da estrada: há quatro praças no sentido Santo Domingo-Samaná. Segundo o Diario Libre, as tarifas vigentes a partir de 1º de janeiro de 2022 para categoria 1 (carro/SUV) eram Marbella RD$ 60, Guaraguao RD$ 200, Naranjal RD$ 200 e Catey RD$ 400, total de RD$ 860 POR SENTIDO — 'um condutor que complete o circuito dos quatro pedágios em um carro ou jipe pagará agora RD$ 860'. Antes da redução de 20% negociada pelo governo com a concessionária, o circuito somava RD$ 1.085. ATENÇÃO: isso é de 2022. Em 15 de janeiro de 2025 houve reajuste geral de pedágios no país (o Diario Libre registra praças subindo de RD$ 60 para RD$ 100 e menciona que Marbella, Guaraguao, Naranjal e Catey também foram alteradas, com criação de nova categoria). Eu NÃO encontrei a tabela de 2026 — então orce acima de RD$ 860 por sentido e tenha pesos em dinheiro. DE AVIÃO: o aeroporto mais próximo é o Samaná El Catey International (AZS), que recebe voos da Europa e do Canadá segundo o Wikipédia. O Wikivoyage estima táxi para Las Terrenas em cerca de US$ 70 e 45 minutos; uma operadora local anuncia transfer 'a partir de US$ 80'. DE ÔNIBUS: o Wikivoyage registra ônibus expresso de Santo Domingo em 2h30 por 500 pesos (dado de setembro de 2020). DENTRO DA PENÍNSULA: Las Terrenas até Santa Bárbara de Samaná (onde saem os barcos de baleias, Los Haitises e Cayo Levantado) são 37,9 km e ~63 min pelo OSRM; de Samaná a Las Galeras, cerca de 1 h de guagua (Wikivoyage).",
+    "duracao": {
+      "min": 120,
+      "tipica": 170,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 860,
+      "max": 860,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Soma dos quatro pedágios por SENTIDO para carro/SUV (categoria 1), tarifas de 01/01/2022 publicadas pelo Diario Libre: Marbella RD$ 60 + Guaraguao RD$ 200 + Naranjal RD$ 200 + Catey RD$ 400. Esse valor está DESATUALIZADO: houve reajuste geral de pedágios em 15/01/2025 e eu não localizei a tabela de 2026. Orce mais. Não inclui combustível, aluguel de carro, nem o ônibus (RD$ 500 de Santo Domingo em 2020) nem o táxi do aeroporto AZS (~US$ 70-80). | tipo: por-veiculo"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-aviso-motoconcho-e-transito-na-peninsula",
+    "fontes": [
+      {
+        "url": "https://eldia.com.do/embajada-de-ee-uu-alerta-sobre-riesgos-de-motoconchos-en-republica-dominicana/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aviso: motoconcho e trânsito na península",
+    "cidadeId": "las-terrenas",
+    "categoria": "experiencia",
+    "tags": [
+      "seguranca",
+      "motoconcho",
+      "transito",
+      "aviso",
+      "politur",
+      "taxi"
+    ],
+    "coords": {
+      "lat": 19.3219098,
+      "lng": -69.540786
+    },
+    "descricaoCurta": "O mototáxi é o transporte padrão em Las Terrenas e também o maior risco concreto da sua viagem.",
+    "descricaoLonga": "LEIA ANTES DE SUBIR NUMA MOTO. O motoconcho (mototáxi) é como quase todo mundo se move em Las Terrenas — o Wikivoyage registra RD$ 100 por pessoa para trajetos dentro da cidade (abril de 2021) e Playa Bonita a ~10 min de moto. O problema é o risco. Segundo reportagem do El Día de 30 de junho de 2025, a Embaixada dos Estados Unidos desaconselha expressamente usar motoconcho, porque 'a maioria dos motoristas não usa capacete e não respeita as regras de trânsito'. A imprensa dominicana (El Nuevo Diario, elDinero) registra cerca de 3.000 mortes e 100.000 feridos por ano no trânsito do país, com 75% das vítimas motociclistas; o próprio país tem aproximadamente uma motocicleta por cada dois habitantes. O QUE A EMBAIXADA RECOMENDA, na mesma reportagem: usar só táxis autorizados, com placa e credencial oficial; COMBINAR O PREÇO com o motorista antes de embarcar; se usar aplicativo, conferir nome do motorista e placa — mas note que o Uber opera em Santo Domingo e Santiago, não em Las Terrenas; se alugar carro, contratar seguro completo; e EVITAR DIRIGIR À NOITE, por iluminação ruim e condução imprudente. TELEFONES ÚTEIS divulgados pela Embaixada: Polícia de Turismo (Politur) 809-222-2026 e WhatsApp +1-809-520-8665. NA PRÁTICA, para o viajante brasileiro: use motoconcho só em trajetos curtos e diurnos dentro da cidade, sempre com capacete; para Playa Bonita, Cosón, El Limón ou qualquer volta noturna, pague táxi ou alugue carro. Nunca aceite 'depois a gente combina' sobre o preço.",
+    "duracao": {
+      "min": 5,
+      "tipica": 15,
+      "max": 45
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "RD$ 100 por pessoa para trajetos dentro de Las Terrenas, conforme o Wikivoyage, com data de coleta de ABRIL DE 2021 — portanto provavelmente defasado para 2026. Fonte única e colaborativa. Trajetos para fora da cidade custam mais e não têm valor confirmado. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "809-222-2026",
+      "whatsapp": "+1-809-520-8665"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "do-ltr-dinheiro-na-republica-dominicana-peso-dolar-cartao-e",
+    "fontes": [
+      {
+        "url": "https://www.bancentral.gov.do/"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/dominican-republic"
+      },
+      {
+        "url": "https://eldinero.com.do/340159/santo-domingo-concentra-cerca-del-50-de-las-entidades-cambiarias-del-pais/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Dinheiro na República Dominicana: peso, dólar, cartão e onde trocar",
+    "cidadeId": "las-terrenas",
+    "categoria": "experiencia",
+    "tags": [
+      "dinheiro",
+      "cambio",
+      "peso-dominicano",
+      "dolar",
+      "cartao",
+      "aviso"
+    ],
+    "descricaoCurta": "O país roda com duas moedas na prática: resort e passeio cotam em dólar, rua e restaurante local cotam em peso — e saber a taxa oficial antes de trocar é a sua defesa.",
+    "descricaoLonga": "DUAS MOEDAS, DOIS MUNDOS. A moeda oficial é o peso dominicano (DOP). Mas o turismo é dolarizado: resort, passeio de barco, aluguel de carro, mergulho e transfer quase sempre cotam em USD, enquanto restaurante local, colmado, mercado, guagua, entrada de parque nacional e museu cotam em DOP. Por isso, quando você vê um preço na República Dominicana, a PRIMEIRA pergunta é 'em qual moeda?' — a mesma atração pode aparecer como 'RD$ 300' num site dominicano e 'US$ 5' num site de turismo. TAXA OFICIAL: o Banco Central da República Dominicana publica a taxa diariamente no site institucional. Em 08/10/2026 estava em DOP 61,1707 (compra) e DOP 61,6732 (venda) por US$ 1. Use esse número como régua: casa de câmbio e hotel sempre dão pior que o Banco Central, e a diferença aceitável é pequena. Hotel costuma ser o pior lugar para trocar. ONDE TROCAR LEGALMENTE: em banco ou em agente de câmbio autorizado. Reportagem do eldinero.com.do citando dados do Banco Central aponta 43 entidades cambiárias autorizadas no país, cerca de metade concentradas em Santo Domingo, autorizadas pela Junta Monetária e reguladas pela Superintendência de Bancos. Quem oferece câmbio na calçada não está nessa lista. CARTÃO: os avisos oficiais do Reino Unido e do Canadá são explícitos sobre risco de clonagem e de adulteração de maquininha ('skimming') — o FCDO recomenda manter o cartão sempre à vista ao pagar ou pagar em dinheiro, e o governo canadense recomenda cobrir o teclado ao digitar a senha e conferir o extrato. Use cartão em estabelecimento formal, evite deixar o cartão sair da sua vista, e prefira dinheiro em barraca de praia e mercado. GORJETA: não confirmei por fonte oficial qual é a prática esperada de gorjeta nem se a 'ley de propina' de 10% é aplicada em restaurante turístico — ouvi falar, não verifiquei, e por isso não dou número. Confira a conta: em muitos restaurantes dominicanos aparecem ITBIS (imposto) e serviço somados ao final, o que infla a conta em relação ao menu. DINHEIRO VIVO: leve dólar em notas pequenas para gorjeta e para passeio pago na hora; muita operação pequena em zona turística não aceita cartão. NÃO CONFIRMEI: limite de saque em caixa eletrônico, tarifa de ATM dominicano, nem o percentual exato de ITBIS/serviço cobrado em restaurante — não achei fonte oficial aberta nesta sessão.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 61.1707,
+      "max": 61.6732,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Taxa oficial publicada pelo Banco Central da República Dominicana em 08/10/2026: DOP 61,1707 na compra e DOP 61,6732 na venda por US$ 1. Flutua — reconfira no site do Banco Central na véspera da viagem. | tipo: cotacao-por-usd"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.bancentral.gov.do/"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

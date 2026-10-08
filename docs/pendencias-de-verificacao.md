@@ -634,6 +634,185 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 
 _...e mais 188. `npm run validate:data` imprime a lista inteira._
 
+## Punta Cana e Republica Dominicana
+| Medida | Número |
+|---|---|
+| Itens | 115 (90 agendáveis) |
+| Bases | 6 |
+| Confiança: verificado | 16 |
+| Confiança: parcialmente verificado | 94 |
+| Confiança: estimado | 5 |
+| Com coordenada | 67 de 90 |
+| Com imagem de licença livre | 0 de 90 |
+| Com algum contato | 37 de 90 |
+| Coletado há mais de um ano | 0 |
+### Preço não encontrado — 42
+
+O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | preço |
+| Salto de Baiguate | Jarabacoa | preço |
+| Parque Ecologico La Confluencia | Jarabacoa | preço |
+| Bate-volta a Constanza e ao Parque Nacional Valle Nuevo (Las Piramides) | Jarabacoa | preço |
+| Monumento Natural Salto de Aguas Blancas | Jarabacoa | preço |
+| Restaurante Aroma de la Montana | Jarabacoa | preço |
+| Parador Corazon de Jesus | Jarabacoa | preço |
+| Cafe Colao (Calle Hermanas Mirabal) | Jarabacoa | preço |
+| Cafe Monte Alto - fabrica, tour e compra de cafe | Jarabacoa | preço |
+| Calle Hermanas Mirabal (rua das sombrinhas) e o Festival de las Flores | Jarabacoa | preço |
+| Como chegar e circular em Jarabacoa (de Santiago STI, de Santo Domingo, guaguas) | Jarabacoa | preço |
+| Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | preço |
+| Playa Las Ballenas | Las Terrenas | preço |
+| Playa Bonita | Las Terrenas | preço |
+| Playa Cosón | Las Terrenas | preço |
+| Playa Frontón (Las Galeras) | Las Terrenas | preço |
+| Pueblo de los Pescadores (praça gastronômica e vida noturna) | Las Terrenas | preço |
+| La Terrasse | Las Terrenas | preço |
+| Restaurant Atlantis (Playa Bonita) | Las Terrenas | preço |
+| Compras em Las Terrenas: Paseo de la Costanera, Plaza Colonial e larimar | Las Terrenas | preço |
+| Teleférico de Puerto Plata / Pico Isabel de Torres (FECHADO) | Puerto Plata | preço |
+| Fortaleza San Felipe / Museo Fortaleza Colonial San Felipe | Puerto Plata | preço |
+| Museo del Ámbar Dominicano | Puerto Plata | preço |
+| Playa Dorada | Puerto Plata | preço |
+| Playa Sosúa (e a verdade sobre Sosúa à noite) | Puerto Plata | preço |
+| Playa Alicia | Puerto Plata | preço |
+| Playa Encuentro | Puerto Plata | preço |
+| Playa Cabarete (baía de Cabarete) | Puerto Plata | preço |
+| Lucía (Casa Colonial Beach & Spa) | Puerto Plata | preço |
+| La Mesa Taina (Kite Beach, Cabarete) | Puerto Plata | preço |
+| Mojito Bar (praia de Cabarete) - vida noturna de pé na areia | Puerto Plata | preço |
+| Compras de âmbar e larimar no centro de Puerto Plata (Calle Duarte) | Puerto Plata | preço |
+| Playa Macao | Punta Cana | preço |
+| Playa Uvero Alto | Punta Cana | preço |
+| Palma Real Shopping Village | Punta Cana | preço |
+| Museo del Hombre Dominicano (Plaza de la Cultura) | Santo Domingo | preço |
+| Mercado Modelo | Santo Domingo | preço |
+| Museo Mundo de Ámbar (Amber World Museum) | Santo Domingo | preço |
+| Adrian Tropical (Malecón) | Santo Domingo | preço |
+| Boca Chica (praia de bate-volta) | Santo Domingo | preço |
+
+_...e mais 2. `npm run validate:data` imprime a lista inteira._
+
+### Preço com uma fonte só — 1
+
+A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Mesón de Bari | Santo Domingo | segunda fonte de preço |
+
+### Horário não encontrado — 90
+
+Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
+
+| Item | Base | O que falta |
+|---|---|---|
+| Passeio de dia inteiro a Isla Saona (catamara + lancha rapida) | Bayahibe | horário de funcionamento |
+| Mano Juan e a lancha publica para Isla Saona (sem tour) | Bayahibe | horário de funcionamento |
+| Praias e piscina natural da Isla Saona | Bayahibe | horário de funcionamento |
+| Isla Catalina: snorkel no El Muro e mergulho | Bayahibe | horário de funcionamento |
+| Salto de Jimenoa Uno (Jimenoa Alto) | Jarabacoa | horário de funcionamento |
+| Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | horário de funcionamento |
+| Salto de Baiguate | Jarabacoa | horário de funcionamento |
+| Rafting no Rio Yaque del Norte com a Rancho Baiguate | Jarabacoa | horário de funcionamento |
+| Canyoning no Rio Baiguate (rapel na cachoeira) | Jarabacoa | horário de funcionamento |
+| Trekking ao Pico Duarte por La Cienaga de Manabao | Jarabacoa | horário de funcionamento |
+| Voo de parapente sobre o vale de Jarabacoa (Hawk Paragliding) | Jarabacoa | horário de funcionamento |
+| Parque Ecologico La Confluencia | Jarabacoa | horário de funcionamento |
+| Bate-volta a Constanza e ao Parque Nacional Valle Nuevo (Las Piramides) | Jarabacoa | horário de funcionamento |
+| Monumento Natural Salto de Aguas Blancas | Jarabacoa | horário de funcionamento |
+| Restaurante Aroma de la Montana | Jarabacoa | horário de funcionamento |
+| Parador Corazon de Jesus | Jarabacoa | horário de funcionamento |
+| Cafe Colao (Calle Hermanas Mirabal) | Jarabacoa | horário de funcionamento |
+| Venue Bar & Lounge | Jarabacoa | horário de funcionamento |
+| Cafe Monte Alto - fabrica, tour e compra de cafe | Jarabacoa | horário de funcionamento |
+| Calle Hermanas Mirabal (rua das sombrinhas) e o Festival de las Flores | Jarabacoa | horário de funcionamento |
+| Como chegar e circular em Jarabacoa (de Santiago STI, de Santo Domingo, guaguas) | Jarabacoa | horário de funcionamento |
+| Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | horário de funcionamento |
+| Observação de baleias jubarte na Baía de Samaná | Las Terrenas | horário de funcionamento |
+| Parque Nacional Los Haitises | Las Terrenas | horário de funcionamento |
+| Cascada El Limón (Salto El Limón) | Las Terrenas | horário de funcionamento |
+| Cayo Levantado (Ilha Bacardi) | Las Terrenas | horário de funcionamento |
+| Playa Las Ballenas | Las Terrenas | horário de funcionamento |
+| Playa Bonita | Las Terrenas | horário de funcionamento |
+| Playa Cosón | Las Terrenas | horário de funcionamento |
+| Playa Rincón (Las Galeras) | Las Terrenas | horário de funcionamento |
+| Playa Frontón (Las Galeras) | Las Terrenas | horário de funcionamento |
+| Pueblo de los Pescadores (praça gastronômica e vida noturna) | Las Terrenas | horário de funcionamento |
+| La Terrasse | Las Terrenas | horário de funcionamento |
+| Restaurant Atlantis (Playa Bonita) | Las Terrenas | horário de funcionamento |
+| Casa Azul Pizzeria | Las Terrenas | horário de funcionamento |
+| El Cabito (Las Galeras) | Las Terrenas | horário de funcionamento |
+| Compras em Las Terrenas: Paseo de la Costanera, Plaza Colonial e larimar | Las Terrenas | horário de funcionamento |
+| Como chegar a Las Terrenas: Autopista del Nordeste, pedágios e aeroporto El Catey | Las Terrenas | horário de funcionamento |
+| Aviso: motoconcho e trânsito na península | Las Terrenas | horário de funcionamento |
+| 27 Charcos de Damajagua (Monumento Natural Salto de la Damajagua) | Puerto Plata | horário de funcionamento |
+
+_...e mais 50. `npm run validate:data` imprime a lista inteira._
+
+### Pesquisa que nao entrou no banco — 55
+
+O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
+
+- trecho "Puerto Plata -> Sosua / Cabarete" virou a mesma base (puerto-plata): descartado
+- aluguel sem bloco estruturado: do-puj-aluguel-de-carro-em-punta-cana -> escrever em ajustes-manuais.json
+- "Aluguel de carro em Punta Cana" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
+- aluguel sem bloco estruturado: do-byh-aviso-como-chegar-a-bayahibe-e-quanto-custa-o-transf -> escrever em ajustes-manuais.json
+- aluguel sem bloco estruturado: do-ltr-aluguel-de-scooter-ou-quadriciclo-em-las-terrenas -> escrever em ajustes-manuais.json
+- "Aluguel de scooter ou quadriciclo em Las Terrenas" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
+- aluguel sem bloco estruturado: do-pop-transporte-na-costa-norte-aeroporto-pop-guaguas-taxi -> escrever em ajustes-manuais.json
+- "Transporte na costa norte: aeroporto POP, guaguas, táxi e aluguel de carro" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
+- evento "Ano Nuevo (Ano Novo)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Dia de los Santos Reyes (Reis Magos)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Nuestra Senora de la Altagracia (padroeira do pais)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Natalicio de Juan Pablo Duarte" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Dia de la Independencia Nacional" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Viernes Santo (Sexta-feira Santa)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Dia del Trabajo (Dia do Trabalho)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Corpus Christi" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Dia de la Restauracion de la Republica" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Nuestra Senora de las Mercedes" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Dia de la Constitucion" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Navidad (Natal)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Fins de semana longos de 2027 (consequencia da Ley 139-97)" tem escopo "todo o pais" fora das bases do banco: descartado
+- evento "Carnaval de La Vega (Carnaval Vegano - o mais famoso do pais)" tem escopo "La Vega (cidade do vale do Cibao, interior) - os famosos diablos cojuelos com suas mascaras" fora das bases do banco: descartado
+- evento "Carnaval de Santiago (Los Lechones)" tem escopo "Santiago de los Caballeros. ATENCAO: em 2026 foi concentrado no PARQUE CENTRAL e NAO mais na Av. Las Carreras, por causa das obras do monorriel. Rotas alternativas usadas: Calle del Sol, Republica de Argentina e Av. Juan Pablo Duarte." fora das bases do banco: descartado
+- evento "Semana Santa" tem escopo "todo o pais, com concentracao em praias, rios e balnearios" fora das bases do banco: descartado
+- evento sem data exata ficou fora do banco: "Festival del Merengue y Ritmos Caribenos" (vazio)
+- _...e mais 30._
+
+### Sem coordenada — 23
+
+Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | coordenada |
+| Rafting no Rio Yaque del Norte com a Rancho Baiguate | Jarabacoa | coordenada |
+| Canyoning no Rio Baiguate (rapel na cachoeira) | Jarabacoa | coordenada |
+| Voo de parapente sobre o vale de Jarabacoa (Hawk Paragliding) | Jarabacoa | coordenada |
+| Restaurante Aroma de la Montana | Jarabacoa | coordenada |
+| Parador Corazon de Jesus | Jarabacoa | coordenada |
+| Cafe Colao (Calle Hermanas Mirabal) | Jarabacoa | coordenada |
+| Venue Bar & Lounge | Jarabacoa | coordenada |
+| Cafe Monte Alto - fabrica, tour e compra de cafe | Jarabacoa | coordenada |
+| Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | coordenada |
+| Playa Dorada | Puerto Plata | coordenada |
+| Laurel Eastman Kiteboarding (LEK) - aula de kitesurf em Cabarete | Puerto Plata | coordenada |
+| Vagamundo Coffee & Waffles | Puerto Plata | coordenada |
+| Lucía (Casa Colonial Beach & Spa) | Puerto Plata | coordenada |
+| La Mesa Taina (Kite Beach, Cabarete) | Puerto Plata | coordenada |
+| Mojito Bar (praia de Cabarete) - vida noturna de pé na areia | Puerto Plata | coordenada |
+| Compras de âmbar e larimar no centro de Puerto Plata (Calle Duarte) | Puerto Plata | coordenada |
+| Isla Saona - dia inteiro saindo de Punta Cana (Cana Tours) | Punta Cana | coordenada |
+| Palma Real Shopping Village | Punta Cana | coordenada |
+| Taxi tabelado, guagua e Uber em Punta Cana (como voce vai se mover) | Punta Cana | coordenada |
+| Mesón de Bari | Santo Domingo | coordenada |
+| Adrian Tropical (Malecón) | Santo Domingo | coordenada |
+| Pat'e Palo European Brasserie | Santo Domingo | coordenada |
+
 ---
 
 ## O que mais envelhece

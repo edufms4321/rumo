@@ -1553,55 +1553,7 @@
       "Alugar buggy por vários dias quando o roteiro é concentrado em trilhas do parque, que se faz a pé e com guia",
       "Contar com saque na ilha: a infraestrutura bancária é mínima e NÃO confirmei nesta sessão quantos caixas eletrônicos funcionam"
     ],
-    "taxasObrigatorias": [
-      {
-        "nome": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
-        "preco": {
-          "moeda": "BRL",
-          "min": 105.79,
-          "max": 7460.56,
-          "por": "pessoa",
-          "inclui": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
-          "coletadoEm": "2026-10-08",
-          "fontes": [
-            {
-              "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
-            },
-            {
-              "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
-            },
-            {
-              "url": "https://www.noronha.pe.gov.br/"
-            }
-          ],
-          "observacao": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha, com finalidade turística. Em 2026 a diária é R$ 105,79 (reajuste de 4,4% sobre os R$ 101,33 de 2025, vigente desde 1º de janeiro de 2026, corrigido pelo IPCA). A cobrança é PROGRESSIVA: não é diária fixa multiplicada por dias. Exemplos oficiais citados: 7 dias = R$ 672,85; 30 dias = R$ 7.460,56. Note que 7 dias custam menos que 7 x R$ 105,79 (R$ 740,53), enquanto 30 dias custam muito mais que 30 x a diária — a progressão existe para desestimular estadias longas. Pagamento pelo portal oficial do Distrito (opção 'Pague a TPA aqui'), com cartão de crédito ou boleto, preferencialmente antes da viagem; há também atendimento no aeroporto, citado como necessário para cartão estrangeiro. Base legal: Lei estadual nº 10.403, de 29 de dezembro de 1989. Contatos oficiais: (81) 3619-0812 (Vila dos Remédios) e (81) 3182-9600 (escritório de apoio no Recife)."
-        },
-        "comoSePaga": "",
-        "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha, com finalidade turística. Em 2026 a diária é R$ 105,79 (reajuste de 4,4% sobre os R$ 101,33 de 2025, vigente desde 1º de janeiro de 2026, corrigido pelo IPCA). A cobrança é PROGRESSIVA: não é diária fixa multiplicada por dias. Exemplos oficiais citados: 7 dias = R$ 672,85; 30 dias = R$ 7.460,56. Note que 7 dias custam menos qu"
-      },
-      {
-        "nome": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
-        "preco": {
-          "moeda": "BRL",
-          "min": 192,
-          "max": 384,
-          "por": "pessoa",
-          "inclui": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
-          "coletadoEm": "2026-10-08",
-          "fontes": [
-            {
-              "url": "https://www.parnanoronha.com.br/ingresso"
-            },
-            {
-              "url": "https://www.parnanoronha.com.br/visitante"
-            }
-          ],
-          "observacao": "Visitante que vai acessar as áreas do parque. Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Validade de 10 dias a partir da compra. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade: menores de 12 anos, brasileiros acima de 60 anos, moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau, pessoal autorizado e pesquisadores com licença SISBio. Compra online em tickets.parnanoronha.com.br ou no Centro de Visitantes, em Boldró, das 8h às 19h todos os dias."
-        },
-        "comoSePaga": "",
-        "quemPaga": "Visitante que vai acessar as áreas do parque. Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Validade de 10 dias a partir da compra. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade: menores de 12 anos, brasileiros acima de 60 anos, moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau, pessoal autorizado e pesquisadores com licença SISBi"
-      }
-    ],
+    "taxasObrigatorias": [],
     "situacaoAtual": []
   },
   {

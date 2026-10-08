@@ -42,6 +42,9 @@ export function Calendario() {
 
   if (!viagem || !pacote || !dados) return <Vazio titulo="Viagem nao encontrada" />;
 
+  // Alerta sem diaId vale para a viagem inteira.
+  const alertasDaViagem = dados.alertas.filter((a) => !a.diaId);
+
   if (viagem.dias.length === 0) {
     return (
       <Vazio icone={<CalendarDays size={26} />} titulo="A viagem ainda nao tem datas">
@@ -69,6 +72,50 @@ export function Calendario() {
           </p>
         </div>
       </header>
+
+      {/*
+        Alertas da viagem inteira, nao de um dia.
+
+        Visto, vacina, documento de entrada e estouro de orcamento nao
+        pertencem a nenhum dia, e por isso sumiam: a tela do dia filtra
+        por diaId e descartava justamente estes. A barra de baixo
+        contava-os e nao dizia quais eram — o usuario via "2 em atencao"
+        sem nenhum jeito de descobrir que uma delas era a vacina que
+        precisa de 10 dias. Agora moram aqui, na visao da viagem toda.
+      */}
+      {alertasDaViagem.length > 0 && (
+        <section className="mb-5">
+          <h3 className="mb-2 text-xs font-semibold uppercase tracking-wide text-[var(--cor-texto-suave)]">
+            Antes de viajar
+          </h3>
+          <ul className="space-y-2">
+            {alertasDaViagem.map((a) => (
+              <li key={a.codigo}>
+                <Cartao
+                  className={cn(
+                    'p-3',
+                    a.nivel === 'erro'
+                      ? 'border-[var(--cor-erro-borda)] bg-[var(--cor-erro-fundo)]'
+                      : a.nivel === 'atencao'
+                        ? 'border-[var(--cor-atencao-borda)] bg-[var(--cor-atencao-fundo)]'
+                        : 'border-[var(--cor-dica-borda)] bg-[var(--cor-dica-fundo)]',
+                  )}
+                >
+                  <p className="flex items-start gap-1.5 text-sm font-medium">
+                    {a.nivel === 'erro' && (
+                      <TriangleAlert className="mt-0.5 shrink-0 text-[var(--cor-erro)]" size={14} />
+                    )}
+                    {a.titulo}
+                  </p>
+                  <p className="mt-1 text-xs leading-relaxed text-[var(--cor-texto-suave)]">
+                    {a.mensagem}
+                  </p>
+                </Cartao>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <ul className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
         {dados.resolvidos.map((r) => {

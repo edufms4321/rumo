@@ -81,7 +81,7 @@ function grauPelasFontes(i: Json): string {
   return 'parcial';
 }
 
-function derivarRestricoes(i: Json): Json {
+function derivarRestricoes(i: Json, agendavel: boolean): Json {
   const texto = textoDoItem(i);
   const categoria = String(i.categoria);
 
@@ -121,7 +121,7 @@ function derivarRestricoes(i: Json): Json {
     /n[ãa]o voar|nao voar|intervalo de superf[ií]cie|DAN/i.test(t),
   );
   const ehMergulho = declaradoEmTexto || RE_MERGULHO.test(identidade);
-  if (i.agendavel !== false && ehMergulho) {
+  if (agendavel && ehMergulho) {
     // Minimo da DAN: 12 h apos um mergulho, 18 h apos mergulhos repetidos.
     r.naoVoarDepoisHoras = 18;
     derivado('naoVoarDepoisHoras = 18 (minimo DAN para mergulhos repetidos)');
@@ -141,7 +141,7 @@ function derivarRestricoes(i: Json): Json {
     um mergulho — por nome/tag ou por afirmacao escrita — e nunca num item
     que nem se agenda.
   */
-  if (final.naoVoarDepoisHoras && !(ehMergulho && i.agendavel !== false)) {
+  if (final.naoVoarDepoisHoras && !(ehMergulho && agendavel)) {
     delete final.naoVoarDepoisHoras;
     derivado('naoVoarDepoisHoras descartado: o item nao e uma atividade de mergulho');
   }
@@ -322,7 +322,7 @@ export function converterItem(
     contato,
     imagens,
     agendavel: temDuracao,
-    restricoes: derivarRestricoes(i),
+    restricoes: derivarRestricoes(i, temDuracao),
     selos: derivarSelos(i, !!preco, gratuito && !preco),
     dicas: (i.dicasAgente ?? []).map(String),
     alertas,

@@ -44,7 +44,9 @@ test('cria uma viagem e define as datas', async ({ page }) => {
   await page.getByRole('link', { name: 'Calendario' }).click();
   // 10 a 14 de fevereiro sao 5 dias.
   await expect(page.getByRole('heading', { name: 'Calendario da viagem' })).toBeVisible();
-  await expect(page.getByText('5 dias', { exact: false })).toBeVisible();
+  // O subtitulo do cabecalho, nao qualquer texto que contenha "5 dias":
+  // o painel de alertas da viagem tambem fala em dias.
+  await expect(page.getByText(/^5 dias ·/)).toBeVisible();
 });
 
 test('sugere janelas de data com o porque em numero', async ({ page }) => {
@@ -320,4 +322,20 @@ test('as taxas obrigatorias de Noronha entram no orcamento', async ({ page }) =>
   // A TPA e o ingresso do parque sao o maior custo fixo do pacote inteiro.
   await expect(page.getByText(/Taxa de Preservação Ambiental/).first()).toBeVisible();
   await expect(page.getByText(/PARNAMAR/).first()).toBeVisible();
+});
+
+test('Punta Cana avisa da febre amarela antes de voce embarcar', async ({ page }) => {
+  await criarViagem(page, 'punta-cana');
+  await definirDatas(page, '2027-02-10', '2027-02-16');
+
+  // A vacina precisa de 10 dias: o alerta tem de aparecer no planejamento,
+  // nao no aeroporto. Alerta da viagem inteira mora no calendario.
+  await page.getByRole('link', { name: 'Calendario' }).click();
+  await expect(page.getByRole('heading', { name: 'Antes de viajar' })).toBeVisible();
+  await expect(page.getByText(/Vacina a conferir antes de viajar/)).toBeVisible();
+  await expect(page.getByText(/febre amarela precisa de 10 dias/)).toBeVisible();
+
+  // E a mala pede o certificado.
+  await page.getByRole('link', { name: 'Exportar' }).click();
+  await expect(page.getByText('Certificado de vacinacao')).toBeVisible();
 });

@@ -1,0 +1,131 @@
+{
+  "id": "punta-cana",
+  "fontes": [
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic"
+    },
+    {
+      "url": "https://es.godominicanrepublic.com/planea-tu-viaje/requisitos-de-viaje"
+    },
+    {
+      "url": "https://acento.com.do/actualidad/republica-dominicana-no-exige-certificado-vacuna-fiebre-amarilla-viajeros-suramericanos-8446071.html"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+      "url": "https://www.bancentral.gov.do/"
+    },
+    {
+      "url": "https://hacecuentas.com/do/calculadora-propina-legal-10-itbis-restaurante-republica-dominicana"
+    },
+    {
+      "url": "https://eldia.com.do/la-propina-entre-nosotros/"
+    }
+  ],
+  "coletadoEm": "2026-10-08",
+  "confianca": "parcial",
+  "observacaoDeConfianca": "Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.",
+  "nome": "Punta Cana e Republica Dominicana",
+  "codigoPais": "DO",
+  "moeda": "DOP",
+  "fuso": "America/Santo_Domingo",
+  "fusoOffsetMinutos": -240,
+  "idiomas": [
+    "es"
+  ],
+  "tomadas": "Tipo A e B (pinos chatos, padrao Estados Unidos), com tipo C tambem listado. O Brasil usa C e N, entao a tomada brasileira de 3 pinos redondos (N) NAO entra direto - LEVE ADAPTADOR para pino chato americano. Aparelho com plugue europeu de 2 pinos redondos (C) pode entrar em parte das tomadas, mas nao conte com isso.",
+  "voltagem": "110-120V, 60 Hz (a referencia tecnica lista 120/208V para a Republica Dominicana). O Brasil tem 127V e 220V, tambem a 60 Hz. Entao: aparelho brasileiro de 127V funciona; aparelho de 220V (secador, chapinha, alguns carregadores antigos) NAO funciona bem em 110V e pode queimar ou simplesmente nao aquecer. Carregador moderno de celular e notebook e bivolt (100-240V) e nao tem problema. Confira a etiqueta antes. A frequencia e a mesma dos dois lados, 60 Hz, entao nao ha problema de rotacao.",
+  "caixaDelimitadora": {
+    "latMin": 17.4,
+    "latMax": 20.1,
+    "lngMin": -72.1,
+    "lngMax": -68.2
+  },
+  "entrada": [
+    {
+      "nacionalidade": "BR",
+      "documento": "Passaporte valido. Brasileiro NAO precisa de visto para turismo na Republica Dominicana.",
+      "vistoNecessario": false,
+      "comprovantesExigidos": [
+        "E-Ticket (formulario eletronico de entrada e saida)"
+      ],
+      "formularioMigratorio": "E-TICKET: obrigatorio para TODO passageiro, estrangeiro ou dominicano, tanto na ENTRADA quanto na SAIDA do pais. E GRATUITO. Reune num documento so as declaracoes de Migracao, Alfandega e Saude Publica que antes se preenchiam a mao no aeroporto. Preencha ate 72 h antes do voo em eticket.migracion.gob.do; sai um QR code para levar no celular ou impresso.",
+      "observacoes": "ATENCAO AO GOLPE: o E-Ticket e de graca e so existe no site oficial (eticket.migracion.gob.do). Sites que cobram para preencher sao intermediarios, nao o governo. Confirmado em 2026-10-08 nas paginas da Direccion General de Migracion e da Presidencia.",
+      "fontes": [
+        {
+          "url": "https://migracion.gob.do/servicio/solicitud-de-e-ticket-entrada-y-salida-de-pasajeros/",
+          "titulo": "Direccion General de Migracion — servico do E-Ticket"
+        },
+        {
+          "url": "https://presidencia.gob.do/noticias/gobierno-implementa-nuevo-formulario-electronico-para-entrar-y-salir-de-republica",
+          "titulo": "Presidencia da Republica Dominicana — anuncio do formulario"
+        },
+        {
+          "url": "https://eticket.migracion.gob.do/",
+          "titulo": "Portal oficial do E-Ticket (unico lugar onde se preenche)"
+        }
+      ],
+      "vacinaFebreAmarela": "Certificado Internacional de Vacinacao (CIVP) contra febre amarela, tomado ha pelo menos 10 dias, exigido de quem parte de Sao Paulo, Rio de Janeiro, Minas Gerais ou Espirito Santo."
+    }
+  ],
+  "saude": {
+    "vacinasRecomendadas": [
+      "Febre amarela (OBRIGATORIA para quem sai de SP, RJ, MG ou ES)"
+    ],
+    "fontes": [
+      {
+        "url": "https://es.godominicanrepublic.com/planea-tu-viaje/requisitos-de-viaje",
+        "titulo": "Go Dominican Republic (site oficial de turismo) — requisitos de viagem"
+      }
+    ],
+    "observacoes": "FEBRE AMARELA E OBRIGATORIA PARA VOCE. A Republica Dominicana exige o Certificado Internacional de Vacinacao ou Profilaxia (CIVP) de todo passageiro vindo dos estados brasileiros de Sao Paulo, Rio de Janeiro, Minas Gerais e Espirito Santo. A vacina precisa ter sido tomada ha pelo menos 10 DIAS antes da chegada — nao da para resolver na vespera. Isentos: criancas com menos de 10 meses, gestantes, e quem apenas fez conexao de menos de 12 h num aeroporto desses estados; quem tem contraindicacao medica precisa levar o atestado. Conferido em 2026-10-08 no site oficial de turismo. ATENCAO: ha noticias dominicanas de 2017 dizendo que o pais NAO exige — estao velhas, nao se baseie nelas."
+  },
+  "seguranca": {
+    "orientacaoGeral": "sem dado",
+    "golpesComuns": [],
+    "appsDeTransporte": [],
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      }
+    ]
+  },
+  "dinheiro": {
+    "fontes": [
+      {
+        "url": "https://www.bancentral.gov.do/"
+      },
+      {
+        "url": "https://hacecuentas.com/do/calculadora-propina-legal-10-itbis-restaurante-republica-dominicana"
+      },
+      {
+        "url": "https://eldia.com.do/la-propina-entre-nosotros/"
+      }
+    ]
+  },
+  "conectividade": {
+    "operadoras": [],
+    "fontes": []
+  },
+  "linksUteis": [],
+  "emergencia": {
+    "numeroUnico": "911",
+    "representacaoBrasileira": [],
+    "observacoes": "911 FUNCIONA, SIM. Existe o Sistema Nacional de Atencion a Emergencias y Seguridad 9-1-1, orgao do governo dominicano criado em 30/05/2014, que integra policia, saude/ambulancia, bombeiro e resgate em um unico numero. MAS A COBERTURA NAO E TOTAL: o sistema opera em 25 provincias e cobre cerca de 92,3% da populacao; cinco provincias de fronteira ainda nao tinham o servico, com expansao em andamento. Ou seja, nas areas turisticas do roteiro (Punta Cana/La Altagracia, Santo Domingo, Puerto Plata, Samana, Santiago e Jarabacoa) o 911 esta implantado - ha noticia oficial da Presidencia sobre a entrada em operacao do 911 em JARABACOA e em San Pedro de Macoris, La Vega e Moca. Na fronteira com o Haiti, nao conte com ele. ALTERNATIVAS: tenha tambem o telefone do hotel/resort (resort grande tem equipe medica propria e seguranca 24h), do seu seguro viagem e do seu transfer. EMBAIXADA DO BRASIL em Santo Domingo: Av. Winston Churchill no 32, 2o andar, Ed. Franco Acra y Asociados, Santo Domingo, telefone (+1 809) 532-0868 / 532-0342 - dado vindo de diretorio de terceiros (cidade-brasil.com.br), NAO do Itamaraty; a pagina do Itamaraty que tentei (gov.br/mre/.../embaixada-santodomingo/...) devolveu HTTP 404. Reconfirme antes de usar. Para apoio na estrada, o FCDO britanico cita o numero de assistencia +1 829 689 1000.",
+    "fontes": [
+      {
+        "url": "https://presidencia.gob.do/noticias/ministro-de-la-presidencia-encabeza-puesta-en-funcionamiento-del-sistema-911-en-jarabacoa"
+      },
+      {
+        "url": "https://acento.com.do/actualidad/el-911-atendio-671-mil-emergencias-casi-un-cuarto-mas-que-en-2018-8766478.html"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      },
+      {
+        "url": "https://www.cidade-brasil.com.br/embaixada-do-brasil-na-republica-dominicana-santo-domingo.html"
+      }
+    ]
+  }
+}

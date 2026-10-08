@@ -1,0 +1,963 @@
+[
+  {
+    "id": "punta-cana",
+    "fontes": [
+      {
+        "url": "https://www.puntacanainternationalairport.com/en/airport-services"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/en/services/transportations"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-2024.pdf"
+      },
+      {
+        "url": "https://www.puntacanainternationalairport.com/images/imagenes/servicios/pdf/taxis-rate-lomg-distance-2024.pdf"
+      },
+      {
+        "url": "https://puntacanatravelblog.com/general-information-faq/public-transport-in-punta-cana"
+      },
+      {
+        "url": "https://www.puntacanatravelblog.com/general-information-faq/scams-in-punta-cana/"
+      },
+      {
+        "url": "https://www.grandbay-puntacana.com/blog/travel-tips/is-punta-cana-safe-for-tourists"
+      },
+      {
+        "url": "https://aba.org.do/articulos-perspectivas/cuando-aplica-10-por-ciento-propina-legal-rd/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/B%C3%A1varo"
+      },
+      {
+        "url": "https://www.airporttransferportal.com/es/airport-guides/puj"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2613949295"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Punta Cana",
+    "regiaoId": "leste",
+    "coords": {
+      "lat": 18.55655,
+      "lng": -68.36916
+    },
+    "altitudeM": 12,
+    "aeroportos": [
+      "PUJ"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 8
+    },
+    "bairros": [
+      {
+        "nome": "Los Corales / El Cortecito (Bavaro)",
+        "perfil": "Unica parte da regiao com vida de rua de verdade: restaurantes independentes, mercadinhos, apartamentos de aluguel, praia publica a pe. Melhor escolha para quem NAO quer all-inclusive e quer comer fora. Mais barulho e mais vendedores de praia.",
+        "fontes": []
+      },
+      {
+        "nome": "Bavaro - faixa dos grandes resorts (Arena Gorda, Playa Bavaro, El Cortecito norte)",
+        "perfil": "Concentracao dos all-inclusive grandes (Barcelo, Melia, Riu, Princess, Bahia Principe, Iberostar). Praia larga e boa, shuttle para Palma Real, taxi do PUJ USD 30-40.",
+        "fontes": []
+      },
+      {
+        "nome": "Cap Cana / Juanillo",
+        "perfil": "Condominio fechado, mar mais calmo e turquesa, Playa Juanillo e Scape Park dentro. Caro, sem vida de rua, voce depende de carro ou taxi para tudo. Taxi do PUJ USD 30.",
+        "fontes": []
+      },
+      {
+        "nome": "Punta Cana Village / Puntacana Resort & Club",
+        "perfil": "Colado no aeroporto (taxi USD 10-20), tem vila com restaurantes, supermercado e escola; praias Blanca e Corales. Bom para quem chega tarde ou sai cedo.",
+        "fontes": []
+      },
+      {
+        "nome": "Uvero Alto",
+        "perfil": "Extremo norte, 60-70 min do aeroporto, praia dourada com mais onda e vento, resorts isolados. Otimo para sossego, ruim para sair do hotel: taxi do PUJ USD 70-80 e Uber nao atende.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Punta Cana nao e uma cidade com centro caminhavel: e uma faixa de ~40 km de resorts (Punta Cana Village / Cap Cana ao sul, Bavaro e Los Corales no meio, Macao e Uvero Alto ao norte) ligada por duas vias, a Autopista del Coral e a Av. Barcelo/Estados Unidos. Taxi e TABELADO em USD, por veiculo (1 a 4 pessoas), nao por pessoa, e nao se negocia: a Asociacion de Taxistas Turistico de Veron Bavaro publica a tabela e o aeroporto PUJ a hospeda em PDF. Do PUJ: Sheraton/Puntacana Village USD 10-20, Cruce de Veron e Pueblo Bavaro USD 25, Cap Cana / Palma Real / Barcelo / Melia USD 30, Playa Bavaro / Cortecito / Princess / Riu / Bahia Principe USD 35-40, Hard Rock USD 50, Dreams Macao USD 60, Uvero Alto (Excellence, Dreams Onyx, Live Aqua, Secrets Tides) USD 70, Sivory/Zoetry USD 80. Passageiro extra alem do quarto: USD 20 cada. Longa distancia pela mesma tabela: Higuey USD 70 (ida) / 90 (ida e volta), Miches USD 160/200, Bayahibe USD 100/130, La Romana USD 120/150, Santo Domingo USD 200/260. Uber existe em parte da area (nao em Uvero Alto, Miches e geralmente nem em Macao) e e muito mais barato que taxi, mas motoristas evitam entrar em lobby de resort - voce costuma ter que caminhar ate a rua. O transporte publico e a guagua (van/microonibus), operada por sindicatos como a Sitrabapu, que roda mais ou menos das 5h-6h as 20h-22h e para em qualquer ponto da via se voce acenar: trechos internos de Bavaro cerca de 75 DOP, Bavaro-Veron cerca de 85 DOP, Higuey-Bavaro cerca de 185 DOP (expresso 200 DOP), valores de 2025 segundo o Punta Cana Travel Blog. A guagua nao serve o terminal do aeroporto de forma regular. Alugar carro faz sentido se voce quer Montana Redonda, Macao, Higuey e praias por conta propria; nao faz sentido se voce vai ficar no resort.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.4,
+        "fatorRota": 1.5
+      },
+      "carro-app": {
+        "kmh": 38,
+        "fatorRota": 1.3
+      },
+      "transporte-publico": {
+        "kmh": 20,
+        "fatorRota": 1.7
+      },
+      "veiculo-alugado": {
+        "kmh": 40,
+        "fatorRota": 1.3
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Nao achei fonte confiavel com dados de criminalidade por bairro, entao o que segue e o consenso das fontes que abri e deve ser tratado como orientacao, nao como dado verificado. Os corredores turisticos (Bavaro, Cap Cana, Uvero Alto, Punta Cana Village) sao descritos como bem iluminados, patrulhados e desenhados para turismo. Los Corales / El Cortecito e seguro de dia e no comeco da noite, com movimento; o incomodo ali e assedio comercial (vendedores, 'amigos' que oferecem passeio, cambistas), nao violencia. Veron e Friusa sao bairros residenciais dominicanos onde mora quem trabalha nos resorts: de dia, com guagua e a pe, e rotina; de madrugada, a pe e sem conhecer, as fontes desaconselham. Praias desertas (Macao fora do nucleo, trechos vazios de Uvero Alto) nao tem salva-vidas nem vigilancia - nao deixe nada na areia e nao va sozinho no fim da tarde. A policia turistica (CESTUR/Politur) existe e tem posto em Friusa, mas NAO consegui confirmar telefone nem horario de atendimento em fonte oficial, entao nao estou dando numero.",
+    "pegaTuristaAEvitar": [
+      "Comprar excursao com vendedor de praia ou com 'representante' no lobby sem empresa registrada: as fontes relatam que depois de pago nao ha reembolso, remarcacao nem aviso de cancelamento por mau tempo.",
+      "Loja de resort: as fontes citam protetor solar a USD 35, Pringles a USD 10, biquini a partir de USD 50 - cerca de 5x o preco de supermercado local (Jumbo, Sirena, Super Lama).",
+      "Cambio no aeroporto PUJ: fonte relata perda de cerca de 20% do valor. Troque pouco ali, saque em caixa de banco na cidade ou pague em cartao.",
+      "Foto com papagaio ou iguana na praia: oferecem como 'gratis' e depois cobram USD 20-50 por pessoa.",
+      "Coco Bongo e Imagine vendidos por terceiros com transfer: o mesmo ingresso aparece de USD 90 a USD 375 dependendo de quem vende. Compare com o site da casa antes.",
+      "Montana Redonda por excursao de dia inteiro: a entrada custa centavos em peso, o que voce paga (USD 79 e para cima) e transporte. Se tiver carro ou taxi dividido, sai muito mais barato.",
+      "Larimar, ambar e charuto 'autenticos' vendidos na rua ou na praia: falsificacao e o golpe mais comum segundo a fonte."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Tarjeta de turista (cartao de turismo) - US$ 10",
+        "preco": {
+          "moeda": "USD",
+          "min": 10,
+          "max": 10,
+          "por": "pessoa",
+          "inclui": "Tarjeta de turista (cartao de turismo) - US$ 10",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://dgii.gov.do/sobreTarjetaTurista/Paginas/reembolsos.aspx"
+            }
+          ],
+          "observacao": "o viajante, mas JA vem embutida no preco da passagem aerea emitida no exterior; nao se paga nada na chegada"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, mas JA vem embutida no preco da passagem aerea emitida no exterior; nao se paga nada na chegada"
+      },
+      {
+        "nome": "Imposto de saida / taxa de embarque - US$ 20",
+        "preco": {
+          "moeda": "USD",
+          "min": 20,
+          "max": 20,
+          "por": "pessoa",
+          "inclui": "Imposto de saida / taxa de embarque - US$ 20",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.godominicanrepublic.com/travel/entry-requirements/"
+            }
+          ],
+          "observacao": "o viajante, tambem JA incluido na tarifa aerea"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, tambem JA incluido na tarifa aerea"
+      }
+    ],
+    "situacaoAtual": []
+  },
+  {
+    "id": "bayahibe",
+    "fontes": [
+      {
+        "url": "https://www.godominicanrepublic.com/destinations/bayahibe"
+      },
+      {
+        "url": "https://noticias.mitur.gob.do/reportajes/bayahibe-el-rincon-del-caribe-dominicano-donde-la-naturaleza-la-accesibilidad-y-playas-perfectas-con-sus-banderas-azules-se-encuentran/"
+      },
+      {
+        "url": "https://holabayahibe.com/en/guides/bayahibe/bayahibe-to-dominicus"
+      },
+      {
+        "url": "https://holabayahibe.com/en/guides/airports/punta-cana-to-bayahibe-transfer-cost"
+      },
+      {
+        "url": "https://holabayahibe.com/en/guides/airports/santo-domingo-to-bayahibe-transfer-cost"
+      },
+      {
+        "url": "https://holabayahibe.com/en/guides/bayahibe/nightlife-bayahibe-dominicus"
+      },
+      {
+        "url": "https://holabayahibe.com/en/guides/bayahibe/mano-juan-self-guided-tour"
+      },
+      {
+        "url": "https://www.puntacanatravelblog.com/excursions-tours/isla-saona/"
+      },
+      {
+        "url": "https://www.puntacanatravelblog.com/general-information-faq/transfers-from-punta-cana-airport-to-la-romana-bayahibe/"
+      },
+      {
+        "url": "https://dominicanrepublic365.com/travel-guides/saona-island-day-trip-guide"
+      },
+      {
+        "url": "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4711700294"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bayahibe",
+    "regiaoId": "leste",
+    "coords": {
+      "lat": 18.36871,
+      "lng": -68.83969
+    },
+    "altitudeM": 5,
+    "aeroportos": [
+      "LRM"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Bayahibe Village (o pueblo)",
+        "perfil": "Vila de pescadores com porto, restaurantes, centros de mergulho e lojinhas de artesanato. Tudo a pe, mais barato e mais dominicano. Melhor opcao para quem vai mergulhar ou pegar barco todo dia. Praia pequena (Playa Bayahibe) no centro.",
+        "fontes": []
+      },
+      {
+        "nome": "Dominicus / Playa Dominicus",
+        "perfil": "Faixa de resorts all-inclusive de frente para a praia com certificacao Bandeira Azul, com dois acessos publicos. Mais confortavel e com mais servico, menos vida de vila. Tem o Kviar Casino e o bar/clube Zukkero, a vida noturna mais agitada da regiao.",
+        "fontes": []
+      },
+      {
+        "nome": "Casa de Campo / La Romana",
+        "perfil": "Resort gigante e fechado, com golfe, marina e Altos de Chavon dentro do terreno. Luxo, carrinhos de golfe e acesso livre a Altos de Chavon para hospedes. Longe da vida simples de Bayahibe (cerca de 20 a 25 minutos de carro ate Chavon dentro do resort).",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Bayahibe village e pequena e se faz a pe. Entre Bayahibe e Dominicus: guagua (van publica) por cerca de RD$25 por pessoa, mais ou menos a cada 15 minutos das 07:00 as 20:00, 10 a 15 minutos de viagem; taxi por cerca de RD$1.000 (~US$17) por trecho, sempre combinando o valor ANTES de entrar; a pe sao 40 a 50 minutos por trilha de areia sem sombra (leve agua, va cedo ou no fim da tarde). Depois das 20:00 a guagua praticamente para. Motoconchos circulam na estrada principal. De carro alugado o trajeto e direto; estacionamento em Bayahibe custa cerca de RD$150 e em Dominicus e gratuito na vila (na praia costuma haver um flanelinha informal pedindo ~RD$100). Dinheiro em pesos e essencial: colmados, bares pequenos, vendedores de praia e o guiche do parque nacional nao aceitam cartao. Uber existe na regiao mas e pouco confiavel para trechos longos (cancelamentos frequentes e carros pequenos para bagagem). Para Isla Saona por conta propria existe lancha publica do porto de Bayahibe para Mano Juan, saindo as 09:15 e voltando as 14:30, por cerca de RD$2.000 por pessoa ida e volta.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 32,
+        "fatorRota": 1.35
+      },
+      "transporte-publico": {
+        "kmh": 18,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 34,
+        "fatorRota": 1.35
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "NAO encontrei dados oficiais de criminalidade por bairro de Bayahibe/La Romana em nenhuma fonte que consegui abrir nesta pesquisa, portanto nao dou nota de seguranca por bairro. O que as fontes abertas registram: Bayahibe village e descrita como vila tranquila de pescadores, o porto a noite e ponto de encontro de moradores, e o guia local recomenda andar com dinheiro em pesos (nao cartao) e combinar preco de taxi antes de embarcar. Em Dominicus a vida noturna vai de madrugada perto do casino. Em praia aberta, cuidado pratico e com ourico-do-mar perto das pedras no trecho oeste de Playa Dominicus e com trafego de barcos ao fazer snorkel em Mano Juan (so com boia de sinalizacao). Trate qualquer afirmacao mais forte sobre seguranca como nao verificada.",
+    "pegaTuristaAEvitar": [
+      "Tour de Isla Saona na faixa mais barata (US$55 a US$70): segundo o Punta Cana Travel Blog, esses pacotes juntam gente de varios resorts e incluem paradas de compras e de banheiro que esticam o transfer para mais de 2 horas, com grupos de 40 a 80 pessoas e comida basica.",
+      "Comprar excursao com vendedor de rua ou em frente a resort: o proprio blog de referencia da regiao recomenda ignorar oferta de rua e fechar com operadora identificavel.",
+      "Fotografos e massagistas que abordam na praia da Saona, e o upselling a bordo durante o passeio (relatado pelo Punta Cana Travel Blog).",
+      "Pegar e manusear estrelas-do-mar na piscina natural: as fontes sao explicitas que o contato humano direto machuca o animal, e operadoras serias usam cone de visualizacao em vez de tirar da agua.",
+      "Esperar lagosta no almoco de um tour de US$60: o almoco e buffet simples e a qualidade varia muito entre operadoras.",
+      "Catamara em dia de pico (sabado) se voce quer silencio: o barco e festa com musica alta e open bar; o Punta Cana Travel Blog aponta que terca tem 10 a 20% menos gente que sabado, e o dcntravel diz que terca a quinta sao as travessias mais vazias."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Bracelete / entrada do Parque Nacional Cotubanama (obrigatorio para Isla Saona e para as cavernas do parque), vendido nos guiches oficiais do porto de Bayahibe",
+        "preco": {
+          "moeda": "DOP",
+          "min": 250,
+          "max": 400,
+          "por": "pessoa",
+          "inclui": "Bracelete / entrada do Parque Nacional Cotubanama (obrigatorio para Isla Saona e para as cavernas do parque), vendido nos guiches oficiais do porto de Bayahibe",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+            }
+          ],
+          "observacao": "o viajante, em dinheiro e em pesos, normalmente FORA do preco do passeio"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, em dinheiro e em pesos, normalmente FORA do preco do passeio"
+      },
+      {
+        "nome": "Sendero Ecologico y Arqueologico Padre Nuestro (entrada com guia incluido)",
+        "preco": {
+          "moeda": "DOP",
+          "min": 200,
+          "max": 200,
+          "por": "pessoa",
+          "inclui": "Sendero Ecologico y Arqueologico Padre Nuestro (entrada com guia incluido)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://visitarepublicadominicana.org/sendero-ecologico-y-arqueologico-padre-nuestro"
+            }
+          ],
+          "observacao": "o viajante, na entrada da trilha"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na entrada da trilha"
+      }
+    ],
+    "situacaoAtual": []
+  },
+  {
+    "id": "santo-domingo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ciudad_Colonial_(Santo_Domingo)"
+      },
+      {
+        "url": "https://mapa-metro.com/pt/republica-dominicana/santo-domingo/santo-domingo-metro-mapa.htm"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      },
+      {
+        "url": "https://www.policianacional.gob.do/turistas-en-zona-colonial-transitan-tranquilos-y-seguros-gracias-a-labor-de-nuestros-policias/"
+      },
+      {
+        "url": "https://elnuevodiario.com.do/la-omsa-inaugura-el-corredor-turistico-del-gran-santo-domingo/"
+      },
+      {
+        "url": "https://www.diariolibre.com/actualidad/ciudad/mercado-modelo-y-su-valor-cultural-KH10356509"
+      },
+      {
+        "url": "https://experience.transat.com/must-dos-in-santo-domingos-ciudad-colonial/"
+      },
+      {
+        "url": "https://dgm.gob.do/todos-los-servicios/visita-a-museo-alcazar-de-colon/"
+      },
+      {
+        "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-a-los-tres-ojos"
+      },
+      {
+        "url": "https://diariolibre.com/actualidad/ciudad/2024/03/11/faro-a-colon-vuelve-a-ser-atractivo-para-turistas-y-nacionales/2637394"
+      },
+      {
+        "url": "https://agora.com.do/"
+      },
+      {
+        "url": "https://bluemall.com.do/"
+      },
+      {
+        "url": "https://www.uber.com/es-DO/blog/centros-comerciales-santo-domingo"
+      },
+      {
+        "url": "https://revistamercado.do/lifestyle/estas-son-las-playas-mejor-valoradas-para-semana-santa-cerca-de-santo-domingo/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/7407678"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Santo Domingo",
+    "regiaoId": "sul",
+    "coords": {
+      "lat": 18.47139,
+      "lng": -69.89184
+    },
+    "altitudeM": 20,
+    "aeroportos": [
+      "SDQ"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Zona Colonial (Ciudad Colonial)",
+        "perfil": "O centro histórico UNESCO. Tudo o que é imperdível em Santo Domingo está aqui, a pé: Catedral Primada, Alcázar de Colón, Fortaleza Ozama, Calle Las Damas, Plaza España, Parque Colón, ruínas de San Francisco. Hotéis boutique em casarões coloniais, restaurantes e bares na mesma quadra. É onde a Polícia Nacional concentra dois destacamentos dedicados e patrulha a pé, de moto e de camionete. Contraponto honesto: ruas de pedra irregular (ruim para mala de rodinha e para quem tem mobilidade reduzida), barulho de bar até tarde nas quadras de El Conde e Hostos, e vendedores/engraxates insistentes de dia. É a escolha certa para a primeira viagem.",
+        "fontes": []
+      },
+      {
+        "nome": "Gazcue",
+        "perfil": "Bairro residencial antigo entre a Zona Colonial e a Plaza de la Cultura, com casas art déco e árvores. Mais barato, mais 'vida real dominicana', a pé da Plaza de la Cultura e do Museo del Hombre Dominicano, e perto do Malecón. Menos opções gastronômicas e menos infraestrutura turística; de noite as ruas esvaziam. Bom custo-benefício para quem fica mais dias.",
+        "fontes": []
+      },
+      {
+        "nome": "Piantini",
+        "perfil": "O bairro rico e moderno: torres, bancos, Blue Mall (Louis Vuitton, Cartier, Rolex), JW Marriott, restaurantes caros. Seguro e confortável, bom para quem vai a trabalho ou quer conforto de rede internacional. Totalmente dependente de carro/Uber: fica a 20-30 min da Zona Colonial e não tem nada de histórico. Zero charme.",
+        "fontes": []
+      },
+      {
+        "nome": "Naco",
+        "perfil": "Vizinho de Piantini, mesma lógica mas um pouco menos caro e mais residencial. Ágora Mall na esquina das avenidas Abraham Lincoln e John F. Kennedy, muitos restaurantes e supermercados. Prático, seguro, sem interesse turístico próprio.",
+        "fontes": []
+      },
+      {
+        "nome": "Bella Vista",
+        "perfil": "Bairro de classe média/média-alta a oeste, perto do Malecón oeste, do Mirador Sur e de shoppings. Hospedagem e comida mais baratas que Piantini, bom se você alugar carro. Longe de tudo que é histórico; precisa de Uber para qualquer programa turístico.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Santo Domingo é uma capital grande e espalhada. A Zona Colonial (106 hectares, Patrimônio UNESCO desde 1990) se faz 100% a pé — é o único pedaço da cidade realmente caminhável. Para o resto: (1) Metrô de Santo Domingo, operado pela OPRET, 2 linhas, 35,5 km; a Linha 1 corre norte-sul e a Linha 2 leste-oeste. Tarifa divulgada: RD$20 por viagem; é o transporte mais limpo e previsível, mas NÃO serve a Zona Colonial nem o Malecón turístico — serve os bairros residenciais e o eixo da Av. Máximo Gómez / 27 de Febrero. (2) Uber funciona bem e é o que a maioria dos brasileiros vai usar de fato; paga em cartão, evita negociação e evita o risco de táxi irregular. (3) 'Carros públicos' e 'guaguas' (vans/micro-ônibus de sindicatos) são baratíssimos e cobram por trecho, mas param em qualquer lugar, lotam, não têm itinerário publicado e o Reino Unido alerta que 'ônibus públicos e carros compartilhados são frequentemente não segurados, não registrados e mal mantidos'. Não recomendo para quem não fala espanhol. (4) Táxi: use sempre o do hotel ou chamado por telefone/app, nunca o que aborda na rua. (5) A OMSA anunciou em 2020 um 'Corredor Turístico' em ônibus vermelhos (City Tour Urbano, 18 paradas; City Tour Cultural, 36 paradas) por RD$100 a rota ou RD$300 o dia inteiro, das 10h às 23h — NÃO confirmei se esse serviço continua operando em 2026; trate como incerto. Bate-voltas de praia (Boca Chica ~30 min, Juan Dolio ~45-60 min) são pela Autopista Las Américas, a mesma do aeroporto SDQ: faça por Uber, transfer privado ou carro alugado.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.4,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 18,
+        "fatorRota": 1.5
+      },
+      "transporte-publico": {
+        "kmh": 13,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 17,
+        "fatorRota": 1.5
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Panorama honesto, sem romantizar: o Reino Unido classifica a criminalidade na República Dominicana como alta, com incidentes que vão de furto de bolsa e carteira a crime violento e roubo de carro, e alerta especificamente para criminosos em motocicleta que arrancam pertences de pedestres em semáforos. Zona Colonial: é a área mais policiada do país; a Polícia Nacional mantém dois destacamentos dedicados, com patrulha a pé, de motocicleta e de camionete, e afirma que 'os fatos delituosos na zona são muito escassos'. Na prática, de dia e no começo da noite as quadras entre Parque Colón, El Conde, Las Damas e Plaza España são tranquilas e movimentadas. O risco aumenta nas bordas: ao norte na direção da Av. Mella/Mercado Modelo, a oeste passando o Parque Independencia, e nas ruas vazias e mal iluminadas a mais de 2-3 quadras do eixo turístico depois das 22h. Malecón (Av. George Washington): é uma avenida larga de 10 km com trechos movimentados (perto do Malecón Center, dos hotéis e das barracas de fritura) e trechos totalmente desertos. De dia e no domingo à tarde/noite é um programa de família. Sozinho, a pé, em trecho vazio, depois do anoitecer, não vale o risco — pegue Uber de ponto a ponto. Mercado Modelo / Av. Mella: comércio popular denso, área de furto e batedor de carteira; o próprio mercado foi reportado pela imprensa dominicana com falta de segurança noturna e tentativas de roubo. Vá de dia, com pouco dinheiro no bolso e sem celular à mostra. Arredores do Faro a Colón: o monumento recebeu reforço de patrulhas mistas de polícia e marinha e 80 refletores a partir de 2020, mas o entorno (Parque Mirador del Este, Santo Domingo Este) é bairro periférico — chegue e saia de carro, não caminhe pelo parque. Piantini, Naco, Bella Vista: baixo risco percebido, vigilância privada em todo canto; ainda assim não ande exibindo relógio, joia ou celular. Gazcue: tranquilo de dia, esvazia de noite.",
+    "pegaTuristaAEvitar": [
+      "Ponto 1 — 'guia' que te aborda na porta da Catedral ou do Alcázar oferecendo tour: não é guia credenciado, cobra em dólar, acelera a visita e te leva a lojas conveniadas. A entrada do Alcázar de Colón já inclui audioguia com fone por RD$100; não precisa de nada além disso.",
+      "Ponto 2 — âmbar e larimar vendidos na rua, em barraca de praia ou por 'amigo que tem a pedra boa'. A imprensa dominicana registra turistas estrangeiros E dominicanos fraudados com âmbar e larimar falsificados (plástico, resina, vidro tingido). Compre em loja estabelecida com nota fiscal, de preferência num museu-loja do ramo.",
+      "Ponto 3 — taxa de câmera em Los Tres Ojos: cobram RD$100 adicionais pelo uso de câmera. Se você só vai usar o celular, pergunte antes se incide — não confirmei a regra exata para celular.",
+      "Ponto 4 — 'guia obrigatório' em Los Tres Ojos: há relatos de guia oferecido por valores altos (cifra de RD$2.200 circula na internet, que eu NÃO confirmei) apresentado como se fosse obrigatório. Não é. A visita é autoguiada por escadas e passarelas.",
+      "Ponto 5 — restaurantes com cardápio só em inglês e preço em dólar nas quadras mais turísticas de El Conde: você paga 2x pelo mesmo mofongo. Peça o menu em espanhol e confira se o preço está em RD$.",
+      "Ponto 6 — excursão de agência para Los Tres Ojos custando US$45 por pessoa (com transporte e guia) quando a entrada avulsa é RD$100 e o Uber da Zona Colonial é curto. Só vale se você não quiser dirigir nem negociar nada.",
+      "Ponto 7 — Boca Chica no fim de semana e na Semana Santa: lotada de ônibus de excursão, som altíssimo, vendedor a cada dois metros e preço de turista. Vá em dia de semana e cedo, ou vá a Juan Dolio.",
+      "Ponto 8 — 'motoconcho' (moto-táxi) para turista: além do preço combinado na hora, é o transporte com pior registro de segurança viária; o Reino Unido aponta que 'táxis de motocicleta são frequentemente conduzidos de forma inadequada'."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Entrada do Parque Nacional Los Tres Ojos",
+        "preco": {
+          "moeda": "DOP",
+          "min": 100,
+          "max": 100,
+          "por": "pessoa",
+          "inclui": "Entrada do Parque Nacional Los Tres Ojos",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-a-los-tres-ojos"
+            }
+          ],
+          "observacao": "o viajante, na bilheteria"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na bilheteria"
+      },
+      {
+        "nome": "Entradas dos museus e monumentos da Zona Colonial",
+        "preco": {
+          "moeda": "DOP",
+          "min": 60,
+          "max": 100,
+          "por": "pessoa",
+          "inclui": "Entradas dos museus e monumentos da Zona Colonial",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://dgm.gob.do/todos-los-servicios/visita-a-museo-alcazar-de-colon/"
+            },
+            {
+              "url": "https://diariolibre.com/actualidad/ciudad/2024/03/11/faro-a-colon-vuelve-a-ser-atractivo-para-turistas-y-nacionales/2637394"
+            }
+          ],
+          "observacao": "o viajante, em cada bilheteria"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, em cada bilheteria"
+      }
+    ],
+    "situacaoAtual": []
+  },
+  {
+    "id": "las-terrenas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Galeras"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://eldia.com.do/embajada-de-ee-uu-alerta-sobre-riesgos-de-motoconchos-en-republica-dominicana/"
+      },
+      {
+        "url": "https://4stogo.com/blog/posts/renting-scooters-quads-dr"
+      },
+      {
+        "url": "https://diariolibre.com/economia/finanzas/2022/01/03/estimamos-incremento-5-10--trafico-por-carretera-a-samana/1563365"
+      },
+      {
+        "url": "https://www.diariolibre.com/actualidad/nacional/2025/01/10/cuales-son-los-peajes-que-aumentaran-de-precio/2964110"
+      },
+      {
+        "url": "https://acento.com.do/economia/divisar-los-colosos-en-la-inmensidad-del-atlantico-las-ballenas-jorobadas-que-dinamizanla-economia-de-samana-9298125.html"
+      },
+      {
+        "url": "https://www.bahia-principe.com/en/blog/where-can-i-go-shopping-in-samana/"
+      },
+      {
+        "url": "http://router.project-osrm.org/route/v1/driving/-69.5408,19.3219;-69.3390,19.2037?overview=false"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/7187336"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Las Terrenas",
+    "regiaoId": "samana",
+    "coords": {
+      "lat": 19.31101,
+      "lng": -69.54307
+    },
+    "altitudeM": 14,
+    "aeroportos": [
+      "AZS"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 8
+    },
+    "bairros": [
+      {
+        "nome": "Centro / Pueblo de los Pescadores",
+        "perfil": "Tudo a pé: restaurantes franceses e italianos, bares, mercados, bancos e a praia urbana. Mais barulho à noite, especialmente perto da praça gastronômica reconstruída.",
+        "fontes": []
+      },
+      {
+        "nome": "Playa Las Ballenas",
+        "perfil": "Extensão oeste do centro, 10-20 min a pé da Calle Duarte. Mar raso e calmo, bom para famílias; vibe residencial, muitos condomínios e aluguéis de temporada.",
+        "fontes": []
+      },
+      {
+        "nome": "Playa Bonita",
+        "perfil": "~10 min de motoconcho do centro. Hotéis pequenos de estilo boutique e restaurantes de frente para o mar; mar com um lado calmo e outro com ondas (escola de surfe no local). Depende de transporte para jantar no centro.",
+        "fontes": []
+      },
+      {
+        "nome": "Playa Cosón",
+        "perfil": "Praia longuíssima a oeste, ~5 min de carro do povoado. Isolado e bonito, com clubes de praia e hotéis de maior padrão. Precisa de veículo; à noite praticamente não há vida urbana.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Las Terrenas é pequena e plana: o centro (Calle Duarte + Paseo de la Costanera + Pueblo de los Pescadores) se faz a pé. Para tudo fora do centro (Playa Bonita, Playa Cosón, El Limón) as opções são motoconcho (mototáxi), táxi, quadriciclo/scooter alugado ou carro. O Wikivoyage registrou motoconcho a 100 pesos por pessoa dentro da cidade (abril/2021) e Playa Bonita a ~10 minutos de motoconcho do centro; scooter ~US$ 20/dia, quadriciclo US$ 40-50/dia, carro/jipe a partir de ~US$ 55/dia (set/2020). Um levantamento de 2025 de locadora (4stogo) dá scooter US$ 25-40/dia e quadriciclo US$ 60-120/dia. NÃO há Uber em Las Terrenas (a Embaixada dos EUA, via El Día, cita Uber só em Santo Domingo e Santiago). Os bate-voltas de barco (baleias, Los Haitises, Cayo Levantado) saem de Santa Bárbara de Samaná, não de Las Terrenas: a rota OSRM entre as duas é de 37,9 km / ~63 min de carro. Las Galeras fica ainda mais longe (via Samaná). Evite dirigir à noite: iluminação ruim, motos sem farol e gado na pista.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.4,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 28,
+        "fatorRota": 1.4
+      },
+      "transporte-publico": {
+        "kmh": 18,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 30,
+        "fatorRota": 1.4
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "O Wikivoyage descreve Las Terrenas como 'uma das cidades mais seguras da República Dominicana', com 'muito pouco crime de oportunidade'. Isso é consistente com a reputação do lugar, mas é UMA fonte colaborativa, não um dado oficial — trate como indicativo. O risco real e documentado é de TRÂNSITO: segundo El Día (30/06/2025), a Embaixada dos EUA desaconselha expressamente usar motoconcho porque 'a maioria dos motoristas não usa capacete e não respeita as regras de trânsito'; o elnuevodiario/elDinero citam ~3.000 mortes e ~100.000 feridos por ano no trânsito dominicano, 75% motociclistas. A Embaixada recomenda táxis autorizados com credencial, combinar o preço antes de embarcar, contratar seguro completo em aluguel de carro e não dirigir à noite. Polícia de Turismo (Politur): 809-222-2026 / WhatsApp +1-809-520-8665 (números divulgados pela própria Embaixada, via El Día). Em Las Galeras, atenção a um risco diferente: o Wikivoyage avisa que há UM único caixa eletrônico na vila e muitos cartões estrangeiros não são aceitos — leve pesos em dinheiro.",
+    "pegaTuristaAEvitar": [
+      "Comprar o passeio de baleias em pacote saindo de Punta Cana ou Santo Domingo: são 5-7 h de estrada cada trecho e o preço dispara (buscas mostram pacotes de US$ 149 a US$ 395) para ver as mesmas baleias que o barco local de Samaná mostra por US$ 65. Se você já está em Las Terrenas, vá a Samaná por conta.",
+      "Pagar o 'dia completo' em Cayo Levantado sem precisar: a praia pública existe e o barco de ida e volta é barato; o grosso do custo que circula na internet (~US$ 115/dia) é o acesso às instalações do resort e as atividades aquáticas.",
+      "Aceitar 'guia obrigatório' improvisado na trilha do Salto El Limón: a entrada já inclui acompanhamento de guia local segundo as fontes consultadas. Combine valor de cavalo e gorjeta ANTES de subir.",
+      "Comprar excursão de baleias fora da janela oficial da temporada. Em abril-dezembro não há baleias jubarte na baía; qualquer 'passeio de baleias' vendido nesse período é outra coisa.",
+      "Larimar e âmbar vendidos na praia sem procedência. O comércio formal está em Santa Bárbara de Samaná e nas lojas do Paseo de la Costanera / Plaza Colonial em Las Terrenas (Bahia Principe)."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Taxa do Santuario de Mamiferos Marinos Bancos de la Plata y la Navidad (passeio de baleias jubarte)",
+        "preco": {
+          "moeda": "DOP",
+          "min": 250,
+          "max": 250,
+          "por": "pessoa",
+          "inclui": "Taxa do Santuario de Mamiferos Marinos Bancos de la Plata y la Navidad (passeio de baleias jubarte)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://acento.com.do/economia/divisar-los-colosos-en-la-inmensidad-del-atlantico-las-ballenas-jorobadas-que-dinamizanla-economia-de-samana-9298125.html"
+            }
+          ],
+          "observacao": "o viajante; nao esta claro se dentro ou fora do preco da operadora"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante; nao esta claro se dentro ou fora do preco da operadora"
+      },
+      {
+        "nome": "Entrada do Parque Nacional Los Haitises",
+        "preco": {
+          "moeda": "DOP",
+          "min": 200,
+          "max": 200,
+          "por": "pessoa",
+          "inclui": "Entrada do Parque Nacional Los Haitises",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-parque-nacional-los-haitises"
+            }
+          ],
+          "observacao": "o viajante; algumas excursoes incluem, outras nao"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante; algumas excursoes incluem, outras nao"
+      },
+      {
+        "nome": "Entrada da Cascada El Limon (Salto El Limon)",
+        "preco": {
+          "moeda": "DOP",
+          "min": 50,
+          "max": 200,
+          "por": "pessoa",
+          "inclui": "Entrada da Cascada El Limon (Salto El Limon)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://blog.felicesvacaciones.es/cuanto-cuesta-la-entrada-al-salto-del-limon"
+            },
+            {
+              "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+            }
+          ],
+          "observacao": "o viajante, na entrada de um dos paradores"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na entrada de um dos paradores"
+      },
+      {
+        "nome": "Pedagios Santo Domingo -> Samana / Las Terrenas (Autopista del Nordeste + Bulevar Turistico del Atlantico), categoria 1 (carro/SUV)",
+        "preco": {
+          "moeda": "DOP",
+          "min": 860,
+          "max": 860,
+          "por": "pessoa",
+          "inclui": "Pedagios Santo Domingo -> Samana / Las Terrenas (Autopista del Nordeste + Bulevar Turistico del Atlantico), categoria 1 (carro/SUV)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://diariolibre.com/economia/finanzas/2022/01/03/estimamos-incremento-5-10--trafico-por-carretera-a-samana/1563365"
+            },
+            {
+              "url": "https://www.diariolibre.com/actualidad/nacional/2025/01/10/cuales-son-los-peajes-que-aumentaran-de-precio/2964110"
+            }
+          ],
+          "observacao": "quem dirige carro proprio ou alugado, por sentido"
+        },
+        "comoSePaga": "",
+        "quemPaga": "quem dirige carro proprio ou alugado, por sentido"
+      }
+    ],
+    "situacaoAtual": []
+  },
+  {
+    "id": "puerto-plata",
+    "fontes": [
+      {
+        "url": "https://www.godominicanrepublic.com/destinations/puerto-plata/"
+      },
+      {
+        "url": "https://www.godominicanrepublic.com/travel/entry-requirements/"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      },
+      {
+        "url": "https://www.smartertravel.com/tips-sosua-warnings-dangers-stay-safe/"
+      },
+      {
+        "url": "https://www.halfhalftravel.com/travel-guides/dominican-republic-north-coast-guide.html"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puerto_Plata,_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sos%C3%BAa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cabarete"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dominican_amber"
+      },
+      {
+        "url": "https://inmobiliario.do/arranca-el-teleferico-de-puerto-plata-cabinas-para-55-personas-y-reapertura-prevista-en-el-primer-trimestre-de-2028/"
+      },
+      {
+        "url": "https://zolfm.com/noticia/gobierno-anuncia-modernizacion-del-teleferico-de-puerto-plata-con-inversion-superior-a-us20-millones"
+      },
+      {
+        "url": "https://inmobiliario.do/en/sosua-government-reconfigures-itself-delivers-renewed-works-and-vendors-plaza/"
+      },
+      {
+        "url": "https://aerodom.com/en/puerto-plata/"
+      },
+      {
+        "url": "https://27waterfalls.org/prices/"
+      },
+      {
+        "url": "https://www.civitatis.com/en/puerto-plata/charcos-damajagua-day-trip/"
+      },
+      {
+        "url": "https://disneycruise.disney.go.com/port-adventures/puerto-plata-dominican-republic-dolphin-swim-and-ocean-world-adventure/"
+      },
+      {
+        "url": "https://www.oceanworld.net/park-information/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/7380607"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Puerto Plata",
+    "regiaoId": "costa-norte",
+    "coords": {
+      "lat": 19.79766,
+      "lng": -70.69326
+    },
+    "altitudeM": 9,
+    "aeroportos": [
+      "POP"
+    ],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 8
+    },
+    "bairros": [
+      {
+        "nome": "Playa Dorada (Puerto Plata)",
+        "perfil": "Complexo fechado de resorts a leste da cidade, com campo de golfe, praia organizada e hotéis all-inclusive. Bom para quem quer conforto, segurança percebida e não quer dirigir. Ruim para quem quer rua, comida local e vida própria: é uma bolha, você sai de carro para qualquer coisa. Aqui fica o Casa Colonial, hotel boutique com o restaurante Lucía.",
+        "fontes": []
+      },
+      {
+        "nome": "Centro histórico de Puerto Plata",
+        "perfil": "Arquitetura vitoriana, Parque Central, Catedral San Felipe Apóstol, Museo del Ámbar na Calle Duarte, Fortaleza San Felipe e o Malecón. É onde está a cidade real: mercado, comércio, gente. Melhor base para cultura e preço baixo; pior para praia (você precisa se deslocar). Em obras/renovação recente: o governo informa investimento público acima de RD$1,4 bilhão em Puerto Plata incluindo ruas, calçadas e centro histórico.",
+        "fontes": []
+      },
+      {
+        "nome": "Sosúa",
+        "perfil": "Baía protegida por recife, mar calmo, duas praias (Playa Sosúa e Playa Alicia), história judaica (refugiados do nazismo em 1940-45, sinagoga e museu). Base barata e central, a ~15 min do aeroporto. O problema é o que acontece à noite: a cidade virou destino de turismo sexual no fim dos anos 1990/2000 (Wikipedia) e há reportagem de que a prostituição afasta famílias. A praia foi reformada e a nova plaza de vendedores (79 lojas, RD$568 milhões) foi entregue em 2026. Não é um bairro que eu recomendaria para família com crianças adolescentes sem aviso prévio.",
+        "fontes": []
+      },
+      {
+        "nome": "Cabarete",
+        "perfil": "A melhor base para quem é jovem, ativo ou quer esporte: kitesurf e windsurf na baía (já sediou Mundial de Windsurf e etapas do PKRA), surf em Playa Encuentro a 3 milhas a oeste, Kite Beach a 1,5 milha a oeste. Rua única com cafés, bares de pé na areia e escolas de kite. Também o lugar com mais opção de comida boa. Contra: barulho noturno, estrada principal movimentada, mar da baía com vento quase sempre (ruim para quem só quer flutuar).",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "A costa norte é uma linha reta: Puerto Plata (centro) - Playa Dorada - Sosúa - Cabarete, tudo na mesma estrada litorânea. O aeroporto é o Gregorio Luperón (POP), que fica ENTRE Sosúa e Puerto Plata (fica em Sosúa, segundo o OpenStreetMap) - a página oficial de turismo diz 15 minutos do centro de Puerto Plata. Opções: (1) GUAGUA, a van/micro-ônibus compartilhada que roda a estrada sem horário fixo, passando a cada 7-15 minutos, e geralmente PARA de circular depois que escurece; um blog de viagem relata ~50 pesos por trecho curto e 100 pesos (~US$2) para trajetos de ~2h com uma troca. (2) CARRITO, carro compartilhado, preço parecido com a guagua, 5-7 passageiros apertados no sedan. (3) TÁXI turístico com tarifa fixa: o mesmo blog relata US$35 do aeroporto POP para Cabarete e US$25 para Sosúa - negociar é difícil sem espanhol fluente. (4) MOTOCONCHO (moto-táxi), ~50 pesos (~US$1) por corrida de 5-10 min, negociável - mas o governo britânico avisa que motoconchos 'são frequentemente mal conduzidos e não sempre fornecem capacete ao passageiro'. (5) ALUGUEL DE CARRO: dá liberdade para Damajagua e praias fora de rota, mas o aviso britânico registra alto índice de mortes no trânsito, estradas ruins e direção imprudente, e recomenda não dirigir à noite fora das cidades. NÃO CONFIRMEI: tarifa oficial atual da guagua em tabela de sindicato, existência de Uber/apps na costa norte (o aviso britânico menciona apps de carona no país em geral, sem especificar Puerto Plata), nem tarifa oficial de táxi do aeroporto.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.5,
+        "fatorRota": 1.3
+      },
+      "carro-app": {
+        "kmh": 26,
+        "fatorRota": 1.4
+      },
+      "transporte-publico": {
+        "kmh": 16,
+        "fatorRota": 1.6
+      },
+      "veiculo-alugado": {
+        "kmh": 28,
+        "fatorRota": 1.4
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "Base geral (aviso oficial do governo britânico, não específico da costa norte): a taxa de criminalidade na República Dominicana é alta, de furto de bolsa a crime violento; ladrões de moto arrancam bolsas de pedestres e às vezes alcançam janelas de carro em semáforo. Evitar áreas isoladas depois do anoitecer, não ostentar valor, não andar com muito dinheiro, manter a bolsa longe da mesa no restaurante e longe do lado da rua. Praias e piscinas podem NÃO ter salva-vidas nem equipamento de resgate, e o mar fica perigoso sobretudo na temporada de furacões (junho a novembro). Por bairro: Playa Dorada é o cenário mais controlado (complexo fechado, mas isso vale só dentro); centro de Puerto Plata exige atenção normal de cidade e cuidado à noite; Sosúa é tranquila de dia na praia e pesada à noite nas ruas de bar; Cabarete é a mais 'andável' à noite por ser rua comercial cheia, mas tem assédio de vendedor e motoconcho. NÃO CONFIRMEI: nenhum dado policial por bairro, nem o aviso do Departamento de Estado dos EUA (a página retornou 403 nesta sessão).",
+    "pegaTuristaAEvitar": [
+      "Ocean World Adventure Park como 'programa do dia' sem olhar o preço: o pacote de nadar com delfins vendido via cruzeiro Disney custa US$249 por adulto (10+) e US$199 por criança (6-9). É o item mais caro da região por larga margem, e desde setembro de 2025 o parque opera sem dinheiro vivo (só cartão/Apple Pay/Google Pay).",
+      "Comprar a excursão dos 27 Charcos no balcão do hotel ou do navio quando você está hospedado perto: pacote com transporte custa US$49,80-55 (mesmo portal que vende a entrada seca por US$19,29) e, saindo de Cabarete/Sosúa com almoço, chega a ~R$403 por pessoa. A entrada na bilheteria, segundo o portal, é US$11-21 conforme o circuito.",
+      "Contar com o Teleférico de Puerto Plata: ele está FECHADO desde junho de 2024 e a reabertura prevista é só no primeiro trimestre de 2028. A página oficial de turismo do país ainda lista o teleférico como atração - não é atualização, é lixo informativo.",
+      "Aceitar 'tour' ou 'serviço' oferecido na praia ou por quem chega de moto: um guia de segurança de Sosúa descreve exatamente esse golpe - a pessoa insiste em te dar um passeio/serviço e depois exige 'gorjeta' sem ter combinado valor antes.",
+      "Comprar âmbar e larimar de vendedor de rua ou de quiosque de porto de cruzeiro sem nota: o âmbar dominicano real tem 15-20 milhões de anos e vem da Cordillera Septentrional (a serra ao sul de Puerto Plata); o azul é o mais raro e caro, logo é o mais imitado. NÃO ENCONTREI fonte oficial com teste de autenticidade nem alerta formal do museu sobre falsificação - então o conselho que eu dou é de risco, não de técnica: compre em loja com fatura."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Entrada dos 27 Charcos de Damajagua, por circuito (7, 12 ou 27 charcos)",
+        "preco": {
+          "moeda": "USD",
+          "min": 11,
+          "max": 21,
+          "por": "pessoa",
+          "inclui": "Entrada dos 27 Charcos de Damajagua, por circuito (7, 12 ou 27 charcos)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://27waterfalls.org/prices/"
+            }
+          ],
+          "observacao": "o viajante, na bilheteria, SO em dinheiro (pesos ou dolares) - nao aceita cartao"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na bilheteria, SO em dinheiro (pesos ou dolares) - nao aceita cartao"
+      },
+      {
+        "nome": "Entrada generica de area protegida do Ministerio de Medio Ambiente",
+        "preco": {
+          "moeda": "DOP",
+          "min": 100,
+          "max": 500,
+          "por": "pessoa",
+          "inclui": "Entrada generica de area protegida do Ministerio de Medio Ambiente",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+            }
+          ],
+          "observacao": "o viajante, na bilheteria da area, em dinheiro"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na bilheteria da area, em dinheiro"
+      }
+    ],
+    "situacaoAtual": []
+  },
+  {
+    "id": "jarabacoa",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jarabacoa"
+      },
+      {
+        "url": "https://www.godominicanrepublic.com/destinations/jarabacoa"
+      },
+      {
+        "url": "https://odessia.com/destinations/dominican-republic/jarabacoa"
+      },
+      {
+        "url": "https://eldia.com.do/puente-salto-de-jimenoa-no-ha-sido-remozado-tras-4-anos-de-desplome/"
+      },
+      {
+        "url": "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+      },
+      {
+        "url": "https://www.godominicanrepublic.com/destinations/constanza"
+      },
+      {
+        "url": "https://eldinero.com.do/372632/mitur-impulsa-la-promocion-de-jarabacoa-como-principal-destino-ecoturistico-de-rd/"
+      },
+      {
+        "url": "https://simplydominican.com/top-10-adventures-jarabacoa"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/7380800"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Jarabacoa",
+    "regiaoId": "cordilheira",
+    "coords": {
+      "lat": 19.12094,
+      "lng": -70.64193
+    },
+    "altitudeM": 530,
+    "aeroportos": [
+      "STI"
+    ],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Centro (casco urbano)",
+        "perfil": "Comercio, padarias, Calle Hermanas Mirabal (rua das sombrinhas), restaurantes e a pouca vida noturna que existe. Melhor para quem nao vai alugar carro: da para resolver tudo a pe e pegar motoconcho.",
+        "fontes": []
+      },
+      {
+        "nome": "La Confluencia",
+        "perfil": "Ao redor do parque fluvial onde o Jimenoa encontra o Yaque del Norte. Movimentado nos fins de semana com familias dominicanas; a 10 min do centro.",
+        "fontes": []
+      },
+      {
+        "nome": "Buena Vista",
+        "perfil": "Zona alta de villas com vista do vale. Silencioso, mais caro, praticamente exige carro.",
+        "fontes": []
+      },
+      {
+        "nome": "Pinar Dorado",
+        "perfil": "Residencial tranquilo, perto do caminho do Salto de Baiguate. Bom meio-termo entre centro e natureza.",
+        "fontes": []
+      },
+      {
+        "nome": "Manabao / La Cienaga",
+        "perfil": "Vale remoto e florestado, eco-lodges simples e o ponto de partida do Pico Duarte. So faz sentido para quem vai subir o Pico ou quer isolamento total; frio de noite e estrutura minima.",
+        "fontes": []
+      },
+      {
+        "nome": "Mata de Limon / Palo Blanco",
+        "perfil": "Cristas altas com os restaurantes-mirante (e por ali o Aroma de la Montana). Vista espetacular, dependencia total de carro.",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Jarabacoa fica a ~529 m de altitude, no vale da Cordillera Central, a cerca de 1 h de Santiago (aeroporto STI, o mais proximo) e 2 h a 2 h 30 de Santo Domingo pela Autopista Duarte. Caribe Tours opera onibus com ar-condicionado direto da capital varias vezes ao dia (horarios e tarifas NAO confirmados: o site oficial caribetours.com.do retornou 404 nesta sessao). Dentro da cidade, o transporte dominante e o motoconcho (moto-taxi), 50 a 100 pesos para trechos curtos no centro; o casco urbano e pequeno e se faz a pe. Para as cachoeiras, mirantes, Manabao/La Cienaga, Constanza, Valle Nuevo e Aguas Blancas, carro alugado resolve as vias asfaltadas, mas SUV/4x4 com vao livre alto e recomendado - as estradas de montanha sao ingremes, sem asfalto em trechos e sem iluminacao a noite. Nao ha transporte publico confiavel para as atracoes; o padrao e alugar 4x4, contratar excursao (Rancho Baiguate e similares) ou negociar taxista/motoconcho por dia.",
+    "fatoresDeslocamento": {
+      "a-pe": {
+        "kmh": 4.2,
+        "fatorRota": 1.4
+      },
+      "carro-app": {
+        "kmh": 24,
+        "fatorRota": 1.7
+      },
+      "transporte-publico": {
+        "kmh": 18,
+        "fatorRota": 1.8
+      },
+      "veiculo-alugado": {
+        "kmh": 24,
+        "fatorRota": 1.7
+      }
+    },
+    "matrizInterna": [],
+    "climaPorMes": [],
+    "seguranca": "A unica fonte que abri sobre seguranca (odessia.com, guia de viagem agregador, NAO oficial) descreve Jarabacoa como 'uma das cidades mais seguras da Republica Dominicana', e os riscos citados nao sao criminais: transito pesado de motocicletas no centro, estradas de montanha ingremes e sem iluminacao a noite, agua de torneira nao potavel (beba engarrafada/filtrada) e mosquitos perto dos rios. NAO encontrei nenhuma fonte policial, consular ou governamental com dados de criminalidade por bairro em Jarabacoa, e portanto NAO faco recomendacao bairro a bairro. Trate isso como indicacao fraca e confirme no hotel na chegada. Cuidado real e documentado: dirigir a noite nas serras (Constanza, Valle Nuevo, Aguas Blancas, estrada de Manabao) e atravessar rios depois de chuva.",
+    "pegaTuristaAEvitar": [
+      "Ir ao Salto de Jimenoa Dos (o das pontes suspensas) sem confirmar que ele reabriu. Reportagem do El Dia de abril de 2022 dizia que a ponte estava caida havia ~4 anos e o local FECHADO; ha textos turisticos recentes falando de 'passarela recem-reformada e tres pontes suspensas'. Essa contradicao NAO foi resolvida nesta pesquisa. Ligue para o cluster turistico ou para o hotel antes de pegar o carro.",
+      "Comprar 'tour de rafting' de Puerto Plata, Punta Cana ou Santo Domingo: voce paga pacote de 180 USD ou mais por um passeio que custa 50 a 55 USD comprado em Jarabacoa, e perde o dia inteiro em van.",
+      "Aceitar 'guia' informal no estacionamento das cachoeiras. As trilhas de Baiguate e Jimenoa sao curtas e sinalizadas; guia nao e necessario (so no Pico Duarte e que ele e obrigatorio).",
+      "Tentar Valle Nuevo / Aguas Blancas com carro de passeio alugado. O proprio Ministerio de Turismo dominicano diz que e preciso veiculo todo-terreno. Carro baixo quebra, e o seguro de locadora normalmente nao cobre via nao pavimentada.",
+      "Supor que 'Caribe = calor' e viajar so com roupa de praia. Jarabacoa tem minima recorde registrada de 7,1 C e Valle Nuevo ja marcou -7 C."
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Entrada das cachoeiras de Jarabacoa (Salto de Jimenoa, Salto de Baiguate)",
+        "preco": {
+          "moeda": "DOP",
+          "min": 50,
+          "max": 150,
+          "por": "pessoa",
+          "inclui": "Entrada das cachoeiras de Jarabacoa (Salto de Jimenoa, Salto de Baiguate)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://acento.com.do/ecologia/medio-ambiente-aumentara-precio-entrada-las-areas-protegidas-8447220.html"
+            }
+          ],
+          "observacao": "o viajante, na entrada, em pesos e em dinheiro"
+        },
+        "comoSePaga": "",
+        "quemPaga": "o viajante, na entrada, em pesos e em dinheiro"
+      }
+    ],
+    "situacaoAtual": []
+  }
+]

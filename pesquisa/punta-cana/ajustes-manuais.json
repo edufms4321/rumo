@@ -26,7 +26,8 @@
       "url": "https://eticket.migracion.gob.do/",
       "titulo": "Portal oficial do E-Ticket (unico lugar onde se preenche)"
      }
-    ]
+    ],
+    "vacinaFebreAmarela": "Certificado Internacional de Vacinacao (CIVP) contra febre amarela, tomado ha pelo menos 10 dias, exigido de quem parte de Sao Paulo, Rio de Janeiro, Minas Gerais ou Espirito Santo."
    }
   ],
   "saude": {
@@ -38,6 +39,25 @@
     {
      "url": "https://es.godominicanrepublic.com/planea-tu-viaje/requisitos-de-viaje",
      "titulo": "Go Dominican Republic (site oficial de turismo) — requisitos de viagem"
+    }
+   ]
+  },
+  "emergencia": {
+   "numeroUnico": "911",
+   "representacaoBrasileira": [],
+   "observacoes": "911 FUNCIONA, SIM. Existe o Sistema Nacional de Atencion a Emergencias y Seguridad 9-1-1, orgao do governo dominicano criado em 30/05/2014, que integra policia, saude/ambulancia, bombeiro e resgate em um unico numero. MAS A COBERTURA NAO E TOTAL: o sistema opera em 25 provincias e cobre cerca de 92,3% da populacao; cinco provincias de fronteira ainda nao tinham o servico, com expansao em andamento. Ou seja, nas areas turisticas do roteiro (Punta Cana/La Altagracia, Santo Domingo, Puerto Plata, Samana, Santiago e Jarabacoa) o 911 esta implantado - ha noticia oficial da Presidencia sobre a entrada em operacao do 911 em JARABACOA e em San Pedro de Macoris, La Vega e Moca. Na fronteira com o Haiti, nao conte com ele. ALTERNATIVAS: tenha tambem o telefone do hotel/resort (resort grande tem equipe medica propria e seguranca 24h), do seu seguro viagem e do seu transfer. EMBAIXADA DO BRASIL em Santo Domingo: Av. Winston Churchill no 32, 2o andar, Ed. Franco Acra y Asociados, Santo Domingo, telefone (+1 809) 532-0868 / 532-0342 - dado vindo de diretorio de terceiros (cidade-brasil.com.br), NAO do Itamaraty; a pagina do Itamaraty que tentei (gov.br/mre/.../embaixada-santodomingo/...) devolveu HTTP 404. Reconfirme antes de usar. Para apoio na estrada, o FCDO britanico cita o numero de assistencia +1 829 689 1000.",
+   "fontes": [
+    {
+     "url": "https://presidencia.gob.do/noticias/ministro-de-la-presidencia-encabeza-puesta-en-funcionamiento-del-sistema-911-en-jarabacoa"
+    },
+    {
+     "url": "https://acento.com.do/actualidad/el-911-atendio-671-mil-emergencias-casi-un-cuarto-mas-que-en-2018-8766478.html"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+     "url": "https://www.cidade-brasil.com.br/embaixada-do-brasil-na-republica-dominicana-santo-domingo.html"
     }
    ]
   }
