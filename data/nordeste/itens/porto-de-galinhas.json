@@ -1,0 +1,879 @@
+[
+  {
+    "id": "br-pdg-piscinas-naturais-de-porto-de-galinhas-passeio-de-ja",
+    "fontes": [
+      {
+        "url": "https://jovempan.com.br/comportamento/quando-ir-a-porto-de-galinhas-roteiro-clima-e-o-segredo-da-tabua-de-mares/"
+      },
+      {
+        "url": "https://www.civitatis.com/pt/porto-de-galinhas/passeio-jangada-porto-galinhas/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Porto+de+Galinhas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Piscinas naturais de Porto de Galinhas (passeio de jangada)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "passeio",
+    "tags": [
+      "piscinas-naturais",
+      "jangada",
+      "snorkel",
+      "depende-da-mare",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": -8.500786,
+      "lng": -35.003032
+    },
+    "descricaoCurta": "A travessia clássica de jangada até as piscinas de recife em frente à vila, possível só na maré baixa.",
+    "descricaoLonga": "É o passeio-assinatura do destino e o motivo pelo qual o roteiro inteiro gira em torno da tábua de marés: as piscinas só existem na maré baixa, quando o recife emerge e forma tanques de água rasa e transparente a algumas centenas de metros da praia. A operação é da associação de jangadeiros, com fila e ordem de embarque na praia da vila, e inclui colete e máscara. Duração total de 1h a 1h30, com cerca de 40 minutos dentro das piscinas. As saídas começam cerca de uma hora antes da maré mínima do dia; quando a água chega ao ponto mais baixo os jangadeiros já começam a preparar o retorno, porque o mar enche rápido. PREÇOS — e aqui as fontes divergem muito: uma fonte de 2026 fala em média de R$ 60 a R$ 65 por adulto pela travessia; outra fonte cita R$ 15,00 incluindo colete, óculos e ração para os peixes; e há menção a uma taxa ambiental/municipal de R$ 5 a R$ 10. Eu NÃO confirmei nenhum desses valores em fonte oficial da associação de jangadeiros nem da Prefeitura de Ipojuca, e a divergência entre R$ 15 e R$ 65 é grande demais para ser ignorada: confirme na praia. Melhor janela: semanas de lua cheia e lua nova, quando a amplitude de maré é maior e a maré mínima fica entre 0,0 e 0,2 m. Armadilhas: jangada oferecida fora da fila da associação; alimentação de peixe com ração, prática desaconselhada em área de recife; e marcar o passeio em dia de maré alta à tarde.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 15,
+      "max": 75,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "FAIXA AMPLA DE PROPÓSITO porque as fontes divergem: R$ 60-65/adulto (fonte de 2026), R$ 15 (outra fonte, sem data clara) e taxa ambiental/municipal adicional de R$ 5-10. Nenhum valor confirmado em fonte oficial. Confirme no local. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pdg-aviso-tabua-de-mares-a-regra-que-manda-no-roteiro-de",
+    "fontes": [
+      {
+        "url": "https://www.melhoresdestinos.com.br/tabua-de-mare.html"
+      },
+      {
+        "url": "https://jovempan.com.br/comportamento/quando-ir-a-porto-de-galinhas-roteiro-clima-e-o-segredo-da-tabua-de-mares/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Tábua de marés: a regra que manda no roteiro de Porto de Galinhas",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "mare",
+      "planejamento",
+      "piscinas-naturais"
+    ],
+    "descricaoCurta": "Piscinas naturais só existem na maré baixa; a fonte oficial de consulta é a Tábua das Marés da Marinha do Brasil.",
+    "descricaoLonga": "Orientação de planejamento, não um lugar. As piscinas naturais de Porto de Galinhas, Muro Alto, Maragogi, Japaratinga e São Miguel dos Milagres só se formam na maré baixa; em maré alta não há o que ver. A fonte oficial e gratuita é a Tábua das Marés do Centro de Hidrografia da Marinha (CHM), no endereço https://www.marinha.mil.br/chm/tabuas-de-mare — as previsões são elaboradas pelo CHM a partir de componentes harmônicas obtidas por observações, pelo Método de Análise Harmônica desenvolvido pelo vice-almirante Alberto dos Santos Franco. A publicação de 2026 cobre 44 portos, 2 ilhas oceânicas, 2 ilhas costeiras, 5 barras, 1 fundeadouro e 1 ponto de amarração, mais 1 fundeadouro na Estação Antártica Comandante Ferraz. Como usar: escolha o estado, depois o porto mais próximo do seu destino (por exemplo, Porto de Maceió para Maragogi). Regra prática: programe o passeio para começar cerca de uma hora antes da maré mínima do dia e prefira as semanas de lua cheia e lua nova, quando a maré mínima cai para 0,0 a 0,2 m. Isso tem consequência direta no roteiro: a hora do passeio muda cerca de 50 minutos por dia, então um roteiro de 4 noites pode ter maré boa só de manhã ou só de tarde. O que NÃO confirmei: eu tentei abrir https://www.marinha.mil.br/chm/tabuas-de-mare e também https://www.marinha.mil.br/chm/node/17624 nesta sessão e ambos retornaram HTTP 403 Forbidden ao meu acesso automatizado. A URL e a descrição do serviço vêm de resultado de busca que a indexou e de portal de turismo que a referencia. O endereço funciona em navegador comum.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.marinha.mil.br/chm/tabuas-de-mare"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pdg-praia-de-maracaipe",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Maracaipe&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Maracaípe",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "praia",
+    "tags": [
+      "surf",
+      "praia-aberta",
+      "coqueiral",
+      "pousadas"
+    ],
+    "coords": {
+      "lat": -8.5258,
+      "lng": -35.007096
+    },
+    "descricaoCurta": "Praia larga de mar aberto 3 km ao sul da vila, berço do surf em Pernambuco.",
+    "descricaoLonga": "Diferente das piscinas: aqui o mar é aberto, com ondas, faixa de areia larga e coqueiral. É onde ficam as pousadas mais calmas e mais baratas do destino e onde acontecem campeonatos de surf. Reserve meio dia; combine com o Pontal de Maracaípe no fim da tarde, que fica no extremo sul da mesma praia. Melhor de manhã, antes do vento virar. Armadilhas: tem correnteza e vala em alguns trechos — pergunte ao salva-vidas ou aos surfistas antes de entrar com criança; e a caminhada da vila até Maracaípe pela praia só é possível na maré baixa. O que NÃO confirmei: existência e horário de posto de salva-vidas.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-pdg-pontal-de-maracaipe-cavalos-marinhos-e-por-do-sol",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeio-de-buggy-porto-de-galinhas.html"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/porto-de-galinhas/o-que-fazer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Pontal de Maracaípe (cavalos-marinhos e pôr do sol)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "passeio",
+    "tags": [
+      "cavalos-marinhos",
+      "manguezal",
+      "jangada",
+      "por-do-sol",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "Encontro do rio Maracaípe com o mar, onde jangadas levam ao manguezal para avistar cavalos-marinhos e ver o sol cair.",
+    "descricaoLonga": "No extremo sul de Maracaípe o rio forma um pontal de areia e um braço de manguezal que é berçário de cavalos-marinhos. O passeio tradicional é de jangada a remo, saindo do pontal, com duração de cerca de 1h a 1h30, e o melhor horário é o fim da tarde, combinando o passeio com o pôr do sol — que é o mais bonito do destino. ATENÇÃO À ÉTICA E À LEI: a manipulação de cavalos-marinhos (tirar do habitat para foto, segurar no balde) é prática desaconselhada e alvo de restrição ambiental; recuse o jangadeiro que oferece isso e peça observação dentro da água, sem retirar o animal. Combina perfeitamente com o passeio de buggy ponta a ponta, que termina ali. O que NÃO confirmei: o preço do passeio de jangada no Pontal, se há taxa de acesso e qual o operador oficial — não encontrei fonte com valor datado nesta sessão, então nenhum preço é informado. A coordenada também foi omitida porque a consulta ao OpenStreetMap para 'Pontal de Maracaípe' não retornou resultado.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pdg-praia-do-cupe",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Cupe&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Cupe",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "praia",
+    "tags": [
+      "praia-aberta",
+      "resorts",
+      "faixa-de-areia",
+      "buggy"
+    ],
+    "coords": {
+      "lat": -8.474114,
+      "lng": -34.994901
+    },
+    "descricaoCurta": "Faixa larga de areia entre a vila e Muro Alto, com mar mais aberto e a maioria dos resorts.",
+    "descricaoLonga": "O Cupe é a praia de hotelaria do destino: faixa longa, areia clara, coqueiros e mar com mais onda que a vila, porque o recife é descontínuo. Boa para caminhar quilômetros na maré baixa e para quem quer ficar em resort com estrutura. Reserve meio dia ou a hospedagem toda. Melhor de manhã. Armadilhas: tem trechos com arrebentação e desnível — não é praia de piscina natural; e quem se hospeda ali depende de carro, táxi ou buggy para jantar na vila, a ~5 km. Faz parte do roteiro padrão do passeio de buggy ponta a ponta. O que NÃO confirmei: existência de posto de salva-vidas e eventual cobrança de acesso a trechos em frente a resorts (as praias são públicas no Brasil).",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-pdg-praia-de-muro-alto",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Muro+Alto&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Muro Alto",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "praia",
+    "tags": [
+      "piscina-natural",
+      "mar-raso",
+      "resorts",
+      "familia",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -8.419788,
+      "lng": -34.973779
+    },
+    "descricaoCurta": "O 'muro' de recife que forma uma piscina rasa e extensa, a melhor praia da região para criança.",
+    "descricaoLonga": "Muro Alto tem a barreira de arrecifes mais fechada do destino, o que cria uma lagoa rasa e morna de centenas de metros, com água quase sem onda — é a praia de família por excelência de Ipojuca e a mais bonita do trecho norte. Fica a ~12 km da vila, acessível de buggy, táxi ou carro. Reserve meio dia. ATENÇÃO À MARÉ: na maré cheia a lagoa ainda existe, mas fica funda e com mais correnteza perto das aberturas do recife; a maré baixa é o momento da piscina rasa de verdade. Armadilhas: a área é dominada por resorts e beach clubs que vendem day use e cadeira — a praia é pública, mas chegar a pé sem passar por empreendimento é difícil; e o estacionamento é privado e pago. O que NÃO confirmei: valores de day use, cadeira e estacionamento em Muro Alto — não encontrei nenhuma tabela com fonte, então não informo preço.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-pdg-passeio-de-buggy-ponta-a-ponta-pontal-de-maracaipe-a",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeio-de-buggy-porto-de-galinhas.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/passeios-saindo-de-porto-de-galinhas/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de buggy ponta a ponta (Pontal de Maracaípe a Muro Alto)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "passeio",
+    "tags": [
+      "buggy",
+      "praias",
+      "por-do-sol",
+      "flexivel"
+    ],
+    "descricaoCurta": "O passeio clássico de buggy que percorre as praias do Pontal de Maracaípe até Muro Alto, com paradas.",
+    "descricaoLonga": "É a forma mais eficiente de ver o litoral de Ipojuca em um dia: o buggeiro faz o trajeto 'ponta a ponta', do Pontal de Maracaípe até Muro Alto (ou o inverso), com paradas nas praias e no trajeto de areia e estrada. Opções de duração encontradas: 2h, 4h, 6h e 8h. PREÇOS — as fontes divergem e são de 2025, não de 2026: uma referência de setembro de 2025 traz R$ 400 para 4h, R$ 450 para 6h e R$ 600 para 8h; outra, de novembro de 2025, traz R$ 350 para 2h e R$ 400 para 4h. Em ambas o valor é POR BUGGY, com capacidade de até quatro pessoas — esse é o detalhe que mais gera atrito no fim do passeio. Dica de montagem: nos roteiros mais longos dá para encaixar o passeio de jangada às piscinas naturais no horário da maré baixa e terminar vendo o pôr do sol no Pontal de Maracaípe. Armadilhas: acordar com o buggeiro, em voz alta e de preferência por mensagem, que o valor é por buggy e quantas pessoas vão; e não aceitar desvio para loja comissionada. O que NÃO confirmei: preço de 2026 e se há tabela oficial da associação de bugueiros.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 350,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Valor POR BUGGY, até 4 pessoas. Faixa construída com DUAS referências de 2025 (set/2025: R$400/4h, R$450/6h, R$600/8h; nov/2025: R$350/2h, R$400/4h). NÃO é preço confirmado de 2026 e as duas referências não coincidem para a mesma duração. | tipo: por-grupo"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pdg-centrinho-de-porto-de-galinhas-rua-esperanca-e-rua-d",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Vila+de+Porto+de+Galinhas+Ipojuca&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centrinho de Porto de Galinhas (Rua Esperança e Rua das Sombrinhas)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "compras",
+    "tags": [
+      "compras",
+      "artesanato",
+      "vila",
+      "a-pe",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": -8.506835,
+      "lng": -35.004077
+    },
+    "descricaoCurta": "O miolo da vila: Rua Esperança ligando a Rua Beijupirá à Rua das Piscinas Naturais, com lojas, bares e agências.",
+    "descricaoLonga": "As ruas mais interessantes da vila são a Beijupirá, a Rua das Piscinas Naturais (também chamada Rua das Sombrinhas, por causa dos guarda-sóis coloridos pendurados) e, ligando as duas, a Rua Esperança — descrita nas fontes como 'o centrinho do centrinho', com bares, restaurantes, lojas e agências de turismo. Subindo a Esperança há roupa e artigo de praia para todos os bolsos, além de cafeteria, hamburgueria, pizzaria, churrascaria e sorveteria. Horários citados: lojas até cerca de 22h e restaurantes até cerca de 23h. Reserve 1h a 2h para compras e mais tempo se for jantar. Melhor no começo da noite, quando esfria e as sombrinhas acendem. Armadilhas: peça comercializada como artesanato que é industrial; e agência de turismo de balcão vendendo passeio de terceiro sem voucher. O que NÃO confirmei: horário oficial do comércio e qualquer preço.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-pdg-barcaxeira",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Barcaxeira",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "restaurante",
+    "tags": [
+      "macaxeira",
+      "escondidinho",
+      "musica-ao-vivo",
+      "centrinho"
+    ],
+    "descricaoCurta": "Casa especializada em receitas com macaxeira, em frente ao ponto de saída das jangadas.",
+    "descricaoLonga": "Restaurante de identidade clara: tudo gira em torno da macaxeira, com destaque para os escondidinhos recheados de frango, carne de sol, camarão ou carne seca. Fica na Rua Esperança, 458, Centro, em frente ao ponto de partida do passeio de jangada, e costuma ter música ao vivo no jantar. Reserve 1h a 1h30. Bom para o almoço depois das piscinas naturais, já que você sai da jangada praticamente na porta. Armadilha: casa com música ao vivo frequentemente cobra couvert artístico — pergunte o valor antes de sentar. O que NÃO confirmei: horário de funcionamento, telefone e faixa de preço. A fonte que traz o endereço não informa nenhum desses dados, então não há valor aqui.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pdg-peixe-na-telha",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Peixe na Telha",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "comida-nordestina",
+      "vista-para-o-mar",
+      "centrinho"
+    ],
+    "descricaoCurta": "Referência de comida nordestina e peixe em frente às piscinas naturais, na vila.",
+    "descricaoLonga": "Casa tradicional da vila, citada como referência de comida nordestina, com localização privilegiada em frente às piscinas naturais. Prato destacado pela fonte: o Peixe Belle Roselis — filé de peixe grelhado com crosta de castanha de caju, camarões salteados com manteiga de ervas, arroz com perfume de canela e batata noisette. Reserve 1h a 1h30; melhor no almoço, pela vista. Armadilha: pratos de peixe e camarão em casa com vista para o mar costumam ser servidos para duas pessoas com preço de prato individual no menu — confirme o rendimento antes. O que NÃO confirmei: endereço completo, telefone, horário e faixa de preço. Nenhum valor é informado aqui por isso.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pdg-rua-beijupira-e-vida-noturna-da-vila",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-de-porto-de-galinhas-noite.html"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Vila+de+Porto+de+Galinhas+Ipojuca&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Rua Beijupirá e vida noturna da vila",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "bares",
+      "musica-ao-vivo",
+      "centrinho",
+      "a-pe"
+    ],
+    "coords": {
+      "lat": -8.506835,
+      "lng": -35.004077
+    },
+    "descricaoCurta": "A noite de Porto de Galinhas se resolve a pé entre a Rua Beijupirá, a Rua Esperança e a Rua das Sombrinhas.",
+    "descricaoLonga": "A vida noturna da vila não é de balada, e sim de rua: bares, mesas na calçada, música ao vivo e restaurantes que funcionam até cerca de 23h, concentrados num quadrilátero que se faz inteiro a pé — Rua Beijupirá, Rua Esperança e Rua das Piscinas Naturais (Rua das Sombrinhas). Em alta temporada e feriado o movimento vai até mais tarde, e há casas com forró. Reserve 2h a 4h. Melhor de quinta a sábado. Armadilhas: couvert artístico não informado; e 'promoção de caipirinha' com dose de aguardente genérica. O que NÃO confirmei: nomes, horários, preços e existência atual de casas noturnas específicas — não encontrei fonte com dados datados de 2026, então não cito estabelecimento nominalmente para não inventar.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-pdg-praia-dos-carneiros",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+dos+Carneiros+Tamandare&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia dos Carneiros",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "praia",
+    "tags": [
+      "piscina-natural",
+      "coqueiral",
+      "rio-formoso",
+      "bate-volta",
+      "depende-da-mare",
+      "day-use",
+      "praia-dos-carneiros"
+    ],
+    "coords": {
+      "lat": -8.696655,
+      "lng": -35.088748
+    },
+    "descricaoCurta": "Coqueiral, água transparente e a foz do Rio Formoso, em Tamandaré — o bate-volta mais bonito a partir de Porto de Galinhas.",
+    "descricaoLonga": "A praia mais fotografada de Pernambuco: mar raso e morno protegido por recife, coqueiral chegando até a areia e a capela branca de São Benedito na ponta. Fica em Tamandaré, a ~70 km ao sul de Porto de Galinhas, e é um bate-volta de dia inteiro, de carro ou transfer. ESTRUTURA E COBRANÇA — esta é a parte que mais surpreende: o acesso à praia é público, mas na prática você paga a um beach club pelo estacionamento e pela estrutura. A faixa encontrada é de R$ 30 a R$ 70 por estacionamento + diária em beach club; em geral o valor é creditado em consumo. Dois relatos concretos da fonte: R$ 60 pagos no Beijupirá, revertidos em comida e bebida, incluindo banheiro e chuveiro; e consumação mínima de R$ 30 no Bora Bora apenas para estacionar. Ou seja: CONSUMAÇÃO MÍNIMA EXISTE e varia por casa; pergunte o valor e se é creditado antes de estacionar. Há também aluguel de caiaque e stand up paddle na praia, sem preço confirmado. Melhor na maré baixa, quando aparecem as piscinas; chegue cedo, porque o estacionamento lota. Armadilhas: 'facilitador' na estrada vendendo day use de casa que não representa; e cobrança de taxa de acesso em estrada vicinal por particular, sem recibo.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 30,
+      "max": 70,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Faixa de estacionamento + diária em beach club, em geral creditada em consumo. UMA fonte, não oficial, sem data explícita de coleta. A praia em si é pública e gratuita; essa é cobrança privada. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-pdg-capela-de-sao-benedito-praia-dos-carneiros",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Capela de São Benedito (Praia dos Carneiros)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "atracao",
+    "tags": [
+      "igreja",
+      "seculo-xviii",
+      "fotografia",
+      "a-pe",
+      "bate-volta",
+      "praia-dos-carneiros"
+    ],
+    "descricaoCurta": "Capelinha branca do século XVIII plantada na areia, o cartão-postal de Carneiros.",
+    "descricaoLonga": "Construída no século XVIII, a capela fica literalmente na praia e é alcançada caminhando pela areia. É a imagem que vende o destino e, por isso, o ponto mais disputado para foto — vá cedo ou no fim da tarde para não dividir o quadro com dezenas de pessoas. Reserve 20 a 40 minutos, encaixado no dia de praia. A capela é usada para casamentos, o que pode fechar o acesso em alguns horários. O que NÃO confirmei: horário de visitação, se o interior está aberto ao público e se há cobrança — a fonte que descreve o acesso declara explicitamente que não traz horário nem ingresso. Por isso não há preço, horário nem coordenada aqui (a consulta ao OpenStreetMap para a capela não retornou resultado).",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pdg-passeio-de-barco-pela-foz-do-rio-formoso-carneiros",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de barco pela foz do Rio Formoso (Carneiros)",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "passeio",
+    "tags": [
+      "barco",
+      "manguezal",
+      "banho-de-argila",
+      "rio-formoso",
+      "bate-volta",
+      "praia-dos-carneiros"
+    ],
+    "descricaoCurta": "Catamarã ou lancha pelo estuário do Rio Formoso, com manguezal e banho de argila.",
+    "descricaoLonga": "Complemento natural do dia em Carneiros: embarcações saem para o estuário do Rio Formoso, passando pelo manguezal, com parada para banho de argila. Duração relatada de 2 a 3 horas. Preço citado: de R$ 30 a R$ 60, dependendo da embarcação — mas atenção, esse valor é de UMA fonte de turismo, sem data de coleta, e é baixo o suficiente para desconfiar de que esteja defasado; confirme no local. Melhor pela manhã, antes do vento. Armadilha: 'passeio de catamarã' e 'passeio de lancha' são produtos diferentes com preços diferentes, e o barato pode ser uma volta curta demais. O que NÃO confirmei: operadores, horários de saída, se há taxa de embarque e o preço vigente. A coordenada foi omitida porque o ponto de embarque não foi confirmado em fonte geográfica.",
+    "duracao": {
+      "min": 120,
+      "tipica": 150,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 30,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "UMA fonte, sem data de coleta, com a ressalva explícita de que varia 'dependendo da embarcação'. Trate como piso histórico, não como preço de 2026. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-pdg-aviso-day-use-consumacao-e-estacionamento-na-praia-d",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Day use, consumação e estacionamento na Praia dos Carneiros",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "taxas",
+      "day-use",
+      "consumacao-minima",
+      "golpes",
+      "praia-dos-carneiros"
+    ],
+    "descricaoCurta": "A praia é pública, mas o acesso prático passa por beach clubs que cobram estacionamento, day use e consumação mínima.",
+    "descricaoLonga": "Orientação de custo, não um lugar. Em Carneiros não existe uma taxa pública de acesso à praia — ela é pública, como toda praia no Brasil. O que existe é um ecossistema de cobranças PRIVADAS que, na prática, funciona como pedágio: você paga a um beach club pelo estacionamento e pela estrutura (banheiro, chuveiro, cadeira, guarda-sol). Valores apurados em uma fonte detalhada: a faixa de estacionamento + diária em beach club fica entre R$ 30 e R$ 70; os autores pagaram R$ 60 no Beijupirá, com o valor revertido em consumo de comida e bebida e com direito a banheiro e chuveiro; e no Bora Bora havia consumação mínima de R$ 30 só para estacionar. Perguntas a fazer ANTES de estacionar: (1) quanto é a taxa? (2) ela é por pessoa ou por veículo? (3) o valor é creditado em consumo ou é perdido? (4) tem consumação mínima adicional? Faça por mensagem se possível. Outras cobranças relatadas na região: 'taxa de acesso' em estrada vicinal cobrada por particular sem recibo — não pague sem comprovante. Impacto no orçamento: para um casal, o dia em Carneiros começa em torno de R$ 60 a R$ 140 só de estrutura, antes de comida, bebida e passeio de barco. O que NÃO confirmei: qualquer tabela oficial da Prefeitura de Tamandaré, e se há cobrança municipal de acesso ou estacionamento regulamentada.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-pdg-aviso-pega-turista-e-cobrancas-nas-piscinas-naturais",
+    "fontes": [
+      {
+        "url": "https://jovempan.com.br/comportamento/quando-ir-a-porto-de-galinhas-roteiro-clima-e-o-segredo-da-tabua-de-mares/"
+      },
+      {
+        "url": "https://www.civitatis.com/pt/porto-de-galinhas/passeio-jangada-porto-galinhas/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeio-de-buggy-porto-de-galinhas.html"
+      },
+      {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Pega-turista e cobranças nas piscinas naturais de Ipojuca",
+    "cidadeId": "porto-de-galinhas",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "pega-turista",
+      "golpes",
+      "piscinas-naturais"
+    ],
+    "descricaoCurta": "Como não cair nas armadilhas clássicas do passeio de jangada e dos passeios vendidos na praia.",
+    "descricaoLonga": "Orientação de roteiro. Os atritos mais comuns em Porto de Galinhas são previsíveis: (1) JANGADA FORA DA FILA — a operação das piscinas naturais é organizada pela associação de jangadeiros, com fila e ordem de embarque; jangada oferecida 'particular' na beira da praia por preço inflado é a armadilha número um, e a divergência de preço nas próprias fontes (de R$ 15 a R$ 65 por pessoa) mostra o quanto o valor é negociável e opaco. (2) RAÇÃO PARA PEIXE — alimentar peixe em área de recife é prática desaconselhada do ponto de vista ambiental e costuma vir embutida na oferta; recuse. (3) PREÇO POR BUGGY VIRANDO PREÇO POR PESSOA — os passeios de buggy são cotados por buggy, com até 4 pessoas; deixe isso explícito antes de embarcar. (4) MARÉ ERRADA — passeio vendido para horário sem maré baixa; confira a tábua de marés da Marinha antes de pagar. (5) DAY USE VENDIDO POR TERCEIRO na estrada de Carneiros. (6) CONSUMAÇÃO MÍNIMA informada só depois de sentar. (7) ARTESANATO INDUSTRIAL vendido como peça autoral na Rua Esperança. Regra geral: nada de pagamento antecipado em dinheiro para quem não tem voucher, CNPJ ou credencial.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

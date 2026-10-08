@@ -1,0 +1,780 @@
+[
+  {
+    "id": "br-mrg-passeio-as-piscinas-naturais-das-gales-de-maragogi",
+    "fontes": [
+      {
+        "url": "https://www.fuiserviajante.com/"
+      },
+      {
+        "url": "https://quantocustaviajar.com/brasil/maragogi/passeios"
+      },
+      {
+        "url": "https://www.civitatis.com/pt/porto-de-galinhas/excursao-maragogi/"
+      },
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/institucional/legislacao/instrucoes-normativas/arquivos/in_082009.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio às piscinas naturais das Galés de Maragogi",
+    "cidadeId": "maragogi",
+    "categoria": "passeio",
+    "tags": [
+      "gales",
+      "piscinas-naturais",
+      "catamara",
+      "depende-da-mare",
+      "apa-costa-dos-corais",
+      "imperdivel"
+    ],
+    "descricaoCurta": "O passeio-assinatura de Maragogi: catamarã ou lancha até os recifes das Galés, a ~6 km da costa, só na maré baixa.",
+    "descricaoLonga": "É o motivo de ir a Maragogi. As Galés são formações de recife ao largo, dentro da APA Costa dos Corais — área de proteção ambiental criada em 1997 que abrange 13 municípios ao longo de 135 km, entre o litoral norte de Alagoas e o sul de Pernambuco. COMO FUNCIONA: catamarã, escuna ou lancha saindo das praias de Maragogi, principalmente da Praia Central; UMA saída por dia, no horário da maré baixa; duração total relatada de 3 a 4 horas, dos quais cerca de 30 minutos de travessia em cada sentido; e os órgãos ambientais LIMITAM o número de visitantes por dia, o que faz o passeio esgotar na alta temporada. A visitação é proibida quando a maré baixa não atinge o patamar necessário — uma fonte cita proibição com maré baixa de 0,6 m. PREÇOS — e aqui as fontes divergem bastante: uma fonte traz média de R$ 120 por pessoa para o passeio às piscinas naturais; outra traz catamarã pela orla a R$ 60 por pessoa e catamarã 'opcional' para as Galés a cerca de R$ 100. Note que 'catamarã pela orla' e 'passeio às Galés' são PRODUTOS DIFERENTES e essa é a confusão mais explorada comercialmente. TAXA DE EMBARQUE SEPARADA: eu procurei especificamente e NÃO encontrei confirmação de taxa de embarque ou taxa ambiental cobrada à parte em Maragogi — a fonte consultada afirma explicitamente que os resultados não traziam informação sobre taxa ambiental oficial nem o nome da operadora oficial do catamarã. Portanto: pergunte ao operador se o valor anunciado é TOTAL antes de pagar, e exija que isso esteja no voucher. Melhor nas semanas de lua cheia e lua nova. Armadilhas: ambulante vendendo na areia sem voucher; embarcação acima da capacidade; aluguel de snorkel cobrado depois, já no barco; e marcar para o último dia.",
+    "duracao": {
+      "min": 180,
+      "tipica": 210,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 60,
+      "max": 120,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "FONTES DIVERGEM: média de R$ 120/pessoa para as piscinas naturais em uma fonte; R$ 60 para catamarã pela orla e ~R$ 100 para o catamarã das Galés em outra. São produtos diferentes. Nenhuma fonte oficial de operadora. TAXA DE EMBARQUE SEPARADA: não confirmada nem descartada — pergunte se o valor é total. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-mrg-praia-de-antunes",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Antunes+Maragogi&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Antunes",
+    "cidadeId": "maragogi",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "recife",
+      "piscina-natural",
+      "pousadas",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -8.974553,
+      "lng": -35.180035
+    },
+    "descricaoCurta": "A praia mais bonita do município de Maragogi, com recife próximo e piscinas rasas na maré baixa.",
+    "descricaoLonga": "Fica ao sul do centro de Maragogi, na região de Barra Grande, e é a praia de referência para quem quer mar bonito sem pegar barco: faixa larga de areia, coqueiros e o recife perto da costa, formando poças e piscinas rasas na maré baixa. Concentra pousadas e resorts. Reserve meio dia. Melhor na maré baixa de manhã. Armadilhas: o recife é cortante — use calçado de borracha; e os trechos em frente a resorts têm estrutura privada de cadeira e guarda-sol, mesmo com a praia sendo pública. O que NÃO confirmei: preços de estrutura de praia, presença de salva-vidas e nenhuma tabela de cobrança.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-barra-grande-maragogi",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Barra+Grande+Maragogi&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Barra Grande (Maragogi)",
+    "cidadeId": "maragogi",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "resorts",
+      "coqueiral",
+      "mar-calmo",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -8.938104,
+      "lng": -35.210597
+    },
+    "descricaoCurta": "Trecho norte do litoral de Maragogi, com os grandes resorts e praias de coqueiral e recife.",
+    "descricaoLonga": "Barra Grande é a localidade ao norte do centro de Maragogi onde ficam os resorts grandes e os condomínios, com praias de coqueiral, mar protegido por recife e pouca infraestrutura de comércio independente. Serve bem para quem quer regime de resort e não pretende sair; para quem quer comer fora e circular, o centro de Maragogi é melhor. Reserve meio dia a um dia. Melhor na maré baixa. Armadilha: a dependência de carro para qualquer coisa fora do resort, e o jantar fora que vira uma operação logística. O que NÃO confirmei: nada além da localização — não há preço nem horário aqui porque nenhuma fonte com valor foi aberta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-croa-de-sao-bento-passeio-de-jangada",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/piscinas-naturais-de-japaratinga/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Croa de São Bento (passeio de jangada)",
+    "cidadeId": "maragogi",
+    "categoria": "passeio",
+    "tags": [
+      "croa",
+      "banco-de-areia",
+      "jangada",
+      "depende-da-mare",
+      "menos-turistico"
+    ],
+    "descricaoCurta": "Banco de areia que emerge na maré baixa entre Maragogi e Japaratinga, alcançado por jangadas de até seis pessoas.",
+    "descricaoLonga": "A Croa de São Bento é a alternativa menos turística às Galés: fica no município de Maragogi, mas do lado de Japaratinga, e na maré baixa forma piscinas naturais de água translúcida sobre um banco de areia branca. O passeio é feito por JANGADAS COM ATÉ SEIS PASSAGEIROS, o que deixa o local muito mais vazio que o catamarã das Galés — é a principal razão para escolher esta opção. Depende inteiramente da maré baixa. Reserve 2h a 3h. Melhor nas semanas de lua cheia e lua nova. Armadilhas: como a operação é pequena e informal, o atrito de preço é maior — combine o valor POR JANGADA ou POR PESSOA de forma explícita antes de embarcar; e confirme se colete está incluído. O que NÃO confirmei, e por isso não há preço aqui: valor do passeio, operadores, ponto exato de saída e horários. A fonte descreve o formato e a localização, mas não traz valor.",
+    "duracao": {
+      "min": 120,
+      "tipica": 150,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-mrg-piscinas-naturais-de-japaratinga",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/piscinas-naturais-de-japaratinga/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Japaratinga+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Piscinas naturais de Japaratinga",
+    "cidadeId": "maragogi",
+    "categoria": "passeio",
+    "tags": [
+      "piscinas-naturais",
+      "bate-volta",
+      "apa",
+      "depende-da-mare",
+      "menos-turistico",
+      "regras-ambientais",
+      "japaratinga"
+    ],
+    "coords": {
+      "lat": -9.087464,
+      "lng": -35.263403
+    },
+    "descricaoCurta": "Piscinas tão bonitas quanto as de Maragogi, com menos turismo e regras ambientais mais explícitas.",
+    "descricaoLonga": "Japaratinga fica ~20 km ao sul de Maragogi pela AL-101 Norte e é o bate-volta mais recompensador da base: segundo a fonte, as piscinas naturais de Japaratinga são tão bonitas quanto as de Maragogi, mas com a vantagem de menos turismo. O passeio dura cerca de 2h30. A área é APA (Área de Proteção Ambiental) e tem RESTRIÇÕES EXPLÍCITAS que vale conhecer antes: é PROIBIDO levar caixinha de som e é PROIBIDO usar protetor solar dentro das piscinas. Isso muda o que você leva na bolsa — use camisa de lycra com proteção UV em vez de creme, e deixe o som em casa. Depende de maré baixa. Reserve meio dia contando o deslocamento. Melhor nas semanas de lua cheia e lua nova. Armadilhas: operador que ignora as regras da APA (sinal de que também ignora capacidade e segurança); e esperar infraestrutura de restaurante — a fonte registra que há poucos restaurantes na região e que muitos hotéis e pousadas têm os seus próprios. O que NÃO confirmei: preço do passeio, operadores e horários de saída.",
+    "duracao": {
+      "min": 150,
+      "tipica": 210,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-mrg-companhia-da-lagosta",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/restaurantes-em-japaratinga/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Companhia da Lagosta",
+    "cidadeId": "maragogi",
+    "categoria": "restaurante",
+    "tags": [
+      "lagosta",
+      "frutos-do-mar",
+      "custo-beneficio",
+      "bate-volta",
+      "japaratinga"
+    ],
+    "descricaoCurta": "Casa de lagosta na região de Japaratinga e Maragogi, citada por bom custo-benefício.",
+    "descricaoLonga": "A Costa dos Corais é famosa pela lagosta, e a Companhia da Lagosta é apontada pela fonte como o lugar onde dá para comer um belo prato de lagosta por um preço acessível para o padrão da região. Serve como a parada de almoço do bate-volta a Japaratinga. Reserve 1h30 a 2h. Armadilha: 'lagosta por quilo' é a forma mais comum de a conta surpreender no Nordeste — peça para pesar na sua frente e confirme o preço do quilo antes. O que NÃO confirmei: endereço, telefone, horário e faixa de preço. A fonte não traz nenhum desses dados, e por isso nenhum valor é informado aqui. Também vale o contexto da fonte: há POUCOS restaurantes independentes na região, e muitos hotéis e pousadas operam com restaurante próprio — se você não está de carro, planeje as refeições.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mrg-pousada-yapara-tiba-restaurante",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/restaurantes-em-japaratinga/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Pousada Yapara-tiba (restaurante)",
+    "cidadeId": "maragogi",
+    "categoria": "restaurante",
+    "tags": [
+      "pousada",
+      "restaurante",
+      "bitingui",
+      "bate-volta",
+      "japaratinga"
+    ],
+    "descricaoCurta": "Pousada com restaurante no povoado de Bitingui, em Japaratinga — uma das poucas opções de refeição da região.",
+    "descricaoLonga": "Citada pela fonte como opção de refeição em Japaratinga, com endereço na Av. Renan Calheiros, s/n, Povoado de Bitingui, Japaratinga, telefone (82) 3297-1214. O ponto importante não é a casa em si, é o contexto: a fonte registra que há POUCOS restaurantes na região e que por isso muitos hotéis e pousadas têm restaurante próprio e atendem também quem não está hospedado. Isso significa que, em Japaratinga e Maragogi fora do centro, 'onde almoçar' é uma decisão a tomar de manhã, não na hora da fome. Reserve 1h30. Armadilha: restaurante de pousada pequena pode exigir aviso prévio para receber quem não está hospedado — ligue antes. O que NÃO confirmei: horário de funcionamento, cardápio, faixa de preço e se atende ao público externo sem reserva.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "+55 82 3297-1214"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-mrg-aviso-gales-de-maragogi-limite-de-visitantes-mare-e",
+    "fontes": [
+      {
+        "url": "https://www.fuiserviajante.com/"
+      },
+      {
+        "url": "https://quantocustaviajar.com/brasil/maragogi/passeios"
+      },
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/institucional/legislacao/instrucoes-normativas/arquivos/in_082009.pdf"
+      },
+      {
+        "url": "https://www.civitatis.com/pt/porto-de-galinhas/excursao-maragogi/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Galés de Maragogi: limite de visitantes, maré e o que perguntar antes de pagar",
+    "cidadeId": "maragogi",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "taxas",
+      "limite-de-visitantes",
+      "apa-costa-dos-corais",
+      "golpes"
+    ],
+    "descricaoCurta": "Uma saída por dia, vaga limitada por órgão ambiental, maré manda — e taxa de embarque separada não foi confirmada.",
+    "descricaoLonga": "Orientação de custo e de risco. QUATRO FATOS relevantes sobre o passeio das Galés: (1) há apenas UMA SAÍDA POR DIA, no horário da maré baixa, com duração de 3 a 4 horas; (2) os órgãos ambientais LIMITAM o número de visitantes diários e os passeios esgotam na alta temporada — o passeio está dentro da APA Costa dos Corais, criada em 1997, com 13 municípios ao longo de 135 km entre o litoral norte de Alagoas e o sul de Pernambuco; (3) a visitação é PROIBIDA quando a maré baixa não atinge o patamar necessário (uma fonte cita 0,6 m), o que significa que a data do seu passeio pode mudar; (4) 'catamarã pela orla' e 'passeio às Galés' são produtos DIFERENTES com preços diferentes, e essa confusão é explorada comercialmente. SOBRE TAXA DE EMBARQUE SEPARADA — foi pedido que eu verificasse isso, e a resposta honesta é: NÃO CONFIRMEI nem a existência nem a inexistência de taxa de embarque ou taxa ambiental cobrada à parte em Maragogi. A fonte que consultei declara expressamente que os resultados não traziam informação específica sobre taxa ambiental oficial nem sobre o nome da operadora oficial do catamarã, e eu não encontrei nenhuma norma do ICMBio ou da Prefeitura de Maragogi que a institua. Portanto, trate isso como pergunta obrigatória: 'o valor anunciado é TOTAL, incluindo embarque, equipamento e qualquer taxa?' — e peça que conste no voucher. O QUE PERGUNTAR ANTES DE PAGAR: valor total; se é catamarã das Galés ou da orla; horário de saída e qual a maré do dia; se snorkel e colete estão incluídos; capacidade da embarcação; e política de reagendamento por maré ou mau tempo, por escrito. RISCO DE ROTEIRO: nunca marque as Galés para o último dia.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-mrg-praia-central-e-orla-de-maragogi",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/brasil/maragogi/passeios"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Maragogi+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia Central e orla de Maragogi",
+    "cidadeId": "maragogi",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "orla-urbana",
+      "saida-de-passeios",
+      "a-pe",
+      "centro"
+    ],
+    "coords": {
+      "lat": -9.011828,
+      "lng": -35.222512
+    },
+    "descricaoCurta": "A praia do centro de Maragogi, de onde saem os catamarãs e lanchas para as Galés.",
+    "descricaoLonga": "A orla central é o coração funcional do destino: é daqui que saem as embarcações para as piscinas naturais das Galés, e é o único trecho de Maragogi onde dá para resolver tudo a pé — pousadas, restaurantes, mercado, farmácia e agências. O mar é protegido por recife, com poças na maré baixa, mas não é o trecho mais bonito do município (Antunes e Barra Grande são melhores para banho). Reserve 1h a 3h, ou use como base. Melhor de manhã, quando as embarcações estão embarcando e a orla está em movimento. Armadilha: é onde circulam os ambulantes vendendo passeio sem voucher — compre em agência ou pela pousada. O que NÃO confirmei: preços de barraca, estrutura de praia e horários do comércio.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-praia-de-peroba",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Barra+Grande+Maragogi&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Peroba",
+    "cidadeId": "maragogi",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "coqueiral",
+      "recife",
+      "mais-vazia",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -8.936887,
+      "lng": -35.167704
+    },
+    "descricaoCurta": "Praia de coqueiral no trecho norte de Maragogi, na região de Barra Grande, mais vazia que o centro.",
+    "descricaoLonga": "Fica na região de Barra Grande, ao norte do centro de Maragogi, e é o tipo de praia que recompensa quem tem carro: coqueiral, faixa de areia larga, recife próximo formando poças na maré baixa e muito menos gente que a orla central. Reserve meio dia. Melhor na maré baixa. Armadilhas: pouca ou nenhuma estrutura de banheiro e alimentação em alguns trechos — leve água; e o recife é cortante. O que NÃO confirmei: estrutura de barraca, acesso de carro em todos os trechos e qualquer preço.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-centro-de-maragogi-comercio-e-artesanato",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Maragogi+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Centro de Maragogi (comércio e artesanato)",
+    "cidadeId": "maragogi",
+    "categoria": "compras",
+    "tags": [
+      "compras",
+      "artesanato",
+      "centro",
+      "a-pe",
+      "agencias"
+    ],
+    "coords": {
+      "lat": -9.011828,
+      "lng": -35.222512
+    },
+    "descricaoCurta": "O centrinho de Maragogi, onde ficam o comércio, as agências de passeio e as lojas de artesanato.",
+    "descricaoLonga": "O centro de Maragogi é pequeno e funcional: comércio de rua, mercado, farmácia, agências de turismo e lojas de artesanato e artigos de praia. É onde se compra o passeio das Galés com voucher, em vez de na areia com ambulante, e onde se resolve o abastecimento de quem está em pousada sem pensão completa. Reserve 45 minutos a 1h30. Melhor no fim da tarde, mais fresco. Armadilha: loja de 'preço de fábrica' no caminho do transfer, que é parada comissionada. O que NÃO confirmei: horários do comércio, nomes de agências credenciadas e qualquer faixa de preço — não abri fonte da Prefeitura de Maragogi nem do Cadastur nesta sessão. Recomendação prática: antes de fechar passeio, peça o número de cadastro da agência no Cadastur do Ministério do Turismo e confira.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-vila-e-praia-de-japaratinga",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/restaurantes-em-japaratinga/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/piscinas-naturais-de-japaratinga/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Japaratinga+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Vila e praia de Japaratinga",
+    "cidadeId": "maragogi",
+    "categoria": "praia",
+    "tags": [
+      "bate-volta",
+      "vila-de-pescadores",
+      "praia",
+      "tranquilo",
+      "depende-da-mare",
+      "japaratinga"
+    ],
+    "coords": {
+      "lat": -9.087464,
+      "lng": -35.263403
+    },
+    "descricaoCurta": "Vila de pescadores ~20 km ao sul de Maragogi, com praia de coqueiral e muito menos turismo.",
+    "descricaoLonga": "Japaratinga é o bate-volta natural de Maragogi e também uma base alternativa mais barata e mais tranquila: vila pequena, praia de coqueiral com recife formando piscinas na maré baixa, e um ritmo visivelmente menos turístico que o do vizinho. Dá para fazer em meio dia só de praia, ou em um dia inteiro combinando com o passeio de piscinas naturais de Japaratinga ou com a Croa de São Bento. Reserve meio dia a um dia. Melhor na maré baixa. ATENÇÃO À LOGÍSTICA DE COMIDA: a fonte registra que há POUCOS restaurantes na região e que muitos hotéis e pousadas têm restaurante próprio — se você vier de carro de Maragogi para passar o dia, decida de manhã onde vai almoçar e ligue antes. O que NÃO confirmei: horários, estrutura de praia e qualquer preço.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mrg-aviso-maragogi-exige-carro-como-chegar-e-como-circul",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-maragogi.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Maragogi exige carro: como chegar e como circular",
+    "cidadeId": "maragogi",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "logistica",
+      "transporte",
+      "planejamento"
+    ],
+    "descricaoCurta": "Não há transporte público útil: Maragogi fica a 124 km de Maceió e 130 km de Recife, e tudo depende de carro ou transfer.",
+    "descricaoLonga": "Orientação de logística. Maragogi está no litoral norte de Alagoas, a cerca de 124 km de Maceió e 130 km de Recife — ou seja, é igualmente acessível pelos dois aeroportos, o que abre a possibilidade de entrar por um e sair pelo outro, encaixando Porto de Galinhas ou São Miguel dos Milagres no mesmo roteiro. As opções de chegada citadas pelas fontes são: carro alugado, transfer compartilhado ou privativo, táxi, transporte por aplicativo e ônibus ou vans intermunicipais. DENTRO DO DESTINO, o problema é outro: não existe transporte público útil para turista. Se a hospedagem for na Praia Central, dá para viver a pé; se for em Antunes, Barra Grande ou qualquer resort, você depende de carro, táxi ou bicicleta para qualquer coisa — inclusive para jantar. E a oferta de aplicativo é irregular à noite. RECOMENDAÇÃO: alugue carro se a base não for o centro, ou escolha o centro se não for alugar. O que NÃO confirmei, e é uma lacuna real: NENHUMA tarifa. Não consegui obter valor de ônibus intermunicipal, de transfer compartilhado, de transfer privativo nem de táxi para Maragogi em nenhuma fonte com data que eu tenha aberto nesta sessão. Qualquer número que eu escrevesse aqui seria invenção. Cote com duas empresas antes de viajar.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-mrg-noite-em-maragogi-orla-central-catamara-do-fim-de-ta",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/brasil/maragogi/passeios"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Maragogi+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Noite em Maragogi: orla central, catamarã do fim de tarde e bares de praia",
+    "cidadeId": "maragogi",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "bares",
+      "orla",
+      "por-do-sol",
+      "tranquilo"
+    ],
+    "coords": {
+      "lat": -9.011828,
+      "lng": -35.222512
+    },
+    "descricaoCurta": "A noite de Maragogi é curta e concentrada na orla central: bares de praia, música ao vivo eventual e muito pouco depois das 23h.",
+    "descricaoLonga": "Expectativa antes de qualquer coisa: Maragogi NÃO é destino de balada. A vida noturna é de bar de praia e restaurante na orla central, com música ao vivo eventual em alta temporada, e esvazia cedo; quem está em resort em Barra Grande ou Antunes normalmente jantar e ficar dentro do próprio hotel, porque sair significa carro. Existe um produto que funciona bem como 'programa de fim de tarde': o passeio de catamarã pela ORLA — diferente do passeio às Galés —, citado a cerca de R$ 60 por pessoa, que percorre a costa sem ir aos recifes. Reserve 2h a 3h. Melhor de quinta a sábado, na alta temporada. Armadilhas: confundir o catamarã da orla (mais barato, sem piscinas) com o passeio das Galés (mais caro, com snorkel nos recifes) — é a troca comercial mais comum do destino; couvert artístico não informado; e contar com transporte por aplicativo depois das 22h, que é irregular. O que NÃO confirmei: nomes de bares, horários de funcionamento, valor de couvert e se o catamarã da orla opera no fim da tarde todos os dias. Não cito estabelecimento nominalmente porque nenhuma fonte com dado datado foi aberta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 60,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 60 por pessoa refere-se APENAS ao passeio de catamarã pela orla, citado por uma fonte de turismo sem data de coleta. NÃO é preço de bar nem do passeio das Galés. Fonte única. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  }
+]

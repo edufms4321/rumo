@@ -412,7 +412,49 @@
       "Programar chegada na segunda ou terca contando com os museus: o Museu do Homem Americano abre apenas de quarta a domingo.",
       "Reduzir Petrolina a 'aeroporto mais proximo' - a fonte considera isso a grande falha das antigas materias sobre a Serra da Capivara."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "TPAT - Taxa de Preservacao Ambiental e Turistica (taxa MUNICIPAL, em disputa)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 20,
+          "max": 20,
+          "por": "pessoa",
+          "inclui": "TPAT - Taxa de Preservacao Ambiental e Turistica (taxa MUNICIPAL, em disputa)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-pi/noticias/junho-ambiental-mpf-recomenda-retirada-de-barreiras-em-acessos-ao-parque-nacional-da-serra-da-capivara-pi"
+            },
+            {
+              "url": "https://fumdham.org.br/visite/"
+            }
+          ],
+          "observacao": "Cobrada pelo municipio de Coronel Jose Dias em acessos ao parque. O MPF recomendou em junho/2026 que o municipio retire as barreiras e NAO condicione a entrada no parque federal ao pagamento da taxa. Situacao juridica em aberto na data desta coleta - pergunte ao seu guia como esta no momento da sua visita."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Cobrada pelo municipio de Coronel Jose Dias em acessos ao parque. O MPF recomendou em junho/2026 que o municipio retire as barreiras e NAO condicione a entrada no parque federal ao pagamento da taxa. Situacao juridica em aberto na data desta coleta - pergunte ao seu guia como esta no momento da sua visita."
+      },
+      {
+        "nome": "Ingresso do Museu do Homem Americano",
+        "preco": {
+          "moeda": "BRL",
+          "min": 20,
+          "max": 40,
+          "por": "pessoa",
+          "inclui": "Ingresso do Museu do Homem Americano",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://fumdham.org.br/museus/"
+            }
+          ],
+          "observacao": "Todo visitante do museu. Nao e obrigatorio para entrar no parque, mas a fonte considera a visita um complemento essencial."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo visitante do museu. Nao e obrigatorio para entrar no parque, mas a fonte considera a visita um complemento essencial."
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -532,7 +574,52 @@
       "Caipirinha e coquetel de beach club na hora do pôr do sol: uma fonte chama o ClubVentos de 'o pôr do sol mais caro da vila', com coquetéis de R$ 40 a R$ 55. A Duna do Pôr do Sol em si é gratuita.",
       "Contar com cartão estrangeiro: uma fonte diz que está sendo cada vez mais recusado. PIX é universal."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Taxa de Turismo Sustentável (TTS) — Prefeitura de Jijoca de Jericoacoara",
+        "preco": {
+          "moeda": "BRL",
+          "min": 41.5,
+          "max": 41.5,
+          "por": "pessoa",
+          "inclui": "Taxa de Turismo Sustentável (TTS) — Prefeitura de Jijoca de Jericoacoara",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://diariodoturismo.com.br/taxa-de-turismo-jericoacoara-2026-veja-valor-atualizado-e-quem-precisa-pagar/"
+            },
+            {
+              "url": "http://www.jijocadejericoacoara.ce.gov.br/"
+            },
+            {
+              "url": "https://speedgov.com.br/satjij/servlet/com.satweb.gerataxaturs"
+            }
+          ],
+          "observacao": "Todo visitante que entra na vila de Jericoacoara, pago nos postos 24h da entrada da vila/Jijoca ou com boleto emitido no portal da Prefeitura"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo visitante que entra na vila de Jericoacoara, pago nos postos 24h da entrada da vila/Jijoca ou com boleto emitido no portal da Prefeitura"
+      },
+      {
+        "nome": "Estacionamento na entrada da vila (se chegar de carro próprio)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 10,
+          "max": 10,
+          "por": "pessoa",
+          "inclui": "Estacionamento na entrada da vila (se chegar de carro próprio)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.essemundoenosso.com.br/15-coisas-viajar-para-jericoacoara"
+            }
+          ],
+          "observacao": "Quem chega de carro próprio e tem de deixá-lo no estacionamento autorizado antes da vila"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Quem chega de carro próprio e tem de deixá-lo no estacionamento autorizado antes da vila"
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -649,7 +736,27 @@
       "Comprar ingresso do Pirata Bar no caixa: a fonte diz que sai mais barato comprando nos hotéis. O valor em reais NÃO está confirmado em lugar nenhum.",
       "City tour genérico vendido na orla que inclui 'paradas' em lojas de artesanato — você paga por tempo de compra."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Estacionamento do Beach Park (se for de carro)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 50,
+          "max": 50,
+          "por": "pessoa",
+          "inclui": "Estacionamento do Beach Park (se for de carro)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://beachpark.com.br/contato/perguntas-frequentes/"
+            }
+          ],
+          "observacao": "Quem chega de carro ao Beach Park"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Quem chega de carro ao Beach Park"
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -859,7 +966,49 @@
       "Passeio de buggy muito abaixo da média: o compartilhado roda por volta de R$ 175 a R$ 205 por pessoa e as extras obrigatórias somam cerca de R$ 30 por pessoa. Oferta muito mais barata provavelmente corta roteiro ou não é credenciada.",
       "Parrachos de Maracajaú muito baratos: o passeio roda R$ 190 a R$ 300 por adulto. Uma oferta de cerca de R$ 90 provavelmente é 'praia sem recife' — confirme se o barco entra nos parrachos."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Extras obrigatórias do passeio de buggy do Litoral Norte (balsa do Rio Ceará-Mirim + taxa ambiental + entrada das dunas)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 30,
+          "max": 30,
+          "por": "pessoa",
+          "inclui": "Extras obrigatórias do passeio de buggy do Litoral Norte (balsa do Rio Ceará-Mirim + taxa ambiental + entrada das dunas)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.wheltour.com.br/passeio/passeio-de-buggy-litoral-norte-genipabu-compartilhado"
+            },
+            {
+              "url": "https://www.essemundoenosso.com.br/?p=65132"
+            }
+          ],
+          "observacao": "Todo passageiro do passeio de buggy ao Litoral Norte / Genipabu"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo passageiro do passeio de buggy ao Litoral Norte / Genipabu"
+      },
+      {
+        "nome": "Ingresso do Forte dos Reis Magos",
+        "preco": {
+          "moeda": "BRL",
+          "min": 5,
+          "max": 10,
+          "por": "pessoa",
+          "inclui": "Ingresso do Forte dos Reis Magos",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://agorarn.com.br/ultimas/forte-dos-reis-magos-reajusta-ingresso/"
+            }
+          ],
+          "observacao": "Visitante do forte"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante do forte"
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -943,7 +1092,52 @@
       "Passeio de buggy com preço só combinado de boca: as faixas publicadas variam de R$ 350 a R$ 950 por buggy de até 4 pessoas, dependendo do roteiro e da fonte. Confirme o valor e se inclui a taxa da balsa e a taxa ambiental ANTES de embarcar.",
       "Esperar pôr do sol sobre o mar no Chapadão: a costa de Pipa é voltada para LESTE. O Chapadão é ponto de NASCER do sol; o pôr do sol sobre a água é na Lagoa de Guaraíras, em Tibau do Sul."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Taxa de preservação ambiental de Tibau do Sul (passeios de quadriciclo e jipe)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 10,
+          "max": 10,
+          "por": "pessoa",
+          "inclui": "Taxa de preservação ambiental de Tibau do Sul (passeios de quadriciclo e jipe)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://agorarn.com.br/?p=779659"
+            }
+          ],
+          "observacao": "Quem faz passeio de quadriciclo ou de jipe/jardineira em Tibau do Sul e Pipa"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Quem faz passeio de quadriciclo ou de jipe/jardineira em Tibau do Sul e Pipa"
+      },
+      {
+        "nome": "Ingresso do Santuário Ecológico de Pipa",
+        "preco": {
+          "moeda": "BRL",
+          "min": 15,
+          "max": 20,
+          "por": "pessoa",
+          "inclui": "Ingresso do Santuário Ecológico de Pipa",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://vivepipa.com/en/tours/29-pipa-39s-ecological-sanctuary"
+            },
+            {
+              "url": "https://guia.melhoresdestinos.com.br/santuario-ecologico-praia-da-pipa-19-184-l.html"
+            },
+            {
+              "url": "https://www.instagram.com/santuarioecopipa/"
+            }
+          ],
+          "observacao": "Visitante do Santuário"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante do Santuário"
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -1049,19 +1243,75 @@
       "Preço do catamarã do Jacaré varia de R$ 35 a R$ 90 entre as fontes, com a mais recente (jan/2026) no topo da faixa. Confirme o que está incluído (bebida, snorkel, transfer) antes de pagar.",
       "Restaurantes de frutos do mar na orla: um guia local lista explicitamente como NÃO recomendados Nau Frutos do Mar, Olho de Lula, Navegantes e Vignoli. É opinião de uma fonte só, mas vale como sinal de alerta."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Ingresso do Centro Cultural São Francisco",
+        "preco": {
+          "moeda": "BRL",
+          "min": 6,
+          "max": 12,
+          "por": "pessoa",
+          "inclui": "Ingresso do Centro Cultural São Francisco",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://guia.melhoresdestinos.com.br/centro-cultural-sao-francisco-109-2210-l.html"
+            }
+          ],
+          "observacao": "Visitante do complexo barroco"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante do complexo barroco"
+      },
+      {
+        "nome": "Visita ao Engenho Triunfo (bate-volta de Areia)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 25,
+          "max": 30,
+          "por": "pessoa",
+          "inclui": "Visita ao Engenho Triunfo (bate-volta de Areia)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://airial.travel/attractions/brazil/engenho-triunfo-areia-2SMzxVMU"
+            }
+          ],
+          "observacao": "Visitante do engenho, em Areia"
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante do engenho, em Areia"
+      }
+    ],
     "situacaoAtual": []
   },
   {
     "id": "recife",
     "fontes": [
       {
+        "url": "https://www.diariodepernambuco.com.br/amp/vida-urbana/2026/06/11715507-ataque-de-tubarao-desta-segunda-1-e-o-oitavo-registrado-no-mesmo-trecho-de-boa-viagem.html"
+      },
+      {
+        "url": "https://www.em.com.br/app/noticia/nacional/2013/07/24/interna_nacional,427146/proibicao-de-banho-de-mar-em-praia-do-recife-onde-morreu-turista-e-rejeitada.shtml"
+      },
+      {
+        "url": "https://www.band.com.br/noticias/jornal-da-band/ultimas/pernambuco-avalia-proibir-banho-de-mar-em-mais-areas-apos-ataque-de-tubarao-202606021949"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/noticia/vidaurbana/2025/03/sitio-historico-de-olinda-passa-a-ter-monitoramento-de-seguranca-24h.html"
+      },
+      {
+        "url": "https://olinda.pe.gov.br/olinda-reforca-qualidade-do-atendimento-no-turismo-da-cidade-historica/"
+      },
+      {
+        "url": "https://mapa-metro.com/pt/brasil/recife/recife-metro-mapa.htm"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/303585"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Recife",
     "regiaoId": "pernambuco",
     "coords": {
@@ -1072,7 +1322,34 @@
     "aeroportos": [
       "REC"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Boa Viagem",
+        "perfil": "Orla urbana com a maior oferta de hotéis, restaurantes e supermercados; prático e seguro para circular de dia, mas o mar tem restrição de banho por risco de tubarão",
+        "fontes": []
+      },
+      {
+        "nome": "Recife Antigo / Bairro do Recife",
+        "perfil": "Centro histórico com Marco Zero, Rua do Bom Jesus, Paço do Frevo e Cais do Sertão; poucas hospedagens, vida noturna concentrada em eixos específicos e esvaziamento forte fora deles",
+        "fontes": []
+      },
+      {
+        "nome": "Pina / Brasília Teimosa",
+        "perfil": "Vizinho de Boa Viagem, mais barato, perto do Cais do Sertão por via expressa; qualidade varia muito de rua para rua",
+        "fontes": []
+      },
+      {
+        "nome": "Olinda (Sítio Histórico / Carmo)",
+        "perfil": "Pousadas em casarões, vista do mar e clima de vila; ótimo para 1 a 2 noites, mas longe da oferta urbana de Recife e com ladeiras pesadas",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Metrô do Recife (CBTU) liga o Aeroporto Internacional dos Guararapes ao centro: uma passarela coberta de cerca de 500 m sai do terminal até a estação Aeroporto da Linha Sul. A tarifa encontrada foi R$ 4,25, mas a referência é de janeiro de 2025 — NÃO confirmei a tarifa vigente em 2026 (o site da CBTU não foi aberto nesta sessão). Operação citada: segunda a sábado, aproximadamente 5h às 23h. Para quem vai a Boa Viagem o metrô não serve bem: a estação Aeroporto fica a ~5 km da orla de Boa Viagem, então aplicativo ou táxi resolvem melhor. Uber/99 funcionam bem em Recife e Olinda. Olinda fica a ~7 km do Recife Antigo e se faz de carro/aplicativo em 20-30 min; dentro do Sítio Histórico de Olinda tudo é a pé, em ladeiras de paralelepípedo. Itamaracá fica a ~50 km ao norte e praticamente exige carro. O que evitar: dirigir no Recife Antigo em dia de evento (ruas estreitas, estacionamento caótico) e andar a pé entre o Recife Antigo e Santo Antônio depois que o comércio fecha.",
     "fatoresDeslocamento": {
       "a-pe": {
         "kmh": 4.5,
@@ -1093,7 +1370,13 @@
     },
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "Dado objetivo que encontrei: o Comitê Estadual de Monitoramento de Incidentes com Tubarão (CEMIT) é citado com 84 ataques registrados em Pernambuco desde 1992, sendo 25 em Boa Viagem — o maior número do estado; em 1º de junho de 2026 houve um ataque descrito como o oitavo no mesmo trecho de Boa Viagem. O Ministério Público recomendou proibir o banho em praias do Grande Recife; o governo estadual, em reunião com CEMIT, Instituto de Oceanografia, Bombeiros e polícia científica, considerou a proibição total inadequada e passou a estudar ampliar as áreas onde o banho é proibido. Trate a sinalização na areia como regra, não como sugestão. Sobre criminalidade em Olinda: dados da Secretaria de Defesa Social de PE citados na imprensa apontam 37 roubos em residências do Sítio Histórico no primeiro trimestre de 2024, alta de 95% sobre o mesmo período do ano anterior; desde março de 2025 o Sítio Histórico passou a ter monitoramento de segurança 24h e a Guarda Municipal mantém um posto de recepção turística no Alto da Sé. NÃO encontrei série estatística oficial por bairro do Recife nesta sessão — não publique número de criminalidade por bairro sem fonte primária.",
+    "pegaTuristaAEvitar": [
+      "Barracas da orla de Boa Viagem que insistem em 'kit' de cadeira + guarda-sol + consumo mínimo sem tabela de preço afixada",
+      "Restaurante de frutos do mar em área turística que serve lagosta/camarão 'por peso' sem pesar na frente do cliente",
+      "Loja de artesanato no Alto da Sé em Olinda com preço só verbal: peça o preço antes de pegar a peça na mão",
+      "Passeio de 'city tour' vendido na praia por preço muito abaixo do mercado, que na prática é parada em lojas comissionadas"
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },
@@ -1101,12 +1384,26 @@
     "id": "porto-de-galinhas",
     "fontes": [
       {
+        "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeio-de-buggy-porto-de-galinhas.html"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/porto-de-galinhas/como-chegar/"
+      },
+      {
+        "url": "https://jovempan.com.br/comportamento/quando-ir-a-porto-de-galinhas-roteiro-clima-e-o-segredo-da-tabua-de-mares/"
+      },
+      {
         "url": "https://www.openstreetmap.org/node/253251568"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Porto de Galinhas",
     "regiaoId": "pernambuco",
     "coords": {
@@ -1115,23 +1412,99 @@
     },
     "altitudeM": 5,
     "aeroportos": [],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Vila de Porto de Galinhas (centrinho)",
+        "perfil": "Tudo a pé: jangadas, restaurantes, lojas e agências; barulhento à noite e cheio em feriado",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Cupe / Merepe",
+        "perfil": "Faixa de hotéis e resorts entre a vila e Muro Alto; mar mais aberto, precisa de carro ou táxi para o centrinho",
+        "fontes": []
+      },
+      {
+        "nome": "Muro Alto",
+        "perfil": "Resorts pé na areia com piscina natural rasa na maré baixa; isolado do comércio",
+        "fontes": []
+      },
+      {
+        "nome": "Maracaípe",
+        "perfil": "Clima de surf e pousadas menores, mais calmo e mais barato; 3 km ao sul da vila",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "A Vila de Porto de Galinhas é compacta e se faz a pé: Rua Esperança, Rua das Piscinas Naturais (também chamada Rua das Sombrinhas) e Rua Beijupirá formam o centrinho, com lojas abertas até cerca de 22h e restaurantes até cerca de 23h. Do Aeroporto de Recife são ~52 km e menos de 1 hora com trânsito livre pela nova via de acesso. Valores que encontrei (referência de novembro de 2025, NÃO confirmados para 2026): táxi do aeroporto para qualquer ponto de Porto de Galinhas R$ 160 a R$ 180 para até 4 pessoas; Uber X R$ 100, Comfort R$ 125, Black R$ 130; transfer privativo de pousada R$ 150 até 4 pessoas; ônibus de linha R$ 13,70 ou R$ 20,05, com mais de 2 horas de viagem. Dentro do destino o deslocamento padrão é buggy (ponta a ponta, do Pontal de Maracaípe a Muro Alto) ou táxi local. Praia dos Carneiros fica ~70 km ao sul, em Tamandaré, e praticamente exige carro ou transfer. O que evitar: contar com aplicativo para voltar de Carneiros ou de Muro Alto no fim da tarde — a oferta é irregular; e chegar à vila de carro em feriado, quando as ruas do centrinho viram pedestrianizadas de fato.",
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": [],
+    "seguranca": "NÃO encontrei nesta sessão estatística oficial de criminalidade por localidade em Ipojuca ou Tamandaré — não trate nada aqui como dado policial. O risco prático relatado nas fontes turísticas é de outra natureza: cobrança abusiva e improvisada (day use, estacionamento, consumação) e acidentes ligados a maré e a recife cortante. Use calçado de borracha no recife e respeite a janela de maré.",
+    "pegaTuristaAEvitar": [
+      "Jangada vendida como 'particular' na beira da praia fora da fila oficial da associação, por preço inflado",
+      "Foto com peixe no colo ou alimentação de peixe com ração — prática desaconselhada em área de recife e muitas vezes empurrada junto com o passeio",
+      "Day use de beach club em Carneiros vendido na estrada por 'facilitador' que não é do estabelecimento",
+      "Loja de 'artesanato' na Rua Esperança vendendo peça industrial a preço de peça autoral"
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Day use / estacionamento nos beach clubs da Praia dos Carneiros (cobrança privada, não é taxa pública)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 30,
+          "max": 70,
+          "por": "pessoa",
+          "inclui": "Day use / estacionamento nos beach clubs da Praia dos Carneiros (cobrança privada, não é taxa pública)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.360meridianos.com/praia-dos-carneiros-pernambuco/"
+            }
+          ],
+          "observacao": "Visitante, no beach club escolhido. Em geral o valor é creditado em consumo; em um relato a dupla pagou R$ 60 no Beijupirá e isso incluiu estacionamento, banheiro e chuveiro, com o valor revertido em comida e bebida. Em outro relato houve consumação de R$ 30 no Bora Bora apenas para estacionar."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante, no beach club escolhido. Em geral o valor é creditado em consumo; em um relato a dupla pagou R$ 60 no Beijupirá e isso incluiu estacionamento, banheiro e chuveiro, com o valor revertido em comida e bebida. Em outro relato houve consumação de R$ 30 no Bora Bora apenas para estacionar."
+      }
+    ],
     "situacaoAtual": []
   },
   {
     "id": "fernando-de-noronha",
     "fontes": [
       {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/visitante"
+      },
+      {
+        "url": "https://www.noronha.pe.gov.br/"
+      },
+      {
+        "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/onibus-em-fernando-de-noronha-taxi-buggy"
+      },
+      {
+        "url": "https://www.dicasdeviagem.com/como-chegar-em-fernando-de-noronha/"
+      },
+      {
+        "url": "https://brasilturis.com.br/2026/08/03/pernambuco-propoe-reorganizar-voos-para-limitar-acesso-a-fernando-de-noronha/"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/303650"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Fernando de Noronha",
     "regiaoId": "fernando-de-noronha",
     "coords": {
@@ -1143,23 +1516,118 @@
     "aeroportos": [
       "FEN"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 4,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Vila dos Remédios",
+        "perfil": "Centro da ilha, igreja, forte, bares e a maior parte da vida noturna; tudo a pé, mas é a área mais movimentada",
+        "fontes": []
+      },
+      {
+        "nome": "Floresta Nova / Floresta Velha",
+        "perfil": "Pousadas de bom custo-benefício, perto do aeroporto e da Vila; precisa de buggy ou ônibus para as praias",
+        "fontes": []
+      },
+      {
+        "nome": "Vila do Boldró",
+        "perfil": "Perto do Centro de Visitantes do PARNAMAR e dos mirantes do pôr do sol; mais silencioso",
+        "fontes": []
+      },
+      {
+        "nome": "Vila do Trinta",
+        "perfil": "Residencial, opções mais em conta, restaurantes como o Varanda; mais distante das praias do parque",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Transporte público: há apenas dois microônibus fazendo uma linha única circular ao longo da BR-363, do Porto de Santo Antônio até a Baía do Sueste, com frequência de cerca de 30 minutos. A tarifa citada é R$ 5,00 por viagem, paga diretamente ao motorista, gratuita para moradores; a faixa de operação relatada vai de 5h-7h até 22h-23h, com divergência entre fontes. Turista não pode usar carro particular próprio na ilha; as opções são buggy, moto, bicicleta, táxi e o ônibus. Aluguel de buggy: as faixas encontradas divergem — R$ 250 a R$ 450 por dia em uma fonte e R$ 400 a R$ 500 por dia na baixa temporada em outra, com alta temporada e Réveillon dobrando ou triplicando. O aeroporto (FEN, Aeroporto Governador Carlos Wilson) é único e fica no meio da ilha, a poucos minutos de Vila dos Remédios e do Boldró; a maioria das pousadas faz o traslado. Voos: Azul e Gol, saindo de Recife (cerca de 1h40 de voo) e Azul também de Natal (cerca de 1h a 1h20, duas vezes por semana). ATENÇÃO AO FUSO: Noronha é UTC-2, uma hora À FRENTE de Recife e de Brasília (salvo horário de verão) — o horário impresso no cartão de embarque de volta é horário local de Noronha, e esse é o erro mais comum do roteiro. O que evitar: planejar mergulho no último dia (ver o item do intervalo DAN) e contar com aplicativo de transporte, que não opera como no continente.",
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": [],
+    "seguranca": "Noronha é vista como um dos destinos mais tranquilos do Brasil em criminalidade, mas NÃO encontrei nesta sessão nenhuma estatística oficial de segurança do Distrito Estadual — não invente número. Os riscos reais que as fontes oficiais tratam são ambientais e de mar: correnteza e arrebentação forte na Cacimba do Padre e na Praia do Leão no período de ondas, acesso por trilha íngreme e escada no Sancho, recife cortante na Atalaia (onde o banho é de flutuação, com guia credenciado obrigatório) e horário de maré controlando o acesso às trilhas.",
+    "pegaTuristaAEvitar": [
+      "Comprar o 'pacote completo' de passeios antes de chegar sem checar a janela de maré: Atalaia, Capim Açu e as trilhas do parque têm vaga limitada por estudo de capacidade de suporte e dependem da maré baixa",
+      "Jantar sem reserva em alta temporada nos restaurantes mais procurados — relatos indicam fila de espera depois das 19h30 no Xica da Silva",
+      "Alugar buggy por vários dias quando o roteiro é concentrado em trilhas do parque, que se faz a pé e com guia",
+      "Contar com saque na ilha: a infraestrutura bancária é mínima e NÃO confirmei nesta sessão quantos caixas eletrônicos funcionam"
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 105.79,
+          "max": 7460.56,
+          "por": "pessoa",
+          "inclui": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
+            },
+            {
+              "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
+            },
+            {
+              "url": "https://www.noronha.pe.gov.br/"
+            }
+          ],
+          "observacao": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha, com finalidade turística. Em 2026 a diária é R$ 105,79 (reajuste de 4,4% sobre os R$ 101,33 de 2025, vigente desde 1º de janeiro de 2026, corrigido pelo IPCA). A cobrança é PROGRESSIVA: não é diária fixa multiplicada por dias. Exemplos oficiais citados: 7 dias = R$ 672,85; 30 dias = R$ 7.460,56. Note que 7 dias custam menos que 7 x R$ 105,79 (R$ 740,53), enquanto 30 dias custam muito mais que 30 x a diária — a progressão existe para desestimular estadias longas. Pagamento pelo portal oficial do Distrito (opção 'Pague a TPA aqui'), com cartão de crédito ou boleto, preferencialmente antes da viagem; há também atendimento no aeroporto, citado como necessário para cartão estrangeiro. Base legal: Lei estadual nº 10.403, de 29 de dezembro de 1989. Contatos oficiais: (81) 3619-0812 (Vila dos Remédios) e (81) 3182-9600 (escritório de apoio no Recife)."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha, com finalidade turística. Em 2026 a diária é R$ 105,79 (reajuste de 4,4% sobre os R$ 101,33 de 2025, vigente desde 1º de janeiro de 2026, corrigido pelo IPCA). A cobrança é PROGRESSIVA: não é diária fixa multiplicada por dias. Exemplos oficiais citados: 7 dias = R$ 672,85; 30 dias = R$ 7.460,56. Note que 7 dias custam menos qu"
+      },
+      {
+        "nome": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 192,
+          "max": 384,
+          "por": "pessoa",
+          "inclui": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.parnanoronha.com.br/ingresso"
+            },
+            {
+              "url": "https://www.parnanoronha.com.br/visitante"
+            }
+          ],
+          "observacao": "Visitante que vai acessar as áreas do parque. Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Validade de 10 dias a partir da compra. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade: menores de 12 anos, brasileiros acima de 60 anos, moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau, pessoal autorizado e pesquisadores com licença SISBio. Compra online em tickets.parnanoronha.com.br ou no Centro de Visitantes, em Boldró, das 8h às 19h todos os dias."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante que vai acessar as áreas do parque. Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Validade de 10 dias a partir da compra. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade: menores de 12 anos, brasileiros acima de 60 anos, moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau, pessoal autorizado e pesquisadores com licença SISBi"
+      }
+    ],
     "situacaoAtual": []
   },
   {
     "id": "maceio",
     "fontes": [
       {
+        "url": "https://pontospravoar.com/como-ir-aeroporto-maceio-centro-praias-cidade/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/aeroporto-internacional-zumbi-dos-palmares-143-3136-l.html"
+      },
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://quantocustaviajar.com/blog/praia-do-gunga-em-alagoas"
+      },
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/countryside/piscinas-naturais-em-pajucara-alagoas.html"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/303815"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Maceió",
     "regiaoId": "alagoas",
     "coords": {
@@ -1170,7 +1638,34 @@
     "aeroportos": [
       "MCZ"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 4
+    },
+    "bairros": [
+      {
+        "nome": "Ponta Verde",
+        "perfil": "O mais equilibrado: mar calmo com recife, restaurantes, farmácias e caminhada segura na orla",
+        "fontes": []
+      },
+      {
+        "nome": "Pajuçara",
+        "perfil": "Saída das jangadas para as piscinas naturais, hotelaria mais antiga e mais barata, orla movimentada",
+        "fontes": []
+      },
+      {
+        "nome": "Jatiúca",
+        "perfil": "Bairro do corredor gastronômico (Av. Dr. Antônio Gomes de Barros, antiga Av. Amélia Rosa); mar mais aberto",
+        "fontes": []
+      },
+      {
+        "nome": "Cruz das Almas / Jacarecica",
+        "perfil": "Mais afastado e residencial, com praias mais vazias; depende de carro",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Do Aeroporto Internacional Zumbi dos Palmares (MCZ), a ~25 km da orla, a empresa Veleiro opera ônibus saindo da frente do terminal para a Rodoviária e para a Ponta Verde, circulando das 04h20 às 22h15; as tarifas encontradas são R$ 4,40 até o centro e R$ 4,70 até a Ponta Verde. Táxi: valores médios citados de R$ 35 ao Centro, R$ 40 à Pajuçara e R$ 45 à Ponta Verde, mas uma fonte alternativa fala em R$ 60 a R$ 70 entre Pajuçara e aeroporto — NÃO confirmei a tabela vigente em 2026 e a divergência é grande. Uber e 99 operam normalmente em Maceió. A orla Pajuçara-Ponta Verde-Jatiúca é contínua e caminhável, com ciclovia. Para o litoral sul (Praia do Francês, Marechal Deodoro, Massagueira, Barra de São Miguel e Gunga) o caminho é a AL-101 Sul; para o litoral norte (São Miguel dos Milagres, Maragogi) é a AL-101 Norte. O que evitar: alugar carro só para ficar na orla (estacionamento é escasso e caro) e tentar fazer Gunga e Marechal Deodoro no mesmo dia por transporte público.",
     "fatoresDeslocamento": {
       "a-pe": {
         "kmh": 4.6,
@@ -1191,20 +1686,79 @@
     },
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
-    "taxasObrigatorias": [],
+    "seguranca": "NÃO encontrei nesta sessão nenhuma estatística oficial de criminalidade por bairro de Maceió — não publique número sem fonte primária da Secretaria de Segurança Pública de Alagoas. O cuidado padrão aplicável: a orla Pajuçara-Ponta Verde-Jatiúca é a área com maior presença turística e policiamento; o Centro e o bairro de Jaraguá se esvaziam fora do horário comercial, e segundo as fontes de turismo Jaraguá 'só funciona à noite entre quinta e domingo' — ou seja, nos outros dias a região fica deserta.",
+    "pegaTuristaAEvitar": [
+      "Jangada para as piscinas naturais de Pajuçara vendida em horário fora da maré baixa — sem maré baixa não há piscina",
+      "Barraca de praia com 'couvert' de petisco que chega à mesa sem ser pedido",
+      "Passeio de 'nove praias' vendido na orla com nove paradas de 15 minutos: na prática é um transfer com comissão de loja",
+      "Compra de artesanato no Mercado do Artesanato sem perguntar o preço de duas bancas diferentes antes"
+    ],
+    "taxasObrigatorias": [
+      {
+        "nome": "Estacionamento de acesso à Praia do Gunga (cobrança privada)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 20,
+          "max": 20,
+          "por": "pessoa",
+          "inclui": "Estacionamento de acesso à Praia do Gunga (cobrança privada)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://quantocustaviajar.com/blog/praia-do-gunga-em-alagoas"
+            }
+          ],
+          "observacao": "Quem chega de carro. A fonte descreve a cobrança como um pedágio de acesso pago no desembarque, antes de pisar na praia. ATENÇÃO: o valor citado é de referência de janeiro de 2024 e NÃO foi confirmado para 2026."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Quem chega de carro. A fonte descreve a cobrança como um pedágio de acesso pago no desembarque, antes de pisar na praia. ATENÇÃO: o valor citado é de referência de janeiro de 2024 e NÃO foi confirmado para 2026."
+      },
+      {
+        "nome": "Acesso ao mirante da Praia do Gunga (cobrança privada)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 3,
+          "max": 5,
+          "por": "pessoa",
+          "inclui": "Acesso ao mirante da Praia do Gunga (cobrança privada)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://quantocustaviajar.com/blog/praia-do-gunga-em-alagoas"
+            }
+          ],
+          "observacao": "Visitante, em dinheiro, na entrada. Também de referência de janeiro de 2024, NÃO confirmado para 2026."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante, em dinheiro, na entrada. Também de referência de janeiro de 2024, NÃO confirmado para 2026."
+      }
+    ],
     "situacaoAtual": []
   },
   {
     "id": "maragogi",
     "fontes": [
       {
+        "url": "https://guia.melhoresdestinos.com.br/como-chegar-maragogi.html"
+      },
+      {
+        "url": "https://www.fuiserviajante.com/"
+      },
+      {
+        "url": "https://www.360meridianos.com/dica/maragogi-alagoas-turismo"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/piscinas-naturais-de-japaratinga/"
+      },
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/institucional/legislacao/instrucoes-normativas/arquivos/in_082009.pdf"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/303809"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Maragogi",
     "regiaoId": "alagoas",
     "coords": {
@@ -1213,10 +1767,43 @@
     },
     "altitudeM": 40,
     "aeroportos": [],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 2,
+      "ideal": 3,
+      "max": 5
+    },
+    "bairros": [
+      {
+        "nome": "Praia Central / Centro de Maragogi",
+        "perfil": "Saída dos passeios, restaurantes, mercado e farmácia a pé; o mais prático para quem não tem carro",
+        "fontes": []
+      },
+      {
+        "nome": "Praia de Antunes",
+        "perfil": "Faixa de pousadas e resorts ao sul do centro, mar com recife e piscinas na maré baixa; precisa de carro",
+        "fontes": []
+      },
+      {
+        "nome": "Barra Grande",
+        "perfil": "Resorts grandes e condomínios, bem isolado do comércio",
+        "fontes": []
+      },
+      {
+        "nome": "Japaratinga",
+        "perfil": "Base alternativa mais tranquila e mais barata, com piscinas naturais próprias e menos turismo",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "Maragogi fica a cerca de 124 km de Maceió e 130 km de Recife, no litoral norte de Alagoas. NÃO existe transporte público útil para turista dentro do destino: as opções citadas pelas fontes para chegar são carro alugado, transfer compartilhado ou privativo, táxi, aplicativo e ônibus ou vans intermunicipais. NÃO consegui confirmar nesta sessão tarifa de ônibus nem de transfer para Maragogi — nenhuma das fontes abertas trazia valor datado. Dentro da cidade, a Praia Central concentra as saídas de catamarã e lancha para as Galés e é caminhável; Antunes e Barra Grande ficam ao sul, ao longo da AL-101 Norte, e exigem carro, táxi ou bicicleta. Japaratinga fica ~20 km ao sul pela mesma rodovia. O que evitar: chegar sem carro se a hospedagem não é na Praia Central, e marcar o passeio às Galés para o último dia — se a maré ou o tempo virar, não há remarcação possível.",
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "NÃO encontrei nesta sessão nenhum dado oficial de segurança para Maragogi ou Japaratinga. O risco documentado é ambiental e de regulação: o passeio às Galés ocorre dentro da APA Costa dos Corais, área de proteção ambiental criada em 1997 que abrange 13 municípios ao longo de 135 km entre o litoral norte de Alagoas e o sul de Pernambuco; os órgãos ambientais limitam o número de visitantes por dia e a visitação é proibida quando a maré baixa não atinge o patamar necessário (uma fonte cita proibição com maré baixa de 0,6 m). Trate qualquer operador que prometa saída 'em qualquer maré' como sinal de alerta.",
+    "pegaTuristaAEvitar": [
+      "Passeio às Galés comprado de ambulante na areia, sem voucher nem nome de operadora",
+      "Catamarã 'da orla' vendido como se fosse o passeio das Galés: são produtos diferentes e preços diferentes",
+      "Resort all-inclusive sem checar se o passeio às Galés está realmente incluído ou é extra",
+      "Loja de artesanato com 'preço de fábrica' no caminho do transfer"
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },
@@ -1224,12 +1811,23 @@
     "id": "sao-miguel-dos-milagres",
     "fontes": [
       {
+        "url": "https://www.buser.com.br/destinos/pontos-turisticos/al/porto-de-pedras/balsa-porto-de-pedras-japaratinga"
+      },
+      {
+        "url": "https://feel.visitbrasil.com/en/visitacao-aos-peixes-boi-marinhos-2/"
+      },
+      {
+        "url": "https://www.maladeaventuras.com/alagoas/sao-miguel-dos-milagres/"
+      },
+      {
+        "url": "https://catracalivre.com.br/viagem-livre/passeios-sao-miguel-dos-milagres/"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/303830"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "São Miguel dos Milagres",
     "regiaoId": "alagoas",
     "coords": {
@@ -1238,10 +1836,43 @@
     },
     "altitudeM": 25,
     "aeroportos": [],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 4,
+      "max": 6
+    },
+    "bairros": [
+      {
+        "nome": "Praia do Toque",
+        "perfil": "O trecho mais estruturado, com as pousadas-boutique e a saída das jangadas para as piscinas naturais",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Riacho",
+        "perfil": "Coqueiral, praia larga e pousadas um pouco mais em conta; perto do centrinho de São Miguel",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Patacho (Porto de Pedras)",
+        "perfil": "A mais isolada e mais bonita da rota, pousadas pequenas e nenhuma infraestrutura de comércio",
+        "fontes": []
+      },
+      {
+        "nome": "Praia do Marceneiro (Passo de Camaragibe)",
+        "perfil": "Extremo sul da rota, mais vazia e mais barata, menos oferta de restaurante",
+        "fontes": []
+      }
+    ],
+    "comoCircular": "A base é a Rota Ecológica, o trecho da AL-101 Norte que liga Porto de Pedras, São Miguel dos Milagres e Passo de Camaragibe; de Maceió são cerca de 100 km. Carro é praticamente obrigatório: as pousadas ficam espalhadas por acessos de areia e não há transporte público útil nem oferta confiável de aplicativo. Bicicleta funciona bem entre as praias do Toque, Riacho e Milagres. Para chegar a Porto de Pedras e à Praia do Patacho existe a balsa sobre o rio Manguaba, que transporta carros e pessoas entre as duas margens, com travessia citada em cerca de 10 minutos — NÃO confirmei nesta sessão a tarifa nem o horário de operação da balsa. O que evitar: chegar depois do anoitecer por estrada vicinal sem iluminação, e contar com comércio aberto à noite — a região fecha cedo.",
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "NÃO encontrei nesta sessão nenhum dado oficial de segurança para São Miguel dos Milagres ou Porto de Pedras. O que é concreto: a região é de baixa densidade, com pouca iluminação pública nas estradas vicinais e sinal de celular irregular em alguns trechos; combine horário de chegada com a pousada. O risco de mar é moderado por causa do recife, mas a travessia até as piscinas naturais depende de maré baixa.",
+    "pegaTuristaAEvitar": [
+      "Pacote de 'passeio de jangada + almoço' vendido na praia sem nome de embarcação",
+      "Restaurante de pousada que cobra taxa de serviço e couvert sem informar no menu",
+      "Esperar vida noturna: a rota não tem bar nem balada, e quem procura isso deve ficar em Maceió",
+      "Marcar o Santuário do Peixe-Boi no mesmo dia da chegada sem reserva — a operação é limitada a poucas saídas diárias"
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },
@@ -1522,7 +2153,52 @@
       "'Volta à ilha' vendida na rua sem saber a maré do dia: o passeio só entrega as piscinas naturais de Garapuá e Moreré com maré baixa.",
       "Toca do Morcego cobra entrada (uma fonte cita cerca de R$ 60, variável) só para ver o pôr do sol - decida se vale antes de subir."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "TUPA - Tarifa por Uso do Patrimônio do Arquipélago (Cairu / Morro de São Paulo)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 90,
+          "max": 90,
+          "por": "pessoa",
+          "inclui": "TUPA - Tarifa por Uso do Patrimônio do Arquipélago (Cairu / Morro de São Paulo)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.bahianoticias.com.br/municipios/noticia/48539-cairu-aumenta-taxa-de-acesso-ao-morro-de-sao-paulo-e-passa-a-aplicar-cobranca-em-boipeba-veja-valores"
+            },
+            {
+              "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+            },
+            {
+              "url": "https://www.melhoresdestinos.com.br/morro-de-sao-paulo-tarifa.html"
+            }
+          ],
+          "observacao": "Todo visitante que desembarca no arquipélago. Crianças até 5 anos isentas; fontes citam também isenção para maiores de 60 anos e meia para estudantes/PcD/baixa renda, mas isso vem de guias e não de texto legal que eu tenha aberto - confirme no desembarque."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo visitante que desembarca no arquipélago. Crianças até 5 anos isentas; fontes citam também isenção para maiores de 60 anos e meia para estudantes/PcD/baixa renda, mas isso vem de guias e não de texto legal que eu tenha aberto - confirme no desembarque."
+      },
+      {
+        "nome": "TUPA de Boipeba",
+        "preco": {
+          "moeda": "BRL",
+          "min": 50,
+          "max": 50,
+          "por": "pessoa",
+          "inclui": "TUPA de Boipeba",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.bahianoticias.com.br/municipios/noticia/48539-cairu-aumenta-taxa-de-acesso-ao-morro-de-sao-paulo-e-passa-a-aplicar-cobranca-em-boipeba-veja-valores"
+            }
+          ],
+          "observacao": "Visitante que desembarca em Boipeba."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Visitante que desembarca em Boipeba."
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -1681,7 +2357,30 @@
       "Gruta Azul: uma fonte registra que é menos preservada que as outras e que a visita rápida basta se você já viu Lapa Doce e Pratinha.",
       "Cachoeira da Fumaça na seca: o guia registra que no período seco o volume de água cai muito e a 'fumaça' quase some."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "Taxa de visitação do Morro do Pai Inácio (Prefeitura de Palmeiras)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 10,
+          "max": 20,
+          "por": "pessoa",
+          "inclui": "Taxa de visitação do Morro do Pai Inácio (Prefeitura de Palmeiras)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://atarde.com.br/bahia/acesso-a-cartao-postal-da-chapada-diamantina-fica-mais-caro-a-partir-de-abril-1382172"
+            },
+            {
+              "url": "https://guia.melhoresdestinos.com.br/morro-do-pai-inacio-221-6153-l.html"
+            }
+          ],
+          "observacao": "Todo visitante, pago em guarita no início da trilha."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Todo visitante, pago em guarita no início da trilha."
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -1776,7 +2475,27 @@
       "Praia do Espelho na maré alta: sem maré baixa não há piscina natural e não há o 'espelho' - é a armadilha clássica do destino.",
       "Táxi Trancoso-Caraíva pedido sem negociar: a tarifa de referência citada é cerca de R$ 210, e motoristas pedem mais no primeiro preço."
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "TPA - Taxa de Preservação Ambiental de Porto Seguro (veicular)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 3,
+          "max": 90,
+          "por": "pessoa",
+          "inclui": "TPA - Taxa de Preservação Ambiental de Porto Seguro (veicular)",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://atarde.com.br/bahia/paraisos-turisticos-na-bahia-vao-cobrar-mais-caro-para-acesso-ainda-em-2026-1392321"
+            }
+          ],
+          "observacao": "Motorista de veículo com placa de outro município que fica 6 h ou mais em Porto Seguro - inclui quem vai de carro a Trancoso, Arraial e Caraíva, que são do município."
+        },
+        "comoSePaga": "",
+        "quemPaga": "Motorista de veículo com placa de outro município que fica 6 h ou mais em Porto Seguro - inclui quem vai de carro a Trancoso, Arraial e Caraíva, que são do município."
+      }
+    ],
     "situacaoAtual": []
   }
 ]

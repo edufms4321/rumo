@@ -1,0 +1,1364 @@
+[
+  {
+    "id": "br-fen-aviso-critico-tpa-taxa-de-preservacao-ambiental-de-f",
+    "fontes": [
+      {
+        "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
+      },
+      {
+        "url": "https://www.noronha.pe.gov.br/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO CRÍTICO — TPA (Taxa de Preservação Ambiental) de Fernando de Noronha",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "taxa-obrigatoria",
+      "tpa",
+      "orcamento",
+      "planejamento"
+    ],
+    "descricaoCurta": "Taxa estadual cobrada por dia de permanência, PROGRESSIVA, de R$ 105,79/dia em 2026, paga no portal oficial do Distrito.",
+    "descricaoLonga": "A TPA é a primeira coisa a entrar no orçamento de Noronha, antes de hospedagem e passeio. Foi instituída pela Lei estadual nº 10.403, de 29 de dezembro de 1989, e é cobrada de TODA pessoa que não reside nem é domiciliada em Fernando de Noronha e visita o arquipélago com finalidade turística; o cálculo é feito com base no tempo de permanência. VALOR VIGENTE: R$ 105,79 por dia desde 1º de janeiro de 2026, reajuste de 4,4% sobre os R$ 101,33 de 2025, corrigido pela variação acumulada do IPCA. COMO A CONTA CRESCE — e este é o ponto que quebra orçamento: a cobrança é PROGRESSIVA, não é a diária multiplicada pelos dias. Exemplos oficiais citados: 7 dias custam R$ 672,85 (ou seja, MENOS que 7 x R$ 105,79 = R$ 740,53) e 30 dias custam R$ 7.460,56 (MUITO mais que 30 x a diária, que daria R$ 3.173,70). A progressão existe justamente para desestimular estadias longas. Na faixa de 4 a 10 dias, que é a de quase todo roteiro, a conta fica próxima da diária multiplicada, mas use sempre o simulador oficial perto da data. ONDE SE PAGA: no portal oficial do Distrito Estadual de Fernando de Noronha, que tem as opções 'Pague a TPA aqui', 'Imprima seu voucher — TPA' (via sin-web.noronha.pe.gov.br) e 'Restituição da TPA'. Pagamento com cartão de crédito ou boleto bancário, preferencialmente ANTES da viagem; há atendimento no aeroporto, citado como necessário para quem usa cartão estrangeiro, e é possível pagar na chegada ou na saída em estadias prolongadas. Contatos oficiais: (81) 3619-0812 (Vila dos Remédios) / noronha@noronha.pe.gov.br, e (81) 3182-9600 (escritório de apoio no Recife). ATENÇÃO: a TPA é DIFERENTE e SOMA-SE ao ingresso do PARNAMAR do ICMBio. O que NÃO confirmei: a tabela progressiva completa, dia por dia. Tentei abrir https://tpa.noronha.pe.gov.br/ e caí numa tela de login de um sistema interno ('SCV'), e https://www.noronha.pe.gov.br/servicosTpa.php retornou HTTP 404. Portanto só tenho a diária e dois pontos da curva (7 e 30 dias), ambos confirmados por duas fontes jornalísticas independentes. Use o simulador oficial.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 105.79,
+      "max": 7460.56,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 105,79 é a DIÁRIA de 2026. R$ 7.460,56 é o total de 30 dias (teto dos exemplos conhecidos). 7 dias = R$ 672,85. Cobrança progressiva — não multiplique a diária. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7
+    },
+    "contato": {
+      "site": "https://www.noronha.pe.gov.br/",
+      "telefone": "+55 81 3619-0812"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-aviso-critico-ingresso-do-parnamar-parque-nacional-m",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/visitante"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO CRÍTICO — Ingresso do PARNAMAR (Parque Nacional Marinho de Fernando de Noronha)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "taxa-obrigatoria",
+      "icmbio",
+      "parnamar",
+      "orcamento"
+    ],
+    "descricaoCurta": "R$ 192 para brasileiro e R$ 384 para estrangeiro, válido 10 dias, comprado online ou no Centro de Visitantes em Boldró.",
+    "descricaoLonga": "O ingresso do parque é a SEGUNDA taxa obrigatória de Noronha e não substitui a TPA. VALORES, conforme a Portaria ICMBio nº 4.423, de 14 de outubro de 2025: estrangeiro R$ 384,00; brasileiro R$ 192,00, com desconto de 50%. VALIDADE: 10 dias contados a partir da compra — ou seja, compre quando chegar, não antes, para não queimar dias. GRATUIDADE: menores de 12 anos; brasileiros acima de 60 anos; moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau; pessoal autorizado; e pesquisadores com licença SISBio. ONDE COMPRAR: online em tickets.parnanoronha.com.br, ou presencialmente no Centro de Visitantes, no Boldró, das 8h às 19h todos os dias. QUAIS PRAIAS E PONTOS EXIGEM O INGRESSO — o parque abrange 70% do arquipélago, e o ingresso dá acesso a: Baía do Sueste, Forte São Joaquim, Ponta das Caracas, Praia do Leão, Praia da Caieira, Baía dos Golfinhos, Praia do Sancho e Baía dos Porcos; mais as trilhas Capim Açu, Enseada do Abreu, Praia da Atalaia, Pontinha Caieira e Morro São José (todas com agendamento prévio); e os pontos de mergulho. QUAIS NÃO EXIGEM — ficam na Área de Proteção Ambiental e são de acesso livre: Cacimba do Padre, Praia do Bode, Americano, Boldró, Conceição, Meio, Cachorro e Porto de Santo Antônio. Consequência de roteiro: dá para fazer um ou dois dias só nas praias da APA, mas o Sancho, os Porcos, o Leão e o Sueste — que são o motivo de ir a Noronha — estão todos dentro do parque. Para um casal brasileiro, o ingresso soma R$ 384 ao orçamento, somados à TPA.",
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 192 brasileiro, R$ 384 estrangeiro. Validade de 10 dias a partir da compra. Base: Portaria ICMBio nº 4.423, de 14/10/2025. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {
+      "site": "https://www.parnanoronha.com.br/ingresso"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-baia-do-sancho",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Sancho&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Baía do Sancho",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "parnamar",
+      "escada-na-fenda",
+      "snorkel",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": -3.854011,
+      "lng": -32.442816
+    },
+    "descricaoCurta": "A praia mais premiada do Brasil, dentro do PARNAMAR, com acesso por escada de ferro encaixada numa fenda do paredão.",
+    "descricaoLonga": "Enseada fechada por falésias, areia clara e água transparente, com boa visibilidade para snorkel junto às pedras. O acesso principal é pelo mirante, descendo duas escadas de ferro verticais instaladas dentro de uma fenda na rocha — estreitas, úmidas e com degraus altos; quem tem mobilidade reduzida, medo de altura ou vai com criança pequena deve avaliar a chegada de barco, no passeio Ilhatour. Exige ingresso do PARNAMAR. Reserve meio dia: a descida, a praia e a subida consomem tempo. Melhor cedo, logo depois da abertura do parque, antes de o sol ficar a pino e antes da fila na escada; a visibilidade da água costuma ser melhor com mar calmo, no período de setembro a março. Armadilhas: não há barraca nem venda de água na praia — leve água e comida; a subida no meio da tarde, no calor, é a parte mais dura; e o horário de fechamento do parque é inflexível. O que NÃO confirmei: horário oficial de abertura e fechamento do acesso ao Sancho — não consta na página do PARNAMAR que abri, então o campo horarios foi omitido de propósito.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Não há cobrança na praia: o custo é o ingresso do PARNAMAR (R$ 192 brasileiro / R$ 384 estrangeiro, válido 10 dias), que cobre todas as áreas do parque. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-baia-dos-porcos",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Baia+dos+Porcos&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Baía dos Porcos",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "parnamar",
+      "piscina-natural",
+      "dois-irmaos",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -3.850539,
+      "lng": -32.442276
+    },
+    "descricaoCurta": "Enseada pequena entre pedras com a vista mais clássica dos Dois Irmãos, dentro do PARNAMAR.",
+    "descricaoLonga": "É a imagem-cartão do arquipélago: um recorte de areia e pedra com piscinas naturais rasas e o Morro Dois Irmãos ao fundo. Fica entre a Cacimba do Padre e o Sancho, e o acesso usual é a pé pela Cacimba do Padre, passando pelas pedras — trecho que só é confortável e seguro na MARÉ BAIXA. Exige ingresso do PARNAMAR. Reserve 2 a 4 horas. Melhor na maré baixa do meio da manhã, para ter as piscinas formadas e luz boa nas fotos; o fim da tarde dá o melhor contraluz nos Dois Irmãos, mas você precisa estar fora antes do fechamento do parque. Armadilhas: a travessia pelas pedras com maré subindo é a causa mais comum de sustos; não há estrutura nenhuma na praia; e o espaço de areia é pequeno, então enche rápido. O que NÃO confirmei: horário oficial de acesso e a hora exata da maré — veja o aviso de tábua de marés da Marinha.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Custo é o ingresso do PARNAMAR, não há cobrança local. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-praia-do-leao",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Leao+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia do Leão",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "parnamar",
+      "desova-de-tartaruga",
+      "mar-aberto",
+      "deserta"
+    ],
+    "coords": {
+      "lat": -3.869992,
+      "lng": -32.437285
+    },
+    "descricaoCurta": "Praia larga e selvagem do mar de fora, principal área de desova de tartarugas do arquipélago.",
+    "descricaoLonga": "No lado 'mar de fora' da ilha, o Leão é longo, vazio e muito mais bravo que as praias do mar de dentro: arrebentação forte, correnteza e ventos. Está dentro do PARNAMAR e é a principal área de desova de tartarugas-verdes, o que significa que em determinados períodos trechos podem ser interditados e o acesso restrito para proteger ninhos. Reserve 2 a 3 horas; o valor aqui é a paisagem, não o banho. Melhor no fim da tarde, pela luz, respeitando o horário de fechamento do parque. Armadilhas: não é praia de banho para criança; não há estrutura; e invadir área de desova é infração ambiental. O que NÃO confirmei: as datas exatas do período de desova e as regras de interdição vigentes nesta temporada, e o horário oficial de acesso — não constam na página do PARNAMAR que abri.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Custo é o ingresso do PARNAMAR. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-baia-do-sueste",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Baia+do+Sueste+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Baía do Sueste",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "snorkel",
+      "tartarugas",
+      "parnamar",
+      "mangue",
+      "flutuacao"
+    ],
+    "coords": {
+      "lat": -3.871332,
+      "lng": -32.424429
+    },
+    "descricaoCurta": "A baía de snorkel mais acessível do parque, com tartarugas, pequeno manguezal e estrutura de apoio.",
+    "descricaoLonga": "Do ponto de vista prático é a melhor praia do PARNAMAR para quem quer ver tartaruga sem esforço: a baía é rasa, protegida, tem aluguel de equipamento de flutuação e é onde o parque concentra a orientação de snorkel. Está dentro do parque e exige ingresso. Reserve 2 a 4 horas. Melhor cedo, quando a água está mais limpa e há menos gente. Regras que valem a pena saber: o uso de colete é a norma nas áreas de flutuação do parque, o toque em animais é proibido e protetor solar comum é desaconselhado dentro da água. Armadilhas: com vento forte a água fica turva e o snorkel perde sentido; e o aluguel de equipamento é cobrado à parte. O que NÃO confirmei: o valor do aluguel de máscara, snorkel e colete no Sueste, se há obrigatoriedade formal de guia e o horário oficial de funcionamento da praia — nada disso constava nas páginas oficiais que abri, então não informo preço de aluguel nem horário.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Custo é o ingresso do PARNAMAR. O aluguel de equipamento de flutuação é extra e seu valor NÃO foi confirmado. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-piscina-da-atalaia-flutuacao-com-agendamento",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/visitante"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Piscina da Atalaia (flutuação com agendamento)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "experiencia",
+    "tags": [
+      "agendamento-obrigatorio",
+      "flutuacao",
+      "parnamar",
+      "depende-da-mare",
+      "guia-obrigatorio"
+    ],
+    "descricaoCurta": "Piscina natural de recife onde a entrada é controlada: agendamento prévio, guia credenciado e banho de flutuação obrigatório.",
+    "descricaoLonga": "É a experiência mais regulada de Noronha e a que mais gente perde por falta de planejamento. A Piscina da Atalaia é uma poça de recife que só fica acessível na janela de maré baixa, e o parque controla tudo: AGENDAMENTO PRÉVIO OBRIGATÓRIO, GUIA CADASTRADO OBRIGATÓRIO e BANHO DE FLUTUAÇÃO OBRIGATÓRIO, com colete, máscara e snorkel — você flutua, não pisa, para não destruir o recife. A capacidade diária é definida por Estudo de Capacidade de Suporte, e as vagas dependem da janela de maré baixa, que dura tipicamente cerca de 4 horas por dia. COMO AGENDAR, conforme o site oficial: (1) tenha primeiro o número do ingresso do parque / o ingresso físico; (2) acesse a plataforma de agendamento em agendamento.parnanoronha.com.br ou vá ao Centro de Visitantes, em Boldró, aberto das 8h às 19h todos os dias; (3) escolha a trilha e o horário disponível, que é definido pela janela de maré. Duração típica de 1h a 2h, considerando a caminhada de acesso. Armadilhas: tentar agendar sem o ingresso em mãos; chegar no último dia de viagem e não haver vaga; e aceitar 'guia' sem credencial. O que NÃO confirmei: o valor cobrado pelo guia, se há limite numérico publicado de pessoas por dia e se existe custo adicional além do ingresso do parque.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "O ingresso do PARNAMAR é o custo confirmado. O serviço de guia cadastrado é cobrado à parte e seu valor NÃO foi confirmado em nenhuma fonte aberta nesta sessão. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-praia-da-cacimba-do-padre",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Cacimba+do+Padre&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia da Cacimba do Padre",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "apa",
+      "acesso-livre",
+      "surf",
+      "dois-irmaos",
+      "sem-ingresso"
+    ],
+    "coords": {
+      "lat": -3.849752,
+      "lng": -32.438986
+    },
+    "descricaoCurta": "A praia mais larga da ilha, de acesso LIVRE, aos pés dos Dois Irmãos e ponto de partida para a Baía dos Porcos.",
+    "descricaoLonga": "Fica na Área de Proteção Ambiental, e não dentro do parque, portanto NÃO exige o ingresso do PARNAMAR — o site oficial lista Cacimba do Padre entre as praias de acesso gratuito. É uma faixa larga de areia dourada com os Dois Irmãos na ponta, e é daqui que se faz a travessia a pé pelas pedras até a Baía dos Porcos, na maré baixa. No verão do hemisfério norte (dezembro a março) recebe o swell que forma as ondas grandes de Noronha e já sediou etapas de surf — nesse período a arrebentação é perigosa para banho. Reserve 2 a 4 horas. Melhor no fim da tarde, pela luz nos Dois Irmãos. Armadilhas: entrar no mar em dia de ondulação forte; e achar que dá para ir e voltar aos Porcos a qualquer hora, quando isso depende da maré. O que NÃO confirmei: existência de estrutura de barraca e o horário de maré do dia.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-fen-morro-dois-irmaos-vista-e-silhueta",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Morro+Dois+Irmaos+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Morro Dois Irmãos (vista e silhueta)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "mirante",
+    "tags": [
+      "mirante",
+      "fotografia",
+      "por-do-sol",
+      "simbolo-da-ilha"
+    ],
+    "coords": {
+      "lat": -3.848752,
+      "lng": -32.442277
+    },
+    "descricaoCurta": "Os dois morros gêmeos que são o símbolo de Noronha, vistos da Cacimba do Padre e da Baía dos Porcos.",
+    "descricaoLonga": "Não é um lugar que se visita, e sim a formação que organiza a paisagem da ilha: duas elevações rochosas emergindo do mar, logo depois da Cacimba do Padre. As melhores vistas são da praia da Cacimba do Padre (acesso livre, sem ingresso), do alto da Baía dos Porcos (dentro do parque) e do mar, no passeio Ilhatour. O momento é o fim da tarde, com os morros em contraluz. Reserve 30 a 60 minutos só para o mirante, encaixado em outra atividade. Armadilha: o acesso de escalada aos morros não é uma atividade turística permitida — não existe 'trilha para o alto dos Dois Irmãos' aberta ao visitante. O que NÃO confirmei: se há mirante sinalizado específico e seu horário.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-fen-baia-dos-golfinhos-mirante",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Baia+dos+Golfinhos+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Baía dos Golfinhos (mirante)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "mirante",
+    "tags": [
+      "golfinhos",
+      "parnamar",
+      "mirante",
+      "manha-cedo",
+      "banho-proibido"
+    ],
+    "coords": {
+      "lat": -3.858404,
+      "lng": -32.446703
+    },
+    "descricaoCurta": "Mirante sobre a enseada onde os golfinhos-rotadores descansam — observação de cima, sem entrar na água.",
+    "descricaoLonga": "A Baía dos Golfinhos é área de repouso dos golfinhos-rotadores e está dentro do PARNAMAR, exigindo o ingresso do parque; a visitação é feita de um mirante na trilha, com observação de cima — não há banho nem acesso à água na baía. O horário é o que define o sucesso da visita: os golfinhos entram na enseada ao amanhecer, então a janela boa é logo depois da abertura do parque, de manhã muito cedo. Reserve 1h a 2h, incluindo a caminhada. Leve binóculo se tiver. Armadilhas: ir à tarde, quando os animais já saíram; e acreditar em oferta de 'nadar com golfinhos' na baía, que não é atividade permitida. O que NÃO confirmei: horário oficial de abertura da trilha, se o mirante exige agendamento e se há limite de pessoas — a página oficial que abri lista a Baía dos Golfinhos entre as áreas que exigem ingresso, mas não detalha horário.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Custo é o ingresso do PARNAMAR. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-praia-da-conceicao",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+da+Conceicao+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia da Conceição",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "apa",
+      "acesso-livre",
+      "barracas",
+      "por-do-sol",
+      "sem-ingresso"
+    ],
+    "coords": {
+      "lat": -3.84092,
+      "lng": -32.416266
+    },
+    "descricaoCurta": "A praia mais prática da ilha: acesso livre, barracas, aula de surf e o Morro do Pico atrás.",
+    "descricaoLonga": "Está na Área de Proteção Ambiental e NÃO exige ingresso do parque — o site oficial do PARNAMAR lista Conceição entre as praias de acesso gratuito. É a praia do dia a dia em Noronha: faixa de areia extensa, barracas de praia, aluguel de prancha e o Morro do Pico fechando a paisagem. Serve como plano B quando o parque fecha, quando a maré não colabora ou quando você quer um dia sem logística. Reserve 2 a 5 horas. Melhor no fim da tarde, para o pôr do sol com cerveja na barraca. Armadilhas: tem trechos com arrebentação e pedra; e preço de barraca em Noronha é alto em geral — pergunte antes. O que NÃO confirmei: preços de barraca, aluguel de prancha e horários — não encontrei nenhuma tabela com fonte, por isso o preço informado é só o da gratuidade de acesso.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-fen-praia-do-cachorro-e-praia-do-meio-vila-dos-remedios",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Cachorro+Fernando+de+Noronha&format=json&limit=1"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Meio+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia do Cachorro e Praia do Meio (Vila dos Remédios)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "apa",
+      "acesso-livre",
+      "vila-dos-remedios",
+      "a-pe",
+      "sem-ingresso"
+    ],
+    "coords": {
+      "lat": -3.839043,
+      "lng": -32.410946
+    },
+    "descricaoCurta": "As praias urbanas da Vila dos Remédios, a pé do centro, de acesso livre e com piscina natural na maré baixa.",
+    "descricaoLonga": "Praia do Cachorro e Praia do Meio formam o litoral imediato da Vila dos Remédios e são as mais fáceis de alcançar da ilha: dá para ir a pé do centro, da pousada e do Bar do Cachorro. Ambas estão na APA e NÃO exigem ingresso do parque, conforme a lista oficial do PARNAMAR, que inclui Cachorro e Meio entre as áreas gratuitas. Na maré baixa formam-se poças e piscinas entre as pedras; na maré cheia a faixa de areia do Cachorro quase desaparece. Reserve 1h a 3h. Melhor na maré baixa, de manhã. Armadilhas: na maré cheia o mar bate nas pedras e o banho fica desconfortável; e à noite a área concentra o movimento de bar, então não deixe pertences na areia. O que NÃO confirmei: horários de maré do dia (consulte a Tábua das Marés da Marinha) e preços de barraca.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-fen-forte-de-nossa-senhora-dos-remedios",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Forte+dos+Remedios+Fernando+de+Noronha&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Forte de Nossa Senhora dos Remédios",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "atracao",
+    "tags": [
+      "forte",
+      "historia",
+      "mirante",
+      "por-do-sol",
+      "vila-dos-remedios"
+    ],
+    "coords": {
+      "lat": -3.837827,
+      "lng": -32.410094
+    },
+    "descricaoCurta": "Ruína da fortificação portuguesa do século XVIII sobre a Vila dos Remédios, com vista para o porto e o mar.",
+    "descricaoLonga": "O principal conjunto histórico da ilha, construído pelos portugueses para impedir novas ocupações estrangeiras: muralhas, canhões e uma vista aberta sobre o Porto de Santo Antônio e o mar de dentro. Fica logo acima da Vila dos Remédios, subindo a Ladeira do Forte, e se faz a pé de quem está na vila. Reserve 40 a 60 minutos. Melhor no fim da tarde: é um dos pontos de pôr do sol da ilha e menos disputado que os mirantes do Boldró. Armadilha: é ruína sem guarda-corpo em alguns trechos e o chão é irregular — não vá de chinelo liso nem leve criança pequena solta. O que NÃO confirmei: se há horário de visitação controlado, cobrança de ingresso e se o Forte São Joaquim (que o site oficial lista entre as áreas do parque) é o mesmo conjunto — são fortificações distintas na ilha, e eu não consegui confirmar a relação, por isso não afirmo que este exige ingresso.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-fen-trilha-do-capim-acu",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/visitante"
+      },
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Trilha do Capim Açu",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "natureza",
+    "tags": [
+      "trilha",
+      "agendamento-obrigatorio",
+      "parnamar",
+      "dia-inteiro",
+      "esforco-alto"
+    ],
+    "descricaoCurta": "A trilha longa do parque, pelo lado selvagem da ilha, com agendamento prévio obrigatório.",
+    "descricaoLonga": "A mais exigente das trilhas do PARNAMAR, pelo setor menos visitado da ilha, e uma das que o site oficial lista como de AGENDAMENTO PRÉVIO OBRIGATÓRIO, junto com Enseada do Abreu, Piscina da Atalaia, Pontinha Caieira, Atalaia-Pontinha Caieira e Morro São José. O procedimento é o mesmo: ter o número do ingresso do parque, agendar em agendamento.parnanoronha.com.br ou no Centro de Visitantes (Boldró, 8h às 19h) e escolher o horário disponível, que o parque define conforme a janela de maré. A capacidade é determinada por Estudo de Capacidade de Suporte. Planeje como atividade de meio dia a dia inteiro, com calçado fechado, água, comida e proteção solar; o terreno é de capim alto, pedra e sol direto. Armadilhas: deixar para agendar na ilha em alta temporada; subestimar o esforço físico; e marcar no mesmo dia de mergulho. O que NÃO confirmei: a duração oficial, a distância, se guia é obrigatório nesta trilha específica, o valor do guia e se há cota numérica publicada de pessoas por dia. Por isso a duração abaixo é uma estimativa de planejamento, não um dado de fonte.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 480
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "O ingresso do PARNAMAR é o custo confirmado. Serviço de guia, se obrigatório, é extra e NÃO foi confirmado. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 5
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-mergulho-autonomo-em-noronha-batismo-e-credenciado",
+    "fontes": [
+      {
+        "url": "https://dan.org/alert-diver/article/flying-after-diving/"
+      },
+      {
+        "url": "https://www.scuba.com/blog/flying-after-diving-how-long-should-you-wait/"
+      },
+      {
+        "url": "https://alertdiver.eu/en_US/articles/flying-after-diving/"
+      },
+      {
+        "url": "https://www.maladeaventuras.com/mergulho-de-cilindro-em-fernando-de-noronha/"
+      },
+      {
+        "url": "https://www.falandodeviagem.com.br/viewtopic.php?p=144655"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mergulho autônomo em Noronha (batismo e credenciado)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "experiencia",
+    "tags": [
+      "mergulho",
+      "scuba",
+      "dan",
+      "nao-voar-depois",
+      "parnamar"
+    ],
+    "descricaoCurta": "Batismo para quem nunca mergulhou e saídas credenciadas para quem tem certificação — com regra de intervalo antes de voar.",
+    "descricaoLonga": "Noronha é o principal destino de mergulho do Brasil, com visibilidade alta e naufrágios. A operadora mais citada é a Atlantis Divers, que atua na ilha desde 1994, se apresenta como a maior e mais estruturada operadora de mergulho do país e é afiliada a PADI, NAUI, PDIC, IANTD, TDI, GUE, CMAS e DAN. BATISMO: para quem não tem certificação, dura meio período, não exige saber nadar, tem um instrutor por participante e desce a cerca de 12 a 14 metros por 30 a 35 minutos. CREDENCIADO: para certificados, com dois pontos diferentes explorados na saída. PREÇOS: os valores que encontrei — batismo a partir de R$ 230 e mergulho credenciado de R$ 220 (sem equipamento) a R$ 316 (com equipamento) — são de anos anteriores, e NÃO consegui confirmar a tabela de 2026: a loja online (loja-atlantisdivers.paytour.com.br) e o site de reservas (reservas.atlantisdivers.com.br) retornaram HTTP 403 ao meu acesso nesta sessão. Trate esses números como piso histórico e peça cotação. Contatos citados: +55 (81) 99570-4165 e info@atlantisdivers.com.br. INTERVALO ANTES DE VOAR — ESTA É A REGRA QUE MUDA O ROTEIRO: as recomendações da DAN de intervalo mínimo de superfície antes de voar em avião comercial são de 12 horas para um único mergulho sem descompressão, 18 horas para múltiplos mergulhos no dia ou múltiplos dias de mergulho, e substancialmente mais de 18 horas para mergulhos com paradas de descompressão. A DAN ressalva que esses intervalos não garantem a prevenção de doença descompressiva e que intervalos maiores reduzem mais o risco; um artigo da própria DAN comenta que 24 horas são provavelmente seguras e que o intervalo de 18 horas merece revisão. Consequência prática: NÃO mergulhe no dia anterior ao voo de volta se você fez mais de um mergulho ou mergulhou em mais de um dia — e, como os voos de Noronha costumam sair pela manhã ou no início da tarde, isso na prática elimina o penúltimo dia também. Reserve o mergulho para o meio da viagem.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 220,
+      "max": 316,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "ATENÇÃO: faixa de anos anteriores (batismo a partir de R$ 230; credenciado R$ 220 sem equipamento a R$ 316 com equipamento). NÃO é preço de 2026 — a loja e o site de reservas da operadora deram HTTP 403 nesta sessão. Peça cotação direta. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 15
+    },
+    "contato": {
+      "telefone": "+55 81 99570-4165",
+      "whatsapp": "+55 81 99570-4165"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-passeio-de-barco-ilhatour-volta-a-ilha-pelo-mar",
+    "fontes": [
+      {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Passeio de barco Ilhatour (volta à ilha pelo mar)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "passeio",
+    "tags": [
+      "barco",
+      "golfinhos",
+      "sancho-pelo-mar",
+      "manha",
+      "imperdivel"
+    ],
+    "descricaoCurta": "Volta de barco pelo mar de dentro, com vista do Sancho e dos Porcos pela água e chance de ver golfinhos.",
+    "descricaoLonga": "O passeio de barco clássico de Noronha sai do Porto de Santo Antônio e costeia o mar de dentro, passando pela Baía dos Golfinhos, Sancho, Baía dos Porcos e Dois Irmãos vistos da água, geralmente com uma parada para banho ou flutuação. É a melhor forma de ver a ilha de um ângulo que nenhuma trilha oferece, e a única maneira confortável de chegar ao Sancho sem descer a escada da fenda. As saídas são de manhã, quando o mar está mais calmo e os golfinhos estão na baía. Duração típica de 3 a 4 horas. Armadilhas: avistamento de golfinho NUNCA é garantido e operador que promete é sinal de alerta; e a interação na água com golfinhos não é permitida. O que NÃO confirmei, e por isso não há preço nem operador nomeado aqui: a tabela de preços de 2026, quais empresas são credenciadas, horários de saída e se há taxa de embarque no porto. Não encontrei nenhuma fonte com valor datado que eu tenha conseguido abrir nesta sessão.",
+    "duracao": {
+      "min": 180,
+      "tipica": 210,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 5
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-fen-aluguel-de-buggy-em-fernando-de-noronha",
+    "fontes": [
+      {
+        "url": "https://www.maladeaventuras.com/quanto-custa-viajar-para-fernando-de-noronha/"
+      },
+      {
+        "url": "https://www.essemundoenosso.com.br/onibus-em-fernando-de-noronha-taxi-buggy"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aluguel de buggy em Fernando de Noronha",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "aluguel-veiculo",
+    "tags": [
+      "buggy",
+      "transporte",
+      "liberdade",
+      "orcamento"
+    ],
+    "descricaoCurta": "O buggy é o veículo padrão do turista na ilha, com diária alta e preços que explodem na alta temporada.",
+    "descricaoLonga": "Turista não circula de carro particular próprio em Noronha; as opções são buggy, moto, bicicleta, táxi e o ônibus da linha única. O buggy é o mais usado porque dá autonomia para pegar o Sueste de manhã, o Sancho no meio do dia e o pôr do sol no Boldró sem depender de horário de ônibus. PREÇOS — as fontes divergem: uma traz R$ 250 a R$ 450 por dia; outra traz R$ 400 a R$ 500 por diária na BAIXA temporada, com alta temporada e feriados, especialmente Réveillon, podendo dobrar ou triplicar. Nenhuma das duas é fonte oficial de locadora, e eu não abri site de locadora nesta sessão. Quando vale: roteiro de 5+ noites, em dupla ou mais, com praias espalhadas. Quando não vale: roteiro curto concentrado em trilhas do parque, que se fazem a pé e com guia. Armadilhas: combustível na ilha é mais caro que no continente e não entra na diária; vistoria de avarias na devolução é rigorosa — fotografe o veículo na retirada; e a BR-363 tem trechos estreitos com pedestres e lombadas. O que NÃO confirmei: tabela oficial de qualquer locadora, se exige CNH específica, se há caução e o preço do combustível na ilha.",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 250,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Valor POR DIÁRIA do veículo, não por pessoa. Faixa construída com DUAS fontes de turismo que divergem (R$ 250-450 e R$ 400-500 na baixa temporada). Alta temporada e Réveillon podem dobrar ou triplicar. Nenhuma fonte oficial de locadora. | tipo: por-grupo"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 30
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-xica-da-silva",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/restaurantes-em-fernando-de-noronha-melhores-baratos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Xica da Silva",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "contemporaneo",
+      "sem-reserva",
+      "fila",
+      "floresta-nova"
+    ],
+    "descricaoCurta": "Um dos restaurantes mais procurados da ilha, de gastronomia contemporânea e frutos do mar, na Floresta Nova.",
+    "descricaoLonga": "Casa de cozinha contemporânea com foco em frutos do mar e um dos endereços mais disputados de Noronha. Média por pessoa citada: R$ 100 a R$ 160. Pratos e valores citados no cardápio: ceviche de peixe R$ 49; camarão empanado R$ 72; moqueca de peixe R$ 149 para dois; baião de dois R$ 149 para dois. Endereço: Alameda das Acácias, 11, Floresta Nova. Telefone (81) 3619-0437 e WhatsApp (81) 99309-7567. DICA PRÁTICA da fonte: chegue cedo — depois das 19h30 é provável ficar na fila de espera. Reserve 1h30 a 2h. Armadilha: pratos 'para dois' em Noronha costumam render de verdade para dois, então pedir individual por pessoa infla a conta; e os preços da ilha são 40% a 60% acima do continente por causa do frete. O que NÃO confirmei: horário de funcionamento, política de reserva e se os valores de cardápio citados são de 2026 — a fonte não datava a tabela.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 100,
+      "max": 160,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Média por pessoa citada por fonte de turismo, sem data explícita da tabela. Valores de prato individual citados: ceviche R$ 49, camarão empanado R$ 72; pratos para dois a R$ 149. Fonte única, não oficial. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+55 81 3619-0437",
+      "whatsapp": "+55 81 99309-7567"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-fen-restaurante-varanda",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/restaurantes-em-fernando-de-noronha-melhores-baratos"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Restaurante Varanda",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "terraco",
+      "vista-para-o-mar",
+      "vila-do-trinta",
+      "jantar"
+    ],
+    "descricaoCurta": "Terraço ao ar livre cercado de palmeiras, na Vila do Trinta, especializado em pratos de frutos do mar para dois.",
+    "descricaoLonga": "Casa de jantar com terraço aberto, palmeiras e o mar ao fundo, na Vila do Trinta. Pratos e valores citados: bobó de lagosta R$ 250 para dois; bobó de camarão R$ 200 para dois; paella de frutos do mar R$ 220 para dois. Telefone citado: (81) 3619-1546. Reserve 1h30 a 2h e vá no fim da tarde para pegar a luz. Armadilha: como os pratos são para dois, a conta de um casal fica em torno de R$ 100 a R$ 125 por pessoa só de prato principal, antes de bebida e serviço — some isso ao orçamento diário da ilha. O que NÃO confirmei: horário de funcionamento, política de reserva, endereço completo e se esses valores de cardápio valem em 2026; a fonte não datava a tabela.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 100,
+      "max": 125,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Derivado dos pratos para dois citados (R$ 200 a R$ 250 por prato), dividido por duas pessoas, considerando só o prato principal. Fonte única, não oficial, sem data de tabela. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "telefone": "+55 81 3619-1546"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-fen-mergulhao",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/restaurantes-em-fernando-de-noronha-melhores-baratos"
+      },
+      {
+        "url": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/os-melhores-locais-para-comer-e-beber-em-fernando-de-noronha/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Mergulhão",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "vista-para-o-mar",
+      "jantar-especial",
+      "vinho"
+    ],
+    "descricaoCurta": "Restaurante com terraço e vista do oceano, citado como o jantar de ocasião especial da ilha.",
+    "descricaoLonga": "É o endereço mais citado em listas de 'jantar especial' em Noronha: menu de frutos do mar, carta de vinhos e terraço aberto com vista do oceano. Serve bem para a noite em que você quer uma refeição mais longa e com mais vista. Reserve 2h. Armadilha: casas com vista em Noronha trabalham com reserva e com horário de pôr do sol disputado — deixar para chegar sem reserva na alta temporada é perder a mesa boa. O que NÃO confirmei, e por isso não há preço, horário, telefone nem coordenada aqui: nenhuma das fontes que abri trouxe valores, horário de funcionamento ou endereço completo do Mergulhão. Não vou inventar faixa de preço para uma casa dessa categoria.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-fen-bar-do-cachorro-forro-e-vida-noturna",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-fernando-de-noronha-a-noite-2/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-fernando-de-noronha-72-582-p.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bar do Cachorro (forró e vida noturna)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "forro",
+      "musica-ao-vivo",
+      "vila-dos-remedios"
+    ],
+    "descricaoCurta": "A principal casa noturna da ilha, na Vila dos Remédios: mistura de bar, restaurante e casa de show, com forró.",
+    "descricaoLonga": "A vida noturna de Noronha é concentrada e pequena, por definição: a legislação ambiental e a preocupação com a preservação limitam a oferta, e o que existe fica na Vila dos Remédios, com forró, samba, MPB e DJ, em ambiente mais intimista que urbano. O Bar do Cachorro é o endereço central — bar, restaurante e casa de show ao mesmo tempo — e o forró tradicional acontece às SEGUNDAS, QUARTAS e SEXTAS, segundo a fonte. Reserve 2h a 4h. Melhor nos dias de forró. Armadilhas: casa de show cobra couvert artístico; e você precisa planejar a volta, porque o ônibus da linha única encerra por volta de 22h-23h e táxi na ilha é escasso de madrugada — se está de buggy, não beba. O que NÃO confirmei: horário de funcionamento, valor do couvert e preço de consumo. Nenhuma fonte aberta trouxe esses dados.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-fen-aviso-critico-fuso-utc-2-voos-e-o-erro-do-cartao-de",
+    "fontes": [
+      {
+        "url": "https://www.essemundoenosso.com.br/fernando-de-noronha-dicas"
+      },
+      {
+        "url": "https://www.dicasdeviagem.com/como-chegar-em-fernando-de-noronha/"
+      },
+      {
+        "url": "https://dan.org/alert-diver/article/flying-after-diving/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO CRÍTICO — Fuso UTC-2, voos e o erro do cartão de embarque",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "fuso-horario",
+      "voos",
+      "logistica",
+      "planejamento"
+    ],
+    "descricaoCurta": "Noronha é UTC-2, uma hora À FRENTE de Recife e Brasília — e os voos saem de Recife (1h40) e de Natal (1h a 1h20).",
+    "descricaoLonga": "Orientação de logística, não um lugar, e o erro operacional mais comum do roteiro. FUSO: Fernando de Noronha está em GMT-2, duas horas a menos que Greenwich. Como Brasília está em GMT-3, os relógios em Noronha ficam UMA HORA À FRENTE da capital federal e de Recife (salvo horário de verão, que atualmente não vigora no Brasil). O celular normalmente ajusta sozinho ao pousar, mas o engano acontece no planejamento: se o voo de volta sai às 13h, isso é 13h de NORONHA, equivalente a 12h em Recife — e o passageiro que calculou 'tenho a manhã toda' com a cabeça no horário do continente perde o voo ou chega apertado. Programe o último dia com margem e confirme o horário local no cartão de embarque. VOOS: o Aeroporto Governador Carlos Wilson (FEN) é o único da ilha. Operam Azul e Gol, com voos diários saindo de Recife, com tempo médio de voo em torno de 1h40; a Azul também voa de Natal duas vezes por semana, com cerca de 1h a 1h20 de voo. Não há voo de outras capitais sem conexão em Recife ou Natal. CONSEQUÊNCIAS DE ROTEIRO: (1) qualquer imprevisto de voo em Noronha significa dormir na ilha, com TPA adicional por dia; (2) combine o mergulho com o intervalo DAN antes do voo (18 horas para múltiplos mergulhos); (3) ao emendar Recife e Noronha, reserve o voo de volta com folga para a conexão. O que NÃO confirmei: a malha e os horários de voo vigentes para 2026, que mudam por temporada — consulte a companhia.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-fen-aviso-limite-de-visitantes-em-fernando-de-noronha-11",
+    "fontes": [
+      {
+        "url": "https://brasilturis.com.br/2026/08/03/pernambuco-propoe-reorganizar-voos-para-limitar-acesso-a-fernando-de-noronha/"
+      },
+      {
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/pernambuco-pede-reorganizacao-de-voos-para-limitar-acesso-a-fernando-de-noronha/"
+      },
+      {
+        "url": "https://www.maisgoias.com.br/brasil/limite-a-turistas-em-fernando-de-noronha-gera-criticas-de-donos-de-pousadas-e-hoteis/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Limite de visitantes em Fernando de Noronha (11 mil por mês)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "limite-de-visitantes",
+      "regra-de-entrada",
+      "alta-temporada",
+      "planejamento"
+    ],
+    "descricaoCurta": "Existe teto de 11 mil visitantes por mês e 132 mil por ano, acordado entre Pernambuco e a União e homologado pelo STF.",
+    "descricaoLonga": "Orientação de planejamento. O limite de visitação de Noronha é de 11 MIL VISITANTES POR MÊS e 132 MIL POR ANO, número acordado entre a União e o estado de Pernambuco e homologado pelo Supremo Tribunal Federal; a gestão estadual afirma que esse teto está previsto no Acordo de Gestão Compartilhada firmado entre Pernambuco e a União, e a regra leva em conta a capacidade da ilha de suportar circulação de pessoas sem pressionar serviços essenciais e recursos naturais. SITUAÇÃO EM 2026: em 2025 o arquipélago recebeu cerca de 140 mil turistas, acima do limite anual de 132 mil. Por causa disso, o governo de Pernambuco pediu que a ANAC reorganize os voos para Noronha de forma que a oferta de assentos não ultrapasse o teto, proposta que gerou críticas de donos de pousadas e hotéis. O QUE ISSO SIGNIFICA PARA O SEU ROTEIRO: hoje não há cota individual de entrada nem sorteio — quem paga TPA e tem voo entra. O risco é de OFERTA: se a ANAC reduzir ou reorganizar assentos, os voos ficam mais caros e mais escassos, especialmente em alta temporada, e a flexibilidade de remarcação diminui. Recomendação prática: compre o voo de Noronha com antecedência maior do que você compraria outro trecho doméstico, e evite roteiro que dependa de remarcação de última hora. O que NÃO confirmei: se alguma restrição de assentos já entrou em vigor em 2026, e o texto do Acordo de Gestão Compartilhada — não abri documento oficial do STF, da ANAC nem do acordo nesta sessão.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

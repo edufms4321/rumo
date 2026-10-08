@@ -1,0 +1,765 @@
+[
+  {
+    "id": "br-smm-praia-do-toque",
+    "fontes": [
+      {
+        "url": "https://www.guiadasemana.com.br/viagens-nacionais/noticia/conheca-sao-miguel-dos-milagres-em-alagoas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Toque+Sao+Miguel+dos+Milagres&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Toque",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "coqueiral",
+      "pousadas-boutique",
+      "saida-de-jangada",
+      "depende-da-mare",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": -9.28316,
+      "lng": -35.383308
+    },
+    "descricaoCurta": "A praia mais estruturada da Rota Ecológica: coqueiral, pousadas-boutique e a saída das jangadas para as piscinas naturais.",
+    "descricaoLonga": "O Toque é o centro de gravidade de São Miguel dos Milagres: coqueiral chegando na areia, mar protegido por recife, piscinas na maré baixa e a maior concentração de pousadas-boutique da Rota Ecológica. É também o principal ponto de saída das jangadas para as piscinas naturais — a fonte indica que as melhores saídas são na Praia do Toque. Reserve meio dia a um dia, ou use como base. Melhor na maré baixa, de manhã. Armadilhas: não espere estrutura de barraca de praia com música e cadeira alugada — a praia é vazia por projeto, e quase todo serviço passa pelas pousadas; e o recife é cortante. O que NÃO confirmei: preços de estrutura e horários, por falta de fonte.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-smm-piscinas-naturais-de-sao-miguel-dos-milagres-jangada",
+    "fontes": [
+      {
+        "url": "https://www.guiadasemana.com.br/viagens-nacionais/noticia/conheca-sao-miguel-dos-milagres-em-alagoas"
+      },
+      {
+        "url": "https://quantocustaviajar.com/brasil/sao-miguel-dos-milagres/passeios"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Piscinas naturais de São Miguel dos Milagres (jangada do Toque)",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "passeio",
+    "tags": [
+      "piscinas-naturais",
+      "jangada",
+      "depende-da-mare",
+      "corais",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": -9.28316,
+      "lng": -35.383308
+    },
+    "descricaoCurta": "Jangadas saem do Toque e cruzam ~1,5 km até as piscinas de coral, com cerca de 1 hora de permanência.",
+    "descricaoLonga": "O principal passeio da base. As piscinas naturais ficam a cerca de 1,5 km da costa e são alcançadas por jangada, saindo principalmente da Praia do Toque; a travessia dá acesso a corais e peixes coloridos em água rasa e transparente. A dinâmica relatada é simples: os barqueiros levam até as piscinas e trazem de volta cerca de uma hora depois; com travessia, o passeio costuma durar cerca de 2 horas. DEPENDE DE MARÉ BAIXA — consulte a Tábua das Marés da Marinha antes de reservar. PREÇO: a fonte cita cerca de R$ 30 por pessoa, e em outra passagem 'em média R$ 30'. ATENÇÃO: a própria fonte alerta que esses valores parecem ser referências históricas e NÃO são de 2026, e recomenda confirmar com pousadas e operadores locais. Um passeio de 2 horas em jangada por R$ 30 em 2026 é implausivelmente barato, então trate R$ 30 como piso histórico e espere valor bem maior. Reserve 2h a 3h. Melhor nas semanas de lua cheia e lua nova, de manhã. Armadilhas: combinar valor por pessoa quando o jangadeiro cobra por embarcação, ou o contrário — diga em voz alta quantas pessoas são e qual o total; e aceitar passeio em maré alta.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 30,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "R$ 30 por pessoa é PISO HISTÓRICO, não preço de 2026: a própria fonte declara que o valor parece ser referência antiga e recomenda confirmar com operadores locais. Fonte única, não oficial. Espere pagar mais. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-smm-praia-do-riacho",
+    "fontes": [
+      {
+        "url": "https://www.maladeaventuras.com/alagoas/sao-miguel-dos-milagres/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Praia do Riacho",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "coqueiral",
+      "recife",
+      "tranquilo",
+      "depende-da-mare"
+    ],
+    "descricaoCurta": "Praia de coqueiral vizinha ao Toque, com pousadas um pouco mais em conta e acesso ao centrinho de São Miguel.",
+    "descricaoLonga": "O Riacho é o trecho entre o Toque e o centro de São Miguel dos Milagres: coqueiral denso, areia clara e o mesmo recife que protege toda a rota, formando poças na maré baixa. É a alternativa de hospedagem um pouco mais acessível ao Toque, com a vantagem de ficar perto do centrinho de São Miguel, onde estão o comércio e a capela. Reserve meio dia. Melhor na maré baixa. Armadilha: pouca estrutura — leve água e protetor, e conte com a pousada para almoço. O que NÃO confirmei: a COORDENADA. A consulta ao OpenStreetMap por 'Praia do Riacho São Miguel dos Milagres' devolveu o ponto da Praia do Toque, que é outro lugar, e eu não registro coordenada errada — por isso o campo coords foi omitido. Também não confirmei estrutura nem preços.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-smm-praia-do-patacho",
+    "fontes": [
+      {
+        "url": "https://viagenscinematograficas.com.br/2021/04/porto-de-pedras-alagoas-praia-do-patacho.html"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Patacho&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Patacho",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "deserta",
+      "coqueiral",
+      "bate-volta",
+      "imperdivel",
+      "depende-da-mare",
+      "porto-de-pedras"
+    ],
+    "coords": {
+      "lat": -9.17974,
+      "lng": -35.298918
+    },
+    "descricaoCurta": "A praia mais isolada e mais bonita da Rota Ecológica, no município de Porto de Pedras.",
+    "descricaoLonga": "O Patacho é o extremo norte da Rota Ecológica, já em Porto de Pedras, e é consensualmente a praia mais bonita do conjunto: coqueiral fechado, areia clara, recife ao largo e quase nenhuma construção. Também é a de acesso mais difícil, por estrada de areia, e a que tem menos infraestrutura — não espere barraca, banheiro nem restaurante na areia. É bate-volta de meio dia a um dia a partir de São Miguel dos Milagres, e o acesso de carro envolve a travessia do rio Manguaba pela balsa de Porto de Pedras. Reserve meio dia a um dia. Melhor na maré baixa, de manhã. Armadilhas: ir sem água e sem comida; e chegar com o carro errado em trecho de areia mole — pergunte na pousada as condições do acesso no dia. O que NÃO confirmei: condição atual das estradas de acesso, existência de estacionamento e qualquer cobrança.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-smm-santuario-do-peixe-boi-passeio-no-rio-tatuamunha",
+    "fontes": [
+      {
+        "url": "https://feel.visitbrasil.com/en/visitacao-aos-peixes-boi-marinhos-2/"
+      },
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/prefeitura-de-porto-de-pedras-acompanha-investigacao-sobre-morte-de-peixes-bois-e-mantem-passeios-no-rio-tatuamunha/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Santuário do Peixe-Boi — passeio no Rio Tatuamunha",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "natureza",
+    "tags": [
+      "peixe-boi",
+      "conservacao",
+      "reserva-obrigatoria",
+      "manguezal",
+      "imperdivel",
+      "bate-volta",
+      "porto-de-pedras"
+    ],
+    "descricaoCurta": "O único projeto do país que permite observar peixe-boi marinho em habitat natural com autorização federal, com apenas 10 saídas por dia.",
+    "descricaoLonga": "É a experiência mais singular da Rota Ecológica e a que mais exige planejamento. O santuário fica no Rio Tatuamunha, em Porto de Pedras, e é descrito como o ÚNICO projeto do país que permite a observação do peixe-boi marinho em habitat natural com autorização federal. O acesso é por um caminho que leva a uma ponte de madeira sobre o rio, onde se observa a fauna e a flora do manguezal da área de proteção ambiental; depois de cruzar a ponte começa o passeio de barco, guiado por dois remadores, descendo as águas do rio. REGRA CRÍTICA: o passeio dura cerca de 1 hora, está disponível diariamente, mas há apenas 10 SAÍDAS POR DIA e é preciso RESERVAR COM ANTECEDÊNCIA. Ou seja: não é algo que se decide na hora, e quem chega sem reserva em alta temporada não vai. Reserve pela pousada assim que confirmar a viagem. Melhor de manhã. Armadilhas: deixar para o último dia; e confundir com 'nadar com peixe-boi', que não é a atividade — a observação é de barco, sem contato. CONTEXTO QUE VALE SABER: há registro noticiado de investigação sobre morte de peixes-boi na região, com a Prefeitura de Porto de Pedras mantendo os passeios no Rio Tatuamunha durante a apuração — ou seja, a operação já esteve sob escrutínio e pode sofrer suspensão. Confirme a operação antes de contar com ela no roteiro. O que NÃO confirmei: o preço do passeio, o canal oficial de reserva, o telefone e se a operação está ativa hoje. Nenhum valor é informado aqui por falta de fonte.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 10
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-smm-rota-ecologica-dos-milagres-al-101-norte",
+    "fontes": [
+      {
+        "url": "https://www.maladeaventuras.com/alagoas/sao-miguel-dos-milagres/"
+      },
+      {
+        "url": "https://www.falandodeviagem.com.br/viewtopic.php?p=222254"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Sao+Miguel+dos+Milagres+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Rota Ecológica dos Milagres (AL-101 Norte)",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "experiencia",
+    "tags": [
+      "estrada-cenica",
+      "bicicleta",
+      "carro",
+      "coqueiral",
+      "dia-inteiro"
+    ],
+    "descricaoCurta": "O trecho de estrada entre Porto de Pedras, São Miguel dos Milagres e Passo de Camaragibe que dá nome e sentido ao destino.",
+    "descricaoLonga": "A Rota Ecológica não é um lugar, é o próprio destino: o trecho da AL-101 Norte e das vias vicinais que liga Porto de Pedras, São Miguel dos Milagres e Passo de Camaragibe, ~100 km ao norte de Maceió, costurando praias de coqueiral, vilas de pescadores e pousadas. O programa é percorrer: de carro, para pegar Patacho ao norte e Marceneiro ao sul, ou de bicicleta, no trecho mais plano entre Toque, Riacho e o centrinho de São Miguel. Reserve de um dia a toda a estadia. CARRO É PRATICAMENTE OBRIGATÓRIO: não há transporte público útil, as pousadas ficam espalhadas por acessos de areia e a oferta de aplicativo é inexistente ou irregular. Melhor de manhã e no fim da tarde, pela luz e pelo calor. Armadilhas: chegar depois do anoitecer por estrada vicinal sem iluminação; sinal de celular irregular em alguns trechos; e subestimar a distância entre as pontas da rota. O que NÃO confirmei: condição atual do pavimento, quilometragem exata entre os pontos e qualquer tarifa de transporte.",
+    "duracao": {
+      "min": 240,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-smm-balsa-de-porto-de-pedras-travessia-do-rio-manguaba",
+    "fontes": [
+      {
+        "url": "https://www.buser.com.br/destinos/pontos-turisticos/al/porto-de-pedras/balsa-porto-de-pedras-japaratinga"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Porto+de+Pedras+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Balsa de Porto de Pedras (travessia do rio Manguaba)",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "experiencia",
+    "tags": [
+      "balsa",
+      "travessia",
+      "rio-manguaba",
+      "logistica",
+      "bate-volta",
+      "porto-de-pedras"
+    ],
+    "coords": {
+      "lat": -9.161026,
+      "lng": -35.296987
+    },
+    "descricaoCurta": "Balsa tradicional que transporta carros e pessoas entre as duas margens do rio Manguaba, em cerca de 10 minutos.",
+    "descricaoLonga": "A travessia da balsa em Porto de Pedras é parte do charme e parte da logística da Rota Ecológica: uma balsa tradicional leva carros e pessoas entre as duas margens do rio Manguaba, com travessia de cerca de 10 minutos. É o caminho de carro para quem vai de São Miguel dos Milagres ao norte, em direção ao Patacho e a Japaratinga, e também uma experiência em si — vale fazer a pé pelo menos uma vez, pela paisagem do rio e do mangue. O que NÃO confirmei, e isso tem impacto real no planejamento: a TARIFA (por pessoa e por veículo), o HORÁRIO DE OPERAÇÃO e a frequência. Nenhuma fonte que eu abri nesta sessão traz esses dados, e balsa com horário limitado é exatamente o tipo de coisa que arruína um fim de tarde — confirme com a pousada na véspera, especialmente se você pretende voltar depois do anoitecer. Armadilha: contar com a balsa para a volta sem saber o horário do último embarque.",
+    "duracao": {
+      "min": 10,
+      "tipica": 20,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-smm-farol-de-porto-de-pedras",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Farol+de+Porto+de+Pedras&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Farol de Porto de Pedras",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "mirante",
+    "tags": [
+      "farol",
+      "mirante",
+      "vista",
+      "bate-volta",
+      "porto-de-pedras"
+    ],
+    "coords": {
+      "lat": -9.156792,
+      "lng": -35.298032
+    },
+    "descricaoCurta": "Farol no alto de Porto de Pedras, com vista da foz do Manguaba, do coqueiral e do recife.",
+    "descricaoLonga": "Pequeno farol no ponto alto da vila de Porto de Pedras, de onde se vê a foz do rio Manguaba, a linha de recife e o coqueiral da rota — a melhor vista panorâmica de toda a Rota Ecológica, e uma parada de 20 a 40 minutos que se encaixa no bate-volta ao Patacho ou na travessia da balsa. Melhor no fim da tarde. Armadilha: o acesso é por rua de vila, com ladeira; e a estrutura é mínima. O que NÃO confirmei: se há horário de visitação controlado, se é possível subir ao farol, se há cobrança e se há guardião no local. Por isso nenhum horário nem preço é informado — vários faróis da Marinha no Brasil só permitem visita externa ou em horário restrito, e eu não confirmei a regra deste.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-smm-praia-do-marceneiro",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Marceneiro+Passo+de+Camaragibe&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Marceneiro",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "praia",
+    "tags": [
+      "praia",
+      "passo-de-camaragibe",
+      "vazia",
+      "coqueiral",
+      "depende-da-mare"
+    ],
+    "coords": {
+      "lat": -9.297548,
+      "lng": -35.394936
+    },
+    "descricaoCurta": "Praia no extremo sul da rota, já em Passo de Camaragibe, mais vazia e mais barata para se hospedar.",
+    "descricaoLonga": "Fica no município de Passo de Camaragibe, logo ao sul da Praia do Toque, e fecha a Rota Ecológica pelo lado sul: coqueiral, areia clara, recife ao largo e muito menos gente. É a opção de hospedagem mais em conta da rota, com a contrapartida de ter menos oferta de restaurante por perto. Reserve meio dia. Melhor na maré baixa. Armadilha: a escassez de restaurante — se você se hospedar aqui, confirme se a pousada serve jantar, porque sair para comer significa pegar o carro. O que NÃO confirmei: estrutura de praia, acessos e qualquer preço.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-smm-no-quintal",
+    "fontes": [
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/as-dicas-de-milagres-com-o-chef-joao-garcia/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "No Quintal",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "restaurante",
+    "tags": [
+      "contemporaneo",
+      "frutos-do-mar",
+      "lagosta",
+      "capela-dos-milagres",
+      "jantar"
+    ],
+    "descricaoCurta": "Cozinha contemporânea com frutos do mar, perto da Capela dos Milagres, em São Miguel dos Milagres.",
+    "descricaoLonga": "Uma das casas mais citadas da Rota Ecológica: cozinha contemporânea com frutos do mar, localizada perto da Capela dos Milagres, no centrinho de São Miguel. Prato destacado pela fonte: lagosta grelhada com purê de banana da terra. Reserve 1h30 a 2h. Melhor no jantar, mas confirme antes: na rota, muita casa fecha cedo e algumas só abrem com reserva fora da alta temporada. Armadilha: casa pequena em destino de pousada-boutique opera com poucas mesas — sem reserva você não entra em fim de semana. O que NÃO confirmei: endereço completo, telefone, horário de funcionamento e faixa de preço. A fonte descreve a cozinha e um prato, mas não traz nenhum desses dados, por isso nenhum valor é informado.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-smm-patrimonio-da-maria",
+    "fontes": [
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/simone-muniz-indica-seus-favoritos-na-rota-dos-milagres/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Patrimônio da Maria",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "restaurante",
+    "tags": [
+      "regional",
+      "moqueca",
+      "estrada-principal",
+      "almoco"
+    ],
+    "descricaoCurta": "Culinária regional com toque gourmet na estrada principal de São Miguel dos Milagres.",
+    "descricaoLonga": "Fica na estrada principal da rota e serve culinária regional com acabamento mais elaborado; prato destacado pela fonte: moqueca de polvo com farofa de dendê. É uma das poucas casas independentes com localização fácil de achar em um destino onde quase todo restaurante está dentro de pousada. Reserve 1h30 a 2h, de preferência no almoço. Armadilha: como fica na estrada, é a casa que enche com quem está de passagem — em feriado, reserve. O que NÃO confirmei: endereço com número, telefone, horário de funcionamento e faixa de preço. Nenhum valor é informado aqui por falta de fonte.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-smm-dadiva-cozinha-boutique",
+    "fontes": [
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/simone-muniz-indica-seus-favoritos-na-rota-dos-milagres/"
+      },
+      {
+        "url": "https://quantocustaviajar.com/brasil/sao-miguel-dos-milagres/alimentacao"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Dádiva Cozinha Boutique",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "restaurante",
+    "tags": [
+      "autoral",
+      "boutique",
+      "jantar",
+      "poucas-mesas"
+    ],
+    "descricaoCurta": "Casa pequena de cozinha autoral em São Miguel dos Milagres, citada por sabor e criatividade.",
+    "descricaoLonga": "Restaurante pequeno de cozinha autoral, citado pelas fontes locais como uma das casas que conquistam pelo sabor e pela criatividade — o perfil típico da rota, onde o padrão é poucas mesas e cozinha de autor em vez de restaurante grande. Reserve 1h30 a 2h. Melhor no jantar. ARMADILHA ESTRUTURAL DA ROTA: em São Miguel dos Milagres, 'cozinha boutique' quer dizer literalmente poucas mesas — sem reserva você não come, e isso vale para quase todas as casas boas da região. Decida o jantar pela manhã. O que NÃO confirmei: endereço, telefone, horário de funcionamento, se abre todos os dias e faixa de preço. Nenhum valor é informado.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-smm-aviso-sao-miguel-dos-milagres-fecha-cedo-e-nao-tem-v",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/brasil/sao-miguel-dos-milagres/alimentacao"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/restaurantes-em-japaratinga/"
+      },
+      {
+        "url": "https://www.maladeaventuras.com/alagoas/sao-miguel-dos-milagres/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — São Miguel dos Milagres fecha cedo e não tem vida noturna",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "vida-noturna",
+      "expectativa",
+      "planejamento",
+      "restaurantes"
+    ],
+    "descricaoCurta": "A rota não tem bar nem balada: quem quer noite deve ficar em Maceió e usar São Miguel para descansar.",
+    "descricaoLonga": "Orientação de expectativa, e é a informação que mais evita frustração neste destino. A Rota Ecológica NÃO tem vida noturna: não há bar de rua, casa de show nem balada, e o jantar é o evento da noite. Quase todo restaurante bom é pequeno, de poucas mesas, muitos deles dentro de pousadas, e vários operam com reserva. Consequências práticas: (1) decida e reserve o jantar pela manhã, não às 19h; (2) se a sua pousada fica em trecho isolado como Patacho ou Marceneiro, confirme se ela serve jantar, porque sair para comer significa pegar o carro em estrada vicinal sem iluminação; (3) se o grupo quer noite, divida o roteiro — São Miguel para descansar, Maceió (Jaraguá, de quinta a domingo) para sair; (4) leve o que quiser beber, porque a oferta de mercado é limitada e fecha cedo. O que também importa: há registro nas fontes de que a região tem poucos restaurantes independentes e que muitos hotéis e pousadas têm restaurante próprio. O que NÃO confirmei: horários de fechamento de restaurantes e mercados — nenhuma fonte com horário datado foi aberta, então trate 'fecha cedo' como orientação qualitativa, não como horário.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-smm-aviso-carro-estradas-de-areia-e-mare-na-rota-ecologi",
+    "fontes": [
+      {
+        "url": "https://www.buser.com.br/destinos/pontos-turisticos/al/porto-de-pedras/balsa-porto-de-pedras-japaratinga"
+      },
+      {
+        "url": "https://feel.visitbrasil.com/en/visitacao-aos-peixes-boi-marinhos-2/"
+      },
+      {
+        "url": "https://www.guiadasemana.com.br/viagens-nacionais/noticia/conheca-sao-miguel-dos-milagres-em-alagoas"
+      },
+      {
+        "url": "https://www.melhoresdestinos.com.br/tabua-de-mare.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Carro, estradas de areia e maré na Rota Ecológica",
+    "cidadeId": "sao-miguel-dos-milagres",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "logistica",
+      "carro",
+      "mare",
+      "planejamento"
+    ],
+    "descricaoCurta": "Sem carro o destino não funciona; e as piscinas naturais e o Patacho dependem de maré baixa e de acesso de areia.",
+    "descricaoLonga": "Orientação de logística que decide a viabilidade do roteiro. (1) CARRO É PRATICAMENTE OBRIGATÓRIO: as pousadas ficam espalhadas por acessos de areia ao longo da AL-101 Norte, não há transporte público útil e a oferta de aplicativo é inexistente ou irregular, sobretudo à noite. Bicicleta resolve bem o trecho plano entre Toque, Riacho e o centrinho de São Miguel, mas não resolve Patacho nem Marceneiro. (2) A TRAVESSIA DA BALSA de Porto de Pedras, sobre o rio Manguaba, é parte do caminho para o norte (Patacho, Japaratinga) e leva cerca de 10 minutos; eu NÃO consegui confirmar tarifa nem horário de operação, e balsa com último embarque cedo é um risco real para quem volta no fim da tarde — confirme na véspera. (3) MARÉ: as piscinas naturais, que saem principalmente da Praia do Toque, só funcionam na maré baixa; consulte a Tábua das Marés da Marinha (https://www.marinha.mil.br/chm/tabuas-de-mare) e monte o dia em volta dela, não o contrário. (4) RESERVAS COM LIMITE: o Santuário do Peixe-Boi no Rio Tatuamunha tem apenas 10 saídas por dia e exige reserva antecipada — é o primeiro item a marcar. (5) ESTRADAS: trechos de areia e vias vicinais sem iluminação; evite chegar ou circular depois do anoitecer, e pergunte à pousada a condição do acesso no dia. (6) SINAL DE CELULAR irregular em alguns trechos — baixe o mapa offline. O que NÃO confirmei: tarifas de balsa, de transfer e de aluguel de bicicleta; condição atual do pavimento; e cobertura de operadoras.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.marinha.mil.br/chm/tabuas-de-mare"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

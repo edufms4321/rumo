@@ -27,6 +27,30 @@ export function Orcamento() {
     [viagem, pacote],
   );
 
+  /**
+   * Linhas agrupadas por categoria, somando repeticoes pelo rotulo.
+   *
+   * A mesma taxa aparece uma vez por dia da viagem; mostrar a lista crua
+   * daria vinte linhas iguais em vez de uma com o total.
+   */
+  const porCategoria = useMemo(() => {
+    const mapa = new Map<string, Array<{ rotulo: string; faixa: { min: number; max: number } }>>();
+    for (const l of orcamento?.linhas ?? []) {
+      const lista = mapa.get(l.categoria) ?? [];
+      const ja = lista.find((x) => x.rotulo === l.rotulo);
+      if (ja) {
+        ja.faixa = { min: ja.faixa.min + l.faixaBRL.min, max: ja.faixa.max + l.faixaBRL.max };
+      } else {
+        lista.push({ rotulo: l.rotulo, faixa: { ...l.faixaBRL } });
+      }
+      mapa.set(l.categoria, lista);
+    }
+    for (const lista of mapa.values()) lista.sort((a, b) => b.faixa.max - a.faixa.max);
+    return mapa;
+  }, [orcamento]);
+
+  const linhasDaCategoria = (cat: string) => porCategoria.get(cat) ?? [];
+
   const gastoReal = useMemo(() => {
     if (!viagem) return { total: 0, porCategoria: {} as Record<string, number> };
     let total = 0;
@@ -78,6 +102,7 @@ export function Orcamento() {
         </Cartao>
       )}
 
+      {/* Agrupa as linhas por categoria uma vez, nao por linha renderizada. */}
       <Secao titulo="Por categoria">
         <Cartao className="divide-y divide-[var(--cor-borda)]">
           {(Object.keys(NOME_DA_CATEGORIA) as CategoriaDeCusto[]).map((cat) => {
@@ -109,6 +134,28 @@ export function Orcamento() {
                       style={{ width: `${Math.min(100, proporcao)}%` }}
                     />
                   </div>
+                )}
+
+                {/*
+                  De que e feito o numero.
+
+                  So o total da categoria nao serve: "Taxas obrigatorias
+                  R$ 1.400" nao diz que R$ 1.058 sao a TPA de Noronha e
+                  R$ 384 o ingresso do parque — e sao justamente os dois
+                  que o usuario precisa pagar antes de embarcar.
+                */}
+                {linhasDaCategoria(cat).length > 0 && (
+                  <ul className="mt-2 space-y-0.5">
+                    {linhasDaCategoria(cat).map((l) => (
+                      <li
+                        className="flex justify-between gap-3 text-2xs text-[var(--cor-texto-suave)]"
+                        key={l.rotulo}
+                      >
+                        <span className="min-w-0 truncate">{l.rotulo}</span>
+                        <span className="tabular shrink-0">{formatarFaixaBRL(l.faixa)}</span>
+                      </li>
+                    ))}
+                  </ul>
                 )}
               </div>
             );

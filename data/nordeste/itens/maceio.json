@@ -1,0 +1,674 @@
+[
+  {
+    "id": "br-mcz-piscinas-naturais-de-pajucara-passeio-de-jangada",
+    "fontes": [
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/countryside/piscinas-naturais-em-pajucara-alagoas.html"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Pajucara+Maceio&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Piscinas naturais de Pajuçara (passeio de jangada)",
+    "cidadeId": "maceio",
+    "categoria": "passeio",
+    "tags": [
+      "piscinas-naturais",
+      "jangada",
+      "depende-da-mare",
+      "snorkel",
+      "a-pe-da-orla"
+    ],
+    "coords": {
+      "lat": -9.669407,
+      "lng": -35.713565
+    },
+    "descricaoCurta": "Jangadas saem da areia da Pajuçara e levam, em cerca de 20 minutos, às piscinas de recife formadas na maré baixa.",
+    "descricaoLonga": "É o passeio urbano mais fácil do Nordeste: você sai da calçada do hotel, entra numa jangada na areia da Pajuçara e em cerca de 20 minutos está nas piscinas de recife a ~2 km da costa. Na maré baixa os arrecifes formam tanques de água turquesa com muita variedade de peixes, em água calma e transparente; algumas jangadas têm fundo de vidro, o que dá visão do fundo para quem não quer entrar na água. A permanência é de cerca de 1h a 1h30 nas piscinas. DEPENDE INTEIRAMENTE DA MARÉ BAIXA — sem maré baixa não existe piscina, e o horário muda cerca de 50 minutos por dia; consulte a Tábua das Marés da Marinha (porto de referência: Maceió) antes de reservar. O que NÃO confirmei, e por isso NÃO informo preço: o valor do passeio em 2026. As fontes que abri descrevem a mecânica do passeio e a formação das piscinas, mas NENHUMA traz preço por pessoa — e eu me recuso a publicar um número plausível sem fonte. Pergunte na praia e compare duas jangadas antes de embarcar. Armadilhas: jangadeiro que vende para horário sem maré baixa; ração para peixe (recuse, é prática desaconselhada em recife); e cobrança separada de colete e máscara.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 210
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-mcz-praia-de-ponta-verde",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Ponta+Verde+Maceio&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia de Ponta Verde",
+    "cidadeId": "maceio",
+    "categoria": "praia",
+    "tags": [
+      "praia-urbana",
+      "mar-calmo",
+      "recife",
+      "familia",
+      "caminhada"
+    ],
+    "coords": {
+      "lat": -9.660313,
+      "lng": -35.697111
+    },
+    "descricaoCurta": "A praia urbana mais equilibrada de Maceió: mar calmo protegido por recife, calçadão e estrutura a pé.",
+    "descricaoLonga": "Ponta Verde é a escolha padrão para se hospedar em Maceió e também a melhor praia urbana para banho: a barreira de recifes deixa o mar manso, há faixa de areia larga, calçadão, ciclovia e barracas. Funciona para família e para quem não quer depender de carro — restaurantes, farmácias e mercados ficam a poucos minutos a pé. Reserve meio dia ou use como base diária. Melhor de manhã, antes do vento. Armadilhas: barraca que monta cadeira e guarda-sol sem informar preço, e 'couvert' de petisco que chega sem ser pedido. O que NÃO confirmei: preços de cadeira, guarda-sol e consumo em barraca, e se há posto de salva-vidas — não encontrei tabela com fonte.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mcz-mirante-sao-goncalo",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Mirante+Sao+Goncalo+Maceio&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mirante São Gonçalo",
+    "cidadeId": "maceio",
+    "categoria": "mirante",
+    "tags": [
+      "mirante",
+      "por-do-sol",
+      "centro",
+      "gratuito",
+      "vista-da-orla"
+    ],
+    "coords": {
+      "lat": -9.663324,
+      "lng": -35.732764
+    },
+    "descricaoCurta": "Mirante no alto do Centro, na Praça Rosalvo Ribeiro, com a vista aberta da orla de Maceió e da Lagoa Mundaú.",
+    "descricaoLonga": "Fica no alto do bairro Centro, na Praça Rosalvo Ribeiro, e entrega em cinco minutos de parada a melhor leitura da geografia de Maceió: a orla urbana de um lado, a Lagoa Mundaú do outro e a cidade no meio. É gratuito e rápido, ideal para encaixar no caminho entre o Centro histórico e o Mercado do Artesanato. Reserve 20 a 40 minutos. Melhor no fim da tarde, para o pôr do sol sobre a lagoa. Armadilha: é uma praça no Centro, área que se esvazia bastante fora do horário comercial — vá de dia ou no começo da noite, de carro, e não fique depois que escurecer. O que NÃO confirmei: se há horário de funcionamento controlado e se há estrutura de apoio.",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 60
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mcz-museu-theo-brandao-de-antropologia-e-folclore",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Museu+Theo+Brandao+Maceio&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museu Théo Brandão de Antropologia e Folclore",
+    "cidadeId": "maceio",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "folclore",
+      "ufal",
+      "centro",
+      "cultura-popular"
+    ],
+    "coords": {
+      "lat": -9.669378,
+      "lng": -35.732524
+    },
+    "descricaoCurta": "Museu de antropologia e folclore da UFAL, num casarão da Avenida da Paz, na orla do Centro.",
+    "descricaoLonga": "O principal museu de cultura popular de Alagoas, ligado à Universidade Federal de Alagoas, instalado num casarão na Avenida da Paz, 1490, Centro. Acervo de folguedos, indumentária, religiosidade popular e artesanato alagoano — é o complemento intelectual ao Mercado do Artesanato, que fica a poucos minutos. Reserve 1h a 1h30 e combine com o Mirante São Gonçalo no mesmo circuito do Centro. O que NÃO confirmei, e por isso não há horário nem preço aqui: horário de funcionamento, dias de fechamento e valor do ingresso. Museus universitários costumam ter gratuidade e horário reduzido, e já passaram por períodos de fechamento para restauro — confirme por telefone antes de ir, porque o custo de um deslocamento ao Centro para achar a porta fechada é alto.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false,
+      "dependeDeMare": false
+    },
+    "selos": [],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-mcz-mercado-do-artesanato-de-maceio",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Mercado+do+Artesanato+Maceio&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado do Artesanato de Maceió",
+    "cidadeId": "maceio",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "renda-file",
+      "compras",
+      "centro"
+    ],
+    "coords": {
+      "lat": -9.662515,
+      "lng": -35.743526
+    },
+    "descricaoCurta": "O endereço clássico para comprar renda filé, bordado e artesanato alagoano, na Rua Emílio de Maia, na Levada.",
+    "descricaoLonga": "Fica na Rua Emílio de Maia, no bairro Levada, perto do Centro, e concentra bancas de renda filé — o bordado que é a assinatura artesanal de Alagoas, especialmente de Marechal Deodoro e da região lagunar —, além de cerâmica, palha e doces. Reserve 45 minutos a 1h30. Melhor pela manhã, quando está mais fresco e mais movimentado. Dica de negociação: pergunte o preço da mesma peça em duas ou três bancas antes de fechar; a variação é grande e a barganha é aceita para mais de uma peça. Armadilha: peça industrial vendida como renda filé artesanal — a feita à mão tem o avesso irregular e a malha de fundo visível. O que NÃO confirmei: horário de funcionamento e faixa de preço das peças, por falta de fonte.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mcz-praia-do-frances",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+do+Frances+Marechal+Deodoro&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Praia do Francês",
+    "cidadeId": "maceio",
+    "categoria": "praia",
+    "tags": [
+      "bate-volta",
+      "surf",
+      "piscina-natural",
+      "barracas",
+      "depende-da-mare",
+      "praia-do-frances"
+    ],
+    "coords": {
+      "lat": -9.767214,
+      "lng": -35.85102
+    },
+    "descricaoCurta": "Praia de dois humores em Marechal Deodoro: lado com piscinas de recife e lado aberto com ondas de surf.",
+    "descricaoLonga": "A ~22 km de Maceió, no município de Marechal Deodoro, o Francês é a praia de bate-volta mais prática do litoral sul e tem duas metades bem distintas: o trecho protegido por recife, com piscinas naturais rasas na maré baixa, bom para banho e para criança; e o trecho aberto, com arrebentação forte e ondas usadas para surf. A faixa tem a maior concentração de barracas e restaurantes de praia do litoral sul alagoano, e combina no mesmo dia com o centro histórico de Marechal Deodoro e com o almoço na Massagueira. Reserve meio dia a um dia. Melhor na maré baixa, no lado do recife. ARMADILHA DE SEGURANÇA: o lado aberto tem correnteza e vala, e é onde ocorrem os afogamentos — não entre no mar do lado das ondas com criança nem fora da vista de salva-vidas, e não confie na aparência de 'mar calmo' na maré alta, quando o recife fica coberto. O que NÃO confirmei: preços de barraca, existência e horário de posto de salva-vidas, e dados de afogamento — não abri fonte oficial do Corpo de Bombeiros de Alagoas nesta sessão, então o alerta é de prudência, não dado estatístico.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-mcz-centro-historico-de-marechal-deodoro",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Marechal+Deodoro+Alagoas&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro histórico de Marechal Deodoro",
+    "cidadeId": "maceio",
+    "categoria": "atracao",
+    "tags": [
+      "bate-volta",
+      "centro-historico",
+      "primeira-capital",
+      "igrejas",
+      "renda-file",
+      "marechal-deodoro"
+    ],
+    "coords": {
+      "lat": -9.709715,
+      "lng": -35.896731
+    },
+    "descricaoCurta": "A primeira capital de Alagoas, com conjunto colonial preservado às margens da Lagoa Manguaba.",
+    "descricaoLonga": "Marechal Deodoro foi a primeira capital de Alagoas e guarda o conjunto colonial mais relevante do estado, sobre a Lagoa Manguaba: igrejas e conventos do século XVIII, casario e a casa onde nasceu Deodoro da Fonseca, primeiro presidente do Brasil. É também um dos centros da renda filé. Fica a ~25 km de Maceió e encaixa no mesmo dia da Praia do Francês e do almoço na Massagueira, que ficam a poucos quilômetros. Reserve 2h a 3h. Melhor pela manhã, pelo calor e porque os equipamentos religiosos têm horário reduzido à tarde. O que NÃO confirmei, e por isso não há horário nem preço: horários e ingressos dos museus e igrejas de Marechal Deodoro (o conjunto inclui museus de arte sacra e a casa natal de Deodoro, cada um com regra própria). Não abri nenhuma fonte oficial da prefeitura, do Iphan ou dos museus nesta sessão. Confirme antes, porque vários desses equipamentos fecham na segunda-feira.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-mcz-massagueira-restaurantes-a-beira-da-lagoa-manguaba",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Massagueira+Marechal+Deodoro&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Massagueira (restaurantes à beira da Lagoa Manguaba)",
+    "cidadeId": "maceio",
+    "categoria": "restaurante",
+    "tags": [
+      "almoco",
+      "frutos-do-mar",
+      "lagoa",
+      "sururu",
+      "bate-volta",
+      "marechal-deodoro"
+    ],
+    "coords": {
+      "lat": -9.732844,
+      "lng": -35.839263
+    },
+    "descricaoCurta": "Povoado de Marechal Deodoro cujo eixo é uma sequência de restaurantes de frutos do mar sobre a lagoa.",
+    "descricaoLonga": "Massagueira é a parada de almoço canônica do litoral sul: um povoado de Marechal Deodoro, entre a Praia do Francês e Maceió, onde a estrada margeia a Lagoa Manguaba e é tomada por restaurantes de frutos do mar com deque sobre a água. O prato de referência é o sururu, o molusco da lagoa que é símbolo da cozinha alagoana, servido em caldo, na moqueca ou no arroz. As fontes de gastronomia de Maceió recomendam explicitamente almoçar em Massagueira na volta do litoral sul. Reserve 1h30 a 2h30. Melhor no almoço, entre 12h e 15h, para pegar a luz na lagoa. Armadilha: casa com músico ao vivo e couvert não informado; e prato 'para dois' que na verdade serve três — pergunte o rendimento. O que NÃO confirmei: nomes de casas específicas, horários e faixa de preço. Nenhuma fonte aberta trouxe esses dados com data, e por isso não cito restaurante nominalmente aqui nem informo valor.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mcz-wanchako",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Wanchako",
+    "cidadeId": "maceio",
+    "categoria": "restaurante",
+    "tags": [
+      "peruano",
+      "ceviche",
+      "jantar",
+      "referencia",
+      "jatiuca"
+    ],
+    "descricaoCurta": "Cozinha peruana aberta em 1996, apontada como o restaurante número 1 de Maceió.",
+    "descricaoLonga": "O Wanchako abriu em 1996, muito antes de o ceviche virar moda no resto do país, e desde então é descrito pela fonte como o restaurante número 1 de Maceió. Em novembro de 2024 mudou para uma casa nova, mais ampla e arejada. Cozinha peruana com peixe e frutos do mar locais — o encontro óbvio entre a técnica peruana e o pescado alagoano. Os melhores restaurantes de Maceió se espalham entre Pajuçara, Ponta Verde e Jatiúca, e o único corredor gastronômico propriamente dito é a Av. Dr. Antônio Gomes de Barros, na Jatiúca (que todos ainda chamam pelo nome antigo, Av. Amélia Rosa). Reserve 1h30 a 2h e vá no jantar. Armadilha: casa de referência em cidade de porte médio enche em fim de semana — ligue antes. O que NÃO confirmei: o endereço da casa nova, telefone, horário e faixa de preço. Como a fonte informa a mudança de endereço mas não o novo endereço, qualquer endereço que eu escrevesse aqui seria chute. Nenhum valor é informado.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "br-mcz-divina-gula",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Divina Gula",
+    "cidadeId": "maceio",
+    "categoria": "restaurante",
+    "tags": [
+      "mineiro",
+      "grelhados",
+      "carne-de-sol",
+      "jantar"
+    ],
+    "descricaoCurta": "Casa de comida mineira e grelhados, clássica em Maceió, com carne de sol e tutu à mineira.",
+    "descricaoLonga": "Um dos restaurantes clássicos de Maceió, citado ao lado do Wanchako, do Akuaba e do Lua Cheia. Traz grelhados e pratos mineiros como carro-chefe, com destaques para a picanha com macaxeira, o arroz de quenga rica e a carne de sol desfiada com tutu à mineira. Funciona bem como alternativa quando você já comeu peixe por três dias seguidos. Reserve 1h30 a 2h. Armadilha: porções mineiras rendem para mais gente do que o menu sugere — peça uma a menos do que você acha. O que NÃO confirmei: endereço, telefone, horário e faixa de preço. A fonte descreve os pratos mas não traz nenhum desses dados, então nenhum valor é informado aqui.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mcz-jaragua-vida-noturna-e-casario-historico",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Jaraguá (vida noturna e casario histórico)",
+    "cidadeId": "maceio",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "casario-historico",
+      "bares",
+      "quinta-a-domingo"
+    ],
+    "descricaoCurta": "O bairro portuário histórico de Maceió, que concentra a vida noturna — mas só funciona de quinta a domingo.",
+    "descricaoLonga": "Jaraguá é o antigo bairro portuário de Maceió, com casario histórico restaurado, e é onde se concentra a noite da cidade: bares, música ao vivo e casas de show. O detalhe decisivo para o roteiro, e que a fonte afirma de forma direta: o bairro de Jaraguá SÓ FUNCIONA À NOITE ENTRE QUINTA E DOMINGO. Ou seja, quem chega numa segunda e vai a Jaraguá esperando movimento encontra um bairro vazio — e um bairro de centro antigo vazio à noite não é lugar para caminhar. Reserve 2h a 4h, de quinta a domingo. Vá e volte de carro de aplicativo, porta a porta. Armadilhas: couvert artístico não informado; e esperar movimento em dia de semana. O que NÃO confirmei: nomes de casas, horários e preços — não encontrei fonte com esses dados datados, e por isso não cito estabelecimento nominalmente.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mcz-aviso-mare-e-as-piscinas-naturais-de-maceio-e-alagoa",
+    "fontes": [
+      {
+        "url": "https://www.melhoresdestinos.com.br/tabua-de-mare.html"
+      },
+      {
+        "url": "https://www.fuiserviajante.com/"
+      },
+      {
+        "url": "https://jovempan.com.br/comportamento/quando-ir-a-porto-de-galinhas-roteiro-clima-e-o-segredo-da-tabua-de-mares/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Maré e as piscinas naturais de Maceió e Alagoas",
+    "cidadeId": "maceio",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "mare",
+      "planejamento",
+      "piscinas-naturais"
+    ],
+    "descricaoCurta": "Pajuçara, Gunga, Francês, Maragogi, Japaratinga e São Miguel dependem todas de maré baixa — o roteiro se monta pela tábua.",
+    "descricaoLonga": "Orientação de planejamento que vale para toda a costa de Alagoas. As piscinas naturais de Pajuçara (em Maceió), as de Maragogi e das Galés, as de Japaratinga e as de São Miguel dos Milagres só se formam na MARÉ BAIXA. A fonte oficial e gratuita de consulta é a Tábua das Marés do Centro de Hidrografia da Marinha (CHM), em https://www.marinha.mil.br/chm/tabuas-de-mare: escolha o estado e depois o porto mais próximo do destino — para Maragogi e para o litoral norte de Alagoas a referência usada é o Porto de Maceió. A publicação de 2026 cobre 44 portos, 2 ilhas oceânicas, 2 ilhas costeiras, 5 barras, 1 fundeadouro e 1 ponto de amarração, mais 1 fundeadouro na Estação Antártica Comandante Ferraz. REGRAS PRÁTICAS: (1) o horário da maré baixa avança cerca de 50 minutos por dia, então em uma estadia de 4 noites a janela pode ser só de manhã ou só de tarde; (2) as melhores marés são nas semanas de LUA CHEIA e LUA NOVA, quando a amplitude é maior e a maré mínima cai para 0,0-0,2 m; (3) em Maragogi há relato de que a visitação às Galés é proibida quando a maré baixa não atinge o patamar necessário (uma fonte cita 0,6 m); (4) NUNCA marque o passeio de piscinas para o último dia da viagem. O que NÃO confirmei: eu tentei abrir a página da Marinha nesta sessão e recebi HTTP 403 nas duas tentativas, então não li nenhuma tabela de maré; a URL e a descrição do serviço vêm de fontes secundárias que a referenciam. Nenhum horário de maré concreto é informado aqui.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.marinha.mil.br/chm/tabuas-de-mare"
+    },
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-mcz-aviso-seguranca-e-cobrancas-em-maceio",
+    "fontes": [
+      {
+        "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://quantocustaviajar.com/blog/praia-do-gunga-em-alagoas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "AVISO — Segurança e cobranças em Maceió",
+    "cidadeId": "maceio",
+    "categoria": "atracao",
+    "tags": [
+      "aviso",
+      "seguranca",
+      "golpes",
+      "barracas"
+    ],
+    "descricaoCurta": "O que é honesto dizer: não há dado oficial de criminalidade por bairro aqui, e o atrito real é cobrança em barraca e passeio.",
+    "descricaoLonga": "Orientação, não lugar — e com uma confissão de limite. NÃO encontrei nesta sessão nenhuma estatística oficial de criminalidade por bairro de Maceió, da Secretaria de Segurança Pública de Alagoas ou equivalente. Por isso NÃO afirmo nada sobre 'bairro perigoso' ou índice de roubo: qualquer número desse tipo neste arquivo seria inventado. O que é possível afirmar com base nas fontes e na geografia: (1) a orla Pajuçara-Ponta Verde-Jatiúca é a área de maior presença turística e de policiamento, e é onde circular a pé faz sentido; (2) o Centro e o bairro de Jaraguá se esvaziam fora do horário comercial, e segundo a fonte de gastronomia 'o bairro de Jaraguá só funciona à noite entre quinta e domingo' — ou seja, nos outros dias a área fica deserta à noite, o que recomenda ir e voltar de carro; (3) o Mercado do Artesanato e o Centro são áreas de comércio popular denso, com os cuidados habituais. ATRITOS DE DINHEIRO mais comuns: barraca de praia que monta cadeira e guarda-sol sem informar preço; 'couvert' de petisco servido sem pedido; lagosta ou camarão 'por quilo' sem balança à vista; falso cuidador de carro cobrando reserva de vaga na orla; maquininha com valor pré-digitado. Nas praias de bate-volta, especialmente no Gunga, existem cobranças privadas de estacionamento e mirante sem recibo — exija comprovante. O que NÃO confirmei: índices oficiais de criminalidade e qualquer tabela oficial de preço de barraca.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

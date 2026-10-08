@@ -307,3 +307,17 @@ test('a tela Agora mostra os numeros de emergencia do destino', async ({ page })
   await expect(page.getByRole('button', { name: /Bombeiros 193/ })).toBeVisible();
   await expect(page.getByRole('button', { name: /Ambulancia 192/ })).toBeVisible();
 });
+
+test('as taxas obrigatorias de Noronha entram no orcamento', async ({ page }) => {
+  await criarViagem(page, 'nordeste');
+  await definirDatas(page, '2027-09-10', '2027-09-14');
+
+  await page.getByRole('link', { name: 'Calendario' }).click();
+  await page.locator('select').first().selectOption('fernando-de-noronha');
+
+  await page.getByRole('link', { name: 'Orcamento' }).click();
+  await expect(page.getByText('Taxas obrigatorias', { exact: true }).first()).toBeVisible();
+  // A TPA e o ingresso do parque sao o maior custo fixo do pacote inteiro.
+  await expect(page.getByText(/Taxa de Preservação Ambiental/).first()).toBeVisible();
+  await expect(page.getByText(/PARNAMAR/).first()).toBeVisible();
+});

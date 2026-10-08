@@ -395,16 +395,16 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 ## Nordeste brasileiro
 | Medida | Número |
 |---|---|
-| Itens | 296 (258 agendáveis) |
+| Itens | 397 (343 agendáveis) |
 | Bases | 23 |
-| Confiança: verificado | 168 |
-| Confiança: parcialmente verificado | 128 |
-| Confiança: estimado | 0 |
-| Com coordenada | 114 de 258 |
-| Com imagem de licença livre | 0 de 258 |
-| Com algum contato | 61 de 258 |
+| Confiança: verificado | 186 |
+| Confiança: parcialmente verificado | 203 |
+| Confiança: estimado | 8 |
+| Com coordenada | 167 de 343 |
+| Com imagem de licença livre | 0 de 343 |
+| Com algum contato | 67 de 343 |
 | Coletado há mais de um ano | 0 |
-### Preço não encontrado — 123
+### Preço não encontrado — 185
 
 O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
@@ -437,23 +437,23 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Kitesurf em Canoa Quebrada | Canoa Quebrada | preço |
 | Majorlândia, Quixaba e Lagoa do Mato | Canoa Quebrada | preço |
 | Vida noturna de Canoa Quebrada | Canoa Quebrada | preço |
+| Praia da Cacimba do Padre | Fernando de Noronha | preço |
+| Morro Dois Irmãos (vista e silhueta) | Fernando de Noronha | preço |
+| Praia da Conceição | Fernando de Noronha | preço |
+| Praia do Cachorro e Praia do Meio (Vila dos Remédios) | Fernando de Noronha | preço |
+| Forte de Nossa Senhora dos Remédios | Fernando de Noronha | preço |
+| Passeio de barco Ilhatour (volta à ilha pelo mar) | Fernando de Noronha | preço |
+| Mergulhão | Fernando de Noronha | preço |
+| Bar do Cachorro (forró e vida noturna) | Fernando de Noronha | preço |
 | Praia do Futuro e as barracas | Fortaleza | preço |
 | Avenida Beira Mar e a Feirinha de artesanato | Fortaleza | preço |
 | Mercado Central e Catedral Metropolitana | Fortaleza | preço |
 | Centro Dragão do Mar de Arte e Cultura | Fortaleza | preço |
 | Mucuripe: Farol e Mercado dos Peixes | Fortaleza | preço |
-| Praia de Iracema e a Ponte dos Ingleses | Fortaleza | preço |
-| Chico do Caranguejo (Praia do Futuro) | Fortaleza | preço |
-| Crocobeach (Praia do Futuro) | Fortaleza | preço |
-| Coco Bambu Beira Mar | Fortaleza | preço |
-| Pirata Bar | Fortaleza | preço |
-| Centro de Turismo do Ceará (antiga cadeia pública) | Fortaleza | preço |
-| Aquiraz: Prainha e Porto das Dunas | Fortaleza | preço |
-| Praia da Concha | Itacaré | preço |
 
-_...e mais 83. `npm run validate:data` imprime a lista inteira._
+_...e mais 145. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 30
+### Preço com uma fonte só — 34
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
@@ -470,6 +470,8 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
 | Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
 | Circuito Betania (Santo Amaro) | Barreirinhas | segunda fonte de preço |
+| Xica da Silva | Fernando de Noronha | segunda fonte de preço |
+| Restaurante Varanda | Fernando de Noronha | segunda fonte de preço |
 | Passeio das 4 praias (Engenhoca, Havaizinho, Itacarezinho, Camboinha) | Itacaré | segunda fonte de preço |
 | Rafting no Rio de Contas (Taboquinhas) | Itacaré | segunda fonte de preço |
 | Ilhéus: centro histórico de Jorge Amado (Bataclan, Vesúvio, Casa de Cultura) | Itacaré | segunda fonte de preço |
@@ -485,12 +487,14 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Passeio de lancha rapida pelo Delta (circuito Canarias ou Feijao Bravo) | Parnaíba | segunda fonte de preço |
 | Safari noturno com focagem de animais no Delta | Parnaíba | segunda fonte de preço |
 | Aula de surf na Praia do Madeiro | Pipa | segunda fonte de preço |
+| Passeio de barco pela foz do Rio Formoso (Carneiros) | Porto de Galinhas | segunda fonte de preço |
+| Parraxaxá | Recife | segunda fonte de preço |
 | Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica) | Salvador | segunda fonte de preço |
 | Projeto Tamar Praia do Forte | Salvador | segunda fonte de preço |
 | Praia dos Coqueiros e Praia dos Nativos | Trancoso | segunda fonte de preço |
 | Balsa Porto Seguro - Arraial d'Ajuda | Trancoso | segunda fonte de preço |
 
-### Horário não encontrado — 258
+### Horário não encontrado — 343
 
 Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
 
@@ -537,9 +541,17 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | horário de funcionamento |
 | Circuito Betania (Santo Amaro) | Barreirinhas | horário de funcionamento |
 
-_...e mais 218. `npm run validate:data` imprime a lista inteira._
+_...e mais 303. `npm run validate:data` imprime a lista inteira._
 
-### Pesquisa que nao entrou no banco — 92
+### Precisa reservar, mas não diz com quanta antecedência — 1
+
+Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Ecoparque Peixe-Boi — Base Avançada do CMA/ICMBio em Itamaracá | Recife | antecedência da reserva |
+
+### Pesquisa que nao entrou no banco — 118
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
@@ -547,6 +559,8 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - trecho "Trancoso -> Caraíva" virou a mesma base (trancoso): descartado
 - trecho "Natal -> São Miguel do Gostoso" nao mapeou para bases conhecidas: descartado
 - trecho "Teresina -> São Raimundo Nonato (Serra da Capivara)" nao mapeou para bases conhecidas: descartado
+- aluguel sem bloco estruturado: br-fen-aluguel-de-buggy-em-fernando-de-noronha -> escrever em ajustes-manuais.json
+- "Aluguel de buggy em Fernando de Noronha" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
 - evento sem data exata ficou fora do banco: "Feriados nacionais fixos do Brasil (9 datas)" (vazio)
 - evento sem data exata ficou fora do banco: "ALERTA LEGAL: Carnaval e Corpus Christi NÃO são feriados nacionais" (vazio)
 - evento sem data exata ficou fora do banco: "Datas magnas estaduais do Nordeste" (vazio)
@@ -566,11 +580,9 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Segunda Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
 - bairro "Terceira Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
 - bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
-- bairro "Centro (Vila)" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
-- bairro "Centro / Rua da Pituba (Pedro Longo)" (itacare) sem faixa de diaria: fora de hospedagem.json
-- _...e mais 67._
+- _...e mais 93._
 
-### Sem coordenada — 144
+### Sem coordenada — 176
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -617,7 +629,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Kitesurf em Canoa Quebrada | Canoa Quebrada | coordenada |
 | Parapente em Canoa Quebrada | Canoa Quebrada | coordenada |
 
-_...e mais 104. `npm run validate:data` imprime a lista inteira._
+_...e mais 136. `npm run validate:data` imprime a lista inteira._
 
 ---
 

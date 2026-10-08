@@ -351,6 +351,41 @@ export function construirCidades(
       });
     }
 
+    /*
+      Forma generica: a onda declara `taxasObrigatorias` como lista.
+
+      A forma antiga acima so sabia ler uma taxa, com nome escrito em
+      espanhol no codigo ("Tarjeta de Turismo") e moeda COP por padrao —
+      serviu para San Andres e nao serve para mais nada. O Nordeste tem
+      TPA de Noronha, TUPA de Morro de Sao Paulo, ingresso do PARNAMAR e
+      taxa veicular de Porto Seguro, e sao justamente os maiores custos
+      fixos do pacote: ficar de fora do orcamento e o pior lugar para um
+      dado sumir.
+    */
+    for (const t of (notas?.taxasObrigatorias ?? []) as Json[]) {
+      const v = (t.valor ?? t.preco) as Json | undefined;
+      const min = Number(v?.min ?? v?.valor ?? 0);
+      if (!t.nome || !Number.isFinite(min) || min <= 0) continue;
+      const fontesDaTaxa = fontes(t.fontes ?? v?.fontes);
+      // Sem fonte a taxa nao entra: o validador reprovaria, e com razao.
+      if (fontesDaTaxa.length === 0) continue;
+      taxas.push({
+        nome: String(t.nome).slice(0, 200),
+        preco: {
+          moeda: String(v?.moeda ?? config.moeda),
+          min,
+          max: Number(v?.max ?? min),
+          por: String(v?.tipo ?? '').includes('grupo') ? 'grupo' : 'pessoa',
+          inclui: String(t.inclui ?? t.nome).slice(0, 300),
+          coletadoEm: String(v?.coletadoEm ?? COLETADO_EM),
+          fontes: fontesDaTaxa,
+          ...(t.quemPaga ? { observacao: String(t.quemPaga).slice(0, 2000) } : {}),
+        },
+        comoSePaga: String(t.comoSePaga ?? t.ondeSePaga ?? ''),
+        quemPaga: String(t.quemPaga ?? 'todo visitante nao residente').slice(0, 400),
+      });
+    }
+
     const noites = notas?.noitesRecomendadas;
     const noitesValidas =
       noites &&

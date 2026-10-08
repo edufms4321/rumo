@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "br-rec-marco-zero-e-praca-rio-branco",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Marco+Zero+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Marco Zero e Praça Rio Branco",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "gratuito",
+      "fotografia",
+      "a-pe"
+    ],
+    "coords": {
+      "lat": -8.063374,
+      "lng": -34.870972
+    },
+    "descricaoCurta": "A praça à beira do cais onde começa o Recife, com a rosa dos ventos no chão e o Parque de Esculturas Francisco Brennand do outro lado da água.",
+    "descricaoLonga": "Ponto de partida natural de qualquer roteiro no Recife Antigo: praça aberta, gratuita, em frente ao cais, com vista para o Parque de Esculturas Francisco Brennand, que fica num quebra-mar alcançado por catamarã. Dá para ver em 20-40 minutos e serve de ancoragem para Rua do Bom Jesus, Paço do Frevo e Cais do Sertão, todos a poucos minutos a pé. Melhor no fim da tarde, quando o sol bate de frente no casario, ou em domingo de manhã, quando a área ganha feira e apresentações. Armadilha: a praça esvazia muito à noite fora de eventos, e o entorno imediato tem comércio fechado — evite caminhar sozinho entre o Recife Antigo e Santo Antônio após o anoitecer. O que NÃO confirmei: horário de funcionamento da travessia para o Parque de Esculturas e seu preço — não encontrei fonte oficial nesta sessão.",
+    "duracao": {
+      "min": 20,
+      "tipica": 45,
+      "max": 120
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-rua-do-bom-jesus-antiga-rua-dos-judeus",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Rua+do+Bom+Jesus+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Rua do Bom Jesus (antiga Rua dos Judeus)",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "casario-colorido",
+      "sinagoga",
+      "a-pe",
+      "gratuito"
+    ],
+    "coords": {
+      "lat": -8.062527,
+      "lng": -34.871577
+    },
+    "descricaoCurta": "A rua mais fotografada do Recife Antigo, casario colorido e sede da Kahal Zur Israel, primeira sinagoga das Américas.",
+    "descricaoLonga": "Rua curta, de calçamento antigo, que sai do Marco Zero e concentra o casario restaurado do Recife Antigo. No número 197 funciona o Centro Cultural Judaico de Pernambuco, no sítio arqueológico da sinagoga Kahal Zur Israel, considerada a primeira do continente americano. Caminhada de 15 a 30 minutos; com visita ao centro cultural, some mais 30-45 minutos. Melhor de manhã, quando há menos sol direto e o comércio está abrindo. Armadilha: a rua concentra bares que à noite atraem público e também abordagens; e muito do casario só está restaurado na fachada. O que NÃO confirmei: horário de funcionamento e ingresso do Centro Cultural Judaico — não abri fonte oficial nesta sessão, então o campo de horários foi omitido de propósito.",
+    "duracao": {
+      "min": 15,
+      "tipica": 45,
+      "max": 90
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-instituto-ricardo-brennand",
+    "fontes": [
+      {
+        "url": "https://www.institutoricardobrennand.org.br/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Instituto+Ricardo+Brennand&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Instituto Ricardo Brennand",
+    "cidadeId": "recife",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "armas-brancas",
+      "frans-post",
+      "castelo",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": -8.055591,
+      "lng": -34.959014
+    },
+    "descricaoCurta": "Castelo neogótico na Várzea com a maior coleção de armas brancas do mundo e o maior acervo de Frans Post.",
+    "descricaoLonga": "É o museu mais importante do Recife e um dos melhores do Brasil: pinacoteca com o maior conjunto de obras de Frans Post (o holandês que pintou o Brasil no século XVII), coleção de armaria medieval e moderna, jardins e lago. Reserve de 2 a 4 horas; com calma, meio dia. Fica na Várzea, a ~14 km de Boa Viagem, e depende de carro ou aplicativo. Horários oficiais do site: terça e quarta das 13h às 17h; de quinta a domingo das 10h às 17h; última entrada às 16h30; fechado segunda. Endereço: Alameda Antônio Brennand, s/n, Várzea, Recife/PE, CEP 50741-904. Telefones: (81) 2121-0352 e 2121-0365. Armadilha: chegar depois das 16h30 é entrada negada, e o site não publica o valor do ingresso — diz apenas que é 'irrisório', menos que um cinema. O que NÃO confirmei: o preço do ingresso. A página de ingressos devolveu erro HTTP 500 nesta sessão, então nenhum valor é informado aqui.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.institutoricardobrennand.org.br/",
+      "telefone": "+55 81 2121-0352"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-oficina-ceramica-francisco-brennand",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Oficina+Ceramica+Francisco+Brennand&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Oficina Cerâmica Francisco Brennand",
+    "cidadeId": "recife",
+    "categoria": "museu",
+    "tags": [
+      "arte",
+      "ceramica",
+      "jardim",
+      "varzea"
+    ],
+    "coords": {
+      "lat": -8.052464,
+      "lng": -34.974199
+    },
+    "descricaoCurta": "A antiga olaria da família Brennand transformada pelo artista em um parque-ateliê de esculturas de cerâmica.",
+    "descricaoLonga": "Ambiente tão forte quanto o Instituto Ricardo Brennand e completamente diferente: galpões de uma olaria do século XIX ocupados por milhares de peças de cerâmica do artista Francisco Brennand, com jardins, espelhos d'água e uma 'praça' de esculturas fálicas que é a imagem mais conhecida do lugar. Fica na Várzea, a cerca de 3 km do Instituto Ricardo Brennand, e a combinação dos dois no mesmo dia é o programa clássico de Recife. Reserve de 1h30 a 3 horas. Melhor de manhã, por causa do calor nos pátios abertos. Armadilha: é longe da orla, e a volta em horário de pico pode levar mais de uma hora. O que NÃO confirmei: horários e preço do ingresso. O site oficial (www.oficinabrennand.com.br) falhou nesta sessão com erro de certificado TLS, e eu me recusei a usar valores de memória. Confirme por telefone antes de ir, porque o lugar já teve períodos de fechamento para obras.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-paco-do-frevo",
+    "fontes": [
+      {
+        "url": "https://pacodofrevo.org.br/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Paco+do+Frevo+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Paço do Frevo",
+    "cidadeId": "recife",
+    "categoria": "museu",
+    "tags": [
+      "frevo",
+      "musica",
+      "centro-historico",
+      "familia",
+      "a-pe"
+    ],
+    "coords": {
+      "lat": -8.061472,
+      "lng": -34.871597
+    },
+    "descricaoCurta": "Museu do frevo instalado num casarão da Praça do Arsenal, a 200 metros do Marco Zero.",
+    "descricaoLonga": "Museu interativo dedicado ao frevo — patrimônio imaterial da humanidade — com salas de escuta, exposição sobre as agremiações e aulas de passo. Fica no Bairro do Recife, na Praça do Arsenal da Marinha, 91, CEP 50030-360, e combina a pé com Marco Zero, Rua do Bom Jesus e Cais do Sertão. Reserve 1h a 2h. Horários do site oficial: fechado na segunda; terça a sexta das 10h às 18h, com última entrada às 17h30; sábado e domingo das 11h às 19h, com última entrada às 18h30. A venda de ingressos é feita pelo sistema online Sympla; o site menciona política de gratuidade e meia-entrada, mas sem detalhar. Armadilha: chegar perto da última entrada deixa pouco tempo para as salas interativas, que são o melhor do museu. O que NÃO confirmei: o valor do ingresso — o site oficial não publica o valor na página que abri e eu não abri o Sympla.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://pacodofrevo.org.br/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-museu-cais-do-sertao",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Museu+Cais+do+Sertao&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museu Cais do Sertão",
+    "cidadeId": "recife",
+    "categoria": "museu",
+    "tags": [
+      "luiz-gonzaga",
+      "sertao",
+      "interativo",
+      "centro-historico",
+      "a-pe"
+    ],
+    "coords": {
+      "lat": -8.060643,
+      "lng": -34.870079
+    },
+    "descricaoCurta": "Museu interativo sobre Luiz Gonzaga e a cultura do sertão, num armazém do cais no Recife Antigo.",
+    "descricaoLonga": "Ocupa o Armazém 10 da Avenida Alfredo Lisboa, ao lado do Marco Zero, e é o museu mais 'sensorial' do Recife: acervo do Rei do Baião, instalações de som, sanfona, projeções e um módulo sobre a vida no semiárido. Reserve 1h30 a 2h30 e combine com Paço do Frevo no mesmo meio-dia. Armadilha: é um museu que depende de equipamentos interativos, e parte deles pode estar fora do ar — pergunte na bilheteria antes de comprar. O que NÃO confirmei: horários e preço. O site oficial (caisdosertao.pe.gov.br) falhou nesta sessão com erro de certificado autoassinado, e não encontrei segunda fonte oficial. Não há valor nem horário declarado aqui de propósito.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-casa-da-cultura-de-pernambuco",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Casa+da+Cultura+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa da Cultura de Pernambuco",
+    "cidadeId": "recife",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "presidio-antigo",
+      "arquitetura",
+      "centro"
+    ],
+    "coords": {
+      "lat": -8.066201,
+      "lng": -34.883672
+    },
+    "descricaoCurta": "A antiga Casa de Detenção do Recife, com as celas convertidas em lojas de artesanato pernambucano.",
+    "descricaoLonga": "Prédio radial do século XIX, ex-presídio, hoje ocupado por dezenas de lojinhas de artesanato, rendas, cerâmica de Caruaru, redes e literatura de cordel. Fica no bairro de Santo Antônio, perto da estação de metrô Recife, e se combina com o Mercado de São José e o Pátio de São Pedro. Reserve 45 minutos a 1h30. É o lugar mais confortável do Recife para comprar artesanato: preço razoável, cartão aceito e sem o aperto de mercado popular. Armadilha: o entorno é comercial e se esvazia rápido depois do fechamento; vá pela manhã ou no começo da tarde. O que NÃO confirmei: o horário de funcionamento vigente e se abre no domingo — não abri fonte oficial nesta sessão, então o campo de horários foi omitido.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-mercado-de-sao-jose",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Mercado+de+Sao+Jose+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de São José",
+    "cidadeId": "recife",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "ferro-fundido",
+      "artesanato",
+      "comida-de-rua",
+      "centro"
+    ],
+    "coords": {
+      "lat": -8.068464,
+      "lng": -34.877681
+    },
+    "descricaoCurta": "Mercado público de 1875 em estrutura de ferro, na Praça Dom Vital, cercado pelo comércio popular de São José.",
+    "descricaoLonga": "O mais antigo mercado público do Brasil em estrutura metálica pré-fabricada, ainda em uso diário: ervas, carne, peixe, artesanato, umbanda, barracas de comida. É um mergulho no Recife real, mais interessante e menos arrumado que a Casa da Cultura. Reserve 30 a 60 minutos e combine com Casa da Cultura e Pátio de São Pedro, todos a poucos minutos a pé. Armadilha: é um mercado popular denso, com circulação de muita gente — deixe mochila fechada na frente, leve pouco dinheiro e não exiba celular. Evite na hora do almoço de sexta, quando a área lota. O que NÃO confirmei: horários oficiais de funcionamento — não abri fonte da Prefeitura do Recife nesta sessão.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "naoVoarDepoisHoras": 18,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-praia-de-boa-viagem",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/amp/vida-urbana/2026/06/11715507-ataque-de-tubarao-desta-segunda-1-e-o-oitavo-registrado-no-mesmo-trecho-de-boa-viagem.html"
+      },
+      {
+        "url": "https://www.band.com.br/noticias/jornal-da-band/ultimas/pernambuco-avalia-proibir-banho-de-mar-em-mais-areas-apos-ataque-de-tubarao-202606021949"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Praia+de+Boa+Viagem+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Praia de Boa Viagem",
+    "cidadeId": "recife",
+    "categoria": "praia",
+    "tags": [
+      "orla-urbana",
+      "risco-de-tubarao",
+      "caminhada",
+      "ciclovia"
+    ],
+    "coords": {
+      "lat": -8.127568,
+      "lng": -34.897664
+    },
+    "descricaoCurta": "A orla urbana do Recife: calçadão, ciclovia e barracas — e um histórico sério de ataques de tubarão que restringe o banho.",
+    "descricaoLonga": "Boa Viagem é onde está a maior parte da hotelaria do Recife e funciona muito bem para caminhada, corrida, ciclovia e barraca de praia. O banho de mar é outra conversa: o Comitê Estadual de Monitoramento de Incidentes com Tubarão (CEMIT) é citado com 84 ataques em Pernambuco desde 1992, dos quais 25 em Boa Viagem — o maior número do estado — e um ataque em 1º de junho de 2026 foi descrito como o oitavo no mesmo trecho da praia. O Ministério Público já recomendou proibir o banho em praias do Grande Recife; o governo estadual avaliou a proibição total como inadequada junto ao CEMIT, ao Instituto de Oceanografia, aos Bombeiros e à polícia científica, e passou a estudar ampliar as áreas com banho proibido. Regra prática: na maré baixa, dentro da linha de recifes, a piscina natural é usada pelos moradores; fora dos recifes, não entre. Respeite a sinalização de interdição na areia, que muda. Melhor momento: fim da tarde, para caminhar. Armadilha: barraca que monta cadeira e guarda-sol sem informar preço.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-passeio-de-catamara-pelos-rios-do-recife",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/passeio-de-catamara-recife.html"
+      },
+      {
+        "url": "https://tribunaonline.com.br/pernambuco/entretenimento/passeio-de-catamara-baobas-circuito-de-azulejos-e-muito-mais-no-olha-recife-182480"
+      },
+      {
+        "url": "https://portaldeprefeitura.com.br/recife/passeio-de-catamara-gratuito-em-recife-descubra-a-cidade-do-rio/609113/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Passeio de catamarã pelos rios do Recife",
+    "cidadeId": "recife",
+    "categoria": "passeio",
+    "tags": [
+      "barco",
+      "pontes",
+      "capibaribe",
+      "familia",
+      "fim-de-tarde"
+    ],
+    "descricaoCurta": "Volta de catamarã pelo Capibaribe e pelo cais, com roteiros temáticos como 'Recife e suas pontes'.",
+    "descricaoLonga": "O catamarã é a melhor forma de entender a geografia anfíbia do Recife: pontes, ilhas, o casario do centro visto da água e o Parque de Esculturas Francisco Brennand. Duração relatada de cerca de 1h30, com algumas travessias de até 2 horas. O operador citado é o Catamaran Tours, com embarque na Praia de Boa Viagem; existem roteiros temáticos ('Recife e suas pontes', 'Recife e seus bairros', 'Piratas do Capibaribe' às 15h, e um passeio noturno 'Catamaran Assombrado'), além de roteiros especiais de Carnaval. Preço encontrado: a partir de R$ 90 por pessoa no início de 2026. Melhor no fim da tarde, para pegar o pôr do sol sobre a cidade. Armadilha: há também um passeio de catamarã gratuito promovido pelo programa municipal Olha! Recife, com vagas limitadas e agenda própria — vale checar antes de pagar. O que NÃO confirmei: a grade de horários e o preço exato por roteiro; não consegui abrir o site do operador nesta sessão, e a referência de preço veio de portal de turismo, não da bilheteria.",
+    "duracao": {
+      "min": 90,
+      "tipica": 105,
+      "max": 120
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 90,
+      "max": 150,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "Piso de R$ 90 por pessoa citado como referência do início de 2026 por portal de turismo; o teto de R$ 150 é minha margem para roteiros temáticos e NÃO tem fonte. Uma fonte só, não oficial. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "br-rec-chica-pitanga",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/blog/restaurantes-baratos-em-recife/"
+      },
+      {
+        "url": "https://cdn.fodors.com/world/south-america/brazil/the-northeast/places/recife/restaurants"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Chica Pitanga",
+    "cidadeId": "recife",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-regional",
+      "por-quilo",
+      "boa-viagem",
+      "almoco"
+    ],
+    "descricaoCurta": "Restaurante por quilo em Boa Viagem que é referência de comida regional pernambucana a preço acessível.",
+    "descricaoLonga": "O endereço mais citado do Recife para quem quer comer bem no almoço sem gastar muito: buffet por quilo com grande variedade de carnes e peixes, salada bar elaborada e balcão de sobremesas, tudo com sotaque regional. Fica em Boa Viagem. Horário de pico é o almoço de dia útil, quando forma fila. Armadilha: é por quilo — o prato que parece barato vira caro se você encher de camarão e carne. O que NÃO confirmei: endereço completo, telefone, horário de funcionamento e faixa de preço por quilo. Não abri o site oficial nem o Google Maps nesta sessão, e as fontes de turismo que encontrei não traziam esses dados com data. Por honestidade, nenhum número de preço é informado aqui.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-parraxaxa",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/blog/restaurantes-baratos-em-recife/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Parraxaxá",
+    "cidadeId": "recife",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-nordestina",
+      "buffet",
+      "boa-viagem",
+      "familia",
+      "tematico"
+    ],
+    "descricaoCurta": "Buffet temático de comida nordestina em Boa Viagem, com cenografia de feira sertaneja.",
+    "descricaoLonga": "Casa temática com buffet de comida nordestina — carne de sol, baião de dois, macaxeira, doces de tabuleiro — em ambiente cenográfico que imita uma vila do interior. Funciona bem para família e para quem quer provar muita coisa em uma refeição. Endereço citado: Av. Fernando Simões Barbosa, 120, Boa Viagem. Faixa de preço encontrada: buffet entre R$ 40 e R$ 55 em promoções de dia de semana na unidade de Boa Viagem. Armadilha: a fonte que traz esse valor é de referência antiga (indicada como por volta de 2020 pela própria busca), então trate como piso histórico e não como preço atual; em fim de semana e à noite o buffet é mais caro. O que NÃO confirmei: horário de funcionamento, telefone e o preço de 2026.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 40,
+      "max": 55,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [],
+      "observacao": "ATENÇÃO: faixa de buffet promocional de dia de semana citada por fonte de turismo cuja referência é anterior a 2026. NÃO é preço confirmado para 2026 e é fonte única. Espere valor mais alto hoje. | tipo: por-pessoa"
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-vida-noturna-do-recife-antigo-rua-da-moeda-e-rua-do",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Rua+do+Bom+Jesus+Recife&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Vida noturna do Recife Antigo (Rua da Moeda e Rua do Bom Jesus)",
+    "cidadeId": "recife",
+    "categoria": "bar",
+    "tags": [
+      "vida-noturna",
+      "bares",
+      "centro-historico",
+      "musica-ao-vivo"
+    ],
+    "coords": {
+      "lat": -8.062527,
+      "lng": -34.871577
+    },
+    "descricaoCurta": "O eixo de bares do Bairro do Recife, concentrado em poucas ruas entre o Marco Zero e a Rua da Moeda.",
+    "descricaoLonga": "À noite a vida do Recife Antigo se concentra em um perímetro pequeno: Rua do Bom Jesus, Rua da Moeda e o entorno do Marco Zero, com bares, música ao vivo e, em datas específicas, programação na própria praça. O movimento é forte de quinta a sábado e fraco no começo da semana. Regra de ouro: vá e volte de carro de aplicativo porta a porta e não caminhe entre o Recife Antigo e Santo Antônio à noite — a área comercial ao redor fica deserta. Armadilha: 'bar' de fachada no Bom Jesus com preço turístico e sem cardápio na mesa; peça o menu antes. O que NÃO confirmei: nomes, horários e preços de casas específicas. Não encontrei fonte com dados datados de 2026 para casas noturnas do Recife Antigo nesta sessão, então não cito estabelecimento nominalmente para não inventar.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-alto-da-se-e-igreja-da-se-de-olinda",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-olinda/"
+      },
+      {
+        "url": "https://olinda.pe.gov.br/olinda-reforca-qualidade-do-atendimento-no-turismo-da-cidade-historica/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/noticia/vidaurbana/2025/03/sitio-historico-de-olinda-passa-a-ter-monitoramento-de-seguranca-24h.html"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Alto+da+Se+Olinda&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Alto da Sé e Igreja da Sé de Olinda",
+    "cidadeId": "recife",
+    "categoria": "mirante",
+    "tags": [
+      "centro-historico",
+      "patrimonio-unesco",
+      "mirante",
+      "igreja",
+      "bate-volta",
+      "olinda"
+    ],
+    "coords": {
+      "lat": -8.013612,
+      "lng": -34.850249
+    },
+    "descricaoCurta": "O ponto mais alto do Sítio Histórico de Olinda, com vista do casario e da silhueta do Recife ao fundo.",
+    "descricaoLonga": "Centro nervoso de Olinda: a Igreja da Sé, a praça com tapioqueiras, barracas de artesanato e o mirante com a vista mais fotografada do Nordeste — telhados coloniais, coqueiros e, ao fundo, os arranha-céus de Boa Viagem. Horário da Igreja da Sé citado: todos os dias das 8h às 16h, no Alto da Sé, s/n, bairro do Carmo. A visita ao Alto e a caminhada pelas ladeiras levam 1h30 a 3h, e combina com Convento de São Francisco, Mosteiro de São Bento e Igreja do Carmo. Vá de manhã (sombra e menos gente) ou no fim da tarde (luz melhor). Armadilhas e segurança: a Prefeitura de Olinda recadastrou cerca de 80 guias com credencial padronizada, concentrados em três pontos — Praça do Carmo, Alto da Sé e em frente à Prefeitura — e mantém um posto de recepção turística da Guarda Municipal no Alto da Sé; desde março de 2025 o Sítio Histórico tem monitoramento 24h. Mesmo assim, dados da Secretaria de Defesa Social de PE citados na imprensa apontam 37 roubos em residências do Sítio Histórico no primeiro trimestre de 2024, 95% mais que no mesmo período anterior. Recuse guia sem credencial e combine o valor antes.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horariosObservacao": "[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-convento-e-igreja-de-sao-francisco-de-olinda",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-olinda/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Convento+de+Sao+Francisco+Olinda&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Convento e Igreja de São Francisco de Olinda",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "barroco",
+      "azulejaria",
+      "patrimonio-unesco",
+      "igreja",
+      "bate-volta",
+      "olinda"
+    ],
+    "coords": {
+      "lat": -8.0139,
+      "lng": -34.847495
+    },
+    "descricaoCurta": "O primeiro convento franciscano do Brasil, com claustro de azulejos portugueses e vista para o mar.",
+    "descricaoLonga": "Fundado em 1585, é o conjunto franciscano mais antigo do país: igreja, capela de São Roque, sacristia em jacarandá e um claustro revestido de azulejaria portuguesa contando a vida de São Francisco. A varanda dos fundos tem vista para o mar. Reserve 40 a 60 minutos. Endereço citado: R. de São Francisco, 280, Carmo. Horário citado: todos os dias das 9h às 12h30 e das 14h às 17h. Melhor na parte da manhã, encaixando antes do Alto da Sé. Armadilha: fecha no horário de almoço, e muita gente chega às 13h e perde a visita. Há cobrança de contribuição para manutenção em alguns conjuntos religiosos de Olinda, mas eu NÃO confirmei valor aqui.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "horariosObservacao": "[object Object],[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-mosteiro-de-sao-bento-de-olinda",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-olinda/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mosteiro de São Bento de Olinda",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "barroco",
+      "altar-dourado",
+      "canto-gregoriano",
+      "igreja",
+      "bate-volta",
+      "olinda"
+    ],
+    "descricaoCurta": "Mosteiro beneditino com o altar-mor em talha dourada que já foi exposto no Guggenheim de Nova York.",
+    "descricaoLonga": "Dos conjuntos religiosos de Olinda, é o que tem o interior mais impressionante: altar-mor em talha dourada do século XVIII, que foi desmontado e exibido no Guggenheim em Nova York em 2001. Nos domingos de manhã há missa com canto gregoriano pelos monges — o melhor horário para quem quer a experiência completa, mas também o mais cheio. Horário citado: todos os dias das 9h às 11h45 e das 14h às 17h. Reserve 30 a 60 minutos. Armadilha: a janela da manhã é curta e fecha às 11h45. O que NÃO confirmei: horário da missa dominical, preço de contribuição e a coordenada (a busca no OpenStreetMap não retornou resultado para o mosteiro, então o campo coords foi omitido).",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 90
+    },
+    "horariosObservacao": "[object Object],[object Object]",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-igreja-do-carmo-e-praca-do-carmo",
+    "fontes": [
+      {
+        "url": "https://olinda.pe.gov.br/olinda-reforca-qualidade-do-atendimento-no-turismo-da-cidade-historica/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Igreja+do+Carmo+Olinda&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Igreja do Carmo e Praça do Carmo",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "igreja",
+      "patrimonio-unesco",
+      "praca",
+      "bate-volta",
+      "gratuito",
+      "olinda"
+    ],
+    "coords": {
+      "lat": -8.017385,
+      "lng": -34.849201
+    },
+    "descricaoCurta": "A igreja carmelita mais antiga das Américas, na praça que é a porta de entrada do Sítio Histórico.",
+    "descricaoLonga": "A Praça do Carmo é onde o carro ou o aplicativo deixa você para começar a subida a pé até o Alto da Sé, e a Igreja de Nossa Senhora do Carmo, no alto da escadaria, é apontada como o templo carmelita mais antigo do continente americano. É também um dos três pontos onde ficam os guias credenciados pela Prefeitura de Olinda. Reserve 20 a 40 minutos e deixe o resto do tempo para a caminhada. Armadilha: a subida do Carmo ao Alto da Sé é íngreme e em paralelepípedo — calce sapato com sola de borracha e evite o meio do dia. O que NÃO confirmei: horário de abertura da igreja e eventual cobrança — não abri fonte oficial.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 60
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "br-rec-forte-orange-fortaleza-de-santa-cruz-de-itamaraca",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Forte+Orange+Itamaraca&format=json&limit=1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Forte Orange (Fortaleza de Santa Cruz de Itamaracá)",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "fortaleza",
+      "holandeses",
+      "historia",
+      "bate-volta",
+      "praia",
+      "ilha-de-itamaraca"
+    ],
+    "coords": {
+      "lat": -7.810415,
+      "lng": -34.83873
+    },
+    "descricaoCurta": "Fortificação construída pelos holandeses em 1631 na ponta sul da Ilha de Itamaracá.",
+    "descricaoLonga": "O forte que os holandeses ergueram para controlar o canal de Santa Cruz, depois reformado pelos portugueses, hoje é visitável e fica a poucos metros da praia, com bares de praia e caranguejos do mangue por perto. Fica a ~50 km do Recife, o que faz de Itamaracá um bate-volta de dia inteiro, de carro — transporte público até lá é ruim. Reserve 1h a 1h30 no forte e combine com a visita ao Ecoparque Peixe-Boi, que fica na mesma ilha. Melhor na maré baixa, quando a faixa de areia em frente ao forte aparece. Armadilha: a ilha tem acesso por uma única ponte e engarrafa em feriado e fim de semana de verão; e a praia de Itamaracá tem histórico de incidentes com tubarão na região metropolitana do Recife — veja o aviso de segurança desta base. O que NÃO confirmei: horário de visitação e preço do ingresso do forte, porque não abri fonte oficial do Iphan nem da prefeitura nesta sessão.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [],
+    "alertas": []
+  },
+  {
+    "id": "br-rec-ecoparque-peixe-boi-base-avancada-do-cma-icmbio-em-i",
+    "fontes": [
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/concorrencia/2025/sede/SEI_ICMBio022250977Edital.pdf"
+      },
+      {
+        "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/concorrencia/2025/sede/SEI_ICMBio021922433AnexoAcaracterizaodabaseavanada.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ecoparque Peixe-Boi — Base Avançada do CMA/ICMBio em Itamaracá",
+    "cidadeId": "recife",
+    "categoria": "natureza",
+    "tags": [
+      "peixe-boi",
+      "conservacao",
+      "icmbio",
+      "familia",
+      "bate-volta",
+      "ilha-de-itamaraca"
+    ],
+    "descricaoCurta": "Base do Centro Nacional de Pesquisa e Conservação de Mamíferos Aquáticos, onde ficam peixes-boi em reabilitação.",
+    "descricaoLonga": "A base avançada do CMA/ICMBio em Itamaracá é o lugar onde peixes-boi marinhos resgatados são reabilitados antes de voltar ao mar; a área de prestação de serviços tem cerca de 21.000 m², dividida entre a área de visitação chamada Ecoparque Peixe-Boi (EPB) e a área de manejo para conservação e recuperação de mamíferos aquáticos (AGCMA). É o complemento óbvio do Forte Orange no bate-volta a Itamaracá. ATENÇÃO, e isso muda o planejamento: os documentos do ICMBio que encontrei tratam de um processo de CONCESSÃO dos serviços de apoio à visitação, revitalização, modernização, operação e manutenção da base. Isso significa que horário, ingresso e até a abertura ao público podem estar em transição. O que NÃO confirmei, e por isso não há horário nem preço aqui: horário de visitação, valor do ingresso, se exige agendamento e se a visitação está aberta hoje. Ligue ou escreva ao ICMBio antes de incluir no roteiro.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "dependeDeMare": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-aviso-banho-de-mar-no-grande-recife-e-risco-de-tubar",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/amp/vida-urbana/2026/06/11715507-ataque-de-tubarao-desta-segunda-1-e-o-oitavo-registrado-no-mesmo-trecho-de-boa-viagem.html"
+      },
+      {
+        "url": "https://www.band.com.br/noticias/jornal-da-band/ultimas/pernambuco-avalia-proibir-banho-de-mar-em-mais-areas-apos-ataque-de-tubarao-202606021949"
+      },
+      {
+        "url": "https://www.em.com.br/app/noticia/nacional/2013/07/24/interna_nacional,427146/proibicao-de-banho-de-mar-em-praia-do-recife-onde-morreu-turista-e-rejeitada.shtml"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO — Banho de mar no Grande Recife e risco de tubarão",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "seguranca",
+      "aviso",
+      "tubarao",
+      "praia"
+    ],
+    "descricaoCurta": "Em Boa Viagem e no litoral do Grande Recife o banho de mar é restrito por risco real de ataque de tubarão.",
+    "descricaoLonga": "Este não é um lugar, é uma regra de roteiro. O Comitê Estadual de Monitoramento de Incidentes com Tubarão (CEMIT) é citado na imprensa com 84 ataques registrados em Pernambuco desde 1992, dos quais 25 em Boa Viagem — o maior número do estado. Em 1º de junho de 2026 houve um ataque descrito como o oitavo no mesmo trecho da praia, próximo à Padaria Boa Viagem. O Ministério Público recomendou proibir o banho em praias do Grande Recife; o governo estadual, após reunião com CEMIT, Instituto de Oceanografia, Corpo de Bombeiros, polícia científica e especialistas, considerou a proibição total inadequada, mas passou a estudar AMPLIAR as áreas onde o banho é proibido. Consequência prática para o roteiro: não planeje 'dia de praia' em Recife como planejaria em Porto de Galinhas. Use a orla para caminhar, ande dentro da linha de recife na maré baixa se os moradores estiverem lá, e obedeça a sinalização de interdição, que pode mudar durante a sua viagem. Quem quer mar de banho deve ir para Porto de Galinhas, Carneiros ou Alagoas. O que NÃO confirmei: o mapa atualizado das áreas interditadas — não abri publicação oficial do CEMIT nesta sessão.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-aviso-guias-e-seguranca-no-sitio-historico-de-olinda",
+    "fontes": [
+      {
+        "url": "https://olinda.pe.gov.br/olinda-reforca-qualidade-do-atendimento-no-turismo-da-cidade-historica/"
+      },
+      {
+        "url": "https://olinda.pe.gov.br/guardas-municipais-de-olinda-comecam-capacitacao-em-turismo-para-melhor-atender-turistas-e-moradores/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/noticia/vidaurbana/2025/03/sitio-historico-de-olinda-passa-a-ter-monitoramento-de-seguranca-24h.html"
+      },
+      {
+        "url": "https://www.brasildefato.com.br/2022/11/24/moradores-do-sitio-historico-de-olinda-sofrem-com-violencia-e-cobram-acao-do-poder-publico/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "AVISO — Guias e segurança no Sítio Histórico de Olinda",
+    "cidadeId": "recife",
+    "categoria": "atracao",
+    "tags": [
+      "seguranca",
+      "aviso",
+      "guia-credenciado",
+      "golpes",
+      "olinda"
+    ],
+    "descricaoCurta": "Olinda tem guias credenciados pela Prefeitura e também histórico recente de roubos no Sítio Histórico: contrate só com credencial.",
+    "descricaoLonga": "Orientação de roteiro, não um lugar. A Prefeitura de Olinda recadastrou cerca de 80 guias de turismo com credencial de identificação padronizada, por meio da Secretaria de Desenvolvimento Econômico, Tecnologia e Turismo; as fotos e documentos ficam catalogados e compartilhados com a Guarda Municipal e com a Companhia de Apoio ao Turista (Ciatur). Os guias ficam concentrados em três pontos de apoio: Praça do Carmo, Alto da Sé e em frente à Prefeitura. Há também um posto de recepção turística da Guarda Municipal no Alto da Sé, e desde março de 2025 o Sítio Histórico tem monitoramento de segurança 24h. Ao mesmo tempo, dados da Secretaria de Defesa Social de Pernambuco citados na imprensa apontam 37 roubos em residências do Sítio Histórico no primeiro trimestre de 2024, 95% mais que no mesmo período do ano anterior, e há registro noticiado de turistas assaltados na área. Como se proteger: (1) só aceite guia com a credencial da Prefeitura, pedindo para ver; (2) combine o valor por escrito, no WhatsApp, ANTES de começar o trajeto; (3) visite de dia, de preferência de manhã; (4) não leve câmera profissional pendurada nem celular na mão nas ladeiras mais vazias; (5) deixe o carro em estacionamento pago na Praça do Carmo e suba a pé. O que NÃO confirmei: a tabela de preço do serviço de guia credenciado em Olinda.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeMare": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]
