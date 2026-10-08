@@ -25,7 +25,15 @@ import {
 } from './padroes.ts';
 import { type DiaResolvido, resolverDia } from './resolver-dia.ts';
 import { luzDoDia } from './sol.ts';
-import { formatarDuracao, paraHHMM, paraMinutos } from './tempo.ts';
+import {
+  diferencaEmDias,
+  emQuantosDias,
+  formatarDuracao,
+  paraHHMM,
+  paraMinutos,
+  porExtenso,
+  somarDias,
+} from './tempo.ts';
 
 export type NivelDeAlerta = 'erro' | 'atencao' | 'dica';
 
@@ -64,6 +72,15 @@ interface Contexto {
   pacote: PacoteDestino;
   dias: DiaResolvido[];
   itensPorId: Map<string, Item>;
+  /**
+   * "Hoje", em AAAA-MM-DD. Injetado de fora: o motor e puro e nao chama
+   * Date.now(), senao os testes de prazo mudariam de resultado todo dia.
+   */
+  hoje?: string;
+}
+
+export interface OpcoesDeValidacao {
+  hoje?: string;
 }
 
 // --------------------------------------------------------------- deslocamento
@@ -689,13 +706,18 @@ const ORDEM: Record<NivelDeAlerta, number> = { erro: 0, atencao: 1, dica: 2 };
 
 // --------------------------------------------------------------------- publico
 
-export function validarViagem(viagem: Viagem, pacote: PacoteDestino): Alerta[] {
+export function validarViagem(
+  viagem: Viagem,
+  pacote: PacoteDestino,
+  opcoes: OpcoesDeValidacao = {},
+): Alerta[] {
   const dias = viagem.dias.map((d) => resolverDia(viagem, d, pacote));
   const ctx: Contexto = {
     viagem,
     pacote,
     dias,
     itensPorId: new Map(pacote.itens.map((i) => [i.id, i])),
+    ...(opcoes.hoje ? { hoje: opcoes.hoje } : {}),
   };
 
   const alertas: Alerta[] = [];
@@ -719,9 +741,158 @@ export function validarViagem(viagem: Viagem, pacote: PacoteDestino): Alerta[] {
     regraReservaComPrazo,
     regraClimaDoMes,
     regraOrcamento,
+    regraDocumentosDeEntrada,
+    regraPrazoDeReserva,
+    regraFolgaAntesDoQueNaoEspera,
   ];
 
   for (const regra of regras) regra(ctx, alertas);
 
   return alertas.sort((a, b) => ORDEM[a.nivel] - ORDEM[b.nivel]);
+}
+
+// ------------------------------------------------- melhorias 11, 12 e 3
+
+/**
+ * MELHORIA 11 — alerta de documentos.
+ * O requisito de entrada esta no banco desde sempre, mas so aparecia num
+ * documento que ninguem le. Agora vira alerta na tela, com prazo contado a
+ * partir do primeiro dia da viagem.
+ */
+function regraDocumentosDeEntrada(ctx: Contexto, alertas: Alerta[]): void {
+  const primeiroDia = ctx.viagem.dias[0]?.data;
+  if (!primeiroDia) return;
+
+  const nacionalidade = ctx.viagem.viajantes.nacionalidade;
+  const requisito =
+    ctx.pacote.destino.entrada.find((e) => e.nacionalidade === nacionalidade) ??
+    ctx.pacote.destino.entrada[0];
+  if (!requisito) return;
+
+  const diasAte = ctx.hoje ? diferencaEmDias(ctx.hoje, primeiroDia) : undefined;
+  const prazo = diasAte === undefined ? '' : ` A viagem comeca ${emQuantosDias(diasAte)}.`;
+
+  if (requisito.vistoNecessario) {
+    alertas.push({
+      codigo: 'visto-necessario',
+      nivel: 'erro',
+      titulo: `${ctx.pacote.destino.nome} exige visto para ${nacionalidade}`,
+      mensagem: `${requisito.observacoes || requisito.documento}${prazo}`,
+      blocoIds: [],
+      correcoes: [{ tipo: 'abrir-requisitos', rotulo: 'Ver os requisitos de entrada' }],
+    });
+  }
+
+  if (requisito.vacinaFebreAmarela) {
+    alertas.push({
+      codigo: 'vacina-exigida',
+      nivel: 'atencao',
+      titulo: 'Vacina a conferir antes de viajar',
+      mensagem:
+        `${requisito.vacinaFebreAmarela}${prazo}` +
+        ' A vacina de febre amarela precisa de 10 dias para valer.',
+      blocoIds: [],
+      correcoes: [],
+    });
+  }
+
+  alertas.push({
+    codigo: 'documento-de-entrada',
+    nivel: 'dica',
+    titulo: 'Documento de entrada',
+    mensagem: `${requisito.documento}${
+      requisito.formularioMigratorio ? ` ${requisito.formularioMigratorio}` : ''
+    }`,
+    blocoIds: [],
+    correcoes: [],
+  });
+}
+
+/**
+ * MELHORIA 12 — contagem regressiva de reserva.
+ * "Reserve com 30 dias de antecedencia" nao diz nada; "reserve ate 14 de
+ * novembro, em 12 dias" diz.
+ */
+function regraPrazoDeReserva(ctx: Contexto, alertas: Alerta[]): void {
+  if (!ctx.hoje) return;
+
+  for (const dia of ctx.dias) {
+    for (const b of dia.blocos) {
+      if (b.bloco.tipo !== 'atividade' || !b.item?.reserva.necessaria) continue;
+      if (b.bloco.statusDeReserva === 'reservado' || b.bloco.statusDeReserva === 'pago') continue;
+
+      const antecedencia = b.item.reserva.antecedenciaDias;
+      if (antecedencia === undefined) continue;
+
+      const prazo = somarDias(dia.dia.data, -antecedencia);
+      const diasAteOPrazo = diferencaEmDias(ctx.hoje, prazo);
+
+      alertas.push({
+        codigo: diasAteOPrazo < 0 ? 'prazo-de-reserva-vencido' : 'prazo-de-reserva',
+        nivel: diasAteOPrazo < 0 ? 'erro' : diasAteOPrazo <= 7 ? 'atencao' : 'dica',
+        titulo:
+          diasAteOPrazo < 0
+            ? `Passou do prazo de reserva de ${b.item.nome}`
+            : `Reserve ${b.item.nome} ate ${porExtenso(prazo)}`,
+        mensagem:
+          diasAteOPrazo < 0
+            ? `A antecedencia recomendada e de ${antecedencia} dias, e o prazo venceu ${emQuantosDias(diasAteOPrazo)}. Pode ja nao haver vaga.`
+            : `Sao ${antecedencia} dias de antecedencia: o prazo cai ${emQuantosDias(diasAteOPrazo)}.`,
+        diaId: dia.dia.id,
+        blocoIds: [b.bloco.id],
+        correcoes: [
+          { tipo: 'marcar-reservado', rotulo: 'Marcar como reservado', dados: { blocoId: b.bloco.id } },
+        ],
+      });
+    }
+  }
+}
+
+/** Folga minima antes de algo que nao espera. */
+const FOLGA_ANTES_DE_VOO_MIN = 30;
+
+/**
+ * MELHORIA 3 — bloco-tampao.
+ * Chegar em cima da hora e o que mais estraga dia de viagem. Antes de voo e
+ * de passeio com saida marcada, o app cobra folga.
+ */
+function regraFolgaAntesDoQueNaoEspera(ctx: Contexto, alertas: Alerta[]): void {
+  for (const dia of ctx.dias) {
+    for (const lacuna of dia.lacunas) {
+      if (lacuna.tipo !== 'entre-blocos' || !lacuna.cabe) continue;
+      const sobra = lacuna.minutosLivres;
+      if (sobra === null || sobra >= FOLGA_ANTES_DE_VOO_MIN) continue;
+
+      const seguinte = dia.blocos.find((b) => b.bloco.id === lacuna.antesDe);
+      if (!seguinte) continue;
+
+      const ehVoo = seguinte.bloco.tipo === 'trecho' && seguinte.bloco.modal === 'voo';
+      const ehSaidaMarcada =
+        seguinte.bloco.tipo === 'atividade' && Boolean(seguinte.item?.passeio?.horarioFixo);
+      if (!ehVoo && !ehSaidaMarcada) continue;
+
+      alertas.push({
+        codigo: 'sem-folga-antes-do-horario-marcado',
+        nivel: 'atencao',
+        titulo: `So ${formatarDuracao(sobra)} de folga antes de ${seguinte.rotulo}`,
+        mensagem:
+          (ehVoo ? 'Voo nao espera. ' : 'Este passeio sai na hora marcada. ') +
+          `Depois do trajeto sobram ${formatarDuracao(sobra)}. Qualquer atraso no caminho faz voce perder.`,
+        diaId: dia.dia.id,
+        blocoIds: [lacuna.depoisDe, seguinte.bloco.id],
+        correcoes: [
+          {
+            tipo: 'inserir-folga',
+            rotulo: `Reservar ${formatarDuracao(FOLGA_ANTES_DE_VOO_MIN)} de folga`,
+            dados: { antesDe: seguinte.bloco.id, minutos: FOLGA_ANTES_DE_VOO_MIN - sobra },
+          },
+          {
+            tipo: 'encurtar-anterior',
+            rotulo: 'Encurtar a atividade anterior',
+            dados: { blocoId: lacuna.depoisDe, minutos: FOLGA_ANTES_DE_VOO_MIN - sobra },
+          },
+        ],
+      });
+    }
+  }
 }

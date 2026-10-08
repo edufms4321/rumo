@@ -115,6 +115,109 @@
     "porQue": "Cidade com preços definidos pelo mercado estrangeiro; ruas fora do centro histórico são bem mais baratas. — ESTIMADO/DEFASADO: Wikivoyage cita dorms abaixo de MX$500 e duplos de MX$500-1.000; hotéis de luxo acima de MX$1.000. Valores recentes provavelmente maiores. Guanajuato fica 30-40% mais barata (busca)."
   },
   {
+    "id": "cidade-do-mexico-roma-norte-condesa",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "cidade-do-mexico",
+    "bairro": "Roma Norte / Condesa",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 400,
+      "max": 3000
+    },
+    "porQue": "Vida noturna, bares, mezcalerías, tacos, cafés; ruas arborizadas e caminháveis. Melhor base para o perfil do casal (noite + comida). — Faixa do Wikivoyage: dormitório de hostel ~M$400, Casa Decu ~M$2.000, Red Tree House ~M$3.000, Hippodrome ~M$4.000 (fonte colaborativa; confirme preços atuais em plataformas de reserva)."
+  },
+  {
+    "id": "cidade-do-mexico-centro-historico",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=es"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "cidade-do-mexico",
+    "bairro": "Centro Histórico",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 320,
+      "max": 850
+    },
+    "porQue": "Para fazer Zócalo, Templo Mayor, Palacio Nacional e Bellas Artes a pé; hospedagem mais barata; metrô e ônibus à mão. — Wikivoyage Centro (abril/2022, desatualizado): hotéis simples com banheiro e água quente ~M$320; Mexico City Hostel M$500; Hotel San Francisco M$700; Hotel Savoy M$850. Em 2026 os valores provavelmente subiram."
+  },
+  {
+    "id": "cidade-do-mexico-coyoacan",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "cidade-do-mexico",
+    "bairro": "Coyoacán",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 750,
+      "max": 2500
+    },
+    "porQue": "Tranquilo, colonial, perto da Casa Azul e do Anahuacalli; menos noite, mais dia. — Wikivoyage: hostels M$750-800; hotéis intermediários M$2.000-2.500 (colaborativo). Metrô Coyoacán fica a ~20 min a pé da praça."
+  },
+  {
+    "id": "cidade-do-mexico-zona-rosa-juarez",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Zona_Rosa"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "cidade-do-mexico",
+    "bairro": "Zona Rosa / Juárez",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 1100,
+      "max": 1100
+    },
+    "porQue": "Balada e vida noturna LGBT+ (Calle Amberes), perto do metrô Insurgentes; turístico. — Wikivoyage: opção econômica a partir de ~M$1.100 (Royal Reforma); faixa intermediária US$50-120 (não convertida). Existe HI Hostel Zona Rosa."
+  },
+  {
+    "id": "cidade-do-mexico-polanco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "cidade-do-mexico",
+    "bairro": "Polanco",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 6000,
+      "max": 6400
+    },
+    "porQue": "Rico e caro: museus gratuitos (Soumaya, Jumex), Pujol e Quintonil; não recomendado para ficar com perfil econômico. — Wikivoyage lista hotéis de design a partir de ~M$6.000-6.400. Melhor visitar de dia e dormir na Roma."
+  },
+  {
     "id": "san-cristobal-centro-historico-entorno-de-real-de-gu",
     "fontes": [
       {

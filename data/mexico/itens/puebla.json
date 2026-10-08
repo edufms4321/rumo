@@ -1,0 +1,569 @@
+[
+  {
+    "id": "mx-pue-centro-historico-de-puebla-zocalo-catedral-palafoxia",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/528509571"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1994735"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro Histórico de Puebla (Zócalo, Catedral, Palafoxiana, El Parián, Los Sapos)",
+    "cidadeId": "puebla",
+    "categoria": "atracao",
+    "tags": [
+      "puebla",
+      "patrimonio-unesco",
+      "caminhada",
+      "gastronomia"
+    ],
+    "coords": {
+      "lat": 19.0436819,
+      "lng": -98.1980887
+    },
+    "descricaoCurta": "Centro colonial UNESCO (1987) caminhável: Catedral, Biblioteca Palafoxiana, mercado El Parián e becos de antiguidades aos fins de semana.",
+    "descricaoLonga": "Wikivoyage: centro histórico declarado Patrimônio da UNESCO em 1987; Catedral (1575-1640) com duas das torres mais altas do México; Biblioteca Palafoxiana (acervo único; é mais museu que biblioteca); El Parián (maior mercado de artesanato, diário 10:00-21:00, com muita coisa de baixa qualidade mas peças autênticas); Callejón de los Sapos (feira sáb-dom 10:00-18:00); Pasaje 5 de Mayo/Túneis (terça-domingo 10:00-16:00; M$28 em nov/2022); Barrio de murales. Táxis sem taxímetro em Puebla: combine o preço (M$60-120 em 2021, dado antigo); Uber, Cabify e DiDi existem. Altitude e sol: use protetor e água (Wikivoyage).",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã para Catedral/Capilla; tarde para El Parián; fim de semana para Los Sapos.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_13.JPG/1280px-Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Diego Delso",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_13.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: centro denso e barato; combine com mole/cemitas e Capilla del Rosario.",
+      "CORTE SE APERTAR: Pasaje 5 de Mayo, museus."
+    ],
+    "alertas": [
+      "Preços e horários do Wikivoyage; em Puebla vários dados são de 2021-2022.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pue-capilla-del-rosario-templo-de-santo-domingo",
+    "fontes": [
+      {
+        "url": "https://museoamparo.com/descubre/Museos/53/chapel-of-the-rosary-temple-of-santo-domingo"
+      },
+      {
+        "url": "https://escapadas.mexicodesconocido.com.mx/atractivos/capilla-de-la-virgen-del-rosario-puebla/"
+      },
+      {
+        "url": "https://matadornetwork.com/es/historia-de-la-capilla-del-rosario-en-puebla/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/993724155"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Capilla del Rosario (Templo de Santo Domingo)",
+    "cidadeId": "puebla",
+    "categoria": "atracao",
+    "tags": [
+      "puebla",
+      "gratis",
+      "barroco",
+      "igreja"
+    ],
+    "coords": {
+      "lat": 19.0465555,
+      "lng": -98.198302
+    },
+    "descricaoCurta": "Capela barroca coberta de ouro do século XVII, de entrada gratuita, anexa ao Templo de Santo Domingo.",
+    "descricaoLonga": "Museo Amparo: 4 Poniente e 5 de Mayo, Centro Histórico; terça a sexta 9:30-13:30 e 16:00-17:30; sábado 10:00-13:30 e 16:00-18:00; domingo 9:00-10:45 e 15:30-17:30; entrada gratuita. Outras páginas citam horários diferentes (Mexico Desconocido: seg-dom 8:00-14:00 e 16:30-20:00; Matador: todos os dias 7:30-14:00 e 16:00-20:00): pode haver divergência por culto/visitas. Chamada de \"relicário de América\" por João Paulo II.",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 45
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:30",
+          "fecha": "13:30"
+        },
+        {
+          "abre": "16:00",
+          "fecha": "17:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:30",
+          "fecha": "13:30"
+        },
+        {
+          "abre": "16:00",
+          "fecha": "17:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:30",
+          "fecha": "13:30"
+        },
+        {
+          "abre": "16:00",
+          "fecha": "17:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:30",
+          "fecha": "13:30"
+        },
+        {
+          "abre": "16:00",
+          "fecha": "17:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "13:30"
+        },
+        {
+          "abre": "16:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "10:45"
+        },
+        {
+          "abre": "15:30",
+          "fecha": "17:30"
+        }
+      ]
+    },
+    "horariosObservacao": "09:30–13:30 e 16:00–17:30 | 10:00–13:30 e 16:00–18:00 | 09:00–10:45 e 15:30–17:30",
+    "diasFechados": [],
+    "melhorHorario": "Manhã, dentro do intervalo de visitação.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha ao meio-dia (pausa de almoço) em horários do Museo Amparo."
+      ]
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (grátis): 20 min, mas o interior é de tirar o fôlego.",
+      "Chegue dentro da janela da manhã ou da tarde; fecha para o almoço."
+    ],
+    "alertas": [
+      "Horários divergem entre Museo Amparo e outras páginas; usei o do Museo Amparo.",
+      "Segunda: não listada pela fonte principal; verifique no local.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pue-gran-piramide-de-cholula-zona-arqueologica-e-tuneis",
+    "fontes": [
+      {
+        "url": "https://www.eluniversalpuebla.com.mx/economia-y-negocios/cuanto-costara-la-entrada-a-la-piramide-de-cholula-en-2026/"
+      },
+      {
+        "url": "https://www.milenio.com/comunidad/tuneles-de-cholula-reabriran-horarios-y-costos"
+      },
+      {
+        "url": "https://www.semana.com/mundo/articulo/fin-a-la-espera-el-inah-confirma-la-reapertura-de-los-tuneles-prohibidos-en-la-piramide-mas-grande-del-mundo/202605/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cholula"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/157402817"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Gran Pirámide de Cholula (zona arqueológica e túneis)",
+    "cidadeId": "puebla",
+    "categoria": "atracao",
+    "tags": [
+      "cholula",
+      "piramide",
+      "inah",
+      "tuneis",
+      "fecha-segunda-terca"
+    ],
+    "coords": {
+      "lat": 19.0581008,
+      "lng": -98.3021529
+    },
+    "descricaoCurta": "A maior pirâmide do mundo em volume, com uma igreja no topo; os túneis (800 m) foram anunciados para reabertura em 2026.",
+    "descricaoLonga": "El Universal Puebla (INAH 2026): ingresso estrangeiro M$210, mexicanos M$105, com 50% de desconto para residentes; zona aberta de quarta a domingo, 9:00-17:00 (último acesso 17:00); Av. Morelos e 8 Norte, San Pedro Cholula. Os túneis (mais de 800 m, fechados desde março/2020) foram anunciados para reabrir em 2026 com grupos reduzidos e horários definidos, a mesma tarifa de M$105/210 e horário de quarta a domingo, 9:00-17:00 (Milenio, 10/04/2026), porém as notícias divergem: algumas dizem que reabriram em março, outras que seriam antes da Copa do Mundo ou no fim de julho; NÃO consegui confirmar que estejam abertos hoje. Domingo grátis para o público (El Universal Puebla) conflita com a regra INAH divulgada para outros sítios (gratuito só para nacionais/residentes): para turista estrangeiro, assuma que paga. De Puebla: ônibus ~20-40 min por ~M$7,50 (Wikivoyage, antigo) ou táxi M$60-90; o trenzinho turístico fechou em 2021. Cholula tem vida noturna barata (Calle 6 e bares).",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": "fechado",
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 09:00–17:00",
+    "diasFechados": [
+      "seg",
+      "ter"
+    ],
+    "melhorHorario": "Quarta a sexta pela manhã (menos público).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "Estrangeiro não residente. Nacionais/residentes M$105. Túneis: mesma tarifa informada, status incerto.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.eluniversalpuebla.com.mx/economia-y-negocios/cuanto-costara-la-entrada-a-la-piramide-de-cholula-en-2026/"
+        },
+        {
+          "url": "https://www.milenio.com/comunidad/tuneles-de-cholula-reabriran-horarios-y-costos"
+        },
+        {
+          "url": "https://www.semana.com/mundo/articulo/fin-a-la-espera-el-inah-confirma-la-reapertura-de-los-tuneles-prohibidos-en-la-piramide-mas-grande-del-mundo/202605/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG/1280px-Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Diego Delso",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Gran_Pir%C3%A1mide_de_Cholula,_Puebla,_M%C3%A9xico,_2013-10-12,_DD_10.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda e terça.",
+        "Túneis com grupos reduzidos e horários definidos (se abertos)."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO se for a Puebla em dia de semana de quarta a sexta ou no fim de semana.",
+      "Pergunte no local se os túneis estão abertos hoje: é o grande diferencial."
+    ],
+    "alertas": [
+      "Status dos túneis incerto (fontes divergentes de reabertura).",
+      "Um resumo de busca citava ingresso de M$100 (dado antigo)."
+    ]
+  },
+  {
+    "id": "mx-pue-talavera-de-puebla-uriarte-armando-el-parian",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/9758534418"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3136774034"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Talavera de Puebla (Uriarte, Armando, El Parián)",
+    "cidadeId": "puebla",
+    "categoria": "compras",
+    "tags": [
+      "talavera",
+      "ceramica",
+      "lembrancas",
+      "puebla"
+    ],
+    "coords": {
+      "lat": 19.0491615,
+      "lng": -98.2040358
+    },
+    "descricaoCurta": "Cerâmica Talavera: oficinas históricas e mercado de artesanato; peças autênticas custam mais que as de mercado.",
+    "descricaoLonga": "Wikivoyage: Uriarte Talavera (4 Poniente 911, oficina fundada em 1824); Fábrica de Talavera Armando (Calle 6 Norte 408, diário 9:00-20:00); Mercado El Parián (diário 10:00-21:00, com artesanato de qualidade variável, muita coisa \"para turista\"). Preços de peças não coletados.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "melhorHorario": "Tarde.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se quiser levar cerâmica de verdade; compare oficinas antes de comprar.",
+      "CORTE SE APERTAR: bagagem frágil na volta."
+    ],
+    "alertas": [
+      "Horário da Uriarte não coletado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-pue-mole-poblano-cemitas-e-comida-de-rua-em-puebla",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cemita"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mole_poblano"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/730277354"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Mole poblano, cemitas e comida de rua em Puebla",
+    "cidadeId": "puebla",
+    "categoria": "restaurante",
+    "tags": [
+      "mole",
+      "cemita",
+      "puebla",
+      "comida-barata"
+    ],
+    "coords": {
+      "lat": 19.0411077,
+      "lng": -98.1870842
+    },
+    "descricaoCurta": "Mole poblano, cemitas e tacos árabes: coma no mercado La Acocota e em fondas fora do Zócalo para pagar menos.",
+    "descricaoLonga": "Wikivoyage: quesadillas grandes no \"Vero\" por M$25; mercado La Acocota (barracas, popular entre moradores); Restaurante La Fonda (2 Oriente 801, ao sul do Parián), com chiles en nogada, mole por cerca de metade do preço do Zócalo; El Mural de los Poblanos (16 de Septiembre 506, diário 13:00-23:00, cozinha tradicional, categoria cara). Wikipédia: a cemita é um sanduíche de Puebla em pão com gergelim, com abacate, carne, queijo de Oaxaca, pápalo e chipotle; mole poblano é um molho escuro com ~20 ingredientes, ligado ao Convento de Santa Clara (lenda).",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 25,
+      "max": 150,
+      "por": "pessoa",
+      "inclui": "Estimativa a partir de listagens antigas do Wikivoyage (2021): quesadilla M$25; fondas M$100-150+.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Puebla"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cemita"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mole_poblano"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: mole e cemita são o motivo gastronômico de ir a Puebla; coma fora do Zócalo.",
+      "CORTE SE APERTAR: El Mural de los Poblanos (categoria cara)."
+    ],
+    "alertas": [
+      "Preços são de 2021-2022 e provavelmente subiram."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-pue-puebla-bate-volta-ou-pernoite-veredito-como-ir-ado-t",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-puebla/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cholula"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q3433430"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Puebla: bate-volta ou pernoite? Veredito + como ir (ADO TAPO -> CAPU)",
+    "cidadeId": "puebla",
+    "categoria": "passeio",
+    "tags": [
+      "puebla",
+      "veredito",
+      "onibus",
+      "referencia"
+    ],
+    "coords": {
+      "lat": 19.0749933,
+      "lng": -98.2058637
+    },
+    "descricaoCurta": "Cartão de decisão: 2 h de ônibus por trecho; bate-volta apertado funciona de quarta a domingo; pernoite compensa só para a noite de Cholula.",
+    "descricaoLonga": "Ônibus: ADO/AU/Estrella Roja saem da TAPO (ao lado do metrô San Lázaro) para a CAPU de Puebla a cada ~20-30 min; viagem de ~2 h (pode variar até 1 h conforme trânsito); preço M$190 (jan/2019, Wikivoyage) a ~M$234 (Gecko Routes, 2026), ou seja ~M$380-470 ida e volta por pessoa. Do CAP de Puebla há ônibus direto para Teotihuacán (M$180, 1,5-2,5 h, março/2024) se quiser emendar o roteiro. Veredito honesto: (1) BATE-VOLTA é viável para ritmo intenso: sair da TAPO ~7:00, Zócalo/Catedral/Capilla (janelas de visita: pausa ao meio-dia) e almoço de mole/cemita, depois Cholula à tarde; custa ~4 h de estrada; só de quarta a domingo (Cholula fecha seg/ter). (2) PERNOITE em Puebla/Cholula só faz sentido se quiserem a noite de Cholula (bares baratos, segundo Wikivoyage) e ter 6+ noites na CDMX. (3) Se a viagem for curta (3-4 noites em CDMX), CORTE Puebla: Teotihuacán + Xochimilco rendem mais por peso gasto.",
+    "diasFechados": [],
+    "melhorHorario": "Quarta a sexta (menos gente).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 380,
+      "max": 470,
+      "por": "pessoa",
+      "inclui": "Ida e volta de ônibus TAPO-CAPU (2 x M$190-234). Mais ônibus urbanos/táxi e entradas.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Puebla"
+        },
+        {
+          "url": "https://www.geckoroutes.com/es/mexico/ciudad-de-mexico-a-puebla/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Cholula"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://www.ado.com.mx"
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/InsideTAPODF.JPG/1280px-InsideTAPODF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Thelmadatter",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:InsideTAPODF.JPG"
+      }
+    ],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO como bate-volta de dia útil se sobrarem 2 dias úteis na CDMX.",
+      "CORTE SE APERTAR: se a viagem tiver menos de 5-6 noites na CDMX."
+    ],
+    "alertas": [
+      "Preço de ônibus: dois dados em anos diferentes (2019 e 2026); confirmar no site da ADO.",
+      "Último ônibus de volta não verificado: confirme antes de ir.",
+      "Não pesquisei o trecho Puebla-CDMX noturno."
+    ],
+    "passeio": {
+      "pontoPartida": "TAPO (Terminal de Autobuses de Pasajeros de Oriente), metrô San Lázaro.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  }
+]

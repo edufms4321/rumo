@@ -212,7 +212,7 @@ export function viagemDeTeste(dias: Dia[], deslocamentos: Viagem['deslocamentos'
     nome: 'Viagem de teste',
     destinoId: 'brasil',
     origem: { cidade: 'Sao Paulo', aeroportos: ['GRU'] },
-    viajantes: { adultos: 2, criancas: 0 },
+    viajantes: { adultos: 2, criancas: 0, nacionalidade: 'BR' },
     estilo: 'economico',
     ritmo: 'intenso',
     interesses: [],
@@ -221,6 +221,9 @@ export function viagemDeTeste(dias: Dia[], deslocamentos: Viagem['deslocamentos'
     favoritos: [],
     reservas: [],
     deslocamentos,
+    gastos: [],
+    confirmacoes: {},
+    descartados: {},
     criadoEm: '2026-10-08T12:00:00Z',
     atualizadoEm: '2026-10-08T12:00:00Z',
   };

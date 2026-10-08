@@ -116,3 +116,43 @@ Hospedagem gratuita + manual de uso de uma página. Prova final: um segundo dest
 | Biblioteca de PDF | nunca (folha de impressão é melhor) |
 
 Nada do motor de regras foi cortado.
+
+---
+
+# As 20 melhorias aprovadas (2026-10-08)
+
+Aprovadas em bloco pelo Eduardo. Encaixadas nas fases em vez de virarem uma fase à parte — a maioria é motor ou dado, e a interface da Fase 4 renderiza tudo.
+
+## Lote A — modelo de estado (antes da interface, porque ela depende disto)
+- **7** Botão "eu confirmei isto": camada de verificação do usuário por cima do banco
+- **9** Gasto real × planejado: livro de gastos na viagem
+- **14** Guardar confirmações de reserva
+- **18** Várias viagens guardadas
+- **20** Marcar "já fui" / "não quero"
+
+## Lote B — regras novas do motor
+- **11** Alerta de documentos por destino (visto, vacina) com prazo
+- **12** Contagem regressiva de reserva ("reserve até 14/11")
+- **3** Bloco-tampão automático antes de voo e de passeio com hora marcada
+
+## Lote C — geradores puros
+- **13** Mensagem pronta em espanhol para cada pendência
+- **17** Checklist de bagagem a partir do clima do mês e das atividades
+- **16** Contatos de emergência por destino
+
+## Lote D — inteligência de viagem
+- **4** Plano B de chuva por dia
+- **19** Comparar dois roteiros lado a lado
+- **6** Idade do dado visível
+- **10** Câmbio automático com trava manual
+
+## Lote E — deslocamento
+- **1** Matriz de rotas reais pré-calculada no build
+
+## Lote F — interface (dentro da Fase 4)
+- **2** Etiqueta "saia às 08:49" em cada bloco (o motor já calcula)
+- **5** Zoom na linha do tempo
+- **15** Modo "agora" no celular
+
+## Lote G — ferramenta, depois da v1
+- **8** Re-verificação automática dos favoritos antes da viagem

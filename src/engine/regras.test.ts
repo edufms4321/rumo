@@ -445,3 +445,117 @@ describe('ordem dos alertas', () => {
     }
   });
 });
+
+// ------------------------------------------- melhorias 11, 12 e 3
+
+describe('melhoria 11: alerta de documentos de entrada', () => {
+  function pacoteComVisto() {
+    const p = pacoteParaRegras();
+    p.destino.entrada = [
+      {
+        nacionalidade: 'BR',
+        documento: 'Passaporte com validade de 6 meses.',
+        vistoNecessario: true,
+        vacinaFebreAmarela: 'Exigida para quem vem do Brasil.',
+        comprovantesExigidos: [],
+        observacoes: 'Visto eletronico de entrada unica, so por via aerea.',
+        fontes: [{ url: 'https://exemplo.test/visto' }],
+      },
+    ];
+    return p;
+  }
+
+  it('acusa visto obrigatorio como ERRO, nao como dica', () => {
+    const d = comHospedagem(dia('d1', QUARTA, 'sao-paulo', []));
+    const lista = validarViagem(viagemDeTeste([d]), pacoteComVisto(), { hoje: '2026-10-08' });
+    const a = lista.find((x) => x.codigo === 'visto-necessario');
+    expect(a?.nivel).toBe('erro');
+    expect(a?.mensagem).toMatch(/entrada unica/);
+  });
+
+  it('conta quantos dias faltam para a viagem', () => {
+    const d = comHospedagem(dia('d1', QUARTA, 'sao-paulo', []));
+    const lista = validarViagem(viagemDeTeste([d]), pacoteComVisto(), { hoje: '2026-10-08' });
+    expect(lista.find((x) => x.codigo === 'visto-necessario')?.mensagem).toMatch(/em 41 dias/);
+  });
+
+  it('avisa da vacina lembrando dos 10 dias de carencia', () => {
+    const d = comHospedagem(dia('d1', QUARTA, 'sao-paulo', []));
+    const lista = validarViagem(viagemDeTeste([d]), pacoteComVisto(), { hoje: '2026-10-08' });
+    expect(lista.find((x) => x.codigo === 'vacina-exigida')?.mensagem).toMatch(/10 dias para valer/);
+  });
+
+  it('nao acusa visto quando o destino nao exige', () => {
+    const d = comHospedagem(dia('d1', QUARTA, 'sao-paulo', []));
+    expect(codigos(alertas([d]))).not.toContain('visto-necessario');
+  });
+});
+
+describe('melhoria 12: contagem regressiva de reserva', () => {
+  const d = comHospedagem(
+    dia('d1', QUARTA, 'sao-paulo', [
+      atividade('b1', 'br-sp-show-com-reserva', paraMinutos('20:00'), 120),
+    ]),
+  );
+
+  it('converte "30 dias de antecedencia" numa data concreta', () => {
+    const lista = validarViagem(viagemDeTeste([d]), pacote, { hoje: '2026-10-08' });
+    const a = lista.find((x) => x.codigo === 'prazo-de-reserva');
+    // 18/11 menos 30 dias = 19/10.
+    expect(a?.titulo).toMatch(/ate 19 de outubro de 2026/);
+    expect(a?.mensagem).toMatch(/em 11 dias/);
+  });
+
+  it('vira ERRO quando o prazo ja passou', () => {
+    const lista = validarViagem(viagemDeTeste([d]), pacote, { hoje: '2026-11-10' });
+    const a = lista.find((x) => x.codigo === 'prazo-de-reserva-vencido');
+    expect(a?.nivel).toBe('erro');
+    expect(a?.mensagem).toMatch(/ha 22 dias/);
+  });
+
+  it('sobe para atencao quando faltam 7 dias ou menos', () => {
+    const lista = validarViagem(viagemDeTeste([d]), pacote, { hoje: '2026-10-15' });
+    expect(lista.find((x) => x.codigo === 'prazo-de-reserva')?.nivel).toBe('atencao');
+  });
+
+  it('cala sem a data de hoje, em vez de chutar', () => {
+    expect(codigos(validarViagem(viagemDeTeste([d]), pacote))).not.toContain('prazo-de-reserva');
+  });
+});
+
+describe('melhoria 3: folga antes do que nao espera', () => {
+  it('acusa pouca folga antes de um passeio com saida marcada', () => {
+    const d = comHospedagem(
+      dia('d1', QUARTA, 'rio', [
+        // Termina 08:00; o barco sai 09:00. O trajeto leva ~34 min, entao
+        // cabe, mas sobram so ~26 min de folga antes de algo que nao espera.
+        atividade('b1', 'br-rio-copacabana', paraMinutos('07:00'), 60),
+        atividade('b2', 'br-rio-passeio-de-barco', paraMinutos('09:00'), 240),
+      ]),
+    );
+    const a = pegar(alertas([d]), 'sem-folga-antes-do-horario-marcado');
+    expect(a?.nivel).toBe('atencao');
+    expect(a?.mensagem).toMatch(/sai na hora marcada/);
+    expect(a?.correcoes.map((c) => c.tipo)).toContain('inserir-folga');
+  });
+
+  it('cala quando ha folga suficiente', () => {
+    const d = comHospedagem(
+      dia('d1', QUARTA, 'rio', [
+        atividade('b1', 'br-rio-copacabana', paraMinutos('06:00'), 45),
+        atividade('b2', 'br-rio-passeio-de-barco', paraMinutos('09:00'), 240),
+      ]),
+    );
+    expect(codigos(alertas([d]))).not.toContain('sem-folga-antes-do-horario-marcado');
+  });
+
+  it('nao cobra folga antes de atividade comum', () => {
+    const d = comHospedagem(
+      dia('d1', QUARTA, 'sao-paulo', [
+        atividade('b1', 'br-sp-almoco', paraMinutos('12:00'), 60),
+        atividade('b2', 'br-sp-pinacoteca', paraMinutos('13:10'), 90),
+      ]),
+    );
+    expect(codigos(alertas([d]))).not.toContain('sem-folga-antes-do-horario-marcado');
+  });
+});

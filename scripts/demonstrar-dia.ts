@@ -93,7 +93,7 @@ function main(): void {
     nome: 'Demonstracao',
     destinoId: 'colombia',
     origem: { cidade: 'Sao Paulo', aeroportos: ['GRU'] },
-    viajantes: { adultos: 2, criancas: 0 },
+    viajantes: { adultos: 2, criancas: 0, nacionalidade: 'BR' },
     estilo: 'economico',
     ritmo: 'intenso',
     interesses: [],
@@ -102,6 +102,9 @@ function main(): void {
     favoritos: [],
     reservas: [],
     deslocamentos: {},
+    gastos: [],
+    confirmacoes: {},
+    descartados: {},
     criadoEm: '2026-10-08T12:00:00Z',
     atualizadoEm: '2026-10-08T12:00:00Z',
   };

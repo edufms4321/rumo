@@ -72,3 +72,36 @@ export function ordenarPorInicio<T extends { startMin: number; durationMin: numb
     (a, b) => a.startMin - b.startMin || a.startMin + a.durationMin - (b.startMin + b.durationMin),
   );
 }
+
+// ------------------------------------------------------------------- datas
+
+/** Soma dias a uma data AAAA-MM-DD, em UTC para nao escorregar por fuso. */
+export function somarDias(dataIso: string, dias: number): string {
+  const [ano, mes, dia] = dataIso.split('-').map(Number);
+  const d = new Date(Date.UTC(ano ?? 2000, (mes ?? 1) - 1, (dia ?? 1) + dias));
+  return d.toISOString().slice(0, 10);
+}
+
+/** Quantos dias de `de` ate `para`. Negativo quando `para` ja passou. */
+export function diferencaEmDias(de: string, para: string): number {
+  const ms = Date.parse(`${para}T00:00:00Z`) - Date.parse(`${de}T00:00:00Z`);
+  return Math.round(ms / 86_400_000);
+}
+
+/** "em 12 dias", "amanha", "hoje", "ha 3 dias". */
+export function emQuantosDias(dias: number): string {
+  if (dias === 0) return 'hoje';
+  if (dias === 1) return 'amanha';
+  if (dias === -1) return 'ontem';
+  return dias > 0 ? `em ${dias} dias` : `ha ${Math.abs(dias)} dias`;
+}
+
+/** "14 de novembro de 2026". */
+export function porExtenso(dataIso: string): string {
+  const MESES = [
+    'janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho',
+    'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro',
+  ];
+  const [ano, mes, dia] = dataIso.split('-').map(Number);
+  return `${dia} de ${MESES[(mes ?? 1) - 1]} de ${ano}`;
+}

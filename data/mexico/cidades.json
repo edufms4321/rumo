@@ -3,12 +3,29 @@
     "id": "cidade-do-mexico",
     "fontes": [
       {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=es"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/taxis-taxi-apps/"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/using-the-metro/"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/basics-for-mexico-city-travel/altitude-sickness/?lang=en"
+      },
+      {
+        "url": "https://www.inah.gob.mx/images/boletines/2026/106/Boletin_106.pdf"
+      },
+      {
         "url": "https://www.openstreetmap.org/relation/17483459"
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Cidade do Mexico",
     "regiaoId": "valle-do-mexico",
     "coords": {
@@ -20,7 +37,92 @@
       "MEX",
       "NLU"
     ],
-    "bairros": [],
+    "noitesRecomendadas": {
+      "min": 3,
+      "ideal": 5,
+      "max": 7
+    },
+    "bairros": [
+      {
+        "nome": "Roma Norte / Condesa",
+        "perfil": "Vida noturna, bares, mezcalerías, tacos, cafés; ruas arborizadas e caminháveis. Melhor base para o perfil do casal (noite + comida).",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 3000
+        },
+        "observacao": "Faixa do Wikivoyage: dormitório de hostel ~M$400, Casa Decu ~M$2.000, Red Tree House ~M$3.000, Hippodrome ~M$4.000 (fonte colaborativa; confirme preços atuais em plataformas de reserva).",
+        "seguranca": "Bom e movimentado de dia; Wikivoyage alerta que algumas ruas da Roma são mal iluminadas e que convém evitar ruas pequenas à noite. Volte de app.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+          }
+        ]
+      },
+      {
+        "nome": "Centro Histórico",
+        "perfil": "Para fazer Zócalo, Templo Mayor, Palacio Nacional e Bellas Artes a pé; hospedagem mais barata; metrô e ônibus à mão.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 320,
+          "max": 850
+        },
+        "observacao": "Wikivoyage Centro (abril/2022, desatualizado): hotéis simples com banheiro e água quente ~M$320; Mexico City Hostel M$500; Hotel San Francisco M$700; Hotel Savoy M$850. Em 2026 os valores provavelmente subiram.",
+        "seguranca": "Seguro de dia, mas esvazia por volta das 21:00; norte (Garibaldi) e leste (Merced/Sonora) são mais complicados. Não ande à noite em áreas isoladas (turismo oficial CDMX recomenda evitar caminhar depois das 22:00).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+          },
+          {
+            "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=es"
+          }
+        ]
+      },
+      {
+        "nome": "Coyoacán",
+        "perfil": "Tranquilo, colonial, perto da Casa Azul e do Anahuacalli; menos noite, mais dia.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 750,
+          "max": 2500
+        },
+        "observacao": "Wikivoyage: hostels M$750-800; hotéis intermediários M$2.000-2.500 (colaborativo). Metrô Coyoacán fica a ~20 min a pé da praça.",
+        "seguranca": "Descrito como seguro e muito caminhável (Wikivoyage).",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+          }
+        ]
+      },
+      {
+        "nome": "Zona Rosa / Juárez",
+        "perfil": "Balada e vida noturna LGBT+ (Calle Amberes), perto do metrô Insurgentes; turístico.",
+        "observacao": "Wikivoyage: opção econômica a partir de ~M$1.100 (Royal Reforma); faixa intermediária US$50-120 (não convertida). Existe HI Hostel Zona Rosa.",
+        "seguranca": "Movimentado; use apps para voltar tarde. Sem dado específico de criminalidade coletado.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mexico_City/Zona_Rosa"
+          }
+        ]
+      },
+      {
+        "nome": "Polanco",
+        "perfil": "Rico e caro: museus gratuitos (Soumaya, Jumex), Pujol e Quintonil; não recomendado para ficar com perfil econômico.",
+        "diariaFaixa": {
+          "moeda": "MXN",
+          "min": 6000,
+          "max": 6400
+        },
+        "observacao": "Wikivoyage lista hotéis de design a partir de ~M$6.000-6.400. Melhor visitar de dia e dormir na Roma.",
+        "seguranca": "Bairro nobre; Wikivoyage destaca que há mais inglês falado em Polanco, Santa Fe e Lomas. Sem estatística coletada.",
+        "fontes": [
+          {
+            "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+          }
+        ]
+      }
+    ],
+    "comoCircular": "Metrô a M$5 por viagem (cartão M$15; picos 7-10 h e 17-21 h; 3 primeiros vagões só mulheres/menores de 12) cobre Centro, Chapultepec e as rodoviárias; Centro Histórico e Coyoacán se fazem a pé; Uber/DiDi/sitio à noite (táxi de rua só pintado de branco e rosa, com placa A ou B). Excursões: Teotihuacán de ônibus da Terminal del Norte (Gate 8, ~M$81, ~1 h); Xochimilco por metrô L2 até Tasqueña + Tren Ligero até a estação final, ou Uber (45-60 min); Puebla por ônibus ADO da TAPO (~2 h, ~M$190-234 por trecho). Não alugue carro. NÃO HÁ PRAIA na Cidade do México: a \"natureza\" aqui é Bosque de Chapultepec, Viveros de Coyoacán e os canais de Xochimilco; o mar fica a horas de distância e não foi pesquisado nesta onda.",
     "fatoresDeslocamento": {
       "a-pe": {
         "kmh": 4.5,
@@ -41,7 +143,16 @@
     },
     "matrizInterna": [],
     "climaPorMes": [],
-    "pegaTuristaAEvitar": [],
+    "seguranca": "Centro Histórico: seguro e patrulhado no início da noite, esvazia ~21:00; menos seguro ao norte (Garibaldi, Lagunilla, Tepito) e ao leste (Merced, Sonora) segundo Wikivoyage/Wikipédia (dado de Tepito/Garibaldi de 2013). Roma/Condesa: movimentadas, mas ruas pequenas mal iluminadas à noite. Coyoacán: descrito como seguro e caminhável. Polanco: bairro nobre. Doctores (Arena México): não verifiquei fonte; vá e volte de Uber. A orientação oficial do turismo da CDMX é evitar áreas isoladas/desconhecidas e não caminhar depois das 22:00. Aviso de viagem dos EUA (nível 2 em resumos de busca de mai/2026) não foi aberto (403).",
+    "pegaTuristaAEvitar": [
+      "Táxi de rua fora do padrão branco/rosa, sem placa A/B ou sem credencial visível (use sitio, rádio-táxi ou app).",
+      "Intermediários e \"guias\" em embarcaderos de Xochimilco, inclusive quem diz que o Nuevo Nativitas está fechado.",
+      "Bares de Plaza Garibaldi com conta inflada (relato de 2013).",
+      "Preços de trajinera por pessoa: a tarifa oficial é M$750 por HORA POR BARCO (até 18 pessoas), não por pessoa.",
+      "Excursões de agência a Teotihuacán a partir de ~M$700 por pessoa que desperdiçam tempo em lojas (Wikivoyage); o ônibus custa ~M$81.",
+      "Vendedores muito insistentes de obsidiana, flautas e prata em Teotihuacán: compare antes de comprar.",
+      "Ingressos de lucha libre com cambistas: compre na bilheteria ou Ticketmaster."
+    ],
     "taxasObrigatorias": [],
     "situacaoAtual": []
   },

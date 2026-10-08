@@ -1,0 +1,4231 @@
+[
+  {
+    "id": "mx-mex-zocalo-plaza-de-la-constitucion",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2146288"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=es"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Z%C3%B3calo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Zócalo (Plaza de la Constitución)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "gratis",
+      "praca",
+      "caminhada",
+      "patrimonio-unesco"
+    ],
+    "coords": {
+      "lat": 19.43277778,
+      "lng": -99.13305556
+    },
+    "descricaoCurta": "A praça central da cidade, rodeada por Catedral, Palácio Nacional e Templo Mayor; ponto de partida natural do Centro Histórico.",
+    "descricaoLonga": "Uma das maiores praças públicas do mundo e o coração histórico da cidade desde a época asteca. Serve de base para encadear Catedral, Palacio Nacional (murais de Rivera) e Templo Mayor a pé em poucas quadras. Segundo o Wikivoyage há cerimônia diária de descida da bandeira às 18:00 e, em dezembro, pista de patinação no gelo. A praça é palco de eventos e manifestações: o acesso pode mudar sem aviso (não verifiquei calendário de 2026).",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim da tarde (cerimônia da bandeira às 18:00) e depois sair antes das 21:00, quando o Centro esvazia.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Z%C3%B3calo%2C_Ciudad_de_M%C3%A9xico_%2832846556446%29_%28cropped%29.jpg/1280px-Z%C3%B3calo%2C_Ciudad_de_M%C3%A9xico_%2832846556446%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Comisión Mexicana de Filmaciones from México D. F., México",
+        "licenca": "CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Z%C3%B3calo,_Ciudad_de_M%C3%A9xico_(32846556446)_(cropped).jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (custa zero): comece o dia aqui e siga a pé para Catedral, Palacio Nacional e Templo Mayor.",
+      "Segundo o Wikivoyage, as ruas do Centro ficam tranquilas por volta das 21:00 e as lojas fecham mais cedo que em outros bairros: planeje o jantar/noite em Roma-Condesa.",
+      "Em dias de evento a praça pode estar parcialmente fechada; confirme no dia."
+    ],
+    "alertas": [
+      "Horário de abertura da praça não verificado (espaço público; eventos podem fechar partes).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-catedral-metropolitana",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q610961"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/862852010"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Catedral Metropolitana",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "gratis",
+      "igreja",
+      "arquitetura"
+    ],
+    "coords": {
+      "lat": 19.4343944,
+      "lng": -99.1330889
+    },
+    "descricaoCurta": "Maior catedral das Américas, construída ao longo de ~250 anos ao lado do Zócalo; entrada gratuita.",
+    "descricaoLonga": "Construída entre 1537 e 1787, segundo o Wikivoyage é a maior catedral do continente americano. A entrada é gratuita e o horário citado é diário das 07:00 às 19:00 (dado de uma única fonte colaborativa, confirmar no local). Há passeios às torres do sino (preço citado de M$12, em espanhol — valor possivelmente desatualizado).",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 60
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00–19:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã cedo, antes dos grupos.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg/1280px-Catedral_y_Sagrario_Metropolitano_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Ulisesmorales",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Catedral_y_Sagrario_Metropolitano_33.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Local de culto: ombros e joelhos cobertos é a prática recomendada (não verificado em fonte oficial)."
+      ]
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é grátis e fica colada ao Zócalo.",
+      "Evite durante missas se quiser circular; confirmar horários de culto no local."
+    ],
+    "alertas": [
+      "Horário e preço das torres vêm de uma fonte colaborativa (Wikivoyage); não consegui site oficial.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-museo-del-templo-mayor-zona-arqueologica-azteca",
+    "fontes": [
+      {
+        "url": "https://inah.gob.mx/images/boletines/2026/267/Boletin_267.pdf"
+      },
+      {
+        "url": "https://www.unotv.com/estados/ciudad-de-mexico/anuncian-cierre-zona-arqueologica-templo-mayor-abriran-hasta-esta-fecha/"
+      },
+      {
+        "url": "https://cdmxsecreta.com/visitas-guiadas-zonas-restringidas-templo-mayor/"
+      },
+      {
+        "url": "https://www.excelsior.com.mx/cultura/inah-actualiza-tarifas-2026-quedan-precios-museos-zonas-arqueologicas"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q774021"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo del Templo Mayor (zona arqueológica azteca)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "centro-historico",
+      "inah",
+      "asteca",
+      "arqueologia",
+      "fecha-segunda"
+    ],
+    "coords": {
+      "lat": 19.435,
+      "lng": -99.131389
+    },
+    "descricaoCurta": "Ruínas do templo principal de Tenochtitlán e museu com o monólito de Coyolxauhqui, a 1 quadra do Zócalo.",
+    "descricaoLonga": "Sítio arqueológico do principal templo asteca com seis camadas de construção visíveis e museu anexo (Seminario 8). Horário oficial do museu: terça a domingo, 9:00 às 17:00. O INAH informa 105 pesos para mexicanos e estrangeiros residentes; o valor para turistas estrangeiros não aparece no boletim consultado (a tabela INAH 2026 usa dois valores, com teto de 210 para a categoria I, mas não confirmei a categoria deste museu). Em 5 a 7 de maio de 2026 a zona arqueológica fechou 3 dias por manutenção, com o museu aberto: fechamentos pontuais acontecem. Visitas guiadas especiais ao Templo de Ehécatl e ao Juego de Pelota existiram só até 19/07/2026 (já encerradas).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 09:00–17:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Abertura (9:00) para evitar grupos.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 105,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "105 = nacionais/residentes (boletim INAH 267, 25/06/2026). 210 = teto INAH categoria I para estrangeiros, NÃO confirmado para este museu.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://inah.gob.mx/images/boletines/2026/267/Boletin_267.pdf"
+        },
+        {
+          "url": "https://www.unotv.com/estados/ciudad-de-mexico/anuncian-cierre-zona-arqueologica-templo-mayor-abriran-hasta-esta-fecha/"
+        },
+        {
+          "url": "https://cdmxsecreta.com/visitas-guiadas-zonas-restringidas-templo-mayor/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.inah.gob.mx"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Templo_Mayor_50.jpg/1280px-Templo_Mayor_50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "GAED",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Templo_Mayor_50.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha às segundas.",
+        "Domingo gratuito apenas para nacionais e estrangeiros residentes com documento: turista estrangeiro paga."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é o melhor contexto para entender a cidade antes de ver o Antropologia.",
+      "Combine com Catedral + Palacio Nacional na mesma manhã.",
+      "Para visitas guiadas o museu usa o e-mail edutemplomayor@inah.gob.mx (o programa especial de 2026 já acabou; pergunte se há versão regular)."
+    ],
+    "alertas": [
+      "Preço para turista estrangeiro não confirmado (faixa 105-210).",
+      "Zona arqueológica pode fechar para manutenção com pouco aviso (ex.: 5-7/05/2026)."
+    ]
+  },
+  {
+    "id": "mx-mex-palacio-de-bellas-artes",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/venues/palacio-de-bellas-artes/?lang=es"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Palacio_de_Bellas_Artes_(Ciudad_de_M%C3%A9xico)"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/destinos/cuanto-cuesta-visitar-los-museos-de-la-cdmx/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/157051087"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Palacio de Bellas Artes",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "centro-historico",
+      "art-nouveau",
+      "murais",
+      "teatro",
+      "alameda"
+    ],
+    "coords": {
+      "lat": 19.435471,
+      "lng": -99.1412828
+    },
+    "descricaoCurta": "Palácio art nouveau/déco com murais de Rivera, Orozco, Siqueiros e Tamayo; vale pela fachada, vitral Tiffany e murais.",
+    "descricaoLonga": "Sede do INBA, combina exterior art nouveau com interiores art déco; abriga o Ballet Folklórico de México e a Orquestra Sinfônica Nacional (site de turismo da CDMX). Murais: no 2º andar Tamayo; no 3º andar \"El hombre controlador del universo\" e \"Carnaval de la vida mexicana\" de Diego Rivera, Siqueiros (La nueva democracia) e Orozco (La catarsis), segundo a Wikipédia. Não consegui o site oficial: o único horário/preço que obtive vem de um artigo antigo do El Universal (terça a domingo, 10:00-18:00; ~M$60 para exposições temporárias) e deve ser conferido.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 10:00–18:00",
+    "diasFechados": [],
+    "melhorHorario": "Fim da tarde: luz boa para a fachada e a Alameda ao lado.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 60,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "Valor de artigo antigo para exposições temporárias; ingresso atual dos murais não confirmado.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://mexicocity.cdmx.gob.mx/venues/palacio-de-bellas-artes/?lang=es"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Palacio_de_Bellas_Artes_(Ciudad_de_M%C3%A9xico)"
+        },
+        {
+          "url": "https://www.eluniversal.com.mx/destinos/cuanto-cuesta-visitar-los-museos-de-la-cdmx/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "(55) 10 00 46 22"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/1280px-Bellas_Artes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Xavier Quetzalcoatl Contreras Castillo",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO se os murais do 3º andar estiverem abertos: é a melhor concentração de muralismo fora do Palacio Nacional.",
+      "Fachada e foyer podem ser vistos gastando pouco; combine com Torre Latino, a 1-2 quadras."
+    ],
+    "alertas": [
+      "Horário e preço NÃO confirmados em fonte atual (artigo antigo; pode ter mudado em 2026).",
+      "Segunda-feira: fechamento não confirmado (fonte antiga lista terça a domingo)."
+    ]
+  },
+  {
+    "id": "mx-mex-palacio-nacional-murais-de-diego-rivera",
+    "fontes": [
+      {
+        "url": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2360"
+      },
+      {
+        "url": "https://www.chilango.com/que-hacer/arte-y-cultura/palacio-nacional-cdmx-como-entrar-que-ver-y-todo-lo-que-debes-saber/"
+      },
+      {
+        "url": "https://www.mexicocity-trip.com/guides/diego-rivera-murals-guide/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1517884"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Palacio Nacional (murais de Diego Rivera)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "gratis",
+      "murais",
+      "precisa-documento",
+      "fecha-segunda"
+    ],
+    "coords": {
+      "lat": 19.4325,
+      "lng": -99.1313889
+    },
+    "descricaoCurta": "Sede do governo com o grande mural de Rivera sobre a história do México; entrada gratuita com documento.",
+    "descricaoLonga": "Fica no lado leste do Zócalo. A ficha oficial do Sistema de Información Cultural (Secretaría de Cultura) informa terça a domingo, 9:00-17:00, entrada gratuita, e que o visitante deve fazer o registro no Museo de Arte de la SHCP (Moneda 4, Centro). Um artigo do Chilango (abr/2025) descreve registro a partir das 10:00 e visitas guiadas a cada 30 min até 16:30, exigindo identificação oficial com foto (para turista, o passaporte). Outros guias dizem que não há reserva prévia; a divergência está nos alertas. É onde está o ciclo de murais de Diego Rivera sobre a história do México.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 09:00–17:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Chegar cedo e se registrar assim que abrir (registro a partir das 10:00 segundo o Chilango).",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "55 3688 1100 ramais 81666 / 81656; 55 5093 4900",
+      "site": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2360"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Wikimania_2015_15.07.2015_17-00-11.JPG/1280px-Wikimania_2015_15.07.2015_17-00-11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Dirk Ingo Franke",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Wikimania_2015_15.07.2015_17-00-11.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Levar passaporte/identificação oficial com foto.",
+        "Segunda fechado (ficha oficial).",
+        "Pode haver restrição de áreas e fechamento por eventos oficiais."
+      ]
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (grátis): o mural de Rivera é o principal motivo de ir ao Centro.",
+      "Leve o passaporte original.",
+      "Pergunte no registro se o horário muda em datas cívicas (ex.: setembro)."
+    ],
+    "alertas": [
+      "Fontes divergem: ficha oficial exige registro em Moneda 4; guias dizem sem reserva; Wikivoyage diz aberto todos os dias. Segui a ficha oficial.",
+      "Horários podem mudar por eventos de governo.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-torre-latinoamericana-mirador-torre-latino",
+    "fontes": [
+      {
+        "url": "https://www.adn40.mx/tiempo-libre/2025-06-17/que-actividades-hay-en-la-torre-latinoamericana/"
+      },
+      {
+        "url": "https://www.eluniversal.com.mx/destinos/torre-latino-cuanto-cuesta-la-entrada-y-que-actividades-hay/"
+      },
+      {
+        "url": "http://www.torrelatinoamericana.com.mx/"
+      },
+      {
+        "url": "https://miradortorrelatino.com/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Torre_Latinoamericana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Torre Latinoamericana (Mirador Torre Latino)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "mirante",
+    "tags": [
+      "centro-historico",
+      "mirante",
+      "por-do-sol",
+      "vista"
+    ],
+    "coords": {
+      "lat": 19.43388889,
+      "lng": -99.14055556
+    },
+    "descricaoCurta": "Mirante nos andares 37, 38 e 44 sobre o Centro; ingresso inclui o Museo de la Ciudad de México.",
+    "descricaoLonga": "Arranha-céu do Centro Histórico (Eje Central Lázaro Cárdenas 2). Segundo o ADN40 (jun/2025) o mirador abre todos os dias das 9:00 às 22:00, com observação nos andares 37, 38 e 44, o museu no 38 e o restaurante Miralto no 41; ingresso adulto M$220 (criança 12+ e INAPAM M$170). Um artigo do El Universal (2022/23) citava M$170 e horários diferentes; o dado mais recente foi usado. O site oficial confirma o telefone, mas não preço/horário.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–22:00",
+    "diasFechados": [],
+    "melhorHorario": "Pôr do sol (subir ~1h antes) para ver dia e noite.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 220,
+      "max": 220,
+      "por": "pessoa",
+      "inclui": "Mirador + Museo de la Ciudad de México (andar 38).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.adn40.mx/tiempo-libre/2025-06-17/que-actividades-hay-en-la-torre-latinoamericana/"
+        },
+        {
+          "url": "https://www.eluniversal.com.mx/destinos/torre-latino-cuanto-cuesta-la-entrada-y-que-actividades-hay/"
+        },
+        {
+          "url": "http://www.torrelatinoamericana.com.mx/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "55 5518 7423",
+      "whatsapp": "+52 55 5468 2578",
+      "site": "https://miradortorrelatino.com/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Mexico_df_-_Torre_Latinoamerica.jpg/1280px-Mexico_df_-_Torre_Latinoamerica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Thomas Ledl",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mexico_df_-_Torre_Latinoamerica.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: pelo preço (M$220) é um dos primeiros cortes; a vista gratuita alternativa vem de terraços de bares.",
+      "Se for, vá ao pôr do sol e combine com Bellas Artes e Alameda."
+    ],
+    "alertas": [
+      "Preço/horário de uma única fonte recente (ADN40 2025); pode ter subido em 2026.",
+      "Fechamento por clima ruim: não verificado."
+    ]
+  },
+  {
+    "id": "mx-mex-museo-nacional-de-antropologia",
+    "fontes": [
+      {
+        "url": "https://www.nmas.com.mx/cultura/aumentan-costo-de-entrada-al-museo-nacional-de-antropologia-este-sera-el-precio-para-2026/"
+      },
+      {
+        "url": "https://www.chilango.com/noticias/costo-boleto-museo-de-antropologia-2026/"
+      },
+      {
+        "url": "https://www.excelsior.com.mx/cultura/inah-actualiza-tarifas-2026-quedan-precios-museos-zonas-arqueologicas"
+      },
+      {
+        "url": "https://www.razon.com.mx/cultura/2025/12/30/cuales-son-las-nuevas-tarifas-en-el-museo-nacional-de-antropologia-y-la-zona-arqueologica-de-teotihuacan-a-partir-del-2026/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Chapultepec"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q524249"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Museo Nacional de Antropología",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "chapultepec",
+      "inah",
+      "fecha-segunda",
+      "imperdivel",
+      "arqueologia"
+    ],
+    "coords": {
+      "lat": 19.426111,
+      "lng": -99.186111
+    },
+    "descricaoCurta": "O maior museu do México: salas das culturas pré-hispânicas, Pedra do Sol e peças de Teotihuacán e do Templo Mayor.",
+    "descricaoLonga": "Museu em Chapultepec (Paseo de la Reforma e Calzada Gandhi) com um acervo que dá o contexto de tudo que você vai ver depois (Teotihuacán inclusive). Horário 2026: terça a domingo, 9:00-18:00 (Nmás e Chilango); o Wikivoyage ainda cita 19:00, divergência registrada. Tabela INAH 2026 (categoria I): estrangeiro não residente M$210; nacionais e estrangeiros residentes M$105. O domingo gratuito vale só para mexicanos e estrangeiros residentes com documento migratório: turista brasileiro paga normalmente. Gratuito também para maiores de 60 (INAPAM), menores de 13, pessoas com deficiência e estudantes/professores com credencial.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 09:00–18:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Abertura (9:00) em dia útil; domingo é o dia mais lotado (frequentado de graça por mexicanos).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "Preço de estrangeiro não residente (2026). Residentes/mexicanos pagam M$105.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.nmas.com.mx/cultura/aumentan-costo-de-entrada-al-museo-nacional-de-antropologia-este-sera-el-precio-para-2026/"
+        },
+        {
+          "url": "https://www.chilango.com/noticias/costo-boleto-museo-de-antropologia-2026/"
+        },
+        {
+          "url": "https://www.excelsior.com.mx/cultura/inah-actualiza-tarifas-2026-quedan-precios-museos-zonas-arqueologicas"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://mna.inah.gob.mx/"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Musee_National_Anthropologie-Entree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "kornemuz",
+        "licenca": "CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Musee_National_Anthropologie-Entree.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha às segundas.",
+        "Bolsas/mochilas devem ficar no guarda-volumes (Wikivoyage)."
+      ]
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é o museu mais importante da viagem; faça ANTES de Teotihuacán para dar sentido às pirâmides.",
+      "Evite domingo (lotação).",
+      "Combine com Castillo de Chapultepec no mesmo dia (ficam no mesmo bosque) ou reserve meio dia só para ele."
+    ],
+    "alertas": [
+      "Site oficial do INAH bloqueia leitura automática (proteção anti-bot): horário/preço vêm de 2 veículos + tabela INAH publicada na imprensa.",
+      "Divergência de horário de fechamento: 18:00 (Nmás, Chilango) x 19:00 (Wikivoyage)."
+    ]
+  },
+  {
+    "id": "mx-mex-museo-frida-kahlo-casa-azul",
+    "fontes": [
+      {
+        "url": "https://www.museofridakahlo.org.mx/"
+      },
+      {
+        "url": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+      },
+      {
+        "url": "https://www.chilango.com/noticias/museo-frida-kahlo-precio-de-boletos-ubicacion-y-lo-que-debes-saber-de-la-casa-azul/"
+      },
+      {
+        "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Museo Frida Kahlo (Casa Azul)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "coyoacan",
+      "frida",
+      "esgota",
+      "reserva-online",
+      "fecha-segunda"
+    ],
+    "coords": {
+      "lat": 19.355143,
+      "lng": -99.162525
+    },
+    "descricaoCurta": "A casa azul onde Frida viveu em Coyoacán. Entrada só com horário marcado, comprada online com semanas de antecedência.",
+    "descricaoLonga": "Londres 247, Del Carmen, Coyoacán. Pelo site oficial: fechado às segundas; terça 10:00-18:00; quarta 11:00-18:00; quinta a domingo 10:00-18:00. \"Noche Azul\": todas as quintas, 17:15-21:00; \"Noche de Museos\": última quarta do mês, 18:00-21:00. Fechado em 1/5, 11/6, 16/9, 8/12, 25/12 e 1/1/2027; horário reduzido (11:00-14:00) em 15/9, 24/12 e 31/12. Ingressos só pelo site/quiosque oficial. Preço no site de bilhetes: geral M$320 (estrangeiro), M$160 (residentes nacionais com ID), M$60 estudantes/professores/guias, M$30 idosos 60+ e crianças 6-12; menores de 6 grátis. O calendário oficial já mostra datas de out/nov/2026 com \"baixa disponibilidade\" em alguns horários. Um guia de reservas (Eternal Spring) recomenda reservar ~6 semanas antes e diz haver boa chance em 10-14 dias. O ingresso tem horário fixo: quem chega em outro horário pode ser barrado (Chilango).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 10:00–18:00 | 11:00–18:00 | 10:00–18:00 (Noche Azul 17:15-21:00)",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Primeiro horário do dia; ou Noche Azul de quinta (17:15-21:00), se houver vaga.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 320,
+      "max": 320,
+      "por": "pessoa",
+      "inclui": "Ingresso geral (estrangeiro). Mexicanos/residentes M$160. Opção de adicionar o Museo Anahuacalli por M$0 no mesmo bilhete (site oficial).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.museofridakahlo.org.mx/"
+        },
+        {
+          "url": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+        },
+        {
+          "url": "https://www.chilango.com/noticias/museo-frida-kahlo-precio-de-boletos-ubicacion-y-lo-que-debes-saber-de-la-casa-azul/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 42,
+      "link": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+    },
+    "contato": {
+      "site": "https://www.museofridakahlo.org.mx/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Museo_Frida_Kahlo.JPG/1280px-Museo_Frida_Kahlo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "No machine-readable author provided. Nachtwächter assumed (based on copyright claims).",
+        "licenca": "CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_Frida_Kahlo.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bilhete com horário marcado.",
+        "Fecha às segundas e em 1/5, 11/6, 16/9, 8/12, 25/12, 1/1."
+      ]
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO se for fã de Frida, mas só com ingresso comprado: compre assim que fechar as datas (idealmente 6 semanas antes).",
+      "Combine com Coyoacán (mercado, Plaza Hidalgo) e Anahuacalli (add-on grátis) no mesmo dia.",
+      "Preços citados em blogs (M$250-270, M$200-220) são antigos: o valor oficial hoje é M$320."
+    ],
+    "alertas": [
+      "Antecedência de 42 dias vem de um único guia (Eternal Spring); o site oficial não informa a janela de venda.",
+      "Em horários de baixa disponibilidade o dia pode esgotar: monitore o calendário.",
+      "as fontes divergem no horario de funcionamento: o banco usa a primeira citada; confira antes de ir"
+    ]
+  },
+  {
+    "id": "mx-mex-museo-anahuacalli-diego-rivera",
+    "fontes": [
+      {
+        "url": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q675877"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo Anahuacalli (Diego Rivera)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "coyoacan",
+      "rivera",
+      "arte",
+      "add-on-frida"
+    ],
+    "coords": {
+      "lat": 19.3227,
+      "lng": -99.14451
+    },
+    "descricaoCurta": "Museu-templo neoasteca de Diego Rivera com sua coleção pré-hispânica; pode ser somado de graça ao bilhete da Casa Azul.",
+    "descricaoLonga": "Construção neoasteca de Rivera em jardim amplo, usada como ateliê e museu da coleção pré-colombiana. O site oficial de bilhetes da Casa Azul lista \"Museo Anahuacalli\" como complemento a M$0 por bilhete. O Wikivoyage (dado possivelmente antigo) cita terça a domingo, 11:00-17:00 (última visita guiada às sextas 16:15) e ingresso M$90 adulto, com um bilhete válido para este museu e a Casa Azul.",
+    "duracao": {
+      "min": 60,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 11:00–17:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Depois da Casa Azul, no mesmo dia.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 0,
+      "max": 90,
+      "por": "pessoa",
+      "inclui": "M$0 como add-on no bilhete da Casa Azul (site oficial); M$90 de entrada avulsa (Wikivoyage, dado antigo).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q675877"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://boletos.museofridakahlo.org.mx/en/tickets/museo-frida-kahlo-cdmx"
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Anahuacalli3.JPG/1280px-Anahuacalli3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "AlejandroLinaresGarcia",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Anahuacalli3.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: se o add-on continuar grátis, é praticamente um brinde.",
+      "CORTE SE APERTAR: se o dia estiver cheio (Coyoacán + Casa Azul já ocupam o dia)."
+    ],
+    "alertas": [
+      "Horário/preço avulso do Wikivoyage; confirmar no site oficial do museu (não consegui abrir).",
+      "Não confirmei se o add-on a M$0 continua valendo na data da viagem."
+    ]
+  },
+  {
+    "id": "mx-mex-museo-soumaya-plaza-carso",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2097646"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/158035385"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo Soumaya (Plaza Carso)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "polanco",
+      "gratis",
+      "arte",
+      "rodin",
+      "abre-todos-os-dias"
+    ],
+    "coords": {
+      "lat": 19.440777,
+      "lng": -99.2045715
+    },
+    "descricaoCurta": "Museu de arte de entrada gratuita no Nuevo Polanco, com acervo europeu (Rodin) e arte mexicana.",
+    "descricaoLonga": "Edifício de Fernando Romero em Plaza Carso, com forte coleção de Rodin e arte europeia/mexicana. Wikivoyage Polanco: entrada gratuita, aberto todos os dias das 10:30 às 18:30. Fica a poucos passos do Museo Jumex (também gratuito), o que permite emendar os dois. Não consegui abrir o site oficial (erro de certificado).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:30",
+          "fecha": "18:30"
+        }
+      ]
+    },
+    "horariosObservacao": "10:30–18:30",
+    "diasFechados": [],
+    "melhorHorario": "Dia útil de manhã.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG/1280px-Museo_Soumaya%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Diego Delso",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Museo_Soumaya,_Ciudad_de_M%C3%A9xico,_M%C3%A9xico,_2015-07-18,_DD_12.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO (grátis): combine com Jumex e depois siga para Polanco."
+    ],
+    "alertas": [
+      "Horário/gratuidade confirmados só no Wikivoyage; site oficial indisponível na coleta.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-museo-jumex",
+    "fontes": [
+      {
+        "url": "https://www.fundacionjumex.org/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/251841831"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Museo Jumex",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "polanco",
+      "gratis",
+      "arte-contemporanea",
+      "fecha-segunda"
+    ],
+    "coords": {
+      "lat": 19.4405021,
+      "lng": -99.2037076
+    },
+    "descricaoCurta": "Museu de arte contemporânea de entrada livre; tours guiados gratuitos de terça a sexta.",
+    "descricaoLonga": "Site oficial: terça a sexta 10:00-17:00, sábado 10:00-19:00, domingo 10:00-17:00, segunda fechado. \"Entrada libre\". Visitas guiadas gratuitas de terça a sexta às 12:00 e 16:00. Endereço oficial: Miguel de Cervantes Saavedra 303, Colonia Granada. Telefones: +52 55 5395 2615 e 5395 2618.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 10:00–17:00 | 10:00–19:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Terça a sexta, para pegar o tour guiado gratuito (12:00 ou 16:00).",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5395 2615",
+      "site": "https://www.fundacionjumex.org/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/DJI_0040-HDR_cropped.jpg/1280px-DJI_0040-HDR_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Fundación Jumex",
+        "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:DJI_0040-HDR_cropped.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO (grátis): rápido e bom para emendar com o Soumaya.",
+      "CORTE SE APERTAR: se não gosta de arte contemporânea."
+    ],
+    "alertas": [
+      "Exposições mudam; confira a programação no site antes.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-castillo-de-chapultepec-museo-nacional-de-historia",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Chapultepec"
+      },
+      {
+        "url": "https://www.excelsior.com.mx/cultura/inah-actualiza-tarifas-2026-quedan-precios-museos-zonas-arqueologicas"
+      },
+      {
+        "url": "https://mnh.inah.gob.mx/"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1072510"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/6974912062"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Castillo de Chapultepec (Museo Nacional de Historia)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "museu",
+    "tags": [
+      "chapultepec",
+      "inah",
+      "fecha-segunda",
+      "vista",
+      "historia"
+    ],
+    "coords": {
+      "lat": 19.4211555,
+      "lng": -99.1808182
+    },
+    "descricaoCurta": "Castelo no alto do Bosque de Chapultepec que abriga o Museu Nacional de História, com vista da Reforma.",
+    "descricaoLonga": "Horário terça a domingo, 9:00-17:00 (Wikivoyage Chapultepec; El Universal em material antigo cita o mesmo horário). Ingresso 2026: estrangeiro M$210, mexicanos e residentes M$105 (Wikivoyage e Excelsior, que inclui o Museo Nacional de Historia na categoria I da tabela INAH). Domingo é gratuito para mexicanos e residentes com documento. Sobe-se pelo bosque a pé (rampa) ou em trenzinho (não verifiquei se está em operação).",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "Fechado | 09:00–17:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Abertura de dia útil, juntando com o Museo de Antropología à tarde (ou vice-versa).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "Estrangeiro não residente (2026). Mexicanos/residentes M$105.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Chapultepec"
+        },
+        {
+          "url": "https://www.excelsior.com.mx/cultura/inah-actualiza-tarifas-2026-quedan-precios-museos-zonas-arqueologicas"
+        },
+        {
+          "url": "https://mnh.inah.gob.mx/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://mnh.inah.gob.mx/"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chapultepec_Castle_Mexico_City.webp/1280px-Chapultepec_Castle_Mexico_City.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Sisgeo",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chapultepec_Castle_Mexico_City.webp"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha às segundas."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se tiver tempo: vista + interiores porfirianos + história do país.",
+      "CORTE SE APERTAR: se já vai ao Antropologia no mesmo dia, o castelo é o item mais fácil de cortar."
+    ],
+    "alertas": [
+      "Site oficial (mnh.inah.gob.mx) abriu sem conteúdo de horário/preço; dados de 2 fontes secundárias."
+    ]
+  },
+  {
+    "id": "mx-mex-bosque-de-chapultepec-lago-zoologico-gratuito-caminh",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Chapultepec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chapultepec"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Bosque de Chapultepec (lago, zoológico gratuito, caminhadas)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "natureza",
+    "tags": [
+      "chapultepec",
+      "natureza",
+      "gratis",
+      "parque",
+      "familia"
+    ],
+    "coords": {
+      "lat": 19.41305556,
+      "lng": -99.19777778
+    },
+    "descricaoCurta": "O grande pulmão verde da cidade: lago com pedalinhos, zoológico gratuito e a trilha entre museus.",
+    "descricaoLonga": "O Wikivoyage recomenda explorar a pé a 1ª Seção e de bicicleta as seções maiores. Lago com canoas/pedalinhos; Zoológico de Chapultepec aberto terça a domingo, 9:00-16:30 e gratuito (exceto a casa das borboletas/répteis). Museus do bosque lotam aos domingos. É a opção de \"natureza\" mais fácil da cidade — mas atenção: a Cidade do México não tem praia; nenhuma opção de mar foi pesquisada nesta onda.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã de dia útil; evitar domingo.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/1280px-Puerta_de_los_leones_en_Chapultepec_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "EneasMx",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Puerta_de_los_leones_en_Chapultepec_2.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO (grátis): ótima pausa entre Antropologia e Castelo.",
+      "CORTE SE APERTAR: pedalinho (preço não coletado)."
+    ],
+    "alertas": [
+      "Horário do parque em si não coletado; só o zoológico (Wikivoyage).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-roma-norte-condesa-base-para-ficar-comer-e-sair-a-no",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q584381"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Roma Norte + Condesa (base para ficar, comer e sair à noite)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "roma",
+      "condesa",
+      "bairro",
+      "vida-noturna",
+      "gastronomia",
+      "base-recomendada"
+    ],
+    "coords": {
+      "lat": 19.41641111,
+      "lng": -99.16169722
+    },
+    "descricaoCurta": "Bairros arborizados com a maior concentração de bares, mezcalerías, cafés e restaurantes; melhor base de noite para o casal.",
+    "descricaoLonga": "O Wikivoyage lista em Roma/Condesa: mezcalerías (La Clandestina, Tlecan, Mano Santa), coquetelaria (Limantour), clubes de salsa/jazz (Club San Luis cover ~M$250, Jazzatlan cover ~M$400, Casa Franca), mercados (Medellín, Roma) e tacos 24h perto de Insurgentes com Álvaro Obregón. Hospedagem citada: dormitório de hostel ~M$400, Casa Decu ~M$2.000, Red Tree House ~M$3.000, Hippodrome ~M$4.000 (valores de uma fonte colaborativa, sem data confiável). Segurança: o mesmo guia avisa que algumas ruas da Roma são mal iluminadas e que convém evitar ruas pequenas à noite.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Tarde para caminhar e jantar; noite para bares (a maioria abre 18:00 e fecha 01:00-02:00).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG/1280px-Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Jake Galán",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Plaza_R%C3%ADo_de_Janeiro_Colonia_Roma.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é a melhor base para quem prioriza vida noturna e gastronomia; combina bem com Centro a ~15-25 min de metrô/Uber.",
+      "Nas ruas menores da Roma à noite, volte de Uber/DiDi em vez de caminhar."
+    ],
+    "alertas": [
+      "Preços de hospedagem do Wikivoyage são antigos/indicativos; confirme em plataformas de reserva.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-coyoacan-plaza-hidalgo-jardin-centenario-e-viveros",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coyoac%C3%A1n"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2751011"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Coyoacán (Plaza Hidalgo, Jardín Centenario e Viveros)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "coyoacan",
+      "bairro",
+      "caminhada",
+      "natureza",
+      "frida"
+    ],
+    "coords": {
+      "lat": 19.34974,
+      "lng": -99.16241
+    },
+    "descricaoCurta": "Bairro colonial caminhável com praças, cafés, feira de artesanato, Casa Azul e o parque Viveros (grátis).",
+    "descricaoLonga": "O Wikivoyage descreve o centro de Coyoacán em torno de Plaza Hidalgo e Jardín Centenario (cafés, restaurantes, artesanato) e diz que o bairro é seguro e muito caminhável; atenção: a estação de metrô \"Coyoacán\" fica a cerca de 20 min a pé da praça. Viveros de Coyoacán é um parque de 39 ha com entrada gratuita. Faixas de hospedagem citadas: hostel M$750-800 e hotéis intermediários M$2.000-2.500 (fonte colaborativa).",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã com Casa Azul e mercado; fim de tarde nas praças.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Puerta_a_Coyoac%C3%A1n.JPG/1280px-Puerta_a_Coyoac%C3%A1n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "DavidGomezChiu",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Puerta_a_Coyoac%C3%A1n.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é o melhor \"dia tranquilo\" da cidade e dá para juntar Frida + Anahuacalli + mercado.",
+      "Em Coyoacán o ritmo é lento: não combine com Teotihuacán no mesmo dia."
+    ],
+    "alertas": [
+      "Estação \"Coyoacán\" do metrô é longe da praça.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-mercado-de-coyoacan",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/96972452"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de Coyoacán",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "coyoacan",
+      "mercado",
+      "comida-barata",
+      "artesanato"
+    ],
+    "coords": {
+      "lat": 19.3527959,
+      "lng": -99.1614962
+    },
+    "descricaoCurta": "Mercado tradicional com barracas de comida para almoço barato, a poucos quarteirões da Plaza Hidalgo.",
+    "descricaoLonga": "Segundo o Wikivoyage: diariamente 07:00-17:00, mercado tradicional com produtos frescos e várias barracas de comida, bom para almoçar; Frida fazia compras ali. Faixa de preço de comida de rua/taquerias citada para Coyoacán: M$5-50 por item.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00–17:00",
+    "diasFechados": [],
+    "melhorHorario": "Almoço (12:00-14:00).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 5,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "Faixa por item de comida de rua/taquería em Coyoacán (fonte colaborativa).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+        },
+        {
+          "url": "https://www.openstreetmap.org/way/96972452"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: almoço barato e autêntico no mesmo roteiro da Casa Azul."
+    ],
+    "alertas": [
+      "Horário de uma única fonte colaborativa."
+    ]
+  },
+  {
+    "id": "mx-mex-san-angel-e-bazar-sabado",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/San_Angel"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2067789"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/28920450"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "San Ángel e Bazar Sábado",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "san-angel",
+      "sabado",
+      "artesanato",
+      "bairro"
+    ],
+    "coords": {
+      "lat": 19.3444834,
+      "lng": -99.1922799
+    },
+    "descricaoCurta": "Bairro colonial com o Bazar Sábado (artesanato regional) na Plaza San Jacinto, só aos sábados.",
+    "descricaoLonga": "O Wikivoyage descreve o Bazar Sábado (sábados, 10:00-19:00, Plaza de San Jacinto) como um dos melhores mercados de artesanato da cidade, de faixas de preço variadas. No mesmo bairro: Casa Estudio Diego Rivera y Frida Kahlo (terça a domingo 10:00-18:00, M$13 segundo fonte antiga) e Museo Carrillo Gil.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00–19:00",
+    "diasFechados": [],
+    "melhorHorario": "Sábado até as 14:00 (antes de lotar).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/ElCarmenSanAngelDF.JPG/1280px-ElCarmenSanAngelDF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Thelmadatter",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:ElCarmenSanAngelDF.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se a viagem tiver um sábado livre: melhor artesanato \"bem escolhido\" da cidade, junto com La Ciudadela.",
+      "CORTE SE APERTAR: se já vai à Ciudadela, um dos dois basta."
+    ],
+    "alertas": [
+      "Horário e preços de museus vêm do Wikivoyage (antigos).",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-la-clandestina-mezcaleria-condesa",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4465914795"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Clandestina (mezcalería, Condesa)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "mezcal",
+      "condesa",
+      "vida-noturna",
+      "casal"
+    ],
+    "coords": {
+      "lat": 19.416269,
+      "lng": -99.169187
+    },
+    "descricaoCurta": "Mezcalería com ampla seleção de mezcais artesanais e rótulo próprio para levar.",
+    "descricaoLonga": "Segundo o Wikivoyage: Álvaro Obregón 298; segunda e terça 18:30-01:00, quarta a sábado 18:30-02:00 (domingo não listado). Seleção ampla de mezcais artesanais. Outros bares de mezcal citados na Roma: Tlecan (diário 18:00-02:00) e Mano Santa Mezcal (consumo ~M$200).",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "horariosObservacao": "18:30–01:00 | 18:30–02:00",
+    "diasFechados": [],
+    "melhorHorario": "20:00-23:00.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: prova de mezcal de qualidade sem o preço de bar turístico (preço exato não coletado).",
+      "No 1º dia de altitude, evite álcool (ver cartão Altitude)."
+    ],
+    "alertas": [
+      "Horário de uma fonte colaborativa; confirme no Instagram do local antes de ir.",
+      "Preços de bebidas não coletados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-licoreria-limantour-coquetelaria-roma",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/10685664005"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Licorería Limantour (coquetelaria, Roma)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "coqueteis",
+      "roma",
+      "vida-noturna",
+      "tequila-mezcal"
+    ],
+    "coords": {
+      "lat": 19.4181305,
+      "lng": -99.1594087
+    },
+    "descricaoCurta": "Bar de coquetéis com grande seleção de tequilas e mezcais; consumo por volta de M$500.",
+    "descricaoLonga": "Wikivoyage: Av. Álvaro Obregón 106; domingo a quinta 18:00-00:00, sexta e sábado 15:00-02:00; coquetéis elogiados e faixa de preço M$500 (por pessoa, estimativa da fonte).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 180
+    },
+    "horariosObservacao": "18:00–00:00 | 15:00–02:00",
+    "diasFechados": [],
+    "melhorHorario": "Sexta/sábado a partir das 18:00.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 500,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "Estimativa de consumo por pessoa (Wikivoyage).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/10685664005"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: é caro para o perfil econômico (~M$500 por pessoa); troque por mezcalerias menores ou cantinas."
+    ],
+    "alertas": [
+      "Preço e horário de fonte colaborativa."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-pulqueria-las-duelistas-centro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5172364521"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Pulquería Las Duelistas (Centro)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "pulque",
+      "centro",
+      "tradicional",
+      "barato"
+    ],
+    "coords": {
+      "lat": 19.4301241,
+      "lng": -99.1427519
+    },
+    "descricaoCurta": "Pulquería tradicional e colorida do Centro, uma das mais populares da cidade; experimente o pulque curado de apio.",
+    "descricaoLonga": "Wikivoyage: Aranda 28; segunda a sábado 10:00-21:00, fecha domingo. Serve pulque branco e \"curados\" (sabores); recomendam o de aipo (apio) e, para sentir o gosto puro, o natural. Outra pulquería citada: La Joya (Santa María la Ribera, quinta a segunda 12:00-23:00, ~M$200).",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": "fechado"
+    },
+    "horariosObservacao": "10:00–21:00 | Fechado",
+    "diasFechados": [
+      "dom"
+    ],
+    "melhorHorario": "Tarde, antes das 21:00 (a rua fica vazia à noite).",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: experiência local barata; peça pequeno para provar.",
+      "Pulque é fermentado e forte para quem não está acostumado; combine com comida e evite no 1º dia de altitude."
+    ],
+    "alertas": [
+      "Horário/info de uma fonte colaborativa; preço do pulque não coletado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-cantinas-historicas-do-centro-la-opera-salon-corona",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2418219439"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cantinas históricas do Centro (La Ópera, Salón Corona, Tío Pepe)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "cantina",
+      "centro",
+      "tradicional",
+      "barato"
+    ],
+    "coords": {
+      "lat": 19.4347251,
+      "lng": -99.1393309
+    },
+    "descricaoCurta": "Cantinas centenárias para cerveja/tequila com comida; ambiente tradicional e preços acessíveis.",
+    "descricaoLonga": "Segundo o Wikivoyage: La Ópera (5 de Mayo 10, 13:00-23:00, bar da época do Porfiriato, 1870); Salón Corona (Bolívar 24, domingo a quinta 10:00-23:00, sexta e sábado 10:00-02:00, desde 1928); Cantina Tío Pepe (Independencia 26, seg-sex 12:00-22:00, sáb 12:00-23:00). Salón España tem \"botanas\" grátis. Também citado: Sunday Sunday (Tabaqueros 16), festa de domingo 15:00-02:00.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim de tarde, antes da noite esvaziar o Centro.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: cerveja + comida em prédio histórico, perfeito para fechar o dia no Centro.",
+      "Volte de Uber após as 21:00."
+    ],
+    "alertas": [
+      "Coordenada é a de La Ópera (OSM); as outras cantinas ficam a poucas quadras.",
+      "Horários de fonte colaborativa.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-plaza-garibaldi-e-salon-tenampa-mariachis",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Plaza_Garibaldi"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1471225"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Plaza Garibaldi e Salón Tenampa (mariachis)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "mariachi",
+      "noite",
+      "centro-norte",
+      "cuidado"
+    ],
+    "coords": {
+      "lat": 19.44056,
+      "lng": -99.13889
+    },
+    "descricaoCurta": "Praça dos mariachis e do Salón Tenampa; clássico, mas a região exige cuidado à noite.",
+    "descricaoLonga": "Plaza Garibaldi (Eje Central, perto de Bellas Artes) concentra mariachis dia e noite; o Salón Tenampa (fundado em 1923) funciona, segundo a Wikipédia, até as 3:00 (4:00 em fins de semana/feriados) e o Wikivoyage lista domingo a quinta 13:00-01:00 e sexta/sábado 13:00-02:00 (divergência). O Wikivoyage da cidade afirma que as áreas menos seguras onde turistas costumam ir ficam ao norte do Centro, como Garibaldi, e recomenda vigilância extra à noite. A Wikipédia cita risco histórico de bares que apresentam conta inflada.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 180
+    },
+    "horariosObservacao": "13:00–02:00",
+    "diasFechados": [],
+    "melhorHorario": "Sexta/sábado a partir de 23:00 segundo Wikipédia, mas recomendo ir mais cedo e voltar de Uber.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/PLAZA_EN_GARIBALDI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "JEDIKNIGHT1970",
+        "licenca": "CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:PLAZA_EN_GARIBALDI.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR (ou vá cedo e com cuidado): atrai pega-turista e é a área mais citada como menos segura.",
+      "Combine o preço da música ANTES de aceitar mariachi e confira a conta."
+    ],
+    "alertas": [
+      "Wikipédia relata, em dado de 2013, riscos e golpe de conta inflada; sem fonte mais recente.",
+      "Horários divergem entre Wikipédia e Wikivoyage.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-zona-rosa-vida-noturna-lgbt-e-calle-genova",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Zona_Rosa"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q181649"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Zona Rosa (vida noturna LGBT+ e Calle Génova)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "zona-rosa",
+      "noite",
+      "lgbt",
+      "balada"
+    ],
+    "coords": {
+      "lat": 19.425778,
+      "lng": -99.164139
+    },
+    "descricaoCurta": "Região turística de bares, boates e restaurantes; centro da vida noturna LGBT+ (Calle Amberes).",
+    "descricaoLonga": "Wikivoyage: uma das áreas mais turísticas da cidade, com hotéis, danceterias, restaurantes e música ao vivo; Calle Génova é a rua pedonal de lojas e restaurantes; a Calle Amberes concentra bares e clubes gays. Aos domingos, Jardín del Arte tem mais de 100 artistas expondo. Hospedagem: opção econômica a partir de ~M$1.100 (Royal Reforma), hostel HI Zona Rosa, a pé do metrô Insurgentes.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite (20:00 em diante) de quinta a sábado.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Copenhague_Zona_Rosa_May2015.JPG/1280px-Copenhague_Zona_Rosa_May2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Francisco Peláez",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Copenhague_Zona_Rosa_May2015.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO para uma noite de balada, mas é turístico: preços de bar tendem a ser mais altos que em Roma (não medi).",
+      "Volte sempre de Uber/DiDi."
+    ],
+    "alertas": [
+      "Sem horários/preços de bares específicos coletados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-arena-mexico-lucha-libre-cmll",
+    "fontes": [
+      {
+        "url": "https://www.cmll.com/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arena_M%C3%A9xico"
+      },
+      {
+        "url": "https://www.afar.com/places/arena-mexico-mexico-city"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q641374"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Arena México: Lucha Libre (CMLL)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "lucha-libre",
+      "noite",
+      "esporte",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 19.424722,
+      "lng": -99.151944
+    },
+    "descricaoCurta": "A catedral da lucha libre: shows semanais do CMLL (Arena México sextas e domingos; Arena Coliseo quintas e sábados em outubro/2026).",
+    "descricaoLonga": "Site do CMLL (consultado em 08/10/2026) lista: quinta 19:00 Arena Coliseo; sexta 20:00 Arena México; sábado 19:30 Arena Coliseo; domingo 17:00 Arena México. A Wikipédia cita também \"Martes Arena México\". Bilheteria e Ticketmaster México; telefone da bilheteria 55 5588 0508. Endereço: Dr. Lavista 189, Col. Doctores (capacidade 16.500). O \"Super Viernes\" é o show principal. Preços: uma review antiga no Afar fala em M$50-125; não confirmei a tabela de 2026 (outros resumos de busca apontavam até ~M$500 nos melhores lugares, página não aberta).",
+    "duracao": {
+      "min": 120,
+      "tipica": 150,
+      "max": 180
+    },
+    "horariosObservacao": "19:00 (Arena Coliseo) | 20:00 (Arena México) | 19:30 (Arena Coliseo) | 17:00 (Arena México)",
+    "diasFechados": [],
+    "melhorHorario": "Sexta 20:00 (Super Viernes).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 125,
+      "por": "pessoa",
+      "inclui": "Faixa de review antiga (Afar). Valor 2026 NÃO confirmado; esperar mais.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.cmll.com/"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arena_M%C3%A9xico"
+        },
+        {
+          "url": "https://www.afar.com/places/arena-mexico-mexico-city"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://www.ticketmaster.com.mx"
+    },
+    "contato": {
+      "telefone": "55 5588 0508",
+      "site": "https://www.cmll.com/",
+      "instagram": "@cmll_oficial"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ArenaMexicoDF.JPG/1280px-ArenaMexicoDF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Thelmadatter",
+        "licenca": "Public domain",
+        "fonte": "https://commons.wikimedia.org/wiki/File:ArenaMexicoDF.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é o programa noturno mais \"só na CDMX\" e custa pouco.",
+      "Compre na bilheteria oficial ou Ticketmaster: nunca de cambistas.",
+      "Região de Doctores: não circule a pé pela vizinhança à noite."
+    ],
+    "alertas": [
+      "Preço atual não confirmado (faixa de review antiga).",
+      "Calendário muda por semana; confirme em cmll.com.",
+      "Segurança da região de Doctores não verificada em fonte oficial; use Uber na ida e na volta."
+    ]
+  },
+  {
+    "id": "mx-mex-mercado-roma-gourmet-terracos",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/venues/mercado-roma/?lang=es"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q17462409"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Mercado Roma (gourmet + terraços)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "roma",
+      "mercado",
+      "gourmet",
+      "bar",
+      "terraco"
+    ],
+    "coords": {
+      "lat": 19.4140913,
+      "lng": -99.1645707
+    },
+    "descricaoCurta": "Mercado gastronômico moderno (2014) com lojas no térreo e restaurantes/bares com terraço no andar de cima.",
+    "descricaoLonga": "Site oficial de turismo da CDMX: Calle Querétaro 225, Roma Norte; térreo diariamente 09:00-21:30; restaurantes/bares do 1º andar 13:00-02:00 (podem variar e se estender em fins de semana). Projeto do escritório Rojkind Arquitectos, com bares de mixologia e terraços que enchem à noite.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "21:30"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–21:30 (loja) / 13:00–02:00 (restaurantes e bares)",
+    "diasFechados": [],
+    "melhorHorario": "Fim de tarde para comer e ficar para o terraço.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mercado_Roma_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "credito": "keizers",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Mercado_Roma_at_night.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO se quiser um \"rooftop/terraço\" sem pagar mirador, mas é gourmet: preço acima de mercado tradicional.",
+      "CORTE SE APERTAR: prefira Mercado Medellín ou barracas de rua para comer barato."
+    ],
+    "alertas": [
+      "Preços não coletados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-mercado-medellin-roma-sur",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q18343880"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado Medellín (Roma Sur)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "roma",
+      "mercado",
+      "comida-barata",
+      "local"
+    ],
+    "coords": {
+      "lat": 19.410349,
+      "lng": -99.163432
+    },
+    "descricaoCurta": "Mercado de bairro com frutas, legumes e comida de rua regional; opção barata perto da Roma.",
+    "descricaoLonga": "Wikivoyage: Campeche 101, Roma; diário 08:00-18:00; mercado de frutas e legumes com produtos incomuns e comida de rua regional.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–18:00",
+    "diasFechados": [],
+    "melhorHorario": "Almoço.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: almoço barato e local."
+    ],
+    "alertas": [
+      "Horário de fonte colaborativa.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-mercado-de-san-juan-comidas-exoticas",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mercado_de_San_Juan_(Ciudad_de_M%C3%A9xico)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1422386687"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de San Juan (comidas exóticas)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "centro",
+      "mercado",
+      "gastronomia",
+      "exotico"
+    ],
+    "coords": {
+      "lat": 19.4299723,
+      "lng": -99.1446054
+    },
+    "descricaoCurta": "Mercado de ingredientes especiais: carnes exóticas, insetos (chapulines, escamoles) e produtos internacionais.",
+    "descricaoLonga": "Wikipédia: o conjunto inclui San Juan Pugibet (Ernesto Pugibet 21), com carnes exóticas, insetos e produtos internacionais. Wikivoyage lista também San Juan Arcos de Belén (Av. Arcos de Belén s/n) com barracas de comida e a \"Torta Cubana\". Horário não confirmado.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã/almoço.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO por 30-45 min curiosos; combine com La Ciudadela, a 5 min a pé."
+    ],
+    "alertas": [
+      "Horários não coletados.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-tianguis-dominical-de-la-lagunilla-antiguidades",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/venues/mercado-la-lagunilla/?lang=es"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4780055284"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tianguis dominical de La Lagunilla (antiguidades)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "domingo",
+      "antiguidades",
+      "centro-norte",
+      "pega-turista"
+    ],
+    "coords": {
+      "lat": 19.4462061,
+      "lng": -99.1358608
+    },
+    "descricaoCurta": "Mercado de pulgas e antiguidades de domingo, entre os mais tradicionais da cidade.",
+    "descricaoLonga": "Site oficial de turismo da CDMX: Mercado Dominical de Antigüedades de la Lagunilla, Rayón 54, Col. Morelos; domingos 9:00-15:00. Um resumo de busca citava 10:00-17:00 (divergência). Perto está o San Camilito, aberto 24h. Fica ao norte do Centro, perto de Garibaldi: região que o Wikivoyage aponta como menos segura à noite; vá de dia.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "horarios": {
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "15:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00–15:00",
+    "diasFechados": [],
+    "melhorHorario": "Domingo 10:00-13:00.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "pega-turista",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO para quem gosta de antiguidades e fotos; leve dinheiro em espécie e cuide do celular (carteiristas citados em guias).",
+      "CORTE SE APERTAR: se já vai à Ciudadela e ao Bazar Sábado."
+    ],
+    "alertas": [
+      "Horário divergente entre fontes (9-15 oficial; 10-17 em resumo de busca).",
+      "Só aos domingos.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-mercado-de-artesanias-la-ciudadela",
+    "fontes": [
+      {
+        "url": "https://www.mexicocity.cdmx.gob.mx/venues/la-ciudadela-artisan-market/?lang=es"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/217421414"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de Artesanías La Ciudadela",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "centro",
+      "artesanato",
+      "lembrancas",
+      "barato"
+    ],
+    "coords": {
+      "lat": 19.4307575,
+      "lng": -99.1491616
+    },
+    "descricaoCurta": "Mercado de artesanato nacional com ~350 lojas (têxteis, cerâmica, vidro, prata); bom para lembranças em um só lugar.",
+    "descricaoLonga": "Site oficial de turismo da CDMX: Balderas esq. Emilio Donde, Centro; aberto todos os dias até as 18:00; inaugurado nas Olimpíadas de 1968; cerca de 350 vendedores; telefone 55 5510 1828. Um resumo de busca citava seg-sáb 9-19 e domingo 10-18 (divergência; o site oficial só confirma fechamento às 18:00).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horariosObservacao": "até 18:00 (abertura não confirmada)",
+    "diasFechados": [],
+    "melhorHorario": "Manhã.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "55 5510 1828"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a melhor concentração de artesanato, com preços mais previsíveis que ruas turísticas.",
+      "Leve dinheiro em espécie e pechinche."
+    ],
+    "alertas": [
+      "Horário de abertura não confirmado em fonte oficial.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-mercado-de-sonora-feiticaria-ervas-animais",
+    "fontes": [
+      {
+        "url": "https://www.adn40.mx/ciudad/mercado-de-sonora-historia-mva-especial/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5548562"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de Sonora (feitiçaria, ervas, animais)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "esoterico",
+      "cuidado",
+      "centro-leste"
+    ],
+    "coords": {
+      "lat": 19.42220833,
+      "lng": -99.12468333
+    },
+    "descricaoCurta": "Mercado famoso pela seção de brujería, ervas e artigos esotéricos; também vende animais vivos.",
+    "descricaoLonga": "ADN40: Fray Servando Teresa de Mier 419, Merced Balbuena; cerca de 404 locais internos; vende matérias-primas, brinquedos, ervas, animais e artigos de pets, além de serviços espirituais (limpias, leitura de sorte); houve incêndio interno em 4/11/2021. O Wikivoyage diz que o Centro fica \"mais pesado\" (grittier) rumo a Merced e Sonora. Horário não encontrado.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 90
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, de dia.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/MercadoSonoraMexicoCity.JPG/1280px-MercadoSonoraMexicoCity.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "AlejandroLinaresGarcia",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:MercadoSonoraMexicoCity.JPG"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: é curiosidade, não imprescindível; vale só se sobrar tempo de dia.",
+      "Leve só o necessário, vá de Uber/táxi de aplicativo e não volte a pé."
+    ],
+    "alertas": [
+      "Aviso: região ao leste do Centro (Merced) é mais complicada; Wikivoyage recomenda atenção a pertences.",
+      "Venda de animais vivos pode incomodar.",
+      "Horário não encontrado.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
+    ]
+  },
+  {
+    "id": "mx-mex-tacos-el-califa-roma-e-tacos-24h-perto-de-insurgente",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5670550822"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Tacos: El Califa (Roma) e tacos 24h perto de Insurgentes",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "tacos",
+      "roma",
+      "madrugada",
+      "barato"
+    ],
+    "coords": {
+      "lat": 19.4174938,
+      "lng": -99.1625809
+    },
+    "descricaoCurta": "Rede de tacos de qualidade na Roma, aberta até de madrugada de quinta a sábado.",
+    "descricaoLonga": "Wikivoyage: El Califa, Av. Álvaro Obregón 174; domingo a quarta 13:00-23:00, quinta a sábado 13:00-05:00; tacos de alta qualidade, M$100-200 por pessoa. O guia também cita que na esquina de Insurgentes com Álvaro Obregón as barracas de tacos ficam acesas a noite toda. Coordenada de OSM refere-se a \"El Califa Taqueria\" na Roma Norte.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00–23:00 | 13:00–05:00",
+    "diasFechados": [],
+    "melhorHorario": "Pós-balada, de quinta a sábado.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 100,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Estimativa por pessoa (Wikivoyage).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/5670550822"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: tacos al pastor de qualidade no coração do circuito noturno.",
+      "Se faltar dinheiro, as barracas de rua da esquina Insurgentes x Obregón saem mais barato (preço não medido)."
+    ],
+    "alertas": [
+      "Faixa de preço de fonte colaborativa; não confirmei que esta é a mesma unidade de OSM."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-los-cocuyos-taqueria-classica-do-centro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/11337020469"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Los Cocuyos (taqueria clássica do Centro)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "tacos",
+      "centro",
+      "madrugada",
+      "barato",
+      "tradicional"
+    ],
+    "coords": {
+      "lat": 19.4301688,
+      "lng": -99.1387568
+    },
+    "descricaoCurta": "Taquería famosa do Centro, aberta quase 24h; estrelou programas de TV.",
+    "descricaoLonga": "Wikivoyage: Cocuyo's, Bolívar 59; diariamente 08:00-05:00; ~M$100; já apareceu no programa de Anthony Bourdain e em \"Taco Chronicles\"; hoje há salão para sentar. Na OSM aparece como \"Los Cocuyos\" em Bolívar.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "horariosObservacao": "08:00–05:00",
+    "diasFechados": [],
+    "melhorHorario": "Almoço ou madrugada.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 100,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "Estimativa por pessoa (Wikivoyage).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/11337020469"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO para um taco \"clássico\" no meio do passeio pelo Centro."
+    ],
+    "alertas": [
+      "Fonte colaborativa; confirmar horário."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-churreria-el-moro",
+    "fontes": [
+      {
+        "url": "https://www.timeoutmexico.mx/ciudad-de-mexico/restaurantes-cafes/churreria-el-moro"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5842139800"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q55074685"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Churrería El Moro",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "cafe",
+    "tags": [
+      "churros",
+      "centro",
+      "24h",
+      "barato",
+      "classico"
+    ],
+    "coords": {
+      "lat": 19.4313896,
+      "lng": -99.1411354
+    },
+    "descricaoCurta": "Churros com chocolate quente 24 horas desde 1935, no Eje Central.",
+    "descricaoLonga": "Time Out México: Eje Central Lázaro Cárdenas 42, esquina com República de Uruguay; aberto 24 horas; custo médio ~$100 por pessoa; recomendam o chocolate (o espanhol é grosso e doce). Pacote de churros com chocolate a ~M$77 citado em resumo de busca (página não aberta).",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 60
+    },
+    "horarios": {
+      "seg": "24h",
+      "ter": "24h",
+      "qua": "24h",
+      "qui": "24h",
+      "sex": "24h",
+      "sab": "24h",
+      "dom": "24h"
+    },
+    "horariosObservacao": "00:00–24:00 (aberto 24h)",
+    "diasFechados": [],
+    "melhorHorario": "Pós-noite ou café da manhã.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 77,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "Churros + chocolate; média por pessoa M$100 (Time Out).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.timeoutmexico.mx/ciudad-de-mexico/restaurantes-cafes/churreria-el-moro"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/5842139800"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q55074685"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "5512 0896"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/FacadeElMoro.jpg/1280px-FacadeElMoro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Thelmadatter",
+        "licenca": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:FacadeElMoro.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: lanche barato e icônico."
+    ],
+    "alertas": [
+      "Preço pode ter subido."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-quintonil-polanco",
+    "fontes": [
+      {
+        "url": "https://www.quintonil.com/"
+      },
+      {
+        "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5431225256"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Quintonil (Polanco)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "alta-gastronomia",
+      "polanco",
+      "reserva-antecipada",
+      "premiado"
+    ],
+    "coords": {
+      "lat": 19.4308184,
+      "lng": -99.1918345
+    },
+    "descricaoCurta": "Restaurante premiado em Polanco; menu degustação a M$6.090 e reserva com 2-3 meses de antecedência.",
+    "descricaoLonga": "Site oficial: Newton 55, Polanco; segunda a sábado 13:00-24:00; domingo fechado; menu M$6.090 (valor listado no site; assumo por pessoa, sem bebidas); reservas só pelo Tock (sem e-mail). Eternal Spring recomenda reservar 2-3 meses antes e usar a lista \"Notify\". Telefones oficiais: +52 555280 1660, 555280 0254, 555282 0724.",
+    "duracao": {
+      "min": 120,
+      "tipica": 150,
+      "max": 210
+    },
+    "horarios": {
+      "dom": "fechado"
+    },
+    "horariosObservacao": "13:00–24:00 | Fechado",
+    "diasFechados": [
+      "dom"
+    ],
+    "melhorHorario": "Almoço.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 6090,
+      "max": 6090,
+      "por": "pessoa",
+      "inclui": "Menu degustação; bebidas à parte (assumido).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.quintonil.com/"
+        },
+        {
+          "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/5431225256"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 75,
+      "link": "https://www.exploretock.com/quintonil"
+    },
+    "contato": {
+      "telefone": "+52 555280 1660",
+      "site": "https://www.quintonil.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: ~M$12.000 para duas pessoas só no menu; fora do perfil econômico.",
+      "Se quiser uma alta cozinha por menos, escolha o Pujol (Taco Omakase) ou restaurantes de médio porte da Roma — mas preços não verificados."
+    ],
+    "alertas": [
+      "Antecedência de ~75 dias é média do guia (2-3 meses); janela oficial não encontrada.",
+      "Pagamento antecipado/política de cancelamento não verificados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "mx-mex-pujol-polanco",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pujol_(restaurant)"
+      },
+      {
+        "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Pujol (Polanco)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "alta-gastronomia",
+      "polanco",
+      "reserva-antecipada",
+      "premiado"
+    ],
+    "coords": {
+      "lat": 19.432389,
+      "lng": -99.194833
+    },
+    "descricaoCurta": "Restaurante de Enrique Olvera com duas estrelas Michelin, famoso pelo \"mole madre\"; reserva ~3 meses antes.",
+    "descricaoLonga": "Wikipédia: Tennyson 133, Polanco; duas estrelas Michelin (2024); bebidas vendidas à parte. Eternal Spring: reservar com 3 meses de antecedência pelo SevenRooms; há alternativa por WhatsApp com intervalos de 2 semanas ~4 meses antes; horários de almoço/jantar tarde em dias úteis às vezes aparecem em até 1 semana. Preço: não consegui o site oficial; Wikivoyage cita ~M$3.000 (antigo) e um resumo de busca indicou M$3.795 no menu degustação 2026 (página não aberta) e ~M$2.900 no \"Taco Omakase\".",
+    "duracao": {
+      "min": 120,
+      "tipica": 150,
+      "max": 210
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 3000,
+      "max": 3795,
+      "por": "pessoa",
+      "inclui": "Menu degustação, sem bebidas. Faixa: M$3.000 (Wikivoyage antigo) a M$3.795 (resumo de busca, página não aberta).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pujol_(restaurant)"
+        },
+        {
+          "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Polanco"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 90,
+      "link": "https://www.pujol.com.mx/"
+    },
+    "contato": {
+      "site": "https://www.pujol.com.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: o preço é incompatível com o perfil econômico, mas é \"a experiência\" gastronômica se o casal quiser um jantar especial único.",
+      "Tenha o plano B de comer bem barato (Cocuyos, El Califa, mercados)."
+    ],
+    "alertas": [
+      "Preço NÃO confirmado em fonte oficial (faixa estimada).",
+      "Janela de reserva vem de um guia (3 meses)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "mx-mex-zona-arqueologica-de-teotihuacan",
+    "fontes": [
+      {
+        "url": "https://www.inah.gob.mx/images/boletines/2026/106/Boletin_106.pdf"
+      },
+      {
+        "url": "https://www.inah.gob.mx/boletines/la-zona-arqueologica-de-teotihuacan-reabrira-al-publico-este-miercoles-22-de-abril"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      },
+      {
+        "url": "https://cdmxsecreta.com/horarios-y-costos-teotihuacan-2026/"
+      },
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2026/04/21/59159-como-llegar-a-teotihuacan-desde-cdmx-rutas-en-2026"
+      },
+      {
+        "url": "https://www.mediotiempo.com/otros-mundos/inah-reabre-acceso-a-la-piramide-de-la-luna-en-teotihuacan"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Teotihuac%C3%A1n"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Zona Arqueológica de Teotihuacán",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "atracao",
+    "tags": [
+      "piramides",
+      "inah",
+      "patrimonio-unesco",
+      "dia-inteiro",
+      "imperdivel",
+      "teotihuacan"
+    ],
+    "coords": {
+      "lat": 19.6925,
+      "lng": -98.84388889
+    },
+    "descricaoCurta": "A Cidade dos Deuses: Avenida dos Mortos, Pirámide del Sol e de la Luna. Atenção: a subida na Pirámide del Sol está proibida.",
+    "descricaoLonga": "Boletim INAH nº 106 (13/03/2026): ingresso M$210; nacionais e estrangeiros residentes pagam M$105; domingo é gratuito só para nacionais e residentes com documento (turista paga); entrada pelas portas 1 a 5; ingressos só nas bilheterias do sítio ou no site oficial do INAH; museus (Cultura Teotihuacana e Murales) têm horário próprio. O mesmo boletim diz que \"queda prohibido el ascenso a la Pirámide del Sol\", proíbe drones e atividades sobre os basamentos. Em 22/04/2026 o INAH reabriu o sítio após um incidente de segurança com protocolo reforçado junto à Guarda Nacional, informando que o acesso à Pirámide de la Luna ficaria fechado \"hasta nuevo aviso\" (horário 8:00-17:00). O Wikivoyage (set/2026) diz que a Pirámide del Sol estava fechada e que a da Luna podia ser subida só até o primeiro nível (a subida à Luna havia sido reaberta em 19/05/2025 apenas no primeiro corpo, segundo Mediotiempo): o status real da Luna varia, confirme antes. Horário geral: 8:00-17:00, última entrada 16:30 (várias fontes); museus 9:00-16:30 (cdmxsecreta). Altitude ~2.300 m, quase nenhuma sombra, ~2 km de avenida: reserve 3-4 h.",
+    "duracao": {
+      "min": 150,
+      "tipica": 210,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–17:00 (última entrada 16:30)",
+    "diasFechados": [],
+    "melhorHorario": "Chegar às 8:00 (grupos de excursão chegam em massa por volta de 9:30 e o sol fica forte).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 210,
+      "max": 210,
+      "por": "pessoa",
+      "inclui": "Ingresso estrangeiro não residente. Nacionais/residentes M$105. Domingo grátis só para eles.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.inah.gob.mx/images/boletines/2026/106/Boletin_106.pdf"
+        },
+        {
+          "url": "https://www.inah.gob.mx/boletines/la-zona-arqueologica-de-teotihuacan-reabrira-al-publico-este-miercoles-22-de-abril"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false,
+      "link": "https://www.inah.gob.mx"
+    },
+    "contato": {
+      "site": "https://www.inah.gob.mx"
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/1280px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Burkhard Mücke",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Subir à Pirámide del Sol proibido (INAH 2026).",
+        "Pirámide de la Luna: acesso variável; em 22/04/2026 estava fechado até novo aviso, em set/2026 o Wikivoyage diz que subia ao primeiro nível.",
+        "Drones e atividades sobre os basamentos proibidos.",
+        "Em equinócio (20-22/03) há operativo com restrições de entrada."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: item imperdível; faça depois do Antropologia.",
+      "Vá cedo, leve água, chapéu e protetor solar (sol forte em altitude).",
+      "Não conte com subir na Pirámide del Sol: o mirante é a vista do chão, da Avenida dos Mortos.",
+      "CORTE SE APERTAR: museus internos e o restaurante La Gruta (diário 11:00-19:00, preço não coletado)."
+    ],
+    "alertas": [
+      "Incidente de segurança no sítio em abril/2026: o INAH não explicitou o motivo no boletim; sítio reabriu em 22/04/2026.",
+      "Status da Pirámide de la Luna conflita entre fontes (fechada em 22/04, primeiro nível em set/2026).",
+      "Equinócio de março: afluência ~36 mil visitantes/ano anterior (INAH), planeje outra data se puder.",
+      "Vendedores insistentes dentro e fora do sítio (Wikivoyage)."
+    ]
+  },
+  {
+    "id": "mx-mex-voo-de-balao-sobre-teotihuacan",
+    "fontes": [
+      {
+        "url": "https://www.adn40.mx/tiempo-libre/cuanto-cuesta-viajar-globo-aerostatico-teotihuacan"
+      },
+      {
+        "url": "https://www.civitatis.com/es/ciudad-de-mexico/paseo-globo-teotihuacan/"
+      },
+      {
+        "url": "https://actividades.centraldereservas.com/d/cuauhtemoc/paseo-en-globo-sobre-teotihuacan-lst8W1NZ"
+      },
+      {
+        "url": "https://www.eternalspringcdmx.com/p/how-to-book-mexico-citys-hardest-reservations"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Voo de balão sobre Teotihuacán",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "passeio",
+    "tags": [
+      "balao",
+      "nascer-do-sol",
+      "caro",
+      "madrugada",
+      "teotihuacan"
+    ],
+    "coords": {
+      "lat": 19.6925,
+      "lng": -98.84388889
+    },
+    "descricaoCurta": "Voo de balão ao amanhecer sobre as pirâmides: cerca de M$2.300-2.600 por pessoa em voo compartilhado.",
+    "descricaoLonga": "ADN40 (atualizado em jul/2026): voo compartilhado M$2.300-2.600 por pessoa; privado ~M$3.500 por pessoa; pacotes VIP a partir de M$15.000; duração do voo entre 1 h e 1 h15 (variável). Operadoras citadas: Vuelos en Globo MX, Globos Aerostáticos Teotihuacán, Sky Balloons México, Aerodiverti, Volare México. Civitatis: roteiro de ~8 h, voo de 30 min a 1 h, saída de 4 pontos do Centro entre 4:30 (Bellas Artes) e 5:00 (Ángel), inclui café da manhã buffet, brinde com espumante, certificado; cancelamento grátis até 24 h antes; se o clima impedir, reembolso parcial descontando M$420 por pessoa; reserva possível até 12 h antes se houver vaga. Central de Reservas: saída direta de Teotihuacán às 5:30; limite de 99 kg; não acessível a cadeira de rodas. Eternal Spring: boa chance de vaga com 1-2 dias de antecedência. Festival Chamán Teotihuacán (1º de novembro): muitos balões.",
+    "duracao": {
+      "min": 240,
+      "tipica": 420,
+      "max": 480
+    },
+    "diasFechados": [],
+    "melhorHorario": "Amanhecer (saídas 4:30-5:30; voo depende do vento).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 2300,
+      "max": 2600,
+      "por": "pessoa",
+      "inclui": "Voo compartilhado. Privado ~3.500 por pessoa. Pacotes com transporte, café e brinde variam.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.adn40.mx/tiempo-libre/cuanto-cuesta-viajar-globo-aerostatico-teotihuacan"
+        },
+        {
+          "url": "https://www.civitatis.com/es/ciudad-de-mexico/paseo-globo-teotihuacan/"
+        },
+        {
+          "url": "https://actividades.centraldereservas.com/d/cuauhtemoc/paseo-en-globo-sobre-teotihuacan-lst8W1NZ"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2,
+      "link": "https://www.civitatis.com/es/ciudad-de-mexico/paseo-globo-teotihuacan/"
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg/1280px-ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Hdlrosa",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Limite de peso 99 kg.",
+        "Não acessível a cadeira de rodas.",
+        "Sujeito ao clima."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: ~M$4.600-5.200 para o casal é o item mais caro do perfil econômico em Teotihuacán.",
+      "VALE CADA PESO só se for o \"momento da viagem\": reserve com data flexível por causa do clima e programe a visita às ruínas no mesmo dia."
+    ],
+    "alertas": [
+      "Preços de blog/agregador (não de operadora oficial); Civitatis exibe preço em R$ (a partir de R$ 732,19, data de consulta 08/10/2026).",
+      "Não verifiquei se o ingresso do sítio está incluído (Central de Reservas diz que o pacote inclui).",
+      "Incidente de segurança de abril/2026 no sítio pode ter afetado operações: confirmar com a operadora."
+    ],
+    "passeio": {
+      "pontoPartida": "Pontos no Centro (Bellas Artes 4:30, Torre del Caballito 4:40, Parque de los Olvidados 4:50, Ángel 5:00) ou direto em Teotihuacán 5:30 (Central de Reservas).",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-mex-como-ir-a-teotihuacan-de-onibus-terminal-del-norte",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      },
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2026/04/21/59159-como-llegar-a-teotihuacan-desde-cdmx-rutas-en-2026"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/10566043344"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Como ir a Teotihuacán de ônibus (Terminal del Norte)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "passeio",
+    "tags": [
+      "transporte",
+      "onibus",
+      "barato",
+      "referencia",
+      "teotihuacan"
+    ],
+    "coords": {
+      "lat": 19.4794756,
+      "lng": -99.1403251
+    },
+    "descricaoCurta": "Ônibus da Autobuses Teotihuacán a cada ~30 min, ~1 h de viagem, M$81 (abril/2026). Cartão de referência, não é atividade.",
+    "descricaoLonga": "Wikivoyage (preço de abril/2026): saem ônibus a cada cerca de meia hora do Terminal Autobuses del Norte (metrô Autobuses del Norte, L5), Gate 8, bilheteria no fim do corredor; confirme que o ônibus vai a \"Teotihuacán ruinas\" e não só à cidade; o desembarque é na Puerta 1, 2 ou 3 conforme o ônibus. M$81 só ida; a passagem permite descer a qualquer momento e o retorno costuma sair do mesmo ponto, no lado oposto da rua (confirme o último horário com o motorista). Alternativa: metrô Potrero (L3), ônibus brancos \"Pirámides\" (~1 h, até ~18:00 segundo Wikivoyage). Tusbuenasnoticias descreve rota Potrero-Apan com 6 min de caminhada, >1,5 h, e ônibus de volta a cada 15 min até 21:00 (divergências de tempo e horário). Tour de agência: a partir de ~M$700. Do CAP de Puebla há ônibus direto (M$180, 1,5-2,5 h, março/2024).",
+    "diasFechados": [],
+    "melhorHorario": "Sair da CDMX ~7:00 para chegar antes dos grupos.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 81,
+      "max": 81,
+      "por": "pessoa",
+      "inclui": "Só ida, Terminal del Norte -> Teotihuacán (Wikivoyage, abril/2026).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+        },
+        {
+          "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2026/04/21/59159-como-llegar-a-teotihuacan-desde-cdmx-rutas-en-2026"
+        },
+        {
+          "url": "https://www.openstreetmap.org/node/10566043344"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: ônibus é muito mais barato que tour (a partir de ~M$700 por pessoa) e dá liberdade de horário.",
+      "Anote a Puerta onde desceu e o horário do último ônibus de volta."
+    ],
+    "alertas": [
+      "Preço e frequência de fonte colaborativa (Wikivoyage); não consegui o site da Autobuses Teotihuacán.",
+      "Horário do último ônibus de volta divergente entre fontes (18:00 x 21:00)."
+    ],
+    "passeio": {
+      "pontoPartida": "Terminal Central del Norte, Gate 8 (metrô Autobuses del Norte, L5).",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-mex-trajinera-em-xochimilco-embarcadero-nuevo-nativitas",
+    "fontes": [
+      {
+        "url": "https://cdmxsecreta.com/en/official-price-list-for-trajineras-xochimilco/"
+      },
+      {
+        "url": "https://www.posta.com.mx/cdmx/vas-a-xochimilco-como-rentar-una-trajinera-en-2026-sin-ser-estafado/vl2208939"
+      },
+      {
+        "url": "https://thecreativeadventurer.com/a-complete-guide-to-visiting-xochimilco-in-2026/amp/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Xochimilco"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1215918766"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Trajinera em Xochimilco (embarcadero Nuevo Nativitas)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "passeio",
+    "tags": [
+      "trajinera",
+      "canais",
+      "festa",
+      "cobranca-por-barco",
+      "imperdivel",
+      "xochimilco"
+    ],
+    "coords": {
+      "lat": 19.2520996,
+      "lng": -99.0935365
+    },
+    "descricaoCurta": "Barco colorido alugado por HORA E POR BARCO (não por pessoa): M$750/h, até 18 pessoas. Dividir com outros baixa muito o custo por pessoa.",
+    "descricaoLonga": "Tarifa oficial: M$750 por hora de serviço, válida nos 10 embarcaderos turísticos (cdmxsecreta, jul/2025); Posta e The Creative Adventurer (2026) dizem o mesmo (700-800 / ~750). Preço é por barco, não por pessoa; capacidade 18 (toldo verde) ou 12 (toldo azul). Segundo The Creative Adventurer, a maioria exige mínimo de 2 horas para chegar às partes mais tranquilas; o Wikivoyage cita mínimo de 1 hora e pagamento só em dinheiro. Embarcaderos: Nativitas, Cuemanco, Nuevo Nativitas, Fernando Celada e Zacapa (Posta); para iniciantes, Nuevo Nativitas / Las Flores Nativitas (barcos numerosos, banheiros, barracas). Horário do Nativitas: seg-sex 8:00-19:00, sáb-dom 8:00-21:00 (Wikivoyage). Barco coletivo: M$50 ida, M$100 ida e volta. Música: mariachi M$300; norteños M$230; trios, marimba, saltério e acordeão M$170 cada (cdmxsecreta; unidade não especificada, provavelmente por serviço). Para um casal: 2 h = M$1.500 total (M$750 por pessoa) se ficarem sozinhos; se dividirem com mais gente cai. Reclamações: Profeco 800 468 8722; Dirección General de Turismo 55 5676 0810.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00–19:00 | 08:00–21:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã, antes de encher (chegar cedo evita fila, Posta).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 750,
+      "max": 750,
+      "por": "grupo",
+      "inclui": "Por hora e por BARCO (até 18 pessoas). Músicos, comida e bebida à parte. Barco coletivo: M$50 ida / M$100 ida e volta por pessoa.",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://cdmxsecreta.com/en/official-price-list-for-trajineras-xochimilco/"
+        },
+        {
+          "url": "https://www.posta.com.mx/cdmx/vas-a-xochimilco-como-rentar-una-trajinera-en-2026-sin-ser-estafado/vl2208939"
+        },
+        {
+          "url": "https://thecreativeadventurer.com/a-complete-guide-to-visiting-xochimilco-in-2026/amp/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Trajinera_en_canal_Nativitas.jpg/1280px-Trajinera_en_canal_Nativitas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "ProtoplasmaKid",
+        "licenca": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Trajinera_en_canal_Nativitas.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Pagamento em dinheiro (muitos vendedores flutuantes só aceitam efetivo)."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: é a experiência de festa/natureza mais \"mexicana\" do pacote, mas só compensa se dividir o barco ou fechar 2 h.",
+      "Combine preço e tempo ANTES de embarcar; no embarcadero use a bilheteria oficial.",
+      "CORTE SE APERTAR: música, comida e bebida a bordo (preços de intermediários sobem)."
+    ],
+    "alertas": [
+      "Golpe citado: pessoas de bicicleta dizem que o Nuevo Nativitas está fechado e levam o turista a embarcaderos não oficiais (The Creative Adventurer). Rejeite intermediários (Posta).",
+      "Preço por pessoa NÃO é a tarifa oficial: é preço por barco.",
+      "Wikivoyage observa que moradores hoje não consideram a atividade tão agradável: é turística; Cuemanco/Fernando Celada são alternativas mais calmas (não avaliei)."
+    ],
+    "passeio": {
+      "pontoPartida": "Embarcadero Nuevo Nativitas (OSM way 1215918766). De metrô: L2 até Tasqueña + Tren Ligero até a estação final Xochimilco; ou Uber (45-60 min, US$15-25 segundo The Creative Adventurer).",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-mex-isla-de-las-munecas-trajitour",
+    "fontes": [
+      {
+        "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2026/02/03/56342-xochimilco-en-trajinera-costos-y-que-incluye-los-trajitours"
+      },
+      {
+        "url": "https://thecreativeadventurer.com/a-complete-guide-to-visiting-xochimilco-in-2026/amp/"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q15401946"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Isla de las Muñecas (Trajitour)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "passeio",
+    "tags": [
+      "isla-das-bonecas",
+      "trajitour",
+      "esquisito",
+      "meio-dia",
+      "xochimilco"
+    ],
+    "coords": {
+      "lat": 19.27220855,
+      "lng": -99.08878592
+    },
+    "descricaoCurta": "A ilha original das bonecas fica longe do embarcadero principal; o passeio completo dura ~5 h.",
+    "descricaoLonga": "Tusbuenasnoticias (fev/2026) descreve os \"Trajitours\" da prefeitura: Básico M$250 por barco, 1 h, até 18 pessoas, com réplica da ilha; Tradicional M$750 por barco, 3 h, com réplica, axolotário e serpentário (entradas ~M$130 por pessoa); Isla de las Muñecas M$1.250 por barco, 5 h, saída 8:30 (retorno ~13:00), com a ilha original e entrada de ~M$120 por pessoa. The Creative Adventurer diz que a original fica a ~5 h do píer principal e que há réplicas pelos canais centrais. Embarcadero informado: 1ª Cerrada de Embarcadero, San Cristóbal. Não verifiquei esses Trajitours com a alcaldía.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 330
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída 8:30.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 1250,
+      "max": 1250,
+      "por": "grupo",
+      "inclui": "Barco (até 18 pessoas) + entrada de ~M$120 por pessoa à ilha (à parte).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.tusbuenasnoticias.com/noticias/turismo/2026/02/03/56342-xochimilco-en-trajinera-costos-y-que-incluye-los-trajitours"
+        },
+        {
+          "url": "https://thecreativeadventurer.com/a-complete-guide-to-visiting-xochimilco-in-2026/amp/"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q15401946"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Xochimilco_Dolls%27_Island.jpg/1280px-Xochimilco_Dolls%27_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Esparta Palma",
+        "licenca": "CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Xochimilco_Dolls%27_Island.jpg"
+      }
+    ],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: 5 horas por uma ilha de bonecas; se já fez a trajinera normal, corte. Vale só para fã de lugar macabro.",
+      "A réplica nos passeios comuns custa menos tempo."
+    ],
+    "alertas": [
+      "Preços/horários de um único veículo; confirmar no embarcadero e se o Trajitour está em operação.",
+      "Entrada à ilha cobrada à parte."
+    ],
+    "passeio": {
+      "pontoPartida": "Embarcadero de San Cristóbal (1ª Cerrada de Embarcadero), Xochimilco.",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "mx-mex-altitude-na-cidade-do-mexico-o-que-fazer-no-primeiro",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/basics-for-mexico-city-travel/altitude-sickness/?lang=en"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Altitude na Cidade do México: o que fazer no primeiro dia",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "altitude",
+      "saude",
+      "cartao-referencia",
+      "primeiro-dia"
+    ],
+    "descricaoCurta": "A cidade fica a ~2.240 m: sintomas possíveis nas primeiras 6-24 h; desacelere, hidrate-se e evite álcool no primeiro dia.",
+    "descricaoLonga": "Fonte oficial de turismo da CDMX: altitude de 2.240 m (7.349 ft), \"bem acima do limite\" para mal de altitude, embora muitos visitantes não tenham sintomas. Sintomas comuns: falta de ar súbita, tontura, dor de cabeça, cansaço e perda de apetite, que podem surgir entre 6 e 24 h após a chegada (como a altitude é menor que 3.000 m, o início pode demorar). O organismo leva cerca de 3 meses para produzir hemácias suficientes. Recomendações oficiais: desacelerar, descansar quando tiver sintomas, tomar ibuprofeno ou paracetamol para dor de cabeça, beber mais água, evitar álcool e cigarro, evitar esforço intenso; é \"muito raro\" turistas internacionais terem sintomas extremos. Wikivoyage: centro a ~2.230 m, áreas periféricas até 3.000 m; Teotihuacán a ~2.300 m (sol queima rápido, pouca sombra). Para quem vem do nível do mar (casal brasileiro de litoral), a prática sensata derivada da fonte oficial: 1º dia leve (Zócalo/Centro a pé em ritmo lento, sem mezcal/pulque à noite), 2º dia museus (Antropologia), e só do 3º dia em diante Teotihuacán (caminhada longa) e a noite pesada. Qualidade do ar: a maior poluição vai de final de novembro a início de fevereiro; de junho a setembro (chuvas) o ar é melhor (Wikivoyage).",
+    "diasFechados": [],
+    "melhorHorario": "Aplicável a toda a viagem; ar mais limpo de junho a setembro; pior de final de novembro a início de fevereiro.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: tratar o 1º dia com calma evita estragar a viagem.",
+      "Evite álcool no 1º dia (recomendação oficial) e deixe o pico de vida noturna para o 3º dia em diante.",
+      "Leve protetor solar: em altitude a queimadura é rápida (Wikivoyage, Teotihuacán/Puebla)."
+    ],
+    "alertas": [
+      "Quem tem problema cardíaco/respiratório deve consultar médico antes da viagem (orientação geral, não consta na fonte).",
+      "Página oficial dá recomendações gerais; não é aconselhamento médico individual.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-mex-seguranca-real-taxi-x-app-metro-caixa-eletronico-e-z",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=es"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/emergency/safety-tips/?lang=en"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/taxis-taxi-apps/"
+      },
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/using-the-metro/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Plaza_Garibaldi"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Segurança real: táxi x app, metrô, caixa eletrônico e zonas a evitar",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "seguranca",
+      "taxi",
+      "metro",
+      "caixa-eletronico",
+      "cartao-referencia"
+    ],
+    "descricaoCurta": "Resumo com fonte: use sitio/rádio-táxi ou app, atenção a carteiristas no metrô, use caixas de dia e acompanhado, evite áreas isoladas à noite.",
+    "descricaoLonga": "Turismo oficial da CDMX: telefone de emergência 911; use caixas eletrônicos de dia e em companhia; evite andar depois das 22:00 e áreas isoladas ou desconhecidas; vista-se discretamente; o botão de pânico do app oficial funciona inclusive em táxis; evite drogas e locais de compra/consumo. Táxi de rua: carro branco e rosa, placa com letra A ou B, credencial visível com foto do motorista; evite pinturas antigas (menos regulamentadas); bandeirada com taxímetro, com acréscimo de 20% das 23:00 às 6:00; rádio-táxis são mais seguros e um pouco mais caros; apps como Uber são populares por pagamento sem dinheiro e tarifas às vezes menores. Wikivoyage: não pegue táxi na rua, use sitio (base) ou app; ocorrem \"sequestros exprés\" em que a vítima é levada a vários caixas para esgotar os cartões (o guia diz que 95% das vítimas de sequestro são nacionais, probabilidade baixa para turista); metrô tem carteiristas organizados em equipes de 4-5 pessoas (empurram na porta e passam o objeto adiante); use mochila fechada, na frente; proteja o PIN no caixa e não deixe o cartão sair da sua vista no restaurante. Metrô oficial: horário de pico 7:00-10:00 e 17:00-21:00; os três primeiros vagões são exclusivos para mulheres e menores de 12 anos. Zonas: Wikivoyage diz que as áreas menos seguras onde turistas costumam ir ficam ao norte do Centro, como Garibaldi; leste do Centro (Merced/Sonora) é mais \"pesado\"; algumas ruas pequenas da Roma são mal iluminadas. Na Wikipédia, Garibaldi e o bairro vizinho Tepito aparecem com riscos sérios (dado de 2013). O Centro, pelo Wikivoyage, é seguro mas pede atenção e esvazia por volta das 21:00. Existe Ministério Público para estrangeiros em Victoria 76 (Centro) com equipe multilíngue. Aviso de viagem EUA: resumos de busca indicavam nível 2 (\"exercise increased caution\") para o México e CDMX em maio/2026, mas não consegui abrir a página oficial.",
+    "diasFechados": [],
+    "melhorHorario": "Planeje voltar para a hospedagem de Uber/DiDi ou sitio depois das 21:00-22:00.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: gaste em Uber/DiDi à noite: é a \"taxa de seguro\" mais barata da viagem.",
+      "Prefira pagar tudo com cartão/Apple Pay sem deixar o cartão sair da vista; saque dinheiro em agência bancária de dia.",
+      "Guarde o 911 e o botão de pânico do app oficial; leve cópia do passaporte."
+    ],
+    "alertas": [
+      "Não consegui abrir o aviso do Departamento de Estado (403) nem o Portal Consular do Itamaraty: consulte antes de viajar.",
+      "O \"golpe do caixa eletrônico\" aparece como \"sequestro exprés\" levando a vítima a vários caixas; também há clonagem de cartões: use caixas dentro de bancos (recomendação geral de resumo de busca, não confirmada em página aberta).",
+      "Dados de segurança de Garibaldi/Tepito são de 2013 (Wikipédia).",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-mex-metro-da-cidade-do-mexico-tarifa-horarios-e-pegadinh",
+    "fontes": [
+      {
+        "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/using-the-metro/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Metrô da Cidade do México: tarifa, horários e pegadinhas",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "metro",
+      "transporte",
+      "barato",
+      "cartao-referencia"
+    ],
+    "descricaoCurta": "M$5 por viagem sem limite de baldeações; cartão de mobilidade a M$15; evite 7-10 h e 17-21 h.",
+    "descricaoLonga": "Turismo oficial da CDMX: tarifa única de M$5 por viagem, independente da distância e baldeações internas; funcionamento seg-sex 5:00-24:00, sábado 6:00-24:00, domingo e feriados 7:00-24:00; picos 7:00-10:00 e 17:00-21:00; 3 primeiros vagões só para mulheres e menores de 12; cartão de Movilidad Integrada M$15 nas bilheterias/máquinas; mochila na frente, nada de valores no bolso traseiro. Wikivoyage: bilhetes de papel foram abolidos em março/2025; aceita-se cartão sem contato em grande parte da rede (cartões estrangeiros podem falhar); em horário de pico há pontas de plataforma reservadas para mulheres e crianças. A rede é a forma mais barata de ir ao Centro, Coyoacán e a rodoviárias (L5 Autobuses del Norte, L1 San Lázaro).",
+    "diasFechados": [],
+    "melhorHorario": "Fora dos picos 7-10 h e 17-21 h.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 5,
+      "max": 5,
+      "por": "pessoa",
+      "inclui": "Por viagem. Cartão M$15 (compra única).",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/using-the-metro/"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: M$5 por viagem é imbatível.",
+      "Compre o cartão M$15 já na chegada; um cartão serve para vários passageiros, um de cada vez."
+    ],
+    "alertas": [
+      "Cartões estrangeiros nem sempre funcionam nos torniquetes.",
+      "Wikivoyage registra muitos carteiristas em horários cheios.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-mex-vale-alugar-carro-na-cidade-do-mexico",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Vale alugar carro na Cidade do México?",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "aluguel-veiculo",
+    "tags": [
+      "carro",
+      "transporte",
+      "veredito",
+      "cartao-referencia"
+    ],
+    "descricaoCurta": "Não: o Wikivoyage diz que dirigir \"definitivamente não é a forma\" de conhecer a cidade; metrô, apps e ônibus intermunicipais cobrem tudo.",
+    "descricaoLonga": "Wikivoyage Mexico City: \"driving is definitely not a way to see it\"; a cidade tem metrô e Metrobús baratos (porém lotados no pico), milhares de táxis e apps com tarifas \"surpreendentemente baratas\". Teotihuacán tem estacionamento pago no sítio (valor não coletado) e o táxi até lá pode ser caro: prefira ônibus M$81. Puebla/Cholula: ônibus ADO. Para perfil econômico e foco em vida noturna (álcool), o carro soma risco, estacionamento e trânsito. Regras locais de circulação (restrição por placa/poluição) não foram pesquisadas.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "CORTE: não alugue; use metrô + Uber/DiDi + ônibus intermunicipal.",
+      "Só considere carro para 1 dia de excursão a vários pontos fora da cidade, e mesmo assim compare com tour de agência."
+    ],
+    "alertas": [
+      "Não pesquisei tarifas de locadoras nem restrições de circulação por placa.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "mx-mex-calendario-o-que-muda-por-mes-datas-e-fechamentos-co",
+    "fontes": [
+      {
+        "url": "https://www.museofridakahlo.org.mx/"
+      },
+      {
+        "url": "https://www.inah.gob.mx/images/boletines/2026/106/Boletin_106.pdf"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Teotihuacan"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://inah.gob.mx/images/boletines/2026/267/Boletin_267.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Calendário: o que muda por mês (datas e fechamentos com fonte)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "sazonalidade",
+      "calendario",
+      "cartao-referencia"
+    ],
+    "descricaoCurta": "Datas que alteram o roteiro: fechamentos da Casa Azul, equinócio em Teotihuacán, festival de balões, poluição e chuvas.",
+    "descricaoLonga": "Janela de viagem livre. Fatos com fonte: (1) Casa Azul (Frida) fecha em 1/maio, 11/junho, 16/setembro, 8/dezembro, 25/dezembro e 1/janeiro, e tem horário reduzido (11:00-14:00) em 15/setembro, 24/dezembro e 31/dezembro. (2) Teotihuacán no equinócio de primavera (20-22 de março): operativo especial do INAH, entrada com restrições e grande afluência. (3) Festival Chamán Teotihuacán, 1º de novembro, com frota de balões e celebrações do Dia de Mortos (Wikivoyage). (4) Poluição mais alta de final de novembro a início de fevereiro; chuvas de junho a setembro (monção), com manhãs ensolaradas e tardes nubladas, e ar melhor (Wikivoyage). (5) Zócalo: pista de patinação em dezembro. (6) Puebla comemora o Cinco de Mayo em maio. (7) Madrugadas e noites frias de final de outubro a janeiro (até ~0 °C pela manhã) e máximas de ~32 °C em março-maio (Wikivoyage). (8) O programa especial de visitas ao Templo de Ehécatl no Templo Mayor foi só até 19/07/2026. (9) Museus INAH: segunda fechado; domingo gratuito só para nacionais e residentes.",
+    "diasFechados": [],
+    "melhorHorario": "Melhor equilíbrio (inferência): meses secos e amenos fora de dezembro-janeiro e sem chuva forte; não há dado sobre preços/ocupação por mês.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: bata a data da viagem com esses fechamentos antes de reservar a Casa Azul.",
+      "Evite o equinócio (20-22/03) em Teotihuacán se puder."
+    ],
+    "alertas": [
+      "Não pesquisei preços de passagem/hospedagem por mês nem datas de eventos de música/festivais.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

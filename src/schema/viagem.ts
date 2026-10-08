@@ -138,6 +138,12 @@ export const Reserva = z.object({
   contato: z.string().optional(),
   link: Url.optional(),
   observacao: z.string().optional(),
+  /**
+   * MELHORIA 14 — o e-mail de confirmacao colado inteiro. Guardar o texto
+   * cru importa mais que extrair campos: quando o extrator erra, o original
+   * continua ali.
+   */
+  textoColado: z.string().optional(),
 });
 export type Reserva = z.infer<typeof Reserva>;
 
@@ -164,6 +170,53 @@ export const Cambio = z.object({
   manual: z.boolean().default(true),
 });
 
+/**
+ * MELHORIA 9 — gasto real.
+ * Durante a viagem o usuario anota o que gastou de fato. O orcamento passa a
+ * comparar planejado com real, em vez de so projetar.
+ */
+export const Gasto = z.object({
+  id: z.string().min(1),
+  data: IsoDate,
+  descricao: z.string().min(1),
+  valor: z.number().nonnegative(),
+  moeda: Moeda,
+  categoria: z.enum([
+    'atividades',
+    'refeicoes',
+    'hospedagem',
+    'transporte-entre-cidades',
+    'transporte-local',
+    'compras',
+    'taxas-obrigatorias',
+    'outros',
+  ]),
+  diaId: z.string().optional(),
+  blocoId: z.string().optional(),
+  observacao: z.string().optional(),
+});
+export type Gasto = z.infer<typeof Gasto>;
+
+/**
+ * MELHORIA 7 — "eu confirmei isto".
+ * O usuario liga para a locadora, confirma o preco e marca aqui. Vira uma
+ * camada DELE por cima do banco, com a data dele. O banco continua intocado:
+ * a interface mostra os dois e deixa claro qual e qual.
+ */
+export const ConfirmacaoDoUsuario = z.object({
+  /** O que foi conferido: "preco", "horario", "telefone", "existe ainda". */
+  campo: z.string().min(1),
+  confirmadoEm: IsoDate,
+  /** O valor que ele apurou, quando difere do banco. */
+  valorApurado: z.string().optional(),
+  comoConfirmou: z.string().optional(),
+  observacao: z.string().optional(),
+});
+export type ConfirmacaoDoUsuario = z.infer<typeof ConfirmacaoDoUsuario>;
+
+/** MELHORIA 20 — tirar da frente o que ele ja viu ou nao quer. */
+export const MotivoDeDescarte = z.enum(['ja-fui', 'nao-quero', 'fechado-agora']);
+
 export const Viagem = z.object({
   versaoSchema: z.literal(VERSAO_SCHEMA_VIAGEM),
   id: z.string().min(1),
@@ -176,6 +229,11 @@ export const Viagem = z.object({
   viajantes: z.object({
     adultos: z.number().int().positive(),
     criancas: z.number().int().nonnegative().default(0),
+    /**
+     * Codigo ISO de 2 letras. Decide quais requisitos de entrada do destino
+     * se aplicam: o mesmo pais pode exigir visto de um e nao de outro.
+     */
+    nacionalidade: z.string().length(2).default('BR'),
   }),
   estilo: Estilo,
   ritmo: Ritmo,
@@ -193,7 +251,27 @@ export const Viagem = z.object({
   favoritos: z.array(Slug).default([]),
   reservas: z.array(Reserva).default([]),
   deslocamentos: z.record(z.string(), EscolhaDeDeslocamento).default({}),
+  /** MELHORIA 9: o que foi gasto de verdade. */
+  gastos: z.array(Gasto).default([]),
+  /** MELHORIA 7: confirmacoes do usuario, por id de item. */
+  confirmacoes: z.record(Slug, z.array(ConfirmacaoDoUsuario)).default({}),
+  /** MELHORIA 20: itens que nao devem mais aparecer em Descobrir. */
+  descartados: z.record(Slug, MotivoDeDescarte).default({}),
   criadoEm: z.string().min(1),
   atualizadoEm: z.string().min(1),
 });
 export type Viagem = z.infer<typeof Viagem>;
+
+/**
+ * MELHORIA 18 — varias viagens guardadas.
+ * Colombia e Mexico lado a lado, nao uma sobrescrevendo a outra. O
+ * armazenamento guarda a biblioteca inteira, nao uma viagem solta.
+ */
+export const Biblioteca = z.object({
+  versaoSchema: z.literal(VERSAO_SCHEMA_VIAGEM),
+  viagens: z.array(Viagem).default([]),
+  /** Qual viagem esta aberta. */
+  viagemAtivaId: z.string().optional(),
+  atualizadoEm: z.string().min(1),
+});
+export type Biblioteca = z.infer<typeof Biblioteca>;
