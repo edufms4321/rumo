@@ -38,9 +38,40 @@ function cidadesPorTexto(texto: string, config: ConfigDeDestino): string[] {
 
 // ------------------------------------------------------------------ destino
 
+/**
+ * Decide se o destino exige visto, lendo o texto da pesquisa.
+ *
+ * Antes isto era `false` fixo — e o Mexico, que EXIGE visto de brasileiro
+ * desde 2022, entrava no banco como se nao exigisse. O fato mais importante
+ * do pais ficava de fora porque ninguem preencheu um booleano.
+ *
+ * A afirmacao positiva vence: o texto costuma dizer "precisam de visto" e
+ * depois listar quem e isento, e o isento nao anula a regra geral.
+ */
+function exigeVisto(texto: string): { exige: boolean; incerto: boolean } {
+  const t = texto.toLowerCase();
+  const positivo =
+    /precisa\w* de visto|exige\w* visto|visto obrigat|necessit\w* de visto|visa (electronica|obligatoria)/.test(
+      t,
+    );
+  const negativo = /dispensad|isen[çc]|nao (e|e) necessario|sem visto|visa[- ]free/.test(t);
+  if (positivo) return { exige: true, incerto: false };
+  if (negativo) return { exige: false, incerto: false };
+  return { exige: false, incerto: t.trim().length > 0 };
+}
+
 export function construirDestino(logistica: Json, config: ConfigDeDestino): Json {
   const d = logistica.destino;
   const r = d.requisitosEntradaBrasileiro ?? {};
+
+  const visto = exigeVisto(String(r.visto ?? ''));
+  if (visto.incerto) {
+    avisos.push(
+      'nao deu para decidir pelo texto se o destino exige visto: gravado como NAO exige, confira',
+    );
+  } else if (visto.exige) {
+    derivado('visto obrigatorio deduzido do texto da pesquisa');
+  }
 
   const todasAsFontes = fontes([
     ...(r.fontes ?? []),
@@ -71,7 +102,7 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
       {
         nacionalidade: 'BR',
         documento: String(r.passaporte ?? 'nao informado'),
-        vistoNecessario: false,
+        vistoNecessario: visto.exige,
         ...(r.vacinaFebreAmarela ? { vacinaFebreAmarela: String(r.vacinaFebreAmarela) } : {}),
         ...(r.comprovantes ? { formularioMigratorio: String(r.comprovantes) } : {}),
         comprovantesExigidos: [],

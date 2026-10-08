@@ -14,3 +14,9 @@ playwright-report/
 .playwright-mcp/
 qa-*.png
 dev-dist/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/.playwright/

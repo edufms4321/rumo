@@ -13,6 +13,7 @@ import {
   Heart,
   type LucideIcon,
   Moon,
+  Radar,
   Redo2,
   Settings2,
   Sun,
@@ -39,6 +40,7 @@ import {
 import { Botao, ComDica } from './ui.tsx';
 
 const ABAS: Array<{ para: string; rotulo: string; icone: LucideIcon }> = [
+  { para: 'agora', rotulo: 'Agora', icone: Radar },
   { para: 'descobrir', rotulo: 'Descobrir', icone: Compass },
   { para: 'selecao', rotulo: 'Selecao', icone: Heart },
   { para: 'calendario', rotulo: 'Calendario', icone: CalendarDays },

@@ -1,5 +1,5 @@
 import { lazy, useEffect } from 'react';
-import { Navigate, Route, BrowserRouter as Rotas, Routes } from 'react-router';
+import { Navigate, Route, HashRouter as Rotas, Routes } from 'react-router';
 import { Layout } from './componentes/Layout.tsx';
 import { usarLoja } from './store/viagem.ts';
 import { Inicio } from './telas/Inicio.tsx';
@@ -8,6 +8,7 @@ import { Inicio } from './telas/Inicio.tsx';
   Cada tela vira um pedaco proprio. Quem so abre a tela inicial nao baixa o
   mapa, o motor de exportacao nem a linha do tempo.
 */
+const Agora = lazy(() => import('./telas/Agora.tsx').then((m) => ({ default: m.Agora })));
 const Calendario = lazy(() =>
   import('./telas/Calendario.tsx').then((m) => ({ default: m.Calendario })),
 );
@@ -27,6 +28,16 @@ const Orcamento = lazy(() =>
 const Reservas = lazy(() => import('./telas/Reservas.tsx').then((m) => ({ default: m.Reservas })));
 const Selecao = lazy(() => import('./telas/Selecao.tsx').then((m) => ({ default: m.Selecao })));
 
+/*
+  Rotas com # de proposito.
+
+  O app e um site estatico que precisa rodar em qualquer lugar: GitHub
+  Pages numa subpasta, Netlify, um pendrive, uma pasta local. Com rota
+  normal, recarregar a pagina em /viagem/abc/dia/xyz pede que o servidor
+  devolva o index.html para qualquer caminho — e o GitHub Pages nao faz
+  isso sem gambiarra. Com #, recarregar e abrir link direto funcionam em
+  todo lugar. O preco e a URL mais feia; o beneficio e nao quebrar.
+*/
 export function App() {
   const carregar = usarLoja((e) => e.carregar);
   const carregado = usarLoja((e) => e.carregado);
@@ -50,6 +61,7 @@ export function App() {
           <Route element={<Inicio />} index />
           <Route path="viagem/:viagemId">
             <Route element={<Navigate replace to="descobrir" />} index />
+            <Route element={<Agora />} path="agora" />
             <Route element={<Configuracao />} path="config" />
             <Route element={<Descobrir />} path="descobrir" />
             <Route element={<Selecao />} path="selecao" />

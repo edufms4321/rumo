@@ -133,7 +133,7 @@ export function DiaDaViagem() {
       durationMin: item.duracao?.tipica ?? 60,
       statusDeReserva: item.reserva.necessaria ? 'precisa-reservar' : 'nao-precisa',
     };
-    acoes.adicionarBloco(dia.id, bloco);
+    acoes.adicionarBloco(dia.id, bloco, item.cidadeId);
   }
 
   return (
@@ -263,6 +263,7 @@ export function DiaDaViagem() {
                           item.id,
                           item.duracao?.tipica ?? 60,
                           item.reserva.necessaria,
+                          item.cidadeId,
                         )
                       }
                     />

@@ -26,6 +26,18 @@ import {
 import { carregarDestino } from '../data/carregar.ts';
 
 const CHAVE_DO_BANCO = 'rumo:biblioteca:v1';
+/**
+ * Espelho sincrono em localStorage.
+ *
+ * O IndexedDB e assincrono: quando a aba fecha, a gravacao pendente pode
+ * nao terminar — nem `pagehide` garante, porque o navegador nao espera uma
+ * promessa. O localStorage grava na hora, de forma sincrona, e o estado de
+ * uma viagem tem poucos kB. Entao: espelho sincrono para nao perder a
+ * ultima acao, IndexedDB como deposito principal.
+ *
+ * Na abertura vence o mais recente dos dois.
+ */
+const CHAVE_DO_ESPELHO = 'rumo:biblioteca:espelho:v1';
 
 function agora(): string {
   return new Date().toISOString();
@@ -125,20 +137,34 @@ export const usarLoja = create<LojaDaViagem>()(
       },
 
       carregar: async () => {
+        type Guardado = { viagens: Viagem[]; viagemAtivaId?: string; gravadoEm?: string };
+        let doBanco: Guardado | undefined;
+        let doEspelho: Guardado | undefined;
+
         try {
-          const salvo = await lerDoBanco<{ viagens: Viagem[]; viagemAtivaId?: string }>(
-            CHAVE_DO_BANCO,
-          );
-          set({
-            viagens: salvo?.viagens ?? [],
-            ...(salvo?.viagemAtivaId ? { viagemAtivaId: salvo.viagemAtivaId } : {}),
-            carregado: true,
-          });
+          doBanco = await lerDoBanco<Guardado>(CHAVE_DO_BANCO);
         } catch {
-          // Navegador sem IndexedDB (aba anonima, permissao negada): o app
-          // continua funcionando em memoria e o usuario pode exportar JSON.
-          set({ carregado: true });
+          /* sem IndexedDB: segue so com o espelho */
         }
+        try {
+          const cru = localStorage.getItem(CHAVE_DO_ESPELHO);
+          if (cru) doEspelho = JSON.parse(cru) as Guardado;
+        } catch {
+          /* armazenamento bloqueado */
+        }
+
+        // Vence o mais recente: o espelho pode ter a ultima acao que o
+        // IndexedDB nao chegou a gravar antes de a aba fechar.
+        const escolhido =
+          doEspelho && (!doBanco || (doEspelho.gravadoEm ?? '') > (doBanco.gravadoEm ?? ''))
+            ? doEspelho
+            : doBanco;
+
+        set({
+          viagens: escolhido?.viagens ?? [],
+          ...(escolhido?.viagemAtivaId ? { viagemAtivaId: escolhido.viagemAtivaId } : {}),
+          carregado: true,
+        });
       },
 
       criarViagem: (destinoId, nome) => {
@@ -206,20 +232,50 @@ export const usarLoja = create<LojaDaViagem>()(
 // --------------------------------------------------------- gravacao auto
 
 let gravando: ReturnType<typeof setTimeout> | undefined;
+let pendente: { viagens: Viagem[]; viagemAtivaId?: string; gravadoEm: string } | undefined;
+
+function gravarAgora(): void {
+  if (!pendente) return;
+  const carga = pendente;
+  pendente = undefined;
+  clearTimeout(gravando);
+  void gravarNoBanco(CHAVE_DO_BANCO, carga).catch(() => {
+    /* sem IndexedDB: segue em memoria */
+  });
+}
 
 usarLoja.subscribe((estado) => {
   if (!estado.carregado) return;
+  const carga = {
+    viagens: estado.viagens,
+    viagemAtivaId: estado.viagemAtivaId,
+    gravadoEm: new Date().toISOString(),
+  };
+  pendente = carga;
+
+  // Espelho sincrono: acontece agora, antes de qualquer unload.
+  try {
+    localStorage.setItem(CHAVE_DO_ESPELHO, JSON.stringify(carga));
+  } catch {
+    /* cota estourada ou armazenamento bloqueado: o IndexedDB ainda cobre */
+  }
+
   clearTimeout(gravando);
   // Agrupa rajadas de edicao: arrastar um bloco dispara varias mudancas.
-  gravando = setTimeout(() => {
-    void gravarNoBanco(CHAVE_DO_BANCO, {
-      viagens: estado.viagens,
-      viagemAtivaId: estado.viagemAtivaId,
-    }).catch(() => {
-      /* sem IndexedDB: segue em memoria */
-    });
-  }, 400);
+  gravando = setTimeout(gravarAgora, 400);
 });
+
+/*
+  Sem isto, fechar a aba ou trocar de app nos 400 ms seguintes a uma
+  edicao perderia a mudanca. `pagehide` e `visibilitychange` sao os unicos
+  eventos confiaveis no celular — `beforeunload` nao dispara no iOS.
+*/
+if (typeof window !== 'undefined') {
+  window.addEventListener('pagehide', gravarAgora);
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') gravarAgora();
+  });
+}
 
 // ------------------------------------------------------------- seletores
 
@@ -304,15 +360,26 @@ export const acoes = {
    * clique: se a tela calcular, quatro cliques seguidos empilham tudo no
    * mesmo minuto, porque o render nao acompanha a rajada.
    */
+  /**
+   * Agenda um item no primeiro horario livre do dia.
+   *
+   * `cidadeDoItem` serve para adivinhar a cidade-base quando o dia ainda nao
+   * tem uma: quem agenda a Catedral de Sal provavelmente dorme em Bogota. E
+   * um palpite sobre o plano do usuario, nao sobre o mundo — fica visivel no
+   * seletor do calendario e ele troca com um clique. Sem isso o motor nao
+   * tem de onde sair e nao calcula o trajeto da hospedagem.
+   */
   adicionarItemAoDia(
     diaId: string,
     itemId: string,
     duracaoMin: number,
     precisaReservar: boolean,
+    cidadeDoItem?: string,
   ): void {
     usarLoja.getState().alterar((v) => {
       const dia = v.dias.find((d) => d.id === diaId);
       if (!dia) return;
+      if (!dia.cidadeBaseId && cidadeDoItem) dia.cidadeBaseId = cidadeDoItem;
       const fim = dia.blocos.reduce(
         (max, b) => Math.max(max, b.startMin + b.durationMin),
         9 * 60 - 15,
@@ -329,10 +396,12 @@ export const acoes = {
     });
   },
 
-  adicionarBloco(diaId: string, bloco: Bloco): void {
+  adicionarBloco(diaId: string, bloco: Bloco, cidadeDoItem?: string): void {
     usarLoja.getState().alterar((v) => {
       const dia = v.dias.find((d) => d.id === diaId);
-      if (dia) dia.blocos.push(bloco);
+      if (!dia) return;
+      if (!dia.cidadeBaseId && cidadeDoItem) dia.cidadeBaseId = cidadeDoItem;
+      dia.blocos.push(bloco);
     });
   },
 
