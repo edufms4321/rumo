@@ -28,6 +28,18 @@
      }
     ]
    }
-  ]
+  ],
+  "saude": {
+   "vacinasRecomendadas": [
+    "Febre amarela (OBRIGATORIA para quem sai de SP, RJ, MG ou ES)"
+   ],
+   "observacoes": "FEBRE AMARELA E OBRIGATORIA PARA VOCE. A Republica Dominicana exige o Certificado Internacional de Vacinacao ou Profilaxia (CIVP) de todo passageiro vindo dos estados brasileiros de Sao Paulo, Rio de Janeiro, Minas Gerais e Espirito Santo. A vacina precisa ter sido tomada ha pelo menos 10 DIAS antes da chegada — nao da para resolver na vespera. Isentos: criancas com menos de 10 meses, gestantes, e quem apenas fez conexao de menos de 12 h num aeroporto desses estados; quem tem contraindicacao medica precisa levar o atestado. Conferido em 2026-10-08 no site oficial de turismo. ATENCAO: ha noticias dominicanas de 2017 dizendo que o pais NAO exige — estao velhas, nao se baseie nelas.",
+   "fontes": [
+    {
+     "url": "https://es.godominicanrepublic.com/planea-tu-viaje/requisitos-de-viaje",
+     "titulo": "Go Dominican Republic (site oficial de turismo) — requisitos de viagem"
+    }
+   ]
+  }
  }
 }
