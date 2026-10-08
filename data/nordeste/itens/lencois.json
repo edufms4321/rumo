@@ -234,6 +234,10 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/morro-do-pai-inacio-221-6153-l.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2310413003",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -285,7 +289,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.459444,
+      "lng": -41.471458
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-lec-cachoeira-da-fumaca-por-cima-pelo-vale-do-capao",
@@ -298,6 +307,10 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/passeios-na-chapada-diamantina-221-2877-p.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3438470196",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -350,7 +363,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.600685,
+      "lng": -41.455087
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-lec-vale-do-pati-travessia-de-3-a-5-dias",
@@ -600,6 +618,10 @@
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/passeios-na-chapada-diamantina-221-2877-p.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/13733487101",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -650,13 +672,22 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.561249,
+      "lng": -41.393402
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-lec-cachoeira-do-mosquito",
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/passeios-na-chapada-diamantina-221-2877-p.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4113468000",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -706,7 +737,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.371316,
+      "lng": -41.37122
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-lec-vale-do-capao-caete-acu",

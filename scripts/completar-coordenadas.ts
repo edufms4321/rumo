@@ -22,8 +22,18 @@ import { Ajustes, configDe } from './lib/ajustes.ts';
 
 const AGENTE = 'Rumo/0.1 (planejador de viagem pessoal; github.com/edufms4321/rumo)';
 const ESPERA_MS = 1100;
-/** Fora deste raio da cidade, o resultado e de outro lugar com nome parecido. */
-const RAIO_MAX_KM = 45;
+/**
+ * Fora deste raio da cidade-base, o resultado e de outro lugar com nome
+ * parecido.
+ *
+ * ARMADILHA, e ela ja me pegou: o raio e medido do centro da BASE, nao do
+ * lugar. Um bate-volta legitimo fica longe — Praia do Forte esta a 65 km
+ * de Salvador — entao o ponto certo era rejeitado e um homonimo dentro da
+ * cidade entrava no lugar dele. Por isso o raio e largo o bastante para
+ * caber um bate-volta, e por isso a revisao a mao continua obrigatoria:
+ * nenhum raio distingue "a praia certa, longe" de "a praia errada, perto".
+ */
+const RAIO_MAX_KM = 120;
 
 type Coord = { lat: number; lng: number };
 type Item = {

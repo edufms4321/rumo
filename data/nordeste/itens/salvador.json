@@ -62,6 +62,10 @@
       },
       {
         "url": "https://www.salvadordabahia.com/experiencias/elevador-lacerda/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/59224731",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -112,7 +116,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.974088,
+      "lng": -38.51336
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-mercado-modelo",
@@ -122,6 +131,10 @@
       },
       {
         "url": "https://atarde.com.br/bahia/bahiasalvador/requalificacao-do-mercado-modelo-e-entregue-pela-prefeitura-1252450"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/59392558",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -164,13 +177,22 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.972947,
+      "lng": -38.51401
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-fundacao-casa-de-jorge-amado",
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/fundacao-casa-de-jorge-amado-em-salvador.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1486422689",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -219,13 +241,22 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.971697,
+      "lng": -38.508507
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-casa-do-rio-vermelho-jorge-amado-e-zelia-gattai",
     "fontes": [
       {
         "url": "https://www.salvadordabahia.com/experiencias/casa-do-rio-vermelho/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/474260844",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -278,7 +309,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.007701,
+      "lng": -38.489739
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-farol-da-barra-e-museu-nautico-da-bahia",
@@ -352,6 +388,10 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/praias-salvador-16-124-p.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/8455912",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -393,7 +433,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.003167,
+      "lng": -38.532851
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-praias-do-norte-de-salvador-stella-maris-e-flamengo",

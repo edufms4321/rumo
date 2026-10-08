@@ -148,6 +148,8 @@ Os dois primeiros **só mostram** o que achariam; acrescente `--gravar` para gra
 
 Quando o script acha, ele acrescenta a URL devolvida pela API às `fontes` do item e anota na observação de confiança que o dado não foi conferido no local.
 
+**Confira sempre os bate-voltas.** O script mede a distância a partir do centro da cidade-base, e um bate-volta legítimo fica longe: Praia do Forte está a 65 km de Salvador. Com o raio apertado, o ponto certo era rejeitado e um homônimo dentro da cidade entrava no lugar dele — foi assim que "Praia do Forte" virou um forte no centro de Salvador e "Ilha de Itaparica" virou um ponto do lado errado da baía. Nenhum raio distingue "o lugar certo, longe" de "o lugar errado, perto": só o olho.
+
 ## Fatores de deslocamento da cidade
 
 Alimentam a camada 3 do estimador (sempre rotulada "estimativa" na interface). `kmh` é a velocidade média real do modal naquela cidade; `fatorRota` corrige a distância em linha reta para a distância percorrida.

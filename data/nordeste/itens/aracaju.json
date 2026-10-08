@@ -177,6 +177,10 @@
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/o-que-fazer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/93284690",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -232,7 +236,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -10.978943,
+      "lng": -37.040966
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-aju-memorial-de-sergipe",
@@ -597,6 +606,10 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/o-que-fazer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1662378166",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -643,7 +656,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -10.994665,
+      "lng": -37.053235
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-aju-cacarola",
@@ -708,6 +726,10 @@
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/aracaju/onde-comer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1459419002",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -753,7 +775,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -10.937016,
+      "lng": -37.052367
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-aju-confraria-do-cajueiro",

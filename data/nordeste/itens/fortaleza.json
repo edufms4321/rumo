@@ -497,6 +497,10 @@
       },
       {
         "url": "https://diariodonordeste.verdesmares.com.br/estilo-de-vida/viagem/praia-do-futuro-veja-dicas-roteiros-e-barracas-na-regiao-1.3124681"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1107509352",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -543,7 +547,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.754074,
+      "lng": -38.445134
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-for-crocobeach-praia-do-futuro",
@@ -553,6 +562,10 @@
       },
       {
         "url": "https://diariodonordeste.verdesmares.com.br/estilo-de-vida/viagem/praia-do-futuro-veja-dicas-roteiros-e-barracas-na-regiao-1.3124681"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/312628889",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -600,7 +613,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.734037,
+      "lng": -38.455462
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-for-coco-bambu-beira-mar",
@@ -610,6 +628,10 @@
       },
       {
         "url": "https://www.cocobambu.com.br"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/12372656801",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -654,7 +676,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.723575,
+      "lng": -38.487485
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-for-pirata-bar",
@@ -664,6 +691,10 @@
       },
       {
         "url": "https://diariodonordeste.verdesmares.com.br/verso/pirata-bar-e-reconhecido-como-patrimonio-turistico-de-fortaleza-1.2185068"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5356894423",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -710,13 +741,22 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.719184,
+      "lng": -38.516693
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-for-centro-de-turismo-do-ceara-antiga-cadeia-publica",
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/centro-de-turismo-de-fortaleza-142-3077-l.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/5715087",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -755,7 +795,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -3.721824,
+      "lng": -38.528364
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-for-cumbuco-kitesurf-buggy-e-as-lagoas",

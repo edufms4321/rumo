@@ -16,6 +16,10 @@
       },
       {
         "url": "https://www.tide-forecast.com/locations/Natal-Brazil/tides/latest"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/7137489387",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -60,7 +64,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -6.224629,
+      "lng": -35.061171
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pipa-chapadao",
@@ -76,6 +85,10 @@
       },
       {
         "url": "https://agorarn.com.br/?p=779659"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/578226257",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -120,7 +133,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -6.239207,
+      "lng": -35.037568
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pipa-por-do-sol-em-pipa-onde-e-a-que-hora-por-mes",
@@ -175,6 +193,10 @@
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/praia-do-centro-pipa-19-176-l.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4429426698",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -216,7 +238,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -6.227512,
+      "lng": -35.050693
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pipa-praia-do-amor",
@@ -226,6 +253,10 @@
       },
       {
         "url": "https://quantocustaviajar.com/brasil/pipa/o-que-fazer"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/445318073",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -269,7 +300,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -6.231763,
+      "lng": -35.041799
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pipa-praia-do-madeiro",
@@ -405,6 +441,10 @@
       },
       {
         "url": "https://www.viciadaemviajar.com/onde-comer-em-pipa-rn/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/28659530",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -442,7 +482,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -6.237613,
+      "lng": -35.041181
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pipa-passeio-de-barco-para-ver-golfinhos",

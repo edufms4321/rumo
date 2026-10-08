@@ -215,6 +215,10 @@
       },
       {
         "url": "https://jornaldaparaiba.com.br/guia-qualeaboa/centro-cultural-sao-francisco/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2902104298",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -264,7 +268,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -7.114588,
+      "lng": -34.882545
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-jpa-estacao-cabo-branco",
@@ -679,6 +688,10 @@
       },
       {
         "url": "https://jornaldaparaiba.com.br/_/150265"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/72493358",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -718,13 +731,22 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -7.110982,
+      "lng": -34.873946
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-jpa-mercado-de-artesanato-paraibano",
     "fontes": [
       {
         "url": "https://guia.melhoresdestinos.com.br/mercado-de-artesanato-da-paraiba-109-2213-l.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/176412342",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -763,7 +785,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -7.111285,
+      "lng": -34.825607
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-jpa-mangai-joao-pessoa",
@@ -773,6 +800,10 @@
       },
       {
         "url": "https://www.viciadaemviajar.com/onde-comer-em-joao-pessoa-pb/amp/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/247022767",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -827,7 +858,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -7.103216,
+      "lng": -34.832028
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-08, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-jpa-restaurantes-da-orla-bar-do-cuscuz-e-gulliver-mar",
