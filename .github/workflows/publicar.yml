@@ -1,0 +1,51 @@
+# Publica o app no GitHub Pages a cada push na main.
+#
+# O portao e o `npm run validate`: tipos, lint, 146 testes do motor e a
+# validacao do banco de dados. Se o banco tiver um registro sem fonte, o
+# deploy nao acontece. E de proposito: a promessa de honestidade dos dados
+# vale tambem para o que vai ao ar.
+name: publicar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - name: testes de ponta a ponta
+        run: |
+          npx playwright install --with-deps chromium
+          npm run e2e
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  publicar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

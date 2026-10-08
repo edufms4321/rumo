@@ -1,0 +1,15 @@
+# Alternativa ao GitHub Pages. Nao ha regra de reescrita aqui porque o app
+# usa rotas com # — o servidor so precisa servir o index.html da raiz.
+[build]
+  command = "npm run validate && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+    X-Frame-Options = "DENY"
