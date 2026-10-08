@@ -1387,5 +1387,55 @@
     }
    ]
   }
+ },
+ "_leia_destino": "Campos do destino conferidos ou montados pelo agente principal. Entram por cima do que o conversor derivou.",
+ "destino": {
+  "emergencia": {
+   "policia": "190",
+   "bombeiros": "193",
+   "ambulancia": "192",
+   "representacaoBrasileira": [],
+   "observacoes": "O Brasil nao tem numero unico de emergencia: 190 e a Policia Militar, 193 o Corpo de Bombeiros e 192 o SAMU (ambulancia). Na estrada, a Policia Rodoviaria Federal atende pelo 191. Cada um e operado por um orgao diferente — ligue para o que corresponde ao caso. Nao ha representacao consular porque a viagem e dentro do pais.",
+   "fontes": [
+    {
+     "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/samu-192"
+    },
+    {
+     "url": "https://www.gov.br/mulheres/pt-br/ligue-180"
+    },
+    {
+     "url": "https://www.bombeiros.pr.gov.br/servicos/APMG/Emergencia/Acionar-Corpo-de-Bombeiros-193-0A30a4rk"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/brazil/health"
+    },
+    {
+     "url": "https://www.gov.br/prf/pt-br"
+    },
+    {
+     "url": "https://www.gov.br/prf/pt-br/canais-de-atendimento"
+    }
+   ]
+  },
+  "entrada": [
+   {
+    "nacionalidade": "BR",
+    "documento": "Documento de identificacao civil com foto, fe publica e validade nacional: RG, CNH ou carteira de trabalho. Nao ha controle de imigracao, passaporte nem visto — a viagem e domestica.",
+    "vistoNecessario": false,
+    "comprovantesExigidos": [],
+    "observacoes": "VIAGEM DOMÉSTICA: não há controle de imigração, passaporte nem visto. Para brasileiros a partir de 16 anos em voo doméstico, a ANAC aceita documento de identificação civil com foto, fé pública e validade em todo o território nacional — a página cita expressamente Carteira de Identidade Civil (RG), Carteira Nacional de Habilitação (CNH) e Carteira de Trabalho e Previdência Social (CTPS). Também aceita cópia autenticada do documento e, em caso de furto, roubo ou perda, boletim de ocorrência. A ANAC afirma explicitamente que A CARTEIRA DE ESTUDANTE NÃO É ACEITA para embarque. DOCUMENTO DIGITAL VALE: a ANAC tem página própria dizendo que documentos de identificação em suporte eletrônico podem ser apresentados às empresas aéreas no embarque em voos domésticos, e referencia CNH Digital, Carteira de Identidade Nacional (CIN), e-Título e Certidão de Nascimento Eletrônica. CONDIÇÕES que a ANAC impõe ao documento digital: (a) precisa ter foto que permita identificar o passageiro (exceção: certidão de nascimento eletrônica, sem foto, apresentada em PDF); (b) os dados precisam coincidir com os do cartão de embarque; (c) tem de ser exibido DENTRO DO APLICATIVO OFICIAL que o distribui — PRINT E SCREENSHOT NÃO VALEM. Essa página da ANAC traz data de última atualização de 14/04/2026. RECOMENDAÇÃO PRÁTICA: leve o documento físico além do digital, porque o aplicativo depende de bateria e, em alguns casos, de rede — e em vários pontos deste roteiro a rede é incerta.",
+    "fontes": [
+     {
+      "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/documentos-para-embarque"
+     },
+     {
+      "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/documentos-para-embarque/brasileiros-a-partir-de-16-anos-de-idade-voos-domesticos"
+     },
+     {
+      "url": "https://www.gov.br/anac/pt-br/assuntos/passageiros/documentos-para-embarque/documentos-de-identificacao-eletronicos-voos-domesticos"
+     }
+    ]
+   }
+  ]
  }
 }
