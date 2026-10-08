@@ -68,3 +68,30 @@ Decisões do conversor que valem registrar:
 **Estado:** 58 itens, 8 cidades, 20 trechos, 13 eventos. Validador com 0 erro e 50 avisos. 33 testes, typecheck e lint limpos. Abri o app no navegador e conferi: selo de confiança, preço, data de coleta e fontes clicáveis aparecem em cada card.
 
 **Próximo:** portão 1 com o Eduardo. Depois, Fase 3 (motor) e onda B da pesquisa.
+
+---
+
+## 2026-10-08 15:50 — Fase 3, primeira fatia: deslocamento automático e explicado
+
+Portão 1 aprovado. O Eduardo pediu prioridade no calendário com **tempo de deslocamento automático e bem didático**. Interpretei "novas habilidades" como capacidades do app, não skills do Claude Code, e avisei a ele que faço o outro se eu tiver errado.
+
+Onda B da pesquisa disparada em 4 subagentes: Medellín+Guatapé+Jardín, Eje Cafetero, Santa Marta+Tayrona+Minca+Palomino, Bogotá+Zipaquirá+Guatavita+Villa de Leyva. Avisei os quatro que Firecrawl e Perplexity estão sem chave, para não desperdiçarem chamadas.
+
+**"Didático" virou requisito de tipo, não de texto de interface.** O estimador devolve `resumo` (uma frase pronta em português) e `passos` (a conta aberta), e cada passo diz se veio de fonte ou se o motor estimou. Assim a interface não precisa reconstruir a explicação depois — e, mais importante, não existe caminho em que um número apareça sem procedência.
+
+Camadas, da melhor para a pior: trecho porta a porta do banco → trecho calculado (duração do veículo + padrões de aeroporto) → par medido da cidade → linha reta × fator de rota → sem dados. A última devolve `minutos: null` em vez de chutar.
+
+**Separei os padrões do motor em `src/engine/padroes.ts`, fora de `/data`.** Velocidade de modal, antecedência de embarque, tempo até o aeroporto: nada disso tem fonte. Se morasse no banco ficaria indistinguível de dado pesquisado. Morando no motor, tudo que passa por lá sai rotulado como estimativa.
+
+**Dois defeitos achados rodando com dado real, não nos testes.**
+
+1. **Falso conflito em todo dia com hospedagem.** Eu tratava "sair da hospedagem até o primeiro bloco" como lacuna comum, com intervalo disponível zero por construção — então todo dia nascia com um conflito inventado. São perguntas diferentes: entre blocos a pergunta é "cabe?"; na hospedagem é "a que horas sair?" e "a que horas chego de volta?". Virou um campo `tipo` na lacuna, com três valores, e teste nomeado para cada um.
+2. Velocidade saía como "4.5 km/h" em vez de "4,5 km/h". Bobo, mas é texto que o usuário lê.
+
+**Um teste meu estava errado, não o código**: esperei caminhada entre o almoço no centro e a Pinacoteca, mas são 1,49 km e o limite de caminhada é 1,2 km. Corrigi o teste.
+
+**`npm run demo:dia`** mostra o motor rodando com os dados reais da Colômbia antes de existir interface. Montei o dia com um erro de propósito (última atividade em San Andrés, base em Cartagena) e ele acusa: "4 h 20 min de avião até San Andrés, porta a porta — NÃO CABE: faltam 3 h 20 min", e depois "você chega de volta às 01:50".
+
+**Estado:** 63 testes, typecheck e lint limpos, validador com 0 erro.
+
+**Próximo:** o resto do motor — as regras da seção 5 do briefing (horário de funcionamento, dia fechado, feriado, luz do dia, altitude, mergulho antes de voar, orçamento, noite sem hospedagem), cada uma com código de alerta e correção sugerida.
