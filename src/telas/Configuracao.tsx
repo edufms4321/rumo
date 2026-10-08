@@ -205,6 +205,9 @@ export function Configuracao() {
         </Cartao>
       </Secao>
 
+      {/* Destino que usa a mesma moeda nao tem cambio para configurar;
+          mostrar o campo so faria o usuario procurar o que fazer com ele. */}
+      {pacote.destino.moeda !== 'BRL' && (
       <Secao
         acao={
           <Botao disabled={buscandoCambio} onClick={() => void atualizarCambio()} tamanho="pequeno">
@@ -238,6 +241,7 @@ export function Configuracao() {
           </p>
         </Cartao>
       </Secao>
+      )}
 
       <Secao titulo="Quando ir">
         {janelas.length === 0 ? (

@@ -107,11 +107,23 @@ describe('melhoria 17: lista de bagagem', () => {
     expect(lista.categorias.Praia).toBeUndefined();
   });
 
-  it('sempre traz os documentos basicos', () => {
+  it('pede identidade, nao passaporte, quando a viagem e dentro do pais', () => {
+    // O pacote de teste e brasileiro e o viajante tambem: nao ha fronteira.
     const lista = listaDeBagagem(viagemDeTeste([dia('d1', QUARTA, 'rio', [])]), pacote);
-    expect(lista.categorias.Documentos?.map((x) => x.nome)).toContain(
-      'Passaporte e copia digital',
-    );
+    const nomes = lista.categorias.Documentos?.map((x) => x.nome) ?? [];
+    expect(nomes).toContain('Documento de identidade com foto');
+    expect(nomes).not.toContain('Passaporte e copia digital');
+  });
+
+  it('pede passaporte quando atravessa a fronteira', () => {
+    const laFora = {
+      ...pacote,
+      destino: { ...pacote.destino, codigoPais: 'CO' },
+    };
+    const lista = listaDeBagagem(viagemDeTeste([dia('d1', QUARTA, 'rio', [])]), laFora);
+    const nomes = lista.categorias.Documentos?.map((x) => x.nome) ?? [];
+    expect(nomes).toContain('Passaporte e copia digital');
+    expect(nomes).toContain('Seguro-viagem com apolice no celular');
   });
 
   it('acrescenta o visto quando o destino exige', () => {

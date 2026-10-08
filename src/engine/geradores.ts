@@ -148,14 +148,45 @@ export interface ListaDeBagagem {
   total: number;
 }
 
-const BASICO: ItemDeBagagem[] = [
-  { nome: 'Passaporte e copia digital', porque: 'documento de viagem', essencial: true },
-  { nome: 'Cartao de credito e algum dinheiro em especie', porque: 'nem todo lugar tem maquininha', essencial: true },
-  { nome: 'Seguro-viagem com apolice no celular', porque: 'atendimento medico fora do pais', essencial: true },
-];
+/**
+ * O basico muda quando a viagem e dentro do proprio pais.
+ *
+ * Pedir passaporte e seguro "para atendimento fora do pais" num roteiro
+ * pelo Nordeste e o tipo de erro que faz o usuario parar de confiar no
+ * resto da lista. A diferenca sai do dado, nao de pais escrito no codigo:
+ * o destino tem `codigoPais` e o viajante tem `nacionalidade`.
+ */
+function basico(domestica: boolean): ItemDeBagagem[] {
+  return [
+    domestica
+      ? {
+          nome: 'Documento de identidade com foto',
+          porque: 'embarque em voo domestico e check-in de hospedagem',
+          essencial: true,
+        }
+      : { nome: 'Passaporte e copia digital', porque: 'documento de viagem', essencial: true },
+    {
+      nome: 'Cartao de credito e algum dinheiro em especie',
+      porque: 'nem todo lugar tem maquininha',
+      essencial: true,
+    },
+    domestica
+      ? {
+          nome: 'Cartao do plano de saude',
+          porque: 'atendimento fora da sua cidade',
+          essencial: false,
+        }
+      : {
+          nome: 'Seguro-viagem com apolice no celular',
+          porque: 'atendimento medico fora do pais',
+          essencial: true,
+        },
+  ];
+}
 
 export function listaDeBagagem(viagem: Viagem, pacote: PacoteDestino): ListaDeBagagem {
-  const categorias: Record<string, ItemDeBagagem[]> = { Documentos: [...BASICO] };
+  const domestica = pacote.destino.codigoPais === viagem.viajantes.nacionalidade;
+  const categorias: Record<string, ItemDeBagagem[]> = { Documentos: basico(domestica) };
   const por = (categoria: string, item: ItemDeBagagem): void => {
     categorias[categoria] ??= [];
     if (!categorias[categoria].some((x) => x.nome === item.nome)) categorias[categoria].push(item);
@@ -179,7 +210,8 @@ export function listaDeBagagem(viagem: Viagem, pacote: PacoteDestino): ListaDeBa
       essencial: true,
     });
   }
-  if (pacote.destino.tomadas) {
+  // Tomada so vira item quando o padrao e outro; dentro do pais, nao e.
+  if (pacote.destino.tomadas && !domestica) {
     por('Eletronicos', {
       nome: `Adaptador de tomada (${pacote.destino.tomadas})`,
       porque: 'padrao de tomada diferente do brasileiro',

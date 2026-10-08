@@ -51,8 +51,11 @@ export default defineConfig({
             },
           },
           {
-            // Imagens do Wikimedia: o app funciona sem elas, entao rede primeiro.
-            urlPattern: /^https:\/\/upload\.wikimedia\.org\/.*/,
+            // Imagens do Wikimedia: o app funciona sem elas, entao rede
+            // primeiro. O padrao cobre upload.wikimedia.org e
+            // thumb.wikimedia.org — a API devolve os dois, e so o primeiro
+            // estava na regra, entao metade das fotos nao ficava offline.
+            urlPattern: /^https:\/\/[a-z]+\.wikimedia\.org\/.*\.(?:jpe?g|png|webp|svg)/i,
             handler: 'StaleWhileRevalidate',
             options: {
               cacheName: 'imagens',
