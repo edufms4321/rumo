@@ -107,12 +107,49 @@ function main(): void {
   // Le TODA onda que declare uma `base`. Uma onda nova entra so soltando o
   // JSON na pasta - nenhuma mudanca de codigo.
   const bases: Json = {};
+  const semBase = new Map<string, number>();
   for (const arquivo of arquivosDaPasta) {
     if (!arquivo.startsWith('onda-')) continue;
     const conteudo = ler(arquivo);
-    if (!conteudo.base || !Array.isArray(conteudo.itens)) continue;
+    if (!Array.isArray(conteudo.itens)) continue;
+
+    /*
+      Duas formas de onda, as duas validas.
+
+      A simples (`base` + `notasDaBase`) foi o suficiente para a Colombia,
+      onde cada onda cobria uma cidade. Para destinos grandes isso nao se
+      sustenta: o Nordeste tem 23 bases, e pesquisar uma por arquivo seria
+      23 ondas. Entao uma onda pode trazer `notasPorBase` — um mapa — e os
+      itens de varias bases juntos. O repartidor usa `cidadeDoItem` para
+      saber de quem e cada item, que e o mesmo mapa que o resto do
+      conversor ja usa.
+    */
+    const notasPorBase = conteudo.notasPorBase as Record<string, Json> | undefined;
+    if (notasPorBase && typeof notasPorBase === 'object') {
+      const itens = conteudo.itens as Array<{ cidade?: string }>;
+      for (const [baseId, notas] of Object.entries(notasPorBase)) {
+        const meus = itens.filter((i) => config.cidadeDoItem[i.cidade ?? ''] === baseId);
+        if (bases[baseId]) console.log(`  aviso: ${arquivo} repete a base "${baseId}"`);
+        bases[baseId] = { base: baseId, coletadoEm: conteudo.coletadoEm, notasDaBase: notas, itens: meus };
+      }
+      // Item cuja cidade nao esta no mapa de apelidos some sem aviso: e o
+      // jeito mais facil de perder pesquisa sem perceber.
+      for (const i of itens) {
+        const chave = i.cidade ?? '(sem cidade)';
+        if (!config.cidadeDoItem[chave]) semBase.set(chave, (semBase.get(chave) ?? 0) + 1);
+      }
+      continue;
+    }
+
+    if (!conteudo.base) continue;
     if (bases[conteudo.base]) console.log(`  aviso: ${arquivo} repete a base "${conteudo.base}"`);
     bases[conteudo.base] = conteudo;
+  }
+  if (semBase.size > 0) {
+    console.log('  AVISO: itens cuja cidade nao esta em cidadeDoItem (ficaram de fora):');
+    for (const [cidade, n] of [...semBase].sort((a, b) => b[1] - a[1])) {
+      console.log(`    ${cidade}: ${n} item(ns)`);
+    }
   }
   console.log(`  bases lidas: ${Object.keys(bases).join(', ') || '(nenhuma)'}\n`);
 

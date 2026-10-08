@@ -15,8 +15,9 @@
  *   npm run imagens -- colombia            # so mostra o que acharia
  *   npm run imagens -- colombia --gravar
  */
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { Ajustes, configDe } from './lib/ajustes.ts';
 
 const AGENTE = 'Rumo/0.1 (planejador de viagem pessoal; github.com/edufms4321/rumo)';
 const ESPERA_MS = 1200;
@@ -164,6 +165,8 @@ async function main() {
     process.exit(1);
   }
 
+  const config = configDe(destino);
+  const ajustes = new Ajustes(config);
   const raiz = join('data', destino);
   const cidades = JSON.parse(readFileSync(join(raiz, 'cidades.json'), 'utf8')) as Array<{
     id: string;
@@ -177,7 +180,6 @@ async function main() {
   for (const arquivo of readdirSync(join(raiz, 'itens'))) {
     const caminho = join(raiz, 'itens', arquivo);
     const itens = JSON.parse(readFileSync(caminho, 'utf8')) as Item[];
-    let mudou = false;
 
     for (const item of itens) {
       if (item.imagens && item.imagens.length > 0) continue;
@@ -206,17 +208,19 @@ async function main() {
       console.log(`      ${escolhida.fonte}`);
 
       if (gravar) {
-        item.imagens = [escolhida];
-        if (!item.fontes.some((f) => f.url === escolhida.fonte)) {
-          item.fontes.push({ url: escolhida.fonte, titulo: 'Wikimedia Commons (imagem)' });
-        }
-        mudou = true;
+        ajustes.paraItem(item.id, {
+          imagens: [escolhida],
+          fontes: [
+            ...item.fontes,
+            { url: escolhida.fonte, titulo: 'Wikimedia Commons (imagem)' },
+          ],
+        });
       }
     }
 
-    if (mudou) writeFileSync(caminho, `${JSON.stringify(itens, null, 2)}\n`);
   }
 
+  if (gravar) ajustes.gravar();
   console.log(`\n${achadas} de ${tentadas} itens ganharam imagem com licenca livre.`);
   if (!gravar) console.log('(nada gravado: rode com --gravar)');
 }

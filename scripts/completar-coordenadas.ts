@@ -16,8 +16,9 @@
  *
  * Politica do Nominatim: 1 requisicao por segundo e User-Agent proprio.
  */
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { Ajustes, configDe } from './lib/ajustes.ts';
 
 const AGENTE = 'Rumo/0.1 (planejador de viagem pessoal; github.com/edufms4321/rumo)';
 const ESPERA_MS = 1100;
@@ -178,6 +179,8 @@ async function main() {
     process.exit(1);
   }
 
+  const config = configDe(destino);
+  const ajustes = new Ajustes(config);
   const raiz = join('data', destino);
   const info = JSON.parse(readFileSync(join(raiz, 'destino.json'), 'utf8')) as {
     caixaDelimitadora: Caixa;
@@ -198,7 +201,6 @@ async function main() {
   for (const arquivo of readdirSync(join(raiz, 'itens'))) {
     const caminho = join(raiz, 'itens', arquivo);
     const itens = JSON.parse(readFileSync(caminho, 'utf8')) as Item[];
-    let mudou = false;
 
     for (const item of itens) {
       if (item.coords) continue;
@@ -229,24 +231,26 @@ async function main() {
       console.log(`  + ${item.nome}\n      ${escolhido.nomeOsm}\n      ${d} · ${escolhido.fonte}`);
 
       if (gravar) {
-        item.coords = escolhido.coord;
-        if (!item.fontes.some((f) => f.url === escolhido.fonte)) {
-          item.fontes.push({ url: escolhido.fonte, titulo: 'OpenStreetMap (coordenada)' });
-        }
         const nota =
-          'Coordenada vinda da busca do OpenStreetMap em ' +
-          hoje +
-          ', nao conferida no local; serve para o mapa e para a estimativa de deslocamento.';
-        item.observacaoDeConfianca = item.observacaoDeConfianca
-          ? `${item.observacaoDeConfianca} ${nota}`
-          : nota;
-        mudou = true;
+          `Coordenada vinda da busca do OpenStreetMap em ${hoje}, nao conferida ` +
+          'no local; serve para o mapa e para a estimativa de deslocamento.';
+        ajustes.paraItem(item.id, {
+          coords: escolhido.coord,
+          // `fontes` substitui a lista inteira, entao vai completa.
+          fontes: [
+            ...item.fontes,
+            { url: escolhido.fonte, titulo: 'OpenStreetMap (coordenada)' },
+          ],
+          observacaoDeConfianca: item.observacaoDeConfianca
+            ? `${item.observacaoDeConfianca} ${nota}`
+            : nota,
+        });
       }
     }
 
-    if (mudou) writeFileSync(caminho, `${JSON.stringify(itens, null, 2)}\n`);
   }
 
+  if (gravar) ajustes.gravar();
   console.log(`\n${achados} de ${tentados} tentativas acharam ponto no OSM.`);
   if (semResposta.length > 0) {
     console.log(`\nSem resposta confiavel (ficam sem coordenada, de proposito):`);
