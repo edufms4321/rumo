@@ -279,3 +279,20 @@ test('da para mover um bloco so com o teclado', async ({ page }) => {
   const comShift = (await bloco.getAttribute('aria-label')) ?? '';
   expect(hora(comShift)).toBe(hora(depois));
 });
+
+test('destino domestico nao pede passaporte, visto nem cambio', async ({ page }) => {
+  await criarViagem(page, 'nordeste');
+  await definirDatas(page, '2027-07-10', '2027-07-14');
+
+  // Nada de visto nem de cotacao: o destino usa a mesma moeda e o mesmo pais.
+  await expect(page.getByText(/exige visto/)).toHaveCount(0);
+  await expect(page.getByRole('button', { name: 'Buscar cotacao' })).toHaveCount(0);
+
+  await page.getByRole('link', { name: 'Descobrir' }).click();
+  await expect(page.getByText(/\d+ resultados/)).toBeVisible();
+
+  // A lista de bagagem pede identidade, nao passaporte.
+  await page.getByRole('link', { name: 'Exportar' }).click();
+  await expect(page.getByText('Documento de identidade com foto')).toBeVisible();
+  await expect(page.getByText('Passaporte e copia digital')).toHaveCount(0);
+});
