@@ -34,6 +34,8 @@ export function Inicio() {
     if (!arquivo) return;
     const resultado = importarJson(await arquivo.text());
     definirRecado(resultado.mensagem);
+    // Quem restaura um backup quer ver a viagem, nao a lista.
+    if (resultado.viagemId) navegar(`/viagem/${resultado.viagemId}/calendario`);
   }
 
   return (
@@ -74,7 +76,10 @@ export function Inicio() {
         </div>
 
         {recado && (
-          <p className="mb-3 rounded-[var(--raio)] bg-[var(--cor-acento-fraco)] px-3 py-2 text-xs text-[var(--cor-acento-forte)]">
+          <p
+            className="mb-3 rounded-[var(--raio)] bg-[var(--cor-acento-fraco)] px-3 py-2 text-xs text-[var(--cor-acento-forte)]"
+            role="status"
+          >
             {recado}
           </p>
         )}

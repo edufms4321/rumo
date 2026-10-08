@@ -194,3 +194,57 @@ test('um segundo destino funciona igual, sem nada especifico de pais', async ({ 
   await page.getByRole('link', { name: 'Ajustes' }).click();
   await expect(page.getByText(/exige visto/)).toBeVisible();
 });
+
+test('backup sai e volta', async ({ page }) => {
+  await criarViagem(page);
+  await definirDatas(page, '2027-02-10', '2027-02-12');
+  await page.getByRole('link', { name: 'Descobrir' }).click();
+  const nome = await page.locator('main ul li h3').first().innerText();
+  await page.getByRole('button', { name: 'Favoritar' }).first().click();
+
+  // Baixa o backup.
+  await page.getByRole('link', { name: 'Exportar' }).click();
+  const baixando = page.waitForEvent('download');
+  await page.getByRole('button', { name: 'Gerar: Backup (.json)' }).click();
+  const arquivo = await (await baixando).path();
+
+  // Apaga tudo e devolve o arquivo.
+  await page.evaluate(
+    async () =>
+      new Promise<void>((pronto) => {
+        localStorage.clear();
+        // idb-keyval guarda tudo no banco 'keyval-store'.
+        const pedido = indexedDB.deleteDatabase('keyval-store');
+        pedido.onsuccess = () => pronto();
+        pedido.onerror = () => pronto();
+        pedido.onblocked = () => pronto();
+      }),
+  );
+  // Volta ao inicio: e de la que se restaura um backup num aparelho novo,
+  // onde nenhuma viagem existe ainda.
+  await page.goto('/');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('Planeje a viagem inteira');
+  await expect(page.getByText('Nenhuma viagem ainda')).toBeVisible();
+
+  // Importar abre a viagem restaurada direto, que e o que se quer ver.
+  await page.locator('input[type=file]').setInputFiles(arquivo);
+  await expect(page.getByRole('heading', { name: 'Calendario da viagem' })).toBeVisible();
+  await page.getByRole('link', { name: 'Selecao' }).click();
+  await expect(page.getByText(nome).first()).toBeVisible();
+});
+
+test('uma tela quebrada nao apaga o app', async ({ page }) => {
+  await page.goto('/');
+  // Rota de viagem que nao existe: o app tem de reagir, nao sumir.
+  await page.goto('/#/viagem/nao-existe/calendario');
+  await expect(page.locator('body')).not.toHaveText('');
+  // Se a cerca pegou, ela promete que o dado esta salvo.
+  const quebrou = await page.getByText('Esta tela quebrou').isVisible().catch(() => false);
+  if (quebrou) {
+    await expect(page.getByText('A sua viagem nao se perdeu')).toBeVisible();
+    await page.getByRole('button', { name: 'Voltar ao inicio' }).click();
+    await expect(page.getByRole('heading', { level: 1 })).toContainText(
+      'Planeje a viagem inteira',
+    );
+  }
+});

@@ -105,7 +105,7 @@ interface Acoes {
   abrirViagem: (id: string) => void;
   apagarViagem: (id: string) => void;
   alterar: (muda: (v: Viagem) => void) => void;
-  importarJson: (texto: string) => { ok: boolean; mensagem: string };
+  importarJson: (texto: string) => { ok: boolean; mensagem: string; viagemId?: string };
   garantirPacote: (destinoId: string) => Promise<void>;
 }
 
@@ -213,6 +213,7 @@ export const usarLoja = create<LojaDaViagem>()(
           return {
             ok: true,
             mensagem: `${validas.length} viagem(ns) importada(s).`,
+            ...(validas[0]?.id ? { viagemId: validas[0].id } : {}),
           };
         } catch {
           return { ok: false, mensagem: 'Nao consegui ler o arquivo: nao e um JSON valido.' };

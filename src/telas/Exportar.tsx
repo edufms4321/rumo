@@ -1,18 +1,29 @@
-import { CalendarDays, Download, FileText, Luggage, Map, Printer } from 'lucide-react';
-import { useMemo } from 'react';
+import { CalendarDays, Download, FileText, Luggage, Map, Printer, Upload } from 'lucide-react';
+import { useMemo, useRef, useState } from 'react';
 import { Botao, Cartao, Secao, Selo, Vazio } from '../componentes/ui.tsx';
 import { listaDeBagagem } from '../engine/geradores.ts';
 import { resolverDia } from '../engine/resolver-dia.ts';
 import { paraHHMM } from '../engine/tempo.ts';
 import { usarLoja, usarPacote, usarViagem } from '../store/viagem.ts';
 
+/**
+ * O ancora precisa estar no documento e a URL do blob precisa sobreviver ao
+ * clique: revogar na mesma linha aborta a transferencia antes de o navegador
+ * ler o blob. Dai o append + o revoke no proximo tique.
+ */
 function baixar(nome: string, conteudo: string, tipo: string): void {
   const url = URL.createObjectURL(new Blob([conteudo], { type: tipo }));
   const a = document.createElement('a');
   a.href = url;
   a.download = nome;
+  a.rel = 'noopener';
+  a.style.display = 'none';
+  document.body.append(a);
   a.click();
-  URL.revokeObjectURL(url);
+  setTimeout(() => {
+    a.remove();
+    URL.revokeObjectURL(url);
+  }, 0);
 }
 
 /** Escapa o que o formato .ics trata como separador. */
@@ -29,6 +40,9 @@ export function Exportar() {
   const viagem = usarViagem();
   const pacote = usarPacote();
   const viagens = usarLoja((e) => e.viagens);
+  const importarJson = usarLoja((e) => e.importarJson);
+  const campoDeArquivo = useRef<HTMLInputElement>(null);
+  const [recado, definirRecado] = useState<{ ok: boolean; mensagem: string }>();
 
   const bagagem = useMemo(
     () => (viagem && pacote ? listaDeBagagem(viagem, pacote) : undefined),
@@ -89,6 +103,19 @@ export function Exportar() {
     );
   }
 
+  async function aoEscolherArquivo(evento: React.ChangeEvent<HTMLInputElement>) {
+    const arquivo = evento.target.files?.[0];
+    // Limpa o campo na hora: sem isso, escolher o mesmo arquivo de novo nao
+    // dispara o evento e parece que o botao morreu.
+    evento.target.value = '';
+    if (!arquivo) return;
+    try {
+      definirRecado(importarJson(await arquivo.text()));
+    } catch {
+      definirRecado({ ok: false, mensagem: 'Nao consegui abrir o arquivo.' });
+    }
+  }
+
   function linkDoMapa(diaId: string): string | undefined {
     if (!viagem || !pacote) return undefined;
     const dia = viagem.dias.find((d) => d.id === diaId);
@@ -132,12 +159,38 @@ export function Exportar() {
             titulo="Backup (.json)"
           />
           <Acao
+            aoClicar={() => campoDeArquivo.current?.click()}
+            descricao="Devolve um backup .json para este navegador: trocou de celular, limpou os dados, ou quer a viagem em dois aparelhos. Viagens com o mesmo id sao substituidas."
+            icone={<Upload size={18} />}
+            rotulo="Escolher arquivo"
+            titulo="Restaurar backup"
+          />
+          <Acao
             aoClicar={() => window.print()}
             descricao="A mesma impressao, mas use 'Salvar como PDF' e marque 'Graficos de fundo' para manter as cores dos alertas."
             icone={<FileText size={18} />}
             titulo="Versao para imprimir"
           />
         </div>
+        <input
+          accept="application/json,.json"
+          className="hidden"
+          onChange={aoEscolherArquivo}
+          ref={campoDeArquivo}
+          type="file"
+        />
+        {recado && (
+          <p
+            className={`mt-3 rounded-[var(--raio)] border p-2.5 text-xs ${
+              recado.ok
+                ? 'border-[var(--cor-verificado)] bg-[var(--cor-verificado-fundo)]'
+                : 'border-[var(--cor-erro-borda)] bg-[var(--cor-erro-fundo)]'
+            }`}
+            role="status"
+          >
+            {recado.mensagem}
+          </p>
+        )}
       </Secao>
 
       <Secao titulo="Abrir no Google Maps, por dia">
@@ -213,11 +266,13 @@ function Acao({
   titulo,
   descricao,
   aoClicar,
+  rotulo = 'Gerar',
 }: {
   icone: React.ReactNode;
   titulo: string;
   descricao: string;
   aoClicar: () => void;
+  rotulo?: string;
 }) {
   return (
     <Cartao className="flex flex-col p-4">
@@ -226,8 +281,16 @@ function Acao({
       <p className="mt-1 flex-1 text-xs leading-relaxed text-[var(--cor-texto-suave)]">
         {descricao}
       </p>
-      <Botao className="mt-3 self-start" onClick={aoClicar} tamanho="pequeno" variante="contorno">
-        Gerar
+      {/* O rotulo visivel e curto, mas "Gerar" quatro vezes nao diz nada a
+          quem usa leitor de tela: o aria-label carrega o titulo do cartao. */}
+      <Botao
+        aria-label={`${rotulo}: ${titulo}`}
+        className="mt-3 self-start"
+        onClick={aoClicar}
+        tamanho="pequeno"
+        variante="contorno"
+      >
+        {rotulo}
       </Botao>
     </Cartao>
   );
