@@ -137,7 +137,7 @@ export function pacoteDeTeste(opcoes: { comTrechoAereo?: boolean } = {}): Pacote
         reserva: { necessaria: false },
         contato: {},
         imagens: [],
-        restricoes: { outras: [] },
+        restricoes: { outras: [], dependeDeClima: true, dependeDeLuzDoDia: true },
         selos: [],
         dicas: [],
         alertas: [],

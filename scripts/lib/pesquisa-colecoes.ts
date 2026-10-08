@@ -271,6 +271,7 @@ export function construirCidades(
   bases: Bases,
   ajustes: Json,
   config: ConfigDeDestino,
+  matrizCalculada: Json = {},
 ): Json[] {
   const patchesDeCidade: Json = ajustes.cidades ?? {};
   const notasPorCidade: Record<string, Json> = {};
@@ -362,7 +363,7 @@ export function construirCidades(
       bairros: bairrosDaBase(notas),
       ...(notas?.comoCircular ? { comoCircular: String(notas.comoCircular).slice(0, 3000) } : {}),
       ...(config.fatores[id] ? { fatoresDeslocamento: config.fatores[id] } : {}),
-      matrizInterna: [],
+      matrizInterna: (matrizCalculada[id] ?? []) as Json[],
       climaPorMes: climaDaCidade(logistica, id, config),
       ...(notas?.segurancaPorBairro
         ? { seguranca: String(notas.segurancaPorBairro).slice(0, 3000) }

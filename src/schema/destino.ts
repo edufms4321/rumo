@@ -55,6 +55,38 @@ export const Destino = BaseRecord.extend({
     esim: z.string().optional(),
     fontes: z.array(Fonte).default([]),
   }),
+  /**
+   * MELHORIA 16 — contatos de emergencia num lugar so.
+   * Opcional porque nem todo pacote vai ter isto pesquisado, e um campo
+   * vazio e melhor que um numero errado numa emergencia.
+   */
+  emergencia: z
+    .object({
+      numeroUnico: z.string().optional(),
+      policia: z.string().optional(),
+      bombeiros: z.string().optional(),
+      ambulancia: z.string().optional(),
+      policiaTuristica: z.string().optional(),
+      representacaoBrasileira: z
+        .array(
+          z.object({
+            nome: z.string().min(1),
+            tipo: z.enum(['embaixada', 'consulado-geral', 'consulado-honorario', 'vice-consulado']),
+            cidade: z.string().min(1),
+            endereco: z.string().optional(),
+            telefone: z.string().optional(),
+            /** Numero de plantao, so para emergencia de brasileiro. */
+            plantao: z.string().optional(),
+            email: z.string().optional(),
+            horario: z.string().optional(),
+            fontes: z.array(Fonte).min(1),
+          }),
+        )
+        .default([]),
+      observacoes: z.string().optional(),
+      fontes: z.array(Fonte).default([]),
+    })
+    .optional(),
   linksUteis: z.array(z.object({ titulo: z.string().min(1), url: Url })).default([]),
 });
 export type Destino = z.infer<typeof Destino>;

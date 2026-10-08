@@ -525,5 +525,47 @@
       "valeEstarPresente": "evite",
       "descricao": "Fechamento sazonal para descanso ecologico e espiritual, em territorio ancestral dos povos Kogui, Wiwa, Arhuaco e Kankuamo. Quem chegar a Santa Marta antes de 3 de novembro nao entra no Tayrona; alternativas abertas no periodo sao Bahia Concha e Playa Palangana."
     }
-  ]
+  ],
+  "_leia_destino": "Ajustes no registro do pais, escritos a mao apos verificacao em fonte primaria pelo agente principal.",
+  "destino": {
+    "emergencia": {
+      "numeroUnico": "123",
+      "observacoes": "A Colombia usa a linha unica 123 para policia, bombeiros e ambulancia. O numero 123 NAO foi confirmado em pagina oficial nesta coleta: esta como pendencia. O plantao da Embaixada e so para emergencia de brasileiro (morte, prisao, violencia, acidente grave, hospitalizacao), nao para duvida de documento.",
+      "representacaoBrasileira": [
+        {
+          "nome": "Embaixada do Brasil em Bogota",
+          "tipo": "embaixada",
+          "cidade": "Bogota",
+          "plantao": "+57 310 809 6169",
+          "email": "consular.bogota@itamaraty.gov.br",
+          "horario": "segunda a sexta, 9h as 12h, exceto feriados; sem atendimento telefonico fora de emergencia",
+          "fontes": [
+            {
+              "url": "https://www.gov.br/mre/pt-br/embaixada-bogota/consular/brasileiros"
+            }
+          ]
+        },
+        {
+          "nome": "Consulado Honorario em Cartagena",
+          "tipo": "consulado-honorario",
+          "cidade": "Cartagena",
+          "endereco": "Carrera 2 No. 41-29, Calle Real del Cabrero",
+          "telefone": "+57 5 656 6064",
+          "fontes": [
+            {
+              "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
+            }
+          ]
+        }
+      ],
+      "fontes": [
+        {
+          "url": "https://www.gov.br/mre/pt-br/embaixada-bogota/consular/brasileiros"
+        },
+        {
+          "url": "http://www.portalconsular.itamaraty.gov.br/no-exterior/plantao-consular-3"
+        }
+      ]
+    }
+  }
 }

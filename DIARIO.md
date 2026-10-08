@@ -167,3 +167,29 @@ Decisões que valem registrar:
 A regressão da Colômbia passou idêntica (169 itens, mesmos números) depois do refactor, que é como eu sei que a extração não mudou comportamento.
 
 **Estado:** 312 itens em dois países, 0 erro de validação, 98 testes, typecheck e lint limpos. Três agentes do México ainda rodando (Cidade do México, Yucatán, Bajío) e um da Colômbia (clima dos 12 meses).
+
+---
+
+## 2026-10-08 17:35 — as 20 melhorias, parte 2
+
+Executadas as seis de engenharia que faltavam: 1, 4, 6, 10, 16 e 19. Com as dez da leva anterior, faltam só as três de interface (2, 5, 15) e a 8, que é pós-v1.
+
+**Matriz de rotas reais (1).** `npm run matriz -- <destino>` calcula de uma vez, por cidade, o tempo real de carro entre todos os itens com coordenada, e grava no banco. 1.301 pares na Colômbia, 1.353 no México. O trajeto que antes dizia "estimativa: 1,3 km em linha reta × 1,35" agora diz "4 min — trecho medido no banco".
+
+É script separado e opcional de propósito: usa o servidor público de demonstração do OSRM, que existe para teste, não para carga. Uma requisição por cidade, com espera entre elas, e **nada no app depende disso em execução** — sem a matriz o estimador cai na camada 3 e avisa que é estimativa. Limite honesto: o servidor público só roteia carro, então caminhada continua saindo por haversine, que é justamente onde a linha reta erra menos.
+
+**Regressão que eu mesmo introduzi e peguei olhando a saída:** com a matriz ligada, um salto de 264 m passou a sair "3 min de carro de app", porque a matriz (só de carro) vencia o estimador até onde qualquer um vai a pé. Tecnicamente certo e inútil. O modal passou a ser decidido **antes** de consultar a matriz. Três testes de regressão.
+
+**Plano B de chuva (4).** Para um dia, lista o que depende de clima e propõe alternativas cobertas **da mesma cidade** que cabem na mesma duração — trocar uma praia de 5 h por um museu de 45 min deixaria o dia oco. Propõe, nunca aplica.
+
+**Idade do dado (6).** `coletadoEm` já existia em todo registro e não servia de nada enquanto a tela não dissesse "coletado há 4 meses". Três níveis, e a frase muda de tom conforme envelhece. A confirmação do usuário (melhoria 7) vence o banco na exibição sem apagá-lo.
+
+**Câmbio automático (10).** Fora de `src/engine/` de propósito: o motor é puro e não faz rede. Falha é o caso normal — viagem se planeja em avião e em hotel com wi-fi ruim. Se a rede cair, mantém a taxa anterior e diz por quê. Taxa travada a mão nunca é sobrescrita.
+
+**Contatos de emergência (16).** Confirmei direto no Itamaraty o plantão da Embaixada em Bogotá (+57 310 809 6169) e o horário. O 123 da Colômbia e o 911 do México **não** confirmei em página oficial nesta coleta: estão gravados com essa ressalva no próprio campo.
+
+**Comparar roteiros (19).** Resume dois roteiros em números comparáveis e devolve frases dizendo em que cada um ganha. Avisa quando a comparação de custo é fraca por falta de preço no banco.
+
+**Estado:** 146 testes, typecheck e lint limpos, 435 itens em dois países com 0 erro de validação.
+
+**Próximo:** a interface. É onde tudo isto finalmente aparece.

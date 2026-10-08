@@ -169,6 +169,7 @@ export const Cambio = z.object({
   atualizadoEm: IsoDate,
   manual: z.boolean().default(true),
 });
+export type Cambio = z.infer<typeof Cambio>;
 
 /**
  * MELHORIA 9 — gasto real.

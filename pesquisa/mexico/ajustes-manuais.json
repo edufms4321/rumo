@@ -1,0 +1,30 @@
+{
+  "_leia": "Ajustes manuais do pacote do Mexico, verificados em fonte primaria pelo agente principal.",
+  "destino": {
+    "emergencia": {
+      "numeroUnico": "911",
+      "observacoes": "O Mexico unificou a emergencia no 911. O numero NAO foi confirmado em pagina oficial nesta coleta: esta como pendencia. O telefone do Consulado-Geral veio de resumo de busca do Portal Consular, nao de pagina aberta: confirme antes de contar com ele.",
+      "representacaoBrasileira": [
+        {
+          "nome": "Consulado-Geral do Brasil na Cidade do Mexico",
+          "tipo": "consulado-geral",
+          "cidade": "Cidade do Mexico",
+          "telefone": "+52 1 55 3455 3991",
+          "fontes": [
+            {
+              "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
+            }
+          ]
+        }
+      ],
+      "fontes": [
+        {
+          "url": "http://www.portalconsular.itamaraty.gov.br/rede-consular"
+        },
+        {
+          "url": "http://www.portalconsular.itamaraty.gov.br/no-exterior/plantao-consular-3"
+        }
+      ]
+    }
+  }
+}

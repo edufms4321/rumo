@@ -292,3 +292,72 @@ describe('estimarDeslocamento direto', () => {
     expect(d.minutos).toBeGreaterThanOrEqual(1);
   });
 });
+
+describe('melhoria 1: matriz de rotas reais nao atropela a caminhada', () => {
+  function pacoteComMatriz() {
+    const p = pacoteDeTeste();
+    const sp = p.cidades.find((c) => c.id === 'sao-paulo')!;
+    // A matriz calculada so tem rota de CARRO: e o que o servidor publico
+    // de roteamento oferece.
+    sp.matrizInterna = [
+      {
+        de: 'br-sp-almoco',
+        para: 'br-sp-pinacoteca',
+        modal: 'carro-app',
+        minutos: 7,
+        fontes: [{ url: 'https://project-osrm.org/' }],
+      },
+      {
+        de: 'br-sp-almoco',
+        para: 'br-sp-perto',
+        modal: 'carro-app',
+        minutos: 2,
+        fontes: [{ url: 'https://project-osrm.org/' }],
+      },
+    ];
+    // Um item a 200 m do almoco: distancia de caminhada.
+    p.itens.push({
+      ...p.itens.find((i) => i.id === 'br-sp-pinacoteca')!,
+      id: 'br-sp-perto',
+      nome: 'Banca da esquina',
+      coords: { lat: -23.5493, lng: -46.6361 },
+    });
+    return p;
+  }
+
+  it('usa a rota real quando a distancia pede carro', () => {
+    const pacote = pacoteComMatriz();
+    const d = dia('d1', '2026-11-18', 'sao-paulo', [
+      atividade('b1', ALMOCO, paraMinutos('12:00'), 60),
+      atividade('b2', PINACOTECA, paraMinutos('14:00'), 90),
+    ]);
+    const lacuna = resolverDia(viagemDeTeste([d]), d, pacote, { incluirHospedagem: false })
+      .lacunas[0];
+    expect(lacuna?.deslocamento?.camada).toBe('matriz-da-cidade');
+    expect(lacuna?.deslocamento?.minutos).toBe(7);
+  });
+
+  it('ignora a rota de carro quando a pe e o natural, mesmo havendo par na matriz', () => {
+    const pacote = pacoteComMatriz();
+    const d = dia('d1', '2026-11-18', 'sao-paulo', [
+      atividade('b1', ALMOCO, paraMinutos('12:00'), 60),
+      atividade('b2', 'br-sp-perto', paraMinutos('14:00'), 30),
+    ]);
+    const lacuna = resolverDia(viagemDeTeste([d]), d, pacote, { incluirHospedagem: false })
+      .lacunas[0];
+    expect(lacuna?.deslocamento?.modal).toBe('a-pe');
+    expect(lacuna?.deslocamento?.camada).toBe('estimativa');
+  });
+
+  it('respeita o carro quando o usuario escolhe carro no trecho curto', () => {
+    const pacote = pacoteComMatriz();
+    const d = dia('d1', '2026-11-18', 'sao-paulo', [
+      atividade('b1', ALMOCO, paraMinutos('12:00'), 60),
+      atividade('b2', 'br-sp-perto', paraMinutos('14:00'), 30),
+    ]);
+    const viagem = viagemDeTeste([d], { 'b1>b2': { modal: 'carro-app' } });
+    const lacuna = resolverDia(viagem, d, pacote, { incluirHospedagem: false }).lacunas[0];
+    expect(lacuna?.deslocamento?.camada).toBe('matriz-da-cidade');
+    expect(lacuna?.deslocamento?.minutos).toBe(2);
+  });
+});

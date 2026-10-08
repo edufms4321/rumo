@@ -43,6 +43,7 @@ import {
   avisos,
   filtrarSemFonte,
   gravar,
+  mesclar,
   relatorioDeDerivacoes,
 } from './lib/pesquisa-utils.ts';
 
@@ -118,13 +119,25 @@ function main(): void {
     ? ler('ajustes-manuais.json')
     : {};
 
-  gravar(SAIDA, 'destino.json', construirDestino(logistica, config));
+  // MELHORIA 1: matriz de rotas reais, se ja foi calculada (npm run matriz).
+  const matriz: Json = existsSync(join(PESQUISA, 'matriz-interna.json'))
+    ? ler('matriz-interna.json')
+    : {};
+  const paresDeMatriz = Object.values(matriz).reduce(
+    (n: number, lista) => n + (Array.isArray(lista) ? lista.length : 0),
+    0,
+  );
+  if (paresDeMatriz > 0) console.log(`  matriz de rotas reais: ${paresDeMatriz} pares
+`);
+
+  const destino = construirDestino(logistica, config);
+  gravar(SAIDA, 'destino.json', ajustes.destino ? mesclar(destino, ajustes.destino) : destino);
   gravar(SAIDA, 'regioes.json', filtrarSemFonte(construirRegioes(logistica, config), 'regiao'));
   gravar(SAIDA, 'aeroportos.json', filtrarSemFonte(construirAeroportos(logistica), 'aeroporto'));
   gravar(
     SAIDA,
     'cidades.json',
-    filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes, config), 'cidade'),
+    filtrarSemFonte(construirCidades(logistica, coords, bases, ajustes, config, matriz), 'cidade'),
   );
 
   const itensPorCidade = construirItens(Object.values(bases), ajustes, config);

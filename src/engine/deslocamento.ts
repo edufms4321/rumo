@@ -347,6 +347,17 @@ export function estimarDeslocamento(
   // ------------------------------------------------------- dentro da cidade
   const cidade = acharCidade(pacote, de.cidadeId);
 
+  /**
+   * O modal tem de ser decidido ANTES de olhar a matriz. A matriz de rotas
+   * reais so tem carro, e sem este cuidado ela venceria tambem nos 200 m
+   * que qualquer um faz a pe - trocando um "4 min a pe" correto por um
+   * "3 min de carro de app" tecnicamente certo e inutil.
+   */
+  const kmEntrePontos =
+    de.coords && para.coords ? distanciaKm(de.coords, para.coords) : undefined;
+  const modalPretendido =
+    modalEscolhido ?? (kmEntrePontos === undefined ? undefined : modalPadrao(kmEntrePontos));
+
   const chaveA = chaveDePonto(de);
   const chaveB = chaveDePonto(para);
   if (cidade && chaveA && chaveB) {
@@ -354,7 +365,7 @@ export function estimarDeslocamento(
       (m) =>
         (m.de === chaveA && m.para === chaveB) || (m.de === chaveB && m.para === chaveA),
     );
-    if (par && (!modalEscolhido || par.modal === modalEscolhido)) {
+    if (par && (!modalPretendido || par.modal === modalPretendido)) {
       const modal = (par.modal as Modal) ?? 'carro-app';
       return {
         minutos: par.minutos,
@@ -377,8 +388,8 @@ export function estimarDeslocamento(
     return semDados(de, para, modalEscolhido ?? 'carro-app', `falta a coordenada de ${semCoord}`);
   }
 
-  const km = distanciaKm(de.coords, para.coords);
-  const modal = modalEscolhido ?? modalPadrao(km);
+  const km = kmEntrePontos ?? distanciaKm(de.coords, para.coords);
+  const modal = modalPretendido ?? modalPadrao(km);
   const { fator, daCidade } = fatorDoModal(cidade, modal);
   const kmReais = km * fator.fatorRota;
   const minutos = Math.max(1, Math.round((kmReais / fator.kmh) * 60));
