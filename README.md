@@ -1,10 +1,18 @@
 # Rumo
 
+**No ar: https://edufms4321.github.io/rumo/**
+
 Web app para planejar uma viagem de ponta a ponta: descobrir opções, favoritar, montar o roteiro arrastando atividades para os dias — e o app calcula deslocamento, detecta conflitos e controla tempo livre e orçamento em tempo real.
 
 Genérico e multi-destino. Local-first: tudo fica no navegador, sem backend, sem login, sem chave de API paga.
 
-Primeiro pacote de dados: **Colômbia**.
+Pacotes de dados hoje: **Colômbia** e **México**. Adicionar um destino é criar uma pasta em `data/` — nenhuma linha de código do app muda. Veja [`docs/como-adicionar-destino.md`](docs/como-adicionar-destino.md).
+
+## O que o diferencia de uma planilha
+
+Cada informação mostra **de onde veio, quando foi coletada e o quanto se pode confiar nela**. Isso não é promessa escrita: `scripts/validate-data.ts` reprova o build quando um registro não tem fonte, e o deploy só acontece se o validador passar. Um preço sem fonte impede o site de subir.
+
+O que o app nunca faz: inventar telefone, preço, horário, endereço ou coordenada para preencher espaço. Sem fonte confiável, o campo fica vazio e aparece marcado assim.
 
 ## Rodar
 
