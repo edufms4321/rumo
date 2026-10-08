@@ -118,27 +118,44 @@ npm run validate          # typecheck + lint + test + validate:data
 
 ## Estado atual
 
-**Fases 1 a 6 fechadas.** Dois destinos no banco, interface completa, publicação configurada.
+**Fases 1 a 6 fechadas e o app publicado:** https://edufms4321.github.io/rumo/ (repo `edufms4321/rumo`, deploy a cada push atrás do validador).
 
 | | |
 |---|---|
-| testes do motor | 146, verdes |
-| testes de navegador | 15 Playwright + 3 de acessibilidade, verdes |
-| banco | 435 itens (169 Colômbia, 266 México), 0 erro, 289 avisos |
-| pacote final | 169 kB gz no carregamento inicial; o banco de cada destino vem sob demanda |
+| destinos | 3 — Colômbia, México, Nordeste brasileiro |
+| itens | 731 em 57 bases |
+| testes do motor | 147, verdes |
+| testes de navegador | 20 Playwright + 3 de acessibilidade, verdes |
+| validação de dados | 0 erro |
 | acessibilidade | 0 violação axe em 9 telas × 2 temas |
+| pacote inicial | ~171 kB gz; o banco de cada destino vem sob demanda |
+
+O Nordeste está **incompleto de propósito**: faltam Pernambuco, Fernando de Noronha e Alagoas (a onda de pesquisa foi interrompida). As 17 bases que existem funcionam.
 
 ## Armadilhas já pagas (não repetir)
 
-- **O atributo de tema é `data-tema`, com valores `claro` e `escuro`** — não `data-theme`/`light`/`dark`. Eu já perdi tempo varrendo acessibilidade no tema errado e concluindo que estava tudo certo. Para testar tema no navegador, use `emulateMedia` ou o atributo correto.
-- **IndexedDB não termina antes de a aba fechar.** `pagehide` não resolve, porque o navegador não espera promessa. Por isso existe o espelho síncrono em `localStorage` (`rumo:biblioteca:espelho:v1`); na abertura vence o mais recente dos dois.
-- **Revogar a URL de um blob na mesma linha do clique aborta o download.** O âncora precisa estar no documento e o revoke vai no próximo tique.
-- **O `h1` da página mora no `Layout`**, derivado da rota, porque várias telas trocam o conteúdo inteiro por um estado vazio e ficavam sem cabeçalho nenhum. Os títulos das telas são `h2`.
-- **Contraste se calcula, não se olha.** Os valores de `--cor-texto-fraco` e `--cor-atencao` têm a razão medida no comentário do CSS.
+- **O atributo de tema é `data-tema`, com valores `claro` e `escuro`** — não `data-theme`/`light`/`dark`. Já varri acessibilidade no tema errado e concluí que estava tudo certo.
+- **IndexedDB não termina antes de a aba fechar.** `pagehide` não resolve. Por isso existe o espelho síncrono em `localStorage` (`rumo:biblioteca:espelho:v1`).
+- **Revogar a URL de um blob na mesma linha do clique aborta o download.**
+- **O `h1` da página mora no `Layout`**, derivado da rota; os títulos das telas são `h2`.
+- **Contraste se calcula, não se olha.** As razões estão nos comentários do CSS.
+- **Os scripts de enriquecimento escrevem em `ajustes-manuais.json`, nunca em `/data`.** `/data` é regenerado pelo importador; escrever lá perde o trabalho na próxima importação (já perdi duas coordenadas assim).
+- **Casar nome de lugar por texto erra feio.** Buscar coordenada por `display_name` me deu um café no lugar da cidade de Filandia e uma pousada no lugar da Playa San Luis; buscar imagem sem exigir a cidade me deu uma praia "Coco Loco" para uma discoteca. Rode sempre sem `--gravar` primeiro.
+- **Campo numérico 0 nos arquivos de pesquisa significa "sem fonte"**, não zero de verdade.
 
 ## Comandos de verificação (rodar antes de dizer que algo está pronto)
 
 ```bash
-npm run validate   # tipos + lint + 146 testes + banco
-npm run e2e        # 18 testes de navegador, contra o build de produção
+npm run validate   # tipos + lint + 147 testes + banco
+npm run e2e        # 23 testes de navegador, contra o build de produção
+```
+
+## Ferramentas de dados
+
+```bash
+npm run importar:pesquisa -- <destino>   # pesquisa crua -> banco
+npm run coords:cidades -- <destino>      # centro e altitude das bases (OSM + Open-Meteo)
+npm run coords -- <destino> [--gravar]   # coordenada de itens (OSM)
+npm run imagens -- <destino> [--gravar]  # imagem de licença livre (Wikimedia)
+npm run pendencias                       # regera docs/pendencias-de-verificacao.md
 ```

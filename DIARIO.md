@@ -215,3 +215,24 @@ Fechei a Fase 6 e, no caminho, a suíte de ponta a ponta achou cinco defeitos re
 **Publicação.** GitHub Pages a cada push na `main`, atrás do `npm run validate` + `npm run e2e`. Um registro sem fonte impede o site de subir (D25). `netlify.toml` como alternativa, `docs/publicar.md` com o passo a passo.
 
 Números de hoje: 146 testes de motor, 18 de navegador, 435 itens em dois países, 0 erro de validação, 0 violação de acessibilidade, 169 kB gz no carregamento inicial.
+
+## 2026-10-08 20:10 — App publicado, Nordeste no banco, e o que o ICMBio desmentiu
+
+**O app está no ar:** https://edufms4321.github.io/rumo/ — repositório `edufms4321/rumo`, deploy a cada push **atrás do validador de dados**. Um registro sem fonte impede o site de subir. Verifiquei no endereço real, não só local: link profundo recarrega, 169 itens carregam, service worker registrado, zero erro de console, zero resposta 4xx.
+
+**Nordeste no banco:** 296 itens em 17 das 23 bases. Faltam Pernambuco, Fernando de Noronha e Alagoas — a onda de pesquisa foi interrompida por limite e foi relançada. Terceiro destino, e o primeiro **doméstico**, o que expôs três lugares onde o app assumia que toda viagem cruza fronteira: pedia passaporte e seguro internacional na mala, listava adaptador de tomada e mostrava campo de câmbio para uma viagem em reais. Agora tudo sai do dado (`codigoPais` × `nacionalidade`), sem Brasil escrito no código, e há teste e2e travando isso.
+
+**O ICMBio desmentiu a pesquisa no ponto que mais importa.** A janela das lagoas dos Lençóis — o fato que decide a viagem ao Maranhão — tinha vindo de blog. A página oficial diz outra coisa e melhor: o parque é aberto o ano inteiro, o ICMBio **não cobra ingresso**, e as lagoas além da Azul "aparecem e desaparecem" conforme chuva, vento e a dinâmica das dunas. **Não existe calendário publicado.** Junho-setembro ficou, mas rotulado como padrão típico de fontes de viagem, com a posição do órgão ao lado e a recomendação de ligar para o parque. Também entrou a exigência de veículo, condutor e guia credenciados, com crachá para pedir.
+
+**Verifiquei dois números eu mesmo, em vez de repassar:** Recife tem 390,5 mm em junho contra 39,0 mm em novembro (INMET 1991-2020, conferido na fonte) — o litoral leste chove no meio do ano e o norte no começo, então **não existe mês bom para o Nordeste inteiro**. E o Carnaval de 2027 cai em 9 de fevereiro, calculado pelo algoritmo da Páscoa, não lembrado.
+
+**Erros meus desta sessão, todos custaram retrabalho:**
+
+1. Varri acessibilidade usando `data-theme="light"` e disse "nenhuma violação". O atributo é `data-tema`, com `claro`/`escuro` — eu medi o tema escuro duas vezes. Quem pegou os quatro pares de contraste do tema claro foi o teste e2e, que usa `emulateMedia`.
+2. Os scripts de coordenada e imagem escreviam em `/data`, que o importador regenera. Rodei o importador e perdi duas coordenadas; só vi no diff. Viraram patches em `ajustes-manuais.json` (D27).
+3. Esqueci de pedir `confianca` no briefing de uma onda: 296 itens entraram como `estimado`, falso **para baixo**. O conversor agora deduz das fontes (D28).
+4. O casador de imagem sem exigir a cidade me deu uma praia "Coco Loco" para uma discoteca e uma igreja para um distrito criativo. Revisei as 8 à mão, descartei 3, apertei a regra (D29).
+
+**O que o ensaio salvou:** rodar os scripts sem `--gravar` primeiro virou regra. Na primeira rodada de coordenadas, **3 dos 5 "achados" estavam errados** — um café no lugar da cidade de Filandia, uma pousada no lugar da Playa San Luis, uma área rural no lugar de Pereira — todos porque o `display_name` do OSM contém o nome do lugar. Passou a casar só pelo nome do objeto.
+
+**TripAdvisor:** o Eduardo perguntou e tem razão no essencial. Não dá para raspar — o `robots.txt` deles tem `Disallow: /` para o ClaudeBot e a página devolve 403, e as notas são conteúdo deles. Resolvido por fora: cada item tem botões que abrem a busca já preenchida no TripAdvisor e no Google Maps. Nada de terceiro guardado, e nunca envelhece.

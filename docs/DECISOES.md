@@ -183,3 +183,39 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Por quê:** sem cidade-base o motor não tem de onde sair e não calcula o trajeto da hospedagem — a informação mais útil da tela do dia ("saia às 08:20") simplesmente não aparecia. Quem agenda a Catedral de Sal provavelmente dorme em Bogotá.
 
 **Por que isto não fere a regra de honestidade:** é um palpite sobre o *plano do usuário*, não sobre o mundo. Fica visível no seletor do calendário e ele troca com um clique. A regra proíbe inventar telefone, preço, horário e endereço — fatos que têm fonte.
+
+## D27 — O enriquecimento automático mora em `ajustes-manuais.json`, não em `/data`
+
+**Decisão:** os scripts que preenchem coordenada e imagem gravam um patch em `pesquisa/<destino>/ajustes-manuais.json`. Nunca escrevem em `/data`.
+
+**Por quê:** `/data` é **gerado** por `npm run importar:pesquisa` a partir de `/pesquisa`. Eu escrevi coordenadas direto em `/data`, rodei o importador de novo por outro motivo, e o trabalho sumiu — só percebi porque olhei o diff. `ajustes-manuais.json` é mesclado por cima do resultado do conversor, então sobrevive a qualquer reimportação.
+
+**O que se perde:** um nível de indireção. Em troca, deixa de existir a classe de bug "o importador apagou meu trabalho".
+
+---
+
+## D28 — Confiança derivada das fontes quando a pesquisa não declara
+
+**Decisão:** se um item de pesquisa não traz `confianca`, o conversor deduz: dois domínios independentes ou um domínio oficial → `verificado`; um domínio → `parcial`; nenhum → `estimado` (e o validador reprova).
+
+**Por quê:** esqueci o campo no briefing de uma onda e os 296 itens do Nordeste entraram como `estimado`. Era falso **para baixo** — havia fonte oficial em boa parte deles — e mentir a favor da cautela continua sendo mentir: o usuário teria descartado item bom achando que era chute. A regra deduzida é a mesma do projeto inteiro, e é mecânica.
+
+**O que se perde:** o julgamento do pesquisador, que é melhor que contar domínios. Por isso o campo declarado, quando existe, continua ganhando.
+
+---
+
+## D29 — Imagem só entra se o nome do arquivo trouxer a cidade
+
+**Decisão:** o script de imagens só aceita um arquivo do Wikimedia Commons cujo nome contenha **todas** as palavras fortes do item **e** pelo menos uma palavra da cidade.
+
+**Por quê:** nome de lugar se repete pelo mundo e o Commons não diz onde fica. Sem a exigência da cidade, a busca me entregou uma panorâmica de uma praia chamada "Coco Loco" para uma discoteca em San Andrés, uma igreja no lugar de um distrito criativo e um "Pozo Azul" que podia ser de qualquer país.
+
+**O que se perde:** fotos corretas cujo arquivo não nomeia a cidade (uma fazenda de café de Salento, por exemplo). É o lado certo de errar: cartão com placeholder é honesto, cartão com a foto do lugar errado não é.
+
+---
+
+## D30 — Uma onda de pesquisa pode cobrir várias bases
+
+**Decisão:** além da forma antiga (`base` + `notasDaBase`), um arquivo de pesquisa pode trazer `notasPorBase` — um mapa — com os itens de várias bases juntos. O conversor reparte usando o mesmo `cidadeDoItem` que já usa para o resto, e **avisa** quando a cidade de um item não está no mapa.
+
+**Por quê:** uma onda por cidade funcionou para a Colômbia. O Nordeste tem 23 bases e exigiria 23 ondas. O aviso existe porque item com cidade desconhecida sumia em silêncio — o jeito mais fácil de perder pesquisa sem perceber.

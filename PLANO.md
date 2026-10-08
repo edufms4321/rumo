@@ -3,7 +3,9 @@
 ## Estado
 
 **Fases 1 a 6: concluídas.** O app está pronto para publicar.
-**Pesquisa:** ondas A, B e C entregues e importadas. Dois destinos no banco — Colômbia (169 itens, 8 bases) e México (266 itens, 26 bases), 0 erro de validação.
+**Publicado:** https://edufms4321.github.io/rumo/
+**Pesquisa:** três destinos no banco — Colômbia (169 itens, 8 bases), México (266, 26) e Nordeste brasileiro (296, 23 bases, sendo 17 com conteúdo). 0 erro de validação.
+**Pendente:** a onda de Pernambuco, Fernando de Noronha e Alagoas.
 **Portões 1 a 7:** todos verificados por mim rodando os comandos e abrindo a tela. Faltam os do Eduardo.
 **Próximo:** ele publicar (`docs/publicar.md`) e usar.
 
