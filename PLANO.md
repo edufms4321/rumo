@@ -2,9 +2,21 @@
 
 ## Estado
 
-**Fase atual:** 1 — concluída. **Portão 1 aberto, aguardando o Eduardo.**
-**Pesquisa:** onda A entregue e importada (58 itens). Ondas B e C não iniciadas.
-**Próximo:** com o aval do portão 1, começa a Fase 3 (motor de regras) e dispara a onda B.
+**Fases 1 a 6: concluídas.** O app está pronto para publicar.
+**Pesquisa:** ondas A, B e C entregues e importadas. Dois destinos no banco — Colômbia (169 itens, 8 bases) e México (266 itens, 26 bases), 0 erro de validação.
+**Portões 1 a 7:** todos verificados por mim rodando os comandos e abrindo a tela. Faltam os do Eduardo.
+**Próximo:** ele publicar (`docs/publicar.md`) e usar.
+
+Verificação em números, hoje:
+
+| Portão | Como se prova | Hoje |
+|---|---|---|
+| tipos, lint | `npm run validate` | passa |
+| motor de regras | 146 testes Vitest | passam |
+| banco de dados | `npm run validate:data` | 0 erro, 289 avisos (todos de dado faltando, nenhum de dado inventado) |
+| fluxos no navegador | 15 testes Playwright | passam |
+| acessibilidade | axe-core, 9 telas × 2 temas + diálogo | 0 violação |
+| 2º destino sem mexer em código | teste e2e `um segundo destino funciona igual` | passa |
 
 Última atualização: 2026-10-08 (America/Sao_Paulo).
 
@@ -98,9 +110,13 @@ Sugestão de janela de datas e roteiro automático; exportar PDF (folha de impre
 
 ---
 
-## Fase 6 — Publicação → portão 7
+## Fase 6 — Publicação → portão 7 — **concluída**
 
-Hospedagem gratuita + manual de uso de uma página. Prova final: um segundo destino entra só criando pasta em `/data/`.
+- `.github/workflows/publicar.yml`: GitHub Pages a cada push na `main`, **atrás do portão de validação** — tipos, lint, 146 testes, validador de dados e 15 testes e2e. Um registro sem fonte impede o site de subir.
+- `netlify.toml` como alternativa.
+- `docs/publicar.md`: o passo a passo, como atualizar um preço, como instalar no celular, e o aviso de backup.
+- `docs/manual.md`: o manual de uma página.
+- Prova final (portão 7): o teste e2e `um segundo destino funciona igual, sem nada especifico de pais` abre o México e confere que o aviso de visto vem do banco, não do código.
 
 ---
 

@@ -193,3 +193,25 @@ Executadas as seis de engenharia que faltavam: 1, 4, 6, 10, 16 e 19. Com as dez 
 **Estado:** 146 testes, typecheck e lint limpos, 435 itens em dois países com 0 erro de validação.
 
 **Próximo:** a interface. É onde tudo isto finalmente aparece.
+
+## 2026-10-08 18:52 — Suíte e2e verde, publicação configurada, acessibilidade limpa
+
+Fechei a Fase 6 e, no caminho, a suíte de ponta a ponta achou cinco defeitos reais que os testes de unidade não pegariam.
+
+**O que a suíte achou (e foi consertado):**
+
+1. `vistoNecessario` estava fixo em `false` no conversor de pesquisa. O México **exige visto** de brasileiro e o pacote não dizia isso. Agora `exigeVisto()` lê a resposta da pesquisa e distingue "não sei" de "não precisa"; Colômbia ficou `false`, México `true`.
+2. `base: './'` com `BrowserRouter` quebra recarregar qualquer link profundo. Troquei por `HashRouter` — feio na URL, funciona no GitHub Pages, no Netlify e numa pasta local.
+3. O debounce de 400 ms podia perder a última ação ao fechar a aba. O `pagehide` que eu tinha adicionado **não resolvia**: IndexedDB é assíncrono e o navegador não espera promessa. Pus um espelho síncrono em `localStorage`; na abertura vence o mais recente (D23).
+4. `baixar()` revogava a URL do blob na mesma linha do clique, o que aborta a transferência. O botão de backup não baixava nada. Descoberto porque escrevi um teste que de fato espera o download.
+5. O manual prometia um botão de restaurar backup que **não existia na tela** — a função estava no store sem ninguém chamar. Agora existe, e importar pela tela inicial abre a viagem restaurada.
+
+**Acessibilidade.** Botei axe-core na suíte (9 telas × 2 temas + o diálogo do item). Achou 97 botões sem nome (a imagem do cartão, que abre o detalhe), a barra de situação fora de qualquer landmark, telas sem `h1` quando caem no estado vazio, e quatro pares de cor abaixo de 4,5:1. Tudo corrigido; os valores de lightness foram **calculados**, e a razão está no comentário do CSS.
+
+**Erro meu que vale registrar:** varri acessibilidade pelo navegador usando `data-theme="light"` e concluí "nenhuma violação". O atributo do app é `data-tema`, com valores `claro`/`escuro` — eu estava medindo o tema escuro duas vezes. Quem pegou foi o teste e2e, que usa `emulateMedia`. Lição: a ferramenta reproduzível ganha do meu harness improvisado.
+
+**Cerca de erro.** Antes, uma exceção em qualquer tela deixava a página branca, sem mensagem e sem saída — e o usuário não tinha como saber que a viagem continuava salva. Agora diz que o dado sobreviveu, oferece voltar ao início e baixar o backup lido direto do armazenamento (não do estado do React, que pode ser justamente o que quebrou).
+
+**Publicação.** GitHub Pages a cada push na `main`, atrás do `npm run validate` + `npm run e2e`. Um registro sem fonte impede o site de subir (D25). `netlify.toml` como alternativa, `docs/publicar.md` com o passo a passo.
+
+Números de hoje: 146 testes de motor, 18 de navegador, 435 itens em dois países, 0 erro de validação, 0 violação de acessibilidade, 169 kB gz no carregamento inicial.

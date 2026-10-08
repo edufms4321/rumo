@@ -118,4 +118,27 @@ npm run validate          # typecheck + lint + test + validate:data
 
 ## Estado atual
 
-Fase 1 fechada: typecheck, lint, 33 testes e validador passam, e o app abre mostrando o banco com selo de confiança e fontes clicáveis. Onda A da pesquisa importada. Aguardando o portão 1 com o Eduardo antes da Fase 3 e da onda B.
+**Fases 1 a 6 fechadas.** Dois destinos no banco, interface completa, publicação configurada.
+
+| | |
+|---|---|
+| testes do motor | 146, verdes |
+| testes de navegador | 15 Playwright + 3 de acessibilidade, verdes |
+| banco | 435 itens (169 Colômbia, 266 México), 0 erro, 289 avisos |
+| pacote final | 169 kB gz no carregamento inicial; o banco de cada destino vem sob demanda |
+| acessibilidade | 0 violação axe em 9 telas × 2 temas |
+
+## Armadilhas já pagas (não repetir)
+
+- **O atributo de tema é `data-tema`, com valores `claro` e `escuro`** — não `data-theme`/`light`/`dark`. Eu já perdi tempo varrendo acessibilidade no tema errado e concluindo que estava tudo certo. Para testar tema no navegador, use `emulateMedia` ou o atributo correto.
+- **IndexedDB não termina antes de a aba fechar.** `pagehide` não resolve, porque o navegador não espera promessa. Por isso existe o espelho síncrono em `localStorage` (`rumo:biblioteca:espelho:v1`); na abertura vence o mais recente dos dois.
+- **Revogar a URL de um blob na mesma linha do clique aborta o download.** O âncora precisa estar no documento e o revoke vai no próximo tique.
+- **O `h1` da página mora no `Layout`**, derivado da rota, porque várias telas trocam o conteúdo inteiro por um estado vazio e ficavam sem cabeçalho nenhum. Os títulos das telas são `h2`.
+- **Contraste se calcula, não se olha.** Os valores de `--cor-texto-fraco` e `--cor-atencao` têm a razão medida no comentário do CSS.
+
+## Comandos de verificação (rodar antes de dizer que algo está pronto)
+
+```bash
+npm run validate   # tipos + lint + 146 testes + banco
+npm run e2e        # 18 testes de navegador, contra o build de produção
+```

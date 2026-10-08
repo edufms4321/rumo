@@ -145,3 +145,41 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Decisão:** `Item.agendavel`. Quando falso, a duração é opcional e as exigências de bloco por categoria não se aplicam.
 **Por quê:** "TransMilenio: como funciona" e "vale alugar carro no Eje Cafetero?" são cartões de referência. Eles ajudam a decidir e pertencem ao banco, mas não se arrastam para um dia.
 **Regra que resolve o caso difícil:** locadora sem tabela de veículos não é locadora, é conselho sobre aluguel — o conversor rebaixa a cartão de referência e avisa.
+
+## D23 — Espelho síncrono em localStorage ao lado do IndexedDB
+
+**Decisão:** toda mudança de estado grava, na hora e de forma síncrona, uma cópia em `localStorage` (`rumo:biblioteca:espelho:v1`), além da gravação debounced no IndexedDB. Na abertura, vence a cópia com `gravadoEm` mais recente.
+
+**Por quê:** o IndexedDB é assíncrono. Quando a aba fecha, a gravação pendente pode não terminar — e `pagehide` não salva, porque o navegador não espera uma promessa. Eu tinha adicionado `pagehide` achando que resolvia; não resolve. O `localStorage` grava na hora e o estado de uma viagem tem poucos kB.
+
+**O que se perde:** duplicação de dado e o teto de ~5 MB do localStorage. Aceitável: se o espelho falhar (cota, aba anônima), o IndexedDB continua sendo o depósito principal e o app segue funcionando.
+
+---
+
+## D24 — O `h1` da página mora no Layout, não em cada tela
+
+**Decisão:** o `Layout` renderiza um `h1` invisível (`sr-only`) derivado da rota; as telas usam `h2` para o título visível.
+
+**Por quê:** várias telas trocam o conteúdo inteiro por um estado vazio ("a viagem ainda não tem datas"). Quando faziam isso, a página ficava sem nenhum cabeçalho e quem usa leitor de tela perdia a referência de onde está. Pôr o `h1` em cada tela significava repetir o cuidado em cada caminho de renderização — e esquecer em um deles.
+
+**O que se perde:** um nível de cabeçalho "desperdiçado" que ninguém vê. Em troca, a garantia é estrutural, não disciplinar.
+
+---
+
+## D25 — O deploy passa pelo mesmo portão que a honestidade dos dados
+
+**Decisão:** `.github/workflows/publicar.yml` só publica depois de `npm run validate` (tipos, lint, 146 testes, validador do banco) **e** `npm run e2e` (18 testes de navegador, incluindo a varredura axe).
+
+**Por quê:** a regra "nunca invente um dado" vale pouco se o site pode ir ao ar com um registro sem fonte. Com o validador no portão de publicação, a regra deixa de ser promessa escrita e passa a ser condição mecânica: um preço sem fonte impede o deploy.
+
+**O que se perde:** ~3 minutos por publicação e a possibilidade de subir uma correção urgente por cima de um teste quebrado. É o preço certo.
+
+---
+
+## D26 — Cidade-base do dia é adivinhada a partir do primeiro item agendado
+
+**Decisão:** ao agendar o primeiro item num dia que ainda não tem cidade-base, o app assume a cidade daquele item.
+
+**Por quê:** sem cidade-base o motor não tem de onde sair e não calcula o trajeto da hospedagem — a informação mais útil da tela do dia ("saia às 08:20") simplesmente não aparecia. Quem agenda a Catedral de Sal provavelmente dorme em Bogotá.
+
+**Por que isto não fere a regra de honestidade:** é um palpite sobre o *plano do usuário*, não sobre o mundo. Fica visível no seletor do calendário e ele troca com um clique. A regra proíbe inventar telefone, preço, horário e endereço — fatos que têm fonte.
