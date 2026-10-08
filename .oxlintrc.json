@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["react", "typescript", "unicorn", "import"],
+  "env": { "browser": true, "es2024": true },
+  "rules": {
+    "no-console": "warn",
+    "eqeqeq": "error",
+    "no-unused-vars": "warn"
+  },
+  "overrides": [
+    {
+      "files": ["scripts/**"],
+      "rules": {
+        "no-console": "off"
+      }
+    }
+  ],
+  "ignorePatterns": ["dist", "node_modules", "pesquisa"]
+}

@@ -1,0 +1,196 @@
+import { z } from 'zod';
+import { IsoDate, Modal, Moeda, Slug, Url } from './base.ts';
+
+/**
+ * Estado do usuario. Vive no IndexedDB do navegador, separado do pacote de
+ * destino (que e somente leitura). Sai e entra como JSON no backup.
+ *
+ * Modelo de tempo: minutos inteiros desde a meia-noite LOCAL do dia.
+ * Nao ha aritmetica de fuso na agenda - a Colombia e UTC-5 sem horario de
+ * verao e o Brasil nao tem mais horario de verao. A unica excecao e o bloco
+ * de trecho, que guarda partida e chegada cada uma no horario local do seu
+ * proprio aeroporto; o offset vem do dado do aeroporto.
+ *
+ * durationMin pode empurrar o fim do bloco para depois da meia-noite
+ * (voo noturno). O motor trata o transbordo; o dado nao precisa saber.
+ */
+
+export const VERSAO_SCHEMA_VIAGEM = 1;
+
+export const Ritmo = z.enum(['tranquilo', 'equilibrado', 'intenso']);
+export type Ritmo = z.infer<typeof Ritmo>;
+
+export const Estilo = z.enum(['economico', 'conforto', 'premium']);
+export type Estilo = z.infer<typeof Estilo>;
+
+export const StatusDeReserva = z.enum([
+  'nao-precisa',
+  'precisa-reservar',
+  'reservado',
+  'pago',
+  'cancelado',
+]);
+export type StatusDeReserva = z.infer<typeof StatusDeReserva>;
+
+const MinutoDoDia = z.number().int().min(0).max(1439);
+const DuracaoEmMinutos = z.number().int().positive().max(2880);
+
+const BlocoComum = {
+  id: z.string().min(1),
+  startMin: MinutoDoDia,
+  durationMin: DuracaoEmMinutos,
+  nota: z.string().optional(),
+};
+
+/** Atividade vinda de um item do pacote de destino. */
+export const BlocoAtividade = z.object({
+  ...BlocoComum,
+  tipo: z.literal('atividade'),
+  itemId: Slug,
+  /** Sobrescreve o custo do pacote quando o usuario sabe o valor real. */
+  custoOverride: z.number().nonnegative().optional(),
+  statusDeReserva: StatusDeReserva.default('nao-precisa'),
+});
+
+export const BlocoRefeicao = z.object({
+  ...BlocoComum,
+  tipo: z.literal('refeicao'),
+  nome: z.string().min(1),
+  /** Preenchido quando a refeicao e num item do banco. */
+  itemId: Slug.optional(),
+  local: z.string().optional(),
+  custoEstimado: z.number().nonnegative().optional(),
+});
+
+export const BlocoTempoLivre = z.object({
+  ...BlocoComum,
+  tipo: z.literal('tempo-livre'),
+});
+
+export const BlocoNota = z.object({
+  ...BlocoComum,
+  tipo: z.literal('nota'),
+  texto: z.string().min(1),
+});
+
+/**
+ * Troca de cidade. Este bloco E salvo (tem voo, horario, preco), ao contrario
+ * do deslocamento dentro da cidade, que o motor deriva a cada calculo.
+ */
+export const BlocoTrecho = z.object({
+  ...BlocoComum,
+  tipo: z.literal('trecho'),
+  trechoId: Slug.optional(),
+  modal: Modal,
+  deCidadeId: Slug,
+  paraCidadeId: Slug,
+  numeroVoo: z.string().optional(),
+  terminalSaida: z.string().optional(),
+  terminalChegada: z.string().optional(),
+  custo: z.number().nonnegative().optional(),
+  statusDeReserva: StatusDeReserva.default('precisa-reservar'),
+  /** Para voo internacional: offset do aeroporto de chegada, em minutos. */
+  offsetChegadaMinutos: z.number().int().optional(),
+});
+
+export const Bloco = z.discriminatedUnion('tipo', [
+  BlocoAtividade,
+  BlocoRefeicao,
+  BlocoTempoLivre,
+  BlocoNota,
+  BlocoTrecho,
+]);
+export type Bloco = z.infer<typeof Bloco>;
+export type TipoDeBloco = Bloco['tipo'];
+
+export const Hospedagem = z.object({
+  nome: z.string().default(''),
+  bairro: z.string().optional(),
+  custoPorNoite: z.number().nonnegative().optional(),
+  moeda: Moeda.default('COP'),
+  confirmada: z.boolean().default(false),
+  link: Url.optional(),
+  checkInHHMM: z.string().optional(),
+  checkOutHHMM: z.string().optional(),
+});
+
+export const Dia = z.object({
+  id: z.string().min(1),
+  data: IsoDate,
+  /** Cidade onde o viajante dorme nesta noite. Vazio = noite sem base. */
+  cidadeBaseId: Slug.optional(),
+  hospedagem: Hospedagem.optional(),
+  blocos: z.array(Bloco).default([]),
+});
+export type Dia = z.infer<typeof Dia>;
+
+export const Reserva = z.object({
+  id: z.string().min(1),
+  /** Bloco ou item a que a reserva se refere. */
+  blocoId: z.string().optional(),
+  itemId: Slug.optional(),
+  titulo: z.string().min(1),
+  status: StatusDeReserva,
+  prazoAte: IsoDate.optional(),
+  codigoDeConfirmacao: z.string().optional(),
+  valorPago: z.number().nonnegative().optional(),
+  moeda: Moeda.optional(),
+  contato: z.string().optional(),
+  link: Url.optional(),
+  observacao: z.string().optional(),
+});
+export type Reserva = z.infer<typeof Reserva>;
+
+/**
+ * Escolha do usuario para uma LACUNA entre dois blocos.
+ * A chave e o id da lacuna (derivado dos blocos vizinhos), nao um bloco
+ * salvo - e isso que impede deslocamento velho de sobrar na agenda.
+ */
+export const EscolhaDeDeslocamento = z.object({
+  modal: Modal,
+  /** Minutos informados a mao, quando o usuario sabe melhor que o estimador. */
+  minutosManuais: z.number().int().positive().optional(),
+});
+
+export const Cambio = z.object({
+  /** Quantos BRL vale 1 unidade da moeda. Editavel pelo usuario. */
+  COP: z.number().positive(),
+  USD: z.number().positive(),
+  EUR: z.number().positive().optional(),
+  atualizadoEm: IsoDate,
+  manual: z.boolean().default(true),
+});
+
+export const Viagem = z.object({
+  versaoSchema: z.literal(VERSAO_SCHEMA_VIAGEM),
+  id: z.string().min(1),
+  nome: z.string().min(1),
+  destinoId: Slug,
+  origem: z.object({
+    cidade: z.string().min(1),
+    aeroportos: z.array(z.string().length(3)).default([]),
+  }),
+  viajantes: z.object({
+    adultos: z.number().int().positive(),
+    criancas: z.number().int().nonnegative().default(0),
+  }),
+  estilo: Estilo,
+  ritmo: Ritmo,
+  interesses: z.array(z.string()).default([]),
+  orcamento: z
+    .object({
+      moeda: Moeda.default('BRL'),
+      porPessoa: z.number().positive().optional(),
+      total: z.number().positive().optional(),
+      incluiVoosInternacionais: z.boolean().default(true),
+    })
+    .optional(),
+  cambio: Cambio,
+  dias: z.array(Dia).default([]),
+  favoritos: z.array(Slug).default([]),
+  reservas: z.array(Reserva).default([]),
+  deslocamentos: z.record(z.string(), EscolhaDeDeslocamento).default({}),
+  criadoEm: z.string().min(1),
+  atualizadoEm: z.string().min(1),
+});
+export type Viagem = z.infer<typeof Viagem>;
