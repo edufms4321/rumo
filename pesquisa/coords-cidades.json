@@ -1,0 +1,58 @@
+{
+  "cartagena": {
+    "lat": 10.42656,
+    "lng": -75.54417,
+    "altitudeM": 3,
+    "osm": "https://www.openstreetmap.org/relation/1343457",
+    "nomeOsm": "Cartagena de Indias, Dique, Bolívar, RAP Caribe, Colombia"
+  },
+  "san-andres": {
+    "lat": 12.58301,
+    "lng": -81.69757,
+    "altitudeM": 4,
+    "osm": "https://www.openstreetmap.org/node/306381625",
+    "nomeOsm": "San Andrés, Archipiélago de San Andrés, Providencia y Santa Catalina, 880001, Colombia"
+  },
+  "santa-marta": {
+    "lat": 11.23209,
+    "lng": -74.19509,
+    "altitudeM": 18,
+    "osm": "https://www.openstreetmap.org/relation/13994662",
+    "nomeOsm": "Perímetro Urbano Santa Marta, Santa Marta, Magdalena, RAP Caribe, Colombia"
+  },
+  "medellin": {
+    "lat": 6.26973,
+    "lng": -75.60256,
+    "altitudeM": 1602,
+    "osm": "https://www.openstreetmap.org/relation/1343264",
+    "nomeOsm": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 0500, Colombia"
+  },
+  "bogota": {
+    "lat": 4.65338,
+    "lng": -74.08363,
+    "altitudeM": 2553,
+    "osm": "https://www.openstreetmap.org/relation/7426387",
+    "nomeOsm": "Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "salento": {
+    "lat": 4.6373,
+    "lng": -75.5698,
+    "altitudeM": 1996,
+    "osm": "https://www.openstreetmap.org/relation/1356246",
+    "nomeOsm": "Salento, Fría, Quindío, RAP Eje Cafetero, Colombia"
+  },
+  "villa-de-leyva": {
+    "lat": 5.66199,
+    "lng": -73.52838,
+    "altitudeM": 2239,
+    "osm": "https://www.openstreetmap.org/relation/1315417",
+    "nomeOsm": "Villa de Leyva, Ricaurte, Boyacá, RAP (Especial) Central, Colombia"
+  },
+  "palomino": {
+    "lat": 11.24489,
+    "lng": -73.55981,
+    "altitudeM": 14,
+    "osm": "https://www.openstreetmap.org/node/703378831",
+    "nomeOsm": "Palomino, Dibulla, La Guajira, RAP Caribe, 446009, Colombia"
+  }
+}

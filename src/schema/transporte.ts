@@ -12,7 +12,13 @@ export const TrechoEntreCidades = BaseRecord.extend({
   paraCidadeId: Slug,
   modal: Modal,
   operadoras: z.array(z.string()).default([]),
-  duracaoPortaAPortaMin: z.number().int().positive(),
+  /**
+   * Opcional: quando a pesquisa so acha o tempo do veiculo (duracao do voo,
+   * do onibus), este campo fica ausente e o motor soma acesso ao terminal,
+   * antecedencia e traslado a partir do dado do aeroporto, rotulando o
+   * resultado como estimativa. Melhor isso do que um numero sem fonte aqui.
+   */
+  duracaoPortaAPortaMin: z.number().int().positive().optional(),
   duracaoVeiculoMin: z.number().int().positive().optional(),
   frequencia: z.string().optional(),
   preco: Preco.optional(),

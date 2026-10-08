@@ -51,6 +51,36 @@ function dentroDaCaixa(coord: Coord, caixa: BoundingBox): boolean {
   );
 }
 
+/**
+ * O Zod aponta o caminho por indice ("itens.45.aluguel"), que nao ajuda nada
+ * a achar o registro num arquivo de 30 itens. Troca o indice pelo `id` do
+ * registro quando ele existe no JSON cru: "itens[co-adz-parchill...].aluguel".
+ */
+function comIdLegivel(caminho: ReadonlyArray<PropertyKey>, bruto: unknown): string {
+  const partes: string[] = [];
+  let atual: unknown = bruto;
+
+  for (const chave of caminho) {
+    const anterior = atual;
+    atual =
+      atual && typeof atual === 'object'
+        ? (atual as Record<PropertyKey, unknown>)[chave]
+        : undefined;
+
+    if (typeof chave === 'number' && Array.isArray(anterior)) {
+      const id = (atual as { id?: unknown } | undefined)?.id;
+      partes[partes.length - 1] =
+        typeof id === 'string'
+          ? `${partes[partes.length - 1]}[${id}]`
+          : `${partes[partes.length - 1]}[${chave}]`;
+      continue;
+    }
+    partes.push(String(chave));
+  }
+
+  return partes.join('.') || '(raiz)';
+}
+
 function acharDuplicados(ids: string[]): string[] {
   const vistos = new Set<string>();
   const duplicados = new Set<string>();
@@ -81,7 +111,7 @@ export function validarPacote(bruto: unknown): {
     for (const erro of analise.error.issues) {
       problemas.push({
         nivel: 'erro',
-        caminho: erro.path.join('.') || '(raiz)',
+        caminho: comIdLegivel(erro.path, bruto),
         mensagem: erro.message,
       });
     }

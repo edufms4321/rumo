@@ -44,10 +44,26 @@ src/schema/      base, destino, geo, item, transporte, calendario, hospedagem, p
 src/data/        montar-pacote (puro, compartilhado), carregar (navegador, import.meta.glob)
 src/engine/      (vazio — Fase 3)
 src/App.tsx      tela de prova da Fase 1: lista o banco com selo de confiança e fontes
-scripts/         validate-data.ts
-data/<destino>/  (vazio — enche na Fase 2)
-pesquisa/        saída crua dos subagentes de pesquisa (não versionada como banco)
+scripts/         validate-data.ts, importar-pesquisa.ts
+scripts/lib/     pesquisa-utils, pesquisa-itens, pesquisa-colecoes (conversor)
+data/colombia/   o banco (ver números abaixo)
+pesquisa/        saída crua dos subagentes + coords-cidades.json + ajustes-manuais.json
 ```
+
+## O banco hoje (onda A da pesquisa, coletada em 2026-10-08)
+
+58 itens · 8 cidades · 11 aeroportos · 20 trechos entre cidades · 4 voos internacionais · 13 eventos · 5 sugestões de hospedagem. `npm run validate:data` passa com 0 erro e 50 avisos.
+
+Confiança dos itens: 4 verificado, 46 parcial, 8 estimado. 28 de 58 têm imagem licenciada; 41 de 58 têm coordenada.
+
+**Pesquisadas a fundo:** Cartagena (30 itens, inclui Islas del Rosario e Barú) e San Andrés (28 itens, inclui as 5 locadoras de buggy/mulita).
+**Presentes só como base planejável** (coordenada, altitude e clima de fonte; o resto chega na onda B): Santa Marta, Palomino, Medellín, Bogotá, Villa de Leyva, Salento.
+
+### Conversor pesquisa → banco
+
+`npm run importar:pesquisa` transforma `pesquisa/onda-*.json` em `data/colombia/`. É repetível: as ondas B e C usam o mesmo caminho. Ele separa o que veio de fonte do que ele mesmo deduziu, e imprime a contagem de cada dedução no fim. Julgamento humano vive em `pesquisa/ajustes-manuais.json` e é mesclado por cima, então reexecutar não perde trabalho manual.
+
+O conversor **não preenche buraco**: preço zerado vira ausência de preço mais um alerta no item; coordenada 0,0 vira ausência de coordenada; registro sem nenhuma fonte não entra no banco e vai para as pendências.
 
 ## Decisões de arquitetura em vigor
 
@@ -59,6 +75,11 @@ pesquisa/        saída crua dos subagentes de pesquisa (não versionada como ba
 6. **`BaseRecord` força procedência**: `fontes` tem `.min(1)`, logo registro sem fonte reprova o build.
 7. **Novo destino = nova pasta em `/data/`.** `src/data/carregar.ts` usa `import.meta.glob`, então nenhuma mudança de código é necessária.
 8. **Preço é objeto** (faixa + moeda + data + fontes), nunca número.
+9. **Campo ausente significa desconhecido, e o motor assume o padrão.** Tempo de aeroporto ao centro, antecedência de embarque, duração porta a porta, noites recomendadas, como circular e fatores de deslocamento são todos opcionais no schema. Quando a pesquisa não acha o número em fonte, o campo fica vazio e o motor usa um padrão documentado, **rotulado como estimativa na tela**. Preferimos a estimativa visivelmente vinda do motor a um número sem fonte dentro do banco.
+10. **Toda base do país entra no banco, mesmo sem pesquisa funda.** O Eduardo precisa poder montar qualquer roteiro; o app avisa, nunca poda a opção. Base com dado parcial continua planejável.
+11. **Islas del Rosario e Barú não são bases**: ninguém dorme lá, vai-se de Cartagena e volta. Viram itens de Cartagena com etiqueta do lugar real.
+12. **Dia da semana ausente em `horarios` significa desconhecido, não fechado.** O motor cala em vez de alertar errado.
+13. **Duas janelas sobrepostas no mesmo dia são duas fontes discordando**, não manhã e tarde. O conversor mantém a primeira e põe um alerta no item.
 
 ## Convenção de arquivos de um pacote de destino
 
@@ -85,6 +106,16 @@ Arquivo fora dessa convenção é ignorado com aviso pelo validador.
 
 Erro reprova (exit 1). Aviso não reprova e alimenta `docs/pendencias-de-verificacao.md`: item sem coordenada, sem imagem licenciada, preço sem fonte, "precisa reservar" sem antecedência, cidade sem clima por mês.
 
+## Comandos
+
+```bash
+npm run dev               # http://localhost:5173
+npm test                  # 33 testes
+npm run validate:data     # valida /data/**
+npm run importar:pesquisa # pesquisa/onda-*.json -> data/colombia/
+npm run validate          # typecheck + lint + test + validate:data
+```
+
 ## Estado atual
 
-Fase 1 em andamento. Typecheck e lint passam. `/data` ainda vazio, então `npm run validate:data` reprova de propósito até a onda A da pesquisa chegar.
+Fase 1 fechada: typecheck, lint, 33 testes e validador passam, e o app abre mostrando o banco com selo de confiança e fontes clicáveis. Onda A da pesquisa importada. Aguardando o portão 1 com o Eduardo antes da Fase 3 e da onda B.

@@ -1,0 +1,129 @@
+[
+  {
+    "id": "gru-bog",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/flight-routes/GRU/BOG"
+      },
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Bogota-BOG"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "origemIata": "GRU",
+    "destinoIata": "BOG",
+    "cias": [
+      "Avianca (direto)",
+      "LATAM (direto)",
+      "Gol suspendeu o direto GRU-BOG em 10/dez/2024 (resultado de busca)"
+    ],
+    "escalas": "Direto (sem escala)",
+    "duracaoTotalMin": 368,
+    "frequencia": "Diário por Avianca e por LATAM (Kayak); LATAM anunciou 3ª frequência diária (data do anúncio não verificada). Exemplo Avianca AV248: sai 04:20, chega 10:17, 5h57 (airnavradar, resultado de busca).",
+    "preco": {
+      "moeda": "BRL",
+      "min": 2485,
+      "max": 3900,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/flight-routes/GRU/BOG"
+        },
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Bogota-BOG"
+        }
+      ],
+      "observacao": "Por pessoa, agregador Kayak (buscas das últimas 72 h; tarifas históricas): ida e volta típica R$ 2.568-3.743 (página SAO-BOG) e R$ 2.600-3.900 (página GRU-BOG, média R$ 3.137); mais barata R$ 2.485; só ida a partir de R$ 1.219. Mês mais barato: março (R$ 2.423-2.432). NÃO é cotação de novembro/2026 nem de data específica: fotografia indicativa de agregador, validar no Google Flights."
+    },
+    "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20BOG%20on%202026-11-17%20through%202026-11-28",
+    "observacoes": "Preco de voo e fotografia do dia da coleta, a 13 meses da viagem. Use o link de busca para a cotacao real."
+  },
+  {
+    "id": "gru-ctg",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Cartagena-Rafael-Nunez-CTG"
+      },
+      {
+        "url": "https://www.momondo.com.br/passagem/sao-paulo/cartagena"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "origemIata": "GRU",
+    "destinoIata": "CTG",
+    "cias": [
+      "Avianca (via BOG)",
+      "LATAM (via BOG)",
+      "Copa (via Cidade do Panamá)",
+      "Gol (conexão)"
+    ],
+    "escalas": "Sem voo direto; no mínimo 1 conexão (Bogotá é a mais comum; Panamá com Copa). Copa responde por 32% das reservas e Avianca 27% (Momondo).",
+    "duracaoTotalMin": 560,
+    "preco": {
+      "moeda": "BRL",
+      "min": 2063,
+      "max": 2883,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Cartagena-Rafael-Nunez-CTG"
+        },
+        {
+          "url": "https://www.momondo.com.br/passagem/sao-paulo/cartagena"
+        }
+      ],
+      "observacao": "Por pessoa, agregadores Kayak/Momondo (últimas 72 h): mais barata R$ 2.063; típica R$ 2.079-2.454 (Momondo) e R$ 2.133-2.883 (Kayak). Kayak: novembro em faixa intermediária (outubro R$ 2.130 é o mês mais barato; dezembro ~R$ 2.964). Duração mais rápida: 9h20 (Momondo) a 10h46 (Kayak). Indicativo, não é cotação de novembro/2026."
+    },
+    "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20CTG%20on%202026-11-17%20through%202026-11-28",
+    "observacoes": "Preco de voo e fotografia do dia da coleta, a 13 meses da viagem. Use o link de busca para a cotacao real."
+  },
+  {
+    "id": "gru-mde",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Medellin-Jose-Marie-Cordova-MDE"
+      },
+      {
+        "url": "https://www.momondo.com.br/passagem/sao-paulo/medellin-jose-marie-cordova-mde"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "origemIata": "GRU",
+    "destinoIata": "MDE",
+    "cias": [
+      "Avianca",
+      "LATAM",
+      "Copa",
+      "Gol",
+      "Arajet"
+    ],
+    "escalas": "Sem voo direto; 1 conexão (normalmente BOG) ou mais",
+    "duracaoTotalMin": 579,
+    "preco": {
+      "moeda": "BRL",
+      "min": 1794,
+      "max": 2678,
+      "por": "pessoa",
+      "inclui": "ida-e-volta",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Medellin-Jose-Marie-Cordova-MDE"
+        },
+        {
+          "url": "https://www.momondo.com.br/passagem/sao-paulo/medellin-jose-marie-cordova-mde"
+        }
+      ],
+      "observacao": "Por pessoa, Kayak (últimas 72 h): típica R$ 1.794-2.678; mais barata só ida R$ 688; mês mais barato fevereiro (R$ 1.797), mais caro julho (R$ 2.922). Momondo: ida e volta R$ 2.052-2.553 por viagens com 1-2 escalas e 9-19 h. Duração mais rápida 9h39 via Bogotá. Indicativo."
+    },
+    "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20MDE%20on%202026-11-17%20through%202026-11-28",
+    "observacoes": "Preco de voo e fotografia do dia da coleta, a 13 meses da viagem. Use o link de busca para a cotacao real."
+  }
+]

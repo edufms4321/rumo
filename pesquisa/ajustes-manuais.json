@@ -1,0 +1,211 @@
+{
+  "_leia": "Ajustes que exigem julgamento humano, mesclados por cima do resultado do conversor (scripts/importar-pesquisa.ts). Reexecutar o conversor nao perde nada daqui. Lista substitui lista inteira; null apaga a chave. Todo numero abaixo aparece textualmente na fonte citada no proprio preco - nada foi arredondado nem deduzido.",
+
+  "itens": {
+    "co-adz-rentcarx-mulitas-buggys-golf-carts-e-scooters": {
+      "aluguel": {
+        "tipos": [
+          {
+            "veiculo": "Scooter Yamaha BWS (2 lugares)",
+            "periodo": "diaria",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 150000, "max": 150000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Scooter Yamaha Nmax (2 lugares)",
+            "periodo": "diaria",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 200000, "max": 200000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Carrinho de golfe Kawasaki SX (2 lugares)",
+            "periodo": "diaria",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 300000, "max": 300000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Carrinho de golfe Mini Pro (3 lugares)",
+            "periodo": "diaria",
+            "capacidade": 3,
+            "preco": { "moeda": "COP", "min": 400000, "max": 400000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Mulita / buggy Kawasaki 4010 (4 lugares)",
+            "periodo": "diaria",
+            "capacidade": 4,
+            "preco": { "moeda": "COP", "min": 380000, "max": 380000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }, { "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "mesmo preco publicado pela Parchill para o mesmo modelo" }
+          },
+          {
+            "veiculo": "Buggy Yamaha Viking (6 lugares)",
+            "periodo": "diaria",
+            "capacidade": 6,
+            "preco": { "moeda": "COP", "min": 450000, "max": 450000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Buggy Polaris 1000 com som (6 lugares)",
+            "periodo": "diaria",
+            "capacidade": 6,
+            "preco": { "moeda": "COP", "min": 600000, "max": 600000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          },
+          {
+            "veiculo": "Buggy Can-Am 1000 com som (6 lugares)",
+            "periodo": "diaria",
+            "capacidade": 6,
+            "preco": { "moeda": "COP", "min": 700000, "max": 700000, "por": "grupo", "inclui": "diaria do veiculo; entrega e retirada gratuitas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rentcarx.com/en" }], "observacao": "tabela do site sem data de publicacao: confirmar" }
+          }
+        ],
+        "documentosExigidos": [
+          "o site nao detalha os documentos exigidos: confirmar por WhatsApp antes de pagar"
+        ],
+        "deposito": "nao informado no site; a reserva pede 30% de sinal",
+        "combustivel": "nao informado no site; a pratica das locadoras da ilha e entregar com tanque cheio e devolver igual",
+        "seguro": "nao informado no site: confirmar antes de pagar",
+        "regras": [
+          "cambio totalmente automatico, anunciado como sem necessidade de experiencia previa",
+          "1 mala por aluguel",
+          "entrega e retirada gratuitas em hotel, pousada ou aeroporto",
+          "pagamento por cartao, Nequi ou PSE; reserva online com confirmacao imediata",
+          "30 km/h em zonas residenciais e CNH obrigatoria (Exploria dez/2025, HSH nov/2025, Melhores Destinos abr/2026)",
+          "blitz de alcoolemia com tolerancia zero",
+          "mulitas limitadas a cerca de 20 a 40 km/h; as fontes divergem no limite exato",
+          "muitas mulitas nao tem cinto de seguranca; evitar dirigir a noite",
+          "a RentcarX e agencia e nao dona da frota: compare o mesmo modelo com Parchill e Rolling"
+        ]
+      }
+    },
+
+    "co-adz-rolling-san-andres-rolling-playas-mula-kawasaki-4010": {
+      "aluguel": {
+        "tipos": [
+          {
+            "veiculo": "Mula Kawasaki 4000/4010 (4 a 5 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 5,
+            "preco": { "moeda": "COP", "min": 450000, "max": 450000, "por": "grupo", "inclui": "veiculo; o motorista assume danos, perdas, atrasos e multas", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://rollingsanandres.com/tienda/mula-kawasaki-4010-en-isla-san-andres/" }], "observacao": "pagina de produto sem data; 450.000 contra 380.000 pelo mesmo modelo na RentcarX e na Parchill" }
+          },
+          {
+            "veiculo": "Mula Kawasaki 4000/4010 (4 a 5 lugares)",
+            "periodo": "24 horas",
+            "capacidade": 5
+          }
+        ],
+        "documentosExigidos": [
+          "carteira de motorista de categoria carro, de qualquer nacionalidade",
+          "a pagina diz que a nacionalidade da carteira e irrelevante"
+        ],
+        "deposito": "caucao reembolsavel exigida; o valor nao e informado na pagina",
+        "combustivel": "devolver com o mesmo nivel da entrega (meio tanque ou cheio)",
+        "seguro": "nao ha seguro: o contrato poe danos, perdas, atrasos e multas por conta do motorista",
+        "regras": [
+          "menores nao dirigem; criancas acima de 10 anos podem ser passageiras",
+          "cancelamento: 72 h ou mais devolve 75%; 48 a 72 h devolve 50% ou remarca; 24 a 48 h so remarca; menos de 24 h nao devolve nada",
+          "a politica de cancelamento NAO menciona mau tempo: peca por escrito antes de pagar",
+          "fotografe e filme o veiculo antes de sair, porque o contrato poe os danos por sua conta",
+          "30 km/h em zonas residenciais; blitz de alcoolemia com tolerancia zero; evitar dirigir a noite"
+        ]
+      }
+    },
+
+    "co-adz-alquiler-speed-racer-mulitas": {
+      "aluguel": {
+        "tipos": [
+          {
+            "veiculo": "Mulita (2 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 180000, "max": 250000, "por": "grupo", "inclui": "veiculo; combustivel por conta do cliente", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja: o preco da Speed Racer nao foi encontrado em fonte nenhuma" }
+          },
+          {
+            "veiculo": "Mulita (4 a 6 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 6,
+            "preco": { "moeda": "COP", "min": 300000, "max": 400000, "por": "grupo", "inclui": "veiculo; combustivel por conta do cliente", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "FAIXA DE MERCADO DA ILHA, nao preco desta loja" }
+          }
+        ],
+        "documentosExigidos": [
+          "nao informado em fonte: confirmar por WhatsApp"
+        ],
+        "deposito": "100.000 COP reembolsavel, segundo relato de blog de nov/2025",
+        "combustivel": "por conta do cliente; devolver no mesmo nivel",
+        "seguro": "nao informado em fonte",
+        "regras": [
+          "locadora pequena e local: negocie o preco por WhatsApp e compare com RentcarX e Parchill",
+          "peca recibo do deposito e nunca pague adiantado sem confirmacao por escrito",
+          "fotografe o veiculo antes de sair",
+          "30 km/h em zonas residenciais; blitz de alcoolemia com tolerancia zero; evitar dirigir a noite"
+        ]
+      }
+    },
+
+    "co-adz-parchill-mulitas-xs-4010-e-pro-kawasaki": {
+      "aluguel": {
+        "tipos": [
+          {
+            "veiculo": "Mulita XS (2 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 290000, "max": 290000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+          },
+          {
+            "veiculo": "Mulita Kawasaki 4010 (5 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 5,
+            "preco": { "moeda": "COP", "min": 380000, "max": 380000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+          },
+          {
+            "veiculo": "Mulita PRO Kawasaki (6 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 6,
+            "preco": { "moeda": "COP", "min": 410000, "max": 410000, "por": "grupo", "inclui": "seguro basico, manutencao, tanque cheio para devolver igual, assistencia 24/7 e entrega em hospedagens centrais", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://parchill.com/tour/alquiler-de-mulitas-y-carritos-de-golf-en-san-andres/" }], "observacao": "pagina de agencia sem data: confirmar para novembro de 2026" }
+          }
+        ],
+        "documentosExigidos": [
+          "carteira de motorista",
+          "documento oficial de identidade ou passaporte"
+        ],
+        "idadeMinima": 18,
+        "deposito": "a pagina nao informa o valor da caucao",
+        "combustivel": "entregue com tanque cheio; devolver igual",
+        "seguro": "seguro basico incluido; a pagina nao detalha o que a cobertura inclui",
+        "regras": [
+          "funciona de segunda a domingo, 9 horas de aluguel (9h as 18h)",
+          "retirada em La Barracuda, San Andres",
+          "cancelamento gratuito segundo a pagina",
+          "30 km/h em zonas residenciais; blitz de alcoolemia com tolerancia zero; evitar dirigir a noite"
+        ]
+      }
+    },
+
+    "co-adz-scooters-chemas-scooter-e-motos-sai": {
+      "aluguel": {
+        "tipos": [
+          {
+            "veiculo": "Scooter (2 lugares)",
+            "periodo": "diaria das 9h as 18h",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 70000, "max": 90000, "por": "grupo", "inclui": "veiculo; combustivel e capacete a parte", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }, { "url": "https://umasulamericana.com/volta-a-ilha-san-andres/" }, { "url": "https://guia.melhoresdestinos.com.br/transportes-em-san-andres.html" }, { "url": "https://dicasdacolombia.com.br/san-andres/aluguel-de-carro-em-san-andres/" }], "observacao": "faixa convergente em quatro fontes entre fev/2024 e abr/2026" }
+          },
+          {
+            "veiculo": "Scooter (2 lugares)",
+            "periodo": "24 horas",
+            "capacidade": 2,
+            "preco": { "moeda": "COP", "min": 100000, "max": 100000, "por": "grupo", "inclui": "veiculo; combustivel e capacete a parte", "coletadoEm": "2026-10-08", "fontes": [{ "url": "https://blogs.hsh-travels.com/posts/car-motorbike-rental-san-andres-prices-tips/" }], "observacao": "valor aproximado relatado por blog de nov/2025" }
+          }
+        ],
+        "documentosExigidos": [
+          "pilotar moto exige habilitacao de categoria A (a confirmar na ilha)",
+          "a MOTOS SAI recusou habilitacao estrangeira e exigiu carteira colombiana, segundo relato de nov/2025"
+        ],
+        "deposito": "100.000 COP relatado",
+        "combustivel": "por conta do cliente",
+        "seguro": "o seguro de viagem normalmente NAO cobre dano ao veiculo alugado",
+        "regras": [
+          "capacete nao e fornecido na maioria dos casos: leve ou exija",
+          "nao pilotar a noite",
+          "risco real de recusa da CNH brasileira nesta categoria: confirme por WhatsApp antes de contar com a scooter",
+          "scooter e a pior opcao para os dias de chuva de novembro"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "caribe-continental",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia"
+      },
+      {
+        "url": "https://www.publimetro.co/barranquilla/2026/02/02/cierre-de-playas-todo-el-caribe-por-emergencia-climatica-cartagena-barranquilla-y-santa-marta-con-olas-de-hasta-cuatro-metros/"
+      },
+      {
+        "url": "https://www.publimetro.co/noticias/2023/11/21/mar-de-leva-en-cartagena-se-trago-gran-parte-de-una-playa-de-bocagrande/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santa_Marta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Riohacha"
+      },
+      {
+        "url": "https://www.publimetro.co/noticias/2026/06/02/parque-tayrona-cierra-sus-puertas-temporalmente-por-actividades-de-las-comunidades-indigenas-cuando-vuelve-a-abrir/"
+      },
+      {
+        "url": "https://www.parquesnacionales.gov.co/nuestros-parques/parque-nacional-natural-tayrona/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Caribe Continental",
+    "descricaoCurta": "Costa caribenha continental: Cartagena, Santa Marta, Tayrona, Palomino."
+  },
+  {
+    "id": "caribe-insular",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_Island"
+      },
+      {
+        "url": "https://www.elpais.com.co/ultimo-minuto/ojo-del-huracan-iota-estuvo-a-18-kilometros-de-providencia-ideam.html"
+      },
+      {
+        "url": "https://paho.org/sites/default/files/2020-12/Rep_sit_02_OPS_COL_huracan_Iota_inundaciones_18nov2020.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Caribe Insular",
+    "descricaoCurta": "Arquipelago de San Andres, Providencia e Santa Catalina."
+  },
+  {
+    "id": "andes",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Andes",
+    "descricaoCurta": "Cordilheira: Bogota, Medellin, Villa de Leyva e o altiplano."
+  },
+  {
+    "id": "eje-cafetero",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pereira,_Colombia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Armenia,_Quind%C3%ADo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Eje Cafetero",
+    "descricaoCurta": "Regiao do cafe: Salento, Filandia, Vale de Cocora, fazendas."
+  }
+]

@@ -81,3 +81,42 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Decisão:** 15–25 itens bem verificados em Cartagena, San Andrés, Medellín+Guatapé, Eje Cafetero e Santa Marta/Tayrona; Bogotá em cobertura média; Cali, Tatacoa, Leticia, Guajira, Caño Cristales e Providencia como avaliação honesta de "vale ou não para novembro".
 **Por quê:** com 10–12 dias, o viajante usa 3 bases. Pesquisar 150 itens uniformemente gastaria esforço em região que ele não vai visitar — mas zerar as outras deixaria a tela Descobrir pobre e tiraria a graça de comparar alternativas.
 **Descartado:** 150 itens espalhados uniformemente (verificação rasa); só as 3 bases do roteiro (~60 itens, app pobre).
+
+## D13 — Campo ausente significa desconhecido, e o motor assume o padrão
+
+**Decisão:** tempo do aeroporto ao centro, antecedência de embarque, duração porta a porta, noites recomendadas, como circular e fatores de deslocamento são **opcionais** no schema. Quando a pesquisa não acha o número em fonte citável, o campo fica vazio e o motor usa um padrão documentado em `src/engine/`, **rotulado como estimativa na tela**.
+**Por quê:** a alternativa era gravar o número heurístico dentro de `/data`, onde ele ficaria indistinguível de dado com fonte. Preferimos a estimativa visivelmente vinda do motor.
+**Descartado:** manter os campos obrigatórios e preencher com heurística (polui o banco); manter obrigatórios e descartar os registros incompletos (impediria o usuário de planejar meia Colômbia).
+
+## D14 — Toda base do país entra no banco, mesmo sem pesquisa funda
+
+**Decisão:** Santa Marta, Palomino, Medellín, Bogotá, Villa de Leyva e Salento entram já na onda A, com coordenada, altitude e clima de fonte. O resto chega na onda B.
+**Por quê:** correção pedida pelo Eduardo — ele quer poder montar **qualquer** roteiro, e o app avisa em vez de podar. Era o que o briefing dele já dizia ("o app nunca bloqueia, ele avisa"); eu é que estava agindo como agente de viagens que corta opções.
+**Descartado:** só as bases pesquisadas a fundo (deixaria metade do país fora do planejamento).
+**Consequência:** exigiu a D13.
+
+## D15 — Islas del Rosario e Barú são itens de Cartagena, não bases
+
+**Decisão:** itens de Rosario e Barú recebem `cidadeId: cartagena` e uma etiqueta com o lugar real.
+**Por quê:** ninguém monta a viagem dormindo lá; vai-se de Cartagena e volta no mesmo dia. Assim a regra "item agendado em cidade diferente da cidade-base do dia" funciona do jeito certo.
+**Descartado:** criar cidades-base para elas (exigiria noites recomendadas e como circular que não fazem sentido para bate-volta).
+**Limitação aceita:** quem quiser dormir em Isla Grande usa o campo livre de hospedagem do dia.
+
+## D16 — Conversor repetível em vez de edição manual do banco
+
+**Decisão:** `npm run importar:pesquisa` converte `pesquisa/onda-*.json` em `data/colombia/`. Julgamento humano vive em `pesquisa/ajustes-manuais.json` e é mesclado por cima.
+**Por quê:** as ondas B e C vêm no mesmo formato, e o mapeamento precisa ser auditável. O script imprime a contagem de tudo que **deduziu**, separado do que veio de fonte. Reexecutar não perde trabalho manual.
+**Descartado:** escrever o JSON do banco à mão (não escala para 150 itens e esconde o critério de conversão).
+**Exceção:** os 5 itens de aluguel de buggy são escritos à mão, porque montar a tabela de veículos por expressão regular seria frágil justamente no dado mais importante da viagem.
+
+## D17 — Registro sem fonte não entra no banco; vai para as pendências
+
+**Decisão:** o conversor filtra registros com zero fontes antes de gravar, com aviso.
+**Por quê:** o validador também reprovaria, mas o lugar certo de barrar é na entrada. Caso real da onda A: o agente registrou "não existe voo direto Brasil → San Andrés" como se fosse uma rota, com zero fonte, zero preço e zero duração. É um achado negativo honesto, não um registro de voo.
+**Descartado:** gravar com uma fonte emprestada de outro registro (misturaria procedências).
+
+## D18 — Janelas de horário sobrepostas são fontes discordando, não manhã e tarde
+
+**Decisão:** quando duas janelas lidas do mesmo dia se sobrepõem ("08:00–17:15 ou 08:30–17:30"), o conversor mantém a primeira e põe um alerta no item.
+**Por quê:** tratadas como dois períodos, o motor concluiria que o lugar abre das 08:00 às 17:30 — horário que nenhuma fonte afirma. Aconteceu em 9 dos 58 itens.
+**Descartado:** usar a interseção das janelas (produz um horário que também não vem de fonte nenhuma); manter as duas (amplia o horário sem base).

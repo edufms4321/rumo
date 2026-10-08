@@ -2,12 +2,11 @@
 
 ## Estado
 
-**Fase atual:** 1 — Esqueleto, schema, validador.
-**Portão aberto:** nenhum ainda.
-**Pesquisa:** onda A rodando em 3 subagentes (San Andrés · Cartagena · logística e novembro).
-**Bloqueio:** `/data` vazio até a onda A chegar, então `npm run validate:data` reprova de propósito.
+**Fase atual:** 1 — concluída. **Portão 1 aberto, aguardando o Eduardo.**
+**Pesquisa:** onda A entregue e importada (58 itens). Ondas B e C não iniciadas.
+**Próximo:** com o aval do portão 1, começa a Fase 3 (motor de regras) e dispara a onda B.
 
-Última atualização: 2026-10-08 12:36 (America/Sao_Paulo).
+Última atualização: 2026-10-08 (America/Sao_Paulo).
 
 ---
 
@@ -28,9 +27,12 @@ A pesquisa roda **em paralelo** com a construção, em três ondas, porque ela �
 - [x] `src/data/carregar.ts` com `import.meta.glob` (novo destino = nova pasta)
 - [x] Tela de prova da Fase 1 com selo de confiança e fontes clicáveis
 - [x] `CLAUDE.md`, `CEREBRO.md`, `DIARIO.md`, `PLANO.md`, `docs/DECISOES.md`, `docs/como-adicionar-destino.md`
-- [ ] `/data/colombia/` com 5 itens reais (depende da onda A)
-- [ ] `npm run validate:data` passando
-- [ ] Primeiro commit
+- [x] `/data/colombia/` com **58 itens reais** (a meta era 5; a onda A entregou muito mais)
+- [x] Conversor repetível `npm run importar:pesquisa` + `pesquisa/ajustes-manuais.json`
+- [x] `docs/pendencias-de-verificacao.md`
+- [x] `npm run validate:data` passando (0 erro, 50 avisos)
+- [x] 33 testes, typecheck e lint limpos; app conferido no navegador
+- [x] Commits
 
 **Como o Eduardo testa o portão 1:**
 ```bash
@@ -44,7 +46,7 @@ E a prova negativa: apagar à mão a lista `fontes` de um item em `data/colombia
 
 ## Fase 2 — Pesquisa (3 ondas, em paralelo)
 
-### Onda A — rodando
+### Onda A — entregue em 2026-10-08
 - San Andrés: aluguel de buggy/mulita/carrinho (locadoras, preço por período, documentos de brasileiro, regras, roteiro da volta à ilha), passeios de barco, taxa de entrada na ilha, como ir a Providencia, praias, vida noturna, compras, comida econômica
 - Cartagena + Islas del Rosario + Barú: centro histórico, praias e ilhas, vida noturna em Getsemaní, compras, golpes comuns, veredito sobre as Festas da Independência (11 de novembro)
 - Logística: voos do Brasil e internos, matriz porta a porta entre bases, aeroportos, requisitos de entrada, saúde, dinheiro, chip; clima de novembro por região; feriados e eventos de novembro/2026

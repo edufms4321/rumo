@@ -35,3 +35,36 @@ Disse a ele duas coisas que ele não pediu para ouvir, porque mudam o plano:
 **Estado:** typecheck e lint passam. `/data` vazio, então `validate:data` reprova de propósito. Onda A da pesquisa rodando em 3 subagentes.
 
 **Próximo:** receber a onda A, montar `/data/colombia/` com os 5 itens reais, rodar o validador, commitar e abrir o portão 1.
+
+---
+
+## 2026-10-08 14:25 — Onda A importada, Fase 1 fechada
+
+**Correção de rumo do Eduardo, e ele estava certo.** Eu tinha montado uma pergunta pedindo que ele escolhesse o que cortar (San Andrés ou Santa Marta) e qual janela de datas pegar. Ele respondeu que quer poder montar **qualquer** roteiro, com todas as opções disponíveis, e que a informação deve vir como sugestão.
+
+Eu estava agindo como agente de viagens que poda opções, quando o produto é uma ferramenta que mantém tudo aberto e avisa. Isso era inclusive o que o briefing original dele já dizia ("o app nunca bloqueia, ele avisa"). Consequências no código, não só no discurso:
+
+- **Toda base do país entra no banco**, não só as duas pesquisadas a fundo. Criei Santa Marta, Palomino, Medellín, Bogotá, Villa de Leyva e Salento com coordenada, altitude e clima de fonte; o resto chega na onda B.
+- Para isso, **afrouxei três campos obrigatórios** do schema (`noitesRecomendadas`, `comoCircular`, `fatoresDeslocamento`). Ausente passa a significar "desconhecido, o motor usa padrão rotulado como estimativa". Antes, base sem pesquisa completa simplesmente não podia existir — o schema estava impedindo o usuário de planejar.
+- Reverti em público o que eu tinha dito sobre rebaixar Medellín e Eje Cafetero na onda B por causa da chuva. A chuva vira **alerta no app**, não corte na pesquisa.
+
+**Eu também inventei procedência e me peguei.** Num script para buscar coordenadas das cidades, digitei IDs de relação do OpenStreetMap que não estavam na saída que eu havia lido — escrevi de memória. Dos 6, só 1 estava certo. Refiz a busca gravando apenas o que a API devolveu. É exatamente o erro que o projeto inteiro existe para impedir; o fato de ter acontecido num script auxiliar não o torna menor.
+
+**Conversor em vez de edição à mão.** `npm run importar:pesquisa` transforma a saída crua dos agentes no banco. Escolhi script porque as ondas B e C vêm no mesmo formato e porque o mapeamento precisa ser auditável. Ele imprime no fim a contagem de tudo que **deduziu** (224 janelas de horário lidas de prosa, 42 confianças mapeadas, 42 `dependeDeClima`, e assim por diante), separado do que veio de fonte.
+
+Decisões do conversor que valem registrar:
+- preço zerado vira **ausência** de preço + alerta no item, nunca zero;
+- coordenada 0,0 vira ausência de coordenada;
+- registro sem nenhuma fonte **não entra no banco**. Caso real: o agente registrou "não existe voo direto Brasil → San Andrés" como se fosse uma rota, com zero fonte, zero preço e zero duração. É um achado negativo honesto, não um registro de voo: foi para as pendências;
+- dia da semana ausente em `horarios` significa **desconhecido**, não fechado;
+- os 5 itens de aluguel de buggy foram escritos à mão em `pesquisa/ajustes-manuais.json`. Montar a tabela de veículos por expressão regular seria frágil justamente no dado mais importante da viagem dele.
+
+**Defeito que achei conferindo a saída.** O parser criava duas janelas de horário quando as fontes divergiam ("08:00–17:15 ou 08:30–17:30"), e o schema leria isso como manhã e tarde — o motor concluiria que o lugar abre das 08:00 às 17:30, que nenhuma fonte afirma. Agora janelas sobrepostas são tratadas como fontes discordando: mantém a primeira e põe alerta no item. Aconteceu em 9 itens.
+
+**Conferi eu mesmo os feriados**, que é o dado mais fácil de errar num calendário colombiano. 1º/nov/2026 cai num domingo e 11/nov numa quarta; pela Ley Emiliani os feriados vão para as segundas 2 e 16 de novembro. A aritmética do agente fecha.
+
+**Também melhorei o validador**: o Zod apontava `itens.45.aluguel`, inútil num arquivo de 30 itens. Agora mostra `itens[co-adz-parchill-...].aluguel`.
+
+**Estado:** 58 itens, 8 cidades, 20 trechos, 13 eventos. Validador com 0 erro e 50 avisos. 33 testes, typecheck e lint limpos. Abri o app no navegador e conferi: selo de confiança, preço, data de coleta e fontes clicáveis aparecem em cada card.
+
+**Próximo:** portão 1 com o Eduardo. Depois, Fase 3 (motor) e onda B da pesquisa.

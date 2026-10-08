@@ -1,0 +1,904 @@
+[
+  {
+    "id": "cartagena-santa-marta-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/cartagena-to-santa-marta/"
+      },
+      {
+        "url": "https://www.checkmybus.com/cartagena-de-indias-by/santa-marta-ma"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "santa-marta",
+    "modal": "onibus",
+    "operadoras": [
+      "Unitransco",
+      "Expreso Brasilia",
+      "Copetran",
+      "Ruta Dorada/Exalpa",
+      "Berlinas",
+      "Superstar"
+    ],
+    "duracaoPortaAPortaMin": 390,
+    "duracaoVeiculoMin": 275,
+    "frequencia": "Várias saídas por hora (espera máx. ~30-40 min), primeira ~05:00",
+    "preco": {
+      "moeda": "COP",
+      "min": 49000,
+      "max": 66000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/cartagena-to-santa-marta/"
+        },
+        {
+          "url": "https://www.checkmybus.com/cartagena-de-indias-by/santa-marta-ma"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal de Transportes de Cartagena (leste, ~12 km do centro histórico)",
+    "terminalChegada": "Terminal de Transportes de Santa Marta (centro)",
+    "observacoes": "Ônibus 4h30 a 6h20 conforme trânsito/paradas (Expreso Brasilia 05:00/07:15/08:15 em 4h34, COP 66.000; Unitransco 22:15, 4h30, COP 66.000; Gecko: a partir de COP 53.000). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Chegar ao terminal ~30-40 min de táxi do centro histórico (min.) + ~15 min de espera + 4h35-6h20 + ~20 min do terminal ao hotel. Em feriados/puentes (31/out-2/nov, 14-16/nov) comprar com antecedência (heurística, sem dado de lotação). Sem voo direto.",
+    "alertas": []
+  },
+  {
+    "id": "cartagena-santa-marta-onibus-2",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/cartagena-to-santa-marta/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "santa-marta",
+    "modal": "onibus",
+    "operadoras": [
+      "Marsol Transportes (van compartilhada)",
+      "Beach Tayrona Park",
+      "Cartagena Toures y Excursiones"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 270,
+    "frequencia": "Saídas diárias combinadas com a operadora; pega e deixa no hotel em alguns casos",
+    "preco": {
+      "moeda": "COP",
+      "min": 80000,
+      "max": 80000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/cartagena-to-santa-marta/"
+        }
+      ]
+    },
+    "terminalSaida": "Hotel/ponto combinado em Cartagena (algumas operadoras)",
+    "terminalChegada": "Hotel em Santa Marta/Taganga/Rodadero (algumas operadoras)",
+    "observacoes": "Van compartilhada 4h a 5h30, de COP 80.000 (US$ 25) para cima por pessoa; carro privativo COP 560.000+ (US$ 175+) por veículo, 4h a 4h40. Porta a porta mais curto porque elimina terminal. Reservar com antecedência em feriados (heurística). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "cartagena-medellin-voo",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+      },
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/CTG"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "medellin",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART",
+      "Wingo"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 75,
+    "frequencia": "Vários voos por dia desde 05:00",
+    "preco": {
+      "moeda": "COP",
+      "min": 96000,
+      "max": 396250,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+        },
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/CTG"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "Aeroporto Rafael Núñez (CTG), a ~10 min do centro histórico",
+    "terminalChegada": "Aeroporto José María Córdova (MDE) em Rionegro, 30-40 min do centro de Medellín",
+    "observacoes": "Preços: a partir de ~COP 96.000 só-ida (Gecko) / COP 130.646 (Kayak); ida e volta típica COP 210.275-396.250. Aeroporto alternativo em Medellín: Olaya Herrera (EOH), urbano, mas NÃO opera Cartagena (CLIC só vai a Pereira). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. 10 min CTG→aeroporto + 120 min de antecedência + 75 min de voo + ~30 min desembarque + ~45 min MDE→centro ≈ 4h40-5h.",
+    "alertas": []
+  },
+  {
+    "id": "cartagena-medellin-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "medellin",
+    "modal": "onibus",
+    "operadoras": [
+      "Rápido Ochoa (15h40; COP 124.000)",
+      "Expreso Brasilia (14h05; premium)",
+      "Flota La Macarena (14h)"
+    ],
+    "duracaoPortaAPortaMin": 900,
+    "duracaoVeiculoMin": 840,
+    "frequencia": "Saídas Medellín→Cartagena ~17:30/19:30/21:30 (Brasilia); Gecko: Ochoa 05:30/17:30/22:30, Brasilia 08:30/11:00/16:30, Macarena 07:00/13:00/15:45",
+    "preco": {
+      "moeda": "COP",
+      "min": 100000,
+      "max": 125000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal de Transportes de Cartagena (leste)",
+    "terminalChegada": "Terminal del Norte, Medellín",
+    "observacoes": "13h30 a 15h40 de viagem, atrasos comuns; ~15-17 h porta a porta. Só faz sentido se o objetivo for economia radical; voo custa quase o mesmo e leva ~5 h. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "medellin-salento-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+      },
+      {
+        "url": "https://www.kayak.com.co/flight-routes/EOH/PEI"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "medellin",
+    "paraCidadeId": "salento",
+    "modal": "onibus",
+    "operadoras": [
+      "Flota Occidental (única com ônibus direto)"
+    ],
+    "duracaoPortaAPortaMin": 510,
+    "duracaoVeiculoMin": 450,
+    "frequencia": "Várias saídas diárias (ex.: madrugada 00:30, 11:00, 14:00 — horários de fonte secundária)",
+    "preco": {
+      "moeda": "COP",
+      "min": 98000,
+      "max": 98000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+        },
+        {
+          "url": "https://www.kayak.com.co/flight-routes/EOH/PEI"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal del Sur (Gecko) — outra fonte cita Terminal del Norte: confirmar antes",
+    "terminalChegada": "Terminal de Buses de Salento",
+    "observacoes": "Anunciado 6-7 h, mas na prática 7h30 a 9 h por estrada ruim e trânsito (Gecko 7h50 incluindo traslado; COP 98.000). Alternativa: voo EOH→PEI (CLIC 45 min) ou MDE→PEI (Avianca/LATAM 54 min) + táxi PEI→Salento ~45 min (~US$ 47) ou ônibus 1h30-2h (US$ 7,60): ~4h30-5h porta a porta, mas voo custa COP 195.000+ só-ida. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Terminal del Sur fica a ~100 m do aeroporto Olaya Herrera.",
+    "alertas": []
+  },
+  {
+    "id": "medellin-salento-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/EOH/PEI"
+      },
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/PEI"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-PEI-transporte/"
+      },
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "medellin",
+    "paraCidadeId": "salento",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM (MDE)",
+      "CLIC (EOH)"
+    ],
+    "duracaoPortaAPortaMin": 270,
+    "duracaoVeiculoMin": 50,
+    "frequencia": "CLIC EOH-PEI ~24 voos/semana; Avianca/LATAM MDE-PEI diários",
+    "preco": {
+      "moeda": "COP",
+      "min": 189437,
+      "max": 581474,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/EOH/PEI"
+        },
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/PEI"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-PEI-transporte/"
+        },
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+        }
+      ]
+    },
+    "terminalSaida": "EOH (urbano, ~10 min do centro) ou MDE (Rionegro, 30-40 min)",
+    "terminalChegada": "Aeroporto Matecaña (PEI), ~20 min do centro de Pereira; Armenia tem o aeroporto El Edén (AXM), mais perto de Salento — não pesquisado",
+    "observacoes": "Voo 45 a 54 min; só-ida COP 189.437-195.970, ida e volta COP 241.696-581.474. Do PEI a Salento ~45 min por táxi. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "bogota-medellin-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/bogota-to-medellin/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "medellin",
+    "modal": "onibus",
+    "operadoras": [
+      "Rápido Tolima",
+      "Expreso Bolivariano",
+      "Expreso Brasilia",
+      "Flota La Macarena"
+    ],
+    "duracaoPortaAPortaMin": 660,
+    "duracaoVeiculoMin": 585,
+    "preco": {
+      "moeda": "COP",
+      "min": 96000,
+      "max": 96000,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/bogota-to-medellin/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Salitre (Bogotá)",
+    "terminalChegada": "Terminal del Norte (Medellín)",
+    "observacoes": "Ônibus 9h05 a 11h30, a partir de COP 96.000. Voo (ver voosInternos) leva ~1h04 e custa COP 120.785-321.353 ida e volta: para 2 pessoas e 10-12 dias, avião sai melhor em tempo por quase o mesmo custo. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "bogota-medellin-voo",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/bogota-to-medellin/"
+      },
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/MDE"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "medellin",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART",
+      "Wingo",
+      "Satena"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 64,
+    "frequencia": "Quase de hora em hora, 05:00-23:00",
+    "preco": {
+      "moeda": "COP",
+      "min": 84876,
+      "max": 321353,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/bogota-to-medellin/"
+        },
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/MDE"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "El Dorado (BOG), 30-50 min do centro/Chapinero",
+    "terminalChegada": "José María Córdova (MDE), 30-40 min do centro",
+    "observacoes": "Preço: só-ida desde COP 84.876; ida e volta COP 120.785-321.353. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. 40 min até BOG + 120 min antecedência + 64 min voo + ~30 min desembarque + ~45 min MDE→centro ≈ 5 h.",
+    "alertas": []
+  },
+  {
+    "id": "bogota-villa-de-leyva-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/bogota-to-villa-de-leyva/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "villa-de-leyva",
+    "modal": "onibus",
+    "operadoras": [
+      "Omega (camioneta)",
+      "Flota Valle de Tenza",
+      "Expreso Gaviota",
+      "Coflonorte"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 210,
+    "frequencia": "Várias saídas por dia (Omega 06:45-14:15; Coflonorte 06:05-15:40)",
+    "preco": {
+      "moeda": "COP",
+      "min": 27500,
+      "max": 32500,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://geckoroutes.com/colombia/bogota-to-villa-de-leyva/"
+        }
+      ]
+    },
+    "terminalSaida": "Terminal Salitre ou Terminal del Norte (Bogotá)",
+    "terminalChegada": "Terminal de Villa de Leyva",
+    "observacoes": "2h30 a 4h30 (Coflonorte 2h30, Omega 2h40, Valle de Tenza 3h-4h15); volta COP 32.500 (2h55-4h). Carro privativo de US$ 160+ (4-12 pessoas), 2h55-4h. Saindo pelo Terminal del Norte evita atravessar a cidade. Em feriado/puente o trânsito de saída/retorno de Bogotá piora muito. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Villa de Leyva a 2.215 m: noites ~11 °C.",
+    "alertas": []
+  },
+  {
+    "id": "santa-marta-palomino-onibus",
+    "fontes": [
+      {
+        "url": "https://geckoroutes.com/colombia/santa-marta-to-palomino/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "santa-marta",
+    "paraCidadeId": "palomino",
+    "modal": "onibus",
+    "operadoras": [
+      "Cootransoriente Tayrona (04:40-18:00, só venda presencial)",
+      "Expreso Almirante Padilla",
+      "Exalpa",
+      "Expreso Brasilia",
+      "Unitransco"
+    ],
+    "duracaoPortaAPortaMin": 150,
+    "duracaoVeiculoMin": 120,
+    "frequencia": "Cootransoriente a cada ~20 min; Brasilia 05:00-19:45; Unitransco 05:30-21:30",
+    "terminalSaida": "Cootransoriente: ponto atrás do Mercado Central; demais: Terminal de Transportes de Santa Marta",
+    "terminalChegada": "Palomino (rodovia/estrada)",
+    "observacoes": "~2 h (1-2 h conforme veículo; ~80 km de estrada). Preços na fonte estão em USD (US$ 4,40 a US$ 9,20) e não foram convertidos para COP por falta de câmbio USD/COP fontado; carro privativo US$ 75-205 por veículo. Pegar o ônibus que vai a Riohacha/Palomino. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "bogota-san-andres-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/ADZ"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      },
+      {
+        "url": "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "san-andres",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART"
+    ],
+    "duracaoPortaAPortaMin": 335,
+    "duracaoVeiculoMin": 134,
+    "preco": {
+      "moeda": "COP",
+      "min": 333148,
+      "max": 586406,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/ADZ"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+        },
+        {
+          "url": "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/"
+        }
+      ]
+    },
+    "terminalSaida": "El Dorado (BOG)",
+    "terminalChegada": "Gustavo Rojas Pinilla (ADZ), 1 km do centro / 5-10 min de táxi",
+    "antecedenciaDiasParaComprar": 105,
+    "observacoes": "Ida e volta COP 333.148-586.406 + Tarjeta de Turismo (COP 148.500-153.000, ver voosInternos). Reservar com ≥15 semanas de antecedência economiza ~36% segundo Kayak (BOG-ADZ). Tarifas base de Avianca/LATAM/JetSMART não incluem mala de mão grande. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "cartagena-san-andres-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/CTG/ADZ"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "san-andres",
+    "modal": "voo",
+    "operadoras": [
+      "LATAM",
+      "Wingo"
+    ],
+    "duracaoPortaAPortaMin": 260,
+    "duracaoVeiculoMin": 86,
+    "preco": {
+      "moeda": "COP",
+      "min": 163223,
+      "max": 526818,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/CTG/ADZ"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "Rafael Núñez (CTG), ~10 min do centro histórico",
+    "terminalChegada": "Gustavo Rojas Pinilla (ADZ)",
+    "observacoes": "Direto ~1h26; só-ida COP 97.934 (Wingo); ida e volta COP 163.223-526.818. É a base continental mais curta e barata para San Andrés. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "medellin-san-andres-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/ADZ"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "medellin",
+    "paraCidadeId": "san-andres",
+    "modal": "voo",
+    "operadoras": [
+      "JetSMART",
+      "Avianca",
+      "LATAM"
+    ],
+    "duracaoPortaAPortaMin": 320,
+    "duracaoVeiculoMin": 111,
+    "preco": {
+      "moeda": "COP",
+      "min": 290536,
+      "max": 537884,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/ADZ"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "José María Córdova (MDE), 30-40 min do centro",
+    "terminalChegada": "Gustavo Rojas Pinilla (ADZ)",
+    "observacoes": "Direto ~1h51; só-ida COP 104.463 (JetSMART); ida e volta COP 290.536-537.884. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "santa-marta-medellin-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/SMR"
+      },
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/SMR"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-SMR-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "observacaoDeConfianca": "media",
+    "deCidadeId": "santa-marta",
+    "paraCidadeId": "medellin",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "JetSMART",
+      "Wingo (MDE)",
+      "LATAM (BOG)"
+    ],
+    "duracaoPortaAPortaMin": 230,
+    "duracaoVeiculoMin": 80,
+    "preco": {
+      "moeda": "COP",
+      "min": 147981,
+      "max": 443096,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/SMR"
+        },
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/SMR"
+        },
+        {
+          "url": "https://www.aeropuertosdelmundo.net/aeropuerto-SMR-transporte/"
+        }
+      ]
+    },
+    "terminalSaida": "Aeroporto Simón Bolívar (SMR), 15 min do Rodadero / 30-40 min do centro histórico",
+    "terminalChegada": "MDE ou BOG",
+    "observacoes": "SMR→MDE ~1h18 (COP 234.840-438.186); SMR→BOG ~1h34 (COP 211.061-443.096). Útil para fechar o arco Caribe→Andes sem voltar a Cartagena. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+    "alertas": []
+  },
+  {
+    "id": "bogota-cartagena-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/CTG"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "cartagena",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART",
+      "Wingo"
+    ],
+    "duracaoVeiculoMin": 93,
+    "preco": {
+      "moeda": "COP",
+      "min": 187976,
+      "max": 419187,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/CTG"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "BOG",
+    "terminalChegada": "CTG",
+    "observacoes": "Direto ~1h33 (Kayak lista também KLM/Edelweiss: ruído de voos internacionais, ignorados). Típico COP 231.540-419.187; menor ida e volta 187.976 (Avianca); menor só-ida 131.913 (JetSMART). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "medellin-cartagena-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/CTG"
+      },
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "medellin",
+    "paraCidadeId": "cartagena",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "JetSMART",
+      "Wingo",
+      "LATAM (segundo Gecko Routes)"
+    ],
+    "duracaoVeiculoMin": 73,
+    "preco": {
+      "moeda": "COP",
+      "min": 210275,
+      "max": 396250,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/CTG"
+        },
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MDE",
+    "terminalChegada": "CTG",
+    "observacoes": "Direto ~1h13 a 1h15 (aeroporto internacional José María Córdova, em Rionegro, a ~40 min do centro de Medellín). Típico COP 210.275-396.250; menor ida e volta 251.494; menor só-ida 130.646 (JetSMART); bilhetes a partir de ~COP 96.000 (Gecko). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "bogota-salento-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/PEI"
+      },
+      {
+        "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "salento",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART",
+      "CLIC"
+    ],
+    "duracaoVeiculoMin": 64,
+    "preco": {
+      "moeda": "COP",
+      "min": 156694,
+      "max": 339275,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/PEI"
+        },
+        {
+          "url": "https://geckoroutes.com/colombia/medellin-to-salento/"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "BOG",
+    "terminalChegada": "PEI",
+    "observacoes": "Direto ~1h04. Típico COP 185.095-339.275; menor ida e volta 156.694 (JetSMART); menor só-ida 84.876. Do aeroporto de Pereira a Salento: táxi ~45 min ou ônibus 1h30-2h (Gecko). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "medellin-santa-marta-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/MDE/SMR"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "medellin",
+    "paraCidadeId": "santa-marta",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "JetSMART",
+      "Wingo"
+    ],
+    "duracaoVeiculoMin": 78,
+    "preco": {
+      "moeda": "COP",
+      "min": 234840,
+      "max": 438186,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/MDE/SMR"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "MDE",
+    "terminalChegada": "SMR",
+    "observacoes": "Direto ~1h18. Típico COP 240.888-438.186; menor ida e volta 234.840 (Avianca); menor só-ida 147.981. Wingo é a mais pontual (95% nos últimos 3 meses). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "bogota-santa-marta-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/BOG/SMR"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "bogota",
+    "paraCidadeId": "santa-marta",
+    "modal": "voo",
+    "operadoras": [
+      "Avianca",
+      "LATAM",
+      "JetSMART"
+    ],
+    "duracaoVeiculoMin": 94,
+    "preco": {
+      "moeda": "COP",
+      "min": 211061,
+      "max": 443096,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/BOG/SMR"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "BOG",
+    "terminalChegada": "SMR",
+    "observacoes": "Direto ~1h34. Típico COP 264.947-443.096; menor ida e volta 211.061; menor só-ida 151.700 (JetSMART). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cartagena-santa-marta-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.co/flight-routes/CTG/SMR"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "deCidadeId": "cartagena",
+    "paraCidadeId": "santa-marta",
+    "modal": "voo",
+    "operadoras": [],
+    "frequencia": "Sem voo direto",
+    "preco": {
+      "moeda": "COP",
+      "min": 513373,
+      "max": 1144577,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.co/flight-routes/CTG/SMR"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta)"
+    },
+    "terminalSaida": "CTG",
+    "terminalChegada": "SMR",
+    "observacoes": "NÃO existe voo direto. Opções com conexão por BOG/MDE levam 4h48 a 7h02 e custam COP 513.373-1.144.577 ida e volta: pior que o ônibus/van (4-6 h, COP 53.000-80.000). Usar terra.",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  }
+]

@@ -15,11 +15,18 @@ export const EventoLocal = BaseRecord.extend({
   dataFim: IsoDate.optional(),
   escopo: z.union([z.literal('nacional'), Slug]),
   transferidoParaSegunda: z.boolean().optional(),
+  /**
+   * Os dois primeiros campos sao OPCIONAIS: a pesquisa quase sempre descreve
+   * o impacto em prosa ("sem dado numerico; hotelaria tende a subir") e nao
+   * em categoria. Ausente = desconhecido, e a prosa original fica em
+   * `observacao`. Preencher um padrao aqui seria inventar intensidade.
+   */
   impacto: z.object({
-    preco: z.enum(['sobe-muito', 'sobe', 'neutro', 'cai']).default('neutro'),
-    lotacao: z.enum(['alta', 'media', 'baixa']).default('media'),
+    preco: z.enum(['sobe-muito', 'sobe', 'neutro', 'cai']).optional(),
+    lotacao: z.enum(['alta', 'media', 'baixa']).optional(),
     fechamentos: z.string().default(''),
     seguranca: z.string().optional(),
+    observacao: z.string().optional(),
   }),
   valeEstarPresente: z.enum(['sim', 'depende', 'evite']).optional(),
   descricao: z.string().default(''),

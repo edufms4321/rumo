@@ -1,0 +1,1635 @@
+{
+  "coletadoEm": "2026-10-08",
+  "destino": {
+    "pais": "Colômbia",
+    "moeda": "COP",
+    "fuso": "America/Bogota",
+    "fusoOffset": "UTC-05:00, sem horário de verão; 2 h atrás de São Paulo (UTC-03:00) — diferença de 2 h o ano todo",
+    "idioma": "Espanhol (San Andrés: também inglês creole raizal e inglês; turismo costeiro costuma ter algum inglês)",
+    "tomadas": "Tipo A (2 pinos chatos) e tipo B (2 chatos + terra). O plugue brasileiro tipo N (3 pinos redondos) NÃO encaixa: levar adaptador.",
+    "voltagem": "110 V / 60 Hz. Carregadores modernos de celular/notebook (100-240 V) funcionam só com adaptador; secador e chapinha brasileiros 127 V funcionam, 220 V não.",
+    "requisitosEntradaBrasileiro": {
+      "passaporte": "Brasileiros entram com passaporte válido OU com RG/CIN (acordo Mercosul/associados) para turismo, segundo blog especializado que cita Itamaraty/PF (RG emitido há menos de 10 anos, em bom estado e foto reconhecível; CNH NÃO é aceita; CIN é aceita). Página oficial do Itamaraty NÃO foi aberta (404): confirmar em gov.br/mre antes de viajar. Recomendação prática: levar PASSAPORTE (Migración Colombia e UK FCDO recomendam validade mínima de 6 meses após a saída; a isenção de IVA em hotel e a Tarjeta de Turismo de San Andrés pedem documento de viagem; companhias aéreas costumam exigir no check-in).",
+      "visto": "Dispensado para turismo até 90 dias por entrada (prorrogável por mais 90, máximo 180 dias por ano-calendário), a critério do oficial migratório. Para 10-12 dias, sem visto.",
+      "vacinaFebreAmarela": "O certificado internacional de febre amarela NÃO é mais exigido de quem vem do Brasil: o Consulado da Colômbia em São Paulo publicou a eliminação do requisito (Circular Externa 018 de 2024 do Minsalud, justificada pela redução sustentada de casos no Brasil). ATENÇÃO a fontes conflitantes: blog de 2023 (Passageiro de Primeira), UK FCDO e guia de seguros ainda citam o Brasil como origem que exige. Colômbia mantém Emergência Sanitária por febre amarela (surto no Tolima e outros) e a vacina é RECOMENDADA para áreas <2.300 m fora das cidades grandes (CDC: dispensável só para Barranquilla, Cali, Cartagena, Medellín, Bogotá, altitude >2.300 m e San Andrés). Vários parques nacionais pedem o certificado; vale levar o CIVP e vacinar-se pelo menos 10 dias antes (certificado vale 10 dias após a dose).",
+      "comprovantes": "Check-Mig (pré-registro online gratuito, entre 72 h e 1 h antes do voo, entrada e saída; descrito oficialmente como pré-registro; blogs brasileiros e companhias tratam como obrigatório para check-in; o UK FCDO diz 'não obrigatório' — fazer SEMPRE e guardar o e-mail de confirmação; não vale para fronteira terrestre). Passagem de saída/retorno dentro de 90 dias (UK FCDO). Comprovar meios econômicos pode ser solicitado (blog). San Andrés: comprovante de hospedagem confirmada ou endereço + Tarjeta de Turismo (ver voos internos). Seguro-viagem: NÃO obrigatório por lei, fortemente recomendado (sem convênio de saúde Brasil-Colômbia; Tayrona exige seguro de resgate/assistência comprado na bilheteria). Declarar em dinheiro acima de US$ 10.000.",
+      "fontes": [
+        "https://www.migracioncolombia.gov.co/",
+        "https://saopaulo.consulado.gov.co/sala-de-prensa/noticias/eliminacion-de-requisito-de-certificado-de-vacunacion-contra-fiebre-amarilla-para-personas-provenientes-de-brasil",
+        "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%20001%20de%202026.pdf",
+        "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia",
+        "https://passageirodeprimeira.com/checkmig-formulario-colombia",
+        "https://www.iatiseguros.com/blog/requisitos-viajar-colombia-documentos/"
+      ],
+      "fontesViaBusca": [
+        "Resultado de busca (não aberto): travel.com.br/?p=45905 e kayak.com.br/news/?p=23332 sobre RG aceito na Colômbia"
+      ],
+      "confianca": "media — visto/prazo 90 dias e Check-Mig bem confirmados; febre amarela: fonte oficial colombiana (consulado em SP) diz 'eliminado', mas há fontes secundárias conflitantes e a data exata do aviso não foi confirmada; RG vs passaporte vem de fonte secundária (Itamaraty não abriu)."
+    },
+    "saude": {
+      "vacinasRecomendadas": [
+        "Febre amarela (recomendada para Tayrona/Palomino/áreas <2.300 m; não exigida na entrada vindo do Brasil; tomar ≥10 dias antes)",
+        "Hepatite A e B, febre tifoide, tríplice viral/sarampo (CDC)",
+        "Raiva se houver contato com animais/cavernas (CDC)",
+        "Antecipar consulta em centro de viagem ≥8 semanas antes (UK FCDO)"
+      ],
+      "altitudeBogota": "Bogotá: 2.640 m (cidade; aeroporto El Dorado a 2.547 m). Medellín 1.490 m (Olaya Herrera) / aeroporto MDE em Rionegro a 2.073 m; Villa de Leyva 2.215 m. Primeiro dia em Bogotá: hidratar, evitar álcool e esforço; mal de altitude é possível (UK FCDO cita Bogotá). Raios UV altos em altitude (CDC).",
+      "aguaPotavel": "UK FCDO: só a água da torneira de Bogotá é considerada segura; no resto do país beber água engarrafada e evitar gelo de origem duvidosa. Evitar banho em água doce não clorada (leptospirose, CDC). Dengue o ano todo: repelente DEET/icaridina. Malária: risco em áreas <1.700 m, exceto Bogotá, Cartagena e Medellín (CDC) — Tayrona/Palomino entram na zona de risco; consultar médico sobre profilaxia.",
+      "seguroObrigatorio": "Não obrigatório. Fortemente recomendado seguro com cobertura médica e evacuação (UK FCDO; MRE da Espanha via iatiseguros). Tayrona exige seguro de resgate/assistência vendido nas bilheterias (El Zaino/Calabazo).",
+      "fontes": [
+        "https://www.gov.uk/foreign-travel-advice/colombia/health",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia",
+        "https://www.iatiseguros.com/blog/requisitos-viajar-colombia-documentos/",
+        "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://en.wikipedia.org/wiki/Rionegro,_Antioquia",
+        "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+      ]
+    },
+    "seguranca": {
+      "orientacaoGeral": "Furtos, roubos e assaltos são o risco principal nas grandes cidades e no litoral Caribe (UK FCDO). Não exibir celular/joias, pouco dinheiro vivo, usar só táxi licenciado ou app. Evitar zonas rurais de fronteira, regiões de cultivo de coca e portos como Buenaventura, Turbo e Tumaco. Manifestações frequentes e podem ficar violentas; risco sísmico, enchentes nos Andes, furacões no Caribe. Itinerário Cartagena-Santa Marta-Bogotá/Medellín é o circuito turístico convencional.",
+      "golpesComuns": [
+        "Sequestro-relâmpago por falso taxista (pegar rua) e 'paseo millonario' com saque forçado em caixa eletrônico",
+        "Burundanga/escopolamina em bebida ou comida, inclusive via aplicativos de encontro com viajante sozinho",
+        "Cartagena/Barú/Playa Blanca: cobrança abusiva por comida, bebida, massagem e passeio de lancha (casos de COP 1,8 mi extras em alto mar e 6,5 mi por três refeições, 2023-2025); combinar preço ANTES e por escrito",
+        "Maquininha adulterada (acrescentam zeros) em carruagem/comércio: conferir o valor digitado antes de passar o cartão",
+        "Táxi de rua sem taxímetro/valor combinado, principalmente na saída de aeroportos e terminais: usar balcão oficial (Taxi Imperial no El Dorado) ou app"
+      ],
+      "appsDeTransporte": [
+        "Uber",
+        "Cabify",
+        "inDrive e DiDi (uso comum no país; não verificados nas fontes consultadas)",
+        "Táxi oficial amarelo com placa branca em Bogotá (UK FCDO)"
+      ],
+      "fontes": [
+        "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+        "https://www.publimetro.co/noticias/2025/07/31/frenan-estafa-a-turistas-en-cartagena-querian-cobrarles-65-millones-por-cocteles-y-comida/",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+      ]
+    },
+    "dinheiro": {
+      "cambio": "Cotação em 07/out/2026: 1 BRL = 644,38 COP (valutafx; teto de 2026: 764,08 em 12/mai; piso 585,15 em 20/ago). Real oscila forte contra o peso em 2026: usar como ordem de grandeza. Levar parte em dólar/real NÃO é necessário; casas de câmbio em aeroporto têm spread pior.",
+      "cartaoAceito": "Cartão de crédito/débito internacional aceito em hotéis, restaurantes e shoppings das cidades; táxi, mercado, praia, transporte intermunicipal e pousadas pequenas (Palomino, Tayrona) exigem dinheiro vivo. Conferir sempre o valor na maquininha (golpes em Cartagena). Escolher cobrar em COP (recusar conversão dinâmica de moeda).",
+      "saqueEmCaixa": "Taxa do caixa local costuma ser COP 15.000 a 29.900 por saque (fonte secundária); limite por transação com cartão estrangeiro varia: ~COP 600.000 em Bancolombia, até ~COP 2.000.000 em Servibanca/Davivienda. Sempre 'Reject conversion/cobrar em COP'. Sacar em caixa dentro de agência/shopping, nunca na rua à noite.",
+      "gorjeta": "Gorjeta é voluntária por lei (Ley 1935 de 2018); o restaurante pode sugerir até 10% e deve perguntar antes de incluir na conta, podendo o cliente excluí-la ou alterá-la.",
+      "iva19ParaTuristas": "Hoje turistas estrangeiros não residentes têm isenção do IVA de 19% em hospedagem de hotel registrado no RNT, mediante apresentação do documento de viagem/permissão de entrada (PIP-3 etc.). Atenção: a reforma tributária proposta pelo governo (art. 32, julho/2026) propõe eliminar a isenção direta e passar para pagar-e-pedir-reembolso na saída; ainda depende do Congresso (que já rejeitou duas reformas) e não tem data de vigência. Para novembro/2026, assumir isenção no hotel, mas ter plano de pagar 19% e pedir reembolso.",
+      "fontes": [
+        "https://www.valutafx.com/history/brl-cop-2026-10-07",
+        "https://www.infobae.com/colombia/2026/07/22/los-turistas-extranjeros-en-colombia-tendrian-que-pagar-iva-en-caso-de-que-el-congreso-apruebe-propuesta-del-gobierno-petro/",
+        "https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_11050_2026.htm"
+      ],
+      "fontesViaBusca": [
+        "colombiamove.com/blog/es/atm-fees-card-withdrawals-colombia-foreigners/ (taxas/limites de caixa; resultado de busca, não aberto)",
+        "elheraldo.co/economia/2022/09/14/las-propinas-son-voluntarias-en-restaurantes-938423/ e Ley 1935/2018 (gorjeta; resultado de busca)",
+        "incp.org.co e normograma.dian.gov.co (isenção de IVA; resultado de busca)"
+      ]
+    },
+    "chipEsim": {
+      "operadoras": [
+        "Claro (maior cobertura; único com loja no aeroporto El Dorado segundo guia)",
+        "Movistar",
+        "Tigo",
+        "WOM (MVNO que usa as redes de Claro, Movistar e Tigo)"
+      ],
+      "comoComprar": "eSIM comprada antes da viagem (instala no Brasil, ativa ao chegar) é o mais simples para 2 pessoas; chip físico em lojas das operadoras na cidade (exige passaporte) é mais barato que no aeroporto (20-50% a mais). Roaming de operadoras brasileiras costuma ser caro: conferir com a sua operadora.",
+      "faixaPreco": "Chip físico: COP 3.000-5.000 + pacote; pré-pago COP 15.000-45.000 por semana. eSIM: ~US$ 4,99-15 por semana (guia de 2026). Valores indicativos de fonte secundária.",
+      "fontes": [
+        "https://www.mochileandoporelmundo.com/tarjeta-sim-esim-colombia/",
+        "https://saily.com/es/blog/tarjetas-sim-colombia/",
+        "https://www.viajaresim.com/blog/?p=573"
+      ],
+      "observacao": "Fontes de chip/eSIM vieram de resultado de busca (blogs comerciais); preços são só ordem de grandeza."
+    }
+  },
+  "voosInternacionais": [
+    {
+      "rota": "GRU-BOG",
+      "cias": [
+        "Avianca (direto)",
+        "LATAM (direto)",
+        "Gol suspendeu o direto GRU-BOG em 10/dez/2024 (resultado de busca)"
+      ],
+      "escala": "Direto (sem escala)",
+      "duracaoTotalMin": 368,
+      "frequencia": "Diário por Avianca e por LATAM (Kayak); LATAM anunciou 3ª frequência diária (data do anúncio não verificada). Exemplo Avianca AV248: sai 04:20, chega 10:17, 5h57 (airnavradar, resultado de busca).",
+      "faixaPreco": {
+        "moeda": "BRL",
+        "min": 2485,
+        "max": 3900,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "observacao": "Por pessoa, agregador Kayak (buscas das últimas 72 h; tarifas históricas): ida e volta típica R$ 2.568-3.743 (página SAO-BOG) e R$ 2.600-3.900 (página GRU-BOG, média R$ 3.137); mais barata R$ 2.485; só ida a partir de R$ 1.219. Mês mais barato: março (R$ 2.423-2.432). NÃO é cotação de novembro/2026 nem de data específica: fotografia indicativa de agregador, validar no Google Flights."
+      },
+      "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20BOG%20on%202026-11-17%20through%202026-11-28",
+      "observacaoBusca": "Link do Google Flights para 17-28/nov (janela sugerida); alternativa Skyscanner: https://www.skyscanner.com.br/transporte/passagens-aereas/gru/bog/261117/261128/?adultsv2=2",
+      "fontes": [
+        "https://www.kayak.com.br/flight-routes/GRU/BOG",
+        "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Bogota-BOG"
+      ],
+      "fontesViaBusca": [
+        "https://www.airnavradar.com/data/flights/AV248",
+        "https://passageirodeprimeira.com/gol-anuncia-voos-diretos-entre-sao-paulo-e-bogota"
+      ],
+      "confianca": "media — cias, direto e duração bem consistentes; preço é só agregador"
+    },
+    {
+      "rota": "GRU-CTG (Cartagena)",
+      "cias": [
+        "Avianca (via BOG)",
+        "LATAM (via BOG)",
+        "Copa (via Cidade do Panamá)",
+        "Gol (conexão)"
+      ],
+      "escala": "Sem voo direto; no mínimo 1 conexão (Bogotá é a mais comum; Panamá com Copa). Copa responde por 32% das reservas e Avianca 27% (Momondo).",
+      "duracaoTotalMin": 560,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "BRL",
+        "min": 2063,
+        "max": 2883,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "observacao": "Por pessoa, agregadores Kayak/Momondo (últimas 72 h): mais barata R$ 2.063; típica R$ 2.079-2.454 (Momondo) e R$ 2.133-2.883 (Kayak). Kayak: novembro em faixa intermediária (outubro R$ 2.130 é o mês mais barato; dezembro ~R$ 2.964). Duração mais rápida: 9h20 (Momondo) a 10h46 (Kayak). Indicativo, não é cotação de novembro/2026."
+      },
+      "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20CTG%20on%202026-11-17%20through%202026-11-28",
+      "observacaoBusca": "Skyscanner: https://www.skyscanner.com.br/transporte/passagens-aereas/gru/ctg/261117/261128/?adultsv2=2 . Dica de montagem: voo de ida GRU→CTG e volta BOG→GRU (open-jaw) evita voltar à costa; cotar 'multi-city'.",
+      "fontes": [
+        "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Cartagena-Rafael-Nunez-CTG",
+        "https://www.momondo.com.br/passagem/sao-paulo/cartagena"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "GRU-MDE (Medellín)",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "Copa",
+        "Gol",
+        "Arajet"
+      ],
+      "escala": "Sem voo direto; 1 conexão (normalmente BOG) ou mais",
+      "duracaoTotalMin": 579,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "BRL",
+        "min": 1794,
+        "max": 2678,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "observacao": "Por pessoa, Kayak (últimas 72 h): típica R$ 1.794-2.678; mais barata só ida R$ 688; mês mais barato fevereiro (R$ 1.797), mais caro julho (R$ 2.922). Momondo: ida e volta R$ 2.052-2.553 por viagens com 1-2 escalas e 9-19 h. Duração mais rápida 9h39 via Bogotá. Indicativo."
+      },
+      "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20MDE%20on%202026-11-17%20through%202026-11-28",
+      "observacaoBusca": "Skyscanner: https://www.skyscanner.com.br/transporte/passagens-aereas/gru/mde/261117/261128/?adultsv2=2",
+      "fontes": [
+        "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Medellin-Jose-Marie-Cordova-MDE",
+        "https://www.momondo.com.br/passagem/sao-paulo/medellin-jose-marie-cordova-mde"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "GRU-ADZ (San Andrés)",
+      "cias": [
+        "Copa (GRU→Cidade do Panamá→ADZ, conforme matéria sobre conexão a partir do Brasil)",
+        "Alternativa prática: voo ao continente (BOG/MDE/CTG) + voo doméstico a San Andrés"
+      ],
+      "escala": "Sem voo direto Brasil-San Andrés encontrado; mínimo 2 trechos",
+      "duracaoTotalMin": 0,
+      "frequencia": "Copa PTY-ADZ: 4 frequências semanais segundo matéria antiga (aviacionline); horários CM230/231 não verificados para 2026; histórico de suspensões da Copa em San Andrés.",
+      "faixaPreco": {
+        "moeda": "BRL",
+        "min": 0,
+        "max": 0,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "observacao": "Sem preço confiável coletado. Para orçamento usar GRU→CTG/BOG/MDE + doméstico (ver voosInternos)."
+      },
+      "linkDeBusca": "https://www.google.com/travel/flights?q=Flights%20from%20GRU%20to%20ADZ%20on%202026-11-17%20through%202026-11-28",
+      "observacaoBusca": "Link só para pesquisa; validar rota e frequência no site da Copa/Avianca.",
+      "fontes": [],
+      "fontesViaBusca": [
+        "https://aviacionline.com/copa-airlines-aumentara-sus-vuelos-a-isla-san-andres",
+        "https://www.valoraanalitik.com/copa-airlines-cumple-20-anos-operando-en-san-andres/"
+      ],
+      "confianca": "baixa — nenhuma página aberta com horários/preços 2026"
+    }
+  ],
+  "voosInternos": [
+    {
+      "rota": "BOG-ADZ",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "JetSMART"
+      ],
+      "duracaoMin": 134,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 333148,
+        "max": 586406,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08"
+      },
+      "observacoes": "Voo direto ~2h14. Faixa típica COP 369.011-586.406 (mais barata achada: 333.148). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. Descartado o preço 'novembro' que a página mostrava: datas citadas (sex 23/11 - seg 26/11) não batem com 2026 (23/nov/2026 é segunda), logo é dado velho. SAN ANDRÉS: exige Tarjeta de Turismo (todos os visitantes não residentes, inclusive colombianos; isentos <7 anos e residentes): COP 153.000 pelo Decreto 0010 de 8/jan/2026 (El Universal) — outra fonte (calendariodecolombia, maio/2026) cita COP 148.500; conferir o valor atual. Compra nos módulos das companhias/guichês do aeroporto de ORIGEM no dia do voo (antes de embarcar) — UK FCDO fala em comprar 'no portão de embarque'. Levar comprovante de hospedagem confirmada ou endereço exato e passaporte; guardar o comprovante até sair da ilha. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/ADZ",
+        "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/",
+        "https://www.calendariodecolombia.com/turismo/nuevos-requisitos-para-ingresar-a-san-andres-en-precio-de-la-tarjeta-de-turismo-y-medidas-vigentes-nwjunb",
+        "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "CTG-ADZ",
+      "cias": [
+        "LATAM",
+        "Wingo"
+      ],
+      "duracaoMin": 86,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 281069,
+        "max": 526818,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 97934
+      },
+      "observacoes": "Voo direto ~1h26. Típico COP 281.069-526.818 (média 12 meses 409.787); menor só-ida COP 97.934 (Wingo), menor ida e volta 163.223; setembro é o mês mais barato. Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. SAN ANDRÉS: exige Tarjeta de Turismo (todos os visitantes não residentes, inclusive colombianos; isentos <7 anos e residentes): COP 153.000 pelo Decreto 0010 de 8/jan/2026 (El Universal) — outra fonte (calendariodecolombia, maio/2026) cita COP 148.500; conferir o valor atual. Compra nos módulos das companhias/guichês do aeroporto de ORIGEM no dia do voo (antes de embarcar) — UK FCDO fala em comprar 'no portão de embarque'. Levar comprovante de hospedagem confirmada ou endereço exato e passaporte; guardar o comprovante até sair da ilha. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/CTG/ADZ",
+        "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "MDE-ADZ",
+      "cias": [
+        "JetSMART",
+        "Avianca",
+        "LATAM"
+      ],
+      "duracaoMin": 111,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 290536,
+        "max": 537884,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 104463
+      },
+      "observacoes": "Voo direto ~1h51. Típico COP 314.726-537.884 (média 12 meses 405.021); menor só-ida COP 104.463 (JetSMART); menor ida e volta 290.536; maio é o mais barato. Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. SAN ANDRÉS: exige Tarjeta de Turismo (todos os visitantes não residentes, inclusive colombianos; isentos <7 anos e residentes): COP 153.000 pelo Decreto 0010 de 8/jan/2026 (El Universal) — outra fonte (calendariodecolombia, maio/2026) cita COP 148.500; conferir o valor atual. Compra nos módulos das companhias/guichês do aeroporto de ORIGEM no dia do voo (antes de embarcar) — UK FCDO fala em comprar 'no portão de embarque'. Levar comprovante de hospedagem confirmada ou endereço exato e passaporte; guardar o comprovante até sair da ilha. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/ADZ",
+        "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "BOG-CTG",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "JetSMART",
+        "Wingo"
+      ],
+      "duracaoMin": 93,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 187976,
+        "max": 419187,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 131913
+      },
+      "observacoes": "Direto ~1h33 (Kayak lista também KLM/Edelweiss: ruído de voos internacionais, ignorados). Típico COP 231.540-419.187; menor ida e volta 187.976 (Avianca); menor só-ida 131.913 (JetSMART). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/CTG"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "MDE-CTG",
+      "cias": [
+        "Avianca",
+        "JetSMART",
+        "Wingo",
+        "LATAM (segundo Gecko Routes)"
+      ],
+      "duracaoMin": 73,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 210275,
+        "max": 396250,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 130646
+      },
+      "observacoes": "Direto ~1h13 a 1h15 (aeroporto internacional José María Córdova, em Rionegro, a ~40 min do centro de Medellín). Típico COP 210.275-396.250; menor ida e volta 251.494; menor só-ida 130.646 (JetSMART); bilhetes a partir de ~COP 96.000 (Gecko). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/CTG",
+        "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "BOG-MDE",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "JetSMART",
+        "Wingo",
+        "Satena"
+      ],
+      "duracaoMin": 64,
+      "frequencia": "Quase de hora em hora, 05:00-23:00 (Gecko Routes)",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 120785,
+        "max": 321353,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 84876
+      },
+      "observacoes": "Direto ~1h04. Típico COP 170.143-321.353; menor só-ida 84.876 (LATAM); menor ida e volta 120.785 (JetSMART). Gecko cita COP 140.000-246.000 e '1h50-2h05' contando só o voo+taxiamento. Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/MDE",
+        "https://geckoroutes.com/colombia/bogota-to-medellin/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "BOG-PEI (Pereira / Eje Cafetero)",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "JetSMART",
+        "CLIC"
+      ],
+      "duracaoMin": 64,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 156694,
+        "max": 339275,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 84876
+      },
+      "observacoes": "Direto ~1h04. Típico COP 185.095-339.275; menor ida e volta 156.694 (JetSMART); menor só-ida 84.876. Do aeroporto de Pereira a Salento: táxi ~45 min ou ônibus 1h30-2h (Gecko). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/PEI",
+        "https://geckoroutes.com/colombia/medellin-to-salento/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "MDE-PEI (Medellín José María Córdova - Pereira)",
+      "cias": [
+        "Avianca",
+        "LATAM"
+      ],
+      "duracaoMin": 54,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 241696,
+        "max": 457328,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 189437
+      },
+      "observacoes": "Direto ~54 min. Típico COP 291.831-457.328; menor ida e volta 241.696; menor só-ida 189.437. Caro para a distância: ônibus de 6-8 h custa ~COP 98.000. Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/PEI"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "EOH-PEI (Medellín Olaya Herrera - Pereira)",
+      "cias": [
+        "CLIC (única)"
+      ],
+      "duracaoMin": 45,
+      "frequencia": "~24 voos semanais (Kayak)",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 339681,
+        "max": 581474,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 195970
+      },
+      "observacoes": "Direto ~45 min saindo do aeroporto urbano Olaya Herrera (10 min de táxi do centro; Terminal del Sur a ~100 m). Típico COP 339.681-581.474 (média 488.095); menor só-ida 195.970. Pontualidade 77%. Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/EOH/PEI",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "MDE-SMR (Santa Marta)",
+      "cias": [
+        "Avianca",
+        "JetSMART",
+        "Wingo"
+      ],
+      "duracaoMin": 78,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 234840,
+        "max": 438186,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 147981
+      },
+      "observacoes": "Direto ~1h18. Típico COP 240.888-438.186; menor ida e volta 234.840 (Avianca); menor só-ida 147.981. Wingo é a mais pontual (95% nos últimos 3 meses). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/SMR"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "BOG-SMR (Santa Marta)",
+      "cias": [
+        "Avianca",
+        "LATAM",
+        "JetSMART"
+      ],
+      "duracaoMin": 94,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 211061,
+        "max": 443096,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08",
+        "menorSoIda": 151700
+      },
+      "observacoes": "Direto ~1h34. Típico COP 264.947-443.096; menor ida e volta 211.061; menor só-ida 151.700 (JetSMART). Preço: faixa típica de ida e volta e menor só-ida do agregador Kayak Colômbia (buscas recentes, não é novembro/2026), por pessoa; indicativo. BAGAGEM (confirmar na hora de comprar): Avianca tarifa Light doméstica = só item pessoal; LATAM tarifa Basic = só bolsa pequena 45x35x20 cm; JetSMART base = só mochila pequena (mala de mão 55x35x25 cm/10 kg e despachada 23 kg são pagas à parte); Wingo inclui 1 item pessoal 6 kg + mala de mão 10 kg grátis e despacho de 20 kg a partir de ~US$ 25 no site (US$ 40 no balcão, US$ 55 no portão).",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/SMR"
+      ],
+      "confianca": "media"
+    },
+    {
+      "rota": "CTG-SMR (Cartagena - Santa Marta)",
+      "cias": [],
+      "duracaoMin": 0,
+      "frequencia": "Sem voo direto",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 513373,
+        "max": 1144577,
+        "tipo": "ida-e-volta",
+        "coletadoEm": "2026-10-08"
+      },
+      "observacoes": "NÃO existe voo direto. Opções com conexão por BOG/MDE levam 4h48 a 7h02 e custam COP 513.373-1.144.577 ida e volta: pior que o ônibus/van (4-6 h, COP 53.000-80.000). Usar terra.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/CTG/SMR"
+      ],
+      "confianca": "media"
+    }
+  ],
+  "trechosEntreCidades": [
+    {
+      "de": "Cartagena",
+      "para": "Santa Marta",
+      "modal": "onibus",
+      "operadoras": [
+        "Unitransco",
+        "Expreso Brasilia",
+        "Copetran",
+        "Ruta Dorada/Exalpa",
+        "Berlinas",
+        "Superstar"
+      ],
+      "duracaoPortaAPortaMin": 390,
+      "duracaoVeiculoMin": 275,
+      "frequencia": "Várias saídas por hora (espera máx. ~30-40 min), primeira ~05:00",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 49000,
+        "max": 66000
+      },
+      "terminais": {
+        "saida": "Terminal de Transportes de Cartagena (leste, ~12 km do centro histórico)",
+        "chegada": "Terminal de Transportes de Santa Marta (centro)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Ônibus 4h30 a 6h20 conforme trânsito/paradas (Expreso Brasilia 05:00/07:15/08:15 em 4h34, COP 66.000; Unitransco 22:15, 4h30, COP 66.000; Gecko: a partir de COP 53.000). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Chegar ao terminal ~30-40 min de táxi do centro histórico (min.) + ~15 min de espera + 4h35-6h20 + ~20 min do terminal ao hotel. Em feriados/puentes (31/out-2/nov, 14-16/nov) comprar com antecedência (heurística, sem dado de lotação). Sem voo direto.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/cartagena-to-santa-marta/",
+        "https://www.checkmybus.com/cartagena-de-indias-by/santa-marta-ma"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Cartagena",
+      "para": "Santa Marta",
+      "modal": "onibus",
+      "operadoras": [
+        "Marsol Transportes (van compartilhada)",
+        "Beach Tayrona Park",
+        "Cartagena Toures y Excursiones"
+      ],
+      "duracaoPortaAPortaMin": 300,
+      "duracaoVeiculoMin": 270,
+      "frequencia": "Saídas diárias combinadas com a operadora; pega e deixa no hotel em alguns casos",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 80000,
+        "max": 0
+      },
+      "terminais": {
+        "saida": "Hotel/ponto combinado em Cartagena (algumas operadoras)",
+        "chegada": "Hotel em Santa Marta/Taganga/Rodadero (algumas operadoras)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Van compartilhada 4h a 5h30, de COP 80.000 (US$ 25) para cima por pessoa; carro privativo COP 560.000+ (US$ 175+) por veículo, 4h a 4h40. Porta a porta mais curto porque elimina terminal. Reservar com antecedência em feriados (heurística). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/cartagena-to-santa-marta/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Cartagena",
+      "para": "Medellín",
+      "modal": "voo",
+      "operadoras": [
+        "Avianca",
+        "LATAM",
+        "JetSMART",
+        "Wingo"
+      ],
+      "duracaoPortaAPortaMin": 300,
+      "duracaoVeiculoMin": 75,
+      "frequencia": "Vários voos por dia desde 05:00",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 96000,
+        "max": 396250
+      },
+      "terminais": {
+        "saida": "Aeroporto Rafael Núñez (CTG), a ~10 min do centro histórico",
+        "chegada": "Aeroporto José María Córdova (MDE) em Rionegro, 30-40 min do centro de Medellín"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Preços: a partir de ~COP 96.000 só-ida (Gecko) / COP 130.646 (Kayak); ida e volta típica COP 210.275-396.250. Aeroporto alternativo em Medellín: Olaya Herrera (EOH), urbano, mas NÃO opera Cartagena (CLIC só vai a Pereira). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. 10 min CTG→aeroporto + 120 min de antecedência + 75 min de voo + ~30 min desembarque + ~45 min MDE→centro ≈ 4h40-5h.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/medellin-to-cartagena/",
+        "https://www.kayak.com.co/flight-routes/MDE/CTG",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Cartagena",
+      "para": "Medellín",
+      "modal": "onibus",
+      "operadoras": [
+        "Rápido Ochoa (15h40; COP 124.000)",
+        "Expreso Brasilia (14h05; premium)",
+        "Flota La Macarena (14h)"
+      ],
+      "duracaoPortaAPortaMin": 900,
+      "duracaoVeiculoMin": 840,
+      "frequencia": "Saídas Medellín→Cartagena ~17:30/19:30/21:30 (Brasilia); Gecko: Ochoa 05:30/17:30/22:30, Brasilia 08:30/11:00/16:30, Macarena 07:00/13:00/15:45",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 100000,
+        "max": 125000
+      },
+      "terminais": {
+        "saida": "Terminal de Transportes de Cartagena (leste)",
+        "chegada": "Terminal del Norte, Medellín"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "13h30 a 15h40 de viagem, atrasos comuns; ~15-17 h porta a porta. Só faz sentido se o objetivo for economia radical; voo custa quase o mesmo e leva ~5 h. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/medellin-to-cartagena/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Medellín",
+      "para": "Salento (Eje Cafetero)",
+      "modal": "onibus",
+      "operadoras": [
+        "Flota Occidental (única com ônibus direto)"
+      ],
+      "duracaoPortaAPortaMin": 510,
+      "duracaoVeiculoMin": 450,
+      "frequencia": "Várias saídas diárias (ex.: madrugada 00:30, 11:00, 14:00 — horários de fonte secundária)",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 98000,
+        "max": 98000
+      },
+      "terminais": {
+        "saida": "Terminal del Sur (Gecko) — outra fonte cita Terminal del Norte: confirmar antes",
+        "chegada": "Terminal de Buses de Salento"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Anunciado 6-7 h, mas na prática 7h30 a 9 h por estrada ruim e trânsito (Gecko 7h50 incluindo traslado; COP 98.000). Alternativa: voo EOH→PEI (CLIC 45 min) ou MDE→PEI (Avianca/LATAM 54 min) + táxi PEI→Salento ~45 min (~US$ 47) ou ônibus 1h30-2h (US$ 7,60): ~4h30-5h porta a porta, mas voo custa COP 195.000+ só-ida. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Terminal del Sur fica a ~100 m do aeroporto Olaya Herrera.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/medellin-to-salento/",
+        "https://www.kayak.com.co/flight-routes/EOH/PEI",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Medellín",
+      "para": "Pereira / Armenia (Eje Cafetero)",
+      "modal": "voo",
+      "operadoras": [
+        "Avianca",
+        "LATAM (MDE)",
+        "CLIC (EOH)"
+      ],
+      "duracaoPortaAPortaMin": 270,
+      "duracaoVeiculoMin": 50,
+      "frequencia": "CLIC EOH-PEI ~24 voos/semana; Avianca/LATAM MDE-PEI diários",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 189437,
+        "max": 581474
+      },
+      "terminais": {
+        "saida": "EOH (urbano, ~10 min do centro) ou MDE (Rionegro, 30-40 min)",
+        "chegada": "Aeroporto Matecaña (PEI), ~20 min do centro de Pereira; Armenia tem o aeroporto El Edén (AXM), mais perto de Salento — não pesquisado"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Voo 45 a 54 min; só-ida COP 189.437-195.970, ida e volta COP 241.696-581.474. Do PEI a Salento ~45 min por táxi. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/EOH/PEI",
+        "https://www.kayak.com.co/flight-routes/MDE/PEI",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-PEI-transporte/",
+        "https://geckoroutes.com/colombia/medellin-to-salento/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Bogotá",
+      "para": "Medellín",
+      "modal": "onibus",
+      "operadoras": [
+        "Rápido Tolima",
+        "Expreso Bolivariano",
+        "Expreso Brasilia",
+        "Flota La Macarena"
+      ],
+      "duracaoPortaAPortaMin": 660,
+      "duracaoVeiculoMin": 585,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 96000,
+        "max": 0
+      },
+      "terminais": {
+        "saida": "Terminal Salitre (Bogotá)",
+        "chegada": "Terminal del Norte (Medellín)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Ônibus 9h05 a 11h30, a partir de COP 96.000. Voo (ver voosInternos) leva ~1h04 e custa COP 120.785-321.353 ida e volta: para 2 pessoas e 10-12 dias, avião sai melhor em tempo por quase o mesmo custo. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/bogota-to-medellin/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Bogotá",
+      "para": "Medellín",
+      "modal": "voo",
+      "operadoras": [
+        "Avianca",
+        "LATAM",
+        "JetSMART",
+        "Wingo",
+        "Satena"
+      ],
+      "duracaoPortaAPortaMin": 300,
+      "duracaoVeiculoMin": 64,
+      "frequencia": "Quase de hora em hora, 05:00-23:00",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 84876,
+        "max": 321353
+      },
+      "terminais": {
+        "saida": "El Dorado (BOG), 30-50 min do centro/Chapinero",
+        "chegada": "José María Córdova (MDE), 30-40 min do centro"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Preço: só-ida desde COP 84.876; ida e volta COP 120.785-321.353. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. 40 min até BOG + 120 min antecedência + 64 min voo + ~30 min desembarque + ~45 min MDE→centro ≈ 5 h.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/bogota-to-medellin/",
+        "https://www.kayak.com.co/flight-routes/BOG/MDE",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Bogotá",
+      "para": "Villa de Leyva",
+      "modal": "onibus",
+      "operadoras": [
+        "Omega (camioneta)",
+        "Flota Valle de Tenza",
+        "Expreso Gaviota",
+        "Coflonorte"
+      ],
+      "duracaoPortaAPortaMin": 300,
+      "duracaoVeiculoMin": 210,
+      "frequencia": "Várias saídas por dia (Omega 06:45-14:15; Coflonorte 06:05-15:40)",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 27500,
+        "max": 32500
+      },
+      "terminais": {
+        "saida": "Terminal Salitre ou Terminal del Norte (Bogotá)",
+        "chegada": "Terminal de Villa de Leyva"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "2h30 a 4h30 (Coflonorte 2h30, Omega 2h40, Valle de Tenza 3h-4h15); volta COP 32.500 (2h55-4h). Carro privativo de US$ 160+ (4-12 pessoas), 2h55-4h. Saindo pelo Terminal del Norte evita atravessar a cidade. Em feriado/puente o trânsito de saída/retorno de Bogotá piora muito. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte. Villa de Leyva a 2.215 m: noites ~11 °C.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/bogota-to-villa-de-leyva/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Santa Marta",
+      "para": "Palomino",
+      "modal": "onibus",
+      "operadoras": [
+        "Cootransoriente Tayrona (04:40-18:00, só venda presencial)",
+        "Expreso Almirante Padilla",
+        "Exalpa",
+        "Expreso Brasilia",
+        "Unitransco"
+      ],
+      "duracaoPortaAPortaMin": 150,
+      "duracaoVeiculoMin": 120,
+      "frequencia": "Cootransoriente a cada ~20 min; Brasilia 05:00-19:45; Unitransco 05:30-21:30",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 0,
+        "max": 0
+      },
+      "terminais": {
+        "saida": "Cootransoriente: ponto atrás do Mercado Central; demais: Terminal de Transportes de Santa Marta",
+        "chegada": "Palomino (rodovia/estrada)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "~2 h (1-2 h conforme veículo; ~80 km de estrada). Preços na fonte estão em USD (US$ 4,40 a US$ 9,20) e não foram convertidos para COP por falta de câmbio USD/COP fontado; carro privativo US$ 75-205 por veículo. Pegar o ônibus que vai a Riohacha/Palomino. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/santa-marta-to-palomino/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Santa Marta",
+      "para": "Parque Tayrona (entrada El Zaino)",
+      "modal": "onibus",
+      "operadoras": [
+        "Cootransoriente Tayrona"
+      ],
+      "duracaoPortaAPortaMin": 90,
+      "duracaoVeiculoMin": 60,
+      "frequencia": "A cada ~20 min, ~04:30-18:00",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 10000,
+        "max": 10000
+      },
+      "terminais": {
+        "saida": "Ponto Cootransoriente atrás do Mercado Central de Santa Marta",
+        "chegada": "Entrada El Zaino (5 km até as trilhas, a pé ou em transporte do parque)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "1 h por ônibus (COP 10.000); transfer privado 40-50 min (a partir de US$ 58 por carro). Ingresso estrangeiro 2026: COP 81.000 (baixa) / 96.500 (alta temporada) + seguro de resgate obrigatório comprado na bilheteria. ATENÇÃO: 'Respira Tayrona' fecha o parque 3 vezes por ano (fev, jun e entre out e nov): datas de out/nov-2026 NÃO confirmadas (em 2023 foi 19/out a 2/nov). Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://geckoroutes.com/colombia/santa-marta-to-tayrona-national-park/",
+        "https://www.infobae.com/colombia/2026/01/07/parque-tayrona-ajusto-sus-tarifas-para-2026-asi-quedaron-los-precios-por-temporada-edad-y-tipo-de-visitante/",
+        "https://www.publimetro.co/noticias/2026/06/02/parque-tayrona-cierra-sus-puertas-temporalmente-por-actividades-de-las-comunidades-indigenas-cuando-vuelve-a-abrir/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Bogotá",
+      "para": "San Andrés",
+      "modal": "voo",
+      "operadoras": [
+        "Avianca",
+        "LATAM",
+        "JetSMART"
+      ],
+      "duracaoPortaAPortaMin": 335,
+      "duracaoVeiculoMin": 134,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 333148,
+        "max": 586406
+      },
+      "terminais": {
+        "saida": "El Dorado (BOG)",
+        "chegada": "Gustavo Rojas Pinilla (ADZ), 1 km do centro / 5-10 min de táxi"
+      },
+      "antecedenciaDias": 105,
+      "observacoes": "Ida e volta COP 333.148-586.406 + Tarjeta de Turismo (COP 148.500-153.000, ver voosInternos). Reservar com ≥15 semanas de antecedência economiza ~36% segundo Kayak (BOG-ADZ). Tarifas base de Avianca/LATAM/JetSMART não incluem mala de mão grande. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/BOG/ADZ",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/",
+        "https://www.eluniversal.com.co/colombia/2026/02/05/viaja-a-san-andres-en-2026-este-es-el-nuevo-costo-de-la-tarjeta-de-turismo/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Cartagena",
+      "para": "San Andrés",
+      "modal": "voo",
+      "operadoras": [
+        "LATAM",
+        "Wingo"
+      ],
+      "duracaoPortaAPortaMin": 260,
+      "duracaoVeiculoMin": 86,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 163223,
+        "max": 526818
+      },
+      "terminais": {
+        "saida": "Rafael Núñez (CTG), ~10 min do centro histórico",
+        "chegada": "Gustavo Rojas Pinilla (ADZ)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Direto ~1h26; só-ida COP 97.934 (Wingo); ida e volta COP 163.223-526.818. É a base continental mais curta e barata para San Andrés. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/CTG/ADZ",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Medellín",
+      "para": "San Andrés",
+      "modal": "voo",
+      "operadoras": [
+        "JetSMART",
+        "Avianca",
+        "LATAM"
+      ],
+      "duracaoPortaAPortaMin": 320,
+      "duracaoVeiculoMin": 111,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 290536,
+        "max": 537884
+      },
+      "terminais": {
+        "saida": "José María Córdova (MDE), 30-40 min do centro",
+        "chegada": "Gustavo Rojas Pinilla (ADZ)"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "Direto ~1h51; só-ida COP 104.463 (JetSMART); ida e volta COP 290.536-537.884. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/ADZ",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "de": "Santa Marta",
+      "para": "Medellín / Bogotá",
+      "modal": "voo",
+      "operadoras": [
+        "Avianca",
+        "JetSMART",
+        "Wingo (MDE)",
+        "LATAM (BOG)"
+      ],
+      "duracaoPortaAPortaMin": 230,
+      "duracaoVeiculoMin": 80,
+      "frequencia": "",
+      "faixaPreco": {
+        "moeda": "COP",
+        "min": 147981,
+        "max": 443096
+      },
+      "terminais": {
+        "saida": "Aeroporto Simón Bolívar (SMR), 15 min do Rodadero / 30-40 min do centro histórico",
+        "chegada": "MDE ou BOG"
+      },
+      "antecedenciaDias": 0,
+      "observacoes": "SMR→MDE ~1h18 (COP 234.840-438.186); SMR→BOG ~1h34 (COP 211.061-443.096). Útil para fechar o arco Caribe→Andes sem voltar a Cartagena. Porta a porta = ESTIMATIVA DERIVADA somando componentes fontados (acesso ao terminal/aeroporto, antecedência recomendada, tempo de voo/viagem, deslocamento até o centro); não é dado direto de fonte.",
+      "fontes": [
+        "https://www.kayak.com.co/flight-routes/MDE/SMR",
+        "https://www.kayak.com.co/flight-routes/BOG/SMR",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-SMR-transporte/"
+      ],
+      "confianca": "media"
+    }
+  ],
+  "aeroportos": [
+    {
+      "iata": "GRU",
+      "nome": "Aeroporto Internacional de São Paulo/Guarulhos",
+      "cidade": "São Paulo",
+      "coords": {
+        "lat": -23.431274,
+        "lng": -46.469954
+      },
+      "tempoAoCentroMin": 0,
+      "antecedenciaDomesticaMin": 0,
+      "antecedenciaInternacionalMin": 180,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      ],
+      "observacao": "Origem. Tempo até o centro de SP sem fonte (0). Internacional: 3 h antes. Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "CGH",
+      "nome": "Aeroporto de Congonhas",
+      "cidade": "São Paulo",
+      "coords": {
+        "lat": -23.627657,
+        "lng": -46.654601
+      },
+      "tempoAoCentroMin": 0,
+      "antecedenciaDomesticaMin": 0,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      ],
+      "observacao": "Só doméstico no Brasil; não conecta com Colômbia sem passar por GRU/VCP."
+    },
+    {
+      "iata": "VCP",
+      "nome": "Aeroporto Internacional de Viracopos",
+      "cidade": "Campinas",
+      "coords": {
+        "lat": -23.007404,
+        "lng": -47.134502
+      },
+      "tempoAoCentroMin": 0,
+      "antecedenciaDomesticaMin": 0,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      ],
+      "observacao": "Opção de origem; rotas VCP-Colômbia não pesquisadas."
+    },
+    {
+      "iata": "BOG",
+      "nome": "Aeroporto Internacional El Dorado",
+      "cidade": "Bogotá",
+      "coords": {
+        "lat": 4.70159,
+        "lng": -74.1469
+      },
+      "tempoAoCentroMin": 40,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 180,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/",
+        "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      ],
+      "observacao": "30-50 min até Chapinero/Zona Rosa conforme trânsito. Altitude 2.547 m. Táxi oficial Taxi Imperial (pista 1, entre portas 8-10); TransMilenio via alimentador gratuito 16-14 até Portal El Dorado ou K86 (cartão Tullave). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "CTG",
+      "nome": "Aeroporto Internacional Rafael Núñez",
+      "cidade": "Cartagena",
+      "coords": {
+        "lat": 10.4424,
+        "lng": -75.513
+      },
+      "tempoAoCentroMin": 10,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 180,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+      ],
+      "observacao": "~4 km do centro histórico; táxi ~10 min com tarifa fixa de COP 15.000 (fonte secundária); ônibus Transcaribe/urbano ~20 min. Fica ao nível do mar (4 m). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "ADZ",
+      "nome": "Aeroporto Internacional Gustavo Rojas Pinilla",
+      "cidade": "San Andrés",
+      "coords": {
+        "lat": 12.5836,
+        "lng": -81.7112
+      },
+      "tempoAoCentroMin": 10,
+      "antecedenciaDomesticaMin": 150,
+      "antecedenciaInternacionalMin": 180,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/",
+        "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements"
+      ],
+      "observacao": "Dentro da área urbana, ~1 km do centro (5-10 min de táxi, 10-15 min a pé). Tarifas de táxi tabeladas por decreto local, sem taxímetro. Antecedência doméstica sugerida 150 min (2 h + tempo da fila da Tarjeta de Turismo no módulo da cia; heurística). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "MDE",
+      "nome": "Aeroporto Internacional José María Córdova",
+      "cidade": "Medellín (fica em Rionegro)",
+      "coords": {
+        "lat": 6.16454,
+        "lng": -75.4231
+      },
+      "tempoAoCentroMin": 40,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 180,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/",
+        "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+      ],
+      "observacao": "~30-40 min do centro de Medellín pelo túnel de Oriente (ônibus 'combus' COP 17.000 a cada ~15 min, 24 h; táxi regulado ~COP 115.000 com pedágio; busca de resultado cita ônibus de 45 min). Na prática, planejar 45-60 min no pico. Altitude 2.073 m, mais frio e úmido que a cidade; fecha por neblina às vezes. Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "EOH",
+      "nome": "Aeroporto Olaya Herrera",
+      "cidade": "Medellín",
+      "coords": {
+        "lat": 6.219686,
+        "lng": -75.590597
+      },
+      "tempoAoCentroMin": 10,
+      "antecedenciaDomesticaMin": 90,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+      ],
+      "observacao": "Aeroporto urbano a ~10 min de táxi do centro; Terminal del Sur a ~100 m. Opera voos regionais (CLIC a Pereira); não recebe voo internacional/Cartagena. Antecedência doméstica 90 min é heurística para voo regional (não verificado)."
+    },
+    {
+      "iata": "PEI",
+      "nome": "Aeroporto Internacional Matecaña",
+      "cidade": "Pereira",
+      "coords": {
+        "lat": 4.81267,
+        "lng": -75.7395
+      },
+      "tempoAoCentroMin": 20,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-PEI-transporte/"
+      ],
+      "observacao": "~20 min de táxi do centro de Pereira; Megabús linha 25 a cada 10 min (seg-sex 4:30-22:45). Não traz informação de ligação a Salento (táxi ~45 min / ônibus 1h30-2h segundo Gecko Routes). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    },
+    {
+      "iata": "AXM",
+      "nome": "Aeroporto El Edén",
+      "cidade": "Armenia",
+      "coords": {
+        "lat": 4.45278,
+        "lng": -75.7664
+      },
+      "tempoAoCentroMin": 0,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      ],
+      "observacao": "Alternativa ao PEI para Salento/Quindío; rotas e tempo ao centro não pesquisados."
+    },
+    {
+      "iata": "SMR",
+      "nome": "Aeroporto Internacional Simón Bolívar",
+      "cidade": "Santa Marta",
+      "coords": {
+        "lat": 11.1196,
+        "lng": -74.2306
+      },
+      "tempoAoCentroMin": 35,
+      "antecedenciaDomesticaMin": 120,
+      "antecedenciaInternacionalMin": 0,
+      "desembarqueDomesticoMin": 0,
+      "desembarqueInternacionalMin": 0,
+      "fontes": [
+        "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "https://www.aeropuertosdelmundo.net/aeropuerto-SMR-transporte/"
+      ],
+      "observacao": "~15 min até El Rodadero e 30-40 min até o centro histórico de Santa Marta (táxi amarelo Asocontax; ônibus SETP 5:00-22:00). Nível do mar (22 ft). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+    }
+  ],
+  "climaNovembro": [
+    {
+      "regiao": "Caribe - Cartagena",
+      "resumo": "Normais IDEAM (1991-2020, tabelas reproduzidas na Wikipédia). Novembro cai na segunda estação chuvosa do Caribe (set-nov): 178 mm e ~9 dias com ≥1 mm, máxima 31,5 °C, mínima 25,5 °C, umidade 83%, ~6,2 h de sol/dia (53% do possível). Chuva moderada e em pancadas; calor úmido.",
+      "chuvaMm": 178.3,
+      "diasDeChuva": 8.9,
+      "tempMinC": 25.5,
+      "tempMaxC": 31.5,
+      "marEVento": "Ressacas ('mar de leva') podem fechar praias: novembro/2023 destruiu parte da praia de Bocagrande e em fev/2026 houve decreto fechando praias urbanas e das Ilhas do Rosário; sem série numérica de altura de onda coletada. Furacão é risco baixo mas não nulo no Caribe até 30/nov; ciclone atingindo Cartagena não verificado.",
+      "pesoNaDecisao": "medio",
+      "planoBChuva": "Concentrar cidade amuralhada, Castillo de San Felipe, Palacio de la Inquisición/museus e Getsemaní nas horas com chuva; deixar passeio de barco às Ilhas do Rosário para manhãs e checar bandeira/decreto de praia no dia.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+        "https://www.publimetro.co/barranquilla/2026/02/02/cierre-de-playas-todo-el-caribe-por-emergencia-climatica-cartagena-barranquilla-y-santa-marta-con-olas-de-hasta-cuatro-metros/",
+        "https://www.publimetro.co/noticias/2023/11/21/mar-de-leva-en-cartagena-se-trago-gran-parte-de-una-playa-de-bocagrande/"
+      ],
+      "confianca": "alta para os normais; media para mar/vento"
+    },
+    {
+      "regiao": "Caribe seco - Santa Marta, Tayrona e Palomino",
+      "resumo": "Normais IDEAM (1991-2020, tabelas reproduzidas na Wikipédia). Santa Marta: só 74 mm e ~5,6 dias de chuva, máxima 32,4 °C, mínima 24,0 °C, ~7,3 h de sol/dia. Riohacha (proxy da faixa Palomino-La Guajira, 1981-2010): 76 mm, 7 dias. É o trecho do Caribe onde novembro NÃO pesa. Atenção ao calor (>32 °C) e à logística: Parque Tayrona fecha 3 vezes ao ano (fev, jun e entre out e nov) pela estratégia 'Respira Tayrona'; datas de out/nov-2026 não confirmadas.",
+      "chuvaMm": 74.3,
+      "diasDeChuva": 5.6,
+      "tempMinC": 24.0,
+      "tempMaxC": 32.4,
+      "marEVento": "Sem dado de mar fontado para Tayrona/Palomino; correntes de retorno são perigosas em várias praias do Tayrona (informação geral, não verificada nas fontes).",
+      "pesoNaDecisao": "baixo",
+      "planoBChuva": "Se chover: Quinta de San Pedro Alejandrino / centro histórico de Santa Marta, Minca (cafés e cachoeiras, microclima mais úmido) ou dia de descanso em Taganga/Rodadero.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Santa_Marta",
+        "https://en.wikipedia.org/wiki/Riohacha",
+        "https://www.publimetro.co/noticias/2026/06/02/parque-tayrona-cierra-sus-puertas-temporalmente-por-actividades-de-las-comunidades-indigenas-cuando-vuelve-a-abrir/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/parque-nacional-natural-tayrona/"
+      ],
+      "confianca": "alta para os normais; baixa para datas de fechamento do Tayrona"
+    },
+    {
+      "regiao": "Caribe insular - San Andrés",
+      "resumo": "Normais IDEAM (1971-2000): novembro é um dos meses MAIS chuvosos da ilha: 269,6 mm em ~22 dias (outubro 323,8 mm, 23 dias); máxima 29,6 °C, mínima 25,6 °C, 6,3 h de sol/dia. A estação seca é dez-abr (fev ~38 mm, mar ~24 mm). Ainda por cima, é a única região exposta a ciclones: o furacão Iota atingiu Providência (San Andrés e Providencia) em 16/nov/2020. A temporada de furacões do Atlântico vai até 30/nov e novembro tem tempestades tardias no Caribe ocidental.",
+      "chuvaMm": 269.6,
+      "diasDeChuva": 22,
+      "tempMinC": 25.6,
+      "tempMaxC": 29.6,
+      "marEVento": "Ciclone tropical é o risco-chave; acompanhar NHC/IDEAM/UNGRD na semana da viagem e comprar tarifa remarcável. Mar de leva também possível. Sem série de vento/altura de onda coletada.",
+      "pesoNaDecisao": "alto",
+      "planoBChuva": "Para San Andrés em novembro, mais chuva e risco que o resto do Caribe: preferir encaixar a ilha em dez-abr ou omitir. Se mantiver, tarifa flexível, seguro-viagem com cobertura de cancelamento por clima, e atividades cobertas (Hoyo Soplador, Casa Museo Isleña, snorkel só em janela sem chuva).",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/San_Andr%C3%A9s_Island",
+        "https://www.elpais.com.co/ultimo-minuto/ojo-del-huracan-iota-estuvo-a-18-kilometros-de-providencia-ideam.html",
+        "https://paho.org/sites/default/files/2020-12/Rep_sit_02_OPS_COL_huracan_Iota_inundaciones_18nov2020.pdf"
+      ],
+      "confianca": "alta para normais; media para risco de furacão (NHC oficial não aberto)"
+    },
+    {
+      "regiao": "Andes - Bogotá",
+      "resumo": "Normais IDEAM (1991-2020, tabelas reproduzidas na Wikipédia). Novembro: 107 mm e 12 dias com ≥1 mm, máxima 19,4 °C, mínima 8,6 °C, ~4,2 h de sol/dia, umidade 83%. Garoa e céu fechado frequentes, frio de manhã/noite; não é o mês mais chuvoso da cidade, mas a chuva é fina e constante. Altitude 2.640 m.",
+      "chuvaMm": 107.2,
+      "diasDeChuva": 12.1,
+      "tempMinC": 8.6,
+      "tempMaxC": 19.4,
+      "marEVento": "n/a (cidade andina). Vento fraco; sensação térmica baixa à noite.",
+      "pesoNaDecisao": "medio",
+      "planoBChuva": "Museu do Ouro, Museu Botero, Catedral de Sal de Zipaquirá (cobertos), La Candelaria; levar corta-vento e guarda-chuva compacto; Monserrate só com céu aberto.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      ],
+      "confianca": "alta"
+    },
+    {
+      "regiao": "Andes - Villa de Leyva (altiplano boyacense)",
+      "resumo": "Normais IDEAM 1981-2010: novembro 119 mm e ~17 dias, máxima 22,4 °C, mínima 11,3 °C, ~4,5 h de sol/dia. Cidade colonial a 2.215 m; trânsito de Bogotá é o maior risco nos feriados.",
+      "chuvaMm": 119.2,
+      "diasDeChuva": 17,
+      "tempMinC": 11.3,
+      "tempMaxC": 22.4,
+      "marEVento": "n/a",
+      "pesoNaDecisao": "medio",
+      "planoBChuva": "Museus e oficinas de cerâmica/cavernas fechadas; Pozos Azules e Fósil só com tempo firme.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+      ],
+      "confianca": "alta"
+    },
+    {
+      "regiao": "Andes - Medellín",
+      "resumo": "Normais IDEAM (1991-2020, tabelas reproduzidas na Wikipédia). Novembro é o mês mais chuvoso do ano na estação Olaya Herrera: 327 mm em ~17 dias (anual 2.238 mm), máxima 27,1 °C, mínima 17,6 °C, ~4,5 h de sol/dia. Na estação do aeroporto MDE/Rionegro (2.073 m, 1981-2010): 190 mm e ~22 dias, máxima 21,6 °C, mínima 12,7 °C. Chuva forte e em pancadas à tarde/noite é plausível; deslizamentos pontuais em vias.",
+      "chuvaMm": 327.3,
+      "diasDeChuva": 16.9,
+      "tempMinC": 17.6,
+      "tempMaxC": 27.1,
+      "marEVento": "n/a (cidade andina). Nevoeiro/neblina pode fechar o aeroporto de Rionegro e causar atrasos (matéria Valora Analitik citada em busca).",
+      "pesoNaDecisao": "alto",
+      "planoBChuva": "Parque Explora, Museo de Antioquia/Plaza Botero, Metro + Metrocable (Santo Domingo), Museo Casa de la Memoria; tour da Comuna 13 de manhã; deixar Guatapé/Piedra del Peñol para dia seco.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+        "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+      ],
+      "confianca": "alta para os normais; media para a estação (os 327 mm são o valor publicado na tabela de 1991-2020)"
+    },
+    {
+      "regiao": "Eje Cafetero - Pereira, Armenia e Salento",
+      "resumo": "Normais IDEAM (1991-2020, tabelas reproduzidas na Wikipédia). Pereira (aeroporto Matecaña, 1.342 m): 302 mm em ~19 dias, máxima 25,9 °C, mínima 17,6 °C, ~5 h de sol/dia. Armenia/Calarcá (1981-2010): 313 mm, máxima 24,7 °C, mínima 16,1 °C, 3,6 h de sol/dia. Salento fica mais alto e frio. Trilha do Vale do Cocora (lama, travessias) é a atividade mais prejudicada.",
+      "chuvaMm": 302.1,
+      "diasDeChuva": 19.1,
+      "tempMinC": 17.6,
+      "tempMaxC": 25.9,
+      "marEVento": "n/a",
+      "pesoNaDecisao": "alto",
+      "planoBChuva": "Fincas cafeteiras (tour coberto), termais de Santa Rosa de Cabal, Jardín Botánico de Pereira; Cocora só de manhã cedo e com tênis impermeável.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Pereira,_Colombia",
+        "https://en.wikipedia.org/wiki/Armenia,_Quind%C3%ADo"
+      ],
+      "confianca": "alta"
+    },
+    {
+      "regiao": "Pacífico - Chocó (Quibdó e Nuquí)",
+      "resumo": "Uma das regiões mais chuvosas do planeta: Quibdó 662 mm e ~25 dias (máx. 30,2 °C, mín. 23,2 °C); Nuquí ~585 mm (Climate-Data.org, mín 21,7/máx 30,1 °C). Chuva quase diária; operação turística e voos pequenos sofrem com tempo.",
+      "chuvaMm": 662.3,
+      "diasDeChuva": 24.6,
+      "tempMinC": 23.2,
+      "tempMaxC": 30.2,
+      "marEVento": "Mar e acesso por lancha/avioneta dependem do tempo; sem dado fontado.",
+      "pesoNaDecisao": "alto",
+      "planoBChuva": "Fora do foco do roteiro (Caribe + 1 base andina, 10-12 dias, econômico): não recomendado em novembro.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Quibd%C3%B3",
+        "https://en.wikipedia.org/wiki/Nuqu%C3%AD"
+      ],
+      "confianca": "alta para Quibdó; media para Nuquí (fonte Climate-Data)"
+    },
+    {
+      "regiao": "Amazônia - Leticia",
+      "resumo": "Normais IDEAM (1981-2010, tabelas reproduzidas na Wikipédia). Novembro: 317 mm e ~22 dias, máxima 31,3 °C, mínima 22,9 °C, umidade 87%. Fora do roteiro; acesso só por avião de Bogotá.",
+      "chuvaMm": 317.5,
+      "diasDeChuva": 22,
+      "tempMinC": 22.9,
+      "tempMaxC": 31.3,
+      "marEVento": "Rio Amazonas: cheia/vazante sazonal (não verificado).",
+      "pesoNaDecisao": "baixo",
+      "planoBChuva": "Fora do roteiro.",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Leticia,_Amazonas"
+      ],
+      "confianca": "media"
+    },
+    {
+      "regiao": "Cenário de 2026: El Niño forte (todo o país)",
+      "resumo": "IDEAM (notícia RCN de 13/ago/2026): probabilidade de 69% de El Niño de intensidade 'muito forte' em out-nov-dez/2026, podendo superar os registros desde 1950; esperam-se precipitações abaixo do normal e temperaturas acima do normal em setores do Caribe, Andes e Pacífico. Riscos citados: queda de nível de rios/represas, incêndios florestais. Efeito para a viagem: os mm acima são normais históricos; em novembro/2026 a chuva tende a ficar ABAIXO do normal (bom para Medellín/Eje/Cartagena), mas calor maior, risco de racionamento de água e de incêndios (sobretudo Andes e Sierra Nevada). Faltam ~5 semanas para novembro: confiar mais em previsão de 7-10 dias na semana da viagem do que nos normais.",
+      "chuvaMm": 0,
+      "diasDeChuva": 0,
+      "tempMinC": 0,
+      "tempMaxC": 0,
+      "marEVento": "El Niño tende a reduzir atividade de furacões no Atlântico; relação não confirmada nas fontes abertas.",
+      "pesoNaDecisao": "medio",
+      "planoBChuva": "Reservar flexibilidade; checar boletins IDEAM e Minsalud na semana da viagem.",
+      "fontes": [
+        "https://www.noticiasrcn.com/colombia/ideam-advierte-que-fenomeno-el-nino-podria-alcanzar-una-intensidad-fuerte-1050035"
+      ],
+      "confianca": "media — notícia sobre alerta do IDEAM; PDFs do IDEAM não foram abertos"
+    }
+  ],
+  "calendarioNovembro2026": [
+    {
+      "data": "2026-11-01",
+      "nome": "Início das Fiestas de la Independencia de Cartagena: desfile 'Ángeles Somos - Dioses de la Libertad' no Centro Histórico (domingo)",
+      "tipo": "festa",
+      "local": "Cartagena - Centro Histórico",
+      "impacto": {
+        "preco": "Sem dado numérico; hotelaria de Cartagena tende a subir nas noites de evento.",
+        "lotacao": "Alta no Centro Histórico no fim de semana do puente.",
+        "fechamentos": "Fechamento temporário de ruas do Centro Histórico."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media — agenda oficial publicada pela imprensa (El Universal, 16/set/2026)"
+    },
+    {
+      "data": "2026-11-02",
+      "nome": "Día de Todos los Santos (feriado nacional; 1º/nov cai num domingo, transferido para segunda-feira)",
+      "tipo": "feriado-nacional",
+      "local": "Colômbia inteira",
+      "impacto": {
+        "preco": "Puente de 3 dias (sáb 31/out - seg 2/nov): demanda e tarifas de passagem/hospedagem sobem, sobretudo voos entre cidades e hotéis em destinos de fim de semana; sem série numérica.",
+        "lotacao": "Estradas e terminais saindo de Bogotá/Medellín lotados; praias e cidades turísticas cheias do sábado à segunda.",
+        "fechamentos": "Bancos, órgãos públicos e parte do comércio fechados; transporte urbano reduzido; museus variam. Dia de cemitérios."
+      },
+      "fontes": [
+        "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+        "https://www.calendariodecolombia.com/noviembre-2026-con-fechas-especiales",
+        "https://www.canalcapital.gov.co/actualidad/colombia-tendra-un-nuevo-festivo-desde-2026/"
+      ],
+      "confianca": "alta — texto legal oficial + dia da semana computado (1/nov/2026 = domingo) + fontes de imprensa coincidentes; página anual da Função Pública/MinTrabajo para 2026 não foi aberta"
+    },
+    {
+      "data": "2026-11-06",
+      "nome": "Desfile de trajes de banho das candidatas do Reinado Popular - Plaza de la Aduana",
+      "tipo": "evento",
+      "local": "Cartagena - Centro Histórico",
+      "impacto": {
+        "preco": "Sem dado numérico.",
+        "lotacao": "Alta no Centro.",
+        "fechamentos": "Fechamento de ruas por desfile."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-08",
+      "nome": "Desfile da Diversidade, 2º preludio magisterial e 'Fiesta de Grandes Lanceros'",
+      "tipo": "evento",
+      "local": "Cartagena",
+      "impacto": {
+        "preco": "Sem dado numérico.",
+        "lotacao": "Alta.",
+        "fechamentos": "Fechamento de ruas."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-10",
+      "nome": "Desfile en Honor a los Héroes - Centro Histórico",
+      "tipo": "evento",
+      "local": "Cartagena - Centro Histórico",
+      "impacto": {
+        "preco": "Sem dado numérico.",
+        "lotacao": "Alta no Centro.",
+        "fechamentos": "Fechamento de ruas."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-11",
+      "nome": "Dia da Independência de Cartagena (data cívica; o feriado legal é transferido para segunda 16/nov): sessão solene do Concejo, ofrenda floral, eleição/coroação do Reinado Juvenil Insular",
+      "tipo": "festa",
+      "local": "Cartagena",
+      "impacto": {
+        "preco": "Início do pico de preços da cidade (11 a 16/nov); sem série numérica.",
+        "lotacao": "Muito alta; Cartagena recebe o grosso do público das festas de 11 a 16/nov.",
+        "fechamentos": "Quarta-feira útil (não feriado). Fechamentos e desvios no Centro."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/",
+        "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954"
+      ],
+      "confianca": "alta para a data e a regra legal; media para o programa"
+    },
+    {
+      "data": "2026-11-12",
+      "nome": "Gran Desfile de Independencia na Avenida Santander (10h-12h, ~10.000 artistas)",
+      "tipo": "festa",
+      "local": "Cartagena - Av. Santander (Bocagrande/Marbella)",
+      "impacto": {
+        "preco": "Preço alto na orla e no Centro.",
+        "lotacao": "Muito alta, vias bloqueadas de manhã.",
+        "fechamentos": "Av. Santander e acessos fechados durante o desfile; mobilidade difícil."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-13",
+      "nome": "Festival Náutico de la Independencia (Juan Luis Guerra, Grupo Niche, Beéle, outros) e 'Bololó del Arsenal'",
+      "tipo": "evento",
+      "local": "Cartagena - Arsenal/Getsemaní",
+      "impacto": {
+        "preco": "Sexta antes do puente: hospedagem e transfers no pico.",
+        "lotacao": "Muito alta.",
+        "fechamentos": "Entorno do Arsenal/Getsemaní com restrição de trânsito e barulho noturno."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/juan-luis-guerra-estara-en-cartagena-confirmado-para-el-festival-nautico/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-14",
+      "nome": "Maratona de shows (Nicky Jam, Silvestre Dangond, Ryan Castro e outros) e 'Salsa a la Plaza' - Plaza de la Aduana",
+      "tipo": "evento",
+      "local": "Cartagena",
+      "impacto": {
+        "preco": "Sábado do puente: noites de pico de preço em Cartagena.",
+        "lotacao": "Máxima no puente (sáb 14 a seg 16).",
+        "fechamentos": "Fechamentos de ruas para shows."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-15",
+      "nome": "Cabildo de Getsemaní e coroação do Reinado Popular - Centro de Convenções",
+      "tipo": "evento",
+      "local": "Cartagena",
+      "impacto": {
+        "preco": "Pico.",
+        "lotacao": "Muito alta.",
+        "fechamentos": "Fechamentos pontuais."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "media"
+    },
+    {
+      "data": "2026-11-16",
+      "nome": "Independencia de Cartagena (feriado nacional; 11/nov cai numa quarta, transferido para segunda-feira) + coroação do Reinado Intercorregimental (encerramento das festas)",
+      "tipo": "feriado-nacional",
+      "local": "Colômbia inteira; festa em Cartagena",
+      "impacto": {
+        "preco": "Puente de 3 dias (sáb 14 - seg 16/nov): tarifas aéreas e hotéis elevados; segunda-feira é dia de retorno em massa para as cidades, o que pesa em voos e estradas.",
+        "lotacao": "Máxima em Cartagena (encerramento) e nas rodovias/aeroportos na tarde de segunda.",
+        "fechamentos": "Comércio e repartições fechados; Cartagena normaliza a partir de terça 17/nov."
+      },
+      "fontes": [
+        "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4954",
+        "https://www.calendariodecolombia.com/noviembre-2026-con-fechas-especiales",
+        "https://www.canalcapital.gov.co/actualidad/colombia-tendra-un-nuevo-festivo-desde-2026/",
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/"
+      ],
+      "confianca": "alta — ver nota de Todos los Santos"
+    },
+    {
+      "data": "2026-11-28",
+      "nome": "Salsa al Parque (28 e 29/nov) - Parque Simón Bolívar, entrada gratuita",
+      "tipo": "evento",
+      "local": "Bogotá",
+      "impacto": {
+        "preco": "Efeito pequeno em preços.",
+        "lotacao": "Alta no parque e arredores (fim de semana).",
+        "fechamentos": "Vias do parque com restrição."
+      },
+      "fontes": [
+        "https://bogota.gov.co/internacional/conoce-la-agenda-de-conciertos-en-bogota-de-abril-diciembre-de-2026"
+      ],
+      "confianca": "baixa — data veio de resumo de busca que citou a agenda de conciertos da Alcaldía de Bogotá (página não aberta); confirmar na agenda oficial da Alcaldía/IDARTES"
+    },
+    {
+      "data": "2026-11-30",
+      "nome": "Fim oficial da temporada de furacões do Atlântico (1/jun a 30/nov)",
+      "tipo": "evento",
+      "local": "Caribe (San Andrés e Providência são as áreas expostas)",
+      "impacto": {
+        "preco": "Seguro/tarifa flexível pesam em San Andrés.",
+        "lotacao": "n/a",
+        "fechamentos": "Voos e barcos para San Andrés podem ser cancelados com ciclone."
+      },
+      "fontes": [
+        "https://www.elpais.com.co/ultimo-minuto/ojo-del-huracan-iota-estuvo-a-18-kilometros-de-providencia-ideam.html"
+      ],
+      "confianca": "media — datas padrão da temporada vieram de resultados de busca (NHC não aberto); Iota atingiu Providência em 16/nov/2020"
+    },
+    {
+      "data": "2026-11-__",
+      "nome": "Reinado Nacional de la Belleza (Cartagena)",
+      "tipo": "evento",
+      "local": "Cartagena",
+      "impacto": {
+        "preco": "Sem dado.",
+        "lotacao": "Sem dado.",
+        "fechamentos": "Sem dado."
+      },
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/"
+      ],
+      "confianca": "baixa — um resultado de busca diz que, após 82 anos juntos, em 2026 as Fiestas voltam a ter novembro só para si, sem o Reinado Nacional; data/local do Reinado Nacional em 2026 NÃO confirmados"
+    },
+    {
+      "data": "2026-11-__",
+      "nome": "Shows internacionais em Bogotá e Medellín (Cypress Hill, Juanes, Eros Ramazzotti, Hayley Williams, Beéle etc.; DaviArena)",
+      "tipo": "evento",
+      "local": "Bogotá/Medellín",
+      "impacto": {
+        "preco": "Hospedagem sobe nos dias de show.",
+        "lotacao": "Alta nas noites de show.",
+        "fechamentos": "Trânsito perto das arenas."
+      },
+      "fontes": [
+        "https://canaltrece.com.co/noticias/festivales-y-grandes-conciertos-en-colombia-la-agenda-imperdible-para-el-segundo-semestre-de-2026/"
+      ],
+      "confianca": "baixa — datas individuais não coletadas"
+    },
+    {
+      "data": "2026-11-__",
+      "nome": "Acendimento dos alumbrados de Natal de Medellín (2025: 28/nov; 2026: sem data confirmada)",
+      "tipo": "evento",
+      "local": "Medellín - Parques del Río",
+      "impacto": {
+        "preco": "Dezembro é pico de temporada; a vinda de turistas nacionais começa no fim de novembro.",
+        "lotacao": "Alta nas noites de ligação e no Parque Lleras/Centro.",
+        "fechamentos": "Vias do Parque del Río fechadas na noite do acendimento."
+      },
+      "fontes": [
+        "https://www.elcolombiano.com/medellin/medellin-encendio-alumbrado-navidad-2025-LF31342449"
+      ],
+      "confianca": "baixa — data de 2026 não confirmada; ano anterior ocorreu em 28/nov (resultado de busca)"
+    },
+    {
+      "data": "2026-11-__",
+      "nome": "Fechamento do Parque Tayrona 'Respira Tayrona' (estratégia que fecha o parque 3 vezes ao ano: fev, jun e entre out e nov)",
+      "tipo": "evento",
+      "local": "Parque Nacional Tayrona (Santa Marta)",
+      "impacto": {
+        "preco": "Operadoras e hospedagem em El Zaino/Palomino reagem aos fechamentos.",
+        "lotacao": "Parque vazio durante o fechamento; reabre com lotação alta.",
+        "fechamentos": "Fechado ao público durante o período; em 2023 foi de 19/out a 2/nov. Datas out/nov-2026 NÃO confirmadas: checar parquesnacionales.gov.co antes de comprar."
+      },
+      "fontes": [
+        "https://www.publimetro.co/noticias/2026/06/02/parque-tayrona-cierra-sus-puertas-temporalmente-por-actividades-de-las-comunidades-indigenas-cuando-vuelve-a-abrir/",
+        "https://www.parquesnacionales.gov.co/nuestros-parques/parque-nacional-natural-tayrona/"
+      ],
+      "confianca": "baixa — periodicidade confirmada, datas de 2026 não"
+    },
+    {
+      "data": "2026-12-25",
+      "nome": "Feria de Cali (25 a 30/dez) — NÃO é em novembro",
+      "tipo": "festa",
+      "local": "Cali",
+      "impacto": {
+        "preco": "Fora da janela (dezembro).",
+        "lotacao": "n/a",
+        "fechamentos": "n/a"
+      },
+      "fontes": [
+        "https://canaltrece.com.co/noticias/festivales-y-grandes-conciertos-en-colombia-la-agenda-imperdible-para-el-segundo-semestre-de-2026/",
+        "https://www.colombia.com/top/calendario-de-festivales-de-colombia-2026-12-ferias-y-desfiles-que-merecen-que-planifiques-tu-ano-en-torno-a-ellos-577006"
+      ],
+      "confianca": "media — Canal Trece indica 25 a 30/dez/2026; colombia.com descreve edição 25/dez/2025 a 1/jan; confirmar quando a Alcaldía de Cali publicar"
+    }
+  ],
+  "temporada": {
+    "altaOuBaixa": "baixa-média (meia-estação), com picos pontuais: Cartagena 6-16/nov e os puentes de 31/out-2/nov e 14-16/nov",
+    "explicacao": "A alta temporada colombiana é jun-ago, o fim de ano (dez-jan, Feria de Cali 25/dez em diante) e a Semana Santa; novembro é transição e segunda estação chuvosa em grande parte do país. No Kayak, setembro/outubro estão entre os meses mais baratos para chegar a Cartagena (out. ≈ R$ 2.130 ida e volta), novembro fica em faixa intermediária e dezembro é o pico (≈ R$ 2.964). Em 2026, os dois feriados de novembro são segundas-feiras (2 e 16), criando dois fins de semana prolongados nacionais; o segundo coincide com o pico das Fiestas de la Independencia de Cartagena. Depois de 17/nov a cidade e os preços tendem a normalizar até o início da pressão de fim de ano no fim de novembro (Alumbrados de Medellín, Salsa al Parque 28-29/nov, férias escolares de dezembro — este último não verificado). Cenário climático de 2026: El Niño forte tende a reduzir a chuva abaixo do normal (IDEAM).",
+    "fontes": [
+      "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Cartagena-Rafael-Nunez-CTG",
+      "https://www.colombia.com/top/calendario-de-festivales-de-colombia-2026-12-ferias-y-desfiles-que-merecen-que-planifiques-tu-ano-en-torno-a-ellos-577006",
+      "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/",
+      "https://www.noticiasrcn.com/colombia/ideam-advierte-que-fenomeno-el-nino-podria-alcanzar-una-intensidad-fuerte-1050035",
+      "https://www.canalcapital.gov.co/actualidad/colombia-tendra-un-nuevo-festivo-desde-2026/"
+    ]
+  },
+  "lacunasEDiscrepancias": [
+    "Ferramentas web padrão (Firecrawl e Perplexity) retornaram 401; a pesquisa usou WebSearch/WebFetch/curl. Google Flights/Skyscanner são dinâmicos e não puderam ser lidos: preços de voo vêm de páginas-resumo de agregadores (Kayak/Momondo) com histórico de ~72 h, SEM data específica de novembro/2026.",
+    "Feriados: confirmados pelo texto da Ley 51 de 1983 no portal oficial da Função Pública + cálculo do dia da semana + várias fontes; a página anual oficial 'festivos 2026' (MinTrabajo/Presidencia) não foi aberta (certificado TLS inválido / 404).",
+    "Itamaraty (gov.br/mre) retornou 404: a regra do RG foi tirada de fonte secundária; verificar no Portal Consular.",
+    "Febre amarela: aviso do Consulado da Colômbia em SP diz que o requisito para vindos do Brasil foi eliminado (Circular 018/2024); outras fontes (blog 2023, UK FCDO, guia de seguros) ainda listam o Brasil. Confirmar com a companhia aérea e o consulado; vacinar-se é recomendado de qualquer forma para Tayrona/Palomino.",
+    "Check-Mig: Migración Colombia descreve como pré-registro (72 h a 1 h); UK FCDO diz não obrigatório; blogs brasileiros dizem obrigatório. Fazer sempre.",
+    "Tarjeta de Turismo de San Andrés: COP 153.000 (El Universal, Decreto 0010/2026) vs COP 148.500 (calendariodecolombia, maio/2026). Local de compra: aeroporto de origem/módulo da companhia no dia do voo; compra antecipada online não confirmada.",
+    "Parque Tayrona: datas do fechamento 'Respira Tayrona' de out/nov-2026 não confirmadas.",
+    "Duração porta a porta e tempo de desembarque são estimativas derivadas ou desconhecidas (marcadas); tempos de imigração/bagagem sem fonte.",
+    "Preço de hospedagem em novembro/2026 e efeito numérico das Fiestas de Cartagena sobre diárias: sem dado coletado.",
+    "Reinado Nacional de la Belleza 2026 (data/local), data do acendimento dos alumbrados de Medellín e datas exatas dos shows de nov/2026 não confirmados.",
+    "Frequências semanais de voos domésticos e de GRU→CTG/MDE/ADZ não coletadas (só onde indicado)."
+  ]
+}

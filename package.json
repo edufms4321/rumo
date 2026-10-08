@@ -13,7 +13,8 @@
     "typecheck": "tsc",
     "lint": "oxlint",
     "validate:data": "tsx scripts/validate-data.ts",
-    "validate": "npm run typecheck && npm run lint && npm run test && npm run validate:data"
+    "validate": "npm run typecheck && npm run lint && npm run test && npm run validate:data",
+    "importar:pesquisa": "tsx scripts/importar-pesquisa.ts"
   },
   "dependencies": {
     "react": "^19.3.0",

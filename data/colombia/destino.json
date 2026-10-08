@@ -1,0 +1,228 @@
+{
+  "id": "colombia",
+  "fontes": [
+    {
+      "url": "https://www.migracioncolombia.gov.co/"
+    },
+    {
+      "url": "https://saopaulo.consulado.gov.co/sala-de-prensa/noticias/eliminacion-de-requisito-de-certificado-de-vacunacion-contra-fiebre-amarilla-para-personas-provenientes-de-brasil"
+    },
+    {
+      "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%20001%20de%202026.pdf"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements"
+    },
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
+    },
+    {
+      "url": "https://passageirodeprimeira.com/checkmig-formulario-colombia"
+    },
+    {
+      "url": "https://www.iatiseguros.com/blog/requisitos-viajar-colombia-documentos/"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/health"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+    },
+    {
+      "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+    },
+    {
+      "url": "https://www.publimetro.co/noticias/2025/07/31/frenan-estafa-a-turistas-en-cartagena-querian-cobrarles-65-millones-por-cocteles-y-comida/"
+    },
+    {
+      "url": "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+    },
+    {
+      "url": "https://www.valutafx.com/history/brl-cop-2026-10-07"
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2026/07/22/los-turistas-extranjeros-en-colombia-tendrian-que-pagar-iva-en-caso-de-que-el-congreso-apruebe-propuesta-del-gobierno-petro/"
+    },
+    {
+      "url": "https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_11050_2026.htm"
+    },
+    {
+      "url": "https://www.mochileandoporelmundo.com/tarjeta-sim-esim-colombia/"
+    },
+    {
+      "url": "https://saily.com/es/blog/tarjetas-sim-colombia/"
+    },
+    {
+      "url": "https://www.viajaresim.com/blog/?p=573"
+    }
+  ],
+  "coletadoEm": "2026-10-08",
+  "confianca": "parcial",
+  "observacaoDeConfianca": "Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.",
+  "nome": "Colombia",
+  "codigoPais": "CO",
+  "moeda": "COP",
+  "fuso": "America/Bogota",
+  "fusoOffsetMinutos": -300,
+  "idiomas": [
+    "es"
+  ],
+  "tomadas": "Tipo A (2 pinos chatos) e tipo B (2 chatos + terra). O plugue brasileiro tipo N (3 pinos redondos) NÃO encaixa: levar adaptador.",
+  "voltagem": "110 V / 60 Hz. Carregadores modernos de celular/notebook (100-240 V) funcionam só com adaptador; secador e chapinha brasileiros 127 V funcionam, 220 V não.",
+  "caixaDelimitadora": {
+    "latMin": -4.3,
+    "latMax": 13.5,
+    "lngMin": -82.1,
+    "lngMax": -66.8
+  },
+  "entrada": [
+    {
+      "nacionalidade": "BR",
+      "documento": "Brasileiros entram com passaporte válido OU com RG/CIN (acordo Mercosul/associados) para turismo, segundo blog especializado que cita Itamaraty/PF (RG emitido há menos de 10 anos, em bom estado e foto reconhecível; CNH NÃO é aceita; CIN é aceita). Página oficial do Itamaraty NÃO foi aberta (404): confirmar em gov.br/mre antes de viajar. Recomendação prática: levar PASSAPORTE (Migración Colombia e UK FCDO recomendam validade mínima de 6 meses após a saída; a isenção de IVA em hotel e a Tarjeta de Turismo de San Andrés pedem documento de viagem; companhias aéreas costumam exigir no check-in).",
+      "vistoNecessario": false,
+      "vacinaFebreAmarela": "O certificado internacional de febre amarela NÃO é mais exigido de quem vem do Brasil: o Consulado da Colômbia em São Paulo publicou a eliminação do requisito (Circular Externa 018 de 2024 do Minsalud, justificada pela redução sustentada de casos no Brasil). ATENÇÃO a fontes conflitantes: blog de 2023 (Passageiro de Primeira), UK FCDO e guia de seguros ainda citam o Brasil como origem que exige. Colômbia mantém Emergência Sanitária por febre amarela (surto no Tolima e outros) e a vacina é RECOMENDADA para áreas <2.300 m fora das cidades grandes (CDC: dispensável só para Barranquilla, Cali, Cartagena, Medellín, Bogotá, altitude >2.300 m e San Andrés). Vários parques nacionais pedem o certificado; vale levar o CIVP e vacinar-se pelo menos 10 dias antes (certificado vale 10 dias após a dose).",
+      "formularioMigratorio": "Check-Mig (pré-registro online gratuito, entre 72 h e 1 h antes do voo, entrada e saída; descrito oficialmente como pré-registro; blogs brasileiros e companhias tratam como obrigatório para check-in; o UK FCDO diz 'não obrigatório' — fazer SEMPRE e guardar o e-mail de confirmação; não vale para fronteira terrestre). Passagem de saída/retorno dentro de 90 dias (UK FCDO). Comprovar meios econômicos pode ser solicitado (blog). San Andrés: comprovante de hospedagem confirmada ou endereço + Tarjeta de Turismo (ver voos internos). Seguro-viagem: NÃO obrigatório por lei, fortemente recomendado (sem convênio de saúde Brasil-Colômbia; Tayrona exige seguro de resgate/assistência comprado na bilheteria). Declarar em dinheiro acima de US$ 10.000.",
+      "comprovantesExigidos": [],
+      "observacoes": "Dispensado para turismo até 90 dias por entrada (prorrogável por mais 90, máximo 180 dias por ano-calendário), a critério do oficial migratório. Para 10-12 dias, sem visto.",
+      "fontes": [
+        {
+          "url": "https://www.migracioncolombia.gov.co/"
+        },
+        {
+          "url": "https://saopaulo.consulado.gov.co/sala-de-prensa/noticias/eliminacion-de-requisito-de-certificado-de-vacunacion-contra-fiebre-amarilla-para-personas-provenientes-de-brasil"
+        },
+        {
+          "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%20001%20de%202026.pdf"
+        },
+        {
+          "url": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements"
+        },
+        {
+          "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
+        },
+        {
+          "url": "https://passageirodeprimeira.com/checkmig-formulario-colombia"
+        },
+        {
+          "url": "https://www.iatiseguros.com/blog/requisitos-viajar-colombia-documentos/"
+        }
+      ]
+    }
+  ],
+  "saude": {
+    "vacinasRecomendadas": [
+      "Febre amarela (recomendada para Tayrona/Palomino/áreas <2.300 m; não exigida na entrada vindo do Brasil; tomar ≥10 dias antes)",
+      "Hepatite A e B, febre tifoide, tríplice viral/sarampo (CDC)",
+      "Raiva se houver contato com animais/cavernas (CDC)",
+      "Antecipar consulta em centro de viagem ≥8 semanas antes (UK FCDO)"
+    ],
+    "aguaPotavel": "UK FCDO: só a água da torneira de Bogotá é considerada segura; no resto do país beber água engarrafada e evitar gelo de origem duvidosa. Evitar banho em água doce não clorada (leptospirose, CDC). Dengue o ano todo: repelente DEET/icaridina. Malária: risco em áreas <1.700 m, exceto Bogotá, Cartagena e Medellín (CDC) — Tayrona/Palomino entram na zona de risco; consultar médico sobre profilaxia.",
+    "altitudeAtencao": "Bogotá: 2.640 m (cidade; aeroporto El Dorado a 2.547 m). Medellín 1.490 m (Olaya Herrera) / aeroporto MDE em Rionegro a 2.073 m; Villa de Leyva 2.215 m. Primeiro dia em Bogotá: hidratar, evitar álcool e esforço; mal de altitude é possível (UK FCDO cita Bogotá). Raios UV altos em altitude (CDC).",
+    "observacoes": "Não obrigatório. Fortemente recomendado seguro com cobertura médica e evacuação (UK FCDO; MRE da Espanha via iatiseguros). Tayrona exige seguro de resgate/assistência vendido nas bilheterias (El Zaino/Calabazo).",
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/health"
+      },
+      {
+        "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
+      },
+      {
+        "url": "https://www.iatiseguros.com/blog/requisitos-viajar-colombia-documentos/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      },
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Villa_de_Leyva"
+      }
+    ]
+  },
+  "seguranca": {
+    "orientacaoGeral": "Furtos, roubos e assaltos são o risco principal nas grandes cidades e no litoral Caribe (UK FCDO). Não exibir celular/joias, pouco dinheiro vivo, usar só táxi licenciado ou app. Evitar zonas rurais de fronteira, regiões de cultivo de coca e portos como Buenaventura, Turbo e Tumaco. Manifestações frequentes e podem ficar violentas; risco sísmico, enchentes nos Andes, furacões no Caribe. Itinerário Cartagena-Santa Marta-Bogotá/Medellín é o circuito turístico convencional.",
+    "golpesComuns": [
+      "Sequestro-relâmpago por falso taxista (pegar rua) e 'paseo millonario' com saque forçado em caixa eletrônico",
+      "Burundanga/escopolamina em bebida ou comida, inclusive via aplicativos de encontro com viajante sozinho",
+      "Cartagena/Barú/Playa Blanca: cobrança abusiva por comida, bebida, massagem e passeio de lancha (casos de COP 1,8 mi extras em alto mar e 6,5 mi por três refeições, 2023-2025); combinar preço ANTES e por escrito",
+      "Maquininha adulterada (acrescentam zeros) em carruagem/comércio: conferir o valor digitado antes de passar o cartão",
+      "Táxi de rua sem taxímetro/valor combinado, principalmente na saída de aeroportos e terminais: usar balcão oficial (Taxi Imperial no El Dorado) ou app"
+    ],
+    "appsDeTransporte": [
+      "Uber",
+      "Cabify",
+      "inDrive e DiDi (uso comum no país; não verificados nas fontes consultadas)",
+      "Táxi oficial amarelo com placa branca em Bogotá (UK FCDO)"
+    ],
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security"
+      },
+      {
+        "url": "https://www.publimetro.co/noticias/2025/07/31/frenan-estafa-a-turistas-en-cartagena-querian-cobrarles-65-millones-por-cocteles-y-comida/"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+      }
+    ]
+  },
+  "dinheiro": {
+    "cambioObservacao": "Cotação em 07/out/2026: 1 BRL = 644,38 COP (valutafx; teto de 2026: 764,08 em 12/mai; piso 585,15 em 20/ago). Real oscila forte contra o peso em 2026: usar como ordem de grandeza. Levar parte em dólar/real NÃO é necessário; casas de câmbio em aeroporto têm spread pior.",
+    "cartaoAceito": "Cartão de crédito/débito internacional aceito em hotéis, restaurantes e shoppings das cidades; táxi, mercado, praia, transporte intermunicipal e pousadas pequenas (Palomino, Tayrona) exigem dinheiro vivo. Conferir sempre o valor na maquininha (golpes em Cartagena). Escolher cobrar em COP (recusar conversão dinâmica de moeda).",
+    "saque": "Taxa do caixa local costuma ser COP 15.000 a 29.900 por saque (fonte secundária); limite por transação com cartão estrangeiro varia: ~COP 600.000 em Bancolombia, até ~COP 2.000.000 em Servibanca/Davivienda. Sempre 'Reject conversion/cobrar em COP'. Sacar em caixa dentro de agência/shopping, nunca na rua à noite.",
+    "gorjeta": "Gorjeta é voluntária por lei (Ley 1935 de 2018); o restaurante pode sugerir até 10% e deve perguntar antes de incluir na conta, podendo o cliente excluí-la ou alterá-la.",
+    "isencaoDeImpostoParaTurista": "Hoje turistas estrangeiros não residentes têm isenção do IVA de 19% em hospedagem de hotel registrado no RNT, mediante apresentação do documento de viagem/permissão de entrada (PIP-3 etc.). Atenção: a reforma tributária proposta pelo governo (art. 32, julho/2026) propõe eliminar a isenção direta e passar para pagar-e-pedir-reembolso na saída; ainda depende do Congresso (que já rejeitou duas reformas) e não tem data de vigência. Para novembro/2026, assumir isenção no hotel, mas ter plano de pagar 19% e pedir reembolso.",
+    "fontes": [
+      {
+        "url": "https://www.valutafx.com/history/brl-cop-2026-10-07"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/07/22/los-turistas-extranjeros-en-colombia-tendrian-que-pagar-iva-en-caso-de-que-el-congreso-apruebe-propuesta-del-gobierno-petro/"
+      },
+      {
+        "url": "https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_11050_2026.htm"
+      }
+    ]
+  },
+  "conectividade": {
+    "operadoras": [
+      "Claro (maior cobertura; único com loja no aeroporto El Dorado segundo guia)",
+      "Movistar",
+      "Tigo",
+      "WOM (MVNO que usa as redes de Claro, Movistar e Tigo)"
+    ],
+    "comoComprarChip": "eSIM comprada antes da viagem (instala no Brasil, ativa ao chegar) é o mais simples para 2 pessoas; chip físico em lojas das operadoras na cidade (exige passaporte) é mais barato que no aeroporto (20-50% a mais). Roaming de operadoras brasileiras costuma ser caro: conferir com a sua operadora.",
+    "esim": "Chip físico: COP 3.000-5.000 + pacote; pré-pago COP 15.000-45.000 por semana. eSIM: ~US$ 4,99-15 por semana (guia de 2026). Valores indicativos de fonte secundária.",
+    "fontes": [
+      {
+        "url": "https://www.mochileandoporelmundo.com/tarjeta-sim-esim-colombia/"
+      },
+      {
+        "url": "https://saily.com/es/blog/tarjetas-sim-colombia/"
+      },
+      {
+        "url": "https://www.viajaresim.com/blog/?p=573"
+      }
+    ]
+  },
+  "linksUteis": []
+}

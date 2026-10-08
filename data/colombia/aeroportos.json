@@ -1,0 +1,250 @@
+[
+  {
+    "id": "gru",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "GRU",
+    "nome": "Aeroporto Internacional de São Paulo/Guarulhos",
+    "cidadeNome": "São Paulo",
+    "coords": {
+      "lat": -23.431274,
+      "lng": -46.469954
+    },
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "Origem. Tempo até o centro de SP sem fonte (0). Internacional: 3 h antes. Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "cgh",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CGH",
+    "nome": "Aeroporto de Congonhas",
+    "cidadeNome": "São Paulo",
+    "coords": {
+      "lat": -23.627657,
+      "lng": -46.654601
+    },
+    "observacoes": "Só doméstico no Brasil; não conecta com Colômbia sem passar por GRU/VCP."
+  },
+  {
+    "id": "vcp",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "VCP",
+    "nome": "Aeroporto Internacional de Viracopos",
+    "cidadeNome": "Campinas",
+    "coords": {
+      "lat": -23.007404,
+      "lng": -47.134502
+    },
+    "observacoes": "Opção de origem; rotas VCP-Colômbia não pesquisadas."
+  },
+  {
+    "id": "bog",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-BOG-transporte/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "BOG",
+    "nome": "Aeroporto Internacional El Dorado",
+    "cidadeNome": "Bogotá",
+    "coords": {
+      "lat": 4.70159,
+      "lng": -74.1469
+    },
+    "tempoAoCentroMin": 40,
+    "antecedenciaDomesticaMin": 120,
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "30-50 min até Chapinero/Zona Rosa conforme trânsito. Altitude 2.547 m. Táxi oficial Taxi Imperial (pista 1, entre portas 8-10); TransMilenio via alimentador gratuito 16-14 até Portal El Dorado ou K86 (cartão Tullave). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "ctg",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-CTG-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CTG",
+    "nome": "Aeroporto Internacional Rafael Núñez",
+    "cidadeNome": "Cartagena",
+    "coords": {
+      "lat": 10.4424,
+      "lng": -75.513
+    },
+    "tempoAoCentroMin": 10,
+    "antecedenciaDomesticaMin": 120,
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "~4 km do centro histórico; táxi ~10 min com tarifa fixa de COP 15.000 (fonte secundária); ônibus Transcaribe/urbano ~20 min. Fica ao nível do mar (4 m). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "adz",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-ADZ-transporte/"
+      },
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "ADZ",
+    "nome": "Aeroporto Internacional Gustavo Rojas Pinilla",
+    "cidadeNome": "San Andrés",
+    "coords": {
+      "lat": 12.5836,
+      "lng": -81.7112
+    },
+    "tempoAoCentroMin": 10,
+    "antecedenciaDomesticaMin": 150,
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "Dentro da área urbana, ~1 km do centro (5-10 min de táxi, 10-15 min a pé). Tarifas de táxi tabeladas por decreto local, sem taxímetro. Antecedência doméstica sugerida 150 min (2 h + tempo da fila da Tarjeta de Turismo no módulo da cia; heurística). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "mde",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-MDE-transporte/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rionegro,_Antioquia"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "MDE",
+    "nome": "Aeroporto Internacional José María Córdova",
+    "cidadeNome": "Medellín (fica em Rionegro)",
+    "coords": {
+      "lat": 6.16454,
+      "lng": -75.4231
+    },
+    "tempoAoCentroMin": 40,
+    "antecedenciaDomesticaMin": 120,
+    "antecedenciaInternacionalMin": 180,
+    "observacoes": "~30-40 min do centro de Medellín pelo túnel de Oriente (ônibus 'combus' COP 17.000 a cada ~15 min, 24 h; táxi regulado ~COP 115.000 com pedágio; busca de resultado cita ônibus de 45 min). Na prática, planejar 45-60 min no pico. Altitude 2.073 m, mais frio e úmido que a cidade; fecha por neblina às vezes. Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "eoh",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-EOH-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "EOH",
+    "nome": "Aeroporto Olaya Herrera",
+    "cidadeNome": "Medellín",
+    "coords": {
+      "lat": 6.219686,
+      "lng": -75.590597
+    },
+    "tempoAoCentroMin": 10,
+    "antecedenciaDomesticaMin": 90,
+    "observacoes": "Aeroporto urbano a ~10 min de táxi do centro; Terminal del Sur a ~100 m. Opera voos regionais (CLIC a Pereira); não recebe voo internacional/Cartagena. Antecedência doméstica 90 min é heurística para voo regional (não verificado)."
+  },
+  {
+    "id": "pei",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-PEI-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "PEI",
+    "nome": "Aeroporto Internacional Matecaña",
+    "cidadeNome": "Pereira",
+    "coords": {
+      "lat": 4.81267,
+      "lng": -75.7395
+    },
+    "tempoAoCentroMin": 20,
+    "antecedenciaDomesticaMin": 120,
+    "observacoes": "~20 min de táxi do centro de Pereira; Megabús linha 25 a cada 10 min (seg-sex 4:30-22:45). Não traz informação de ligação a Salento (táxi ~45 min / ônibus 1h30-2h segundo Gecko Routes). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  },
+  {
+    "id": "axm",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "AXM",
+    "nome": "Aeroporto El Edén",
+    "cidadeNome": "Armenia",
+    "coords": {
+      "lat": 4.45278,
+      "lng": -75.7664
+    },
+    "antecedenciaDomesticaMin": 120,
+    "observacoes": "Alternativa ao PEI para Salento/Quindío; rotas e tempo ao centro não pesquisados."
+  },
+  {
+    "id": "smr",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.aeropuertosdelmundo.net/aeropuerto-SMR-transporte/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SMR",
+    "nome": "Aeroporto Internacional Simón Bolívar",
+    "cidadeNome": "Santa Marta",
+    "coords": {
+      "lat": 11.1196,
+      "lng": -74.2306
+    },
+    "tempoAoCentroMin": 35,
+    "antecedenciaDomesticaMin": 120,
+    "observacoes": "~15 min até El Rodadero e 30-40 min até o centro histórico de Santa Marta (táxi amarelo Asocontax; ônibus SETP 5:00-22:00). Nível do mar (22 ft). Antecedência: padrão Avianca de 2 h (doméstico) e 3 h (internacional) com fechamento do check-in 45/60 min antes (trecho de resultado de busca do site avianca.com, a página deu 403); outras cias seguem faixa semelhante. Tempos de desembarque (imigração/bagagem) NÃO têm fonte: 0 = desconhecido; planejar ~30-45 min doméstico e ~60-90 min internacional como heurística não verificada."
+  }
+]
