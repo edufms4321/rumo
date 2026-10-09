@@ -19,7 +19,9 @@ Só `destino.json` é obrigatório. Os outros podem começar como lista vazia (`
 | Arquivo | Conteúdo | Obrigatório |
 |---|---|---|
 | `destino.json` | objeto do país | **sim** |
-| `regioes.json` | lista de regiões | não |
+| `regioes.json` | macrorregiões do país (Nordeste, Caribe) | não |
+| `estados.json` | estados, departamentos ou províncias | não |
+| `zonas.json` | regiões turísticas (Chapada Diamantina) | não |
 | `cidades.json` | lista de cidades-base | não |
 | `aeroportos.json` | lista de aeroportos | não |
 | `trechos.json` | lista de trechos entre cidades | não |
@@ -27,6 +29,23 @@ Só `destino.json` é obrigatório. Os outros podem começar como lista vazia (`
 | `calendario.json` | lista de feriados, festas e eventos | não |
 | `hospedagem.json` | lista de sugestões por bairro | não |
 | `itens/<qualquer-nome>.json` | lista de itens | não |
+
+### Os quatro níveis de lugar
+
+A árvore é **país > macrorregião > estado > cidade-base**, e cada nível é uma
+divisão que existe no mundo e tem fonte. A **zona turística** (`zonas.json`)
+é uma etiqueta na cidade, não um degrau: ela não particiona o mapa — Oaxaca
+tem duas dentro de um estado, o Eje Cafetero atravessa três departamentos.
+
+`regioes.json` e `estados.json` podem vir vazios. Aí a árvore degrada para
+país > cidade e o validador **avisa**; o que ele não aceita é cidade apontando
+para um estado de uma região diferente da que ela mesma declara, porque isso
+põe Cartagena debaixo dos Andes no menu.
+
+`zonas.json` é a única coleção do banco **sem `fontes`**: uma zona é recorte
+editorial nosso, não afirmação sobre o mundo. A versão anterior herdava a
+exigência de fonte e o conversor carimbava uma relação do OpenStreetMap que
+era o Maranhão como fonte das 16 regiões do Nordeste.
 
 A pasta `itens/` pode ter quantos arquivos você quiser — o carregador concatena todos. A convenção é um arquivo por cidade: `itens/cartagena.json`, `itens/san-andres.json`.
 
