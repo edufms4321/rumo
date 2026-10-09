@@ -123,7 +123,7 @@ function escolher(paginas: Pagina[], termo: string, cidade: string): Imagem | un
     if (!/\.(jpe?g|png|webp)$/i.test(p.title)) continue;
     // Mapa tambem nao. O Commons tem muito mapa em PNG, e um diagrama de
     // regiao com rotulos no cartao de uma estrada so confunde.
-    if (/(mapa|map|nombres|ubicaci[oó]n|localiza[cç][aã]o|diagram|plano|carta)/i.test(p.title))
+    if (/\b(mapa|map|nombres|ubicaci[oó]n|localiza[cç][aã]o|diagram|plano|carta)\b/i.test(p.title))
       continue;
 
     const meta = info.extmetadata ?? {};

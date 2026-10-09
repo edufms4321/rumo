@@ -368,17 +368,39 @@ export function construirCidades(
       const min = Number(v?.min ?? v?.valor ?? 0);
       if (!t.nome || !Number.isFinite(min) || min <= 0) continue;
       /*
-        Percentual nao e taxa fixa.
+        Percentual nao e taxa fixa — e o teste tem que ser no NOME.
 
-        A pesquisa de Punta Cana trouxe "propina legal de 10%" com valor
-        10, e o conversor somou DEZ PESOS por pessoa no orcamento. Nao e
-        dinheiro: e uma porcentagem da conta. O mesmo vale para cobranca
-        condicional ("passageiro extra acima de 4"), que depende de quem
-        viaja. As duas continuam no texto da base; fora do somatorio.
+        Historico, porque este trecho ja errou para os dois lados. A pesquisa
+        de Punta Cana trouxe "propina legal de 10%" com valor 10, e o
+        conversor somou DEZ PESOS por pessoa no orcamento: nao e dinheiro, e
+        uma porcentagem da conta. Guardei um filtro de percentual — e ele
+        lia `nome` + `quemPaga` juntos, prosa inclusa.
+        Resultado: engoliu as DUAS taxas de Fernando de Noronha, que sao os
+        maiores custos fixos do pacote inteiro. A TPA caiu porque o texto
+        explicativo diz "reajuste de 4,4% sobre os R$ 101,33 de 2025"; o
+        ingresso do PARNAMAR caiu porque diz "desconto de 50%". Nenhuma das
+        duas e percentual: as duas tem valor em reais.
+
+        Agora so o nome decide, porque o nome e a identidade da cobranca. E
+        a onda pode declarar `unidade: "%"` quando a cobranca for mesmo
+        proporcional, que e a forma sem ambiguidade.
       */
-      const texto = `${t.nome} ${t.quemPaga ?? ''}`;
-      if (/\d+\s*%|por\s*cento|percentual/i.test(texto)) continue;
-      if (/extra|acima de \d|adicional por|por passageiro extra/i.test(texto)) continue;
+      const nomeDaTaxa = String(t.nome);
+      const unidade = String(t.unidade ?? v?.unidade ?? '');
+      if (/\d+\s*%|por\s*cento|percentual/i.test(nomeDaTaxa) || /^%$|percent/i.test(unidade)) {
+        avisos.push(`taxa percentual fora do somatorio do orcamento: ${nomeDaTaxa}`);
+        continue;
+      }
+      /*
+        Cobranca condicional depende de quem viaja, entao tambem nao entra no
+        total. Aqui tambem tirei o `\bextra\b` solto: ele derrubava "Extras
+        obrigatorias do passeio de buggy do Litoral Norte", que e justamente
+        a cobranca que mais surpreende o turista no fim do passeio.
+      */
+      if (/\bpor passageiro extra\b|\bacima de \d|\badicional por\b/i.test(nomeDaTaxa)) {
+        avisos.push(`taxa condicional fora do somatorio do orcamento: ${nomeDaTaxa}`);
+        continue;
+      }
 
       const fontesDaTaxa = fontes(t.fontes ?? v?.fontes);
       // Sem fonte a taxa nao entra: o validador reprovaria, e com razao.
@@ -754,7 +776,7 @@ export function construirCalendario(logistica: Json, config: ConfigDeDestino): J
       : 'evento';
 
     const local = String(e.local ?? '');
-    const nacional = /col[oô]mbia inteira|m[eé]xico inteiro|^nacional$|nacional/i.test(local);
+    const nacional = /col[oô]mbia inteira|m[eé]xico inteiro|^nacional$|\bnacional\b/i.test(local);
     const escopos = nacional ? ['nacional'] : cidadesPorTexto(local, config);
 
     if (escopos.length === 0) {

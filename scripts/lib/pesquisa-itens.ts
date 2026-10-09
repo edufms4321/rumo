@@ -35,7 +35,7 @@ const RE_LUZ = /p[oô]r[- ]do[- ]sol|mirante|trilha|praia|amanhecer|sunset|nasce
   cilindro: snorkel e flutuacao nao pedem intervalo antes de voar.
 */
 const RE_MERGULHO =
-  /mergulho (?:aut[oô]nomo|com cilindro|cilindro)|batismo de mergulho|scuba|open water|fun dive|diving|buceo|bautizo de mar|padi|mergulho/i;
+  /mergulho (?:aut[oô]nomo|com cilindro|cilindro)|batismo de mergulho|\bscuba\b|open water|fun dive|\bdiving\b|buceo|bautizo de mar|padi|\bmergulho\b/i;
 const RE_PEGA_TURISTA = /pega-?turista|turist[aã]o|armadilha|cilada/i;
 
 function textoDoItem(i: Json): string {
@@ -118,7 +118,7 @@ function derivarRestricoes(i: Json, agendavel: boolean): Json {
   // restricoes ("Nao voar nas 12-18 h seguintes (DAN)"). Isso e afirmacao
   // do pesquisador, e vale mais do que qualquer deducao de nome.
   const declaradoEmTexto = (r.outras as string[]).some((t) =>
-    /n[ãa]o voar|nao voar|intervalo de superf[ií]cie|DAN/i.test(t),
+    /n[ãa]o voar|nao voar|intervalo de superf[ií]cie|\bDAN\b/i.test(t),
   );
   const ehMergulho = declaradoEmTexto || RE_MERGULHO.test(identidade);
   if (agendavel && ehMergulho) {
