@@ -53,9 +53,21 @@
     {
      "url": "https://www.openstreetmap.org/way/136395000",
      "titulo": "OpenStreetMap (coordenada)"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
     }
    ],
-   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento.",
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Playa_Dorada_-_Puerto_Plata.jpg/1280px-Playa_Dorada_-_Puerto_Plata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Max Bosio from Santo Domingo D.R., Republica Dominicana",
+     "licenca": "CC BY 2.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg"
+    }
+   ]
   },
   "do-pop-mojito-bar-praia-de-cabarete-vida-noturna-de-pe-na-a": {
    "coords": {
@@ -147,6 +159,303 @@
     }
    ],
    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-ltr-playa-las-ballenas": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/DOM_Las_Terrenas%2C_Playa_Las_Ballenas_0001.jpg/1280px-DOM_Las_Terrenas%2C_Playa_Las_Ballenas_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "-wuppertaler",
+     "licenca": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Las_Ballenas_0001.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Las+Ballenas+Las+Terrenas"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Las_Ballenas_0001.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-ltr-playa-bonita": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/DOM_Las_Terrenas%2C_Playa_Bonita_0003.jpg/1280px-DOM_Las_Terrenas%2C_Playa_Bonita_0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "-wuppertaler",
+     "licenca": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Bonita_0003.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+    },
+    {
+     "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Bonita+Las+Terrenas"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Bonita_0003.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-ltr-playa-coson": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/DOM_Las_Terrenas%2C_Playa_Cos%C3%B3n_0014.jpg/1280px-DOM_Las_Terrenas%2C_Playa_Cos%C3%B3n_0014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "-wuppertaler",
+     "licenca": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Cos%C3%B3n_0014.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://www.lasterrenasrealestate.com/best-beaches-in-las-terrenas-dominican-republic-2/"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?format=json&q=Playa+Coson+Las+Terrenas"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Cos%C3%B3n_0014.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-ltr-pueblo-de-los-pescadores-praca-gastronomica-e-vida-n": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Las_Terrenas_Nuevo_Pueblo_de_los_Pescadores.JPG/1280px-Las_Terrenas_Nuevo_Pueblo_de_los_Pescadores.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "DanSy",
+     "licenca": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Las_Terrenas_Nuevo_Pueblo_de_los_Pescadores.JPG"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://diariolibre.com/economia/turismo/2025/02/21/gobierno-entrega-reconstruida-plaza-del-pueblo-de-los-pescadores/3005649"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?format=json&q=Pueblo+de+los+Pescadores+Las+Terrenas"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Las_Terrenas_Nuevo_Pueblo_de_los_Pescadores.JPG",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-puj-playa-bavaro-trecho-el-cortecito-los-corales": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Playa_Bavaro_Punta_Cana_-_01.jpg/1280px-Playa_Bavaro_Punta_Cana_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Oleg Yunakov",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro_Punta_Cana_-_01.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/B%C3%A1varo"
+    },
+    {
+     "url": "https://www.puntacanatravelblog.com/general-information-faq/scams-in-punta-cana/"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=Playa+El+Cortecito&format=json&limit=3&countrycodes=do"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro_Punta_Cana_-_01.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-calle-las-damas-a-primeira-rua-das-americas": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Calle_Las_Damas_%28Santo_Domingo%2C_Rep._Dominicana%29.jpg/1280px-Calle_Las_Damas_%28Santo_Domingo%2C_Rep._Dominicana%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Jorge Brazil from Brazil",
+     "licenca": "CC BY 2.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Calle_Las_Damas_(Santo_Domingo,_Rep._Dominicana).jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Calle_Las_Damas"
+    },
+    {
+     "url": "https://www.revistamercado.do/actualidad/museos-historia-rd"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=Calle%20Las%20Damas%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Calle_Las_Damas_(Santo_Domingo,_Rep._Dominicana).jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-catedral-primada-de-america-basilica-catedral-de-san": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Catedral_Primada_de_Am%C3%A9rica_0001.jpg/1280px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Catedral_Primada_de_Am%C3%A9rica_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "-wuppertaler",
+     "licenca": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Catedral_Primada_de_Am%C3%A9rica_0001.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_la_Menor"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Cathedral_of_Santa_Mar%C3%ADa_la_Menor"
+    },
+    {
+     "url": "https://experience.transat.com/must-dos-in-santo-domingos-ciudad-colonial/"
+    },
+    {
+     "url": "https://www.eldiario.es/canariasahora/viajarahora/espanoles-zona-colonial-santo-domingo-guia-republica-dominicana-castillos-museos-horarios-telefono-turismo-viaje-turismo-vuelo-barato-restaurantes-paseos-transporte-consejos-colon-alcazar-trampolin-infantil-casas-reales-catedral-dominicos-ovando-inseguridad_1_5959896.html"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Catedral_Primada_de_Am%C3%A9rica_0001.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-alcazar-de-colon-museo-alcazar-de-colon": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Santo_Domingo_-_Alcazar_de_Colon_02.JPG/1280px-Santo_Domingo_-_Alcazar_de_Colon_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Martin Falbisoner",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Alcazar_de_Colon_02.JPG"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_Col%C3%B3n"
+    },
+    {
+     "url": "https://dgm.gob.do/todos-los-servicios/visita-a-museo-alcazar-de-colon/"
+    },
+    {
+     "url": "https://experience.transat.com/must-dos-in-santo-domingos-ciudad-colonial/"
+    },
+    {
+     "url": "https://www.eldiario.es/canariasahora/viajarahora/espanoles-zona-colonial-santo-domingo-guia-republica-dominicana-castillos-museos-horarios-telefono-turismo-viaje-turismo-vuelo-barato-restaurantes-paseos-transporte-consejos-colon-alcazar-trampolin-infantil-casas-reales-catedral-dominicos-ovando-inseguridad_1_5959896.html"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Alcazar_de_Colon_02.JPG",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-museo-de-las-casas-reales": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Santo_Domingo_-_Museo_de_las_Casas_Reales_0135.JPG/1280px-Santo_Domingo_-_Museo_de_las_Casas_Reales_0135.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Phyrexian",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Museo_de_las_Casas_Reales_0135.JPG"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Museo_de_las_Casas_Reales"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Museo_de_las_Casas_Reales"
+    },
+    {
+     "url": "https://experience.transat.com/must-dos-in-santo-domingos-ciudad-colonial/"
+    },
+    {
+     "url": "https://www.eldiario.es/canariasahora/viajarahora/espanoles-zona-colonial-santo-domingo-guia-republica-dominicana-castillos-museos-horarios-telefono-turismo-viaje-turismo-vuelo-barato-restaurantes-paseos-transporte-consejos-colon-alcazar-trampolin-infantil-casas-reales-catedral-dominicos-ovando-inseguridad_1_5959896.html"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_-_Museo_de_las_Casas_Reales_0135.JPG",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-faro-a-colon": {
+   "imagens": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Faro_de_Col%C3%B3n%2C_Santo_Domingo%2C_D.R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "credito": "Caballero1967",
+     "licenca": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Faro_de_Col%C3%B3n,_Santo_Domingo,_D.R.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://es.wikipedia.org/wiki/Faro_a_Col%C3%B3n"
+    },
+    {
+     "url": "https://diariolibre.com/actualidad/ciudad/2024/03/11/faro-a-colon-vuelve-a-ser-atractivo-para-turistas-y-nacionales/2637394"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Faro_de_Col%C3%B3n,_Santo_Domingo,_D.R.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-malecon-de-santo-domingo-avenida-george-washington": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Malecon_de_Santo_Domingo_2013-10-01_21-33.jpg/1280px-Malecon_de_Santo_Domingo_2013-10-01_21-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "User:Hansgarcia65",
+     "licenca": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Malecon_de_Santo_Domingo_2013-10-01_21-33.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=Malecon+Avenida+George+Washington+Santo+Domingo&format=json&limit=3"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Malecon_de_Santo_Domingo_2013-10-01_21-33.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
+  },
+  "do-sdq-boca-chica-praia-de-bate-volta": {
+   "imagens": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Port_of_Boca_Chica%2C_Santo_Domingo%2C_Dominican_Republic.jpg/1280px-Port_of_Boca_Chica%2C_Santo_Domingo%2C_Dominican_Republic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credito": "Максим Улитин",
+     "licenca": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Port_of_Boca_Chica,_Santo_Domingo,_Dominican_Republic.jpg"
+    }
+   ],
+   "fontes": [
+    {
+     "url": "https://revistamercado.do/lifestyle/estas-son-las-playas-mejor-valoradas-para-semana-santa-cerca-de-santo-domingo/"
+    },
+    {
+     "url": "https://nominatim.openstreetmap.org/search?q=Playa+Boca+Chica+Dominican+Republic&format=json&limit=2"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+     "url": "https://commons.wikimedia.org/wiki/File:Port_of_Boca_Chica,_Santo_Domingo,_Dominican_Republic.jpg",
+     "titulo": "Wikimedia Commons (imagem)"
+    }
+   ]
   }
  },
  "_leia_destino": "Campos conferidos em fonte primaria pelo agente principal, em 2026-10-08.",

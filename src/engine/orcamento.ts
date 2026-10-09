@@ -102,10 +102,16 @@ export function calcularOrcamento(viagem: Viagem, pacote: PacoteDestino): Orcame
     });
   }
 
+  // Quantas noites em cada cidade, nao so quais cidades: a taxa progressiva
+  // precisa do numero.
+  const noitesPorCidade = new Map<string, number>();
   const cidadesComNoite = new Set<string>();
 
   for (const dia of viagem.dias) {
-    if (dia.cidadeBaseId) cidadesComNoite.add(dia.cidadeBaseId);
+    if (dia.cidadeBaseId) {
+      cidadesComNoite.add(dia.cidadeBaseId);
+      noitesPorCidade.set(dia.cidadeBaseId, (noitesPorCidade.get(dia.cidadeBaseId) ?? 0) + 1);
+    }
 
     for (const bloco of dia.blocos) {
       if (bloco.tipo === 'atividade') {
@@ -194,8 +200,28 @@ export function calcularOrcamento(viagem: Viagem, pacote: PacoteDestino): Orcame
   // Taxas que se paga por estar na cidade, uma vez por cidade visitada.
   for (const cidadeId of cidadesComNoite) {
     const cidade = pacote.cidades.find((c) => c.id === cidadeId);
+    const noites = noitesPorCidade.get(cidadeId) ?? 0;
+
     for (const taxa of cidade?.taxasObrigatorias ?? []) {
-      registrar(`${taxa.nome} (${cidade?.nome})`, 'taxas-obrigatorias', taxa.preco, undefined, cidadeId);
+      /*
+        Taxa com tabela oficial por dia vira valor EXATO, nao faixa.
+
+        E a diferenca entre o orcamento dizer "entre R$ 105,79 e R$ 672,85
+        por pessoa" e dizer "R$ 520,50 por pessoa, para as suas 5 noites".
+        Fora do alcance da tabela (viagem mais longa do que ela cobre) a
+        faixa volta, porque extrapolar uma curva progressiva de que so se
+        conhece o fim seria inventar.
+      */
+      const linha = taxa.tabelaPorDias.find((l) => l.dias === noites);
+      const preco = linha
+        ? {
+            ...taxa.preco,
+            min: linha.valor,
+            max: linha.valor,
+            observacao: `Valor da tabela oficial para ${noites} dia${noites > 1 ? 's' : ''}.`,
+          }
+        : taxa.preco;
+      registrar(`${taxa.nome} (${cidade?.nome})`, 'taxas-obrigatorias', preco, undefined, cidadeId);
     }
   }
 

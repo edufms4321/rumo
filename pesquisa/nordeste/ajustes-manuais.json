@@ -1423,11 +1423,15 @@
      "preco": {
       "moeda": "BRL",
       "min": 105.79,
-      "max": 672.85,
+      "max": 7460.56,
       "por": "pessoa",
       "inclui": "direito de permanência no arquipélago, por dia declarado",
       "coletadoEm": "2026-10-08",
       "fontes": [
+       {
+        "url": "https://www.noronha.pe.gov.br/catalogo-de-servicos-old2/taxa-de-preservacao-ambiental-tpa/",
+        "titulo": "Tabela oficial da TPA 2026 (Distrito Estadual de Fernando de Noronha)"
+       },
        {
         "url": "https://www.noronha.pe.gov.br/"
        },
@@ -1438,10 +1442,132 @@
         "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
        }
       ],
-      "observacao": "A TPA e PROGRESSIVA por dia de permanência, nao uma diária fixa multiplicada. A faixa aqui vai de 1 dia (R$ 105,79, valor de 2026, reajuste de 4,4% sobre os R$ 101,33 de 2025) a 7 dias (R$ 672,85), que cobre qualquer viagem normal. A tabela oficial publica também 30 dias = R$ 7.460,56; esse numero NÃO entra na faixa porque usar o teto de um mes como maximo de uma viagem de 5 dias tornava o orçamento inútil (variava R$ 7 mil por pessoa). A tabela completa dia a dia não foi coletada — está nas pendências. Confira o valor do seu número de dias antes de fechar a conta."
+      "observacao": "Tabela OFICIAL de 2026, dia a dia, da pagina do Distrito Estadual. A cobranca e progressiva e NAO e a diaria multiplicada: 1 dia custa R$ 105,79, 5 dias custam R$ 520,50 (menos que 5 x 105,79) e 30 dias custam R$ 7.460,56 (muito mais). O orcamento usa a linha exata do seu numero de noites em Noronha; acima de 30 dias ele volta para a faixa. Fontes secundarias publicam 5 dias = R$ 528,95, que e a conta linear e esta errada."
      },
      "comoSePaga": "Online no site oficial do Distrito Estadual antes de embarcar, ou na chegada.",
-     "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha."
+     "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha.",
+     "tabelaPorDias": [
+      {
+       "dias": 1,
+       "valor": 105.79
+      },
+      {
+       "dias": 2,
+       "valor": 211.59
+      },
+      {
+       "dias": 3,
+       "valor": 317.38
+      },
+      {
+       "dias": 4,
+       "valor": 423.17
+      },
+      {
+       "dias": 5,
+       "valor": 520.5
+      },
+      {
+       "dias": 6,
+       "valor": 596.68
+      },
+      {
+       "dias": 7,
+       "valor": 672.85
+      },
+      {
+       "dias": 8,
+       "valor": 749.02
+      },
+      {
+       "dias": 9,
+       "valor": 825.19
+      },
+      {
+       "dias": 10,
+       "valor": 901.36
+      },
+      {
+       "dias": 11,
+       "valor": 1028.31
+      },
+      {
+       "dias": 12,
+       "valor": 1176.42
+      },
+      {
+       "dias": 13,
+       "valor": 1345.69
+      },
+      {
+       "dias": 14,
+       "valor": 1536.12
+      },
+      {
+       "dias": 15,
+       "valor": 1747.71
+      },
+      {
+       "dias": 16,
+       "valor": 1980.45
+      },
+      {
+       "dias": 17,
+       "valor": 2234.36
+      },
+      {
+       "dias": 18,
+       "valor": 2509.42
+      },
+      {
+       "dias": 19,
+       "valor": 2805.64
+      },
+      {
+       "dias": 20,
+       "valor": 3123.02
+      },
+      {
+       "dias": 21,
+       "valor": 3461.56
+      },
+      {
+       "dias": 22,
+       "valor": 3821.26
+      },
+      {
+       "dias": 23,
+       "valor": 4202.12
+      },
+      {
+       "dias": 24,
+       "valor": 4604.13
+      },
+      {
+       "dias": 25,
+       "valor": 5027.31
+      },
+      {
+       "dias": 26,
+       "valor": 5471.64
+      },
+      {
+       "dias": 27,
+       "valor": 5937.13
+      },
+      {
+       "dias": 28,
+       "valor": 6423.78
+      },
+      {
+       "dias": 29,
+       "valor": 6931.59
+      },
+      {
+       "dias": 30,
+       "valor": 7460.56
+      }
+     ]
     },
     {
      "nome": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",

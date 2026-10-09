@@ -218,6 +218,22 @@ export const CidadeBase = BaseRecord.extend({
       z.object({
         nome: z.string().min(1),
         preco: Preco,
+        /**
+         * Tabela oficial por numero de dias, quando a cobranca e progressiva
+         * e nao uma diaria fixa multiplicada.
+         *
+         * A TPA de Fernando de Noronha e o caso: 1 dia custa R$ 105,79, 5
+         * dias custam R$ 520,50 (menos que 5 x 105,79) e 30 dias custam
+         * R$ 7.460,56 (muito mais que 30 x 105,79). Sem a tabela o orcamento
+         * so conseguia mostrar uma faixa, e a faixa do maior custo fixo do
+         * pacote variava milhares de reais por pessoa.
+         *
+         * Com ela, o motor usa o numero real de noites na cidade. Fora do
+         * alcance da tabela, volta para a faixa e diz que voltou.
+         */
+        tabelaPorDias: z
+          .array(z.object({ dias: z.number().int().positive(), valor: z.number().nonnegative() }))
+          .default([]),
         comoSePaga: z.string().default(''),
         quemPaga: z.string().default('todo visitante nao residente'),
       }),

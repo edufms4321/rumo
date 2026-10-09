@@ -49,6 +49,7 @@ export function pacoteParaRegras(): PacoteDestino {
     ];
     rio.taxasObrigatorias = [
       {
+        tabelaPorDias: [],
         nome: 'Taxa de entrada na ilha',
         preco: {
           moeda: 'BRL',
