@@ -266,3 +266,36 @@ A auditoria desses grupos foi o que encontrou o buraco real do banco: **festas e
 **6. Classificador de grupo, três erros medidos.** "Plâncton luminescente na foz do Rio Preguiças" virou **bar**, porque o item fica em BARreirinhas e o padrão não fechava a palavra. "Centro Histórico de João Pessoa" virou **bar**, porque a descrição cita os bares da redondeza — passou a ler só nome e etiquetas. E todo bar com a etiqueta `vida-noturna` virava **festa**, o que deixou Bares com 3 itens em 397: abrir à noite não é ser uma festa.
 
 **Também padronizei a pasta de pesquisa da Colômbia** (`pesquisa/colombia/`, como as outras; morava na raiz por ter sido o primeiro destino) e a interface **pula o nível de região** quando ele não agrupa nada — as 5 províncias dominicanas caem em 5 das 10 regiões, e dois degraus para um caminho só é só mais um clique.
+
+## 2026-10-09 (tarde) — Onde dormir, a tabela da TPA e mais 80 coordenadas
+
+O Eduardo perguntou se já tínhamos as acomodações e disse que prefere hostel, ou o que for mais barato. A resposta era **não**, e pior do que não: havia 33 sugestões de bairro no banco (só Colômbia e México) e **nenhuma aparecia em tela nenhuma**. Ele digitava o nome do hotel à mão num campo de texto livre na tela do dia. Pesquisa que não chega na interface é pesquisa jogada fora.
+
+**Agora há uma aba Dormir** e o banco tem **400 registros de hospedagem, 231 com nome, nas 63 bases dos quatro destinos** — nenhuma base vazia. A tela agrupa por base, põe primeiro as cidades onde ele dorme com a contagem de noites, ordena do mais barato, filtra hostel num clique e escreve a escolha direto naquela noite, com preço, para o orçamento pegar.
+
+**A decisão que destravou a pesquisa foi deixar o preço opcional (D36).** Preço de hostel só existe nos agregadores, e Booking, Hostelworld e Airbnb estão proibidos por termos de uso e robots.txt. O site do próprio hostel quase nunca publica tarifa — joga para o motor de reserva, que é aplicação JavaScript e volta em branco. Com o campo obrigatório, só havia inventar ou descartar. 202 dos 400 têm preço; os outros têm nome, endereço e telefone, e dizem que o preço não foi achado.
+
+### O que a pesquisa descobriu e que muda escolha
+
+- **A República Dominicana quase não tem dormitório compartilhado:** dois em trinta e um, os dois em Santo Domingo. **Punta Cana não tem nenhum** — o Bavaro Hostel, que dezenas de agregadores ainda anunciam a partir de US$ 15, diz no próprio Instagram que fechou em definitivo. Lá o econômico é apartamento ou guesthouse, US$ 35–70 o quarto contra um piso de US$ 125 no all-inclusive.
+- **Em dupla, o privativo de hostel muitas vezes empata com duas camas.** O Blacksheep de Medellín publica os dois: 2 × COP 80.000 = exatamente os COP 160.000 do piso do quarto fechado. Por isso `diaria` e `diariaPrivativo` são campos separados — sem os dois, essa conta não existe.
+- **San Andrés inverteu a minha suposição.** Briefei o agente dizendo que a posada nativa seria a opção barata. Ela é mais barata que o hotel de orla (150–240 mil contra 450–585 mil), mas **não é mais barata que um hotelzinho dentro do próprio North End**: o Shalain fica a 500 m da praia principal por COP 179.999. O North End só é caro de frente para o mar.
+- **Muito guia de viagem aponta para hostel que não existe mais.** Quinze na Colômbia, os clássicos de Salento entre eles; nove no Nordeste, dois deles ainda listados no portal oficial da Prefeitura de Salvador com o domínio suspenso. Duas armadilhas de domínio: `laserrana.co` hoje é outra propriedade em Urrao, e `pocna.com`, o hostel mais conhecido de Isla Mujeres, redireciona para um hotel em Tulum.
+- **Noronha não tem hostel nem camping legal**; o piso é R$ 350 numa pousada domiciliar credenciada, e a TPA e o ingresso do parque são à parte.
+- **Sosúa** divide os hotéis entre política rígida e "muito liberal" quanto a prostituição; para casal, perguntar a *guest policy* antes de reservar é a informação que importa, e está nos quatro registros de lá.
+
+### A TPA de Noronha virou valor exato
+
+Achei a tabela oficial do Distrito Estadual, dia a dia, 30 linhas. Ela **não é a diária multiplicada**: 5 dias custam R$ 520,50 e não os R$ 528,95 da conta linear que as fontes secundárias publicam; 30 dias custam R$ 7.460,56. O orçamento usa a linha do número real de noites na cidade e, fora do alcance da tabela, volta para a faixa — extrapolar uma curva progressiva de que só se conhece o fim seria inventar.
+
+Escrevi junto os **primeiros testes de unidade do orçamento**. Ele não tinha nenhum, e foi exatamente por isso que as duas taxas obrigatórias de Noronha puderam ficar fora dele sem ninguém notar.
+
+### Mais 80 coordenadas, 3 rejeitadas
+
+O Nordeste tinha 289 itens agendáveis sem ponto no mapa; agora 213. As três rejeitadas são a mesma armadilha de sempre, e vale repetir porque nenhum raio resolve: a distância é medida da cidade-base, então **o lugar errado e perto ganha do certo e longe**. "Ilha de Itaparica" casou com uma *rua* em Salvador; "Praia do Forte" com um *edifício* na Pituba, com a vila a 65 km.
+
+### O que não deu
+
+O passo de imagens travou no limite de requisições do Wikimedia Commons. O ensaio na Dominicana tinha achado **4 em ~150 tentativas** — o Commons cobre mal o Caribe hispânico, e a regra de exigir a cidade no nome do arquivo (D29) é estrita de propósito. Nada gravado; está no PLANO para retomar.
+
+E registro a pergunta que fica com ele: **55 lugares do Nordeste estão sem preço, e 38 têm telefone no app.** A diferença entre lista de nomes e lista usável são umas quinze mensagens de WhatsApp.

@@ -127,7 +127,8 @@ npm run validate          # typecheck + lint + test + validate:data
 | destinos | 4 pacotes em 4 países — Brasil (Nordeste), Colômbia, México, República Dominicana |
 | árvore de lugares | país > macrorregião > estado > cidade-base, com a região turística como etiqueta |
 | itens | ver a tabela abaixo; cada um classificado em 11 grupos derivados |
-| testes do motor | 161, verdes |
+| hospedagem | 400 registros nas 63 bases, 231 com nome, 202 com preco |
+| testes do motor | 166, verdes |
 | testes de navegador | 27, verdes (inclui 3 de acessibilidade) |
 | validação de dados | 0 erro |
 | acessibilidade | 0 violação axe em 9 telas × 2 temas |
@@ -136,6 +137,9 @@ npm run validate          # typecheck + lint + test + validate:data
 Rode `npm run grupos` para a distribuição atual por grupo e `npm run validate:data` para as contagens por pacote. Um pacote cobre um **recorte** de país, nunca o país inteiro: `destino.cobertura` diz em uma frase o que ficou de fora, e a tela inicial mostra essa frase.
 
 ## Armadilhas já pagas (não repetir)
+
+- **Booking, Hostelworld, Airbnb, TripAdvisor, Expedia e Despegar são fonte proibida** (termos de uso e robots.txt). É por isso que `diaria` é opcional em hospedagem: o preço de hostel praticamente só existe lá (D36).
+- **Guia de viagem sobre hostel envelhece rápido.** A pesquisa achou 15 fechados na Colômbia e 9 no Nordeste, dois destes ainda listados no portal oficial da Prefeitura de Salvador. Confira o domínio antes de registrar.
 
 - **Barra invertida some quando se edita código por script.** `` vira um caractere de backspace de verdade e `s` vira `s`; a expressão continua válida, `tsc` e `oxlint` passam, e ela não casa com nada. Monte a barra com `String.fromCharCode(92)`. Há um teste varrendo o fonte (D35).
 - **Filtro que lê prosa livre engole dado bom.** O guarda de taxa percentual lia o texto explicativo e derrubou as duas taxas de Noronha, porque uma fala em "reajuste de 4,4%" e a outra em "desconto de 50%" (D34).

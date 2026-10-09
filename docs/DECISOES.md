@@ -277,3 +277,25 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Por quê:** cinco linhas do repositório tinham o `\b` de fim de palavra trocado por um backspace de verdade (0x08), escritas por ferramenta de substituição que come uma camada de barra invertida. A expressão continua **válida** — ela só não casa com nada —, então `tsc` e `oxlint` passavam limpos. O estrago: o filtro que deveria recusar imagem com cara de mapa nunca recusou nada, e `scuba` e `diving` nunca foram reconhecidos como mergulho.
 
 **O que o teste não pega:** a variante em que a barra some sem deixar controle (`\s+` vira `s+`). Tentei detectá-la e o detector acusou dezenas de comentários e URLs; heurística com mais ruído que sinal não entra na suíte. Contra essa, a defesa é de processo: ao editar expressão regular por script, monte a barra com `String.fromCharCode(92)`.
+
+---
+
+## D36 — Hospedagem entra sem preço, e cama de dormitório é campo próprio
+
+**Decisão:** `diaria` virou **opcional** em `SugestaoHospedagem`, e `porCama` diz quando o valor é de **uma cama em dormitório** em vez do quarto. Quando há os dois, `diariaPrivativo` guarda o quarto.
+
+**Por que o preço virou opcional:** preço de hostel só existe, na prática, nos agregadores — Booking, Hostelworld, Airbnb — cujos termos de uso e `robots.txt` proíbem acesso automatizado. O site do próprio hostel quase nunca publica tarifa: joga para o motor de reserva, que é uma aplicação JavaScript e volta em branco. Com o campo obrigatório, só havia duas saídas: inventar número ou descartar o lugar. **Lugar com nome, bairro, telefone e site oficial vale muito mais que linha nenhuma** — o viajante abre e confere. Dos 400 registros, 231 têm nome e 202 têm preço.
+
+**Por que a cama é campo separado:** numa viagem de duas pessoas, tratar "R$ 70 a cama" como se fosse o quarto erra o orçamento pela metade. E o contrário também importa: o Blacksheep de Medellín publica cama a COP 80.000 e privativo a partir de COP 160.000 — **duas camas custam exatamente o quarto fechado**. Sem os dois campos, essa conta não aparece.
+
+**Efeito colateral que precisou de conserto:** a pesquisa usa `diariaPrivativo` para o quarto e deixa `diaria` só para o dormitório. Num lugar sem dormitório — 29 de 31 na Dominicana — a tela ia escrever "sem preço" em cima de uma tarifa publicada. O conversor agora promove: sem dormitório, o preço do quarto **é** o preço.
+
+---
+
+## D37 — Chave que o conversor não sabe ler vira aviso, não silêncio
+
+**Decisão:** ao ler uma onda de pesquisa, toda chave de primeiro nível que o conversor não conhece gera um aviso, que vai para `descartados.json` e daí para as pendências.
+
+**Por quê:** a onda de hospedagem da Colômbia trouxe `alertasGerais` com cinco blocos — entre eles a lista de quinze hostels que fecharam e duas armadilhas de domínio (`laserrana.co` hoje é outra propriedade, em Urrao; `viajero.co` está à venda). Nada disso tem lugar no schema. Sem o aviso, some sem ninguém saber que existiu.
+
+**É a mesma regra do `descartados.json` (D30), aplicada um nível acima:** antes o conversor avisava sobre o REGISTRO que não entrou; agora avisa também sobre o CAMPO que ele não sabe guardar.

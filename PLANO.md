@@ -206,3 +206,26 @@ Pedido do Eduardo: "Nordeste tudo junto numa opção só? nem faz sentido" — e
 - **Casas que podem ter fechado**, registradas com confiança rebaixada em vez de omitidas: Órbita Bar (Fortaleza, fechou — o endereço hoje é o Kosmica), Taverna Pub (Natal), Sala de Reboco (Recife), Jet Set e Ferro Café (Santo Domingo), Drink Point e Don Queco (Punta Cana), Dominican Republic Jazz Festival.
 
 **Nota sobre o passo de imagens (2026-10-09):** parei a execução no meio. O ensaio na República Dominicana achou **4 imagens em ~150 tentativas** — as quatro de Las Terrenas, todas corretas — e a execução de gravação seguinte travou no limite de requisições do Wikimedia Commons (o recuo progressivo chega a 32 s por tentativa). Nada foi gravado. Vale retomar em outra hora, sem rodar duas passadas seguidas, e com a expectativa certa: o Commons cobre mal o Caribe hispânico, e a regra de exigir a cidade no nome do arquivo (D29) é estrita de propósito. Placeholder honesto continua melhor que foto do lugar errado.
+
+---
+
+## Fase 8 — Onde dormir (2026-10-09, fechada)
+
+Pergunta dele: "já temos as acomodações? gostamos mais de hostel, ou o que for mais barato".
+Resposta era não — e as 33 sugestões de bairro que existiam **não apareciam em tela nenhuma**.
+
+| Entregue | Onde |
+|---|---|
+| Aba **Dormir**: por base, mais barato primeiro, filtro de hostel, grava na noite | `src/telas/Dormir.tsx` |
+| Diária opcional; cama de dormitório separada do quarto | `src/schema/hospedagem.ts` (D36) |
+| 400 registros nas 63 bases, 231 com nome | 4 ondas de pesquisa |
+| Tabela oficial da TPA de Noronha, dia a dia, no orçamento | `src/engine/orcamento.ts` (D34) |
+| Primeiros testes de unidade do orçamento | `src/engine/orcamento.test.ts` |
+| +80 coordenadas, 3 rejeitadas à mão | `pesquisa/*/ajustes-manuais.json` |
+
+### Próximo, em ordem de valor
+
+1. **Preço por WhatsApp.** 198 dos 400 registros não têm preço, e a maioria tem telefone no app. É o passo que o agente não pode dar sozinho — e o que mais muda a utilidade da lista.
+2. **Imagens**, retomar sem rodar duas passadas seguidas no Commons.
+3. **Coordenadas que faltam**: 213 no Nordeste, 59 na Colômbia, 57 na Dominicana, 30 no México. Boa parte é bairro ou circuito, que legitimamente não é um ponto.
+4. **Melhoria 8** (re-verificação automática dos favoritos), adiada desde a v1.
