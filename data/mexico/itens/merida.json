@@ -1,5 +1,367 @@
 [
   {
+    "id": "mx-mid-mercado-de-santa-ana-cafe-da-manha-yucateco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado de Santa Ana (cafe da manha yucateco)",
+    "cidadeId": "merida",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "cochinita-pibil",
+      "panuchos",
+      "cafe-da-manha"
+    ],
+    "coords": {
+      "lat": 20.976095,
+      "lng": -89.620811
+    },
+    "descricaoCurta": "Mercado da Calle 60 com variedade grande de comida yucateca e abertura as 05:30 - o cafe da manha barato de Merida antes do calor.",
+    "descricaoLonga": "Fica na Calle 60, entre 45 e 47, na zona do Paseo de Montejo. Wikivoyage o descreve como tendo variedade espantosa de cozinha regional yucateca e um dos horarios de abertura mais cedo de Merida (05:30), o que o torna o endereco certo para cafe da manha reforcado e barato: cochinita pibil, panuchos, salbutes, huevos motulenos. Horario listado: 05:30-23:30 diariamente. NAO CONSEGUI CONFIRMAR preco por prato - a fonte nao traz tabela. Como referencia da cidade, a comida do dia no El Trapiche (Centro) e apontada como boa relacao custo-beneficio e a Savia Vegana registrava comidas de M$80-105 em 2021. Em mercado espere menos que isso, mas isso e inferencia.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 80
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "05:30",
+          "fecha": "23:30"
+        }
+      ]
+    },
+    "horariosObservacao": "05:30-23:30",
+    "diasFechados": [],
+    "melhorHorario": "Entre 07:00 e 09:00: comida saindo do fogao, mercado cheio de morador e o calor de Merida ainda suportavel.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: cafe da manha yucateco completo por muito menos que qualquer cafe do Centro.",
+      "Cochinita pibil e prato de MANHA no Yucatan - quem procura a noite acha versao requentada.",
+      "Para mercado grande e caotico (compras, nao refeicao), o endereco e o Lucas de Galvez/San Benito, nas calles 65-67 com 54-56."
+    ],
+    "alertas": [
+      "Preco NAO confirmado em fonte aberta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mid-wayan-e-taqueria-de-bairro-em-itzimna",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Wayan'e (taqueria de bairro em Itzimna)",
+    "cidadeId": "merida",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "cochinita-pibil",
+      "cafe-da-manha"
+    ],
+    "coords": {
+      "lat": 20.99551,
+      "lng": -89.60058
+    },
+    "descricaoCurta": "Taqueria simples no Circuito Colonias, na colonia Itzimna: 'extremamente popular com os locais' e fora do circuito turistico.",
+    "descricaoLonga": "Endereco: Circuito Colonias por 4-A 57-C, colonia Itzimna, uns 4 km ao norte do Centro. Wikivoyage a descreve apenas como taqueria simples extremamente popular entre moradores - e esse e exatamente o perfil que falta no banco de Merida, hoje cheio de restaurante de Centro. NAO CONSEGUI CONFIRMAR horario nem preco: a fonte traz telefone e pagina de rede social, mas nenhum dos dois. Taquerias desse tipo em Merida costumam ser de cafe da manha e fechar no comeco da tarde, mas isso e inferencia - confirme antes de atravessar a cidade.",
+    "duracao": {
+      "min": 25,
+      "tipica": 40,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 999 938 0676"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Nao de a viagem por certa sem ligar: e taqueria de bairro, horario curto e nao publicado.",
+      "Fica longe do Centro - encaixe num dia em que voce ja va para o norte (Paseo de Montejo / Gran Museo)."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados. Pode estar fechado a tarde."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mid-la-chaya-maya-casona",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Chaya Maya Casona",
+    "cidadeId": "merida",
+    "categoria": "restaurante",
+    "tags": [
+      "yucateco",
+      "cochinita-pibil",
+      "panuchos",
+      "casario-colonial"
+    ],
+    "coords": {
+      "lat": 20.97089,
+      "lng": -89.62325
+    },
+    "descricaoCurta": "Cozinha yucateca tradicional num casarao colonial da Calle 55, 13:00-22:00: a versao com mais mesa e menos fila da casa original.",
+    "descricaoLonga": "A Chaya Maya e a casa de cozinha yucateca mais procurada de Merida, e tem duas unidades. A ORIGINAL (Calle 62 x 57, 07:00-23:00) vive lotada, sobretudo na comida de domingo. A CASONA (Calle 55 x 60 y 62, uma quadra adiante, 13:00-22:00) e maior, fica num casarao colonial e tem mais mesa disponivel com a mesma cozinha. Serve cochinita pibil, panuchos, salbutes, relleno negro e tem opcoes vegetarianas. NAO CONSEGUI CONFIRMAR faixa de preco: a fonte nao traz numeros para nenhuma das duas unidades. Para dar escala, no mesmo guia o Restaurante Amaro (Centro) registrava pratos em torno de M$100 em maio/2015 - dado velho, serve so de ordem de grandeza.",
+    "duracao": {
+      "min": 60,
+      "tipica": 85,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "13:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-22:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 999 129 8643",
+      "site": "https://lachayamaya.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Se a fila da unidade original (Calle 62) estiver grande, ande uma quadra ate a Casona: mesma cozinha, mais mesa.",
+      "CORTE SE APERTAR: e o item mais turistico dos tres de Merida - quem quer autenticidade vai ao Mercado de Santa Ana de manha."
+    ],
+    "alertas": [
+      "Preco NAO confirmado em fonte aberta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mid-la-negrita-cantina",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Negrita Cantina",
+    "cidadeId": "merida",
+    "categoria": "bar",
+    "tags": [
+      "cantina",
+      "bares",
+      "mezcal",
+      "musica-ao-vivo",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 20.97449,
+      "lng": -89.62317
+    },
+    "descricaoCurta": "Cantina de 1917 na Calle 49, com musica ao vivo durante a semana, happy hour 17:00-19:00 e bebida barata. Lota no fim de semana.",
+    "descricaoLonga": "Wikivoyage: 'funcionando desde 1917, este classico e popular tanto com locais quanto com turistas. As bebidas sao baratas e incluem boa selecao de tequilas, mezcal, cervejas artesanais e mojitos. Serve comida de cantina padrao mas saborosa, e tem musica ao vivo durante a semana. Fica excepcionalmente cheia nos fins de semana.' Calle 49 No 415 x 62 y 60, Centro. Horario: 12:00-22:00 todos os dias, com happy hour diario de 17:00 as 19:00 (listagem editada em 03/2017 - dado antigo). NAO CONSEGUI CONFIRMAR preco de bebida. Para cantina de bairro ainda mais simples, o El Gallito (Calle 45 No 511-A) registrava CERVEJA A M$25 em marco de 2017 e serve botanas generosas - preco desatualizado, serve de ordem de grandeza.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "12:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "12:00-22:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 999 267 9582",
+      "site": "https://www.facebook.com/LaNegritaMerida"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Happy hour 17:00-19:00 e o melhor horario: mais barato e ainda da para conversar.",
+      "Fecha as 22:00 - em Merida a noite acaba cedo; o Mayan Pub (Calle 62 No 473) vai qua-dom ate 03:00."
+    ],
+    "alertas": [
+      "Horario e de 2017 - desatualizado; confirme antes de ir.",
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
     "id": "mx-mid-uxmal-zona-arqueologica",
     "fontes": [
       {

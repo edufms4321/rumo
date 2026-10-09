@@ -60,5 +60,102 @@
       "Distância de La Paz vem do texto da Wikipedia (milhas, em linha reta/estrada não especificado).",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-lto-sea-coffee-loreto",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Sea Coffee Loreto",
+    "cidadeId": "loreto",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "comida-barata",
+      "orla"
+    ],
+    "coords": {
+      "lat": 26.00962,
+      "lng": -111.33916
+    },
+    "descricaoCurta": "Cafeteria no Paseo Lopez Mateos (a orla de Loreto), aberta de segunda a sabado 07:00-23:00; serve tambem almoco.",
+    "descricaoLonga": "E o unico endereco de comida de Loreto para o qual a Wikivoyage traz telefone, horario, coordenada e pagina ao mesmo tempo - por isso ele entra. Fica no Paseo A. Lopez Mateos, a orla, e abre de segunda a sabado das 07:00 as 23:00; serve cafe e almoco. DOMINGO NAO CONSTA (desconhecido, nao fechado). NAO CONSEGUI CONFIRMAR preco. AVISO HONESTO: a pagina da Wikivoyage de Loreto e fraca - a secao de comida e quase toda lista de nomes em prosa sem endereco, horario ou preco (Cafe Ole, Carmen's, Mc LuLu's, Asadero Super Burro, Orlando's). Loreto e a base com menos dado de restaurante de todo o pacote mexicano, e eu nao vou preencher isso com chute.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 75
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 613 135 2096",
+      "site": "https://www.facebook.com/SeaCoffeeLoreto/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Para taco de peixe, a fonte cita o Orlando's (Fco. I. Madero s/n, Centro) e avisa que ele fecha cedo no domingo - sem horario confirmado.",
+      "CORTE SE APERTAR: Loreto e a base com menos informacao de comida do pacote; nao monte o roteiro contando com restaurante especifico."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "Horario de domingo nao consta na fonte (desconhecido, nao fechado).",
+      "Cobertura de comida em Loreto e pobre nas fontes abertas - confirme no local."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

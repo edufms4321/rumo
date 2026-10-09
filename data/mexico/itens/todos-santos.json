@@ -205,5 +205,119 @@
       "Época das ondas NÃO coletada.",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-tds-la-esquina-cafe-e-restaurante-em-todos-santos",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Esquina (cafe e restaurante em Todos Santos)",
+    "cidadeId": "todos-santos",
+    "categoria": "restaurante",
+    "tags": [
+      "cafe-da-manha",
+      "pueblo-magico",
+      "comida-barata"
+    ],
+    "coords": {
+      "lat": 23.453257,
+      "lng": -110.231519
+    },
+    "descricaoCurta": "Restaurante-cafe-bar grande na Calle Horizonte, logo fora do miolo do pueblo: M$200, aberto so de manha e no comeco da tarde.",
+    "descricaoLonga": "Wikivoyage descreve um salao grande, metade aberto metade fechado, com interior bonito, sofas confortaveis e paisagismo cuidado - 'e a comida tambem e boa'. Fica na Calle Horizonte, logo fora da parte central de Todos Santos. Horario listado: segunda a sexta 07:00-14:00 e sabado-domingo 08:00-13:00; faixa de M$200 (listagem de 04/2025). Todos Santos e Pueblo Magico pequeno com cena de restaurante desproporcional ao tamanho (a propria fonte comenta isso) e precos altos para o padrao da Baja: o Oystera, na mesma vila, tem estrela Michelin.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "14:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "14:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "14:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "14:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "14:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "13:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "13:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00-14:00 | 08:00-13:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de abril/2025).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Todos_Santos"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 612 178 0013"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "So funciona de manha e no comeco da tarde - nao serve de jantar.",
+      "Para cafe e doce bem barato, Taller 17 (Centenario 17) abre 07:30-15:00 e fecha quarta.",
+      "CORTE SE APERTAR: Todos Santos e caro para o padrao da Baja; dando mau tempo, La Paz resolve comida por menos."
+    ],
+    "alertas": [
+      "Fecha as 14:00 (13:00 no fim de semana)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

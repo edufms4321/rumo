@@ -4238,5 +4238,946 @@
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "mx-mex-mercado-de-san-juan-mercado-gourmet",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado de San Juan (mercado gourmet)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "gastronomia",
+      "queijos",
+      "exoticos"
+    ],
+    "coords": {
+      "lat": 19.42995,
+      "lng": -99.14465
+    },
+    "descricaoCurta": "O mercado onde os chefs da cidade compram: queijos europeus, embutidos, ingredientes pre-hispanicos e carnes exoticas, na C. Ernesto Pugibet 21.",
+    "descricaoLonga": "Mercado especializado em comida gourmet na C. Ernesto Pugibet 21, no Centro Historico, frequentado pelos principais cozinheiros da Cidade do Mexico. Vende queijos europeus, linguica espanhola e italiana, ingredientes pre-hispanicos e carnes exoticas - e um dos poucos lugares do pais onde isso se encontra junto. Wikivoyage lista como aberto diariamente mas NAO DIZ A QUE HORAS, e nao traz faixa de preco; por isso os campos ficaram vazios. Nao confunda com o Mercado de Artesanias de San Juan (Ayuntamiento s/n, 10:00-16:00), que e de artesanato, nem com o Mercado San Juan Arcos de Belen, que e de comida pronta.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Va com fome e peca prova: varias bancas cortam queijo e embutido na hora para degustar.",
+      "Se o objetivo e ALMOCAR barato e nao comprar, o endereco certo e o Mercado San Juan Arcos de Belen (Av. Arcos de Belen s/n), que e praca de alimentacao."
+    ],
+    "alertas": [
+      "Horario NAO confirmado (a fonte so diz 'diariamente')."
+    ]
+  },
+  {
+    "id": "mx-mex-cocuyo-s-taqueria-de-madrugada",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cocuyo's (taqueria de madrugada)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "antojitos",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 19.43054,
+      "lng": -99.13882
+    },
+    "descricaoCurta": "Taqueria classica do Centro na Bolivar 59, aberta das 08:00 as 05:00 (fecha 3 horas por dia). Cerca de M$100 por pessoa.",
+    "descricaoLonga": "Uma das taquerias famosas da Cidade do Mexico, ja mostrada em programas internacionais de comida. Fica na Bolivar 59, perto do metro San Juan de Letran, e abre todos os dias de 08:00 a 05:00 - fecha apenas tres horas. Hoje tem salao, entao nao e mais obrigatorio comer de pe na rua. Wikivoyage registra cerca de M$100 por pessoa, sem data de coleta na pagina; trate como ordem de grandeza e nao como tabela. E o endereco de ENDERECO FIXO para quem quer taco de rua sem depender de uma barraca que pode nao estar lá.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 70
+    },
+    "horariosObservacao": "08:00-05:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 100,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "Gasto tipico por pessoa citado pela fonte, sem detalhamento de itens nem data de coleta.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: ~M$100 por pessoa num Centro onde restaurante de mesa comeca em M$150.",
+      "Serve de jantar depois da Plaza Garibaldi (10 minutos de carro) sem precisar achar barraca aberta."
+    ],
+    "alertas": [
+      "Preco sem data de coleta na fonte - confira o cardapio na porta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-hosteria-de-santo-domingo-o-restaurante-mais-antigo",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Hosteria de Santo Domingo (o restaurante mais antigo da cidade)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "historico",
+      "mole",
+      "chiles-en-nogada",
+      "comida-mexicana"
+    ],
+    "coords": {
+      "lat": 19.43806,
+      "lng": -99.13497
+    },
+    "descricaoCurta": "Aberto em 1860 na Belisario Dominguez 70-72, serve cozinha mexicana classica com pratos a partir de M$120; cheio de moradores, nao so de turista.",
+    "descricaoLonga": "Wikivoyage o chama de restaurante mais antigo da Cidade do Mexico: abriu em 1860 num antigo albergue na Belisario Dominguez 70-72, a uma quadra da Praca Santo Domingo. Serve cozinha mexicana tradicional em ambiente animado e e muito frequentado por moradores. Pratos principais a partir de M$120 segundo a fonte (sem data de coleta na pagina). Horario listado: segunda a sexta 09:00-22:30 e domingo 09:00-21:00. SABADO NAO CONSTA na fonte - trate como desconhecido, nao como fechado. E o endereco obvio para quem quer provar chile en nogada na temporada sem ir a Puebla.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-22:30 | 09:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 120,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "Pratos principais a partir de M$120 (fonte); o teto de M$300 e estimativa de conta por pessoa com bebida e NAO esta na fonte.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5510 1434"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Almoco e melhor que jantar: e quando os moradores enchem o salao.",
+      "Na temporada (julho a setembro) o chile en nogada daqui dispensa a viagem a Puebla so pelo prato."
+    ],
+    "alertas": [
+      "Horario de sabado NAO consta na fonte (desconhecido, nao fechado).",
+      "O teto de preco M$300 e estimativa minha, nao dado de fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-el-jardin-del-pulpo-mercado-de-coyoacan",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Jardin del Pulpo (Mercado de Coyoacan)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "marisco",
+      "ceviche",
+      "coyoacan"
+    ],
+    "coords": {
+      "lat": 19.35246,
+      "lng": -99.16146
+    },
+    "descricaoCurta": "Marisqueria dentro do Mercado de Coyoacan, em frente a Casa Azul: ceviche, paella de frutos do mar e peixe assado em mesas comunitarias, M$50-300.",
+    "descricaoLonga": "O 'Jardim do Polvo' e uma marisqueria informal dentro do Mercado de Coyoacan (Malintzin 89, locais 24-25), de esquina com a Casa Azul de Frida Kahlo. Serve ceviche, paella de frutos do mar, peixe assado inteiro e ate fish and chips; o atendimento e estilo refeitorio, em mesas compridas sob toldo. Wikivoyage registra 10:00-18:00 todos os dias e faixa de M$50 a M$300 por pessoa, sem data de coleta na pagina. Sucos, aguas frescas e sorvete saem de duas lojas vizinhas. E o almoco natural de quem passou a manha na Casa Azul - a 300 m a pe.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-18:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 50,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte; prato simples na ponta de baixo, mariscada na de cima. Sem data de coleta na fonte.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://en.jardindelpulpo.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: marisco fresco em mesa de mercado por uma fracao do que a Condesa cobra.",
+      "Encaixe no mesmo dia da Casa Azul (Museu Frida Kahlo): fica a uma quadra, e o museu fecha segunda.",
+      "Para a sobremesa, Las Nieves de Coyoacan e a Tepoznieves estao a 400 m, no Jardin Centenario."
+    ],
+    "alertas": [
+      "Fecha as 18:00 - nao serve de jantar."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-pulqueria-las-duelistas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Pulqueria Las Duelistas",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "pulque",
+      "bares",
+      "vida-noturna",
+      "tradicional"
+    ],
+    "coords": {
+      "lat": 19.430464,
+      "lng": -99.142737
+    },
+    "descricaoCurta": "Pulqueria classica e colorida na Aranda 28, seg-sab 10:00-21:00: pulque branco e curados de fruta e especiaria. Fechada domingo.",
+    "descricaoLonga": "Pulque e bebida de agave FERMENTADA (nao destilada), de baixo teor alcoolico e textura viscosa - a bebida pre-hispanica que praticamente so existe no Mexico. Esta e uma das pulquerias mais populares da cidade: Wikivoyage a descreve como 'amigavel e colorida, com murais no teto e nas paredes. Serve pulques curados e branco (blanco). Tente um pulque natural para sentir o sabor puro do agave, ou um dos de fruta ou especiaria. O de aipo (apio) e recomendado.' Fica na Aranda 28, no Centro, perto do metro Salto del Agua, aberta de segunda a sabado das 10:00 as 21:00, FECHADA DOMINGO (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco - a outra pulqueria listada pela fonte, La Joya (Santa Maria la Ribera), aparece com faixa de M$200, mas isso e de outra casa.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 110
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-21:00",
+    "diasFechados": [
+      "dom"
+    ],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 1394 0958",
+      "site": "https://www.facebook.com/PulqueriaLasDuelistas/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico.",
+        "Pulque e bebida fermentada viva: quem tem estomago sensivel deve comecar com pouco."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: e o item mais barato e mais incomum da noite da cidade - pulque praticamente nao existe fora do Mexico.",
+      "Peca o natural primeiro para entender o sabor, depois um curado (aipo, segundo a fonte).",
+      "Abre as 10:00 e fecha as 21:00 - e programa de TARDE, nao de madrugada."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-cantina-la-faena",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cantina La Faena",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "cantina",
+      "bares",
+      "mezcal",
+      "vida-noturna",
+      "tradicional"
+    ],
+    "coords": {
+      "lat": 19.431642,
+      "lng": -99.137621
+    },
+    "descricaoCurta": "Cantina antiga dentro do Mancera Bar (Venustiano Carranza 49), decorada com memorabilia de tourada, jukebox de rancheras e taco barato.",
+    "descricaoLonga": "Wikivoyage: 'cantina a moda antiga que celebra a tradicao hispanica da tourada. Decoracao kitsch nas paredes, uma otima jukebox cheia de rancheras classicas, rock en espanol e hits pop dos anos 90. Tacos baratos, otima variedade de drinks de mezcal e tequila, e um publico muito animado.' Fica na Venustiano Carranza 49, dentro do Mancera Bar, perto do metro San Juan de Letran. Horario listado na fonte e CONTRADITORIO: 'seg-sex 13:00-20:00, sex-sab 13:00-10:30' - a sexta aparece duas vezes e o 10:30 provavelmente e horario de fechamento de madrugada. Registrei 13:00-20:00 de segunda a quinta e marquei o conflito; CONFIRME NA PORTA. NAO CONSEGUI CONFIRMAR preco. Sobre cantinas do Centro, a fonte avisa: sao historicamente lugar de homem, mulheres sao aceitas e estao seguras, mas e normal receber atencao especial.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "20:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:00",
+          "fecha": "20:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-20:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5510 4417"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Cantina classica do Centro serve BOTANA de graca junto com a bebida - a fonte diz isso do bairro inteiro.",
+      "VALE CADA PESO: cerveja, taco barato e jukebox de ranchera e o programa de noite mais honesto do Centro.",
+      "Se preferir cantina com horario claro, o Salon Corona (Bolivar 24) abre dom-qui 10:00-23:00 e sex-sab 10:00-02:00 e funciona desde 1928."
+    ],
+    "alertas": [
+      "As fontes divergem no horario (a propria listagem repete a sexta) - confirme na porta.",
+      "Horario de sexta, sabado e domingo NAO confirmado.",
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-bosforo-mezcaleria-sem-placa",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Bosforo (mezcaleria sem placa)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "mezcal",
+      "bares",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 19.433499,
+      "lng": -99.145176
+    },
+    "descricaoCurta": "Bar escuro e esfumacado na Luis Moya 31, sem placa na porta - tem uma das maiores selecoes de mezcal da cidade. Fecha domingo e segunda.",
+    "descricaoLonga": "Wikivoyage: 'bar escuro e esfumacado com publico hipster. NAO TEM PLACA, entao voce precisa saber onde fica e procurar a cortina na porta. Entre e junte-se a turma provando uma das maiores selecoes de mezcal da cidade.' Fica na Luis Moya 31, no Centro. Horario listado: quinta a sabado 19:00-02:30, terca 19:00-01:30, quarta 19:00-23:00, FECHADO domingo e segunda (listagem editada em 02/2024). NAO CONSEGUI CONFIRMAR preco. Para mezcal com mais explicacao e menos fumaca, a Condesa/Roma tem La Clandestina e a Tlecan, que a fonte descreve como casas onde os garcons explicam o agave usado por cada marca.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "qua": [
+        {
+          "abre": "19:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "19:00-01:30 | 19:00-23:00 | 19:00-02:30",
+    "diasFechados": [
+      "dom",
+      "seg"
+    ],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Nao tem placa: va pelo numero (Luis Moya 31) e procure a cortina.",
+      "Fecha domingo e segunda, e na quarta fecha as 23:00 - o horario varia muito por dia."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "Sem placa na fachada - e facil passar na frente e nao achar."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-la-clandestina-mezcaleria-na-condesa",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Clandestina (mezcaleria na Condesa)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "mezcal",
+      "bares",
+      "vida-noturna",
+      "condesa"
+    ],
+    "coords": {
+      "lat": 19.416461,
+      "lng": -99.169214
+    },
+    "descricaoCurta": "Mezcaleria intimista na Alvaro Obregon 298 (Condesa) com carta comentada de mezcais artesanais e marca propria para levar. Fecha domingo.",
+    "descricaoLonga": "Wikivoyage: 'bar de mezcal escuro e intimista com leque extenso de mezcais artesanais e marca propria, Enmascarado, disponivel em garrafa para levar. A carta e bem feita e explica um pouco da origem, da producao e dos destaques sensoriais de cada mezcal. Otimo lugar para experimentar com um sampler e aprender um pouco.' Alvaro Obregon 298, Condesa. Horario: segunda e terca 18:30-01:00, quarta a sabado 18:30-02:00, FECHADO DOMINGO (listagem editada em 03/2024). NAO CONSEGUI CONFIRMAR preco. A Condesa e a Roma concentram a noite de bar da cidade: na mesma fonte, a Licoreria Limantour (Alvaro Obregon 106) aparece com faixa de M$500 e e descrita como caro.",
+    "duracao": {
+      "min": 60,
+      "tipica": 95,
+      "max": 150
+    },
+    "horariosObservacao": "18:30-01:00 | 18:30-02:00",
+    "diasFechados": [
+      "dom"
+    ],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5525 1100",
+      "site": "https://laclandestina.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Peca o sampler com a carta na mao - e o item com melhor explicacao de mezcal do banco de CDMX.",
+      "Fica a 5 minutos a pe da Tlecan (Alvaro Obregon 228), outra mezcaleria pequena - da para fazer as duas na mesma noite.",
+      "CORTE SE APERTAR: se o roteiro ja tem mezcaleria em Oaxaca, esta e dispensavel - Oaxaca e a origem."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "A fonte avisa que o GinGin, outro bar da mesma regiao, tem reputacao de 'perder' reserva e cobrar errado - confira a conta em qualquer bar de coquetelaria da zona."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-salon-corona-cantina-de-1928",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Salon Corona (cantina de 1928)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "cantina",
+      "bares",
+      "cerveja",
+      "tradicional",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 19.433649,
+      "lng": -99.138249
+    },
+    "descricaoCurta": "Cantina tradicional funcionando desde 1928 na Bolivar 24: cerveja, comida mexicana e jogo na TV. Dom-qui ate 23:00, sex-sab ate 02:00.",
+    "descricaoLonga": "Wikivoyage: 'cantina tradicional e simpatica desde 1928. Lugar popular para ver futebol ou simplesmente ficar bebendo cerveja. Serve comida mexicana tradicional.' Fica na Bolivar 24, na esquina do Palacio de Iturbide, perto do metro Allende - uma das quadras mais centrais da cidade. Horario: domingo a quinta 10:00-23:00, sexta e sabado 10:00-02:00 (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco. E a cantina com horario mais claro e mais facil de achar do Centro - serve bem como primeira cantina de quem nunca entrou numa.",
+    "duracao": {
+      "min": 60,
+      "tipica": 85,
+      "max": 130
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-23:00 | 10:00-02:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5512 5725",
+      "site": "http://www.saloncorona.com.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: cantina com comida e cerveja a 200 m do Zocalo, sem preco de turista.",
+      "Para quem quer a cantina mais dura (tequila forte, botana de graca, publico masculino), o Salon Espana (Republica Argentina 25) e o endereco - mas a fonte nao traz horario para ele."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-plaza-garibaldi-mariachi",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      },
+      {
+        "url": "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Plaza Garibaldi (mariachi)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "atracao",
+    "tags": [
+      "mariachi",
+      "musica-ao-vivo",
+      "festas",
+      "vida-noturna",
+      "cantina"
+    ],
+    "coords": {
+      "lat": 19.44056,
+      "lng": -99.13889
+    },
+    "descricaoCurta": "A praca do mariachi na Cidade do Mexico: entrada livre, voce paga por cancao. Em 2023 um grupo cobrava M$200-250 a musica e M$3.000 a hora na praca.",
+    "descricaoLonga": "Praca no Centro Historico onde grupos de mariachi de Jalisco, de traje completo, ficam esperando trabalho a diferentes horas do dia e da noite, cercada de cafes e restaurantes voltados ao publico de mariachi (Wikivoyage). O MODELO E ESTE: entrar na praca e de graca; voce contrata a musica. O Chilango (07/05/2023), citando o lider do mariachi 'El sol de Acapulco', registra M$200-250 POR CANCAO e M$3.000 POR UMA HORA ILIMITADA na propria praca (M$3.500 se for a domicilio), com grupo de 7 integrantes, e diz que da para agendar no mesmo dia com algumas horas de antecedencia - de preferencia um dia antes. ATENCAO: outras reportagens citam numeros bem diferentes para serenata completa, e em datas de pico (Dia das Maes, Dia dos Namorados) o preco sobe; os valores aqui sao de UM grupo em 2023 e devem ser tratados como ordem de grandeza. COMBINE O PRECO E O NUMERO DE MUSICAS ANTES DE O GRUPO COMECAR A TOCAR. Ao lado da praca fica o Salon Tenampa, a cantina de mariachi mais famosa do pais.",
+    "duracao": {
+      "min": 60,
+      "tipica": 100,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite, de quinta a sabado: e quando a praca tem mais grupos e mais publico. A Wikivoyage nao traz horario de funcionamento porque e praca publica.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 3000,
+      "por": "grupo",
+      "inclui": "M$200-250 por cancao e M$3.000 pela hora ilimitada na praca, com grupo de 7, segundo UM mariachi entrevistado pelo Chilango em 07/05/2023. NAO e tabela oficial. Entrar na praca e de graca.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Combine preco e numero de musicas ANTES de comecar - e a regra da praca.",
+      "Para ouvir mariachi sem contratar, sente numa mesa do Salon Tenampa (Plaza Garibaldi 12) e consuma: a casa tem mariachi continuo.",
+      "Volte de taxi de aplicativo ou acompanhado: Garibaldi fica na borda do Centro e o entorno muda de carater depois de meia-noite."
+    ],
+    "alertas": [
+      "O preco e de 2023 e de UM grupo entrevistado - fontes diferentes citam valores bem diferentes para serenata.",
+      "Em datas de pico (Dia das Maes, 14 de fevereiro) o preco sobe, segundo a imprensa.",
+      "NAO CONSEGUI CONFIRMAR em fonte oficial nenhuma recomendacao de seguranca especifica para a praca; a cautela sugerida aqui e de bom senso, nao alerta de autoridade."
+    ]
+  },
+  {
+    "id": "mx-mex-salon-tenampa-a-cantina-de-mariachi",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Salon Tenampa (a cantina de mariachi)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "mariachi",
+      "cantina",
+      "musica-ao-vivo",
+      "festas",
+      "tequila",
+      "mezcal"
+    ],
+    "coords": {
+      "lat": 19.44106,
+      "lng": -99.13896
+    },
+    "descricaoCurta": "Na esquina da Plaza Garibaldi: a cantina mexicana original dos boemios e mariachis dos anos 40 e 50, com mariachi continuo e carta enorme de tequila.",
+    "descricaoLonga": "Wikivoyage: 'a cantina mexicana original e mais famosa, casa tradicional dos boemios e dos mariachis dos anos 40 e 50. Selecao enorme de tequila e mezcal, comida mexicana leve, e bandas de mariachi.' Fica na Plaza Garibaldi 12, na esquina da praca. Horario listado: domingo a quinta 13:00-01:00, sexta e sabado 13:00-02:00 (listagem de 01/2017 - dado antigo, confirme). NAO CONSEGUI CONFIRMAR preco: a fonte nao traz faixa, e os valores que circulam em sites de reserva nao sao fonte que eu possa usar. Aqui o mariachi e da casa e toca para o salao - diferente da praca, onde voce contrata por musica.",
+    "duracao": {
+      "min": 90,
+      "tipica": 130,
+      "max": 200
+    },
+    "horariosObservacao": "13:00-01:00 | 13:00-02:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5526 6176",
+      "site": "http://www.salontenampa.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "E a forma de ouvir mariachi SEM contratar grupo: consome-se na mesa e a musica vem.",
+      "Chegue antes das 21:00 numa sexta se quiser mesa.",
+      "Encaixe junto com a Plaza Garibaldi - e a mesma esquina, nao e outro deslocamento."
+    ],
+    "alertas": [
+      "Horario e de 2017 - desatualizado; confirme antes de ir.",
+      "Preco NAO confirmado."
+    ]
+  },
+  {
+    "id": "mx-mex-mega-procesion-de-catrinas-dia-de-muertos-na-cdmx",
+    "fontes": [
+      {
+        "url": "https://www.eluniversal.com.mx/tendencias/mega-procesion-de-catrinas-2026-en-cdmx-fecha-horario-ruta-y-todo-lo-que-debes-saber-para-asistir-al-desfile-de-dia-de-muertos/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Zona_Rosa"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mega Procesion de Catrinas (Dia de Muertos na CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "dia-de-muertos",
+      "festas",
+      "desfile",
+      "gratis",
+      "outubro"
+    ],
+    "coords": {
+      "lat": 19.42699,
+      "lng": -99.16765
+    },
+    "descricaoCurta": "O desfile de catrinas da capital sai do Angel de la Independencia e vai ate o Zocalo pela Reforma. Em 2026 foi no domingo 25/10, 18:00; data de 2027 nao publicada.",
+    "descricaoLonga": "E o maior desfile de Dia de Muertos da Cidade do Mexico. Em 2026 (13a edicao) saiu no DOMINGO 25 DE OUTUBRO: atividades musicais desde as 14:00, os contingentes comecando a andar as 18:00 e a chegada ao Centro Historico prevista para cerca de 20:30, com 36 contingentes oficiais e 102 veiculos com musica. ROTA: do Angel de la Independencia pelo Paseo de la Reforma, depois Avenida Juarez, depois 5 de Mayo, ate o Zocalo (El Universal, 26/09/2026). Assistir da calcada da rota nao tem ingresso; a materia nao afirma explicitamente que e gratuito, entao nao registro preco. AS DATAS DE 2027 E 2028 NAO ESTAO PUBLICADAS: historicamente o desfile cai num domingo do fim de outubro, antes do nucleo fixo de 31/10 a 02/11, mas isso e padrao observado, nao data confirmada - CONFIRME no ano da viagem. Nao confundir com o desfile oficial de Dia de Muertos do governo da cidade, que e outro evento.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Chegar na rota entre 17:00 e 17:30 para pegar lugar na calcada antes da saida das 18:00.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Nao precisa ir ao ponto de partida: qualquer trecho da Reforma ou da Av. Juarez ve o desfile passar.",
+      "O metro Insurgentes, Cuauhtemoc e Hidalgo ficam na rota - de carro a Reforma fecha.",
+      "CONFIRME A DATA no ano da viagem: a edicao de 2027 nao estava publicada em outubro de 2026."
+    ],
+    "alertas": [
+      "DATA DE 2027/2028 NAO PUBLICADA. A de 2026 foi 25/10 (domingo).",
+      "Multidao grande ao longo da Reforma - leve pouca coisa no bolso.",
+      "A fonte nao afirma explicitamente que e gratuito; por isso o campo preco foi omitido."
+    ]
   }
 ]

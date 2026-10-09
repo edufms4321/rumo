@@ -1,5 +1,596 @@
 [
   {
+    "id": "do-puj-la-posada-de-gladys-bavaro",
+    "fontes": [
+      {
+        "url": "https://www.frommers.com/destinations/punta-cana/restaurants/la-posada-de-gladys"
+      },
+      {
+        "url": "https://www.frommers.com/destinations/punta-cana/restaurants/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Posada de Gladys (Bávaro)",
+    "cidadeId": "punta-cana",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "la-bandera",
+      "sancocho",
+      "barato",
+      "comedor",
+      "fora-do-resort"
+    ],
+    "descricaoCurta": "Comedor sem charme nenhum onde os dominicanos de Bávaro almoçam: pollo frito com arroz e habichuelas por cerca de RD$175 a RD$200.",
+    "descricaoLonga": "Num corredor de resorts onde o jantar fácil custa US$40, este é o contraponto: um comedor de bairro em Bávaro, cerveja gelada e comida dominicana de verdade, inclusive para levar. O prato de referência é o pollo frito crocante com arroz, habichuelas e salada — registrado por guia de viagem a 175 pesos (algo como US$4) com acompanhamentos incluídos — e o 'plato del día' a RD$200, que muda todo dia e às vezes é sancocho. QUANTO CUSTA: RD$175 a RD$200 por prato, segundo guia de viagem. Em pesos, não em dólar: é exatamente o tipo de casa onde você paga em peso. COMO CHEGAR: fica na área de Bávaro/Los Corales, fora da portaria de qualquer resort. Se você está hospedado em Uvero Alto ou Cap Cana, são 20 a 30 minutos de carro — ou seja, NÃO é um programa de pé: é um programa de táxi ou Uber, e o táxi tabelado de Bávaro para a região custa mais do que o almoço. Honestamente: só vale o deslocamento se você já vai estar em Los Corales/El Cortecito por outro motivo. O QUE NÃO CONFIRMEI: endereço exato com número, telefone, horário, e as coordenadas (o Nominatim não devolveu nada). Também não confirmei se a casa continua aberta: a fonte de preço não traz data de coleta.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 80
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 175,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "prato com arroz, habichuelas e salada",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "RD$175 pelo pollo frito com acompanhamentos e RD$200 pelo plato del día, segundo guia de viagem. A página não declara data de coleta do preço — trate como indicativo e confirme no balcão."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica fora dos resorts: exige táxi ou Uber se você não está em Los Corales/El Cortecito."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: é o almoço mais honesto de Bávaro por menos de um décimo do jantar de resort.",
+      "Pergunte pelo 'plato del día' em vez de pedir o menu — muda todo dia e costuma ser o melhor.",
+      "Vale cada peso: é o almoço mais honesto de Bávaro por menos de um décimo do jantar de resort.",
+      "Pergunte pelo 'plato del día' em vez de pedir o menu — muda todo dia e costuma ser o melhor."
+    ],
+    "alertas": [
+      "Sem endereço exato, telefone nem horário confirmados. Confirme com o motorista antes de ir.",
+      "Se você está em Uvero Alto ou Cap Cana, o táxi custa várias vezes o almoço: não vale o deslocamento só por isto.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-capitan-cook-el-cortecito",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Punta_Cana"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Capitan%20Cook%2C%20El%20Cortecito%2C%20Punta%20Cana&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Capitán Cook (El Cortecito)",
+    "cidadeId": "punta-cana",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "pe-na-areia",
+      "lagosta",
+      "fora-do-resort",
+      "pescado"
+    ],
+    "descricaoCurta": "Peixe e lagosta na grelha aberta, mesas na areia de El Cortecito. O clássico de comer fora do resort em Bávaro.",
+    "descricaoLonga": "Fica em El Cortecito, o trecho de Bávaro onde existe rua e acesso público à praia. O formato é o do restaurante de praia caribenho: você escolhe o pescado ou a lagosta na vitrine de gelo, ele vai para a grelha aberta na frente do salão, e as mesas ficam na areia. O Wikivoyage registra o telefone +1 809 552-0645 e descreve a casa como especializada em frutos do mar, com 'atmosfera incomum' — eufemismo honesto para serviço informal e preço que varia. QUANTO CUSTA: NÃO achei faixa de preço em nenhuma fonte confiável, e aqui isso é grave, porque peixe e lagosta costumam ser vendidos POR PESO e é o cenário clássico de conta inflada. OMITI o campo preço e registrei um alerta. COMO CHEGAR: a pé se você está em Los Corales ou El Cortecito; de carro, de qualquer outro ponto de Bávaro. O QUE NÃO CONFIRMEI: preço, horário, se ainda está no mesmo endereço e as coordenadas (o Nominatim não devolveu o estabelecimento).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 552 0645",
+      "endereco": "El Cortecito, Bávaro, Punta Cana"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mesas na areia: chuva estraga o programa."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Antes de apontar para o peixe, pergunte o preço do quilo E peça para ele ser pesado na sua frente. Pescado por peso em praia turística é o golpe mais comum do Caribe.",
+      "Antes de apontar para o peixe, pergunte o preço do quilo E peça para ele ser pesado na sua frente. Pescado por peso em praia turística é o golpe mais comum do Caribe."
+    ],
+    "alertas": [
+      "SEM PREÇO CONFIRMADO em nenhuma fonte, numa casa que vende peixe e lagosta por peso. Combine valor antes.",
+      "Horário não confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-nam-nam-los-corales",
+    "fontes": [
+      {
+        "url": "https://www.frommers.com/destinations/punta-cana/restaurants/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Ñam Ñam (Los Corales)",
+    "cidadeId": "punta-cana",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "sanduiche",
+      "crepe",
+      "barato",
+      "fora-do-resort",
+      "cafe-da-manha"
+    ],
+    "descricaoCurta": "Café pequeno de Los Corales, tocado por europeus, com sanduíche grande em pão crocante e crepe salgado barato.",
+    "descricaoLonga": "Fica em Los Corales, no trecho de Bávaro em que você consegue andar a pé entre restaurantes independentes. O nome significa 'gostoso' em sérvio. É um café moderno e pequeno, tocado por um casal de expatriados europeus, com sanduíches grandes em pão crocante e uma lista de crepes salgados baratos (presunto, bacon, frango, camarão, queijo, vegetais). Serve como café da manhã fora do resort ou como almoço leve depois da praia. QUANTO CUSTA: a fonte descreve os crepes como 'maravilhosamente baratos' mas NÃO publica valores, e eu não achei tabela em nenhum outro lugar. OMITI o campo preço. COMO CHEGAR: a pé em Los Corales. Se você está em resort de Uvero Alto, Macao ou Cap Cana, são 20 a 40 minutos de carro — não vale o deslocamento isolado. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário, preço e coordenadas.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 75
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Los Corales, Bávaro, Punta Cana"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casa pequena; pode encher no café da manhã."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Bom para o primeiro café fora do resort se você está em Los Corales — não é destino, é conveniência.",
+      "Bom para o primeiro café fora do resort se você está em Los Corales — não é destino, é conveniência."
+    ],
+    "alertas": [
+      "Sem preço, horário nem endereço exato confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-noah-restaurant-lounge-bavaro",
+    "fontes": [
+      {
+        "url": "https://quantocustaviajar.com/republica-dominicana/punta-cana/alimentacao"
+      },
+      {
+        "url": "https://www.frommers.com/destinations/punta-cana/restaurants/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Noah Restaurant & Lounge (Bávaro)",
+    "cidadeId": "punta-cana",
+    "categoria": "restaurante",
+    "tags": [
+      "fusao",
+      "pizza-de-forno",
+      "jantar",
+      "fora-do-resort",
+      "lounge"
+    ],
+    "descricaoCurta": "Jantar de fusão e pizza de forno a lenha no distrito comercial de Bávaro: a opção de 'sair para jantar bem' sem voltar ao buffet.",
+    "descricaoLonga": "Fica na área comercial de Bávaro (os endereços citados variam entre Plaza San Juan e Los Corales), num salão retrô-moderno com lounge. A cozinha é de fusão autoral, com pizza de forno a lenha como âncora. QUANTO CUSTA: um guia brasileiro de orçamento registra US$30 a US$50 por pessoa — em dólar, porque é assim que a casa e o guia precificam nesta faixa de Punta Cana. Sobre isso entram 18% de ITBIS e 10% de propina legal. QUANDO IR: jantar. Em alta temporada, reserve. COMO CHEGAR: de carro de qualquer resort de Bávaro; a pé se você está em Los Corales. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário, site oficial e coordenadas. Nenhuma fonte que abri publica esses dados e o Nominatim voltou vazio.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 30,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "jantar; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "US$30 a US$50 por pessoa segundo guia de orçamento de viagem. Em USD porque a fonte publica em USD — não converti. Fonte única, sem data de coleta declarada."
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Se você quer uma noite de 'jantar fora' em Punta Cana sem o preço do Jellyfish ou do La Yola, esta é a faixa do meio.",
+      "Se você quer uma noite de 'jantar fora' em Punta Cana sem o preço do Jellyfish ou do La Yola, esta é a faixa do meio."
+    ],
+    "alertas": [
+      "Sem endereço exato, telefone nem horário confirmados: confirme com a concierge antes de pegar táxi.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-puj-supermercado-e-colmado-como-comer-e-beber-fora-do-al",
+    "fontes": [
+      {
+        "url": "https://www.grandbay-puntacana.com/blog/local-businesses/nacional-vs-jumbo-vs-bravo-punta-cana"
+      },
+      {
+        "url": "https://www.dominicancooking.com/dominican-colmado"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Supermercado e colmado: como comer e beber fora do all-inclusive em Bávaro",
+    "cidadeId": "punta-cana",
+    "categoria": "experiencia",
+    "tags": [
+      "mercado-de-comida",
+      "comida-dominicana",
+      "supermercado",
+      "colmado",
+      "economizar",
+      "fora-do-resort"
+    ],
+    "descricaoCurta": "Onde comprar água, fruta, cerveja e rum em Bávaro a preço de supermercado em vez de preço de lobby, e o que o colmado resolve.",
+    "descricaoLonga": "Cartão de uso para quem está num resort e quer gastar menos ou comer algo que não seja buffet. SUPERMERCADOS: na área de Bávaro/Punta Cana há três perfis. O Jumbo, no primeiro nível do Downtown Mall Punta Cana (Avenida Barceló), junta comida, farmácia, eletrônico e casa no mesmo lugar. Os Supermercados Bravo têm boa seção de básicos e de hortifruti, com horário registrado de 6h à meia-noite de segunda a sábado. O Supermercado Nacional é o mais caro e o que tem mais importado europeu e norte-americano. Para RUM, as fontes recomendam especificamente o Supermercado Iberia, em Friusa, como alternativa muito mais barata do que a loja do aeroporto. COLMADO: é a venda de esquina dominicana, está em todo lugar e serve para uma cerveja gelada, água, gelo, cigarro e duas ou três coisas — não para abastecer a semana. Os colmados vendem em quantidade mínima (um ovo, um punhado de arroz, 'três pesos de óleo'), têm mesinha de metal na frente e é ali que se joga dominó e se escuta música alta. QUANTO CUSTA: NÃO registrei preços porque nenhuma das fontes publica tabela atual, e preço de supermercado muda. OMITI o campo preço. O QUE NÃO CONFIRMEI: endereços exatos e horários do Iberia e do Nacional; o horário de 6h-24h é só do Bravo e vem de fonte única.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Nem todo resort permite entrar com bebida comprada fora: confira a política antes."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: comprar rum no Iberia de Friusa em vez do free shop do aeroporto é a economia mais fácil da viagem.",
+      "O colmado resolve a cerveja das 16h e nada mais; para compra de verdade, Jumbo ou Bravo.",
+      "Vale cada peso: comprar rum no Iberia de Friusa em vez do free shop do aeroporto é a economia mais fácil da viagem.",
+      "O colmado resolve a cerveja das 16h e nada mais; para compra de verdade, Jumbo ou Bravo."
+    ],
+    "alertas": [
+      "Sem preços registrados: supermercado muda preço rápido e eu não achei tabela de fonte confiável.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-puj-drink-point-downtown-punta-cana",
+    "fontes": [
+      {
+        "url": "https://oyster.com/articles/best-punta-cana-nightlife-bars"
+      },
+      {
+        "url": "https://www.cataloniahotels.com/en/blog/punta-cana-has-the-best-nightlife-in-the-caribbean/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Drink Point (Downtown Punta Cana)",
+    "cidadeId": "punta-cana",
+    "categoria": "bar",
+    "tags": [
+      "drinks",
+      "vida-noturna",
+      "barato",
+      "fora-do-resort",
+      "latino"
+    ],
+    "descricaoCurta": "Bar de Downtown Punta Cana com mistura de locais e turistas, música latina e hip hop, e preços descritos como razoáveis — raro na área.",
+    "descricaoLonga": "Fica em Downtown Punta Cana, o polo comercial e noturno na Carretera Barceló/Avenida Estados Unidos, onde também está o Coco Bongo (já catalogado nesta base). Diferente das casas de show vendidas no lobby do hotel, o Drink Point é bar de verdade, com público misto de dominicanos e turistas, música sobretudo latina e hip hop, e preços que as fontes descrevem como razoáveis para a área. É a opção para quem quer sair à noite em Punta Cana sem pagar ingresso de US$90 a US$375 por um open bar. QUANTO CUSTA: nenhuma fonte publica valores — 'razoável' não é preço. OMITI o campo. COMO CHEGAR: de táxi ou Uber a partir de qualquer resort de Bávaro; de Uvero Alto ou Macao, 30 a 45 minutos. Conte com o táxi tabelado em USD na volta (ver o cartão de transporte desta base). O QUE NÃO CONFIRMEI: preço, horário, endereço com número, telefone e coordenadas. As duas fontes que mencionam a casa são de 2020 e de blog de hotelaria — pode ter fechado.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 270
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Downtown Punta Cana, Bávaro"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fora do resort: táxi tabelado em USD na ida e na volta."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "É a alternativa barata ao ingresso de casa de show de Punta Cana — mas o táxi de volta pode custar mais que a noite inteira de bebida.",
+      "É a alternativa barata ao ingresso de casa de show de Punta Cana — mas o táxi de volta pode custar mais que a noite inteira de bebida."
+    ],
+    "alertas": [
+      "FONTE DE 2020: suspeito que possa ter fechado. Confirme antes de pegar táxi.",
+      "Sem preço, horário nem endereço exato.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-don-queco-cigar-rum-bar-puntacana-resort",
+    "fontes": [
+      {
+        "url": "https://oyster.com/articles/best-punta-cana-nightlife-bars"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Punta_Cana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Don Queco Cigar & Rum Bar (Puntacana Resort)",
+    "cidadeId": "punta-cana",
+    "categoria": "bar",
+    "tags": [
+      "rum",
+      "charuto",
+      "drinks",
+      "degustacao-de-rum",
+      "resort"
+    ],
+    "descricaoCurta": "Bar de rum e charuto no Westin Puntacana: onde provar Brugal, Barceló e Bermúdez envelhecidos em vez de beber rum de open bar.",
+    "descricaoLonga": "Fica no Westin Puntacana Resort & Club, dentro do Puntacana Resort (área sul, perto do aeroporto PUJ e do Puntacana Village). A proposta é específica: rum dominicano e charuto, com carta de envelhecidos em vez do rum branco de coquetel do all-inclusive. Vale saber o que pedir: as três grandes marcas dominicanas são Brugal, Barceló e Bermúdez, e as versões que o Wikivoyage destaca para quem quer provar de verdade são o Bermúdez Don Armando, o Aniversario 1852 e o Macorix de oito anos. Rum dominicano vem em quatro faixas — branco, dourado/âmbar, escuro e envelhecido. QUANTO CUSTA: nenhuma fonte publica a carta. OMITI o campo preço. É bar de resort cinco estrelas: espere preço de resort cinco estrelas, em dólar. O QUE NÃO CONFIRMEI: preço, horário, se recebe quem não está hospedado no complexo, telefone e coordenadas. A fonte que descreve o bar é de janeiro de 2020.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Westin Puntacana Resort & Club, Puntacana Resort, Punta Cana"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Dentro de resort fechado: o acesso para não-hóspede não está confirmado."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se você vai levar uma garrafa para casa, prove antes aqui em vez de comprar no free shop sem saber a diferença entre Brugal e Bermúdez.",
+      "Se você vai levar uma garrafa para casa, prove antes aqui em vez de comprar no free shop sem saber a diferença entre Brugal e Bermúdez."
+    ],
+    "alertas": [
+      "FONTE DE 2020: confirme que o bar existe antes de ir.",
+      "Acesso de não-hóspede NÃO confirmado.",
+      "Sem preço.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-oro-nightclub-hard-rock-hotel-punta-cana",
+    "fontes": [
+      {
+        "url": "https://www.cataloniahotels.com/en/blog/punta-cana-has-the-best-nightlife-in-the-caribbean/"
+      },
+      {
+        "url": "https://oyster.com/articles/best-punta-cana-nightlife-bars"
+      },
+      {
+        "url": "https://www.technoairlines.com/club/oro-nightclub-punta-cana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Oro Nightclub (Hard Rock Hotel Punta Cana)",
+    "cidadeId": "punta-cana",
+    "categoria": "bar",
+    "tags": [
+      "discoteca",
+      "balada",
+      "vida-noturna",
+      "resort",
+      "dj"
+    ],
+    "descricaoCurta": "A boate grande de Punta Cana, dentro do Hard Rock: quarta a sábado, 23h às 4h, dois andares e painel de LED. Bebida NÃO entra no all-inclusive.",
+    "descricaoLonga": "Fica dentro do Hard Rock Hotel & Casino Punta Cana, em Macao/Uvero Alto. É a boate de escala internacional do destino: cerca de 1.300 m² em dois andares, capacidade de mil pessoas, 33 mesas VIP e um painel de LED de dois pavimentos feito de 300 telas. HORÁRIO: quarta a sábado, das 23h às 4h. O DADO QUE IMPORTA: comida e bebida são cobradas à parte e NÃO estão incluídas no plano all-inclusive do hotel, mesmo para hóspedes — é a armadilha clássica de quem acha que 'tudo incluído' inclui a boate. Mulheres têm cover grátis nas noites de clube, segundo a fonte. QUANTO CUSTA: NÃO achei tabela de cover nem de bebida em nenhuma fonte. OMITI o campo preço. COMO CHEGAR: se você não está hospedado no Hard Rock, o acesso depende da política do hotel, que eu não confirmei; e o táxi tabelado do PUJ ao Hard Rock é de US$50 (dado já registrado no cartão de transporte desta base), o que dá a escala do deslocamento noturno. O QUE NÃO CONFIRMEI: preço, acesso de não-hóspede, telefone e coordenadas (o Nominatim não devolveu o estabelecimento). A fonte principal é de 2020.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 300
+    },
+    "horarios": {
+      "qua": [
+        {
+          "abre": "23:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "23:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "23:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "23:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "23:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Hard Rock Hotel & Casino Punta Cana, Macao/Uvero Alto"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Dentro de resort fechado; acesso de não-hóspede não confirmado.",
+        "Bebida cobrada à parte, fora do all-inclusive."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [
+      "Mesmo hospedado no Hard Rock, a conta da boate é separada do all-inclusive: leve cartão e pergunte o preço do drinque antes.",
+      "Se você não está hospedado lá, o táxi de ida e volta pode custar mais que a noite — avalie o Coco Bongo ou o Drink Point, que ficam no eixo de Bávaro.",
+      "Mesmo hospedado no Hard Rock, a conta da boate é separada do all-inclusive: leve cartão e pergunte o preço do drinque antes.",
+      "Se você não está hospedado lá, o táxi de ida e volta pode custar mais que a noite — avalie o Coco Bongo ou o Drink Point, que ficam no eixo de Bávaro."
+    ],
+    "alertas": [
+      "BEBIDA NÃO ESTÁ NO ALL-INCLUSIVE, nem para hóspede. É a reclamação mais comum sobre o lugar.",
+      "FONTE DE 2020: confirme horário e funcionamento antes de ir.",
+      "O horário 23h-4h foi registrado como 23h-23h59 por limitação do formato.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-puj-fiesta-de-nuestra-senora-de-la-altagracia-21-de-jane",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/actualidad/dia-de-la-virgen-de-la-altagracia-2026-historia-milagro-devocion-y-por-que-el-21-de-enero-es-feriado-nacional-en-rd-9608326.html"
+      },
+      {
+        "url": "https://acento.com.do/actualidad/hoy-21-de-enero-2026-es-feriado-nacional-en-rd-dia-de-la-virgen-de-la-altagracia-y-todos-los-feriados-confirmados-del-ano-9608338.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Fiesta de Nuestra Señora de la Altagracia (21 de janeiro, Higüey)",
+    "cidadeId": "punta-cana",
+    "categoria": "experiencia",
+    "tags": [
+      "basilica",
+      "santuario",
+      "peregrinacao",
+      "feriado",
+      "religioso",
+      "higuey",
+      "cultura"
+    ],
+    "descricaoCurta": "A maior romaria do país, a 45 minutos de Punta Cana: centenas de milhares de peregrinos na Basílica de Higüey em 21 de janeiro, feriado nacional.",
+    "descricaoLonga": "DATA FIXA: 21 DE JANEIRO, todos os anos, e é FERIADO NACIONAL INAMOVÍVEL — não se transfere para segunda-feira. ONDE: Basílica Nuestra Señora de la Altagracia, em Higüey, a cerca de 45 minutos de carro de Bávaro/Punta Cana (a basílica já está catalogada nesta base como item de visita comum). O QUE ACONTECE: na NOITE DE 20 DE JANEIRO os peregrinos que chegam a Higüey rezam, invocam a virgem, cantam salves e toca-se tambor até a madrugada; de manhã começam as missas e a grande celebração. É a maior expressão de fé coletiva do país, com centenas de milhares de peregrinos por ano. A HISTÓRIA: em 1572 um incêndio ameaçou destruir o povoado de Higüey; os moradores levaram a imagem da virgem em procissão e, segundo a tradição, as chamas pararam — daí 'Altagracia', por 'alta graça'. Em 1922 Pio XI a proclamou padroeira oficial da República Dominicana e em 1978 João Paulo II a coroou canonicamente durante a visita ao país. QUANTO CUSTA: nada. É romaria, não evento com bilheteria; campo preço OMITIDO e etiqueta 'gratuito'. PARA O SEU ROTEIRO: se a sua viagem cair em 20-21 de janeiro, saiba que é feriado nacional — banco, repartição e parte do comércio fecham, e a estrada Bávaro-Higüey fica congestionada. Ou você vai ver a romaria, ou evita a estrada. O QUE NÃO CONFIRMEI: horários das missas e se há acesso restrito à basílica no dia.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Basílica Nuestra Señora de la Altagracia, Higüey, La Altagracia"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Multidão de centenas de milhares de pessoas: não é programa para criança pequena.",
+        "Feriado nacional: comércio e serviços fechados.",
+        "Estrada Bávaro-Higüey congestionada no dia."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se a viagem cair em 21 de janeiro, escolha de propósito: ou você vai ver a romaria de manhã cedo, ou fica longe da estrada de Higüey o dia inteiro.",
+      "A noite de 20 para 21 é a parte mais interessante culturalmente: salves cantadas e tambor até a madrugada.",
+      "Se a viagem cair em 21 de janeiro, escolha de propósito: ou você vai ver a romaria de manhã cedo, ou fica longe da estrada de Higüey o dia inteiro.",
+      "A noite de 20 para 21 é a parte mais interessante culturalmente: salves cantadas e tambor até a madrugada."
+    ],
+    "alertas": [
+      "Horários de missa NÃO confirmados.",
+      "Feriado nacional: planeje banco, câmbio e compras para outro dia.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "do-puj-playa-bavaro-trecho-el-cortecito-los-corales",
     "fontes": [
       {

@@ -1,5 +1,3073 @@
 [
   {
+    "id": "do-sdq-jalao",
+    "fontes": [
+      {
+        "url": "https://jalao.do/"
+      },
+      {
+        "url": "https://www.timeout.com/travel/five-places-to-eat-like-a-local-in-the-dominican-republic"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Jalao%2C%20Calle%20El%20Conde%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Jalao",
+    "cidadeId": "santo-domingo",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "zona-colonial",
+      "merengue",
+      "musica-ao-vivo",
+      "mofongo",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 18.4739792,
+      "lng": -69.8841633
+    },
+    "descricaoCurta": "Comida criolla e orquestra de perico ripiao no Parque Colón: o lugar da Zona Colonial onde se come dominicano e se escuta merengue típico.",
+    "descricaoLonga": "Fica na Calle El Conde 103, na esquina do Parque Colón — ou seja, no ponto mais pisado da Zona Colonial, o que normalmente seria motivo de desconfiança, mas aqui a cozinha é dominicana de verdade e a casa toca perico ripiao e merengue típico com orquestra ao vivo toda semana. QUANTO CUSTA: o menu publicado no site oficial vai de RD$250 a RD$2.895 por prato; mofongo RD$795, ceviche RD$895, parrillada para compartilhar RD$2.895. Sobre essa conta ainda entram 18% de ITBIS e 10% de propina legal (ver o cartão sobre a conta de restaurante nesta base). HORÁRIO: terça a domingo das 11h à meia-noite, sexta e sábado até 1h; segunda fechado, exceto feriado — dado do site oficial. COMO CHEGAR: a pé, de qualquer ponto da Zona Colonial. O QUE NÃO CONFIRMEI: quais dias exatos tem orquestra (o site diz 'todas as semanas' sem fixar o dia) e se há couvert artístico — ligue ou mande WhatsApp antes se a música for o motivo da ida. Atenção: uma busca me devolveu para o Jalao o telefone 809-686-0129, que na verdade é o do El Conuco; os telefones registrados aqui são os do site oficial.",
+    "duracao": {
+      "min": 60,
+      "tipica": 105,
+      "max": 180
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 11:00-23:59",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 250,
+      "max": 2895,
+      "por": "pessoa",
+      "inclui": "prato; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Faixa do menu publicado no site oficial jalao.do (RD$250 a RD$2.895 por prato). Exemplos: mofongo RD$795, ceviche RD$895, parrillada RD$2.895."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://jalao.do/",
+      "telefone": "+1 809 792 1262",
+      "whatsapp": "+1 829 761 1467",
+      "instagram": "@jalao.rd",
+      "email": "info@jalao.do",
+      "endereco": "Calle El Conde #103, Parque Colón, Zona Colonial, Santo Domingo 10210"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Sexta e sábado à noite enche; sem reserva pode esperar."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso se você quer comer dominicano E ouvir merengue típico na mesma noite sem pagar ingresso de casa de show.",
+      "Peça o mofongo e o pescado; é o que a casa faz melhor segundo a imprensa de viagem que abri.",
+      "Vale cada peso se você quer comer dominicano E ouvir merengue típico na mesma noite sem pagar ingresso de casa de show.",
+      "Peça o mofongo e o pescado; é o que a casa faz melhor segundo a imprensa de viagem que abri."
+    ],
+    "alertas": [
+      "O preço do menu NÃO inclui os 18% de ITBIS nem os 10% de propina legal: a conta fecha cerca de 28% acima do somatório dos pratos."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-el-conuco",
+    "fontes": [
+      {
+        "url": "https://www.timeout.com/travel/five-places-to-eat-like-a-local-in-the-dominican-republic"
+      },
+      {
+        "url": "https://www.aaa.com/tripcanvas/restaurant/el-conuco-AA40317"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=El%20Conuco%2C%20Casimiro%20de%20Moya%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Conuco",
+    "cidadeId": "santo-domingo",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "la-bandera",
+      "sancocho",
+      "mofongo",
+      "merengue",
+      "musica-ao-vivo",
+      "show"
+    ],
+    "coords": {
+      "lat": 18.4650125,
+      "lng": -69.9009645
+    },
+    "descricaoCurta": "Casa de comida criolla em Gazcue onde os garçons param o serviço para dançar merengue. Turístico e assumidamente folclórico, mas a comida é dominicana.",
+    "descricaoLonga": "Fica na Calle Casimiro de Moya 152, em Gazcue — bairro residencial a oeste da Zona Colonial, uns 10 minutos de carro do Parque Colón. O cenário é 'conuco' (roça): decoração criolla, garçom de chapéu de palha e, várias vezes por noite, o serviço para e a equipe dança merengue no salão. Os pratos da casa são la bandera dominicana (arroz, habichuelas e carne guisada), mofongo clássico, sancocho e pescado ao leite de coco. QUANTO CUSTA: as fontes que abri convergem em cerca de US$20 por pessoa — não achei menu oficial com preços em pesos, então registrei a faixa em dólar como as fontes dão, sem converter. HORÁRIO: as fontes divergem. Uma diz segunda a sábado 7h-23h30 e domingo 12h-23h30; outra diz todos os dias 12h-24h. Registrei a versão mais detalhada e marquei o conflito. QUANDO IR: jantar, porque o show de dança é noturno. ARMADILHA: é restaurante de ônibus de excursão — se você odeia animação de salão, este não é o seu lugar; vá no Mesón de Bari ou no Jalao. O QUE NÃO CONFIRMEI: site oficial (não achei no ar), menu em pesos, e se há cobrança separada pelo show.",
+    "duracao": {
+      "min": 60,
+      "tipica": 105,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "23:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "12:00",
+          "fecha": "23:30"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00-23:30 | 12:00-23:30",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 20,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "refeicao; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Cerca de US$20 por pessoa segundo duas fontes secundárias (AAA TripCanvas e agregadores). NÃO achei menu oficial em pesos. Trate como ordem de grandeza, não como tabela."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 686 0129",
+      "endereco": "Calle Casimiro de Moya 152, Gazcue, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Restaurante com show de dança: barulho alto e interrupção do serviço várias vezes por noite."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista"
+    ],
+    "dicas": [
+      "Se você vai a um só restaurante 'com show' na viagem, este é o que serve comida dominicana de verdade em vez de buffet de hotel.",
+      "Se você vai a um só restaurante 'com show' na viagem, este é o que serve comida dominicana de verdade em vez de buffet de hotel."
+    ],
+    "alertas": [
+      "As fontes divergem no horário (uma diz 7h-23h30 seg-sáb, outra diz 12h-24h todos os dias). Confirme por telefone.",
+      "Preço só em dólar e de fonte secundária; mais 18% de ITBIS e 10% de propina legal."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-buche-perico",
+    "fontes": [
+      {
+        "url": "https://www.newworlder.com/eat-list-ciudad-colonial-santo-domingo-dominican-republic"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Buche%20Perico%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Buche Perico",
+    "cidadeId": "santo-domingo",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "zona-colonial",
+      "cozinha-contemporanea",
+      "vegetais"
+    ],
+    "coords": {
+      "lat": 18.4740407,
+      "lng": -69.883184
+    },
+    "descricaoCurta": "Cozinha dominicana contemporânea dentro de uma estufa com centenas de plantas, na Calle El Conde. O prato da casa é a sopa de milho do Cibao.",
+    "descricaoLonga": "Na Calle El Conde 53, Zona Colonial. A ideia é incomum: o salão é uma estufa com mais de 500 plantas, parte delas usada na cozinha, e o chef executivo Javier Cabrera trabalha receitas dominicanas em chave contemporânea. O prato que dá nome à casa — 'buche perico' — é uma sopa de milho com vegetais e carnes do Cibao, especificamente de Moca. Também aparecem ravioli de plátano maduro, bolinhos de yuca com queijo e pescado frito com coco picante. QUANTO CUSTA: as fontes de reserva que abri classificam a casa como 'US$30 e menos' por pessoa; NÃO achei menu com preços em pesos, por isso registrei a faixa em dólar sem converter e com confiança rebaixada. HORÁRIO: segunda a sexta 12h-24h, sábado e domingo 9h-24h, segundo plataforma de reserva — não é fonte oficial. COMO CHEGAR: a pé, 150 m do Parque Colón. O QUE NÃO CONFIRMEI: site oficial (não encontrei), telefone, e se o brunch de fim de semana tem preço fechado.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "12:00",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "12:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "12:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "12:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "12:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "12:00-23:59 | 09:00-23:59",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 15,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "prato principal; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Classificação 'US$30 e menos por pessoa' em plataforma de reserva. O piso de US$15 é minha leitura da faixa, não um preço publicado. Sem menu oficial: trate como estimativa de faixa."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle El Conde 53, Ciudad Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "É o item desta base que melhor responde 'onde a cozinha dominicana está hoje' sem virar restaurante de hotel.",
+      "É o item desta base que melhor responde 'onde a cozinha dominicana está hoje' sem virar restaurante de hotel."
+    ],
+    "alertas": [
+      "Preço e horário vêm de plataforma de reserva, não de fonte oficial."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-barra-payan-avenida-30-de-marzo",
+    "fontes": [
+      {
+        "url": "https://eldinero.com.do/?p=34449"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Barra%20Payan%2C%20Avenida%2030%20de%20Marzo%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Barra Payán (Avenida 30 de Marzo)",
+    "cidadeId": "santo-domingo",
+    "categoria": "cafe",
+    "tags": [
+      "sanduiche",
+      "24-horas",
+      "comida-dominicana",
+      "barato",
+      "madrugada",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 18.4786515,
+      "lng": -69.8986414
+    },
+    "descricaoCurta": "Aberta desde 10 de agosto de 1956 e 24 horas por dia: sanduíche, jugo natural e morir soñando. A instituição de madrugada de Santo Domingo.",
+    "descricaoLonga": "A Barra Payán abriu em 10 de agosto de 1956 na esquina da Avenida 30 de Marzo com a Calle San Juan Bosco, entre San Carlos e Don Bosco, e é descrita pela imprensa econômica dominicana como o negócio 24 horas mais antigo da capital. O cardápio tem mais de 50 sanduíches e os sucos naturais da casa; o programa clássico é sair da Zona Colonial de madrugada e terminar a noite ali. QUANTO CUSTA: a reportagem que abri situa os sanduíches entre RD$150 e RD$390 (algo como US$3 a US$7); o Wikivoyage diz 'abaixo de US$5'. Barato de verdade. COMO CHEGAR: fica a cerca de 1,5 km a oeste do Parque Colón, fora do perímetro turístico — de carro de aplicativo é curto e barato; a pé de madrugada eu não recomendo (ver o cartão de segurança da base). CUIDADO COM O NOME: 'Barra Payán' virou rede, com filiais em Naco, Miramar, Evaristo Morales, Los Próceres, Centro de los Héroes e Ensanche Ozama, mais La Romana, Puerto Plata, La Vega, Las Terrenas, Bávaro, San Cristóbal e Higüey. A casa histórica é a da 30 de Marzo. O QUE NÃO CONFIRMEI: site oficial e telefone (não achei fonte confiável) e se o 24 horas é ininterrupto hoje — a reportagem mais recente que abri sobre a história da casa é de dezembro de 2016; o dado de preço, de fonte mais nova, não confirma o horário.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 70
+    },
+    "horarios": {
+      "seg": "24h",
+      "ter": "24h",
+      "qua": "24h",
+      "qui": "24h",
+      "sex": "24h",
+      "sab": "24h",
+      "dom": "24h"
+    },
+    "horariosObservacao": "24h",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 150,
+      "max": 390,
+      "por": "pessoa",
+      "inclui": "sanduiche",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Sanduíches de RD$150 a RD$390 segundo reportagem sobre a casa. O Wikivoyage, independente, diz 'sanduíches e sucos abaixo de US$5', o que é compatível. Duas fontes que concordam na ordem de grandeza."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida 30 de Marzo esq. Calle San Juan Bosco, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica fora do perímetro turístico; vá de carro de aplicativo, sobretudo de madrugada."
+      ]
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: é o fim de noite dominicano, não uma atração de guia.",
+      "Peça um jugo de chinola ou um morir soñando junto; a casa é tão conhecida pelos sucos quanto pelos sanduíches.",
+      "Vale cada peso: é o fim de noite dominicano, não uma atração de guia.",
+      "Peça um jugo de chinola ou um morir soñando junto; a casa é tão conhecida pelos sucos quanto pelos sanduíches."
+    ],
+    "alertas": [
+      "O 24 horas é o que as fontes afirmam, mas a reportagem histórica que abri é de 2016 e não descreve o funcionamento atual hora a hora. Se for de madrugada, conte com a possibilidade de encontrar fechado.",
+      "Existem muitas filiais; a casa de 1956 é a da Avenida 30 de Marzo."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-la-cafetera-colonial-calle-el-conde",
+    "fontes": [
+      {
+        "url": "https://www.newworlder.com/eat-list-ciudad-colonial-santo-domingo-dominican-republic"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Calle%20Las%20Damas%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "La Cafetera Colonial (Calle El Conde)",
+    "cidadeId": "santo-domingo",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "zona-colonial",
+      "barato",
+      "cafe-da-manha",
+      "balcao"
+    ],
+    "coords": {
+      "lat": 18.4740342,
+      "lng": -69.8827362
+    },
+    "descricaoCurta": "Balcão de café antigo na Calle El Conde: espresso dominicano, batida e sanduíche de ovo em pé, ao lado de gente que trabalha ali.",
+    "descricaoLonga": "Fica na Calle El Conde, entre a Calle Duarte e a Calle 19 de Marzo, no trecho da rua de pedestres que já saiu do miolo turístico. É um balcão, não um café de revista: espresso curto e forte, batidas de fruta e sanduíche de ovo, servidos para gente do bairro e funcionários do comércio. Foi descrito numa reportagem gastronômica como um dos endereços onde a Ciudad Colonial come de verdade. QUANTO CUSTA: nenhuma fonte que eu abri publica preços; a mesma reportagem só o classifica como barato. OMITI o campo preço de propósito em vez de estimar. Como referência de ordem de grandeza, um café de balcão em Santo Domingo costuma custar poucas dezenas de pesos — mas isso é observação geral, não dado desta casa. COMO CHEGAR: a pé pela El Conde, caminhando do Parque Colón na direção do Parque Independencia. O QUE NÃO CONFIRMEI: horário, telefone, se abre domingo e o número exato na rua. Nada disso aparece nas fontes que abri e eu não vou inventar.",
+    "duracao": {
+      "min": 15,
+      "tipica": 25,
+      "max": 45
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle El Conde, entre Calle Duarte e Calle 19 de Marzo, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Balcão: pouco ou nenhum lugar sentado."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Use como parada de café no meio da caminhada da Zona Colonial, não como destino.",
+      "Use como parada de café no meio da caminhada da Zona Colonial, não como destino."
+    ],
+    "alertas": [
+      "Sem horário, telefone nem preço confirmados em nenhuma fonte. Passe na porta e veja."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-chimi-e-frituras-da-noite-no-malecon",
+    "fontes": [
+      {
+        "url": "https://www.dominicancooking.com/wprm_print/19249"
+      },
+      {
+        "url": "https://mydominicanrecipes.com/chimi-burger-dominican/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Malecon%20Avenida%20George%20Washington%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Chimi e frituras da noite no Malecón",
+    "cidadeId": "santo-domingo",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "comida-de-rua",
+      "chimichurri",
+      "barato",
+      "madrugada",
+      "malecon"
+    ],
+    "coords": {
+      "lat": 18.4584798,
+      "lng": -69.9099167
+    },
+    "descricaoCurta": "O chimi — hambúrguer dominicano de pan de agua com repolho e cebola em conserva — vendido em carrinho na beira do Malecón, da noite até a madrugada.",
+    "descricaoLonga": "O chimi (ou chimichurri, que na República Dominicana não é molho e sim sanduíche) é carne moída temperada grelhada na chapa, dentro de um pan de agua tostado, com repolho ralado, tomate, cebola roxa em conserva, ketchup, maionese e mostarda. Vende-se em carrinho e em quiosque de fritura, e o Malecón de Santo Domingo (Avenida George Washington) é a vitrine mais conhecida desse comércio: as fontes descrevem funcionamento de cerca das 18h até o último cliente, às vezes 2h da manhã. Junto do chimi aparecem as frituras: yaniqueque, quipe, pastelito, chicharrón de pollo. QUANTO CUSTA: nenhuma das fontes que eu abri publica preço de carrinho no Malecón. OMITI o campo preço. É comida de rua, logo barata, mas eu não tenho número para dar. COMO CHEGAR: o Malecón é a avenida de beira-mar a sul de Gazcue; de carro de aplicativo a partir da Zona Colonial são poucos minutos. SEGURANÇA E ESTÔMAGO: é carrinho de rua à noite — veja o cartão de segurança do Malecón nesta base, escolha o posto com movimento e com a chapa quente, e não coma de carrinho parado. O QUE NÃO CONFIRMEI: nomes e pontos fixos dos vendedores (eles mudam), preços e horário com fonte oficial.",
+    "duracao": {
+      "min": 15,
+      "tipica": 30,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida George Washington (Malecón), Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Comida de rua: prefira o posto com fila e chapa em uso.",
+        "Programa noturno; vá de carro, não a pé."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso e é a coisa mais dominicana que você come na viagem por menos dinheiro.",
+      "Peça sem picante se não quiser surpresa; o 'chimi' leva cebola em conserva bem ácida.",
+      "Vale cada peso e é a coisa mais dominicana que você come na viagem por menos dinheiro.",
+      "Peça sem picante se não quiser surpresa; o 'chimi' leva cebola em conserva bem ácida."
+    ],
+    "alertas": [
+      "Sem preço confirmado em fonte: pergunte o valor ANTES de pedir, porque o preço de turista existe.",
+      "Carrinho de rua à noite: escolha pelo movimento e evite o Malecón a pé."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-mercado-de-villa-consuelo",
+    "fontes": [
+      {
+        "url": "https://www.uber.com/es-DO/blog/mercados-en-santo-domingo"
+      },
+      {
+        "url": "https://eldia.com.do/mercado-de-villa-consuelo-de-alimentos-asequibles-a-precios-en-alzas/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Mercado%20de%20Villa%20Consuelo%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mercado de Villa Consuelo",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "mercado-de-comida",
+      "comida-dominicana",
+      "frutas",
+      "mercado",
+      "vida-de-rua"
+    ],
+    "coords": {
+      "lat": 18.4874031,
+      "lng": -69.8986293
+    },
+    "descricaoCurta": "Mercado de dois andares e 250 pontos com fruta, vegetal, carne e peixe: o mercado de comida mais perto da Zona Colonial onde ninguém vende souvenir.",
+    "descricaoLonga": "Ao contrário do Mercado Modelo — que é mercado de artesanato, âmbar e lembrança —, Villa Consuelo é mercado de comida: dois andares, estacionamento, cerca de 250 pontos comerciais com fruta, vegetal, provisões, carne, embutido e peixe, frequentado por moradores do bairro que vão comprar o básico a preço de bairro. A obra começou em 1990 e só foi inaugurada por volta de 2012-2014 (as fontes divergem no ano exato). Serve para duas coisas: ver o que é um mercado dominicano de verdade e comprar fruta tropical para levar ao apartamento. QUANTO CUSTA: entrar não se paga. Sobre os preços dos produtos, a reportagem que abri é justamente sobre a ALTA desses preços — ou seja, qualquer número que eu copiasse estaria velho. OMITI o campo preço. COMO CHEGAR: Calle Bartolomé Colón, bairro Villa Consuelo, cerca de 1,5 km ao norte da Zona Colonial; carro de aplicativo. QUANDO IR: manhã, de terça a sábado, quando chega a mercadoria. O QUE NÃO CONFIRMEI: horário de funcionamento (nenhuma fonte publica) e se há área de comida pronta.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Bartolomé Colón, Villa Consuelo, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mercado de bairro, não de turista: leve pouco dinheiro, nada de bolsa aberta.",
+        "Melhor de manhã; à tarde esvazia."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se você quer mercado de comida e não de souvenir, é aqui — o Mercado Modelo é a outra coisa.",
+      "Se você quer mercado de comida e não de souvenir, é aqui — o Mercado Modelo é a outra coisa."
+    ],
+    "alertas": [
+      "Sem horário confirmado. Vá de manhã."
+    ]
+  },
+  {
+    "id": "do-sdq-almoco-criollo-la-bandera-mangu-sancocho-e-mofongo",
+    "fontes": [
+      {
+        "url": "https://www.barcelo.com/guia-turismo/es/republica-dominicana/republica-dominicana/que-ver/comida-dominicana/"
+      },
+      {
+        "url": "https://www.frommers.com/destinations/punta-cana/restaurants/la-posada-de-gladys"
+      },
+      {
+        "url": "https://www.dominicancooking.com/wprm_print/19249"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Almoço criollo: la bandera, mangú, sancocho e mofongo",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "comida-dominicana",
+      "la-bandera",
+      "sancocho",
+      "mofongo",
+      "mangu",
+      "almoco"
+    ],
+    "descricaoCurta": "O que pedir num comedor dominicano para comer o que o país come de verdade, e em que momento do dia cada prato aparece.",
+    "descricaoLonga": "Este é um cartão de uso, não um restaurante. LA BANDERA DOMINICANA é o prato nacional e o almoço de casa: arroz branco, habichuelas (feijão vermelho) e carne guisada de frango ou de boi, com abacate, tostones e salada verde como opcionais. É o 'plato del día' de quase todo comedor — em Bávaro, por exemplo, uma fonte registra o plato del día a RD$200. MANGÚ é purê de plátano verde, de herança africana, e é CAFÉ DA MANHÃ: vem no 'tres golpes', com queijo frito, ovo e salami frito. SANCOCHO é um ensopado espesso de várias carnes com ñame, auyama, yautía, yuca e milho — comida de ocasião (Ano Novo, almoço de domingo, dia de chuva), não de todo dia; o 'prieto' leva três carnes. MOFONGO é plátano verde frito e amassado com alho e chicharrón, servido em pilão de madeira, de almoço ou de ceia noturna. PESCADO FRITO com tostones é comida de dia de praia. HABICHUELAS CON DULCE — feijão vermelho doce com leite, batata-doce, especiarias e biscoito — é sobremesa de Quaresma e Semana Santa, não existe no resto do ano. COMO USAR: num comedor, pergunte 'qué hay de plato del día' em vez de pedir o menu; é o que sai mais rápido, mais barato e mais fresco. O QUE NÃO CONFIRMEI: preços médios por prato em escala nacional; cada item de restaurante desta base traz os seus.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Habichuelas con dulce só aparecem na Quaresma e Semana Santa."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Num comedor, 'plato del día' é sempre a melhor relação preço-comida do dia.",
+      "Não confunda chimichurri dominicano (sanduíche) com o molho argentino de mesmo nome.",
+      "Num comedor, 'plato del día' é sempre a melhor relação preço-comida do dia.",
+      "Não confunda chimichurri dominicano (sanduíche) com o molho argentino de mesmo nome."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-kahkow-experience-chocolate-dominicano-calle-las-dam",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://www.kahkow.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Kahkow Experience (chocolate dominicano, Calle Las Damas)",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "degustacao",
+      "chocolate",
+      "cacau",
+      "zona-colonial",
+      "familia"
+    ],
+    "descricaoCurta": "Visita guiada do cacau à barra na primeira rua das Américas, com oficina em que você faz o seu próprio chocolate.",
+    "descricaoLonga": "Fica na Calle Las Damas 102, dentro do perímetro histórico, e é operado pela Kahkow, marca de chocolate de origem única com raízes dominicanas que remontam a 1905. O programa tem duas partes: uma visita guiada curta que conta a história do cacau no país e o caminho do grão à barra, com degustação de fruta de cacau e de chocolates de percentuais diferentes; e uma oficina em que você monta o seu próprio chocolate. A República Dominicana é um dos maiores exportadores mundiais de cacau orgânico, o que faz do tema algo mais do que entretenimento de turista. QUANTO DURA: as fontes falam de um tour de cerca de 25 minutos, mais a oficina. HORÁRIO: todos os dias das 10h às 19h, segundo o Wikivoyage. QUANTO CUSTA: não achei preço em fonte confiável — o domínio kahkowexperience.com não resolve e o site da Kahkow nos EUA não publica a tabela de Santo Domingo. OMITI o campo preço. O QUE NÃO CONFIRMEI: preço, se a oficina precisa de reserva, idiomas do guia e se o horário de 10h-19h vale também em feriado.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-19:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 547 2166",
+      "endereco": "Calle Las Damas 102, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Bom programa de meio da tarde com criança, e fica na mesma rua da Fortaleza Ozama e do Panteón: dá para encaixar sem deslocamento.",
+      "Bom programa de meio da tarde com criança, e fica na mesma rua da Fortaleza Ozama e do Panteón: dá para encaixar sem deslocamento."
+    ],
+    "alertas": [
+      "Sem preço confirmado. Pergunte na bilheteria antes de entrar.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-o-colmado-o-bar-de-esquina-dominicano",
+    "fontes": [
+      {
+        "url": "https://www.dominicancooking.com/dominican-colmado"
+      },
+      {
+        "url": "https://www.offbeattravel.com/blog/bayahibe-guide"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "O colmado: o bar de esquina dominicano",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "colmado",
+      "cerveja",
+      "vida-noturna",
+      "domino",
+      "barato",
+      "vida-de-rua"
+    ],
+    "descricaoCurta": "A venda de esquina que também é bar, ponto de encontro e caixa de som do bairro. Entender o colmado é entender onde o dominicano bebe.",
+    "descricaoLonga": "O colmado é a instituição social dominicana mais fácil de encontrar e a mais fácil de ignorar. A palavra vem de 'colmar', encher até a borda, e descreve o estoque: de tudo, em quantidade mínima. Você compra um ovo, um pedaço de queijo, 'três pesos de óleo', e o dono anota numa caderneta se você for do bairro. Mas o colmado é também o bar: porta de ferro aberta de três quartos, mesinhas de metal e cadeiras na calçada, cerveja Presidente numa caixa de isopor, dominó na mesa e música em volume que não pede licença. Em Bayahibe, um guia local chega a dizer que 'El Colmadón' é parada obrigatória justamente por isso — música dominicana e caribenha alta e nenhuma concessão a turista. COMO USAR: chegue, peça 'una Presidente grande' no balcão, sente na mesa de fora. Não existe serviço de mesa nem cardápio. A grande da Presidente é para compartilhar e vem num isopor ou enrolada em papel — 'cerveza vestida de novia' é quando ela vem tão gelada que forma crosta de gelo. QUANTO CUSTA: NÃO registrei preço. As fontes que abri descrevem o colmado culturalmente e não publicam tabela, e o preço da Presidente varia por bairro e por ano. Campo preço OMITIDO de propósito. ETIQUETA: não é lugar de bebedeira de turista; é a sala de estar do bairro. O QUE NÃO CONFIRMEI: qualquer preço, e horários (colmado abre cedo e fecha quando esvazia).",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Sem serviço de mesa nem cardápio.",
+        "Em bairro residencial à noite, chegue e volte de carro de aplicativo."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: a cerveja mais barata e a conversa mais real do país estão na mesa de plástico de um colmado.",
+      "Peça 'grande' e divida: é como se bebe Presidente aqui.",
+      "Vale cada peso: a cerveja mais barata e a conversa mais real do país estão na mesa de plástico de um colmado.",
+      "Peça 'grande' e divida: é como se bebe Presidente aqui."
+    ],
+    "alertas": [
+      "Nenhum preço registrado: varia por bairro. Pergunte antes de pedir.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-lulu-tasting-bar-parque-billini-zona-colonial",
+    "fontes": [
+      {
+        "url": "https://www.enprimeurclub.com/bars/lulu-tasting-bar-santo-domingo-bar"
+      },
+      {
+        "url": "https://www.cliffandcove.com/blog/happy-hour-guide-in-santo-domingo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Lulú Tasting Bar (Parque Billini, Zona Colonial)",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "drinks",
+      "tapas",
+      "vinho",
+      "cerveja",
+      "charuto",
+      "zona-colonial",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Casarão colonial com pátio espanhol e adega no Parque Billini: coquetéis, tapas, vinho e charuto. O bar de fim de tarde da Zona Colonial.",
+    "descricaoLonga": "Fica no Parque Billini, na Zona Colonial, num casarão colonial com pátio espanhol no centro e uma 'cava' com carta extensa de vinhos e destilados. O público é de fim de expediente: coquetel, charuto e pratinhos para compartilhar — carpaccio de polvo, cordeiro saltado ao estilo peruano. Há mesas na praça histórica, que é o motivo principal de vir. QUANTO CUSTA: nenhuma fonte que abri publica a carta com preços desta casa. OMITI o campo preço. Como escala de bairro, um guia de happy hour de Santo Domingo registra coquetéis 2x1 a partir de RD$400 no Onno's da Calle Hostos 157, na mesma Zona Colonial — isso é de OUTRA casa e não entrou no campo preço. PROMOÇÃO: uma fonte menciona 50% de desconto com cartão American Express das 18h às 21h todos os dias (garrafas excluídas) e brunch de domingo com mimosas livres — NÃO confirmei isso em canal oficial e trato como pista. O QUE NÃO CONFIRMEI: horário, telefone, site, preço e coordenadas (o Nominatim não devolveu o estabelecimento).",
+    "duracao": {
+      "min": 60,
+      "tipica": 100,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Parque Billini, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mesas na praça: chuva tira o melhor do lugar."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "É o bar certo para a primeira noite na Zona Colonial: você senta na praça, bebe bem e decide o resto da noite dali.",
+      "É o bar certo para a primeira noite na Zona Colonial: você senta na praça, bebe bem e decide o resto da noite dali."
+    ],
+    "alertas": [
+      "Sem carta de preços confirmada. Pergunte o valor do coquetel antes de pedir, e lembre dos 18% de ITBIS e 10% de propina legal.",
+      "A promoção de 50% com Amex vem de fonte secundária e pode ter acabado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-callejero-tap-room-la-cacata-brewing-a-fuga-da-presi",
+    "fontes": [
+      {
+        "url": "https://www.cliffandcove.com/blog/happy-hour-guide-in-santo-domingo"
+      },
+      {
+        "url": "https://www.goodbeerhunting.com/b-roll-blog/2021/8/30/no-608"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Callejero Tap Room (La Cacata Brewing) — a fuga da Presidente",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria",
+      "cerveja",
+      "cerveja-artesanal",
+      "happy-hour",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "O taproom da La Cacata, cervejaria artesanal dominicana que usa cacau, chinola e guavaberry. Happy hour 2x1 de segunda a sexta, 16h-19h.",
+    "descricaoLonga": "Na República Dominicana, 'cerveja' quer dizer Presidente — a marca nasceu numa fábrica fundada em Santiago em 1935 e domina o mercado de um jeito quase total. A La Cacata Brewing Company é a resposta artesanal mais citada: o nome é de uma tarântula local, o lema é 'beer with an attitude' e as receitas usam ingredientes caribenhos de verdade (cacau, chinola/maracujá, guavaberry), além de kölsch, session IPA e cervejas de trigo com fruta. A casa própria é o Callejero Tap Room, na Calle Manuel Flores Cabrera, bairro La Fe, ao lado do Estádio Quisqueya — ou seja, FORA da Zona Colonial, uns 15 a 20 minutos de carro. Tem pátio no andar de cima e cozinha de asinha e pizza. HAPPY HOUR: segunda a sexta, 16h às 19h, com cerveja 2x1 (duas fontes independentes concordam). QUANTO CUSTA: nenhuma das fontes publica o preço do copo — OMITI o campo. Se você quer artesanal mais perto do centro, a mesma fonte cita o Gallo Pelón Brew Pub, em Piantini, com 2x1 em artesanal local de segunda a sexta das 17h às 20h. O QUE NÃO CONFIRMEI: telefone, site, horário de funcionamento fora do happy hour, preço, coordenadas.",
+    "duracao": {
+      "min": 60,
+      "tipica": 100,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "16:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "16:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "16:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "16:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "16:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "16:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Manuel Flores Cabrera, La Fe (ao lado do Estádio Quisqueya), Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica fora da Zona Colonial: 15 a 20 minutos de carro.",
+        "O horário registrado começa no happy hour; a abertura real pode ser mais cedo."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se você já cansou da Presidente na terceira noite, este é o endereço que resolve — e o 2x1 das 16h às 19h é o melhor custo de bebida que confirmei na cidade.",
+      "Se você já cansou da Presidente na terceira noite, este é o endereço que resolve — e o 2x1 das 16h às 19h é o melhor custo de bebida que confirmei na cidade."
+    ],
+    "alertas": [
+      "O HORÁRIO registrado (16h-23h) é derivado do happy hour: só a janela 16h-19h está confirmada por fonte. O fechamento às 23h é aproximação minha.",
+      "Sem preço do copo confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-onno-s-zona-colonial-calle-hostos",
+    "fontes": [
+      {
+        "url": "https://www.cliffandcove.com/blog/happy-hour-guide-in-santo-domingo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Onno's Zona Colonial (Calle Hostos)",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "drinks",
+      "happy-hour",
+      "zona-colonial",
+      "vida-noturna",
+      "cerveja"
+    ],
+    "descricaoCurta": "Bar da Calle Hostos 157, na Zona Colonial, com happy hour todos os dias das 17h às 19h: coquetéis 2x1 a partir de RD$400.",
+    "descricaoLonga": "Fica na Calle Hostos 157, a mesma rua das Ruinas de San Francisco e do Mesón de Bari — ou seja, dentro do eixo que você já vai andar a pé. É um bar de rua com mesas fora, aberto à noite, do mesmo nome da casa de Bayahibe e de Cabarete. O dado útil é o happy hour: TODOS OS DIAS das 17h às 19h, com coquetéis 2x1 a partir de RD$400, segundo guia local de happy hour. QUANTO CUSTA: RD$400 é o piso do coquetel na promoção 2x1 — ou seja, dois drinques por RD$400. Sobre isso entram 18% de ITBIS e 10% de propina legal, cerca de 28% a mais, como a própria fonte avisa. QUANDO IR: 17h, para pegar o happy hour antes do jantar. O QUE NÃO CONFIRMEI: horário de abertura e fechamento completos, telefone, site e coordenadas.",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 400,
+      "max": 400,
+      "por": "pessoa",
+      "inclui": "coquetel no happy hour 2x1 (dois drinques); nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Piso de RD$400 para coquetel na promoção 2x1, segundo guia local de happy hour. Fonte única e sem data declarada. Não é a carta completa: é o preço de entrada da promoção."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Hostos #157, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso entre 17h e 19h e só nesse horário: fora do happy hour é bar de rua comum em rua turística.",
+      "Vale cada peso entre 17h e 19h e só nesse horário: fora do happy hour é bar de rua comum em rua turística."
+    ],
+    "alertas": [
+      "O preço de RD$400 NÃO inclui os 18% de ITBIS nem os 10% de propina legal: a conta fecha cerca de 28% acima.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-107-rooftop-piantini-e-os-rooftops-de-santo-domingo",
+    "fontes": [
+      {
+        "url": "https://www.cliffandcove.com/blog/happy-hour-guide-in-santo-domingo"
+      },
+      {
+        "url": "https://billinihotel.com/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "107 Rooftop (Piantini) e os rooftops de Santo Domingo",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "rooftop",
+      "drinks",
+      "coquetel",
+      "vista",
+      "vida-noturna",
+      "piantini"
+    ],
+    "descricaoCurta": "Rooftop na Avenida Winston Churchill com 2x1 em coquetéis e sangria livre a RD$950 nas quartas. O rooftop com preço confirmado da cidade.",
+    "descricaoLonga": "A Zona Colonial tem rooftops bonitos — o do Billini Hotel, por exemplo, com piscina de borda infinita virada para os telhados coloniais — mas nenhum deles publica preço nem horário de acesso para quem não é hóspede, e eu não vou inventar. O rooftop cujos números eu CONSEGUI confirmar fica em Piantini, bairro moderno a 15 minutos de carro da Zona Colonial: o 107 Rooftop, no Homewood Suites by Hilton, Avenida Winston Churchill 107. HAPPY HOUR: segunda, terça e sexta das 18h às 19h30; quarta e quinta das 18h30 às 21h, com 2x1 em coquetéis selecionados. QUARTA: 'all you can drink' de sangria a RD$950. QUANTO CUSTA: RD$950 pela sangria livre da quarta é o único valor publicado; o resto é 2x1 sem preço de base. Sobre tudo entram 18% de ITBIS e 10% de propina legal. SOBRE O BILLINI: o site oficial do hotel confirma a existência do 'Moon Restaurant & Bar' e de 'experiências de rooftop com vista panorâmica da Ciudad Colonial', mas NÃO informa horário, preço nem se não-hóspede entra. Se o rooftop colonial é o seu programa, mande WhatsApp para o hotel antes (+1 849-867-0193, número publicado no site deles). O QUE NÃO CONFIRMEI: preço de carta do 107, horário de funcionamento fora do happy hour, acesso público ao rooftop do Billini.",
+    "duracao": {
+      "min": 60,
+      "tipica": 110,
+      "max": 200
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "18:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "18:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "18:00-23:00 | 18:30-23:59 | 18:00-23:59",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 950,
+      "max": 950,
+      "por": "pessoa",
+      "inclui": "sangria livre (all you can drink) na quarta-feira; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "RD$950 é especificamente a sangria livre das quartas no 107 Rooftop, segundo guia local de happy hour. NÃO é o preço médio de um drinque nem vale para os outros dias. Fonte única."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Homewood Suites by Hilton, Av. Winston Churchill 107, Piantini, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica em Piantini, não na Zona Colonial: 15 minutos de carro.",
+        "O horário registrado é a janela do happy hour, não o funcionamento integral."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se a quarta à noite estiver livre no roteiro, a sangria livre a RD$950 é o programa de rooftop mais barato que confirmei.",
+      "Para rooftop COM vista colonial, pergunte antes ao Billini se recebe não-hóspede: ninguém publica isso.",
+      "Se a quarta à noite estiver livre no roteiro, a sangria livre a RD$950 é o programa de rooftop mais barato que confirmei.",
+      "Para rooftop COM vista colonial, pergunte antes ao Billini se recebe não-hóspede: ninguém publica isso."
+    ],
+    "alertas": [
+      "Os horários registrados são as janelas de happy hour; o fechamento é aproximação minha.",
+      "O rooftop do Billini NÃO tem horário, preço nem política de acesso público confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-mamajuana-a-garrafa-de-pau-da-zona-colonial",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/cine/de-remedio-casero-a-atractivo-turistico-la-mamajuana-en-el-corazon-de-la-zona-colonial-9330391.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Punta_Cana"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mamajuana: a garrafa de pau da Zona Colonial",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "rum",
+      "mamajuana",
+      "zona-colonial",
+      "souvenir",
+      "bebida-tipica"
+    ],
+    "descricaoCurta": "A bebida nacional de rum, vinho e mel curtido em cascas e raízes, vendida por ambulantes licenciados em frente ao Altar de la Patria. RD$200 a RD$1.500.",
+    "descricaoLonga": "Mamajuana é rum, vinho tinto e mel fermentados na própria garrafa com galhos e raízes de bejuco por cerca de seis meses — algumas versões ficam até um ano. A fama é de afrodisíaca, mas a origem é de remédio caseiro taíno-mestiço, e o produto só virou negócio turístico recentemente. ONDE COMPRAR: na Zona Colonial há cerca de 14 vendedores ambulantes organizados pela prefeitura, concentrados em frente ao ALTAR DE LA PATRIA (Parque Independencia, no fim da Calle El Conde). Também se encontra em aeroporto, shopping e hotel — mais caro. QUANTO CUSTA: RD$200 na garrafa pequena de mala e de RD$500 a RD$1.500 nas maiores, conforme o tamanho, segundo reportagem de abril de 2024. Esse é um dos poucos preços em peso bem datados desta onda. COMO BEBER: puro, em dose pequena, ou com a garrafa 'recarregada' — compra-se a garrafa com os paus dentro e vai-se repondo rum e vinho em casa. ARMADILHA: âmbar e charuto falsos são o golpe clássico da Zona Colonial e mamajuana engarrafada industrialmente em loja de aeroporto é a versão caipira do mesmo problema. Comprar do ambulante licenciado em frente ao Altar é mais barato e mais honesto. O QUE NÃO CONFIRMEI: se os 14 vendedores e a organização pela prefeitura seguem iguais em 2026 (a fonte é de abril de 2024) e se há limite de transporte aéreo para a garrafa com os paus dentro.",
+    "duracao": {
+      "min": 15,
+      "tipica": 25,
+      "max": 45
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 200,
+      "max": 1500,
+      "por": "pessoa",
+      "inclui": "garrafa de mamajuana; RD$200 na pequena de mala, RD$500 a RD$1.500 nas maiores",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Preços publicados por reportagem do Acento em 22/04/2024. Fonte única mas datada e local. Valores de ambulante na Zona Colonial — aeroporto e hotel cobram mais."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Em frente ao Altar de la Patria, Parque Independencia, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bebida alcoólica: confira a franquia de bagagem antes de comprar garrafa grande."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "pega-turista",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso comprar do ambulante em frente ao Altar de la Patria em vez de pagar o dobro no free shop.",
+      "Peça a pequena de RD$200 primeiro: se você não gostar do sabor (é amargo e medicinal), não perdeu nada.",
+      "Vale cada peso comprar do ambulante em frente ao Altar de la Patria em vez de pagar o dobro no free shop.",
+      "Peça a pequena de RD$200 primeiro: se você não gostar do sabor (é amargo e medicinal), não perdeu nada."
+    ],
+    "alertas": [
+      "Preço de 2024: pode ter subido.",
+      "Garrafa 'artesanal' de loja de aeroporto custa várias vezes mais pelo mesmo produto.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-ferro-cafe-plaza-dorada-orquestra-ao-vivo-em-noite-d",
+    "fontes": [
+      {
+        "url": "https://www.diariolibre.com/revista/buena-vida/2022/03/31/lugares-para-bailar-en-santo-domingo/1726119"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Ferro Café (Plaza Dorada) — orquestra ao vivo em noite de semana",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "merengue",
+      "drinks",
+      "vida-noturna",
+      "tropical"
+    ],
+    "descricaoCurta": "Bar da Plaza Dorada que abre todos os dias às 17h e põe orquestra tropical ao vivo nas quintas e sábados.",
+    "descricaoLonga": "Fica na Manuel de Jesús Troncoso, Plaza Dorada, nos bairros modernos a nordeste da Zona Colonial (uns 15 a 20 minutos de carro). Abre diariamente às 17h e o motivo de estar nesta lista é a programação: orquestra ao vivo de música tropical nas QUINTAS e nos SÁBADOS, segundo matéria do Diario Libre sobre os lugares para dançar em Santo Domingo. Isso resolve um problema real do viajante: achar merengue tocado por banda e não por DJ numa noite que não seja de fim de semana. QUANTO CUSTA: a matéria NÃO publica preço de entrada nem de bebida, e nenhuma outra fonte que abri publica. OMITI o campo preço. O QUE NÃO CONFIRMEI: preço, se há cover nas noites de orquestra, telefone, horário de fechamento e coordenadas. A matéria é de 31 de março de 2022 — mais de quatro anos: a programação pode ter mudado. Ligue ou cheque a rede social da casa antes de atravessar a cidade.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "17:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "17:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Manuel de Jesús Troncoso, Plaza Dorada, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica fora da Zona Colonial: 15 a 20 minutos de carro.",
+        "A orquestra é só quinta e sábado."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você quer merengue com orquestra numa quinta-feira, este é o endereço que a imprensa local aponta.",
+      "Se você quer merengue com orquestra numa quinta-feira, este é o endereço que a imprensa local aponta."
+    ],
+    "alertas": [
+      "FONTE DE 2022, mais de 4 anos: confirme a programação de orquestra antes de ir.",
+      "Sem preço nem informação sobre cover.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-desfile-nacional-de-carnaval-malecon-de-santo-doming",
+    "fontes": [
+      {
+        "url": "https://presidencia.gob.do/noticias/desfile-nacional-de-carnaval-2026-contara-con-amplio-operativo-de-seguridad-en-el-malecon"
+      },
+      {
+        "url": "https://www.elcaribe.com.do/gente/a-y-e/desfile-nacional-del-carnaval-sera-23-de-marzo-en-el-malecon/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Malecon%20Avenida%20George%20Washington%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Desfile Nacional de Carnaval (Malecón de Santo Domingo)",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "festa-de-rua",
+      "desfile",
+      "malecon",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 18.4584798,
+      "lng": -69.9099167
+    },
+    "descricaoCurta": "O desfile que junta os grupos de carnaval de todo o país num domingo de março, no Malecón. Em 2026 foi em 15 de março.",
+    "descricaoLonga": "É o fechamento nacional do carnaval dominicano: os grupos das comparsas de todo o país — diablos cojuelos de La Vega, lechones de Santiago, Ali Babá de Santiago, roba la gallina, Califé — desfilam num domingo, no Malecón de Santo Domingo. ONDE: Avenida George Washington, entre a Avenida Máximo Gómez e a Calle Palo Hincado, com fechamento que se estende até a Avenida Abraham Lincoln (dado da Presidência da República). QUEM ORGANIZA: Ministerio de Cultura. QUANDO: em 2026 foi no DOMINGO 15 DE MARÇO. Historicamente a data varia entre o fim de fevereiro e o fim de março (2020 foi em 8 de março, outro ano foi em 23 de março), e isso quer dizer uma coisa prática: NÃO existe data fixa, é anúncio anual do Ministerio de Cultura. PARA 2027 E 2028 a data não está publicada. QUANTO CUSTA: nenhuma fonte oficial menciona ingresso, arquibancada ou palco pago; assistir da rua é livre. OMITI o campo preço. SEGURANÇA: em 2026 o governo mobilizou mais de 900 agentes militares e policiais e mais de 300 de agências de emergência — é evento de multidão grande, trate como tal (ver o cartão de segurança do Malecón nesta base). COMO CHEGAR: o Malecón fica a sul de Gazcue; no dia a avenida está fechada, então chegue a pé pelo entorno ou desça do carro longe.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://presidencia.gob.do/noticias/desfile-nacional-de-carnaval-2026-contara-con-amplio-operativo-de-seguridad-en-el-malecon",
+      "endereco": "Avenida George Washington (Malecón), entre Av. Máximo Gómez e Calle Palo Hincado, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Data móvel, anunciada anualmente pelo Ministerio de Cultura.",
+        "A avenida é fechada ao trânsito: planeje a chegada a pé."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel"
+    ],
+    "dicas": [
+      "Se você quer ver o carnaval dominicano INTEIRO num só dia, é este; se quer ver o melhor de um lugar só, é La Vega.",
+      "Chegue cedo e fique do lado da sombra: o desfile é à tarde e o Malecón não tem árvore.",
+      "Se você quer ver o carnaval dominicano INTEIRO num só dia, é este; se quer ver o melhor de um lugar só, é La Vega.",
+      "Chegue cedo e fique do lado da sombra: o desfile é à tarde e o Malecón não tem árvore."
+    ],
+    "alertas": [
+      "DATA MÓVEL E NÃO PUBLICADA PARA 2027/2028. Confirme com o Ministerio de Cultura a partir de fevereiro.",
+      "Nenhuma fonte informa o horário de início — só o dia."
+    ]
+  },
+  {
+    "id": "do-sdq-carnaval-de-santiago-e-os-lechones-bate-volta-de-san",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/cultura/alcaldia-de-santiago-lanza-oficialmente-el-carnaval-de-santiago-2026-9614239.html"
+      },
+      {
+        "url": "https://acento.com.do/cultura/alcaldia-de-santiago-entrega-recursos-a-grupos-de-lechones-para-el-carnaval-de-santiago-2026-9606267.html"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Parque%20Duarte%2C%20Santiago%20de%20los%20Caballeros&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Carnaval de Santiago e os lechones — bate-volta de Santo Domingo",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "festa-de-rua",
+      "lechones",
+      "santiago",
+      "bate-volta"
+    ],
+    "coords": {
+      "lat": 19.4508651,
+      "lng": -70.7065057
+    },
+    "descricaoCurta": "Os lechones de Santiago — joyeros de chifre liso, pepineros de chifre espinhoso — desfilam nos domingos de fevereiro no Parque Central. Em 2026: 8 de fevereiro a 1º de março.",
+    "descricaoLonga": "BATE-VOLTA: Santiago de los Caballeros fica a cerca de 2 a 2h30 de carro de Santo Domingo pela Autopista Duarte. Se você está em Jarabacoa, é mais perto (cerca de 1 hora). O QUE É: o carnaval de Santiago tem a sua própria máscara, o LECHÓN, e a sua própria divisão de bairro. Os lechones joyeros (do bairro La Joya) têm chifre LISO; os pepineros (de Los Pepines) têm chifre com espinhos pequenos. A rivalidade entre as duas facções é a espinha dorsal da festa. QUANDO: a edição de 2026 correu de 8 de fevereiro a 1º de março, com desfiles nos domingos de fevereiro e o desfile oficial de encerramento em 1º de março, tendo o Parque Central de Santiago como palco principal. A prefeitura entregou RD$2.337.500 de contribuição inicial aos grupos de lechones em 2026, num total de RD$6.800.000 no período — dado que mostra a escala institucional da festa. QUANTO CUSTA: a reportagem de lançamento NÃO divulga preço de ingresso. Assistir da rua é livre. OMITI o campo preço. PARA 2027 E 2028: sem data publicada; o padrão é domingos de fevereiro com encerramento no primeiro domingo de março. SEGURANÇA: em 2026 foram mobilizados 800 policiais. Multidão grande, bolso vazio. COMBINE COM: o Monumento a los Héroes de la Restauración e o Centro León, que ficam na mesma cidade e estão nesta base.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Parque Central, Santiago de los Caballeros"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só em fevereiro e no primeiro domingo de março.",
+        "Bate-volta de 2 a 2h30 por trecho de Santo Domingo: considere dormir em Santiago no dia do desfile."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você já vai a Santiago pelo Centro León, veja se a data cai em domingo de fevereiro: o mesmo dia rende museu de manhã e lechones à tarde.",
+      "Pergunte a um morador se ele é joyero ou pepinero. A resposta explica a cidade.",
+      "Se você já vai a Santiago pelo Centro León, veja se a data cai em domingo de fevereiro: o mesmo dia rende museu de manhã e lechones à tarde.",
+      "Pergunte a um morador se ele é joyero ou pepinero. A resposta explica a cidade."
+    ],
+    "alertas": [
+      "DATAS DE 2027/2028 NÃO PUBLICADAS.",
+      "2 a 2h30 de carro por trecho de Santo Domingo: voltar de noite depois do desfile é longo. Avalie dormir em Santiago."
+    ]
+  },
+  {
+    "id": "do-sdq-festival-del-merengue-y-ritmos-caribenos-malecon-de",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://ich.unesco.org/es/RL/la-musica-y-el-baile-del-merengue-en-la-republica-dominicana-01162"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Plaza%20Juan%20Baron%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Festival del Merengue y Ritmos Caribeños (Malecón de Santo Domingo)",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "merengue",
+      "festival",
+      "musica-ao-vivo",
+      "malecon",
+      "bachata",
+      "salsa"
+    ],
+    "coords": {
+      "lat": 18.4647266,
+      "lng": -69.8928506
+    },
+    "descricaoCurta": "O festival de merengue da capital, na Plaza Juan Barón do Malecón: noites de orquestra, DJ na abertura e fogos no fim. Costuma ser do fim de julho ao começo de agosto.",
+    "descricaoLonga": "É o festival que o Estado dominicano usa para exportar a sua própria música. Organizado pelo Ministerio de Turismo junto com a Brugal, acontece na PLAZA JUAN BARÓN, no Malecón de Santo Domingo, com palco grande, orquestras de merengue, bachata, salsa e outros ritmos caribenhos, DJ abrindo cada noite e queima de fogos no encerramento. QUANDO: o padrão histórico é a última semana de julho e começo de agosto — o Wikivoyage registra 26 a 31 de julho e descreve os shows como gratuitos. ATENÇÃO: eu NÃO consegui confirmar as datas de 2026, 2027 nem 2028 em fonte oficial. A edição também já migrou de mês e de cidade em alguns anos (houve edição em Puerto Plata em setembro e em Bávaro em outubro), o que significa que a data NÃO é estável. QUANTO CUSTA: os shows do Malecón são descritos como gratuitos por fonte independente, mas eu não achei confirmação do Ministerio de Turismo. OMITI o campo preço em vez de registrar zero. CONTEXTO: o merengue entrou na lista de Patrimônio Cultural Imaterial da Humanidade da UNESCO em 2016, e a própria ficha da UNESCO menciona que os festivais anuais de Santo Domingo e Puerto Plata são parte do que sustenta a tradição. O QUE NÃO CONFIRMEI: datas de 2026-2028, horário das noites, line-up, e se continua gratuito.",
+    "duracao": {
+      "min": 180,
+      "tipica": 270,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Plaza Juan Barón, Malecón (Av. George Washington), Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Data móvel e não publicada: não planeje a viagem em torno dela sem confirmação."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "Se a viagem cair no fim de julho, vale checar no Ministerio de Turismo se o festival está no Malecón naquele ano — é merengue de orquestra grande e de graça.",
+      "Não construa o roteiro em volta dessa data: ela se move de mês e de cidade.",
+      "Se a viagem cair no fim de julho, vale checar no Ministerio de Turismo se o festival está no Malecón naquele ano — é merengue de orquestra grande e de graça.",
+      "Não construa o roteiro em volta dessa data: ela se move de mês e de cidade."
+    ],
+    "alertas": [
+      "DATAS NÃO CONFIRMADAS para nenhum ano futuro. O festival já mudou de mês e de cidade.",
+      "A gratuidade vem de fonte secundária, não do Ministerio de Turismo."
+    ]
+  },
+  {
+    "id": "do-sdq-el-sarten-calle-hostos-onde-se-danca-merengue-de-ver",
+    "fontes": [
+      {
+        "url": "https://www.diariolibre.com/revista/buena-vida/2022/03/31/lugares-para-bailar-en-santo-domingo/1726119"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://ich.unesco.org/es/RL/la-bachata-musica-y-baile-tradicional-dominicano-01514"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Sartén (Calle Hostos) — onde se dança merengue de verdade",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "merengue",
+      "bachata",
+      "salsa",
+      "baile",
+      "son",
+      "zona-colonial",
+      "musica-ao-vivo"
+    ],
+    "descricaoCurta": "Salão de baile na Calle Hostos 153, aberto de quarta a domingo a partir das 18h: salsa, son, bachata e merengue, com gente de todas as idades dançando.",
+    "descricaoLonga": "É a casa que resolve o problema central deste destino: onde um estrangeiro vê dominicanos dançando merengue e bachata sem estar num show montado para turista. Fica na Calle Hostos 153, na Zona Colonial, a poucos metros das Ruinas de San Francisco. ABRE de quarta a domingo a partir das 18h, com karaokê nas quartas; os gêneros são salsa, son, bachata e merengue. A descrição que a imprensa e os guias dão é consistente: pista com gente de todas as idades e de todas as classes, muitos deles dançarinos de verdade, num salão sem glamour. QUANTO CUSTA: nenhuma fonte publica cover nem preço de bebida. OMITI o campo preço. CONTEXTO: merengue é Patrimônio Cultural Imaterial da UNESCO desde 2016 e bachata desde 2019 — e o que a ficha da UNESCO diz é que ambos se aprendem 'por observação, participação e imitação', desde criança. Uma noite no Sartén é exatamente isso em funcionamento. ETIQUETA: se você não sabe dançar, fique na beira e observe; se alguém chamar, aceite e avise que não sabe. O QUE NÃO CONFIRMEI: preço, horário de fechamento, se há cover, e as coordenadas (o Nominatim não devolveu o estabelecimento).",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": "fechado",
+      "qua": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 18:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 686 9621",
+      "endereco": "Calle Hostos 153, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda e terça.",
+        "Não é casa de show: é salão de baile. Quem não dança assiste."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: é o lugar mais honesto desta base para ouvir e ver merengue e bachata.",
+      "Vá numa quinta ou domingo, não na sexta: menos turista, mais pista.",
+      "Vale cada peso: é o lugar mais honesto desta base para ouvir e ver merengue e bachata.",
+      "Vá numa quinta ou domingo, não na sexta: menos turista, mais pista."
+    ],
+    "alertas": [
+      "Sem preço nem cover confirmados.",
+      "O fechamento registrado (23h59) é aproximação: as fontes só dão a abertura às 18h.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-jet-set-club-a-segunda-feira-de-orquestra-de-santo-d",
+    "fontes": [
+      {
+        "url": "https://www.diariolibre.com/revista/buena-vida/2022/03/31/lugares-para-bailar-en-santo-domingo/1726119"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Jet%20Set%20Club%20Santo%20Domingo&format=json&limit=2&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Jet Set Club — a segunda-feira de orquestra de Santo Domingo",
+    "cidadeId": "santo-domingo",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "merengue",
+      "salsa",
+      "bachata",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "orquestra"
+    ],
+    "descricaoCurta": "Casa clássica da Avenida Independencia com orquestras ao vivo: a 'Lunes de Jet Set' é a noite de merengue de orquestra mais conhecida da cidade.",
+    "descricaoLonga": "Fica na Avenida Independencia, km 6 — fora do centro histórico, uns 15 a 20 minutos de carro da Zona Colonial. É casa de música tropical com orquestras locais e internacionais, e o programa que a tornou famosa é a 'LUNES DE JET SET': noite de segunda-feira com orquestra ao vivo, instituição da vida noturna da capital. Abre nas SEGUNDAS, SEXTAS e SÁBADOS a partir das 21h, com desconto em bebidas nas sextas e sábados entre 21h e 23h30, segundo matéria do Diario Libre. Os gêneros são merengue, salsa e bachata tocados por banda, não por DJ. QUANTO CUSTA: a matéria NÃO publica preço de entrada nem de bebida, e eu não achei em nenhum outro lugar. OMITI o campo preço. ATENÇÃO À DATA DA FONTE: a matéria é de 31 de março de 2022 — mais de quatro anos. Para uma casa noturna, isso é muito tempo: confirme por telefone ou rede social antes de atravessar a cidade. O QUE NÃO CONFIRMEI: preço, se continua operando, telefone, site e coordenadas (o Nominatim não devolveu o estabelecimento).",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 330
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "21:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Independencia, km 6, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Abre só segunda, sexta e sábado.",
+        "Fica fora do centro histórico: 15 a 20 minutos de carro."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se o seu roteiro tem uma segunda-feira solta em Santo Domingo, esta é a única noite de orquestra que a imprensa local destaca para esse dia.",
+      "Se o seu roteiro tem uma segunda-feira solta em Santo Domingo, esta é a única noite de orquestra que a imprensa local destaca para esse dia."
+    ],
+    "alertas": [
+      "FONTE DE 2022, mais de 4 anos. Casa noturna muda rápido: confirme antes de ir.",
+      "Sem preço de entrada confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-sdq-casa-de-teatro-zona-colonial",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/cultura/acento-cultural-46-9687098.html"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://www.uber.com/es-DO/blog/teatros-santo-domingo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Casa de Teatro (Zona Colonial)",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "musica-ao-vivo",
+      "jazz",
+      "trova",
+      "son",
+      "teatro",
+      "bolero"
+    ],
+    "descricaoCurta": "Centro de artes num casarão colonial da Arzobispo Meriño: noites de trova, jazz, son e bolero, mais teatro e exposição. Programação muda toda semana.",
+    "descricaoLonga": "Fica na Calle Arzobispo Meriño 110, na Zona Colonial, num casarão colonial, e é uma das instituições de artes cênicas mais respeitadas do país — espaço de música, dança, poesia e design, não de balada. O que interessa aqui: as noites de TROVA, JAZZ e SON, que são onde se escuta a música dominicana que não é merengue de festa. A programação é semanal e muda: nas agendas culturais dominicanas que abri, a Casa de Teatro aparecia com temporada de teatro contemporâneo (três noites às 20h30) na semana de 28 de maio a 3 de junho de 2026, e as mesmas agendas registram shows de jazz e música ao vivo em outras semanas. COMO SABER O QUE TEM: não existe calendário público estável que eu tenha conseguido abrir. Ligue para o 809-689-3430 ou veja a rede social da casa na semana da sua viagem. QUANTO CUSTA: nenhuma fonte publica preço de ingresso — e os preços variam por espetáculo. OMITI o campo preço. COMO CHEGAR: a pé, dentro da Zona Colonial. O QUE NÃO CONFIRMEI: horário de bilheteria, preço dos ingressos, calendário fixo de jazz e as coordenadas (o Nominatim não devolveu o estabelecimento).",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "telefone": "+1 809 689 3430",
+      "endereco": "Calle Arzobispo Meriño 110, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Programação variável: pode não ter nada no dia em que você está na cidade."
+      ]
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Ligue na semana da viagem: a programação é o produto, e ela muda toda semana.",
+      "É o endereço para ouvir bolero, trova e son — o lado da música dominicana que não cabe num show de resort.",
+      "Ligue na semana da viagem: a programação é o produto, e ela muda toda semana.",
+      "É o endereço para ouvir bolero, trova e son — o lado da música dominicana que não cabe num show de resort."
+    ],
+    "alertas": [
+      "Sem preço de ingresso confirmado e sem calendário público estável. Sem ligar antes, você pode chegar e não ter espetáculo.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-aula-de-merengue-bachata-e-salsa-na-zona-colonial",
+    "fontes": [
+      {
+        "url": "https://www.civitatis.com/es/santo-domingo/clase-baile-santo-domingo/"
+      },
+      {
+        "url": "https://ich.unesco.org/es/RL/la-musica-y-el-baile-del-merengue-en-la-republica-dominicana-01162"
+      },
+      {
+        "url": "https://ich.unesco.org/es/RL/la-bachata-musica-y-baile-tradicional-dominicano-01514"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Aula de merengue, bachata e salsa na Zona Colonial",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "bachata",
+      "merengue",
+      "salsa",
+      "baile",
+      "aula",
+      "zona-colonial"
+    ],
+    "descricaoCurta": "Uma hora de aula particular de merengue, bachata ou salsa com professor local, para não ficar na parede no Sartén à noite.",
+    "descricaoLonga": "A República Dominicana é o país onde nasceram o merengue (Patrimônio Imaterial da UNESCO desde 2016) e a bachata (desde 2019), e o jeito mais eficiente de aproveitar isso é tomar uma hora de aula antes de sair à noite. HÁ DOIS CAMINHOS. (1) Aula avulsa de uma hora vendida a turista: a Civitatis vende uma aula de uma hora de merengue, salsa OU bachata, segundo o estilo escolhido, com professor que fala espanhol, inglês e francês, encontro na Calle Bartolomé Olegario Pérez 30, idade mínima 12 anos, não acessível a cadeira de rodas e NÃO reembolsável; o preço que a página me mostrou foi a partir de R$187,94 por pessoa. Registrei esse valor em BRL porque foi assim que a página apareceu para mim — não converti e não tenho o valor em peso ou dólar. (2) Academia local: a Academia de Danza Santo Domingo dá curso regular de salsa, bachata, merengue, bolero e swing criollo — mas a página que vi exibia os valores em colones costarriquenhos, o que indica erro de localização do site, e por isso NÃO registrei esse preço. O QUE NÃO CONFIRMEI: nome do professor ou da escola na opção (1), preço em DOP, horários disponíveis, e se a academia local atende aula única para visitante. DICA DE SEQUÊNCIA: aula no fim da tarde, El Sartén à noite. É o par mais útil do roteiro noturno de Santo Domingo.",
+    "duracao": {
+      "min": 60,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 188,
+      "max": 188,
+      "por": "pessoa",
+      "inclui": "uma hora de aula particular de merengue, salsa ou bachata",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "A partir de R$187,94 por pessoa, valor exibido pela Civitatis na página em português quando eu a abri. MOEDA BRL porque foi o que a página mostrou — NÃO converti para DOP nem USD e não sei o preço local."
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2,
+      "link": "https://www.civitatis.com/es/santo-domingo/clase-baile-santo-domingo/"
+    },
+    "contato": {
+      "site": "https://www.civitatis.com/es/santo-domingo/clase-baile-santo-domingo/",
+      "endereco": "Calle Bartolomé Olegario Pérez 30, Santo Domingo (ponto de encontro)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não reembolsável.",
+        "Não leva animal."
+      ],
+      "idadeMinima": 12,
+      "acessibilidade": "Não acessível a cadeira de rodas, segundo a página do operador."
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: uma hora de aula muda completamente a sua noite no Sartén ou no Jalao.",
+      "Faça a aula no primeiro ou segundo dia, não no último: o resto da viagem fica melhor.",
+      "Vale cada peso: uma hora de aula muda completamente a sua noite no Sartén ou no Jalao.",
+      "Faça a aula no primeiro ou segundo dia, não no último: o resto da viagem fica melhor."
+    ],
+    "alertas": [
+      "NÃO REEMBOLSÁVEL: não compre antes de ter o dia fechado.",
+      "O preço está em reais porque foi assim que a página me mostrou; não sei quanto custa a mesma aula comprada no local em pesos — provavelmente menos.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-semana-santa-dominicana-o-pais-fecha-e-come-habichue",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/cultura/las-tradiciones-de-semana-santa-en-rd-que-muchos-no-entienden-y-otros-ignoran-9653107.html"
+      },
+      {
+        "url": "https://acento.com.do/actualidad/hoy-21-de-enero-2026-es-feriado-nacional-en-rd-dia-de-la-virgen-de-la-altagracia-y-todos-los-feriados-confirmados-del-ano-9608338.html"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Easter"
+      },
+      {
+        "url": "https://eldia.com.do/museos-estatales-de-sd-permaneceran-abiertos-en-ss/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Semana Santa dominicana: o país fecha e come habichuelas con dulce",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "festa-de-rua",
+      "feriado",
+      "semana-santa",
+      "comida-dominicana",
+      "procissao"
+    ],
+    "descricaoCurta": "A semana em que a República Dominicana para: procissão, Vía Crucis, praia cheia e o doce de feijão que só existe nesses dias.",
+    "descricaoLonga": "Semana Santa é o feriado mais pesado do calendário dominicano, e muda a cara do país por uma semana inteira. O QUE ACONTECE: do lado religioso, Vía Crucis, Sermón de las Siete Palabras e procissões; do lado prático, milhares de famílias viajam para o interior ou para a praia, e as cidades esvaziam enquanto os balneários e rios enchem. O prato da semana é o HABICHUELAS CON DULCE — feijão vermelho cozido com leite, açúcar, batata-doce, especiarias e biscoito —, prato exclusivamente dominicano que se prepara em grande quantidade para distribuir a vizinhos e parentes e que você NÃO encontra no resto do ano. DATAS: o Viernes Santo é feriado nacional inamovível. Em 2026 caiu em 3 DE ABRIL (dado da imprensa dominicana). Para 2027 e 2028 eu calculei a partir do Domingo de Páscoa do calendário gregoriano: Páscoa em 28 DE MARÇO DE 2027 (logo Semana Santa de 22 a 28 de março e Viernes Santo em 26 de março) e Páscoa em 16 DE ABRIL DE 2028 (Semana Santa de 10 a 16 de abril, Viernes Santo em 14 de abril). ATENÇÃO: esses dois últimos vêm da tabela de datas da Páscoa, não de um decreto dominicano — o governo publica o calendário de feriados a cada ano. O QUE ISSO SIGNIFICA PARA VOCÊ: praia e rio lotados, preço de hospedagem alto, estrada perigosa, museus estatais abertos com programação especial (o Ministerio de Cultura costuma anunciar isso), e muitos restaurantes e lojas fechados na sexta-feira. QUANTO CUSTA: nada — é um feriado, não um evento com bilheteria. OMITI o campo preço.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Hospedagem mais cara e lotada em toda a costa.",
+        "Muitos comércios fechados na Sexta-feira Santa.",
+        "Trânsito intenso nas estradas de saída das cidades."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você pode escolher, NÃO viaje à República Dominicana na Semana Santa: é a semana mais cara, mais cheia e mais perigosa na estrada do ano.",
+      "Se já estiver lá, peça habichuelas con dulce em qualquer lugar: é a única semana do ano em que existe.",
+      "Se você pode escolher, NÃO viaje à República Dominicana na Semana Santa: é a semana mais cara, mais cheia e mais perigosa na estrada do ano.",
+      "Se já estiver lá, peça habichuelas con dulce em qualquer lugar: é a única semana do ano em que existe."
+    ],
+    "alertas": [
+      "As datas de 2027 (22 a 28 de março) e 2028 (10 a 16 de abril) foram DERIVADAS da tabela de Páscoa do calendário gregoriano, não de fonte dominicana oficial. Confirme no calendário de feriados publicado pelo governo para o ano da viagem.",
+      "Semana de pico: reserve hospedagem com meses de antecedência ou mude a data.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-calle-las-damas-a-primeira-rua-das-americas",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Calle_Las_Damas"
+      },
+      {
+        "url": "https://www.revistamercado.do/actualidad/museos-historia-rd"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Calle%20Las%20Damas%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Calle Las Damas — a primeira rua das Américas",
+    "cidadeId": "santo-domingo",
+    "categoria": "atracao",
+    "tags": [
+      "zona-colonial",
+      "historico",
+      "unesco",
+      "colonial",
+      "arquitetura",
+      "caminhada",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 18.4740342,
+      "lng": -69.8827362
+    },
+    "descricaoCurta": "A primeira rua traçada no continente americano, aberta por Nicolás de Ovando por volta de 1511. Em 400 metros estão quatro dos monumentos da cidade.",
+    "descricaoLonga": "É a rua mais antiga das Américas e, melhor, é a caminhada mais eficiente da Zona Colonial: tudo está em linha. Foi traçada pelo governador Nicolás de Ovando durante o seu mandato, indo da Fortaleza Ozama até a área do Alcázar, por volta de 1511, e chamava-se 'Calle de la Fortaleza'; em 1659 o cabildo a rebatizou 'Calle Colón', mas o apelido popular venceu — 'Las Damas' porque as damas da corte do vice-reinado passeavam ali no fim do dia. As famílias Oviedo, Dávila e Heredia ergueram ali as suas casas. O QUE ESTÁ NELA, de sul para norte: a Fortaleza Ozama e a Torre del Homenaje, o Panteón Nacional (antiga igreja dos jesuítas), o Museo de las Casas Reales, a Casa de Hernán Cortés (hoje Embaixada da França) e o Hotel Nicolás de Ovando, que é a residência restaurada do próprio fundador da cidade. Também fica nela a Kahkow Experience, no número 102. QUANTO CUSTA: a rua é pública e de graça; cada monumento cobra o seu (o Panteón é gratuito, o Casas Reales custa RD$50, o Alcázar RD$100). QUANTO DURA: 40 a 90 minutos de caminhada, sem entrar nos museus. QUANDO IR: cedo, antes das 10h, porque é rua de pedra sem sombra e o calor de meio-dia é brutal. A Zona Colonial é Patrimônio Mundial da UNESCO desde 1990.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Las Damas, Zona Colonial, Santo Domingo 10210"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Rua de pedra irregular: sapato fechado.",
+        "Sem sombra: evite entre 11h e 15h."
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "imperdivel"
+    ],
+    "dicas": [
+      "Faça esta rua como espinha dorsal do dia na Zona Colonial: Fortaleza Ozama, Panteón, Casas Reales e Plaza España, nessa ordem, tudo a pé.",
+      "Vá antes das 10h: depois disso é pedra quente e nenhuma sombra.",
+      "Faça esta rua como espinha dorsal do dia na Zona Colonial: Fortaleza Ozama, Panteón, Casas Reales e Plaza España, nessa ordem, tudo a pé.",
+      "Vá antes das 10h: depois disso é pedra quente e nenhuma sombra."
+    ],
+    "alertas": []
+  },
+  {
+    "id": "do-sdq-panteon-nacional-panteon-de-la-patria",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Calle_Las_Damas"
+      },
+      {
+        "url": "https://www.tripexpert.com/santo-domingo/attractions/panteon-nacional"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Panteon%20Nacional%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Panteón Nacional (Panteón de la Patria)",
+    "cidadeId": "santo-domingo",
+    "categoria": "atracao",
+    "tags": [
+      "zona-colonial",
+      "historico",
+      "colonial",
+      "igreja",
+      "memorial",
+      "unesco"
+    ],
+    "coords": {
+      "lat": 18.4751061,
+      "lng": -69.8831488
+    },
+    "descricaoCurta": "Antiga igreja dos jesuítas na Calle Las Damas, hoje mausoléu nacional com guarda de honra presidencial imóvel ao lado do altar.",
+    "descricaoLonga": "Fica na Calle Las Damas, na Zona Colonial. Foi construído no século XVIII como igreja da Companhia de Jesus e depois convertido em mausoléu nacional, onde estão os restos de próceres da independência, escritores e políticos dominicanos. A arquitetura é neoclássica, com fachada imponente e interior ornamentado. O DETALHE QUE FAZ A VISITA: há uma guarda de honra permanente, formada por membros da Guardia Presidencial em traje de gala, que fica imóvel; um dos guardas faz uma ronda solene pelo corredor central, da porta principal até a frente do Altar Mayor. É silencioso e é curto. QUANTO CUSTA: as fontes que abri NÃO publicam preço, e a prática relatada para monumentos deste tipo em Santo Domingo é entrada franca — mas eu NÃO consegui confirmar isso em fonte oficial, então OMITI o campo preço em vez de marcar como gratuito. QUANTO DURA: 15 a 30 minutos; não é museu, é um salão. HORÁRIO: NÃO CONFIRMADO em nenhuma fonte. VESTIMENTA: é um mausoléu militar em funcionamento — short curto, regata e boné costumam ser barrados em locais assim no país; eu não confirmei a regra escrita, mas vá coberto. O QUE NÃO CONFIRMEI: horário, preço, regra de vestimenta por escrito, telefone.",
+    "duracao": {
+      "min": 15,
+      "tipica": 25,
+      "max": 45
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Las Damas, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mausoléu militar em funcionamento: silêncio e roupa coberta.",
+        "Horário não confirmado: pode estar fechado quando você chegar."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Entre na mesma caminhada da Calle Las Damas; são 20 minutos e a troca da guarda é o que você vai lembrar.",
+      "Vá coberto: ombro e perna. É um espaço militar e religioso.",
+      "Entre na mesma caminhada da Calle Las Damas; são 20 minutos e a troca da guarda é o que você vai lembrar.",
+      "Vá coberto: ombro e perna. É um espaço militar e religioso."
+    ],
+    "alertas": [
+      "HORÁRIO NÃO CONFIRMADO por nenhuma fonte. Passe na porta.",
+      "Preço não confirmado: pode ser gratuito, mas eu não achei fonte oficial e não vou afirmar."
+    ]
+  },
+  {
+    "id": "do-sdq-ruinas-del-monasterio-de-san-francisco",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Monasterio_de_San_Francisco_(Santo_Domingo)"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Ruinas%20de%20San%20Francisco%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Ruinas del Monasterio de San Francisco",
+    "cidadeId": "santo-domingo",
+    "categoria": "atracao",
+    "tags": [
+      "zona-colonial",
+      "historico",
+      "ruinas",
+      "unesco",
+      "colonial",
+      "mosteiro"
+    ],
+    "coords": {
+      "lat": 18.4769538,
+      "lng": -69.8857937
+    },
+    "descricaoCurta": "O primeiro mosteiro do Novo Mundo, começado em 1508, hoje ruína a céu aberto usada como palco cultural — é onde acontece o Bonyé dos domingos.",
+    "descricaoLonga": "Fica na Calle Hostos, ladeira acima, na Zona Colonial. A construção começou em 1508, com a chegada dos franciscanos, dentro do programa de obras de Nicolás de Ovando, e terminou por volta de 1560 — a igreja principal foi iniciada em 1544 e concluída em 23 de julho de 1556. É o PRIMEIRO MOSTEIRO DO NOVO MUNDO. A biografia do prédio é uma lista de catástrofes: saqueado pelo corsário Francis Drake em 1586, danificado pelos terremotos de 1673 e 1751, usado como posição de artilharia francesa no cerco de 1809 e arrasado pelo furacão San Zenón em 1930. Alonso de Ojeda foi sepultado na entrada principal (os restos foram removidos em 1942) e restos de Bartolomé Colón também foram encontrados ali. Faz parte do bem da UNESCO inscrito em 1990 e é protegido por lei dominicana. HOJE: as ruínas são usadas como espaço de eventos culturais e sociais — é aqui que acontece o 'Bonyé' dos domingos, a roda de son e música tradicional já catalogada nesta base. QUANTO CUSTA: nenhuma fonte publica cobrança; ver as ruínas de fora é livre. OMITI o campo preço. QUANTO DURA: 20 a 40 minutos de fora; mais se houver evento. O QUE NÃO CONFIRMEI: horário de acesso ao interior, se há bilheteria, e se o Bonyé continua semanal.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Hostos, San Antón, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ruína a céu aberto: sol direto.",
+        "Acesso ao interior não confirmado; pode estar cercado fora de eventos."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você está na cidade num domingo à tarde, combine com o Bonyé: o mesmo endereço vira roda de música ao vivo.",
+      "A ladeira da Calle Hostos é o trecho mais fotogênico da Zona Colonial no fim da tarde.",
+      "Se você está na cidade num domingo à tarde, combine com o Bonyé: o mesmo endereço vira roda de música ao vivo.",
+      "A ladeira da Calle Hostos é o trecho mais fotogênico da Zona Colonial no fim da tarde."
+    ],
+    "alertas": [
+      "Sem horário de acesso ao interior confirmado."
+    ]
+  },
+  {
+    "id": "do-sdq-convento-de-los-dominicos-e-a-primeira-universidade",
+    "fontes": [
+      {
+        "url": "https://www.eldebate.com/historia/20260129/cuando-imperio-espanol-fundo-primeras-universidades-america-asia-europa_379238.html"
+      },
+      {
+        "url": "https://acento.com.do/cultura/la-uasd-faro-de-luz-de-america-y-centro-de-vida-intelectual-en-la-republica-dominicana-1-de-2-9565705.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Convento de los Dominicos e a primeira universidade da América",
+    "cidadeId": "santo-domingo",
+    "categoria": "atracao",
+    "tags": [
+      "zona-colonial",
+      "historico",
+      "convento",
+      "colonial",
+      "universidade",
+      "unesco"
+    ],
+    "descricaoCurta": "Onde em 28 de outubro de 1538 nasceu a primeira universidade do continente americano, por bula do papa Paulo III. Fachada gótica-isabelina e barroca.",
+    "descricaoLonga": "O convento dominicano de Santo Domingo é o endereço de um fato que organiza a história intelectual do continente: em 28 DE OUTUBRO DE 1538, com base na bula 'In Apostolatus Culmine' do papa Paulo III, foi criada no seu claustro a Real y Pontificia Universidad de Santo Tomás de Aquino, considerada a primeira universidade da América — hoje Universidad Autónoma de Santo Domingo (UASD), que se apresenta como 'Primada de América'. A fachada mistura gótico, barroco e gótico-isabelino, em tons avermelhados e esbranquiçados envelhecidos, e o conjunto inclui a Capilla del Rosario. QUANTO CUSTA: nenhuma fonte que abri publica preço. OMITI o campo preço. HORÁRIO: NÃO CONFIRMADO. Procurei em imprensa dominicana e espanhola e nenhuma das páginas publica horário de visita — e é igreja em funcionamento, então o acesso depende da missa. ONDE FICA: na Zona Colonial, no eixo da Calle Padre Billini com a Calle Hostos, a poucos minutos a pé do Parque Colón. Eu NÃO consegui geocodificar o conjunto (o Nominatim voltou vazio para todas as variações que tentei) e por isso OMITI as coordenadas em vez de usar a de outro monumento. O QUE NÃO CONFIRMEI: horário, preço, endereço com número e coordenadas. Confirme na porta — você vai passar perto de qualquer forma.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Zona Colonial, Santo Domingo (eixo Padre Billini / Hostos)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Igreja em funcionamento: respeite missa e horário litúrgico.",
+        "Horário de visita não confirmado."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Pare aqui por causa de 1538, não por causa da arquitetura: este é o lugar onde a primeira universidade das Américas foi criada.",
+      "Fica no mesmo quadrilátero do Parque Duarte e da Calle Padre Billini — encaixe na caminhada, não como destino isolado.",
+      "Pare aqui por causa de 1538, não por causa da arquitetura: este é o lugar onde a primeira universidade das Américas foi criada.",
+      "Fica no mesmo quadrilátero do Parque Duarte e da Calle Padre Billini — encaixe na caminhada, não como destino isolado."
+    ],
+    "alertas": [
+      "SEM horário, preço, endereço com número nem coordenadas confirmados. Item de caminhada, não de agenda fechada.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-museo-de-arte-moderno-plaza-de-la-cultura",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://presidencia.gob.do/noticias/museos-estatales-de-santo-domingo-permaneceran-abiertos-en-semana-santa-para-el-disfrute"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Museo%20de%20Arte%20Moderno%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo de Arte Moderno (Plaza de la Cultura)",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "arte",
+      "arte-dominicana",
+      "plaza-de-la-cultura",
+      "cultura"
+    ],
+    "coords": {
+      "lat": 18.4715593,
+      "lng": -69.9097195
+    },
+    "descricaoCurta": "O museu de arte moderna e contemporânea dominicana, na Plaza de la Cultura. Terça a domingo, 9h-17h; entrada registrada a RD$50.",
+    "descricaoLonga": "Fica na Avenida Pedro Henríquez Ureña, dentro da Plaza de la Cultura Juan Pablo Duarte — o mesmo complexo do Museo del Hombre Dominicano, do Teatro Nacional e do Museo de Historia y Geografía. É o museu onde se vê a arte dominicana do século XX e a produção contemporânea, com programação de exposições temporárias ao longo do ano. HORÁRIO: terça a domingo, 9h às 17h, segundo notícia de imprensa dominicana; o Wikivoyage diz terça a domingo, 10h às 17h. As duas fontes concordam nos dias (fechado na segunda) e divergem em uma hora na abertura — registrei 10h-17h, a versão mais conservadora, para você não chegar antes de abrir. QUANTO CUSTA: RD$50 por adulto, segundo o Wikivoyage. É o único preço que achei para este museu, e é fonte única: confirme na bilheteria. GRÁTIS: o museu participa da Noche Larga de los Museos, três noites de entrada franca organizadas pelo Ministerio de Cultura (ver o item próprio nesta base). SEMANA SANTA: o Ministerio de Cultura costuma abrir os museus estatais das 10h às 18h na Semana Santa, exceto na segunda-feira e na Sexta-feira Santa. TELEFONE: 809 685-2153/56 — o ramal 222/223 é do Departamento de Extensión Cultural, atendendo de segunda a sexta de 8h às 16h. COMO CHEGAR: fica fora da Zona Colonial, uns 15 minutos de carro, ou de metrô (Linha 1, estação Juan Pablo Duarte / Casandra Damirón).",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 10:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 50,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "entrada adulto",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "RD$50 adulto segundo o Wikivoyage. FONTE ÚNICA e sem data declarada — confirme na bilheteria. A matéria de imprensa que confirma o horário NÃO publica preço."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 685 2153",
+      "endereco": "Av. Pedro Henríquez Ureña, Plaza de la Cultura Juan Pablo Duarte, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda.",
+        "Fica fora da Zona Colonial: 15 minutos de carro ou metrô Linha 1."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: RD$50 para ver a arte dominicana do século XX é o melhor negócio cultural da cidade.",
+      "Combine com o Museo del Hombre Dominicano, que fica na mesma praça e já está nesta base: dois museus, um deslocamento.",
+      "Vale cada peso: RD$50 para ver a arte dominicana do século XX é o melhor negócio cultural da cidade.",
+      "Combine com o Museo del Hombre Dominicano, que fica na mesma praça e já está nesta base: dois museus, um deslocamento."
+    ],
+    "alertas": [
+      "As fontes divergem na hora de abertura (9h x 10h). Registrei 10h para você não chegar fechado.",
+      "Preço de fonte única."
+    ]
+  },
+  {
+    "id": "do-sdq-museo-memorial-de-la-resistencia-dominicana",
+    "fontes": [
+      {
+        "url": "https://www.museodelaresistencia.com/"
+      },
+      {
+        "url": "https://www.revistamercado.do/actualidad/museos-historia-rd"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Museo%20Memorial%20de%20la%20Resistencia%20Dominicana%2C%20Santo%20Domingo&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo Memorial de la Resistencia Dominicana",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "memorial",
+      "historico",
+      "trujillo",
+      "zona-colonial",
+      "direitos-humanos"
+    ],
+    "coords": {
+      "lat": 18.4716828,
+      "lng": -69.8879802
+    },
+    "descricaoCurta": "O museu sobre a ditadura de Trujillo e as Irmãs Mirabal, na Arzobispo Nouel 210. Terça a domingo, 9h30-18h. RD$100 a RD$200.",
+    "descricaoLonga": "Fica na Calle Arzobispo Nouel 210, na Ciudad Colonial. É o museu que conta os 50 anos de repressão e resistência entre 1916 e 1978: a ditadura de 31 anos de Rafael Leónidas Trujillo, os governos do Triunvirato, os doze anos de Balaguer — e o assassinato das Irmãs Mirabal, cuja data (25 de novembro) virou o Dia Internacional da Eliminação da Violência contra a Mulher. O acervo passa de 350 mil peças, das quais 150 mil integram o registro Memória do Mundo da UNESCO, e o museu recebe cerca de 95 mil visitantes por ano. Tem histórias orais, exposições temporárias e visita virtual. QUANTO CUSTA: o site oficial informa RD$200 para adultos e RD$100 para estudantes e menores, com gratuidade para grupos de escola pública e membros do ICOM. ATENÇÃO: uma segunda fonte (Revista Mercado) dá outros valores — RD$100 nacional, RD$150 estrangeiro, RD$50 criança, RD$25 estudante. As duas não batem. Registrei a faixa RD$100-200 e sinalizei o conflito; o site oficial é a fonte mais forte. HORÁRIO: terça a domingo, 9h30 às 18h (site oficial; a Revista Mercado diz 10h-18h — diferença de meia hora). Fechado na segunda. QUANTO DURA: 60 a 120 minutos. É um museu de leitura, não de foto. COMO CHEGAR: a pé na Zona Colonial. O QUE NÃO CONFIRMEI: quais os valores corretos em 2026 e se há audioguia em português.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:30",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 09:30-18:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "entrada; RD$200 adulto e RD$100 estudante/menor pelo site oficial; gratuito para escola publica e ICOM",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "CONFLITO DE FONTES. Site oficial: RD$200 adulto, RD$100 estudante e menor. Revista Mercado: RD$100 nacional, RD$150 estrangeiro, RD$50 criança, RD$25 estudante. Registrei a faixa que cobre as duas e dou preferência ao site oficial. Confirme na bilheteria."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.museodelaresistencia.com/",
+      "telefone": "+1 809 688 4440",
+      "endereco": "Calle Arzobispo Nouel 210, Ciudad Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda.",
+        "Conteúdo sobre tortura e assassinato político: pesado para criança pequena."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: é o museu que explica a República Dominicana contemporânea, e nenhum resort vai te contar isso.",
+      "Reserve 90 minutos de verdade: é museu de texto, e correr nele não serve para nada.",
+      "Vale cada peso: é o museu que explica a República Dominicana contemporânea, e nenhum resort vai te contar isso.",
+      "Reserve 90 minutos de verdade: é museu de texto, e correr nele não serve para nada."
+    ],
+    "alertas": [
+      "PREÇO EM CONFLITO entre o site oficial (RD$200/100) e a Revista Mercado (RD$100/150/50/25). Leve RD$250 por pessoa para não ser surpreendido.",
+      "Horário divergente em meia hora entre as duas fontes."
+    ]
+  },
+  {
+    "id": "do-sdq-museo-del-ron-y-la-cana",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Santo_Domingo"
+      },
+      {
+        "url": "https://www.atlasobscura.com/places/museo-del-ron-y-la-cana-museum-of-rum-and-sugar-cane"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo del Ron y la Caña",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "rum",
+      "cana-de-acucar",
+      "zona-colonial",
+      "degustacao",
+      "historico"
+    ],
+    "descricaoCurta": "Museu do rum e da cana num prédio restaurado do século XVI na Isabel la Católica, com bar de degustação. Entrada registrada como gratuita.",
+    "descricaoLonga": "Fica na Calle Isabel la Católica 261, na Zona Colonial, num prédio restaurado do século XVI. Conta as duas coisas que mais marcaram a economia e a história social da ilha — a cana-de-açúcar e o rum — com métodos tradicionais de destilação, técnicas de envelhecimento e a evolução da produção. Na prática, é um museu pequeno com um BAR: dá para provar runs destilados na casa, inclusive versões com chinola (maracujá) e canela, e comprar garrafa. HORÁRIO: segunda a sábado, 9h às 17h, segundo o Wikivoyage. QUANTO CUSTA: a mesma fonte registra ENTRADA GRATUITA — a degustação e a garrafa, obviamente, não. Marquei a etiqueta 'gratuito' e OMITI o campo preço (o banco não aceita preço zerado), mas atenção: isso vem de fonte única. QUANTO DURA: 30 a 50 minutos. PARA QUE SERVE NO ROTEIRO: é o lugar para aprender a diferença entre Brugal, Barceló e Bermúdez antes de comprar rum no aeroporto, e fica a dois minutos a pé do Alcázar e da Plaza España. O QUE NÃO CONFIRMEI: preço da degustação, se a entrada segue gratuita, telefone atual e coordenadas — o Nominatim não devolveu o estabelecimento.",
+    "duracao": {
+      "min": 30,
+      "tipica": 45,
+      "max": 75
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": "fechado"
+    },
+    "horariosObservacao": "09:00-17:00 | fechado",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 685 5111",
+      "endereco": "Calle Isabel la Católica 261, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha domingo.",
+        "Bar de bebida alcoólica dentro do museu."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (zero, no caso): entrada gratuita e você sai sabendo o que comprar de rum.",
+      "Prove antes de comprar garrafa no aeroporto — a diferença entre um dourado e um envelhecido justifica o dobro do preço.",
+      "Vale cada peso (zero, no caso): entrada gratuita e você sai sabendo o que comprar de rum.",
+      "Prove antes de comprar garrafa no aeroporto — a diferença entre um dourado e um envelhecido justifica o dobro do preço."
+    ],
+    "alertas": [
+      "A gratuidade e o horário vêm de FONTE ÚNICA. Confirme na porta.",
+      "Preço da degustação não confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-museo-del-larimar-zona-colonial",
+    "fontes": [
+      {
+        "url": "https://www.travelhoppers.com/articles/exploring-the-dominican-republics-amber-and-azure-stone-treasures/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Larimar%20Museum&format=json&limit=2&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo del Larimar (Zona Colonial)",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "larimar",
+      "pedra",
+      "zona-colonial",
+      "compras",
+      "geologia"
+    ],
+    "coords": {
+      "lat": 18.472482,
+      "lng": -69.8834065
+    },
+    "descricaoCurta": "Museu pequeno acima de uma joalheria na Isabel la Católica, sobre a pedra azul que só existe na República Dominicana.",
+    "descricaoLonga": "O larimar é uma pectolita azul que só ocorre numa única região do planeta: a serra de Bahoruco, na província de Barahona, no sudoeste dominicano. O museu — pequeno, no andar de cima de uma loja de larimar na Calle Isabel la Católica, esquina com Padre Billini — conta a descoberta da pedra, como é a mineração artesanal, o uso em joia e as 'qualidades' que lhe atribuem (efeito calmante). Há fotografias da mina mostrando a extração. QUANTO CUSTA: as fontes registram ENTRADA GRATUITA, com a loja embaixo como modelo de negócio — você sobe, vê o museu e desce pela joalheria. Marquei a etiqueta 'gratuito' e OMITI o campo preço. ATENÇÃO AO TELEFONE: achei DOIS números diferentes em fontes diferentes (809-682-3309 e 809-686-5700) e NÃO consegui decidir qual está correto; registrei o primeiro e deixei o conflito declarado. HORÁRIO: NÃO CONFIRMADO em nenhuma fonte. QUANTO DURA: 20 a 40 minutos. VALOR PRÁTICO: se você pretende comprar larimar — e muita gente compra —, passar aqui antes é o que te protege de levar resina azul por pectolita. Combine com o Museo Mundo de Ámbar, que já está nesta base e fica perto. O QUE NÃO CONFIRMEI: horário, telefone correto, e se a entrada segue gratuita.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 682 3309",
+      "site": "https://www.larimarmuseum.com",
+      "endereco": "Calle Isabel la Católica, esquina Padre Billini, Zona Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Museu pequeno, acima de loja: escada.",
+        "Horário não confirmado."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Entre AQUI antes de comprar larimar em qualquer lugar: 30 minutos de graça te ensinam a reconhecer a pedra verdadeira.",
+      "Combine com o Museo Mundo de Ámbar, que já está nesta base: âmbar e larimar são as duas pedras dominicanas e as duas têm falsificação de rua.",
+      "Entre AQUI antes de comprar larimar em qualquer lugar: 30 minutos de graça te ensinam a reconhecer a pedra verdadeira.",
+      "Combine com o Museo Mundo de Ámbar, que já está nesta base: âmbar e larimar são as duas pedras dominicanas e as duas têm falsificação de rua."
+    ],
+    "alertas": [
+      "TELEFONE EM CONFLITO: achei 809-682-3309 e 809-686-5700 em fontes diferentes. Registrei o primeiro.",
+      "Sem horário confirmado.",
+      "É museu acima de loja: espere pressão de venda na saída."
+    ]
+  },
+  {
+    "id": "do-sdq-museo-de-las-atarazanas-reales",
+    "fontes": [
+      {
+        "url": "https://www.revistamercado.do/actualidad/museos-historia-rd"
+      },
+      {
+        "url": "https://presidencia.gob.do/noticias/museos-estatales-de-santo-domingo-permaneceran-abiertos-en-semana-santa-para-el-disfrute"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atarazanas_Reales,_Santo_Domingo"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Museo de las Atarazanas Reales",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "arqueologia",
+      "naufragio",
+      "zona-colonial",
+      "historico",
+      "colonial"
+    ],
+    "descricaoCurta": "Mais de 500 peças resgatadas de doze naufrágios dos séculos XV a XVIII, nos antigos estaleiros reais ao lado da Plaza España.",
+    "descricaoLonga": "Fica na Calle Colón 4, na Ciudad Colonial, nos edifícios das antigas Atarazanas Reales — os estaleiros e armazéns reais do porto colonial, ao lado da Plaza España e do Alcázar de Colón. Reabriu em dezembro de 2019 com museografia nova construída sobre coleções de DOZE naufrágios encalhados entre os séculos XV e XVIII em volta da Hispaniola, com mais de 500 peças expostas, além da história naval dominicana. É arqueologia subaquática, não arte colonial: é o museu mais específico e mais surpreendente da Zona Colonial. HORÁRIO: terça a domingo, 10h às 18h — duas fontes independentes concordam (uma delas o Ministerio de Cultura via Presidência da República, que lista o museu entre os estatais abertos na Semana Santa das 10h às 18h). Fechado na segunda. QUANTO CUSTA: NENHUMA das fontes publica o preço da entrada. A Revista Mercado, que publica os preços de seis outros museus da cidade, deixa justamente este em branco. OMITI o campo preço — e isso significa que você deve levar dinheiro, não que seja grátis. ATENÇÃO AO TELEFONE: achei dois números diferentes (829 545-1548 na Revista Mercado e 809 508-8717 em outra fonte) e não consegui decidir; registrei o da Revista Mercado. QUANTO DURA: 45 a 75 minutos. O QUE NÃO CONFIRMEI: preço, telefone correto e coordenadas.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 110
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 10:00-18:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 829 545 1548",
+      "endereco": "Calle Colón 4, Ciudad Colonial, Santo Domingo"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "É o museu que quase ninguém faz na Zona Colonial e um dos melhores: naufrágio de verdade, peça resgatada do fundo do mar.",
+      "Fica colado na Plaza España: encaixe depois do Alcázar de Colón, no mesmo passeio.",
+      "É o museu que quase ninguém faz na Zona Colonial e um dos melhores: naufrágio de verdade, peça resgatada do fundo do mar.",
+      "Fica colado na Plaza España: encaixe depois do Alcázar de Colón, no mesmo passeio."
+    ],
+    "alertas": [
+      "PREÇO NÃO ENCONTRADO: leve dinheiro, não assuma que é grátis.",
+      "TELEFONE EM CONFLITO: 829 545-1548 e 809 508-8717 em fontes diferentes.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-centro-leon-santiago-bate-volta-de-santo-domingo",
+    "fontes": [
+      {
+        "url": "https://fundacionleon.org.do/en/nuestrosproyectos/eduardo-leon-jimenes-cultural-center/"
+      },
+      {
+        "url": "https://acento.com.do/cultura/acento-cultural-46-9687098.html"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monumento_de_Santiago"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Centro%20Leon%2C%20Santiago%20de%20los%20Caballeros&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Centro León (Santiago) — bate-volta de Santo Domingo",
+    "cidadeId": "santo-domingo",
+    "categoria": "museu",
+    "tags": [
+      "museu",
+      "arte",
+      "arqueologia",
+      "taino",
+      "santiago",
+      "bate-volta",
+      "cultura"
+    ],
+    "coords": {
+      "lat": 19.4632769,
+      "lng": -70.6706827
+    },
+    "descricaoCurta": "O melhor museu de arte e antropologia do país, em Santiago: arte dominicana moderna e contemporânea mais acervo arqueológico e etnográfico pré-colombiano.",
+    "descricaoLonga": "BATE-VOLTA LONGO: o Centro Cultural Eduardo León Jimenes fica na Avenida 27 de Febrero 146, em Santiago de los Caballeros, a cerca de 2 a 2h30 de carro de Santo Domingo pela Autopista Duarte. De Jarabacoa é bem mais perto (cerca de 1 hora). O QUE É: provavelmente o centro cultural mais bem montado do Caribe — coleção de arte dominicana moderna e contemporânea, acervo arqueológico e etnográfico pré-colombiano de alto valor patrimonial (incluindo material taíno), mostras do Concurso de Arte Eduardo León Jimenes, oficinas criativas, cinema, biblioteca e serviços multimídia. É mantido pela Fundación Eduardo León Jimenes, ligada ao grupo empresarial da família. QUANTO CUSTA: eu NÃO consegui o preço. O site oficial (centroleon.org.do) devolveu HTTP 403 à minha tentativa de leitura e nenhuma outra fonte publica a tabela. OMITI o campo preço. HORÁRIO: também NÃO CONFIRMADO. A única informação que achei é que o centro FECHA NA SEGUNDA-FEIRA — e isso de fonte secundária. Antes de fazer 2h30 de carro, confirme horário e preço em centroleon.org.do ou por telefone. VALE O BATE-VOLTA? De Santo Domingo, só se você tiver um dia inteiro e gostar de museu de verdade — são 5 horas de carro ida e volta. De Jarabacoa, sim, facilmente. COMBINE COM: o Monumento a los Héroes de la Restauración, na mesma cidade, e com o Carnaval de Santiago se for fevereiro — ambos nesta base.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://centroleon.org.do/",
+      "endereco": "Av. 27 de Febrero 146, Santiago de los Caballeros"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda-feira (fonte secundária).",
+        "Bate-volta de 2 a 2h30 por trecho de Santo Domingo: 5 horas de carro no dia."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "De Jarabacoa, é bate-volta fácil e vale muito; de Santo Domingo, só com um dia inteiro reservado.",
+      "Confirme horário e preço antes de sair: o site oficial não me deixou ler e nenhuma outra fonte publica.",
+      "De Jarabacoa, é bate-volta fácil e vale muito; de Santo Domingo, só com um dia inteiro reservado.",
+      "Confirme horário e preço antes de sair: o site oficial não me deixou ler e nenhuma outra fonte publica."
+    ],
+    "alertas": [
+      "SEM PREÇO E SEM HORÁRIO CONFIRMADOS. O site oficial bloqueou a leitura automática. Não faça 2h30 de carro sem ligar antes.",
+      "Fecha segunda-feira, segundo fonte secundária."
+    ]
+  },
+  {
+    "id": "do-sdq-monumento-a-los-heroes-de-la-restauracion-santiago-b",
+    "fontes": [
+      {
+        "url": "https://www.godominicanrepublic.com/que-hacer/monumento-a-los-heroes-de-la-restauracion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monumento_de_Santiago"
+      },
+      {
+        "url": "https://elnuevodiario.com.do/anuncian-entrada-gratis-al-museo-monumento-los-fines-de-semana-de-noviembre-en-santiago/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Monumento%20a%20los%20Heroes%20de%20la%20Restauracion%2C%20Santiago&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Monumento a los Héroes de la Restauración (Santiago) — bate-volta de Santo Domingo",
+    "cidadeId": "santo-domingo",
+    "categoria": "atracao",
+    "tags": [
+      "historico",
+      "museu",
+      "memorial",
+      "santiago",
+      "bate-volta",
+      "vista",
+      "arquitetura"
+    ],
+    "coords": {
+      "lat": 19.4509077,
+      "lng": -70.6946843
+    },
+    "descricaoCurta": "A torre de 67 metros que domina Santiago: cinco pisos de museu sobre a Guerra da Restauração, murais de Vela Zanetti e varanda panorâmica de 360°.",
+    "descricaoLonga": "BATE-VOLTA: Santiago está a 2-2h30 de carro de Santo Domingo (1 hora de Jarabacoa). O monumento fica na Avenida Francia, sobre a colina mais alta da cidade, e é o prédio mais alto de Santiago: 67 metros (220 pés). Foi erguido em homenagem aos heróis da GUERRA DA RESTAURAÇÃO (1863-1865), quando os dominicanos expulsaram a reanexação espanhola — a data da Restauração, 16 de agosto, é feriado nacional. DENTRO: cinco pisos com exposições sobre as grandes batalhas da história dominicana e murais do pintor espanhol José Vela Zanetti. NO ALTO: o quinto piso tem varanda contínua com vista de 360° sobre Santiago e, ao fundo, a Cordillera Central. É a melhor vista urbana que você vai ter no país. HORÁRIO: terça a domingo, 9h às 17h, segundo o site oficial de turismo (godominicanrepublic.com). Fechado na segunda. QUANTO CUSTA: o site oficial de turismo NÃO publica preço. Achei registro de uma promoção de entrada gratuita nos sábados e domingos de novembro em um ano específico, mas isso é promoção, não tabela. OMITI o campo preço. O monumento também participa da Noche Larga de los Museos com entrada franca (ver item próprio). TELEFONE: (809) 582-2315, do site oficial. O QUE NÃO CONFIRMEI: preço da entrada, se o acesso ao mirante do quinto piso é incluído ou cobrado à parte, e se o elevador funciona.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 09:00-17:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.godominicanrepublic.com/que-hacer/monumento-a-los-heroes-de-la-restauracion",
+      "telefone": "+1 809 582 2315",
+      "instagram": "@monumentorestauracion",
+      "endereco": "Avenida Francia, Santiago de los Caballeros"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda.",
+        "Cinco pisos: não confirmei se o elevador funciona.",
+        "Bate-volta de 2 a 2h30 por trecho de Santo Domingo."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Vá no fim da tarde: a vista de 360° com a Cordillera Central ao fundo é o motivo de subir.",
+      "Combine com o Centro León no mesmo dia: os dois estão em Santiago e os dois fecham na segunda.",
+      "Vá no fim da tarde: a vista de 360° com a Cordillera Central ao fundo é o motivo de subir.",
+      "Combine com o Centro León no mesmo dia: os dois estão em Santiago e os dois fecham na segunda."
+    ],
+    "alertas": [
+      "PREÇO NÃO PUBLICADO nem pelo site oficial de turismo. Leve dinheiro.",
+      "Não confirmei se o mirante do quinto piso está incluído na entrada."
+    ]
+  },
+  {
+    "id": "do-sdq-noche-larga-de-los-museos-entrada-franca-maio",
+    "fontes": [
+      {
+        "url": "https://acento.com.do/cultura/direccion-general-de-museos-anuncia-la-noche-larga-de-los-museos-2026-con-tres-dias-de-puertas-abiertas-y-gratuitas-9668282.html"
+      },
+      {
+        "url": "https://www.elcaribe.com.do/gente/ministerio-de-cultura-celebra-la-noche-larga-de-los-museos-2026-con-entrada-gratuita/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Noche Larga de los Museos (entrada franca, maio)",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "museu",
+      "cultura",
+      "gratuito",
+      "historico",
+      "colonial",
+      "familia"
+    ],
+    "descricaoCurta": "Três noites em maio em que os museus estatais e vários privados abrem de graça, com visita guiada por curadores. Em 2026 foi 15, 16 e 17 de maio.",
+    "descricaoLonga": "É a maior janela de entrada gratuita do calendário cultural dominicano. Organizada pela Dirección General de Museos do Ministerio de Cultura, a Noche Larga de los Museos abre as salas de exposição sem custo por TRÊS DIAS, com visitas guiadas conduzidas por curadores e museógrafos, palestras, oficinas e experiências imersivas com tecnologia holográfica. EM 2026: 15, 16 e 17 DE MAIO. QUAIS MUSEUS: em Santo Domingo, Museo del Hombre Dominicano, Museo de Historia y Geografía, Museo de Arte Moderno, Museo de Historia Natural, Museo de la Fortaleza de Santo Domingo e os museus da Ciudad Colonial; fora da capital, Museo del Faro a Colón (Santo Domingo Este), Museo San Felipe (Puerto Plata), Museo Los Héroes de la Restauración e Museo Horacio Vásquez (Santiago) e Museo 26 de Julio. Ou seja: cobre quatro das seis bases desta pesquisa. QUANTO CUSTA: nada. Etiqueta 'gratuito' e campo preço OMITIDO. O QUE NÃO CONFIRMEI: HORÁRIOS. A notícia que abri não publica os horários das noites, o que é justamente o dado que você precisaria — 'noche larga' sugere abertura estendida, mas eu não tenho o número. Também não há data anunciada para 2027 ou 2028: o padrão é meados de maio, perto do Dia Internacional dos Museus (18 de maio), e o anúncio sai cerca de três semanas antes.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://acento.com.do/cultura/direccion-general-de-museos-anuncia-la-noche-larga-de-los-museos-2026-con-tres-dias-de-puertas-abiertas-y-gratuitas-9668282.html"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Três dias por ano, em meados de maio.",
+        "Horários das noites não publicados."
+      ]
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Se a viagem puder cair em meados de maio, você vê o Hombre Dominicano, o Arte Moderno e os museus da Zona Colonial de graça e com curador explicando.",
+      "Confirme as datas com a Dirección General de Museos em abril: o anúncio de 2026 saiu em 28 de abril.",
+      "Se a viagem puder cair em meados de maio, você vê o Hombre Dominicano, o Arte Moderno e os museus da Zona Colonial de graça e com curador explicando.",
+      "Confirme as datas com a Dirección General de Museos em abril: o anúncio de 2026 saiu em 28 de abril."
+    ],
+    "alertas": [
+      "HORÁRIOS DAS NOITES NÃO PUBLICADOS na fonte. Confirme com cada museu.",
+      "DATAS DE 2027/2028 NÃO ANUNCIADAS. O padrão é meados de maio, perto de 18 de maio.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-merengue-e-bachata-de-onde-vem-e-por-que-estao-na-un",
+    "fontes": [
+      {
+        "url": "https://ich.unesco.org/es/RL/la-musica-y-el-baile-del-merengue-en-la-republica-dominicana-01162"
+      },
+      {
+        "url": "https://ich.unesco.org/es/RL/la-bachata-musica-y-baile-tradicional-dominicano-01514"
+      },
+      {
+        "url": "https://www.diariolibre.com/revista/musica/la-bachata-a-un-ano-de-su-declaracion-como-patrimonio-de-la-humanidad-OH23245803"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "verificado",
+    "nome": "Merengue e bachata: de onde vêm e por que estão na UNESCO",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "merengue",
+      "bachata",
+      "musica",
+      "cultura",
+      "unesco",
+      "historico"
+    ],
+    "descricaoCurta": "O que são os dois gêneros que nasceram aqui, com que instrumentos se tocam e por que isso muda o que você escuta na viagem.",
+    "descricaoLonga": "Cartão de consulta. MERENGUE entrou na Lista Representativa do Patrimônio Cultural Imaterial da Humanidade da UNESCO em 2016. A ficha oficial descreve o conjunto instrumental — ACORDEÃO, TAMBORA (tambor de dois lados), SAXOFONE e GÜIRA (o raspador metálico que faz o chiado constante) —, situa a tradição sobretudo no NORTE do país e registra que o gênero atravessa educação, reuniões sociais, festas e até campanha política. Dança-se em par, com movimento sensual, e se aprende na infância por observação, participação e imitação. Há um Día Nacional del Merengue, 26 DE NOVEMBRO, instituído por decreto presidencial em 2005, e festivais anuais em Santo Domingo e Puerto Plata. BACHATA entrou na mesma lista em 2019. Nasceu da fusão do bolero com gêneros afro-caribenhos — son cubano, cha-cha-chá e o próprio merengue — e se toca com uma ou duas GUITARRAS (hoje frequentemente elétricas), CONTRABAIXO e percussão de BONGÔ, MARACAS e GÜIRO. A letra trata de amor, paixão e nostalgia; a música é em compasso de quatro tempos e a dança segue uma frase de oito, em par, com movimento de quadril. A palavra 'bachata' vem provavelmente de raiz africana e originalmente designava a FESTA, não o gênero. O DADO SOCIAL QUE IMPORTA: durante a ditadura de Trujillo (1930-1961) a bachata foi reprimida e empurrada para a base da pirâmide social; só depois da morte de Trujillo ela subiu e virou o que é. Hoje a UNESCO registra mais de cem academias, estúdios e escolas de bachata no país. ONDE OUVIR DE VERDADE nesta base: El Sartén (salão de baile da Zona Colonial), Jalao (perico ripiao com orquestra), Ferro Café (orquestra nas quintas e sábados), Jet Set (segundas) e o Babylon em Las Terrenas.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Güira e tambora são o que diferencia merengue de qualquer outra coisa: se você ouvir o raspador metálico constante, é merengue típico.",
+      "Perico ripiao é o merengue de acordeão do Cibao, o mais antigo e o mais 'de raiz' — é o que o Jalao toca.",
+      "Güira e tambora são o que diferencia merengue de qualquer outra coisa: se você ouvir o raspador metálico constante, é merengue típico.",
+      "Perico ripiao é o merengue de acordeão do Cibao, o mais antigo e o mais 'de raiz' — é o que o Jalao toca."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "do-sdq-a-conta-do-restaurante-na-republica-dominicana-18-de",
+    "fontes": [
+      {
+        "url": "https://hacecuentas.com/do/calculadora-propina-legal-10-itbis-restaurante-republica-dominicana"
+      },
+      {
+        "url": "https://www.cliffandcove.com/blog/happy-hour-guide-in-santo-domingo"
+      },
+      {
+        "url": "https://eldia.com.do/la-propina-entre-nosotros/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "A conta do restaurante na República Dominicana: 18% de ITBIS e 10% de propina legal",
+    "cidadeId": "santo-domingo",
+    "categoria": "experiencia",
+    "tags": [
+      "dinheiro",
+      "imposto",
+      "gorjeta",
+      "orcamento",
+      "pratico"
+    ],
+    "descricaoCurta": "Todo preço de menu no país é acrescido de 18% de imposto e 10% de propina obrigatória por lei: a conta fecha cerca de 28% acima do que você somou.",
+    "descricaoLonga": "Este é o cartão que mais economiza briga na viagem. SÃO DOIS PERCENTUAIS, não duas taxas de valor fixo. (1) ITBIS: 18 POR CENTO. É o imposto sobre a transferência de bens industrializados e serviços — o IVA dominicano — e incide sobre o consumo. (2) PROPINA LEGAL: 10 POR CENTO. NÃO é imposto: é um benefício trabalhista obrigatório estabelecido pelo ARTIGO 228 DO CÓDIGO DE TRABALHO (Lei 16-92) em favor do pessoal de serviço. Não vai para o fisco nem fica com o estabelecimento — deve ser distribuído entre os funcionários. COMO SE CALCULA: o ITBIS de 18% incide sobre o consumo, com a propina FORA da base de cálculo; a propina de 10% também incide sobre o consumo. Na prática, o consumo é multiplicado por 1,28 — ou seja, a conta fecha cerca de 28% acima do somatório dos preços do menu. EXEMPLO: você soma RD$2.000 de pratos e bebidas; a conta chega perto de RD$2.560. O QUE ISSO MUDA NO SEU ORÇAMENTO: todos os preços de restaurante registrados nesta base são preços de MENU, sem esses 28%. Se o item diz 'RD$500 a RD$1.200 por pessoa', conte RD$640 a RD$1.536 na conta real. GORJETA EXTRA: a propina de 10% é obrigatória, mas é comum deixar algo a mais em dinheiro para o garçom — voluntário e não regulado. Vale saber: a propina legal não sempre chega inteira ao seu garçom; muitos estabelecimentos a tratam como receita geral ou dividem de forma desigual. Por isso, se o serviço foi bom, dinheiro na mão funciona melhor. PONTO EM DISPUTA: sobre DELIVERY e PARA LEVAR as fontes se contradizem — uma calculadora fiscal dominicana afirma que a propina legal se aplica também a delivery e take-out, enquanto outra fonte atribui à Suprema Corte de Justicia o entendimento de que a propina de 10% só vale para consumo DENTRO do estabelecimento. Eu NÃO consegui resolver essa divergência e não vou escolher um lado. ESTE ITEM NÃO TEM CAMPO PREÇO de propósito: 18% e 10% são PERCENTUAIS, e registrá-los como valores (18 e 10) seria um erro de dado.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Multiplique por 1,28 todo preço de menu que você vê neste banco: é a conta real.",
+      "Se o serviço foi bom, dê gorjeta extra em dinheiro na mão do garçom — a propina legal de 10% não necessariamente chega até ele.",
+      "Confira a conta: a propina de 10% deve vir discriminada. Se vier junta e sem detalhe, peça o desdobramento.",
+      "Multiplique por 1,28 todo preço de menu que você vê neste banco: é a conta real.",
+      "Se o serviço foi bom, dê gorjeta extra em dinheiro na mão do garçom — a propina legal de 10% não necessariamente chega até ele.",
+      "Confira a conta: a propina de 10% deve vir discriminada. Se vier junta e sem detalhe, peça o desdobramento."
+    ],
+    "alertas": [
+      "ATENÇÃO DE LEITURA DE DADO: 18% e 10% são PERCENTUAIS sobre o consumo, nunca valores fixos de 18 e 10 pesos. Nenhum item desta base deve registrá-los como preço.",
+      "Divergência não resolvida: se a propina legal de 10% se aplica a delivery e take-out. As fontes se contradizem.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "do-sdq-catedral-primada-de-america-basilica-catedral-de-san",
     "fontes": [
       {

@@ -18,6 +18,13 @@
  *
  * Nenhum teste pegava, porque nenhum deles afirmava sobre a expressao em si.
  * Este afirma sobre o arquivo.
+ *
+ * O mesmo acidente tem uma segunda forma, que este teste NAO pega: a barra
+ * some sem deixar controle, e `\s+` vira `s+`. Tentei detecta-la e o
+ * detector acusou dezenas de comentarios e caminhos de URL — heuristica com
+ * mais ruido do que sinal nao entra na suite. A defesa contra ela e de
+ * processo: ao editar expressao regular por script, monte a barra com
+ * `String.fromCharCode(92)` em vez de escreve-la no literal.
  */
 import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
@@ -43,10 +50,11 @@ describe('codigo-fonte', () => {
   it('nao tem caractere de controle em nenhum .ts (barra invertida comida)', () => {
     const problemas: string[] = [];
     for (const arquivo of fontes('.')) {
-      const linhas = readFileSync(arquivo, 'utf8').split('\n');
-      linhas.forEach((linha, i) => {
-        if (CONTROLE.test(linha)) problemas.push(`${arquivo}:${i + 1}`);
-      });
+      readFileSync(arquivo, 'utf8')
+        .split('\n')
+        .forEach((linha, i) => {
+          if (CONTROLE.test(linha)) problemas.push(`${arquivo}:${i + 1}`);
+        });
     }
     expect(problemas, problemas.join('\n')).toEqual([]);
   });

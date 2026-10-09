@@ -1,5 +1,374 @@
 [
   {
+    "id": "do-pop-mares-restaurant-pool-lounge-puerto-plata",
+    "fontes": [
+      {
+        "url": "https://trip101.com/article/puerto-plata-dominican-republic-restaurants"
+      },
+      {
+        "url": "https://www.lonelyplanet.com/pois/1406977"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Mares Restaurant & Pool Lounge (Puerto Plata)",
+    "cidadeId": "puerto-plata",
+    "categoria": "restaurante",
+    "tags": [
+      "fusao-caribenha",
+      "frutos-do-mar",
+      "sushi",
+      "jantar",
+      "chef"
+    ],
+    "descricaoCurta": "Casa de chef em Puerto Plata: fusão caribenha, peixe ao leite de coco e sushi com sotaque local, só à noite.",
+    "descricaoLonga": "Fica na Calle Francisco J. Peynado 6, em Puerto Plata, e é o projeto do chef Rafael Vásquez-Heinsen, que converteu a própria casa em restaurante. A cozinha é de fusão caribenha — peixe com técnica francesa, sushi com temperos locais — e o prato mais citado é o pescado fresco ao molho de coco. É a opção de 'jantar de verdade' da cidade, não de Playa Dorada. HORÁRIO: as fontes registram abertura às 18h, à noite apenas (uma delas escreve '6 pm to 12 pm', que é claramente erro de digitação para meia-noite — registrei 18h-23h59 e sinalizei). QUANTO CUSTA: nenhuma fonte publica faixa; as que abri só dizem que os preços são altos para a cidade. OMITI o campo preço. RESERVA: recomendada, por ser casa pequena. O QUE NÃO CONFIRMEI: preço, site oficial, coordenadas (Nominatim vazio) e se o horário vale todos os dias da semana.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "18:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "18:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "+1 809 261 3330",
+      "endereco": "Calle Francisco J. Peynado 6, Puerto Plata 57000"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só abre à noite."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você está em Playa Dorada e quer um jantar que não seja de resort, este é o nome que a imprensa de viagem repete em Puerto Plata.",
+      "Se você está em Playa Dorada e quer um jantar que não seja de resort, este é o nome que a imprensa de viagem repete em Puerto Plata."
+    ],
+    "alertas": [
+      "SEM PREÇO confirmado, numa casa descrita como caça para o padrão da cidade. Pergunte a faixa ao reservar.",
+      "O horário de fechamento está registrado como meia-noite por interpretação de uma fonte que escreveu '6 pm to 12 pm'. Confirme por telefone.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-pop-kaffe-calle-sanchez-puerto-plata",
+    "fontes": [
+      {
+        "url": "https://trip101.com/article/puerto-plata-dominican-republic-restaurants"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Kaffe (Calle Sánchez, Puerto Plata)",
+    "cidadeId": "puerto-plata",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "mediterraneo",
+      "centro",
+      "almoco",
+      "ar-condicionado"
+    ],
+    "descricaoCurta": "Café de centro em Puerto Plata com cozinha mediterrânea e caribenha: a parada com sombra no meio da caminhada pela Calle Duarte.",
+    "descricaoLonga": "Fica na Calle Sánchez 29, no centro de Puerto Plata — o mesmo quadrilátero da Fortaleza San Felipe, do Museo del Ámbar e das lojas de âmbar e larimar da Calle Duarte. É um café pequeno com carta entre mediterrânea e caribenha: massas, peixe, croquete de frango e café. A função prática no roteiro é clara: é onde você se senta no meio da caminhada do centro histórico, que é quente e sem sombra. QUANTO CUSTA: nenhuma fonte que abri publica preços. OMITI o campo. O QUE NÃO CONFIRMEI: horário, telefone, preço e coordenadas — o Nominatim devolveu um 'Kafe' em Costámbar, que é OUTRO bairro e provavelmente outro estabelecimento, então não usei.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Sánchez 29, Puerto Plata 57000"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Encaixe entre a Fortaleza San Felipe e as lojas de âmbar da Calle Duarte: é o ponto de sombra do trajeto.",
+      "Encaixe entre a Fortaleza San Felipe e as lojas de âmbar da Calle Duarte: é o ponto de sombra do trajeto."
+    ],
+    "alertas": [
+      "Sem horário, telefone nem preço confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-pop-gordito-s-fresh-mex-cabarete-bate-volta-de-puerto-pl",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cabarete"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Gorditos%20Fresh%20Mex%2C%20Cabarete&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Gordito's Fresh Mex (Cabarete) — bate-volta de Puerto Plata",
+    "cidadeId": "puerto-plata",
+    "categoria": "restaurante",
+    "tags": [
+      "mexicano",
+      "barato",
+      "cabarete",
+      "bate-volta",
+      "almoco"
+    ],
+    "descricaoCurta": "Burrito e bowl por cerca de RD$110 a RD$128 na rua principal de Cabarete: o almoço barato da costa norte.",
+    "descricaoLonga": "BATE-VOLTA: Cabarete fica a cerca de 35 a 45 minutos de carro de Puerto Plata pela estrada 5, passando por Sosúa. O Gordito's é tex-mex barato na rua principal de Cabarete e funciona como almoço de dia de praia ou de kitesurf. QUANTO CUSTA: burrito e bowl de RD$110 a RD$128, segundo o Wikivoyage — um dos poucos preços em peso que consegui confirmar na costa norte. COMO CHEGAR: de carro, de guagua pela estrada Sosúa-Cabarete, ou a pé se você está hospedado em Cabarete. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário, coordenadas, e se o preço registrado ainda vale — o Wikivoyage não data o valor.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 70
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 110,
+      "max": 128,
+      "por": "pessoa",
+      "inclui": "burrito ou bowl",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "RD$110 a RD$128 por burrito/bowl segundo o Wikivoyage, que NÃO data o preço. Fonte única."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua principal (Carretera Sosúa-Cabarete), Cabarete"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bate-volta: 35 a 45 minutos de carro de Puerto Plata."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: almoço completo em Cabarete por menos do que uma cerveja de hotel.",
+      "Vale cada peso: almoço completo em Cabarete por menos do que uma cerveja de hotel."
+    ],
+    "alertas": [
+      "Preço de fonte única e sem data. Sem horário confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-pop-lax-ojo-cabarete-bate-volta-de-puerto-plata",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cabarete"
+      },
+      {
+        "url": "https://www.frommers.com/destinations/cabarete/nightlife"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Ojo%20Cabarete&format=json&limit=2&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Lax Ojo (Cabarete) — bate-volta de Puerto Plata",
+    "cidadeId": "puerto-plata",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "pe-na-areia",
+      "drinks",
+      "vida-noturna",
+      "cabarete",
+      "bate-volta"
+    ],
+    "coords": {
+      "lat": 19.7503643,
+      "lng": -70.406125
+    },
+    "descricaoCurta": "Bar de pé na areia da baía de Cabarete, calmo de dia e cheio de noite, com noite de salsa nas quintas.",
+    "descricaoLonga": "BATE-VOLTA: Cabarete fica a 35-45 minutos de carro de Puerto Plata pela estrada 5. A noite de Cabarete não é de boate e sim de fila de bares na areia, com mesa de madeira na praia, luz baixa e música até tarde. O Lax Ojo é um dos nomes mais citados dessa fila: relaxado durante o dia, pista de dança à noite, e com noite de SALSA (também descrita como ladies' night) nas QUINTAS-FEIRAS. Os vizinhos completam a semana: Onno's faz salsa e merengue nas terças e vira discoteca de madrugada; Bamboo Bar puxa a sexta; Wave Bar e Tribal Café, o sábado; Voy Voy tem karaokê nas segundas e música ao vivo nos domingos. QUANTO CUSTA: nenhuma das fontes publica preço de bebida ou entrada. OMITI o campo preço. O QUE NÃO CONFIRMEI: preços, horários exatos, se as noites temáticas continuam na mesma ordem (as fontes não datam a programação) e se o Lax Ojo e o 'Ojo Bar' do OpenStreetMap são o mesmo endereço.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Carretera Sosúa-Cabarete, Cabarete, Puerto Plata"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bar de areia: chuva fecha o programa.",
+        "Bate-volta noturno de Puerto Plata: combine a volta antes, porque guagua não roda de madrugada."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Em Cabarete, a noite se escolhe pelo dia da semana, não pelo bar: quinta no Lax Ojo, terça no Onno's, sexta no Bamboo.",
+      "Se você está em Puerto Plata e vai sair em Cabarete, deixe o carro de volta combinado antes de começar a beber.",
+      "Em Cabarete, a noite se escolhe pelo dia da semana, não pelo bar: quinta no Lax Ojo, terça no Onno's, sexta no Bamboo.",
+      "Se você está em Puerto Plata e vai sair em Cabarete, deixe o carro de volta combinado antes de começar a beber."
+    ],
+    "alertas": [
+      "A programação por dia da semana vem de fontes sem data e pode ter mudado inteira.",
+      "Sem preço confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-pop-dominican-republic-jazz-festival-costa-norte",
+    "fontes": [
+      {
+        "url": "https://drjazzfestival.com/"
+      },
+      {
+        "url": "https://acento.com.do/actualidad/chucho-valdes-en-el-dominican-republic-jazz-festival-este-fin-de-semana-8722612.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "nome": "Dominican Republic Jazz Festival (costa norte)",
+    "cidadeId": "puerto-plata",
+    "categoria": "experiencia",
+    "tags": [
+      "festival",
+      "jazz",
+      "musica-ao-vivo",
+      "cabarete",
+      "sosua",
+      "gratuito"
+    ],
+    "descricaoCurta": "Festival de jazz itinerante da costa norte, com shows em Santiago, Puerto Plata, Sosúa e na praia de Cabarete. Historicamente entre o fim de outubro e o começo de novembro.",
+    "descricaoLonga": "É um festival sem fins lucrativos organizado pela Fundación Educativa Dominican Republic Jazz Festival (FEDUJAZZ), com apoio do Ministerio de Turismo e de patrocinadores privados, e tem uma marca própria: além dos shows, há oficinas e master classes GRATUITAS para crianças locais e alunos da FEDUJAZZ, dadas pelos músicos internacionais do line-up. O formato é itinerante pela costa norte. A edição cujas datas eu consegui ler em fonte de imprensa teve shows em 25 de outubro em Santiago, 26 de outubro em Puerto Plata, 1º de novembro em Sosúa e 2 e 3 de novembro na praia de Cabarete — MAS essa edição é de 2019, e eu não consegui confirmar nenhuma edição posterior. QUANTO CUSTA: a imprensa descreve as oficinas como gratuitas e há registro de shows gratuitos em edições passadas, com venda de ingresso VIP à parte. OMITI o campo preço porque não achei tabela. ALERTA IMPORTANTE: o site oficial (drjazzfestival.com) está no ar mas desatualizado — a página que abri exibe 'Line Up 2022' e referências de 2013 a 2019. Não é possível afirmar que o festival continua acontecendo. Antes de contar com ele no roteiro, escreva para info@drjazzfestival.com ou ligue para o 809-571-9350, que são os contatos publicados. O QUE NÃO CONFIRMEI: se o festival existe em 2026, datas futuras, locais exatos de palco e preço do VIP.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://drjazzfestival.com/",
+      "telefone": "+1 809 571 9350",
+      "email": "info@drjazzfestival.com"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Shows na praia de Cabarete: dependem do tempo.",
+        "Itinerante: cada cidade tem uma noite diferente."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Antes de planejar, escreva para o festival: o site oficial está parado em 2022 e eu não consegui confirmar que o evento continua.",
+      "Antes de planejar, escreva para o festival: o site oficial está parado em 2022 e eu não consegui confirmar que o evento continua."
+    ],
+    "alertas": [
+      "SUSPEITA DE DESCONTINUIDADE: o site oficial está no ar mas com line-up de 2022 e as datas que consegui ler são de 2019. Confirme por e-mail antes de contar com o festival.",
+      "Sem preço confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "do-pop-27-charcos-de-damajagua-monumento-natural-salto-de-l",
     "fontes": [
       {

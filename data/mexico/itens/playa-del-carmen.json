@@ -1,5 +1,135 @@
 [
   {
+    "id": "mx-pdc-taqueria-el-komal",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Taqueria El Komal",
+    "cidadeId": "playa-del-carmen",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "antojitos"
+    ],
+    "coords": {
+      "lat": 20.6361931,
+      "lng": -87.0668949
+    },
+    "descricaoCurta": "Taqueria minuscula ao ar livre na Avenida 10 com Calle 40 Norte, bem longe da Quinta Avenida: tacos feitos na sua frente por M$100-150.",
+    "descricaoLonga": "Wikivoyage a descreve como restaurante pequeno ao ar livre que faz taco com ingrediente fresco na sua frente por preco muito baixo, e avisa que as vezes ACABA O INGREDIENTE e nao tem o que fazer. Fica na Avenida 10 com Calle 40 Norte - uns 1,5 km ao norte do miolo turistico, exatamente o 'saia duas quadras da Quinta Avenida e o preco muda' que a propria fonte recomenda para Playa. Faixa registrada: M$100-150 por pessoa (listagem editada em 02/2026). NAO CONSEGUI CONFIRMAR horario de funcionamento.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 70
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 100,
+      "max": 150,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem editada em fev/2026).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 984 216 2419"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: metade (ou menos) do que a Quinta Avenida cobra pela mesma comida.",
+      "Se acabou o ingrediente, aceite outra carne - a fonte diz que isso acontece e faz parte."
+    ],
+    "alertas": [
+      "Horario NAO confirmado - a fonte nao traz.",
+      "Pode acabar o ingrediente do dia."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-pdc-chela-de-playa-cervejaria-artesanal-em-playa-del-car",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Chela de Playa (cervejaria artesanal em Playa del Carmen)",
+    "cidadeId": "playa-del-carmen",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria-artesanal",
+      "bares",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 20.634665,
+      "lng": -87.0847253
+    },
+    "descricaoCurta": "Cervejaria independente na Calle 38 com a 5a Avenida Diagonal Norte: cerveja propria, taco e hamburguer, longe do trecho turistico da Quinta.",
+    "descricaoLonga": "Wikivoyage: 'cervejaria independente servindo cervejas artesanais, tacos e hamburgueres' (listagem editada em 02/2026). Fica na Calle 38, entre a 5 Avenida Diagonal Norte e a Calle Flamingos - no trecho norte, bem mais calmo e barato que o miolo da Quinta Avenida. NAO CONSEGUI CONFIRMAR horario nem preco. CONTEXTO DE PRECO DADO PELA FONTE: em Playa os precos de bar sao os de qualquer area turistica grande, 'mas cerveja a US$1 nao e incomum', e quem quer economizar compra bebida em loja fora da area turistica e leva para a praia. As lojas e restaurantes fecham por volta das 22:00, mas quase todas as baladas ficam abertas a maior parte da noite.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 984 859 7009",
+      "site": "http://cheladeplaya.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: duas quadras fora da Quinta Avenida muda o preco - a fonte diz isso textualmente para Playa.",
+      "Para bar de praia, o Fusion Beach Bar (Calle 6 e a praia) aparece na fonte com entrada 'a partir de US$59' - e esse e o nivel de preco do pe na areia aqui."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
     "id": "mx-pdc-sargaco-no-caribe-mexicano-calendario-praias-que-sof",
     "fontes": [
       {

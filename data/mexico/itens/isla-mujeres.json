@@ -529,5 +529,75 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-imu-picus-marisco-na-areia-ao-lado-do-cais-de-isla-mujer",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Picus (marisco na areia, ao lado do cais de Isla Mujeres)",
+    "cidadeId": "isla-mujeres",
+    "categoria": "restaurante",
+    "tags": [
+      "marisco",
+      "comida-barata",
+      "ceviche",
+      "pe-na-areia"
+    ],
+    "descricaoCurta": "Restaurante pequeno na praia logo ao norte do cais das balsas: peixe que os pescadores trazem na sua frente, prato de US$4-12.",
+    "descricaoLonga": "Fica na Av. Rueda Medina 318, na praia imediatamente ao norte do cais das balsas - ou seja, e o primeiro almoco possivel ao desembarcar de Cancun. Wikivoyage registra prato principal entre US$4 e US$12 e descreve o peixe sendo trazido pelos pescadores na frente do cliente. Prato tipico da ilha: tik-n-chik, peixe inteiro marinado em achiote e grelhado. ATENCAO: o preco esta em DOLAR na fonte, sem data de coleta, e eu NAO converti para peso - nao invento cambio. A fonte tambem avisa que na ilha ovo, milho e leite raramente ficam refrigerados, por tradicao local. A listagem NAO traz lat/long e eu nao inventei nenhuma: este item entra sem ponto no mapa.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 4,
+      "max": 12,
+      "por": "pessoa",
+      "inclui": "Prato principal, segundo a fonte. Valor em dolar como publicado; sem data de coleta.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 987 274 0083"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Encaixe no desembarque: fica a metros do cais, resolve o almoco antes de alugar carrinho de golfe.",
+      "A rua Hidalgo e a mais animada e a mais cara da ilha; o meio da ilha e onde o morador come (a propria fonte diz isso)."
+    ],
+    "alertas": [
+      "Preco em DOLAR na fonte e sem data - nao converti para peso.",
+      "A fonte avisa que ovo, milho e leite raramente sao refrigerados na ilha; quem tem estomago sensivel deve considerar isso.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

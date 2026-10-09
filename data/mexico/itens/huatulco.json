@@ -87,5 +87,120 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-hux-dulce-sabor-buffet-de-cafe-da-manha-em-la-crucecita",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Huatulco"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Dulce Sabor (buffet de cafe da manha em La Crucecita)",
+    "cidadeId": "huatulco",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "cafe-da-manha",
+      "buffet",
+      "oaxaquenho"
+    ],
+    "coords": {
+      "lat": 15.762896,
+      "lng": -96.127964
+    },
+    "descricaoCurta": "Buffet de cafe da manha todos os dias (e jantar so no domingo) na Zapoteco 85, La Crucecita, por M$220 - a fonte chama de otimo valor.",
+    "descricaoLonga": "Fica na Zapoteco 85, em La Crucecita, o nucleo urbano de Huatulco onde moram e comem os locais (as bahias sao resort e marina). Wikivoyage registra buffet de cafe da manha todos os dias de 07:00 a 13:00 e, DOMINGO TAMBEM, jantar de 14:00 as 18:00; comida mexicana tradicional com toques oaxaquenhos e variedade de sucos naturais, a M$220, descrito como 'grande valor pelo preco' (listagem editada em 01/2026).",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "13:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00-13:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 220,
+      "max": 220,
+      "por": "pessoa",
+      "inclui": "Buffet por pessoa, segundo a fonte (listagem de janeiro de 2026). Sucos naturais inclusos no buffet.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Huatulco"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 958 100 4938"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: buffet por M$220 em destino de resort e preco de cidade, nao de bahia.",
+      "No domingo tem tambem jantar (14:00-18:00); nos outros dias funciona so de manha.",
+      "Para marisco, El Grillo Marinero (Calle Carrizal 908, qua-seg 13:00-20:00) e a palapa de La Crucecita - mas so serve cerveja e refrigerante, nao faz drink."
+    ],
+    "alertas": [
+      "Depois das 13:00 nao serve (exceto domingo)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

@@ -1549,5 +1549,177 @@
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "mx-gto-mercado-hidalgo-guanajuato",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado Hidalgo (Guanajuato)",
+    "cidadeId": "guanajuato",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "enchiladas-mineras",
+      "antojitos"
+    ],
+    "coords": {
+      "lat": 21.0174922,
+      "lng": -101.2576966
+    },
+    "descricaoCurta": "Mercado de ferro da Av. Juarez, 09:00-17:00: enchiladas mineras, huaraches e pambazo com prato principal por M$60-80.",
+    "descricaoLonga": "O mercado de estrutura de ferro da Av. Benito Juarez e o endereco de comida barata de Guanajuato. Wikivoyage: 'otimo lugar para achar grande variedade de pratos regionais a preco acessivel', com ENCHILADAS MINERAS (o prato da cidade, de origem das minas) e enchiladas cervantinas, alem de huaraches e pambazo; prato principal por M$60-80, e tambem comedores no segundo andar, com foto dos pratos expostos. Horario listado: 09:00-17:00 (listagem de 02/2023). Para comida ainda mais barata, a fonte aponta as bancas em torno do Mercado Embajadoras: tlacoyos por M$10 e sopes/gorditas por M$15, de 11:30 as 17:00; e uma banca de tamal por M$8 cada, 18:30-21:00, na esquina da Del Campanero com a Cantarranas (dados de 2021).",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 60,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "Prato principal, segundo a fonte (listagem de fevereiro de 2023). Bebida nao incluida.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: enchiladas mineras por M$60-80 no mercado contra o dobro no Jardin de la Union.",
+      "Fecha as 17:00: nao serve de jantar. Para jantar barato, as bancas da Cantarranas abrem 18:30.",
+      "Guanajuato e toda ladeira e callejon - este mercado fica na parte baixa, perto do tunel; use-o como parada de almoco entre subidas."
+    ],
+    "alertas": [
+      "Fecha as 17:00.",
+      "Precos das bancas do Embajadoras sao de 2021 - desatualizados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gto-fante-bar-o-pulque-de-guanajuato",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Fante Bar (o pulque de Guanajuato)",
+    "cidadeId": "guanajuato",
+    "categoria": "bar",
+    "tags": [
+      "pulque",
+      "bares",
+      "vida-noturna",
+      "boteco"
+    ],
+    "coords": {
+      "lat": 21.016579,
+      "lng": -101.254142
+    },
+    "descricaoCurta": "Buraco de parede num callejon em frente a igreja principal: segundo a fonte, o melhor pulque da cidade. Sem horario confirmado.",
+    "descricaoLonga": "Wikivoyage: 'pequeno bar de buraco de parede com um video psicodelico em loop, perto da igreja principal. Notavel porque tem o MELHOR PULQUE DA CIDADE. Vale a visita se voce ainda nao provou a bebida local.' Fica num callejon em frente a basilica (listagem editada em 02/2023). NAO CONSEGUI CONFIRMAR horario nem preco - a listagem traz telefone e coordenada, nada mais. Pulque e agave fermentado, nao destilado, e fora do centro do Mexico e raro - por isso este item entra apesar do dado fraco. Para cantina com mezcal, a Famoso Bar Incendio (Cantarranas 15, seg-sab 10:00-23:00) e descrita como uma das cantinas mais antigas de Guanajuato e famosa pelos mezcais; para cerveja artesanal com vista, The Beer Company abre seg-qui 17:00-23:00, sex-sab 13:00-02:00 e dom 13:00-18:00.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 110
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 473 732 9413"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico.",
+        "Pulque e bebida fermentada viva: comece com pouco."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se o Fante estiver fechado (horario nao publicado), a Famoso Bar Incendio e o plano B com horario confirmado.",
+      "Guanajuato tem a noite mais ativa do Bajio e tudo cabe a pe - a fonte diz que a musica sai dos bares para a rua nos fins de semana."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "A propria pagina da fonte marca como provavelmente fechados outros bares da cidade - a cena noturna de Guanajuato gira rapido."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

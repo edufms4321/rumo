@@ -1,5 +1,131 @@
 [
   {
+    "id": "do-jrb-helados-ivon-e-a-esquina-doce-da-calle-hermanas-mira",
+    "fontes": [
+      {
+        "url": "https://eldia.com.do/entre-sombrillas-y-sonrisas-la-calle-hermanas-mirabal-el-corazon-turistico-de-jarabacoa/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Helados Ivon e a esquina doce da Calle Hermanas Mirabal (Jarabacoa)",
+    "cidadeId": "jarabacoa",
+    "categoria": "cafe",
+    "tags": [
+      "sorvete",
+      "doces",
+      "barato",
+      "centro",
+      "familia"
+    ],
+    "descricaoCurta": "A sorveteria artesanal com fila permanente na rua das sombrinhas de Jarabacoa: tradição local, sabor em copo de plástico, preço de bairro.",
+    "descricaoLonga": "Na Calle Hermanas Mirabal, a rua coberta de sombrinhas que virou o coração turístico de Jarabacoa, a Helados Ivon é descrita pela imprensa dominicana como tradição local, com fila constante e sorvetes artesanais servidos em copo de plástico. A rua tem também o Café Colao (já catalogado nesta base) e lojas decoradas com flores e luminárias; enche nos fins de semana, quando se transforma numa passarela de famílias e casais. QUANTO CUSTA: a reportagem descreve os preços como 'populares' mas NÃO publica valores. OMITI o campo preço — não vou colocar número que não existe na fonte. QUANDO IR: fim da tarde de sábado ou domingo, quando a rua está cheia e as luminárias acesas. COMO CHEGAR: a pé, no centro de Jarabacoa. O QUE NÃO CONFIRMEI: horário, telefone, endereço com número, preço e coordenadas.",
+    "duracao": {
+      "min": 15,
+      "tipica": 30,
+      "max": 50
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle Hermanas Mirabal, Jarabacoa"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Vá no fim da tarde de fim de semana: a rua das sombrinhas é o programa, o sorvete é a desculpa.",
+      "Vá no fim da tarde de fim de semana: a rua das sombrinhas é o programa, o sorvete é a desculpa."
+    ],
+    "alertas": [
+      "Sem preço, horário nem telefone confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-jrb-carnaval-vegano-de-la-vega-bate-volta-de-jarabacoa",
+    "fontes": [
+      {
+        "url": "https://diariolibre.com/revista/cultura/2026/01/13/anuncian-detalles-del-carnaval-vegano-2026/3403598"
+      },
+      {
+        "url": "https://diariolibre.com/revista/cultura/2026/02/02/desfile-de-carrozas-en-carnaval-vegano-2026-con-yiyo-sarante/3423845"
+      },
+      {
+        "url": "https://diariolibre.com/revista/cultura/2026/03/02/luis-miguel-del-amargue-y-bulin-47-en-carnaval-vegano-2026/3454909"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Concepcion%20de%20la%20Vega&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Carnaval Vegano de La Vega — bate-volta de Jarabacoa",
+    "cidadeId": "jarabacoa",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "festa-de-rua",
+      "diablo-cojuelo",
+      "la-vega",
+      "bate-volta",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 19.2242857,
+      "lng": -70.5305097
+    },
+    "descricaoCurta": "O carnaval mais antigo e mais forte do país: os diablos cojuelos de La Vega tomam a cidade todos os domingos de fevereiro. Mais de 230 grupos em 2026.",
+    "descricaoLonga": "BATE-VOLTA: La Vega fica a cerca de 30 km de Jarabacoa, 40 a 50 minutos de carro subindo a serra — é a cidade pela qual se passa para chegar a Jarabacoa vindo de Santiago. De Santo Domingo são cerca de 2 horas. QUANDO ACONTECE: o Carnaval Vegano é a festa de TODOS OS DOMINGOS DE FEVEREIRO, com desfiles dos diablos cojuelos organizados pela UCAVE (Unión Carnavalesca Vegana) junto com a prefeitura. Em 2026 os desfiles saíram nos domingos 1, 8, 15 e 22 de fevereiro e fecharam na sexta 27 de fevereiro (Dia da Independência), com mais de 230 grupos de diablos cojuelos em cena e artistas como Yiyo Sarante, Rochy RD e Luis Miguel del Amargue nos palcos. O QUE É: o diablo cojuelo é a máscara dominicana — chifre, dente, roupa de retalhos coloridos com espelhos e sininhos — e o vejigazo é a parte que ninguém conta: o diabo bate nos espectadores com uma bexiga de boi inflada. Dói e faz parte. PARA 2027 E 2028: as datas NÃO estão publicadas. O padrão é firme (domingos de fevereiro + 27 de fevereiro), mas não há anúncio oficial — a UCAVE costuma fazer o lançamento em meados de janeiro. QUANTO CUSTA: NÃO achei preço de ingresso, de arquibancada nem de palco em nenhuma fonte; a reportagem de lançamento não divulga valores. Assistir da rua é de graça. OMITI o campo preço. ARMADILHA: leve roupa que possa levar vejigazo, não leve nada de valor no bolso, e combine onde o carro vai ficar — a cidade fecha.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Centro de La Vega (Concepción de La Vega), província de La Vega"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só em fevereiro.",
+        "Vejigazo: você vai levar pancada de bexiga de boi. Não é opcional.",
+        "Multidão grande: evite levar bolsa, câmera caras ou criança pequena no miolo do desfile."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "pega-turista",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Se a viagem cair em fevereiro, isto é o programa cultural número um do país — vale muito mais que qualquer museu da Zona Colonial.",
+      "Vá de Jarabacoa, não de Santo Domingo: 45 minutos contra 2 horas, e você dorme na montanha.",
+      "Se a viagem cair em fevereiro, isto é o programa cultural número um do país — vale muito mais que qualquer museu da Zona Colonial.",
+      "Vá de Jarabacoa, não de Santo Domingo: 45 minutos contra 2 horas, e você dorme na montanha."
+    ],
+    "alertas": [
+      "DATAS DE 2027 E 2028 NÃO PUBLICADAS. O padrão é domingos de fevereiro mais 27 de fevereiro, mas confirme com a UCAVE ou a prefeitura de La Vega a partir de janeiro.",
+      "Sem preço de arquibancada confirmado."
+    ]
+  },
+  {
     "id": "do-jrb-salto-de-jimenoa-uno-jimenoa-alto",
     "fontes": [
       {

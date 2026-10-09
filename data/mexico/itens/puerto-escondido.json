@@ -496,5 +496,174 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-pxm-chilango-taco-punta-zicatela",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Chilango-Taco (Punta Zicatela)",
+    "cidadeId": "puerto-escondido",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "antojitos",
+      "familiar"
+    ],
+    "coords": {
+      "lat": 15.84179,
+      "lng": -97.0433
+    },
+    "descricaoCurta": "Casa familiar mexicana em Brisas de Zicatela com pratos de M$15 a M$80 - a fuga dos restaurantes para gringo de La Punta.",
+    "descricaoLonga": "Fica na Calle Alejandro Cardenas Peralta, em Brisas de Zicatela (Punta Zicatela), e a Wikivoyage o descreve textualmente como 'autenticamente barato', tocado por familia, 'um descanso dos restaurantes voltados ao gringo de La Punta'. Pratos principais de M$15 a M$80; horario listado de segunda a sabado 13:30-23:00. DOMINGO NAO CONSTA na fonte - trate como desconhecido, nao como fechado. Puerto Escondido tem dois polos de comida (o centro/Adoquin e La Punta/Zicatela) e a diferenca de preco entre eles e grande.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 75
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:30",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:30-23:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 15,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "Pratos principais, segundo a fonte. Sem data de coleta declarada na pagina.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: prato quente por M$15-80 em La Punta, onde a media turistica e varias vezes isso.",
+      "No centro, as comedores da zona da Av. Oaxaca (Taqueria Rosy, Comedor Tere) sao o equivalente barato - mas a fonte nao traz horario para nenhuma delas."
+    ],
+    "alertas": [
+      "Horario de domingo nao consta na fonte (desconhecido, nao fechado)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-pxm-congo-bar-puerto-escondido",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Congo Bar (Puerto Escondido)",
+    "cidadeId": "puerto-escondido",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "praia"
+    ],
+    "coords": {
+      "lat": 15.86151,
+      "lng": -97.06325
+    },
+    "descricaoCurta": "No Adoquin, a 20 m da Playa Principal: musica ao vivo e bebida barata, abrindo 18:30 e virando a madrugada na quarta.",
+    "descricaoLonga": "Wikivoyage: 'musica ao vivo, bebida barata, ambiente incrivel.' Fica na Av. Perez Gasca 605, no ADOQUIN (o calcadao do centro), a 20 m da Playa Principal. Horario listado: terca 18:30-02:00, quarta 20:00-04:30, quinta a domingo 18:30-02:00; SEGUNDA NAO CONSTA - desconhecido, nao fechado. NAO CONSEGUI CONFIRMAR preco. Puerto Escondido tem a noite mais forte da costa de Oaxaca (a propria Wikivoyage de Huatulco diz que 'a cena noturna seria fica a duas horas, em Puerto Escondido') e ela se divide entre o Adoquin/centro e a Zicatela: BarFly (Calle del Morro, ter-dom 10:00-04:00) e Casa Babylon (09:00-02:00) ficam na Zicatela.",
+    "duracao": {
+      "min": 70,
+      "tipica": 110,
+      "max": 180
+    },
+    "horariosObservacao": "18:30-02:00 | 20:00-04:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.facebook.com/pages/CONGO-BAR/191527943073"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Fica no centro, a pe da Playa Principal - nao precisa de taxi se voce dorme no Adoquin.",
+      "Se voce dorme em La Punta/Zicatela, volte de taxi: a fonte recomenda nao andar na praia a noite em Puerto Escondido."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "Horario de segunda nao consta na fonte (desconhecido, nao fechado).",
+      "A fonte recomenda evitar a praia a noite em Puerto Escondido e usar taxi."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

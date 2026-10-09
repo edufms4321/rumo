@@ -1728,5 +1728,75 @@
       "Preço do safári e da bicicleta vem de matéria de 2022/23 — pode ter subido.",
       "Fontes divergem sobre poder nadar."
     ]
+  },
+  {
+    "id": "mx-vld-mercado-de-comida-el-bazar-praca-de-alimentacao-do-z",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado de Comida / El Bazar (praca de alimentacao do zocalo de Valladolid)",
+    "cidadeId": "valladolid",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "cochinita-pibil",
+      "yucateco",
+      "antojitos"
+    ],
+    "coords": {
+      "lat": 20.6910494,
+      "lng": -88.2013737
+    },
+    "descricaoCurta": "Praca de alimentacao sob arcadas na esquina nordeste da praca central: comida yucateca por M$80-110 o prato (jan/2022), so cafe da manha e almoco.",
+    "descricaoLonga": "E o endereco de comida barata de Valladolid, na esquina NORDESTE da praca central: um patio de comedores sob arcadas, aberto para cafe da manha e almoco. Wikivoyage recomenda especificamente El Habanero Taqueria e Loncheria Canul, e registra que ha tambem pizzaria e banca chinesa; pratos principais em torno de M$80-110 (dado de janeiro de 2022). Pratos da regiao que valem o pedido: lomitos de Valladolid (porco em molho de tomate fresco), cochinita pibil, relleno negro, frijol con puerco e longaniza. A fonte avisa que Valladolid esta ficando turistica e que o ponto 'local' esta cada vez mais dificil de achar - esta praca e o que sobrou dele no centro.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 80,
+      "max": 110,
+      "por": "pessoa",
+      "inclui": "Prato principal, segundo a fonte, com dado de janeiro de 2022. Bebida nao incluida.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: almoco yucateco completo por menos de M$110 a 50 m da praca principal.",
+      "So funciona de dia (cafe da manha e almoco) - para o jantar, o Taqueria Don Trejo (Calle 44 #202H) ficava aberto ate as 22:00 em jan/2022.",
+      "Cochinita pibil e lomitos sao os dois pratos que SO fazem sentido aqui e em Merida."
+    ],
+    "alertas": [
+      "Horario de abertura NAO confirmado (a fonte so diz 'cafe da manha e almoco').",
+      "Preco e de janeiro de 2022 - desatualizado, use como ordem de grandeza."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

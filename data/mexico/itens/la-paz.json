@@ -955,5 +955,60 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-lap-bismarkcito-tacos-de-camarao-na-orla-de-la-paz",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Bismarkcito (tacos de camarao na orla de La Paz)",
+    "cidadeId": "la-paz",
+    "categoria": "restaurante",
+    "tags": [
+      "marisco",
+      "tacos",
+      "comida-barata",
+      "orla"
+    ],
+    "coords": {
+      "lat": 24.164856,
+      "lng": -110.313719
+    },
+    "descricaoCurta": "Na orla (Paseo Alvaro Obregon): tacos de camarao que a fonte chama de otimos - com aviso de conferir o preco dos combos oferecidos.",
+    "descricaoLonga": "Fica no Paseo Alvaro Obregon, o maleconde La Paz. Wikivoyage registra que serve 'otimos tacos de camarao' e faz um aviso util: CONFIRA O PRECO DOS COMBOS ESPECIAIS se oferecerem um, porque o valor pode estar fora de linha com o resto do menu. Como cidade costeira, La Paz tem camarao, lagosta, abalone e caracol frescos (a fonte abre a secao assim). NAO CONSEGUI CONFIRMAR horario nem faixa de preco - a listagem traz telefone e coordenada, nada mais. As opcoes economicas listadas no centro (Esperanza's, La Esquina Del Chef, Taqueria Mi Jardin) tambem vem sem horario e sem preco: a pagina de La Paz e curta.",
+    "duracao": {
+      "min": 35,
+      "tipica": 55,
+      "max": 85
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 612 128 9900"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Peca o preco do combo ANTES de aceitar - a fonte avisa explicitamente sobre isso.",
+      "Taco de camarao e taco de peixe estilo Baja sao os pratos regionais; pedir carne aqui e desperdicar a viagem."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "A fonte avisa que combos especiais podem ter preco desalinhado do menu."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

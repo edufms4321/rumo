@@ -324,5 +324,75 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-qro-tamales-penamiller-tamal-e-atole-da-sierra-gorda",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Quer%C3%A9taro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Tamales Penamiller (tamal e atole da Sierra Gorda)",
+    "cidadeId": "queretaro",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tamales",
+      "antojitos",
+      "artesanal"
+    ],
+    "descricaoCurta": "Tamal e atole da Sierra Gorda queretana na Reforma 59, Centro Historico - mas so sexta e sabado, das 19:00 as 23:30.",
+    "descricaoLonga": "Casa de tamales artesanais da Sierra Gorda de Queretaro, na Reforma 59, entre Pasteur e Rio de la Loza, no Centro Historico. Wikivoyage descreve tamal recheado de queijo de cabra em molho vermelho, de rajas, de porco, e tamales doces com queijo e nozes, alem de atoles de varios sabores (de sementes a chocolate e frutas), tudo feito 'do jeito artesanal, com ingredientes naturais'. HORARIO RESTRITO: sexta e sabado, 19:00-23:30 - e um item de noite de fim de semana, nao de almoco de dia de semana. NAO CONSEGUI CONFIRMAR preco. O prato tipico de Queretaro e a GORDITA QUERETANA, maior que a gordita comum: a fonte registra que nas bancas de rua custava M$30 recheada de carne OU queijo e M$45 com os dois (jan/2022), e que ha banca de gordita queretana de sexta a domingo, a tarde e a noite. A listagem NAO traz lat/long e eu nao inventei nenhuma: este item entra sem ponto no mapa.",
+    "duracao": {
+      "min": 25,
+      "tipica": 40,
+      "max": 60
+    },
+    "horarios": {
+      "sex": [
+        {
+          "abre": "19:00",
+          "fecha": "23:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "19:00",
+          "fecha": "23:30"
+        }
+      ]
+    },
+    "horariosObservacao": "19:00-23:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 442 212 6422"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "So abre sexta e sabado a noite - se o roteiro em Queretaro nao tem noite de fim de semana, este item nao serve.",
+      "VALE CADA PESO: gordita queretana de banca de rua saia por M$30-45 em jan/2022 - e o lanche local mais barato do Bajio."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "Abre apenas sexta e sabado a noite.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

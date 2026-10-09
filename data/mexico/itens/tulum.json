@@ -1041,5 +1041,180 @@
       "O preço pode variar por data e por promoção; confirme no site oficial.",
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "mx-tul-antojitos-la-chiapaneca",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tulum"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Antojitos La Chiapaneca",
+    "cidadeId": "tulum",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "antojitos",
+      "al-pastor"
+    ],
+    "coords": {
+      "lat": 20.2100811,
+      "lng": -87.4677005
+    },
+    "descricaoCurta": "Taco al pastor no pueblo de Tulum, com servico rapido mesmo lotado - e com a salsa de habanero laranja que pega de surpresa.",
+    "descricaoLonga": "Casa de antojitos no pueblo (nao na zona hoteleira), descrita pela Wikivoyage como 'massivamente popular' com servico incrivelmente rapido e taco al pastor delicioso, com aviso explicito sobre a salsa de habanero laranja. O contraste importa: a fonte registra que os restaurantes da praia de Tulum sao 'bem caros' e que a maioria das casas do pueblo serve pratos por menos de M$100. NAO CONSEGUI CONFIRMAR horario, telefone nem preco desta casa especificamente - a listagem so traz nome, coordenada e descricao (editada em 02/2022).",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 65
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: comer no pueblo em vez da zona hoteleira e a maior economia possivel em Tulum.",
+      "Se voce esta hospedado na praia, a propria fonte recomenda abastecer comida e bebida no pueblo antes de subir."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "Zona hoteleira de Tulum: a fonte avisa que os restaurantes da praia sao caros e as opcoes, poucas."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-tul-batey-s-mojito-de-cana-e-musica-ao-vivo-em-tulum",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tulum"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Batey's (mojito de cana e musica ao vivo em Tulum)",
+    "cidadeId": "tulum",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "mojito"
+    ],
+    "coords": {
+      "lat": 20.21189968964571,
+      "lng": -87.45918803953337
+    },
+    "descricaoCurta": "Bar aberto no pueblo de Tulum que, segundo a fonte, tem a melhor musica ao vivo, os melhores mojitos e guarapo da cidade.",
+    "descricaoLonga": "Wikivoyage: 'bar animado ao ar livre com a melhor musica ao vivo e os melhores mojitos e guarapo da cidade' (listagem editada em 06/2026). Fica no pueblo, nao na zona hoteleira. NAO CONSEGUI CONFIRMAR endereco em rua, horario nem preco - a listagem traz so nome, coordenada e descricao. AVISO DE PRECO HONESTO sobre Tulum: a zona hoteleira de Tulum e um dos lugares mais caros do Mexico, e a propria fonte registra que no Santino Nightclub (Av. Tulum, centro) 'as bebidas sao caras demais e ha relatos de golpe, entao fique de olho'. Guarapo e caldo de cana fresco, que aqui vira base de drink.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: beber no pueblo custa uma fracao da zona hoteleira - essa e a economia principal em Tulum.",
+      "Confira a conta item por item em qualquer bar de Tulum: a propria fonte relata golpe de conta na cidade.",
+      "Nao ha horario publicado - passe na frente de dia para ver o aviso na porta."
+    ],
+    "alertas": [
+      "Endereco em rua, horario e preco NAO confirmados.",
+      "Tulum tem relato de golpe de conta em bar registrado na fonte - confira a conta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-tul-santino-nightclub-balada-de-tulum-com-aviso-de-preco",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Tulum"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Santino Nightclub (balada de Tulum - com aviso de preco)",
+    "cidadeId": "tulum",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "vida-noturna",
+      "festas",
+      "musica-ao-vivo"
+    ],
+    "coords": {
+      "lat": 20.212104105275635,
+      "lng": -87.46128846864164
+    },
+    "descricaoCurta": "Balada de tres andares na Av. Tulum, no centro, 18:00-03:00. A propria fonte avisa: bebida caruissima e relatos de golpe - fique de olho.",
+    "descricaoLonga": "Wikivoyage: 'balada animada com 3 andares de danca e musica, com DJs diferentes em cada andar. AS BEBIDAS SAO CARAS DEMAIS E HA RELATOS DE GOLPE, ENTAO FIQUE DE OLHO.' Fica na Av. Tulum, entre Orion Sur e Beta Norte, em Tulum Centro, aberta todos os dias das 18:00 as 03:00 (listagem editada em 06/2026). Este item entra no banco COM o aviso, nao apesar dele: Tulum virou um dos destinos mais caros do Mexico e a noite da zona hoteleira cobra preco de capital europeia. NAO CONSEGUI CONFIRMAR valor de entrada nem de bebida - e exatamente por isso o aviso importa: va com valor definido, confira a conta item por item e prefira pagar em dinheiro contado.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "18:00-03:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: a noite de Tulum e o gasto mais facil de cortar do roteiro inteiro.",
+      "Confira a conta item por item - a propria fonte relata golpe de conta nesta casa.",
+      "Alternativa barata no mesmo pueblo: Batey's, com musica ao vivo e mojito, segundo a fonte."
+    ],
+    "alertas": [
+      "A FONTE AVISA: bebidas muito caras e relatos de golpe nesta casa.",
+      "Preco de entrada e de bebida NAO confirmados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

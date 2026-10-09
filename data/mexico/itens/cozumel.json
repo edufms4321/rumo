@@ -310,5 +310,240 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-czm-dona-quela-cafe-da-manha-barato-em-cozumel",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cozumel"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Dona Quela (cafe da manha barato em Cozumel)",
+    "cidadeId": "cozumel",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "cafe-da-manha",
+      "mercado",
+      "comida-mexicana"
+    ],
+    "coords": {
+      "lat": 20.493654,
+      "lng": -86.951243
+    },
+    "descricaoCurta": "Casal mexicano que morou nos EUA serve cafe da manha e almoco por M$150 perto do mercado municipal - longe do preco de cruzeiro.",
+    "descricaoLonga": "Fica na 50 Avenida Sur, bem perto do mercado municipal de San Miguel. Wikivoyage a descreve como lugar excelente e barato para cafe da manha ou almoco, tocado por um casal mexicano que trabalhou nos Estados Unidos - por isso faz tanto comida mexicana fresca quanto cafe da manha americano. Horario listado: 10:00-19:00 diariamente; faixa de M$150 (listagem editada em 05/2026). Cozumel e ilha de cruzeiro e os precos refletem isso: a mesma fonte registra que o taco no El Morrito sai por cerca de US$1,25 'caro para o resto do Mexico, barato para Cozumel'.",
+    "duracao": {
+      "min": 35,
+      "tipica": 55,
+      "max": 80
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-19:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 150,
+      "max": 150,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem editada em maio/2026).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Cozumel"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://dona-quela.business.site/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: fora do calcadao do porto, o preco de Cozumel cai pela metade.",
+      "Abre as 10:00 - para cafe da manha de verdade bem cedo, nao serve."
+    ],
+    "alertas": [
+      "Cozumel e porto de cruzeiro: em dia de navio atracado o centro lota e os precos da orla sobem."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-czm-cerveceria-punta-sur-cozumel",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cozumel"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cerveceria Punta Sur (Cozumel)",
+    "cidadeId": "cozumel",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria-artesanal",
+      "bares",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 20.507913,
+      "lng": -86.949908
+    },
+    "descricaoCurta": "Microcervejaria no centro de San Miguel com cinco cervejas de torneira, 11:00-23:00 todos os dias, faixa de M$200.",
+    "descricaoLonga": "Wikivoyage: 'pequena cervejaria artesanal com cinco cervejas da casa na torneira. Vao de uma cream ale leve a duas IPAs que sao melhores que a media porque o nivel de lupulo nao tenta ser estupidamente alto. A melhor e a Eagle Ray Stout, de corpo maltado firme com notas de cafe.' Fica na 10a Avenida Sur 229, Centro, em San Miguel de Cozumel; 11:00-23:00 diariamente, faixa de M$200 (listagem editada em 05/2026). AVISO DE MERGULHO: a propria fonte adverte que mergulhadores devem evitar alcool por no minimo 12 horas ANTES de um mergulho e cerca de 12 horas DEPOIS - em Cozumel, onde quase todo mundo mergulha, isso define a ordem do dia.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "11:00-23:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de maio/2026).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Cozumel"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 987 117 4215",
+      "site": "https://www.cerveceriapuntasur.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico.",
+        "Mergulhadores: a fonte recomenda evitar alcool 12 h antes e ~12 h depois de mergulhar."
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se o dia tem mergulho, beba DEPOIS e nao antes - e no dia seguinte considere o intervalo antes de voar.",
+      "A fonte avisa que os bares de Cozumel raramente controlam idade ou embriaguez: tome conta de si e nao dirija."
+    ],
+    "alertas": [
+      "A fonte adverte: bares de Cozumel raramente monitoram idade ou embriaguez.",
+      "Alcool e mergulho: 12 h antes e ~12 h depois, segundo a fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

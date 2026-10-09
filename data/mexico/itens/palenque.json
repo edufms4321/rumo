@@ -999,5 +999,59 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-plq-el-panchan-don-mucho-s-comida-e-musica-na-estrada-da",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Palenque"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Panchan / Don Mucho's (comida e musica na estrada das ruinas)",
+    "cidadeId": "palenque",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "musica-ao-vivo",
+      "selva",
+      "pizza"
+    ],
+    "coords": {
+      "lat": 17.4910155,
+      "lng": -92.0241706
+    },
+    "descricaoCurta": "Complexo na selva no km 4,5 da estrada Palenque-Ruinas: pizza de forno a lenha, comida e musica ao vivo a 3 km da zona arqueologica.",
+    "descricaoLonga": "El Panchan e um complexo de cabanas e restaurantes dentro da selva, no km 4,5 da estrada Palenque-Ruinas - entre a cidade e a entrada da zona arqueologica. Wikivoyage descreve 'otimas pizzas de forno de pedra e musica ao vivo' e lista o Don Muchos no mesmo endereco. E a opcao de jantar de quem se hospeda na estrada e nao quer voltar a cidade. Na cidade (El Centro, perto do Parque Central) ficam os comedores baratos: Taqueria Los Pastorcitos, La Huasteca, Cocina del Tio Fide. NAO CONSEGUI CONFIRMAR horario nem preco de nenhum deles - a Wikivoyage de Palenque e uma das mais pobres em dado do Mexico: as listagens de comida trazem so nome, endereco e coordenada. Palenque e cidade pequena e, nas palavras da fonte, 'a maioria dos lugares fecha cedo demais para gente de cidade grande'.",
+    "duracao": {
+      "min": 50,
+      "tipica": 80,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Encaixe no fim do dia das ruinas: fica no caminho de volta, nao exige desvio.",
+      "Se voce dorme na cidade e nao na estrada, jante no entorno do Parque Central - a fonte diz que e seguro e agradavel caminhar ali a noite.",
+      "Noshito's Bar, no mesmo km 4,5, abre 15:00-03:00 - e o unico bar da regiao das ruinas com horario confirmado."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "Cidade pequena: a fonte avisa que as cozinhas fecham cedo."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

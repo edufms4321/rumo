@@ -681,5 +681,186 @@
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "mx-cab-el-toro-guero-marisco-de-almoco-em-san-jose-del-cabo",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Toro Guero (marisco de almoco em San Jose del Cabo)",
+    "cidadeId": "los-cabos",
+    "categoria": "restaurante",
+    "tags": [
+      "marisco",
+      "ceviche",
+      "comida-barata",
+      "comida-tipica"
+    ],
+    "coords": {
+      "lat": 23.065177,
+      "lng": -109.69864
+    },
+    "descricaoCurta": "Palapa cheia de morador na Calle Idelfonso Green, 4 quadras da praca de San Jose: ceviche, tacos e molcajetes a partir de M$200.",
+    "descricaoLonga": "Fica na Calle Idelfonso Green, quatro quadras a oeste da Plaza Central de San Jose del Cabo. Wikivoyage registra: 'lotado de locais na comida da tarde', com ceviche, tacos, molcajetes e files a precos justos, aguas frescas excelentes, teto de palapa, informal, e AVISO de que o servico pode ser lento no pico da tarde durante a semana. Horario listado pela fonte: 09:00-21:00 diariamente, com faixa a partir de M$200. Estacionamento limitado fora da rua. Los Cabos e o destino mais caro do pacote mexicano: comer onde o morador come e a unica forma de nao gastar preco de resort.",
+    "duracao": {
+      "min": 50,
+      "tipica": 75,
+      "max": 110
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 400,
+      "por": "pessoa",
+      "inclui": "A partir de M$200 por pessoa segundo a fonte; o teto de M$400 e estimativa minha de conta com bebida e NAO esta na fonte.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 624 130 7818",
+      "site": "http://www.eltoroguero.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: e o preco mais baixo com fonte confirmada em Los Cabos.",
+      "San Jose del Cabo e o lado calmo; Cabo San Lucas e o lado da balada. Para taco barato em Cabo San Lucas, Tacos Marissa (20 de Noviembre) e Tacos Gardenias (El Medano) aparecem na fonte, mas sem horario e sem preco.",
+      "A fonte avisa: servico lento no pico da tarde em dia de semana."
+    ],
+    "alertas": [
+      "O teto de preco e estimativa minha, nao dado de fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-cab-rooftop-360-cabo-san-lucas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Cabo_San_Lucas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Rooftop 360 (Cabo San Lucas)",
+    "cidadeId": "los-cabos",
+    "categoria": "bar",
+    "tags": [
+      "rooftop",
+      "bares",
+      "vida-noturna",
+      "mirante"
+    ],
+    "coords": {
+      "lat": 22.887594,
+      "lng": -109.906483
+    },
+    "descricaoCurta": "Bar de cobertura na Pelicanos 225, El Medano, aberto 09:00-00:00: vista panoramica em todas as direcoes, petisco e drink.",
+    "descricaoLonga": "Wikivoyage: 'vista panoramica em todas as direcoes e o grande atrativo. Serve petiscos leves de bar junto com drinks e cerveja.' Pelicanos 225, El Medano, Cabo San Lucas; 09:00-00:00 diariamente (listagem editada em 02/2026). NAO CONSEGUI CONFIRMAR preco. AVISO HONESTO sobre a noite de Cabo San Lucas: e cena de 'spring break' americano. A propria fonte descreve o Mango Deck como ambiente de musica alta e meninas dancando no palco, e faz a ressalva de que a idade minima para beber no Mexico e 18 anos e que muitas dessas pessoas no verao sao estudantes de ensino medio; o El Squid Roe e descrito como 'alto, insuportavel, e e por isso que e divertido. Muito turistico.' Quem busca noite calma deve ficar em SAN JOSE DEL CABO, a ~30 km, que a fonte descreve como tendo os bares mais interessantes da regiao, com boa selecao de mezcal e cena de cervejaria artesanal (Baja Brewing Company, La Micro, Sierra de la Laguna).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "horariosObservacao": "09:00-24:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 624 143 9166",
+      "site": "https://www.corazoncabo.com/dining/rooftop-360"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Va no fim da tarde pelo por do sol: e o unico horario em que a vista justifica o preco de Cabo.",
+      "CORTE SE APERTAR: a noite de Cabo San Lucas e caruissima e turistica; San Jose del Cabo (30 km) tem mezcal e cervejaria por menos."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "A vida noturna de Cabo San Lucas e cena de spring break com publico muito jovem - a propria fonte faz a ressalva sobre idade."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

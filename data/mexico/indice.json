@@ -6,7 +6,7 @@
   "moeda": "MXN",
   "cobertura": "Cobre 26 bases do centro, do Caribe, da peninsula de Yucatan, de Oaxaca, de Chiapas, da Baja Sur e do Pacifico. Fora do pacote: todo o norte (Chihuahua, Nuevo Leon, Sonora), Veracruz e Michoacan.",
   "totais": {
-    "itens": 266,
+    "itens": 333,
     "cidades": 26,
     "trechos": 30,
     "eventos": 16,
@@ -14,8 +14,8 @@
     "regioes": 5
   },
   "confianca": {
-    "verificado": 49,
-    "parcial": 193,
+    "verificado": 57,
+    "parcial": 252,
     "estimado": 24
   },
   "grupos": [
@@ -37,19 +37,19 @@
     },
     {
       "grupo": "comer",
-      "n": 20
+      "n": 56
     },
     {
       "grupo": "bares",
-      "n": 14
+      "n": 32
     },
     {
       "grupo": "festas-e-musica",
-      "n": 11
+      "n": 23
     },
     {
       "grupo": "compras",
-      "n": 24
+      "n": 25
     },
     {
       "grupo": "passeios",
@@ -77,25 +77,25 @@
               "id": "la-paz",
               "nome": "La Paz",
               "zona": "Baja California Sur",
-              "itens": 11
+              "itens": 12
             },
             {
               "id": "todos-santos",
               "nome": "Todos Santos",
               "zona": "Baja California Sur",
-              "itens": 3
+              "itens": 4
             },
             {
               "id": "los-cabos",
               "nome": "Los Cabos",
               "zona": "Baja California Sur",
-              "itens": 9
+              "itens": 11
             },
             {
               "id": "loreto",
               "nome": "Loreto",
               "zona": "Baja California Sur",
-              "itens": 1
+              "itens": 2
             }
           ]
         }
@@ -117,13 +117,13 @@
               "id": "guanajuato",
               "nome": "Guanajuato",
               "zona": "Bajio",
-              "itens": 17
+              "itens": 19
             },
             {
               "id": "san-miguel-de-allende",
               "nome": "San Miguel de Allende",
               "zona": "Bajio",
-              "itens": 8
+              "itens": 9
             }
           ]
         },
@@ -138,13 +138,13 @@
               "id": "puerto-vallarta",
               "nome": "Puerto Vallarta",
               "zona": "Pacifico central",
-              "itens": 8
+              "itens": 10
             },
             {
               "id": "guadalajara",
               "nome": "Guadalajara",
               "zona": "Bajio",
-              "itens": 11
+              "itens": 17
             }
           ]
         },
@@ -159,7 +159,7 @@
               "id": "sayulita",
               "nome": "Sayulita",
               "zona": "Pacifico central",
-              "itens": 2
+              "itens": 3
             }
           ]
         },
@@ -174,7 +174,7 @@
               "id": "queretaro",
               "nome": "Queretaro",
               "zona": "Bajio",
-              "itens": 4
+              "itens": 5
             }
           ]
         }
@@ -196,7 +196,7 @@
               "id": "cidade-do-mexico",
               "nome": "Cidade do Mexico",
               "zona": "Vale do Mexico",
-              "itens": 45
+              "itens": 57
             }
           ]
         }
@@ -218,7 +218,7 @@
               "id": "puebla",
               "nome": "Puebla",
               "zona": "Vale do Mexico",
-              "itens": 6
+              "itens": 9
             }
           ]
         }
@@ -240,13 +240,13 @@
               "id": "san-cristobal",
               "nome": "San Cristobal de las Casas",
               "zona": "Chiapas",
-              "itens": 26
+              "itens": 28
             },
             {
               "id": "palenque",
               "nome": "Palenque",
               "zona": "Chiapas",
-              "itens": 10
+              "itens": 11
             }
           ]
         },
@@ -261,25 +261,25 @@
               "id": "oaxaca",
               "nome": "Oaxaca de Juarez",
               "zona": "Vales Centrais de Oaxaca",
-              "itens": 23
+              "itens": 34
             },
             {
               "id": "puerto-escondido",
               "nome": "Puerto Escondido",
               "zona": "Costa de Oaxaca",
-              "itens": 6
+              "itens": 8
             },
             {
               "id": "mazunte",
               "nome": "Mazunte",
               "zona": "Costa de Oaxaca",
-              "itens": 5
+              "itens": 6
             },
             {
               "id": "huatulco",
               "nome": "Huatulco",
               "zona": "Costa de Oaxaca",
-              "itens": 1
+              "itens": 2
             }
           ]
         },
@@ -294,37 +294,37 @@
               "id": "cancun",
               "nome": "Cancun",
               "zona": "Riviera Maya e Caribe",
-              "itens": 7
+              "itens": 9
             },
             {
               "id": "playa-del-carmen",
               "nome": "Playa del Carmen",
               "zona": "Riviera Maya e Caribe",
-              "itens": 9
+              "itens": 11
             },
             {
               "id": "tulum",
               "nome": "Tulum",
               "zona": "Riviera Maya e Caribe",
-              "itens": 8
+              "itens": 11
             },
             {
               "id": "bacalar",
               "nome": "Bacalar",
               "zona": "Riviera Maya e Caribe",
-              "itens": 2
+              "itens": 3
             },
             {
               "id": "isla-mujeres",
               "nome": "Isla Mujeres",
               "zona": "Riviera Maya e Caribe",
-              "itens": 5
+              "itens": 6
             },
             {
               "id": "cozumel",
               "nome": "Cozumel",
               "zona": "Riviera Maya e Caribe",
-              "itens": 3
+              "itens": 5
             }
           ]
         },
@@ -339,13 +339,13 @@
               "id": "merida",
               "nome": "Merida",
               "zona": "Peninsula de Yucatan",
-              "itens": 22
+              "itens": 26
             },
             {
               "id": "valladolid",
               "nome": "Valladolid",
               "zona": "Peninsula de Yucatan",
-              "itens": 14
+              "itens": 15
             }
           ]
         }

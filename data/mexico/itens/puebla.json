@@ -587,5 +587,229 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-pue-mercado-de-sabores-poblanos",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mercado_de_Sabores_Poblanos"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado de Sabores Poblanos",
+    "cidadeId": "puebla",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "mole",
+      "cemitas",
+      "antojitos"
+    ],
+    "coords": {
+      "lat": 19.05095,
+      "lng": -98.20564
+    },
+    "descricaoCurta": "Mercado publico construido so para comida poblana: 132 bancas de mole, cemitas, tamales, quesadillas e carnitas, na Av. 4 Poniente 1104.",
+    "descricaoLonga": "Inaugurado em 05/02/2011 justamente para concentrar a gastronomia poblana, tem 132 locais dedicados a comida e doces regionais, mais algumas bancas de artesanato. Esta na Av. 4 Poniente 1104, a oeste do centro historico, e abre das 09:00 as 19:00 segundo a Wikipedia em espanhol. O que se come aqui: mole poblano, cemitas (o sanduiche de pao com gergelim, milanesa, queijo de Oaxaca e papalo), tamales, quesadillas, carnitas e marisco. NAO CONSEGUI CONFIRMAR preco medio por prato em fonte publicavel - a imprensa local cita M$120 nas enchiladas de quatro moles de uma banca, mas nao abri a materia, entao nao registro o numero. E mercado publico municipal: espere fila de bancas iguais e cobranca em dinheiro.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 110
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-19:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: e a forma mais barata de experimentar mole poblano e cemita no mesmo almoco.",
+      "Sao dois andares de comedores - escolha um e fique; tentar provar o mercado inteiro numa visita nao funciona."
+    ],
+    "alertas": [
+      "Horario 09:00-19:00 vem de uma fonte so (Wikipedia es). Preco por prato nao confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-pue-temporada-de-chiles-en-nogada-em-puebla",
+    "fontes": [
+      {
+        "url": "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Temporada de chiles en nogada em Puebla",
+    "cidadeId": "puebla",
+    "categoria": "experiencia",
+    "tags": [
+      "chiles-en-nogada",
+      "temporada",
+      "gastronomia",
+      "mole",
+      "sazonal"
+    ],
+    "coords": {
+      "lat": 19.0438,
+      "lng": -98.1982
+    },
+    "descricaoCurta": "O prato so existe de julho a 16 de setembro. Em 2026 ficou entre M$250 e M$600 o prato - dado da imprensa, nao de um restaurante especifico.",
+    "descricaoLonga": "Chile poblano recheado de picadillo e coberto de nogada (creme de noz-pecan), coroado com romã: e prato de TEMPORADA porque depende da noz de Castilla e da romã frescas. Em 2026 o governo de Puebla abriu a temporada em 09/07 e a Feria del Chile en Nogada correu de 15 de julho ate o fim de setembro, com encerramento oficial da temporada em 16/09 (Milenio, 13/07/2026). O mesmo levantamento do Milenio registra o prato entre M$250 e M$600 - a media era ~M$300 em 2023 e M$300-500+ em 2025, e o salto de 2026 vem do custo do chile poblano e das carnes. Onde comer com fonte: El Mural de los Poblanos (16 de Septiembre 506, 13:00-23:00) e apontado pela Wikivoyage como o melhor mole poblano da cidade e serve pratos de temporada; o Restaurante La Fonda (2 Oriente 801) serve chiles en nogada por cerca de metade do preco dos restaurantes do Zocalo. ATENCAO DE ROTEIRO: se a viagem nao cair entre meados de julho e 16 de setembro, este item NAO EXISTE - quem vende fora da temporada esta usando ingrediente congelado.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 250,
+      "max": 600,
+      "por": "pessoa",
+      "inclui": "Faixa de preco do prato de chile en nogada em estabelecimentos de Puebla na temporada 2026 (Milenio, 13/07/2026). Nao inclui bebida.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: fora de julho-setembro este item sai do roteiro inteiro.",
+      "Para gastar menos, peca no Restaurante La Fonda (2 Oriente 801) ou num comedor do Mercado de Sabores em vez do Zocalo.",
+      "A data da temporada muda um pouco a cada ano - confirme com o governo de Puebla no ano da viagem."
+    ],
+    "alertas": [
+      "SAZONAL: a temporada 2026 foi 09/07 (abertura oficial) a 16/09. As datas de 2027 e 2028 NAO estao publicadas.",
+      "O preco de M$250-600 e faixa de mercado da imprensa, nao tabela de um restaurante."
+    ]
+  },
+  {
+    "id": "mx-pue-restaurante-la-fonda-cozinha-poblana-barata",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Restaurante La Fonda (cozinha poblana barata)",
+    "cidadeId": "puebla",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "mole",
+      "chiles-en-nogada",
+      "poblano"
+    ],
+    "descricaoCurta": "Fonda na 2 Oriente 801, ao sul do mercado El Parian: mole poblano, arroz com mole e chiles en nogada por cerca de metade do preco dos restaurantes do Zocalo.",
+    "descricaoLonga": "Wikivoyage descreve como 'excelente cozinha local' a aproximadamente metade do custo dos restaurantes do Zocalo, com mole poblano, arroz com mole e chiles en nogada na temporada; tambem vende mole poblano por quilo para levar. Endereco: 2 Oriente 801, logo ao sul do mercado El Parian, no centro historico. NAO CONSEGUI CONFIRMAR horario, telefone, coordenada exata nem faixa de preco - a fonte so faz a comparacao relativa com o Zocalo. A fonte NAO traz coordenada e eu nao inventei nenhuma: este item entra sem ponto no mapa.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a propria fonte diz que custa cerca de metade do Zocalo pela mesma comida.",
+      "Mole por quilo para levar e o melhor souvenir comestivel de Puebla."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

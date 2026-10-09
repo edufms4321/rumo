@@ -1,5 +1,362 @@
 [
   {
+    "id": "do-byh-restaurante-las-palmas-bayahibe",
+    "fontes": [
+      {
+        "url": "https://holidayhypermarket.co.uk/?p=142616"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Restaurante Las Palmas (Bayahibe)",
+    "cidadeId": "bayahibe",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "pe-na-areia",
+      "lagosta",
+      "churrasco",
+      "pescado"
+    ],
+    "descricaoCurta": "Churrasqueira aberta na areia de Bayahibe: pescado, lagosta e plátano na grelha, com o mar à frente.",
+    "descricaoLonga": "Restaurante de pé na areia em Bayahibe, especializado em frutos do mar e grelhados caribenhos — pescado do dia, lagosta e plátano assado — com a grelha aberta à vista, o que é parte do programa. Fica no trecho de praia da vila, a poucos minutos a pé do cais de onde saem os barcos para Saona e Catalina, e é uma das casas listadas em guia de restaurantes de Bayahibe. QUANTO CUSTA: nenhuma fonte que abri publica faixa de preço, e aqui vale o mesmo aviso do pescado por peso. OMITI o campo preço. QUANDO IR: almoço depois de voltar de Saona, ou jantar cedo com pôr do sol. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário, preço e coordenadas (Nominatim vazio).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Beira da praia, Bayahibe"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mesas ao ar livre na areia."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Pergunte o preço do quilo do pescado antes de escolher; é venda por peso.",
+      "Pergunte o preço do quilo do pescado antes de escolher; é venda por peso."
+    ],
+    "alertas": [
+      "Sem preço, horário nem telefone confirmados. Pescado por peso: combine valor antes.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-byh-el-cafecito-lonza-bayahibe",
+    "fontes": [
+      {
+        "url": "https://holidayhypermarket.co.uk/?p=142616"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Cafecito Lonza (Bayahibe)",
+    "cidadeId": "bayahibe",
+    "categoria": "restaurante",
+    "tags": [
+      "frances",
+      "caribenho",
+      "musica-ao-vivo",
+      "jantar"
+    ],
+    "descricaoCurta": "Cozinha franco-caribenha em Bayahibe, com música ao vivo nas quintas-feiras.",
+    "descricaoLonga": "Bayahibe tem colônia europeia antiga — sobretudo italiana, mas também francesa — e isso aparece na mesa. O Cafecito Lonza trabalha pratos de inspiração franco-caribenha junto de opções internacionais, e o dado que o distingue dos vizinhos é a programação: música ao vivo nas QUINTAS-FEIRAS, segundo o guia de restaurantes que abri. Num lugar pequeno como Bayahibe, saber qual noite tem música é a informação que organiza a semana. QUANTO CUSTA: a fonte não publica preço. OMITI o campo. COMO CHEGAR: a pé, dentro da vila. O QUE NÃO CONFIRMEI: endereço, telefone, horário, preço, coordenadas, e se a música de quinta continua acontecendo — a fonte não datou a informação.",
+    "duracao": {
+      "min": 60,
+      "tipica": 100,
+      "max": 160
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Bayahibe, La Altagracia"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Se você só tem uma noite em Bayahibe, tente que seja quinta: é a noite com música ao vivo aqui.",
+      "Se você só tem uma noite em Bayahibe, tente que seja quinta: é a noite com música ao vivo aqui."
+    ],
+    "alertas": [
+      "A música de quinta-feira vem de fonte única e sem data. Confirme na porta.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-byh-shish-kebab-la-romana-bate-volta-de-bayahibe",
+    "fontes": [
+      {
+        "url": "https://casadecampoliving.com/shish-kebab-45-year-history-now-good-ever/"
+      },
+      {
+        "url": "https://casadecampoliving.com/loving-memory-elias-giha/"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Shish%20Kebab%2C%20La%20Romana&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Shish Kebab (La Romana) — bate-volta de Bayahibe",
+    "cidadeId": "bayahibe",
+    "categoria": "restaurante",
+    "tags": [
+      "arabe",
+      "libanes",
+      "kipe",
+      "historico",
+      "la-romana",
+      "bate-volta"
+    ],
+    "descricaoCurta": "Casa árabe-dominicana de La Romana, fundada em 1969: o kipe que virou patrimônio local, a 30 minutos de Bayahibe.",
+    "descricaoLonga": "BATE-VOLTA: fica em La Romana, na Calle Castillo Márquez 32, cerca de 25 a 35 minutos de carro de Bayahibe pela estrada da costa — o mesmo trajeto de quem vai a Altos de Chavón. A casa nasceu em 1969, quando o palestino-dominicano Elias Giha vendeu o anel e o relógio por 60 pesos para construir uma grelha e começou a vender kebab e kipe na rua de La Romana; o restaurante abriu formalmente em 1976. A especialidade não é o kebab e sim o KIPE (bulgur frito recheado de carne) e as empanadas — a imigração árabe do começo do século XX é uma das camadas menos óbvias da comida dominicana, e esta é a casa onde se come essa camada. Também há shish kebab de carne e misto e doces tradicionais (harise, baklava). QUANTO CUSTA: NÃO achei faixa de preço atual em nenhuma fonte; os valores que a reportagem traz são históricos (kebab a 50 centavos em 1969) e registrá-los como preço seria mentira. OMITI o campo preço. HORÁRIO: todos os dias das 10h às 23h, fechado na segunda, segundo a fonte. COMO CHEGAR: táxi ou carro alugado de Bayahibe; combine a volta. O QUE NÃO CONFIRMEI: se continua aberto — a reportagem é de 2014 com atualização em 2022, e o fundador morreu pouco depois da publicação original.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": "fechado",
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "fechado | 10:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 556 2737",
+      "endereco": "Calle Castillo Márquez 32, La Romana"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bate-volta de carro a partir de Bayahibe: 25 a 35 minutos por trecho."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Peça kipe, não kebab: é o que fez o nome da casa.",
+      "Encaixe no mesmo dia de Altos de Chavón, que fica no mesmo eixo de estrada.",
+      "Peça kipe, não kebab: é o que fez o nome da casa.",
+      "Encaixe no mesmo dia de Altos de Chavón, que fica no mesmo eixo de estrada."
+    ],
+    "alertas": [
+      "A fonte é de 2014, atualizada em 2022: mais de 2 anos. Ligue para o 809 556-2737 antes de pegar o carro.",
+      "Sem preço confirmado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-byh-el-colmadon-bayahibe",
+    "fontes": [
+      {
+        "url": "https://www.offbeattravel.com/blog/bayahibe-guide"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Colmadón (Bayahibe)",
+    "cidadeId": "bayahibe",
+    "categoria": "bar",
+    "tags": [
+      "colmado",
+      "cerveja",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "barato"
+    ],
+    "descricaoCurta": "O colmadón de Bayahibe: música dominicana alta, cerveja gelada e clientela local, a poucos metros dos restaurantes italianos da vila.",
+    "descricaoLonga": "Bayahibe é uma vila pequena com dois mundos paralelos: a faixa de restaurantes italianos e franceses virada para a baía, e a vida do povoado. El Colmadón é a porta de entrada do segundo. Um guia de viagem que abri o descreve como parada essencial, com música dominicana e caribenha em volume alto e atmosfera local autêntica — a contrapartida do Onno's e do Zukkero já catalogados nesta base. A mesma fonte registra sucos de fruta na vila entre RD$100 e RD$150 (US$2 a US$3), o que dá a escala de preço do lugar, mas NÃO publica o preço da cerveja no colmadón: por isso não registrei campo preço. COMO CHEGAR: a pé, dentro de Bayahibe. QUANDO IR: do fim da tarde em diante. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário, preço e coordenadas.",
+    "duracao": {
+      "min": 40,
+      "tipica": 75,
+      "max": 150
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Bayahibe, La Altagracia"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Música alta; não é bar de conversa."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: a noite de Bayahibe fora da faixa italiana começa aqui.",
+      "Vale cada peso: a noite de Bayahibe fora da faixa italiana começa aqui."
+    ],
+    "alertas": [
+      "Sem endereço exato, horário nem preço confirmados.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-byh-cueva-de-las-maravillas-arte-rupestre-taina-bate-vol",
+    "fontes": [
+      {
+        "url": "https://listindiario.com/la-vida/vida-verde/20240208/cueva-maravillas-patrimonio-natural-dominicano_794536.html"
+      },
+      {
+        "url": "https://www.godominicanrepublic.com/que-hacer/cueva-de-las-maravillas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Cueva%20de%20las%20Maravillas%2C%20San%20Pedro%20de%20Macoris&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Cueva de las Maravillas (arte rupestre taína) — bate-volta de Bayahibe",
+    "cidadeId": "bayahibe",
+    "categoria": "atracao",
+    "tags": [
+      "taino",
+      "arqueologia",
+      "rupestre",
+      "caverna",
+      "historico",
+      "acessivel",
+      "imperdivel"
+    ],
+    "coords": {
+      "lat": 18.4521014,
+      "lng": -69.1602854
+    },
+    "descricaoCurta": "472 pictografias e 19 petróglifos taínos numa caverna com iluminação, rampa e passarela. RD$300 adulto, RD$100 criança. O melhor sítio taíno visitável do país.",
+    "descricaoLonga": "BATE-VOLTA: fica no município de Ramón Santana, província de San Pedro de Macorís, na Autopista del Este entre San Pedro de Macorís e La Romana — cerca de 1 hora a 1h15 de carro de Bayahibe, e no caminho de quem vai ou volta de Santo Domingo. O QUE É: a caverna tem 800 metros de extensão total, dos quais 240 metros são abertos à visita, e guarda 472 PICTOGRAFIAS e 19 PETRÓGLIFOS taínos — estimados em 500 a 800 anos — que são uma das referências mais importantes de arte rupestre pré-hispânica das Antilhas. As figuras mais comuns são as ligadas a ritos funerários: corujas e morcegos, mais figuras humanas, iguanas e serpentes. Também há estalactites e estalagmites. Temperatura interna constante de 19 °C o ano inteiro — leve uma camada extra. QUANTO CUSTA: RD$300 adulto e RD$100 criança até 12 anos, segundo o Listín Diario (fevereiro de 2024). QUANTO DURA: o percurso guiado leva cerca de 35 minutos; com deslocamento, reserve meio dia. ACESSIBILIDADE: é a caverna mais acessível do país, com iluminação boa, rampas e passarela — MAS a mesma reportagem registra que o ELEVADOR para pessoas com mobilidade reduzida estava FORA DE SERVIÇO. Confirme antes de ir se esse for o seu caso. HISTÓRIA DO SÍTIO: descoberta em 1926, explorada em 1949, preparada para turismo em 2000 e aberta em 2003; recebe cerca de 50 mil visitantes por ano. O QUE NÃO CONFIRMEI: horário de funcionamento (nenhuma fonte publica), política de fotografia, e se o elevador foi consertado.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 100,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "entrada com guia; RD$300 adulto e RD$100 crianca ate 12 anos",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Preços publicados pelo Listín Diario em 08/02/2024. Fonte única mas de imprensa nacional e datada. Tem mais de 2 anos: trate como piso."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+1 809 951 9009",
+      "site": "https://www.godominicanrepublic.com/que-hacer/cueva-de-las-maravillas",
+      "endereco": "Autopista del Este, Ramón Santana, San Pedro de Macorís"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Temperatura interna de 19 °C: leve agasalho leve.",
+        "Visita guiada: você não entra sozinho.",
+        "Bate-volta de 1h a 1h15 por trecho de Bayahibe."
+      ],
+      "dependeDeClima": true,
+      "acessibilidade": "Rampas e passarela; o elevador para mobilidade reduzida estava fora de serviço segundo reportagem de fevereiro de 2024."
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: RD$300 para ver 472 pictografias taínas é o melhor preço cultural desta base inteira.",
+      "Encaixe no trecho de carro entre Bayahibe e Santo Domingo em vez de fazer bate-volta dedicado: fica no meio do caminho.",
+      "Se alguém da sua família depende de elevador, LIGUE antes: o elevador estava quebrado em 2024.",
+      "Vale cada peso: RD$300 para ver 472 pictografias taínas é o melhor preço cultural desta base inteira.",
+      "Encaixe no trecho de carro entre Bayahibe e Santo Domingo em vez de fazer bate-volta dedicado: fica no meio do caminho.",
+      "Se alguém da sua família depende de elevador, LIGUE antes: o elevador estava quebrado em 2024."
+    ],
+    "alertas": [
+      "HORÁRIO NÃO PUBLICADO por nenhuma fonte, nem pelo site oficial de turismo. Ligue antes.",
+      "ELEVADOR FORA DE SERVIÇO segundo reportagem de fevereiro de 2024; não confirmei conserto.",
+      "Preço de fevereiro de 2024: pode ter subido."
+    ]
+  },
+  {
     "id": "do-byh-passeio-de-dia-inteiro-a-isla-saona-catamara-lancha",
     "fontes": [
       {

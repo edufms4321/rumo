@@ -241,6 +241,52 @@
     "porQue": "Tudo a pé: cafés, bares de música ao vivo (Revo, Cocodrilo, La Viña de Bacco) e mercado de artesanato; hostels e posadas baratas. — Faixa dos exemplos do Wikivoyage (sem data confiável): hostels M$80-250 (dormitório), Posada del Abuelito M$120 dorm / M$250-300 privado, Posada Belén M$300-450; hotel D'Monica a partir de US$58. Valores provavelmente defasados; some inflação. Bares com música ao vivo podem fazer barulho à noite (inferência do agente)."
   },
   {
+    "id": "playa-del-carmen-centro-quinta-avenida-ate-4-quadras",
+    "fontes": [
+      {
+        "url": "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      },
+      {
+        "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "playa-del-carmen",
+    "bairro": "Centro / Quinta Avenida (até ~4 quadras da avenida)",
+    "perfil": "conforto",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 905,
+      "max": 1860
+    },
+    "porQue": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho. — Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto."
+  },
+  {
+    "id": "merida-centro-historico-calles-56-66-57-65-perto-da",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
+    "cidadeId": "merida",
+    "bairro": "Centro Histórico (Calles 56–66 / 57–65, perto da Plaza Grande e do Parque de Santa Lucía)",
+    "perfil": "economico",
+    "diaria": {
+      "moeda": "MXN",
+      "min": 140,
+      "max": 1000
+    },
+    "porQue": "Base ideal para casal econômico: tudo a pé (eventos gratuitos, cantinas, mercados, Casa de Montejo); hostels e pousadas em casarões coloniais; muito vida de rua à noite. — Dados antigos de Wikivoyage (2015–2022): dormitório MXN 140–200 (Hostal Zócalo, 2022) e ~300 (Che Nomadas, 2022); hotéis como Los Aluxes a partir de 630 (2015), Piedra de Agua 850+, Marionetas ~1.000 (abr/2022), Peregrino ~1.000. Hospedajes de MXN 100–250 listados no Wikivoyage (jan/2022) são hotéis de 'estadia de 3 horas' — não servem para dormir. Preços de out/2026 NÃO verificados — consulte as plataformas."
+  },
+  {
     "id": "oaxaca-oaxaca-centro-historico-jalatlaco",
     "fontes": [
       {
@@ -302,51 +348,5 @@
       "max": 650
     },
     "porQue": "Praia naturista, hippie, hospedagem barata, vida noturna leve de praia. — Faixa de Wikivoyage (dado antigo)."
-  },
-  {
-    "id": "playa-del-carmen-centro-quinta-avenida-ate-4-quadras",
-    "fontes": [
-      {
-        "url": "https://foodandpleasure.com/hoteles-baratos-playa-del-carmen/"
-      },
-      {
-        "url": "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
-      },
-      {
-        "url": "https://www.cancuntripinsider.com/guides/playa-del-carmen/is-playa-del-carmen-safe"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
-    "cidadeId": "playa-del-carmen",
-    "bairro": "Centro / Quinta Avenida (até ~4 quadras da avenida)",
-    "perfil": "conforto",
-    "diaria": {
-      "moeda": "MXN",
-      "min": 905,
-      "max": 1860
-    },
-    "porQue": "Perto de tudo (praia, balada, ferry, colectivos); ideal para ritmo intenso e vida noturna, mas com barulho. — Faixa de hotéis por quarto/noite listados em jul/2025: Tukan Hotel 905, Siesta Fiesta 909 (só adultos, na Quinta), Hacienda Real del Caribe 1.100, La Pasión 1.775, Meliora by Bunik 1.860. O Wikivoyage recomenda afastar-se 2 quadras da Quinta para pagar menos. Ônibus ADO e colectivos ficam perto."
-  },
-  {
-    "id": "merida-centro-historico-calles-56-66-57-65-perto-da",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.",
-    "cidadeId": "merida",
-    "bairro": "Centro Histórico (Calles 56–66 / 57–65, perto da Plaza Grande e do Parque de Santa Lucía)",
-    "perfil": "economico",
-    "diaria": {
-      "moeda": "MXN",
-      "min": 140,
-      "max": 1000
-    },
-    "porQue": "Base ideal para casal econômico: tudo a pé (eventos gratuitos, cantinas, mercados, Casa de Montejo); hostels e pousadas em casarões coloniais; muito vida de rua à noite. — Dados antigos de Wikivoyage (2015–2022): dormitório MXN 140–200 (Hostal Zócalo, 2022) e ~300 (Che Nomadas, 2022); hotéis como Los Aluxes a partir de 630 (2015), Piedra de Agua 850+, Marionetas ~1.000 (abr/2022), Peregrino ~1.000. Hospedajes de MXN 100–250 listados no Wikivoyage (jan/2022) são hotéis de 'estadia de 3 horas' — não servem para dormir. Preços de out/2026 NÃO verificados — consulte as plataformas."
   }
 ]

@@ -214,5 +214,60 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "mx-bac-antojitos-orizaba-zocalo-de-bacalar",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bacalar"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Antojitos Orizaba (Zocalo de Bacalar)",
+    "cidadeId": "bacalar",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "antojitos",
+      "yucateco",
+      "maia"
+    ],
+    "coords": {
+      "lat": 18.676775,
+      "lng": -88.3905951
+    },
+    "descricaoCurta": "Comedor no Zocalo de Bacalar com comida yucateca/maia por bom preco - a opcao barata num pueblo onde a lagoa puxa o preco para cima.",
+    "descricaoLonga": "Wikivoyage o lista como tendo 'excelente comida yucateca/maia por bom preco' no Parque Zocalo de Bacalar. Vale como contraponto: os restaurantes a beira da lagoa de Bacalar cobram bem mais (o Chiltepin Marisquillos, na Av. Costero, aparece com M$300 por pessoa na mesma fonte). NAO CONSEGUI CONFIRMAR horario, telefone nem faixa de preco - a listagem so tem nome, coordenada e a frase da descricao. Bacalar e pueblo pequeno: espere cozinha fechando cedo.",
+    "duracao": {
+      "min": 35,
+      "tipica": 55,
+      "max": 80
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a alternativa barata num destino onde quase todo restaurante cobra vista de lagoa.",
+      "Para comer com a lagoa na frente, La Playita (Av. 1 765, 12:00-23:00) e o endereco com horario confirmado."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "Pueblo pequeno: varias cozinhas fecham por volta das 21:00 (a fonte diz que o Los Aluxes fecha cedo)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

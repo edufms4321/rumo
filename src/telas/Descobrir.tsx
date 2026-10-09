@@ -5,6 +5,7 @@ import { IdadeDoDado, PrecoExibido, SeloDeConfianca } from '../componentes/proce
 import { Botao, Campo, Cartao, Selo, Vazio } from '../componentes/ui.tsx';
 import {
   DICA_DO_GRUPO,
+  GRUPOS,
   type Grupo,
   NOME_DO_GRUPO,
   grupoDoItem,
@@ -124,7 +125,16 @@ export function Descobrir() {
     .filter((c) => c.n > 0)
     .sort((a, b) => b.n - a.n);
   const categorias = [...new Set(pacote.itens.map((i) => i.categoria))].sort();
-  const gruposVisiveis = [...contagemPorGrupo.entries()].filter(([, n]) => n > 0);
+  /*
+    Ordem da constante GRUPOS, nao ordem de aparicao no banco. Iterar o Map
+    deixava a fileira na ordem em que os itens apareceram no arquivo, que
+    muda a cada reimportacao: "Natureza, Aventura, Praia" num dia e outra
+    coisa no outro. Menu que troca de ordem sozinho e menu que nao se
+    aprende.
+  */
+  const gruposVisiveis = GRUPOS.map((g) => [g, contagemPorGrupo.get(g) ?? 0] as const).filter(
+    ([, n]) => n > 0,
+  );
   const quantosDescartados = Object.keys(viagem.descartados).length;
   const temFiltro = Boolean(cidade || estado || categoria || grupo || busca || soFavoritos);
 

@@ -615,5 +615,127 @@
       "Preços NÃO confirmados em página aberta.",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-pvr-maria-baja-taco-de-peixe-estilo-baja-em-puerto-valla",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Maria Baja (taco de peixe estilo Baja em Puerto Vallarta)",
+    "cidadeId": "puerto-vallarta",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "marisco",
+      "baja"
+    ],
+    "coords": {
+      "lat": 20.60112,
+      "lng": -105.23419
+    },
+    "descricaoCurta": "Taco de peixe frito estilo Baja e burritas de peixe generosas na Carr. Costera a Barra de Navidad 496, uma quadra fora do grid turistico.",
+    "descricaoLonga": "Wikivoyage: 'delicioso taco de peixe frito estilo Baja e burritas (burritos de peixe) de tamanho generoso. Peca o bastante para provar com cada uma das salsas da casa.' Fica na Carretera Costera a Barra de Navidad 496, colonia Alta Vista - na rodovia 200, uma quadra fora do grid principal da Zona Romantica (listagem editada em 03/2026). NAO CONSEGUI CONFIRMAR horario nem preco desta casa. Como referencia da cidade, a propria fonte registra que taco de rua em Puerto Vallarta sai por cerca de M$20 e quesadilla por cerca de M$55 (nov/2021), e que no Tacos Chilo o taco pequeno saia por M$6 (nov/2021). A fonte tambem faz um aviso de saude: cuidado com comida de vendedor de rua e de barraca pequena de praia, e cerveja em garrafa pode ser mais segura que bebida preparada.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 75
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://www.facebook.com/mariabajapv/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: taco de peixe fora do grid turistico custa uma fracao do malecon.",
+      "Para marisco com morador e sem turista, Mariscos Tino's (El Pitillal, ter-dom 12:00-21:00) e a indicacao da fonte - mas fica num morro, longe do centro."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "A fonte alerta sobre risco de diarreia do viajante em comida de rua e barraca de praia em Puerto Vallarta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-pvr-la-bodeguita-del-medio-salsa-ao-vivo-em-puerto-valla",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Bodeguita del Medio (salsa ao vivo em Puerto Vallarta)",
+    "cidadeId": "puerto-vallarta",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "balada",
+      "musica-ao-vivo",
+      "festas",
+      "vida-noturna",
+      "malecon"
+    ],
+    "coords": {
+      "lat": 20.6001,
+      "lng": -105.2387
+    },
+    "descricaoCurta": "No malecon (Calle Allende): bandas de salsa frequentemente trazidas de Cuba e pista que mistura jovem e casal veterano. Aberta 11:00-04:00.",
+    "descricaoLonga": "Wikivoyage: 'procure a placa amarela redonda caracteristica. Comida cubana boa e solida, otimos drinks e uma charutaria na frente, mas a atracao de verdade sao as excelentes bandas de salsa, muitas vezes importadas de Cuba. A pista e uma mistura deliciosa de gente jovem mostrando os passos e casais mais velhos que ainda sabem dancar.' Fica no Malecon 858, na esquina da Calle Allende, aberta todos os dias das 11:00 as 04:00 (listagem de 08/2017 - dado antigo). NAO CONSEGUI CONFIRMAR preco nem cover. O malecon de Puerto Vallarta e onde a noite da cidade se concentra: na mesma fonte, o Mandala (Paseo Diaz Ordaz 633, 18:00-04:00) aparece com COVER DE M$400 e o Zoo Bar e descrito como pequeno mas divertido.",
+    "duracao": {
+      "min": 90,
+      "tipica": 140,
+      "max": 220
+    },
+    "horariosObservacao": "11:00-04:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 322 223 1585",
+      "site": "http://labodeguitadelmedio.com.mx/restaurantes-la-bodeguita-del-medio.html"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Banda de salsa ao vivo normalmente comeca tarde (22:00 para frente) - jante antes.",
+      "Fica a pe de todo o malecon: nao precisa de taxi para trocar de bar.",
+      "Se quiser balada grande em vez de salsa, o Mandala tem cover de M$400 segundo a fonte."
+    ],
+    "alertas": [
+      "Horario e de 2017 - desatualizado.",
+      "Preco e eventual cover NAO confirmados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

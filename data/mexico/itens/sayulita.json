@@ -145,5 +145,106 @@
       "Confiança 'estimado'.",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-say-el-itacate-tacos-em-sayulita",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Sayulita"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Itacate (tacos em Sayulita)",
+    "cidadeId": "sayulita",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tacos",
+      "pueblo-magico"
+    ],
+    "coords": {
+      "lat": 20.869176,
+      "lng": -105.437945
+    },
+    "descricaoCurta": "Taqueria na Av. Revolucion 15, 13:00-21:00 todos os dias: a fonte chama de um dos melhores tacos de carne da vila.",
+    "descricaoLonga": "Sayulita tem 40 e tantos restaurantes para uma vila minuscula, e a maioria cobra preco de surfista estrangeiro. Esta taqueria, na Av. Revolucion 15, e descrita pela Wikivoyage como 'excelentes tacos focados em carne, um dos melhores da vila', aberta todos os dias de 13:00 as 21:00 (listagem de 02/2024). NAO CONSEGUI CONFIRMAR preco. A fonte tambem recomenda genericamente as barracas de taco de rua da vila como 'otima comida e barato', e para peixe cita o Mary's (Av. Revolucion 36) - mas sem horario nem preco.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 70
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "13:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-21:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 553 068 0645",
+      "site": "http://www.sayulitabeach.com/el-itacate/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: comer taco na Revolucion em vez de palapa de praia e a economia obvia em Sayulita.",
+      "Abre as 13:00 - para cafe da manha, Yah Yah Cafe (Ninos Heroes 4) abre 07:30 e fecha terca."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

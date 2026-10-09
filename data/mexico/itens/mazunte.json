@@ -415,5 +415,76 @@
       "Dados de condições de mar e preços não verificados.",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-maz-palapas-de-praia-de-mazunte-tlayudas-e-aguas-frescas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mazunte"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Palapas de praia de Mazunte (tlayudas e aguas frescas)",
+    "cidadeId": "mazunte",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "tlayuda",
+      "pe-na-areia",
+      "informal",
+      "oaxaquenho"
+    ],
+    "descricaoCurta": "As palapas da praia tem menu e preco quase identicos; a tlayuda sai por M$25-50 e da para dois, o taco por M$20-30 e a agua fresca por M$5-10.",
+    "descricaoLonga": "Este item e deliberadamente GENERICO porque e assim que Mazunte funciona: a Wikivoyage diz que as palapas de frente para a praia tem menus e precos quase iguais e que a melhor aposta e entrar na que tiver mais gente. Os numeros registrados pela fonte: tlayuda (o prato oaxaquenho que aqui chega a costa) por M$25-50 e grande o bastante para duas pessoas; taco por M$20-30 na maioria dos restaurantes, e menos com os vendedores que passam na praia; agua fresca por M$5-10, com espera. Casas nomeadas pela fonte, sem horario e sem telefone: Tania (Paseo del Mazunte, na entrada oeste da vila), La dolce vita (pizza) e Sahuaro (atras do Arquitecto). A fonte tambem menciona padeiros e vendedores de tamal circulando na praia e recomenda cautela a quem tem estomago sensivel. Este item e uma orientacao de onde e por quanto comer, nao um endereco, e entra sem coordenada de proposito.",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 25,
+      "max": 120,
+      "por": "pessoa",
+      "inclui": "Tlayuda M$25-50 (serve dois), taco M$20-30, agua fresca M$5-10, conforme a fonte. O teto de M$120 e minha estimativa de refeicao completa por pessoa e NAO esta na fonte.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mazunte"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: uma tlayuda de M$25-50 alimenta duas pessoas, segundo a propria fonte.",
+      "Regra da fonte: escolha a palapa com mais gente - os menus sao praticamente iguais.",
+      "Quem vai cozinhar: ha uma venda grande de verdura na entrada da vila, logo depois do centro de tartarugas."
+    ],
+    "alertas": [
+      "Item GENERICO, nao um endereco: barraca e palapa de praia mudam de dono e de preco.",
+      "A fonte recomenda cautela com comida vendida por ambulante na praia para quem tem estomago sensivel.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

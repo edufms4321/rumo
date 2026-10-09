@@ -12,6 +12,16 @@
 import { ChevronRight } from 'lucide-react';
 import type { EstadoNoIndice, RegiaoNoIndice } from '../data/carregar.ts';
 
+/*
+  O nome oficial colombiano e "Region Caribe", "Region Andina". Dentro de
+  uma arvore cujo nivel ja e a regiao, o prefixo e so comprimento. Brasil,
+  Mexico e Republica Dominicana nao usam prefixo, entao isto so afeta a
+  Colombia - e nao mexe no dado, so em como ele aparece.
+*/
+function semPrefixoDeRegiao(nome: string): string {
+  return nome.replace(/^Regi(?:[ãa]o|[óo]n)\s+/i, '');
+}
+
 function plural(n: number, um: string, muitos: string): string {
   return `${n} ${n === 1 ? um : muitos}`;
 }
@@ -96,7 +106,7 @@ export function ArvoreDeLugares({ arvore }: { arvore: RegiaoNoIndice[] }) {
                   className="shrink-0 transition-transform group-open/r:rotate-90"
                   size={13}
                 />
-                {regiao.nome}
+                {semPrefixoDeRegiao(regiao.nome)}
                 <span className="font-normal text-[var(--cor-texto-fraco)]">
                   {plural(regiao.estados.length, 'estado', 'estados')} ·{' '}
                   {plural(bases, 'base', 'bases')}

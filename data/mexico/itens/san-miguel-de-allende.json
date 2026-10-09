@@ -717,5 +717,105 @@
       "Cuidado: o OSM tem um 'Santuario del Niño de la Salud' em Atotonilco, San Luis Potosí, homônimo de localidade; a coordenada usada é da Wikipedia (Sanctuary of Atotonilco).",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "mx-sma-mercado-ignacio-ramirez-san-miguel-de-allende",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado Ignacio Ramirez (San Miguel de Allende)",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "antojitos",
+      "comida-corrida"
+    ],
+    "coords": {
+      "lat": 20.9164769,
+      "lng": -100.7411886
+    },
+    "descricaoCurta": "O mercado do centro de San Miguel: comedores no fundo, abertos 08:30-17:00, com pratos tradicionais a preco que a cidade nao cobra mais em lugar nenhum.",
+    "descricaoLonga": "San Miguel de Allende e a cidade mais caras do Bajio por causa da colonia de estrangeiros; este mercado e onde o preco local sobreviveu. Wikivoyage: 'bom lugar para comecar a comer pratos mexicanos tradicionais por preco baixo. Os restaurantes com mesa estao mais para dentro do mercado. Abrem todos os dias 08:30-17:00 (fecham duas horas antes do mercado).' NAO CONSEGUI CONFIRMAR preco medio dos comedores. Para dar escala, na mesma fonte: El Buen Lugar (Hidalgo 90) servia comida corrida por M$90 em dez/2021; a casa '202' (Insurgentes 202) dava 4 tacos com salada por M$30; e a Polleria D'Daniel vendia meio frango grelhado com tortilla por M$55. Outra opcao economica da fonte: TIANGUIS DE LOS MARTES, a ~3 km do centro, so as TERCAS de 08:00 as 16:00, com variedade enorme de comida de rua (onibus 8 ou 9 da Plaza Civica).",
+    "duracao": {
+      "min": 40,
+      "tipica": 60,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:30",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:30-17:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: e o unico lugar do centro de San Miguel onde o preco nao e de dolar.",
+      "Os comedores fecham as 17:00, duas horas antes do mercado - nao chegue as 18:00.",
+      "Se voce esta em San Miguel numa TERCA, o Tianguis de los Martes (08:00-16:00, 3 km) e a feira de comida de rua da semana."
+    ],
+    "alertas": [
+      "Preco dos comedores NAO confirmado; os valores citados na descricao sao de outras casas e de dez/2021."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

@@ -977,5 +977,455 @@
       "Valor 750 é de nov/2024 (Wikivoyage) - pode estar defasado.",
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "mx-gdl-mercado-libertad-san-juan-de-dios-praca-de-alimentac",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Mercado_Libertad"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Mercado Libertad / San Juan de Dios (praca de alimentacao)",
+    "cidadeId": "guadalajara",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "tortas-ahogadas",
+      "birria",
+      "pozole"
+    ],
+    "coords": {
+      "lat": 20.67543,
+      "lng": -103.33948
+    },
+    "descricaoCurta": "O maior mercado coberto da America Latina: ~4.000 bancas em tres andares e um andar inteiro de comida com tortas ahogadas, pozole e menudo.",
+    "descricaoLonga": "Conhecido pelos tapatios como Mercado San Juan de Dios, ocupa cerca de 25.000 m2 com aproximadamente 4.000 bancas em tres niveis - joias e doces num, COMIDA noutro, roupa e eletronico no terceiro (Wikipedia es). O predio atual e de Alejandro Zohn e abriu em 30/12/1958, no lugar de um mercado que existe ali desde pelo menos 1880. O que se come: torta ahogada (o prato-assinatura de Jalisco, sanduiche de birote afogado em molho de chile), tacos, pozole e menudo no andar da comida, e fondas de pratos variados no segundo nivel. Wikivoyage registra 06:00-20:00 diariamente e diz que a praca de alimentacao e boa justamente para provar varias especialidades locais numa visita, com a maioria das bancas exibindo preco na etiqueta e precos baixos. A Wikipedia es registra incendio em 31/03/2022 que destruiu cerca de 13% do mercado, no setor sul. NAO CONSEGUI CONFIRMAR o preco de uma torta ahogada em fonte publicavel.",
+    "duracao": {
+      "min": 50,
+      "tipica": 80,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "20:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:00-20:00",
+    "diasFechados": [],
+    "melhorHorario": "Almoco (13:00-15:00) e quando o andar da comida esta inteiro funcionando; a praca de alimentacao abre as 08:00 segundo a propria fonte.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 33 3618 0506"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a maioria das bancas tem preco na etiqueta e os vendedores deixam voce circular sem insistir.",
+      "Torta ahogada aqui, birria nas Nueve Esquinas, pozole na praca de alimentacao - da para fazer o triangulo tapatio em dois dias.",
+      "Fica de frente para a Plaza de los Mariachis (Javier Mina com Calzada Independencia): almoco de dia, mariachi depois."
+    ],
+    "alertas": [
+      "Fontes divergem no horario: Wikivoyage diz 06:00-20:00 e a Wikipedia es diz apenas 'todos os dias do ano'. O banco usa a primeira.",
+      "Setor sul foi atingido por incendio em 31/03/2022 (~13% do mercado); nao confirmei o estado atual das reformas."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-birreria-las-nueve-esquinas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Birreria Las Nueve Esquinas",
+    "cidadeId": "guadalajara",
+    "categoria": "restaurante",
+    "tags": [
+      "birria",
+      "jalisco",
+      "comida-tipica"
+    ],
+    "coords": {
+      "lat": 20.67067,
+      "lng": -103.34847
+    },
+    "descricaoCurta": "Birria de carneiro no bairro das Nueve Esquinas, Centro Historico: o prato de Jalisco no bairro que e feito dele.",
+    "descricaoLonga": "Birria e o ensopado de chiles e especiarias, tradicionalmente de cabrito, hoje servido tambem com carneiro ou boi. Wikivoyage aponta a regiao das NUEVE ESQUINAS (algumas quadras ao sul do Templo San Francisco, batizada pelo cruzamento irregular de ruas) como o lugar confiavel para comer birria em Guadalajara, e esta casa, na Cristobal Colon 384, como a conhecida pela birria de carneiro. Horario listado: segunda a sabado 09:00-22:00, domingo 09:00-19:30. NAO CONSEGUI CONFIRMAR preco - a fonte nao traz faixa para esta casa.",
+    "duracao": {
+      "min": 45,
+      "tipica": 70,
+      "max": 100
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "19:30"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-22:00 | 09:00-19:30",
+    "diasFechados": [],
+    "melhorHorario": "Birria e prato de manha e comeco de tarde no Mexico; chegue entre 09:00 e 13:00.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 33 3613 6260",
+      "site": "http://www.las9esquinas.com"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Se a casa estiver cheia, qualquer birreria das Nueve Esquinas resolve - a propria fonte diz que as da regiao sao 'reliably good'.",
+      "Pergunte de que carne e a birria do dia: cabrito, carneiro e boi mudam o prato e o preco."
+    ],
+    "alertas": [
+      "Preco NAO confirmado em fonte aberta."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-la-chata-cozinha-tapatia-no-centro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "La Chata (cozinha tapatia no Centro)",
+    "cidadeId": "guadalajara",
+    "categoria": "restaurante",
+    "tags": [
+      "tortas-ahogadas",
+      "pozole",
+      "comida-tipica",
+      "jalisco"
+    ],
+    "coords": {
+      "lat": 20.67469,
+      "lng": -103.34665
+    },
+    "descricaoCurta": "Casa cheia e barulhenta na Corona 126, aberta 07:30 a meia-noite todos os dias: pozole, tortas ahogadas e chilaquiles de receita caseira.",
+    "descricaoLonga": "Wikivoyage a descreve como muito popular e muito lotada, servindo comida tradicional 'do jeito que a mae fazia', com precos mais altos que outras casas que servem o mesmo - mas ainda razoaveis. Fica na Corona 126, Zona Centro, a poucas quadras da catedral, e abre todos os dias de 07:30 a meia-noite, o que resolve tanto cafe da manha quanto jantar. NAO CONSEGUI CONFIRMAR faixa de preco: a fonte faz a comparacao relativa mas nao da numeros.",
+    "duracao": {
+      "min": 50,
+      "tipica": 75,
+      "max": 110
+    },
+    "horariosObservacao": "07:30-24:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 33 3613 1315",
+      "site": "http://www.lachata.com.mx"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "E o endereco para torta ahogada com mesa e banheiro - no Mercado Libertad sai mais barato, mas de pe.",
+      "Espere fila no almoco de fim de semana; cafe da manha (07:30-10:00) e o horario vazio."
+    ],
+    "alertas": [
+      "Preco NAO confirmado; a fonte diz que e mais caro que a media da mesma comida."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-cerveceria-loba",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cerveceria Loba",
+    "cidadeId": "guadalajara",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria-artesanal",
+      "bares",
+      "vida-noturna",
+      "colonia-americana"
+    ],
+    "coords": {
+      "lat": 20.678078,
+      "lng": -103.361196
+    },
+    "descricaoCurta": "Taproom e cervejaria propria na Colonia Americana (C. Gregorio Davila 76): ales e lagers, stouts, IPAs e goses. Fecha domingo.",
+    "descricaoLonga": "Wikivoyage: 'taproom e cervejaria artesanal produzindo varios estilos de ale e lager, com stouts, IPAs, goses e mais.' Fica na C. Gregorio Davila 76, na COLONIA AMERICANA - que a fonte identifica como o distrito de bar mais ativo de Guadalajara, concentrado na Avenida Chapultepec entre Hidalgo e Ninos Heroes, uns 2 km a oeste do Centro Historico, com bar atras de bar e varias casas que tambem sao palco de musica ao vivo. Horario: segunda a sabado 14:00-01:00, FECHADO DOMINGO (listagem editada em 12/2024). NAO CONSEGUI CONFIRMAR preco. A fonte tambem sugere, para quem quer entender tequila, procurar um bar com carta grande e provar um blanco, um reposado e um anejo, de preferencia de Los Altos (a regiao a nordeste de Guadalajara).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "horariosObservacao": "14:00-01:00",
+    "diasFechados": [
+      "dom"
+    ],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 332 035 6401",
+      "site": "http://www.cervezaloba.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "A noite de Guadalajara esta na Colonia Americana (Av. Chapultepec), nao no Centro Historico - planeje dormir ou voltar de carro de la.",
+      "Para balada eletronica a mesma avenida tem o Bar Americas (Chapultepec Sur 507), que, segundo a fonte, so engrena depois das 02:00.",
+      "Fecha domingo."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-plaza-de-los-mariachis-guadalajara-2",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      },
+      {
+        "url": "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Plaza de los Mariachis (Guadalajara)",
+    "cidadeId": "guadalajara",
+    "categoria": "atracao",
+    "tags": [
+      "mariachi",
+      "musica-ao-vivo",
+      "festas",
+      "vida-noturna",
+      "jalisco"
+    ],
+    "coords": {
+      "lat": 20.67495,
+      "lng": -103.3414
+    },
+    "descricaoCurta": "O berco do mariachi, na Javier Mina com Calzada Independencia, em frente ao Mercado Libertad: musicos esperando trabalho a qualquer hora do dia e da noite.",
+    "descricaoLonga": "Inaugurada em maio de 1962 pelo presidente Adolfo Lopez Mateos e dedicada a Pepe Guizar, autor da cancao 'Guadalajara'; desde 2019 tem uma estatua de Vicente Fernandez (Milenio, 21/01/2022). Fica no cruzamento da Calzada Independencia com a Avenida Javier Mina, no bairro San Juan de Dios, de frente para o Mercado Libertad, e a Wikivoyage registra que a praca e cercada de restaurantes e bares. Jalisco e a terra do mariachi, reconhecido pela UNESCO como patrimonio imaterial em 2011, e a praca e o ponto onde os grupos esperam contratacao 'a diferentes horas do dia e da noite'. PRECO: um musico entrevistado pelo Milenio disse que o custo por hora de um grupo fica em torno de M$3.500, negociavel para evento mais longo ou fora do periferico - esse e o unico numero que a materia que eu abri traz. Numeros de preco por cancao circulam em outras reportagens que eu nao abri e por isso nao registro. COMBINE O PRECO ANTES DE A MUSICA COMECAR. O nome oficial da praca e Plaza Pepe Guizar, e foi ali que nasceu o Jarabe Tapatio, o 'Mexican Hat Dance' (Wikivoyage). AVISO DE SEGURANCA: a Wikivoyage traz uma ressalva explicita - 'este bairro fica sketchy depois do escurecer'. O Festival Internacional del Mariachi y la Charreria acontece em setembro, todo ano - datas de 2027/2028 nao publicadas.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "melhorHorario": "Noite, e sobretudo em setembro, no Festival Internacional del Mariachi y la Charreria (datas de 2027/2028 nao publicadas).",
+    "preco": {
+      "moeda": "MXN",
+      "min": 3500,
+      "max": 3500,
+      "por": "grupo",
+      "inclui": "Cerca de M$3.500 pela hora de um grupo, segundo um musico entrevistado pelo Milenio em 21/01/2022, negociavel. NAO e tabela oficial; nao e preco por pessoa nem por cancao.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Combine o preco e a duracao antes de o grupo tocar - o valor e negociavel, segundo a propria fonte.",
+      "Encaixe com o Mercado Libertad: almoco de torta ahogada de dia, mariachi do outro lado da rua a noite.",
+      "Para mariachi com mesa e jantar, Casa Bariachi (Av. Ignacio Vallarta 2221, 13:00-03:00, faixa M$500) e El Parian de Tlaquepaque sao as opcoes da fonte.",
+      "A fonte avisa que o bairro piora depois do escurecer: chegue de aplicativo e combine a volta."
+    ],
+    "alertas": [
+      "SEGURANCA: a Wikivoyage avisa que o bairro de San Juan de Dios 'fica sketchy depois do escurecer'. Va e volte de taxi de aplicativo, nao a pe.",
+      "Preco de 2022, de um musico entrevistado - nao e tabela e nao cobre preco por cancao."
+    ]
+  },
+  {
+    "id": "mx-gdl-el-parian-de-tlaquepaque-mariachi-bate-volta-de-guad",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Parian de Tlaquepaque (mariachi) - bate-volta de Guadalajara",
+    "cidadeId": "guadalajara",
+    "categoria": "experiencia",
+    "tags": [
+      "mariachi",
+      "musica-ao-vivo",
+      "festas",
+      "tlaquepaque",
+      "bate-volta"
+    ],
+    "coords": {
+      "lat": 20.63883,
+      "lng": -103.31104
+    },
+    "descricaoCurta": "BATE-VOLTA de ~25 min de carro do centro de Guadalajara: praca central de Tlaquepaque cercada de restaurantes, com mariachis e apresentacao publica as 21:30.",
+    "descricaoLonga": "E BATE-VOLTA, nao esta em Guadalajara: Tlaquepaque fica a cerca de 8 km ao sudeste do Centro Historico de Guadalajara, uns 20 a 30 minutos de carro ou aplicativo dependendo do transito (a Wikivoyage de Guadalajara redireciona Tlaquepaque para a propria pagina de Guadalajara, tratando-o como parte da area metropolitana). El Parian e a praca central do centro historico de Tlaquepaque, na esquina das calles Juarez e Progreso: um quadrilatero de restaurantes em volta de um coreto central. Wikivoyage: 'lugar agradavel para sentar e beber ou fazer uma refeicao, com numerosos mariachis que tocam para voce por uma pequena taxa e tambem APRESENTACOES PUBLICAS QUE COMECAM AS 21:30'. Ou seja: as 21:30 ha musica de graca para a praca inteira. NAO CONSEGUI CONFIRMAR o valor da 'pequena taxa' por musica, nem horario de abertura ou fechamento da praca. Tlaquepaque tambem e o bairro de artesanato e ceramica da regiao; para jantar com cozinha regional, a mesma fonte lista Real San Pedro (Independencia 163, 08:00-22:00, faixa M$200).",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 270
+    },
+    "diasFechados": [],
+    "melhorHorario": "Chegar por volta das 20:00 para jantar e ficar para a apresentacao publica das 21:30.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "http://business.google.com/website/el-parian/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: as apresentacoes das 21:30 sao para a praca - da para ouvir mariachi sem contratar grupo.",
+      "Combine o valor com o mariachi ANTES de ele comecar: a fonte diz 'pequena taxa', mas nao da numero.",
+      "Faca o dia inteiro: artesanato e ceramica de Tlaquepaque de tarde, Parian a noite, volta de aplicativo."
+    ],
+    "alertas": [
+      "Valor da 'pequena taxa' por musica NAO confirmado.",
+      "Horario de abertura e fechamento da praca NAO confirmado - apenas a apresentacao publica das 21:30."
+    ]
   }
 ]

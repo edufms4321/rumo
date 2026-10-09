@@ -1,5 +1,510 @@
 [
   {
+    "id": "do-ltr-la-casa-del-chimi-las-terrenas",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Casa%20del%20Chimi%2C%20Las%20Terrenas&format=json&limit=1&countrycodes=do"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "La Casa del Chimi (Las Terrenas)",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-dominicana",
+      "chimichurri",
+      "comida-de-rua",
+      "barato",
+      "pulled-pork"
+    ],
+    "descricaoCurta": "Barraca de chimi e sanduíche de pernil em Las Terrenas por cerca de RD$125, aberta no fim da tarde.",
+    "descricaoLonga": "Fica depois do Supermercado Lindo, na parte de serviço de Las Terrenas. É o chimi dominicano — hambúrguer de pan de agua com repolho e cebola em conserva — mais sanduíche de pernil desfiado, servido em barraca. QUANTO CUSTA: RD$125, segundo o Wikivoyage. É o prato mais barato que consegui confirmar nesta península, onde o resto das casas é francês ou italiano e cobra em euro mental. HORÁRIO: a barraca de hambúrguer abre às 17h e o churrasco às 15h, segundo a mesma fonte. COMO CHEGAR: a pé ou de motoconcho dentro de Las Terrenas. O QUE NÃO CONFIRMEI: telefone, endereço com número, coordenadas, horário de fechamento, e se os preços de 2026 batem com o registrado — a página do Wikivoyage não data o preço.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 60
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "15:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "15:00-23:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 125,
+      "max": 125,
+      "por": "pessoa",
+      "inclui": "um sanduiche",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "RD$125 por sanduíche segundo o Wikivoyage, que NÃO data o preço. Fonte única."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Depois do Supermercado Lindo, Las Terrenas"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só abre da tarde para a noite: churrasco a partir das 15h, hambúrguer a partir das 17h."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: é o contrapeso barato dos bistrôs franceses de Las Terrenas.",
+      "Vale cada peso: é o contrapeso barato dos bistrôs franceses de Las Terrenas."
+    ],
+    "alertas": [
+      "O horário de fechamento (23h) é inferência minha a partir de 'abre às 15h/17h': a fonte não publica o fechamento. Trate 23h como aproximação.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-boulangerie-francaise-las-terrenas",
+    "fontes": [
+      {
+        "url": "https://nominatim.openstreetmap.org/search?q=Boulangerie%20Francaise%2C%20Las%20Terrenas&format=json&limit=1&countrycodes=do"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Boulangerie Française (Las Terrenas)",
+    "cidadeId": "las-terrenas",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "padaria",
+      "frances",
+      "cafe-da-manha",
+      "baguete"
+    ],
+    "coords": {
+      "lat": 19.3210685,
+      "lng": -69.538243
+    },
+    "descricaoCurta": "Padaria francesa na Avenida Juan Pablo Duarte: baguete, croissant e café. A herança da colônia francesa de Las Terrenas no café da manhã.",
+    "descricaoLonga": "Las Terrenas tem colônia francesa e italiana de décadas, e a consequência mais prática disso é que você toma café da manhã com pão de verdade. A Boulangerie Française fica na Avenida Juan Pablo Duarte, na entrada do núcleo urbano (bairro Abra Grande / El Manantial), e serve viennoiserie assada no dia, baguete e café, com opção de comer no local. QUANTO CUSTA: nenhuma fonte que abri publica tabela. OMITI o campo preço. Como referência de ordem de grandeza na cidade, o Wikivoyage registra cafeteria local a RD$50-100 e pizza de 30 cm a RD$300-500 — mas isso é de OUTRAS casas, não desta, e por isso não entrou no campo preço. COMO CHEGAR: a pé ou de motoconcho; fica na avenida principal. O QUE NÃO CONFIRMEI: horário, telefone, site e preço.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Juan Pablo Duarte, Abra Grande, Las Terrenas 82201"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Compre a baguete do dia de manhã e leve para a praia: é o almoço mais barato de Las Terrenas.",
+      "Compre a baguete do dia de manhã e leve para a praia: é o almoço mais barato de Las Terrenas."
+    ],
+    "alertas": [
+      "Sem horário nem preço confirmados."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-el-loro-restaurante-beach-bar-playa-las-ballenas",
+    "fontes": [
+      {
+        "url": "https://www.enprimeurclub.com/restaurants/el-loro-restaurante-beach-bar-hotel-alisei-las-terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Loro Restaurante & Beach Bar (Playa Las Ballenas)",
+    "cidadeId": "las-terrenas",
+    "categoria": "restaurante",
+    "tags": [
+      "frutos-do-mar",
+      "ceviche",
+      "pe-na-areia",
+      "por-do-sol",
+      "pescado"
+    ],
+    "descricaoCurta": "Peixe e ceviche de pé na areia da Playa Las Ballenas, com mesas na areia, camas balinesas e DJ no fim da tarde.",
+    "descricaoLonga": "Fica na Avenida Los Corales, de frente para a Playa Las Ballenas, ligado ao Hotel Alisei. A cozinha é de mercado, com foco em peixe e frutos do mar: ceviche, camarão à crioula, bacalhau com batata confitada, cabrito braseado no rum, mais opções vegetarianas. Metade do salão é coberta, metade é mesa na areia com camas balinesas; há DJ no fim da tarde. QUANTO CUSTA: US$30 a US$50 por pessoa, segundo a ficha que abri — em dólar porque é assim que a fonte publica. Sobre a conta entram 18% de ITBIS e 10% de propina legal. HORÁRIO: segunda a sexta e domingo 7h30-23h; sábado 7h30-1h. Ou seja, serve café da manhã também. RESERVA: recomendada. O QUE NÃO CONFIRMEI: coordenadas (Nominatim vazio), site oficial e se a faixa de preço está atualizada — a ficha não declara data de coleta.",
+    "duracao": {
+      "min": 75,
+      "tipica": 110,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:30",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:30",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:30-23:00 | 07:30-23:59",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 30,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "refeicao; nao inclui ITBIS de 18% nem propina legal de 10%",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "US$30 a US$50 por pessoa segundo ficha de restaurante. Em USD porque a fonte publica em USD — não converti. Sem data de coleta na fonte."
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "+1 829 451 0130",
+      "endereco": "Av. Los Corales, Las Terrenas 32000"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mesa na areia depende do tempo."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Reserve mesa na areia para o pôr do sol; é o motivo de vir aqui em vez de outro peixe da cidade.",
+      "Reserve mesa na areia para o pôr do sol; é o motivo de vir aqui em vez de outro peixe da cidade."
+    ],
+    "alertas": [
+      "O sábado fecha à 1h da manhã: registrei como 23h59 porque o formato do banco não atravessa a meia-noite.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "do-ltr-el-mosquito-art-bar-e-clandestino-las-terrenas",
+    "fontes": [
+      {
+        "url": "https://simplydominican.com/samana-s-nightlife-entertainment"
+      },
+      {
+        "url": "https://www.elcaribe.com.do/sin-categoria/renovado-pueblo-los-pescadores/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "El Mosquito Art Bar e Clandestino (Las Terrenas)",
+    "cidadeId": "las-terrenas",
+    "categoria": "bar",
+    "tags": [
+      "drinks",
+      "coquetel",
+      "arte",
+      "vida-noturna",
+      "pe-na-areia"
+    ],
+    "descricaoCurta": "O bar de coquetel autoral de Las Terrenas, aberto das 18h30 às 2h. O espaço do antigo El Mosquito hoje é o Clandestino.",
+    "descricaoLonga": "Las Terrenas tem duas noites: a do Pueblo de los Pescadores (já catalogado nesta base), que é praça gastronômica com música, e a dos bares de autor. O El Mosquito Art Bar foi por anos o endereço dessa segunda noite — mistura de arte e mixologia, coquetéis trabalhados, horário das 18h30 às 2h, todos os dias, com prancha de stand-up e quadra de vôlei no mesmo terreno. ATENÇÃO, MUDANÇA RECENTE: uma fonte dominicana registra que o espaço de El Mosquito passou a ser ocupado pelo CLANDESTINO, aberto em 21 de dezembro, com vários ambientes de ar boêmio. Ou seja: você provavelmente vai encontrar o Clandestino no endereço do Mosquito. As duas fontes que abri se contradizem sobre qual casa está no ar, e eu não consegui resolver — vá sabendo disso. Outras opções da cidade citadas nas mesmas fontes: La Bodega (bar de vinho com tapas), Replay (casa de 300 pessoas com salsa, bachata, merengue, hip hop e reggae) e Babylon Disco (terça a domingo, 21h às 4h, dembow, bachata, merengue e internacional). QUANTO CUSTA: o Wikivoyage registra coquetéis a partir de 200 pesos e cerveja de loja de conveniência por volta de 80 pesos em Las Terrenas — números da CIDADE, não desta casa, e por isso registrados aqui com essa ressalva explícita. O QUE NÃO CONFIRMEI: qual casa está efetivamente aberta, endereço com número, telefone e coordenadas.",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 300
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "18:30",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "18:30-23:59",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "DOP",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "coquetel (preco de referencia da cidade de Las Terrenas, nao desta casa)",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "ATENÇÃO: RD$200 é o piso de coquetel em LAS TERRENAS segundo o Wikivoyage, não o preço confirmado desta casa. Registrei como referência de cidade porque não achei carta do bar. Cerveja de colmado/loja na cidade: cerca de RD$80."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Las Terrenas, Samaná"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Abre só à noite."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Antes de ir, pergunte na recepção se o endereço é Mosquito ou Clandestino hoje: as fontes divergem e a casa trocou de nome.",
+      "Antes de ir, pergunte na recepção se o endereço é Mosquito ou Clandestino hoje: as fontes divergem e a casa trocou de nome."
+    ],
+    "alertas": [
+      "SUSPEITA DE TROCA: o espaço de El Mosquito teria sido assumido pelo Clandestino. Confirme na porta.",
+      "O horário 18h30-2h da fonte foi registrado como 18h30-23h59 por limitação do formato.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "do-ltr-babylon-disco-las-terrenas",
+    "fontes": [
+      {
+        "url": "https://simplydominican.com/samana-s-nightlife-entertainment"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Las_Terrenas"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "nome": "Babylon Disco (Las Terrenas)",
+    "cidadeId": "las-terrenas",
+    "categoria": "bar",
+    "tags": [
+      "discoteca",
+      "balada",
+      "bachata",
+      "merengue",
+      "dembow",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "A discoteca de Las Terrenas: terça a domingo das 21h às 4h, com dembow, bachata, merengue e internacional.",
+    "descricaoLonga": "Las Terrenas é cidade de europeus e de bistrô, mas a noite dançante existe e é dominicana. O Babylon é a discoteca da cidade: abre de TERÇA A DOMINGO das 21h às 4h, com dembow, bachata, merengue e música internacional. Para quem quer casa de 300 pessoas com salsa, bachata, merengue, hip hop e reggae, a mesma fonte cita o Replay como alternativa. Fora disso, a noite da cidade é o Pueblo de los Pescadores (já catalogado nesta base) e os bares de autor. QUANTO CUSTA: nenhuma fonte publica cover nem preço de bebida desta casa. Como referência de cidade, o Wikivoyage registra coquetel a partir de RD$200 e cerveja de loja por cerca de RD$80 em Las Terrenas — números da cidade, não do Babylon, e por isso NÃO registrei campo preço aqui. COMO CHEGAR: a pé ou de motoconcho; Las Terrenas é compacta. O QUE NÃO CONFIRMEI: endereço com número, telefone, cover, preço de bebida e coordenadas.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 360
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "21:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "21:00-23:59",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Las Terrenas, Samaná"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fecha segunda.",
+        "Volta de madrugada: motoconcho de madrugada em estrada escura é o maior risco de Las Terrenas. Combine transporte."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Se você quer dançar bachata com dominicanos em Las Terrenas e não ver cover band para francês, é aqui.",
+      "Combine a volta ANTES de entrar: motoconcho de madrugada na península é o risco real da noite.",
+      "Se você quer dançar bachata com dominicanos em Las Terrenas e não ver cover band para francês, é aqui.",
+      "Combine a volta ANTES de entrar: motoconcho de madrugada na península é o risco real da noite."
+    ],
+    "alertas": [
+      "Sem endereço exato, cover nem preço de bebida confirmados.",
+      "O horário 21h-4h da fonte foi registrado como 21h-23h59 por limitação do formato, que não atravessa a meia-noite.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
     "id": "do-ltr-observacao-de-baleias-jubarte-na-baia-de-samana",
     "fontes": [
       {
