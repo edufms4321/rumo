@@ -26,6 +26,7 @@ import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { contarPorGrupo } from '../src/engine/grupos.ts';
 import type { Item } from '../src/schema/item.ts';
+import { bolivia } from './destinos/bolivia.ts';
 import { colombia } from './destinos/colombia.ts';
 import { mexico } from './destinos/mexico.ts';
 import { nordeste } from './destinos/nordeste.ts';
@@ -54,7 +55,7 @@ import {
 
 const RAIZ = resolve(import.meta.dirname, '..');
 
-const DESTINOS: Record<string, ConfigDeDestino> = { colombia, mexico, nordeste, 'punta-cana': puntaCana };
+const DESTINOS: Record<string, ConfigDeDestino> = { bolivia, colombia, mexico, nordeste, 'punta-cana': puntaCana };
 
 function escolherDestino(): ConfigDeDestino {
   const pedido = process.argv[2] ?? 'colombia';

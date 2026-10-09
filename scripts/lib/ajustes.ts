@@ -13,12 +13,13 @@
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { ConfigDeDestino } from '../destinos/tipos.ts';
+import { bolivia } from '../destinos/bolivia.ts';
 import { colombia } from '../destinos/colombia.ts';
 import { mexico } from '../destinos/mexico.ts';
 import { nordeste } from '../destinos/nordeste.ts';
 import { puntaCana } from '../destinos/punta-cana.ts';
 
-export const DESTINOS: Record<string, ConfigDeDestino> = { colombia, mexico, nordeste, 'punta-cana': puntaCana };
+export const DESTINOS: Record<string, ConfigDeDestino> = { bolivia, colombia, mexico, nordeste, 'punta-cana': puntaCana };
 
 export function configDe(id: string): ConfigDeDestino {
   const c = DESTINOS[id];
