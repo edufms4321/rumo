@@ -21,6 +21,7 @@ const Descobrir = lazy(() =>
 const DiaDaViagem = lazy(() =>
   import('./telas/DiaDaViagem.tsx').then((m) => ({ default: m.DiaDaViagem })),
 );
+const Dormir = lazy(() => import('./telas/Dormir.tsx').then((m) => ({ default: m.Dormir })));
 const Exportar = lazy(() => import('./telas/Exportar.tsx').then((m) => ({ default: m.Exportar })));
 const Orcamento = lazy(() =>
   import('./telas/Orcamento.tsx').then((m) => ({ default: m.Orcamento })),
@@ -65,6 +66,7 @@ export function App() {
             <Route element={<Configuracao />} path="config" />
             <Route element={<Descobrir />} path="descobrir" />
             <Route element={<Selecao />} path="selecao" />
+            <Route element={<Dormir />} path="dormir" />
             <Route element={<Calendario />} path="calendario" />
             <Route element={<DiaDaViagem />} path="dia/:diaId" />
             <Route element={<Orcamento />} path="orcamento" />

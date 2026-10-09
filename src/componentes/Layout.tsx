@@ -7,11 +7,11 @@
  * mudanca - nao ha copia de estado.
  */
 import {
+  BedDouble,
   CalendarDays,
   Compass,
   Download,
   Heart,
-  type LucideIcon,
   Moon,
   Radar,
   Redo2,
@@ -19,6 +19,7 @@ import {
   Sun,
   TicketCheck,
   TriangleAlert,
+  type LucideIcon,
   Undo2,
   Wallet,
 } from 'lucide-react';
@@ -43,6 +44,7 @@ const ABAS: Array<{ para: string; rotulo: string; icone: LucideIcon }> = [
   { para: 'agora', rotulo: 'Agora', icone: Radar },
   { para: 'descobrir', rotulo: 'Descobrir', icone: Compass },
   { para: 'selecao', rotulo: 'Selecao', icone: Heart },
+  { para: 'dormir', rotulo: 'Dormir', icone: BedDouble },
   { para: 'calendario', rotulo: 'Calendario', icone: CalendarDays },
   { para: 'orcamento', rotulo: 'Orcamento', icone: Wallet },
   { para: 'reservas', rotulo: 'Reservas', icone: TicketCheck },

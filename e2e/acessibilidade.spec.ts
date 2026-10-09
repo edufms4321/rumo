@@ -12,6 +12,7 @@ import { expect, test, type Page } from '@playwright/test';
 const TELAS = [
   'descobrir',
   'selecao',
+  'dormir',
   'calendario',
   'orcamento',
   'reservas',

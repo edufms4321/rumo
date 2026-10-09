@@ -856,43 +856,138 @@ function perfilDoBairro(texto: string): string {
   return 'conforto';
 }
 
-export function construirHospedagem(bases: Bases): Json[] {
+/**
+ * Onde dormir. Duas entradas no mesmo arquivo:
+ *
+ *  - BAIRRO, de `notasDaBase.melhoresBairrosParaFicar` (forma antiga) e de
+ *    `bairrosPorBase` numa onda dedicada (forma nova);
+ *  - LUGAR com nome, de `hospedagens` numa onda dedicada.
+ *
+ * O lugar com nome pode entrar SEM preco, e isso e deliberado. O preco de
+ * hostel so existe, na pratica, nos agregadores cujos termos proibem acesso
+ * automatizado; exigir preco expulsaria do banco justamente o que o dono do
+ * app pediu. Nome, bairro e site oficial ja deixam ele abrir e conferir.
+ */
+export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
   const saida: Json[] = [];
   const ids = new Set<string>();
 
+  const idUnico = (semente: string): string => {
+    const base = slug(semente);
+    let id = base;
+    let n = 2;
+    while (ids.has(id)) id = `${base}-${n++}`;
+    ids.add(id);
+    return id;
+  };
+
+  const faixa = (f: Json | undefined, moedaPadrao: string): Json | undefined => {
+    if (!f || !(Number(f.min) > 0)) return undefined;
+    return {
+      moeda: String(f.moeda || moedaPadrao),
+      min: Number(f.min),
+      max: Math.max(Number(f.max ?? 0), Number(f.min)),
+    };
+  };
+
+  // --- forma antiga: bairros dentro das notas da base
   for (const [cidadeId, pacote] of Object.entries(bases)) {
     for (const b of pacote?.notasDaBase?.melhoresBairrosParaFicar ?? []) {
       const nome = String(b.nome ?? '').trim();
       if (!nome) continue;
-      const faixa = b.diariaFaixa ?? {};
-      if (!(Number(faixa.min) > 0)) {
+      const diaria = faixa(b.diariaFaixa, 'COP');
+      if (!diaria) {
         avisos.push(`bairro "${nome}" (${cidadeId}) sem faixa de diaria: fora de hospedagem.json`);
         continue;
       }
-      const base = slug(`${cidadeId}-${nome}`);
-      let id = base;
-      let n = 2;
-      while (ids.has(id)) id = `${base}-${n++}`;
-      ids.add(id);
-
       saida.push({
-        id,
+        id: idUnico(`${cidadeId}-${nome}`),
         fontes: fontes(b.fontes),
         coletadoEm: COLETADO_EM,
         confianca: 'estimado',
         observacaoDeConfianca:
-          'Faixa de diaria convertida de agregadores, nao cotacao para novembro de 2026.',
+          'Faixa de diaria convertida de agregadores, nao cotacao para a data da viagem.',
         cidadeId,
         bairro: nome,
         perfil: perfilDoBairro(String(b.perfil ?? '')),
-        diaria: {
-          moeda: faixa.moeda || 'COP',
-          min: Number(faixa.min),
-          max: Math.max(Number(faixa.max ?? 0), Number(faixa.min)),
-        },
+        diaria,
         porQue: [b.perfil, b.observacao].filter(Boolean).join(' — ').slice(0, 1500),
       });
     }
   }
+
+  // --- forma nova: onda dedicada de hospedagem
+  for (const onda of ondas) {
+    for (const [cidadeId, lista] of Object.entries((onda.bairrosPorBase ?? {}) as Record<string, Json[]>)) {
+      for (const b of lista) {
+        const nome = String(b.bairro ?? b.nome ?? '').trim();
+        if (!nome) continue;
+        const f = fontes(b.fontes);
+        if (f.length === 0) {
+          avisos.push(`bairro "${nome}" (${cidadeId}) sem fonte: fora de hospedagem.json`);
+          continue;
+        }
+        saida.push({
+          id: idUnico(`${cidadeId}-${nome}`),
+          fontes: f,
+          coletadoEm: String(b.coletadoEm ?? onda.coletadoEm ?? COLETADO_EM),
+          confianca: f.length >= 2 ? 'parcial' : 'estimado',
+          ...(b.observacao ? { observacaoDeConfianca: String(b.observacao).slice(0, 2000) } : {}),
+          cidadeId,
+          bairro: nome,
+          perfil: perfilDoBairro(String(b.perfil ?? 'economico')),
+          ...(faixa(b.diaria, 'BRL') ? { diaria: faixa(b.diaria, 'BRL') } : {}),
+          porQue: String(b.porQue ?? '').slice(0, 1500),
+          ...(b.seguranca ? { seguranca: String(b.seguranca).slice(0, 1500) } : {}),
+          alertas: ((b.alertas ?? []) as unknown[]).map(String),
+          porCama: false,
+        });
+      }
+    }
+
+    for (const h of (onda.hospedagens ?? []) as Json[]) {
+      const nome = String(h.nome ?? '').trim();
+      const cidadeId = String(h.cidadeId ?? '').trim();
+      if (!nome || !cidadeId) continue;
+      const f = fontes(h.fontes);
+      if (f.length === 0) {
+        avisos.push(`hospedagem "${nome}" (${cidadeId}) sem fonte: descartada`);
+        continue;
+      }
+      const diaria = faixa(h.diaria, 'BRL');
+      if (!diaria) {
+        // Nao e motivo para descartar: e motivo para dizer.
+        avisos.push(`hospedagem "${nome}" (${cidadeId}) sem preco em fonte utilizavel`);
+      }
+      saida.push({
+        id: idUnico(`${cidadeId}-${nome}`),
+        fontes: f,
+        coletadoEm: String(h.coletadoEm ?? onda.coletadoEm ?? COLETADO_EM),
+        confianca: String(h.confianca ?? (f.length >= 2 ? 'parcial' : 'estimado')),
+        ...(h.observacao ? { observacaoDeConfianca: String(h.observacao).slice(0, 2000) } : {}),
+        cidadeId,
+        bairro: String(h.bairro ?? nome).slice(0, 300),
+        nome,
+        perfil: perfilDoBairro(String(h.perfil ?? 'economico')),
+        ...(h.tipo ? { tipo: String(h.tipo) } : {}),
+        ...(diaria ? { diaria } : {}),
+        porCama: Boolean(h.porCama),
+        ...(faixa(h.diariaPrivativo, diaria?.moeda ?? 'BRL')
+          ? { diariaPrivativo: faixa(h.diariaPrivativo, diaria?.moeda ?? 'BRL') }
+          : {}),
+        porQue: String(h.porQue ?? '').slice(0, 1500),
+        ...(h.link ? { link: String(h.link) } : {}),
+        ...(h.endereco ? { endereco: String(h.endereco).slice(0, 400) } : {}),
+        ...(h.contato ? { contato: h.contato } : {}),
+        ...(h.cafeIncluso === undefined ? {} : { cafeIncluso: Boolean(h.cafeIncluso) }),
+        ...(h.cozinhaCompartilhada === undefined
+          ? {}
+          : { cozinhaCompartilhada: Boolean(h.cozinhaCompartilhada) }),
+        alertas: ((h.alertas ?? []) as unknown[]).map(String),
+      });
+    }
+  }
+
   return saida;
 }
+

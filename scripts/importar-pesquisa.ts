@@ -160,10 +160,26 @@ function main(): void {
   // Le TODA onda que declare uma `base`. Uma onda nova entra so soltando o
   // JSON na pasta - nenhuma mudanca de codigo.
   const bases: Json = {};
+  const ondasDeHospedagem: Json[] = [];
   const semBase = new Map<string, number>();
   for (const arquivo of arquivosDaPasta) {
     if (!arquivo.startsWith('onda-')) continue;
     const conteudo = ler(arquivo);
+
+    /*
+      Onda de hospedagem nao traz itens: traz lugares para dormir e
+      sugestoes de bairro. Ela precisa sair do caminho ANTES do repartidor
+      de bases, senao o seu campo `base: "hospedagem"` cria uma base
+      fantasma com esse nome.
+    */
+    if (Array.isArray(conteudo.hospedagens) || conteudo.bairrosPorBase) {
+      ondasDeHospedagem.push(conteudo);
+      console.log(
+        `  ${arquivo}: ${(conteudo.hospedagens as Json[] | undefined)?.length ?? 0} lugar(es) para dormir`,
+      );
+      continue;
+    }
+
     if (!Array.isArray(conteudo.itens)) continue;
 
     /*
@@ -309,7 +325,11 @@ function main(): void {
   ];
   const eventos = filtrarSemFonte(calendario, 'evento');
   gravar(SAIDA, 'calendario.json', eventos);
-  gravar(SAIDA, 'hospedagem.json', filtrarSemFonte(construirHospedagem(bases), 'hospedagem'));
+  gravar(
+    SAIDA,
+    'hospedagem.json',
+    filtrarSemFonte(construirHospedagem(bases, ondasDeHospedagem), 'hospedagem'),
+  );
 
   // Indice leve: a tela inicial lista os destinos sem baixar o pacote inteiro.
   // Sem isto, abrir o app puxaria os dois paises antes de desenhar a 1a tela.
