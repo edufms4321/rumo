@@ -40,7 +40,7 @@ import {
 
 import { Botao, Campo, Cartao, ComDica, Painel, Selo, Vazio } from '../componentes/ui.tsx';
 import type { Deslocamento } from '../engine/deslocamento.ts';
-import { type Alerta, validarViagem } from '../engine/regras.ts';
+import { type Alerta, type TipoDeCorrecao, validarViagem } from '../engine/regras.ts';
 import { type LacunaResolvida, resolverDia } from '../engine/resolver-dia.ts';
 import { planoBDeChuva } from '../engine/sugestoes.ts';
 import { formatarDuracao, paraHHMM } from '../engine/tempo.ts';
@@ -910,6 +910,8 @@ function HospedagemDoDia({ diaId, nome }: { diaId: string; nome: string }) {
 }
 
 function AlertaDoDia({ alerta, diaId }: { alerta: Alerta; diaId: string }) {
+  const navegar = useNavigate();
+  const viagemId = usarLoja((e) => e.viagemAtivaId) ?? '';
   const tom = alerta.nivel === 'erro' ? 'erro' : alerta.nivel === 'atencao' ? 'atencao' : 'dica';
   const corDeFundo =
     alerta.nivel === 'erro'
@@ -932,7 +934,7 @@ function AlertaDoDia({ alerta, diaId }: { alerta: Alerta; diaId: string }) {
               {alerta.correcoes.map((c) => (
                 <Botao
                   key={c.rotulo}
-                  onClick={() => aplicarCorrecao(c.tipo, c.dados, diaId)}
+                  onClick={() => aplicarCorrecao(c.tipo, c.dados, { diaId, viagemId, navegar })}
                   tamanho="pequeno"
                   variante="contorno"
                 >
@@ -951,72 +953,184 @@ function AlertaDoDia({ alerta, diaId }: { alerta: Alerta; diaId: string }) {
  * As correcoes que o motor sugere sao aplicadas aqui, na interface. O motor
  * descreve o conserto; quem mexe na viagem e o usuario, clicando.
  */
-function aplicarCorrecao(
-  tipo: string,
-  dados: Record<string, unknown> | undefined,
-  diaId: string,
-): void {
-  switch (tipo) {
-    case 'empurrar-proximos': {
-      const aPartirDe = String(dados?.aPartirDe ?? '');
-      const minutos = Number(dados?.minutos ?? 0);
-      if (!aPartirDe || !minutos) return;
-      const estado = viagemAtual();
-      const dia = estado?.dias.find((d) => d.id === diaId);
-      const alvo = dia?.blocos.find((b) => b.id === aPartirDe);
-      if (!dia || !alvo) return;
-      for (const b of dia.blocos) {
-        if (b.startMin >= alvo.startMin) {
-          acoes.moverBloco(b.id, diaId, b.startMin + minutos);
-        }
-      }
-      break;
+type DadosDaCorrecao = Record<string, unknown> | undefined;
+
+interface ContextoDaCorrecao {
+  diaId: string;
+  viagemId: string;
+  navegar: (para: string) => void;
+}
+
+/**
+ * Um tratador por tipo de correcao, num Record EXAUSTIVO.
+ *
+ * Era um `switch` com `default: break`, e onze dos dezoito tipos caiam no
+ * default: o alerta aparecia, o botao aparecia e o clique nao fazia nada.
+ * Com `Record<TipoDeCorrecao, ...>` o compilador recusa o build enquanto
+ * faltar um. Alguns conserto nao da para automatizar com honestidade
+ * (redistribuir um dia cheio, por exemplo); esses LEVAM o usuario ao lugar
+ * onde a decisao se toma, o que ainda e fazer alguma coisa.
+ */
+const TRATADORES: Record<TipoDeCorrecao, (d: DadosDaCorrecao, c: ContextoDaCorrecao) => void> = {
+  'empurrar-proximos': (dados, { diaId }) => {
+    const aPartirDe = String(dados?.aPartirDe ?? '');
+    const minutos = Number(dados?.minutos ?? 0);
+    if (!aPartirDe || !minutos) return;
+    empurrarAPartirDe(diaId, aPartirDe, minutos);
+  },
+
+  'inserir-folga': (dados, { diaId }) => {
+    // Folga e o mesmo movimento de empurrar, com outro nome para o usuario:
+    // o que ele quer e ar antes do bloco seguinte.
+    const antesDe = String(dados?.antesDe ?? '');
+    const minutos = Number(dados?.minutos ?? 0);
+    if (!antesDe || !minutos) return;
+    empurrarAPartirDe(diaId, antesDe, minutos);
+  },
+
+  'encurtar-anterior': (dados) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    const minutos = Number(dados?.minutos ?? 0);
+    const bloco = blocoPorId(blocoId);
+    if (bloco) acoes.redimensionarBloco(blocoId, Math.max(10, bloco.durationMin - minutos));
+  },
+
+  'ajustar-duracao': (dados) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    const duracao = Number(dados?.durationMin ?? 0);
+    if (blocoId && duracao) acoes.redimensionarBloco(blocoId, duracao);
+  },
+
+  'mover-para-horario': (dados, { diaId }) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    const inicio = Number(dados?.startMin ?? 0);
+    if (blocoId) acoes.moverBloco(blocoId, diaId, inicio);
+  },
+
+  'antecipar-para-terminar-antes': (dados, { diaId }) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    const novoInicio = Number(dados?.novoInicio ?? 0);
+    if (blocoId && novoInicio > 0) acoes.moverBloco(blocoId, diaId, novoInicio);
+  },
+
+  'encaixar-no-horario': (dados, { diaId }) => {
+    // Primeira janela em que o bloco cabe inteiro; se nao couber em nenhuma,
+    // encosta no comeco da primeira, que e o menos errado.
+    const blocoId = String(dados?.blocoId ?? '');
+    const janelas = (dados?.janelas ?? []) as Array<{ abre: string; fecha: string }>;
+    const bloco = blocoPorId(blocoId);
+    if (!bloco || janelas.length === 0) return;
+    const emMinutos = (hhmm: string) => {
+      const [h, m] = hhmm.split(':').map(Number);
+      return (h ?? 0) * 60 + (m ?? 0);
+    };
+    const cabe = janelas.find(
+      (j) => emMinutos(j.fecha) - emMinutos(j.abre) >= bloco.durationMin,
+    );
+    const alvo = cabe ?? janelas[0];
+    if (alvo) acoes.moverBloco(blocoId, diaId, emMinutos(alvo.abre));
+  },
+
+  'marcar-reservado': (dados) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    if (blocoId) acoes.definirStatusDeReserva(blocoId, 'reservado');
+  },
+
+  'inserir-refeicao': (dados, { diaId }) => {
+    const janela = dados?.janela as { inicio: number } | undefined;
+    acoes.adicionarBloco(diaId, {
+      id: novoId('bloco'),
+      tipo: 'refeicao',
+      nome: 'Refeicao',
+      startMin: janela?.inicio ?? 12 * 60,
+      durationMin: 60,
+    });
+  },
+
+  'adiar-inicio-do-dia': (dados) => {
+    // Uma hora e o passo que resolve a maioria dos casos de sono curto sem
+    // desmontar o dia. O usuario ajusta o resto arrastando.
+    const alvo = String(dados?.diaId ?? '');
+    const dia = viagemAtual()?.dias.find((d) => d.id === alvo);
+    if (!dia) return;
+    for (const b of [...dia.blocos].sort((x, y) => y.startMin - x.startMin)) {
+      acoes.moverBloco(b.id, alvo, b.startMin + 60);
     }
-    case 'encurtar-anterior': {
-      const blocoId = String(dados?.blocoId ?? '');
-      const minutos = Number(dados?.minutos ?? 0);
-      const estado = viagemAtual();
-      const bloco = estado?.dias.flatMap((d) => d.blocos).find((b) => b.id === blocoId);
-      if (bloco) acoes.redimensionarBloco(blocoId, Math.max(10, bloco.durationMin - minutos));
-      break;
+  },
+
+  'mover-para-outro-dia': (dados, { diaId, viagemId, navegar }) => {
+    const blocoId = String(dados?.blocoId ?? '');
+    const destino = dados?.diaDestinoId ? String(dados.diaDestinoId) : undefined;
+    const bloco = blocoPorId(blocoId);
+    if (!bloco) return;
+    if (destino) {
+      acoes.moverBloco(blocoId, destino, bloco.startMin);
+      navegar(`/viagem/${viagemId}/dia/${destino}`);
+      return;
     }
-    case 'ajustar-duracao': {
-      const blocoId = String(dados?.blocoId ?? '');
-      const duracao = Number(dados?.durationMin ?? 0);
-      if (blocoId && duracao) acoes.redimensionarBloco(blocoId, duracao);
-      break;
-    }
-    case 'mover-para-horario': {
-      const blocoId = String(dados?.blocoId ?? '');
-      const inicio = Number(dados?.startMin ?? 0);
-      if (blocoId) acoes.moverBloco(blocoId, diaId, inicio);
-      break;
-    }
-    case 'antecipar-para-terminar-antes': {
-      const blocoId = String(dados?.blocoId ?? '');
-      const novoInicio = Number(dados?.novoInicio ?? 0);
-      if (blocoId && novoInicio > 0) acoes.moverBloco(blocoId, diaId, novoInicio);
-      break;
-    }
-    case 'marcar-reservado': {
-      const blocoId = String(dados?.blocoId ?? '');
-      if (blocoId) acoes.definirStatusDeReserva(blocoId, 'reservado');
-      break;
-    }
-    case 'inserir-refeicao': {
-      const janela = dados?.janela as { inicio: number } | undefined;
-      acoes.adicionarBloco(diaId, {
-        id: novoId('bloco'),
-        tipo: 'refeicao',
-        nome: 'Refeicao',
-        startMin: janela?.inicio ?? 12 * 60,
-        durationMin: 60,
-      });
-      break;
-    }
-    default:
-      break;
+    // Sem dia calculado, o motor nao tem como escolher por ele: leva ao
+    // calendario, onde da para ver os dias e arrastar.
+    navegar(`/viagem/${viagemId}/calendario`);
+    void diaId;
+  },
+
+  'inserir-trecho': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/calendario`);
+  },
+
+  'adicionar-noite': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/calendario`);
+  },
+
+  'aliviar-dia': (_dados, { viagemId, navegar }) => {
+    // Tirar atividade por conta propria e destrutivo e o motor nao sabe de
+    // qual o usuario abre mao. Leva ao calendario, onde ele redistribui.
+    navegar(`/viagem/${viagemId}/calendario`);
+  },
+
+  'mover-dia': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/config`);
+  },
+
+  'definir-hospedagem': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/dormir`);
+  },
+
+  'abrir-orcamento': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/orcamento`);
+  },
+
+  'abrir-requisitos': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/config`);
+  },
+};
+
+function blocoPorId(blocoId: string) {
+  return viagemAtual()
+    ?.dias.flatMap((d) => d.blocos)
+    .find((b) => b.id === blocoId);
+}
+
+function empurrarAPartirDe(diaId: string, blocoId: string, minutos: number): void {
+  const dia = viagemAtual()?.dias.find((d) => d.id === diaId);
+  const alvo = dia?.blocos.find((b) => b.id === blocoId);
+  if (!dia || !alvo) return;
+  // De tras para frente, senao um bloco empurrado atropela o seguinte.
+  for (const b of [...dia.blocos].sort((x, y) => y.startMin - x.startMin)) {
+    if (b.startMin >= alvo.startMin) acoes.moverBloco(b.id, diaId, b.startMin + minutos);
   }
+}
+
+/**
+ * As correcoes que o motor sugere sao aplicadas aqui, na interface. O motor
+ * descreve o conserto; quem mexe na viagem e o usuario, clicando.
+ */
+function aplicarCorrecao(
+  tipo: TipoDeCorrecao,
+  dados: DadosDaCorrecao,
+  contexto: ContextoDaCorrecao,
+): void {
+  TRATADORES[tipo](dados, contexto);
 }
 
 /** Estado atual fora de componente: as correcoes rodam num clique, nao num render. */

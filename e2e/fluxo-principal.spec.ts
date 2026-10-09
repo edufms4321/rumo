@@ -377,3 +377,33 @@ test('o voo internacional entra no orcamento', async ({ page }) => {
   await expect(linha).toBeVisible();
   await expect(page.getByText('por pessoa ·').first()).toBeVisible();
 });
+
+test('o botao de correcao de um alerta faz alguma coisa', async ({ page }) => {
+  /*
+    Onze dos dezoito tipos de correcao que o motor emitia nao tinham
+    tratador na interface: o alerta aparecia, o botao aparecia, e o clique
+    caia no default do switch. Botao que nao faz nada gasta a confianca que
+    o resto dos avisos construiu.
+
+    Este teste usa "noite sem hospedagem" porque dispara sozinho assim que
+    um dia ganha cidade-base, sem depender de nenhum item especifico do
+    banco.
+  */
+  await criarViagem(page, 'colombia');
+  await definirDatas(page, '2027-05-10', '2027-05-12');
+
+  await page.getByRole('link', { name: 'Calendario' }).click();
+  await page.locator('select').first().selectOption('cartagena');
+  await page.getByRole('link', { name: 'Abrir o dia' }).first().click();
+
+  // Os alertas do dia ficam atras da barra de resumo.
+  await page.getByRole('button', { name: /conflito|atencao|dica/ }).click();
+
+  const botao = page.getByRole('button', { name: 'Definir onde dormir' });
+  await expect(botao).toBeVisible();
+  await botao.click();
+
+  // O clique leva a tela onde a decisao se toma, em vez de nao fazer nada.
+  await expect(page).toHaveURL(/\/dormir$/);
+  await expect(page.getByRole('heading', { name: 'Onde dormir' })).toBeVisible();
+});

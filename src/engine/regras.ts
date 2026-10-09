@@ -37,9 +37,42 @@ import {
 
 export type NivelDeAlerta = 'erro' | 'atencao' | 'dica';
 
+/**
+ * Toda acao que um alerta pode oferecer num clique.
+ *
+ * Isto era `tipo: string`, e o resultado foi que ONZE dos dezoito tipos que
+ * as regras emitiam nao tinham tratador na interface: o alerta aparecia, o
+ * botao aparecia, e o clique caia no `default` do switch sem fazer nada.
+ * Um botao que nao faz nada e pior que botao nenhum — ele consome a
+ * confianca que o resto dos avisos construiu.
+ *
+ * Como uniao fechada, a interface precisa de um tratador para cada membro e
+ * o compilador cobra. Acrescentar um tipo aqui quebra o build ate alguem
+ * dizer o que o clique faz.
+ */
+export type TipoDeCorrecao =
+  | 'abrir-orcamento'
+  | 'abrir-requisitos'
+  | 'adiar-inicio-do-dia'
+  | 'adicionar-noite'
+  | 'ajustar-duracao'
+  | 'aliviar-dia'
+  | 'antecipar-para-terminar-antes'
+  | 'definir-hospedagem'
+  | 'empurrar-proximos'
+  | 'encaixar-no-horario'
+  | 'encurtar-anterior'
+  | 'inserir-folga'
+  | 'inserir-refeicao'
+  | 'inserir-trecho'
+  | 'marcar-reservado'
+  | 'mover-dia'
+  | 'mover-para-horario'
+  | 'mover-para-outro-dia';
+
 export interface Correcao {
   /** Codigo da acao, para a interface saber o que fazer no clique. */
-  tipo: string;
+  tipo: TipoDeCorrecao;
   rotulo: string;
   dados?: Record<string, unknown>;
 }
@@ -121,6 +154,41 @@ function regraDeslocamentoImpossivel(ctx: Contexto, alertas: Alerta[]): void {
   }
 }
 
+/**
+ * O dia MAIS PROXIMO do roteiro em que este item abre.
+ *
+ * "Mova para outro dia" sem dizer qual dia joga o trabalho de volta para o
+ * usuario justamente no momento em que ele errou. Proximidade conta a
+ * partir do dia em que ele tentou agendar, olhando para os dois lados: um
+ * museu fechado na segunda costuma caber no domingo anterior tanto quanto
+ * na terca seguinte.
+ *
+ * Exige tambem que a cidade-base do dia bata com a do item — nao adianta
+ * sugerir a quinta-feira se nessa quinta ele esta em outra cidade.
+ */
+function diaMaisProximoEmQueAbre(
+  ctx: Contexto,
+  item: Item,
+  diaAtualId: string,
+): { id: string; data: string } | undefined {
+  const indiceAtual = ctx.dias.findIndex((d) => d.dia.id === diaAtualId);
+  if (indiceAtual < 0) return undefined;
+
+  const candidatos = ctx.dias
+    .map((d, i) => ({ d, distancia: Math.abs(i - indiceAtual) }))
+    .filter((x) => x.distancia > 0)
+    .sort((a, b) => a.distancia - b.distancia);
+
+  for (const { d } of candidatos) {
+    if (d.dia.cidadeBaseId && d.dia.cidadeBaseId !== item.cidadeId) continue;
+    const dow = diaDaSemanaDe(d.dia.data);
+    if (item.diasFechados.includes(dow)) continue;
+    if (item.horarios?.[dow] === 'fechado') continue;
+    return { id: d.dia.id, data: d.dia.data };
+  }
+  return undefined;
+}
+
 // ---------------------------------------------------------------------- tempo
 
 function regraBlocosSobrepostos(ctx: Contexto, alertas: Alerta[]): void {
@@ -166,7 +234,20 @@ function regraHorarioDeFuncionamento(ctx: Contexto, alertas: Alerta[]): void {
           diaId: dia.dia.id,
           blocoIds: [b.bloco.id],
           correcoes: [
-            { tipo: 'mover-para-outro-dia', rotulo: 'Mover para um dia em que abre', dados: { blocoId: b.bloco.id } },
+            (() => {
+              const alvo = diaMaisProximoEmQueAbre(ctx, item, dia.dia.id);
+              return alvo
+                ? {
+                    tipo: 'mover-para-outro-dia' as const,
+                    rotulo: `Mover para ${nomeLongoDoDia(diaDaSemanaDe(alvo.data))} ${alvo.data.slice(8, 10)}/${alvo.data.slice(5, 7)}`,
+                    dados: { blocoId: b.bloco.id, diaDestinoId: alvo.id },
+                  }
+                : {
+                    tipo: 'mover-para-outro-dia' as const,
+                    rotulo: 'Ver o calendario para escolher o dia',
+                    dados: { blocoId: b.bloco.id },
+                  };
+            })(),
           ],
         });
         continue;
