@@ -1,0 +1,1029 @@
+{
+  "base": "hospedagem",
+  "coletadoEm": "2026-10-09",
+  "notaDeMetodo": "Pesquisa feita sem Booking, Hostelworld, Airbnb, TripAdvisor, Expedia ou Despegar. Nomes e enderecos vieram do Wikivoyage (secoes Sleep, licenca livre) e de sites oficiais; precos so foram registrados quando aparecem em site oficial do lugar, em site oficial da rede, em diretorio local registrado (Turismo Quindio RNT 3991, sanandres.travel/NAUTYGO RNT 109518) ou em imprensa, sempre com a data. Todo dominio foi testado em 09/10/2026: varios hostels famosos do Wikivoyage FECHARAM e estao fora desta lista (La Serrana Salento, Hostel Mamallena Cartagena, Casa Viena, Casa Kiwi Medellin, Hostal La Floresta, Plantation House, Hostal Rana, Hotel Nueva Granada, El Solar, Casa de Anny, Hotel Conquistadores). Precos do Wikivoyage anteriores a 2022 NAO foram copiados como se fossem atuais.",
+  "hospedagens": [
+    {
+      "cidadeId": "cartagena",
+      "nome": "Viajero Cartagena - Getsemaní Hostel & Rooftop",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Getsemaní",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 48002, "max": 48002 },
+      "porQue": "Hostel de rede grande no coracao de Getsemani, com piscina e rooftop; e a opcao mais previsivel para quem quer cama em dormitorio sem surpresa. Em troca, e barulhento, muito social e nada intimista.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Getsemani em novembro pega as Fiestas de Independencia (programacao ate 16/11/2026, desfile em 12/11): reserve com muita antecedencia."
+      ],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://www.viajerohostels.com/en/destinations/colombia"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'a partir de' publicado pela propria rede e lido em 09/10/2026; NAO e cotacao para novembro de 2026. A rede nao separa cama de dormitorio e quarto privativo na listagem: assumi que o 'desde' e a cama, mas isso nao esta confirmado, e nao achei o preco do privativo. Endereco nao publicado na pagina que abri."
+    },
+    {
+      "cidadeId": "cartagena",
+      "nome": "Viajero Cartagena - Centro Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Ciudad Amurallada)",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 42669, "max": 42669 },
+      "porQue": "O mais barato da rede em Cartagena e dentro da cidade murada, o que corta taxi e permite voltar a pe de madrugada. Perde para Getsemani em vida noturna barata e em comida de rua.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Dentro da muralha o crime violento e raro mas ha muito batedor de carteira e vendedor insistente (Wikivoyage, secao Stay safe)."
+      ],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)"
+      ],
+      "confianca": "parcial",
+      "observacao": "Mesmo caso do Getsemani: preco 'desde' do site oficial da rede lido em 09/10/2026, sem distinguir cama de privativo e sem valor para novembro. Endereco nao confirmado."
+    },
+    {
+      "cidadeId": "cartagena",
+      "nome": "Masaya Cartagena",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Getsemaní",
+      "porCama": true,
+      "porQue": "54 camas em dormitorio e 15 quartos privativos, com piscina e rooftop, a poucos passos da muralha; bom quando o privativo de hostel sair mais barato que duas camas. Clima bem social, pouco silencio.",
+      "link": "https://www.masaya-experience.com/en/originals/cartagena/",
+      "endereco": "Calle 30 #10-46, Getsemaní, Cartagena",
+      "contato": { "telefone": "+57 311 5545906", "site": "https://www.masaya-experience.com/en/originals/cartagena/" },
+      "alertas": [],
+      "fontes": ["https://www.masaya-experience.com/en/originals/cartagena/", "https://www.masaya-experience.com/"],
+      "confianca": "parcial",
+      "observacao": "Sem preco: a rede nao publica tarifa na pagina da propriedade (so no motor de reserva, que nao abri). Existencia e endereco confirmados no site oficial em 09/10/2026. Nao confirmei cozinha compartilhada nem cafe."
+    },
+    {
+      "cidadeId": "cartagena",
+      "nome": "Hotel Villa Colonial",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Getsemaní",
+      "porQue": "Hotelzinho familiar de Getsemani que aparece no Wikivoyage desde a epoca em que um duplo custava pouco; segue de pe com site e telefone proprios. Nao e hostel: nao tem dormitorio nem ambiente de mochileiro, so quarto simples barato.",
+      "link": "https://hotelvillacolonial.com/",
+      "endereco": "Calle Las Maravillas #30-60, Barrio Getsemaní, Cartagena de Indias",
+      "contato": { "telefone": "+57 605 679-8673", "site": "https://hotelvillacolonial.com/" },
+      "alertas": [],
+      "fontes": ["https://hotelvillacolonial.com/", "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)"],
+      "confianca": "parcial",
+      "observacao": "Site oficial com rodape 2026, reserva e contato ativos: existe. Nao publica tarifa. O Wikivoyage lista duplo 'desde COP$60.000', mas essa linha nao tem data recente e e provavelmente de meados dos anos 2010 - NAO use esse numero. Preco a confirmar por WhatsApp."
+    },
+    {
+      "cidadeId": "cartagena",
+      "nome": "Casa Movida Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porQue": "Hostel de capsulas e suites dentro do centro historico, para quem quer dormitorio mas com mais privacidade que beliche aberto. Se vende como 'luxury hostel', entao e o teto da faixa economica, nao o piso.",
+      "link": "https://casamovidahostel.com/",
+      "endereco": "Calle del Tablon #7-35, Cartagena de Indias",
+      "contato": { "site": "https://casamovidahostel.com/" },
+      "alertas": [],
+      "fontes": ["https://casamovidahostel.com/"],
+      "confianca": "parcial",
+      "observacao": "Site oficial com rodape 2026 e motor de reserva ativo: existe. Nao publica tarifa na home. Sem cozinha compartilhada nem piscina mencionadas. Nao tenho faixa de preco de fonte permitida."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "Viajero Santa Marta Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 23335, "max": 23335 },
+      "porQue": "O 'a partir de' mais baixo de toda a rede no pais e no centro de Santa Marta, que e onde se come e se sai a pe. Centro de Santa Marta e vivo mas feio e barulhento perto do porto.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (Stay safe): como em outras cidades colombianas, evite andar sozinho e com eletronicos visiveis, sobretudo a noite."
+      ],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://en.wikivoyage.org/wiki/Santa_Marta"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde' do site oficial da rede, lido em 09/10/2026, sem distinguir cama de privativo e sem cotacao para novembro. Endereco nao publicado na pagina que abri."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "Masaya Santa Marta",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porCama": true,
+      "porQue": "48 camas em dormitorio (de 4 e de 6, com cortina, luz de leitura e tomada individual) e 19 privativos, com piscina no rooftop e cozinha compartilhada, a tres quadras do mar. Bom equilibrio entre dormitorio decente e privativo de casal.",
+      "link": "https://www.masaya-experience.com/en/originals/santa-marta/",
+      "endereco": "Calle 14 No 4-80, Centro Histórico, Santa Marta",
+      "contato": { "telefone": "+57 311 533 8348", "site": "https://www.masaya-experience.com/en/originals/santa-marta/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://www.masaya-experience.com/en/originals/santa-marta/"],
+      "confianca": "parcial",
+      "observacao": "Existencia, endereco, telefone e tipos de dormitorio confirmados no site oficial em 09/10/2026. Nao publica tarifa na pagina. Cafe aparece como servico, nao confirmei se esta incluso."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "La Brisa Loca Party Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porCama": true,
+      "porQue": "Casarao colonial com piscina e 84 camas em dormitorio, o hostel de festa classico de Santa Marta; tambem tem 16 privativos, incluindo categoria 'economy'. Quem quer dormir cedo deve ficar longe.",
+      "link": "https://www.masaya-experience.com/en/brisa-loca/",
+      "endereco": "Calle 14 #3-58, Centro Histórico, Santa Marta",
+      "contato": { "telefone": "+57 317 5859598", "site": "https://www.masaya-experience.com/en/brisa-loca/" },
+      "alertas": ["Hostel explicitamente de festa, com piscina e bar no terraco: barulho e parte do produto."],
+      "fontes": ["https://www.masaya-experience.com/en/brisa-loca/"],
+      "confianca": "parcial",
+      "observacao": "Existencia, endereco e contato confirmados no site oficial do grupo Masaya em 09/10/2026. Sem tarifa publicada. Nao confirmei cozinha compartilhada."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "Viajero Tayrona Hostel & Ecohabs",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Entrada do Parque Tayrona (fora de Santa Marta)",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 49336, "max": 49336 },
+      "porQue": "Alternativa a dormir na cidade: cama em dormitorio e ecohabs na porta do Tayrona, o que poupa uma ida e volta de uma hora no dia do parque. Em troca voce fica longe de restaurante e de vida noturna.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "alertas": ["O proprio site da rede recomenda vacina de febre amarela para quem vai ao Tayrona."],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://www.viajerohostels.com/en/destinations/colombia"
+      ],
+      "confianca": "parcial",
+      "observacao": "Nao e em Santa Marta cidade; registrei aqui porque e a base pratica de quem usa Santa Marta so para o Tayrona. Preco 'desde' do site oficial lido em 09/10/2026, sem separar cama de privativo."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "Hostal Casamart",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "El Rodadero",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 26000, "max": 26000 },
+      "porQue": "Unica opcao economica que encontrei em El Rodadero, a praia urbana de Santa Marta, a cinco minutos de caminhada da areia, com ar-condicionado e piscina. Rodadero e balneario de colombiano de classe media, nao de mochileiro: pouca rua, muito predio.",
+      "contato": {},
+      "alertas": [
+        "Wikivoyage (Stay safe): NAO use a pé o 'Sendero Peatonal Ziruma-Rodadero' entre o centro e Rodadero - trechos desertos, bairros pobres sem policia e turistas assaltados a mao armada em plena luz do dia. Use onibus ou taxi."
+      ],
+      "fontes": ["https://en.wikivoyage.org/wiki/Santa_Marta"],
+      "confianca": "estimado",
+      "observacao": "FONTE ANTIGA E EXISTENCIA NAO VERIFICADA. O preco de COP 26.000 por cama esta datado pelo proprio Wikivoyage como de novembro de 2021, ou seja, cinco anos atras - hoje certamente e muito mais. Nao achei site oficial nem telefone (os dominios casamart.co e hostalcasamart.com nao resolvem). Confirme por telefone antes de contar com este lugar."
+    },
+    {
+      "cidadeId": "santa-marta",
+      "nome": "Hotel Boutique Don Pepe",
+      "tipo": "hotel",
+      "perfil": "conforto",
+      "bairro": "Centro Histórico",
+      "porQue": "Aqui so como referencia do que custa subir de nivel no centro: 12 quartos, piscina, spa e jacuzzi no terraco. E o oposto do hostel e provavelmente fora do teto de R$ 8.000 se usado mais de uma ou duas noites.",
+      "link": "https://hotelboutiquedonpepe.com/",
+      "endereco": "Cl. 16 #1c-92, Barrio Centro, Santa Marta",
+      "contato": { "telefone": "+57 321 8291777", "site": "https://hotelboutiquedonpepe.com/" },
+      "alertas": [],
+      "fontes": ["https://hotelboutiquedonpepe.com/", "https://en.wikivoyage.org/wiki/Santa_Marta"],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo em 09/10/2026 (rodape 2026), endereco e e-mail confirmados. Nao publica tarifa. Incluido como teto de comparacao, nao como sugestao economica."
+    },
+    {
+      "cidadeId": "palomino",
+      "nome": "Palomino Beach Club (ex-The Dreamer Hostel Palomino)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Vía a la playa",
+      "porCama": true,
+      "porQue": "O hostel mais conhecido de Palomino, a poucos metros da praia, com piscina e 42 quartos entre privativos e dormitorios - inclusive dormitorio feminino. Mudou de marca: hoje se apresenta como beach club com restaurante, nao como albergue barato.",
+      "link": "https://www.thedreamer.com/palomino",
+      "endereco": "Cra. 6, via a la playa, Palomino, La Guajira (RNT 53696)",
+      "contato": { "telefone": "+57 320 563-0029", "site": "https://www.thedreamer.com/palomino" },
+      "alertas": [],
+      "fontes": ["https://www.thedreamer.com/palomino", "https://en.wikivoyage.org/wiki/Palomino"],
+      "confianca": "parcial",
+      "observacao": "Existe e opera: pagina oficial com RNT, telefone e reserva ativa em 09/10/2026. O dominio antigo thedreamerhostel.com redireciona para thedreamer.com, e o Wikivoyage ainda usa o nome velho. Nao publica tarifa, e nao achei preco em fonte permitida. Nao ha mencao a cozinha para hospede."
+    },
+    {
+      "cidadeId": "palomino",
+      "nome": "Tiki Hut Hostal Palomino",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Vía a la playa",
+      "porCama": true,
+      "porQue": "Cabanas em segunda fila, de frente para o Dreamer, com piscina pequena; a alternativa obvia quando o vizinho esta cheio. Nao e na areia, o que custa cinco minutos a pe e economiza.",
+      "link": "https://tikihutpalomino.com",
+      "contato": { "site": "https://tikihutpalomino.com" },
+      "alertas": [],
+      "fontes": ["https://en.wikivoyage.org/wiki/Palomino"],
+      "confianca": "estimado",
+      "observacao": "Dominio tikihutpalomino.com existe mas responde HTTP 403 ao nosso acesso, entao NAO consegui ler o site nem confirmar que ainda opera - so que o dominio esta registrado e ativo. Descricao vem do Wikivoyage, cuja linha e de 2021. Sem preco. Confirme antes de contar com ele."
+    },
+    {
+      "cidadeId": "palomino",
+      "nome": "Reserva Natural El Matuy",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Palomino (praia)",
+      "porQue": "Cabanas em reserva natural na praia de Palomino, do tipo rustico sem luxo - e a versao 'desligar da tomada' de Palomino. Nao tem dormitorio compartilhado, entao em dupla compare com duas camas de hostel.",
+      "link": "https://elmatuy.com/",
+      "contato": { "telefone": "+57 315 322-0653", "site": "https://elmatuy.com/" },
+      "alertas": [],
+      "fontes": ["https://elmatuy.com/"],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo com rodape 2026, WhatsApp e e-mail. Existe secao 'Tarifas y Reservas' no menu, mas a URL que tentei (elmatuy.com/tarifas-y-reservas/) deu 404 e nao consegui ler os valores. Sem preco, sem endereco de rua, sem confirmacao sobre refeicoes ou energia eletrica."
+    },
+    {
+      "cidadeId": "palomino",
+      "nome": "Eco Hotel Finca La Jorará",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Km 62,5 via Santa Marta-Palomino",
+      "porQue": "Finca com piscinas naturais e praia a cerca de dez minutos de Palomino, entre o Tayrona e o povoado; reserva ja inclui cafe da manha, wifi e estacionamento. Sao 15 quartos com banheiro privativo - nao ha dormitorio, e ficar fora do povoado significa depender de transporte.",
+      "link": "http://www.lajorara.com/",
+      "endereco": "Km 62,5 via Santa Marta-Palomino, La Guajira",
+      "contato": { "telefone": "+57 313 427-4434", "site": "http://www.lajorara.com/" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["http://www.lajorara.com/", "https://en.wikivoyage.org/wiki/Palomino"],
+      "confianca": "parcial",
+      "observacao": "Site oficial no ar, com telefones e e-mail; aviso de copyright 2024 e fotos de marco de 2025, entao a pagina nao e recem-atualizada mas tambem nao esta abandonada. Nao publica tarifa."
+    },
+    {
+      "cidadeId": "palomino",
+      "nome": "La Sirena Eco Hotel & Yoga",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Palomino (praia)",
+      "porQue": "Hotel de ioga na praia que o Wikivoyage descreve como opcao de quarto decente um pouco mais adiante na areia. Registrado aqui como pista, nao como recomendacao.",
+      "alertas": [],
+      "fontes": ["https://en.wikivoyage.org/wiki/Palomino"],
+      "confianca": "estimado",
+      "observacao": "PROVAVELMENTE FECHADO OU SEM PRESENCA PROPRIA. O site oficial que o Wikivoyage aponta (ecosirena.com) foi perdido: hoje redireciona para um site sem relacao nenhuma com hotelaria. Linha do Wikivoyage e de 2021. Sem preco, sem telefone, sem endereco. Nao reserve sem confirmar que o lugar existe."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Viajero San Andrés Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "North End / Centro",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 48002, "max": 48002 },
+      "porQue": "De longe a coisa mais barata que achei na ilha e a unica com cama em dormitorio de rede conhecida, no North End, a pe de Spratt Bight e dos barcos para Johnny Cay. Como San Andres e o item mais caro do roteiro, esta e a opcao que faz a conta fechar.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/san-andres/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/san-andres/" },
+      "alertas": [],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/san-andres/",
+        "https://www.viajerohostels.com/en/destinations-colombia/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde 48.002 COP/noite' publicado pela propria rede e lido em 09/10/2026; nao e cotacao para novembro de 2026 e a rede nao separa cama de privativo. Endereco nao publicado na pagina que abri. Atencao: a rede ainda linka para viajero.co, que hoje e dominio estacionado a venda - o site vivo e viajerohostels.com."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Posada Nativa Derma's Inn",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "San Andrés (fora do North End, 12 min a pe da praia)",
+      "diariaPrivativo": { "moeda": "COP", "min": 150000, "max": 150000 },
+      "porQue": "A posada nativa mais barata que encontrei com preco publicado: quarto com banheiro privativo, alguns com cozinha, painel solar, atendida pela familia raizal. Em troca voce nao esta na praia nem na zona de bares, e sim num bairro residencial a 12 minutos de caminhada.",
+      "link": "https://sanandres.travel/hotel/posada-nativa-dermas-inn",
+      "contato": { "telefone": "+57 312 593-0746", "site": "https://sanandres.travel/hotel/posada-nativa-dermas-inn" },
+      "alertas": [],
+      "fontes": [
+        "https://sanandres.travel/hotel/posada-nativa-dermas-inn",
+        "https://sanandres.travel/page/hotel-san-andres-islas",
+        "https://colombia.travel/en/san-andres-island/native-inns"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde COP 150.000' por quarto (nao por cama) lido em 09/10/2026 no sanandres.travel, que e operado pela agencia local NAUTYGO (RNT 109518) - nao e o site da propria posada e nao e cotacao para novembro. O setor exato (La Loma ou Centro) nao e dito: a pagina so informa 12 minutos a pe da praia e 5 minutos da Primera Iglesia Bautista, o que sugere o eixo Centro-La Loma."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Ohana Lodging (Posada Nativa)",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Sound Bay / San Luis",
+      "diariaPrivativo": { "moeda": "COP", "min": 170000, "max": 170000 },
+      "porQue": "Posada com cozinha completa no quarto a 3-5 minutos a pe de Sound Bay, no lado tranquilo da ilha. Cozinha propria em San Andres vale dinheiro porque restaurante na ilha e caro; o custo e precisar de mula ou taxi para sair a noite.",
+      "link": "https://sanandres.travel/hotel/ohana-lodging",
+      "contato": { "telefone": "+57 312 593-0746", "site": "https://sanandres.travel/hotel/ohana-lodging" },
+      "alertas": [],
+      "fontes": ["https://sanandres.travel/hotel/ohana-lodging", "https://sanandres.travel/page/hotel-san-andres-islas"],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde COP 170.000' por quarto, lido em 09/10/2026 no sanandres.travel (agencia NAUTYGO), nao no site da posada, e nao e cotacao para novembro. Nao tem dormitorio compartilhado."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Hotel Shalain",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "North End (500 m de Spratt Bight)",
+      "diariaPrivativo": { "moeda": "COP", "min": 179999, "max": 179999 },
+      "porQue": "O achado do North End: hotel simples com ar-condicionado e cozinha compartilhada a 500 metros de Spratt Bight por cerca de um terco do que pedem os hoteis da orla. Se o objetivo e ficar na zona movimentada sem pagar preco de resort, e este.",
+      "link": "https://sanandres.travel/hotel/hotel-shalain",
+      "contato": { "telefone": "+57 312 593-0746", "site": "https://sanandres.travel/hotel/hotel-shalain" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://sanandres.travel/hotel/hotel-shalain", "https://sanandres.travel/page/hotel-san-andres-islas"],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde COP 179.999' por quarto, lido em 09/10/2026 no sanandres.travel (agencia NAUTYGO). Nao e cotacao para novembro e nao e o site do proprio hotel. Nao tem dormitorio."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Posada Nativa Trinsan Campestre",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "San Luis (frente ao mar)",
+      "diariaPrivativo": { "moeda": "COP", "min": 240000, "max": 240000 },
+      "porQue": "Casa de campo raizal de frente para o mar em San Luis, com cozinha compartilhada e sala comum - e a experiencia de morar com familia local, que e o sentido de posada nativa. Fica a uns 20 minutos de carro do centro e do aeroporto.",
+      "link": "https://www.sanandres.travel/en/hotel/posada-nativa-trinsan-campestre",
+      "contato": { "telefone": "+57 312 593-0746", "site": "https://www.sanandres.travel/en/hotel/posada-nativa-trinsan-campestre" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://www.sanandres.travel/en/hotel/posada-nativa-trinsan-campestre"],
+      "confianca": "parcial",
+      "observacao": "A pagina diz 'desde COP 240.000' e em um ponto sugere que seria por pessoa; nao consegui confirmar se e por quarto ou por pessoa, entao trate o valor como incerto. Lido em 09/10/2026 no sanandres.travel (agencia NAUTYGO), nao no site da posada."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "República Hostel San Andrés",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "El Cove / Polly Hill (lado oeste)",
+      "diariaPrivativo": { "moeda": "COP", "min": 250000, "max": 250000 },
+      "porQue": "Hostel so para adultos no lado oeste da ilha, com bar, jardim, cafe buffet, ioga e snorkel na porta. Chama-se hostel mas o preco publicado e de quarto, nao de cama, e El Cove e a parte mais isolada: sem carro ou mula voce fica preso.",
+      "link": "https://sanandres.travel/hotel/republica-hostel-san-andres",
+      "endereco": "Avenida Circunvalar km 10 775, sector El Cove, San Andrés (880001)",
+      "contato": { "telefone": "+57 312 593-0746", "site": "https://sanandres.travel/hotel/republica-hostel-san-andres" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://sanandres.travel/hotel/republica-hostel-san-andres"],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde COP 250.000' lido em 09/10/2026 no sanandres.travel (agencia NAUTYGO). Nao achei preco de cama em dormitorio. O dominio republicahostel.com nao resolve, entao nao ha site proprio para conferir."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Posada Nativa y Casa Museo Miss Trinie",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Entre o Centro e La Loma",
+      "porQue": "Casa do fim do seculo XIX, na mesma familia raizal por cinco geracoes, que funciona como posada e casa-museu. E a opcao mais cultural da ilha e tem site proprio, o que e raro entre as posadas. Zona residencial e tranquila, nao de praia.",
+      "link": "https://www.posadanativaycasamuseomisstrinie.com/en/",
+      "endereco": "Av. 20 de Julio, San Andrés",
+      "contato": { "telefone": "+57 312 424-1622", "site": "https://www.posadanativaycasamuseomisstrinie.com/en/" },
+      "alertas": [],
+      "fontes": [
+        "https://www.posadanativaycasamuseomisstrinie.com/en/",
+        "https://colombia.travel/en/san-andres-island/native-inns"
+      ],
+      "confianca": "parcial",
+      "observacao": "Unica posada nativa desta lista com site proprio, ativo em 09/10/2026, com WhatsApp. NAO publica tarifa: so mostra preco depois de escolher datas, e eu nao preenchi o formulario. Sem preco."
+    },
+    {
+      "cidadeId": "san-andres",
+      "nome": "Blue Almond Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Barrio Los Almendros (North End)",
+      "porCama": true,
+      "porQue": "Historicamente o hostel mais antigo e mais barato da ilha, com dormitorio, dois banheiros compartilhados, cozinha equipada, prancha de surf e cilindro de mergulho de graca. Registrado como pista porque o preco e a operacao nao estao confirmados.",
+      "endereco": "Barrio Los Almendros, Manzana 4 Casa 3, San Andrés",
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["http://www.bluealmondhostel.com/"],
+      "confianca": "estimado",
+      "observacao": "EXISTENCIA DUVIDOSA. O site oficial bluealmondhostel.com esta quebrado: a raiz devolve apenas uma listagem de diretorio do servidor (cgi-bin e error_log) e a pagina interna da HTTP 404. Isso significa dominio ativo mas site fora do ar. Nao registrei preco porque os valores que circulam (USD 13 a 24) so aparecem em agregadores proibidos ou em sites de terceiros. Confirme por telefone antes de contar com ele."
+    },
+    {
+      "cidadeId": "bogota",
+      "nome": "Viajero Bogotá Hostel & Spa",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "La Candelaria",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 36669, "max": 36669 },
+      "porQue": "Barato, em La Candelaria, a pe do Museo del Oro e dos museus; e o padrao seguro para dormitorio na capital. La Candelaria e o melhor custo-beneficio de Bogota, mas as ruas ficam vazias e inseguras depois do escurecer em dia de semana.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (secao Sleep de Bogota): as ruas desertas de La Candelaria sao inseguras depois de escurecer em noites de semana."
+      ],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://en.wikivoyage.org/wiki/Bogot%C3%A1"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde' do site oficial da rede lido em 09/10/2026, sem separar cama de privativo e sem cotacao para novembro. Endereco nao publicado na pagina que abri."
+    },
+    {
+      "cidadeId": "bogota",
+      "nome": "Masaya Bogotá",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "La Candelaria",
+      "porCama": true,
+      "porQue": "54 camas em dormitorio e apenas 6 privativos, com cafe incluso e cozinha compartilhada, em La Candelaria. O numero de camas contra o de privativos diz tudo: e hostel social de verdade, nao hotel disfarcado.",
+      "link": "https://www.masaya-experience.com/en/originals/bogota/",
+      "endereco": "Carrera 2 No. 12-48, La Candelaria, Bogotá",
+      "contato": { "telefone": "+57 310 609-2782", "site": "https://www.masaya-experience.com/en/originals/bogota/" },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://www.masaya-experience.com/en/originals/bogota/"],
+      "confianca": "parcial",
+      "observacao": "Existencia, endereco, telefone, cafe incluso e cozinha compartilhada confirmados no site oficial em 09/10/2026. Nao publica tarifa."
+    },
+    {
+      "cidadeId": "bogota",
+      "nome": "Botánico Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "La Candelaria",
+      "porCama": true,
+      "porQue": "Hostel pequeno de La Candelaria com cozinha compartilhada, cafe, bar e recepcao 24 horas - recepcao 24h importa em Bogota por causa de voo que chega tarde. Independente, sem a maquina de eventos das redes.",
+      "link": "https://botanicohostel.com/",
+      "endereco": "Cra. 2 #9-87, La Candelaria, Bogotá",
+      "contato": { "telefone": "+57 310 587-2960", "site": "https://botanicohostel.com/" },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://botanicohostel.com/"],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo em 09/10/2026 com endereco, telefone e e-mail. Nao publica tarifa e NAO mostra nenhum ano na pagina, entao nao da para medir quando foi atualizada pela ultima vez."
+    },
+    {
+      "cidadeId": "bogota",
+      "nome": "The Cranky Croc Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "La Candelaria",
+      "porCama": true,
+      "porQue": "Hostel veterano de La Candelaria, com cafe-bar e restaurante proprios, que o Wikivoyage ja listava com cama em dormitorio e privativos simples. Dos independentes e o que tem presenca mais consolidada.",
+      "link": "https://crankycroc.com/",
+      "endereco": "Cl. 12d #3-56, La Candelaria, Bogotá",
+      "contato": { "telefone": "+57 314 427-5299", "site": "https://crankycroc.com/" },
+      "alertas": [],
+      "fontes": ["https://crankycroc.com/", "https://en.wikivoyage.org/wiki/Bogot%C3%A1/La_Candelaria"],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo com motor de reserva, rodape 2025, endereco e telefone - existe. Nao publica tarifa. O Wikivoyage traz 'cama COP 65.606, privativo com banheiro COP 90.000', mas essa linha nao tem data confiavel e o endereco la esta como #3-46 contra #3-56 no site oficial; NAO use esses numeros como preco atual."
+    },
+    {
+      "cidadeId": "bogota",
+      "nome": "Hotel Casa Deco",
+      "tipo": "hotel",
+      "perfil": "conforto",
+      "bairro": "La Candelaria",
+      "porQue": "Referencia de quanto custa trocar o dormitorio por um quarto bom no centro historico de Bogota. Serve como teto de comparacao, nao como escolha economica.",
+      "link": "https://hotelcasadeco.com/",
+      "endereco": "Calle 14 No. 2-30, La Candelaria, Bogotá",
+      "contato": { "telefone": "+57 1 283-7032", "site": "https://hotelcasadeco.com/" },
+      "alertas": [],
+      "fontes": ["https://en.wikivoyage.org/wiki/Bogot%C3%A1/La_Candelaria"],
+      "confianca": "estimado",
+      "observacao": "So verifiquei que o dominio hotelcasadeco.com responde (HTTP 200, redireciona para https) - NAO li o conteudo do site, logo nao confirmei tarifa, telefone atual nem operacao. Endereco e telefone vem do Wikivoyage, cuja linha nao tem data recente. O Wikivoyage cita quartos a COP 218.000, numero que nao uso por nao ter data."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "Renacer Casa Refugio (Colombian Highlands)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Arredores, 1,2 km da Plaza Mayor",
+      "porCama": true,
+      "porQue": "O hostel classico de Villa de Leyva, na borda do Parque Nacional Iguaque, com dormitorios, quartos duplos, cabanas, cozinha aberta com forno de pizza e trilhas no terreno. O preco disso e caminhar 1,2 km ate a praca toda vez.",
+      "link": "https://renacerhostel.com/",
+      "contato": { "site": "https://renacerhostel.com/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": [
+        "https://renacerhostel.com/",
+        "https://www.villadeleyva.net/hoteles/",
+        "https://en.wikivoyage.org/wiki/Villa_de_Leyva"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo em 09/10/2026 (ha referencia a 2026 em arquivos da pagina), com dormitorios e formulario de contato/WhatsApp - existe e opera. Nao publica tarifa; o telefone nao aparece na pagina, so formulario. Observe que o dominio antigo colombianhighlands.com hoje e da agencia de tours, nao do hostel."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "Hotel Hacienda Santa Cecilia",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Sáchica (5 min de Villa de Leyva)",
+      "porQue": "Hacienda rural a cinco minutos de carro da vila, com cafe da manha incluso, churrasqueira e area verde; o proprio site se posiciona como mais barato que ficar dentro de Villa de Leyva. O custo e nao estar a pe do centro.",
+      "link": "https://hotelsantacecilia.com.co/",
+      "endereco": "Km 0,2 via Sáchica - Villa de Leyva, Boyacá",
+      "contato": { "telefone": "+57 311 219-6911", "site": "https://hotelsantacecilia.com.co/" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://hotelsantacecilia.com.co/", "https://en.wikivoyage.org/wiki/Villa_de_Leyva"],
+      "confianca": "parcial",
+      "observacao": "Site oficial no ar com conteudo atualizado em 2024, telefone, WhatsApp e e-mail - existe. Nao publica tarifa na home (pede contato direto para 'precio especial'). O Wikivoyage traz COP 75.000 numa linha de 03/01/2021: antiga, nao use como preco atual. Nao tem dormitorio compartilhado."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "Hospedería Don Paulino",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porQue": "Apontada pelo diretorio local como uma das hospedarias melhor localizadas do centro historico e com tarifas bem economicas - e o perfil de hospedaje familiar barato que voce pediu quando nao ha hostel. Nao tem dormitorio nem vida social de hostel.",
+      "alertas": [],
+      "fontes": ["https://www.villadeleyva.net/hoteles/"],
+      "confianca": "estimado",
+      "observacao": "So tenho nome, bairro e a afirmacao de que e economica, vindos do diretorio villadeleyva.net (rodape 2026), que nao identifica quem o mantem. NAO achei site proprio, telefone, endereco de rua nem preco. Trate como pista para ligar, nao como opcao confirmada."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "Hospedería Beth Sarim",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Entrada da vila, perto do Parque del Avión",
+      "porQue": "Hospedaria de tarifa economica na entrada da vila, perto do Parque del Avion; util quando o centro historico lota em fim de semana e feriado. Ficar na entrada significa alguns minutos a mais de caminhada.",
+      "alertas": [
+        "O Wikivoyage avisa que em Villa de Leyva os precos sobem em fins de semana e feriados - e novembro na Colombia tem feriados emendados."
+      ],
+      "fontes": ["https://www.villadeleyva.net/hoteles/", "https://en.wikivoyage.org/wiki/Villa_de_Leyva"],
+      "confianca": "estimado",
+      "observacao": "Apenas nome, localizacao aproximada e a mencao de 'tarifas economicas' no diretorio villadeleyva.net. Sem site proprio, sem telefone, sem endereco, sem preco."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "Hostal Las Margaritas",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (50 m da Plaza Mayor)",
+      "porQue": "A 50 metros da Plaza Mayor, e a localizacao mais curta que achei em Villa de Leyva - em vila de pedra irregular, nao caminhar importa. Nao confirmei se tem dormitorio compartilhado apesar do nome 'hostal'.",
+      "alertas": [],
+      "fontes": ["https://www.villadeleyva.net/hoteles/"],
+      "confianca": "estimado",
+      "observacao": "Somente nome e distancia da praca, do diretorio villadeleyva.net. Em espanhol colombiano 'hostal' costuma significar hotel pequeno e NAO albergue com beliche, entao o tipo pode estar errado. Sem telefone, endereco, preco nem site."
+    },
+    {
+      "cidadeId": "villa-de-leyva",
+      "nome": "La Posada de José Antonio",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porQue": "Posada central que, segundo o diretorio local, oferece hospedagem com cafe da manha - cafe incluso em vila turistica economiza mais do que parece. Sem dormitorio compartilhado.",
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://www.villadeleyva.net/hoteles/"],
+      "confianca": "estimado",
+      "observacao": "Nome, localizacao central e mencao a cafe da manha vindos do diretorio villadeleyva.net. Sem site proprio, telefone, endereco nem preco. Confirme o cafe na reserva."
+    },
+    {
+      "cidadeId": "medellin",
+      "nome": "Blacksheep Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Patio Bonito (El Poblado)",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 80000, "max": 80000 },
+      "diariaPrivativo": { "moeda": "COP", "min": 160000, "max": 250000 },
+      "porQue": "O unico da lista com cama E privativo publicados no proprio site, o que permite a conta que interessa a voce: duas camas dao COP 160.000, exatamente o piso do privativo - ou seja, em dupla o quarto fechado empata ou ganha. Aberto desde 2005, com cozinha aberta e coworking, em Patio Bonito, parte residencial e calma do Poblado.",
+      "link": "https://www.blacksheepmedellin.com/",
+      "endereco": "Transversal 5A No 45-133, Barrio Patio Bonito, El Poblado, Medellín",
+      "contato": { "telefone": "+57 317 518-1369", "site": "https://www.blacksheepmedellin.com/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (Stay safe, Medellin): peca taxi por telefone e nao na rua, e saque dinheiro em caixa dentro de shopping - ha casos de gente seguida e assaltada depois do saque."
+      ],
+      "fontes": ["https://www.blacksheepmedellin.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn"],
+      "confianca": "verificado",
+      "observacao": "Precos lidos no site oficial em 09/10/2026: cama COP 80.000, individual privativo COP 160.000-220.000 e duplo privativo COP 200.000-250.000, variando se o banheiro e no quarto. Nao e cotacao para novembro de 2026 e cafe nao e mencionado. Para comparacao, o Wikivoyage listava cama a COP 34.000 em 2018: o dobro em oito anos, o que serve de regua para desconfiar de qualquer preco velho desta lista."
+    },
+    {
+      "cidadeId": "medellin",
+      "nome": "Viajero Medellín Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "El Poblado",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 90000, "max": 90000 },
+      "porQue": "Hostel de rede no Poblado com restobar e agenda de eventos; e o mais caro 'a partir de' da rede no pais, o que mostra que Medellin nao e barata em hospedagem. Vale por localizacao e vida social, nao por preco.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "alertas": [],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://www.viajerohostels.com/en/destinations/colombia"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde 90.000 COP' do site oficial da rede lido em 09/10/2026, sem separar cama de privativo e sem cotacao para novembro. Endereco nao publicado na pagina que abri."
+    },
+    {
+      "cidadeId": "medellin",
+      "nome": "The Wandering Paisa Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Laureles",
+      "porCama": true,
+      "porQue": "Hostel em Laureles, que e mais barato, mais plano e mais de morador que o Poblado, com dormitorios, privativos, cozinha compartilhada e eventos semanais (intercambio de idiomas, aula de salsa de graca). Quem quer balada na porta prefere o Poblado.",
+      "link": "https://wanderingpaisahostel.com/",
+      "endereco": "Calle 44 A No. 68 A 76, Laureles, Medellín",
+      "contato": { "telefone": "+57 315 539-4950", "site": "https://wanderingpaisahostel.com/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://wanderingpaisahostel.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn"],
+      "confianca": "parcial",
+      "observacao": "Site oficial no ar, com telefone e e-mail, citando hospedes de 2024 e imagens novas em 2025 - opera. Nao publica tarifa. O aviso de copyright ainda diz 2016, entao o site e antigo mesmo que o negocio esteja vivo. Endereco vem do Wikivoyage e nao aparece na home."
+    },
+    {
+      "cidadeId": "medellin",
+      "nome": "Hotel Sauces del Estadio",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Estadio / Avenida 70 (perto de Laureles)",
+      "porQue": "Hotel simples ao lado do Estadio Atanasio Girardot e da Avenida 70, com cafe da manha e estacao de cafe inclusos e reserva direta no proprio site. Em dupla, hotel pequeno nesta zona costuma bater dois beliches no Poblado. Nao tem dormitorio.",
+      "link": "https://hotelsaucesdelestadio.com/",
+      "endereco": "Carrera 69 #49A-30, Medellín",
+      "contato": { "telefone": "+57 604 230-4260", "site": "https://hotelsaucesdelestadio.com/" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://hotelsaucesdelestadio.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn"],
+      "confianca": "parcial",
+      "observacao": "Site oficial ativo com endereco, telefone fixo e dois WhatsApp de reserva; o motor de reserva mostra datas de dez/2025 a jan/2026, o que indica site em uso. Mostra moeda COP mas NAO exibe tarifa na pagina. O Wikivoyage traz COP 83.896 sem data confiavel: nao use."
+    },
+    {
+      "cidadeId": "medellin",
+      "nome": "International House Medellín",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Laureles / Conquistadores",
+      "porCama": true,
+      "porQue": "Hostel-coliving com cozinha compartilhada de porte industrial, pensado para quem fica semanas - em estadia de 3 ou 4 noites a diaria perde sentido, mas e a melhor cozinha que vi em Medellin para quem quer cozinhar e cortar gasto de restaurante.",
+      "link": "https://ihmedellin.com/",
+      "endereco": "Calle 32B # 66C-06, Medellín",
+      "contato": { "site": "https://ihmedellin.com/" },
+      "cozinhaCompartilhada": true,
+      "alertas": [],
+      "fontes": ["https://ihmedellin.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn"],
+      "confianca": "parcial",
+      "observacao": "Site oficial com aviso de copyright 2026 - opera. NAO publica tarifa e os depoimentos na pagina sao de 2015, entao parte do conteudo e muito velho. O Wikivoyage lista 'USD 7 por cama' numa linha de 23/04/2016: dez anos, nao use de jeito nenhum. Endereco vem do Wikivoyage."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Viajero Salento Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Salento",
+      "porCama": true,
+      "diaria": { "moeda": "COP", "min": 56670, "max": 56670 },
+      "porQue": "Unica opcao de Salento com preco de rede publicado e localizacao no centro, a pe da Plaza de Bolivar e dos jipes para o Valle de Cocora. Em Salento, estar no centro vale muito porque o jipe sai cedo da praca.",
+      "link": "https://www.viajerohostels.com/en/destinations-colombia/",
+      "contato": { "site": "https://www.viajerohostels.com/en/destinations-colombia/" },
+      "alertas": [],
+      "fontes": [
+        "https://www.viajerohostels.com/en/destinations-colombia/",
+        "https://www.viajerohostels.com/en/destinations/colombia"
+      ],
+      "confianca": "parcial",
+      "observacao": "Preco 'desde 56.670 COP' do site oficial da rede lido em 09/10/2026, sem separar cama de privativo e sem cotacao para novembro. O endereco que aparece em buscas (Cra. 9 #7-23) nao esta na pagina oficial que abri, por isso nao registrei."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Finca El Ocaso Salento",
+      "tipo": "pousada",
+      "perfil": "conforto",
+      "bairro": "Zona rural, 4-5 km da praca de Salento",
+      "diariaPrivativo": { "moeda": "COP", "min": 271000, "max": 439000 },
+      "porQue": "A hospedagem de finca cafeteira classica do Eje Cafetero: casa de cafe com mais de cem anos de historia, e a diaria ja inclui cafe da manha tipico, o tour do cafe da propria fazenda e seguro hoteleiro. E a experiencia tipica da regiao, mas NAO e barata e nao tem dormitorio - novembro cai na temporada baixa, que e o lado bom.",
+      "link": "https://www.fincaelocasosalento.com/",
+      "endereco": "A 4 km de Salento, Quindío",
+      "contato": { "telefone": "+57 310 451 7194", "site": "https://www.fincaelocasosalento.com/" },
+      "cafeIncluso": true,
+      "alertas": [
+        "O tarifario avisa que cidadao colombiano paga 19% de IVA por cima; estrangeiro em geral e isento, confirme na reserva se isso vale para brasileiro.",
+        "Novembro esta na temporada BAIXA segundo o proprio tarifario (alta = janeiro, Semana Santa, julho-agosto e dezembro)."
+      ],
+      "fontes": [
+        "https://turismoquindio.com/hoteles/finca-el-ocaso-salento/",
+        "https://web.fincaelocasosalento.com/",
+        "https://asoaturquindio.com/hoteles-salento/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Tarifario 2026 lido em 09/10/2026 no turismoquindio.com, operado pela agencia Turismo Quindio (RNT 3991) - e um diretorio local registrado, nao o site da propria finca (o site oficial redireciona para web.fincaelocasosalento.com e NAO publica preco). A faixa que registrei e temporada baixa: standard 1 pessoa COP 271.000, standard 2 pessoas COP 399.000, superior Tabi 2 pessoas COP 439.000. Em temporada alta vai de COP 310.000 a 490.000. Por pessoa em dupla, novembro sai por cerca de COP 200.000."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Hotel Salento Real",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Centro de Salento",
+      "porQue": "Hotel pequeno no centro com cafe da manha americano incluso, wifi e estacionamento sem custo, e reserva direta no site. E a alternativa de quarto fechado barato em dupla para quem nao quer beliche. Nao tem dormitorio compartilhado.",
+      "link": "https://www.hotelsalentoreal.com/en/",
+      "endereco": "Calle 3 #4-31, Salento, Quindío",
+      "contato": { "telefone": "+57 6 759 3658", "site": "https://www.hotelsalentoreal.com/en/" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://www.hotelsalentoreal.com/en/"],
+      "confianca": "parcial",
+      "observacao": "Site oficial no ar com endereco, telefone e e-mail de reserva, e promessa de melhor preco garantido no proprio site. NAO publica tarifa e NAO mostra nenhum ano na pagina, entao nao consigo medir quando foi atualizada."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Hotel Boutique Panorama Salento",
+      "tipo": "hotel",
+      "perfil": "conforto",
+      "bairro": "Centro de Salento (Cra. 3)",
+      "porQue": "Quartos e cabanas para no maximo duas pessoas, com cafe da manha incluso e banheira de hidromassagem nas cabanas, e 5% de desconto com o codigo WEBOFICIAL na reserva direta. Nao e economico nem tem dormitorio: entra aqui como o degrau acima.",
+      "link": "https://panoramasalento.com/",
+      "endereco": "Cra. 3 #8-2, Salento, Quindío",
+      "contato": { "telefone": "+57 320 332-0636", "site": "https://panoramasalento.com/" },
+      "cafeIncluso": true,
+      "alertas": [],
+      "fontes": ["https://panoramasalento.com/"],
+      "confianca": "parcial",
+      "observacao": "Site oficial com rodape 2026, endereco, telefone e e-mail - existe e opera. Nao publica tarifa. Confirmado que NAO tem dormitorio compartilhado: todos os quartos sao de ate 2 adultos."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Finca de Don Elías",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Vereda Palestina, 4 km de Salento",
+      "porQue": "Fazenda de cafe organico pequena, com um quarto para 4 ou 5 pessoas, historicamente a hospedagem de finca mais barata de Salento e com tour de cafe na propria casa. E a resposta para 'finca barata' - se ainda estiver recebendo hospede.",
+      "endereco": "4 km na estrada da vereda Palestina, Salento, Quindío",
+      "alertas": [],
+      "fontes": ["https://en.wikivoyage.org/wiki/Salento"],
+      "confianca": "estimado",
+      "observacao": "EXISTENCIA COMO HOSPEDAGEM NAO VERIFICADA e preco deliberadamente omitido. O Wikivoyage lista COP 15.000 por pessoa e tour a COP 5.000, mas a secao Sleep de Salento tem linhas com lastedit de 2016 a 2019 - sete a dez anos atras, inutil como preco. A finca segue sendo visitada por tours de cafe, mas nao confirmei que ainda hospeda. Sem site e sem telefone proprio (o acesso e combinado por mototaxi local). Trate como pista para checar no local."
+    },
+    {
+      "cidadeId": "salento",
+      "nome": "Three House Hostel Boutique",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Salento",
+      "porCama": true,
+      "porQue": "Aparece como opcao economica de Salento e tem dominio proprio ativo, o que e raro entre os hostels locais depois da leva de fechamentos. Registrado como pista a confirmar.",
+      "link": "https://threehousehostel.com/",
+      "contato": { "site": "https://threehousehostel.com/" },
+      "alertas": [],
+      "fontes": ["https://threehousehostel.com/"],
+      "confianca": "estimado",
+      "observacao": "O dominio responde (HTTP 200) mas a pagina devolveu apenas o titulo 'Three House Hostel Boutique - Where Stories Begin', sem endereco, telefone, tarifa nem confirmacao de que e em Salento - provavelmente o conteudo e carregado por script que nao consegui ler. Nao confirmei cidade, precos nem se tem dormitorio. Precisa de verificacao manual."
+    }
+  ],
+  "bairrosPorBase": {
+    "cartagena": [
+      {
+        "bairro": "Getsemaní",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 48002, "max": 48002 },
+        "porQue": "Onde fica a hospedagem barata de Cartagena, concentrada na Calle de la Media Luna e arredores, a pe do centro murado, com street art, comida de rua e a noite economica da Plaza de la Trinidad. Em novembro e tambem o centro das Fiestas de Independencia: cheio e barulhento.",
+        "seguranca": "O Wikivoyage nao aponta Getsemani como zona perigosa, mas alerta para golpe de cambista de rua e para venda de passeio a Playa Blanca e Islas del Rosario por agenciador de rua - compre em bilheteria. Nao achei recomendacao oficial especifica sobre o bairro.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+          "https://www.viajerohostels.com/en/destinations-colombia/"
+        ]
+      },
+      {
+        "bairro": "Centro Histórico / San Diego (Ciudad Amurallada)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 42669, "max": 42669 },
+        "porQue": "O que faz Cartagena ser Cartagena, e o Wikivoyage recomenda explicitamente dormir dentro da muralha. Tem hostel barato (o mais baixo da rede Viajero na cidade esta aqui) convivendo com hotel caro. Voltar a pe de madrugada sem taxi e o ganho real.",
+        "seguranca": "Wikivoyage: crime violento e raro, mas ha muito batedor de carteira e vendedor insistente. Nao romantizando: e seguro de andar, incomodo de ser abordado.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+          "https://www.viajerohostels.com/en/destinations-colombia/"
+        ]
+      },
+      {
+        "bairro": "Bocagrande",
+        "perfil": "conforto",
+        "porQue": "Segundo o Wikivoyage, tem o maior numero de hoteis de todas as faixas da cidade - mas e bairro de predio alto e praia urbana, longe do que torna Cartagena interessante. Nao e onde procurar hostel.",
+        "seguranca": "Sem recomendacao oficial especifica encontrada.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Cartagena_(Colombia)"]
+      }
+    ],
+    "santa-marta": [
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 23335, "max": 23335 },
+        "porQue": "Onde estao os hostels com piscina e rooftop (Viajero, Masaya, La Brisa Loca) e onde se come e se sai a pe. E a melhor relacao preco-vida de Santa Marta: o 'desde' mais baixo de toda a rede Viajero no pais esta aqui.",
+        "seguranca": "Wikivoyage (Stay safe): como em outras cidades colombianas, evite andar sozinho e com eletronicos caros a vista, em especial a noite.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Santa_Marta",
+          "https://www.viajerohostels.com/en/destinations-colombia/",
+          "https://www.masaya-experience.com/en/originals/santa-marta/"
+        ]
+      },
+      {
+        "bairro": "El Rodadero",
+        "perfil": "economico",
+        "porQue": "Balneario a sul do centro, com praia em frente e hoteis de colombiano de classe media, segundo o Wikivoyage. Tem alguma opcao economica mas quase nenhum hostel, e e bairro de predio, nao de rua viva.",
+        "seguranca": "ALERTA CONCRETO: o Wikivoyage diz para NAO fazer a pe o 'Sendero Peatonal Ziruma-Rodadero' entre o centro e Rodadero - trechos longos e desertos, passagem por bairros pobres e inseguros, policiamento minimo e 'turistas assaltados a mao armada em plena luz do dia'. Use onibus ou taxi.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Santa_Marta"]
+      },
+      {
+        "bairro": "Taganga",
+        "perfil": "economico",
+        "porQue": "Antiga vila de pescadores 5 km ao norte que o Wikivoyage chama de refugio de mochileiro e hippie, e a base tradicional de mergulho barato. Nao consegui confirmar nenhuma hospedagem com nome e site vivo em Taganga nesta rodada, por isso nao ha registro dela na lista.",
+        "seguranca": "Sem recomendacao oficial especifica encontrada nas fontes que abri. Nao vou afirmar que e segura nem que nao e.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Santa_Marta"]
+      }
+    ],
+    "palomino": [
+      {
+        "bairro": "Vía a la playa",
+        "perfil": "economico",
+        "porQue": "A rua de terra que desce da rodovia ate a praia e onde esta praticamente toda a hospedagem de Palomino, com hostels oferecendo cabana, quarto e rede, segundo o Wikivoyage. Quanto mais perto da areia, mais caro; a segunda fila sai menos.",
+        "seguranca": "Nenhuma recomendacao oficial sobre seguranca em Palomino foi encontrada nas fontes que abri.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Palomino", "https://www.thedreamer.com/palomino"]
+      },
+      {
+        "bairro": "Estrada Santa Marta-Palomino (km 60-63)",
+        "perfil": "economico",
+        "porQue": "Fincas e eco-hoteis espalhados pela rodovia a oeste do povoado, tipo La Jorara no km 62,5, com praia e piscinas naturais proprias e cafe da manha incluso. Mais silencio e mais natureza, em troca de depender de carro ou moto para tudo.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": ["http://www.lajorara.com/", "https://en.wikivoyage.org/wiki/Palomino"]
+      }
+    ],
+    "san-andres": [
+      {
+        "bairro": "North End / Centro (Spratt Bight, Av. Colombia)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 48002, "max": 585000 },
+        "porQue": "A zona movimentada: bares, duty-free, restaurantes e o cais dos barcos para Johnny Cay, tudo a pe. Aqui a diferenca de preco interna e brutal - o hostel de rede comeca em COP 48.002 e o Hotel Shalain, a 500 m de Spratt Bight, em COP 179.999, enquanto os hoteis grandes da orla (El Dorado, Reina del Mar, Arena Blanca, Summer Dream) pedem de COP 450.000 a 585.000. Ou seja: o North End so e caro se voce escolher a hotelaria de orla.",
+        "seguranca": "Nenhuma recomendacao oficial de seguranca por zona em San Andres foi encontrada nas fontes que abri. Nao vou inventar.",
+        "fontes": [
+          "https://sanandres.travel/page/hotel-san-andres-islas",
+          "https://sanandres.travel/hotel/hotel-shalain",
+          "https://www.viajerohostels.com/en/destinations-colombia/san-andres/"
+        ]
+      },
+      {
+        "bairro": "San Luis / Sound Bay (lado leste)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 170000, "max": 287180 },
+        "porQue": "Onde se concentram as posadas nativas atendidas por familia raizal, com praia rasa e calma, comida tipica e quase nenhuma vida noturna. Varias tem cozinha, propria ou compartilhada, o que corta o gasto de restaurante na ilha mais caras do pais. A faixa que achei com preco publicado vai de COP 170.000 (Ohana Lodging, Sound Bay) a COP 287.180 (San Luis Place By Dorado), com a Trinsan Campestre em COP 240.000. Fica a uns 20 minutos de carro do centro e exige mula ou taxi a noite.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": [
+          "https://sanandres.travel/hotel/ohana-lodging",
+          "https://www.sanandres.travel/en/hotel/posada-nativa-trinsan-campestre",
+          "https://sanandres.travel/page/hotel-san-andres-islas",
+          "https://colombia.travel/en/san-andres-island/native-inns"
+        ]
+      },
+      {
+        "bairro": "La Loma (e eixo Centro-La Loma)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 150000, "max": 150000 },
+        "porQue": "O bairro alto da ilha, onde mora a comunidade raizal e onde muita familia adaptou a casa como posada - e a opcao realmente economica da ilha em quarto privativo. A posada com preco mais baixo que achei com valor publicado, a Derma's Inn (COP 150.000), esta neste eixo, e a Miss Trinie, casa de familia de cinco geracoes com casa-museu, tambem. O preco de nao estar na praia: 12 minutos a pe ou carro para qualquer banho de mar.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": [
+          "https://sanandres.travel/hotel/posada-nativa-dermas-inn",
+          "https://www.posadanativaycasamuseomisstrinie.com/en/",
+          "https://colombia.travel/en/san-andres-island/native-inns"
+        ]
+      },
+      {
+        "bairro": "El Cove / lado oeste",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 250000, "max": 250000 },
+        "porQue": "O lado mais isolado e menos construido, com o Republica Hostel (so adultos, COP 250.000 o quarto, cafe buffet incluso) na Avenida Circunvalar km 10. Bonito e calmo, mas sem transporte proprio voce fica dependente de taxi para tudo.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": ["https://sanandres.travel/hotel/republica-hostel-san-andres"]
+      }
+    ],
+    "bogota": [
+      {
+        "bairro": "La Candelaria",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 36669, "max": 36669 },
+        "porQue": "O Wikivoyage e direto: quem viaja com pouco dinheiro escolhe La Candelaria, o bairro colonial do centro, onde ha muitos hostels bons e baratos, com o centro historico, os grandes museus e parte da vida noturna a pe. Todos os hostels que confirmei em Bogota estao aqui.",
+        "seguranca": "Wikivoyage: as ruas desertas do bairro sao inseguras depois de escurecer em noites de semana. Nos bairros ricos do norte (Zona Rosa, Parque 93) a seguranca nao e problema, mas os precos sao muito mais altos.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Bogot%C3%A1",
+          "https://en.wikivoyage.org/wiki/Bogot%C3%A1/La_Candelaria",
+          "https://www.viajerohostels.com/en/destinations-colombia/"
+        ]
+      },
+      {
+        "bairro": "Zona Rosa / Parque 93 / Chapinero",
+        "perfil": "conforto",
+        "porQue": "Os bairros do norte, com hoteis melhores e restaurantes, onde a seguranca pesa menos na decisao. O Wikivoyage e explicito: os precos sao muito mais altos, e nao e onde se procura hostel.",
+        "seguranca": "Wikivoyage: 'a seguranca nao sera um problema' nos distritos do norte - mas o preco sobe muito.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Bogot%C3%A1"]
+      }
+    ],
+    "villa-de-leyva": [
+      {
+        "bairro": "Centro Histórico (ao redor da Plaza Mayor)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 90000, "max": 90000 },
+        "porQue": "Villa de Leyva se ve toda a pe a partir da Plaza Mayor, e o diretorio local lista varias hospederias economicas dentro do centro (Don Paulino, Las Margaritas a 50 m da praca, La Posada de Jose Antonio com cafe). A faixa de COP 90.000 por noite e uma referencia de imprensa para a vila, nao cotacao de um lugar.",
+        "seguranca": "Nenhuma recomendacao oficial sobre seguranca em Villa de Leyva foi encontrada nas fontes que abri.",
+        "fontes": [
+          "https://www.villadeleyva.net/hoteles/",
+          "https://www.infobae.com/colombia/2024/10/11/cartagena-villa-de-leyva-y-san-andres-los-destinos-imperdibles-para-los-festivos-en-noviembre/",
+          "https://en.wikivoyage.org/wiki/Villa_de_Leyva"
+        ]
+      },
+      {
+        "bairro": "Arredores e Sáchica (1 a 5 km da praca)",
+        "perfil": "economico",
+        "porQue": "Onde estao o hostel com dormitorio (Renacer Casa Refugio, 1,2 km, na borda do Parque Iguaque) e as haciendas rurais com cafe incluso (Santa Cecilia, em Sachica, que se vende como mais barata que ficar na vila). Mais barato e mais bonito, com o custo de caminhar ou pegar carro para cada refeicao.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": ["https://renacerhostel.com/", "https://hotelsantacecilia.com.co/"]
+      }
+    ],
+    "medellin": [
+      {
+        "bairro": "El Poblado (inclusive Patio Bonito)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 80000, "max": 250000 },
+        "porQue": "Onde esta a maior parte dos hostels de Medellin. A faixa aqui esta confirmada em site oficial: cama em dormitorio a COP 80.000 e privativo de COP 160.000 a 250.000 no Blacksheep, e o 'desde' do Viajero a COP 90.000. Patio Bonito e a parte residencial e mais calma do Poblado; o eixo Parque Lleras e o barulhento.",
+        "seguranca": "Wikivoyage (Stay safe): peca taxi por telefone, nao na rua; saque dinheiro em caixa dentro de shopping e nao na calcada, porque 'nao e incomum' alguem ser seguido e assaltado logo depois do saque; para saque grande, peca escolta policial.",
+        "fontes": ["https://www.blacksheepmedellin.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn", "https://www.viajerohostels.com/en/destinations-colombia/"]
+      },
+      {
+        "bairro": "Laureles / Estadio",
+        "perfil": "economico",
+        "porQue": "Bairro plano, arborizado e de morador, mais barato que o Poblado e com bar de quarteirao em vez de balada de turista. Tem hostel (Wandering Paisa, International House) e hotel pequeno com cafe incluso (Sauces del Estadio, ao lado do estadio e da Avenida 70). Nenhum deles publica tarifa, por isso nao coloquei faixa aqui.",
+        "seguranca": "O mesmo alerta de taxi e de caixa eletronico do Wikivoyage vale para a cidade toda.",
+        "fontes": ["https://wanderingpaisahostel.com/", "https://hotelsaucesdelestadio.com/", "https://en.wikivoyage.org/wiki/Medell%C3%ADn"]
+      },
+      {
+        "bairro": "El Centro",
+        "perfil": "economico",
+        "porQue": "Tem os hoteis mais baratos da cidade e fica no meio de tudo (Botero, Plaza Mayor), mas e a zona que o Wikivoyage manda tratar com cautela e nao e onde ha hostel decente. Nao recomendo para dormir em dupla.",
+        "seguranca": "Wikivoyage pede cautela nas areas historicas proximas ao centro e recomenda nao se afastar do caminho batido em certas zonas.",
+        "fontes": ["https://en.wikivoyage.org/wiki/Medell%C3%ADn"]
+      }
+    ],
+    "salento": [
+      {
+        "bairro": "Centro de Salento (Plaza de Bolívar e Calle Real)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 56670, "max": 56670 },
+        "porQue": "Ficar no centro vale porque os jipes Willys para o Valle de Cocora saem da Plaza de Bolivar de manha cedo, e tudo em Salento se resolve em quatro quadras. A unica faixa confirmada aqui e o 'desde' COP 56.670 do Viajero.",
+        "seguranca": "O Wikivoyage de Salento nao tem secao de seguranca. Nenhuma recomendacao oficial encontrada - nao vou afirmar nada.",
+        "fontes": ["https://www.viajerohostels.com/en/destinations-colombia/", "https://en.wikivoyage.org/wiki/Salento"]
+      },
+      {
+        "bairro": "Zona rural / veredas Palestina e Boquia (1,5 a 5 km)",
+        "perfil": "economico",
+        "diaria": { "moeda": "COP", "min": 271000, "max": 439000 },
+        "porQue": "Onde esta a hospedagem de finca cafeteira, que e a forma tipica de dormir no Eje Cafetero: casa de cafe antiga, tour na propria fazenda e cafe da manha incluso. ATENCAO: ao contrario do que se diz por ai, finca em Salento NAO e a opcao barata - o Ocaso cobra de COP 271.000 a 439.000 por quarto em temporada baixa, o que e tres a oito vezes uma cama de hostel. A finca realmente barata (Don Elias, COP 15.000 por pessoa) so aparece em fonte de 2016-2019 e eu nao consegui confirmar que ainda hospeda.",
+        "seguranca": "Sem recomendacao oficial encontrada.",
+        "fontes": [
+          "https://turismoquindio.com/hoteles/finca-el-ocaso-salento/",
+          "https://en.wikivoyage.org/wiki/Salento",
+          "https://asoaturquindio.com/hoteles-salento/"
+        ]
+      }
+    ]
+  },
+  "alertasGerais": [
+    {
+      "assunto": "Fiestas de Independencia de Cartagena, novembro de 2026",
+      "oQueSeSabe": "A programacao oficial de 2026 vai do inicio de outubro ate 16 de novembro, com 11/11 como data central (sessao solene e serenata), 12/11 o Gran Desfile de Independencia, 13/11 o Festival Nautico e o show principal com Juan Luis Guerra, e 14 a 16/11 os ultimos shows. Ou seja: a semana de 11 a 16 de novembro e o pico da cidade.",
+      "oQueNaoSeSabe": "NAO achei nenhuma fonte que quantifique alta de preco de hospedagem nessas datas especificas. Nao vou inventar um percentual. Trate como risco de lotacao e reserve cedo, mas sem numero.",
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/fiestas-de-la-independencia-2026-la-agenda-oficial-y-artistas-confirmados/"
+      ]
+    },
+    {
+      "assunto": "Hospedagem na Colombia esta subindo acima da inflacao",
+      "oQueSeSabe": "O componente de restaurantes e hoteis teve variacao anual de cerca de 9,36% ate agosto de 2026, contra inflacao geral de 6,24%. Pacotes turisticos subiram menos (5,14%), mas hotel e restaurante subiram mais. Isso significa que qualquer preco de 2024 ou 2025 que voce ver por ai ja esta defasado.",
+      "fontes": [
+        "https://www.infobae.com/colombia/2026/10/06/la-semana-de-receso-pone-a-prueba-al-turismo-colombiano-viajar-se-encarece-y-hoteles-y-agencias-piden-soluciones-por-que-cartagena-y-san-andres-compiten-con-miami-o-espana/"
+      ]
+    },
+    {
+      "assunto": "Ocupacao hoteleira: San Andres e o destino mais disputado",
+      "oQueSeSabe": "Em julho de 2026, San Andres e Providencia lideraram a ocupacao hoteleira do pais com 70,9%, seguidos de Cartagena com 62,7% e Bogota com 58,5%, contra media nacional de 50,6%. Isso reforca que San Andres e a base onde reservar tarde custa mais caro.",
+      "fontes": [
+        "https://www.eluniversal.com.co/economica/2026/09/16/este-es-el-top-5-de-los-destinos-con-mejor-ocupacion-hotelera-en-colombia/"
+      ]
+    },
+    {
+      "assunto": "Referencia de custo de hospedagem por destino em feriado de novembro",
+      "oQueSeSabe": "Reportagem de outubro de 2024 sobre os feriados de novembro estimava diaria em estabelecimento economico de cerca de COP 150.000 em Cartagena, COP 90.000 em Villa de Leyva e media de COP 200.000 em San Andres. Sao numeros de nivel de destino, nao de um lugar especifico.",
+      "oQueNaoSeSabe": "Sao precos de outubro de 2024, dois anos atras, e a propria materia avisa que variam com temporada e antecedencia. Com a alta de 9,36% ao ano em hoteis, espere valores mais altos em 2026.",
+      "fontes": [
+        "https://www.infobae.com/colombia/2024/10/11/cartagena-villa-de-leyva-y-san-andres-los-destinos-imperdibles-para-los-festivos-en-noviembre/"
+      ]
+    },
+    {
+      "assunto": "Lugares do banco de nomes que FECHARAM ou perderam presenca",
+      "oQueSeSabe": "Verificado em 09/10/2026, dominio por dominio: Hostel Mamallena Cartagena fechou (o proprio site da rede diz que a pandemia deixou so a unidade do Panama); La Serrana Eco Farm & Hostel, em Salento, aparece como permanentemente fechado e o dominio laserrana.com.co foi vendido (cuidado: laserrana.co existe mas e outra propriedade, em Urrao, Antioquia); Casa Kiwi Medellin perdeu o dominio, que hoje serve conteudo de site de apostas; Casa Viena (Cartagena) tem dominio expirado; Hostal La Floresta, Plantation House e Hostal Tralala (Salento), Hostal Rana, El Solar e Casa de Anny (Villa de Leyva), Hotel Nueva Granada (Santa Marta), Anandamayi House e Chocolate Hostel (Bogota), Hotel Conquistadores (Medellin) e La Sirena Eco Hotel (Palomino) tem dominio morto ou vendido. Nenhum deles entrou nesta lista.",
+      "fontes": ["https://www.mamallena.com/", "https://laserrana.co/", "https://casakiwi.net/"]
+    }
+  ]
+}

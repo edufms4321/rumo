@@ -875,6 +875,13 @@ function nivelDeConfianca(valor: unknown, quantasFontes: number): string {
   const v = String(valor ?? '').toLowerCase();
   if (NIVEIS.has(v)) return v;
   if (v === 'confirmado' || v === 'oficial') return 'verificado';
+  // "baixa" e "media" apareceram em ondas de hospedagem: sem mapear, as 43
+  // marcadas "baixa" no Nordeste cairiam na regra de contar dominios e
+  // varias subiriam para "parcial" — justamente o contrario do que o
+  // pesquisador quis dizer.
+  if (v === 'baixa' || v === 'baixo') return 'estimado';
+  if (v === 'media' || v === 'medio') return 'parcial';
+  if (v === 'alta' || v === 'alto') return 'verificado';
   return quantasFontes >= 2 ? 'parcial' : 'estimado';
 }
 
