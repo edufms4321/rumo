@@ -318,9 +318,15 @@ export function Descobrir() {
   );
 }
 
+/*
+  Cada bloco de filtro e um grupo com nome acessivel. Sem isso, "San Andres"
+  aparece como pilula de ESTADO (San Andres y Providencia) e como pilula de
+  BASE, e tanto o leitor de tela quanto o teste de navegador ficam sem saber
+  qual dos dois e qual - o Playwright reclama de locator ambiguo, e com razao.
+*/
 function Grupo({ titulo, children }: { titulo: string; children: React.ReactNode }) {
   return (
-    <div className="mb-3 last:mb-0">
+    <div aria-label={titulo} className="mb-3 last:mb-0" role="group">
       <p className="mb-1.5 text-2xs font-medium uppercase tracking-wide text-[var(--cor-texto-fraco)]">
         {titulo}
       </p>

@@ -97,11 +97,13 @@ test('o motor acusa o conflito de deslocamento e oferece correcao', async ({ pag
   // Favorita itens de duas cidades distantes.
   await page.getByRole('link', { name: 'Descobrir' }).click();
   await page.getByRole('button', { name: 'Filtros', exact: true }).click();
-  await page.getByRole('button', { name: /^Cartagena/ }).click();
+  // Escopo no grupo "Base": "San Andres" tambem e nome de estado.
+  const bases = page.getByRole('group', { name: 'Base' });
+  await bases.getByRole('button', { name: /^Cartagena/ }).click();
   await page.getByRole('button', { name: 'Favoritar' }).first().click();
   // O painel de filtros fica aberto: troca a base sem reabrir.
-  await page.getByRole('button', { name: /^Cartagena/ }).click();
-  await page.getByRole('button', { name: /^San Andres/ }).click();
+  await bases.getByRole('button', { name: /^Cartagena/ }).click();
+  await bases.getByRole('button', { name: /^San Andres/ }).click();
   await page.getByRole('button', { name: 'Favoritar' }).first().click();
 
   // Põe os dois no mesmo dia.
