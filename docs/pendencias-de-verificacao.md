@@ -371,7 +371,7 @@ Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
 |---|---|---|
 | Noches de Kukulcán (show noturno em Chichén Itzá) | Valladolid | antecedência da reserva |
 
-### Pesquisa que nao entrou no banco — 34
+### Pesquisa que nao entrou no banco — 60
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
@@ -394,13 +394,13 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento sem data exata ficou fora do banco: "Nidificação de tartarugas marinhas (Quintana Roo)" (vazio)
 - evento "Temporada de furacões - Atlântico/Caribe/Golfo" tem escopo "Quintana Roo, Yucatán, Golfo do México" fora das bases do banco: descartado
 - evento "Estação chuvosa (normais climáticos)" tem escopo "Todo o país, com variações regionais" fora das bases do banco: descartado
-- bairro "Cabo San Lucas - centro / Marina / Medano" (la-paz) sem faixa de diaria: fora de hospedagem.json
-- bairro "Todos Santos - centro" (la-paz) sem faixa de diaria: fora de hospedagem.json
-- bairro "Puerto Vallarta - Zona Romántica" (la-paz) sem faixa de diaria: fora de hospedagem.json
-- bairro "Sayulita - vila / camping" (la-paz) sem faixa de diaria: fora de hospedagem.json
-- bairro "Guanajuato - Região da rodoviária / sul do centro" (guanajuato) sem faixa de diaria: fora de hospedagem.json
-- bairro "Guadalajara - Colonia Americana / Av. Chapultepec" (guanajuato) sem faixa de diaria: fora de hospedagem.json
-- _...e mais 9._
+- bairro "Cabo San Lucas - centro / Marina / Medano" (la-paz) sem faixa de diaria: entrou sem preco
+- bairro "Todos Santos - centro" (la-paz) sem faixa de diaria: entrou sem preco
+- bairro "Puerto Vallarta - Zona Romántica" (la-paz) sem faixa de diaria: entrou sem preco
+- bairro "Sayulita - vila / camping" (la-paz) sem faixa de diaria: entrou sem preco
+- bairro "Guanajuato - Região da rodoviária / sul do centro" (guanajuato) sem faixa de diaria: entrou sem preco
+- bairro "Guadalajara - Colonia Americana / Av. Chapultepec" (guanajuato) sem faixa de diaria: entrou sem preco
+- _...e mais 35._
 
 ### Sem coordenada — 30
 

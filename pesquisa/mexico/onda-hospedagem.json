@@ -1,0 +1,2426 @@
+{
+  "base": "hospedagem",
+  "coletadoEm": "2026-10-09",
+  "hospedagens": [
+    {
+      "cidadeId": "cidade-do-mexico",
+      "nome": "Casa de los Amigos",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Colonia Tabacalera (ao lado do Metro Revolución)",
+      "porQue": "Casa de hóspedes da comunidade quacre, com quartos privativos e camas em dormitório, mínimo de duas noites e público de voluntários e pesquisadores. Barato e tranquilo; não é hostel de festa e tem regras de casa.",
+      "link": "https://casadelosamigos.org/",
+      "endereco": "Ignacio Mariscal 132, Col. Tabacalera, Ciudad de México",
+      "contato": {
+        "telefone": "+52 55 5705 0521",
+        "site": "https://casadelosamigos.org/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Centro",
+        "https://casadelosamigos.org/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site institucional no ar em 09/10/2026, mas a home não publica tarifa — por isso sem preço. Wikivoyage (edição de 14/04/2022) confirma quartos privativos e camas em dormitório com mínimo de duas noites. Funciona desde os anos 1950; escreva para reservar."
+    },
+    {
+      "cidadeId": "cidade-do-mexico",
+      "nome": "Hostel Condesa Chapultepec",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Roma Norte (fronteira com a Condesa)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400
+      },
+      "porQue": "É a opção mais barata dentro do eixo Roma/Condesa — cafés, parques e vida noturna a pé, sem táxi. Dormitório simples; quem quer silêncio e quarto grande não vai gostar.",
+      "link": "http://www.hostelcondesachapultepec.com",
+      "endereco": "Cozumel 53-A, Roma Norte (entre Colima e Durango), Ciudad de México",
+      "contato": {
+        "telefone": "+52 55 5211 1024",
+        "site": "http://www.hostelcondesachapultepec.com"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma",
+        "http://www.hostelcondesachapultepec.com"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de M$400 vem do Wikivoyage, edição de 02/03/2024, com a descrição 'hostel com dormitórios compartilhados, a hospedagem mais barata da Condesa' — tratei como cama em dormitório, mas a fonte não diz o tamanho do quarto nem a temporada. Site oficial no ar em 09/10/2026 (menciona quartos compartilhados, cozinha e privativos). 2024 já é faixa antiga: confirme."
+    },
+    {
+      "cidadeId": "cidade-do-mexico",
+      "nome": "Mexico City Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico",
+      "porQue": "Casarão na esquina noroeste da Catedral: você acorda dentro do Centro Histórico e caminha para Zócalo, Templo Mayor e Bellas Artes. Em troca, o Centro esvazia e fecha cedo à noite.",
+      "link": "https://www.mexicocityhostel.com/",
+      "endereco": "República de Brasil 8, Centro Histórico, Ciudad de México",
+      "contato": {
+        "telefone": "+52 55 5512 3666",
+        "site": "https://www.mexicocityhostel.com/"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "Wikivoyage (distrito Centro): caminhar no Centro Histórico é seguro, mas as lojas fecham cedo e as ruas ficam vazias por volta das 21h; a fonte recomenda evitar a área a leste do Zócalo depois do escurecer e o bairro Tepito em qualquer horário."
+      ],
+      "fontes": [
+        "https://www.mexicocityhostel.com/",
+        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026, anunciando dormitórios compartilhados e quartos privativos. Wikivoyage (edição de 06/04/2023) registra 'M$500 com café incluso' sem dizer se é cama ou quarto — por isso NÃO lancei preço. Peça a tarifa de cama por e-mail (reservaciones@mexicocityhostel.com); onde o preço aparece são plataformas proibidas neste levantamento."
+    },
+    {
+      "cidadeId": "puebla",
+      "nome": "Gente de Más Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (3 Poniente, 3 quadras do Zócalo)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 450
+      },
+      "porQue": "Casarão de 1856 a três quadras do Zócalo, com dormitórios de 6 camas, cozinha comum e sala de leitura. O melhor custo-benefício do centro de Puebla para dupla que aceita quarto compartilhado.",
+      "endereco": "3 Poniente 713, Centro Histórico, Puebla",
+      "contato": {
+        "telefone": "+52 222 232 3136"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://www.poblanerias.com/2020/12/hostales-en-puebla-centro/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "ATENÇÃO À IDADE DA FONTE: a faixa de 350-450 MXN é da reportagem do Poblanerías (imprensa local de Puebla) de 04/12/2020 — mais de 2 anos, confiança rebaixada, o valor de hoje deve estar maior. A faixa também não separa cama em dormitório de quarto privativo. O domínio gentedemashostel.com não resolveu em 09/10/2026; a página de Facebook segue como presença ativa. Confirme por telefone."
+    },
+    {
+      "cidadeId": "puebla",
+      "nome": "Hostal Santo Domingo (operado sob bandeira OYO)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (4 Poniente, uma rua do Templo de Santo Domingo)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 700
+      },
+      "porQue": "Pátio central com bar, recepção 24h e uma rua do Templo de Santo Domingo e do mercado La Victoria. Localização imbatível no Centro; qualidade dos quartos varia muito.",
+      "endereco": "4 Poniente 312, Centro Histórico, Puebla",
+      "fontes": [
+        "https://www.poblanerias.com/2020/12/hostales-en-puebla-centro/"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Faixa de 350-700 MXN é do Poblanerías de 04/12/2020 — mais de 2 anos, confiança rebaixada. O domínio hostalsantodomingo.com.mx não resolveu em 09/10/2026 e a operação aparece sob a bandeira OYO, que troca de nome com frequência: há risco real de ter mudado de nome ou fechado. Trate como pista, não como reserva. Para contexto, o mesmo artigo cita Leonora Hostal (3 Oriente 216), que buscas em 09/10/2026 indicam PERMANENTEMENTE FECHADO — não registrei."
+    },
+    {
+      "cidadeId": "puebla",
+      "nome": "Hotel San Agustín",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (3 Poniente, perto da Igreja de San Agustín)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 280,
+        "max": 280
+      },
+      "porQue": "Hotel simples de rua: quarto privativo pelo preço de uma cama em dormitório de cidade de praia. Serve para dupla que prefere porta fechada; não espere charme nem café.",
+      "link": "http://www.hotelesenpuebla.com/hotel-san-agustin/",
+      "endereco": "3 Poniente 531, Centro, Puebla",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puebla"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de M$280 vem do Wikivoyage em ficha SEM campo de data de edição — pode ser bem antigo, por isso confiança baixa. Não confirmei o hotel em fonte oficial própria em 09/10/2026. Verifique existência e tarifa antes de viajar."
+    },
+    {
+      "cidadeId": "cancun",
+      "nome": "Fiesta Party Hostel Cancún",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (SM 22, perto da rodoviária)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 282,
+        "max": 282
+      },
+      "porQue": "O mais barato da lista em Cancún e perto da rodoviária da Av. Uxmal/Tulum, bom para chegar tarde ou sair cedo. É explicitamente hostel de festa: quem quer dormir não deve ficar aqui.",
+      "link": "https://fiesta-party-hostel-cancun.business.site/",
+      "endereco": "Alcatraces 43, SM 22, Mza 10, Centro, Cancún",
+      "contato": {
+        "telefone": "+52 998 892 7902"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "Wikivoyage descreve o lugar como hostel de festa, com bebida e barulho livres — não indicado para quem quer silêncio."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de M$282 por cama é do Wikivoyage, edição de 17/04/2022 — mais de 2 anos, deve estar defasado. A mesma fonte registra que a região da rodoviária no centro é razoavelmente segura à noite e que havia hotéis econômicos de 400-650 MXN (abril/2022) no centro continental."
+    },
+    {
+      "cidadeId": "cancun",
+      "nome": "Hostel Natura",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Zona Hotelera",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400
+      },
+      "porQue": "Cama em dormitório na Zona Hotelera por preço de centro — a alternativa mais barata com praia perto que o Wikivoyage registra. Estrutura simples.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de ~M$400 por cama é do Wikivoyage, datado de ABRIL DE 2022 (mais de 2 anos: confiança rebaixada). NÃO encontrei site oficial próprio no ar em 09/10/2026 (hostelnatura.com não resolve) e o Wikivoyage não traz endereço nem telefone — há risco de ter fechado. Confirme antes de contar com ele."
+    },
+    {
+      "cidadeId": "cancun",
+      "nome": "Mayan Monkey Cancún",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Zona Hotelera (Blvd. Kukulcán km 9,5)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 600,
+        "max": 600
+      },
+      "porQue": "O único jeito barato de dormir na Zona Hotelera com praia a pé: dormitórios de 6 a 12 camas, piscina, bar e cozinha compartilhada. É adults only e social — se vocês querem silêncio, fiquem no centro.",
+      "link": "https://mayanmonkey.com/es/mayan-monkey-cancun",
+      "endereco": "Blvd. Kukulcán km 9.5, Zona Hotelera, 77500 Cancún, Quintana Roo",
+      "contato": {
+        "telefone": "+52 998 688 6448",
+        "site": "https://mayanmonkey.com/es/mayan-monkey-cancun"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://mayanmonkey.com/es/mayan-monkey-cancun",
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço, telefone e existência confirmados no site oficial em 09/10/2026 (a rede tem 4 casas: Cancún, Tulum, Los Cabos e Isla Mujeres; adults only +18). O preço de ~M$600 por cama com impostos é do Wikivoyage e datado de ABRIL DE 2022 — está velho e Cancún subiu desde então; use só como ordem de grandeza. O site oficial não publica tarifa fora do motor de reserva."
+    },
+    {
+      "cidadeId": "playa-del-carmen",
+      "nome": "Hotel Posada Lily",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro (em frente ao terminal ADO Turística)",
+      "porQue": "Hotel básico literalmente em frente ao terminal de ônibus da Quinta Avenida: quarto privativo baratíssimo para quem usa Playa como ponto de passagem para Cozumel e Tulum. Peça o quarto simples explicitamente.",
+      "endereco": "Em frente ao Terminal ADO Turística, Centro, Playa del Carmen",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage (edição de 01/02/2022) descreve o hotel como simples e avisa que 'só dão o quarto barato se você pedir especificamente', mas não publica tarifa. Não achei site oficial em 09/10/2026. Fonte com mais de 2 anos — confiança rebaixada e existência não confirmada de forma independente."
+    },
+    {
+      "cidadeId": "playa-del-carmen",
+      "nome": "Posada Mariposa Boutique Hotel",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro / Quinta Avenida norte (a chamada Little Italy)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 518,
+        "max": 518
+      },
+      "porQue": "Pousada na ponta norte da Quinta Avenida, parte mais calma e italiana da rua, a pé da praia. Quarto privativo por pouco mais que duas camas em dormitório — bom acordo para dupla que não quer compartilhar.",
+      "link": "https://posadamariposaboutiquehotel.com/",
+      "endereco": "Calle 24 Nte 5A, Centro, Playa del Carmen",
+      "contato": {
+        "telefone": "+52 984 147 2278",
+        "site": "https://posadamariposaboutiquehotel.com/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Playa_del_Carmen",
+        "https://posadamariposaboutiquehotel.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026, sem tarifa pública. O valor de M$518 é do Wikivoyage, edição de 14/04/2022 — mais de 2 anos, quase certamente defasado para cima. Trate como piso histórico, não como preço atual."
+    },
+    {
+      "cidadeId": "playa-del-carmen",
+      "nome": "Tres Mundos Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle 6, entre Av. 20 e Av. 25)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 250
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 600,
+        "max": 600
+      },
+      "porQue": "Casa de 2011 a 5 quadras da praia e 4 da Quinta Avenida, com dormitório misto, dormitório feminino, cozinha comunitária, bar e redes. O preço mais honesto de Playa, e o privativo cabe no orçamento de dupla.",
+      "link": "https://tresmundos.com.mx/",
+      "endereco": "Calle 6 Nte, entre Av. 20 e Av. 25, Centro, Playa del Carmen, Quintana Roo",
+      "contato": {
+        "telefone": "+52 984 107 6230",
+        "site": "https://tresmundos.com.mx/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://tresmundos.com.mx/"
+      ],
+      "confianca": "alta",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos no site oficial em 09/10/2026: 'a partir de $250 mxn/noite' para cama em dormitório misto ou feminino e 'a partir de $600 mxn/noite' para quarto privativo. São tarifas MÍNIMAS, ou seja, temporada baixa; de dezembro a abril e na Semana Santa sobem. O site não publica calendário de temporada."
+    },
+    {
+      "cidadeId": "tulum",
+      "nome": "Chakpool Hostal & Camping",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Parque de los Cenotes Dos Ojos (fora da cidade)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 150
+      },
+      "porQue": "Barraca armada com colchão, travesseiro e roupa de cama dentro do parque dos cenotes Dos Ojos, com cozinha e água potável, a cinco minutos a pé dos cenotes. A troca é clara: você fica longe da cidade e da praia e depende de carro ou colectivo.",
+      "endereco": "Parque de los Cenotes Dos Ojos, Carretera Tulum-Playa del Carmen",
+      "contato": {
+        "telefone": "+52 993 277 9540 (WhatsApp)"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Tulum"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$150 por noite na barraca fornecida (com colchão, travesseiro, lençol e colcha) é do Wikivoyage, datado de FEVEREIRO DE 2022 — mais de 2 anos, confiança rebaixada. Há também quartos compartilhados e privativos, sem preço informado. Não achei site oficial em 09/10/2026; só o WhatsApp e o e-mail admonchakpool@gmail.com da própria ficha."
+    },
+    {
+      "cidadeId": "tulum",
+      "nome": "Mayan Monkey Tulum",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Av. Cobá Sur, a pé da rodoviária ADO)",
+      "porQue": "A forma realista de dormir em Tulum sem pagar preço de zona hoteleira: dormitórios de 8 e 12 camas, piscina, cozinha compartilhada e coworking no centro, com shuttle para a praia.",
+      "link": "https://mayanmonkey.com/es/mayan-monkey-tulum",
+      "endereco": "Av. Cobá Sur S/N, 77780 Tulum, Quintana Roo",
+      "contato": {
+        "telefone": "+52 984 122 1301",
+        "site": "https://mayanmonkey.com/es/mayan-monkey-tulum"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Tulum é caro: o Wikivoyage orienta que quem não paga a zona hoteleira fique no centro, a leste da rodoviária ADO, dentro de duas quadras da rua principal, ou ao longo da estrada que vai à praia."
+      ],
+      "fontes": [
+        "https://mayanmonkey.com/es/mayan-monkey-tulum",
+        "https://en.wikivoyage.org/wiki/Tulum"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço, telefone e tipos de quarto confirmados no site oficial em 09/10/2026 (adults only +18). SEM PREÇO: a tarifa só aparece no motor de reserva e nas plataformas proibidas. TULUM É CARO — não existe opção genuinamente barata aqui; isto é o piso do lugar, e no inverno e no Ano Novo as diárias explodem."
+    },
+    {
+      "cidadeId": "tulum",
+      "nome": "The Weary Traveler Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (4 quadras a leste da rodoviária ADO)",
+      "porQue": "Hostel clássico de mochileiro do centro de Tulum, com área comum aberta, cozinha, café self-service e van para a praia. Barato e social — e barulhento, porque todos os quartos dão para o pátio.",
+      "endereco": "4 quadras a leste da rodoviária ADO, Centro, Tulum",
+      "contato": {
+        "telefone": "+52 984 211 2608"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage registra barulho no pátio até as 23h, limpeza irregular e relatos de percevejos (bed bugs)."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Tulum"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SUSPEITO DE TER FECHADO OU MUDADO: o site oficial wearytravelerhostel.com devolveu erro 404 em 09/10/2026 e a ficha do Wikivoyage não é editada desde 24/12/2020 (quase 6 anos). Sem preço. Confirme a existência antes de considerar."
+    },
+    {
+      "cidadeId": "bacalar",
+      "nome": "Magic Bacalar (cabañas, hostal e camping)",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Beira da lagoa, com cais privado",
+      "porQue": "Cabañas de madeira e palapa à beira da lagoa, alugadas inteiras OU por cama, com banheiro compartilhado, cozinha comum e acesso direto ao cais — o jeito mais rústico e barato de dormir na água dos sete azuis. Banheiro compartilhado e nada de luxo.",
+      "link": "https://www.magicbacalar.com/alojamiento-hostal-camping/",
+      "endereco": "Bacalar, Quintana Roo (beira da lagoa; endereço de rua não publicado na página)",
+      "contato": {
+        "telefone": "+52 983 834 2357",
+        "site": "https://www.magicbacalar.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://www.magicbacalar.com/alojamiento-hostal-camping/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial lido em 09/10/2026: duas cabañas familiares — Cabaña Laguna (9 camas individuais, ar-condicionado ligado à noite, terraço com redes de frente para a lagoa) e Cabaña Jardín (8 camas com lockers) —, ambas com banheiro compartilhado e podendo ser alugadas completas ou POR CAMA, mais área de camping. A página NÃO publica o valor da cama; só informa que pessoa extra custa $250. Por isso não lancei diária: pergunte a tarifa por cama pelo telefone da página."
+    },
+    {
+      "cidadeId": "bacalar",
+      "nome": "Viajero Bacalar Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Bacalar (Avenida 3, perto do forte)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 250
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 950,
+        "max": 1100
+      },
+      "porQue": "Cama em dormitório de 8 com ar-condicionado e vista para a lagoa, piscina, área de yoga e coworking, no centro a pé do forte. O preço mais claro e barato de Bacalar; em troca é hostel grande e social, não refúgio silencioso.",
+      "endereco": "Avenida 3 entre calles 28 y 30, Centro, 77935 Bacalar, Quintana Roo",
+      "fontes": [
+        "https://bacalarestaaqui.com/asociados/viajero-bacalar-hostel/",
+        "https://www.viajerohostels.com/es/destinos-mexico/bacalar/"
+      ],
+      "confianca": "alta",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos em 09/10/2026 no diretório local Bacalar Está Aquí, que publica a tabela do próprio hostel: cama em dormitório compartilhado de 8 camas 250 MXN; quarto privativo king 950 MXN; apartamento standard king com cozinha, sala e sala de jantar 1.100 MXN. A página não indica temporada — presuma tarifa base, com alta de dezembro a abril. A rede Viajero confirma a casa de Bacalar no site oficial."
+    },
+    {
+      "cidadeId": "bacalar",
+      "nome": "Villas Ecotucan",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "5 km ao norte da cidade, na beira da lagoa",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 1400,
+        "max": 1400
+      },
+      "porQue": "Cabañas e área de camping com praia própria e atividades na lagoa, 5 km fora da cidade. Vale para quem quer acordar na água; a cabaña é caríssima para dupla econômica e você fica dependente de transporte para o centro.",
+      "link": "https://ecotucan.com/en/",
+      "endereco": "5 km ao norte de Bacalar, estrada da lagoa, Quintana Roo",
+      "contato": {
+        "site": "https://ecotucan.com/en/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Bacalar"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "O valor de MXN 1.400 é do Wikivoyage, edição de 05/11/2023, e se refere à CABAÑA, não a vaga de camping — o camping existe na descrição mas sem preço, e é justamente a parte que interessaria ao perfil econômico. Fonte com quase 3 anos: confiança rebaixada. Não abri o site oficial para confirmar a tarifa de camping em 09/10/2026."
+    },
+    {
+      "cidadeId": "isla-mujeres",
+      "nome": "Hotel Belmar",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Centro (Av. Hidalgo, rua de pedestres)",
+      "diariaPrivativo": {
+        "moeda": "USD",
+        "min": 46,
+        "max": 46
+      },
+      "porQue": "Quarto privativo limpo na rua de pedestres do centro, a poucas quadras da Playa Norte — o quarto fechado mais em conta que o Wikivoyage registra na ilha. Não guarda bagagem depois do check-out, o que incomoda em dia de balsa.",
+      "link": "https://belmar.mxhotel.site/en/",
+      "endereco": "Av. Hidalgo, Centro, Isla Mujeres, Quintana Roo",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "US$46 por noite é exatamente como o Wikivoyage publica, em dólar — NÃO converti. A ficha NÃO tem data de edição, então o valor pode ser antigo e a confiança é baixa. Não confirmei o hotel em site próprio em 09/10/2026: o link do Wikivoyage aponta para um domínio de agregador, não para o hotel."
+    },
+    {
+      "cidadeId": "isla-mujeres",
+      "nome": "Mayan Monkey Isla Mujeres",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Carretera Garrafón (sul da ilha, frente ao mar)",
+      "porQue": "Dormitórios de 8 e de 16 camas com beach club próprio na costa do Garrafón. É a opção social e econômica da ilha, mas fica longe do centro e da Playa Norte — você vai depender de carrinho de golfe ou táxi.",
+      "link": "https://mayanmonkey.com/es/mayan-monkey-isla-mujeres",
+      "endereco": "Carretera Garrafón km 4.5, 77400 Isla Mujeres, Quintana Roo",
+      "contato": {
+        "telefone": "+52 998 108 0495",
+        "site": "https://mayanmonkey.com/es/mayan-monkey-isla-mujeres"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://mayanmonkey.com/es/mayan-monkey-isla-mujeres"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço, telefone, dormitórios (misto de 8, feminino de 8, misto de 16) e beach club confirmados no site oficial em 09/10/2026; adults only +18. SEM PREÇO: só no motor de reserva. Confira a localização no mapa antes de reservar: o km 4.5 do Garrafón está no extremo sul, a vários quilômetros do centro e da Playa Norte."
+    },
+    {
+      "cidadeId": "isla-mujeres",
+      "nome": "Poc-Na Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro / Playa Norte",
+      "porQue": "Era o hostel histórico da ilha, com dormitórios, bar na areia e camping — o endereço mais clássico do mochileiro no Caribe mexicano. Hoje a situação da marca é confusa; veja a observação antes de contar com ele.",
+      "alertas": [
+        "Status duvidoso em 2026: a marca passou pela rede Selina, que entrou em colapso financeiro, e o domínio pocna.com redireciona hoje para um hotel diferente, o 'Playa Pocna Tulum'. Não reserve sem confirmar que a casa de Isla Mujeres segue operando."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Isla_Mujeres",
+        "https://pocna.com"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "REGISTRO COM RESSALVA FORTE. O Wikivoyage lista a casa como 'Selina Isla Mujeres Pocna' com dormitório a US$9-15, single US$30 e camping US$6 por pessoa — ficha SEM data de edição e anterior à queda da Selina, por isso NÃO lancei esses preços. Em 09/10/2026 pocna.com e www.pocna.com redirecionam para playapocnatulum.com, um hotel de praia em Tulum, e buscas mostram a propriedade de Isla Mujeres sendo renomeada ('Nílu Isla Mujeres'). Suspeito de fechamento ou rebranding. Mantive o registro porque é um nome que ele vai encontrar em toda lista de Isla Mujeres e precisa conhecer o risco."
+    },
+    {
+      "cidadeId": "cozumel",
+      "nome": "Amigos Hostel Cozumel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de San Miguel (a poucas quadras do malecón e do píer)",
+      "porQue": "O hostel mais antigo da ilha: dormitórios de 4 beliches (máximo 8 pessoas) com banheiro privativo dentro do quarto, lockers grandes para mochila, ar-condicionado das 22h às 8h no verão, cortina blackout e entrada por código, sem toque de recolher. É a cama barata de Cozumel, ilha que de resto é feita de hotel de mergulho.",
+      "link": "http://www.cozumelhostel.com/",
+      "endereco": "San Miguel de Cozumel, Quintana Roo (centro; endereço de rua não publicado na página)",
+      "contato": {
+        "site": "http://www.cozumelhostel.com/"
+      },
+      "fontes": [
+        "http://www.cozumelhostel.com/dorm.htm"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar em 09/10/2026 e detalhes dos dormitórios confirmados ali, MAS a própria página traz a data '12/21/2022' no rodapé — quase 4 anos sem atualização, então confiança rebaixada e operação atual não garantida. SEM PREÇO: a página não publica tarifa e manda reservar numa plataforma proibida neste levantamento. Peça a tarifa de cama por cozumelhostel@gmail.com."
+    },
+    {
+      "cidadeId": "cozumel",
+      "nome": "Hostelito Cozumel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de San Miguel (duas quadras do mar e do píer principal)",
+      "porQue": "Beliches em dormitório misto com chuveiros separados por gênero e lockers grandes, duas quadras do mar e do píer das balsas — bom para quem chega de Playa del Carmen e sai mergulhando no dia seguinte.",
+      "endereco": "Centro de San Miguel de Cozumel, Quintana Roo",
+      "fontes": [
+        "https://www.facebook.com/hostelitocozumel/"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Registro só com nome e descrição. O domínio hostelcozumel.com (citado como site oficial) NÃO resolveu em 09/10/2026, nem hostelitocozumel.com; a presença que restou é a página de Facebook, que é a única presença oficial disponível. SEM PREÇO. A prefeitura de Cozumel mantém ficha do lugar em turismo.cozumel.gob.mx, mas o servidor devolveu 403 ao meu acesso e não pude ler o conteúdo oficial. Confirme por mensagem antes de contar com ele."
+    },
+    {
+      "cidadeId": "merida",
+      "nome": "Aventura Hotel",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Calle 61, lado oeste)",
+      "porQue": "Hotel pequeno e econômico no centro, opção de quarto privativo para dupla que não quer dormitório em Mérida. Fica no trecho oeste da Calle 61, mais residencial e mais quieto que a Plaza Grande.",
+      "link": "https://www.facebook.com/Aventura-Hotel-Merida-112904815457401/",
+      "endereco": "Calle 61 nº 580, entre Calle 74 e Calle 76, Centro, Mérida, Yucatán",
+      "contato": {
+        "telefone": "+52 999 923 4801"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage lista o hotel na categoria econômica mas não publica tarifa, e a ficha não tem data de edição. A presença indicada é apenas uma página de Facebook. Existência não confirmada de forma independente em 09/10/2026."
+    },
+    {
+      "cidadeId": "merida",
+      "nome": "Che Nómadas Mérida (Nómadas Hostel)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Calle 62, ~400 m da Plaza Grande)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 300
+      },
+      "porQue": "Casarão colonial de 1790 na Calle 62, que desce direto na Plaza Grande, com piscina, cozinha, aulas de dança e restaurante vegetariano. É o hostel de referência de Mérida para quem quer conversa e aula de salsa de graça.",
+      "endereco": "Calle 62 nº 433, entre Calle 51 e Calle 53, Centro, Mérida, Yucatán",
+      "contato": {
+        "telefone": "+52 999 924 5223"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)",
+        "https://yucatantoday.com/directorio/hospedaje/che-n%C3%B3madas-m%C3%A9rida-hostel"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de ~M$300 por cama em dormitório é do Wikivoyage, edição de 07/04/2022 — mais de 2 anos, confiança rebaixada, provavelmente maior hoje. Endereço e telefone cruzados com a ficha da revista local Yucatán Today. Atenção: o domínio antigo nomadastravel.com não resolve e www.nomadashostel.com devolveu 'Coming Soon' em 09/10/2026; o site atual parece ser nomadashostel.mx, que também não resolveu no meu acesso. A casa aparece ativa sob a marca 'Che Nómadas' — confirme por telefone."
+    },
+    {
+      "cidadeId": "merida",
+      "nome": "Hostal Zócalo",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Calle 63, de frente para a Plaza Grande)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 140,
+        "max": 200
+      },
+      "porQue": "A cama mais barata de todo este levantamento, literalmente de frente para a Plaza Grande de Mérida. Simples ao extremo, mas difícil superar em localização por esse valor.",
+      "link": "https://www.facebook.com/hostalzocalo/",
+      "endereco": "Calle 63 nº 508, entre 60 e 62, Centro, Mérida, Yucatán",
+      "contato": {
+        "telefone": "+52 999 930 9562"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Faixa de M$140-200 por cama é do Wikivoyage, edição de 07/04/2022 — mais de 2 anos, confiança rebaixada; valor tão baixo em 2026 é improvável. A única presença online indicada é a página de Facebook (hostalzocalo.com não resolveu em 09/10/2026). Confirme preço e existência por telefone."
+    },
+    {
+      "cidadeId": "valladolid",
+      "nome": "Hostal Tunich Naj",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle 38, entre 43 e 45)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 195,
+        "max": 195
+      },
+      "porQue": "Dormitório espaçoso de 10 camas e vários quartos privativos, limpo e central, com piscina pequena — base barata para Chichén Itzá, Ek Balam e os cenotes. Cidade pequena: tudo a pé.",
+      "endereco": "Calle 38 nº 202A, entre 43 e 45, Centro, Valladolid, Yucatán",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$195 pela cama no dormitório de 10 é o que o Wikivoyage registra, datado de JANEIRO DE 2022 — mais de 2 anos, confiança rebaixada. O lugar hoje se anuncia como 'Hotel Tunich Naj & Hostal' e tem motor de reserva próprio em direct-book.com, mas a página não renderizou tarifa no meu acesso em 09/10/2026. Confirme o preço atual da cama."
+    },
+    {
+      "cidadeId": "valladolid",
+      "nome": "Hostel Casa Xtakay",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle 43, entre 38 e 40)",
+      "porQue": "Hostel familiar com dormitórios e privativos, jardim nos fundos e café da manhã caseiro. O clima é de casa de família, não de hostel grande — bom para dupla que quer conversa sem festa.",
+      "endereco": "Calle 43, entre 38 e 40, Centro, Valladolid, Yucatán",
+      "cafeIncluso": true,
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage descreve dormitórios, privativos, jardim e café caseiro, mas a menção está em texto corrido SEM data de edição, e não achei site oficial no ar em 09/10/2026 (casaxtakay.com e hostelcasaxtakay.com não resolvem). Detalhe registrado pela própria fonte: funciona um consultório dentário no mesmo endereço. Existência não confirmada de forma independente. Nota adicional: o Oryx Hostel Valladolid, listado pelo Wikivoyage em 25/11/2023, tem o domínio oryxhostel.com fora do ar em 09/10/2026 — suspeito de fechamento, por isso não o registrei."
+    },
+    {
+      "cidadeId": "valladolid",
+      "nome": "Hostel Valladolid 48",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (esquina da Calle 48 com a 41)",
+      "porQue": "Hostel de mochileiro com piscina pequena na esquina 48/41, a poucas quadras do parque principal e da Calzada de los Frailes. Simples e social.",
+      "link": "https://www.facebook.com/hostelvalladolid48/",
+      "endereco": "Esquina Calle 48 com Calle 41, Centro, Valladolid, Yucatán",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage (edição de 15/02/2022) confirma 'hostel de mochileiro agradável com piscina pequena' mas não publica tarifa, e a casa hoje se anuncia como 'Valladolid 48 Hotel & Hostal'. Não encontrei site oficial próprio em 09/10/2026 — só a página de Facebook. Fonte com mais de 2 anos: confiança rebaixada."
+    },
+    {
+      "cidadeId": "oaxaca",
+      "nome": "Casa Angel Youth Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Tinoco y Palacios, 4 quadras de Santo Domingo)",
+      "porQue": "Casarão restaurado a quatro quadras de Santo Domingo, com dormitórios de 3, 4 e 10 camas, terraço com churrasco semanal, cozinha completa, lockers e café da manhã incluso. O endereço mais conhecido de mochileiro em Oaxaca.",
+      "link": "https://www.casaangelhostel.com/",
+      "endereco": "Tinoco y Palacios 610, Centro Histórico, Oaxaca de Juárez",
+      "contato": {
+        "telefone": "+52 951 514 2224",
+        "site": "https://www.casaangelhostel.com/"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (Stay safe): Oaxaca é segura por padrões mexicanos, mas há roubos sobretudo depois da meia-noite; algumas ruas que saem do Centro Histórico ficam muito escuras à noite e a fonte sugere táxi se o destino for longe. Batedores de carteira são comuns no Mercado de Abastos."
+      ],
+      "fontes": [
+        "https://www.casaangelhostel.com/",
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026 (o título da página anuncia reserva de quartos compartilhados e privativos), MAS sem tarifa publicada. A ficha do Wikivoyage que descreve os dormitórios é de 23/02/2015 — mais de 10 anos; usei só para descrição física e endereço, não para preço. Referência geral de mercado da mesma fonte: hostels econômicos em Oaxaca saíam por ~M$200/noite em MARÇO DE 2022."
+    },
+    {
+      "cidadeId": "oaxaca",
+      "nome": "Hostal Central",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Oeste do Centro (Huzares 103)",
+      "porQue": "Hostel muito bem avaliado pelo café da manhã e pelo atendimento, com dormitórios básicos e 'premium' além de privativos. É social, não é hostel de festa — bom para dupla que quer conversar e dormir.",
+      "endereco": "Huzares 103, a oeste do Centro, Oaxaca de Juárez",
+      "contato": {
+        "telefone": "+52 951 205 6808"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: a ficha do Wikivoyage (edição de 04/12/2021) descreve dormitórios básicos e premium e quartos privativos, mas não traz tarifa. Não encontrei site oficial no ar em 09/10/2026. Fonte com quase 5 anos — confiança rebaixada e existência não confirmada de forma independente."
+    },
+    {
+      "cidadeId": "oaxaca",
+      "nome": "La Villada Inn Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Ejido Guadalupe Victoria (15 min de táxi do Zócalo)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200
+      },
+      "porQue": "Eco-construção familiar com piscina grande e vista da serra, cama em dormitório pelo preço mais baixo de Oaxaca. O preço vem com uma troca clara: 15 minutos de táxi do Zócalo, não é lugar para quem vai sair à noite a pé.",
+      "link": "http://www.lavillada.com/",
+      "endereco": "Felipe Ángeles 204, Ejido Guadalupe Victoria, Oaxaca de Juárez",
+      "contato": {
+        "telefone": "+52 951 518 6217"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$200 pela cama em dormitório é do Wikivoyage, em ficha SEM data de edição — pode ser antigo, confiança baixa. O domínio lavillada.com NÃO resolveu em 09/10/2026, o que levanta dúvida sobre a operação atual. Confirme antes de contar com ele."
+    },
+    {
+      "cidadeId": "puerto-escondido",
+      "nome": "Hostal Shalom",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Playa Carrizalillo / Bacocho (Blvd. Benito Juárez)",
+      "porQue": "Hostel no lado de Carrizalillo, a praia pequena de água calma e boa para nadar — melhor que Zicatela para quem não surfa. Em troca você fica longe do centro e do Adoquín.",
+      "link": "http://www.hostalshalom.com/",
+      "endereco": "Blvd. Benito Juárez 4820, Playa Carrizalillo, Puerto Escondido, Oaxaca",
+      "contato": {
+        "telefone": "+52 954 582 3234"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage lista nome, endereço, telefone e site, mas a ficha não tem data de edição nem tarifa, e a própria página de Puerto Escondido avisa que 'as listagens abaixo provavelmente estão desatualizadas salvo indicação em contrário'. Não verifiquei o site oficial no ar em 09/10/2026. Trate como pista a confirmar."
+    },
+    {
+      "cidadeId": "puerto-escondido",
+      "nome": "Hotel Casa Blanca",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Adoquín / Av. Pérez Gasga (rua turística do centro)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 350
+      },
+      "porQue": "Quarto privativo baratíssimo na própria rua turística do centro, a pé da Playa Principal. É hotel velho e simples — o atrativo é o preço e a porta fechada.",
+      "endereco": "Av. Pérez Gasga 904, Centro, Puerto Escondido, Oaxaca",
+      "contato": {
+        "telefone": "+52 954 582 0168"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$350 'e acima' é do Wikivoyage, edição de 28/05/2016 — DEZ ANOS de idade, confiança baixa, o preço real hoje é muito maior. Mantive o registro pelo nome, endereço e e-mail (hotelcasablancaptoesc@gmail.com). A referência de mercado útil é a do próprio Wikivoyage em ABRIL DE 2024: quarto básico no centro a partir de ~400 MXN sem ar, ~600 com ar, ~800 com ar e piscina."
+    },
+    {
+      "cidadeId": "puerto-escondido",
+      "nome": "Puerto Escondido Hostel (ex-Tower Bridge Hostel)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro / perto do Mercado Benito Juárez",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 300
+      },
+      "porQue": "O hostel mais antigo da cidade (mais de 15 anos), com piscina, bar, cozinha equipada, internet Starlink e bungalows para dois. A 5 minutos do mercado Benito Juárez: perto da cidade real, não da praia de surfe.",
+      "link": "https://puertoescondidohostel.com/",
+      "endereco": "Calle Océano Atlántico, a 5 min do Mercado Benito Juárez, Puerto Escondido, Oaxaca",
+      "contato": {
+        "telefone": "+52 954 582 0823",
+        "site": "https://puertoescondidohostel.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (Stay safe, dado de 2024): por causa de assaltos, inclusive à mão armada com faca, as praias devem ser evitadas do anoitecer ao amanhecer, especialmente Playa Principal e Playa Bacocho; a fonte também relata policiais 'confiscando' objetos de valor de turistas na praia de madrugada."
+      ],
+      "fontes": [
+        "https://puertoescondidohostel.com/",
+        "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026: piscina, bar, bistrô de café da manhã, cozinha, Starlink, água purificada, sem ar-condicionado. SEM tarifa no site. Os M$300 referem-se a BUNGALOW PARA 2 PESSOAS segundo o Wikivoyage, edição de 08/04/2025 — não é preço de cama em dormitório, e nenhuma fonte permitida publica o valor da cama. Referência de mercado da mesma fonte (ABRIL DE 2024): cama em dormitório perto da praia ~200 MXN; longe da praia, ~200 MXN já com ar noturno e piscina."
+    },
+    {
+      "cidadeId": "mazunte",
+      "nome": "Posada Ziga",
+      "tipo": "pousada",
+      "perfil": "conforto",
+      "bairro": "Frente ao mar, praia principal de Mazunte",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 1850,
+        "max": 2850
+      },
+      "porQue": "Registrada para você saber o PISO REAL de 'frente ao mar' em Mazunte: 13 quartos com banheiro privativo, ar-condicionado, internet Starlink e acesso direto à praia por escada. Não é opção econômica — é o contraponto honesto.",
+      "link": "https://www.posadaziga.com/",
+      "endereco": "Mazunte, Santa María Tonameca, Oaxaca (frente à praia principal)",
+      "contato": {
+        "site": "https://www.posadaziga.com/"
+      },
+      "fontes": [
+        "https://www.hotelesdemazunte.com/posadaziga.html",
+        "https://www.posadaziga.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "A faixa de 1.850 a 2.850 MXN para quarto duplo é a tabela 'Tarifas atualizadas 2026' publicada no diretório local Hoteles de Mazunte, lida em 09/10/2026, que informa descontos em temporada baixa (abril, maio, junho, setembro, outubro) e que a tarifa não vale em feriados e períodos de férias. O site oficial posadaziga.com está no ar mas não publica tabela. Incluída como referência de preço alto, NÃO como opção econômica."
+    },
+    {
+      "cidadeId": "mazunte",
+      "nome": "Posada del Arquitecto",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Playa Rinconcito (ponta oeste da praia de Mazunte)",
+      "porQue": "Cabañas de madeira e palapa coladas no mar no Rinconcito, incluindo a linha 'Cabañas Hostal', que é a mais em conta da casa. Reserva direta no site tem melhor preço garantido. Ponto fraco: não é silencioso e as cabañas baratas são rústicas.",
+      "link": "https://www.posadadelarquitecto.com/",
+      "endereco": "Playa Rinconcito, Mazunte, Santa María Tonameca, Oaxaca",
+      "contato": {
+        "telefone": "+52 958 128 6821",
+        "site": "https://www.posadadelarquitecto.com/"
+      },
+      "alertas": [
+        "Wikivoyage (Stay safe): o mar em Mazunte é notoriamente perigoso, com correntes de retorno que arrastam mesmo quando a superfície parece calma, e o posto de salva-vidas não é sempre ocupado; afogamentos não são raros. A mesma fonte diz que Mazunte é mais calma que Zipolite, mas que andar na praia escura à noite continua má ideia porque houve assaltos e estupros."
+      ],
+      "fontes": [
+        "https://www.posadadelarquitecto.com/",
+        "https://en.wikivoyage.org/wiki/Mazunte"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e página de cabañas lida em 09/10/2026, confirmando a existência de 'Cabañas Hostal' ao lado das cabañas com vista para o mar e vista verde, e prometendo melhor preço na reserva direta. A página NÃO publica nenhuma tarifa — por isso sem preço. Escreva para reservasarquitecto@gmail.com pedindo o valor da Cabaña Hostal."
+    },
+    {
+      "cidadeId": "mazunte",
+      "nome": "Posada la Huerta",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Estrada de terra à esquerda do rio (seco)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 100,
+        "max": 100
+      },
+      "porQue": "Quarto simples individual pelo preço de um lanche. É a cara do Mazunte antigo — bem básico, sem conforto, e vocês vão querer ver o lugar antes de decidir.",
+      "endereco": "Estrada de terra à esquerda do rio seco, Mazunte, Oaxaca",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mazunte"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SUSPEITO DE ESTAR DESATUALIZADO OU FECHADO. O valor de M$100 por quarto simples vem do Wikivoyage em ficha SEM data de edição, na mesma seção que lista 'Tia Porfiria, dormitório M$50' — preços que só existiam há muitos anos. Sem telefone, sem site, sem endereço preciso. O próprio Wikivoyage recomenda para Mazunte a estratégia de chegar, largar a mochila e procurar quarto a pé, porque a maioria dos lugares não anuncia online e os moradores alugam quartos e palapas muito básicos. Confiança baixa: pista local, não reserva."
+    },
+    {
+      "cidadeId": "huatulco",
+      "nome": "Flamboyant Hotel",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "La Crucecita (Calle Gardenia)",
+      "porQue": "Hotel de rede local em La Crucecita, o bairro onde ficam o mercado, os restaurantes baratos e os colectivos para as praias — é onde dupla econômica deve ficar em Huatulco, e não nas bahías. Quarto privativo sem luxo.",
+      "link": "http://www.hotelesfarrera.com/flamboyant",
+      "endereco": "Gardenia 508, La Crucecita, Bahías de Huatulco, Oaxaca",
+      "contato": {
+        "telefone": "+52 958 587 0113"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Huatulco"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO: o Wikivoyage lista nome, endereço, telefone e site, mas não traz tarifa e a ficha não tem data de edição. Não verifiquei o site oficial no ar em 09/10/2026. Para calibrar a faixa: na mesma fonte o Best Western Posada Chahué anuncia a partir de US$69 no site próprio, então o Flamboyant deve ficar abaixo disso."
+    },
+    {
+      "cidadeId": "huatulco",
+      "nome": "Hostal Azul y Blanco",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Bahías de Huatulco / La Crucecita",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 280,
+        "max": 280
+      },
+      "porQue": "A única cama em dormitório com preço publicado que encontrei em Huatulco, destino que de resto é feito de resorts e condomínios. Base barata para rodar as bahías de barco.",
+      "link": "https://www.hostalazulyblanco.com/",
+      "endereco": "Bahías de Huatulco, Oaxaca (endereço de rua não publicado na fonte)",
+      "contato": {
+        "site": "https://www.hostalazulyblanco.com/"
+      },
+      "alertas": [
+        "Wikivoyage (Stay safe): a região de Huatulco parece bem segura em termos de criminalidade, mas vale perguntar localmente antes de andar por trechos escuros de La Crucecita à noite."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Huatulco",
+        "https://www.hostalazulyblanco.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$280 pela cama em dormitório é do Wikivoyage, edição de 13/04/2024 — o dado mais recente que achei para Huatulco, mas já com mais de 2 anos. Site oficial no ar e verificado em 09/10/2026, porém sem tarifa publicada e sem endereço de rua. Confirme preço e endereço antes de reservar."
+    },
+    {
+      "cidadeId": "san-cristobal",
+      "nome": "Hostal Casa Gaia",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Barrio del Cerrillo (Calle Ejército Nacional)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 100,
+        "max": 250
+      },
+      "porQue": "Hostel pequeno no Cerrillo, a mesma rua de várias posadas baratas — bairro calmo, a 5-10 minutos a pé do Andador Guadalupe e do mercado. Estrutura simples.",
+      "link": "https://es-es.facebook.com/hostalcasagaia",
+      "endereco": "Calle Ejército Nacional 40, Barrio del Cerrillo, San Cristóbal de las Casas, Chiapas",
+      "contato": {
+        "telefone": "+52 967 112 5097"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Faixa de M$100-250 é do Wikivoyage em ficha SEM data de edição e NÃO separa cama de quarto — por isso deixei em 'diaria' sem marcar porCama. Fonte provavelmente antiga, confiança baixa. A presença online é página de Facebook e e-mail (hostalcasagaia@gmail.com); não encontrei domínio próprio no ar em 09/10/2026. Contexto da mesma fonte: San Cristóbal é descrita como o polo mochileiro de Chiapas, com quartos anunciados em placas na rua por valores muito baixos."
+    },
+    {
+      "cidadeId": "san-cristobal",
+      "nome": "Posada del Abuelito",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Barrio del Cerrillo (Calle Tapachula, a nordeste do centro)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 120,
+        "max": 120
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 250,
+        "max": 300
+      },
+      "porQue": "Hostel de casa no Cerrillo, bairro tranquilo a poucas quadras do centro, com dormitórios, privativos com banheiro compartilhado ou próprio, e cozinha. É a opção que confirmei estar de pé e é a mais barata do levantamento inteiro na categoria privativo.",
+      "link": "https://posadadelabuelito.com/",
+      "endereco": "Calle Tapachula 18, Barrio del Cerrillo, San Cristóbal de las Casas, Chiapas",
+      "contato": {
+        "telefone": "+52 967 678 1741",
+        "site": "https://posadadelabuelito.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://posadadelabuelito.com/",
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026, confirmando dormitórios, quartos privativos, cozinha e o nome — mas SEM tarifa publicada. Os preços (M$120 dormitório, M$250 privativo com banheiro compartilhado, M$300 privativo com banheiro próprio) vêm do Wikivoyage, edição de 13/08/2015: ONZE ANOS de idade. Confiança rebaixada a baixa por causa disso — o valor real de 2026 é certamente bem maior. Use os números só para entender a ordem relativa entre as opções, não para orçar."
+    },
+    {
+      "cidadeId": "san-cristobal",
+      "nome": "Rossco Backpackers Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Barrio de Mexicanos (Calle Real de Mexicanos)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 175
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 350
+      },
+      "porQue": "Era o hostel de mochileiro mais estruturado da cidade, com jardim, dormitórios e privativos, cartão aceito. Nome que aparece em toda lista de San Cristóbal — mas o site saiu do ar, veja a observação.",
+      "endereco": "Calle Real de Mexicanos 16, San Cristóbal de las Casas, Chiapas",
+      "contato": {
+        "telefone": "+52 967 674 0525"
+      },
+      "alertas": [
+        "Suspeito de fechamento: o domínio backpackershostel.com.mx não resolveu em 09/10/2026."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SUSPEITO DE TER FECHADO. Preços (M$150-175 por cama em dormitório, M$300-350 privativo) são do Wikivoyage, edição de 06/02/2022 — mais de 2 anos, confiança rebaixada. Em 09/10/2026 o site oficial backpackershostel.com.mx está fora do ar (DNS não resolve), o mesmo acontecendo com dois vizinhos listados pela fonte: hostelqhia.com (Hostel Posada Qhia) e legitedelsol.com (Le Gîte del Sol). Confirme por telefone antes de considerar qualquer um dos três."
+    },
+    {
+      "cidadeId": "palenque",
+      "nome": "Cabañas Kin Balam",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Parque Nacional Palenque (km 4,5 da estrada das ruínas)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 500,
+        "max": 500
+      },
+      "porQue": "Cabañas simples de materiais locais dentro do Parque Nacional, a poucos minutos da zona arqueológica: você dorme com som de selva e entra nas ruínas na primeira hora. Em troca, fica longe da cidade e dos restaurantes baratos.",
+      "link": "https://www.kin-balam.com/",
+      "endereco": "Carretera Ruinas-Palenque km 4.5, Parque Nacional Palenque, Chiapas",
+      "contato": {
+        "telefone": "+52 916 345 0350",
+        "site": "https://www.kin-balam.com/"
+      },
+      "fontes": [
+        "https://www.kin-balam.com/",
+        "https://en.wikivoyage.org/wiki/Palenque"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial (operado pela agência Palenque Mágico) no ar e verificado em 09/10/2026: confirma cabañas simples, algumas com rede, banheiro próprio OU de uso compartilhado, e ar-condicionado em algumas — mas SEM tarifa publicada. Os M$500 são do Wikivoyage, edição de 12/01/2023 (quase 3 anos), com a nota de que banheiro privativo e/ou ar-condicionado custam extra. E-mails de contato do site: ventas@palenquemagico.com e tours@palenquemagico.com."
+    },
+    {
+      "cidadeId": "palenque",
+      "nome": "Camping no Parque Nacional Palenque",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Parque Nacional Palenque",
+      "porQue": "A opção mais barata possível em Palenque: o Wikivoyage registra que acampar é permitido dentro do Parque Nacional. Serve para quem já viaja com barraca e quer dormir ao lado das ruínas.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Palenque"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "REGISTRO SEM NOME DE ESTABELECIMENTO E SEM PREÇO — incluído porque é informação prática real, não uma opção comercial. A única coisa que a fonte afirma é 'camping é permitido no parque nacional' (ficha sem data de edição). NÃO confirmei em fonte oficial da CONANP nem da Sectur quais são as regras, as áreas autorizadas e a taxa de entrada em 2026. Verifique no portão do parque antes de contar com isso."
+    },
+    {
+      "cidadeId": "palenque",
+      "nome": "Margarita and Ed's Cabañas (El Panchán)",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "El Panchán (km 4,5 da estrada das ruínas)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 550,
+        "max": 550
+      },
+      "porQue": "Cabañas na mata do El Panchán, o complexo mochileiro clássico de Palenque, com o restaurante Don Mucho's ao lado e caminho de 25 minutos até a zona arqueológica. Rústico de propósito: ventilador, não ar-condicionado.",
+      "link": "https://margaritaandedcabanas.blogspot.com/",
+      "endereco": "Carretera Las Ruinas km 4.5, El Panchán, Palenque, Chiapas",
+      "contato": {
+        "telefone": "+52 916 278 7650"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Palenque"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "550 MXN para quarto duplo com ventilador é do Wikivoyage, edição de 26/11/2023 — quase 3 anos, confiança rebaixada. A recepção fica no quiosque da entrada do El Panchán e os quartos ficam na mata, depois do restaurante Don Mucho's. A presença oficial é um blog (blogspot), que não abri para checar tarifa atual."
+    },
+    {
+      "cidadeId": "la-paz",
+      "nome": "Bermejo Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Zona Centro (Nicolás Bravo, 1 quadra do malecón)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 350
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 980,
+        "max": 980
+      },
+      "porQue": "Uma quadra do malecón, com dormitório misto, quartos amplos, ar-condicionado, lockers, toalha, roupa de cama, cozinha comum e aluguel de bicicleta. É a melhor combinação de preço e localização que confirmei em La Paz, e serve de base para Balandra e Espíritu Santo.",
+      "link": "https://www.hostelbermejo.com/",
+      "endereco": "Nicolás Bravo 125, entre Serdán e Revolución, CP 23000, Zona Centro, La Paz, Baja California Sur",
+      "contato": {
+        "telefone": "+52 612 123 4670",
+        "site": "https://www.hostelbermejo.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://www.hostelbermejo.com/"
+      ],
+      "confianca": "alta",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos no site oficial em 09/10/2026, na seção 'Reservas directas': Dormitorio Mixto $350 MX e Privada 1 cama $980 MX; a página também diz 'Tarifas desde $350 MX'. O site NÃO informa temporada, então trate como tarifa base; dezembro a abril (temporada de baleias) tende a subir. Vende café da manhã à parte (não incluso)."
+    },
+    {
+      "cidadeId": "la-paz",
+      "nome": "Pensión Baja Paradise",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Col. Centro (Francisco Madero, entre Juárez e Allende)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 600,
+        "max": 600
+      },
+      "porQue": "Pensão no centro de La Paz, alternativa de quarto privativo se o Bermejo e a Pensión California estiverem lotados nos meses de baleia. Simples e central.",
+      "link": "http://bajaparadise.com.mx/",
+      "endereco": "Francisco Madero 2166, entre Juárez e Allende, Col. Centro, La Paz, Baja California Sur",
+      "contato": {
+        "telefone": "+52 612 128 6097",
+        "site": "http://bajaparadise.com.mx/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$600 é do Wikivoyage e a própria fonte datou o valor como NOVEMBRO DE 2022 — mais de 2 anos, confiança rebaixada. Não abri o site oficial para confirmar a tarifa em 09/10/2026. Nota útil da mesma fonte: em Baja a opção mais barata é sempre acampar na praia, e há áreas gratuitas perto de La Paz (ela cita Playa Tecolote como gratuita, dado de 13/03/2019) além do Campestre Maranatha, a US$16 por noite sem infraestrutura para motorhome."
+    },
+    {
+      "cidadeId": "la-paz",
+      "nome": "Pensión California",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Zona Central (Santos Degollado, perto da Calle Madero)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400
+      },
+      "porQue": "Pensão antiga e excêntrica no centro, a três quadras da rodoviária pelo caminho que a própria fonte descreve. Quarto privativo pelo preço de uma cama em hostel de praia — e só aceita dinheiro.",
+      "endereco": "Santos Degollado 209, entre Francisco I. Madero e Revolución de 1910, Zona Central, La Paz",
+      "contato": {
+        "telefone": "+52 612 122 2896"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$400 (somente dinheiro) é do Wikivoyage, edição de 14/11/2022 — mais de 2 anos, confiança rebaixada. Não encontrei site oficial. A mesma fonte dá o caminho da rodoviária: 16 de Septiembre por três quadras, direita na Madero, duas quadras até a Degollado."
+    },
+    {
+      "cidadeId": "todos-santos",
+      "nome": "Hotel Casa Tota",
+      "tipo": "hotel",
+      "perfil": "conforto",
+      "bairro": "Centro histórico (Calle Álvaro Obregón)",
+      "porQue": "Hotel boutique de 15 quartos no centro histórico, construído no antigo terreno da família Salgado, com restaurante e cantina no térreo e tudo a pé. Registrado como a alternativa realista quando o único hostel da vila estiver cheio — não é econômico.",
+      "link": "https://www.hotelcasatota.com/",
+      "endereco": "Calle Álvaro Obregón, Centro, 23300 Todos Santos, Baja California Sur",
+      "contato": {
+        "telefone": "+52 612 145 0590",
+        "site": "https://www.hotelcasatota.com/"
+      },
+      "fontes": [
+        "https://www.hotelcasatota.com/",
+        "https://todossantos.cc/hotels/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026: endereço, telefone, e-mail (info@hotelcasatota.com), 15 quartos e restaurante La Santeña confirmados. SEM PREÇO: o site não publica tarifa, só o botão de reserva. Marquei perfil 'conforto' e não 'economico' porque é hotel boutique — registrei porque Todos Santos tem UM único hostel documentado e vocês precisam de um plano B nomeado. O diretório local todossantos.cc confirma que o inventário da vila é feito de casitas, B&Bs e um acampamento de luxo (Camp Cecil de la Sierra), sem nenhuma segunda opção barata."
+    },
+    {
+      "cidadeId": "todos-santos",
+      "nome": "Todos Santos Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro do pueblo",
+      "porQue": "O único hostel do povoado, com dormitórios, barracas de lona armadas, quartos privativos, camping no quintal debaixo dos mangueirais, cozinha grande e pátio. Para dupla econômica em Todos Santos, é praticamente a única alternativa ao hotel boutique.",
+      "link": "https://todossantoshostel.com/",
+      "endereco": "Calle Francisco Bojórquez Vidal 112, Todos Santos, Baja California Sur 23300",
+      "contato": {
+        "site": "https://todossantoshostel.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://todossantoshostel.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026 (rodapé com copyright 2026, portanto operação ativa), confirmando dormitório, barraca de lona, quarto privativo e camping no quintal. SEM PREÇO: o site não publica tarifa e as buscas só devolveram valores em plataformas que este levantamento não usa. Peça a tarifa pelo formulário de contato. Observação importante para a base: o Wikivoyage de Todos Santos tem uma seção Sleep minúscula, que só descreve o Todos Santos Inn (hotel histórico caro) — não há segunda opção econômica documentada em fonte permitida."
+    },
+    {
+      "cidadeId": "los-cabos",
+      "nome": "Hostal Casa Coyotito",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Cabo San Lucas (perto da igreja)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 350,
+        "max": 350
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 700,
+        "max": 700
+      },
+      "porQue": "Cama em dormitório no centro velho de Cabo San Lucas, perto da igreja e dos restaurantes de rua, a pé da marina. É a opção mais barata com preço publicado em Los Cabos — e isso aqui é exceção, não regra.",
+      "endereco": "Blvd. Lázaro Cárdenas com Calle Miguel Hidalgo, perto da igreja, Cabo San Lucas, Baja California Sur",
+      "contato": {
+        "telefone": "+52 624 122 2954"
+      },
+      "alertas": [
+        "Wikivoyage (Stay safe, Cabo San Lucas): evitar becos e ruelas sobretudo à noite, atenção a batedores de carteira nas áreas de vida noturna e aceitar só táxi licenciado. A fonte também avisa para NÃO caminhar na beira d'água do lado do Pacífico: ondas enormes entram sem aviso, e o risco vale para todas as praias de face sul."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Cabo_San_Lucas"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$350 por cama em dormitório e M$700 para quarto privativo são do Wikivoyage, edição de 21/07/2023 — quase 3 anos, confiança rebaixada. Não encontrei site oficial próprio. LOS CABOS É CARO: na mesma página, a categoria 'Budget' do Wikivoyage começa com hotéis de M$1.800 (Estancia Real, fev/2026), o que mostra que este hostal é a exceção e não o padrão do destino."
+    },
+    {
+      "cidadeId": "los-cabos",
+      "nome": "Mayan Monkey Los Cabos",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro / Marina de Cabo San Lucas",
+      "porQue": "Dormitórios de 6, 8, 10 e 12 camas em cima da marina de Cabo San Lucas, com piscina, bar, coworking e cozinha compartilhada. A alternativa estruturada para dormir barato num destino onde quase tudo é resort.",
+      "link": "https://mayanmonkey.com/es/mayan-monkey-los-cabos",
+      "endereco": "Blvd. Paseo de la Marina 36, Planta Alta, Centro, Marina, 23450 Cabo San Lucas, Baja California Sur",
+      "contato": {
+        "telefone": "+52 624 143 4561",
+        "site": "https://mayanmonkey.com/es/mayan-monkey-los-cabos"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://mayanmonkey.com/es/mayan-monkey-los-cabos"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço, telefone e tipos de quarto (privativa queen com balcão, privativa duas camas, dormitórios mistos de 6, 8 e 12 e feminino de 10) confirmados no site oficial em 09/10/2026; adults only +18. SEM PREÇO: só no motor de reserva. Los Cabos é caro — isto é o piso do destino, não uma barganha."
+    },
+    {
+      "cidadeId": "los-cabos",
+      "nome": "Señor Mañana Posada Hotel",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro de San José del Cabo (Álvaro Obregón)",
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 1400,
+        "max": 1400
+      },
+      "porQue": "Pousada no centro histórico de San José del Cabo, o lado calmo e colonial de Los Cabos, com galerias e praça — bem diferente da balada de Cabo San Lucas. Registrada para mostrar o piso real de quarto privativo nesse lado.",
+      "link": "http://www.senormanana.com/",
+      "endereco": "Álvaro Obregón 1, Centro, San José del Cabo, Baja California Sur",
+      "contato": {
+        "telefone": "+52 624 142 1372",
+        "site": "http://www.senormanana.com/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$1.400 é do Wikivoyage, em ficha SEM data de edição, portanto confiança baixa. NÃO É BARATO e eu registro isso explicitamente: em San José del Cabo o Wikivoyage não lista nenhum hostel nem posada abaixo dessa faixa, e a opção seguinte (Posada Real, abril/2026) já está em M$2.000. Se o orçamento é econômico, a cama em dormitório fica em Cabo San Lucas, não aqui."
+    },
+    {
+      "cidadeId": "loreto",
+      "nome": "Hotel Angra",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Loreto (cidade)",
+      "porQue": "Hotel familiar e pet friendly listado pelo próprio conselho de turismo de Loreto, que se descreve como 'sentir-se em casa'. Alternativa de quarto privativo onde não há hostel; o conselho o apresenta como opção familiar, não como resort.",
+      "endereco": "Loreto, Baja California Sur (endereço de rua não publicado na ficha do conselho)",
+      "fontes": [
+        "https://loretobcstourism.com/where-to-stay/"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Registro feito a partir da página oficial 'Where to stay' do Fideicomiso de Turismo de Loreto, lida em 09/10/2026, que descreve o Angra como 'hotel familiar 100% amigável, pet friendly'. A ficha NÃO traz preço, endereço de rua nem telefone, e o conselho não classifica os hotéis por faixa de preço — portanto não tenho como garantir que seja econômico de fato. Confirme a tarifa diretamente. Esta base ficou fraca de propósito: não há fonte permitida com hospedagem barata nomeada e precificada em Loreto."
+    },
+    {
+      "cidadeId": "loreto",
+      "nome": "Las Cabañas de Loreto",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro de Loreto (Morelos com López Mateos)",
+      "porQue": "Cabañas no centro do pueblo mágico, a caminhada curta da missão e do malecón. É a opção econômica com nome e site próprio que consegui confirmar em Loreto, destino sem hostel documentado em fonte permitida.",
+      "link": "https://www.lascabanasdeloreto.com/",
+      "endereco": "Calle José María Morelos com López Mateos, Centro, Loreto, Baja California Sur",
+      "contato": {
+        "telefone": "+52 613 135 1105",
+        "site": "https://www.lascabanasdeloreto.com/"
+      },
+      "fontes": [
+        "https://www.lascabanasdeloreto.com/",
+        "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026 (título 'Home | Las Cabañas de Loreto'), e o Wikivoyage lista a casa com edição de 22/12/2025 — a ficha mais recente de todo o levantamento. SEM PREÇO: nem o site nem o Wikivoyage publicam tarifa. Importante: o Wikivoyage de Loreto tem UMA ÚNICA entrada em Sleep, esta, e o conselho municipal de turismo (loretobcstourism.com) só lista hotéis de médio e alto padrão — não há hostel com dormitório documentado em fonte permitida para esta base."
+    },
+    {
+      "cidadeId": "puerto-vallarta",
+      "nome": "Casa Kraken Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle Juárez)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400
+      },
+      "porQue": "Hostel no centro, na mesma rua do Hostel Vallarta, alternativa se os outros dois estiverem cheios na alta temporada. Fique atento à observação sobre o site.",
+      "link": "https://casakrakenhostel.wixsite.com/hostel",
+      "endereco": "Juárez 386, Centro, Puerto Vallarta, Jalisco",
+      "contato": {
+        "telefone": "+52 322 222 9282"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "M$400 é do Wikivoyage, edição de 14/04/2022 — mais de 2 anos, confiança rebaixada, e a fonte NÃO diz se é cama ou quarto (por isso não marquei porCama). O domínio casakrakenhostel.com não resolveu em 09/10/2026; o link oficial que a fonte dá é um site hospedado em Wix, e o e-mail de contato listado (vivalavidahostel@prodigy.net.mx) é de outro nome de hostel, o que sugere troca de marca. Confirme a existência antes de contar com ele."
+    },
+    {
+      "cidadeId": "puerto-vallarta",
+      "nome": "Hostel Vallarta",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle Juárez, a passos do malecón)",
+      "porQue": "Dentro do centro, a um minuto do malecón e da praia, com colchões novos, cozinha completa, pátio com redes, terraço grande com vista do mar e mesas de pingue-pongue e pebolim. Melhor localização que o Oasis para quem quer sair a pé à noite.",
+      "link": "https://hostelvallarta.com",
+      "endereco": "Calle Juárez 535, Proyecto Escola, Centro, 48300 Puerto Vallarta, Jalisco",
+      "contato": {
+        "telefone": "+52 55 5493 4026",
+        "site": "https://hostelvallarta.com"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://hostelvallarta.com"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026: endereço, telefone, cozinha equipada, pátio com redes e terraço com vista do mar confirmados, e a página lista quartos privativos nomeados (Frida Kahlo, Blue Demon, Diego Rivera, Café Tacuba) além de dormitórios. SEM PREÇO: a tarifa só aparece no motor de reserva. Vale notar que os depoimentos no site destacam o lugar como bom para mulheres viajando sozinhas."
+    },
+    {
+      "cidadeId": "puerto-vallarta",
+      "nome": "Oasis Hostel Puerto Vallarta",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Col. Benito Juárez (leste da Zona Romántica)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 359,
+        "max": 359
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 849,
+        "max": 849
+      },
+      "porQue": "O primeiro hostel da cidade, aberto em 2005, com dormitório misto de 8 camas, dormitório feminino de 6, quartos privativos, cozinha, lavanderia e ar-condicionado. Preço publicado e claro; fica a leste da Zona Romántica, então a praia é caminhada, não porta.",
+      "link": "https://oasishostel.com/",
+      "endereco": "Libramiento 222, Col. Benito Juárez, Puerto Vallarta, Jalisco",
+      "contato": {
+        "telefone": "+52 322 222 2636",
+        "site": "https://oasishostel.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://oasishostel.com/",
+        "https://en.wikivoyage.org/wiki/Puerto_Vallarta"
+      ],
+      "confianca": "alta",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos no site oficial em 09/10/2026: dormitório misto de 8 camas e dormitório feminino de 6 camas 'a partir de $359 mxn' por noite; quarto duplo privativo 'a partir de $849 mxn'. São tarifas MÍNIMAS, sem indicação de temporada — dezembro a abril é alta em Vallarta e deve subir. Café da manhã NÃO está incluso: o site o oferece por $2,99 junto com a reserva (a moeda desse valor não está explicitada na página)."
+    },
+    {
+      "cidadeId": "sayulita",
+      "nome": "Camping del Palmar",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Sul do rio",
+      "porQue": "O melhor mantido dos dois campings de Sayulita segundo o Wikivoyage, que diz que os campings da vila estão entre os melhores do México e são fama de boca a boca entre viajantes experientes. Opção mais barata possível para quem leva barraca.",
+      "endereco": "Ao sul do rio, Sayulita, Nayarit",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Sayulita"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "SEM PREÇO, sem endereço exato, sem telefone e sem site: o Wikivoyage lista o camping em ficha SEM data de edição, com a descrição 'dos dois campings de Sayulita, este é o melhor mantido e mais agradável'. Existência atual não confirmada de forma independente em 09/10/2026 — confiança baixa. Pergunte na chegada; a mesma fonte diz que em Sayulita o centro tem só algumas quadras e achar lugar a pé é fácil."
+    },
+    {
+      "cidadeId": "sayulita",
+      "nome": "ITH Amazing Surf Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Sayulita (a minutos da praia)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "USD",
+        "min": 15,
+        "max": 35
+      },
+      "diariaPrivativo": {
+        "moeda": "USD",
+        "min": 35,
+        "max": 65
+      },
+      "porQue": "Beliche em dormitório misto ou feminino no centro de Sayulita, com área comum, desconto para estadia longa e a única parede de escalada do povoado. A opção econômica mais completa da vila de surfe; em troca, é hostel grande e movimentado.",
+      "endereco": "Centro de Sayulita, Nayarit",
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Wikivoyage (Stay safe, dado de 2022): o crescimento do turismo sobrecarregou a rede de esgoto de Sayulita e houve episódios de esgoto escoando nas áreas de banho — atenção a avisos de poluição antes de entrar no mar. A mesma fonte recomenda o 'stingray shuffle', arrastar os pés ao entrar na água, por causa das arraias."
+      ],
+      "fontes": [
+        "https://www.sayulitalife.com/ith-surf-hostel"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Tabela lida em 09/10/2026 na ficha do hostel no SayulitaLife, diretório local da vila que publica tarifas dos anunciantes e marca este como 'Verified Since 2025'. Beliche em dormitório misto ou feminino: US$15-35 na TEMPORADA BAIXA e US$30-60 na TEMPORADA ALTA; quarto privativo com banheiro compartilhado e sem ar: US$35-65 baixa e US$55-100 alta; feriados vão a US$110 no quarto inteiro. Valores publicados em DÓLAR — não converti; a própria página avisa que a cobrança é feita em pesos à taxa do dia, portanto o valor em MXN varia."
+    },
+    {
+      "cidadeId": "sayulita",
+      "nome": "My Sister's House (hostel só para mulheres)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Sayulita",
+      "porCama": true,
+      "diaria": {
+        "moeda": "USD",
+        "min": 15,
+        "max": 25
+      },
+      "diariaPrivativo": {
+        "moeda": "USD",
+        "min": 60,
+        "max": 60
+      },
+      "porQue": "Dormitório de 8 camas a US$15, de 4 camas a US$20 e de 2 camas a US$25, com pátio de yoga no terraço, cozinha equipada e limpeza diária. ATENÇÃO: é hostel exclusivo para mulheres — não serve para casal ou dupla mista, só se a viagem fosse de duas mulheres.",
+      "link": "https://sisterssayulita.com/",
+      "endereco": "Centro de Sayulita, Nayarit",
+      "contato": {
+        "site": "https://sisterssayulita.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Hospedagem restrita a mulheres, conforme o próprio site se define ('sanctuary for women travelers')."
+      ],
+      "fontes": [
+        "https://sisterssayulita.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos no site oficial em 09/10/2026: Muladhara Room (dormitório de 8 beliches, ar-condicionado, banheiro no quarto) $15/noite; Shakti Room (4 pessoas) $20; Dharma Room (2 pessoas, uma beliche com dois colchões de casal) $25; suíte privativa Chandra & Shanti com cama king $60. O site mostra apenas o símbolo '$' SEM dizer a moeda — registrei como USD porque o site é em inglês e voltado a viajantes estrangeiras, mas isso é uma inferência minha: confirme na reserva. O site não indica temporada."
+    },
+    {
+      "cidadeId": "guanajuato",
+      "nome": "Centro Bharati",
+      "tipo": "hotel",
+      "perfil": "economico",
+      "bairro": "Plaza del Baratillo (coração do centro)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 350
+      },
+      "porQue": "Hotel-hostal e restaurante na Plaza del Baratillo, em pleno centro, com quartos compartilhados, café continental incluso, massagem e aula de yoga, e cozinha de fusão indiana-mexicana-italiana. Central de verdade, sem os 150 degraus do Casa de Dante.",
+      "link": "http://hotelcentrobharati.com/",
+      "endereco": "Plaza del Baratillo 11, Col. Centro, Guanajuato",
+      "contato": {
+        "telefone": "+52 473 734 1672",
+        "site": "http://hotelcentrobharati.com/"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/hostales-y-hoteles-baratos-en-guanajuato.html"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Faixa lida em 09/10/2026 na reportagem da revista México Desconocido: quarto COMPARTILHADO em temporada baixa de segunda a quinta $200 e de sexta a domingo $250; em temporada alta $300 (seg-qui) e $350 (sex-dom), sempre com café continental. A reportagem NÃO mostra data de publicação na página, então não sei a idade do dado — por isso confiança parcial e não alta. Não abri o site oficial para confirmar. Registrei como 'diaria' sem marcar porCama porque a fonte diz 'habitación compartida' sem precisar se cobra por cama ou pelo quarto."
+    },
+    {
+      "cidadeId": "guanajuato",
+      "nome": "Corral d Comedias Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Callejón Ave María, perto do Teatro Juárez)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 600,
+        "max": 600
+      },
+      "porQue": "No coração do centro, perto do Teatro Juárez e da Plaza Baratillo, e com tarifa única o ano inteiro — vantagem real em outubro, quando o Festival Cervantino dobra os preços da cidade. Por isso mesmo, reserve com antecedência.",
+      "link": "https://www.facebook.com/Corraldcomedias/",
+      "endereco": "Callejón Ave María 17, Guanajuato",
+      "contato": {
+        "telefone": "+52 473 732 4054"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/hostales-y-hoteles-baratos-en-guanajuato.html"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Dados lidos em 09/10/2026 na reportagem da revista México Desconocido: quarto compartilhado a partir de $200 com café incluso e quarto privativo para 2 pessoas $600 com café incluso, com a observação de que o hostel mantém TARIFA ÚNICA durante todo o ano e por isso convém reservar cedo. A reportagem não mostra data de publicação — idade do dado desconhecida, confiança parcial. A presença online indicada é página de Facebook; não há domínio próprio. Nota: o mesmo artigo cita 'Al Son de los Santos' (San Sebastián 94) com compartilhado desde $185, mas o domínio alsondelossantos.com não resolveu em 09/10/2026, então não o registrei."
+    },
+    {
+      "cidadeId": "guanajuato",
+      "nome": "Hostal Casa de Dante",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Callejón de Zaragoza (encosta acima do centro)",
+      "porCama": true,
+      "diaria": {
+        "moeda": "MXN",
+        "min": 290,
+        "max": 290
+      },
+      "diariaPrivativo": {
+        "moeda": "MXN",
+        "min": 500,
+        "max": 1000
+      },
+      "porQue": "Dormitório misto no terceiro andar, ao lado do terraço e de uma cozinha pequena, com café da manhã mexicano feito na casa — e a melhor vista panorâmica de Guanajuato. O preço vem com 150 degraus de ladeira: não serve para quem tem dificuldade de locomoção, criança pequena ou mala grande.",
+      "link": "https://casadedante.com/",
+      "endereco": "Callejón de Zaragoza 25, entre a carretera panorámica e a Calle del Cambio, Guanajuato",
+      "contato": {
+        "telefone": "+52 473 731 0909",
+        "site": "https://casadedante.com/"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "O próprio site avisa duas vezes: é preciso subir ou descer mais de 150 degraus para chegar, e não é recomendado para idosos, crianças pequenas ou pessoas com dificuldade motora. Não há estacionamento.",
+        "Wikivoyage (Stay safe): Guanajuato é considerada cidade bem segura e caminhar à noite no centro é tranquilo, mas os bairros mais pesados ficam nas encostas do lado leste e nas redondezas do monumento ao Pípila, e a fonte recomenda nunca caminhar ou correr sozinho na estrada Panorámica."
+      ],
+      "fontes": [
+        "https://casadedante.com/",
+        "https://www.mexicodesconocido.com.mx/hostales-y-hoteles-baratos-en-guanajuato.html"
+      ],
+      "confianca": "alta",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preços lidos no site oficial em 09/10/2026: 'Dormitorio Mixto | Calacas — $290 MXN (POR CAMA)'; quarto individual com banheiro privativo $500 MXN; quarto duplo La Adelita com banheiro privativo e balcão $1.000 MXN. O site não indica temporada, mas a reportagem da revista México Desconocido (sem data visível na página) distingue temporada baixa $290 e alta $380 por cama com café incluso — então conte com ~380 em feriados e no Festival Cervantino (outubro)."
+    },
+    {
+      "cidadeId": "san-miguel-de-allende",
+      "nome": "Hostal Alcatraz",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle Relox, 5 min a pé do Jardín Principal)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200
+      },
+      "porQue": "O primeiro hostel que abriu em San Miguel, pequeno e acolhedor, com quartos compartilhados de quatro a seis pessoas e cinco minutos a pé da Parroquia e do Jardín. O tamanho é o atrativo e o limite: pouca vaga, reserve cedo.",
+      "link": "https://www.facebook.com/HostalAlcatraz",
+      "endereco": "Relox 54, Centro, San Miguel de Allende, Guanajuato",
+      "contato": {
+        "telefone": "+52 415 152 8543"
+      },
+      "alertas": [
+        "Wikivoyage (Stay safe): San Miguel de Allende talvez seja mais segura que outros destinos turísticos do México, mas pode ser insegura — a fonte recomenda manter valores e dinheiro fora de vista e ficar em áreas bem iluminadas à noite."
+      ],
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/hostales-hoteles-baratos-en-san-miguel-de-allende.html",
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "'Desde $200' é o que a reportagem da revista México Desconocido publica, lida em 09/10/2026, descrevendo quartos compartilhados de 4 a 6 pessoas. A página NÃO mostra data de publicação, então não sei a idade do dado — confiança parcial. A fonte dá o site alcatraz.hypercube.media, que não testei, e a página de Facebook. A fonte não separa cama de quarto, por isso não marquei porCama."
+    },
+    {
+      "cidadeId": "san-miguel-de-allende",
+      "nome": "La Catrina Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle Loreto)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 150,
+        "max": 150
+      },
+      "porQue": "Dormitórios mistos e femininos mais quartos privativos, com café da manhã incluso, na Calle Loreto do centro. O valor mais baixo que encontrei em San Miguel — veja a ressalva sobre o site.",
+      "link": "http://www.lacatrinahostel.com/",
+      "endereco": "Loreto 80, Centro, San Miguel de Allende, Guanajuato",
+      "contato": {
+        "site": "http://www.lacatrinahostel.com/"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "http://www.lacatrinahostel.com/"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "O domínio lacatrinahostel.com responde HTTP 200 em 09/10/2026 mas devolve PÁGINA VAZIA (um único caractere, sem título e sem conteúdo) — site quebrado ou desativado, o que levanta dúvida sobre a operação. Os $150 MXN (equivalente anunciado a US$9) e o endereço Loreto 80 com café incluso vêm de resultado de busca que aponta para esse próprio domínio, não de uma página que eu tenha conseguido ler — por isso confiança baixa e preço a confirmar. O contato que a busca dá é info@lacatrinahostel.com."
+    },
+    {
+      "cidadeId": "san-miguel-de-allende",
+      "nome": "Punto 79",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Calle Mesones, uma quadra do Jardín Principal)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 180,
+        "max": 180
+      },
+      "porQue": "Uma quadra do Jardín Principal, com quartos privativos e dormitórios compartilhados, cercado de restaurantes, bares, cafés e lojas. A melhor relação entre preço e localização que achei em San Miguel.",
+      "link": "http://punto79.net/",
+      "endereco": "Mesones 79, Centro, San Miguel de Allende, Guanajuato",
+      "contato": {
+        "telefone": "+52 415 121 1034",
+        "site": "http://punto79.net/"
+      },
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/hostales-hoteles-baratos-en-san-miguel-de-allende.html"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "'Desde $180' é o que a revista México Desconocido publica, lida em 09/10/2026, para quartos privativos e dormitórios compartilhados — a fonte não separa os dois, por isso não marquei porCama. A página não mostra data de publicação. Confiança rebaixada a baixa porque o domínio punto79.net NÃO resolveu no meu acesso em 09/10/2026; confirme existência por telefone antes de contar com ele."
+    },
+    {
+      "cidadeId": "queretaro",
+      "nome": "Blue Bicycle House",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Perto do Centro Histórico (Calle Ejército Republicano, junto ao Templo de la Santa Cruz)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 195,
+        "max": 195
+      },
+      "porQue": "Casa reformada com pé-direito alto, piso de mosaico, camas extra longas e terraço-bar com a melhor vista e os melhores pores do sol da cidade, perto do Templo de la Santa Cruz. Tem compartilhado e privativo, e o café da manhã é de graça.",
+      "link": "https://bluebicyclehouse.com/",
+      "endereco": "Calle Ejército Republicano 15, Santiago de Querétaro, Querétaro",
+      "contato": {
+        "telefone": "+52 442 455 4813",
+        "site": "https://bluebicyclehouse.com/"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://queretaro.travel/lugares/queretaro-hostels/?lang=en",
+        "https://www.mexicodesconocido.com.mx/7-hoteles-y-hostales-bonitos-y-baratos-en-queretaro.html"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Listado pelo Turismo do Estado de Querétaro (queretaro.travel, órgão oficial) na página 'Queretaro Hostels', lida em 09/10/2026, que confirma dormitórios compartilhados e privativos, café da manhã grátis e o terraço com vista. O 'desde $195' vem da reportagem da revista México Desconocido, que NÃO mostra data de publicação — idade do dado desconhecida e a fonte não separa cama de quarto, por isso não marquei porCama. O domínio bluebicyclehouse.com não resolveu no meu acesso de 09/10/2026, mas a listagem oficial do estado sustenta a existência."
+    },
+    {
+      "cidadeId": "queretaro",
+      "nome": "El Petate Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Andador Mariano Matamoros)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 190,
+        "max": 190
+      },
+      "porQue": "No coração do Centro Histórico e do circuito turístico, com pátio acolhedor, cozinha equipada, computadores e agenda de eventos culturais. É pet friendly, raro na faixa. Em troca, o centro de Querétaro é movimentado e barulhento à noite.",
+      "link": "http://elpetatehostel.com/",
+      "endereco": "Andador Mariano Matamoros 20, Centro Histórico, Santiago de Querétaro, Querétaro",
+      "contato": {
+        "telefone": "+52 442 212 7987"
+      },
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://queretaro.travel/lugares/queretaro-hostels/?lang=en",
+        "https://www.mexicodesconocido.com.mx/7-hoteles-y-hostales-bonitos-y-baratos-en-queretaro.html"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Listado pelo Turismo do Estado de Querétaro (queretaro.travel) na página oficial de hostels, lida em 09/10/2026, que confirma a localização no Centro Histórico e 'diferentes opções de hospedagem com preços muito acessíveis'. O 'desde $190' vem da revista México Desconocido, página SEM data de publicação, e não separa cama de quarto. O domínio elpetatehostel.com devolveu 404 em 09/10/2026 — o site está quebrado, mas a listagem oficial do estado sustenta que o hostel existe. Confirme por telefone."
+    },
+    {
+      "cidadeId": "queretaro",
+      "nome": "Hostal Galerie",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Histórico (Ezequiel Montes Sur, perto da Plaza de Santa Rosa de Viterbo)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 180,
+        "max": 180
+      },
+      "porQue": "O mais barato dos três de Querétaro, com café da manhã, refeitório e cafeteria, perto da Plaza de Santa Rosa de Viterbo. Opção para quem passa pouco tempo no quarto.",
+      "endereco": "Ezequiel Montes Sur 41, Centro Histórico, Santiago de Querétaro, Querétaro",
+      "contato": {
+        "telefone": "+52 442 212 8055"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://www.mexicodesconocido.com.mx/7-hoteles-y-hostales-bonitos-y-baratos-en-queretaro.html"
+      ],
+      "confianca": "baixa",
+      "coletadoEm": "2026-10-09",
+      "observacao": "'Desde $180' com café, refeitório e cafeteria vem da revista México Desconocido, página SEM data de publicação — idade do dado desconhecida. Confiança rebaixada a baixa por dois motivos: o domínio hostalgalerie.com NÃO resolveu em 09/10/2026, e o Hostal Galerie NÃO aparece na lista oficial de hostels do Turismo do Estado de Querétaro (que inclui Blue Bicycle House, Seventh Hostel, Red Giraffe, El Petate, International House, Doña Carlota e El Mexa). Possível fechamento — confirme por telefone antes de considerar."
+    },
+    {
+      "cidadeId": "guadalajara",
+      "nome": "Bohostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Colonia Americana (Av. Chapultepec)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400
+      },
+      "porQue": "Na mesma quadra da Colonia Americana, com dormitórios, a dois passos dos bares da Chapultepec. Boa alternativa se o Hospedarte estiver cheio — e eles estão lado a lado, o que facilita comparar na hora.",
+      "link": "http://www.bohostel.mx/",
+      "endereco": "Calle Efraín González Luna 2097, Col. Americana, Guadalajara, Jalisco",
+      "contato": {
+        "telefone": "+52 33 2832 2469",
+        "site": "http://www.bohostel.mx/"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "http://www.bohostel.mx/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial no ar e verificado em 09/10/2026 ('Hostal | Bohostel | Guadalajara', com menção explícita a dormitórios), sem tarifa publicada. O valor de M$400 é do Wikivoyage, edição de 01/02/2025, e a fonte não especifica se é cama ou quarto — por isso não marquei porCama."
+    },
+    {
+      "cidadeId": "guadalajara",
+      "nome": "Hostal Casa Colores",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Colonia Americana (Av. Chapultepec)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 300
+      },
+      "porQue": "O mais barato dos três da Colonia Americana, com dormitórios compartilhados e privativos. Atenção: é adults only, segundo o próprio nome comercial da casa.",
+      "link": "https://casacoloreshostal.mxhotel.site/en/",
+      "endereco": "Calle Efraín González Luna 1844, Col. Americana, Guadalajara, Jalisco",
+      "contato": {
+        "telefone": "+52 33 2688 8523"
+      },
+      "alertas": [
+        "A casa se anuncia como 'Adults Only'."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "https://casacoloreshostal.mxhotel.site/en/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Página no ar e verificada em 09/10/2026, com o título 'Hostal Casa Colores Adults Only | Guadalajara | October 2026' e menção a dormitórios e privativos — mas é um domínio de agregador (mxhotel.site), não um site próprio do hostal, então o link não é fonte oficial da casa. O valor de M$300 é do Wikivoyage, edição de 05/02/2025, sem dizer se é cama ou quarto (por isso não marquei porCama)."
+    },
+    {
+      "cidadeId": "guadalajara",
+      "nome": "Hostel Hospedarte Chapultepec",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Colonia Americana (Av. Chapultepec)",
+      "diaria": {
+        "moeda": "MXN",
+        "min": 340,
+        "max": 340
+      },
+      "porQue": "Na Colonia Americana, o bairro de bares, cafés e arquitetura da cidade, e a poucos passos da Av. Chapultepec. É onde dupla econômica deve ficar em Guadalajara — não perto da rodoviária velha, que é insegura.",
+      "link": "http://hospedartehostels.com/",
+      "endereco": "Calle Efraín González Luna 2075, Col. Americana, Guadalajara, Jalisco",
+      "contato": {
+        "telefone": "+52 33 3615 4957",
+        "site": "http://hospedartehostels.com/"
+      },
+      "alertas": [
+        "Wikivoyage (seção Sleep): a vizinhança da rodoviária velha (Central Vieja/Antigua), ao sul do Centro Histórico, onde ficam os hotéis mais baratos, é descrita como 'duvidosa nos melhores dias' e exige cuidado com a segurança — evite hospedar-se ali.",
+        "Wikivoyage (Stay safe): Guadalajara é conhecida como uma das cidades mais seguras do México e crimes contra turistas são pouco frequentes, geralmente furto de bolsa em restaurantes ao ar livre, bares e lugares cheios; atenção ao golpe da bebida derramada para distrair."
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara",
+        "http://hospedartehostels.com/"
+      ],
+      "confianca": "parcial",
+      "coletadoEm": "2026-10-09",
+      "observacao": "Site oficial da rede no ar e verificado em 09/10/2026 ('Hospedarte Hostels - o melhor hostal em Guadalajara'), mas sem tarifa publicada. Atenção: a unidade do Centro Histórico (Maestranza 147), também listada pelo Wikivoyage, tem a URL hostelguadalajara.com devolvendo 'Página não encontrada' no site da rede em 09/10/2026 — pode ter fechado; a unidade Chapultepec é a que aparece ativa. O valor de M$340 é do Wikivoyage, edição de 05/02/2025, e a fonte NÃO diz se é cama ou quarto (por isso não marquei porCama)."
+    }
+  ],
+  "bairrosPorBase": {
+    "cidade-do-mexico": [
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "porQue": "Onde estão os hostels e hotéis baratos de verdade, dentro de uma caminhada do Zócalo, Templo Mayor, Bellas Artes e Alameda. O Wikivoyage diz que havia vários hotéis decentes com água quente e banheiro privativo por cerca de M$320 em abril de 2022.",
+        "seguranca": "Wikivoyage: caminhar no Centro Histórico é seguro, mas é área para andar atento; as lojas fecham cedo e as ruas ficam quietas por volta das 21h. A fonte sugere evitar a área a leste do Zócalo depois do escurecer e evitar Tepito, ao norte, em qualquer horário.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        ]
+      },
+      {
+        "bairro": "Roma Norte / Condesa",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 400
+        },
+        "porQue": "Bairro de cafés, parques, restaurantes e vida noturna, caminhável e arborizado. Tem apenas um hostel de verdade — o Hostel Condesa Chapultepec, descrito pelo Wikivoyage como a hospedagem mais barata da Condesa a M$400 (março/2024); o resto do bairro é hotel boutique de M$2.000 a M$8.000.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        ]
+      },
+      {
+        "bairro": "Tabacalera / Revolución",
+        "perfil": "economico",
+        "porQue": "Faixa entre o Centro e a Reforma, com hotéis velhos e baratos e a Casa de los Amigos; metrô Revolución na porta e caminhada curta até a Alameda. Menos bonito que a Roma, mais perto do Centro.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        ]
+      }
+    ],
+    "puebla": [
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 280,
+          "max": 700
+        },
+        "porQue": "Praticamente todas as opções econômicas de Puebla estão nas ruas 3 Poniente, 3 Oriente, 4 Poniente e 6 Oriente, a poucas quadras do Zócalo e da Catedral — a cidade é compacta e dá para fazer tudo a pé. A faixa reúne o que as fontes publicam: hotel simples a partir de M$280 e hostal de M$350 a M$700.",
+        "seguranca": "Wikivoyage não aponta zona a evitar em Puebla; os avisos da seção de segurança são sobre água (beba engarrafada), cuidado com salada e fruta crua, sol forte e altitude, além de atenção a objetos de valor em lugares públicos.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puebla",
+          "https://www.poblanerias.com/2020/12/hostales-en-puebla-centro/"
+        ]
+      }
+    ],
+    "cancun": [
+      {
+        "bairro": "Centro (El Centro, SM 22-25, continente)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 282,
+          "max": 650
+        },
+        "porQue": "É onde está a hospedagem barata de Cancún e onde moram as pessoas: mercados, taquerias de preço normal e a rodoviária da Av. Uxmal com Av. Tulum, o que resolve chegada e saída. Você paga ônibus R-1 ou R-2 para ir à praia.",
+        "seguranca": "Wikivoyage: a área do centro em volta da rodoviária é 'razoavelmente segura à noite'.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      },
+      {
+        "bairro": "Zona Hotelera (Blvd. Kukulcán)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 600
+        },
+        "porQue": "Só vale se vocês ficarem nos dois ou três hostels que existem lá (Mayan Monkey no km 9,5, Hostel Natura), pela praia a pé. Fora disso é resort. O Wikivoyage recomenda evitar Punta Cancún, lotada de festa barulhenta, e preferir o trecho central ou sul do boulevard.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      }
+    ],
+    "playa-del-carmen": [
+      {
+        "bairro": "Centro, entre a Quinta Avenida e a Av. 25",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 250,
+          "max": 600
+        },
+        "porQue": "Quatro a cinco quadras separam o hostel barato da praia e da Quinta Avenida — em Playa, afastar-se duas ou três avenidas da Quinta derruba o preço sem tirar nada a pé. É onde está o Tres Mundos (cama a M$250, privativo a M$600) e o terminal ADO.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Playa del Carmen — portanto não registro nenhuma. Isso é ausência de informação, não atestado de segurança.",
+        "fontes": [
+          "https://tresmundos.com.mx/",
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        ]
+      },
+      {
+        "bairro": "Quinta Avenida norte (Calle 24 em diante, a 'Little Italy')",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 518,
+          "max": 518
+        },
+        "porQue": "Ponta norte da Quinta, mais calma e com cara italiana, ainda a pé da praia. É onde ficam pousadas como a Posada Mariposa. Mais silêncio que o miolo da Quinta, um pouco mais caro.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Playa_del_Carmen"
+        ]
+      }
+    ],
+    "tulum": [
+      {
+        "bairro": "Centro / Pueblo, a leste da rodoviária ADO",
+        "perfil": "economico",
+        "porQue": "É a recomendação literal do Wikivoyage para quem não paga a zona hoteleira: ficar no centro, a leste da rodoviária, dentro de duas quadras ao norte ou ao sul da rua principal, ou ao longo da estrada que vai à praia. Ali estão os hostels, os colectivos e a comida de preço normal; a praia fica a 15-20 min de bicicleta.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Tulum — não registro nenhuma. É ausência de informação.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      },
+      {
+        "bairro": "Zona hotelera (beira de praia)",
+        "perfil": "premium",
+        "porQue": "Registro para ser honesto sobre o custo: o Wikivoyage diz que na zona hoteleira existem cabañas simples de banheiro compartilhado 'por preço relativamente baixo', mas TULUM É CARO e esse 'relativamente' é em relação aos hotéis de praia, não ao resto do México. Não force uma opção barata aqui — ela não existe de forma confiável.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Tulum"
+        ]
+      }
+    ],
+    "bacalar": [
+      {
+        "bairro": "Centro de Bacalar (Avenida 3, perto do forte)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 250,
+          "max": 1100
+        },
+        "porQue": "O centro é pequeno e cabe a pé: forte de San Felipe, praça, restaurantes e os balneários públicos da lagoa. Fica na Avenida 3 o Viajero, com cama a M$250 e privativo a M$950 — a faixa mais clara da base.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Bacalar — não registro nenhuma.",
+        "fontes": [
+          "https://bacalarestaaqui.com/asociados/viajero-bacalar-hostel/"
+        ]
+      },
+      {
+        "bairro": "Costa oeste da lagoa / estrada ao norte",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 1400,
+          "max": 1800
+        },
+        "porQue": "O Wikivoyage diz que 'há muitos hotéis ao longo da costa oeste da lagoa' — é onde estão as cabañas, os cais privados e o camping (Magic Bacalar, Villas Ecotucan a 5 km ao norte). Você acorda na água, mas depende de carro, bicicleta ou táxi para o centro, e a cabaña fechada custa de M$1.400 a M$1.800.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Bacalar",
+          "https://www.magicbacalar.com/alojamiento-hostal-camping/"
+        ]
+      }
+    ],
+    "isla-mujeres": [
+      {
+        "bairro": "Centro / Playa Norte",
+        "perfil": "economico",
+        "porQue": "O centro da ilha é a parte caminhável: rua de pedestres Hidalgo, restaurantes, balsa e a Playa Norte, que é a praia boa de nadar. Os quartos privativos econômicos que as fontes registram ficam aqui, na faixa de US$46 a US$90-100, em dólar como a fonte publica. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Isla Mujeres — não registro nenhuma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        ],
+        "diaria": {
+          "moeda": "USD",
+          "min": 46,
+          "max": 100
+        }
+      },
+      {
+        "bairro": "Carretera Garrafón / sul da ilha",
+        "perfil": "economico",
+        "porQue": "É onde está o Mayan Monkey (km 4,5) e onde ficam os hostels e hotéis com beach club. Mais barato e mais tranquilo, mas a vários quilômetros do centro e da Playa Norte: você vai alugar carrinho de golfe ou pagar táxi todo dia.",
+        "fontes": [
+          "https://mayanmonkey.com/es/mayan-monkey-isla-mujeres",
+          "https://en.wikivoyage.org/wiki/Isla_Mujeres"
+        ]
+      }
+    ],
+    "cozumel": [
+      {
+        "bairro": "Centro de San Miguel",
+        "perfil": "economico",
+        "porQue": "É onde estão os dois hostels da ilha (Amigos e Hostelito), o píer das balsas de Playa del Carmen, o malecón, as lojas de mergulho e a comida de preço local. Os hotéis fora do centro, na Carretera Sur e na zona hoteleira, saem de M$1.000 a M$7.000 segundo o Wikivoyage (dados de junho de 2026) — fora da conversa para perfil econômico.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Cozumel — não registro nenhuma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cozumel",
+          "http://www.cozumelhostel.com/dorm.htm"
+        ]
+      }
+    ],
+    "merida": [
+      {
+        "bairro": "Centro Histórico (Plaza Grande e Calle 62)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 140,
+          "max": 300
+        },
+        "porQue": "Tudo que importa em Mérida é a pé do Centro: Plaza Grande, catedral, mercados, Paseo de Montejo a uma caminhada. É também onde estão as camas mais baratas de todo este levantamento (Hostal Zócalo, M$140-200 em abril/2022; Che Nómadas, ~M$300 na mesma data).",
+        "seguranca": "Wikivoyage: Mérida é uma cidade relativamente segura, mas o visitante deve tomar cuidado com batedores de carteira e manter a bolsa segura. A cidade mantém Policía Turística, de uniforme azul e branco, com dois postos de atendimento no centro (Calle 60 com 59 e Calle 60 com 55), abertos das 8h às 20h.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+        ]
+      }
+    ],
+    "valladolid": [
+      {
+        "bairro": "Centro (quadriculado das calles 38 a 48)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 195,
+          "max": 195
+        },
+        "porQue": "Valladolid é pequena e tudo acontece no quadriculado entre as calles 38 e 48: parque principal, Calzada de los Frailes, cenote Zací dentro da cidade, colectivos para Chichén Itzá e Ek Balam. Os três hostels da base estão nesse retângulo e a cama mais barata registrada é M$195 (janeiro/2022).",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Valladolid — não registro nenhuma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        ]
+      }
+    ],
+    "oaxaca": [
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 200,
+          "max": 450
+        },
+        "porQue": "Zócalo, Santo Domingo, os mercados e as mezcalerías todos a pé; é onde estão Casa Angel e Hostal Central. Wikivoyage registra que hostels econômicos em Oaxaca saíam por cerca de M$200 em março de 2022 e que pousadas familiares começavam em M$390-450.",
+        "seguranca": "Wikivoyage: Oaxaca é segura por padrões mexicanos, mas há roubos sobretudo depois da meia-noite; algumas ruas que saem do Centro ficam muito escuras à noite (a fonte sugere táxi se o destino for longe), a área entre o Centro e o Cerro del Fortín tem má reputação sem ser perigosíssima, e há muitos batedores de carteira no Mercado de Abastos.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      {
+        "bairro": "Jalatlaco",
+        "perfil": "economico",
+        "porQue": "Bairro de rua de pedra e casa colorida a 10-15 minutos a pé do Zócalo, mais quieto que o Centro e perto da rodoviária de primeira classe. Não tem hostel, tem pousada familiar: a Casa Arnel, por exemplo, com quartos de M$450 a M$800. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ],
+        "diaria": {
+          "moeda": "MXN",
+          "min": 450,
+          "max": 800
+        }
+      }
+    ],
+    "puerto-escondido": [
+      {
+        "bairro": "Centro / Adoquín",
+        "perfil": "economico",
+        "porQue": "É onde fica o mercado Benito Juárez, a comida de preço local e a Playa Principal. Wikivoyage (abril/2024) é preciso: quarto básico no centro, longe da praia, a partir de ~400 MXN sem ar, ~600 com ar e ~800 com ar e piscina — e todos ficam mais baratos se você fechar presencialmente. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "seguranca": "Wikivoyage (Stay safe, 2024): por causa de assaltos, inclusive à mão armada com faca, as praias devem ser evitadas do anoitecer ao amanhecer, especialmente Playa Principal e Playa Bachoco; mesmo de dia, em trechos isolados, é melhor não levar objetos de valor sozinho. A fonte também relata policiais 'confiscando' valores de turistas na praia de madrugada.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+        ],
+        "diaria": {
+          "moeda": "MXN",
+          "min": 400,
+          "max": 800
+        }
+      },
+      {
+        "bairro": "Zicatela / Punta Zicatela (La Punta)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 200,
+          "max": 300
+        },
+        "porQue": "Lado do surfe e dos hostels perto da areia: Wikivoyage (abril/2024) dá cama em dormitório na faixa de ~200 MXN perto da praia e cabañas rústicas sem ar sobre a areia a partir de ~300 MXN. O mar de Zicatela não é para nadar — é para surfar e olhar.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+        ]
+      },
+      {
+        "bairro": "Rinconada / Carrizalillo",
+        "perfil": "economico",
+        "porQue": "Lado oeste, com a enseada pequena de Carrizalillo, que é a praia boa para nadar em Puerto Escondido, e com hostels como o Shalom. Mais calmo; você fica longe do centro e do Adoquín.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puerto_Escondido"
+        ]
+      }
+    ],
+    "mazunte": [
+      {
+        "bairro": "Vila de Mazunte / Playa Rinconcito",
+        "perfil": "economico",
+        "porQue": "A vila é minúscula e o Rinconcito, na ponta oeste, é a enseada com cabañas coladas na água (Posada del Arquitecto). O conselho mais útil do Wikivoyage para esta base é tático: chegue, largue a mochila, ande pela vila e feche o quarto na hora, porque a maioria dos lugares não anuncia online e a maior parte dos moradores tem quarto ou palapa para viajante — básicos, mas baratos, e com queda forte de preço fora da alta (de meados de janeiro a outubro).",
+        "seguranca": "Wikivoyage (Stay safe): o mar de Mazunte é notoriamente perigoso, com correntes que arrastam mesmo com superfície calma, e o posto de salva-vidas não é sempre ocupado; afogamentos não são raros. Mazunte é mais calma que Zipolite, mas andar na praia escura à noite segue má ideia — a fonte registra assaltos e estupros no passado.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mazunte"
+        ]
+      },
+      {
+        "bairro": "Aluguel por mês",
+        "perfil": "economico",
+        "porQue": "Para estadia longa: o Wikivoyage registra que é comum alugar quarto ou casa por mês em Mazunte por M$1.000 a M$2.000 ao MÊS, com qualidade e acesso a banheiro e cozinha muito variáveis. A mesma fonte avisa que na alta (Natal e Ano Novo) poucos aceitam contrato mensal, que contrato em papel não é comum e que há relatos de hóspedes expulsos pouco antes da alta — deixe cada detalhe acertado por escrito. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mazunte"
+        ],
+        "diaria": {
+          "moeda": "MXN",
+          "min": 1000,
+          "max": 2000
+        }
+      }
+    ],
+    "huatulco": [
+      {
+        "bairro": "La Crucecita",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 280,
+          "max": 280
+        },
+        "porQue": "É o povoado de serviço de Huatulco: mercado, comida barata, praça e os colectivos para as bahías. É onde estão o hostal com dormitório e os hotéis de rede local; as bahías em si são resort e condomínio.",
+        "seguranca": "Wikivoyage (Stay safe): a região parece bem segura em termos de criminalidade, mas vale perguntar localmente antes de andar por trechos escuros de La Crucecita à noite. Sobre o mar, a fonte diz que nadar ali é geralmente mais seguro que em outras praias da costa porque as baías são abrigadas e de água calma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Huatulco"
+        ]
+      }
+    ],
+    "san-cristobal": [
+      {
+        "bairro": "Barrio del Cerrillo",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 100,
+          "max": 250
+        },
+        "porQue": "Concentração de posadas e hostels baratos em duas ruas (Ejército Nacional, Tapachula, Tonalá), 5 a 10 minutos a pé do Andador Guadalupe e do centro. É onde está o Posada del Abuelito e vizinhos; mais quieto que o miolo turístico.",
+        "seguranca": "Wikivoyage descreve San Cristóbal como o polo mochileiro de Chiapas e não aponta zona a evitar; registra que há quartos anunciados em placas na rua por valores muito baixos, às vezes com banheiro comum.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      },
+      {
+        "bairro": "Centro / Real de Guadalupe",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 120,
+          "max": 350
+        },
+        "porQue": "Em cima do andador turístico, com bar, restaurante e agência de tour na porta. Mais caro e mais barulhento que o Cerrillo, mas resolve tudo sem caminhar. A faixa reúne o que o Wikivoyage publica para hostels e posadas da área.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+        ]
+      }
+    ],
+    "palenque": [
+      {
+        "bairro": "El Panchán / estrada das ruínas (km 4-5)",
+        "perfil": "economico",
+        "porQue": "Cabañas na mata entre a cidade e a zona arqueológica, com o restaurante Don Mucho's como ponto de encontro e caminho de 25 minutos até as ruínas. É a escolha para quem quer entrar no sítio na primeira hora e dormir ouvindo bugio; em troca, você fica longe da comida barata da cidade e depende de colectivo. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Palenque — não registro nenhuma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ],
+        "diaria": {
+          "moeda": "MXN",
+          "min": 500,
+          "max": 550
+        }
+      },
+      {
+        "bairro": "Cidade de Palenque",
+        "perfil": "economico",
+        "porQue": "O Wikivoyage diz que dá para dormir na cidade OU logo fora dela, na estrada do parque. A cidade tem rodoviária, mercado e comida de preço normal, mas nada de charme — é funcional. Nenhuma fonte permitida publicou preço de hospedagem barata dentro da cidade.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Palenque"
+        ]
+      }
+    ],
+    "la-paz": [
+      {
+        "bairro": "Zona Centro / malecón",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 350,
+          "max": 980
+        },
+        "porQue": "Uma quadra do malecón você já tem hostel com cama a M$350 e privativo a M$980 (Bermejo, preço do site oficial em outubro de 2026), mais as pensões antigas do centro. É a pé do malecão, dos restaurantes e dos pontos de saída para Balandra e Espíritu Santo.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de La Paz — não registro nenhuma.",
+        "fontes": [
+          "https://www.hostelbermejo.com/",
+          "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+        ]
+      },
+      {
+        "bairro": "Camping de praia (Tecolote e arredores)",
+        "perfil": "economico",
+        "porQue": "O Wikivoyage é direto: 'em Baja a melhor opção econômica sempre vai ser acampar na praia', e lista áreas gratuitas perto de La Paz, citando Playa Tecolote como gratuita (dado de março de 2019), além do Campestre Maranatha a US$16 por noite sem infraestrutura. A mesma fonte avisa que as autoridades periodicamente tentam fechar essas áreas.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/La_Paz_(Mexico)"
+        ]
+      }
+    ],
+    "todos-santos": [
+      {
+        "bairro": "Centro do pueblo",
+        "perfil": "economico",
+        "porQue": "O povoado é pequeno e tudo — galerias, Hotel California, restaurantes, o único hostel — está no centro histórico, a pé. A praia fica a alguns quilômetros e não é de banho. Base franca: fora do Todos Santos Hostel, as fontes permitidas só documentam hotel boutique caro, como o Todos Santos Inn, descrito pelo Wikivoyage como casa de 1870 restaurada 'para o viajante mais sofisticado'.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Todos Santos — não registro nenhuma.",
+        "fontes": [
+          "https://todossantoshostel.com/",
+          "https://en.wikivoyage.org/wiki/Todos_Santos"
+        ]
+      }
+    ],
+    "los-cabos": [
+      {
+        "bairro": "Centro de Cabo San Lucas",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 350,
+          "max": 1800
+        },
+        "porQue": "É o único lugar de Los Cabos com cama em dormitório: Hostal Casa Coyotito (M$350 a cama, julho/2023) e Mayan Monkey, na marina. Perto de comida de rua, balada e dos barcos para o El Arco. A faixa alta da linha mostra o problema real: o que o Wikivoyage classifica como 'Budget' em Cabo começa em M$1.800 (fevereiro/2026) — LOS CABOS É CARO e isto é o piso do lugar, não uma barganha.",
+        "seguranca": "Wikivoyage (Stay safe): evitar becos e ruelas, sobretudo à noite, atenção a batedores nas áreas de vida noturna e aceitar só táxi licenciado. Sobre praia, a fonte é enfática: NÃO caminhe na beira d'água do lado do Pacífico, onde ondas enormes entram sem aviso, e o risco vale para todas as praias de face sul, inclusive as de resort.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Cabo_San_Lucas"
+        ]
+      },
+      {
+        "bairro": "San José del Cabo (centro histórico)",
+        "perfil": "economico",
+        "porQue": "O lado colonial e calmo de Los Cabos, com praça, igreja e galerias, 30 km a leste de Cabo San Lucas. Mais agradável de andar, mas sem nenhum hostel documentado: as pousadas que o Wikivoyage lista começam em M$1.400 (Señor Mañana) e M$2.000 (Posada Real, abril/2026). Se o orçamento é econômico, durma em Cabo San Lucas e venha aqui de dia. (A faixa desta linha é de QUARTO PRIVATIVO, não de cama em dormitório.)",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Cabo"
+        ],
+        "diaria": {
+          "moeda": "MXN",
+          "min": 1400,
+          "max": 2000
+        }
+      }
+    ],
+    "loreto": [
+      {
+        "bairro": "Centro de Loreto (missão e malecón)",
+        "perfil": "economico",
+        "porQue": "O pueblo mágico é compacto: missão de 1697, praça, malecón e restaurantes, tudo a pé, com as cabañas e hotéis familiares no mesmo quadriculado. Base franca e honesta: Loreto é a base mais pobre deste levantamento. O Wikivoyage tem UMA única entrada de hospedagem na cidade e o conselho oficial de turismo (loretobcstourism.com) lista apenas hotéis de médio e alto padrão, sem preço — não há hostel com dormitório nomeado em fonte permitida.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Loreto — não registro nenhuma.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Loreto_(Baja_California)",
+          "https://loretobcstourism.com/where-to-stay/"
+        ]
+      }
+    ],
+    "puerto-vallarta": [
+      {
+        "bairro": "Centro / Zona Romántica (Emiliano Zapata)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 359,
+          "max": 849
+        },
+        "porQue": "O Wikivoyage coloca aqui os hotéis, pousadas e apartamentos de preço moderado de Vallarta — ao contrário da zona hoteleira, da Marina e de Nuevo Vallarta, que são rede internacional e resort. É onde estão os dois hostels confirmados, com malecón, praia dos Muertos e restaurantes a pé. A ponta sul da Zona Romántica concentra os hotéis gay-friendly.",
+        "seguranca": "Wikivoyage (Stay safe): praias e hotéis têm seguranças que conhecem a área, e existe polícia turística dedicada a manter a zona segura para visitantes; a fonte alerta sobretudo para evitar confronto com a polícia, porque uma discussão tende a sair caro.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Puerto_Vallarta",
+          "https://oasishostel.com/",
+          "https://hostelvallarta.com"
+        ]
+      },
+      {
+        "bairro": "Col. Benito Juárez (leste da Zona Romántica)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 359,
+          "max": 359
+        },
+        "porQue": "Bairro residencial logo a leste, onde fica o Oasis Hostel com cama a M$359 (preço do site oficial em outubro de 2026). Preço de hostel com um pouco mais de caminhada até a praia e menos barulho de bar na janela.",
+        "fontes": [
+          "https://oasishostel.com/"
+        ]
+      }
+    ],
+    "sayulita": [
+      {
+        "bairro": "Centro da vila",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "USD",
+          "min": 15,
+          "max": 60
+        },
+        "porQue": "O Wikivoyage diz que o centro de Sayulita tem só algumas quadras e que achar onde ficar a pé não é problema — é onde estão os hostels de surfe e os bungalows. A faixa é de dormitório em dólar, como as fontes publicam: US$15-35 na baixa e US$30-60 na alta.",
+        "seguranca": "Wikivoyage (Stay safe, dado de 2022): o crescimento do turismo sobrecarregou a rede de esgoto da vila e houve episódios de esgoto escoando nas áreas de banho — fique atento a avisos de poluição. A mesma fonte recomenda o 'stingray shuffle', arrastar os pés ao entrar na água, por causa das arraias.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Sayulita",
+          "https://www.sayulitalife.com/ith-surf-hostel"
+        ]
+      },
+      {
+        "bairro": "Camping ao sul do rio",
+        "perfil": "economico",
+        "porQue": "O Wikivoyage afirma que os campings de Sayulita estão entre os melhores do México e são fama de boca a boca entre viajantes experientes, e aponta o Camping del Palmar, ao sul do rio, como o mais bem mantido dos dois. A opção mais barata possível para quem leva barraca — e nenhuma fonte permitida publica o preço.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Sayulita"
+        ]
+      }
+    ],
+    "guanajuato": [
+      {
+        "bairro": "Centro histórico",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 200,
+          "max": 600
+        },
+        "porQue": "Teatro Juárez, Plaza Baratillo, Jardín Unión e os callejones todos a pé, com hostels de M$200 a M$290 por cama. Guanajuato é vertical: perto do centro significa pouca ladeira, e isso vale dinheiro depois de um dia de caminhada.",
+        "seguranca": "Wikivoyage (Stay safe): Guanajuato é considerada uma cidade bem segura, com polícia presente, e caminhar sozinho ou em grupo pequeno à noite no centro é tranquilo (e tudo que se quer fazer à noite é no centro). Os bairros mais pesados ficam nas encostas do lado leste e nas redondezas do monumento ao Pípila, e a fonte recomenda NUNCA caminhar ou correr sozinho pela estrada Panorámica.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato",
+          "https://www.mexicodesconocido.com.mx/hostales-y-hoteles-baratos-en-guanajuato.html"
+        ]
+      },
+      {
+        "bairro": "Callejón de Zaragoza / encosta acima do centro",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 290,
+          "max": 380
+        },
+        "porQue": "Onde está o Casa de Dante, com a melhor vista da cidade e cama a M$290 (preço do site oficial em outubro de 2026). O preço e a vista custam 150 degraus de ladeira em cada ida e volta e não há estacionamento — descarte se a mala for grande ou se alguém tiver limitação para subir escada.",
+        "fontes": [
+          "https://casadedante.com/"
+        ]
+      }
+    ],
+    "san-miguel-de-allende": [
+      {
+        "bairro": "Centro (Jardín Principal e arredores: Relox, Mesones, Loreto)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 150,
+          "max": 200
+        },
+        "porQue": "Os três hostels que as fontes nomeiam estão todos de 1 a 8 minutos a pé do Jardín Principal e da Parroquia, em ruas que concentram restaurante, bar e café. Em San Miguel, sair do centro não economiza quase nada e tira o que a cidade tem de melhor, que é andar a pé. Faixa de M$150 a M$200 segundo a revista México Desconocido; os hotéis da mesma reportagem começam em M$910.",
+        "seguranca": "Wikivoyage (Stay safe): San Miguel talvez seja mais segura que outros destinos turísticos do México, mas pode ser insegura — a fonte recomenda bom senso, manter dinheiro e valores fora de vista e ficar em áreas bem iluminadas à noite.",
+        "fontes": [
+          "https://www.mexicodesconocido.com.mx/hostales-hoteles-baratos-en-san-miguel-de-allende.html",
+          "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+        ]
+      }
+    ],
+    "queretaro": [
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 180,
+          "max": 195
+        },
+        "porQue": "O Wikivoyage diz textualmente que as hospedagens baratas de Querétaro estão no centro, na Calle Juárez entre a Av. Reforma e a Av. Zaragoza, e avisa que algumas são 'incrivelmente básicas'. Os hostels listados pelo próprio Turismo do Estado — El Petate, El Mexa, International House — ficam no circuito turístico, com andadores, museus e teatros a pé. Faixa de M$180 a M$195.",
+        "seguranca": "Não encontrei, em fonte permitida, recomendação oficial de cuidado com zona específica de Querétaro — não registro nenhuma. O Wikivoyage só faz a ressalva de qualidade (algumas opções baratas da Calle Juárez são muito básicas).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Quer%C3%A9taro",
+          "https://queretaro.travel/lugares/queretaro-hostels/?lang=en",
+          "https://www.mexicodesconocido.com.mx/7-hoteles-y-hostales-bonitos-y-baratos-en-queretaro.html"
+        ]
+      },
+      {
+        "bairro": "Santa Cruz / Ejército Republicano",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 195,
+          "max": 195
+        },
+        "porQue": "Logo a leste do Centro, ao lado do Templo de la Santa Cruz e da Plaza de los Fundadores, onde fica o Blue Bicycle House com seu terraço-bar e vista da cidade. Dez minutos a pé do centro e um pouco mais calmo.",
+        "fontes": [
+          "https://queretaro.travel/lugares/queretaro-hostels/?lang=en",
+          "https://www.mexicodesconocido.com.mx/7-hoteles-y-hostales-bonitos-y-baratos-en-queretaro.html"
+        ]
+      }
+    ],
+    "guadalajara": [
+      {
+        "bairro": "Colonia Americana (Av. Chapultepec)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "MXN",
+          "min": 300,
+          "max": 400
+        },
+        "porQue": "É aqui que dupla econômica deve ficar em Guadalajara: três hostels na mesma quadra da Calle Efraín González Luna (Casa Colores M$300, Hospedarte Chapultepec M$340, Bohostel M$400, dados do Wikivoyage de fevereiro de 2025), no bairro de bares, cafés e arquitetura, com metrô e a Chapultepec na porta.",
+        "seguranca": "Wikivoyage (Stay safe): Guadalajara é conhecida como uma das cidades mais seguras do México e crimes contra turistas são pouco frequentes, geralmente furto de bolsa em restaurante ao ar livre, bar e lugar cheio; os ladrões trabalham em dupla e o golpe comum é derramar algo em você para distrair. Emergência: 911.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      },
+      {
+        "bairro": "Centro Histórico",
+        "perfil": "economico",
+        "porQue": "O Wikivoyage recomenda não se hospedar longe do centro se você for passar o dia nele, porque caminhar resolve. Há hotéis baratos aqui, mas a unidade de hostel do Hospedarte no Centro (Maestranza 147) aparece com página fora do ar no site da rede em outubro de 2026 — confirme antes de contar com hostel nesta zona.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara",
+          "http://hospedartehostels.com/"
+        ]
+      },
+      {
+        "bairro": "Entorno da rodoviária velha (Central Vieja/Antigua)",
+        "perfil": "economico",
+        "porQue": "ZONA A EVITAR, registrada só como aviso: é onde estão os hotéis mais baratos da cidade (o Wikivoyage lista preços de dezembro de 2021 para dois, reservando direto no hotel, todos com banheiro privativo e água quente mas sem ar-condicionado) — e a mesma fonte diz, na própria seção de hospedagem, que o bairro é duvidoso 'nos melhores dias'. A economia não compensa.",
+        "seguranca": "Wikivoyage, seção Sleep: 'tenha cuidado com a segurança, porque esta vizinhança é duvidosa nos melhores dias'.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      }
+    ]
+  }
+}
