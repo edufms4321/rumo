@@ -3169,6 +3169,10 @@
       },
       {
         "url": "https://www.medellin.travel/10-must-see-in-the-center-of-medellin/?lang=en"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4839292324",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -3217,7 +3221,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 6.246628,
+      "lng": -75.569743
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-mde-perro-negro-discoteca-de-reggaeton-em-provenza",
@@ -3290,6 +3299,10 @@
       },
       {
         "url": "https://colombiaspanish.com/free-salsa-dance-classes-in-medellin/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5018536921",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -3357,7 +3370,12 @@
     ],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": 6.210437,
+      "lng": -75.56794
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-mde-parapente-em-san-felix-bello-voo-sobre-o-vale-de-abu",
@@ -3570,6 +3588,10 @@
       },
       {
         "url": "https://medellinguru.com/mondongos/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/9752946217",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -3630,7 +3652,8 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-mde-quanto-custa-a-bandeja-paisa-em-medellin-em-2026",
@@ -3686,6 +3709,10 @@
       },
       {
         "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4839295723",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -3726,6 +3753,11 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 6.250756,
+      "lng": -75.565763
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   }
 ]

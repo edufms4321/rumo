@@ -636,6 +636,243 @@
   "co-ctg-fiestas-de-la-independencia-de-cartagena-6-16-nov-20": {
    "nome": "Fiestas de la Independencia de Cartagena (1 a 16 de novembro de 2026)",
    "observacaoDeConfianca": "O titulo dizia \"6-16 nov\" e o proprio corpo do item dizia \"1 a 12/11\": nenhuma das quatro fontes abertas sustenta o dia 6 como inicio. A agenda oficial apresentada pela Alcaldia e pelo IPCC em 16/09/2026 comeca em 1/11 (desfile Angeles Somos) e termina em 16/11. Uma quarta fonte (Cartagena Explorer) abre em 30/10; as tres concordam no fim e em todos os dias grandes, e a divergencia de abertura fica registrada aqui em vez de escolhida."
+  },
+  "co-bog-theatron-a-maior-discoteca-de-chapinero": {
+   "coords": {
+    "lat": 4.645184,
+    "lng": -74.063889
+   },
+   "fontes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Theatron_(club)"
+    },
+    {
+     "url": "https://visitbogota.co/en/atractivo/all/theatron-pelicula-the-hub-of-the-lgbti-party-in-bogota-all-4469"
+    },
+    {
+     "url": "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/710583131",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-bog-galeria-cafe-libro-parque-de-la-93-salsa-ao-vivo-ha": {
+   "fontes": [
+    {
+     "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota"
+    },
+    {
+     "url": "https://www.galeriacafelibro.com.co/"
+    },
+    {
+     "url": "https://www.elespectador.com/entretenimiento/galeria-cafe-libro-prende-la-rumba-en-el-parque-de-la-93/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/1735515383",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-bog-artesanias-de-colombia-claustro-de-las-aguas-bogota": {
+   "fontes": [
+    {
+     "url": "https://lanotaeconomica.com.co/movidas-empresarial/artesanias-de-colombia-llega-al-museo-nacional/"
+    },
+    {
+     "url": "https://radionacional.co/cultura/tradiciones/mercado-artesanal-del-claustro-bogota-fechas"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/3755347684",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-ctg-donde-fidel-salsa-classica-no-portal-de-los-dulces": {
+   "coords": {
+    "lat": 10.422655,
+    "lng": -75.549629
+   },
+   "fontes": [
+    {
+     "url": "https://www.radionacional.co/cultura/nos-vemos-donde-fidel-el-embajador-de-la-salsa-en-cartagena"
+    },
+    {
+     "url": "https://www.frommers.com/destinations/cartagena/nightlife/donde-fidel"
+    },
+    {
+     "url": "https://www.eluniversal.com.co/farandula/2026/06/07/fidel-leottau-el-hombre-detras-del-museo-de-la-salsa-en-cartagena/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/13389459290",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-ctg-bazurto-social-club-champeta-e-pico-ao-vivo": {
+   "coords": {
+    "lat": 10.422182,
+    "lng": -75.546237
+   },
+   "fontes": [
+    {
+     "url": "https://www.frommers.com/destinations/cartagena/nightlife/bazurto-social-club/"
+    },
+    {
+     "url": "https://theculturetrip.com/articles/the-best-clubs-for-traditional-music-in-colombia"
+    },
+    {
+     "url": "https://www.hostelworld.com/blog/cartagena-nightlife-where-locals-and-travellers-go-out/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/4763171022",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-ctg-calle-del-arsenal-getsemani-a-rua-das-discotecas": {
+   "coords": {
+    "lat": 10.420733,
+    "lng": -75.548785
+   },
+   "fontes": [
+    {
+     "url": "https://www.hostelworld.com/blog/cartagena-nightlife-where-locals-and-travellers-go-out/"
+    },
+    {
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/getsemani-el-barrio-cool-de-cartagena-sitiado-por-la-delincuencia-663509"
+    },
+    {
+     "url": "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/93829757",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-ctg-restaurante-la-casa-de-socorro-cozinha-caribenha-de": {
+   "coords": {
+    "lat": 10.42017,
+    "lng": -75.547679
+   },
+   "fontes": [
+    {
+     "url": "https://www.portafolio.co/tendencias/sociales/la-ciudad-de-colombia-donde-se-hace-el-mejor-arroz-con-coco-segun-tastle-atlas-627060"
+    },
+    {
+     "url": "https://www.exoticca.com/es/blog/que-comer-en-cartagena/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/7159526885",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-mde-salon-malaga-tango-bolero-e-7-mil-discos-no-centro-d": {
+   "coords": {
+    "lat": 6.246628,
+    "lng": -75.569743
+   },
+   "fontes": [
+    {
+     "url": "https://www.medellin.travel/salon-malaga-of-medellin/?lang=en"
+    },
+    {
+     "url": "https://www.elespectador.com/colombia/medellin/salon-malaga-una-instantanea-de-la-medellin-de-mitad-del-siglo-xx-article-895718/"
+    },
+    {
+     "url": "https://www.medellin.travel/10-must-see-in-the-center-of-medellin/?lang=en"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/4839292324",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-mde-dancefree-aula-de-salsa-e-bachata-em-el-poblado": {
+   "coords": {
+    "lat": 6.210437,
+    "lng": -75.56794
+   },
+   "fontes": [
+    {
+     "url": "https://www.salsavida.com/?p=50871"
+    },
+    {
+     "url": "https://colombiaspanish.com/free-salsa-dance-classes-in-medellin/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/5018536921",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-mde-mondongo-s-bandeja-paisa-de-restaurante-tradicional": {
+   "fontes": [
+    {
+     "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+    },
+    {
+     "url": "https://medellinguru.com/mondongos/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/9752946217",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-mde-hacienda-rede-paisa-de-comida-tipica-em-medellin": {
+   "coords": {
+    "lat": 6.250756,
+    "lng": -75.565763
+   },
+   "fontes": [
+    {
+     "url": "https://medellinguru.com/hacienda/"
+    },
+    {
+     "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/4839295723",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "co-smr-mercado-publico-de-santa-marta": {
+   "coords": {
+    "lat": 11.24542,
+    "lng": -74.205776
+   },
+   "fontes": [
+    {
+     "url": "https://www.santamarta.gov.co/sala-prensa/noticias/80-vendedores-dignificados-con-nuevos-puestos-en-la-plaza-de-pescados-y"
+    },
+    {
+     "url": "https://www.expatexchange.com/article/22343/Living-in-Santa-Marta-Best-Markets-in-Santa-Marta"
+    },
+    {
+     "url": "https://www.afar.com/places/santa-marta-market-santa-marta"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/686929968",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   }
  },
  "_leia_cidades": "Alertas de situacao conjuntural, escritos a mao porque exigem verificacao em fonte primaria pelo agente principal, nao pelos subagentes de pesquisa. Todo alerta tem verificadoEm: a interface mostra essa data junto do aviso, porque alerta de catastrofe desatualizado assusta a toa.",

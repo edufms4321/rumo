@@ -1,5 +1,790 @@
 [
   {
+    "id": "br-rec-sala-de-reboco-forro-pe-de-serra-no-cordeiro",
+    "fontes": [
+      {
+        "url": "https://www.folhape.com.br/cultura/passeios-do-olha-recife-embalam-no-clima-de-forrobodo/233014/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2025/06/7792884-sao-pedro-recife-tem-158-atracoes-em-oito-arraiais.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Sala de Reboco (forró pé de serra no Cordeiro)",
+    "cidadeId": "recife",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "bares",
+      "danca"
+    ],
+    "descricaoCurta": "Casa de forró pé de serra no Cordeiro, longe do circuito turístico. Trio de sanfona, zabumba e triângulo, petisco de macaxeira com carne de sol e pista de dança.",
+    "descricaoLonga": "É a referência mais citada quando se procura forró pé de serra DE VERDADE no Recife - trio ao vivo, não piseiro de caixa de som. Fica no Cordeiro, bairro residencial na Zona Oeste, a uns 20-25 min de carro de app de Boa Viagem: não é lugar onde se cai de paraquedas vindo da praia, é programa de quem quer o ritmo. O cardápio citado nas fontes é de boteco de forró: porção de macaxeira com carne de sol, bife com fritas, cerveja. O QUE EU NÃO CONSEGUI CONFIRMAR, e isso é importante: não abri site oficial da casa nesta sessão (o domínio saladereboco.com.br recusou a conexão por falha de TLS) e não achei matéria recente de imprensa local sobre a casa em si. Diretórios listam o endereço como Rua Gregório Júnior, 264, Cordeiro, e um telefone fixo - NÃO registro nenhum dos dois como dado do banco porque diretório não é fonte confiável para endereço e telefone. Pior: as matérias de São João do Diario de Pernambuco e da Folha de Pernambuco usam 'Sala de Reboco' como nome de um PALCO dentro do Sítio da Trindade, o que levanta a dúvida real de a casa do Cordeiro ainda estar de pé com esse nome. Ligue ou mande mensagem antes de atravessar a cidade.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app, não de ônibus"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme por telefone ou rede social ANTES de ir: a casa não tem presença web que eu tenha conseguido abrir",
+      "Se o objetivo é só ouvir forró com pouco deslocamento, o Sítio da Trindade e o Pátio de São Pedro em junho resolvem sem sair do centro",
+      "Confirme por telefone ou rede social ANTES de ir: a casa não tem presença web que eu tenha conseguido abrir",
+      "Se o objetivo é só ouvir forró com pouco deslocamento, o Sítio da Trindade e o Pátio de São Pedro em junho resolvem sem sair do centro"
+    ],
+    "alertas": [
+      "Não confirmei endereço, telefone, dias, horário nem preço em fonte confiável - trate o item como pista, não como reserva",
+      "Há risco real de a casa ter fechado ou mudado: as menções recentes na imprensa são a um palco homônimo no Sítio da Trindade",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-bodega-de-veio-rua-do-amparo-olinda",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/bares-olinda/"
+      },
+      {
+        "url": "https://www.queroviajarmais.com/noite-em-olinda/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Bodega de Véio (Rua do Amparo, Olinda)",
+    "cidadeId": "recife",
+    "categoria": "bar",
+    "tags": [
+      "boteco",
+      "bares",
+      "vida-noturna",
+      "cerveja",
+      "olinda"
+    ],
+    "descricaoCurta": "Mercearia de 1981 em Olinda que virou o boteco mais fotografado do sítio histórico: cerveja gelada entre sacos de farinha, cordas e chapéus de couro.",
+    "descricaoLonga": "Bate-volta de Recife (20-30 min de carro de app até o Sítio Histórico de Olinda). Começou em 1981 como mercearia de bairro e nunca tirou o estoque da parede: você bebe cercado de saco de farinha, macarrão, corda e chapéu de couro, e é isso que faz o lugar. Fica na Rua do Amparo, 212, no Amparo - a rua mais bonita de Olinda para andar a pé no fim da tarde, ladeira acima do Largo do Varadouro e abaixo do Alto da Sé. As fontes falam de porções para dois pessoas de queijo, presunto de parma, pastrami e salada de bacalhau, e de uma carta de cerveja artesanal com mais de 20 opções. Horário citado em duas fontes que concordam: segunda a sábado, 10h às 23h - registro isso, mas é dado de guia, não de site oficial, e bar de Olinda estica horário em véspera de feriado e carnaval. O QUE NÃO CONFIRMEI: preço de cerveja e de porção, telefone, e se as duas filiais no Recife mudam algo. No carnaval a Rua do Amparo fica intransitável - é o trajeto dos bonecos gigantes.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua do Amparo, 212 - Amparo, Olinda - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ladeira de paralelepípedo: calçado fechado e sem salto"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Combine com o fim de tarde no Alto da Sé: sobe-se a pé em 10 minutos",
+      "Volte para o Recife de carro de app; o sítio histórico esvazia e escurece fora de dia de programação",
+      "Combine com o fim de tarde no Alto da Sé: sobe-se a pé em 10 minutos",
+      "Volte para o Recife de carro de app; o sítio histórico esvazia e escurece fora de dia de programação"
+    ],
+    "alertas": [
+      "Horário vem de guias de viagem, não de site oficial - confirme em véspera de feriado",
+      "Não achei preço publicado: não registro faixa para não chutar",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-burburinho-rua-tomazina-recife-antigo",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/burburinho-108-2156-l.html"
+      },
+      {
+        "url": "https://all.accor.com/pt-br/brasil/magazine/one-hour-one-day-one-week/o-que-fazer-em-recife-a-noite-9436b.shtml"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Burburinho (Rua Tomazina, Recife Antigo)",
+    "cidadeId": "recife",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "bares",
+      "vida-noturna",
+      "samba",
+      "boteco"
+    ],
+    "descricaoCurta": "Balcão do Recife Antigo que cresceu e ganhou palco: MPB, samba, rock e blues com a Igreja da Madre de Deus de fundo, e o pastel mais recheado da rua.",
+    "descricaoLonga": "Fica na Rua Tomazina, 106, a uma quadra do eixo Rua da Moeda / Rua do Bom Jesus, no Bairro do Recife. Nasceu como balcão sem pretensão e hoje tem palco com programação de MPB, samba, rock e blues - é o endereço de happy hour que vira noite, não balada. O cenário é o melhor do bairro: mesas na calçada com a Igreja da Madre de Deus iluminada atrás. O QUE NÃO CONFIRMEI: dias e horários de funcionamento, se há couvert artístico e quanto, e telefone. Como o banco já tem o item geral da vida noturna do Recife Antigo, use este para saber ONDE dentro do bairro existe palco de verdade. Segurança, sem drama e sem omissão: o Bairro do Recife é vigiado e cheio nas noites de sexta e sábado, e vazio e mal iluminado nas outras - de terça a quinta, chegue e saia de carro de app na porta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Tomazina, 106 - Recife Antigo, Recife - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Sexta e sábado o bairro enche; no meio da semana confirme se tem banda antes de ir",
+      "Peça o pastel: é o que as duas fontes citam como marca da casa",
+      "Sexta e sábado o bairro enche; no meio da semana confirme se tem banda antes de ir",
+      "Peça o pastel: é o que as duas fontes citam como marca da casa"
+    ],
+    "alertas": [
+      "Dias, horários e couvert não confirmados",
+      "Fora de sexta e sábado o Bairro do Recife fica vazio à noite: chegue e volte de carro de app",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-terca-negra-no-patio-de-sao-pedro",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11706196-carnaval-2026-projeto-terca-negra-reestreia-na-folia-do-recife-com-maracatu-afoxe-e-rap.html"
+      },
+      {
+        "url": "https://www.brasildefato.com.br/2025/02/11/em-noite-de-terca-negra-rapper-bione-faz-show-gratuito-no-patio-de-sao-pedro/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2025/11/11700892-patio-de-sao-pedro-vira-palco-da-cultura-negra-em-quatro-dias-de-celebracao.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Terça Negra no Pátio de São Pedro",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "maracatu",
+      "samba",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "gratuito",
+      "cultura-afro"
+    ],
+    "descricaoCurta": "Toda terça, de graça, o Pátio de São Pedro recebe maracatu, afoxé, coco, samba-reggae e rap. Projeto do Movimento Negro Unificado com a Prefeitura desde 2001.",
+    "descricaoLonga": "Esta é a resposta mais honesta para 'o que fazer numa terça à noite no Recife'. A Terça Negra começou em 1998 e desde 2001 funciona no Pátio de São Pedro, no bairro de São José, centro do Recife - um pátio de casario colonial em volta da Igreja de São Pedro dos Clérigos, com bares nas laterais. Começa às 19h, é GRATUITA, e a curadoria é do Movimento Negro Unificado (MNU) em parceria com a Prefeitura do Recife: o que sobe no palco vai de maracatu nação (Sol Brilhante, Aurora Africana) e afoxé (Ilê de Egbá, Afefe Legbará) a coco, samba-reggae, reggae, hip hop e rap. Faz parte do calendário cultural oficial da cidade, o que significa que acontece o ano inteiro e não só na temporada - em janeiro e fevereiro ganha edições especiais de carnaval, e em novembro vira quatro dias de programação na semana da Consciência Negra. O QUE NÃO CONFIRMEI: a hora em que termina (as matérias citam programação até 23h em edições especiais) e se existe terça sem programação. Chegue de carro de app: o centro do Recife à noite não é lugar de estacionar na rua e andar duas quadras.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "horariosObservacao": "a partir das 19:00",
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Pátio de São Pedro - São José, Recife - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evento de rua, em pé, sem cadeira garantida"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Coma antes ou nos bares do próprio pátio - alguns servem café da manhã regional de madrugada",
+      "Em novembro a programação dobra na semana da Consciência Negra; em janeiro e fevereiro há edições de carnaval",
+      "Coma antes ou nos bares do próprio pátio - alguns servem café da manhã regional de madrugada",
+      "Em novembro a programação dobra na semana da Consciência Negra; em janeiro e fevereiro há edições de carnaval"
+    ],
+    "alertas": [
+      "O horário de encerramento (23h) vem de edição especial, não é o padrão confirmado de toda terça",
+      "Centro do Recife à noite: vá e volte de carro de app, sem celular na mão na rua",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-noite-dos-tambores-silenciosos-patio-do-terco",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/02/11707533-carnaval-2026-recife-anuncia-programacao-da-noite-dos-tambores-silenciosos.html"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/noticia/vidaurbana/2025/03/noite-dos-tambores-silenciosos-reune-cerca-de-40-nacoes-de-maracatu.html"
+      },
+      {
+        "url": "https://vermelho.org.br/?p=359130"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Noite dos Tambores Silenciosos (Pátio do Terço)",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "maracatu",
+      "carnaval",
+      "cultura-afro",
+      "vida-noturna",
+      "gratuito"
+    ],
+    "descricaoCurta": "Na segunda de carnaval, 40 nações de maracatu baque virado tocam no Pátio do Terço até a meia-noite, quando as luzes apagam e os tambores silenciam pelos ancestrais.",
+    "descricaoLonga": "O ritual mais forte do carnaval do Recife, e não é festa: é reverência. No Pátio do Terço, em São José - que no período colonial foi mercado de escravizados e um dos primeiros terreiros de candomblé nagô de Pernambuco -, as nações de maracatu de baque virado se apresentam a noite inteira; à meia-noite as luzes de todo o pátio se apagam, ficam duas tochas no palco principal e um pai de santo entoa rezas em iorubá chamando paz para o carnaval e honrando os eguns, os ancestrais. Criada nos anos 1960 por Maria de Lourdes Silva, a Badia, moradora do Pátio do Terço. A edição de 2026 (61ª) teve cerimônia infantil das 16h às 19h e a adulta das 20h às 3h, com 41 maracatus mirins e adultos e 2 afoxés. ANO QUE VOCÊ VAI VIAJAR: a Noite dos Tambores Silenciosos acontece sempre na SEGUNDA-FEIRA de carnaval - o que coloca a edição de 2027 em 8 de fevereiro e a de 2028 em 28 de fevereiro pela data do carnaval, mas a Prefeitura do Recife AINDA NÃO PUBLICOU a programação desses anos, e horários e número de nações mudam a cada edição. Não cobra entrada. É evento lotado, de pé, em área de centro antigo: vá leve, sem mochila, e combine ponto de encontro.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Pátio do Terço - São José, Recife - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Multidão em pé, em pátio fechado por ruas estreitas",
+        "Ritual religioso de matriz afro-brasileira: respeite, não fotografe o momento do silêncio com flash"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Chegue antes das 23h para estar dentro do pátio na hora do apagar das luzes",
+      "A cerimônia infantil, no fim da tarde, é a versão sem aperto para quem vai com criança",
+      "Chegue antes das 23h para estar dentro do pátio na hora do apagar das luzes",
+      "A cerimônia infantil, no fim da tarde, é a versão sem aperto para quem vai com criança"
+    ],
+    "alertas": [
+      "Datas de 2027 e 2028 ainda NÃO publicadas pela Prefeitura: o que se sabe é só que cai na segunda de carnaval",
+      "Horários citados são os de 2026 e mudam a cada edição",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-galo-da-madrugada-2027-sabado-de-carnaval-recife",
+    "fontes": [
+      {
+        "url": "https://portaldeprefeitura.com.br/entretenimento/galo-da-madrugada-anuncia-tema-do-carnaval-2027-e-homenageia-caboclo/633674/"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Galo_da_Madrugada"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Galo da Madrugada 2027 (sábado de carnaval, Recife)",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "frevo",
+      "vida-noturna",
+      "gratuito",
+      "maracatu"
+    ],
+    "descricaoCurta": "O maior bloco de carnaval do mundo pelo Guinness desfila em 6 de fevereiro de 2027, saindo às 9h do Forte das Cinco Pontas com 30 trios e 6 carros alegóricos.",
+    "descricaoLonga": "DATA CONFIRMADA PARA 2027: sábado 6 de fevereiro, o Sábado de Zé Pereira, com saída às 9h e concentração no Forte das Cinco Pontas, no centro do Recife. A organização anunciou 30 trios elétricos, seis carros alegóricos, cerca de 6,5 km de percurso pelos bairros de São José e Santo Antônio, na Ilha de Antônio Vaz, e desfile até as 18h, com expectativa de mais de 2,5 milhões de foliões. O tema de 2027 é 'Ao Canto do Galo, a Espora é a Lança', homenagem ao caboclo de lança e ao maracatu rural da Zona da Mata Norte. Fundado em 23 de janeiro de 1978 com 75 participantes, reconhecido pelo Guinness desde 1994 como maior bloco carnavalesco do mundo e patrimônio imaterial de Pernambuco desde 2009. Começa de MANHÃ, não de noite - é o único grande bloco do Nordeste que exige acordar cedo. Para 2028 não há data publicada: pela regra do carnaval cairia em 26 de fevereiro, mas a organização não anunciou. O que NÃO consegui confirmar: trajeto exato de 2027 rua por rua, esquema de camarote e preço, e o plano de ônibus (a Prefeitura publica só perto da data).",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 540
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Concentração no Forte das Cinco Pontas - São José, Recife - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Multidão de milhões em rua aberta, sem cordas, sob sol de fevereiro",
+        "Começa às 9h: não é programa de quem virou a noite antes"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Não leve nada que não caiba no bolso da frente; vá de metrô ou carro de app e combine ponto de saída",
+      "Beba água de garrafa comprada fechada e use protetor: são horas de sol em pé",
+      "Não leve nada que não caiba no bolso da frente; vá de metrô ou carro de app e combine ponto de saída",
+      "Beba água de garrafa comprada fechada e use protetor: são horas de sol em pé"
+    ],
+    "alertas": [
+      "Data de 2028 NÃO publicada - a de 6 de fevereiro de 2027 está confirmada",
+      "Preço e local de camarote não confirmados: não registro faixa",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-carnaval-de-olinda-e-os-bonecos-gigantes",
+    "fontes": [
+      {
+        "url": "https://pt.wikipedia.org/wiki/Carnaval_de_Olinda"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Carnaval de Olinda e os bonecos gigantes",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "frevo",
+      "maracatu",
+      "vida-noturna",
+      "gratuito",
+      "olinda"
+    ],
+    "descricaoCurta": "Carnaval de ladeira, sem trio elétrico e sem camarote: mais de 500 agremiações e os bonecos de mais de 2 m desfilam pelo sítio histórico para cerca de 1 milhão de pessoas.",
+    "descricaoLonga": "Bate-volta de Recife, e o carnaval mais a pé do Brasil: tudo acontece nas ladeiras do Sítio Histórico (Cidade Alta), sem trio elétrico puxando bloco e sem camarote dominando a paisagem. A marca são os bonecos gigantes, de mais de dois metros, que você localiza de longe por cima da multidão. O Homem da Meia-Noite abre a festa simbolicamente à meia-noite; o Cariri Olindense puxa os festejos desde 1921; a Pitombeira dos Quatro Cantos é de 1947 e o Elefante de Olinda de 1952. Os ritmos são frevo, maracatu, manguebeat, ciranda, coco e caboclinhos. A Wikipédia registra mais de um milhão de pessoas no período e cerca de 500 agremiações. O QUE NÃO CONSEGUI CONFIRMAR, e é bastante: a Prefeitura de Olinda não publicou programação de 2027 nem de 2028 (pela data do carnaval, 2027 cai entre 6 e 9 de fevereiro e 2028 entre 26 e 29 de fevereiro), e não achei horário oficial de nenhum bloco. Verdade prática que ninguém avisa: as ladeiras são de paralelepípedo íngreme, não há banheiro suficiente, e descer para o Recife de madrugada exige carro de app combinado - o sítio histórico não é lugar de ficar esperando na esquina.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 600
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Sítio Histórico de Olinda (Cidade Alta) - Olinda - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ladeiras de paralelepípedo íngremes, multidão e pouca infraestrutura de banheiro",
+        "Calçado fechado obrigatório na prática"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Escolha um boneco ou agremiação e siga o cortejo: tentar ver tudo em Olinda é como tentar ver tudo no carnaval do Rio",
+      "Hospede-se no Recife e suba de carro de app, ou reserve em Olinda com meses de antecedência",
+      "Escolha um boneco ou agremiação e siga o cortejo: tentar ver tudo em Olinda é como tentar ver tudo no carnaval do Rio",
+      "Hospede-se no Recife e suba de carro de app, ou reserve em Olinda com meses de antecedência"
+    ],
+    "alertas": [
+      "Programação de 2027 e 2028 NÃO publicada pela Prefeitura de Olinda",
+      "Nenhum horário de bloco confirmado em fonte oficial nesta sessão",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-club-metropole-boa-vista-recife",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/viver/2025/10/11699306-halloween-do-club-metropole-agita-o-fim-de-semana-em-recife.html"
+      },
+      {
+        "url": "https://all.accor.com/pt-br/brasil/magazine/one-hour-one-day-one-week/o-que-fazer-em-recife-a-noite-9436b.shtml"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Club Metrópole (Boa Vista, Recife)",
+    "cidadeId": "recife",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "boate",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "Balada histórica do centro do Recife, na Rua das Ninfas: festas temáticas, DJs e piscina, com público jovem e noites de eletrônico, pop e axé.",
+    "descricaoLonga": "Fica na Rua das Ninfas, 125, Boa Vista, no centro do Recife, e é a casa de nome mais longevo da noite recifense - sobreviveu à pandemia e continua pautando festa temática (o Halloween da casa é notícia de jornal local todo ano). Tem piscina com DJ e programação que mistura eletrônico, pop e ritmos brasileiros. É balada, não casa de show de frevo nem de forró: se o que você quer é música pernambucana, este não é o endereço. O QUE NÃO CONFIRMEI: dias de abertura, horário, preço de ingresso e idade mínima - a casa vende por plataforma de evento e o valor muda a cada festa. Pela natureza do lugar, assuma 18 anos e ingresso antecipado. Boa Vista à noite: vá e volte de carro de app até a porta.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua das Ninfas, 125 - Boa Vista, Recife - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Idade mínima assumida pelo tipo de casa, não confirmada em fonte"
+      ],
+      "idadeMinima": 18,
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Compre antecipado pela plataforma da festa: na porta costuma ser mais caro quando existe",
+      "Confirme a festa do dia antes de ir - a casa não abre todas as noites",
+      "Compre antecipado pela plataforma da festa: na porta costuma ser mais caro quando existe",
+      "Confirme a festa do dia antes de ir - a casa não abre todas as noites"
+    ],
+    "alertas": [
+      "Dias, horário, preço e idade mínima não confirmados em fonte oficial",
+      "Centro do Recife de madrugada: porta a porta de carro de app",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-rec-teatro-guararapes-pernambuco-centro-de-convencoes",
+    "fontes": [
+      {
+        "url": "https://www.folhape.com.br/cultura/ana-carolina-luiz-fernando-guimaraes/510541/"
+      },
+      {
+        "url": "https://www.diariodepernambuco.com.br/noticia/economia/2024/07/pernambuco-centro-de-convencoes-celebra-45-anos-e-inaugura-nova-ala.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teatro Guararapes (Pernambuco Centro de Convenções)",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "show",
+      "musica-ao-vivo",
+      "teatro",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "A casa de show sentada do Grande Recife: cerca de 2.400 lugares no Centro de Convenções em Salgadinho, entre Recife e Olinda, com shows nacionais quase toda semana.",
+    "descricaoLonga": "Fica na Av. Prof. Andrade Bezerra, s/n, Salgadinho, Olinda - tecnicamente em Olinda, na prática no meio do caminho entre as duas cidades, 15-20 min de carro de app do Recife Antigo. Com quase 2.400 poltronas dentro do Pernambuco Centro de Convenções, maior complexo de eventos do Nordeste, é onde param as turnês nacionais quando querem palco coberto e cadeira numerada: Ana Carolina, Geraldo Azevedo, teatro adulto. Os exemplos de preço que a imprensa local publicou dão a ordem de grandeza: ingressos a partir de R$ 50 (teatro) e a partir de R$ 75 (show de Geraldo Azevedo), com shows começando entre 20h30 e 21h30. ISSO NÃO É TABELA: cada show tem o seu preço e o seu horário, vendidos por plataforma. Use o item para saber que esta casa existe e vale checar a agenda de quem toca na sua data. O que NÃO confirmei: site oficial próprio do teatro, telefone de bilheteria e horário da bilheteria física.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 210
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 50,
+      "max": 75,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Exemplos de ingresso mais barato publicados pela imprensa local (teatro a partir de R$ 50; show a partir de R$ 75). Não é tabela da casa: cada espetáculo tem preço próprio."
+    },
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {
+      "endereco": "Av. Prof. Andrade Bezerra, s/n - Salgadinho, Olinda - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Olhe a agenda antes de montar a noite: casa de pauta, não tem programação fixa",
+      "Estacionamento do Centro de Convenções é grande, mas o entorno de Salgadinho é vazio depois do show",
+      "Olhe a agenda antes de montar a noite: casa de pauta, não tem programação fixa",
+      "Estacionamento do Centro de Convenções é grande, mas o entorno de Salgadinho é vazio depois do show"
+    ],
+    "alertas": [
+      "Preços são exemplos de shows passados, não tabela: confirme na venda oficial",
+      "Sem telefone nem horário de bilheteria confirmados",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-classic-hall-salgadinho-olinda",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Classic_Hall"
+      },
+      {
+        "url": "https://www.folhape.com.br/cultura/roteiro/482103/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Classic Hall (Salgadinho, Olinda)",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "show",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "balada"
+    ],
+    "descricaoCurta": "Arena coberta para 18 mil pessoas em Salgadinho, entre Recife e Olinda: é onde cabem as turnês grandes de rock, sertanejo, axé e MPB.",
+    "descricaoLonga": "Av. Agamenon Magalhães, Complexo de Salgadinho, Olinda. Aberta em 8 de agosto de 2001, com capacidade de 18 mil pessoas, palco de 1.000 m² e 2,7 hectares de área total - está entre as maiores casas de show cobertas da América Latina. É o endereço de festival de rock (Rock'N'Hall com Fresno, Raimundos, Detonautas e CPM22), de sertanejo e de show de MPB que não caberia em teatro. Site e telefone registrados pela ficha da Wikipédia em inglês: classichall.com.br e (81) 3427-7501 - NÃO consegui abrir o site nesta sessão para confirmar se está no ar, então trate os dois como indício. Preço e horário mudam por evento e não registro faixa. Prático: fica na BR-101/Agamenon, não há metrô na porta e a saída de 18 mil pessoas ao mesmo tempo congestiona - combine carro de app num ponto a duas quadras, não na porta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {
+      "endereco": "Av. Agamenon Magalhães, Complexo de Salgadinho, Olinda - PE",
+      "site": "https://classichall.com.br",
+      "telefone": "+55 81 3427-7501"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Saia antes do último bis ou espere 40 min: a dispersão de 18 mil pessoas é lenta",
+      "Não há programação fixa: só vale a pena se houver show na sua data",
+      "Saia antes do último bis ou espere 40 min: a dispersão de 18 mil pessoas é lenta",
+      "Não há programação fixa: só vale a pena se houver show na sua data"
+    ],
+    "alertas": [
+      "Site e telefone vêm de ficha enciclopédica, não verifiquei se estão ativos",
+      "Sem preço e sem horário: variam por evento",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-a-noite-da-rua-do-amparo-e-do-alto-da-se-olinda",
+    "fontes": [
+      {
+        "url": "https://www.360meridianos.com/bares-olinda/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/alto-da-se-olinda.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "A noite da Rua do Amparo e do Alto da Sé (Olinda)",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "bares",
+      "boteco",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "olinda"
+    ],
+    "descricaoCurta": "Polo de rua de Olinda: ladeira do Amparo com bares em casarão, subindo para as barracas de tapioca do Alto da Sé e a vista do Recife iluminado.",
+    "descricaoLonga": "Bate-volta de Recife. O circuito noturno de Olinda caminha por si: do Largo do Varadouro você sobe a Rua do Amparo - casario colorido, galeria de arte, bodega e bar com mesa na calçada, incluindo a Bodega de Véio - e chega ao Alto da Sé, onde cerca de 40 barracas de tapioca funcionam ao lado da Catedral da Sé com a vista do Cais do Recife lá embaixo. É o programa de fim de tarde que vira noite: tapioca de queijo coalho com um caldinho, cerveja na laje, violão sem palco. QUE NOITE ENCHE: as fontes não trazem dia da semana, e a verdade é que fora de sexta e sábado, de carnaval e de temporada, Olinda alta esvazia cedo. O QUE NÃO CONFIRMEI: nenhum horário oficial das barracas de tapioca, nenhum preço, nenhum nome de casa com programação musical regular - e por isso NÃO vou listar bar que não verifiquei. Segurança sem exagero e sem omissão: as ladeiras são escuras e sem movimento entre um largo e outro; faça o trecho a pé só enquanto há gente na rua e peça carro de app no Alto da Sé ou no Carmo, que são os pontos onde o motorista chega.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ladeira íngreme de paralelepípedo",
+        "Trechos escuros entre largos"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "Faça a subida com luz do dia e fique no Alto da Sé para o pôr do sol; a descida é que pede carro",
+      "Fora de sexta, sábado e temporada, confirme se há movimento antes de subir",
+      "Faça a subida com luz do dia e fique no Alto da Sé para o pôr do sol; a descida é que pede carro",
+      "Fora de sexta, sábado e temporada, confirme se há movimento antes de subir"
+    ],
+    "alertas": [
+      "Nenhum horário, preço ou dia de programação confirmado",
+      "Ladeiras vazias e escuras entre largos: não faça o trecho sozinho de madrugada",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-rec-sao-joao-do-recife-arraiais-do-patio-de-sao-pedro-e",
+    "fontes": [
+      {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2025/06/7792884-sao-pedro-recife-tem-158-atracoes-em-oito-arraiais.html"
+      },
+      {
+        "url": "https://www.folhape.com.br/cultura/passeios-do-olha-recife-embalam-no-clima-de-forrobodo/233014/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "São João do Recife: arraiais do Pátio de São Pedro e do Sítio da Trindade",
+    "cidadeId": "recife",
+    "categoria": "experiencia",
+    "tags": [
+      "sao-joao",
+      "forro",
+      "musica-ao-vivo",
+      "gratuito",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Em junho o Recife monta oito arraiais gratuitos, com 158 atrações na virada de São Pedro. Os dois endereços que importam a pé são o Pátio de São Pedro e o Sítio da Trindade.",
+    "descricaoLonga": "Junho é quando o forró deixa de ser casa noturna e vira cidade. A Prefeitura do Recife monta vários polos simultâneos - em 2025 foram oito arraiais e 158 atrações só na virada de São Pedro - e os dois que o visitante alcança a pé ou com carro de app curto são o Pátio de São Pedro (São José, centro) e o Sítio da Trindade (Casa Amarela), este último com palco principal e um segundo palco chamado Sala de Reboco, dedicado a trio pé de serra. Também existe o BRT do Forró do programa Olha! Recife, ônibus que leva do centro aos arraiais com inscrição gratuita pelo site olharecife.com.br. DATAS: São João é 24 de junho e São Pedro 29 de junho, fixos todo ano, e a programação do Recife normalmente cobre a primeira quinzena inteira até o fim do mês - mas a programação de 2027 e 2028 NÃO está publicada, e quem diz data e atração agora está chutando. O que NÃO confirmei: horário de abertura dos polos, se há cobrança em algum deles (os arraiais municipais são historicamente gratuitos, mas não achei a declaração oficial para registrar como fato) e se o Sítio da Trindade mantém a Sala de Reboco nas próximas edições.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Pátio de São Pedro (São José) e Sítio da Trindade (Casa Amarela), Recife - PE",
+      "site": "https://www.olharecife.com.br"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evento de rua lotado em junho, mês de chuva forte no litoral pernambucano"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Junho é o mês mais chuvoso do Recife: leve capa, não guarda-chuva, para arraial",
+      "O BRT do Forró do Olha! Recife resolve o transporte para o Sítio da Trindade, que é longe do centro",
+      "Junho é o mês mais chuvoso do Recife: leve capa, não guarda-chuva, para arraial",
+      "O BRT do Forró do Olha! Recife resolve o transporte para o Sítio da Trindade, que é longe do centro"
+    ],
+    "alertas": [
+      "Programação de 2027 e 2028 não publicada: só as datas de 24 e 29 de junho são fixas",
+      "Não confirmei gratuidade em declaração oficial, apesar de serem arraiais municipais",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "br-rec-marco-zero-e-praca-rio-branco",
     "fontes": [
       {

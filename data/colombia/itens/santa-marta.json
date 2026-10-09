@@ -3285,6 +3285,10 @@
       },
       {
         "url": "https://www.afar.com/places/santa-marta-market-santa-marta"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/686929968",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -3380,6 +3384,11 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 11.24542,
+      "lng": -74.205776
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   }
 ]

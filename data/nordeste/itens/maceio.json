@@ -1,5 +1,305 @@
 [
   {
+    "id": "br-mcz-polo-de-bares-da-jatiuca-av-antonio-gomes-de-barros",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-de-maceio-143-1507-p.html"
+      },
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/city-breaks/o-que-fazer-a-noite-em-maceio.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Polo de bares da Jatiúca (Av. Antônio Gomes de Barros)",
+    "cidadeId": "maceio",
+    "categoria": "experiencia",
+    "tags": [
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "boteco"
+    ],
+    "descricaoCurta": "O endereço da noite de Maceió não é a praia: é a antiga Avenida Amélia Rosa, hoje Antônio Gomes de Barros, na Jatiúca, com bares e choperias colados um no outro.",
+    "descricaoLonga": "Quem se hospeda em Pajuçara ou Ponta Verde e procura noite acaba descobrindo que o polo não é na orla, e sim uma rua para dentro: a Jatiúca, principalmente na avenida que todo mundo ainda chama de Amélia Rosa e hoje se chama Antônio Gomes de Barros. Ali ficam restaurantes, bares e choperias em sequência, do tipo que você escolhe a pé. As fontes nominam a Alagoana Choperia, com chope e porções, e o Boteco Lugar Nenhum, que costuma ter banda tocando. UMA REGRA DE PREÇO QUE VALE PARA MACEIÓ INTEIRA e que você precisa saber antes de sentar: a maioria dos restaurantes, bares e barracas de praia da cidade tem música ao vivo, e quando tem, entra COUVERT ARTÍSTICO na conta - pergunte o valor antes, porque ele não aparece no cardápio. O QUE NÃO CONFIRMEI: valor do couvert (nenhuma fonte publica), endereço com número, horário e telefone de nenhuma das casas, e qual noite enche. As fontes são guias de viagem; não achei imprensa alagoana cobrindo a noite da Jatiúca nesta sessão. Caminhável entre os bares da avenida, não entre a avenida e a orla à noite.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Antônio Gomes de Barros (antiga Amélia Rosa) - Jatiúca, Maceió - AL"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Pergunte o valor do couvert artístico ANTES de sentar: em Maceió ele é a regra, não a exceção",
+      "Escolha a pé pela avenida: não vale pegar carro entre uma casa e outra",
+      "Pergunte o valor do couvert artístico ANTES de sentar: em Maceió ele é a regra, não a exceção",
+      "Escolha a pé pela avenida: não vale pegar carro entre uma casa e outra"
+    ],
+    "alertas": [
+      "Valor do couvert artístico não publicado em nenhuma fonte",
+      "Sem endereço com número, horário ou dia de pico confirmados",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-mcz-lopana-ponta-verde",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-de-maceio-143-1507-p.html"
+      },
+      {
+        "url": "https://www.viciadaemviajar.com/onde-comer-em-maceio/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Lopana (Ponta Verde)",
+    "cidadeId": "maceio",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "praia",
+      "boteco"
+    ],
+    "descricaoCurta": "Barraca de praia da Ponta Verde que vira bar de noite: lounge, drinks e programação musical que muda a cada dia, com couvert quando tem banda.",
+    "descricaoLonga": "Av. Sílvio Carlos Viana, 27, Ponta Verde - endereço publicado pela fonte. É uma das barracas mais movimentadas da orla de Maceió e tem a vantagem prática de servir o dia inteiro e esticar para a noite: você pode ficar do banho de mar ao primeiro drink sem trocar de lugar. As fontes dizem que a programação noturna VARIA A CADA NOITE, inclusive no estilo musical, e que quando há música ao vivo costuma-se cobrar couvert. Perfil de ambiente lounge com mesa e cadeira boas, não de pista de dança. O QUE NÃO CONFIRMEI: horário de funcionamento, dias com banda, valor do couvert, preço médio de consumo e telefone. As fontes são guias de viagem; nenhuma oficial. Fica em Ponta Verde, bairro com policiamento visível e calçadão movimentado - o trecho da orla é caminhável até mais tarde, mas a faixa de areia não é.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Sílvio Carlos Viana, 27 - Ponta Verde, Maceió - AL"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Pergunte se tem banda e qual o couvert antes de sentar",
+      "Dá para emendar tarde de praia e noite no mesmo lugar, o que economiza um deslocamento",
+      "Pergunte se tem banda e qual o couvert antes de sentar",
+      "Dá para emendar tarde de praia e noite no mesmo lugar, o que economiza um deslocamento"
+    ],
+    "alertas": [
+      "Horário, dias com música e valor de couvert não confirmados",
+      "Fontes são guias de viagem, nenhuma oficial nem imprensa local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mcz-maikai-forro-e-choperia-em-maceio",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-de-maceio-143-1507-p.html"
+      },
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/city-breaks/o-que-fazer-a-noite-em-maceio.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Maikai (forró e choperia em Maceió)",
+    "cidadeId": "maceio",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "A casa de forró de Maceió, dividida em dois ambientes: show bar com banda ao vivo de um lado, choperia do outro. Uma das mais concorridas da noite da cidade.",
+    "descricaoLonga": "Entra no banco porque é o nome que aparece em todas as listas de 'onde dançar forró em Maceió' e porque o formato é o que interessa: a casa é dividida em DUAS PARTES - a área de show bar, com banda ao vivo, e a choperia -, o que permite ir só beber ou ir dançar. A programação é descrita como diversificada, não só forró. O QUE NÃO CONFIRMEI, e é praticamente tudo o que você precisaria para ir: endereço (nenhuma das fontes publica rua e número), bairro, telefone, dias de funcionamento, horário, preço de ingresso e valor de couvert. Não abri página oficial da casa nem achei matéria de imprensa alagoana sobre ela. Por isso a confiança está rebaixada e NÃO registro contato nem horário. Trate como pista: pesquise o endereço atual antes de pedir o carro. Vale o aviso geral de Maceió: onde tem música ao vivo, tem couvert artístico na conta - pergunte o valor antes.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Idade mínima assumida pelo tipo de casa, não confirmada"
+      ],
+      "idadeMinima": 18,
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Confirme endereço e dia atuais antes de ir: nenhuma fonte que eu abri publica isso",
+      "Se quiser só beber, fique na choperia; o show bar é que cobra e enche",
+      "Confirme endereço e dia atuais antes de ir: nenhuma fonte que eu abri publica isso",
+      "Se quiser só beber, fique na choperia; o show bar é que cobra e enche"
+    ],
+    "alertas": [
+      "SEM endereço, telefone, dias, horário ou preço em nenhuma fonte - item de pista, não de roteiro",
+      "Couvert artístico provável e não publicado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-mcz-sao-joao-raiz-de-maceio-e-o-trem-do-forro",
+    "fontes": [
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/dorgival-karisma-baby-som-e-mais-veja-a-programacao-do-sao-joao-raiz-em-maceio/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "São João Raiz de Maceió e o Trem do Forró",
+    "cidadeId": "maceio",
+    "categoria": "experiencia",
+    "tags": [
+      "sao-joao",
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca"
+    ],
+    "descricaoCurta": "Em junho Maceió monta sete polos com mais de 150 atrações: coco de roda, quadrilha junina e trio de forró, mais o Trem do Forró rodando nos sábados do mês.",
+    "descricaoLonga": "A edição de 2026, coberta pelo TNH1 em 5 de junho, dá o retrato: São João Raiz de 6 a 30 de JUNHO, com mais de 150 apresentações culturais distribuídas em sete locais. Os polos e datas publicados: Polo Dois Leões com forró, quadrilha e artistas locais todos os dias de 10 a 21 de junho; Festival Municipal de Coco de Roda e Quadrilhas Juninas, com os festivais de quadrilha de 10 a 15 e os de coco de roda de 16 a 21 de junho; Teatro Homerinho em 12 e 13 de junho (a partir das 19h e das 21h); Estacionamento Marcílio Dias de 22 a 28 de junho; Marco dos Corais em 30 de junho, com encontro de sanfoneiros no Dia do Sanfoneiro Alagoano; e o TREM DO FORRÓ nos dias 6, 13, 20 e 27 de junho - sábados. A abertura foi em 5 de junho às 19h, com cortejo do Rex até a Praça dos Leões. O coco de roda é a parte que não se encontra em outro lugar do Nordeste: aproveite. O QUE NÃO CONFIRMEI: se é gratuito (a matéria não afirma, e eu não vou afirmar por ela), horários da maioria dos polos, e nada sobre 2027 ou 2028 - a Prefeitura não publicou. Só as datas de São João (24 de junho) e São Pedro (29 de junho) são fixas.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Polo Dois Leões, Praça dos Leões, Teatro Homerinho, Estacionamento Marcílio Dias e Marco dos Corais - Maceió - AL"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Junho é mês chuvoso no litoral alagoano"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Procure o Festival de Coco de Roda (16 a 21 de junho em 2026): é a manifestação mais alagoana da festa",
+      "O Trem do Forró roda nos sábados de junho - confirme a venda de lugar, que a matéria não detalha",
+      "Procure o Festival de Coco de Roda (16 a 21 de junho em 2026): é a manifestação mais alagoana da festa",
+      "O Trem do Forró roda nos sábados de junho - confirme a venda de lugar, que a matéria não detalha"
+    ],
+    "alertas": [
+      "Gratuidade NÃO confirmada: a matéria não diz",
+      "Nada publicado para 2027 e 2028; só 24 e 29 de junho são datas fixas",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-mcz-teatro-deodoro-maceio",
+    "fontes": [
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/musica-teatro-e-danca-sao-destaques-da-programacao-do-complexo-teatro-deodoro/"
+      },
+      {
+        "url": "https://www.tnh1.com.br/noticia/nid/projeto-solidart-realiza-mais-um-show-beneficente-no-teatro-deodoro/"
+      },
+      {
+        "url": "https://www.tribunadosertao.com.br/geral/2014/04/11/153024-espetaculo-de-danca-explora-as-varias-formas-de-se-encontrar"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teatro Deodoro (Maceió)",
+    "cidadeId": "maceio",
+    "categoria": "experiencia",
+    "tags": [
+      "teatro",
+      "show",
+      "musica-ao-vivo",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Patrimônio cultural de Alagoas com mais de 110 anos, no centro de Maceió: o palco oficial do estado, com música, teatro e dança e ingresso pelo site do governo.",
+    "descricaoLonga": "Rua Barão de Maceió, s/n, Centro, Maceió - AL, CEP 57020. Telefone (82) 3315-5650 (as fontes também citam 3315-5665/5656). É chamado de palco oficial de Alagoas e Casa do artista alagoano, com mais de 110 anos de história, e a programação mistura música, teatro e dança. Os ingressos são vendidos pelo site do Governo de Alagoas (diteal.al.gov.br, na seção de programação), pelo aplicativo no mesmo endereço, na bilheteria física do teatro e também por plataforma de eventos. É a resposta para 'noite em Maceió quando está chovendo' - e junho, mês de São João, é justamente o mês mais chuvoso. O QUE NÃO CONFIRMEI: preço (varia por espetáculo e não há tabela), horário da bilheteria física e se há programação em todos os dias da semana. Centro de Maceió à noite é vazio fora do horário do espetáculo: chegue e saia de carro de app.",
+    "duracao": {
+      "min": 90,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "link": "https://diteal.al.gov.br"
+    },
+    "contato": {
+      "telefone": "+55 82 3315-5650",
+      "endereco": "Rua Barão de Maceió, s/n - Centro, Maceió - AL",
+      "site": "https://diteal.al.gov.br"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "É o plano B de noite de chuva, que em Maceió é frequente entre abril e julho",
+      "Compre pelo site do governo: é o canal oficial citado pelas fontes",
+      "É o plano B de noite de chuva, que em Maceió é frequente entre abril e julho",
+      "Compre pelo site do governo: é o canal oficial citado pelas fontes"
+    ],
+    "alertas": [
+      "Preço varia por espetáculo; não há tabela",
+      "Horário da bilheteria física não confirmado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "br-mcz-piscinas-naturais-de-pajucara-passeio-de-jangada",
     "fontes": [
       {

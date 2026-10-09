@@ -2242,7 +2242,7 @@
     ]
   },
   {
-    "id": "mx-sct-mercado-jose-castillo-tielemans-mercado-municipal-de",
+    "id": "mx-sct-el-alebrije-cocina-popular-san-cristobal",
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
@@ -2250,29 +2250,28 @@
     ],
     "coletadoEm": "2026-10-09",
     "confianca": "parcial",
-    "nome": "Mercado Jose Castillo Tielemans (mercado municipal de San Cristobal)",
+    "nome": "El Alebrije (Cocina Popular, San Cristobal)",
     "cidadeId": "san-cristobal",
     "categoria": "restaurante",
     "tags": [
-      "mercado",
       "comida-barata",
-      "antojitos",
-      "tamales",
-      "indigena"
+      "comida-corrida",
+      "cocina-popular",
+      "chiapaneco"
     ],
     "coords": {
-      "lat": 16.7436,
-      "lng": -92.6362
+      "lat": 16.745009,
+      "lng": -92.6355517
     },
-    "descricaoCurta": "O mercado diario da General Utrilla, onde chegam as aldeias vizinhas: comedores com tamal de cafe da manha e sopa de pan que restaurante de turista nao faz.",
-    "descricaoLonga": "Mercado diario na General Utrilha, ao norte do centro, para onde vem gente das aldeias ao redor vender e comprar de erva a galinha viva. A Wikivoyage e direta: 'o mercado tambem e um otimo lugar para comida regional autentica a preco de comida de rua', recomenda COMER TAMAL NO CAFE DA MANHA e diz que a SOPA DE PAN - especialidade local - 'provavelmente voce nao vai achar em nenhum restaurante que atenda turista; voce acha nos comedores do mercado. Essa e a melhor comida da cidade'. A fonte tambem avisa que em certas epocas do ano se consomem insetos de varias formas e que vale prestar atencao nas bancas. Horario listado: 'do amanhecer ao anoitecer'. NAO CONSEGUI CONFIRMAR horario em numeros nem faixa de preco. Mercados indigenas de Chiapas: NAO FOTOGRAFE pessoas sem pedir - e questao seria em San Juan Chamula e no entorno.",
+    "descricaoCurta": "Cocina popular na Calle El Caminero, perto do mercado: refeicao mexicana barata com menu que muda todo dia. Seg-sab.",
+    "descricaoLonga": "Wikivoyage: 'favorito local perto de toda a movimentacao do mercado, servindo refeicoes mexicanas baratas que ficam otimas. O prato principal do menu muda quase todos os dias.' Fica na Calle El Caminero, perto do supermercado Isste, no caminho do mercado municipal. Horario listado: SEGUNDA A SABADO, sem horas - a fonte nao diz a que horas abre nem fecha. Domingo nao consta: desconhecido, nao fechado. NAO CONSEGUI CONFIRMAR preco. Isto preenche um buraco real: o banco de San Cristobal tem tres cafes e tres bares, mas NENHUM restaurante. O prato local que vale procurar nos comedores do mercado e a SOPA DE PAN, que a fonte diz que nao se acha em restaurante de turista.",
     "duracao": {
-      "min": 45,
-      "tipica": 70,
-      "max": 100
+      "min": 40,
+      "tipica": 60,
+      "max": 85
     },
     "diasFechados": [],
-    "melhorHorario": "Manha cedo: e quando chega a comida das aldeias e quando os comedores servem tamal.",
+    "melhorHorario": "Horario de almoco (13:00-15:00), quando a cocina popular serve o prato do dia.",
     "reserva": {
       "necessaria": false
     },
@@ -2280,98 +2279,19 @@
     "imagens": [],
     "agendavel": true,
     "restricoes": {
-      "outras": [
-        "Nao fotografe pessoas nem bancas sem permissao - restricao cultural forte na regiao de Chiapas."
-      ],
-      "dependeDeClima": true,
-      "dependeDeLuzDoDia": true
-    },
-    "selos": [
-      "depende-do-clima",
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: a propria fonte diz que a melhor comida da cidade esta nos comedores deste mercado.",
-      "Peca sopa de pan - e o prato que nao existe no circuito turistico da Real de Guadalupe.",
-      "Na sabado, a fonte diz que muitas casas vendem tamal na propria porta; procure a luz vermelha."
-    ],
-    "alertas": [
-      "Horario em numeros e preco NAO confirmados (a fonte diz apenas 'dawn to dusk')."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
-    "id": "mx-sct-la-vina-de-bacco-e-o-pox-de-chiapas",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "La Vina de Bacco (e o pox de Chiapas)",
-    "cidadeId": "san-cristobal",
-    "categoria": "bar",
-    "tags": [
-      "bares",
-      "vinho",
-      "pox",
-      "vida-noturna",
-      "tapas"
-    ],
-    "coords": {
-      "lat": 16.7374,
-      "lng": -92.63612
-    },
-    "descricaoCurta": "Bar de vinho sem pretensao na Real de Guadalupe 7, taca a partir de M$35 e TAPA DE GRACA com cada taca. Seg-sab ate meia-noite.",
-    "descricaoLonga": "Wikivoyage: 'bar de vinho com boa selecao de vinhos e cervejas, varios mexicanos. Tapas de graca sao servidas com cada taca.' Fica na Real de Guadalupe 7, a rua de bar e restaurante de San Cristobal, aberto de segunda a sabado das 14:00 a meia-noite, com taca a partir de M$35. DOMINGO NAO CONSTA - desconhecido, nao fechado. POX (pronuncia-se 'poch'): a mesma fonte registra que 'a bebida local aqui e o pox ou posh, destilado forte de cana, usado tradicionalmente para cura e para festa, servido frequentemente em PONCHE - um punch quente de abacaxi ou fruta com um pao especial partido dentro'. NAO CONSEGUI CONFIRMAR um endereco com horario e preco para provar pox: a imprensa cita a Posheria em San Cristobal, mas nao achei endereco, horario nem preco em fonte publicavel, e a fonte da Wikivoyage diz apenas que aguardentes como o pox se acham no MERCADO e com vendedores de rua pela cidade.",
-    "duracao": {
-      "min": 60,
-      "tipica": 90,
-      "max": 130
-    },
-    "horariosObservacao": "14:00-24:00",
-    "diasFechados": [],
-    "preco": {
-      "moeda": "MXN",
-      "min": 35,
-      "max": 35,
-      "por": "pessoa",
-      "inclui": "Taca de vinho a partir de M$35, segundo a fonte, com tapa inclusa. Sem data de coleta na pagina.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 967 119 1985"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico."
-      ]
+      "outras": []
     },
     "selos": [
       "vale-cada-peso"
     ],
     "dicas": [
-      "VALE CADA PESO: taca de M$35 com tapa de graca e o melhor custo-beneficio de noite em San Cristobal.",
-      "Para provar POX, pergunte no mercado municipal ou numa loja de especialidades (a fonte cita o Marchante Mercadito Culinario, Real de Guadalupe 28, 11:00-22:00) - nao achei bar com horario confirmado.",
-      "Truque barato da fonte: nas cantinas de San Cristobal, pedir uma cerveja no almoco vem com um pratinho de comida da casa de brinde."
+      "VALE CADA PESO: cocina popular com menu do dia e o almoco mais barato do centro.",
+      "Pergunte se tem sopa de pan - e a especialidade chiapaneca que o circuito turistico nao faz.",
+      "Fica a caminho do mercado municipal: faca os dois na mesma manha."
     ],
     "alertas": [
-      "Horario de domingo nao consta (desconhecido, nao fechado).",
-      "Nao consegui confirmar endereco, horario nem preco de nenhuma poxeria - a indicacao de onde provar pox fica propositalmente generica."
+      "Horario em horas e preco NAO confirmados (a fonte so diz 'Mon-Sat').",
+      "Domingo nao consta na fonte (desconhecido, nao fechado)."
     ],
     "gastronomia": {
       "tipoCozinha": [],

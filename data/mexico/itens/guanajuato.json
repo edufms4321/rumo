@@ -1551,120 +1551,6 @@
     ]
   },
   {
-    "id": "mx-gto-mercado-hidalgo-guanajuato",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Mercado Hidalgo (Guanajuato)",
-    "cidadeId": "guanajuato",
-    "categoria": "restaurante",
-    "tags": [
-      "mercado",
-      "comida-barata",
-      "enchiladas-mineras",
-      "antojitos"
-    ],
-    "coords": {
-      "lat": 21.0174922,
-      "lng": -101.2576966
-    },
-    "descricaoCurta": "Mercado de ferro da Av. Juarez, 09:00-17:00: enchiladas mineras, huaraches e pambazo com prato principal por M$60-80.",
-    "descricaoLonga": "O mercado de estrutura de ferro da Av. Benito Juarez e o endereco de comida barata de Guanajuato. Wikivoyage: 'otimo lugar para achar grande variedade de pratos regionais a preco acessivel', com ENCHILADAS MINERAS (o prato da cidade, de origem das minas) e enchiladas cervantinas, alem de huaraches e pambazo; prato principal por M$60-80, e tambem comedores no segundo andar, com foto dos pratos expostos. Horario listado: 09:00-17:00 (listagem de 02/2023). Para comida ainda mais barata, a fonte aponta as bancas em torno do Mercado Embajadoras: tlacoyos por M$10 e sopes/gorditas por M$15, de 11:30 as 17:00; e uma banca de tamal por M$8 cada, 18:30-21:00, na esquina da Del Campanero com a Cantarranas (dados de 2021).",
-    "duracao": {
-      "min": 40,
-      "tipica": 60,
-      "max": 90
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ],
-      "dom": [
-        {
-          "abre": "09:00",
-          "fecha": "17:00"
-        }
-      ]
-    },
-    "horariosObservacao": "09:00-17:00",
-    "diasFechados": [],
-    "preco": {
-      "moeda": "MXN",
-      "min": 60,
-      "max": 80,
-      "por": "pessoa",
-      "inclui": "Prato principal, segundo a fonte (listagem de fevereiro de 2023). Bebida nao incluida.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://en.wikivoyage.org/wiki/Guanajuato"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: enchiladas mineras por M$60-80 no mercado contra o dobro no Jardin de la Union.",
-      "Fecha as 17:00: nao serve de jantar. Para jantar barato, as bancas da Cantarranas abrem 18:30.",
-      "Guanajuato e toda ladeira e callejon - este mercado fica na parte baixa, perto do tunel; use-o como parada de almoco entre subidas."
-    ],
-    "alertas": [
-      "Fecha as 17:00.",
-      "Precos das bancas do Embajadoras sao de 2021 - desatualizados."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
     "id": "mx-gto-fante-bar-o-pulque-de-guanajuato",
     "fontes": [
       {
@@ -1716,6 +1602,123 @@
     "alertas": [
       "Horario e preco NAO confirmados.",
       "A propria pagina da fonte marca como provavelmente fechados outros bares da cidade - a cena noturna de Guanajuato gira rapido."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gto-sabritas-enchiladas-mineras-de-noite-guanajuato",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Sabritas (enchiladas mineras de noite, Guanajuato)",
+    "cidadeId": "guanajuato",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-barata",
+      "enchiladas-mineras",
+      "antojitos",
+      "comida-de-rua"
+    ],
+    "coords": {
+      "lat": 21.016441,
+      "lng": -101.255197
+    },
+    "descricaoCurta": "Na De La Luz 3, perto do Callejon del Beso, 18:30-23:00: enchiladas M$12, tacos M$14, sopes M$12, quesadilla M$20, pambazo M$35.",
+    "descricaoLonga": "Casa de antojitos no centro, na rua De La Luz 3, perto do Callejon del Beso e do caminho do mirante do Pipila. A Wikivoyage traz a TABELA DE PRECOS por item - o que e raro e valioso: enchiladas M$12, tacos M$14, molletes M$15, sopes M$12, quesadillas M$20 e pambazo M$35 (listagem de dez/2021, sem dia da semana declarado). Horario: 18:30-23:00. Isto resolve o problema do jantar em Guanajuato: o Mercado Hidalgo, que ja esta no banco, fecha as 17:00. ATENCAO: os precos sao de dezembro de 2021 - esperem valores mais altos hoje; use a tabela como PROPORCAO (enchilada custa menos que a quesadilla) e nao como valor atual.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 65
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "18:30",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "18:30-23:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 12,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "Por item, segundo a fonte (dez/2021): enchiladas M$12, sopes M$12, tacos M$14, molletes M$15, quesadillas M$20, pambazo M$35.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guanajuato"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "VALE CADA PESO: antojito por M$12-35 e o jantar mais barato do Bajio com fonte.",
+      "O Mercado Hidalgo fecha as 17:00 - este e o endereco de JANTAR em Guanajuato.",
+      "Peca ENCHILADAS MINERAS: e o prato da cidade, de origem das minas de prata.",
+      "CORTE SE APERTAR: nada a cortar aqui - e o contrario, e o item que segura o orcamento."
+    ],
+    "alertas": [
+      "Precos de dezembro de 2021 - desatualizados; use como proporcao, nao como valor.",
+      "A fonte nao declara os dias da semana do horario 18:30-23:00."
     ],
     "gastronomia": {
       "tipoCozinha": [],

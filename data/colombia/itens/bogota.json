@@ -2249,6 +2249,10 @@
       },
       {
         "url": "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/710583131",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -2313,7 +2317,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 4.645184,
+      "lng": -74.063889
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-bog-galeria-cafe-libro-parque-de-la-93-salsa-ao-vivo-ha",
@@ -2326,6 +2335,10 @@
       },
       {
         "url": "https://www.elespectador.com/entretenimiento/galeria-cafe-libro-prende-la-rumba-en-el-parque-de-la-93/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1735515383",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -2372,7 +2385,8 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-bog-casa-quiebracanto-salsa-no-centro-de-bogota",
@@ -2895,6 +2909,10 @@
       },
       {
         "url": "https://radionacional.co/cultura/tradiciones/mercado-artesanal-del-claustro-bogota-fechas"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3755347684",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -2935,7 +2953,8 @@
     ],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "co-bog-museo-internacional-de-la-esmeralda-bogota",

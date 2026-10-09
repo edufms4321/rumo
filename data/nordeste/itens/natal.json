@@ -1083,5 +1083,489 @@
     ],
     "dicas": [],
     "alertas": []
+  },
+  {
+    "id": "br-nat-forro-com-turista-centro-de-turismo-de-natal",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/centro-de-turismo-de-natal-20-199-l.html"
+      },
+      {
+        "url": "https://agorarn.com.br/ultimas/natal-tem-atracoes-para-todos-os-gostos-esse-fim-de-semana-confira-a-agenda/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Forró com Turista (Centro de Turismo de Natal)",
+    "cidadeId": "natal",
+    "categoria": "experiencia",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca"
+    ],
+    "descricaoCurta": "No casarão do século 19 que já foi orfanato e penitenciária, trios pé de serra e repentistas tocam para turista aprender a dançar forró. Noite semanal, 22h à 1h.",
+    "descricaoLonga": "É o programa de forró mais antigo e mais explicitamente turístico de Natal, no Centro de Turismo, Rua Aderbal de Figueiredo, 980, Petrópolis - um casarão do século 19 que foi orfanato, residência e penitenciária antes de virar centro de artesanato. O formato: trio pé de serra ao vivo (sanfona, zabumba, triângulo), baião e repentista, e os músicos puxam o visitante para a pista. Horário citado: 22h à 1h. ATENÇÃO - AS FONTES DIVERGEM NO DIA DA SEMANA: o guia Melhores Destinos diz que é toda QUINTA; a agenda cultural do Agora RN, numa edição de 2019, listou o Forró com Turista numa SEXTA, 22h-1h. Não achei página oficial da Setur-RN nem da Prefeitura de Natal nesta sessão para desempatar, então NÃO registro dia da semana no banco - confirme na portaria do Centro de Turismo no dia em que chegar, que é ali mesmo na cidade. O QUE TAMBÉM NÃO CONFIRMEI: preço de entrada e se há consumação. Petrópolis é bairro central e tranquilo de dia; às 22h chegue de carro de app.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Aderbal de Figueiredo, 980 - Petrópolis, Natal - RN"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "Confirme o dia na portaria do Centro de Turismo: as fontes brigam entre quinta e sexta",
+      "Vá sem vergonha de não saber dançar: o formato existe para isso",
+      "Confirme o dia na portaria do Centro de Turismo: as fontes brigam entre quinta e sexta",
+      "Vá sem vergonha de não saber dançar: o formato existe para isso"
+    ],
+    "alertas": [
+      "DIA DA SEMANA NÃO CONFIRMADO: uma fonte diz quinta, outra diz sexta",
+      "Preço de entrada e consumação não encontrados",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-nat-rastape-casa-de-forro-ponta-negra",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/cultura/agenda-natal-fim-de-semana/"
+      },
+      {
+        "url": "https://www.guiadasemana.com.br/baladas/noticia/bares-e-baladas-em-natal"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Rastapé Casa de Forró (Ponta Negra)",
+    "cidadeId": "natal",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "A casa de forró de Ponta Negra, com três ambientes e cinco bares: trio pé de serra e repentista cedo, banda de forró eletrônico depois das 22h.",
+    "descricaoLonga": "É a casa de forró que a agenda cultural do Agora RN continua listando em 2026 - o que importa dizer, porque muito do que se lê sobre a noite de Natal na internet é de 2013. Fica em Ponta Negra, o bairro onde a maioria dos turistas se hospeda, e tem o formato de duas noites numa: a agenda de 26 de setembro de 2026 traz Luciano Melo a partir das 19h30 com ENTRADA GRATUITA e, mais tarde, Harlyson Freire, Banda Líbanos e Banda Styllus a partir das 22h com venda em bilheteria. Ou seja: cedo é pé de serra e de graça, depois das 22h vira show de forró eletrônico pago. Descrições mais antigas falam de três ambientes, cinco bares, repentistas e trios de sanfoneiros ao vivo. O QUE NÃO CONFIRMEI: endereço com número (nenhuma fonte publicou), telefone, site, e o valor da bilheteria noturna - a agenda diz apenas 'bilheteria'. Ponta Negra é caminhável, mas a Via Costeira e a subida do bairro não: carro de app na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Ponta Negra, Natal - RN (número não publicado pelas fontes)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Chegue às 19h30 se quiser o pé de serra de graça; às 22h vira show pago",
+      "Confirme na porta o valor da bilheteria: nenhuma fonte publica",
+      "Chegue às 19h30 se quiser o pé de serra de graça; às 22h vira show pago",
+      "Confirme na porta o valor da bilheteria: nenhuma fonte publica"
+    ],
+    "alertas": [
+      "Endereço com número e telefone não encontrados",
+      "Valor da bilheteria noturna não publicado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-nat-beco-da-lama-boemia-e-samba-no-centro-historico-de-n",
+    "fontes": [
+      {
+        "url": "https://portaln10.com.br/brasil/beco-da-lama-e-reconhecido-como-patrimonio-cultural-imaterial-do-rio-grande-do-norte-312357/"
+      },
+      {
+        "url": "https://agorarn.com.br/ultimas/natal-tem-atracoes-para-todos-os-gostos-esse-fim-de-semana-confira-a-agenda/"
+      },
+      {
+        "url": "https://www.brasildefato.com.br/2020/02/01/beco-da-lama-os-limites-da-revitalizacao-no-espaco-cultural-de-natal-rn/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Beco da Lama (boemia e samba no centro histórico de Natal)",
+    "cidadeId": "natal",
+    "categoria": "experiencia",
+    "tags": [
+      "samba",
+      "bares",
+      "boteco",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "carnaval"
+    ],
+    "descricaoCurta": "Patrimônio Cultural Imaterial do RN: beco de botecos no centro histórico, ponto de artista, músico e poeta, com blocos de rua, grafite e samba de calçada.",
+    "descricaoLonga": "Este é o endereço honesto de 'noite de rua' em Natal, e é o oposto da orla: um beco no centro histórico, reconhecido oficialmente como Patrimônio Cultural Imaterial do Rio Grande do Norte, que concentra botecos, blocos de carnaval, festas de rua e grafite a ponto de virar galeria a céu aberto. É ponto tradicional de encontro de artistas, músicos, jornalistas e poetas, e foi revitalizado em 2019. A agenda do Agora RN (edição de 2019) registrava o 'Hojetemsambanobeco' nos SÁBADOS, das 14h às 17h, GRATUITO - ou seja, o samba ali é de tarde, não de madrugada, e isso muda o seu planejamento. No mesmo eixo da Ribeira funciona o Festival Ribeira Boêmia, projeto de samba que traz nomes nacionais, e casas como o Clube Frisson, na Ribeira. O QUE NÃO CONFIRMEI: se o samba de sábado continua em 2026 (a fonte é de 2019), endereço exato do beco com nome de rua e nenhum preço de bar. Segurança sem rodeio: centro histórico de Natal é área que vive de dia e de fim de tarde e esvazia de madrugada - vá no horário em que há gente, de carro de app, e não ande para a Ribeira a pé no escuro.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Beco da Lama - Cidade Alta (centro histórico), Natal - RN"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evento de rua, em pé"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "O samba forte era de sábado à TARDE (14h-17h), não de madrugada: ajuste a expectativa",
+      "Combine com o Teatro Alberto Maranhão e a Ribeira no mesmo fim de tarde",
+      "O samba forte era de sábado à TARDE (14h-17h), não de madrugada: ajuste a expectativa",
+      "Combine com o Teatro Alberto Maranhão e a Ribeira no mesmo fim de tarde"
+    ],
+    "alertas": [
+      "Horário do samba de sábado vem de agenda de 2019 - pode não existir mais",
+      "Centro histórico esvazia de madrugada: evite o trecho a pé no escuro",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-nat-figa-bar-vila-de-ponta-negra",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/cultura/agenda-natal-fim-de-semana/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Figa Bar (Vila de Ponta Negra)",
+    "cidadeId": "natal",
+    "categoria": "bar",
+    "tags": [
+      "samba",
+      "forro",
+      "musica-ao-vivo",
+      "bares",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Bar da Vila de Ponta Negra com roda de samba no sábado e forró no domingo a partir das 18h - o programa de fim de tarde a pé de quem se hospeda na praia.",
+    "descricaoLonga": "Fica na Vila de Ponta Negra, a parte antiga e caminhável do bairro, logo acima da praia. Entra no banco porque aparece com programação real na agenda cultural do Agora RN de 26 de setembro de 2026: aniversário do Samba Duzé no sábado a partir das 18h, e 'Forró do Figa' com Khrystal no domingo também a partir das 18h. Esse é o ritmo da casa: música brasileira de fim de tarde, não balada de madrugada - e por isso serve bem a quem passou o dia na praia e não quer pegar carro. O QUE NÃO CONFIRMEI: endereço com número, telefone, se há couvert e quanto (a agenda não publica valor para esta casa), e se a programação de samba e forró é toda semana ou só nessas datas.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 270
+    },
+    "horariosObservacao": "a partir das 18:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Vila de Ponta Negra, Natal - RN (número não publicado)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Programa de fim de tarde: às 18h já tem música",
+      "Vá a pé se estiver hospedado em Ponta Negra; é dentro da vila",
+      "Programa de fim de tarde: às 18h já tem música",
+      "Vá a pé se estiver hospedado em Ponta Negra; é dentro da vila"
+    ],
+    "alertas": [
+      "Hora de fechamento não é dado de fonte",
+      "Couvert não publicado; periodicidade da programação não confirmada",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-nat-bardallo-s-cidade-alta",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/cultura/agenda-natal-fim-de-semana/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Bardallo's (Cidade Alta)",
+    "cidadeId": "natal",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "bares",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "Bar com palco na Cidade Alta, centro de Natal, com shows de MPB a partir das 21h e entrada de R$ 10 nos tributos - o preço mais honesto da noite natalense.",
+    "descricaoLonga": "Fica na Cidade Alta, o centro antigo de Natal, e é o tipo de casa que o roteiro turístico padrão não alcança. Entra pela agenda do Agora RN de 26 de setembro de 2026, que registrou o show 'Em nome de Gal' a partir das 21h com entrada de R$ 10 - valor que dá a ordem de grandeza da noite de bar com palco no centro de Natal e serve de régua contra o couvert da orla. O QUE NÃO CONFIRMEI: endereço com número, telefone, dias fixos de programação e horário de funcionamento. Vale o mesmo aviso do Beco da Lama: a Cidade Alta à noite tem movimento concentrado nos bares e vazio entre eles - carro de app na porta, ida e volta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 10,
+      "max": 10,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Entrada de um show específico (tributo a Gal) publicada na agenda do Agora RN em 26/09/2026. Não é tabela da casa."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Cidade Alta, Natal - RN (número não publicado)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Shows começam por volta das 21h",
+      "Confirme o que toca no dia: é casa de pauta, não de programação fixa",
+      "Shows começam por volta das 21h",
+      "Confirme o que toca no dia: é casa de pauta, não de programação fixa"
+    ],
+    "alertas": [
+      "O R$ 10 é de um show específico, não é o preço de toda noite",
+      "Endereço completo e horário de funcionamento não confirmados",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-nat-taverna-pub-praia-dos-artistas-pode-ter-fechado",
+    "fontes": [
+      {
+        "url": "https://www.guiadasemana.com.br/baladas/noticia/bares-e-baladas-em-natal"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Taverna Pub (Praia dos Artistas) - PODE TER FECHADO",
+    "cidadeId": "natal",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "bares",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "Pub de temática medieval na Praia dos Artistas, aberto desde 1997, com duas apresentações ao vivo por noite. ATENÇÃO: só achei fontes de 2014 ou anteriores.",
+    "descricaoLonga": "Registro este item exatamente para você NÃO perder a noite: as descrições que existem dizem que o Taverna, inaugurado em 1997, se consolidou como um dos principais destinos da noite de Natal, com temática medieval na decoração, funcionamento de segunda a sábado e sempre duas apresentações ao vivo por noite - rock, reggae, jazz, samba, chorinho, blues, pop e disco dos anos 1970. O PROBLEMA: a fonte mais recente que encontrei foi atualizada em abril de 2014, e a casa não aparece em nenhuma das agendas culturais de 2026 do Agora RN que eu abri, onde aparecem Rastapé, Figa, Bardallo's, Sempre Rock, Bar 54, Loop Music Pub, Casanova e Whiskritório. Ou seja: suspeito seriamente de fechamento ou de mudança de nome. Confiança rebaixada de propósito. NÃO registro endereço, telefone, dias, horário nem preço - nada disso está em fonte que eu considere válida hoje. Se você quer noite de banda na Praia dos Artistas, confirme no local ou troque pelas casas de Ponta Negra listadas no banco.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Existência atual não confirmada"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Não planeje a noite por este item: confirme por telefone ou rede social antes",
+      "As alternativas verificadas em 2026 estão em Ponta Negra e na Cidade Alta",
+      "Não planeje a noite por este item: confirme por telefone ou rede social antes",
+      "As alternativas verificadas em 2026 estão em Ponta Negra e na Cidade Alta"
+    ],
+    "alertas": [
+      "SUSPEITA DE FECHAMENTO: a fonte mais recente é de 2014 e a casa não aparece nas agendas de 2026",
+      "Nenhum endereço, telefone, horário ou preço registrado por falta de fonte válida",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-nat-teatro-riachuelo-natal",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/cultura/agenda-natal-fim-de-semana/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Teatro Riachuelo Natal",
+    "cidadeId": "natal",
+    "categoria": "experiencia",
+    "tags": [
+      "show",
+      "musica-ao-vivo",
+      "teatro",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "A casa de show sentada de Natal, no Tirol: shows nacionais às 20h e 21h, com ingressos a partir de R$ 60 a R$ 130 nos exemplos publicados.",
+    "descricaoLonga": "Fica no Tirol, bairro central de Natal, e é onde param as turnês nacionais que precisam de palco coberto e poltrona. A agenda do Agora RN de 26 de setembro de 2026 registra dois exemplos úteis de preço e horário: Elba Ramalho num sábado às 21h, ingressos a partir de R$ 130, e Cátia Damasceno num domingo às 20h, a partir de R$ 60. ISSO NÃO É TABELA - cada show tem o seu preço, vendido pelo site do teatro. Use o item para saber que existe casa de show formal em Natal e para checar se tem alguém tocando na sua data; também serve de alternativa de noite em dia de chuva. O QUE NÃO CONFIRMEI: endereço com número, telefone, horário de bilheteria e o site oficial (a fonte menciona 'site do teatro' sem URL).",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 210
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 60,
+      "max": 130,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Faixa dos ingressos mais baratos de dois shows publicados na agenda do Agora RN em 26/09/2026. Varia por espetáculo."
+    },
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {
+      "endereco": "Tirol, Natal - RN"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": false
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "É o plano B de noite em dia de chuva forte, que em Natal acontece entre março e julho",
+      "Compre pelo site do teatro: os valores que achei são 'a partir de'",
+      "É o plano B de noite em dia de chuva forte, que em Natal acontece entre março e julho",
+      "Compre pelo site do teatro: os valores que achei são 'a partir de'"
+    ],
+    "alertas": [
+      "Preços são exemplos de dois shows, não tabela",
+      "Endereço com número, telefone e site não confirmados",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-nat-carnatal-micareta-de-natal",
+    "fontes": [
+      {
+        "url": "https://agorarn.com.br/natal/carnatal-2026-anuncia-18-atracoes/"
+      },
+      {
+        "url": "https://portaln10.com.br/brasil/carnatal-2026-venda-abadas-programacao-351903/"
+      },
+      {
+        "url": "https://www.abcdacomunicacao.com.br/carnatal-anuncia-edicao-de-35-anos-e-amplia-experiencia-para-alem-dos-tres-dias-de-festa/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Carnatal (micareta de Natal)",
+    "cidadeId": "natal",
+    "categoria": "experiencia",
+    "tags": [
+      "carnaval",
+      "axe",
+      "balada",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "A micareta de Natal, 35ª edição de 4 a 6 de dezembro de 2026 na Cidade Carnatal, dentro e em volta da Arena das Dunas, com abadá e camarote vendidos pela Evenyx.",
+    "descricaoLonga": "DATA CONFIRMADA: 4 a 6 de dezembro de 2026, na 'Cidade Carnatal', estrutura montada dentro e no entorno da Arena das Dunas. É a edição dos 35 anos, com tema 'Viva do Seu Jeito' e 18 atrações divididas entre os blocos do Corredor da Folia e o Camarote Skol - Anitta na sexta 4, Banda Grafith e Bell Marques no Corredor da Folia, Wesley Safadão, Rey Vaqueiro e Banda Eva no camarote. A venda de abadás e camarotes foi aberta pela plataforma Evenyx. PARA 2027 NÃO HÁ DATA PUBLICADA: a micareta tem acontecido em dezembro, mas nem a organização nem a Prefeitura anunciaram o calendário do ano seguinte, e eu não vou estimar. O que isso significa para quem planeja: se a sua viagem é em 2027 ou 2028, trate o Carnatal como 'provavelmente em dezembro, a confirmar', não como data de roteiro. O QUE NÃO CONFIRMEI: preço de abadá e de camarote (as matérias anunciam a abertura da venda sem publicar valor), horário de início de cada noite e idade mínima.",
+    "duracao": {
+      "min": 300,
+      "tipica": 420,
+      "max": 600
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true
+    },
+    "contato": {
+      "endereco": "Cidade Carnatal - Arena das Dunas e entorno, Natal - RN"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Micareta com abadá: é festa paga, não carnaval de rua gratuito"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "esgota-rapido"
+    ],
+    "dicas": [
+      "Reserve hospedagem antes do abadá: no fim de semana do Carnatal Natal lota e a diária sobe",
+      "Em 2027 e 2028 confirme a data antes de comprar passagem: ainda não foi publicada",
+      "Reserve hospedagem antes do abadá: no fim de semana do Carnatal Natal lota e a diária sobe",
+      "Em 2027 e 2028 confirme a data antes de comprar passagem: ainda não foi publicada"
+    ],
+    "alertas": [
+      "Datas de 2027 e 2028 NÃO publicadas - só a de 2026 (4 a 6 de dezembro) está confirmada",
+      "Preço de abadá e camarote não publicado nas fontes",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

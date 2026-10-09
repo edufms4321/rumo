@@ -1,6 +1,154 @@
 {
  "_leia": "Ajustes mesclados por cima do resultado do conversor. Reexecutar o conversor nao perde nada daqui. Lista substitui lista inteira; null apaga a chave.",
- "itens": {},
+ "itens": {
+  "do-jrb-cafe-colao-calle-hermanas-mirabal": {
+   "coords": {
+    "lat": 19.122102,
+    "lng": -70.641455
+   },
+   "fontes": [
+    {
+     "url": "https://eldia.com.do/entre-sombrillas-y-sonrisas-la-calle-hermanas-mirabal-el-corazon-turistico-de-jarabacoa/"
+    },
+    {
+     "url": "https://eldinero.com.do/372632/mitur-impulsa-la-promocion-de-jarabacoa-como-principal-destino-ecoturistico-de-rd/"
+    },
+    {
+     "url": "https://www.godominicanrepublic.com/destinations/jarabacoa"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/6482503887",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-pop-kaffe-calle-sanchez-puerto-plata": {
+   "fontes": [
+    {
+     "url": "https://trip101.com/article/puerto-plata-dominican-republic-restaurants"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/6301803586",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-pop-playa-dorada": {
+   "coords": {
+    "lat": 19.765183,
+    "lng": -70.613399
+   },
+   "fontes": [
+    {
+     "url": "https://www.godominicanrepublic.com/destinations/puerto-plata/"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Puerto_Plata,_Dominican_Republic"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/136395000",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-pop-mojito-bar-praia-de-cabarete-vida-noturna-de-pe-na-a": {
+   "coords": {
+    "lat": 19.750401,
+    "lng": -70.4061
+   },
+   "fontes": [
+    {
+     "url": "https://www.alexinwanderland.com/where-to-eat-in-cabarete/"
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Cabarete"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/5599186222",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-sdq-o-colmado-o-bar-de-esquina-dominicano": {
+   "fontes": [
+    {
+     "url": "https://www.dominicancooking.com/dominican-colmado"
+    },
+    {
+     "url": "https://www.offbeattravel.com/blog/bayahibe-guide"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/440778189",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-sdq-ferro-cafe-plaza-dorada-orquestra-ao-vivo-em-noite-d": {
+   "coords": {
+    "lat": 18.47075,
+    "lng": -69.941816
+   },
+   "fontes": [
+    {
+     "url": "https://www.diariolibre.com/revista/buena-vida/2022/03/31/lugares-para-bailar-en-santo-domingo/1726119"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/1661142921",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-sdq-museo-de-las-atarazanas-reales": {
+   "coords": {
+    "lat": 18.478122,
+    "lng": -69.883197
+   },
+   "fontes": [
+    {
+     "url": "https://www.revistamercado.do/actualidad/museos-historia-rd"
+    },
+    {
+     "url": "https://presidencia.gob.do/noticias/museos-estatales-de-santo-domingo-permaneceran-abiertos-en-semana-santa-para-el-disfrute"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Atarazanas_Reales,_Santo_Domingo"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/1561391674",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "do-sdq-adrian-tropical-malecon": {
+   "coords": {
+    "lat": 18.460262,
+    "lng": -69.903265
+   },
+   "fontes": [
+    {
+     "url": "https://www.adriantropical.com/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/446018864",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  }
+ },
  "_leia_destino": "Campos conferidos em fonte primaria pelo agente principal, em 2026-10-08.",
  "destino": {
   "entrada": [

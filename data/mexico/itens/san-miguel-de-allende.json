@@ -817,5 +817,127 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-sma-berlin-bar-bistro-san-miguel-de-allende",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Berlin Bar & Bistro (San Miguel de Allende)",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "vida-noturna",
+      "bistro",
+      "centro-historico"
+    ],
+    "coords": {
+      "lat": 20.91406,
+      "lng": -100.74553
+    },
+    "descricaoCurta": "Bar-bistro na Umaran 19, aberto 17:00-01:00 todos os dias (cozinha ate 23:30): a opcao de noite tranquila num centro tomado por rooftop.",
+    "descricaoLonga": "Wikivoyage: 'para um otimo ultimo drink, o Berlin e um bar tranquilo otimo. O dono e muito acolhedor e a comida e sublime.' Endereco: Umaran 19, a meia quadra do Jardin Principal; 17:00-01:00 todos os dias, com jantar servido ate as 23:30. NAO CONSEGUI CONFIRMAR preco. Entra como contraponto ao item 'Rooftops de San Miguel de Allende' que ja esta no banco: San Miguel e a cidade mais cara do Bajio, dominada por terraco panoramico com preco de dolar, e este e um bar de rua no nivel do chao, com cozinha. Para balada de verdade na cidade, o endereco e o Mama Mia (Umaran 8).",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "horariosObservacao": "17:00-01:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 415 154 9432",
+      "site": "http://www.berlinmexico.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Cozinha ate as 23:30: da para jantar tarde, o que em San Miguel nao e trivial.",
+      "CORTE SE APERTAR: San Miguel e a cidade mais cara da regiao; o Mercado Ignacio Ramirez resolve comida por uma fracao.",
+      "Fica a meia quadra do Jardin - nao precisa de taxi para voltar."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-sma-mama-mia-quatro-casas-numa-san-miguel-de-allende",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mama Mia (quatro casas numa, San Miguel de Allende)",
+    "cidadeId": "san-miguel-de-allende",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "musica-ao-vivo",
+      "festas",
+      "vida-noturna",
+      "centro-historico"
+    ],
+    "coords": {
+      "lat": 20.9139,
+      "lng": -100.74448
+    },
+    "descricaoCurta": "Na Umaran 8, a poucas portas do Jardin: restaurante, sports bar, bar de musica ao vivo e balada no mesmo endereco. Sex-sab ate as 05:00.",
+    "descricaoLonga": "Wikivoyage: 'o Mama Mia e quatro casas em uma. Tem um restaurante e bar no centro com comida italiana incrivel, um sports bar a esquerda (normalmente com um jogo de futebol passando), um bar de musica a direita onde atracoes locais se apresentam com frequencia - especialmente a Pilaseca, banda de funk-blues muito popular que roda quase todo o Mexico - e uma balada.' Endereco: Umaran 8, a algumas portas do Jardin Principal e meia quadra da Parroquia; domingo a quinta 08:00-03:00, sexta e sabado 08:00-05:00. NAO CONSEGUI CONFIRMAR cover nem preco de bebida. E o unico item de FESTA de San Miguel de Allende no banco: a cidade e conhecida por rooftop e galeria, e a parte de musica ao vivo nao estava coberta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "08:00-03:00 | 08:00-05:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 415 152 2063",
+      "site": "http://www.mamamia.com.mx/index.php"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Quatro ambientes num endereco: da para jantar, ver jogo, ouvir banda e dancar sem sair do lugar.",
+      "Pergunte na porta quem toca: a fonte diz que atracoes locais se apresentam com frequencia, nao todos os dias.",
+      "Fica a meia quadra da Parroquia - volta a pe, sem taxi."
+    ],
+    "alertas": [
+      "Cover e preco de bebida NAO confirmados.",
+      "Musica ao vivo nao e garantida todos os dias ('com frequencia', segundo a fonte)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

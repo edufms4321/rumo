@@ -14,8 +14,8 @@
     "regioes": 5
   },
   "confianca": {
-    "verificado": 57,
-    "parcial": 252,
+    "verificado": 52,
+    "parcial": 257,
     "estimado": 24
   },
   "grupos": [
@@ -37,7 +37,7 @@
     },
     {
       "grupo": "comer",
-      "n": 56
+      "n": 57
     },
     {
       "grupo": "bares",
@@ -49,7 +49,7 @@
     },
     {
       "grupo": "compras",
-      "n": 25
+      "n": 24
     },
     {
       "grupo": "passeios",
@@ -123,7 +123,7 @@
               "id": "san-miguel-de-allende",
               "nome": "San Miguel de Allende",
               "zona": "Bajio",
-              "itens": 9
+              "itens": 11
             }
           ]
         },
@@ -144,7 +144,7 @@
               "id": "guadalajara",
               "nome": "Guadalajara",
               "zona": "Bajio",
-              "itens": 17
+              "itens": 18
             }
           ]
         },
@@ -174,7 +174,7 @@
               "id": "queretaro",
               "nome": "Queretaro",
               "zona": "Bajio",
-              "itens": 5
+              "itens": 6
             }
           ]
         }
@@ -218,7 +218,7 @@
               "id": "puebla",
               "nome": "Puebla",
               "zona": "Vale do Mexico",
-              "itens": 9
+              "itens": 10
             }
           ]
         }
@@ -240,7 +240,7 @@
               "id": "san-cristobal",
               "nome": "San Cristobal de las Casas",
               "zona": "Chiapas",
-              "itens": 28
+              "itens": 27
             },
             {
               "id": "palenque",
@@ -261,7 +261,7 @@
               "id": "oaxaca",
               "nome": "Oaxaca de Juarez",
               "zona": "Vales Centrais de Oaxaca",
-              "itens": 34
+              "itens": 31
             },
             {
               "id": "puerto-escondido",
@@ -339,7 +339,7 @@
               "id": "merida",
               "nome": "Merida",
               "zona": "Peninsula de Yucatan",
-              "itens": 26
+              "itens": 25
             },
             {
               "id": "valladolid",

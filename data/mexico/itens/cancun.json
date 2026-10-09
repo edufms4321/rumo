@@ -1,6 +1,6 @@
 [
   {
-    "id": "mx-cun-parque-de-las-palapas-comida-de-rua-de-cancun",
+    "id": "mx-cun-atotonilco-comedor-dentro-do-mercado-28-cancun",
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
@@ -8,36 +8,80 @@
     ],
     "coletadoEm": "2026-10-09",
     "confianca": "parcial",
-    "nome": "Parque de las Palapas (comida de rua de Cancun)",
+    "nome": "Atotonilco (comedor dentro do Mercado 28, Cancun)",
     "cidadeId": "cancun",
     "categoria": "restaurante",
     "tags": [
+      "mercado",
       "comida-barata",
       "antojitos",
-      "tacos",
-      "praca",
-      "vida-noturna"
+      "cafe-da-manha",
+      "comida-mexicana"
     ],
     "coords": {
-      "lat": 21.1610404,
-      "lng": -86.8275301
+      "lat": 21.1615225,
+      "lng": -86.8342417
     },
-    "descricaoCurta": "A praca do centro de Cancun onde o morador come: comedores a partir das 10:00, bancas a noite, tacos desde M$30 (jan/2025) e tudo fecha perto da meia-noite.",
-    "descricaoLonga": "Fica no centro (El Centro), nao na Zona Hotelera - e essa e a questao: aqui se come pelo preco que mexicano paga, nao pelo preco do Kukulcan. Wikivoyage registra que os comedores abrem as 10:00, as bancas de comida comecam a noite, e tudo fecha em torno de meia-noite; a maioria das bancas tem placa grande com foto do prato e o preco, e tacos saiam por a partir de M$30 cada em janeiro de 2025. A variedade e boa e a praca tem mesa. Combina com o entorno: La Habichuela (M. 25, perto da praca) e as taquerias da Av. Yaxchilan ficam a poucas quadras. ALERTA DE PRECO: qualquer coisa comida na Zona Hotelera custa multiplo disso - este item existe exatamente para dar a alternativa honesta.",
+    "descricaoCurta": "Comedor na Xel-ha 107, dentro do Mercado 28: amostra de comida de todo o Mexico por US$4-10, aberto 08:00-18:00. Peca huevos motulenos.",
+    "descricaoLonga": "O Mercado 28 e um mercado turistico do centro de Cancun, com praca de alimentacao e restaurantes mexicanos maiores no meio das lojas de souvenir - mais barato que a Zona Hotelera, mas ainda com 'preco de turista' e muito insistente, segundo a propria fonte (09:00-20:00 diariamente). Dentro dele, a Wikivoyage destaca este comedor: 'amostra extremamente boa de comida mexicana de todo o pais. Excelente valor. Nada chique, mas uma delicia gastronomica. Peca os huevos motulenos.' Endereco: Xel-ha 107, de frente para o El Cejas; 08:00-18:00; faixa de US$4-10 por pessoa. ATENCAO: o preco esta em DOLAR na fonte e eu nao converti para peso. COMPLEMENTA o item 'Mercado 28 e feiras de artesanato (Cancun)' que ja esta no banco como COMPRAS - aqui o ponto e comer, nao comprar.",
     "duracao": {
-      "min": 40,
-      "tipica": 70,
-      "max": 110
+      "min": 35,
+      "tipica": 55,
+      "max": 80
     },
-    "horariosObservacao": "10:00-24:00",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-18:00",
     "diasFechados": [],
-    "melhorHorario": "Depois das 19:00, quando as bancas de comida abrem e a praca enche de familia; os comedores funcionam de dia.",
+    "melhorHorario": "Cafe da manha ou almoco: fecha as 18:00 e os huevos motulenos sao prato de manha.",
     "preco": {
-      "moeda": "MXN",
-      "min": 30,
-      "max": 150,
+      "moeda": "USD",
+      "min": 4,
+      "max": 10,
       "por": "pessoa",
-      "inclui": "A partir de M$30 por taco (Wikivoyage, dado de jan/2025). O teto de M$150 e estimativa de refeicao completa por pessoa e NAO esta na fonte.",
+      "inclui": "Faixa por pessoa como publicada pela fonte, em dolar; sem data de coleta na pagina.",
       "coletadoEm": "2026-10-09",
       "fontes": [
         {
@@ -58,13 +102,13 @@
       "vale-cada-peso"
     ],
     "dicas": [
-      "VALE CADA PESO: a diferenca de preco entre comer aqui e comer na Zona Hotelera paga um dia de passeio.",
-      "Onibus R-1/R-2 ligam a Zona Hotelera ao centro por poucos pesos - nao precisa de taxi para vir jantar aqui.",
-      "Para comprar lembranca com comida por perto, o Mercado 28 esta a ~1 km a oeste (09:00-20:00)."
+      "VALE CADA PESO: comer dentro do Mercado 28 custa uma fracao de qualquer coisa no Kukulcan.",
+      "Negocie nada: e comedor de preco fixo. O que se negocia no Mercado 28 e o souvenir.",
+      "A fonte avisa que o Mercado 28 tem muitos 'touts' puxando cliente - para mercado de morador, o endereco e o Mercado 23 (Ciricote 15, 07:00-19:00)."
     ],
     "alertas": [
-      "O teto de preco e estimativa minha, nao dado de fonte.",
-      "Comida de rua: escolha banca com movimento e comida saindo quente."
+      "Preco em DOLAR como publicado na fonte - nao converti para peso.",
+      "Fecha as 18:00."
     ],
     "gastronomia": {
       "tipoCozinha": [],
@@ -72,7 +116,7 @@
     }
   },
   {
-    "id": "mx-cun-coco-bongo-cancun-show-e-balada-com-preco-na-cara",
+    "id": "mx-cun-11-11-club-balada-com-drag-no-centro-de-cancun",
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
@@ -80,35 +124,39 @@
     ],
     "coletadoEm": "2026-10-09",
     "confianca": "parcial",
-    "nome": "Coco Bongo (Cancun - show e balada, com preco na cara)",
+    "nome": "11:11 Club (balada com drag no centro de Cancun)",
     "cidadeId": "cancun",
     "categoria": "bar",
     "tags": [
       "balada",
-      "vida-noturna",
+      "drag",
+      "musica-ao-vivo",
       "festas",
-      "show",
-      "zona-hotelera"
+      "lgbt",
+      "vida-noturna"
     ],
     "coords": {
-      "lat": 21.132766,
-      "lng": -86.747376
+      "lat": 21.160434,
+      "lng": -86.825868
     },
-    "descricaoCurta": "A balada-espetaculo da Zona Hotelera, 22:30-05:00: ingresso de US$75 online. Entrada em casa noturna de Cancun vai de US$20 a US$60, muitas com open bar.",
-    "descricaoLonga": "Wikivoyage: 'balada com um show que ja foi comparado ao de Las Vegas. Mais de 50 profissionais em cena. Ingressos pela internet por US$75. Se voce nao se importar de esperar para entrar, da para comprar ingressos trocaveis na Oxxo por M$1.000.' Fica no Blvd. Kukulkan km 9,5 #30, Zona Hotelera, aberta 22:30-05:00 (listagem de 03/2025). CONTEXTO DE PRECO da mesma fonte: as casas da Zona Hotelera cobram cover de US$20 a US$60 por pessoa, e o cover costuma incluir OPEN BAR. Este item existe para dar a escala honesta da noite de Cancun - e o oposto do Parque de las Palapas, no centro, onde o taco sai por M$30. A fonte tambem registra duas regras praticas do Mexico: idade minima para beber e 18 anos (nao muito fiscalizada) e LOJAS NAO PODEM VENDER ALCOOL DEPOIS DAS 17:00 NO DOMINGO.",
+    "descricaoCurta": "No centro de Cancun (Av. Tulum), nao na Zona Hotelera: drag, DJ e musica ao vivo de quarta a domingo, 22:00-05:00, faixa de M$200.",
+    "descricaoLonga": "Wikivoyage: 'ambiente animado, performers de drag, musica ao vivo e DJs, alem de otimos drinks.' Endereco: Av. Tulum Smz 22 Mz 5 Lote 33, CENTRO (El Centro); quarta a domingo 22:00-05:00, FECHADO segunda e terca; faixa de M$200. Esta aqui pelo contraste de preco, que e o dado mais util da noite de Cancun: M$200 no centro contra US$75 de ingresso do Coco Bongo na Zona Hotelera, ou cover de US$20-60 nas outras casas do Kukulcan. A mesma fonte lista, na mesma avenida, o Laser Hot Beer & Queer (Av. Tulum 45, qua-dom 22:00-05:00, M$200), com cabare de drag queen. A fonte tambem registra que os bares do norte da Av. Yaxchilan, tambem no centro, tem 'precos significativamente mais baixos que as baladas da zona hoteleira'.",
     "duracao": {
-      "min": 180,
-      "tipica": 270,
-      "max": 420
+      "min": 120,
+      "tipica": 180,
+      "max": 300
     },
-    "horariosObservacao": "22:30-05:00",
-    "diasFechados": [],
+    "horariosObservacao": "22:00-05:00",
+    "diasFechados": [
+      "seg",
+      "ter"
+    ],
     "preco": {
-      "moeda": "USD",
-      "min": 20,
-      "max": 75,
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
       "por": "pessoa",
-      "inclui": "US$75 o ingresso online do Coco Bongo (fonte, listagem de 03/2025); a faixa de US$20-60 e o cover das casas da Zona Hotelera em geral, frequentemente com open bar. Valores em dolar como publicados - nao converti para peso.",
+      "inclui": "Faixa por pessoa segundo a fonte; nao detalha se e cover ou consumo. Sem data de coleta na pagina.",
       "coletadoEm": "2026-10-09",
       "fontes": [
         {
@@ -117,33 +165,28 @@
       ]
     },
     "reserva": {
-      "necessaria": false,
-      "link": "https://www.cocobongo.com/"
+      "necessaria": false
     },
-    "contato": {
-      "telefone": "+52 998 883 2373",
-      "site": "https://www.cocobongo.com/"
-    },
+    "contato": {},
     "imagens": [],
     "agendavel": true,
     "restricoes": {
       "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico (pouco fiscalizada, segundo a fonte).",
-        "Lojas nao podem vender alcool depois das 17:00 no domingo."
+        "Venda de alcool proibida para menores de 18 anos no Mexico.",
+        "Lojas nao podem vender alcool depois das 17:00 no domingo (regra citada pela fonte)."
       ]
     },
     "selos": [
-      "corte-se-apertar"
+      "vale-cada-peso"
     ],
     "dicas": [
-      "CORTE SE APERTAR: US$75 de ingresso paga varios dias de comida no centro de Cancun.",
-      "Alternativa dos locais, segundo a fonte: os bares do norte da Av. Yaxchilan, no centro, onde 'os precos sao significativamente mais baixos que nas baladas da zona hoteleira'.",
-      "Ingresso trocavel na Oxxo por M$1.000 era a opcao mais barata citada pela fonte - mas com fila."
+      "VALE CADA PESO: M$200 no centro contra US$75 do Coco Bongo na Zona Hotelera - mesma noite, fracao do preco.",
+      "Onibus R-1/R-2 ligam a Zona Hotelera ao centro por poucos pesos; na volta de madrugada, use aplicativo.",
+      "Fechado segunda e terca."
     ],
     "alertas": [
-      "Preco em DOLAR como publicado na fonte; nao converti para peso.",
-      "Dado de marco de 2025 - confira no site oficial antes de comprar.",
-      "Zona Hotelera: todo preco de bar e multiplo do preco do centro de Cancun."
+      "Nao esta claro na fonte se a faixa de M$200 e cover ou consumo medio.",
+      "Fechado segunda e terca."
     ],
     "gastronomia": {
       "tipoCozinha": [],

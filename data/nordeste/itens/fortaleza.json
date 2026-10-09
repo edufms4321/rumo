@@ -1140,5 +1140,643 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-for-villa-show-forro-de-domingo-vila-peri",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2025/06/05/forro-em-fortaleza-veja-lugares-para-curtir-o-ritmo-na-cidade.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Villa Show (forró de domingo, Vila Peri)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "Casa de forró de Fortaleza fora do circuito da praia, em Vila Peri. Domingo a partir das 17h30.",
+    "descricaoLonga": "Entra no banco pela lista que O Povo publicou em junho de 2025 mapeando onde se dança forró em Fortaleza - e a graça desta casa é justamente não ser da orla: fica em Vila Peri, bairro de morador, o que significa público local, preço de bairro e forró sem tradução para turista. Endereço publicado pelo jornal: Rua Antônio Costa Mendes, 99 - Vila Peri, Fortaleza - CE. Dia e horário de início: Domingo a partir das 17h30.. Domingo de forró comecando no fim da tarde e um habito cearense: a casa enche cedo e esvazia antes da meia-noite. O QUE EU NAO CONSEGUI CONFIRMAR: preço de ingresso ou couvert (O Povo nao publicou valores para nenhuma das casas da lista), hora de fechamento, telefone e se a casa tem site. Tambem nao abri pagina oficial da casa - a fonte e o jornal, nao o estabelecimento, e casa de forro de bairro muda programacao com frequencia. Pratico: de carro de app, de 20 a 35 min de Meireles/Beira Mar dependendo do bairro; nao conte com onibus na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "horariosObservacao": "a partir das 17:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Antônio Costa Mendes, 99 - Vila Peri, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando",
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
+    ],
+    "alertas": [
+      "Preco, hora de fechamento e telefone nao confirmados",
+      "Dado de junho de 2025: confirme se a casa segue com esse dia de programacao",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-palacio-do-forro-parangaba",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2025/06/05/forro-em-fortaleza-veja-lugares-para-curtir-o-ritmo-na-cidade.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Palácio do Forró (Parangaba)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "Casa de forró de Fortaleza fora do circuito da praia, em Parangaba. Domingo a partir das 17h.",
+    "descricaoLonga": "Entra no banco pela lista que O Povo publicou em junho de 2025 mapeando onde se dança forró em Fortaleza - e a graça desta casa é justamente não ser da orla: fica em Parangaba, bairro de morador, o que significa público local, preço de bairro e forró sem tradução para turista. Endereço publicado pelo jornal: Avenida Osório de Paiva, 1631 - Parangaba, Fortaleza - CE. Dia e horário de início: Domingo a partir das 17h.. Parangaba tem estacao de metro, o que e raro entre as casas de forro da cidade - mas confirme o horario do metro na volta, porque ele fecha antes da festa. O QUE EU NAO CONSEGUI CONFIRMAR: preço de ingresso ou couvert (O Povo nao publicou valores para nenhuma das casas da lista), hora de fechamento, telefone e se a casa tem site. Tambem nao abri pagina oficial da casa - a fonte e o jornal, nao o estabelecimento, e casa de forro de bairro muda programacao com frequencia. Pratico: de carro de app, de 20 a 35 min de Meireles/Beira Mar dependendo do bairro; nao conte com onibus na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "horariosObservacao": "a partir das 17:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Osório de Paiva, 1631 - Parangaba, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando",
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
+    ],
+    "alertas": [
+      "Preco, hora de fechamento e telefone nao confirmados",
+      "Dado de junho de 2025: confirme se a casa segue com esse dia de programacao",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-segunda-forrozeira-vila-manoel-satiro",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2025/06/05/forro-em-fortaleza-veja-lugares-para-curtir-o-ritmo-na-cidade.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Segunda Forrozeira (Vila Manoel Sátiro)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "Casa de forró de Fortaleza fora do circuito da praia, em Vila Manoel Sátiro. Segunda-feira a partir das 19h.",
+    "descricaoLonga": "Entra no banco pela lista que O Povo publicou em junho de 2025 mapeando onde se dança forró em Fortaleza - e a graça desta casa é justamente não ser da orla: fica em Vila Manoel Sátiro, bairro de morador, o que significa público local, preço de bairro e forró sem tradução para turista. Endereço publicado pelo jornal: Rua Albano Amaral, 887 - Vila Manoel Sátiro, Fortaleza - CE. Dia e horário de início: Segunda-feira a partir das 19h.. Resolve a segunda-feira de quem nao quer o Pirata: forro de bairro, sem fila de turista. O QUE EU NAO CONSEGUI CONFIRMAR: preço de ingresso ou couvert (O Povo nao publicou valores para nenhuma das casas da lista), hora de fechamento, telefone e se a casa tem site. Tambem nao abri pagina oficial da casa - a fonte e o jornal, nao o estabelecimento, e casa de forro de bairro muda programacao com frequencia. Pratico: de carro de app, de 20 a 35 min de Meireles/Beira Mar dependendo do bairro; nao conte com onibus na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "horariosObservacao": "a partir das 19:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Albano Amaral, 887 - Vila Manoel Sátiro, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando",
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
+    ],
+    "alertas": [
+      "Preco, hora de fechamento e telefone nao confirmados",
+      "Dado de junho de 2025: confirme se a casa segue com esse dia de programacao",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-badalo-show-joquei-clube",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2025/06/05/forro-em-fortaleza-veja-lugares-para-curtir-o-ritmo-na-cidade.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Badalo Show (Jóquei Clube)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "Casa de forró de Fortaleza fora do circuito da praia, em Jóquei Clube. Sexta e sábado às 21h, domingo às 20h.",
+    "descricaoLonga": "Entra no banco pela lista que O Povo publicou em junho de 2025 mapeando onde se dança forró em Fortaleza - e a graça desta casa é justamente não ser da orla: fica em Jóquei Clube, bairro de morador, o que significa público local, preço de bairro e forró sem tradução para turista. Endereço publicado pelo jornal: Avenida Carneiro de Mendonça, 1354 - Jóquei Clube, Fortaleza - CE. Dia e horário de início: Sexta e sábado às 21h, domingo às 20h.. E a casa da lista com mais dias de programacao: tres noites por semana. O QUE EU NAO CONSEGUI CONFIRMAR: preço de ingresso ou couvert (O Povo nao publicou valores para nenhuma das casas da lista), hora de fechamento, telefone e se a casa tem site. Tambem nao abri pagina oficial da casa - a fonte e o jornal, nao o estabelecimento, e casa de forro de bairro muda programacao com frequencia. Pratico: de carro de app, de 20 a 35 min de Meireles/Beira Mar dependendo do bairro; nao conte com onibus na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "horariosObservacao": "a partir das 21:00 | a partir das 20:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Carneiro de Mendonça, 1354 - Jóquei Clube, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando",
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
+    ],
+    "alertas": [
+      "Preco, hora de fechamento e telefone nao confirmados",
+      "Dado de junho de 2025: confirme se a casa segue com esse dia de programacao",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-clube-casa-cheia-antonio-bezerra",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2025/06/05/forro-em-fortaleza-veja-lugares-para-curtir-o-ritmo-na-cidade.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Clube Casa Cheia (Antônio Bezerra)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "forro",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "danca",
+      "bares"
+    ],
+    "descricaoCurta": "Casa de forró de Fortaleza fora do circuito da praia, em Antônio Bezerra. Sexta a domingo a partir das 18h30.",
+    "descricaoLonga": "Entra no banco pela lista que O Povo publicou em junho de 2025 mapeando onde se dança forró em Fortaleza - e a graça desta casa é justamente não ser da orla: fica em Antônio Bezerra, bairro de morador, o que significa público local, preço de bairro e forró sem tradução para turista. Endereço publicado pelo jornal: Rua Martins Neto, 174 - Antônio Bezerra, Fortaleza - CE. Dia e horário de início: Sexta a domingo a partir das 18h30.. Clube de bairro no sentido literal: pista grande, mesa plastica e forro de duas, nao de piseiro. O QUE EU NAO CONSEGUI CONFIRMAR: preço de ingresso ou couvert (O Povo nao publicou valores para nenhuma das casas da lista), hora de fechamento, telefone e se a casa tem site. Tambem nao abri pagina oficial da casa - a fonte e o jornal, nao o estabelecimento, e casa de forro de bairro muda programacao com frequencia. Pratico: de carro de app, de 20 a 35 min de Meireles/Beira Mar dependendo do bairro; nao conte com onibus na volta.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "horariosObservacao": "a partir das 18:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Martins Neto, 174 - Antônio Bezerra, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro residencial longe da orla: volte de carro de app"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando",
+      "Confirme a programacao do dia antes de atravessar a cidade",
+      "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
+    ],
+    "alertas": [
+      "Preco, hora de fechamento e telefone nao confirmados",
+      "Dado de junho de 2025: confirme se a casa segue com esse dia de programacao",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-mercado-dos-pinhoes-e-o-giro-cultural-shows-gratuito",
+    "fontes": [
+      {
+        "url": "https://www.opovo.com.br/vidaearte/2024/05/30/veja-programacao-gratuita-de-musica-do-fim-de-semana-em-fortaleza.html"
+      },
+      {
+        "url": "https://www.fortaleza.ce.gov.br/images/1304/300_PLANO_OPERACIONAL_compressed.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Mercado dos Pinhões e o Giro Cultural (shows gratuitos no Centro)",
+    "cidadeId": "fortaleza",
+    "categoria": "experiencia",
+    "tags": [
+      "musica-ao-vivo",
+      "forro",
+      "gratuito",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "Pavilhão de ferro de 1897 na Praça Visconde de Pelotas que a Prefeitura usa como palco gratuito: chorinho, forró e baile, com shows do projeto Giro Cultural às sextas.",
+    "descricaoLonga": "Fica na Praça Visconde de Pelotas, no Centro de Fortaleza. É um dos endereços do projeto Giro Cultural da Prefeitura, que leva música GRATUITA a espaços públicos: O Povo registrou, por exemplo, o 'Sons do Mercado' numa sexta às 19h. Listagens do mesmo jornal citam ainda os projetos 'Chorinho no Mercado' nas noites de sexta, 'Forró no Mercado' nos domingos e 'Baile no Mercado' na última sexta do mês, com música de baile dos anos 1960 - mas essa parte eu NÃO confirmei na matéria que abri, então entra como pista, não como horário do banco. Junto com o Mercado, o mesmo circuito gratuito usa o Centro Cultural Belchior (Rua dos Pacajús, 123, Praia de Iracema), o Complexo Cultural Estação das Artes (Rua Dr. João Moreira, 540, Centro) e o Projeto Pôr do Sol na Avenida Beira-Mar ao lado do espigão do Náutico, aos domingos às 17h. Essa é a maneira mais barata de ouvir música ao vivo em Fortaleza. O QUE NÃO CONFIRMEI: calendário fixo de cada projeto (a Prefeitura divulga semana a semana), hora de encerramento e se há cobrança em alguma data (algumas festas pedem doação de 2 kg de alimento no lugar de ingresso).",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Praça Visconde de Pelotas, s/n - Centro, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Procure a agenda cultural de O Povo ou da Prefeitura na semana da viagem: a programação é semanal, não fixa",
+      "Algumas festas do circuito cobram 2 kg de alimento não perecível em vez de ingresso - leve",
+      "Procure a agenda cultural de O Povo ou da Prefeitura na semana da viagem: a programação é semanal, não fixa",
+      "Algumas festas do circuito cobram 2 kg de alimento não perecível em vez de ingresso - leve"
+    ],
+    "alertas": [
+      "Projetos semanais (Chorinho na sexta, Forró no domingo) citados em listagem que não abri - trate como pista",
+      "Centro de Fortaleza à noite: vá e volte de carro de app",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "br-for-kosmica-club-praia-de-iracema",
+    "fontes": [
+      {
+        "url": "https://diariodonordeste.verdesmares.com.br/verso/casarao-que-abrigou-o-orbita-reabre-como-boate-tematica-futuristica-veja-como-ficou-1.3235390"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Kosmica Club (Praia de Iracema)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "boate",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "Boate de temática futurista no casarão da Praia de Iracema onde funcionou por 20 anos o Órbita Bar. Abre de quinta a domingo, com entrada franca na quinta.",
+    "descricaoLonga": "Rua Almirante Jaceguai, 81, Praia de Iracema, a uma esquina do Centro Dragão do Mar. É o mesmo casarão em que o Órbita Bar funcionou mais de 20 anos: o Órbita fechou temporariamente em 2020 na pandemia e os donos seguiram procurando um novo espaço, e o prédio reabriu como Kosmica Club em 27 de maio de 2022, com conceito espacial e nova gestão. ATENÇÃO AO QUE ISSO SIGNIFICA PARA O SEU ROTEIRO: se você procurou 'Órbita Bar' em qualquer guia, o endereço que vai aparecer é este, e não é mais o Órbita. Não achei registro de reabertura do Órbita em outro endereço. Preço e dias publicados pelo Diário do Nordeste na reabertura: quinta com entrada franca, sexta e sábado R$ 40 de entrada com R$ 120 de consumação, domingo franco até as 22h e depois o mesmo valor. ESSE DADO É DE MAIO DE 2022, mais de dois anos atrás - registro como faixa com a data de origem explícita, e é quase certo que subiu. Listagens de 2026 mostram a casa ainda operando no endereço.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 0,
+      "max": 40,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Valores publicados pelo Diário do Nordeste em maio de 2022 (quinta franca; sexta e sábado R$ 40 de entrada com R$ 120 de consumação mínima). Tem MAIS DE DOIS ANOS: confirme antes de ir."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Almirante Jaceguai, 81 - Praia de Iracema, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Consumação mínima separada da entrada, conforme publicado em 2022"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "idadeMinima": 18
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Não procure o Órbita Bar neste endereço: a casa que está lá é outra",
+      "Confirme entrada e consumação na porta ou na rede social: o valor que eu achei é de 2022",
+      "Não procure o Órbita Bar neste endereço: a casa que está lá é outra",
+      "Confirme entrada e consumação na porta ou na rede social: o valor que eu achei é de 2022"
+    ],
+    "alertas": [
+      "Preço e dias com mais de dois anos (maio/2022) - confiança rebaixada de propósito",
+      "O Órbita Bar NÃO funciona mais aqui; não achei novo endereço do Órbita",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-mucuripe-club-casa-de-show-perto-do-dragao-do-mar",
+    "fontes": [
+      {
+        "url": "https://www.guiadasemana.com.br/fortaleza/bares/estabelecimento/mucuripe-club"
+      },
+      {
+        "url": "https://diariodonordeste.verdesmares.com.br/entretenimento/e-hit/matue-e-timbalada-sao-atracoes-confirmadas-no-camarote-mucuripe-no-fortal-2022-1.3251898"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mucuripe Club (casa de show perto do Dragão do Mar)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "show",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "axe",
+      "forro"
+    ],
+    "descricaoCurta": "Casa de show grande perto do Dragão do Mar, com quatro ambientes e lounge VIP: MPB, rock, axé, samba, forró, reggae e eletrônico na mesma noite.",
+    "descricaoLonga": "Fica perto do Centro Dragão do Mar, na Praia de Iracema, e é a casa de nome mais conhecido da noite grande de Fortaleza - a mesma marca assina o Camarote Mucuripe no Fortal, a micareta da cidade. Tem quatro ambientes e lounge VIP, consumação por cartão magnético, estacionamento com duas cancelas de segurança e traz nomes nacionais. Dias e horário citados pela fonte: sexta e sábado a partir de 21h30, e domingo só na alta temporada. O QUE NÃO CONFIRMEI, e é bastante para uma casa deste porte: endereço exato com número, telefone, site oficial, preço de ingresso e idade mínima. Não abri página da casa. Use o item para saber que a casa existe e checar a agenda do seu fim de semana; não use para planejar orçamento.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "horariosObservacao": "a partir das 21:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Idade mínima assumida pelo tipo de casa, não confirmada",
+        "Consumação por cartão magnético: perder o cartão costuma gerar multa"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false,
+      "idadeMinima": 18
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Não perca o cartão de consumação: nas casas grandes de Fortaleza a perda é cobrada",
+      "Domingo só funciona em alta temporada, segundo a fonte",
+      "Não perca o cartão de consumação: nas casas grandes de Fortaleza a perda é cobrada",
+      "Domingo só funciona em alta temporada, segundo a fonte"
+    ],
+    "alertas": [
+      "Endereço com número, telefone, site e preço NÃO confirmados",
+      "Horário de fechamento estimado pela praxe de balada, não publicado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-botecos-do-benfica-churrasquinho-cerveja-e-rock-pert",
+    "fontes": [
+      {
+        "url": "https://pt.wikivoyage.org/wiki/Fortaleza"
+      },
+      {
+        "url": "https://mais.opovo.com.br/jornal/vidaearte/2026/07/09/dia-mundial-do-rock-veja-onde-curtir-a-data-em-fortaleza.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Botecos do Benfica (churrasquinho, cerveja e rock perto da UFC)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "boteco",
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "barato"
+    ],
+    "descricaoCurta": "O quadrilátero de botecos estudantis em volta da UFC: churrasquinho na calçada, cerveja barata e rock ao vivo, de Bar do Pedrinho a Barbarians Pub.",
+    "descricaoLonga": "O Benfica é o bairro da Universidade Federal do Ceará e o polo de boteco mais barato e mais vivo de Fortaleza - nada de vista para o mar, tudo de calçada, mesa de plástico e churrasquinho. Endereços que consegui confirmar, com horário: Bar do Pedrinho, Rua Joaquim Magalhães, 182, a partir das 16h em dias úteis e sábado; Bar do Seu Assis, Rua Adolfo Herbster, 190, telefone (85) 3283-8674, a partir das 17h em dias úteis e sábado, com churrasquinho e cerveja em conta; Cantinho Acadêmico, na Avenida 13 de Maio, com petisco e refeição, música ao vivo no fim de semana e shows de rock, a partir das 16h; e, na vertente rock, o Barbarians Pub, Rua Waldery Uchôa, 42, que O Povo listou em julho de 2026 com funcionamento de terça a quinta das 17h à meia-noite e sexta e sábado das 17h às 2h. Há também o Hard Noise, na Avenida Carapinima, 1884, com eventos semanais sem grade fixa. O QUE NÃO CONFIRMEI: preço de nada (nenhuma das fontes publica valor), e os horários dos botecos tradicionais vêm do Wikivoyage, que não traz data de atualização. Segurança honesta: é bairro de estudante, movimentado até tarde nas noites de semana letiva, e bem mais vazio em janeiro, julho e férias - no vazio, não ande entre ruas, chame carro na porta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Bairro Benfica (Rua Joaquim Magalhães, Rua Adolfo Herbster, Av. 13 de Maio, Rua Waldery Uchôa), Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Bairro universitário: esvazia em férias"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Vá em noite de semana letiva: é quando o bairro tem gente e preço de estudante",
+      "Peça o churrasquinho e a cerveja em lata; é o cardápio real do Benfica",
+      "Vá em noite de semana letiva: é quando o bairro tem gente e preço de estudante",
+      "Peça o churrasquinho e a cerveja em lata; é o cardápio real do Benfica"
+    ],
+    "alertas": [
+      "Nenhum preço publicado em nenhuma das fontes",
+      "Horários dos botecos tradicionais vêm do Wikivoyage, sem data de atualização",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "br-for-casas-de-rock-de-fortaleza-bulls-beer-house-the-bar",
+    "fontes": [
+      {
+        "url": "https://mais.opovo.com.br/jornal/vidaearte/2026/07/09/dia-mundial-do-rock-veja-onde-curtir-a-data-em-fortaleza.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Casas de rock de Fortaleza (Bulls Beer House, The Bar Pub, Hoots)",
+    "cidadeId": "fortaleza",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "bares",
+      "vida-noturna",
+      "show"
+    ],
+    "descricaoCurta": "A cena de rock de Fortaleza vive em pubs de bairro com horário publicado: Bulls Beer House, The Bar Pub e Hoots Gastropub, que abre até 3h na quinta, sexta e sábado.",
+    "descricaoLonga": "Lista que O Povo publicou em 9 de julho de 2026, Dia Mundial do Rock, com endereço e horário de funcionamento - dado raro e recente, por isso entra. Bulls Beer House: duas casas, Rua Gustavo Sampaio, 800, na Parquelândia, e Rua Coronel Jucá, 700, na Aldeota; terça e quarta 17h-0h, quinta 17h-1h, sexta e sábado 16h-2h, domingo 16h-0h. The Bar Pub: Avenida Lineu Machado, 1514, Jóquei Clube; quarta, sexta e sábado 18h-2h, quinta 18h-1h, domingo 18h-0h. Hoots Gastropub: Avenida Desembargador Moreira, 125, Meireles - o mais perto da orla e de quem se hospeda em Meireles ou Beira Mar; domingo 12h-23h, segunda a quarta 18h-0h, quinta e sexta 17h-3h, sábado 12h-3h. Hard Noise, Avenida Carapinima, 1884, Benfica, tem eventos semanais sem grade fixa. O QUE NÃO CONFIRMEI: preço - a matéria não publicou valor de ingresso ou couvert para nenhuma delas - nem telefone nem se há cobrança em noite de banda.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "dom": [
+        {
+          "abre": "12:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "17:00-03:00 | 12:00-03:00 | 12:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Hoots Gastropub: Avenida Desembargador Moreira, 125 - Meireles, Fortaleza - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Hoots é o único da lista que se faz a pé de Meireles/Beira Mar",
+      "Quinta e sexta até 3h: é onde a noite de Fortaleza continua depois que os bares da orla fecham",
+      "Hoots é o único da lista que se faz a pé de Meireles/Beira Mar",
+      "Quinta e sexta até 3h: é onde a noite de Fortaleza continua depois que os bares da orla fecham"
+    ],
+    "alertas": [
+      "Nenhum preço ou couvert publicado",
+      "Horário no banco é do Hoots; as outras casas têm grade diferente",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

@@ -1059,5 +1059,68 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-pipa-a-noite-da-avenida-baia-dos-golfinhos-pipa",
+    "fontes": [
+      {
+        "url": "https://www.grupodicas.com/baladas-imperdiveis-em-pipa"
+      },
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/beach/praia-de-pipa-o-que-fazer.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "A noite da Avenida Baía dos Golfinhos (Pipa)",
+    "cidadeId": "pipa",
+    "categoria": "experiencia",
+    "tags": [
+      "balada",
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "forro"
+    ],
+    "descricaoCurta": "Toda a noite de Pipa cabe numa avenida: bares-balada com DJ e banda ao vivo na Baía dos Golfinhos, mais o luau das quartas na praia quando a maré baixa.",
+    "descricaoLonga": "A Avenida Baía dos Golfinhos é a rua principal da vila e concentra praticamente tudo o que acontece à noite em Pipa - você desce a pé, escolhe pela música que está saindo da porta e muda de casa quando quiser. Endereços que as fontes nominam: Bakana Bar, na Av. Baía dos Golfinhos, 71, bar-balada de música latina e eletrônica; Oz Música, na Av. Baía dos Golfinhos, 860, mistura de bar e balada com DJs e bandas ao vivo; e Ânima Pipa, no Largo de São Sebastião, à beira-mar, com forró, eletrônico e pop. Há ainda o luau das QUARTAS-FEIRAS na Praia de Pipa, que só acontece quando a maré está baixa - e isso é regra de maré, não de calendário: confira a tábua antes de contar com ele. O QUE NÃO CONFIRMEI: nenhum horário de abertura, nenhum preço de entrada ou couvert, nenhum telefone, e não abri página oficial de nenhuma das casas - as fontes são guias de viagem. Pipa é vila pequena e caminhável, mas a avenida é escura nas pontas: ande pelo trecho com gente e volte acompanhado.",
+    "duracao": {
+      "min": 120,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Avenida Baía dos Golfinhos - Vila de Pipa, Tibau do Sul - RN"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "O luau de quarta depende de maré baixa",
+        "Idade mínima assumida para as casas de balada, não confirmada"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "dependeDeMare": true,
+      "idadeMinima": 18
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Escolha pela porta: a vila é curta e trocar de casa custa dois minutos de caminhada",
+      "Se quiser o luau, cheque a tábua de marés da quarta antes de contar com ele",
+      "Escolha pela porta: a vila é curta e trocar de casa custa dois minutos de caminhada",
+      "Se quiser o luau, cheque a tábua de marés da quarta antes de contar com ele"
+    ],
+    "alertas": [
+      "Nenhum horário e nenhum preço confirmados em fonte",
+      "Fontes são guias de viagem, não sites oficiais nem imprensa local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

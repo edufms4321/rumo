@@ -201,7 +201,7 @@
         "max": 240
       },
       "horarios": {
-        "ter": "19:00-23:00"
+        "ter": "a partir das 19:00"
       },
       "contato": {
         "endereco": "Pátio de São Pedro - São José, Recife - PE"
@@ -239,7 +239,8 @@
       ],
       "selos": [
         "gratuito"
-      ]
+      ],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Noite dos Tambores Silenciosos (Pátio do Terço)",
@@ -704,7 +705,7 @@
         "max": 330
       },
       "horarios": {
-        "dom": "17:30-23:00"
+        "dom": "a partir das 17:30"
       },
       "contato": {
         "endereco": "Rua Antônio Costa Mendes, 99 - Vila Peri, Fortaleza - CE"
@@ -738,7 +739,8 @@
         "Confirme a programacao do dia antes de atravessar a cidade",
         "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Palácio do Forró (Parangaba)",
@@ -759,7 +761,7 @@
         "max": 330
       },
       "horarios": {
-        "dom": "17:00-23:00"
+        "dom": "a partir das 17:00"
       },
       "contato": {
         "endereco": "Avenida Osório de Paiva, 1631 - Parangaba, Fortaleza - CE"
@@ -793,7 +795,8 @@
         "Confirme a programacao do dia antes de atravessar a cidade",
         "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Segunda Forrozeira (Vila Manoel Sátiro)",
@@ -814,7 +817,7 @@
         "max": 330
       },
       "horarios": {
-        "seg": "19:00-01:00"
+        "seg": "a partir das 19:00"
       },
       "contato": {
         "endereco": "Rua Albano Amaral, 887 - Vila Manoel Sátiro, Fortaleza - CE"
@@ -848,7 +851,8 @@
         "Confirme a programacao do dia antes de atravessar a cidade",
         "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Badalo Show (Jóquei Clube)",
@@ -869,9 +873,9 @@
         "max": 330
       },
       "horarios": {
-        "sex": "21:00-03:00",
-        "sab": "21:00-03:00",
-        "dom": "20:00-01:00"
+        "sex": "a partir das 21:00",
+        "sab": "a partir das 21:00",
+        "dom": "a partir das 20:00"
       },
       "contato": {
         "endereco": "Avenida Carneiro de Mendonça, 1354 - Jóquei Clube, Fortaleza - CE"
@@ -905,7 +909,8 @@
         "Confirme a programacao do dia antes de atravessar a cidade",
         "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Clube Casa Cheia (Antônio Bezerra)",
@@ -926,9 +931,9 @@
         "max": 330
       },
       "horarios": {
-        "sex": "18:30-02:00",
-        "sab": "18:30-02:00",
-        "dom": "18:30-01:00"
+        "sex": "a partir das 18:30",
+        "sab": "a partir das 18:30",
+        "dom": "a partir das 18:30"
       },
       "contato": {
         "endereco": "Rua Martins Neto, 174 - Antônio Bezerra, Fortaleza - CE"
@@ -962,7 +967,8 @@
         "Confirme a programacao do dia antes de atravessar a cidade",
         "Leve dinheiro: casa de forro de bairro nem sempre tem maquina de cartao funcionando"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Mercado dos Pinhões e o Giro Cultural (shows gratuitos no Centro)",
@@ -1097,8 +1103,8 @@
         "max": 420
       },
       "horarios": {
-        "sex": "21:30-04:00",
-        "sab": "21:30-04:00"
+        "sex": "a partir das 21:30",
+        "sab": "a partir das 21:30"
       },
       "restricoes": {
         "idadeMinima": 18,
@@ -1133,7 +1139,8 @@
         "Não perca o cartão de consumação: nas casas grandes de Fortaleza a perda é cobrada",
         "Domingo só funciona em alta temporada, segundo a fonte"
       ],
-      "selos": []
+      "selos": [],
+      "horariosObservacao": "A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco."
     },
     {
       "nome": "Botecos do Benfica (churrasquinho, cerveja e rock perto da UFC)",
@@ -1420,10 +1427,10 @@
         "max": 270
       },
       "horarios": {
-        "sab": "18:00-23:00",
-        "dom": "18:00-23:00"
+        "sab": "a partir das 18:00",
+        "dom": "a partir das 18:00"
       },
-      "horariosObservacao": "Início às 18h confirmado na agenda do Agora RN (set/2026). A hora de fechamento NÃO está publicada - o 23:00 é limite de bloco, não dado de fonte.",
+      "horariosObservacao": "Início às 18h confirmado na agenda do Agora RN (set/2026). A hora de fechamento NÃO está publicada - o 23:00 é limite de bloco, não dado de fonte. A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco.",
       "contato": {
         "endereco": "Vila de Ponta Negra, Natal - RN (número não publicado)"
       },
@@ -1800,9 +1807,9 @@
         "max": 330
       },
       "horarios": {
-        "seg": "20:00-01:00"
+        "seg": "Sanhauá Samba Clube toda segunda; horário não publicado"
       },
-      "horariosObservacao": "A segunda-feira entra por causa do Sanhauá Samba Clube, que a fonte diz ser semanal; o horário 20h-1h é praxe de casa de show, NÃO está publicado. Os outros dias dependem de pauta.",
+      "horariosObservacao": "A segunda-feira entra por causa do Sanhauá Samba Clube, que a fonte diz ser semanal; o horário 20h-1h é praxe de casa de show, NÃO está publicado. Os outros dias dependem de pauta. A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco.",
       "contato": {
         "endereco": "Centro Histórico (junto ao Hotel Globo, beira do Rio Sanhauá), João Pessoa - PB",
         "instagram": "@vila_do_porto"
@@ -1858,11 +1865,11 @@
         "max": 180
       },
       "horarios": {
-        "sex": "17:00-18:30",
-        "sab": "17:00-18:30",
-        "dom": "17:00-18:30"
+        "sex": "a partir das 17:00",
+        "sab": "a partir das 17:00",
+        "dom": "a partir das 17:00"
       },
-      "horariosObservacao": "A hora (17h) é consistente nas duas fontes. Os DIAS divergem: uma fonte diz todos os dias, a agenda do Jornal da Paraíba diz sexta a domingo. Registrei só os dias em que as duas concordam.",
+      "horariosObservacao": "A hora (17h) é consistente nas duas fontes. Os DIAS divergem: uma fonte diz todos os dias, a agenda do Jornal da Paraíba diz sexta a domingo. Registrei só os dias em que as duas concordam. A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco.",
       "contato": {
         "endereco": "Estrada Pôr do Sol Jacaré, 997 - Portal do Poço, Cabedelo - PB"
       },
@@ -2135,9 +2142,9 @@
         "max": 300
       },
       "horarios": {
-        "ter": "19:00-23:00"
+        "ter": "a partir das 19:00"
       },
-      "horariosObservacao": "Dia (terça) e início (19h) do site oficial do Olodum. A hora de encerramento NÃO está publicada. As datas divulgadas são de temporada de verão/pré-carnaval.",
+      "horariosObservacao": "Dia (terça) e início (19h) do site oficial do Olodum. A hora de encerramento NÃO está publicada. As datas divulgadas são de temporada de verão/pré-carnaval. A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco.",
       "contato": {
         "site": "https://olodum.com.br",
         "endereco": "Praça das Artes - Pelourinho, Salvador - BA"
@@ -2195,11 +2202,11 @@
         "max": 120
       },
       "horarios": {
-        "seg": "19:00-20:30",
-        "qua": "19:00-20:30",
-        "sex": "19:00-20:30"
+        "seg": "a partir das 19:00",
+        "qua": "a partir das 19:00",
+        "sex": "a partir das 19:00"
       },
-      "horariosObservacao": "Dias e hora de início vêm de duas fontes de imprensa baiana que concordam. A hora de término é estimativa de duração de espetáculo, não dado de fonte.",
+      "horariosObservacao": "Dias e hora de início vêm de duas fontes de imprensa baiana que concordam. A hora de término é estimativa de duração de espetáculo, não dado de fonte. A fonte publica apenas o horário de INÍCIO; a hora de fechamento não foi encontrada e por isso não entra como janela no banco.",
       "preco": {
         "moeda": "BRL",
         "min": 60,

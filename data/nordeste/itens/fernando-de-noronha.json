@@ -1,5 +1,69 @@
 [
   {
+    "id": "br-fen-a-semana-noturna-de-fernando-de-noronha-forro-mpb-e",
+    "fontes": [
+      {
+        "url": "https://www.viciadaemviajar.com/o-que-fazer-em-fernando-de-noronha-a-noite-2/"
+      },
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-fernando-de-noronha-72-582-p.html"
+      },
+      {
+        "url": "https://travel.com.br/fernando-de-noronha/vida-noturna/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "A semana noturna de Fernando de Noronha (forró, MPB e samba por dia)",
+    "cidadeId": "fernando-de-noronha",
+    "categoria": "experiencia",
+    "tags": [
+      "forro",
+      "samba",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "bares"
+    ],
+    "descricaoCurta": "A noite de Noronha cabe num cronograma: sax no pôr do sol, MPB às 20h30, forró na segunda, quarta e sexta, sertanejo no sábado e samba no domingo às 22h.",
+    "descricaoLonga": "Noronha tem uma noite só, e ela é previsível - o que é uma boa notícia para planejar. O eixo é a Praia do Cachorro, na Vila dos Remédios, e o cronograma que as fontes descrevem é este: PÔR DO SOL das 17h30 às 19h30 ao som de saxofone e flauta; das 20h30 às 22h30, MPB; nas SEGUNDAS, QUARTAS E SEXTAS entra o forró tradicional; no SÁBADO o ritmo divide a noite com sertanejo; e no DOMINGO a programação é de samba, a partir das 22h. Funcionamento citado: quarta a segunda, das 12h à meia-noite - o que implica TERÇA FECHADA, e isso muda o seu roteiro, porque na ilha não há plano B equivalente. O banco já tem o Bar do Cachorro como item; este cartão existe para dar o cronograma semanal, que é o dado que falta em todo guia. ATENÇÃO AO QUE NÃO CONFIRMEI: as fontes são guias de viagem, não a casa nem imprensa pernambucana; não achei preço de entrada nem de couvert; e o horário de meia-noite colide com a prática de a noite esticar em alta temporada. O fuso de Noronha é UTC-2, uma hora à frente de Recife: o 'pôr do sol às 17h30' é hora local da ilha.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 300
+    },
+    "horariosObservacao": "12:00-00:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Praia do Cachorro, s/n - Vila dos Remédios, Fernando de Noronha - PE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Horário em fuso local de Noronha (UTC-2), uma hora à frente do continente"
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se quer forró, reserve a segunda, a quarta ou a sexta na ilha para a noite",
+      "Não conte com a terça: a fonte indica dia sem funcionamento e não há alternativa equivalente",
+      "Se quer forró, reserve a segunda, a quarta ou a sexta na ilha para a noite",
+      "Não conte com a terça: a fonte indica dia sem funcionamento e não há alternativa equivalente"
+    ],
+    "alertas": [
+      "Fontes são guias de viagem; nem a casa nem imprensa local confirmaram o cronograma",
+      "Nenhum preço de entrada ou couvert encontrado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
     "id": "br-fen-aviso-critico-tpa-taxa-de-preservacao-ambiental-de-f",
     "fontes": [
       {

@@ -46,77 +46,6 @@
         "instagram": ""
       },
       "restricoes": {
-        "outras": [
-          "A maioria das bancas aceita somente dinheiro em especie (El Universal Oaxaca, 05/2025)."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: e a refeicao com melhor relacao preco/sabor da cidade e serve de almoco e de aula de comida oaxaquenha de graca.",
-        "No Pasillo de Humo o fluxo e: escolher a carne na banca, pagar por peso, e eles grelham; tortilla, cebolinha e salsa saem de bancas vizinhas.",
-        "Combine com o Mercado Benito Juarez (uma quadra ao norte) para comprar mezcal, chocolate e chapulines."
-      ],
-      "alertas": [
-        "Preco por prato e por quilo NAO confirmado em fonte aberta - pergunte antes de pedir.",
-        "Somente dinheiro em especie na maioria das bancas."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Horario de 07:00-19:00 vem de uma fonte so (El Universal Oaxaca, 05/2025); Wikivoyage nao traz horario. Preco nao confirmado - campo omitido de proposito.",
-      "nome": "Mercado 20 de Noviembre e o Pasillo de Humo",
-      "categoria": "restaurante",
-      "cidade": "oaxaca",
-      "tags": [
-        "mercado",
-        "comida-barata",
-        "tlayuda",
-        "mole",
-        "antojitos",
-        "dinheiro-em-especie"
-      ],
-      "coords": {
-        "lat": 17.05798,
-        "lng": -96.72704
-      },
-      "descricaoCurta": "Mercado do tamanho de uma quadra a 3 quadras do Zocalo, cheio de comedores; no Pasillo de Humo voce escolhe a carne e eles grelham na sua frente.",
-      "descricaoLonga": "E o jeito certo e barato de comer em Oaxaca. O mercado ocupa uma quadra inteira a 3 quadras ao sul do Zocalo (a quadra ao sul do Mercado Benito Juarez) e e feito de bancas de cafe da manha e almoco: moles, sopas, tlayudas, tostadas, memelas, chapulines e doces. A entrada do lado leste, de frente para a C. Cabrera, da no PASILLO DE HUMO: um corredor estreito tomado pela fumaca das brasas onde cerca de 36 negocios familiares vendem tasajo, cecina enchilada, chorizo e longaniza por peso e assam na hora. O El Universal Oaxaca (11/05/2025) registra horario 07:00-19:00 e avisa que a MAIORIA DAS BANCAS SO ACEITA DINHEIRO. NAO CONSEGUI CONFIRMAR preco por prato nem por quilo de carne em fonte publicavel: as duas fontes descrevem o lugar sem tabela. A referencia de preco que tenho para a cidade e indireta - Wikivoyage diz que a comida corrida em restaurante de Centro comeca por volta de M$100, e o Excelsior registrou a tlayuda crua a M$13 a peca no mercado de abasto no fim de 2025. Trate como refeicao barata, mas leve dinheiro e confirme o preco ANTES de pedir.",
-      "duracao": {
-        "min": 45,
-        "tipica": 75,
-        "max": 120
-      },
-      "horarios": {
-        "seg": "07:00-19:00",
-        "ter": "07:00-19:00",
-        "qua": "07:00-19:00",
-        "qui": "07:00-19:00",
-        "sex": "07:00-19:00",
-        "sab": "07:00-19:00",
-        "dom": "07:00-19:00"
-      },
-      "melhorHorario": "O El Universal recomenda ir no horario do almoco para fugir da aglomeracao; para o Pasillo de Humo, chegar antes das 13:00 pega menos fila e a brasa ja quente.",
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Oaxaca_(city)",
-        "https://oaxaca.eluniversal.com.mx/mas-de-oaxaca/pasillo-de-humo-el-rincon-imperdible-para-probar-autentica-comida-oaxaquena/"
-      ],
-      "confianca": "verificado"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
         "outras": []
       },
       "pontoPartida": "",
@@ -254,7 +183,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Wikivoyage nao lista este mercado (cita El Parian e Los Sapos); horario e endereco vem da Wikipedia es. Preco omitido.",
+      "observacao": "Wikivoyage nao lista este mercado (cita El Parian e Los Sapos); horario e endereco vem da Wikipedia es. Preco omitido. COMPLEMENTA 'Mole poblano, cemitas e comida de rua em Puebla' (ja no banco, guarda-chuva): este e um mercado com endereco e horario.",
       "nome": "Mercado de Sabores Poblanos",
       "categoria": "restaurante",
       "cidade": "puebla",
@@ -389,7 +318,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, sem horario, sem preco e sem coordenada de fonte. Sem coordenada em fonte.",
+      "observacao": "Fonte unica, sem horario, sem preco e sem coordenada de fonte. Sem coordenada em fonte. COMPLEMENTA 'Mole poblano, cemitas e comida de rua em Puebla' (ja no banco, guarda-chuva).",
       "nome": "Restaurante La Fonda (cozinha poblana barata)",
       "categoria": "restaurante",
       "cidade": "puebla",
@@ -408,134 +337,6 @@
       },
       "fontes": [
         "https://en.wikivoyage.org/wiki/Puebla"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Va com fome e peca prova: varias bancas cortam queijo e embutido na hora para degustar.",
-        "Se o objetivo e ALMOCAR barato e nao comprar, o endereco certo e o Mercado San Juan Arcos de Belen (Av. Arcos de Belen s/n), que e praca de alimentacao."
-      ],
-      "alertas": [
-        "Horario NAO confirmado (a fonte so diz 'diariamente')."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Sem horario e sem preco.",
-      "nome": "Mercado de San Juan (mercado gourmet)",
-      "categoria": "compras",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "mercado",
-        "gastronomia",
-        "queijos",
-        "exoticos"
-      ],
-      "coords": {
-        "lat": 19.42995,
-        "lng": -99.14465
-      },
-      "descricaoCurta": "O mercado onde os chefs da cidade compram: queijos europeus, embutidos, ingredientes pre-hispanicos e carnes exoticas, na C. Ernesto Pugibet 21.",
-      "descricaoLonga": "Mercado especializado em comida gourmet na C. Ernesto Pugibet 21, no Centro Historico, frequentado pelos principais cozinheiros da Cidade do Mexico. Vende queijos europeus, linguica espanhola e italiana, ingredientes pre-hispanicos e carnes exoticas - e um dos poucos lugares do pais onde isso se encontra junto. Wikivoyage lista como aberto diariamente mas NAO DIZ A QUE HORAS, e nao traz faixa de preco; por isso os campos ficaram vazios. Nao confunda com o Mercado de Artesanias de San Juan (Ayuntamiento s/n, 10:00-16:00), que e de artesanato, nem com o Mercado San Juan Arcos de Belen, que e de comida pronta.",
-      "duracao": {
-        "min": 40,
-        "tipica": 60,
-        "max": 90
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: ~M$100 por pessoa num Centro onde restaurante de mesa comeca em M$150.",
-        "Serve de jantar depois da Plaza Garibaldi (10 minutos de carro) sem precisar achar barraca aberta."
-      ],
-      "alertas": [
-        "Preco sem data de coleta na fonte - confira o cardapio na porta."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Preco sem data de coleta declarada.",
-      "nome": "Cocuyo's (taqueria de madrugada)",
-      "categoria": "restaurante",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "comida-barata",
-        "tacos",
-        "antojitos",
-        "vida-noturna"
-      ],
-      "coords": {
-        "lat": 19.43054,
-        "lng": -99.13882
-      },
-      "descricaoCurta": "Taqueria classica do Centro na Bolivar 59, aberta das 08:00 as 05:00 (fecha 3 horas por dia). Cerca de M$100 por pessoa.",
-      "descricaoLonga": "Uma das taquerias famosas da Cidade do Mexico, ja mostrada em programas internacionais de comida. Fica na Bolivar 59, perto do metro San Juan de Letran, e abre todos os dias de 08:00 a 05:00 - fecha apenas tres horas. Hoje tem salao, entao nao e mais obrigatorio comer de pe na rua. Wikivoyage registra cerca de M$100 por pessoa, sem data de coleta na pagina; trate como ordem de grandeza e nao como tabela. E o endereco de ENDERECO FIXO para quem quer taco de rua sem depender de uma barraca que pode nao estar lá.",
-      "duracao": {
-        "min": 25,
-        "tipica": 45,
-        "max": 70
-      },
-      "horarios": {
-        "seg": "08:00-05:00",
-        "ter": "08:00-05:00",
-        "qua": "08:00-05:00",
-        "qui": "08:00-05:00",
-        "sex": "08:00-05:00",
-        "sab": "08:00-05:00",
-        "dom": "08:00-05:00"
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 100,
-        "max": 100,
-        "por": "pessoa",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Gasto tipico por pessoa citado pela fonte, sem detalhamento de itens nem data de coleta.",
-        "fontes": [
-          "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-        ]
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
       ],
       "confianca": "parcial"
     },
@@ -568,7 +369,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Sabado sem horario. Teto de preco inferido - declarado no campo inclui.",
+      "observacao": "Fonte unica. Sabado sem horario. Teto de preco inferido - declarado no campo inclui. Nenhum equivalente no banco de CDMX, que tem Los Cocuyos, Mercado Roma, Mercado Medellin, El Califa, Pujol e Quintonil.",
       "nome": "Hosteria de Santo Domingo (o restaurante mais antigo da cidade)",
       "categoria": "restaurante",
       "cidade": "cidade-do-mexico",
@@ -642,7 +443,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Preco sem data de coleta declarada.",
+      "observacao": "Fonte unica. Preco sem data de coleta declarada. COMPLEMENTA 'Mercado de Coyoacan' (ja no banco, categoria compras): aqui o ponto e almocar, nao comprar.",
       "nome": "El Jardin del Pulpo (Mercado de Coyoacan)",
       "categoria": "restaurante",
       "cidade": "cidade-do-mexico",
@@ -686,72 +487,6 @@
       },
       "fontes": [
         "https://en.wikivoyage.org/wiki/Mexico_City/Coyoac%C3%A1n"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: cafe da manha yucateco completo por muito menos que qualquer cafe do Centro.",
-        "Cochinita pibil e prato de MANHA no Yucatan - quem procura a noite acha versao requentada.",
-        "Para mercado grande e caotico (compras, nao refeicao), o endereco e o Lucas de Galvez/San Benito, nas calles 65-67 com 54-56."
-      ],
-      "alertas": [
-        "Preco NAO confirmado em fonte aberta."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica (Wikivoyage, listagem editada em 02/2026). Sem preco.",
-      "nome": "Mercado de Santa Ana (cafe da manha yucateco)",
-      "categoria": "restaurante",
-      "cidade": "merida",
-      "tags": [
-        "mercado",
-        "comida-barata",
-        "cochinita-pibil",
-        "panuchos",
-        "cafe-da-manha"
-      ],
-      "coords": {
-        "lat": 20.976095,
-        "lng": -89.620811
-      },
-      "descricaoCurta": "Mercado da Calle 60 com variedade grande de comida yucateca e abertura as 05:30 - o cafe da manha barato de Merida antes do calor.",
-      "descricaoLonga": "Fica na Calle 60, entre 45 e 47, na zona do Paseo de Montejo. Wikivoyage o descreve como tendo variedade espantosa de cozinha regional yucateca e um dos horarios de abertura mais cedo de Merida (05:30), o que o torna o endereco certo para cafe da manha reforcado e barato: cochinita pibil, panuchos, salbutes, huevos motulenos. Horario listado: 05:30-23:30 diariamente. NAO CONSEGUI CONFIRMAR preco por prato - a fonte nao traz tabela. Como referencia da cidade, a comida do dia no El Trapiche (Centro) e apontada como boa relacao custo-beneficio e a Savia Vegana registrava comidas de M$80-105 em 2021. Em mercado espere menos que isso, mas isso e inferencia.",
-      "duracao": {
-        "min": 30,
-        "tipica": 50,
-        "max": 80
-      },
-      "horarios": {
-        "seg": "05:30-23:30",
-        "ter": "05:30-23:30",
-        "qua": "05:30-23:30",
-        "qui": "05:30-23:30",
-        "sex": "05:30-23:30",
-        "sab": "05:30-23:30",
-        "dom": "05:30-23:30"
-      },
-      "melhorHorario": "Entre 07:00 e 09:00: comida saindo do fogao, mercado cheio de morador e o calor de Merida ainda suportavel.",
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
       ],
       "confianca": "parcial"
     },
@@ -819,69 +554,6 @@
         "link": ""
       },
       "contato": {
-        "telefone": "+52 999 129 8643",
-        "whatsapp": "",
-        "site": "https://lachayamaya.com/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Se a fila da unidade original (Calle 62) estiver grande, ande uma quadra ate a Casona: mesma cozinha, mais mesa.",
-        "CORTE SE APERTAR: e o item mais turistico dos tres de Merida - quem quer autenticidade vai ao Mercado de Santa Ana de manha."
-      ],
-      "alertas": [
-        "Preco NAO confirmado em fonte aberta."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Sem preco. Abre 13:00 - nao serve cafe da manha (a unidade original serve).",
-      "nome": "La Chaya Maya Casona",
-      "categoria": "restaurante",
-      "cidade": "merida",
-      "tags": [
-        "yucateco",
-        "cochinita-pibil",
-        "panuchos",
-        "casario-colonial"
-      ],
-      "coords": {
-        "lat": 20.97089,
-        "lng": -89.62325
-      },
-      "descricaoCurta": "Cozinha yucateca tradicional num casarao colonial da Calle 55, 13:00-22:00: a versao com mais mesa e menos fila da casa original.",
-      "descricaoLonga": "A Chaya Maya e a casa de cozinha yucateca mais procurada de Merida, e tem duas unidades. A ORIGINAL (Calle 62 x 57, 07:00-23:00) vive lotada, sobretudo na comida de domingo. A CASONA (Calle 55 x 60 y 62, uma quadra adiante, 13:00-22:00) e maior, fica num casarao colonial e tem mais mesa disponivel com a mesma cozinha. Serve cochinita pibil, panuchos, salbutes, relleno negro e tem opcoes vegetarianas. NAO CONSEGUI CONFIRMAR faixa de preco: a fonte nao traz numeros para nenhuma das duas unidades. Para dar escala, no mesmo guia o Restaurante Amaro (Centro) registrava pratos em torno de M$100 em maio/2015 - dado velho, serve so de ordem de grandeza.",
-      "duracao": {
-        "min": 60,
-        "tipica": 85,
-        "max": 120
-      },
-      "horarios": {
-        "seg": "13:00-22:00",
-        "ter": "13:00-22:00",
-        "qua": "13:00-22:00",
-        "qui": "13:00-22:00",
-        "sex": "13:00-22:00",
-        "sab": "13:00-22:00",
-        "dom": "13:00-22:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
         "telefone": "+52 33 3618 0506",
         "whatsapp": "",
         "site": "",
@@ -902,7 +574,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Horario 06:00-20:00 vem so da Wikivoyage; a Wikipedia es confirma endereco, tamanho, historia e o incendio de 2022. Preco por prato nao confirmado.",
+      "observacao": "Horario 06:00-20:00 vem so da Wikivoyage; a Wikipedia es confirma endereco, tamanho, historia e o incendio de 2022. Preco por prato nao confirmado. Nao existe item equivalente no banco de Guadalajara (que tem Tianguis de Tonala e Tlaquepaque).",
       "nome": "Mercado Libertad / San Juan de Dios (praca de alimentacao)",
       "categoria": "restaurante",
       "cidade": "guadalajara",
@@ -1076,84 +748,6 @@
         "link": ""
       },
       "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: a diferenca de preco entre comer aqui e comer na Zona Hotelera paga um dia de passeio.",
-        "Onibus R-1/R-2 ligam a Zona Hotelera ao centro por poucos pesos - nao precisa de taxi para vir jantar aqui.",
-        "Para comprar lembranca com comida por perto, o Mercado 28 esta a ~1 km a oeste (09:00-20:00)."
-      ],
-      "alertas": [
-        "O teto de preco e estimativa minha, nao dado de fonte.",
-        "Comida de rua: escolha banca com movimento e comida saindo quente."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Preco de taco com data (jan/2025); teto inferido.",
-      "nome": "Parque de las Palapas (comida de rua de Cancun)",
-      "categoria": "restaurante",
-      "cidade": "cancun",
-      "tags": [
-        "comida-barata",
-        "antojitos",
-        "tacos",
-        "praca",
-        "vida-noturna"
-      ],
-      "coords": {
-        "lat": 21.1610404,
-        "lng": -86.8275301
-      },
-      "descricaoCurta": "A praca do centro de Cancun onde o morador come: comedores a partir das 10:00, bancas a noite, tacos desde M$30 (jan/2025) e tudo fecha perto da meia-noite.",
-      "descricaoLonga": "Fica no centro (El Centro), nao na Zona Hotelera - e essa e a questao: aqui se come pelo preco que mexicano paga, nao pelo preco do Kukulcan. Wikivoyage registra que os comedores abrem as 10:00, as bancas de comida comecam a noite, e tudo fecha em torno de meia-noite; a maioria das bancas tem placa grande com foto do prato e o preco, e tacos saiam por a partir de M$30 cada em janeiro de 2025. A variedade e boa e a praca tem mesa. Combina com o entorno: La Habichuela (M. 25, perto da praca) e as taquerias da Av. Yaxchilan ficam a poucas quadras. ALERTA DE PRECO: qualquer coisa comida na Zona Hotelera custa multiplo disso - este item existe exatamente para dar a alternativa honesta.",
-      "duracao": {
-        "min": 40,
-        "tipica": 70,
-        "max": 110
-      },
-      "horarios": {
-        "seg": "10:00-24:00",
-        "ter": "10:00-24:00",
-        "qua": "10:00-24:00",
-        "qui": "10:00-24:00",
-        "sex": "10:00-24:00",
-        "sab": "10:00-24:00",
-        "dom": "10:00-24:00"
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 30,
-        "max": 150,
-        "por": "pessoa",
-        "coletadoEm": "2026-10-09",
-        "inclui": "A partir de M$30 por taco (Wikivoyage, dado de jan/2025). O teto de M$150 e estimativa de refeicao completa por pessoa e NAO esta na fonte.",
-        "fontes": [
-          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
-        ]
-      },
-      "melhorHorario": "Depois das 19:00, quando as bancas de comida abrem e a praca enche de familia; os comedores funcionam de dia.",
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
         "telefone": "+52 984 216 2419",
         "whatsapp": "",
         "site": "",
@@ -1173,7 +767,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Sem horario.",
+      "observacao": "Fonte unica. Sem horario. COMPLEMENTA 'Comida barata em Playa del Carmen (tacos, carrinhos e cantinas)' (ja no banco): este e um endereco fixo com preco e coordenada.",
       "nome": "Taqueria El Komal",
       "categoria": "restaurante",
       "cidade": "playa-del-carmen",
@@ -1238,7 +832,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, listagem de 02/2022. Sem horario, telefone ou preco.",
+      "observacao": "Fonte unica, listagem de 02/2022. Sem horario, telefone ou preco. Primeiro item de comer de Tulum no banco.",
       "nome": "Antojitos La Chiapaneca",
       "categoria": "restaurante",
       "cidade": "tulum",
@@ -1293,7 +887,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Sem horario e sem preco.",
+      "observacao": "Fonte unica. Sem horario e sem preco. Primeiro item de comer com endereco proprio de Bacalar no banco (o guarda-chuva existente esta arquivado em isla-mujeres).",
       "nome": "Antojitos Orizaba (Zocalo de Bacalar)",
       "categoria": "restaurante",
       "cidade": "bacalar",
@@ -1349,7 +943,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, sem horario e sem coordenada. Sem coordenada em fonte.",
+      "observacao": "Fonte unica, sem horario e sem coordenada. Sem coordenada em fonte. COMPLEMENTA 'Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar' (ja no banco, guarda-chuva de duas cidades).",
       "nome": "Picus (marisco na areia, ao lado do cais de Isla Mujeres)",
       "categoria": "restaurante",
       "cidade": "isla-mujeres",
@@ -1410,7 +1004,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica.",
+      "observacao": "Fonte unica. Primeiro item de comer de Cozumel no banco.",
       "nome": "Dona Quela (cafe da manha barato em Cozumel)",
       "categoria": "restaurante",
       "cidade": "cozumel",
@@ -1476,74 +1070,6 @@
       },
       "pontoPartida": "",
       "dicasAgente": [
-        "VALE CADA PESO: almoco yucateco completo por menos de M$110 a 50 m da praca principal.",
-        "So funciona de dia (cafe da manha e almoco) - para o jantar, o Taqueria Don Trejo (Calle 44 #202H) ficava aberto ate as 22:00 em jan/2022.",
-        "Cochinita pibil e lomitos sao os dois pratos que SO fazem sentido aqui e em Merida."
-      ],
-      "alertas": [
-        "Horario de abertura NAO confirmado (a fonte so diz 'cafe da manha e almoco').",
-        "Preco e de janeiro de 2022 - desatualizado, use como ordem de grandeza."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Preco com 4 anos. Nome do mercado conforme a fonte ('Mercado De Comida/El Bazar').",
-      "nome": "Mercado de Comida / El Bazar (praca de alimentacao do zocalo de Valladolid)",
-      "categoria": "restaurante",
-      "cidade": "valladolid",
-      "tags": [
-        "mercado",
-        "comida-barata",
-        "cochinita-pibil",
-        "yucateco",
-        "antojitos"
-      ],
-      "coords": {
-        "lat": 20.6910494,
-        "lng": -88.2013737
-      },
-      "descricaoCurta": "Praca de alimentacao sob arcadas na esquina nordeste da praca central: comida yucateca por M$80-110 o prato (jan/2022), so cafe da manha e almoco.",
-      "descricaoLonga": "E o endereco de comida barata de Valladolid, na esquina NORDESTE da praca central: um patio de comedores sob arcadas, aberto para cafe da manha e almoco. Wikivoyage recomenda especificamente El Habanero Taqueria e Loncheria Canul, e registra que ha tambem pizzaria e banca chinesa; pratos principais em torno de M$80-110 (dado de janeiro de 2022). Pratos da regiao que valem o pedido: lomitos de Valladolid (porco em molho de tomate fresco), cochinita pibil, relleno negro, frijol con puerco e longaniza. A fonte avisa que Valladolid esta ficando turistica e que o ponto 'local' esta cada vez mais dificil de achar - esta praca e o que sobrou dele no centro.",
-      "duracao": {
-        "min": 40,
-        "tipica": 60,
-        "max": 90
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 80,
-        "max": 110,
-        "por": "pessoa",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Prato principal, segundo a fonte, com dado de janeiro de 2022. Bebida nao incluida.",
-        "fontes": [
-          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
-        ]
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
         "VALE CADA PESO: prato quente por M$15-80 em La Punta, onde a media turistica e varias vezes isso.",
         "No centro, as comedores da zona da Av. Oaxaca (Taqueria Rosy, Comedor Tere) sao o equivalente barato - mas a fonte nao traz horario para nenhuma delas."
       ],
@@ -1552,7 +1078,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Preco sem data de coleta.",
+      "observacao": "Fonte unica. Preco sem data de coleta. Primeiro item de comer de Puerto Escondido no banco.",
       "nome": "Chilango-Taco (Punta Zicatela)",
       "categoria": "restaurante",
       "cidade": "puerto-escondido",
@@ -1753,65 +1279,6 @@
         "instagram": ""
       },
       "restricoes": {
-        "outras": [
-          "Nao fotografe pessoas nem bancas sem permissao - restricao cultural forte na regiao de Chiapas."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: a propria fonte diz que a melhor comida da cidade esta nos comedores deste mercado.",
-        "Peca sopa de pan - e o prato que nao existe no circuito turistico da Real de Guadalupe.",
-        "Na sabado, a fonte diz que muitas casas vendem tamal na propria porta; procure a luz vermelha."
-      ],
-      "alertas": [
-        "Horario em numeros e preco NAO confirmados (a fonte diz apenas 'dawn to dusk')."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Sem horario numerico e sem preco.",
-      "nome": "Mercado Jose Castillo Tielemans (mercado municipal de San Cristobal)",
-      "categoria": "restaurante",
-      "cidade": "san-cristobal",
-      "tags": [
-        "mercado",
-        "comida-barata",
-        "antojitos",
-        "tamales",
-        "indigena"
-      ],
-      "coords": {
-        "lat": 16.7436,
-        "lng": -92.6362
-      },
-      "descricaoCurta": "O mercado diario da General Utrilla, onde chegam as aldeias vizinhas: comedores com tamal de cafe da manha e sopa de pan que restaurante de turista nao faz.",
-      "descricaoLonga": "Mercado diario na General Utrilha, ao norte do centro, para onde vem gente das aldeias ao redor vender e comprar de erva a galinha viva. A Wikivoyage e direta: 'o mercado tambem e um otimo lugar para comida regional autentica a preco de comida de rua', recomenda COMER TAMAL NO CAFE DA MANHA e diz que a SOPA DE PAN - especialidade local - 'provavelmente voce nao vai achar em nenhum restaurante que atenda turista; voce acha nos comedores do mercado. Essa e a melhor comida da cidade'. A fonte tambem avisa que em certas epocas do ano se consomem insetos de varias formas e que vale prestar atencao nas bancas. Horario listado: 'do amanhecer ao anoitecer'. NAO CONSEGUI CONFIRMAR horario em numeros nem faixa de preco. Mercados indigenas de Chiapas: NAO FOTOGRAFE pessoas sem pedir - e questao seria em San Juan Chamula e no entorno.",
-      "duracao": {
-        "min": 45,
-        "tipica": 70,
-        "max": 100
-      },
-      "melhorHorario": "Manha cedo: e quando chega a comida das aldeias e quando os comedores servem tamal.",
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
         "outras": []
       },
       "pontoPartida": "Carretera Palenque-Ruinas km 4,5; colectivos para as ruinas passam na porta (~10 min da zona arqueologica, ~15 min da cidade).",
@@ -1881,7 +1348,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, listagem de 2022. Sem horario e sem preco.",
+      "observacao": "Fonte unica, listagem de 2022. Sem horario e sem preco. Primeiro item de comer de La Paz no banco (que so tinha 'Malecon de La Paz e vida noturna').",
       "nome": "Bismarkcito (tacos de camarao na orla de La Paz)",
       "categoria": "restaurante",
       "cidade": "la-paz",
@@ -2256,82 +1723,6 @@
       },
       "pontoPartida": "",
       "dicasAgente": [
-        "VALE CADA PESO: enchiladas mineras por M$60-80 no mercado contra o dobro no Jardin de la Union.",
-        "Fecha as 17:00: nao serve de jantar. Para jantar barato, as bancas da Cantarranas abrem 18:30.",
-        "Guanajuato e toda ladeira e callejon - este mercado fica na parte baixa, perto do tunel; use-o como parada de almoco entre subidas."
-      ],
-      "alertas": [
-        "Fecha as 17:00.",
-        "Precos das bancas do Embajadoras sao de 2021 - desatualizados."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. Preco de 02/2023.",
-      "nome": "Mercado Hidalgo (Guanajuato)",
-      "categoria": "restaurante",
-      "cidade": "guanajuato",
-      "tags": [
-        "mercado",
-        "comida-barata",
-        "enchiladas-mineras",
-        "antojitos"
-      ],
-      "coords": {
-        "lat": 21.0174922,
-        "lng": -101.2576966
-      },
-      "descricaoCurta": "Mercado de ferro da Av. Juarez, 09:00-17:00: enchiladas mineras, huaraches e pambazo com prato principal por M$60-80.",
-      "descricaoLonga": "O mercado de estrutura de ferro da Av. Benito Juarez e o endereco de comida barata de Guanajuato. Wikivoyage: 'otimo lugar para achar grande variedade de pratos regionais a preco acessivel', com ENCHILADAS MINERAS (o prato da cidade, de origem das minas) e enchiladas cervantinas, alem de huaraches e pambazo; prato principal por M$60-80, e tambem comedores no segundo andar, com foto dos pratos expostos. Horario listado: 09:00-17:00 (listagem de 02/2023). Para comida ainda mais barata, a fonte aponta as bancas em torno do Mercado Embajadoras: tlacoyos por M$10 e sopes/gorditas por M$15, de 11:30 as 17:00; e uma banca de tamal por M$8 cada, 18:30-21:00, na esquina da Del Campanero com a Cantarranas (dados de 2021).",
-      "duracao": {
-        "min": 40,
-        "tipica": 60,
-        "max": 90
-      },
-      "horarios": {
-        "seg": "09:00-17:00",
-        "ter": "09:00-17:00",
-        "qua": "09:00-17:00",
-        "qui": "09:00-17:00",
-        "sex": "09:00-17:00",
-        "sab": "09:00-17:00",
-        "dom": "09:00-17:00"
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 60,
-        "max": 80,
-        "por": "pessoa",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Prato principal, segundo a fonte (listagem de fevereiro de 2023). Bebida nao incluida.",
-        "fontes": [
-          "https://en.wikivoyage.org/wiki/Guanajuato"
-        ]
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Guanajuato"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
         "VALE CADA PESO: e o unico lugar do centro de San Miguel onde o preco nao e de dolar.",
         "Os comedores fecham as 17:00, duas horas antes do mercado - nao chegue as 18:00.",
         "Se voce esta em San Miguel numa TERCA, o Tianguis de los Martes (08:00-16:00, 3 km) e a feira de comida de rua da semana."
@@ -2434,73 +1825,6 @@
     },
     {
       "coletadoEm": "2026-10-09",
-      "diasFechados": [
-        "dom"
-      ],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "+52 951 514 1811",
-        "whatsapp": "",
-        "site": "http://insitumezcaleria.com/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Peca uma degustacao comparativa de varietais (espadin, tobala, tepeztate) em vez de doses soltas - e o que justifica vir aqui.",
-        "Mezcal bom se bebe puro e devagar, em copo de barro ou jicara; pedir com refrigerante e desperdicar o produto.",
-        "Fecha domingo - nao planeje a noite de domingo aqui."
-      ],
-      "alertas": [
-        "Preco NAO confirmado em fonte aberta."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica (listagem de 07/2023). Sem preco.",
-      "nome": "In Situ Mezcaleria",
-      "categoria": "bar",
-      "cidade": "oaxaca",
-      "tags": [
-        "mezcal",
-        "bares",
-        "vida-noturna",
-        "degustacao"
-      ],
-      "coords": {
-        "lat": 17.05952,
-        "lng": -96.721568
-      },
-      "descricaoCurta": "Mais de cem garrafas de mezcal de muitos produtores e varietais na Vicente Guerrero 413; os mezcaleros explicam as diferencas. Fecha domingo.",
-      "descricaoLonga": "Wikivoyage: 'bem mais de cem garrafas de mezcal para escolher, de um leque atordoante de produtores e com muitos varietais, com opcoes de jovem a anejo complexo. Os mezcaleros especialistas explicam como os mezcales sao feitos e como diferem no copo'. Fica na Vicente Guerrero 413, no Centro, e abre de 14:00 as 23:00, FECHADO DOMINGO (listagem editada em 07/2023). Contexto: mezcal e destilado de agave produzido em todo o estado de Oaxaca - tequila e, tecnicamente, um subtipo de mezcal; o de Oaxaca costuma vir de espadin e e cozido em forno de cova, o que da a nota de fumaca. NAO CONSEGUI CONFIRMAR preco de dose nem de degustacao em nenhuma das tres mezcalerias de Oaxaca que entraram no banco.",
-      "duracao": {
-        "min": 60,
-        "tipica": 90,
-        "max": 150
-      },
-      "horarios": {
-        "seg": "14:00-23:00",
-        "ter": "14:00-23:00",
-        "qua": "14:00-23:00",
-        "qui": "14:00-23:00",
-        "sex": "14:00-23:00",
-        "sab": "14:00-23:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
       "diasFechados": [],
       "reserva": {
         "necessaria": false,
@@ -2531,7 +1855,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 07/2023). Sem preco; dias da semana nao especificados.",
+      "observacao": "Fonte unica (listagem de 07/2023). Sem preco; dias da semana nao especificados. COMPLEMENTA 'In Situ Mezcaleria' e 'La Mezcaloteca' (ja no banco): esta e de coletivo de produtores rurais.",
       "nome": "Mezcaleria Cuish",
       "categoria": "bar",
       "cidade": "oaxaca",
@@ -2710,74 +2034,6 @@
     },
     {
       "coletadoEm": "2026-10-09",
-      "diasFechados": [
-        "dom"
-      ],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "+52 55 1394 0958",
-        "whatsapp": "",
-        "site": "https://www.facebook.com/PulqueriaLasDuelistas/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico.",
-          "Pulque e bebida fermentada viva: quem tem estomago sensivel deve comecar com pouco."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: e o item mais barato e mais incomum da noite da cidade - pulque praticamente nao existe fora do Mexico.",
-        "Peca o natural primeiro para entender o sabor, depois um curado (aipo, segundo a fonte).",
-        "Abre as 10:00 e fecha as 21:00 - e programa de TARDE, nao de madrugada."
-      ],
-      "alertas": [
-        "Preco NAO confirmado."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica (listagem de 01/2024). Sem preco.",
-      "nome": "Pulqueria Las Duelistas",
-      "categoria": "bar",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "pulque",
-        "bares",
-        "vida-noturna",
-        "tradicional"
-      ],
-      "coords": {
-        "lat": 19.430464,
-        "lng": -99.142737
-      },
-      "descricaoCurta": "Pulqueria classica e colorida na Aranda 28, seg-sab 10:00-21:00: pulque branco e curados de fruta e especiaria. Fechada domingo.",
-      "descricaoLonga": "Pulque e bebida de agave FERMENTADA (nao destilada), de baixo teor alcoolico e textura viscosa - a bebida pre-hispanica que praticamente so existe no Mexico. Esta e uma das pulquerias mais populares da cidade: Wikivoyage a descreve como 'amigavel e colorida, com murais no teto e nas paredes. Serve pulques curados e branco (blanco). Tente um pulque natural para sentir o sabor puro do agave, ou um dos de fruta ou especiaria. O de aipo (apio) e recomendado.' Fica na Aranda 28, no Centro, perto do metro Salto del Agua, aberta de segunda a sabado das 10:00 as 21:00, FECHADA DOMINGO (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco - a outra pulqueria listada pela fonte, La Joya (Santa Maria la Ribera), aparece com faixa de M$200, mas isso e de outra casa.",
-      "duracao": {
-        "min": 45,
-        "tipica": 75,
-        "max": 110
-      },
-      "horarios": {
-        "seg": "10:00-21:00",
-        "ter": "10:00-21:00",
-        "qua": "10:00-21:00",
-        "qui": "10:00-21:00",
-        "sex": "10:00-21:00",
-        "sab": "10:00-21:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
       "diasFechados": [],
       "reserva": {
         "necessaria": false,
@@ -2910,140 +2166,6 @@
     },
     {
       "coletadoEm": "2026-10-09",
-      "diasFechados": [
-        "dom"
-      ],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "+52 55 5525 1100",
-        "whatsapp": "",
-        "site": "https://laclandestina.mx/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Peca o sampler com a carta na mao - e o item com melhor explicacao de mezcal do banco de CDMX.",
-        "Fica a 5 minutos a pe da Tlecan (Alvaro Obregon 228), outra mezcaleria pequena - da para fazer as duas na mesma noite.",
-        "CORTE SE APERTAR: se o roteiro ja tem mezcaleria em Oaxaca, esta e dispensavel - Oaxaca e a origem."
-      ],
-      "alertas": [
-        "Preco NAO confirmado.",
-        "A fonte avisa que o GinGin, outro bar da mesma regiao, tem reputacao de 'perder' reserva e cobrar errado - confira a conta em qualquer bar de coquetelaria da zona."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica (listagem de 03/2024). Sem preco.",
-      "nome": "La Clandestina (mezcaleria na Condesa)",
-      "categoria": "bar",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "mezcal",
-        "bares",
-        "vida-noturna",
-        "condesa"
-      ],
-      "coords": {
-        "lat": 19.416461,
-        "lng": -99.169214
-      },
-      "descricaoCurta": "Mezcaleria intimista na Alvaro Obregon 298 (Condesa) com carta comentada de mezcais artesanais e marca propria para levar. Fecha domingo.",
-      "descricaoLonga": "Wikivoyage: 'bar de mezcal escuro e intimista com leque extenso de mezcais artesanais e marca propria, Enmascarado, disponivel em garrafa para levar. A carta e bem feita e explica um pouco da origem, da producao e dos destaques sensoriais de cada mezcal. Otimo lugar para experimentar com um sampler e aprender um pouco.' Alvaro Obregon 298, Condesa. Horario: segunda e terca 18:30-01:00, quarta a sabado 18:30-02:00, FECHADO DOMINGO (listagem editada em 03/2024). NAO CONSEGUI CONFIRMAR preco. A Condesa e a Roma concentram a noite de bar da cidade: na mesma fonte, a Licoreria Limantour (Alvaro Obregon 106) aparece com faixa de M$500 e e descrita como caro.",
-      "duracao": {
-        "min": 60,
-        "tipica": 95,
-        "max": 150
-      },
-      "horarios": {
-        "seg": "18:30-01:00",
-        "ter": "18:30-01:00",
-        "qua": "18:30-02:00",
-        "qui": "18:30-02:00",
-        "sex": "18:30-02:00",
-        "sab": "18:30-02:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "+52 55 5512 5725",
-        "whatsapp": "",
-        "site": "http://www.saloncorona.com.mx/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: cantina com comida e cerveja a 200 m do Zocalo, sem preco de turista.",
-        "Para quem quer a cantina mais dura (tequila forte, botana de graca, publico masculino), o Salon Espana (Republica Argentina 25) e o endereco - mas a fonte nao traz horario para ele."
-      ],
-      "alertas": [
-        "Preco NAO confirmado."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica (listagem de 01/2024). Sem preco.",
-      "nome": "Salon Corona (cantina de 1928)",
-      "categoria": "bar",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "cantina",
-        "bares",
-        "cerveja",
-        "tradicional",
-        "vida-noturna"
-      ],
-      "coords": {
-        "lat": 19.433649,
-        "lng": -99.138249
-      },
-      "descricaoCurta": "Cantina tradicional funcionando desde 1928 na Bolivar 24: cerveja, comida mexicana e jogo na TV. Dom-qui ate 23:00, sex-sab ate 02:00.",
-      "descricaoLonga": "Wikivoyage: 'cantina tradicional e simpatica desde 1928. Lugar popular para ver futebol ou simplesmente ficar bebendo cerveja. Serve comida mexicana tradicional.' Fica na Bolivar 24, na esquina do Palacio de Iturbide, perto do metro Allende - uma das quadras mais centrais da cidade. Horario: domingo a quinta 10:00-23:00, sexta e sabado 10:00-02:00 (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco. E a cantina com horario mais claro e mais facil de achar do Centro - serve bem como primeira cantina de quem nunca entrou numa.",
-      "duracao": {
-        "min": 60,
-        "tipica": 85,
-        "max": 130
-      },
-      "horarios": {
-        "dom": "10:00-23:00",
-        "seg": "10:00-23:00",
-        "ter": "10:00-23:00",
-        "qua": "10:00-23:00",
-        "qui": "10:00-23:00",
-        "sex": "10:00-02:00",
-        "sab": "10:00-02:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
       "diasFechados": [],
       "reserva": {
         "necessaria": false,
@@ -3073,7 +2195,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, listagem de 03/2017 (dado antigo). Sem preco.",
+      "observacao": "Fonte unica, listagem de 03/2017 (dado antigo). Sem preco. COMPLEMENTA 'Vida noturna em Merida: o que existe de verdade' (ja no banco, guarda-chuva).",
       "nome": "La Negrita Cantina",
       "categoria": "bar",
       "cidade": "merida",
@@ -3142,7 +2264,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 12/2024). Sem preco.",
+      "observacao": "Fonte unica (listagem de 12/2024). Sem preco. COMPLEMENTA 'Vida noturna da Av. Chapultepec e Colonia Americana' (ja no banco, guarda-chuva).",
       "nome": "Cerveceria Loba",
       "categoria": "bar",
       "cidade": "guadalajara",
@@ -3186,84 +2308,6 @@
         "link": ""
       },
       "contato": {
-        "telefone": "+52 967 119 1985",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: taca de M$35 com tapa de graca e o melhor custo-beneficio de noite em San Cristobal.",
-        "Para provar POX, pergunte no mercado municipal ou numa loja de especialidades (a fonte cita o Marchante Mercadito Culinario, Real de Guadalupe 28, 11:00-22:00) - nao achei bar com horario confirmado.",
-        "Truque barato da fonte: nas cantinas de San Cristobal, pedir uma cerveja no almoco vem com um pratinho de comida da casa de brinde."
-      ],
-      "alertas": [
-        "Horario de domingo nao consta (desconhecido, nao fechado).",
-        "Nao consegui confirmar endereco, horario nem preco de nenhuma poxeria - a indicacao de onde provar pox fica propositalmente generica."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica. A informacao sobre pox e descritiva (Wikivoyage); a Posheria nao entrou por falta de fonte com endereco e horario.",
-      "nome": "La Vina de Bacco (e o pox de Chiapas)",
-      "categoria": "bar",
-      "cidade": "san-cristobal",
-      "tags": [
-        "bares",
-        "vinho",
-        "pox",
-        "vida-noturna",
-        "tapas"
-      ],
-      "coords": {
-        "lat": 16.7374,
-        "lng": -92.63612
-      },
-      "descricaoCurta": "Bar de vinho sem pretensao na Real de Guadalupe 7, taca a partir de M$35 e TAPA DE GRACA com cada taca. Seg-sab ate meia-noite.",
-      "descricaoLonga": "Wikivoyage: 'bar de vinho com boa selecao de vinhos e cervejas, varios mexicanos. Tapas de graca sao servidas com cada taca.' Fica na Real de Guadalupe 7, a rua de bar e restaurante de San Cristobal, aberto de segunda a sabado das 14:00 a meia-noite, com taca a partir de M$35. DOMINGO NAO CONSTA - desconhecido, nao fechado. POX (pronuncia-se 'poch'): a mesma fonte registra que 'a bebida local aqui e o pox ou posh, destilado forte de cana, usado tradicionalmente para cura e para festa, servido frequentemente em PONCHE - um punch quente de abacaxi ou fruta com um pao especial partido dentro'. NAO CONSEGUI CONFIRMAR um endereco com horario e preco para provar pox: a imprensa cita a Posheria em San Cristobal, mas nao achei endereco, horario nem preco em fonte publicavel, e a fonte da Wikivoyage diz apenas que aguardentes como o pox se acham no MERCADO e com vendedores de rua pela cidade.",
-      "duracao": {
-        "min": 60,
-        "tipica": 90,
-        "max": 130
-      },
-      "horarios": {
-        "seg": "14:00-24:00",
-        "ter": "14:00-24:00",
-        "qua": "14:00-24:00",
-        "qui": "14:00-24:00",
-        "sex": "14:00-24:00",
-        "sab": "14:00-24:00"
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 35,
-        "max": 35,
-        "por": "taca",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Taca de vinho a partir de M$35, segundo a fonte, com tapa inclusa. Sem data de coleta na pagina.",
-        "fontes": [
-          "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
-        ]
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
         "telefone": "+52 473 732 9413",
         "whatsapp": "",
         "site": "",
@@ -3286,7 +2330,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 02/2023). Sem horario e sem preco.",
+      "observacao": "Fonte unica (listagem de 02/2023). Sem horario e sem preco. COMPLEMENTA 'Vida noturna de Guanajuato' (ja no banco, guarda-chuva): este e o unico pulque de Guanajuato com fonte.",
       "nome": "Fante Bar (o pulque de Guanajuato)",
       "categoria": "bar",
       "cidade": "guanajuato",
@@ -3344,7 +2388,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 06/2026), sem endereco, horario nem preco.",
+      "observacao": "Fonte unica (listagem de 06/2026), sem endereco, horario nem preco. COMPLEMENTA 'Bares e noite em Tulum (praia e pueblo)' (ja no banco, guarda-chuva): este e um endereco nomeado.",
       "nome": "Batey's (mojito de cana e musica ao vivo em Tulum)",
       "categoria": "bar",
       "cidade": "tulum",
@@ -3400,7 +2444,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 02/2026). Sem horario e sem preco.",
+      "observacao": "Fonte unica (listagem de 02/2026). Sem horario e sem preco. COMPLEMENTA 'Quinta Avenida e a noite de Playa del Carmen' (ja no banco, guarda-chuva).",
       "nome": "Chela de Playa (cervejaria artesanal em Playa del Carmen)",
       "categoria": "bar",
       "cidade": "playa-del-carmen",
@@ -3457,7 +2501,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 05/2026).",
+      "observacao": "Fonte unica (listagem de 05/2026). Primeiro item de bar de Cozumel no banco.",
       "nome": "Cerveceria Punta Sur (Cozumel)",
       "categoria": "bar",
       "cidade": "cozumel",
@@ -3533,7 +2577,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Duas paginas da Wikivoyage (Cabo San Lucas e San Jose del Cabo) - mesmo projeto, nao conto como fontes independentes. Sem preco.",
+      "observacao": "Duas paginas da Wikivoyage (Cabo San Lucas e San Jose del Cabo) - mesmo projeto, nao conto como fontes independentes. Sem preco. COMPLEMENTA 'Vida noturna em Cabo San Lucas (Cabo Wabo, El Squid Roe, The Office)' (ja no banco): o Rooftop 360 nao esta nessa lista.",
       "nome": "Rooftop 360 (Cabo San Lucas)",
       "categoria": "bar",
       "cidade": "los-cabos",
@@ -3601,7 +2645,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Sem preco.",
+      "observacao": "Fonte unica. Sem preco. COMPLEMENTA 'Vida noturna em Puerto Escondido: Zicatela, Adoquin e La Punta' (ja no banco, guarda-chuva).",
       "nome": "Congo Bar (Puerto Escondido)",
       "categoria": "bar",
       "cidade": "puerto-escondido",
@@ -3653,146 +2697,6 @@
       "restricoes": {
         "outras": []
       },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Combine preco e numero de musicas ANTES de comecar - e a regra da praca.",
-        "Para ouvir mariachi sem contratar, sente numa mesa do Salon Tenampa (Plaza Garibaldi 12) e consuma: a casa tem mariachi continuo.",
-        "Volte de taxi de aplicativo ou acompanhado: Garibaldi fica na borda do Centro e o entorno muda de carater depois de meia-noite."
-      ],
-      "alertas": [
-        "O preco e de 2023 e de UM grupo entrevistado - fontes diferentes citam valores bem diferentes para serenata.",
-        "Em datas de pico (Dia das Maes, 14 de fevereiro) o preco sobe, segundo a imprensa.",
-        "NAO CONSEGUI CONFIRMAR em fonte oficial nenhuma recomendacao de seguranca especifica para a praca; a cautela sugerida aqui e de bom senso, nao alerta de autoridade."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Preco de 2023, de um grupo so. Sem recomendacao oficial de seguranca localizada na coleta - nao inventei alerta de zona.",
-      "nome": "Plaza Garibaldi (mariachi)",
-      "categoria": "atracao",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "mariachi",
-        "musica-ao-vivo",
-        "festas",
-        "vida-noturna",
-        "cantina"
-      ],
-      "coords": {
-        "lat": 19.44056,
-        "lng": -99.13889
-      },
-      "descricaoCurta": "A praca do mariachi na Cidade do Mexico: entrada livre, voce paga por cancao. Em 2023 um grupo cobrava M$200-250 a musica e M$3.000 a hora na praca.",
-      "descricaoLonga": "Praca no Centro Historico onde grupos de mariachi de Jalisco, de traje completo, ficam esperando trabalho a diferentes horas do dia e da noite, cercada de cafes e restaurantes voltados ao publico de mariachi (Wikivoyage). O MODELO E ESTE: entrar na praca e de graca; voce contrata a musica. O Chilango (07/05/2023), citando o lider do mariachi 'El sol de Acapulco', registra M$200-250 POR CANCAO e M$3.000 POR UMA HORA ILIMITADA na propria praca (M$3.500 se for a domicilio), com grupo de 7 integrantes, e diz que da para agendar no mesmo dia com algumas horas de antecedencia - de preferencia um dia antes. ATENCAO: outras reportagens citam numeros bem diferentes para serenata completa, e em datas de pico (Dia das Maes, Dia dos Namorados) o preco sobe; os valores aqui sao de UM grupo em 2023 e devem ser tratados como ordem de grandeza. COMBINE O PRECO E O NUMERO DE MUSICAS ANTES DE O GRUPO COMECAR A TOCAR. Ao lado da praca fica o Salon Tenampa, a cantina de mariachi mais famosa do pais.",
-      "duracao": {
-        "min": 60,
-        "tipica": 100,
-        "max": 180
-      },
-      "melhorHorario": "Noite, de quinta a sabado: e quando a praca tem mais grupos e mais publico. A Wikivoyage nao traz horario de funcionamento porque e praca publica.",
-      "preco": {
-        "moeda": "MXN",
-        "min": 200,
-        "max": 3000,
-        "por": "grupo",
-        "coletadoEm": "2026-10-09",
-        "inclui": "M$200-250 por cancao e M$3.000 pela hora ilimitada na praca, com grupo de 7, segundo UM mariachi entrevistado pelo Chilango em 07/05/2023. NAO e tabela oficial. Entrar na praca e de graca.",
-        "fontes": [
-          "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
-        ]
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro",
-        "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
-      ],
-      "confianca": "verificado"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "+52 55 5526 6176",
-        "whatsapp": "",
-        "site": "http://www.salontenampa.com/",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico."
-        ]
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "E a forma de ouvir mariachi SEM contratar grupo: consome-se na mesa e a musica vem.",
-        "Chegue antes das 21:00 numa sexta se quiser mesa.",
-        "Encaixe junto com a Plaza Garibaldi - e a mesma esquina, nao e outro deslocamento."
-      ],
-      "alertas": [
-        "Horario e de 2017 - desatualizado; confirme antes de ir.",
-        "Preco NAO confirmado."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Fonte unica, listagem de 01/2017. Sem preco.",
-      "nome": "Salon Tenampa (a cantina de mariachi)",
-      "categoria": "experiencia",
-      "cidade": "cidade-do-mexico",
-      "tags": [
-        "mariachi",
-        "cantina",
-        "musica-ao-vivo",
-        "festas",
-        "tequila",
-        "mezcal"
-      ],
-      "coords": {
-        "lat": 19.44106,
-        "lng": -99.13896
-      },
-      "descricaoCurta": "Na esquina da Plaza Garibaldi: a cantina mexicana original dos boemios e mariachis dos anos 40 e 50, com mariachi continuo e carta enorme de tequila.",
-      "descricaoLonga": "Wikivoyage: 'a cantina mexicana original e mais famosa, casa tradicional dos boemios e dos mariachis dos anos 40 e 50. Selecao enorme de tequila e mezcal, comida mexicana leve, e bandas de mariachi.' Fica na Plaza Garibaldi 12, na esquina da praca. Horario listado: domingo a quinta 13:00-01:00, sexta e sabado 13:00-02:00 (listagem de 01/2017 - dado antigo, confirme). NAO CONSEGUI CONFIRMAR preco: a fonte nao traz faixa, e os valores que circulam em sites de reserva nao sao fonte que eu possa usar. Aqui o mariachi e da casa e toca para o salao - diferente da praca, onde voce contrata por musica.",
-      "duracao": {
-        "min": 90,
-        "tipica": 130,
-        "max": 200
-      },
-      "horarios": {
-        "dom": "13:00-01:00",
-        "seg": "13:00-01:00",
-        "ter": "13:00-01:00",
-        "qua": "13:00-01:00",
-        "qui": "13:00-01:00",
-        "sex": "13:00-02:00",
-        "sab": "13:00-02:00"
-      },
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      ],
-      "confianca": "parcial"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
       "pontoPartida": "Angel de la Independencia (Paseo de la Reforma); a rota segue Reforma -> Av. Juarez -> 5 de Mayo -> Zocalo.",
       "dicasAgente": [
         "Nao precisa ir ao ponto de partida: qualquer trecho da Reforma ou da Av. Juarez ve o desfile passar.",
@@ -3806,7 +2710,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (El Universal, 26/09/2026). Datas de 2027/2028 nao publicadas. Preco omitido por falta de afirmacao explicita. Coordenada e a do Angel de la Independencia (ponto de partida), da listagem da Wikivoyage Zona Rosa.",
+      "observacao": "Fonte unica (El Universal, 26/09/2026). Datas de 2027/2028 nao publicadas. Preco omitido por falta de afirmacao explicita. Coordenada e a do Angel de la Independencia (ponto de partida), da listagem da Wikivoyage Zona Rosa. Primeiro item de Dia de Muertos da CDMX no banco (o banco tem o calendario mensal, nao o desfile).",
       "nome": "Mega Procesion de Catrinas (Dia de Muertos na CDMX)",
       "categoria": "experiencia",
       "cidade": "cidade-do-mexico",
@@ -3839,136 +2743,6 @@
       "coletadoEm": "2026-10-09",
       "diasFechados": [],
       "reserva": {
-        "necessaria": true,
-        "antecedenciaDias": 45,
-        "esgotaRapido": true,
-        "link": "https://www.superboletos.com/"
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Se o roteiro cai em julho, isto reorganiza a viagem inteira: hospedagem em Oaxaca sobe e esgota.",
-        "VALE CADA PESO: as areas C e D foram gratuitas em 2025 - da para ver a festa sem pagar palco.",
-        "A regra da data e as duas segundas apos 16 de julho (com a excecao do 18 de julho). Confirme o ano na Secretaria de Turismo antes de comprar voo."
-      ],
-      "alertas": [
-        "DATAS E PRECOS DE 2027/2028 NAO PUBLICADOS na coleta (09/10/2026).",
-        "Os precos citados sao da edicao de 2025 e nao valem para anos futuros.",
-        "Em julho os precos de hospedagem em Oaxaca sobem muito e o ingresso de palco esgota.",
-        "Sem coordenada em fonte: este item nao aparece no mapa."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Regra da data confirmada em duas fontes. Datas e precos de 2027/2028 nao publicados.",
-      "nome": "Guelaguetza (Lunes del Cerro)",
-      "categoria": "experiencia",
-      "cidade": "oaxaca",
-      "tags": [
-        "guelaguetza",
-        "festas",
-        "musica-ao-vivo",
-        "danca",
-        "julho",
-        "indigena"
-      ],
-      "descricaoCurta": "A maior festa de Oaxaca: duas SEGUNDAS-FEIRAS de julho no Auditorio Guelaguetza. Em 2025 os palcos A e B custaram M$1.573 e M$1.273; as areas C e D foram de graca.",
-      "descricaoLonga": "Festa que reune as delegacoes de dancas tradicionais dos povos indigenas do estado de Oaxaca. A REGRA DA DATA, desde 1969: acontece nas DUAS SEGUNDAS-FEIRAS imediatamente seguintes a 16 de julho - exceto quando a primeira dessas segundas cai em 18 de julho (data da morte de Benito Juarez), caso em que a festa passa para 25 de julho e 1 de agosto, como ocorreu em 2011 (Wikipedia em ingles). Local: Auditorio Guelaguetza, anfiteatro aberto construido na encosta do Cerro del Fortin, concluido em 2010. Em 2025 as apresentacoes foram em 21 e 28 de julho, as 10:00 e as 17:00, com ingresso de M$1.573 no Palco A e M$1.273 no Palco B na venda geral, e as AREAS C e D DE GRACA; venda pelo superboletos.com ou na Secretaria de Turismo de Oaxaca (Av. Benito Juarez 703), dias uteis 9-17h (El Imparcial, 19/05/2025). A programacao inclui tambem Feria del Mezcal, desfiles regionais, meia maratona e a escolha da Diosa Centeotl. Existe ainda a GUELAGUETZA POPULAR, organizada por grupos comunitarios, tradicionalmente de entrada franca. AS DATAS E PRECOS DE 2027 E 2028 NAO ESTAVAM PUBLICADOS na coleta - aplique a regra das duas segundas apos 16 de julho para estimar e confirme com a Secretaria de Turismo do estado. A Wikivoyage registra a mesma regra ('os dias principais sao as segundas seguintes a 16 de julho') mas NAO traz coordenada do auditorio, e eu nao inventei nenhuma: este item entra sem ponto no mapa.",
-      "duracao": {
-        "min": 180,
-        "tipica": 240,
-        "max": 360
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 1273,
-        "max": 1573,
-        "por": "pessoa",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Ingresso de venda geral 2025: Palco B M$1.273 e Palco A M$1.573 por pessoa. As areas C e D foram GRATUITAS. Precos de 2027/2028 nao publicados.",
-        "fontes": [
-          "https://www.elimparcial.com/mexico/2025/05/20/guelaguetza-2025-fechas-boletos-y-actividades-de-la-maxima-fiesta-de-oaxaca/"
-        ]
-      },
-      "fontes": [
-        "https://en.wikipedia.org/wiki/Guelaguetza",
-        "https://www.elimparcial.com/mexico/2025/05/20/guelaguetza-2025-fechas-boletos-y-actividades-de-la-maxima-fiesta-de-oaxaca/",
-        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      ],
-      "confianca": "verificado"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "VALE CADA PESO: o programa oficial de 2026 foi inteiramente gratuito - o gasto e hospedagem, nao ingresso.",
-        "Hospedagem em Oaxaca em Dia de Muertos sobe muito e esgota: reserve com meses de antecedencia.",
-        "Se quiser velacao de panteao (Xoxocotlan, Atzompa), contrate guia local ou confirme horario no destino - nao achei horario em fonte que eu tenha aberto."
-      ],
-      "alertas": [
-        "DATAS DO PROGRAMA DE 2027/2028 NAO PUBLICADAS; o nucleo 31/10-02/11 e fixo.",
-        "Horario das velacoes nos panteoes de Xoxocotlan e Atzompa NAO confirmado.",
-        "Alta temporada forte: preco de hospedagem sobe e esgota."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Programa de 2026 confirmado; 2027/2028 nao publicados. Velacao de panteao nao confirmada em fonte aberta por mim.",
-      "nome": "Dia de Muertos em Oaxaca",
-      "categoria": "experiencia",
-      "cidade": "oaxaca",
-      "tags": [
-        "dia-de-muertos",
-        "festas",
-        "comparsa",
-        "gratis",
-        "outubro",
-        "novembro"
-      ],
-      "coords": {
-        "lat": 17.06058,
-        "lng": -96.72537
-      },
-      "descricaoCurta": "Em 2026 o programa oficial foi de 26/10 a 03/11 com mais de 100 atividades gratuitas; a grande comparsa saiu em 31/10 pelas ruas do centro.",
-      "descricaoLonga": "Oaxaca e, junto com Patzcuaro, o endereco classico do Dia de Muertos mexicano. Na edicao de 2026 o governo do estado montou um programa de MAIS DE 100 ATIVIDADES entre 26 DE OUTUBRO E 3 DE NOVEMBRO, todas de entrada franca, com: verbena no zocalo em 30/10 (tamales, pan de muerto, chocolate e cafe); GRANDE COMPARSA em 31/10 pelas ruas principais, com delegacoes culturais, carros alegoricos e mojigangas (bonecos gigantes); concursos de comparsa, de fachada decorada com cempasuchil e de catrina melhor vestida; e 30 altares monumentais no zocalo representando 16 povos indigenas e comunidades afro-mexicanas (El Universal, 06/10/2026). A Wikivoyage registra o nucleo da festa entre 31 de outubro e 2 de novembro, 'em frente a quase toda igreja do centro historico'. O QUE NAO CONFIRMEI: a velacao noturna nos panteoes de Santa Cruz Xoxocotlan e Atzompa - a tradicao mais fotografada do Dia de Muertos oaxaquenho - aparece em materia de imprensa que eu NAO abri, e a materia do El Universal que eu abri nao traz horario de velacao. Se isso e o motivo da viagem, confirme o horario dos panteoes localmente. AS DATAS DE 2027 E 2028 do programa oficial NAO ESTAO PUBLICADAS; o nucleo 31/10-02/11 e fixo no calendario.",
-      "duracao": {
-        "min": 120,
-        "tipica": 240,
-        "max": 480
-      },
-      "melhorHorario": "31 de outubro a noite: e o dia com mais atividade (comparsa, concurso de catrinas, concerto).",
-      "fontes": [
-        "https://www.eluniversal.com.mx/estados/oaxaca-presenta-la-fiesta-mas-viva-de-todas-para-celebrar-dia-de-muertos-habra-mas-de-100-actividades-del-26-de-octubre-al-3-de-noviembre/",
-        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      ],
-      "confianca": "verificado"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
         "necessaria": false,
         "antecedenciaDias": 0,
         "esgotaRapido": false,
@@ -3995,7 +2769,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Data fixa confirmada em duas fontes. Horario (15:00-21:00) e da edicao de 2025.",
+      "observacao": "Data fixa confirmada em duas fontes. Horario (15:00-21:00) e da edicao de 2025. Nao existe no banco de Oaxaca, que ja tem Guelaguetza e Dia de Muertos.",
       "nome": "Noche de Rabanos",
       "categoria": "experiencia",
       "cidade": "oaxaca",
@@ -4065,7 +2839,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 12/2021).",
+      "observacao": "Fonte unica (listagem de 12/2021). COMPLEMENTA 'Txalaparta (bar com pista de danca)' (ja no banco): casa diferente, com cover declarado.",
       "nome": "Archivo Maguey (bar que vira balada)",
       "categoria": "bar",
       "cidade": "oaxaca",
@@ -4122,77 +2896,6 @@
       "contato": {
         "telefone": "",
         "whatsapp": "",
-        "site": "",
-        "instagram": ""
-      },
-      "restricoes": {
-        "outras": []
-      },
-      "pontoPartida": "",
-      "dicasAgente": [
-        "Combine o preco e a duracao antes de o grupo tocar - o valor e negociavel, segundo a propria fonte.",
-        "Encaixe com o Mercado Libertad: almoco de torta ahogada de dia, mariachi do outro lado da rua a noite.",
-        "Para mariachi com mesa e jantar, Casa Bariachi (Av. Ignacio Vallarta 2221, 13:00-03:00, faixa M$500) e El Parian de Tlaquepaque sao as opcoes da fonte.",
-        "A fonte avisa que o bairro piora depois do escurecer: chegue de aplicativo e combine a volta."
-      ],
-      "alertas": [
-        "SEGURANCA: a Wikivoyage avisa que o bairro de San Juan de Dios 'fica sketchy depois do escurecer'. Va e volte de taxi de aplicativo, nao a pe.",
-        "Preco de 2022, de um musico entrevistado - nao e tabela e nao cobre preco por cancao."
-      ],
-      "selos": [],
-      "agendavel": true,
-      "observacao": "Preco de 2022 e por hora de grupo, nao por pessoa. Datas do festival de setembro de 2027/2028 nao publicadas.",
-      "nome": "Plaza de los Mariachis (Guadalajara)",
-      "categoria": "atracao",
-      "cidade": "guadalajara",
-      "tags": [
-        "mariachi",
-        "musica-ao-vivo",
-        "festas",
-        "vida-noturna",
-        "jalisco"
-      ],
-      "coords": {
-        "lat": 20.67495,
-        "lng": -103.3414
-      },
-      "descricaoCurta": "O berco do mariachi, na Javier Mina com Calzada Independencia, em frente ao Mercado Libertad: musicos esperando trabalho a qualquer hora do dia e da noite.",
-      "descricaoLonga": "Inaugurada em maio de 1962 pelo presidente Adolfo Lopez Mateos e dedicada a Pepe Guizar, autor da cancao 'Guadalajara'; desde 2019 tem uma estatua de Vicente Fernandez (Milenio, 21/01/2022). Fica no cruzamento da Calzada Independencia com a Avenida Javier Mina, no bairro San Juan de Dios, de frente para o Mercado Libertad, e a Wikivoyage registra que a praca e cercada de restaurantes e bares. Jalisco e a terra do mariachi, reconhecido pela UNESCO como patrimonio imaterial em 2011, e a praca e o ponto onde os grupos esperam contratacao 'a diferentes horas do dia e da noite'. PRECO: um musico entrevistado pelo Milenio disse que o custo por hora de um grupo fica em torno de M$3.500, negociavel para evento mais longo ou fora do periferico - esse e o unico numero que a materia que eu abri traz. Numeros de preco por cancao circulam em outras reportagens que eu nao abri e por isso nao registro. COMBINE O PRECO ANTES DE A MUSICA COMECAR. O nome oficial da praca e Plaza Pepe Guizar, e foi ali que nasceu o Jarabe Tapatio, o 'Mexican Hat Dance' (Wikivoyage). AVISO DE SEGURANCA: a Wikivoyage traz uma ressalva explicita - 'este bairro fica sketchy depois do escurecer'. O Festival Internacional del Mariachi y la Charreria acontece em setembro, todo ano - datas de 2027/2028 nao publicadas.",
-      "duracao": {
-        "min": 60,
-        "tipica": 90,
-        "max": 150
-      },
-      "preco": {
-        "moeda": "MXN",
-        "min": 3500,
-        "max": 3500,
-        "por": "grupo",
-        "coletadoEm": "2026-10-09",
-        "inclui": "Cerca de M$3.500 pela hora de um grupo, segundo um musico entrevistado pelo Milenio em 21/01/2022, negociavel. NAO e tabela oficial; nao e preco por pessoa nem por cancao.",
-        "fontes": [
-          "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
-        ]
-      },
-      "melhorHorario": "Noite, e sobretudo em setembro, no Festival Internacional del Mariachi y la Charreria (datas de 2027/2028 nao publicadas).",
-      "fontes": [
-        "https://en.wikivoyage.org/wiki/Guadalajara",
-        "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
-      ],
-      "confianca": "verificado"
-    },
-    {
-      "coletadoEm": "2026-10-09",
-      "diasFechados": [],
-      "reserva": {
-        "necessaria": false,
-        "antecedenciaDias": 0,
-        "esgotaRapido": false,
-        "link": ""
-      },
-      "contato": {
-        "telefone": "",
-        "whatsapp": "",
         "site": "http://business.google.com/website/el-parian/",
         "instagram": ""
       },
@@ -4211,7 +2914,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica. Sem preco e sem horario de funcionamento. Tempo de deslocamento (20-30 min) e estimativa pela distancia, nao dado de fonte.",
+      "observacao": "Fonte unica. Sem preco e sem horario de funcionamento. Tempo de deslocamento (20-30 min) e estimativa pela distancia, nao dado de fonte. COMPLEMENTA 'Tlaquepaque (Parian, Andador Independencia)' (ja no banco, categoria compras): aqui o ponto e o mariachi da noite, nao a loja de ceramica.",
       "nome": "El Parian de Tlaquepaque (mariachi) - bate-volta de Guadalajara",
       "categoria": "experiencia",
       "cidade": "guadalajara",
@@ -4271,7 +2974,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica, listagem de 08/2017. Sem preco.",
+      "observacao": "Fonte unica, listagem de 08/2017. Sem preco. COMPLEMENTA 'Zona Romantica: vida noturna e o principal bairro LGBTQ+ do Mexico' (ja no banco): este fica no malecon/Centro, outro bairro.",
       "nome": "La Bodeguita del Medio (salsa ao vivo em Puerto Vallarta)",
       "categoria": "bar",
       "cidade": "puerto-vallarta",
@@ -4340,7 +3043,7 @@
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 06/2026). Sem preco. Entra com aviso explicito de golpe registrado na fonte.",
+      "observacao": "Fonte unica (listagem de 06/2026). Sem preco. Entra com aviso explicito de golpe registrado na fonte. COMPLEMENTA 'Bares e noite em Tulum' (ja no banco): entra pelo aviso de golpe registrado na fonte.",
       "nome": "Santino Nightclub (balada de Tulum - com aviso de preco)",
       "categoria": "bar",
       "cidade": "tulum",
@@ -4382,77 +3085,1438 @@
         "necessaria": false,
         "antecedenciaDias": 0,
         "esgotaRapido": false,
-        "link": "https://www.cocobongo.com/"
+        "link": ""
       },
       "contato": {
-        "telefone": "+52 998 883 2373",
+        "telefone": "",
         "whatsapp": "",
-        "site": "https://www.cocobongo.com/",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: comer dentro do Mercado 28 custa uma fracao de qualquer coisa no Kukulcan.",
+        "Negocie nada: e comedor de preco fixo. O que se negocia no Mercado 28 e o souvenir.",
+        "A fonte avisa que o Mercado 28 tem muitos 'touts' puxando cliente - para mercado de morador, o endereco e o Mercado 23 (Ciricote 15, 07:00-19:00)."
+      ],
+      "alertas": [
+        "Preco em DOLAR como publicado na fonte - nao converti para peso.",
+        "Fecha as 18:00."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica. Complementa o item de compras 'Mercado 28' ja existente no banco.",
+      "nome": "Atotonilco (comedor dentro do Mercado 28, Cancun)",
+      "categoria": "restaurante",
+      "cidade": "cancun",
+      "tags": [
+        "mercado",
+        "comida-barata",
+        "antojitos",
+        "cafe-da-manha",
+        "comida-mexicana"
+      ],
+      "coords": {
+        "lat": 21.1615225,
+        "lng": -86.8342417
+      },
+      "descricaoCurta": "Comedor na Xel-ha 107, dentro do Mercado 28: amostra de comida de todo o Mexico por US$4-10, aberto 08:00-18:00. Peca huevos motulenos.",
+      "descricaoLonga": "O Mercado 28 e um mercado turistico do centro de Cancun, com praca de alimentacao e restaurantes mexicanos maiores no meio das lojas de souvenir - mais barato que a Zona Hotelera, mas ainda com 'preco de turista' e muito insistente, segundo a propria fonte (09:00-20:00 diariamente). Dentro dele, a Wikivoyage destaca este comedor: 'amostra extremamente boa de comida mexicana de todo o pais. Excelente valor. Nada chique, mas uma delicia gastronomica. Peca os huevos motulenos.' Endereco: Xel-ha 107, de frente para o El Cejas; 08:00-18:00; faixa de US$4-10 por pessoa. ATENCAO: o preco esta em DOLAR na fonte e eu nao converti para peso. COMPLEMENTA o item 'Mercado 28 e feiras de artesanato (Cancun)' que ja esta no banco como COMPRAS - aqui o ponto e comer, nao comprar.",
+      "duracao": {
+        "min": 35,
+        "tipica": 55,
+        "max": 80
+      },
+      "horarios": {
+        "seg": "08:00-18:00",
+        "ter": "08:00-18:00",
+        "qua": "08:00-18:00",
+        "qui": "08:00-18:00",
+        "sex": "08:00-18:00",
+        "sab": "08:00-18:00",
+        "dom": "08:00-18:00"
+      },
+      "preco": {
+        "moeda": "USD",
+        "min": 4,
+        "max": 10,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa como publicada pela fonte, em dolar; sem data de coleta na pagina.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+        ]
+      },
+      "melhorHorario": "Cafe da manha ou almoco: fecha as 18:00 e os huevos motulenos sao prato de manha.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: cocina popular com menu do dia e o almoco mais barato do centro.",
+        "Pergunte se tem sopa de pan - e a especialidade chiapaneca que o circuito turistico nao faz.",
+        "Fica a caminho do mercado municipal: faca os dois na mesma manha."
+      ],
+      "alertas": [
+        "Horario em horas e preco NAO confirmados (a fonte so diz 'Mon-Sat').",
+        "Domingo nao consta na fonte (desconhecido, nao fechado)."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 2022), sem horas e sem preco. Primeiro item de categoria 'restaurante' de San Cristobal no banco.",
+      "nome": "El Alebrije (Cocina Popular, San Cristobal)",
+      "categoria": "restaurante",
+      "cidade": "san-cristobal",
+      "tags": [
+        "comida-barata",
+        "comida-corrida",
+        "cocina-popular",
+        "chiapaneco"
+      ],
+      "coords": {
+        "lat": 16.745009,
+        "lng": -92.6355517
+      },
+      "descricaoCurta": "Cocina popular na Calle El Caminero, perto do mercado: refeicao mexicana barata com menu que muda todo dia. Seg-sab.",
+      "descricaoLonga": "Wikivoyage: 'favorito local perto de toda a movimentacao do mercado, servindo refeicoes mexicanas baratas que ficam otimas. O prato principal do menu muda quase todos os dias.' Fica na Calle El Caminero, perto do supermercado Isste, no caminho do mercado municipal. Horario listado: SEGUNDA A SABADO, sem horas - a fonte nao diz a que horas abre nem fecha. Domingo nao consta: desconhecido, nao fechado. NAO CONSEGUI CONFIRMAR preco. Isto preenche um buraco real: o banco de San Cristobal tem tres cafes e tres bares, mas NENHUM restaurante. O prato local que vale procurar nos comedores do mercado e a SOPA DE PAN, que a fonte diz que nao se acha em restaurante de turista.",
+      "duracao": {
+        "min": 40,
+        "tipica": 60,
+        "max": 85
+      },
+      "horarios": {},
+      "melhorHorario": "Horario de almoco (13:00-15:00), quando a cocina popular serve o prato do dia.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: antojito por M$12-35 e o jantar mais barato do Bajio com fonte.",
+        "O Mercado Hidalgo fecha as 17:00 - este e o endereco de JANTAR em Guanajuato.",
+        "Peca ENCHILADAS MINERAS: e o prato da cidade, de origem das minas de prata.",
+        "CORTE SE APERTAR: nada a cortar aqui - e o contrario, e o item que segura o orcamento."
+      ],
+      "alertas": [
+        "Precos de dezembro de 2021 - desatualizados; use como proporcao, nao como valor.",
+        "A fonte nao declara os dias da semana do horario 18:30-23:00."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica, precos de dez/2021. Complementa 'Mercado Hidalgo' (ja no banco, fecha as 17:00) cobrindo o jantar.",
+      "nome": "Sabritas (enchiladas mineras de noite, Guanajuato)",
+      "categoria": "restaurante",
+      "cidade": "guanajuato",
+      "tags": [
+        "comida-barata",
+        "enchiladas-mineras",
+        "antojitos",
+        "comida-de-rua"
+      ],
+      "coords": {
+        "lat": 21.016441,
+        "lng": -101.255197
+      },
+      "descricaoCurta": "Na De La Luz 3, perto do Callejon del Beso, 18:30-23:00: enchiladas M$12, tacos M$14, sopes M$12, quesadilla M$20, pambazo M$35.",
+      "descricaoLonga": "Casa de antojitos no centro, na rua De La Luz 3, perto do Callejon del Beso e do caminho do mirante do Pipila. A Wikivoyage traz a TABELA DE PRECOS por item - o que e raro e valioso: enchiladas M$12, tacos M$14, molletes M$15, sopes M$12, quesadillas M$20 e pambazo M$35 (listagem de dez/2021, sem dia da semana declarado). Horario: 18:30-23:00. Isto resolve o problema do jantar em Guanajuato: o Mercado Hidalgo, que ja esta no banco, fecha as 17:00. ATENCAO: os precos sao de dezembro de 2021 - esperem valores mais altos hoje; use a tabela como PROPORCAO (enchilada custa menos que a quesadilla) e nao como valor atual.",
+      "duracao": {
+        "min": 25,
+        "tipica": 45,
+        "max": 65
+      },
+      "horarios": {
+        "seg": "18:30-23:00",
+        "ter": "18:30-23:00",
+        "qua": "18:30-23:00",
+        "qui": "18:30-23:00",
+        "sex": "18:30-23:00",
+        "sab": "18:30-23:00",
+        "dom": "18:30-23:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 12,
+        "max": 35,
+        "por": "prato",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Por item, segundo a fonte (dez/2021): enchiladas M$12, sopes M$12, tacos M$14, molletes M$15, quesadillas M$20, pambazo M$35.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guanajuato"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guanajuato"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
         "instagram": ""
       },
       "restricoes": {
         "outras": [
-          "Venda de alcool proibida para menores de 18 anos no Mexico (pouco fiscalizada, segundo a fonte).",
-          "Lojas nao podem vender alcool depois das 17:00 no domingo."
+          "Serve tacos vegetarianos (a fonte confirma); nao confirmei opcao vegana."
         ]
       },
       "pontoPartida": "",
       "dicasAgente": [
-        "CORTE SE APERTAR: US$75 de ingresso paga varios dias de comida no centro de Cancun.",
-        "Alternativa dos locais, segundo a fonte: os bares do norte da Av. Yaxchilan, no centro, onde 'os precos sao significativamente mais baixos que nas baladas da zona hoteleira'.",
-        "Ingresso trocavel na Oxxo por M$1.000 era a opcao mais barata citada pela fonte - mas com fila."
+        "VALE CADA PESO: M$16 o taco em jan/2022 - mesmo com inflacao, segue entre os mais baratos do Yucatan.",
+        "CARNITAS e o pedido certo aqui; para cochinita pibil, va de manha a um mercado.",
+        "Tem menu em ingles e opcao vegetariana - util se o grupo tem restricao."
       ],
       "alertas": [
-        "Preco em DOLAR como publicado na fonte; nao converti para peso.",
-        "Dado de marco de 2025 - confira no site oficial antes de comprar.",
-        "Zona Hotelera: todo preco de bar e multiplo do preco do centro de Cancun."
+        "Preco de janeiro de 2022 - desatualizado."
       ],
       "selos": [],
       "agendavel": true,
-      "observacao": "Fonte unica (listagem de 03/2025). Precos em dolar, nao convertidos.",
-      "nome": "Coco Bongo (Cancun - show e balada, com preco na cara)",
+      "observacao": "Fonte unica, preco de jan/2022. Complementa 'Mercado e cenote Zaci em Valladolid' (ja no banco) cobrindo o jantar.",
+      "nome": "Taqueria Don Trejo (Valladolid)",
+      "categoria": "restaurante",
+      "cidade": "valladolid",
+      "tags": [
+        "comida-barata",
+        "tacos",
+        "carnitas",
+        "yucateco",
+        "vegetariano"
+      ],
+      "coords": {
+        "lat": 20.688781,
+        "lng": -88.20335
+      },
+      "descricaoCurta": "Na Calle 44 #202H: taco de carnitas ou pastor por M$16 (jan/2022), com opcao vegetariana e menu em ingles. Aberta ate as 22:00.",
+      "descricaoLonga": "Wikivoyage: 'restaurante simples e autentico. Tacos com carnitas e carne de pastor por M$16 (jan/2022). Tambem servem tacos vegetarianos, tortas, gringas e quesadillas. Tem menu em ingles. Abre seg-sex 08:00-22:00 e no fim de semana 09:00-22:00.' Endereco: Calle 44 #202H, entre 41 e 43, a poucas quadras da praca central. Dois detalhes que importam no roteiro: tem opcao VEGETARIANA (raro em taqueria de pueblo) e fica aberta ate as 22:00, o que resolve o jantar - a praca de alimentacao do zocalo e os mercados de Valladolid so funcionam de dia. ATENCAO: o preco e de janeiro de 2022 e a fonte avisa, em outra listagem da mesma cidade, que Valladolid esta ficando turistica rapido.",
+      "duracao": {
+        "min": 25,
+        "tipica": 45,
+        "max": 65
+      },
+      "horarios": {
+        "seg": "08:00-22:00",
+        "ter": "08:00-22:00",
+        "qua": "08:00-22:00",
+        "qui": "08:00-22:00",
+        "sex": "08:00-22:00",
+        "sab": "09:00-22:00",
+        "dom": "09:00-22:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 16,
+        "max": 16,
+        "por": "prato",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Por taco de carnitas ou pastor, segundo a fonte, com dado de janeiro de 2022. Tortas, gringas e quesadillas sem preco na fonte.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "Metro Salto del Agua (linhas 1 e 8), Centro Historico.",
+      "dicasAgente": [
+        "VALE CADA PESO: comida pronta de mercado no Centro Historico, ao lado de uma estacao de metro.",
+        "Procure especificamente a banca da entrada de tras da Calle Delicias, de frente para as padarias - a fonte da essa coordenada humana.",
+        "Peca a TORTA CUBANA e divida: e sanduiche de varias carnes ao mesmo tempo."
+      ],
+      "alertas": [
+        "Horario e preco NAO confirmados.",
+        "Nao e o Mercado de San Juan gourmet (Ernesto Pugibet) nem o Mercado de Artesanias de San Juan."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica, sem horario e sem preco. Mercado DIFERENTE do 'Mercado de San Juan (comidas exoticas)' que ja esta no banco.",
+      "nome": "Mercado San Juan Arcos de Belen (comida pronta, CDMX)",
+      "categoria": "restaurante",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "mercado",
+        "comida-barata",
+        "antojitos",
+        "tortas",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 19.42753,
+        "lng": -99.14248
+      },
+      "descricaoCurta": "Mercado cheio de bancas de comida na Av. Arcos de Belen, perto do metro Salto del Agua: o endereco da TORTA CUBANA, na Calle Delicias.",
+      "descricaoLonga": "NAO CONFUNDA com o Mercado de San Juan de comidas exoticas (C. Ernesto Pugibet 21), que ja esta no banco como item de compras: este e OUTRO mercado, na Av. Arcos de Belen s/n, junto ao metro Salto del Agua, e aqui o ponto e comer pronto. Wikivoyage: 'e cheio de bancas de comida oferecendo todos os favoritos mexicanos. Ache a que fica de frente para as padarias pequenas, por uma das entradas de tras na CALLE DELICIAS, que serve a TORTA CUBANA. As pessoas que tocam a banca sao incrivelmente acolhedoras e a comida, especialmente a Cubana, e excelente.' NAO CONSEGUI CONFIRMAR horario nem preco - a listagem nao traz. Torta cubana e o sanduiche gigante com varias carnes de uma vez; e refeicao de uma pessoa so com dificuldade.",
+      "duracao": {
+        "min": 30,
+        "tipica": 50,
+        "max": 75
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [
+        "seg"
+      ],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 951 455 5522",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: estrela Michelin por M$300 e o melhor custo-beneficio de restaurante do pacote mexicano inteiro.",
+        "Peca os 'paquetes' - a propria fonte nomeia o pedido.",
+        "Fica ~4 km ao norte do centro: va de taxi ou aplicativo, nao a pe.",
+        "Fecha SEGUNDA."
+      ],
+      "alertas": [
+        "Fechado segunda.",
+        "Fica fora do centro historico (San Felipe del Agua) - precisa de carro ou taxi."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 06/2025).",
+      "nome": "Barbacoa Obispo Cocina Real (Oaxaca)",
+      "categoria": "restaurante",
+      "cidade": "oaxaca",
+      "tags": [
+        "barbacoa",
+        "mixteco",
+        "comida-tipica",
+        "michelin",
+        "oaxaquenho"
+      ],
+      "coords": {
+        "lat": 17.095009,
+        "lng": -96.715251
+      },
+      "descricaoCurta": "Barbacoa mixteca com estrela Michelin 2025 por M$300, em San Felipe del Agua: comida de estrela a preco de comedor. Fecha segunda.",
+      "descricaoLonga": "Wikivoyage: 'salao de jantar ao ar livre confortavel servindo barbacoa mixteca autentica, ao mesmo tempo familiar e unica no seu perfil de sabor tradicional. Peca os \"paquetes\". Recebeu estrela no Guia Michelin 2025, e ainda assim a comida tem preco acessivel e e servida num estilo cotidiano e humilde, o que faz dele um valor extraordinario para o gourmet sem dinheiro.' Endereco: Calz. San Felipe del Agua 327, bairro San Felipe - cerca de 4 km ao norte do centro historico, nao e a pe. Horario: terca a sabado 09:00-21:00, domingo 09:00-17:00, FECHADO SEGUNDA; faixa de M$300 (listagem de 06/2025). Barbacoa aqui e carne cozida lentamente em cova, tradicao da Mixteca oaxaquenha - prato diferente dos moles e das tlayudas que dominam o resto do roteiro.",
+      "duracao": {
+        "min": 70,
+        "tipica": 100,
+        "max": 150
+      },
+      "horarios": {
+        "ter": "09:00-21:00",
+        "qua": "09:00-21:00",
+        "qui": "09:00-21:00",
+        "sex": "09:00-21:00",
+        "sab": "09:00-21:00",
+        "dom": "09:00-17:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 300,
+        "max": 300,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa segundo a fonte (listagem de junho/2025).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        ]
+      },
+      "melhorHorario": "Almoco. Barbacoa e prato de manha e comeco de tarde; e a casa fecha as 17:00 no domingo.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 222 242 6696",
+        "whatsapp": "",
+        "site": "http://www.elmuraldelospoblanos.com",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: e fine dining; o mesmo mole sai muito mais barato no Mercado de Sabores ou no Restaurante La Fonda.",
+        "Se a viagem cai na temporada (julho a 16/09), e aqui ou no La Fonda que o chile en nogada faz sentido.",
+        "Abre so as 13:00 - nao serve cafe da manha."
+      ],
+      "alertas": [
+        "Preco NAO confirmado (a fonte so diz 'fine dining').",
+        "A fonte nao declara os dias da semana do horario 13:00-23:00.",
+        "Sem coordenada em fonte: este item nao aparece no mapa."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Preco da casa nao confirmado; sem lat/long na fonte. Complementa 'Mole poblano, cemitas e comida de rua em Puebla' (ja no banco).",
+      "nome": "El Mural de los Poblanos (mole poblano)",
+      "categoria": "restaurante",
+      "cidade": "puebla",
+      "tags": [
+        "mole",
+        "chiles-en-nogada",
+        "poblano",
+        "comida-tipica",
+        "fine-dining"
+      ],
+      "descricaoCurta": "Na 16 de Septiembre 506, 13:00-23:00: segundo a fonte, o melhor mole poblano da cidade, com pratos de temporada e cozinha espanhola.",
+      "descricaoLonga": "Wikivoyage, na secao de alta gastronomia de Puebla: 'cozinha tradicional; fine dining. O MELHOR MOLE POBLANO.' A listagem acrescenta pratos de temporada e espanhois. Endereco: 16 de Septiembre 506, no centro historico, aberto das 13:00 as 23:00 (a fonte nao declara os dias da semana - trate todos como conhecidos e nenhum como fechado). NAO CONSEGUI CONFIRMAR faixa de preco: a fonte o classifica como 'fine dining' sem dar numeros. Em temporada (meados de julho a 16 de setembro) e um dos enderecos obvios para chile en nogada, que custou entre M$250 e M$600 em Puebla em 2026 segundo o Milenio - mas esse e preco de mercado da cidade, NAO a tabela desta casa. A listagem da Wikivoyage NAO traz lat/long e eu nao inventei nenhuma: este item entra sem ponto no mapa. Para achar, a propria fonte da a referencia humana: de frente para a catedral, a esquerda na 16 de Septiembre; fica a direita depois da 5 Poniente.",
+      "duracao": {
+        "min": 80,
+        "tipica": 110,
+        "max": 160
+      },
+      "horarios": {
+        "seg": "13:00-23:00",
+        "ter": "13:00-23:00",
+        "qua": "13:00-23:00",
+        "qui": "13:00-23:00",
+        "sex": "13:00-23:00",
+        "sab": "13:00-23:00",
+        "dom": "13:00-23:00"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Puebla",
+        "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 333 833 0883",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "Centro Historico de Guadalajara; ~10 km / 25-40 min de carro ou aplicativo ate o centro de Zapopan (estimativa pela distancia).",
+      "dicasAgente": [
+        "VALE CADA PESO: recomendacao de Michelin por M$200 com porcao grande.",
+        "Peca TOSTADA DE PATA - e o prato que os editores do Michelin destacaram.",
+        "So abre as 14:00: e almoco tardio ou jantar, nao cafe da manha.",
+        "Se o roteiro nao tem tempo para Zapopan, a Birreria Las Nueve Esquinas e a La Chata resolvem no centro."
+      ],
+      "alertas": [
+        "Fica em Zapopan, nao no centro de Guadalajara - conte o deslocamento.",
+        "Tempo de deslocamento e estimativa pela distancia, nao dado de fonte."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 12/2024). Tempo de carro estimado.",
+      "nome": "Fonda Dona Gabina Escolastica (Zapopan) - bate-volta de Guadalajara",
+      "categoria": "restaurante",
+      "cidade": "guadalajara",
+      "tags": [
+        "comida-tipica",
+        "pozole",
+        "michelin",
+        "comida-barata",
+        "zapopan",
+        "bate-volta"
+      ],
+      "coords": {
+        "lat": 20.7201585,
+        "lng": -103.3893819
+      },
+      "descricaoCurta": "Fonda regional no centro de Zapopan, recomendada pelo Guia Michelin: tostada de pata, pozole e enchiladas por M$200, porcoes grandes. 14:00-22:30.",
+      "descricaoLonga": "BATE-VOLTA curto: fica na Javier Mina 237, no centro de ZAPOPAN, municipio vizinho que faz parte da regiao metropolitana de Guadalajara - cerca de 10 km a noroeste do Centro Historico, uns 25 a 40 minutos de carro ou aplicativo dependendo do transito (estimativa pela distancia, nao dado de fonte). Wikivoyage: 'restaurante mexicano regional tradicional. Recomendado pelo Guia Michelin, cujos editores destacam em particular a TOSTADA DE PATA. Outras especialidades da casa incluem pozole e enchiladas. Porcoes grandes, precos acessiveis.' Horario: 14:00-22:30 todos os dias; faixa de M$200 (listagem de 12/2024). Encaixe com a Basilica de Zapopan, que fica no mesmo centro - embora a basilica nao esteja no banco.",
+      "duracao": {
+        "min": 60,
+        "tipica": 85,
+        "max": 120
+      },
+      "horarios": {
+        "seg": "14:00-22:30",
+        "ter": "14:00-22:30",
+        "qua": "14:00-22:30",
+        "qui": "14:00-22:30",
+        "sex": "14:00-22:30",
+        "sab": "14:00-22:30",
+        "dom": "14:00-22:30"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa segundo a fonte (listagem de dezembro/2024).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 999 928 1497",
+        "whatsapp": "",
+        "site": "https://dulceriaysorbeteriacolon.wordpress.com/",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: e a parada de calor mais barata do centro de Merida, de frente para o Zocalo.",
+        "Peca sorbete, nao sorvete de leite: o de coco e o de limao sao os citados pela fonte.",
+        "Horario das listagens de 2015 - desatualizado; a casa e centenaria, mas confirme o horario na porta."
+      ],
+      "alertas": [
+        "Horario e das listagens de abril/2015 - desatualizado.",
+        "Preco NAO confirmado."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica, listagens de 2015. Sem preco.",
+      "nome": "Dulceria y Sorbeteria Colon (Merida, desde 1907)",
+      "categoria": "cafe",
+      "cidade": "merida",
+      "tags": [
+        "sorvete",
+        "doces",
+        "historico",
+        "comida-barata",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 20.96775,
+        "lng": -89.62397
+      },
+      "descricaoCurta": "Sorbeteria de familia desde 1907, de frente para o Zocalo de Merida, aberta 08:00-23:00: sorbetes de coco, manga, abacaxi e limao.",
+      "descricaoLonga": "Wikivoyage: 'estabelecida em 1907, esta casa de familia e especializada em sorbetes delicio_sos e doces recheados de merengue, perfeitos numa tarde quente. Os sorbetes vem numa penca de sabores exoticos, incluindo os favoritos perenes coco, manga, abacaxi e limao. As mesas na calcada estao num ponto privilegiado para ver gente passar.' Endereco: Calle 61 No. 500, de frente para o Zocalo (Plaza Grande); 08:00-23:00 todos os dias. Ha uma segunda unidade na Calle 56A #474, perto do Paseo de Montejo, 09:00-23:00. NAO CONSEGUI CONFIRMAR preco. CONTEXTO DE ROTEIRO: Merida e uma das cidades mais quentes do pacote - a propria onda de Yucatan tem um item sobre os meses insuportaveis. Sorbete as 16:00 na sombra da Plaza Grande e item de sobrevivencia, nao de luxo.",
+      "duracao": {
+        "min": 20,
+        "tipica": 35,
+        "max": 55
+      },
+      "horarios": {
+        "seg": "08:00-23:00",
+        "ter": "08:00-23:00",
+        "qua": "08:00-23:00",
+        "qui": "08:00-23:00",
+        "sex": "08:00-23:00",
+        "sab": "08:00-23:00",
+        "dom": "08:00-23:00"
+      },
+      "melhorHorario": "Meio da tarde (15:00-17:00), o pico de calor de Merida.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 55 3662 6088",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Peca a mezcalhina e o guacamole com chapulines - sao os dois itens que a fonte nomeia.",
+        "Abre as 15:00 de quinta a domingo: serve de fim de tarde, nao so de madrugada.",
+        "CORTE SE APERTAR: se o roteiro ja tem mezcaleria em Oaxaca, este e o primeiro corte da noite da CDMX."
+      ],
+      "alertas": [
+        "O que a faixa de M$200 cobre nao esta claro na fonte."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 01/2025). Complementa 'La Clandestina (mezcaleria, Condesa)' ja no banco.",
+      "nome": "Mano Santa Mezcal (Roma, CDMX)",
+      "categoria": "bar",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "mezcal",
+        "bares",
+        "vida-noturna",
+        "roma",
+        "chapulines"
+      ],
+      "coords": {
+        "lat": 19.419949,
+        "lng": -99.164465
+      },
+      "descricaoCurta": "Na Av. Insurgentes Sur 219 (Roma Norte): mezcais de perfis bem distintos, mezcalhina, guacamole com chapulines e cerveja local. M$200.",
+      "descricaoLonga": "Wikivoyage: 'bar contemporaneo e descolado especializado em mezcais, com ampla variedade de marcas, muitas com perfis de sabor bem distintos. Oferece muitos drinks de mezcal, incluindo a classica mezcalhina, com um toque citrico. Ha petiscos leves de bar, entre eles um guacamole maravilhoso com chapulines (gafanhotos). Tambem uma selecao de cervejas locais.' Endereco: Av. Insurgentes Sur 219, Roma Norte. Horario: segunda a quarta 18:00-02:00, quinta a domingo 15:00-02:00; faixa de M$200 (listagem de 01/2025). Diferenca em relacao as mezcalerias que ja estao no banco (La Clandestina, na Condesa, e La Mezcaloteca, em Oaxaca): aqui o foco e DRINK de mezcal e nao degustacao pura, e abre mais cedo no fim de semana.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 140
+      },
+      "horarios": {
+        "seg": "18:00-02:00",
+        "ter": "18:00-02:00",
+        "qua": "18:00-02:00",
+        "qui": "15:00-02:00",
+        "sex": "15:00-02:00",
+        "sab": "15:00-02:00",
+        "dom": "15:00-02:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa segundo a fonte (listagem de janeiro/2025). Nao detalha o que cobre.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 55 7705 6145",
+        "whatsapp": "",
+        "site": "http://www.fallingpiano.mx/",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Fecha as 22:00: e o bar da CDMX compativel com dia seguinte de Teotihuacan.",
+        "VALE CADA PESO: tem comida de verdade, entao substitui jantar em vez de somar com ele.",
+        "A 5 minutos a pe da Licoreria Limantour e da Mano Santa, se a noite for render."
+      ],
+      "alertas": [
+        "O que a faixa de M$200 cobre nao esta claro na fonte."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 12/2025).",
+      "nome": "Falling Piano Brewing Co. (Roma, CDMX)",
+      "categoria": "bar",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "cervejaria-artesanal",
+        "bares",
+        "roma",
+        "comida-de-bar"
+      ],
+      "coords": {
+        "lat": 19.412241,
+        "lng": -99.159934
+      },
+      "descricaoCurta": "Brewpub grande na Coahuila 99 (Roma Norte), aberto 14:00-22:00 todos os dias: cerveja da casa com pizza, asinha e comida de bar. M$200.",
+      "descricaoLonga": "Wikivoyage: 'brewpub grande servindo as ales produzidas na casa junto com pizza, asinhas e outra comida leve de bar.' Endereco: Coahuila 99, Roma Norte; 14:00-22:00 todos os dias; faixa de M$200 (listagem de 12/2025). Entra no banco por dois motivos praticos: FECHA AS 22:00 (resolve a noite de quem precisa acordar cedo) e serve COMIDA DE VERDADE, o que nenhum dos outros bares de CDMX do banco garante. Para lager em vez de ale, a mesma fonte lista o Lagerbar Hercules, na Campeche 322 (Hipodromo), taproom de uma cervejaria de Queretaro, aberto seg-sab 13:00-23:30 e dom 13:00-20:00.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 130
+      },
+      "horarios": {
+        "seg": "14:00-22:00",
+        "ter": "14:00-22:00",
+        "qua": "14:00-22:00",
+        "qui": "14:00-22:00",
+        "sex": "14:00-22:00",
+        "sab": "14:00-22:00",
+        "dom": "14:00-22:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa segundo a fonte (listagem de dezembro/2025). Nao detalha o que cobre.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 555 286 9334",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Peca a Rye Lager ou a Schwarzbier - as duas que a fonte destaca como fora do padrao.",
+        "Abre as 13:00: e o unico bar do banco de CDMX que serve de almoco.",
+        "Fica na Condesa, a pe da La Clandestina e do Salon Malafama (sinuca)."
+      ],
+      "alertas": [
+        "Preco NAO confirmado."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 02/2026). Sem preco.",
+      "nome": "Lagerbar Hercules (Condesa/Hipodromo, CDMX)",
+      "categoria": "bar",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "cervejaria-artesanal",
+        "bares",
+        "condesa",
+        "comida-de-bar"
+      ],
+      "coords": {
+        "lat": 19.408849,
+        "lng": -99.172774
+      },
+      "descricaoCurta": "Taproom de uma cervejaria de Queretaro na Campeche 322: colecao de lagers europeias, inclusive uma Rye Lager e uma Schwarzbier. Seg-sab ate 23:30.",
+      "descricaoLonga": "Wikivoyage: 'taproom de uma cervejaria artesanal baseada em Queretaro, especializada numa colecao eclatica de cervejas predominantemente de estilo lager europeu. A mais incomum e provavelmente a Rye Lager. Tambem tem uma boa Schwarzbier, producoes de estacao como Oktoberfest, e uma Mexican Lager pensada para imitar uma Corona ou Tecate. Boa selecao de petiscos de bar.' Endereco: Campeche 322, Hipodromo (Condesa). Horario: segunda a sabado 13:00-23:30, domingo 13:00-20:00 (listagem de 02/2026). NAO CONSEGUI CONFIRMAR preco. Entra como contraponto: o banco de CDMX tem mezcal e cantina, mas quase nada de cerveja, e a cena de lager artesanal mexicana e o que mais cresceu nos ultimos anos.",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 130
+      },
+      "horarios": {
+        "seg": "13:00-23:30",
+        "ter": "13:00-23:30",
+        "qua": "13:00-23:30",
+        "qui": "13:00-23:30",
+        "sex": "13:00-23:30",
+        "sab": "13:00-23:30",
+        "dom": "13:00-20:00"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 442 214 2620",
+        "whatsapp": "",
+        "site": "https://m.facebook.com/HanksQueretaro/",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Terca e quarta tem 2x1 (margarita e martini) segundo a fonte - sao os dias de ir.",
+        "Se o que voce quer e mariachi e ranchera ao vivo, a fonte cita a cantina Adios Amor (Bernardo Quintana) - mas sem endereco, horario nem preco.",
+        "Primeiro item de noite de Queretaro no banco: o resto da cidade nao tem dado publicado."
+      ],
+      "alertas": [
+        "Preco NAO confirmado.",
+        "A fonte nao declara os dias da semana do horario 12:00-00:00.",
+        "Sem coordenada em fonte: este item nao aparece no mapa."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica, sem preco e sem lat/long na listagem. Primeiro item de bar de Queretaro no banco.",
+      "nome": "Hank's Queretaro",
+      "categoria": "bar",
+      "cidade": "queretaro",
+      "tags": [
+        "bares",
+        "musica-ao-vivo",
+        "jazz",
+        "vida-noturna",
+        "centro-historico"
+      ],
+      "descricaoCurta": "Na Juarez Sur 7, Plaza Constitucion, 12:00-00:00: jazz ao vivo, cozinha cajun e promocao 2x1 de margarita na terca e de martini na quarta.",
+      "descricaoLonga": "Wikivoyage: 'margaritas (tercas), martinis (quartas) 2x1. Jazz ao vivo. Cozinha crioula cajun.' Endereco: Juarez Sur 7, no centro, junto a Plaza Constitucion; horario 12:00-00:00 (a fonte nao declara os dias). NAO CONSEGUI CONFIRMAR preco. Entra porque o banco de Queretaro nao tem UM UNICO item de bar ou restaurante - a cobertura de comida e noite da cidade nas fontes abertas e a mais fraca do Bajio. A propria pagina da Wikivoyage lista outros nomes da noite queretana apenas como links de texto, sem endereco, horario ou preco: Wicklow (pub irlandes no centro), Maximiliano Cantina (bar LGBTQ+ no centro historico), Mezontle (balada em Juriquilla) e Adios Amor (cantina em Bernardo Quintana com mariachi e ranchera ao vivo).",
+      "duracao": {
+        "min": 60,
+        "tipica": 95,
+        "max": 140
+      },
+      "horarios": {
+        "seg": "12:00-00:00",
+        "ter": "12:00-00:00",
+        "qua": "12:00-00:00",
+        "qui": "12:00-00:00",
+        "sex": "12:00-00:00",
+        "sab": "12:00-00:00",
+        "dom": "12:00-00:00"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Quer%C3%A9taro"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 415 154 9432",
+        "whatsapp": "",
+        "site": "http://www.berlinmexico.com/",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Cozinha ate as 23:30: da para jantar tarde, o que em San Miguel nao e trivial.",
+        "CORTE SE APERTAR: San Miguel e a cidade mais cara da regiao; o Mercado Ignacio Ramirez resolve comida por uma fracao.",
+        "Fica a meia quadra do Jardin - nao precisa de taxi para voltar."
+      ],
+      "alertas": [
+        "Preco NAO confirmado."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica. Sem preco. Complementa 'Rooftops de San Miguel de Allende' ja no banco.",
+      "nome": "Berlin Bar & Bistro (San Miguel de Allende)",
+      "categoria": "bar",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "bares",
+        "vida-noturna",
+        "bistro",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 20.91406,
+        "lng": -100.74553
+      },
+      "descricaoCurta": "Bar-bistro na Umaran 19, aberto 17:00-01:00 todos os dias (cozinha ate 23:30): a opcao de noite tranquila num centro tomado por rooftop.",
+      "descricaoLonga": "Wikivoyage: 'para um otimo ultimo drink, o Berlin e um bar tranquilo otimo. O dono e muito acolhedor e a comida e sublime.' Endereco: Umaran 19, a meia quadra do Jardin Principal; 17:00-01:00 todos os dias, com jantar servido ate as 23:30. NAO CONSEGUI CONFIRMAR preco. Entra como contraponto ao item 'Rooftops de San Miguel de Allende' que ja esta no banco: San Miguel e a cidade mais cara do Bajio, dominada por terraco panoramico com preco de dolar, e este e um bar de rua no nivel do chao, com cozinha. Para balada de verdade na cidade, o endereco e o Mama Mia (Umaran 8).",
+      "duracao": {
+        "min": 60,
+        "tipica": 90,
+        "max": 140
+      },
+      "horarios": {
+        "seg": "17:00-01:00",
+        "ter": "17:00-01:00",
+        "qua": "17:00-01:00",
+        "qui": "17:00-01:00",
+        "sex": "17:00-01:00",
+        "sab": "17:00-01:00",
+        "dom": "17:00-01:00"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 55 5264 7823",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: a aula de salsa de graca para quem chega cedo e o melhor acrescimo de noite do roteiro.",
+        "Nao tente ir de segunda a quarta: a fonte so confirma quinta a sabado.",
+        "A filial de San Angel e mais jovem e mais dificil de entrar, segundo a fonte."
+      ],
+      "alertas": [
+        "Cover e preco de bebida NAO confirmados.",
+        "Horario de domingo a quarta nao consta na fonte (desconhecido, nao fechado)."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 02/2024). Sem preco.",
+      "nome": "Mama Rumba (salsa cubana na Roma, CDMX)",
+      "categoria": "bar",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "salsa",
+        "balada",
+        "musica-ao-vivo",
+        "festas",
+        "danca",
+        "vida-noturna"
+      ],
+      "coords": {
+        "lat": 19.413982,
+        "lng": -99.16493
+      },
+      "descricaoCurta": "Uma das casas de danca mais populares da cidade: salsa, merengue e musica cubana de quinta a sabado, 18:00-03:00. Chegue cedo e ganhe aula de salsa.",
+      "descricaoLonga": "Wikivoyage: 'uma das casas de danca/bares mais populares da cidade, normalmente muito cheia, toca salsa, merengue e outra musica cubana. Ha outra filial em San Angel, mais popular com o publico jovem e as vezes difficil de entrar. CHEGUE CEDO E GANHE UMA AULA DE SALSA DE GRACA.' Endereco: Av. Medellin, Colonia Roma, a uma quadra da Insurgentes. Horario: quinta a sabado 18:00-03:00 (listagem de 02/2024) - os outros dias nao constam: desconhecido, nao fechado. NAO CONSEGUI CONFIRMAR cover nem preco de bebida. Para quem quer salsa com banda ao vivo, a mesma fonte lista o Club San Luis (San Luis Potosi 26, Roma Sur, seg-sab 20:00-04:00, COVER M$250), mas acrescenta que 'a gerencia e erratica e tem reputacao de pouco profissional' - registrado aqui como aviso, nao como recomendacao.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "qui": "18:00-03:00",
+        "sex": "18:00-03:00",
+        "sab": "18:00-03:00"
+      },
+      "melhorHorario": "Chegar cedo (perto das 18:00-19:00) para pegar a aula de salsa gratuita antes de a casa encher.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": true,
+        "antecedenciaDias": 1,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 55 6131 1119",
+        "whatsapp": "+52 55 6131 1119",
+        "site": "https://www.jazzatlan.club/capital",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "RESERVE o andar de cima por WhatsApp: sem reserva voce fica no salao de baixo, em pe.",
+        "CORTE SE APERTAR: M$400 de cover e o item de noite mais caro do banco depois do Coco Bongo.",
+        "VALE A PENA se musica ao vivo e prioridade: e o unico lugar do pacote com banda garantida TODA noite."
+      ],
+      "alertas": [
+        "Cover de M$400 por pessoa, sem consumo incluido (dado de 03/2024).",
+        "Reserva obrigatoria para o clube do andar de cima."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 03/2024).",
+      "nome": "Jazzatlan Capital (jazz ao vivo todas as noites, Roma)",
+      "categoria": "experiencia",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "jazz",
+        "musica-ao-vivo",
+        "festas",
+        "shows",
+        "roma",
+        "vida-noturna"
+      ],
+      "coords": {
+        "lat": 19.416131,
+        "lng": -99.16485
+      },
+      "descricaoCurta": "Banda de jazz ao vivo TODA NOITE na Guanajuato 239 (Roma), 18:00-02:00, cover de M$400. O andar de cima exige reserva por WhatsApp.",
+      "descricaoLonga": "Wikivoyage: 'casa descontraida com uma pegada retro-hipster. O clube e um desdobramento de uma casa popular fundada em Cholula. Tem musica de jazz AO VIVO TODAS AS NOITES, com um clube no andar de cima (reserva obrigatoria, pode ser feita por WhatsApp) e um salao embaixo que fica com lotacao em pe quando ha uma banda boa na casa.' Endereco: Guanajuato 239, Roma Norte, no cruzamento com a Av. Insurgentes; 18:00-02:00 todos os dias, COVER DE M$400 (listagem de 03/2024). ATENCAO: M$400 de cover e caro - e o preco de uma noite inteira de pulqueria ou cantina. Mas e o unico item do banco mexicano com musica ao vivo garantida todos os dias, e isso tem valor de roteiro: nao depende de sorte. A casa de Cholula (bate-volta de Puebla) tem o mesmo nome e e a original.",
+      "duracao": {
+        "min": 120,
+        "tipica": 170,
+        "max": 260
+      },
+      "horarios": {
+        "seg": "18:00-02:00",
+        "ter": "18:00-02:00",
+        "qua": "18:00-02:00",
+        "qui": "18:00-02:00",
+        "sex": "18:00-02:00",
+        "sab": "18:00-02:00",
+        "dom": "18:00-02:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 400,
+        "max": 400,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Cover de entrada por pessoa, segundo a fonte (listagem de marco/2024). Consumo NAO incluido.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 55 5518 3711",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "Palacio de Bellas Artes: 2 quadras pela Lazaro Cardenas ate a Republica de Cuba, direita, ~100 m.",
+      "dicasAgente": [
+        "VALE CADA PESO: show de drag SEM COVER nos dois bares - paga-se so o que se bebe.",
+        "SO funciona de quinta a sabado: nao coloque isso num domingo ou numa terca.",
+        "Peca El Mayate no Marrakech - e o drink que a fonte nomeia.",
+        "Volte de aplicativo: e Centro Historico de madrugada."
+      ],
+      "alertas": [
+        "Funciona apenas de quinta a sabado.",
+        "Horario de La Purisima vai ate 03:00 e o do Marrakech ate 02:30 - registrei o do Marrakech.",
+        "Dados de 2023-2024; confirme antes de ir."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica. Dois enderecos num item porque sao a mesma esquina e o mesmo programa. Complementa 'Zona Rosa (vida noturna LGBT+)' ja no banco, que e outro bairro.",
+      "nome": "Marrakech Salon e La Purisima (cabare drag na Republica de Cuba, CDMX)",
+      "categoria": "experiencia",
+      "cidade": "cidade-do-mexico",
+      "tags": [
+        "drag",
+        "cabare",
+        "shows",
+        "festas",
+        "lgbt",
+        "vida-noturna",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 19.437762,
+        "lng": -99.138411
+      },
+      "descricaoCurta": "Dois bares de frente um para o outro na Republica de Cuba, Centro, so de quinta a sabado: show de drag e strip, SEM COVER nos dois.",
+      "descricaoLonga": "E a cena LGBTQ+ do CENTRO HISTORICO, diferente da Zona Rosa que ja esta no banco. Dois enderecos de frente um para o outro na Republica de Cuba, a duas quadras do Palacio de Bellas Artes: MARRAKECH SALON (Republica de Cuba 18) - Wikivoyage: 'bar gay maravilhosamente kitsch com drag queens e strippers como entretenimento, SEM COVER PARA NINGUEM, e alguns drinks de mezcal da casa delicio_sos. Peca El Mayate, refrescante e com hortela' - aberto 18:00-02:30, SO DE QUINTA A SABADO (listagem de 01/2023); e LA PURISIMA (Republica de Cuba 17), 'shows de strip deliciosamente kitsch e globos de espelho. Publico MUITO simpatico', 18:00-03:00, tambem so de quinta a sabado, SEM COVER (listagem de 04/2024). Como chegar, segundo a fonte: do Palacio de Bellas Artes, ande duas quadras pela Lazaro Cardenas ate a Republica de Cuba, vire a direita e siga uns 100 m.",
+      "duracao": {
+        "min": 90,
+        "tipica": 150,
+        "max": 240
+      },
+      "horarios": {
+        "qui": "18:00-02:30",
+        "sex": "18:00-02:30",
+        "sab": "18:00-02:30"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 0,
+        "max": 0,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Entrada sem cover nos dois bares, segundo a fonte (consumo por conta).",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+        ]
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 33 3616 9900",
+        "whatsapp": "",
+        "site": "http://www.casa-bariachi.com/",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": []
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "CORTE SE APERTAR: M$500 por pessoa. A Plaza de los Mariachis nao cobra entrada - paga-se por cancao.",
+        "VALE SE a prioridade e ouvir mariachi com conforto e seguranca, sem negociar preco na rua.",
+        "Fica na zona oeste (Vallarta/Minerva), nao no Centro Historico: conte o deslocamento."
+      ],
+      "alertas": [
+        "Preco alto (M$500 por pessoa) e nao esta claro se inclui bebida."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica (listagem de 06/2026). Complementa 'Plaza de los Mariachis (Guadalajara)' ja no banco.",
+      "nome": "Casa Bariachi (jantar com mariachi em Guadalajara)",
+      "categoria": "experiencia",
+      "cidade": "guadalajara",
+      "tags": [
+        "mariachi",
+        "musica-ao-vivo",
+        "festas",
+        "jantar",
+        "jalisco"
+      ],
+      "coords": {
+        "lat": 20.674602,
+        "lng": -103.37829
+      },
+      "descricaoCurta": "Na Av. Ignacio Vallarta 2221, 13:00-03:00 todos os dias: cozinha mexicana com mariachis circulando pelo salao. Faixa de M$500.",
+      "descricaoLonga": "Wikivoyage: 'restaurante de alto padrao servindo cozinha mexicana tradicional, incluindo carnes grelhadas e especialidades regionais. Salao elegante com musica ao vivo feita por mariachis que circulam pelas mesas.' Endereco: Av. Ignacio Vallarta 2221, no eixo oeste da cidade (regiao Chapultepec/Minerva); 13:00-03:00 todos os dias; faixa de M$500 (listagem de 06/2026). E a alternativa de QUEM NAO QUER ir a Plaza de los Mariachis: o bairro da praca, segundo a mesma fonte, 'fica sketchy depois do escurecer', e aqui o mariachi vem a mesa dentro de um restaurante, numa zona tranquila. Em troca, custa caro: M$500 por pessoa contra zero de entrada na praca. Para mariachi com violino mais discreto no comeco da tarde, a fonte tambem cita o El Sacromonte (Pedro Moreno 1398, Americana).",
+      "duracao": {
+        "min": 120,
+        "tipica": 170,
+        "max": 240
+      },
+      "horarios": {
+        "seg": "13:00-03:00",
+        "ter": "13:00-03:00",
+        "qua": "13:00-03:00",
+        "qui": "13:00-03:00",
+        "sex": "13:00-03:00",
+        "sab": "13:00-03:00",
+        "dom": "13:00-03:00"
+      },
+      "preco": {
+        "moeda": "MXN",
+        "min": 500,
+        "max": 500,
+        "por": "pessoa",
+        "coletadoEm": "2026-10-09",
+        "inclui": "Faixa por pessoa segundo a fonte (listagem de junho/2026). Nao detalha se inclui bebida.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Guadalajara"
+        ]
+      },
+      "melhorHorario": "Noite (a partir das 20:00), quando os mariachis circulam; a casa vai ate as 03:00.",
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Guadalajara"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [
+        "seg",
+        "ter"
+      ],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "",
+        "whatsapp": "",
+        "site": "",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico.",
+          "Lojas nao podem vender alcool depois das 17:00 no domingo (regra citada pela fonte)."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "VALE CADA PESO: M$200 no centro contra US$75 do Coco Bongo na Zona Hotelera - mesma noite, fracao do preco.",
+        "Onibus R-1/R-2 ligam a Zona Hotelera ao centro por poucos pesos; na volta de madrugada, use aplicativo.",
+        "Fechado segunda e terca."
+      ],
+      "alertas": [
+        "Nao esta claro na fonte se a faixa de M$200 e cover ou consumo medio.",
+        "Fechado segunda e terca."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica, sem data de coleta na listagem. Complementa 'Coco Bongo' e 'Mandala Beach' (ja no banco), que sao Zona Hotelera.",
+      "nome": "11:11 Club (balada com drag no centro de Cancun)",
       "categoria": "bar",
       "cidade": "cancun",
       "tags": [
         "balada",
-        "vida-noturna",
+        "drag",
+        "musica-ao-vivo",
         "festas",
-        "show",
-        "zona-hotelera"
+        "lgbt",
+        "vida-noturna"
       ],
       "coords": {
-        "lat": 21.132766,
-        "lng": -86.747376
+        "lat": 21.160434,
+        "lng": -86.825868
       },
-      "descricaoCurta": "A balada-espetaculo da Zona Hotelera, 22:30-05:00: ingresso de US$75 online. Entrada em casa noturna de Cancun vai de US$20 a US$60, muitas com open bar.",
-      "descricaoLonga": "Wikivoyage: 'balada com um show que ja foi comparado ao de Las Vegas. Mais de 50 profissionais em cena. Ingressos pela internet por US$75. Se voce nao se importar de esperar para entrar, da para comprar ingressos trocaveis na Oxxo por M$1.000.' Fica no Blvd. Kukulkan km 9,5 #30, Zona Hotelera, aberta 22:30-05:00 (listagem de 03/2025). CONTEXTO DE PRECO da mesma fonte: as casas da Zona Hotelera cobram cover de US$20 a US$60 por pessoa, e o cover costuma incluir OPEN BAR. Este item existe para dar a escala honesta da noite de Cancun - e o oposto do Parque de las Palapas, no centro, onde o taco sai por M$30. A fonte tambem registra duas regras praticas do Mexico: idade minima para beber e 18 anos (nao muito fiscalizada) e LOJAS NAO PODEM VENDER ALCOOL DEPOIS DAS 17:00 NO DOMINGO.",
+      "descricaoCurta": "No centro de Cancun (Av. Tulum), nao na Zona Hotelera: drag, DJ e musica ao vivo de quarta a domingo, 22:00-05:00, faixa de M$200.",
+      "descricaoLonga": "Wikivoyage: 'ambiente animado, performers de drag, musica ao vivo e DJs, alem de otimos drinks.' Endereco: Av. Tulum Smz 22 Mz 5 Lote 33, CENTRO (El Centro); quarta a domingo 22:00-05:00, FECHADO segunda e terca; faixa de M$200. Esta aqui pelo contraste de preco, que e o dado mais util da noite de Cancun: M$200 no centro contra US$75 de ingresso do Coco Bongo na Zona Hotelera, ou cover de US$20-60 nas outras casas do Kukulcan. A mesma fonte lista, na mesma avenida, o Laser Hot Beer & Queer (Av. Tulum 45, qua-dom 22:00-05:00, M$200), com cabare de drag queen. A fonte tambem registra que os bares do norte da Av. Yaxchilan, tambem no centro, tem 'precos significativamente mais baixos que as baladas da zona hoteleira'.",
       "duracao": {
-        "min": 180,
-        "tipica": 270,
-        "max": 420
+        "min": 120,
+        "tipica": 180,
+        "max": 300
       },
       "horarios": {
-        "seg": "22:30-05:00",
-        "ter": "22:30-05:00",
-        "qua": "22:30-05:00",
-        "qui": "22:30-05:00",
-        "sex": "22:30-05:00",
-        "sab": "22:30-05:00",
-        "dom": "22:30-05:00"
+        "qua": "22:00-05:00",
+        "qui": "22:00-05:00",
+        "sex": "22:00-05:00",
+        "sab": "22:00-05:00",
+        "dom": "22:00-05:00"
       },
       "preco": {
-        "moeda": "USD",
-        "min": 20,
-        "max": 75,
+        "moeda": "MXN",
+        "min": 200,
+        "max": 200,
         "por": "pessoa",
         "coletadoEm": "2026-10-09",
-        "inclui": "US$75 o ingresso online do Coco Bongo (fonte, listagem de 03/2025); a faixa de US$20-60 e o cover das casas da Zona Hotelera em geral, frequentemente com open bar. Valores em dolar como publicados - nao converti para peso.",
+        "inclui": "Faixa por pessoa segundo a fonte; nao detalha se e cover ou consumo. Sem data de coleta na pagina.",
         "fontes": [
           "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
         ]
       },
       "fontes": [
         "https://en.wikivoyage.org/wiki/Canc%C3%BAn"
+      ],
+      "confianca": "parcial"
+    },
+    {
+      "coletadoEm": "2026-10-09",
+      "diasFechados": [],
+      "reserva": {
+        "necessaria": false,
+        "antecedenciaDias": 0,
+        "esgotaRapido": false,
+        "link": ""
+      },
+      "contato": {
+        "telefone": "+52 415 152 2063",
+        "whatsapp": "",
+        "site": "http://www.mamamia.com.mx/index.php",
+        "instagram": ""
+      },
+      "restricoes": {
+        "outras": [
+          "Venda de alcool proibida para menores de 18 anos no Mexico."
+        ]
+      },
+      "pontoPartida": "",
+      "dicasAgente": [
+        "Quatro ambientes num endereco: da para jantar, ver jogo, ouvir banda e dancar sem sair do lugar.",
+        "Pergunte na porta quem toca: a fonte diz que atracoes locais se apresentam com frequencia, nao todos os dias.",
+        "Fica a meia quadra da Parroquia - volta a pe, sem taxi."
+      ],
+      "alertas": [
+        "Cover e preco de bebida NAO confirmados.",
+        "Musica ao vivo nao e garantida todos os dias ('com frequencia', segundo a fonte)."
+      ],
+      "selos": [],
+      "agendavel": true,
+      "observacao": "Fonte unica. Sem preco. Unico item de festa/musica de San Miguel de Allende no banco.",
+      "nome": "Mama Mia (quatro casas numa, San Miguel de Allende)",
+      "categoria": "bar",
+      "cidade": "san-miguel-de-allende",
+      "tags": [
+        "balada",
+        "musica-ao-vivo",
+        "festas",
+        "vida-noturna",
+        "centro-historico"
+      ],
+      "coords": {
+        "lat": 20.9139,
+        "lng": -100.74448
+      },
+      "descricaoCurta": "Na Umaran 8, a poucas portas do Jardin: restaurante, sports bar, bar de musica ao vivo e balada no mesmo endereco. Sex-sab ate as 05:00.",
+      "descricaoLonga": "Wikivoyage: 'o Mama Mia e quatro casas em uma. Tem um restaurante e bar no centro com comida italiana incrivel, um sports bar a esquerda (normalmente com um jogo de futebol passando), um bar de musica a direita onde atracoes locais se apresentam com frequencia - especialmente a Pilaseca, banda de funk-blues muito popular que roda quase todo o Mexico - e uma balada.' Endereco: Umaran 8, a algumas portas do Jardin Principal e meia quadra da Parroquia; domingo a quinta 08:00-03:00, sexta e sabado 08:00-05:00. NAO CONSEGUI CONFIRMAR cover nem preco de bebida. E o unico item de FESTA de San Miguel de Allende no banco: a cidade e conhecida por rooftop e galeria, e a parte de musica ao vivo nao estava coberta.",
+      "duracao": {
+        "min": 120,
+        "tipica": 180,
+        "max": 300
+      },
+      "horarios": {
+        "dom": "08:00-03:00",
+        "seg": "08:00-03:00",
+        "ter": "08:00-03:00",
+        "qua": "08:00-03:00",
+        "qui": "08:00-03:00",
+        "sex": "08:00-05:00",
+        "sab": "08:00-05:00"
+      },
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
       ],
       "confianca": "parcial"
     }

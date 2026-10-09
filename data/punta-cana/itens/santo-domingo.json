@@ -813,6 +813,10 @@
       },
       {
         "url": "https://www.offbeattravel.com/blog/bayahibe-guide"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/440778189",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -866,7 +870,8 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-sdq-lulu-tasting-bar-parque-billini-zona-colonial",
@@ -1272,6 +1277,10 @@
     "fontes": [
       {
         "url": "https://www.diariolibre.com/revista/buena-vida/2022/03/31/lugares-para-bailar-en-santo-domingo/1726119"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1661142921",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1369,7 +1378,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 18.47075,
+      "lng": -69.941816
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-sdq-desfile-nacional-de-carnaval-malecon-de-santo-doming",
@@ -2628,6 +2642,10 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/Atarazanas_Reales,_Santo_Domingo"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1561391674",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -2716,7 +2734,12 @@
       "PREÇO NÃO ENCONTRADO: leve dinheiro, não assuma que é grátis.",
       "TELEFONE EM CONFLITO: 829 545-1548 e 809 508-8717 em fontes diferentes.",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": 18.478122,
+      "lng": -69.883197
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-sdq-centro-leon-santiago-bate-volta-de-santo-domingo",
@@ -3787,6 +3810,10 @@
     "fontes": [
       {
         "url": "https://www.adriantropical.com/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/446018864",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -3838,7 +3865,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 18.460262,
+      "lng": -69.903265
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-sdq-pat-e-palo-european-brasserie",

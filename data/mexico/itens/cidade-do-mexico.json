@@ -4240,122 +4240,6 @@
     ]
   },
   {
-    "id": "mx-mex-mercado-de-san-juan-mercado-gourmet",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Mercado de San Juan (mercado gourmet)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "compras",
-    "tags": [
-      "mercado",
-      "gastronomia",
-      "queijos",
-      "exoticos"
-    ],
-    "coords": {
-      "lat": 19.42995,
-      "lng": -99.14465
-    },
-    "descricaoCurta": "O mercado onde os chefs da cidade compram: queijos europeus, embutidos, ingredientes pre-hispanicos e carnes exoticas, na C. Ernesto Pugibet 21.",
-    "descricaoLonga": "Mercado especializado em comida gourmet na C. Ernesto Pugibet 21, no Centro Historico, frequentado pelos principais cozinheiros da Cidade do Mexico. Vende queijos europeus, linguica espanhola e italiana, ingredientes pre-hispanicos e carnes exoticas - e um dos poucos lugares do pais onde isso se encontra junto. Wikivoyage lista como aberto diariamente mas NAO DIZ A QUE HORAS, e nao traz faixa de preco; por isso os campos ficaram vazios. Nao confunda com o Mercado de Artesanias de San Juan (Ayuntamiento s/n, 10:00-16:00), que e de artesanato, nem com o Mercado San Juan Arcos de Belen, que e de comida pronta.",
-    "duracao": {
-      "min": 40,
-      "tipica": 60,
-      "max": 90
-    },
-    "diasFechados": [],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [],
-    "dicas": [
-      "Va com fome e peca prova: varias bancas cortam queijo e embutido na hora para degustar.",
-      "Se o objetivo e ALMOCAR barato e nao comprar, o endereco certo e o Mercado San Juan Arcos de Belen (Av. Arcos de Belen s/n), que e praca de alimentacao."
-    ],
-    "alertas": [
-      "Horario NAO confirmado (a fonte so diz 'diariamente')."
-    ]
-  },
-  {
-    "id": "mx-mex-cocuyo-s-taqueria-de-madrugada",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Cocuyo's (taqueria de madrugada)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "restaurante",
-    "tags": [
-      "comida-barata",
-      "tacos",
-      "antojitos",
-      "vida-noturna"
-    ],
-    "coords": {
-      "lat": 19.43054,
-      "lng": -99.13882
-    },
-    "descricaoCurta": "Taqueria classica do Centro na Bolivar 59, aberta das 08:00 as 05:00 (fecha 3 horas por dia). Cerca de M$100 por pessoa.",
-    "descricaoLonga": "Uma das taquerias famosas da Cidade do Mexico, ja mostrada em programas internacionais de comida. Fica na Bolivar 59, perto do metro San Juan de Letran, e abre todos os dias de 08:00 a 05:00 - fecha apenas tres horas. Hoje tem salao, entao nao e mais obrigatorio comer de pe na rua. Wikivoyage registra cerca de M$100 por pessoa, sem data de coleta na pagina; trate como ordem de grandeza e nao como tabela. E o endereco de ENDERECO FIXO para quem quer taco de rua sem depender de uma barraca que pode nao estar lá.",
-    "duracao": {
-      "min": 25,
-      "tipica": 45,
-      "max": 70
-    },
-    "horariosObservacao": "08:00-05:00",
-    "diasFechados": [],
-    "preco": {
-      "moeda": "MXN",
-      "min": 100,
-      "max": 100,
-      "por": "pessoa",
-      "inclui": "Gasto tipico por pessoa citado pela fonte, sem detalhamento de itens nem data de coleta.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: ~M$100 por pessoa num Centro onde restaurante de mesa comeca em M$150.",
-      "Serve de jantar depois da Plaza Garibaldi (10 minutos de carro) sem precisar achar barraca aberta."
-    ],
-    "alertas": [
-      "Preco sem data de coleta na fonte - confira o cardapio na porta."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
     "id": "mx-mex-hosteria-de-santo-domingo-o-restaurante-mais-antigo",
     "fontes": [
       {
@@ -4581,108 +4465,6 @@
     }
   },
   {
-    "id": "mx-mex-pulqueria-las-duelistas",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Pulqueria Las Duelistas",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "bar",
-    "tags": [
-      "pulque",
-      "bares",
-      "vida-noturna",
-      "tradicional"
-    ],
-    "coords": {
-      "lat": 19.430464,
-      "lng": -99.142737
-    },
-    "descricaoCurta": "Pulqueria classica e colorida na Aranda 28, seg-sab 10:00-21:00: pulque branco e curados de fruta e especiaria. Fechada domingo.",
-    "descricaoLonga": "Pulque e bebida de agave FERMENTADA (nao destilada), de baixo teor alcoolico e textura viscosa - a bebida pre-hispanica que praticamente so existe no Mexico. Esta e uma das pulquerias mais populares da cidade: Wikivoyage a descreve como 'amigavel e colorida, com murais no teto e nas paredes. Serve pulques curados e branco (blanco). Tente um pulque natural para sentir o sabor puro do agave, ou um dos de fruta ou especiaria. O de aipo (apio) e recomendado.' Fica na Aranda 28, no Centro, perto do metro Salto del Agua, aberta de segunda a sabado das 10:00 as 21:00, FECHADA DOMINGO (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco - a outra pulqueria listada pela fonte, La Joya (Santa Maria la Ribera), aparece com faixa de M$200, mas isso e de outra casa.",
-    "duracao": {
-      "min": 45,
-      "tipica": 75,
-      "max": 110
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "10:00",
-          "fecha": "21:00"
-        }
-      ]
-    },
-    "horariosObservacao": "10:00-21:00",
-    "diasFechados": [
-      "dom"
-    ],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 55 1394 0958",
-      "site": "https://www.facebook.com/PulqueriaLasDuelistas/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico.",
-        "Pulque e bebida fermentada viva: quem tem estomago sensivel deve comecar com pouco."
-      ]
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: e o item mais barato e mais incomum da noite da cidade - pulque praticamente nao existe fora do Mexico.",
-      "Peca o natural primeiro para entender o sabor, depois um curado (aipo, segundo a fonte).",
-      "Abre as 10:00 e fecha as 21:00 - e programa de TARDE, nao de madrugada."
-    ],
-    "alertas": [
-      "Preco NAO confirmado."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
     "id": "mx-mex-cantina-la-faena",
     "fontes": [
       {
@@ -4838,290 +4620,6 @@
     }
   },
   {
-    "id": "mx-mex-la-clandestina-mezcaleria-na-condesa",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "La Clandestina (mezcaleria na Condesa)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "bar",
-    "tags": [
-      "mezcal",
-      "bares",
-      "vida-noturna",
-      "condesa"
-    ],
-    "coords": {
-      "lat": 19.416461,
-      "lng": -99.169214
-    },
-    "descricaoCurta": "Mezcaleria intimista na Alvaro Obregon 298 (Condesa) com carta comentada de mezcais artesanais e marca propria para levar. Fecha domingo.",
-    "descricaoLonga": "Wikivoyage: 'bar de mezcal escuro e intimista com leque extenso de mezcais artesanais e marca propria, Enmascarado, disponivel em garrafa para levar. A carta e bem feita e explica um pouco da origem, da producao e dos destaques sensoriais de cada mezcal. Otimo lugar para experimentar com um sampler e aprender um pouco.' Alvaro Obregon 298, Condesa. Horario: segunda e terca 18:30-01:00, quarta a sabado 18:30-02:00, FECHADO DOMINGO (listagem editada em 03/2024). NAO CONSEGUI CONFIRMAR preco. A Condesa e a Roma concentram a noite de bar da cidade: na mesma fonte, a Licoreria Limantour (Alvaro Obregon 106) aparece com faixa de M$500 e e descrita como caro.",
-    "duracao": {
-      "min": 60,
-      "tipica": 95,
-      "max": 150
-    },
-    "horariosObservacao": "18:30-01:00 | 18:30-02:00",
-    "diasFechados": [
-      "dom"
-    ],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 55 5525 1100",
-      "site": "https://laclandestina.mx/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico."
-      ]
-    },
-    "selos": [
-      "corte-se-apertar"
-    ],
-    "dicas": [
-      "Peca o sampler com a carta na mao - e o item com melhor explicacao de mezcal do banco de CDMX.",
-      "Fica a 5 minutos a pe da Tlecan (Alvaro Obregon 228), outra mezcaleria pequena - da para fazer as duas na mesma noite.",
-      "CORTE SE APERTAR: se o roteiro ja tem mezcaleria em Oaxaca, esta e dispensavel - Oaxaca e a origem."
-    ],
-    "alertas": [
-      "Preco NAO confirmado.",
-      "A fonte avisa que o GinGin, outro bar da mesma regiao, tem reputacao de 'perder' reserva e cobrar errado - confira a conta em qualquer bar de coquetelaria da zona."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
-    "id": "mx-mex-salon-corona-cantina-de-1928",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Salon Corona (cantina de 1928)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "bar",
-    "tags": [
-      "cantina",
-      "bares",
-      "cerveja",
-      "tradicional",
-      "vida-noturna"
-    ],
-    "coords": {
-      "lat": 19.433649,
-      "lng": -99.138249
-    },
-    "descricaoCurta": "Cantina tradicional funcionando desde 1928 na Bolivar 24: cerveja, comida mexicana e jogo na TV. Dom-qui ate 23:00, sex-sab ate 02:00.",
-    "descricaoLonga": "Wikivoyage: 'cantina tradicional e simpatica desde 1928. Lugar popular para ver futebol ou simplesmente ficar bebendo cerveja. Serve comida mexicana tradicional.' Fica na Bolivar 24, na esquina do Palacio de Iturbide, perto do metro Allende - uma das quadras mais centrais da cidade. Horario: domingo a quinta 10:00-23:00, sexta e sabado 10:00-02:00 (listagem editada em 01/2024). NAO CONSEGUI CONFIRMAR preco. E a cantina com horario mais claro e mais facil de achar do Centro - serve bem como primeira cantina de quem nunca entrou numa.",
-    "duracao": {
-      "min": 60,
-      "tipica": 85,
-      "max": 130
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "10:00",
-          "fecha": "23:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "10:00",
-          "fecha": "23:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "10:00",
-          "fecha": "23:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "10:00",
-          "fecha": "23:00"
-        }
-      ],
-      "dom": [
-        {
-          "abre": "10:00",
-          "fecha": "23:00"
-        }
-      ]
-    },
-    "horariosObservacao": "10:00-23:00 | 10:00-02:00",
-    "diasFechados": [],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 55 5512 5725",
-      "site": "http://www.saloncorona.com.mx/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico."
-      ]
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: cantina com comida e cerveja a 200 m do Zocalo, sem preco de turista.",
-      "Para quem quer a cantina mais dura (tequila forte, botana de graca, publico masculino), o Salon Espana (Republica Argentina 25) e o endereco - mas a fonte nao traz horario para ele."
-    ],
-    "alertas": [
-      "Preco NAO confirmado."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
-    "id": "mx-mex-plaza-garibaldi-mariachi",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      },
-      {
-        "url": "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "verificado",
-    "nome": "Plaza Garibaldi (mariachi)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "atracao",
-    "tags": [
-      "mariachi",
-      "musica-ao-vivo",
-      "festas",
-      "vida-noturna",
-      "cantina"
-    ],
-    "coords": {
-      "lat": 19.44056,
-      "lng": -99.13889
-    },
-    "descricaoCurta": "A praca do mariachi na Cidade do Mexico: entrada livre, voce paga por cancao. Em 2023 um grupo cobrava M$200-250 a musica e M$3.000 a hora na praca.",
-    "descricaoLonga": "Praca no Centro Historico onde grupos de mariachi de Jalisco, de traje completo, ficam esperando trabalho a diferentes horas do dia e da noite, cercada de cafes e restaurantes voltados ao publico de mariachi (Wikivoyage). O MODELO E ESTE: entrar na praca e de graca; voce contrata a musica. O Chilango (07/05/2023), citando o lider do mariachi 'El sol de Acapulco', registra M$200-250 POR CANCAO e M$3.000 POR UMA HORA ILIMITADA na propria praca (M$3.500 se for a domicilio), com grupo de 7 integrantes, e diz que da para agendar no mesmo dia com algumas horas de antecedencia - de preferencia um dia antes. ATENCAO: outras reportagens citam numeros bem diferentes para serenata completa, e em datas de pico (Dia das Maes, Dia dos Namorados) o preco sobe; os valores aqui sao de UM grupo em 2023 e devem ser tratados como ordem de grandeza. COMBINE O PRECO E O NUMERO DE MUSICAS ANTES DE O GRUPO COMECAR A TOCAR. Ao lado da praca fica o Salon Tenampa, a cantina de mariachi mais famosa do pais.",
-    "duracao": {
-      "min": 60,
-      "tipica": 100,
-      "max": 180
-    },
-    "diasFechados": [],
-    "melhorHorario": "Noite, de quinta a sabado: e quando a praca tem mais grupos e mais publico. A Wikivoyage nao traz horario de funcionamento porque e praca publica.",
-    "preco": {
-      "moeda": "MXN",
-      "min": 200,
-      "max": 3000,
-      "por": "grupo",
-      "inclui": "M$200-250 por cancao e M$3.000 pela hora ilimitada na praca, com grupo de 7, segundo UM mariachi entrevistado pelo Chilango em 07/05/2023. NAO e tabela oficial. Entrar na praca e de graca.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://www.chilango.com/noticias/serenata-en-garibaldi-cuanto-cuesta/"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [],
-    "dicas": [
-      "Combine preco e numero de musicas ANTES de comecar - e a regra da praca.",
-      "Para ouvir mariachi sem contratar, sente numa mesa do Salon Tenampa (Plaza Garibaldi 12) e consuma: a casa tem mariachi continuo.",
-      "Volte de taxi de aplicativo ou acompanhado: Garibaldi fica na borda do Centro e o entorno muda de carater depois de meia-noite."
-    ],
-    "alertas": [
-      "O preco e de 2023 e de UM grupo entrevistado - fontes diferentes citam valores bem diferentes para serenata.",
-      "Em datas de pico (Dia das Maes, 14 de fevereiro) o preco sobe, segundo a imprensa.",
-      "NAO CONSEGUI CONFIRMAR em fonte oficial nenhuma recomendacao de seguranca especifica para a praca; a cautela sugerida aqui e de bom senso, nao alerta de autoridade."
-    ]
-  },
-  {
-    "id": "mx-mex-salon-tenampa-a-cantina-de-mariachi",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Salon Tenampa (a cantina de mariachi)",
-    "cidadeId": "cidade-do-mexico",
-    "categoria": "experiencia",
-    "tags": [
-      "mariachi",
-      "cantina",
-      "musica-ao-vivo",
-      "festas",
-      "tequila",
-      "mezcal"
-    ],
-    "coords": {
-      "lat": 19.44106,
-      "lng": -99.13896
-    },
-    "descricaoCurta": "Na esquina da Plaza Garibaldi: a cantina mexicana original dos boemios e mariachis dos anos 40 e 50, com mariachi continuo e carta enorme de tequila.",
-    "descricaoLonga": "Wikivoyage: 'a cantina mexicana original e mais famosa, casa tradicional dos boemios e dos mariachis dos anos 40 e 50. Selecao enorme de tequila e mezcal, comida mexicana leve, e bandas de mariachi.' Fica na Plaza Garibaldi 12, na esquina da praca. Horario listado: domingo a quinta 13:00-01:00, sexta e sabado 13:00-02:00 (listagem de 01/2017 - dado antigo, confirme). NAO CONSEGUI CONFIRMAR preco: a fonte nao traz faixa, e os valores que circulam em sites de reserva nao sao fonte que eu possa usar. Aqui o mariachi e da casa e toca para o salao - diferente da praca, onde voce contrata por musica.",
-    "duracao": {
-      "min": 90,
-      "tipica": 130,
-      "max": 200
-    },
-    "horariosObservacao": "13:00-01:00 | 13:00-02:00",
-    "diasFechados": [],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 55 5526 6176",
-      "site": "http://www.salontenampa.com/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico."
-      ]
-    },
-    "selos": [],
-    "dicas": [
-      "E a forma de ouvir mariachi SEM contratar grupo: consome-se na mesa e a musica vem.",
-      "Chegue antes das 21:00 numa sexta se quiser mesa.",
-      "Encaixe junto com a Plaza Garibaldi - e a mesma esquina, nao e outro deslocamento."
-    ],
-    "alertas": [
-      "Horario e de 2017 - desatualizado; confirme antes de ir.",
-      "Preco NAO confirmado."
-    ]
-  },
-  {
     "id": "mx-mex-mega-procesion-de-catrinas-dia-de-muertos-na-cdmx",
     "fontes": [
       {
@@ -5178,6 +4676,560 @@
       "DATA DE 2027/2028 NAO PUBLICADA. A de 2026 foi 25/10 (domingo).",
       "Multidao grande ao longo da Reforma - leve pouca coisa no bolso.",
       "A fonte nao afirma explicitamente que e gratuito; por isso o campo preco foi omitido."
+    ]
+  },
+  {
+    "id": "mx-mex-mercado-san-juan-arcos-de-belen-comida-pronta-cdmx",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado San Juan Arcos de Belen (comida pronta, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-barata",
+      "antojitos",
+      "tortas",
+      "centro-historico"
+    ],
+    "coords": {
+      "lat": 19.42753,
+      "lng": -99.14248
+    },
+    "descricaoCurta": "Mercado cheio de bancas de comida na Av. Arcos de Belen, perto do metro Salto del Agua: o endereco da TORTA CUBANA, na Calle Delicias.",
+    "descricaoLonga": "NAO CONFUNDA com o Mercado de San Juan de comidas exoticas (C. Ernesto Pugibet 21), que ja esta no banco como item de compras: este e OUTRO mercado, na Av. Arcos de Belen s/n, junto ao metro Salto del Agua, e aqui o ponto e comer pronto. Wikivoyage: 'e cheio de bancas de comida oferecendo todos os favoritos mexicanos. Ache a que fica de frente para as padarias pequenas, por uma das entradas de tras na CALLE DELICIAS, que serve a TORTA CUBANA. As pessoas que tocam a banca sao incrivelmente acolhedoras e a comida, especialmente a Cubana, e excelente.' NAO CONSEGUI CONFIRMAR horario nem preco - a listagem nao traz. Torta cubana e o sanduiche gigante com varias carnes de uma vez; e refeicao de uma pessoa so com dificuldade.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 75
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: comida pronta de mercado no Centro Historico, ao lado de uma estacao de metro.",
+      "Procure especificamente a banca da entrada de tras da Calle Delicias, de frente para as padarias - a fonte da essa coordenada humana.",
+      "Peca a TORTA CUBANA e divida: e sanduiche de varias carnes ao mesmo tempo."
+    ],
+    "alertas": [
+      "Horario e preco NAO confirmados.",
+      "Nao e o Mercado de San Juan gourmet (Ernesto Pugibet) nem o Mercado de Artesanias de San Juan."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-mano-santa-mezcal-roma-cdmx",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mano Santa Mezcal (Roma, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "mezcal",
+      "bares",
+      "vida-noturna",
+      "roma",
+      "chapulines"
+    ],
+    "coords": {
+      "lat": 19.419949,
+      "lng": -99.164465
+    },
+    "descricaoCurta": "Na Av. Insurgentes Sur 219 (Roma Norte): mezcais de perfis bem distintos, mezcalhina, guacamole com chapulines e cerveja local. M$200.",
+    "descricaoLonga": "Wikivoyage: 'bar contemporaneo e descolado especializado em mezcais, com ampla variedade de marcas, muitas com perfis de sabor bem distintos. Oferece muitos drinks de mezcal, incluindo a classica mezcalhina, com um toque citrico. Ha petiscos leves de bar, entre eles um guacamole maravilhoso com chapulines (gafanhotos). Tambem uma selecao de cervejas locais.' Endereco: Av. Insurgentes Sur 219, Roma Norte. Horario: segunda a quarta 18:00-02:00, quinta a domingo 15:00-02:00; faixa de M$200 (listagem de 01/2025). Diferenca em relacao as mezcalerias que ja estao no banco (La Clandestina, na Condesa, e La Mezcaloteca, em Oaxaca): aqui o foco e DRINK de mezcal e nao degustacao pura, e abre mais cedo no fim de semana.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 140
+    },
+    "horariosObservacao": "18:00-02:00 | 15:00-02:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de janeiro/2025). Nao detalha o que cobre.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 3662 6088"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Peca a mezcalhina e o guacamole com chapulines - sao os dois itens que a fonte nomeia.",
+      "Abre as 15:00 de quinta a domingo: serve de fim de tarde, nao so de madrugada.",
+      "CORTE SE APERTAR: se o roteiro ja tem mezcaleria em Oaxaca, este e o primeiro corte da noite da CDMX."
+    ],
+    "alertas": [
+      "O que a faixa de M$200 cobre nao esta claro na fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-falling-piano-brewing-co-roma-cdmx",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Falling Piano Brewing Co. (Roma, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria-artesanal",
+      "bares",
+      "roma",
+      "comida-de-bar"
+    ],
+    "coords": {
+      "lat": 19.412241,
+      "lng": -99.159934
+    },
+    "descricaoCurta": "Brewpub grande na Coahuila 99 (Roma Norte), aberto 14:00-22:00 todos os dias: cerveja da casa com pizza, asinha e comida de bar. M$200.",
+    "descricaoLonga": "Wikivoyage: 'brewpub grande servindo as ales produzidas na casa junto com pizza, asinhas e outra comida leve de bar.' Endereco: Coahuila 99, Roma Norte; 14:00-22:00 todos os dias; faixa de M$200 (listagem de 12/2025). Entra no banco por dois motivos praticos: FECHA AS 22:00 (resolve a noite de quem precisa acordar cedo) e serve COMIDA DE VERDADE, o que nenhum dos outros bares de CDMX do banco garante. Para lager em vez de ale, a mesma fonte lista o Lagerbar Hercules, na Campeche 322 (Hipodromo), taproom de uma cervejaria de Queretaro, aberto seg-sab 13:00-23:30 e dom 13:00-20:00.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "14:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "14:00-22:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de dezembro/2025). Nao detalha o que cobre.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 7705 6145",
+      "site": "http://www.fallingpiano.mx/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Fecha as 22:00: e o bar da CDMX compativel com dia seguinte de Teotihuacan.",
+      "VALE CADA PESO: tem comida de verdade, entao substitui jantar em vez de somar com ele.",
+      "A 5 minutos a pe da Licoreria Limantour e da Mano Santa, se a noite for render."
+    ],
+    "alertas": [
+      "O que a faixa de M$200 cobre nao esta claro na fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-lagerbar-hercules-condesa-hipodromo-cdmx",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Lagerbar Hercules (Condesa/Hipodromo, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "cervejaria-artesanal",
+      "bares",
+      "condesa",
+      "comida-de-bar"
+    ],
+    "coords": {
+      "lat": 19.408849,
+      "lng": -99.172774
+    },
+    "descricaoCurta": "Taproom de uma cervejaria de Queretaro na Campeche 322: colecao de lagers europeias, inclusive uma Rye Lager e uma Schwarzbier. Seg-sab ate 23:30.",
+    "descricaoLonga": "Wikivoyage: 'taproom de uma cervejaria artesanal baseada em Queretaro, especializada numa colecao eclatica de cervejas predominantemente de estilo lager europeu. A mais incomum e provavelmente a Rye Lager. Tambem tem uma boa Schwarzbier, producoes de estacao como Oktoberfest, e uma Mexican Lager pensada para imitar uma Corona ou Tecate. Boa selecao de petiscos de bar.' Endereco: Campeche 322, Hipodromo (Condesa). Horario: segunda a sabado 13:00-23:30, domingo 13:00-20:00 (listagem de 02/2026). NAO CONSEGUI CONFIRMAR preco. Entra como contraponto: o banco de CDMX tem mezcal e cantina, mas quase nada de cerveja, e a cena de lager artesanal mexicana e o que mais cresceu nos ultimos anos.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 130
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:00",
+          "fecha": "23:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "13:00",
+          "fecha": "20:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-23:30 | 13:00-20:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 555 286 9334"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Peca a Rye Lager ou a Schwarzbier - as duas que a fonte destaca como fora do padrao.",
+      "Abre as 13:00: e o unico bar do banco de CDMX que serve de almoco.",
+      "Fica na Condesa, a pe da La Clandestina e do Salon Malafama (sinuca)."
+    ],
+    "alertas": [
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-mama-rumba-salsa-cubana-na-roma-cdmx",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mama Rumba (salsa cubana na Roma, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "balada",
+      "musica-ao-vivo",
+      "festas",
+      "danca",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 19.413982,
+      "lng": -99.16493
+    },
+    "descricaoCurta": "Uma das casas de danca mais populares da cidade: salsa, merengue e musica cubana de quinta a sabado, 18:00-03:00. Chegue cedo e ganhe aula de salsa.",
+    "descricaoLonga": "Wikivoyage: 'uma das casas de danca/bares mais populares da cidade, normalmente muito cheia, toca salsa, merengue e outra musica cubana. Ha outra filial em San Angel, mais popular com o publico jovem e as vezes difficil de entrar. CHEGUE CEDO E GANHE UMA AULA DE SALSA DE GRACA.' Endereco: Av. Medellin, Colonia Roma, a uma quadra da Insurgentes. Horario: quinta a sabado 18:00-03:00 (listagem de 02/2024) - os outros dias nao constam: desconhecido, nao fechado. NAO CONSEGUI CONFIRMAR cover nem preco de bebida. Para quem quer salsa com banda ao vivo, a mesma fonte lista o Club San Luis (San Luis Potosi 26, Roma Sur, seg-sab 20:00-04:00, COVER M$250), mas acrescenta que 'a gerencia e erratica e tem reputacao de pouco profissional' - registrado aqui como aviso, nao como recomendacao.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "horariosObservacao": "18:00-03:00",
+    "diasFechados": [],
+    "melhorHorario": "Chegar cedo (perto das 18:00-19:00) para pegar a aula de salsa gratuita antes de a casa encher.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5264 7823"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: a aula de salsa de graca para quem chega cedo e o melhor acrescimo de noite do roteiro.",
+      "Nao tente ir de segunda a quarta: a fonte so confirma quinta a sabado.",
+      "A filial de San Angel e mais jovem e mais dificil de entrar, segundo a fonte."
+    ],
+    "alertas": [
+      "Cover e preco de bebida NAO confirmados.",
+      "Horario de domingo a quarta nao consta na fonte (desconhecido, nao fechado)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mex-jazzatlan-capital-jazz-ao-vivo-todas-as-noites-roma",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Jazzatlan Capital (jazz ao vivo todas as noites, Roma)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "jazz",
+      "musica-ao-vivo",
+      "festas",
+      "shows",
+      "roma",
+      "vida-noturna"
+    ],
+    "coords": {
+      "lat": 19.416131,
+      "lng": -99.16485
+    },
+    "descricaoCurta": "Banda de jazz ao vivo TODA NOITE na Guanajuato 239 (Roma), 18:00-02:00, cover de M$400. O andar de cima exige reserva por WhatsApp.",
+    "descricaoLonga": "Wikivoyage: 'casa descontraida com uma pegada retro-hipster. O clube e um desdobramento de uma casa popular fundada em Cholula. Tem musica de jazz AO VIVO TODAS AS NOITES, com um clube no andar de cima (reserva obrigatoria, pode ser feita por WhatsApp) e um salao embaixo que fica com lotacao em pe quando ha uma banda boa na casa.' Endereco: Guanajuato 239, Roma Norte, no cruzamento com a Av. Insurgentes; 18:00-02:00 todos os dias, COVER DE M$400 (listagem de 03/2024). ATENCAO: M$400 de cover e caro - e o preco de uma noite inteira de pulqueria ou cantina. Mas e o unico item do banco mexicano com musica ao vivo garantida todos os dias, e isso tem valor de roteiro: nao depende de sorte. A casa de Cholula (bate-volta de Puebla) tem o mesmo nome e e a original.",
+    "duracao": {
+      "min": 120,
+      "tipica": 170,
+      "max": 260
+    },
+    "horariosObservacao": "18:00-02:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 400,
+      "max": 400,
+      "por": "pessoa",
+      "inclui": "Cover de entrada por pessoa, segundo a fonte (listagem de marco/2024). Consumo NAO incluido.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Mexico_City/Condesa_and_Roma"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {
+      "telefone": "+52 55 6131 1119",
+      "whatsapp": "+52 55 6131 1119",
+      "site": "https://www.jazzatlan.club/capital"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "precisa-reservar",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "RESERVE o andar de cima por WhatsApp: sem reserva voce fica no salao de baixo, em pe.",
+      "CORTE SE APERTAR: M$400 de cover e o item de noite mais caro do banco depois do Coco Bongo.",
+      "VALE A PENA se musica ao vivo e prioridade: e o unico lugar do pacote com banda garantida TODA noite."
+    ],
+    "alertas": [
+      "Cover de M$400 por pessoa, sem consumo incluido (dado de 03/2024).",
+      "Reserva obrigatoria para o clube do andar de cima."
+    ]
+  },
+  {
+    "id": "mx-mex-marrakech-salon-e-la-purisima-cabare-drag-na-republi",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Mexico_City/Centro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Marrakech Salon e La Purisima (cabare drag na Republica de Cuba, CDMX)",
+    "cidadeId": "cidade-do-mexico",
+    "categoria": "experiencia",
+    "tags": [
+      "drag",
+      "cabare",
+      "shows",
+      "festas",
+      "lgbt",
+      "vida-noturna",
+      "centro-historico"
+    ],
+    "coords": {
+      "lat": 19.437762,
+      "lng": -99.138411
+    },
+    "descricaoCurta": "Dois bares de frente um para o outro na Republica de Cuba, Centro, so de quinta a sabado: show de drag e strip, SEM COVER nos dois.",
+    "descricaoLonga": "E a cena LGBTQ+ do CENTRO HISTORICO, diferente da Zona Rosa que ja esta no banco. Dois enderecos de frente um para o outro na Republica de Cuba, a duas quadras do Palacio de Bellas Artes: MARRAKECH SALON (Republica de Cuba 18) - Wikivoyage: 'bar gay maravilhosamente kitsch com drag queens e strippers como entretenimento, SEM COVER PARA NINGUEM, e alguns drinks de mezcal da casa delicio_sos. Peca El Mayate, refrescante e com hortela' - aberto 18:00-02:30, SO DE QUINTA A SABADO (listagem de 01/2023); e LA PURISIMA (Republica de Cuba 17), 'shows de strip deliciosamente kitsch e globos de espelho. Publico MUITO simpatico', 18:00-03:00, tambem so de quinta a sabado, SEM COVER (listagem de 04/2024). Como chegar, segundo a fonte: do Palacio de Bellas Artes, ande duas quadras pela Lazaro Cardenas ate a Republica de Cuba, vire a direita e siga uns 100 m.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horariosObservacao": "18:00-02:30",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 55 5518 3711"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: show de drag SEM COVER nos dois bares - paga-se so o que se bebe.",
+      "SO funciona de quinta a sabado: nao coloque isso num domingo ou numa terca.",
+      "Peca El Mayate no Marrakech - e o drink que a fonte nomeia.",
+      "Volte de aplicativo: e Centro Historico de madrugada."
+    ],
+    "alertas": [
+      "Funciona apenas de quinta a sabado.",
+      "Horario de La Purisima vai ate 03:00 e o do Marrakech ate 02:30 - registrei o do Marrakech.",
+      "Dados de 2023-2024; confirme antes de ir.",
+      "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
   }
 ]

@@ -945,6 +945,10 @@
       },
       {
         "url": "https://www.godominicanrepublic.com/destinations/jarabacoa"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/6482503887",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -990,7 +994,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 19.122102,
+      "lng": -70.641455
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-jrb-venue-bar-lounge",

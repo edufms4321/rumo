@@ -811,5 +811,111 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-pue-el-mural-de-los-poblanos-mole-poblano",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Puebla"
+      },
+      {
+        "url": "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "El Mural de los Poblanos (mole poblano)",
+    "cidadeId": "puebla",
+    "categoria": "restaurante",
+    "tags": [
+      "mole",
+      "chiles-en-nogada",
+      "poblano",
+      "comida-tipica",
+      "fine-dining"
+    ],
+    "descricaoCurta": "Na 16 de Septiembre 506, 13:00-23:00: segundo a fonte, o melhor mole poblano da cidade, com pratos de temporada e cozinha espanhola.",
+    "descricaoLonga": "Wikivoyage, na secao de alta gastronomia de Puebla: 'cozinha tradicional; fine dining. O MELHOR MOLE POBLANO.' A listagem acrescenta pratos de temporada e espanhois. Endereco: 16 de Septiembre 506, no centro historico, aberto das 13:00 as 23:00 (a fonte nao declara os dias da semana - trate todos como conhecidos e nenhum como fechado). NAO CONSEGUI CONFIRMAR faixa de preco: a fonte o classifica como 'fine dining' sem dar numeros. Em temporada (meados de julho a 16 de setembro) e um dos enderecos obvios para chile en nogada, que custou entre M$250 e M$600 em Puebla em 2026 segundo o Milenio - mas esse e preco de mercado da cidade, NAO a tabela desta casa. A listagem da Wikivoyage NAO traz lat/long e eu nao inventei nenhuma: este item entra sem ponto no mapa. Para achar, a propria fonte da a referencia humana: de frente para a catedral, a esquerda na 16 de Septiembre; fica a direita depois da 5 Poniente.",
+    "duracao": {
+      "min": 80,
+      "tipica": 110,
+      "max": 160
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "13:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-23:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 222 242 6696",
+      "site": "http://www.elmuraldelospoblanos.com"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: e fine dining; o mesmo mole sai muito mais barato no Mercado de Sabores ou no Restaurante La Fonda.",
+      "Se a viagem cai na temporada (julho a 16/09), e aqui ou no La Fonda que o chile en nogada faz sentido.",
+      "Abre so as 13:00 - nao serve cafe da manha."
+    ],
+    "alertas": [
+      "Preco NAO confirmado (a fonte so diz 'fine dining').",
+      "A fonte nao declara os dias da semana do horario 13:00-23:00.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

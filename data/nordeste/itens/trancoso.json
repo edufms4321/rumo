@@ -929,5 +929,62 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-trc-a-noite-do-quadrado-de-trancoso",
+    "fontes": [
+      {
+        "url": "https://blog.blablacar.com.br/passeios/quadrado-de-trancoso"
+      },
+      {
+        "url": "https://catracalivre.com.br/viagem-livre/trancoso-roteiro-completo-para-aproveitar-ao-maximo-2-dias-no-paraiso/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "A noite do Quadrado de Trancoso",
+    "cidadeId": "trancoso",
+    "categoria": "experiencia",
+    "tags": [
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "boteco"
+    ],
+    "descricaoCurta": "Ao escurecer, as lamparinas acendem no gramado do Quadrado e os casarões coloridos viram restaurante e bar com música ao vivo, mais drinks no meio da praça.",
+    "descricaoLonga": "Em Trancoso não existe polo de noite: existe o Quadrado. Ao cair da noite as lamparinas acendem e a praça retangular de grama, cercada pelas casinhas coloridas e pela igreja, vira o único lugar onde se está - jantar com música ao vivo nas casas em volta, e drinks no gramado para quem só quer sentar. As fontes nominam o Fly Club e o Maritaca como os bares com música ao vivo, e o Cantinho Doce como restaurante com música, comida e drinks. A gastronomia das casas do Quadrado vai do baiano típico ao internacional. O QUE NÃO CONFIRMEI, e é importante porque Trancoso é caro: nenhum preço, nenhum horário, nenhum endereço com número, nenhum telefone, e se há couvert artístico nos bares com música. As fontes são guias de viagem; não achei imprensa baiana cobrindo a noite de Trancoso nesta sessão. Honestidade sobre o que esperar: é noite de jantar e conversa, com preço de destino de alto padrão, não noite de dançar - quem quer balada em Trancoso depende de festa pontual de temporada, que eu não consegui verificar. O Quadrado é plano, gramado e sem iluminação forte: leve lanterna de celular e calçado fechado se for chover.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Quadrado (Praça São João Batista) - Trancoso, Porto Seguro - BA"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Gramado sem iluminação forte; chuva encharca o Quadrado"
+      ],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "Reserve mesa nas casas do Quadrado em alta temporada: são poucas e enchem",
+      "Se quiser só beber barato, fique no gramado com drink de quiosque e deixe o restaurante para outra noite",
+      "Reserve mesa nas casas do Quadrado em alta temporada: são poucas e enchem",
+      "Se quiser só beber barato, fique no gramado com drink de quiosque e deixe o restaurante para outra noite"
+    ],
+    "alertas": [
+      "Nenhum preço, horário, telefone ou couvert confirmado",
+      "Não é destino de balada: a noite é de jantar e conversa",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

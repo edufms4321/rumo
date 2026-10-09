@@ -331,7 +331,22 @@ export function construirCidades(
       continue;
     }
     const notas = notasPorCidade[id];
-    const pesquisadaAFundo = Boolean(notas);
+    /*
+      "Pesquisada a fundo" significa que ALGUMA onda trouxe pesquisa de BASE
+      — bairros, como circular, noites recomendadas, taxas —, nao apenas uma
+      frase solta.
+
+      Isto quebrou quando as ondas passaram a se somar: uma onda tematica
+      manda so uma linha de texto por base, que vira `notasExtras`, e a mera
+      existencia do objeto fazia as 19 bases do Mexico que nunca tiveram onda
+      propria subirem de "estimado" para "parcial" e PERDEREM a observacao
+      honesta de que continuam sem bairro e sem noites recomendadas. Mentira
+      a favor continua sendo mentira: o usuario confiaria num dado que nao
+      existe.
+    */
+    const pesquisadaAFundo = Boolean(
+      notas && Object.keys(notas).some((k) => k !== 'notasExtras'),
+    );
 
     const taxas: Json[] = [];
     const taxa = notas?.taxaDeEntradaNaIlha;
@@ -434,9 +449,10 @@ export function construirCidades(
 
     const cidade: Json = {
       id,
-      fontes: notas
-        ? fontes([...(notas.fontes ?? []), geo.osm])
-        : [{ url: String(geo.osm) }],
+      // A coordenada do OSM entra sempre: uma onda tematica traz texto sem
+      // fonte propria, e sem este fallback a cidade sairia sem fonte nenhuma
+      // e o filtro a derrubaria do banco.
+      fontes: fontes([...((notas?.fontes ?? []) as Json[]), geo.osm]),
       coletadoEm: COLETADO_EM,
       confianca: pesquisadaAFundo ? 'parcial' : 'estimado',
       ...(pesquisadaAFundo

@@ -394,5 +394,64 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "mx-qro-hank-s-queretaro",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Quer%C3%A9taro"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Hank's Queretaro",
+    "cidadeId": "queretaro",
+    "categoria": "bar",
+    "tags": [
+      "bares",
+      "musica-ao-vivo",
+      "jazz",
+      "vida-noturna",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Na Juarez Sur 7, Plaza Constitucion, 12:00-00:00: jazz ao vivo, cozinha cajun e promocao 2x1 de margarita na terca e de martini na quarta.",
+    "descricaoLonga": "Wikivoyage: 'margaritas (tercas), martinis (quartas) 2x1. Jazz ao vivo. Cozinha crioula cajun.' Endereco: Juarez Sur 7, no centro, junto a Plaza Constitucion; horario 12:00-00:00 (a fonte nao declara os dias). NAO CONSEGUI CONFIRMAR preco. Entra porque o banco de Queretaro nao tem UM UNICO item de bar ou restaurante - a cobertura de comida e noite da cidade nas fontes abertas e a mais fraca do Bajio. A propria pagina da Wikivoyage lista outros nomes da noite queretana apenas como links de texto, sem endereco, horario ou preco: Wicklow (pub irlandes no centro), Maximiliano Cantina (bar LGBTQ+ no centro historico), Mezontle (balada em Juriquilla) e Adios Amor (cantina em Bernardo Quintana com mariachi e ranchera ao vivo).",
+    "duracao": {
+      "min": 60,
+      "tipica": 95,
+      "max": 140
+    },
+    "horariosObservacao": "12:00-00:00",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 442 214 2620",
+      "site": "https://m.facebook.com/HanksQueretaro/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Venda de alcool proibida para menores de 18 anos no Mexico."
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Terca e quarta tem 2x1 (margarita e martini) segundo a fonte - sao os dias de ir.",
+      "Se o que voce quer e mariachi e ranchera ao vivo, a fonte cita a cantina Adios Amor (Bernardo Quintana) - mas sem endereco, horario nem preco.",
+      "Primeiro item de noite de Queretaro no banco: o resto da cidade nao tem dado publicado."
+    ],
+    "alertas": [
+      "Preco NAO confirmado.",
+      "A fonte nao declara os dias da semana do horario 12:00-00:00.",
+      "Sem coordenada em fonte: este item nao aparece no mapa.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

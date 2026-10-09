@@ -18,7 +18,7 @@ Confirme por WhatsApp ou telefone antes de contar com qualquer coisa desta lista
 | Confiança: verificado | 43 |
 | Confiança: parcialmente verificado | 153 |
 | Confiança: estimado | 20 |
-| Com coordenada | 138 de 206 |
+| Com coordenada | 147 de 206 |
 | Com imagem de licença livre | 101 de 206 |
 | Com algum contato | 71 de 206 |
 | Coletado há mais de um ano | 0 |
@@ -130,6 +130,14 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 
 _...e mais 73. `npm run validate:data` imprime a lista inteira._
 
+### Fontes discordam — 1
+
+Duas fontes deram informações diferentes. O banco ficou com a primeira e marcou o item.
+
+| Item | Base | O que falta |
+|---|---|---|
+| Fiestas de la Independencia de Cartagena (1 a 16 de novembro de 2026) | Cartagena | qual das duas está certa |
+
 ### Pesquisa que nao entrou no banco — 36
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
@@ -161,14 +169,13 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento sem data exata ficou fora do banco: "Salsa al Parque (2027)" (vazio)
 - _...e mais 11._
 
-### Sem coordenada — 68
+### Sem coordenada — 59
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
 | Item | Base | O que falta |
 |---|---|---|
 | Ciclovía de domingo | Bogota | coordenada |
-| Theatron - a maior discoteca de Chapinero | Bogota | coordenada |
 | Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos | Bogota | coordenada |
 | Casa Quiebracanto - salsa no centro de Bogotá | Bogota | coordenada |
 | Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa | Bogota | coordenada |
@@ -182,52 +189,54 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Chiva rumbera (ônibus-festa noturno) | Cartagena | coordenada |
 | Esmeraldas em Cartagena – como não ser enganado | Cartagena | coordenada |
 | Ceviche de rua e cevicheria popular (Centro) | Cartagena | coordenada |
-| Donde Fidel - salsa clássica no Portal de los Dulces | Cartagena | coordenada |
-| Bazurto Social Club - champeta e picó ao vivo | Cartagena | coordenada |
-| Calle del Arsenal (Getsemaní) - a rua das discotecas | Cartagena | coordenada |
 | Gran Desfile de Independencia (El Bando) - 12 de novembro de 2026 | Cartagena | coordenada |
 | Festival Náutico e Bololó del Arsenal - 13 e 14 de novembro de 2026 | Cartagena | coordenada |
 | Cabildo de Getsemaní - 15 de novembro de 2026 | Cartagena | coordenada |
 | Kitesurf em La Boquilla (Cartagena) | Cartagena | coordenada |
 | Mergulho com cilindro nas Islas del Rosario (Diving Planet) | Cartagena | coordenada |
 | Restaurante Espíritu Santo - comida tradicional barata no centro | Cartagena | coordenada |
-| Restaurante La Casa de Socorro - cozinha caribenha de Cartagena | Cartagena | coordenada |
 | Restaurante La Olla Cartagenera | Cartagena | coordenada |
 | Artesanías de Colombia - loja oficial no centro de Cartagena | Cartagena | coordenada |
 | Guayabera e linho no centro histórico de Cartagena | Cartagena | coordenada |
 | Parque Lleras (zona de bares do Poblado) | Medellin | coordenada |
 | Provenza (restaurantes e coquetelaria) | Medellin | coordenada |
 | El Hueco e ruas de outlets (centro) | Medellin | coordenada |
-| Salón Málaga - tango, bolero e 7 mil discos no centro de Medellín | Medellin | coordenada |
 | Perro Negro - discoteca de reggaeton em Provenza | Medellin | coordenada |
-| Dancefree - aula de salsa e bachata em El Poblado | Medellin | coordenada |
 | Parapente em San Félix (Bello) - voo sobre o Vale de Aburrá | Medellin | coordenada |
 | Rafting classe III-IV perto de Medellín (Río Claro e Santo Domingo) | Medellin | coordenada |
 | Caiaque no embalse de Guatapé | Medellin | coordenada |
 | Mondongo's - bandeja paisa de restaurante tradicional | Medellin | coordenada |
-| Hacienda - rede paisa de comida típica em Medellín | Medellin | coordenada |
 | Trilha e cachoeira da Quebrada Valencia | Palomino | coordenada |
+| Mochila wayuu direto das tecelãs em Palomino e na Guajira | Palomino | coordenada |
+| Finca Las Acacias – tour de café pequeno e pouco comercial | Salento | coordenada |
+| Filandia – centro colorido, Calle del Tiempo Detenido e artesanato de cestaria | Salento | coordenada |
+| Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto) | Salento | coordenada |
+| Helena Adentro (Filandia) - bate-volta de Salento | Salento | coordenada |
+| Playa San Luis | San Andres | coordenada |
+| Sea Pride Scuba (Escuela de Buceo Sea Pride) | San Andres | coordenada |
+| RentcarX (mulitas, buggys, golf carts e scooters) | San Andres | coordenada |
 
-_...e mais 28. `npm run validate:data` imprime a lista inteira._
+_...e mais 19. `npm run validate:data` imprime a lista inteira._
 
 ## Mexico
 | Medida | Número |
 |---|---|
-| Itens | 266 (215 agendáveis) |
+| Itens | 333 (282 agendáveis) |
 | Bases | 26 |
-| Confiança: verificado | 49 |
-| Confiança: parcialmente verificado | 193 |
+| Confiança: verificado | 52 |
+| Confiança: parcialmente verificado | 257 |
 | Confiança: estimado | 24 |
-| Com coordenada | 187 de 215 |
-| Com imagem de licença livre | 164 de 215 |
-| Com algum contato | 58 de 215 |
+| Com coordenada | 248 de 282 |
+| Com imagem de licença livre | 164 de 282 |
+| Com algum contato | 101 de 282 |
 | Coletado há mais de um ano | 0 |
-### Preço não encontrado — 67
+### Preço não encontrado — 107
 
 O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
 | Item | Base | O que falta |
 |---|---|---|
+| Antojitos Orizaba (Zocalo de Bacalar) | Bacalar | preço |
 | Playa Delfines (Cancún) | Cancun | preço |
 | Playa Tortugas (Cancún) | Cancun | preço |
 | Mandala Beach (Cancún): beach club de dia e festa na piscina | Cancun | preço |
@@ -246,43 +255,66 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Tianguis dominical de La Lagunilla (antiguidades) | Cidade do Mexico | preço |
 | Mercado de Artesanías La Ciudadela | Cidade do Mexico | preço |
 | Mercado de Sonora (feitiçaria, ervas, animais) | Cidade do Mexico | preço |
+| Cantina La Faena | Cidade do Mexico | preço |
+| Bosforo (mezcaleria sem placa) | Cidade do Mexico | preço |
+| Mercado San Juan Arcos de Belen (comida pronta, CDMX) | Cidade do Mexico | preço |
+| Lagerbar Hercules (Condesa/Hipodromo, CDMX) | Cidade do Mexico | preço |
+| Mama Rumba (salsa cubana na Roma, CDMX) | Cidade do Mexico | preço |
+| Marrakech Salon e La Purisima (cabare drag na Republica de Cuba, CDMX) | Cidade do Mexico | preço |
 | Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar | Cozumel | preço |
 | Tlaquepaque (Parián, Andador Independencia) | Guadalajara | preço |
 | Tianguis de Tonalá (quinta e domingo) | Guadalajara | preço |
 | Plaza de los Mariachis (Guadalajara) | Guadalajara | preço |
 | Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | preço |
+| Mercado Libertad / San Juan de Dios (praca de alimentacao) | Guadalajara | preço |
+| Birreria Las Nueve Esquinas | Guadalajara | preço |
+| La Chata (cozinha tapatia no Centro) | Guadalajara | preço |
+| Cerveceria Loba | Guadalajara | preço |
+| El Parian de Tlaquepaque (mariachi) - bate-volta de Guadalajara | Guadalajara | preço |
 | Cerâmica e talavera de Dolores Hidalgo | Guanajuato | preço |
+| Fante Bar (o pulque de Guanajuato) | Guanajuato | preço |
 | Playa Norte (Isla Mujeres) | Isla Mujeres | preço |
-| Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | preço |
-| Zipolite (praia naturista) | Mazunte | preço |
-| San Agustinillo (praia) | Mazunte | preço |
-| Mercado Lucas de Gálvez (e Mercado San Benito) | Merida | preço |
-| La Chaya Maya (restaurante tradicional yucateco) | Merida | preço |
-| Comer barato: Mercado de Santa Ana, Santiago e San Sebastián (cochinita, sopa de lima, marquesitas) | Merida | preço |
-| Teotitlán del Valle (tapetes de lã) | Oaxaca de Juarez | preço |
-| Calle Macedonio Alcalá (andador turístico) | Oaxaca de Juarez | preço |
-| Mercado Benito Juárez | Oaxaca de Juarez | preço |
-| In Situ Mezcalería | Oaxaca de Juarez | preço |
-| Txalaparta (bar com pista de dança) | Oaxaca de Juarez | preço |
-| Mercado de Tlacolula (tianguis de domingo) | Oaxaca de Juarez | preço |
-| Día de Muertos em Oaxaca | Oaxaca de Juarez | preço |
-| Museo de Sitio Alberto Ruz Lhuillier (Palenque) | Palenque | preço |
-| Cascadas de Roberto Barrios | Palenque | preço |
+| Bismarkcito (tacos de camarao na orla de La Paz) | La Paz | preço |
+| Sea Coffee Loreto | Loreto | preço |
 
-_...e mais 27. `npm run validate:data` imprime a lista inteira._
+_...e mais 67. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 4
+### Preço com uma fonte só — 28
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
 | Item | Base | O que falta |
 |---|---|---|
+| Atotonilco (comedor dentro do Mercado 28, Cancun) | Cancun | segunda fonte de preço |
+| 11:11 Club (balada com drag no centro de Cancun) | Cancun | segunda fonte de preço |
 | Comida barata em Cancún centro (Parque de las Palapas, tacos e comida corrida) | Cancun | segunda fonte de preço |
+| Hosteria de Santo Domingo (o restaurante mais antigo da cidade) | Cidade do Mexico | segunda fonte de preço |
+| El Jardin del Pulpo (Mercado de Coyoacan) | Cidade do Mexico | segunda fonte de preço |
+| Mano Santa Mezcal (Roma, CDMX) | Cidade do Mexico | segunda fonte de preço |
+| Falling Piano Brewing Co. (Roma, CDMX) | Cidade do Mexico | segunda fonte de preço |
+| Jazzatlan Capital (jazz ao vivo todas as noites, Roma) | Cidade do Mexico | segunda fonte de preço |
+| Dona Quela (cafe da manha barato em Cozumel) | Cozumel | segunda fonte de preço |
+| Cerveceria Punta Sur (Cozumel) | Cozumel | segunda fonte de preço |
+| Fonda Dona Gabina Escolastica (Zapopan) - bate-volta de Guadalajara | Guadalajara | segunda fonte de preço |
+| Casa Bariachi (jantar com mariachi em Guadalajara) | Guadalajara | segunda fonte de preço |
+| Sabritas (enchiladas mineras de noite, Guanajuato) | Guanajuato | segunda fonte de preço |
+| Dulce Sabor (buffet de cafe da manha em La Crucecita) | Huatulco | segunda fonte de preço |
+| Picus (marisco na areia, ao lado do cais de Isla Mujeres) | Isla Mujeres | segunda fonte de preço |
+| El Toro Guero (marisco de almoco em San Jose del Cabo) | Los Cabos | segunda fonte de preço |
+| Palapas de praia de Mazunte (tlayudas e aguas frescas) | Mazunte | segunda fonte de preço |
+| Comala (comida corrida oaxaquenha) | Oaxaca de Juarez | segunda fonte de preço |
+| Oaxaca Brewing Company | Oaxaca de Juarez | segunda fonte de preço |
+| Archivo Maguey (bar que vira balada) | Oaxaca de Juarez | segunda fonte de preço |
+| Barbacoa Obispo Cocina Real (Oaxaca) | Oaxaca de Juarez | segunda fonte de preço |
+| Taqueria El Komal | Playa del Carmen | segunda fonte de preço |
 | Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | segunda fonte de preço |
 | Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | segunda fonte de preço |
+| Chilango-Taco (Punta Zicatela) | Puerto Escondido | segunda fonte de preço |
 | Rota do Vinho e Queijo (Ezequiel Montes / Bernal / Tequisquiapan) | Queretaro | segunda fonte de preço |
+| La Esquina (cafe e restaurante em Todos Santos) | Todos Santos | segunda fonte de preço |
+| Taqueria Don Trejo (Valladolid) | Valladolid | segunda fonte de preço |
 
-### Horário não encontrado — 111
+### Horário não encontrado — 148
 
 Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
 
@@ -290,6 +322,8 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 |---|---|---|
 | Cenote Azul (Bacalar) | Bacalar | horário de funcionamento |
 | Laguna de los Siete Colores (Bacalar): barco, veleiro ou caiaque | Bacalar | horário de funcionamento |
+| Antojitos Orizaba (Zocalo de Bacalar) | Bacalar | horário de funcionamento |
+| 11:11 Club (balada com drag no centro de Cancun) | Cancun | horário de funcionamento |
 | Playa Tortugas (Cancún) | Cancun | horário de funcionamento |
 | MUSA: Museu Subaquático de Arte (Cancún / Isla Mujeres) | Cancun | horário de funcionamento |
 | Coco Bongo Cancún (show + balada) | Cancun | horário de funcionamento |
@@ -313,6 +347,12 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Pujol (Polanco) | Cidade do Mexico | horário de funcionamento |
 | Voo de balão sobre Teotihuacán | Cidade do Mexico | horário de funcionamento |
 | Isla de las Muñecas (Trajitour) | Cidade do Mexico | horário de funcionamento |
+| Mega Procesion de Catrinas (Dia de Muertos na CDMX) | Cidade do Mexico | horário de funcionamento |
+| Mercado San Juan Arcos de Belen (comida pronta, CDMX) | Cidade do Mexico | horário de funcionamento |
+| Mano Santa Mezcal (Roma, CDMX) | Cidade do Mexico | horário de funcionamento |
+| Mama Rumba (salsa cubana na Roma, CDMX) | Cidade do Mexico | horário de funcionamento |
+| Jazzatlan Capital (jazz ao vivo todas as noites, Roma) | Cidade do Mexico | horário de funcionamento |
+| Marrakech Salon e La Purisima (cabare drag na Republica de Cuba, CDMX) | Cidade do Mexico | horário de funcionamento |
 | Playa Palancar (Cozumel) | Cozumel | horário de funcionamento |
 | Mergulho e snorkel em Cozumel (Palancar) e alerta de não voar | Cozumel | horário de funcionamento |
 | Centro Histórico de Guadalajara (Catedral, Plaza de la Liberación, Teatro Degollado) | Guadalajara | horário de funcionamento |
@@ -320,16 +360,8 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Plaza de los Mariachis (Guadalajara) | Guadalajara | horário de funcionamento |
 | Destilarias com hora marcada: Fortaleza, Casa Sauza e outras | Guadalajara | horário de funcionamento |
 | Trem José Cuervo Express (Guadalajara - Tequila) | Guadalajara | horário de funcionamento |
-| Callejón del Beso | Guanajuato | horário de funcionamento |
-| Edificio Central da Universidade de Guanajuato | Guanajuato | horário de funcionamento |
-| Mercado Hidalgo (compras e comida barata) | Guanajuato | horário de funcionamento |
-| Nieves de sabores estranhos de Dolores Hidalgo | Guanajuato | horário de funcionamento |
-| Cerâmica e talavera de Dolores Hidalgo | Guanajuato | horário de funcionamento |
-| Passeio de barco pelas baías de Huatulco | Huatulco | horário de funcionamento |
-| Playa Norte (Isla Mujeres) | Isla Mujeres | horário de funcionamento |
-| Nado com tubarão-baleia (Isla Mujeres / Cancún) | Isla Mujeres | horário de funcionamento |
 
-_...e mais 71. `npm run validate:data` imprime a lista inteira._
+_...e mais 108. `npm run validate:data` imprime a lista inteira._
 
 ### Precisa reservar, mas não diz com quanta antecedência — 1
 
@@ -370,7 +402,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Guadalajara - Colonia Americana / Av. Chapultepec" (guanajuato) sem faixa de diaria: fora de hospedagem.json
 - _...e mais 9._
 
-### Sem coordenada — 28
+### Sem coordenada — 34
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -386,15 +418,21 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Cerâmica e talavera de Dolores Hidalgo | Guanajuato | coordenada |
 | Nado com tubarão-baleia (Isla Mujeres / Cancún) | Isla Mujeres | coordenada |
 | Comida barata e frutos do mar em Isla Mujeres (tik-n-chik) e Bacalar | Isla Mujeres | coordenada |
+| Picus (marisco na areia, ao lado do cais de Isla Mujeres) | Isla Mujeres | coordenada |
 | Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | coordenada |
+| Palapas de praia de Mazunte (tlayudas e aguas frescas) | Mazunte | coordenada |
 | Txalaparta (bar com pista de dança) | Oaxaca de Juarez | coordenada |
 | Voo Oaxaca → Puerto Escondido (Aerotucán / Aerovega) | Oaxaca de Juarez | coordenada |
 | Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa | Palenque | coordenada |
 | Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul) | Palenque | coordenada |
 | Passeio Yaxchilán + Bonampak saindo de Palenque (dia inteiro) | Palenque | coordenada |
 | Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | coordenada |
+| Restaurante La Fonda (cozinha poblana barata) | Puebla | coordenada |
+| El Mural de los Poblanos (mole poblano) | Puebla | coordenada |
 | Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | coordenada |
 | Vida noturna em Puerto Escondido: Zicatela, Adoquín e La Punta | Puerto Escondido | coordenada |
+| Tamales Penamiller (tamal e atole da Sierra Gorda) | Queretaro | coordenada |
+| Hank's Queretaro | Queretaro | coordenada |
 | Mercado de artesanato de Santo Domingo / 20 de Noviembre | San Cristobal de las Casas | coordenada |
 | Café Museo Café | San Cristobal de las Casas | coordenada |
 | Café Bar Revolución ('El Revo') | San Cristobal de las Casas | coordenada |
@@ -408,16 +446,16 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 ## Nordeste brasileiro
 | Medida | Número |
 |---|---|
-| Itens | 397 (343 agendáveis) |
+| Itens | 459 (404 agendáveis) |
 | Bases | 23 |
-| Confiança: verificado | 186 |
-| Confiança: parcialmente verificado | 203 |
-| Confiança: estimado | 8 |
-| Com coordenada | 115 de 343 |
-| Com imagem de licença livre | 53 de 343 |
-| Com algum contato | 67 de 343 |
+| Confiança: verificado | 205 |
+| Confiança: parcialmente verificado | 240 |
+| Confiança: estimado | 14 |
+| Com coordenada | 115 de 404 |
+| Com imagem de licença livre | 53 de 404 |
+| Com algum contato | 72 de 404 |
 | Coletado há mais de um ano | 0 |
-### Preço não encontrado — 185
+### Preço não encontrado — 225
 
 O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
@@ -432,6 +470,9 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Confraria do Cajueiro | Aracaju | preço |
 | Tole Cozinha | Aracaju | preço |
 | Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | preço |
+| Forró Caju (São João de Aracaju) | Aracaju | preço |
+| Pré-Caju (micareta de Aracaju) | Aracaju | preço |
+| Pier 13 (beira do Rio Sergipe, 13 de Julho) | Aracaju | preço |
 | Praia de Atins e suas barracas | Atins | preço |
 | Kitesurf em Atins | Atins | preço |
 | Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | preço |
@@ -450,6 +491,8 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Kitesurf em Canoa Quebrada | Canoa Quebrada | preço |
 | Majorlândia, Quixaba e Lagoa do Mato | Canoa Quebrada | preço |
 | Vida noturna de Canoa Quebrada | Canoa Quebrada | preço |
+| Broadway de Canoa Quebrada à noite | Canoa Quebrada | preço |
+| A semana noturna de Fernando de Noronha (forró, MPB e samba por dia) | Fernando de Noronha | preço |
 | Praia da Cacimba do Padre | Fernando de Noronha | preço |
 | Morro Dois Irmãos (vista e silhueta) | Fernando de Noronha | preço |
 | Praia da Conceição | Fernando de Noronha | preço |
@@ -458,15 +501,10 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Passeio de barco Ilhatour (volta à ilha pelo mar) | Fernando de Noronha | preço |
 | Mergulhão | Fernando de Noronha | preço |
 | Bar do Cachorro (forró e vida noturna) | Fernando de Noronha | preço |
-| Praia do Futuro e as barracas | Fortaleza | preço |
-| Avenida Beira Mar e a Feirinha de artesanato | Fortaleza | preço |
-| Mercado Central e Catedral Metropolitana | Fortaleza | preço |
-| Centro Dragão do Mar de Arte e Cultura | Fortaleza | preço |
-| Mucuripe: Farol e Mercado dos Peixes | Fortaleza | preço |
 
-_...e mais 145. `npm run validate:data` imprime a lista inteira._
+_...e mais 185. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 38
+### Preço com uma fonte só — 41
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
@@ -500,6 +538,8 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Táxi-aéreo Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
 | Volta à Ilha de barco (Garapuá, Moreré, Cairu) | Morro de São Paulo | segunda fonte de preço |
 | Onde comer no centrinho de Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
+| Bardallo's (Cidade Alta) | Natal | segunda fonte de preço |
+| Teatro Riachuelo Natal | Natal | segunda fonte de preço |
 | Passeio de lancha rapida pelo Delta (circuito Canarias ou Feijao Bravo) | Parnaíba | segunda fonte de preço |
 | Safari noturno com focagem de animais no Delta | Parnaíba | segunda fonte de preço |
 | Aula de surf na Praia do Madeiro | Pipa | segunda fonte de preço |
@@ -507,11 +547,13 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Parraxaxá | Recife | segunda fonte de preço |
 | Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica) | Salvador | segunda fonte de preço |
 | Projeto Tamar Praia do Forte | Salvador | segunda fonte de preço |
+| Ensaios de verão de Salvador (Timbalada, Sarau do Brown, Baile da Santinha) | Salvador | segunda fonte de preço |
 | Cabana do Sol | São Luís | segunda fonte de preço |
 | Praia dos Coqueiros e Praia dos Nativos | Trancoso | segunda fonte de preço |
-| Balsa Porto Seguro - Arraial d'Ajuda | Trancoso | segunda fonte de preço |
 
-### Horário não encontrado — 343
+_...e mais 1. `npm run validate:data` imprime a lista inteira._
+
+### Horário não encontrado — 400
 
 Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
 
@@ -534,6 +576,8 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Tole Cozinha | Aracaju | horário de funcionamento |
 | Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | horário de funcionamento |
 | Canion do Xingo (passeio de catamara no rio Sao Francisco) | Aracaju | horário de funcionamento |
+| Forró Caju (São João de Aracaju) | Aracaju | horário de funcionamento |
+| Pré-Caju (micareta de Aracaju) | Aracaju | horário de funcionamento |
 | Circuitos de lagoas de Atins e Canto do Atins | Atins | horário de funcionamento |
 | Circuito Ponta de Mangue | Atins | horário de funcionamento |
 | Revoada dos guaras no Rio Pregucas (Atins) | Atins | horário de funcionamento |
@@ -555,18 +599,28 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Bate-volta de Barreirinhas a Atins | Barreirinhas | horário de funcionamento |
 | Bate-volta de Barreirinhas a Santo Amaro | Barreirinhas | horário de funcionamento |
 | Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | horário de funcionamento |
-| Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | horário de funcionamento |
-| Circuito Betania (Santo Amaro) | Barreirinhas | horário de funcionamento |
 
-_...e mais 303. `npm run validate:data` imprime a lista inteira._
+_...e mais 360. `npm run validate:data` imprime a lista inteira._
 
-### Precisa reservar, mas não diz com quanta antecedência — 1
+### Precisa reservar, mas não diz com quanta antecedência — 13
 
 Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
 
 | Item | Base | O que falta |
 |---|---|---|
+| Pré-Caju (micareta de Aracaju) | Aracaju | antecedência da reserva |
+| Teatro Deodoro (Maceió) | Maceió | antecedência da reserva |
+| Teatro Riachuelo Natal | Natal | antecedência da reserva |
+| Carnatal (micareta de Natal) | Natal | antecedência da reserva |
+| Teatro Guararapes (Pernambuco Centro de Convenções) | Recife | antecedência da reserva |
+| Classic Hall (Salgadinho, Olinda) | Recife | antecedência da reserva |
 | Ecoparque Peixe-Boi — Base Avançada do CMA/ICMBio em Itamaracá | Recife | antecedência da reserva |
+| Benção do Olodum (Terça da Bênção, Pelourinho) | Salvador | antecedência da reserva |
+| Balé Folclórico da Bahia no Teatro Miguel Santana | Salvador | antecedência da reserva |
+| Concha Acústica do Teatro Castro Alves | Salvador | antecedência da reserva |
+| Ensaio do Ilê Aiyê na Senzala do Barro Preto (Curuzu) | Salvador | antecedência da reserva |
+| Ensaios de verão de Salvador (Timbalada, Sarau do Brown, Baile da Santinha) | Salvador | antecedência da reserva |
+| Festival de Verão Salvador 2027 | Salvador | antecedência da reserva |
 
 ### Pesquisa que nao entrou no banco — 118
 
@@ -599,7 +653,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
 - _...e mais 93._
 
-### Sem coordenada — 228
+### Sem coordenada — 289
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -620,6 +674,9 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confraria do Cajueiro | Aracaju | coordenada |
 | Tole Cozinha | Aracaju | coordenada |
 | Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | coordenada |
+| Forró Caju (São João de Aracaju) | Aracaju | coordenada |
+| Pré-Caju (micareta de Aracaju) | Aracaju | coordenada |
+| Pier 13 (beira do Rio Sergipe, 13 de Julho) | Aracaju | coordenada |
 | Circuito Ponta de Mangue | Atins | coordenada |
 | Revoada dos guaras no Rio Pregucas (Atins) | Atins | coordenada |
 | Planctons luminescentes na foz do Rio Pregucas | Atins | coordenada |
@@ -642,30 +699,33 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Circuito Betania (Santo Amaro) | Barreirinhas | coordenada |
 | Restaurantes da beira-rio de Barreirinhas (A Canoa, O Bambu, O Jacare) | Barreirinhas | coordenada |
 | Bambae | Barreirinhas | coordenada |
-| Urra Beer Barreirinhas | Barreirinhas | coordenada |
-| Nautz Lounge Bar | Barreirinhas | coordenada |
-| Casa dos Lencois (Santo Amaro) | Barreirinhas | coordenada |
 
-_...e mais 188. `npm run validate:data` imprime a lista inteira._
+_...e mais 249. `npm run validate:data` imprime a lista inteira._
 
 ## Punta Cana e Republica Dominicana
 | Medida | Número |
 |---|---|
-| Itens | 115 (90 agendáveis) |
+| Itens | 179 (152 agendáveis) |
 | Bases | 6 |
-| Confiança: verificado | 16 |
-| Confiança: parcialmente verificado | 94 |
-| Confiança: estimado | 5 |
-| Com coordenada | 67 de 90 |
-| Com imagem de licença livre | 0 de 90 |
-| Com algum contato | 37 de 90 |
+| Confiança: verificado | 23 |
+| Confiança: parcialmente verificado | 146 |
+| Confiança: estimado | 10 |
+| Com coordenada | 95 de 152 |
+| Com imagem de licença livre | 0 de 152 |
+| Com algum contato | 58 de 152 |
 | Coletado há mais de um ano | 0 |
-### Preço não encontrado — 42
+### Preço não encontrado — 85
 
 O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
 | Item | Base | O que falta |
 |---|---|---|
+| Restaurante Las Palmas (Bayahibe) | Bayahibe | preço |
+| El Cafecito Lonza (Bayahibe) | Bayahibe | preço |
+| Shish Kebab (La Romana) — bate-volta de Bayahibe | Bayahibe | preço |
+| El Colmadón (Bayahibe) | Bayahibe | preço |
+| Helados Ivon e a esquina doce da Calle Hermanas Mirabal (Jarabacoa) | Jarabacoa | preço |
+| Carnaval Vegano de La Vega — bate-volta de Jarabacoa | Jarabacoa | preço |
 | Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | preço |
 | Salto de Baiguate | Jarabacoa | preço |
 | Parque Ecologico La Confluencia | Jarabacoa | preço |
@@ -678,6 +738,8 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Calle Hermanas Mirabal (rua das sombrinhas) e o Festival de las Flores | Jarabacoa | preço |
 | Como chegar e circular em Jarabacoa (de Santiago STI, de Santo Domingo, guaguas) | Jarabacoa | preço |
 | Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | preço |
+| Boulangerie Française (Las Terrenas) | Las Terrenas | preço |
+| Babylon Disco (Las Terrenas) | Las Terrenas | preço |
 | Playa Las Ballenas | Las Terrenas | preço |
 | Playa Bonita | Las Terrenas | preço |
 | Playa Cosón | Las Terrenas | preço |
@@ -686,6 +748,9 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | La Terrasse | Las Terrenas | preço |
 | Restaurant Atlantis (Playa Bonita) | Las Terrenas | preço |
 | Compras em Las Terrenas: Paseo de la Costanera, Plaza Colonial e larimar | Las Terrenas | preço |
+| Mares Restaurant & Pool Lounge (Puerto Plata) | Puerto Plata | preço |
+| Kaffe (Calle Sánchez, Puerto Plata) | Puerto Plata | preço |
+| Lax Ojo (Cabarete) — bate-volta de Puerto Plata | Puerto Plata | preço |
 | Teleférico de Puerto Plata / Pico Isabel de Torres (FECHADO) | Puerto Plata | preço |
 | Fortaleza San Felipe / Museo Fortaleza Colonial San Felipe | Puerto Plata | preço |
 | Museo del Ámbar Dominicano | Puerto Plata | preço |
@@ -695,38 +760,35 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Playa Encuentro | Puerto Plata | preço |
 | Playa Cabarete (baía de Cabarete) | Puerto Plata | preço |
 | Lucía (Casa Colonial Beach & Spa) | Puerto Plata | preço |
-| La Mesa Taina (Kite Beach, Cabarete) | Puerto Plata | preço |
-| Mojito Bar (praia de Cabarete) - vida noturna de pé na areia | Puerto Plata | preço |
-| Compras de âmbar e larimar no centro de Puerto Plata (Calle Duarte) | Puerto Plata | preço |
-| Playa Macao | Punta Cana | preço |
-| Playa Uvero Alto | Punta Cana | preço |
-| Palma Real Shopping Village | Punta Cana | preço |
-| Museo del Hombre Dominicano (Plaza de la Cultura) | Santo Domingo | preço |
-| Mercado Modelo | Santo Domingo | preço |
-| Museo Mundo de Ámbar (Amber World Museum) | Santo Domingo | preço |
-| Adrian Tropical (Malecón) | Santo Domingo | preço |
-| Boca Chica (praia de bate-volta) | Santo Domingo | preço |
 
-_...e mais 2. `npm run validate:data` imprime a lista inteira._
+_...e mais 45. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 1
+### Preço com uma fonte só — 3
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
 | Item | Base | O que falta |
 |---|---|---|
+| El Loro Restaurante & Beach Bar (Playa Las Ballenas) | Las Terrenas | segunda fonte de preço |
+| Onno's Zona Colonial (Calle Hostos) | Santo Domingo | segunda fonte de preço |
 | Mesón de Bari | Santo Domingo | segunda fonte de preço |
 
-### Horário não encontrado — 90
+### Horário não encontrado — 130
 
 Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
 
 | Item | Base | O que falta |
 |---|---|---|
+| Restaurante Las Palmas (Bayahibe) | Bayahibe | horário de funcionamento |
+| El Cafecito Lonza (Bayahibe) | Bayahibe | horário de funcionamento |
+| El Colmadón (Bayahibe) | Bayahibe | horário de funcionamento |
+| Cueva de las Maravillas (arte rupestre taína) — bate-volta de Bayahibe | Bayahibe | horário de funcionamento |
 | Passeio de dia inteiro a Isla Saona (catamara + lancha rapida) | Bayahibe | horário de funcionamento |
 | Mano Juan e a lancha publica para Isla Saona (sem tour) | Bayahibe | horário de funcionamento |
 | Praias e piscina natural da Isla Saona | Bayahibe | horário de funcionamento |
 | Isla Catalina: snorkel no El Muro e mergulho | Bayahibe | horário de funcionamento |
+| Helados Ivon e a esquina doce da Calle Hermanas Mirabal (Jarabacoa) | Jarabacoa | horário de funcionamento |
+| Carnaval Vegano de La Vega — bate-volta de Jarabacoa | Jarabacoa | horário de funcionamento |
 | Salto de Jimenoa Uno (Jimenoa Alto) | Jarabacoa | horário de funcionamento |
 | Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | horário de funcionamento |
 | Salto de Baiguate | Jarabacoa | horário de funcionamento |
@@ -745,6 +807,7 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Calle Hermanas Mirabal (rua das sombrinhas) e o Festival de las Flores | Jarabacoa | horário de funcionamento |
 | Como chegar e circular em Jarabacoa (de Santiago STI, de Santo Domingo, guaguas) | Jarabacoa | horário de funcionamento |
 | Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | horário de funcionamento |
+| Boulangerie Française (Las Terrenas) | Las Terrenas | horário de funcionamento |
 | Observação de baleias jubarte na Baía de Samaná | Las Terrenas | horário de funcionamento |
 | Parque Nacional Los Haitises | Las Terrenas | horário de funcionamento |
 | Cascada El Limón (Salto El Limón) | Las Terrenas | horário de funcionamento |
@@ -756,15 +819,8 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Playa Frontón (Las Galeras) | Las Terrenas | horário de funcionamento |
 | Pueblo de los Pescadores (praça gastronômica e vida noturna) | Las Terrenas | horário de funcionamento |
 | La Terrasse | Las Terrenas | horário de funcionamento |
-| Restaurant Atlantis (Playa Bonita) | Las Terrenas | horário de funcionamento |
-| Casa Azul Pizzeria | Las Terrenas | horário de funcionamento |
-| El Cabito (Las Galeras) | Las Terrenas | horário de funcionamento |
-| Compras em Las Terrenas: Paseo de la Costanera, Plaza Colonial e larimar | Las Terrenas | horário de funcionamento |
-| Como chegar a Las Terrenas: Autopista del Nordeste, pedágios e aeroporto El Catey | Las Terrenas | horário de funcionamento |
-| Aviso: motoconcho e trânsito na península | Las Terrenas | horário de funcionamento |
-| 27 Charcos de Damajagua (Monumento Natural Salto de la Damajagua) | Puerto Plata | horário de funcionamento |
 
-_...e mais 50. `npm run validate:data` imprime a lista inteira._
+_...e mais 90. `npm run validate:data` imprime a lista inteira._
 
 ### Pesquisa que nao entrou no banco — 57
 
@@ -797,35 +853,54 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento "Carnaval de Santiago (Los Lechones)" tem escopo "Santiago de los Caballeros. ATENCAO: em 2026 foi concentrado no PARQUE CENTRAL e NAO mais na Av. Las Carreras, por causa das obras do monorriel. Rotas alternativas usadas: Calle del Sol, Republica de Argentina e Av. Juan Pablo Duarte." fora das bases do banco: descartado
 - _...e mais 32._
 
-### Sem coordenada — 23
+### Sem coordenada — 57
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
 | Item | Base | O que falta |
 |---|---|---|
+| Restaurante Las Palmas (Bayahibe) | Bayahibe | coordenada |
+| El Cafecito Lonza (Bayahibe) | Bayahibe | coordenada |
+| Shish Kebab (La Romana) — bate-volta de Bayahibe | Bayahibe | coordenada |
+| El Colmadón (Bayahibe) | Bayahibe | coordenada |
+| Helados Ivon e a esquina doce da Calle Hermanas Mirabal (Jarabacoa) | Jarabacoa | coordenada |
 | Salto de Jimenoa Dos (o das pontes suspensas) | Jarabacoa | coordenada |
 | Rafting no Rio Yaque del Norte com a Rancho Baiguate | Jarabacoa | coordenada |
 | Canyoning no Rio Baiguate (rapel na cachoeira) | Jarabacoa | coordenada |
 | Voo de parapente sobre o vale de Jarabacoa (Hawk Paragliding) | Jarabacoa | coordenada |
 | Restaurante Aroma de la Montana | Jarabacoa | coordenada |
 | Parador Corazon de Jesus | Jarabacoa | coordenada |
-| Cafe Colao (Calle Hermanas Mirabal) | Jarabacoa | coordenada |
 | Venue Bar & Lounge | Jarabacoa | coordenada |
 | Cafe Monte Alto - fabrica, tour e compra de cafe | Jarabacoa | coordenada |
 | Clima de montanha e por que Jarabacoa e o contrario do resort de praia | Jarabacoa | coordenada |
-| Playa Dorada | Puerto Plata | coordenada |
+| La Casa del Chimi (Las Terrenas) | Las Terrenas | coordenada |
+| El Loro Restaurante & Beach Bar (Playa Las Ballenas) | Las Terrenas | coordenada |
+| El Mosquito Art Bar e Clandestino (Las Terrenas) | Las Terrenas | coordenada |
+| Babylon Disco (Las Terrenas) | Las Terrenas | coordenada |
+| Mares Restaurant & Pool Lounge (Puerto Plata) | Puerto Plata | coordenada |
+| Kaffe (Calle Sánchez, Puerto Plata) | Puerto Plata | coordenada |
+| Gordito's Fresh Mex (Cabarete) — bate-volta de Puerto Plata | Puerto Plata | coordenada |
+| Dominican Republic Jazz Festival (costa norte) | Puerto Plata | coordenada |
 | Laurel Eastman Kiteboarding (LEK) - aula de kitesurf em Cabarete | Puerto Plata | coordenada |
 | Vagamundo Coffee & Waffles | Puerto Plata | coordenada |
 | Lucía (Casa Colonial Beach & Spa) | Puerto Plata | coordenada |
 | La Mesa Taina (Kite Beach, Cabarete) | Puerto Plata | coordenada |
-| Mojito Bar (praia de Cabarete) - vida noturna de pé na areia | Puerto Plata | coordenada |
 | Compras de âmbar e larimar no centro de Puerto Plata (Calle Duarte) | Puerto Plata | coordenada |
+| La Posada de Gladys (Bávaro) | Punta Cana | coordenada |
+| Capitán Cook (El Cortecito) | Punta Cana | coordenada |
+| Ñam Ñam (Los Corales) | Punta Cana | coordenada |
+| Noah Restaurant & Lounge (Bávaro) | Punta Cana | coordenada |
+| Supermercado e colmado: como comer e beber fora do all-inclusive em Bávaro | Punta Cana | coordenada |
+| Drink Point (Downtown Punta Cana) | Punta Cana | coordenada |
+| Don Queco Cigar & Rum Bar (Puntacana Resort) | Punta Cana | coordenada |
+| Oro Nightclub (Hard Rock Hotel Punta Cana) | Punta Cana | coordenada |
+| Fiesta de Nuestra Señora de la Altagracia (21 de janeiro, Higüey) | Punta Cana | coordenada |
 | Isla Saona - dia inteiro saindo de Punta Cana (Cana Tours) | Punta Cana | coordenada |
 | Palma Real Shopping Village | Punta Cana | coordenada |
 | Taxi tabelado, guagua e Uber em Punta Cana (como voce vai se mover) | Punta Cana | coordenada |
-| Mesón de Bari | Santo Domingo | coordenada |
-| Adrian Tropical (Malecón) | Santo Domingo | coordenada |
-| Pat'e Palo European Brasserie | Santo Domingo | coordenada |
+| Almoço criollo: la bandera, mangú, sancocho e mofongo | Santo Domingo | coordenada |
+
+_...e mais 17. `npm run validate:data` imprime a lista inteira._
 
 ---
 

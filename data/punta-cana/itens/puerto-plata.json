@@ -113,6 +113,10 @@
     "fontes": [
       {
         "url": "https://trip101.com/article/puerto-plata-dominican-republic-restaurants"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/6301803586",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -158,7 +162,8 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-pop-gordito-s-fresh-mex-cabarete-bate-volta-de-puerto-pl",
@@ -728,6 +733,10 @@
       },
       {
         "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/136395000",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -769,7 +778,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": 19.765183,
+      "lng": -70.613399
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-pop-playa-sosua-e-a-verdade-sobre-sosua-a-noite",
@@ -1353,6 +1367,10 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/Cabarete"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5599186222",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1400,7 +1418,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 19.750401,
+      "lng": -70.4061
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "do-pop-compras-de-ambar-e-larimar-no-centro-de-puerto-plata",

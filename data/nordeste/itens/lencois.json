@@ -1084,5 +1084,64 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-lec-a-noite-de-lencois-rua-das-pedras-e-rua-da-baderna",
+    "fontes": [
+      {
+        "url": "https://www.viagensecaminhos.com/lencois-ba/"
+      },
+      {
+        "url": "https://all.accor.com/a/pt-br/limitless/thematics/countryside/chapada-diamantina-bahia.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "A noite de Lençóis: Rua das Pedras e Rua da Baderna",
+    "cidadeId": "lencois",
+    "categoria": "experiencia",
+    "tags": [
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "boteco"
+    ],
+    "descricaoCurta": "Depois da trilha, a vida de Lençóis se concentra em duas ruas do centro histórico: mesas na calçada, música ao vivo e gastronomia internacional em casario colonial.",
+    "descricaoLonga": "Lençóis é a base da Chapada Diamantina e tem uma noite melhor do que se espera de cidade de trilha - o que ajuda muito depois de um dia de 20 km. A vida noturna se concentra na RUA DAS PEDRAS, com mesas ao ar livre, música ao vivo e gastronomia internacional num clima cosmopolita que vem da época em que a cidade virou rota de mochileiro estrangeiro, e no entorno da RUA DA BADERNA, no centro histórico de rua de pedra e casario colonial de 1844. Tem loja de artesanato, café e cena cultural com música ao vivo e festivais. O QUE NÃO CONFIRMEI, e é tudo o que você usaria para planejar: nenhum nome de bar, nenhum horário, nenhum preço, nenhuma noite específica da semana e nenhuma fonte oficial ou de imprensa baiana - as fontes são portais de conteúdo e guias. Por isso a confiança está rebaixada e eu NÃO vou listar casa que não verifiquei. Verdade prática que vale mais que nome de bar: em Lençóis a noite começa e termina cedo, porque todo mundo sai para trilha às 7h; e o centro histórico é de pedra irregular, escuro e escorregadio quando chove - calçado fechado e lanterna.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua das Pedras e Rua da Baderna - Centro Histórico, Lençóis - BA"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Rua de pedra irregular, escura e escorregadia com chuva"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Jante cedo: a cidade acorda às 6h para trilha e a noite esvazia por volta da meia-noite",
+      "Calçado fechado também para a noite: as ruas de pedra de Lençóis não perdoam chinelo",
+      "Jante cedo: a cidade acorda às 6h para trilha e a noite esvazia por volta da meia-noite",
+      "Calçado fechado também para a noite: as ruas de pedra de Lençóis não perdoam chinelo"
+    ],
+    "alertas": [
+      "Nenhum bar nominado, nenhum horário e nenhum preço confirmados",
+      "Fontes são portais de conteúdo, sem imprensa local nem fonte oficial",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

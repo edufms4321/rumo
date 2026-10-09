@@ -1,114 +1,5 @@
 [
   {
-    "id": "mx-oax-mercado-20-de-noviembre-e-o-pasillo-de-humo",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      },
-      {
-        "url": "https://oaxaca.eluniversal.com.mx/mas-de-oaxaca/pasillo-de-humo-el-rincon-imperdible-para-probar-autentica-comida-oaxaquena/"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "verificado",
-    "nome": "Mercado 20 de Noviembre e o Pasillo de Humo",
-    "cidadeId": "oaxaca",
-    "categoria": "restaurante",
-    "tags": [
-      "mercado",
-      "comida-barata",
-      "tlayuda",
-      "mole",
-      "antojitos",
-      "dinheiro-em-especie"
-    ],
-    "coords": {
-      "lat": 17.05798,
-      "lng": -96.72704
-    },
-    "descricaoCurta": "Mercado do tamanho de uma quadra a 3 quadras do Zocalo, cheio de comedores; no Pasillo de Humo voce escolhe a carne e eles grelham na sua frente.",
-    "descricaoLonga": "E o jeito certo e barato de comer em Oaxaca. O mercado ocupa uma quadra inteira a 3 quadras ao sul do Zocalo (a quadra ao sul do Mercado Benito Juarez) e e feito de bancas de cafe da manha e almoco: moles, sopas, tlayudas, tostadas, memelas, chapulines e doces. A entrada do lado leste, de frente para a C. Cabrera, da no PASILLO DE HUMO: um corredor estreito tomado pela fumaca das brasas onde cerca de 36 negocios familiares vendem tasajo, cecina enchilada, chorizo e longaniza por peso e assam na hora. O El Universal Oaxaca (11/05/2025) registra horario 07:00-19:00 e avisa que a MAIORIA DAS BANCAS SO ACEITA DINHEIRO. NAO CONSEGUI CONFIRMAR preco por prato nem por quilo de carne em fonte publicavel: as duas fontes descrevem o lugar sem tabela. A referencia de preco que tenho para a cidade e indireta - Wikivoyage diz que a comida corrida em restaurante de Centro comeca por volta de M$100, e o Excelsior registrou a tlayuda crua a M$13 a peca no mercado de abasto no fim de 2025. Trate como refeicao barata, mas leve dinheiro e confirme o preco ANTES de pedir.",
-    "duracao": {
-      "min": 45,
-      "tipica": 75,
-      "max": 120
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ],
-      "dom": [
-        {
-          "abre": "07:00",
-          "fecha": "19:00"
-        }
-      ]
-    },
-    "horariosObservacao": "07:00-19:00",
-    "diasFechados": [],
-    "melhorHorario": "O El Universal recomenda ir no horario do almoco para fugir da aglomeracao; para o Pasillo de Humo, chegar antes das 13:00 pega menos fila e a brasa ja quente.",
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "A maioria das bancas aceita somente dinheiro em especie (El Universal Oaxaca, 05/2025)."
-      ]
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: e a refeicao com melhor relacao preco/sabor da cidade e serve de almoco e de aula de comida oaxaquenha de graca.",
-      "No Pasillo de Humo o fluxo e: escolher a carne na banca, pagar por peso, e eles grelham; tortilla, cebolinha e salsa saem de bancas vizinhas.",
-      "Combine com o Mercado Benito Juarez (uma quadra ao norte) para comprar mezcal, chocolate e chapulines."
-    ],
-    "alertas": [
-      "Preco por prato e por quilo NAO confirmado em fonte aberta - pergunte antes de pedir.",
-      "Somente dinheiro em especie na maioria das bancas."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
     "id": "mx-oax-mercado-de-la-merced-la-guerita-e-la-florecita",
     "fontes": [
       {
@@ -225,105 +116,6 @@
       "Fica aberto ate tarde - serve de jantar depois das mezcalerias da Garcia Vigil."
     ],
     "alertas": [],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
-    "id": "mx-oax-in-situ-mezcaleria",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "In Situ Mezcaleria",
-    "cidadeId": "oaxaca",
-    "categoria": "bar",
-    "tags": [
-      "mezcal",
-      "bares",
-      "vida-noturna",
-      "degustacao"
-    ],
-    "coords": {
-      "lat": 17.05952,
-      "lng": -96.721568
-    },
-    "descricaoCurta": "Mais de cem garrafas de mezcal de muitos produtores e varietais na Vicente Guerrero 413; os mezcaleros explicam as diferencas. Fecha domingo.",
-    "descricaoLonga": "Wikivoyage: 'bem mais de cem garrafas de mezcal para escolher, de um leque atordoante de produtores e com muitos varietais, com opcoes de jovem a anejo complexo. Os mezcaleros especialistas explicam como os mezcales sao feitos e como diferem no copo'. Fica na Vicente Guerrero 413, no Centro, e abre de 14:00 as 23:00, FECHADO DOMINGO (listagem editada em 07/2023). Contexto: mezcal e destilado de agave produzido em todo o estado de Oaxaca - tequila e, tecnicamente, um subtipo de mezcal; o de Oaxaca costuma vir de espadin e e cozido em forno de cova, o que da a nota de fumaca. NAO CONSEGUI CONFIRMAR preco de dose nem de degustacao em nenhuma das tres mezcalerias de Oaxaca que entraram no banco.",
-    "duracao": {
-      "min": 60,
-      "tipica": 90,
-      "max": 150
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "14:00",
-          "fecha": "23:00"
-        }
-      ]
-    },
-    "horariosObservacao": "14:00-23:00",
-    "diasFechados": [
-      "dom"
-    ],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 951 514 1811",
-      "site": "http://insitumezcaleria.com/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [
-        "Venda de alcool proibida para menores de 18 anos no Mexico."
-      ]
-    },
-    "selos": [],
-    "dicas": [
-      "Peca uma degustacao comparativa de varietais (espadin, tobala, tepeztate) em vez de doses soltas - e o que justifica vir aqui.",
-      "Mezcal bom se bebe puro e devagar, em copo de barro ou jicara; pedir com refrigerante e desperdicar o produto.",
-      "Fecha domingo - nao planeje a noite de domingo aqui."
-    ],
-    "alertas": [
-      "Preco NAO confirmado em fonte aberta."
-    ],
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
@@ -595,145 +387,6 @@
     }
   },
   {
-    "id": "mx-oax-guelaguetza-lunes-del-cerro",
-    "fontes": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Guelaguetza"
-      },
-      {
-        "url": "https://www.elimparcial.com/mexico/2025/05/20/guelaguetza-2025-fechas-boletos-y-actividades-de-la-maxima-fiesta-de-oaxaca/"
-      },
-      {
-        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "verificado",
-    "nome": "Guelaguetza (Lunes del Cerro)",
-    "cidadeId": "oaxaca",
-    "categoria": "experiencia",
-    "tags": [
-      "guelaguetza",
-      "festas",
-      "musica-ao-vivo",
-      "danca",
-      "julho",
-      "indigena"
-    ],
-    "descricaoCurta": "A maior festa de Oaxaca: duas SEGUNDAS-FEIRAS de julho no Auditorio Guelaguetza. Em 2025 os palcos A e B custaram M$1.573 e M$1.273; as areas C e D foram de graca.",
-    "descricaoLonga": "Festa que reune as delegacoes de dancas tradicionais dos povos indigenas do estado de Oaxaca. A REGRA DA DATA, desde 1969: acontece nas DUAS SEGUNDAS-FEIRAS imediatamente seguintes a 16 de julho - exceto quando a primeira dessas segundas cai em 18 de julho (data da morte de Benito Juarez), caso em que a festa passa para 25 de julho e 1 de agosto, como ocorreu em 2011 (Wikipedia em ingles). Local: Auditorio Guelaguetza, anfiteatro aberto construido na encosta do Cerro del Fortin, concluido em 2010. Em 2025 as apresentacoes foram em 21 e 28 de julho, as 10:00 e as 17:00, com ingresso de M$1.573 no Palco A e M$1.273 no Palco B na venda geral, e as AREAS C e D DE GRACA; venda pelo superboletos.com ou na Secretaria de Turismo de Oaxaca (Av. Benito Juarez 703), dias uteis 9-17h (El Imparcial, 19/05/2025). A programacao inclui tambem Feria del Mezcal, desfiles regionais, meia maratona e a escolha da Diosa Centeotl. Existe ainda a GUELAGUETZA POPULAR, organizada por grupos comunitarios, tradicionalmente de entrada franca. AS DATAS E PRECOS DE 2027 E 2028 NAO ESTAVAM PUBLICADOS na coleta - aplique a regra das duas segundas apos 16 de julho para estimar e confirme com a Secretaria de Turismo do estado. A Wikivoyage registra a mesma regra ('os dias principais sao as segundas seguintes a 16 de julho') mas NAO traz coordenada do auditorio, e eu nao inventei nenhuma: este item entra sem ponto no mapa.",
-    "duracao": {
-      "min": 180,
-      "tipica": 240,
-      "max": 360
-    },
-    "diasFechados": [],
-    "preco": {
-      "moeda": "MXN",
-      "min": 1273,
-      "max": 1573,
-      "por": "pessoa",
-      "inclui": "Ingresso de venda geral 2025: Palco B M$1.273 e Palco A M$1.573 por pessoa. As areas C e D foram GRATUITAS. Precos de 2027/2028 nao publicados.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://www.elimparcial.com/mexico/2025/05/20/guelaguetza-2025-fechas-boletos-y-actividades-de-la-maxima-fiesta-de-oaxaca/"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": true,
-      "antecedenciaDias": 45,
-      "link": "https://www.superboletos.com/"
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [
-      "precisa-reservar",
-      "esgota-rapido",
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "Se o roteiro cai em julho, isto reorganiza a viagem inteira: hospedagem em Oaxaca sobe e esgota.",
-      "VALE CADA PESO: as areas C e D foram gratuitas em 2025 - da para ver a festa sem pagar palco.",
-      "A regra da data e as duas segundas apos 16 de julho (com a excecao do 18 de julho). Confirme o ano na Secretaria de Turismo antes de comprar voo."
-    ],
-    "alertas": [
-      "DATAS E PRECOS DE 2027/2028 NAO PUBLICADOS na coleta (09/10/2026).",
-      "Os precos citados sao da edicao de 2025 e nao valem para anos futuros.",
-      "Em julho os precos de hospedagem em Oaxaca sobem muito e o ingresso de palco esgota.",
-      "Sem coordenada em fonte: este item nao aparece no mapa.",
-      "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
-  },
-  {
-    "id": "mx-oax-dia-de-muertos-em-oaxaca",
-    "fontes": [
-      {
-        "url": "https://www.eluniversal.com.mx/estados/oaxaca-presenta-la-fiesta-mas-viva-de-todas-para-celebrar-dia-de-muertos-habra-mas-de-100-actividades-del-26-de-octubre-al-3-de-noviembre/"
-      },
-      {
-        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "verificado",
-    "nome": "Dia de Muertos em Oaxaca",
-    "cidadeId": "oaxaca",
-    "categoria": "experiencia",
-    "tags": [
-      "dia-de-muertos",
-      "festas",
-      "comparsa",
-      "gratis",
-      "outubro",
-      "novembro"
-    ],
-    "coords": {
-      "lat": 17.06058,
-      "lng": -96.72537
-    },
-    "descricaoCurta": "Em 2026 o programa oficial foi de 26/10 a 03/11 com mais de 100 atividades gratuitas; a grande comparsa saiu em 31/10 pelas ruas do centro.",
-    "descricaoLonga": "Oaxaca e, junto com Patzcuaro, o endereco classico do Dia de Muertos mexicano. Na edicao de 2026 o governo do estado montou um programa de MAIS DE 100 ATIVIDADES entre 26 DE OUTUBRO E 3 DE NOVEMBRO, todas de entrada franca, com: verbena no zocalo em 30/10 (tamales, pan de muerto, chocolate e cafe); GRANDE COMPARSA em 31/10 pelas ruas principais, com delegacoes culturais, carros alegoricos e mojigangas (bonecos gigantes); concursos de comparsa, de fachada decorada com cempasuchil e de catrina melhor vestida; e 30 altares monumentais no zocalo representando 16 povos indigenas e comunidades afro-mexicanas (El Universal, 06/10/2026). A Wikivoyage registra o nucleo da festa entre 31 de outubro e 2 de novembro, 'em frente a quase toda igreja do centro historico'. O QUE NAO CONFIRMEI: a velacao noturna nos panteoes de Santa Cruz Xoxocotlan e Atzompa - a tradicao mais fotografada do Dia de Muertos oaxaquenho - aparece em materia de imprensa que eu NAO abri, e a materia do El Universal que eu abri nao traz horario de velacao. Se isso e o motivo da viagem, confirme o horario dos panteoes localmente. AS DATAS DE 2027 E 2028 do programa oficial NAO ESTAO PUBLICADAS; o nucleo 31/10-02/11 e fixo no calendario.",
-    "duracao": {
-      "min": 120,
-      "tipica": 240,
-      "max": 480
-    },
-    "diasFechados": [],
-    "melhorHorario": "31 de outubro a noite: e o dia com mais atividade (comparsa, concurso de catrinas, concerto).",
-    "gratuito": true,
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": [],
-      "dependeDeClima": true
-    },
-    "selos": [
-      "gratuito",
-      "depende-do-clima",
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: o programa oficial de 2026 foi inteiramente gratuito - o gasto e hospedagem, nao ingresso.",
-      "Hospedagem em Oaxaca em Dia de Muertos sobe muito e esgota: reserve com meses de antecedencia.",
-      "Se quiser velacao de panteao (Xoxocotlan, Atzompa), contrate guia local ou confirme horario no destino - nao achei horario em fonte que eu tenha aberto."
-    ],
-    "alertas": [
-      "DATAS DO PROGRAMA DE 2027/2028 NAO PUBLICADAS; o nucleo 31/10-02/11 e fixo.",
-      "Horario das velacoes nos panteoes de Xoxocotlan e Atzompa NAO confirmado.",
-      "Alta temporada forte: preco de hospedagem sobe e esgota."
-    ]
-  },
-  {
     "id": "mx-oax-noche-de-rabanos",
     "fontes": [
       {
@@ -868,6 +521,121 @@
     "alertas": [
       "Cover de 2021 - desatualizado.",
       "Horario de segunda e terca nao consta na fonte (desconhecido, nao fechado)."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-oax-barbacoa-obispo-cocina-real-oaxaca",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Barbacoa Obispo Cocina Real (Oaxaca)",
+    "cidadeId": "oaxaca",
+    "categoria": "restaurante",
+    "tags": [
+      "barbacoa",
+      "mixteco",
+      "comida-tipica",
+      "michelin",
+      "oaxaquenho"
+    ],
+    "coords": {
+      "lat": 17.095009,
+      "lng": -96.715251
+    },
+    "descricaoCurta": "Barbacoa mixteca com estrela Michelin 2025 por M$300, em San Felipe del Agua: comida de estrela a preco de comedor. Fecha segunda.",
+    "descricaoLonga": "Wikivoyage: 'salao de jantar ao ar livre confortavel servindo barbacoa mixteca autentica, ao mesmo tempo familiar e unica no seu perfil de sabor tradicional. Peca os \"paquetes\". Recebeu estrela no Guia Michelin 2025, e ainda assim a comida tem preco acessivel e e servida num estilo cotidiano e humilde, o que faz dele um valor extraordinario para o gourmet sem dinheiro.' Endereco: Calz. San Felipe del Agua 327, bairro San Felipe - cerca de 4 km ao norte do centro historico, nao e a pe. Horario: terca a sabado 09:00-21:00, domingo 09:00-17:00, FECHADO SEGUNDA; faixa de M$300 (listagem de 06/2025). Barbacoa aqui e carne cozida lentamente em cova, tradicao da Mixteca oaxaquenha - prato diferente dos moles e das tlayudas que dominam o resto do roteiro.",
+    "duracao": {
+      "min": 70,
+      "tipica": 100,
+      "max": 150
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-21:00 | 09:00-17:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Almoco. Barbacoa e prato de manha e comeco de tarde; e a casa fecha as 17:00 no domingo.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 300,
+      "max": 300,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de junho/2025).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Oaxaca_(city)"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 951 455 5522"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: estrela Michelin por M$300 e o melhor custo-beneficio de restaurante do pacote mexicano inteiro.",
+      "Peca os 'paquetes' - a propria fonte nomeia o pedido.",
+      "Fica ~4 km ao norte do centro: va de taxi ou aplicativo, nao a pe.",
+      "Fecha SEGUNDA."
+    ],
+    "alertas": [
+      "Fechado segunda.",
+      "Fica fora do centro historico (San Felipe del Agua) - precisa de carro ou taxi."
     ],
     "gastronomia": {
       "tipoCozinha": [],
@@ -2282,7 +2050,7 @@
     }
   },
   {
-    "id": "mx-oax-in-situ-mezcaleria-2",
+    "id": "mx-oax-in-situ-mezcaleria",
     "fontes": [
       {
         "url": "https://traveltooaxaca.com/best-mezcalerias-oaxaca-city"
@@ -2889,7 +2657,7 @@
     ]
   },
   {
-    "id": "mx-oax-guelaguetza-lunes-del-cerro-2",
+    "id": "mx-oax-guelaguetza-lunes-del-cerro",
     "fontes": [
       {
         "url": "https://www.eluniversal.com.mx/destinos/cuando-sera-la-guelaguetza-2026/"
@@ -2972,7 +2740,7 @@
     ]
   },
   {
-    "id": "mx-oax-dia-de-muertos-em-oaxaca-2",
+    "id": "mx-oax-dia-de-muertos-em-oaxaca",
     "fontes": [
       {
         "url": "https://www.airalo.com/es-419/blog/dia-de-muertos-en-oaxaca"

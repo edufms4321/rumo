@@ -1096,5 +1096,75 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-slz-quinta-do-reggae-praca-do-reggae-sao-luis",
+    "fontes": [
+      {
+        "url": "https://oimparcial.com.br/entretenimento-e-cultura/2025/11/quinta-do-reggae-movimenta-o-centro-historico-de-sao-luis-com-boa-musica-cultura-e-tradicao/"
+      },
+      {
+        "url": "https://oimparcial.com.br/noticias/2025/11/festival-ilha-do-reggae-estreia-neste-fim-de-semana-com-atracoes-nacionais-e-internacionais-em-sao-luis/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Quinta do Reggae (Praça do Reggae, São Luís)",
+    "cidadeId": "sao-luis",
+    "categoria": "experiencia",
+    "tags": [
+      "musica-ao-vivo",
+      "gratuito",
+      "vida-noturna",
+      "danca"
+    ],
+    "descricaoCurta": "Toda quinta-feira, das 18h às 22h30, radiola e banda tocam de graça na Praça do Reggae, ao lado do Museu do Reggae, no centro histórico de São Luís.",
+    "descricaoLonga": "Dado firme e recente, e é o melhor programa gratuito de noite de semana do Nordeste que eu achei nesta pesquisa: a Quinta do Reggae acontece TODAS AS QUINTAS-FEIRAS, das 18h às 22h30, na Praça do Reggae, na Rua da Estrela, ao lado do Museu do Reggae, no Centro Histórico de São Luís. É GRATUITA e aberta ao público, promovida pelo Governo do Maranhão pela Secretaria de Estado da Cultura. São Luís é a capital brasileira do reggae e o ritmo ali não é importação de festa de verão: tem radiola, tem dança agarradinha e tem público local de todas as idades. Combina com o Museu do Reggae, que fica literalmente ao lado, e com o casario do Centro Histórico - ou seja, você faz museu de tarde e música de noite sem andar uma quadra. No mesmo calendário estadual existe o Festival Ilha do Reggae, também gratuito, que em sua primeira edição aconteceu em 22 e 23 de novembro na Arena Jamaica Brasileira, com Burning Spear, Ky-Mani Marley, Israel Vibration, Edson Gomes e Tribo de Jah. O QUE NÃO CONFIRMEI: se há pausa da Quinta do Reggae em algum mês, e nada sobre as datas do Ilha do Reggae em 2027 ou 2028. Centro Histórico de São Luís à noite: o entorno da Praça do Reggae tem movimento nos dias de programação e fica vazio nos outros - vá no dia certo e volte de carro de app.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "qui": [
+        {
+          "abre": "18:00",
+          "fecha": "22:30"
+        }
+      ]
+    },
+    "horariosObservacao": "18:00-22:30",
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Praça do Reggae - Rua da Estrela, ao lado do Museu do Reggae, Centro Histórico, São Luís - MA"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evento de rua, em pé, a céu aberto"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Encaixe na quinta: é o único dia e é de graça, com horário publicado por fonte de governo",
+      "Faça o Museu do Reggae de tarde e emende: é parede com parede",
+      "Encaixe na quinta: é o único dia e é de graça, com horário publicado por fonte de governo",
+      "Faça o Museu do Reggae de tarde e emende: é parede com parede"
+    ],
+    "alertas": [
+      "Não confirmei se há interrupção da programação em algum período do ano",
+      "Datas do Festival Ilha do Reggae em 2027/2028 não publicadas",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

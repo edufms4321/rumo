@@ -1730,7 +1730,7 @@
     ]
   },
   {
-    "id": "mx-vld-mercado-de-comida-el-bazar-praca-de-alimentacao-do-z",
+    "id": "mx-vld-taqueria-don-trejo-valladolid",
     "fontes": [
       {
         "url": "https://en.wikivoyage.org/wiki/Valladolid_(Mexico)"
@@ -1738,34 +1738,79 @@
     ],
     "coletadoEm": "2026-10-09",
     "confianca": "parcial",
-    "nome": "Mercado de Comida / El Bazar (praca de alimentacao do zocalo de Valladolid)",
+    "nome": "Taqueria Don Trejo (Valladolid)",
     "cidadeId": "valladolid",
     "categoria": "restaurante",
     "tags": [
-      "mercado",
       "comida-barata",
-      "cochinita-pibil",
+      "tacos",
+      "carnitas",
       "yucateco",
-      "antojitos"
+      "vegetariano"
     ],
     "coords": {
-      "lat": 20.6910494,
-      "lng": -88.2013737
+      "lat": 20.688781,
+      "lng": -88.20335
     },
-    "descricaoCurta": "Praca de alimentacao sob arcadas na esquina nordeste da praca central: comida yucateca por M$80-110 o prato (jan/2022), so cafe da manha e almoco.",
-    "descricaoLonga": "E o endereco de comida barata de Valladolid, na esquina NORDESTE da praca central: um patio de comedores sob arcadas, aberto para cafe da manha e almoco. Wikivoyage recomenda especificamente El Habanero Taqueria e Loncheria Canul, e registra que ha tambem pizzaria e banca chinesa; pratos principais em torno de M$80-110 (dado de janeiro de 2022). Pratos da regiao que valem o pedido: lomitos de Valladolid (porco em molho de tomate fresco), cochinita pibil, relleno negro, frijol con puerco e longaniza. A fonte avisa que Valladolid esta ficando turistica e que o ponto 'local' esta cada vez mais dificil de achar - esta praca e o que sobrou dele no centro.",
+    "descricaoCurta": "Na Calle 44 #202H: taco de carnitas ou pastor por M$16 (jan/2022), com opcao vegetariana e menu em ingles. Aberta ate as 22:00.",
+    "descricaoLonga": "Wikivoyage: 'restaurante simples e autentico. Tacos com carnitas e carne de pastor por M$16 (jan/2022). Tambem servem tacos vegetarianos, tortas, gringas e quesadillas. Tem menu em ingles. Abre seg-sex 08:00-22:00 e no fim de semana 09:00-22:00.' Endereco: Calle 44 #202H, entre 41 e 43, a poucas quadras da praca central. Dois detalhes que importam no roteiro: tem opcao VEGETARIANA (raro em taqueria de pueblo) e fica aberta ate as 22:00, o que resolve o jantar - a praca de alimentacao do zocalo e os mercados de Valladolid so funcionam de dia. ATENCAO: o preco e de janeiro de 2022 e a fonte avisa, em outra listagem da mesma cidade, que Valladolid esta ficando turistica rapido.",
     "duracao": {
-      "min": 40,
-      "tipica": 60,
-      "max": 90
+      "min": 25,
+      "tipica": 45,
+      "max": 65
     },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "22:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "22:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "22:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-22:00 | 09:00-22:00",
     "diasFechados": [],
     "preco": {
       "moeda": "MXN",
-      "min": 80,
-      "max": 110,
+      "min": 16,
+      "max": 16,
       "por": "pessoa",
-      "inclui": "Prato principal, segundo a fonte, com dado de janeiro de 2022. Bebida nao incluida.",
+      "inclui": "Por taco de carnitas ou pastor, segundo a fonte, com dado de janeiro de 2022. Tortas, gringas e quesadillas sem preco na fonte.",
       "coletadoEm": "2026-10-09",
       "fontes": [
         {
@@ -1780,19 +1825,20 @@
     "imagens": [],
     "agendavel": true,
     "restricoes": {
-      "outras": []
+      "outras": [
+        "Serve tacos vegetarianos (a fonte confirma); nao confirmei opcao vegana."
+      ]
     },
     "selos": [
       "vale-cada-peso"
     ],
     "dicas": [
-      "VALE CADA PESO: almoco yucateco completo por menos de M$110 a 50 m da praca principal.",
-      "So funciona de dia (cafe da manha e almoco) - para o jantar, o Taqueria Don Trejo (Calle 44 #202H) ficava aberto ate as 22:00 em jan/2022.",
-      "Cochinita pibil e lomitos sao os dois pratos que SO fazem sentido aqui e em Merida."
+      "VALE CADA PESO: M$16 o taco em jan/2022 - mesmo com inflacao, segue entre os mais baratos do Yucatan.",
+      "CARNITAS e o pedido certo aqui; para cochinita pibil, va de manha a um mercado.",
+      "Tem menu em ingles e opcao vegetariana - util se o grupo tem restricao."
     ],
     "alertas": [
-      "Horario de abertura NAO confirmado (a fonte so diz 'cafe da manha e almoco').",
-      "Preco e de janeiro de 2022 - desatualizado, use como ordem de grandeza."
+      "Preco de janeiro de 2022 - desatualizado."
     ],
     "gastronomia": {
       "tipoCozinha": [],

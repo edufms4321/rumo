@@ -1304,75 +1304,6 @@
     }
   },
   {
-    "id": "mx-gdl-plaza-de-los-mariachis-guadalajara-2",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
-      },
-      {
-        "url": "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "verificado",
-    "nome": "Plaza de los Mariachis (Guadalajara)",
-    "cidadeId": "guadalajara",
-    "categoria": "atracao",
-    "tags": [
-      "mariachi",
-      "musica-ao-vivo",
-      "festas",
-      "vida-noturna",
-      "jalisco"
-    ],
-    "coords": {
-      "lat": 20.67495,
-      "lng": -103.3414
-    },
-    "descricaoCurta": "O berco do mariachi, na Javier Mina com Calzada Independencia, em frente ao Mercado Libertad: musicos esperando trabalho a qualquer hora do dia e da noite.",
-    "descricaoLonga": "Inaugurada em maio de 1962 pelo presidente Adolfo Lopez Mateos e dedicada a Pepe Guizar, autor da cancao 'Guadalajara'; desde 2019 tem uma estatua de Vicente Fernandez (Milenio, 21/01/2022). Fica no cruzamento da Calzada Independencia com a Avenida Javier Mina, no bairro San Juan de Dios, de frente para o Mercado Libertad, e a Wikivoyage registra que a praca e cercada de restaurantes e bares. Jalisco e a terra do mariachi, reconhecido pela UNESCO como patrimonio imaterial em 2011, e a praca e o ponto onde os grupos esperam contratacao 'a diferentes horas do dia e da noite'. PRECO: um musico entrevistado pelo Milenio disse que o custo por hora de um grupo fica em torno de M$3.500, negociavel para evento mais longo ou fora do periferico - esse e o unico numero que a materia que eu abri traz. Numeros de preco por cancao circulam em outras reportagens que eu nao abri e por isso nao registro. COMBINE O PRECO ANTES DE A MUSICA COMECAR. O nome oficial da praca e Plaza Pepe Guizar, e foi ali que nasceu o Jarabe Tapatio, o 'Mexican Hat Dance' (Wikivoyage). AVISO DE SEGURANCA: a Wikivoyage traz uma ressalva explicita - 'este bairro fica sketchy depois do escurecer'. O Festival Internacional del Mariachi y la Charreria acontece em setembro, todo ano - datas de 2027/2028 nao publicadas.",
-    "duracao": {
-      "min": 60,
-      "tipica": 90,
-      "max": 150
-    },
-    "diasFechados": [],
-    "melhorHorario": "Noite, e sobretudo em setembro, no Festival Internacional del Mariachi y la Charreria (datas de 2027/2028 nao publicadas).",
-    "preco": {
-      "moeda": "MXN",
-      "min": 3500,
-      "max": 3500,
-      "por": "grupo",
-      "inclui": "Cerca de M$3.500 pela hora de um grupo, segundo um musico entrevistado pelo Milenio em 21/01/2022, negociavel. NAO e tabela oficial; nao e preco por pessoa nem por cancao.",
-      "coletadoEm": "2026-10-09",
-      "fontes": [
-        {
-          "url": "https://www.milenio.com/politica/comunidad/guadalajara-plaza-de-los-mariachis-historia-y-origen"
-        }
-      ]
-    },
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [],
-    "dicas": [
-      "Combine o preco e a duracao antes de o grupo tocar - o valor e negociavel, segundo a propria fonte.",
-      "Encaixe com o Mercado Libertad: almoco de torta ahogada de dia, mariachi do outro lado da rua a noite.",
-      "Para mariachi com mesa e jantar, Casa Bariachi (Av. Ignacio Vallarta 2221, 13:00-03:00, faixa M$500) e El Parian de Tlaquepaque sao as opcoes da fonte.",
-      "A fonte avisa que o bairro piora depois do escurecer: chegue de aplicativo e combine a volta."
-    ],
-    "alertas": [
-      "SEGURANCA: a Wikivoyage avisa que o bairro de San Juan de Dios 'fica sketchy depois do escurecer'. Va e volte de taxi de aplicativo, nao a pe.",
-      "Preco de 2022, de um musico entrevistado - nao e tabela e nao cobre preco por cancao."
-    ]
-  },
-  {
     "id": "mx-gdl-el-parian-de-tlaquepaque-mariachi-bate-volta-de-guad",
     "fontes": [
       {
@@ -1426,6 +1357,195 @@
     "alertas": [
       "Valor da 'pequena taxa' por musica NAO confirmado.",
       "Horario de abertura e fechamento da praca NAO confirmado - apenas a apresentacao publica das 21:30."
+    ]
+  },
+  {
+    "id": "mx-gdl-fonda-dona-gabina-escolastica-zapopan-bate-volta-de",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Fonda Dona Gabina Escolastica (Zapopan) - bate-volta de Guadalajara",
+    "cidadeId": "guadalajara",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-tipica",
+      "pozole",
+      "michelin",
+      "comida-barata",
+      "zapopan",
+      "bate-volta"
+    ],
+    "coords": {
+      "lat": 20.7201585,
+      "lng": -103.3893819
+    },
+    "descricaoCurta": "Fonda regional no centro de Zapopan, recomendada pelo Guia Michelin: tostada de pata, pozole e enchiladas por M$200, porcoes grandes. 14:00-22:30.",
+    "descricaoLonga": "BATE-VOLTA curto: fica na Javier Mina 237, no centro de ZAPOPAN, municipio vizinho que faz parte da regiao metropolitana de Guadalajara - cerca de 10 km a noroeste do Centro Historico, uns 25 a 40 minutos de carro ou aplicativo dependendo do transito (estimativa pela distancia, nao dado de fonte). Wikivoyage: 'restaurante mexicano regional tradicional. Recomendado pelo Guia Michelin, cujos editores destacam em particular a TOSTADA DE PATA. Outras especialidades da casa incluem pozole e enchiladas. Porcoes grandes, precos acessiveis.' Horario: 14:00-22:30 todos os dias; faixa de M$200 (listagem de 12/2024). Encaixe com a Basilica de Zapopan, que fica no mesmo centro - embora a basilica nao esteja no banco.",
+    "duracao": {
+      "min": 60,
+      "tipica": 85,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "14:00",
+          "fecha": "22:30"
+        }
+      ]
+    },
+    "horariosObservacao": "14:00-22:30",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "MXN",
+      "min": 200,
+      "max": 200,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de dezembro/2024).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 333 833 0883"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: recomendacao de Michelin por M$200 com porcao grande.",
+      "Peca TOSTADA DE PATA - e o prato que os editores do Michelin destacaram.",
+      "So abre as 14:00: e almoco tardio ou jantar, nao cafe da manha.",
+      "Se o roteiro nao tem tempo para Zapopan, a Birreria Las Nueve Esquinas e a La Chata resolvem no centro."
+    ],
+    "alertas": [
+      "Fica em Zapopan, nao no centro de Guadalajara - conte o deslocamento.",
+      "Tempo de deslocamento e estimativa pela distancia, nao dado de fonte."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-gdl-casa-bariachi-jantar-com-mariachi-em-guadalajara",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Casa Bariachi (jantar com mariachi em Guadalajara)",
+    "cidadeId": "guadalajara",
+    "categoria": "experiencia",
+    "tags": [
+      "mariachi",
+      "musica-ao-vivo",
+      "festas",
+      "jantar",
+      "jalisco"
+    ],
+    "coords": {
+      "lat": 20.674602,
+      "lng": -103.37829
+    },
+    "descricaoCurta": "Na Av. Ignacio Vallarta 2221, 13:00-03:00 todos os dias: cozinha mexicana com mariachis circulando pelo salao. Faixa de M$500.",
+    "descricaoLonga": "Wikivoyage: 'restaurante de alto padrao servindo cozinha mexicana tradicional, incluindo carnes grelhadas e especialidades regionais. Salao elegante com musica ao vivo feita por mariachis que circulam pelas mesas.' Endereco: Av. Ignacio Vallarta 2221, no eixo oeste da cidade (regiao Chapultepec/Minerva); 13:00-03:00 todos os dias; faixa de M$500 (listagem de 06/2026). E a alternativa de QUEM NAO QUER ir a Plaza de los Mariachis: o bairro da praca, segundo a mesma fonte, 'fica sketchy depois do escurecer', e aqui o mariachi vem a mesa dentro de um restaurante, numa zona tranquila. Em troca, custa caro: M$500 por pessoa contra zero de entrada na praca. Para mariachi com violino mais discreto no comeco da tarde, a fonte tambem cita o El Sacromonte (Pedro Moreno 1398, Americana).",
+    "duracao": {
+      "min": 120,
+      "tipica": 170,
+      "max": 240
+    },
+    "horariosObservacao": "13:00-03:00",
+    "diasFechados": [],
+    "melhorHorario": "Noite (a partir das 20:00), quando os mariachis circulam; a casa vai ate as 03:00.",
+    "preco": {
+      "moeda": "MXN",
+      "min": 500,
+      "max": 500,
+      "por": "pessoa",
+      "inclui": "Faixa por pessoa segundo a fonte (listagem de junho/2026). Nao detalha se inclui bebida.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Guadalajara"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 33 3616 9900",
+      "site": "http://www.casa-bariachi.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "CORTE SE APERTAR: M$500 por pessoa. A Plaza de los Mariachis nao cobra entrada - paga-se por cancao.",
+      "VALE SE a prioridade e ouvir mariachi com conforto e seguranca, sem negociar preco na rua.",
+      "Fica na zona oeste (Vallarta/Minerva), nao no Centro Historico: conte o deslocamento."
+    ],
+    "alertas": [
+      "Preco alto (M$500 por pessoa) e nao esta claro se inclui bebida."
     ]
   }
 ]

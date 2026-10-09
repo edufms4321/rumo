@@ -1,107 +1,5 @@
 [
   {
-    "id": "mx-mid-mercado-de-santa-ana-cafe-da-manha-yucateco",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "Mercado de Santa Ana (cafe da manha yucateco)",
-    "cidadeId": "merida",
-    "categoria": "restaurante",
-    "tags": [
-      "mercado",
-      "comida-barata",
-      "cochinita-pibil",
-      "panuchos",
-      "cafe-da-manha"
-    ],
-    "coords": {
-      "lat": 20.976095,
-      "lng": -89.620811
-    },
-    "descricaoCurta": "Mercado da Calle 60 com variedade grande de comida yucateca e abertura as 05:30 - o cafe da manha barato de Merida antes do calor.",
-    "descricaoLonga": "Fica na Calle 60, entre 45 e 47, na zona do Paseo de Montejo. Wikivoyage o descreve como tendo variedade espantosa de cozinha regional yucateca e um dos horarios de abertura mais cedo de Merida (05:30), o que o torna o endereco certo para cafe da manha reforcado e barato: cochinita pibil, panuchos, salbutes, huevos motulenos. Horario listado: 05:30-23:30 diariamente. NAO CONSEGUI CONFIRMAR preco por prato - a fonte nao traz tabela. Como referencia da cidade, a comida do dia no El Trapiche (Centro) e apontada como boa relacao custo-beneficio e a Savia Vegana registrava comidas de M$80-105 em 2021. Em mercado espere menos que isso, mas isso e inferencia.",
-    "duracao": {
-      "min": 30,
-      "tipica": 50,
-      "max": 80
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ],
-      "dom": [
-        {
-          "abre": "05:30",
-          "fecha": "23:30"
-        }
-      ]
-    },
-    "horariosObservacao": "05:30-23:30",
-    "diasFechados": [],
-    "melhorHorario": "Entre 07:00 e 09:00: comida saindo do fogao, mercado cheio de morador e o calor de Merida ainda suportavel.",
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {},
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [
-      "vale-cada-peso"
-    ],
-    "dicas": [
-      "VALE CADA PESO: cafe da manha yucateco completo por muito menos que qualquer cafe do Centro.",
-      "Cochinita pibil e prato de MANHA no Yucatan - quem procura a noite acha versao requentada.",
-      "Para mercado grande e caotico (compras, nao refeicao), o endereco e o Lucas de Galvez/San Benito, nas calles 65-67 com 54-56."
-    ],
-    "alertas": [
-      "Preco NAO confirmado em fonte aberta."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
     "id": "mx-mid-wayan-e-taqueria-de-bairro-em-itzimna",
     "fontes": [
       {
@@ -149,108 +47,6 @@
     ],
     "alertas": [
       "Horario e preco NAO confirmados. Pode estar fechado a tarde."
-    ],
-    "gastronomia": {
-      "tipoCozinha": [],
-      "reservaRecomendada": false
-    }
-  },
-  {
-    "id": "mx-mid-la-chaya-maya-casona",
-    "fontes": [
-      {
-        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
-      }
-    ],
-    "coletadoEm": "2026-10-09",
-    "confianca": "parcial",
-    "nome": "La Chaya Maya Casona",
-    "cidadeId": "merida",
-    "categoria": "restaurante",
-    "tags": [
-      "yucateco",
-      "cochinita-pibil",
-      "panuchos",
-      "casario-colonial"
-    ],
-    "coords": {
-      "lat": 20.97089,
-      "lng": -89.62325
-    },
-    "descricaoCurta": "Cozinha yucateca tradicional num casarao colonial da Calle 55, 13:00-22:00: a versao com mais mesa e menos fila da casa original.",
-    "descricaoLonga": "A Chaya Maya e a casa de cozinha yucateca mais procurada de Merida, e tem duas unidades. A ORIGINAL (Calle 62 x 57, 07:00-23:00) vive lotada, sobretudo na comida de domingo. A CASONA (Calle 55 x 60 y 62, uma quadra adiante, 13:00-22:00) e maior, fica num casarao colonial e tem mais mesa disponivel com a mesma cozinha. Serve cochinita pibil, panuchos, salbutes, relleno negro e tem opcoes vegetarianas. NAO CONSEGUI CONFIRMAR faixa de preco: a fonte nao traz numeros para nenhuma das duas unidades. Para dar escala, no mesmo guia o Restaurante Amaro (Centro) registrava pratos em torno de M$100 em maio/2015 - dado velho, serve so de ordem de grandeza.",
-    "duracao": {
-      "min": 60,
-      "tipica": 85,
-      "max": 120
-    },
-    "horarios": {
-      "seg": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "ter": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "qua": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "qui": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "sex": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "sab": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ],
-      "dom": [
-        {
-          "abre": "13:00",
-          "fecha": "22:00"
-        }
-      ]
-    },
-    "horariosObservacao": "13:00-22:00",
-    "diasFechados": [],
-    "reserva": {
-      "necessaria": false
-    },
-    "contato": {
-      "telefone": "+52 999 129 8643",
-      "site": "https://lachayamaya.com/"
-    },
-    "imagens": [],
-    "agendavel": true,
-    "restricoes": {
-      "outras": []
-    },
-    "selos": [
-      "corte-se-apertar"
-    ],
-    "dicas": [
-      "Se a fila da unidade original (Calle 62) estiver grande, ande uma quadra ate a Casona: mesma cozinha, mais mesa.",
-      "CORTE SE APERTAR: e o item mais turistico dos tres de Merida - quem quer autenticidade vai ao Mercado de Santa Ana de manha."
-    ],
-    "alertas": [
-      "Preco NAO confirmado em fonte aberta."
     ],
     "gastronomia": {
       "tipoCozinha": [],
@@ -354,6 +150,112 @@
     ],
     "alertas": [
       "Horario e de 2017 - desatualizado; confirme antes de ir.",
+      "Preco NAO confirmado."
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "mx-mid-dulceria-y-sorbeteria-colon-merida-desde-1907",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/M%C3%A9rida_(Mexico)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Dulceria y Sorbeteria Colon (Merida, desde 1907)",
+    "cidadeId": "merida",
+    "categoria": "cafe",
+    "tags": [
+      "sorvete",
+      "doces",
+      "historico",
+      "comida-barata",
+      "centro-historico"
+    ],
+    "coords": {
+      "lat": 20.96775,
+      "lng": -89.62397
+    },
+    "descricaoCurta": "Sorbeteria de familia desde 1907, de frente para o Zocalo de Merida, aberta 08:00-23:00: sorbetes de coco, manga, abacaxi e limao.",
+    "descricaoLonga": "Wikivoyage: 'estabelecida em 1907, esta casa de familia e especializada em sorbetes delicio_sos e doces recheados de merengue, perfeitos numa tarde quente. Os sorbetes vem numa penca de sabores exoticos, incluindo os favoritos perenes coco, manga, abacaxi e limao. As mesas na calcada estao num ponto privilegiado para ver gente passar.' Endereco: Calle 61 No. 500, de frente para o Zocalo (Plaza Grande); 08:00-23:00 todos os dias. Ha uma segunda unidade na Calle 56A #474, perto do Paseo de Montejo, 09:00-23:00. NAO CONSEGUI CONFIRMAR preco. CONTEXTO DE ROTEIRO: Merida e uma das cidades mais quentes do pacote - a propria onda de Yucatan tem um item sobre os meses insuportaveis. Sorbete as 16:00 na sombra da Plaza Grande e item de sobrevivencia, nao de luxo.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 55
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-23:00",
+    "diasFechados": [],
+    "melhorHorario": "Meio da tarde (15:00-17:00), o pico de calor de Merida.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+52 999 928 1497",
+      "site": "https://dulceriaysorbeteriacolon.wordpress.com/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "VALE CADA PESO: e a parada de calor mais barata do centro de Merida, de frente para o Zocalo.",
+      "Peca sorbete, nao sorvete de leite: o de coco e o de limao sao os citados pela fonte.",
+      "Horario das listagens de 2015 - desatualizado; a casa e centenaria, mas confirme o horario na porta."
+    ],
+    "alertas": [
+      "Horario e das listagens de abril/2015 - desatualizado.",
       "Preco NAO confirmado."
     ],
     "gastronomia": {

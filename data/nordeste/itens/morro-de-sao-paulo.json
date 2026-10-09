@@ -1141,5 +1141,77 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-msp-a-noite-de-morro-de-sao-paulo-segunda-praia-e-os-bea",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-morro-de-sao-paulo-15-111-p.html"
+      },
+      {
+        "url": "https://www.correiobraziliense.com.br/diversao-e-arte/2024/12/7013237-5-praias-paradisiacas-para-visitar-em-morro-de-sao-paulo.html"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "A noite de Morro de São Paulo (Segunda Praia e os beach clubs)",
+    "cidadeId": "morro-de-sao-paulo",
+    "categoria": "experiencia",
+    "tags": [
+      "balada",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "praia",
+      "bares"
+    ],
+    "descricaoCurta": "A Segunda Praia é o coração da festa; Toca do Morcego e Mama África começam de dia e param à meia-noite. Entrada da Toca pode passar de R$ 100 na sexta.",
+    "descricaoLonga": "Morro tem fama de noite e a fama é verdadeira, mas com uma mecânica própria que ninguém explica: a festa COMEÇA DE DIA. Toca do Morcego e o beach club Mama África emendam o pôr do sol com a noite e param por volta da MEIA-NOITE - e aí a festa migra para a Segunda Praia, que é o coração da vida noturna, com música ao vivo e festa na areia. A Terceira Praia é a transição entre agito e tranquilidade, com água calma e saída fácil de barco: quem quer dormir deve ficar nela ou na Quarta, não na Segunda. Preço que a fonte publica: a entrada da Toca do Morcego VARIA PELA DEMANDA e pode passar de R$ 100, especialmente nas SEXTAS. O Mama África fica entre Porto de Cima e a Ponta da Pedra, com acesso também por barco. Sazonalidade é tudo aqui: nos meses de verão há festas grandes e disputadas, e fora da temporada a programação encolhe muito - as fontes dizem isso explicitamente. O QUE NÃO CONFIRMEI: valor exato de entrada de cada casa (só a faixa 'pode passar de R$ 100' da Toca), horários de abertura, e se há cobrança nas festas de areia da Segunda Praia. O banco já tem a Toca do Morcego como item de pôr do sol; este cartão é a mecânica da noite.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BRL",
+      "min": 100,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Piso citado pela fonte para a entrada da Toca do Morcego, que 'varia pela demanda e pode passar de R$ 100', sobretudo nas sextas. Não é tabela e não cobre as outras casas."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Segunda Praia, Toca do Morcego e Mama África - Morro de São Paulo, Cairu - BA"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Areia e escadaria sem iluminação entre as praias",
+        "Idade mínima assumida para as casas de festa, não confirmada"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false,
+      "idadeMinima": 18
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Durma na Terceira ou na Quarta Praia se quiser silêncio: a Segunda é a festa",
+      "Fora do verão a programação encolhe muito - confirme com a pousada antes de contar com balada",
+      "Durma na Terceira ou na Quarta Praia se quiser silêncio: a Segunda é a festa",
+      "Fora do verão a programação encolhe muito - confirme com a pousada antes de contar com balada"
+    ],
+    "alertas": [
+      "Entrada da Toca varia por demanda: o R$ 100 é piso, não preço",
+      "Trechos de areia e escada sem luz entre as praias: leve lanterna e volte acompanhado",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

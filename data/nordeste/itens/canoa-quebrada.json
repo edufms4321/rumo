@@ -1085,5 +1085,61 @@
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
     ]
+  },
+  {
+    "id": "br-cnq-broadway-de-canoa-quebrada-a-noite",
+    "fontes": [
+      {
+        "url": "https://guia.melhoresdestinos.com.br/vida-noturna-canoa-quebrada-18-148-p.html"
+      },
+      {
+        "url": "https://catracalivre.com.br/viagem-livre/canoa-quebrada-tudo-o-que-voce-precisa-saber-para-curtir-4-dias-gastando-pouco/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Broadway de Canoa Quebrada à noite",
+    "cidadeId": "canoa-quebrada",
+    "categoria": "experiencia",
+    "tags": [
+      "forro",
+      "bares",
+      "vida-noturna",
+      "musica-ao-vivo",
+      "balada"
+    ],
+    "descricaoCurta": "Rua de pedestre que é o coração da vila: restaurantes com música ao vivo, forró e reggae na mesma calçada, e a boate pequena no fim da rua.",
+    "descricaoLonga": "A Broadway é a rua fechada para carro que corta Canoa Quebrada e concentra a noite inteira da vila: bar, restaurante, loja de artesanato e palco de rua, com ritmos que vão do forró ao reggae na mesma caminhada. As fontes nominam o Meu Xodó para forró nos FINS DE SEMANA, o No Name como boate pequena, e a Caverna como o programa das NOITES DE SEGUNDA - detalhe útil, porque segunda é o dia em que quase tudo no litoral do Ceará fecha. É o oposto de Jericoacoara em logística: aqui dá para andar de chinelo da pousada à rua e voltar a pé. O QUE NÃO CONFIRMEI: nenhum horário de abertura, nenhum preço de entrada ou couvert, nenhum endereço com número, nenhum telefone - as fontes são guias de viagem e não achei imprensa local do Ceará cobrindo a noite de Canoa nesta sessão. Prático e honesto: o movimento da Broadway depende muito de temporada; em baixa estação, fora do fim de semana, pode ter pouca coisa aberta.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 330
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Rua Broadway - Canoa Quebrada, Aracati - CE"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [],
+      "dependeDeLuzDoDia": false,
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "Segunda à noite procure a Caverna: é o dia em que o resto do litoral fecha",
+      "Em baixa temporada confirme o movimento com a pousada antes de contar com a noite",
+      "Segunda à noite procure a Caverna: é o dia em que o resto do litoral fecha",
+      "Em baixa temporada confirme o movimento com a pousada antes de contar com a noite"
+    ],
+    "alertas": [
+      "Sem horário, sem preço e sem endereço com número confirmados",
+      "Movimento depende de temporada: em baixa pode ter pouco aberto",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]
