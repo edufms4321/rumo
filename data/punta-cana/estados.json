@@ -1,0 +1,126 @@
+[
+  {
+    "id": "la-altagracia",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Bayahibe"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código ISO 3166-2 DO-11; região Yuma. Bayahíbe confirmado como povoado do município San Rafael del Yuma, nesta província (não em La Romana).",
+    "nome": "La Altagracia",
+    "sigla": "DO-11",
+    "tipo": "provincia",
+    "regiaoId": "yuma",
+    "capital": "Salvaleón de Higüey",
+    "descricaoCurta": "Onde fica praticamente todo o resort all-inclusive do país: Punta Cana e Bávaro, mais Bayahíbe e os barcos para Isla Saona."
+  },
+  {
+    "id": "distrito-nacional",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Confirmado: Santo Domingo fica no DISTRITO NACIONAL, que NÃO é a província Santo Domingo — são duas unidades distintas, ambas na região Ozama. O Distrito Nacional não é província: é distrito próprio previsto na Constituição.",
+    "nome": "Distrito Nacional",
+    "sigla": "DO-01",
+    "tipo": "distrito",
+    "regiaoId": "ozama",
+    "capital": "Santo Domingo",
+    "descricaoCurta": "Zona Colonial de Santo Domingo, a cidade europeia mais antiga das Américas; base urbana e entrada aérea alternativa a Punta Cana."
+  },
+  {
+    "id": "samana",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Las_Terrenas"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código ISO DO-20; região Cibao Nordeste. Confirmado que Las Terrenas é município da província Samaná.",
+    "nome": "Samaná",
+    "sigla": "DO-20",
+    "tipo": "provincia",
+    "regiaoId": "cibao-nordeste",
+    "capital": "Santa Bárbara de Samaná",
+    "descricaoCurta": "Península verde e menos construída: Las Terrenas e El Limón, cachoeiras e baleias jubarte entre janeiro e março."
+  },
+  {
+    "id": "puerto-plata",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código ISO DO-18; região Cibao Norte. A capital provincial tem o mesmo nome da província (San Felipe de Puerto Plata).",
+    "nome": "Puerto Plata",
+    "sigla": "DO-18",
+    "tipo": "provincia",
+    "regiaoId": "cibao-norte",
+    "capital": "Puerto Plata",
+    "descricaoCurta": "Costa norte do Atlântico: teleférico do Pico Isabel de Torres, arquitetura vitoriana e kitesurf em Cabarete."
+  },
+  {
+    "id": "la-vega",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Jarabacoa"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código ISO DO-13; região Cibao Sur. Confirmado que Jarabacoa é município da província La Vega.",
+    "nome": "La Vega",
+    "sigla": "DO-13",
+    "tipo": "provincia",
+    "regiaoId": "cibao-sur",
+    "capital": "Concepción de La Vega",
+    "descricaoCurta": "Montanha fria no meio do país: Jarabacoa para rafting, canyoning e cachoeiras, e o acesso ao Pico Duarte."
+  }
+]

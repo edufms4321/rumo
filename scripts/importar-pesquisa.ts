@@ -68,6 +68,55 @@ function escolherDestino(): ConfigDeDestino {
   return config;
 }
 
+/*
+  Junta o que duas ondas dizem da MESMA base, em vez de uma apagar a outra.
+
+  Isto foi um estrago de verdade: a onda de noite e aventura da Colombia
+  cobria 6 bases que as ondas antigas ja cobriam, e o conversor fazia
+  `bases[baseId] = conteudo`. Resultado: a Colombia caiu de 169 itens para
+  47 num unico import. Pior, a linha acima do atalho IMPRIMIA
+  "aviso: repete a base" — um aviso que anunciava a perda e seguia em frente.
+
+  Regras da fusao:
+  - itens: concatena. Id repetido o validador reprova, e e o que queremos.
+  - nota em texto: uma onda especializada manda uma FRASE onde a onda de base
+    manda um OBJETO (comoCircular, bairros, taxas). Trocar o objeto pela
+    frase apagava a pesquisa de base inteira, entao a frase vai para
+    `notasExtras` e nunca sobrescreve nada.
+  - lista: concatena.
+  - valor simples: o primeiro que chegou fica, e divergencia vira aviso. O
+    conversor nao tem como saber qual onda esta mais certa; o pendencias tem
+    de mostrar as duas.
+*/
+function mesclarNotasDaBase(
+  atual: Json | undefined,
+  nova: unknown,
+  baseId: string,
+  arquivo: string,
+): Json {
+  const saida: Json = { ...atual };
+
+  if (typeof nova === 'string') {
+    saida.notasExtras = [...((saida.notasExtras as string[]) ?? []), nova];
+    return saida;
+  }
+  if (!nova || typeof nova !== 'object') return saida;
+
+  for (const [chave, valor] of Object.entries(nova as Json)) {
+    const existente = saida[chave];
+    if (Array.isArray(valor) && Array.isArray(existente)) {
+      saida[chave] = [...existente, ...valor];
+    } else if (existente === undefined || existente === null || existente === '') {
+      saida[chave] = valor;
+    } else if (JSON.stringify(existente) !== JSON.stringify(valor)) {
+      avisos.push(
+        `base ${baseId}: ${arquivo} traz "${chave}" diferente do que outra onda ja dizia; mantive o primeiro`,
+      );
+    }
+  }
+  return saida;
+}
+
 function main(): void {
   const config = escolherDestino();
   const PESQUISA = join(RAIZ, config.pastaDePesquisa);
@@ -133,8 +182,14 @@ function main(): void {
       const itens = conteudo.itens as Array<{ cidade?: string }>;
       for (const [baseId, notas] of Object.entries(notasPorBase)) {
         const meus = itens.filter((i) => config.cidadeDoItem[i.cidade ?? ''] === baseId);
-        if (bases[baseId]) console.log(`  aviso: ${arquivo} repete a base "${baseId}"`);
-        bases[baseId] = { base: baseId, coletadoEm: conteudo.coletadoEm, notasDaBase: notas, itens: meus };
+        const anterior = bases[baseId] as Json | undefined;
+        if (anterior) console.log(`  ${arquivo} soma ${meus.length} item(ns) a base "${baseId}"`);
+        bases[baseId] = {
+          base: baseId,
+          coletadoEm: (anterior?.coletadoEm as string) ?? conteudo.coletadoEm,
+          notasDaBase: mesclarNotasDaBase(anterior?.notasDaBase as Json | undefined, notas, baseId, arquivo),
+          itens: [...((anterior?.itens as Json[]) ?? []), ...meus],
+        };
       }
       // Item cuja cidade nao esta no mapa de apelidos some sem aviso: e o
       // jeito mais facil de perder pesquisa sem perceber.
@@ -146,8 +201,22 @@ function main(): void {
     }
 
     if (!conteudo.base) continue;
-    if (bases[conteudo.base]) console.log(`  aviso: ${arquivo} repete a base "${conteudo.base}"`);
-    bases[conteudo.base] = conteudo;
+    const baseUnica = String(conteudo.base);
+    const anteriorUnica = bases[baseUnica] as Json | undefined;
+    if (anteriorUnica) {
+      console.log(`  ${arquivo} soma ${(conteudo.itens as Json[]).length} item(ns) a base "${baseUnica}"`);
+    }
+    bases[baseUnica] = {
+      ...conteudo,
+      coletadoEm: (anteriorUnica?.coletadoEm as string) ?? conteudo.coletadoEm,
+      notasDaBase: mesclarNotasDaBase(
+        anteriorUnica?.notasDaBase as Json | undefined,
+        conteudo.notasDaBase,
+        baseUnica,
+        arquivo,
+      ),
+      itens: [...((anteriorUnica?.itens as Json[]) ?? []), ...(conteudo.itens as Json[])],
+    };
   }
   if (semBase.size > 0) {
     console.log('  AVISO: itens cuja cidade nao esta em cidadeDoItem (ficaram de fora):');

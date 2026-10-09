@@ -88,7 +88,13 @@ export function lerDivisoes(destinoId: string, bases: string[]): Divisoes | unde
       confianca: fontesDoEstado.length >= 2 ? 'verificado' : 'parcial',
       ...(e.observacao ? { observacaoDeConfianca: String(e.observacao).slice(0, 2000) } : {}),
       nome: String(e.nome ?? id),
-      sigla: String(e.sigla ?? id.slice(0, 5)).toUpperCase().slice(0, 5),
+      /*
+        Nem truncar nem forcar maiuscula. Truncar em 5 transformava CO-BOL
+        (Bolivar) e CO-BOY (Boyaca) no mesmo "CO-BO", dois departamentos com
+        a mesma sigla na arvore; e maiuscula a forca estragava as abreviaturas
+        mexicanas, que sao "Q. Roo" e "Pue.", nao "Q. ROO".
+      */
+      sigla: String(e.sigla ?? id).slice(0, 10),
       tipo,
       regiaoId: String(e.regiaoId ?? ''),
       ...(e.capital ? { capital: String(e.capital) } : {}),

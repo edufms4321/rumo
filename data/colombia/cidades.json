@@ -78,7 +78,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Cartagena",
-    "regiaoId": "caribe-continental",
+    "regiaoId": "caribe",
+    "estadoId": "bolivar",
+    "zonaId": "caribe-continental",
     "coords": {
       "lat": 10.42656,
       "lng": -75.54417
@@ -3723,7 +3725,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Santa Marta",
-    "regiaoId": "caribe-continental",
+    "regiaoId": "caribe",
+    "estadoId": "magdalena",
+    "zonaId": "caribe-continental",
     "coords": {
       "lat": 11.23209,
       "lng": -74.19509
@@ -6649,10 +6653,11 @@
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Palomino",
-    "regiaoId": "caribe-continental",
+    "regiaoId": "caribe",
+    "estadoId": "la-guajira",
+    "zonaId": "caribe-continental",
     "coords": {
       "lat": 11.24489,
       "lng": -73.55981
@@ -6992,7 +6997,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "San Andres",
-    "regiaoId": "caribe-insular",
+    "regiaoId": "insular",
+    "estadoId": "san-andres-y-providencia",
+    "zonaId": "caribe-insular",
     "coords": {
       "lat": 12.58301,
       "lng": -81.69757
@@ -8791,7 +8798,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Bogota",
-    "regiaoId": "andes",
+    "regiaoId": "andina",
+    "estadoId": "bogota-dc",
+    "zonaId": "andes",
     "coords": {
       "lat": 4.65338,
       "lng": -74.08363
@@ -11232,10 +11241,11 @@
       }
     ],
     "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
+    "confianca": "parcial",
     "nome": "Villa de Leyva",
-    "regiaoId": "andes",
+    "regiaoId": "andina",
+    "estadoId": "boyaca",
+    "zonaId": "andes",
     "coords": {
       "lat": 5.66199,
       "lng": -73.52838
@@ -11630,7 +11640,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Medellin",
-    "regiaoId": "andes",
+    "regiaoId": "andina",
+    "estadoId": "antioquia",
+    "zonaId": "andes",
     "coords": {
       "lat": 6.26973,
       "lng": -75.60256
@@ -15118,7 +15130,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Salento",
-    "regiaoId": "eje-cafetero",
+    "regiaoId": "andina",
+    "estadoId": "quindio",
+    "zonaId": "eje-cafetero",
     "coords": {
       "lat": 4.6373,
       "lng": -75.5698

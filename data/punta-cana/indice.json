@@ -1,16 +1,181 @@
 {
   "id": "punta-cana",
   "nome": "Punta Cana e Republica Dominicana",
+  "paisNome": "Republica Dominicana",
+  "codigoPais": "DO",
   "moeda": "DOP",
+  "cobertura": "Cobre 6 bases: o leste dos resorts, Santo Domingo, Samana, a costa norte e a cordilheira. Fora do pacote: Santiago e todo o sudoeste (Barahona, Pedernales, Bahia de las Aguilas).",
   "totais": {
     "itens": 115,
     "cidades": 6,
     "trechos": 10,
-    "eventos": 8
+    "eventos": 8,
+    "estados": 5,
+    "regioes": 5
   },
   "confianca": {
     "verificado": 16,
     "parcial": 94,
     "estimado": 5
-  }
+  },
+  "grupos": [
+    {
+      "grupo": "praia-e-mar",
+      "n": 19
+    },
+    {
+      "grupo": "natureza",
+      "n": 13
+    },
+    {
+      "grupo": "aventura",
+      "n": 13
+    },
+    {
+      "grupo": "cultura",
+      "n": 10
+    },
+    {
+      "grupo": "comer",
+      "n": 15
+    },
+    {
+      "grupo": "bares",
+      "n": 4
+    },
+    {
+      "grupo": "festas-e-musica",
+      "n": 2
+    },
+    {
+      "grupo": "compras",
+      "n": 7
+    },
+    {
+      "grupo": "passeios",
+      "n": 7
+    },
+    {
+      "grupo": "referencia",
+      "n": 25
+    }
+  ],
+  "arvore": [
+    {
+      "id": "cibao-norte",
+      "nome": "Cibao Norte",
+      "descricaoCurta": "Santiago, Puerto Plata e Espaillat — vale do Cibao e a costa norte de Puerto Plata e Cabarete.",
+      "estados": [
+        {
+          "id": "puerto-plata",
+          "nome": "Puerto Plata",
+          "sigla": "DO-18",
+          "tipo": "provincia",
+          "descricaoCurta": "Costa norte do Atlântico: teleférico do Pico Isabel de Torres, arquitetura vitoriana e kitesurf em Cabarete.",
+          "cidades": [
+            {
+              "id": "puerto-plata",
+              "nome": "Puerto Plata",
+              "zona": "Costa do Ambar",
+              "itens": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cibao-sur",
+      "nome": "Cibao Sur",
+      "descricaoCurta": "La Vega, Monseñor Nouel e Sánchez Ramírez — montanhas da Cordillera Central, com Jarabacoa e Constanza.",
+      "estados": [
+        {
+          "id": "la-vega",
+          "nome": "La Vega",
+          "sigla": "DO-13",
+          "tipo": "provincia",
+          "descricaoCurta": "Montanha fria no meio do país: Jarabacoa para rafting, canyoning e cachoeiras, e o acesso ao Pico Duarte.",
+          "cidades": [
+            {
+              "id": "jarabacoa",
+              "nome": "Jarabacoa",
+              "zona": "Cordilheira Central",
+              "itens": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cibao-nordeste",
+      "nome": "Cibao Nordeste",
+      "descricaoCurta": "Duarte, Hermanas Mirabal, María Trinidad Sánchez e Samaná — península de Samaná e observação de baleias.",
+      "estados": [
+        {
+          "id": "samana",
+          "nome": "Samaná",
+          "sigla": "DO-20",
+          "tipo": "provincia",
+          "descricaoCurta": "Península verde e menos construída: Las Terrenas e El Limón, cachoeiras e baleias jubarte entre janeiro e março.",
+          "cidades": [
+            {
+              "id": "las-terrenas",
+              "nome": "Las Terrenas",
+              "zona": "Peninsula de Samana",
+              "itens": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yuma",
+      "nome": "Yuma",
+      "descricaoCurta": "La Altagracia, La Romana e El Seibo — Punta Cana, Bávaro, Bayahíbe e a maior concentração hoteleira do país.",
+      "estados": [
+        {
+          "id": "la-altagracia",
+          "nome": "La Altagracia",
+          "sigla": "DO-11",
+          "tipo": "provincia",
+          "descricaoCurta": "Onde fica praticamente todo o resort all-inclusive do país: Punta Cana e Bávaro, mais Bayahíbe e os barcos para Isla Saona.",
+          "cidades": [
+            {
+              "id": "punta-cana",
+              "nome": "Punta Cana",
+              "zona": "Costa do Coco e Bayahibe",
+              "itens": 20
+            },
+            {
+              "id": "bayahibe",
+              "nome": "Bayahibe",
+              "zona": "Costa do Coco e Bayahibe",
+              "itens": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ozama",
+      "nome": "Ozama",
+      "descricaoCurta": "Distrito Nacional e província Santo Domingo — área metropolitana da capital.",
+      "estados": [
+        {
+          "id": "distrito-nacional",
+          "nome": "Distrito Nacional",
+          "sigla": "DO-01",
+          "tipo": "distrito",
+          "descricaoCurta": "Zona Colonial de Santo Domingo, a cidade europeia mais antiga das Américas; base urbana e entrada aérea alternativa a Punta Cana.",
+          "cidades": [
+            {
+              "id": "santo-domingo",
+              "nome": "Santo Domingo",
+              "zona": "Zona Colonial e o sul",
+              "itens": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

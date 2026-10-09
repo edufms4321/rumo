@@ -2119,5 +2119,58 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "co-slt-helena-adentro-filandia-bate-volta-de-salento",
+    "fontes": [
+      {
+        "url": "https://www.tomplanmytrip.com/travel-to-colombia/destinations-in-colombia/zona-cafe/filandia/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Helena Adentro (Filandia) - bate-volta de Salento",
+    "cidadeId": "salento",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-local",
+      "bate-volta",
+      "cozinha-de-autor"
+    ],
+    "descricaoCurta": "O restaurante mais conhecido de Filandia, a 20-25 min de Salento. Cozinha latina contemporânea com vista do vale. Reserva recomendada para pegar mesa na varanda.",
+    "descricaoLonga": "Fica em Filandia, no Quindío, bate-volta de cerca de 20 a 25 minutos de carro ou jipe a partir de Salento (Filandia já está no banco como item de Salento). É o restaurante mais conhecido da vila, de cozinha latina contemporânea, e a recomendação consistente é reservar com antecedência para conseguir mesa com a vista do vale - a varanda é a razão de ir. ATENÇÃO de dado: a única indicação de preço que encontrei é uma faixa genérica de plataforma, e a fonte principal dessa faixa é um site proibido nas regras desta pesquisa, por isso NÃO registro preço aqui. Também não confirmei horário, telefone, endereço exato nem forma de reserva em fonte confiável.",
+    "duracao": {
+      "min": 75,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço, para pegar a vista do vale com luz.",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "endereco": "Filandia, Quindío (bate-volta de 20-25 min de Salento)"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Junte com o dia de Filandia, que já está no banco: a vila, a cestaria e o restaurante num só bate-volta de Salento.",
+      "Sem preço confirmado: pergunte o valor do prato ao reservar, para não ser surpresa num roteiro econômico."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
   }
 ]

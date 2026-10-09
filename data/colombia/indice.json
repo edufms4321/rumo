@@ -1,16 +1,210 @@
 {
   "id": "colombia",
   "nome": "Colombia",
+  "paisNome": "Colombia",
+  "codigoPais": "CO",
   "moeda": "COP",
+  "cobertura": "Cobre 8 bases do Caribe, dos Andes e do Eje Cafetero. Fora do pacote: Cali e o Pacifico, a Amazonia, os Llanos, Cano Cristales e Providencia - o veredito de cada um esta nos cartoes de referencia.",
   "totais": {
-    "itens": 169,
+    "itens": 216,
     "cidades": 8,
     "trechos": 20,
-    "eventos": 71
+    "eventos": 71,
+    "estados": 8,
+    "regioes": 3
   },
   "confianca": {
-    "verificado": 27,
-    "parcial": 122,
+    "verificado": 43,
+    "parcial": 153,
     "estimado": 20
-  }
+  },
+  "grupos": [
+    {
+      "grupo": "praia-e-mar",
+      "n": 21
+    },
+    {
+      "grupo": "natureza",
+      "n": 29
+    },
+    {
+      "grupo": "aventura",
+      "n": 15
+    },
+    {
+      "grupo": "cultura",
+      "n": 28
+    },
+    {
+      "grupo": "comer",
+      "n": 30
+    },
+    {
+      "grupo": "bares",
+      "n": 16
+    },
+    {
+      "grupo": "festas-e-musica",
+      "n": 17
+    },
+    {
+      "grupo": "compras",
+      "n": 19
+    },
+    {
+      "grupo": "passeios",
+      "n": 26
+    },
+    {
+      "grupo": "pratico",
+      "n": 5
+    },
+    {
+      "grupo": "referencia",
+      "n": 10
+    }
+  ],
+  "arvore": [
+    {
+      "id": "caribe",
+      "nome": "Region Caribe",
+      "descricaoCurta": "Planície litorânea do mar do Caribe, da Guajira ao golfo de Urabá; inclui a Sierra Nevada de Santa Marta.",
+      "estados": [
+        {
+          "id": "bolivar",
+          "nome": "Bolívar",
+          "sigla": "CO-BOL",
+          "tipo": "departamento",
+          "descricaoCurta": "Cartagena das Índias e sua cidade murada, mais as Islas del Rosario em bate-volta de lancha.",
+          "cidades": [
+            {
+              "id": "cartagena",
+              "nome": "Cartagena",
+              "zona": "Caribe continental",
+              "itens": 47
+            }
+          ]
+        },
+        {
+          "id": "la-guajira",
+          "nome": "La Guajira",
+          "sigla": "CO-LAG",
+          "tipo": "departamento",
+          "descricaoCurta": "Deserto encontrando o mar: Palomino para rafting em pneu no rio, e o extremo norte (Cabo de la Vela, Punta Gallinas) em 4x4.",
+          "cidades": [
+            {
+              "id": "palomino",
+              "nome": "Palomino",
+              "zona": "Caribe continental",
+              "itens": 5
+            }
+          ]
+        },
+        {
+          "id": "magdalena",
+          "nome": "Magdalena",
+          "sigla": "CO-MAG",
+          "tipo": "departamento",
+          "descricaoCurta": "Santa Marta é a base para o Parque Tayrona e para a trilha da Cidade Perdida, na Sierra Nevada.",
+          "cidades": [
+            {
+              "id": "santa-marta",
+              "nome": "Santa Marta",
+              "zona": "Caribe continental",
+              "itens": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "andina",
+      "nome": "Region Andina",
+      "descricaoCurta": "Três cordilheiras dos Andes no centro do país; concentra a maior parte da população e das grandes cidades.",
+      "estados": [
+        {
+          "id": "antioquia",
+          "nome": "Antioquia",
+          "sigla": "CO-ANT",
+          "tipo": "departamento",
+          "descricaoCurta": "Medellín no Vale de Aburrá, com metrocable e Comuna 13, e Guatapé com a Piedra del Peñol em bate-volta.",
+          "cidades": [
+            {
+              "id": "medellin",
+              "nome": "Medellin",
+              "zona": "Andes colombianos",
+              "itens": 37
+            }
+          ]
+        },
+        {
+          "id": "bogota-dc",
+          "nome": "Bogotá, D.C.",
+          "sigla": "CO-DC",
+          "tipo": "distrito",
+          "descricaoCurta": "Capital a 2.600 m: museus do Ouro e Botero, Candelária colonial e o teleférico de Monserrate; base para Villa de Leyva.",
+          "cidades": [
+            {
+              "id": "bogota",
+              "nome": "Bogota",
+              "zona": "Andes colombianos",
+              "itens": 34
+            }
+          ]
+        },
+        {
+          "id": "boyaca",
+          "nome": "Boyacá",
+          "sigla": "CO-BOY",
+          "tipo": "departamento",
+          "descricaoCurta": "Altiplano de vilarejos coloniais de pedra branca; Villa de Leyva é o cartão-postal, a 4h de Bogotá.",
+          "cidades": [
+            {
+              "id": "villa-de-leyva",
+              "nome": "Villa de Leyva",
+              "zona": "Andes colombianos",
+              "itens": 8
+            }
+          ]
+        },
+        {
+          "id": "quindio",
+          "nome": "Quindío",
+          "sigla": "CO-QUI",
+          "tipo": "departamento",
+          "descricaoCurta": "Coração do Eje Cafetero: fazendas de café, palmeiras de cera do Valle de Cocora e as casas coloridas de Salento.",
+          "cidades": [
+            {
+              "id": "salento",
+              "nome": "Salento",
+              "zona": "Eje Cafetero",
+              "itens": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insular",
+      "nome": "Region Insular",
+      "descricaoCurta": "Ilhas e arquipélagos oceânicos nos dois oceanos: San Andrés, Providencia e Santa Catalina no Caribe; Gorgona e Malpelo no Pacífico.",
+      "estados": [
+        {
+          "id": "san-andres-y-providencia",
+          "nome": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+          "sigla": "CO-SAP",
+          "tipo": "arquipelago",
+          "descricaoCurta": "Arquipélago caribenho a 700 km do continente, mais perto da Nicarágua: mar de sete cores, mergulho e porto livre.",
+          "cidades": [
+            {
+              "id": "san-andres",
+              "nome": "San Andres",
+              "zona": "San Andres e Providencia",
+              "itens": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

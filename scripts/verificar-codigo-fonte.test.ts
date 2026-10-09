@@ -26,6 +26,7 @@ import { describe, expect, it } from 'vitest';
 const IGNORAR = new Set(['node_modules', 'dist', '.git', 'test-results', 'playwright-report']);
 
 /** Tudo abaixo de 0x20 menos tabulacao, nova linha e retorno de carro. */
+// oxlint-disable-next-line no-control-regex -- o alvo DESTE teste e justamente o caractere de controle
 const CONTROLE = /[\u0000-\u0008\u000b\u000c\u000e-\u001f]/;
 
 function fontes(pasta: string, achados: string[] = []): string[] {

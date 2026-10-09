@@ -323,5 +323,183 @@
       "Preço do ônibus divergiu entre fontes (12.000 a 21.400).",
       "Paro armado em Santa Marta (21–25/set/2026) bloqueou a Troncal do Caribe; confira o status antes."
     ]
+  },
+  {
+    "id": "co-plm-trilha-e-cachoeira-da-quebrada-valencia",
+    "fontes": [
+      {
+        "url": "https://www.nomades.com/palomino/caminata-cascada-valencia-id1586"
+      },
+      {
+        "url": "https://es.ncl.com/shore-excursions/SMR_02/Quebrada-Valencia-Ecological-Expedition"
+      },
+      {
+        "url": "https://www.komoot.com/highlight/1096562"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Trilha e cachoeira da Quebrada Valencia",
+    "cidadeId": "palomino",
+    "categoria": "experiencia",
+    "tags": [
+      "trilha",
+      "natureza",
+      "cachoeira",
+      "aventura"
+    ],
+    "descricaoCurta": "Caminhada curta de baixa dificuldade na mata caribenha da Sierra Nevada até a cachoeira da Quebrada Valencia, com poços para nadar. Guia local, ~5 h no total.",
+    "descricaoLonga": "Reserva natural na mata úmida caribenha da Sierra Nevada, a cerca de 1 hora de Santa Marta e muito perto de Palomino, pela Troncal del Caribe. O passeio guiado funciona assim: o guia busca em Palomino e leva de moto até o início da trilha, depois são cerca de 25 minutos de caminhada ecológica de baixa dificuldade, com explicação de flora e fauna, até a cachoeira e os poços naturais, onde há tempo para nadar e descansar. Duração total do pacote: 5 horas, com horários de 8h-13h, 9h-14h e 10h-15h. Preço publicado por operador local, por pessoa e por tamanho de grupo: USD 73 (1 a 4 pessoas), USD 68 (5 a 7) e USD 63 (8 a 10). Inclui busca na área urbana, transporte e guia em espanhol; refeições NÃO incluídas. Esse valor é de pacote com busca - a entrada da reserva por conta própria é bem mais barata, mas NÃO achei o valor do ingresso avulso em fonte confiável.",
+    "duracao": {
+      "min": 240,
+      "tipica": 300,
+      "max": 360
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "15:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-15:00",
+    "diasFechados": [],
+    "melhorHorario": "Saída das 8h: menos calor na trilha e poços mais vazios.",
+    "preco": {
+      "moeda": "USD",
+      "min": 63,
+      "max": 73,
+      "por": "pessoa",
+      "inclui": "Busca na área urbana, transporte, guia em espanhol e entrada. Refeições não incluídas. USD 73 para 1-4 pessoas, USD 68 para 5-7, USD 63 para 8-10.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.nomades.com/palomino/caminata-cascada-valencia-id1586"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Trilha pode ficar escorregadia depois de chuva",
+        "Nível do rio sobe rápido em chuva forte na Sierra"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "USD 73 para dois adultos é caro para 25 minutos de trilha. Pergunte na vila o preço de ir por conta própria de colectivo pela Troncal - a reserva cobra entrada e tem guia na porta.",
+      "Combina no mesmo dia com o tubing do rio Palomino, que já está no banco: os dois são de meio dia."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-plm-mochila-wayuu-direto-das-tecelas-em-palomino-e-na-gu",
+    "fontes": [
+      {
+        "url": "https://www.diariolibre.com/mundo/america-latina/2022/05/25/la-reivindicacion-de-la-mochila-wayuu/1850165"
+      },
+      {
+        "url": "https://folkartmarket.org/ifamartiststories/maria-concepcion-ospina-gomez-kayuusipaa"
+      },
+      {
+        "url": "https://folkartmarket.org/ifamartiststories/one-thread-collective?format=amp"
+      },
+      {
+        "url": "https://www.elheraldo.co/la-guajira/2020/04/07/artesanas-wayuu-cambian-mochilas-por-mercados-715779/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mochila wayuu direto das tecelãs em Palomino e na Guajira",
+    "cidadeId": "palomino",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "mochila-wayuu",
+      "comercio-justo"
+    ],
+    "descricaoCurta": "Palomino já é Guajira: comprar aqui ou em cooperativa wayuu encurta a cadeia. Atravessador paga 25-30 mil COP à tecelã e revende por 80 mil ou mais.",
+    "descricaoLonga": "Palomino fica no município de Dibulla, departamento da Guajira - já é território wayuu, e é a base do roteiro mais próxima de onde as mochilas são tecidas. A diferença é de cadeia, não de estética: segundo reportagem, atravessadores compram das tecelãs wayuu por 25.000 a 30.000 COP e revendem por 80.000 COP ou mais, dependendo da cidade. Há cooperativas organizadas que vendem direto - a Kayuusipaa, liderada por María Concepción Ospina Gómez, em Cabo de la Vela, e coletivos como o One Thread Collective, que trabalha com mais de 100 tecelãs wayuu em oito comunidades. Uma mochila leva até 25 dias de trabalho. NÃO achei nenhuma loja ou cooperativa com endereço, horário e telefone publicados DENTRO de Palomino: o comércio na vila é informal, de barraca e de tecelã na praia. Por isso este item não traz preço nem horário, só a régua de quanto a tecelã deveria estar recebendo.",
+    "duracao": {
+      "min": 20,
+      "tipica": 45,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Comércio informal: sem endereço fixo, sem horário e normalmente só dinheiro em espécie"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Pague acima de 30 mil COP por uma mochila simples comprada direto da tecelã: abaixo disso você está no preço do atravessador, não no preço justo.",
+      "Leve dinheiro em espécie e troco: não há máquina de cartão na praia."
+    ],
+    "alertas": [
+      "Pechinchar até o preço de atravessador (25-30 mil COP) tira da tecelã o valor de até 25 dias de trabalho. Negocie, mas saiba onde está o piso.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

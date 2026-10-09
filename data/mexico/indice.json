@@ -1,16 +1,355 @@
 {
   "id": "mexico",
   "nome": "Mexico",
+  "paisNome": "Mexico",
+  "codigoPais": "MX",
   "moeda": "MXN",
+  "cobertura": "Cobre 26 bases do centro, do Caribe, da peninsula de Yucatan, de Oaxaca, de Chiapas, da Baja Sur e do Pacifico. Fora do pacote: todo o norte (Chihuahua, Nuevo Leon, Sonora), Veracruz e Michoacan.",
   "totais": {
     "itens": 266,
     "cidades": 26,
     "trechos": 30,
-    "eventos": 18
+    "eventos": 16,
+    "estados": 11,
+    "regioes": 5
   },
   "confianca": {
     "verificado": 49,
     "parcial": 193,
     "estimado": 24
-  }
+  },
+  "grupos": [
+    {
+      "grupo": "praia-e-mar",
+      "n": 17
+    },
+    {
+      "grupo": "natureza",
+      "n": 30
+    },
+    {
+      "grupo": "aventura",
+      "n": 11
+    },
+    {
+      "grupo": "cultura",
+      "n": 60
+    },
+    {
+      "grupo": "comer",
+      "n": 20
+    },
+    {
+      "grupo": "bares",
+      "n": 14
+    },
+    {
+      "grupo": "festas-e-musica",
+      "n": 11
+    },
+    {
+      "grupo": "compras",
+      "n": 24
+    },
+    {
+      "grupo": "passeios",
+      "n": 28
+    },
+    {
+      "grupo": "referencia",
+      "n": 51
+    }
+  ],
+  "arvore": [
+    {
+      "id": "noroeste",
+      "nome": "Noroeste",
+      "descricaoCurta": "Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa e Sonora — deserto, Mar de Cortés e Pacífico norte.",
+      "estados": [
+        {
+          "id": "baja-california-sur",
+          "nome": "Baja California Sur",
+          "sigla": "BCS",
+          "tipo": "estado",
+          "descricaoCurta": "Deserto sobre mar turquesa: La Paz para nadar com tubarão-baleia e lobos-marinhos, Los Cabos para resorts, Todos Santos e Loreto para vilas calmas.",
+          "cidades": [
+            {
+              "id": "la-paz",
+              "nome": "La Paz",
+              "zona": "Baja California Sur",
+              "itens": 11
+            },
+            {
+              "id": "todos-santos",
+              "nome": "Todos Santos",
+              "zona": "Baja California Sur",
+              "itens": 3
+            },
+            {
+              "id": "los-cabos",
+              "nome": "Los Cabos",
+              "zona": "Baja California Sur",
+              "itens": 9
+            },
+            {
+              "id": "loreto",
+              "nome": "Loreto",
+              "zona": "Baja California Sur",
+              "itens": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "occidente-y-bajio",
+      "nome": "Occidente y Bajío",
+      "descricaoCurta": "Aguascalientes, Colima, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro e Zacatecas — cidades coloniais do Bajío e a costa do Pacífico central.",
+      "estados": [
+        {
+          "id": "guanajuato",
+          "nome": "Guanajuato",
+          "sigla": "Gto.",
+          "tipo": "estado",
+          "descricaoCurta": "Duas cidades coloniais no Bajío: Guanajuato em becos e túneis sob a cidade, e San Miguel de Allende, bonita e cara.",
+          "cidades": [
+            {
+              "id": "guanajuato",
+              "nome": "Guanajuato",
+              "zona": "Bajio",
+              "itens": 17
+            },
+            {
+              "id": "san-miguel-de-allende",
+              "nome": "San Miguel de Allende",
+              "zona": "Bajio",
+              "itens": 8
+            }
+          ]
+        },
+        {
+          "id": "jalisco",
+          "nome": "Jalisco",
+          "sigla": "Jal.",
+          "tipo": "estado",
+          "descricaoCurta": "Berço da tequila e do mariachi: Guadalajara urbana com bate-volta a Tequila, e Puerto Vallarta na Bahía de Banderas.",
+          "cidades": [
+            {
+              "id": "puerto-vallarta",
+              "nome": "Puerto Vallarta",
+              "zona": "Pacifico central",
+              "itens": 8
+            },
+            {
+              "id": "guadalajara",
+              "nome": "Guadalajara",
+              "zona": "Bajio",
+              "itens": 11
+            }
+          ]
+        },
+        {
+          "id": "nayarit",
+          "nome": "Nayarit",
+          "sigla": "Nay.",
+          "tipo": "estado",
+          "descricaoCurta": "Lado norte da Bahía de Banderas: Sayulita e a Riviera Nayarit concentram surf iniciante e pousadas pé-na-areia.",
+          "cidades": [
+            {
+              "id": "sayulita",
+              "nome": "Sayulita",
+              "zona": "Pacifico central",
+              "itens": 2
+            }
+          ]
+        },
+        {
+          "id": "queretaro",
+          "nome": "Querétaro",
+          "sigla": "Qro.",
+          "tipo": "estado",
+          "descricaoCurta": "Centro histórico compacto e aquedutos, com rota de vinho e queijo nos arredores; parada natural entre a CDMX e o Bajío.",
+          "cidades": [
+            {
+              "id": "queretaro",
+              "nome": "Queretaro",
+              "zona": "Bajio",
+              "itens": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ciudad-de-mexico",
+      "nome": "Ciudad de México",
+      "descricaoCurta": "A capital federal, tratada como região própria na regionalização do INEGI.",
+      "estados": [
+        {
+          "id": "ciudad-de-mexico",
+          "nome": "Ciudad de México",
+          "sigla": "CDMX",
+          "tipo": "distrito",
+          "descricaoCurta": "Hub aéreo do país e cidade de museus: Centro Histórico, Coyoacán, Teotihuacán em bate-volta e a melhor cena gastronômica do México.",
+          "cidades": [
+            {
+              "id": "cidade-do-mexico",
+              "nome": "Cidade do Mexico",
+              "zona": "Vale do Mexico",
+              "itens": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "centro-sur-y-oriente",
+      "nome": "Centro Sur y Oriente",
+      "descricaoCurta": "Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala e Veracruz — altiplano central e vertente do Golfo.",
+      "estados": [
+        {
+          "id": "puebla",
+          "nome": "Puebla",
+          "sigla": "Pue.",
+          "tipo": "estado",
+          "descricaoCurta": "Centro barroco e talavera a 2h da Cidade do México; base para Cholula e para os vulcões Popocatépetl e Iztaccíhuatl.",
+          "cidades": [
+            {
+              "id": "puebla",
+              "nome": "Puebla",
+              "zona": "Vale do Mexico",
+              "itens": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sur",
+      "nome": "Sur",
+      "descricaoCurta": "Campeche, Chiapas, Guerrero, Oaxaca, Quintana Roo, Tabasco e Yucatán — Caribe, Pacífico sul e o mundo maia.",
+      "estados": [
+        {
+          "id": "chiapas",
+          "nome": "Chiapas",
+          "sigla": "Chis.",
+          "tipo": "estado",
+          "descricaoCurta": "Montanha e selva: San Cristóbal de las Casas como base fria e indígena, Palenque para ruínas maias na mata e o Cañón del Sumidero.",
+          "cidades": [
+            {
+              "id": "san-cristobal",
+              "nome": "San Cristobal de las Casas",
+              "zona": "Chiapas",
+              "itens": 26
+            },
+            {
+              "id": "palenque",
+              "nome": "Palenque",
+              "zona": "Chiapas",
+              "itens": 10
+            }
+          ]
+        },
+        {
+          "id": "oaxaca",
+          "nome": "Oaxaca",
+          "sigla": "Oax.",
+          "tipo": "estado",
+          "descricaoCurta": "Comida e artesanato na capital (mole, mezcal, Monte Albán) e um litoral de surf no Pacífico: Puerto Escondido, Mazunte e Huatulco.",
+          "cidades": [
+            {
+              "id": "oaxaca",
+              "nome": "Oaxaca de Juarez",
+              "zona": "Vales Centrais de Oaxaca",
+              "itens": 23
+            },
+            {
+              "id": "puerto-escondido",
+              "nome": "Puerto Escondido",
+              "zona": "Costa de Oaxaca",
+              "itens": 6
+            },
+            {
+              "id": "mazunte",
+              "nome": "Mazunte",
+              "zona": "Costa de Oaxaca",
+              "itens": 5
+            },
+            {
+              "id": "huatulco",
+              "nome": "Huatulco",
+              "zona": "Costa de Oaxaca",
+              "itens": 1
+            }
+          ]
+        },
+        {
+          "id": "quintana-roo",
+          "nome": "Quintana Roo",
+          "sigla": "Q. Roo",
+          "tipo": "estado",
+          "descricaoCurta": "Todo o Caribe mexicano: Cancún e Playa del Carmen para resorts, Tulum e Bacalar para cenotes e lagoa, Cozumel e Isla Mujeres para mergulho.",
+          "cidades": [
+            {
+              "id": "cancun",
+              "nome": "Cancun",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 7
+            },
+            {
+              "id": "playa-del-carmen",
+              "nome": "Playa del Carmen",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 9
+            },
+            {
+              "id": "tulum",
+              "nome": "Tulum",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 8
+            },
+            {
+              "id": "bacalar",
+              "nome": "Bacalar",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 2
+            },
+            {
+              "id": "isla-mujeres",
+              "nome": "Isla Mujeres",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 5
+            },
+            {
+              "id": "cozumel",
+              "nome": "Cozumel",
+              "zona": "Riviera Maya e Caribe",
+              "itens": 3
+            }
+          ]
+        },
+        {
+          "id": "yucatan",
+          "nome": "Yucatán",
+          "sigla": "Yuc.",
+          "tipo": "estado",
+          "descricaoCurta": "Mérida como base colonial segura e barata, com Chichén Itzá, Uxmal, cenotes e a vila amarela de Izamal ao redor.",
+          "cidades": [
+            {
+              "id": "merida",
+              "nome": "Merida",
+              "zona": "Peninsula de Yucatan",
+              "itens": 22
+            },
+            {
+              "id": "valladolid",
+              "nome": "Valladolid",
+              "zona": "Peninsula de Yucatan",
+              "itens": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -69,7 +69,7 @@
     "descricao": "3ª segunda-feira de março [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | anual: 3ª segunda de março (2026: 16/mar) | Natalício de Benito Juárez (feriado oficial)"
   },
   {
-    "id": "2027-03-21-semana-santa-e-pascoa-domingo-de-ramos-sa",
+    "id": "2027-03-21-semana-santa-e-pascoa-domingo-de-ramos-na",
     "fontes": [
       {
         "url": "https://en.wikipedia.org/wiki/Holy_Week_in_Mexico"
@@ -85,33 +85,7 @@
     "tipo": "temporada",
     "dataInicio": "2027-03-21",
     "dataFim": "2027-03-28",
-    "escopo": "san-miguel-de-allende",
-    "impacto": {
-      "preco": "sobe",
-      "lotacao": "alta",
-      "fechamentos": "Quinta/Sexta-feira Santa: fechamentos em parte do comércio e procissões bloqueiam ruas",
-      "observacao": "Período de férias nacional: tarifas e hotéis sobem (percentual não quantificado nesta coleta) | Muito alta; Puerto Escondido, segundo o Wikivoyage, foi 'sobrecarregado' pelos feriados de Semana Santa depois da rodovia nova"
-    },
-    "descricao": "21 a 28 de março de 2027 (Quinta e Sexta-feira Santas: 25 e 26/mar); 2026 foi 29/mar-05/abr; 2028 será 09-16/abr | anual, data móvel (domingo de Páscoa: 28/03/2027) | Semana Santa e Páscoa (Domingo de Ramos a Páscoa)"
-  },
-  {
-    "id": "2027-03-21-semana-santa-e-pascoa-domingo-de-ramos-ci",
-    "fontes": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Holy_Week_in_Mexico"
-      },
-      {
-        "url": "https://en.wikivoyage.org/wiki/Puerto_Escondido"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "parcial",
-    "observacaoDeConfianca": "media",
-    "nome": "Semana Santa e Páscoa (Domingo de Ramos a Páscoa)",
-    "tipo": "temporada",
-    "dataInicio": "2027-03-21",
-    "dataFim": "2027-03-28",
-    "escopo": "cidade-do-mexico",
+    "escopo": "nacional",
     "impacto": {
       "preco": "sobe",
       "lotacao": "alta",
@@ -164,7 +138,7 @@
     "descricao": "As duas segundas-feiras seguintes a 16 de julho (2027: 19 e 26/jul; 2026 foi 20 e 27/jul), com eventos paralelos durante julho; se a 1ª segunda cair em 18/jul, adia-se uma semana | anual desde 1969 | Guelaguetza (Lunes del Cerro)"
   },
   {
-    "id": "2027-09-15-independencia-do-mexico-grito-15-set-cida",
+    "id": "2027-09-15-independencia-do-mexico-grito-15-set-naci",
     "fontes": [
       {
         "url": "https://en.wikipedia.org/wiki/Grito_de_Dolores"
@@ -180,7 +154,7 @@
     "tipo": "feriado-nacional",
     "dataInicio": "2027-09-15",
     "dataFim": "2027-09-16",
-    "escopo": "cidade-do-mexico",
+    "escopo": "nacional",
     "impacto": {
       "preco": "sobe",
       "lotacao": "alta",
@@ -210,7 +184,7 @@
     "descricao": "1º de outubro, a cada seis anos (já em vigor; próxima em 2030) [fonte oficial LFT art. 74 não abriu; confirmado via Wikipedia ES] | a cada 6 anos | Transmissão do Poder Executivo (feriado a cada 6 anos)"
   },
   {
-    "id": "2026-11-01-dia-de-muertos-cidade-do-mexico",
+    "id": "2026-11-01-dia-de-muertos-nacional",
     "fontes": [
       {
         "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
@@ -223,30 +197,7 @@
     "tipo": "festa",
     "dataInicio": "2026-11-01",
     "dataFim": "2026-11-02",
-    "escopo": "cidade-do-mexico",
-    "impacto": {
-      "preco": "sobe",
-      "lotacao": "alta",
-      "fechamentos": "Cemitérios e centros históricos têm acesso restrito/lotados; muitos negócios reduzem horário",
-      "observacao": "Hotéis em Oaxaca e CDMX sobem e esgotam semanas antes (não quantificado) | Muito alta em cemitérios e praças"
-    },
-    "descricao": "1 e 2 de novembro (outras localidades incluem 31/out ou 6/nov); Mixquic, Pátzcuaro/Janitzio (Michoacán, nível 4 EUA) e Oaxaca são os polos tradicionais; CDMX faz desfile desde 2016 (29/out em 2016) | anual, data fixa; NÃO é feriado de lei, mas é patrimônio da UNESCO e mobiliza o país | Dia de Muertos"
-  },
-  {
-    "id": "2026-11-01-dia-de-muertos-oaxaca",
-    "fontes": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "parcial",
-    "observacaoDeConfianca": "media",
-    "nome": "Dia de Muertos",
-    "tipo": "festa",
-    "dataInicio": "2026-11-01",
-    "dataFim": "2026-11-02",
-    "escopo": "oaxaca",
+    "escopo": "nacional",
     "impacto": {
       "preco": "sobe",
       "lotacao": "alta",

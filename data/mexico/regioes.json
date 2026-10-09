@@ -1,110 +1,62 @@
 [
   {
-    "id": "valle-do-mexico",
+    "id": "noroeste",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://www.inegi.org.mx/rnm/index.php/catalog/434/variable/F12/V1179?name=REGION"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Valle Do Mexico",
-    "descricaoCurta": "Planalto central: Cidade do Mexico, Teotihuacan, Puebla e Cholula."
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Noroeste",
+    "descricaoCurta": "Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa e Sonora — deserto, Mar de Cortés e Pacífico norte."
   },
   {
-    "id": "caribe-mexicano",
+    "id": "occidente-y-bajio",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://www.inegi.org.mx/rnm/index.php/catalog/434/variable/F12/V1179?name=REGION"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Caribe Mexicano",
-    "descricaoCurta": "Quintana Roo: Cancun, Playa del Carmen, Tulum, Bacalar e as ilhas."
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Occidente y Bajío",
+    "descricaoCurta": "Aguascalientes, Colima, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro e Zacatecas — cidades coloniais do Bajío e a costa do Pacífico central."
   },
   {
-    "id": "yucatan",
+    "id": "ciudad-de-mexico",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://www.inegi.org.mx/rnm/index.php/catalog/434/variable/F12/V1179?name=REGION"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Yucatan",
-    "descricaoCurta": "Interior do Yucatan: Merida, Valladolid, Chichen Itza, Uxmal e os cenotes."
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Ciudad de México",
+    "descricaoCurta": "A capital federal, tratada como região própria na regionalização do INEGI."
   },
   {
-    "id": "oaxaca-vale",
+    "id": "centro-sur-y-oriente",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://www.inegi.org.mx/rnm/index.php/catalog/434/variable/F12/V1179?name=REGION"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Oaxaca Vale",
-    "descricaoCurta": "Vale de Oaxaca: a cidade, Monte Alban, Mitla, Hierve el Agua e o mezcal."
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Centro Sur y Oriente",
+    "descricaoCurta": "Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala e Veracruz — altiplano central e vertente do Golfo."
   },
   {
-    "id": "oaxaca-costa",
+    "id": "sur",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://www.inegi.org.mx/rnm/index.php/catalog/434/variable/F12/V1179?name=REGION"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Oaxaca Costa",
-    "descricaoCurta": "Costa de Oaxaca: Puerto Escondido, Mazunte, Zipolite e Huatulco."
-  },
-  {
-    "id": "chiapas",
-    "fontes": [
-      {
-        "url": "https://www.openstreetmap.org/relation/120027"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Chiapas",
-    "descricaoCurta": "Chiapas: San Cristobal, Palenque, Canon del Sumidero e as cachoeiras."
-  },
-  {
-    "id": "baja-california-sur",
-    "fontes": [
-      {
-        "url": "https://www.openstreetmap.org/relation/120027"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Baja California Sur",
-    "descricaoCurta": "Baja California Sur: La Paz, Espiritu Santo, Todos Santos e Los Cabos."
-  },
-  {
-    "id": "pacifico-central",
-    "fontes": [
-      {
-        "url": "https://www.openstreetmap.org/relation/120027"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Pacifico Central",
-    "descricaoCurta": "Pacifico central: Puerto Vallarta, Sayulita e as Islas Marietas."
-  },
-  {
-    "id": "bajio",
-    "fontes": [
-      {
-        "url": "https://www.openstreetmap.org/relation/120027"
-      }
-    ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Bajio",
-    "descricaoCurta": "Bajio e Jalisco: Guanajuato, San Miguel de Allende, Queretaro, Guadalajara e Tequila."
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Sur",
+    "descricaoCurta": "Campeche, Chiapas, Guerrero, Oaxaca, Quintana Roo, Tabasco e Yucatán — Caribe, Pacífico sul e o mundo maia."
   }
 ]

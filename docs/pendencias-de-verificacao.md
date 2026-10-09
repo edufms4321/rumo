@@ -1,6 +1,6 @@
 # Pendências de verificação
 
-> Gerado por `npm run pendencias` em 2026-10-08. Não edite à mão: rode de novo.
+> Gerado por `npm run pendencias` em 2026-10-09. Não edite à mão: rode de novo.
 
 Isto é o que **não** foi possível confirmar em fonte confiável.
 
@@ -13,16 +13,16 @@ Confirme por WhatsApp ou telefone antes de contar com qualquer coisa desta lista
 ## Colombia
 | Medida | Número |
 |---|---|
-| Itens | 169 (166 agendáveis) |
+| Itens | 216 (206 agendáveis) |
 | Bases | 8 |
-| Confiança: verificado | 27 |
-| Confiança: parcialmente verificado | 122 |
+| Confiança: verificado | 43 |
+| Confiança: parcialmente verificado | 153 |
 | Confiança: estimado | 20 |
-| Com coordenada | 138 de 166 |
-| Com imagem de licença livre | 101 de 166 |
-| Com algum contato | 64 de 166 |
+| Com coordenada | 138 de 206 |
+| Com imagem de licença livre | 101 de 206 |
+| Com algum contato | 71 de 206 |
 | Coletado há mais de um ano | 0 |
-### Preço não encontrado — 46
+### Preço não encontrado — 73
 
 O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou confirme no site antes de fechar a conta da viagem.
 
@@ -38,38 +38,38 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 | Artesanato: Pasaje Rivas e Mercado San Alejo | Bogota | preço |
 | Café de especialidade (Cultor, Azahar, Libertario, Colo) | Bogota | preço |
 | Guatavita (pueblo novo) e Embalse de Tominé | Bogota | preço |
+| Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos | Bogota | preço |
+| Casa Quiebracanto - salsa no centro de Bogotá | Bogota | preço |
+| Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa | Bogota | preço |
+| Plaza Distrital de Mercado La Perseverancia | Bogota | preço |
+| Artesanías de Colombia - Claustro de Las Aguas (Bogotá) | Bogota | preço |
+| Museo Internacional de la Esmeralda (Bogotá) | Bogota | preço |
 | Las Bóvedas (artesanato e galeria) | Cartagena | preço |
 | Playa Cholón / barco-festa (Cholón party boat) | Cartagena | preço |
 | Esmeraldas em Cartagena – como não ser enganado | Cartagena | preço |
 | La Boquilla – passeio de canoa nos manguezais | Cartagena | preço |
+| Donde Fidel - salsa clássica no Portal de los Dulces | Cartagena | preço |
+| Bazurto Social Club - champeta e picó ao vivo | Cartagena | preço |
+| Calle del Arsenal (Getsemaní) - a rua das discotecas | Cartagena | preço |
+| Festival Náutico e Bololó del Arsenal - 13 e 14 de novembro de 2026 | Cartagena | preço |
+| Mergulho com cilindro nas Islas del Rosario (Diving Planet) | Cartagena | preço |
+| Restaurante Espíritu Santo - comida tradicional barata no centro | Cartagena | preço |
+| Restaurante La Casa de Socorro - cozinha caribenha de Cartagena | Cartagena | preço |
+| Restaurante La Olla Cartagenera | Cartagena | preço |
+| Artesanías de Colombia - loja oficial no centro de Cartagena | Cartagena | preço |
+| Guayabera e linho no centro histórico de Cartagena | Cartagena | preço |
 | Pueblito Paisa e Cerro Nutibara | Medellin | preço |
 | Son Havana (salsa em Laureles) | Medellin | preço |
 | Mercado del Río | Medellin | preço |
 | Placita de Flórez | Medellin | preço |
 | Pergamino Café (Laureles) | Medellin | preço |
 | El Hueco e ruas de outlets (centro) | Medellin | preço |
-| Praia de Palomino e pôr do sol — alerta de correnteza | Palomino | preço |
-| Plaza de Bolívar e a noite real de Salento | Salento | preço |
-| Artesanato e lembranças na Calle Real (e onde comprar melhor) | Salento | preço |
-| Café Jesús Martín – café e bolo de chocolate | Salento | preço |
-| Billar Danubio – bar tradicional | Salento | preço |
-| Aeroporto Matecaña (PEI, Pereira) – chegada e traslado a Salento | Salento | preço |
-| Aeroporto El Edén (AXM, Armenia/La Tebaida) – chegada e traslado a Salento | Salento | preço |
-| Café para levar: onde comprar sem preço de turista | Salento | preço |
-| Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto) | Salento | preço |
-| Playa San Luis | San Andres | preço |
-| La Piscinita e West View | San Andres | preço |
-| Sea Pride Scuba (Escuela de Buceo Sea Pride) | San Andres | preço |
-| Coco Loco (discoteca na zona rosa) | San Andres | preço |
-| Bares da zona rosa e música ao vivo (Caribbean Pub, Banzai, Blue Deep, Éxtasis, La Regatta) | San Andres | preço |
-| Compras na zona franca / duty free (Av. 20 de Julio e centro) | San Andres | preço |
-| Trilha El Zaino – Cañaveral – Arrecifes – La Piscina – Cabo San Juan | Santa Marta | preço |
-| Cabo San Juan del Guía | Santa Marta | preço |
-| La Piscina (Tayrona) | Santa Marta | preço |
-| Arrecifes (Tayrona) — NÃO nadar | Santa Marta | preço |
-| Playa Cristal e Neguanje (setor Palangana) | Santa Marta | preço |
+| Salón Málaga - tango, bolero e 7 mil discos no centro de Medellín | Medellin | preço |
+| Perro Negro - discoteca de reggaeton em Provenza | Medellin | preço |
+| Dancefree - aula de salsa e bachata em El Poblado | Medellin | preço |
+| Rafting classe III-IV perto de Medellín (Río Claro e Santo Domingo) | Medellin | preço |
 
-_...e mais 6. `npm run validate:data` imprime a lista inteira._
+_...e mais 33. `npm run validate:data` imprime a lista inteira._
 
 ### Preço com uma fonte só — 3
 
@@ -81,7 +81,7 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Alquiler Speed Racer (mulitas) | San Andres | segunda fonte de preço |
 | Fisherman Place (frutos do mar à beira-mar) | San Andres | segunda fonte de preço |
 
-### Horário não encontrado — 81
+### Horário não encontrado — 113
 
 Sem horário o motor não consegue avisar "está fechado neste dia". Dia da semana ausente significa **desconhecido**, nunca "fechado".
 
@@ -97,6 +97,14 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | Café de especialidade (Cultor, Azahar, Libertario, Colo) | Bogota | horário de funcionamento |
 | Tren Turístico de la Sabana (Bogotá-Zipaquirá) | Bogota | horário de funcionamento |
 | Guatavita (pueblo novo) e Embalse de Tominé | Bogota | horário de funcionamento |
+| Theatron - a maior discoteca de Chapinero | Bogota | horário de funcionamento |
+| Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos | Bogota | horário de funcionamento |
+| Casa Quiebracanto - salsa no centro de Bogotá | Bogota | horário de funcionamento |
+| Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa | Bogota | horário de funcionamento |
+| Salsa al Parque 2026 - 28 e 29 de novembro, Parque Simón Bolívar | Bogota | horário de funcionamento |
+| Escalada em rocha em Suesca (bate-volta de Bogotá) | Bogota | horário de funcionamento |
+| Artesanías de Colombia - Claustro de Las Aguas (Bogotá) | Bogota | horário de funcionamento |
+| Museo Internacional de la Esmeralda (Bogotá) | Bogota | horário de funcionamento |
 | Ciudad Amurallada e muralhas ao pôr do sol | Cartagena | horário de funcionamento |
 | Plaza de la Trinidad (Getsemaní) à noite | Cartagena | horário de funcionamento |
 | Playa Blanca (Barú) – por conta própria | Cartagena | horário de funcionamento |
@@ -110,25 +118,17 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 | La Boquilla – passeio de canoa nos manguezais | Cartagena | horário de funcionamento |
 | La Mulata (cozinha caribenha de porções fartas) | Cartagena | horário de funcionamento |
 | Coroncoro (menu del día barato em Getsemaní) | Cartagena | horário de funcionamento |
-| Pueblito Paisa e Cerro Nutibara | Medellin | horário de funcionamento |
-| Plaza Botero | Medellin | horário de funcionamento |
-| Parque Lleras (zona de bares do Poblado) | Medellin | horário de funcionamento |
-| Provenza (restaurantes e coquetelaria) | Medellin | horário de funcionamento |
-| La 70 (Carrera 70, Laureles) — balada barata e local | Medellin | horário de funcionamento |
-| Son Havana (salsa em Laureles) | Medellin | horário de funcionamento |
-| Perpetuo Socorro (distrito criativo do centro) | Medellin | horário de funcionamento |
-| Plaza Minorista José María Villa (bandeja paisa e almoço barato) | Medellin | horário de funcionamento |
-| Placita de Flórez | Medellin | horário de funcionamento |
-| El Hueco e ruas de outlets (centro) | Medellin | horário de funcionamento |
-| Vila de Guatapé: zócalos, Calle del Recuerdo e Plazoleta | Medellin | horário de funcionamento |
-| Passeio de lancha no embalse (Malecón de Guatapé) | Medellin | horário de funcionamento |
-| Jardín (Antioquia): vila, Parque Principal e basílica | Medellin | horário de funcionamento |
-| Cueva del Esplendor (Jardín) | Medellin | horário de funcionamento |
-| Tubing no rio Palomino (Caracolí, Pozo Caimán, Techo Rojo) | Palomino | horário de funcionamento |
-| Praia de Palomino e pôr do sol — alerta de correnteza | Palomino | horário de funcionamento |
-| Valle de Cocora – Trilha circular das palmeiras de cera (com ou sem Acaime) | Salento | horário de funcionamento |
+| Donde Fidel - salsa clássica no Portal de los Dulces | Cartagena | horário de funcionamento |
+| Bazurto Social Club - champeta e picó ao vivo | Cartagena | horário de funcionamento |
+| Calle del Arsenal (Getsemaní) - a rua das discotecas | Cartagena | horário de funcionamento |
+| Festival Náutico e Bololó del Arsenal - 13 e 14 de novembro de 2026 | Cartagena | horário de funcionamento |
+| Cabildo de Getsemaní - 15 de novembro de 2026 | Cartagena | horário de funcionamento |
+| Kitesurf em La Boquilla (Cartagena) | Cartagena | horário de funcionamento |
+| Mergulho com cilindro nas Islas del Rosario (Diving Planet) | Cartagena | horário de funcionamento |
+| Restaurante La Casa de Socorro - cozinha caribenha de Cartagena | Cartagena | horário de funcionamento |
+| Restaurante La Olla Cartagenera | Cartagena | horário de funcionamento |
 
-_...e mais 41. `npm run validate:data` imprime a lista inteira._
+_...e mais 73. `npm run validate:data` imprime a lista inteira._
 
 ### Pesquisa que nao entrou no banco — 36
 
@@ -161,40 +161,54 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento sem data exata ficou fora do banco: "Salsa al Parque (2027)" (vazio)
 - _...e mais 11._
 
-### Sem coordenada — 28
+### Sem coordenada — 68
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
 | Item | Base | O que falta |
 |---|---|---|
 | Ciclovía de domingo | Bogota | coordenada |
+| Theatron - a maior discoteca de Chapinero | Bogota | coordenada |
+| Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos | Bogota | coordenada |
+| Casa Quiebracanto - salsa no centro de Bogotá | Bogota | coordenada |
+| Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa | Bogota | coordenada |
+| Salsa al Parque 2026 - 28 e 29 de novembro, Parque Simón Bolívar | Bogota | coordenada |
+| Sendero da Quebrada La Vieja - trilha nos Cerros Orientales | Bogota | coordenada |
+| Escalada em rocha em Suesca (bate-volta de Bogotá) | Bogota | coordenada |
+| Plaza Distrital de Mercado La Perseverancia | Bogota | coordenada |
+| Artesanías de Colombia - Claustro de Las Aguas (Bogotá) | Bogota | coordenada |
+| Museo Internacional de la Esmeralda (Bogotá) | Bogota | coordenada |
 | Pasadía Mambo Beach Club (Playa Tranquila, Barú) – opção barata | Cartagena | coordenada |
 | Chiva rumbera (ônibus-festa noturno) | Cartagena | coordenada |
 | Esmeraldas em Cartagena – como não ser enganado | Cartagena | coordenada |
 | Ceviche de rua e cevicheria popular (Centro) | Cartagena | coordenada |
+| Donde Fidel - salsa clássica no Portal de los Dulces | Cartagena | coordenada |
+| Bazurto Social Club - champeta e picó ao vivo | Cartagena | coordenada |
+| Calle del Arsenal (Getsemaní) - a rua das discotecas | Cartagena | coordenada |
+| Gran Desfile de Independencia (El Bando) - 12 de novembro de 2026 | Cartagena | coordenada |
+| Festival Náutico e Bololó del Arsenal - 13 e 14 de novembro de 2026 | Cartagena | coordenada |
+| Cabildo de Getsemaní - 15 de novembro de 2026 | Cartagena | coordenada |
+| Kitesurf em La Boquilla (Cartagena) | Cartagena | coordenada |
+| Mergulho com cilindro nas Islas del Rosario (Diving Planet) | Cartagena | coordenada |
+| Restaurante Espíritu Santo - comida tradicional barata no centro | Cartagena | coordenada |
+| Restaurante La Casa de Socorro - cozinha caribenha de Cartagena | Cartagena | coordenada |
+| Restaurante La Olla Cartagenera | Cartagena | coordenada |
+| Artesanías de Colombia - loja oficial no centro de Cartagena | Cartagena | coordenada |
+| Guayabera e linho no centro histórico de Cartagena | Cartagena | coordenada |
 | Parque Lleras (zona de bares do Poblado) | Medellin | coordenada |
 | Provenza (restaurantes e coquetelaria) | Medellin | coordenada |
 | El Hueco e ruas de outlets (centro) | Medellin | coordenada |
-| Finca Las Acacias – tour de café pequeno e pouco comercial | Salento | coordenada |
-| Filandia – centro colorido, Calle del Tiempo Detenido e artesanato de cestaria | Salento | coordenada |
-| Pereira – Zona Rosa / Avenida Circunvalar (vida noturna, pós-terremoto) | Salento | coordenada |
-| Playa San Luis | San Andres | coordenada |
-| Sea Pride Scuba (Escuela de Buceo Sea Pride) | San Andres | coordenada |
-| RentcarX (mulitas, buggys, golf carts e scooters) | San Andres | coordenada |
-| Rolling San Andrés (Rolling Playas) — Mula Kawasaki 4010 | San Andres | coordenada |
-| Alquiler Speed Racer (mulitas) | San Andres | coordenada |
-| Parchill (mulitas XS, 4010 e PRO Kawasaki) | San Andres | coordenada |
-| Scooters: Chemas Scooter e MOTOS SAI | San Andres | coordenada |
-| Volta à ilha de mulita/buggy (circunvalar, roteiro de paradas) | San Andres | coordenada |
-| Compras na zona franca / duty free (Av. 20 de Julio e centro) | San Andres | coordenada |
-| La Calle del Rojo (pescado frito e almoço de rua) | San Andres | coordenada |
-| Miss Janice Place (rondón raizal) | San Andres | coordenada |
-| Fisherman Place (frutos do mar à beira-mar) | San Andres | coordenada |
-| Bares e baladas do centro: La Brisa Loca, La Azotea, Barbas, La Puerta, Comodoro | Santa Marta | coordenada |
-| Artesanato arhuaco e wayúu: como comprar de verdade (e evitar imitação) | Santa Marta | coordenada |
-| Mergulho em Taganga (Discover Scuba, Open Water, fun dives) | Santa Marta | coordenada |
-| Cacau em Minca (La Candelaria e outras fincas) | Santa Marta | coordenada |
-| Viñedo Marqués de Villa de Leyva (Sutamarchán) | Villa de Leyva | coordenada |
+| Salón Málaga - tango, bolero e 7 mil discos no centro de Medellín | Medellin | coordenada |
+| Perro Negro - discoteca de reggaeton em Provenza | Medellin | coordenada |
+| Dancefree - aula de salsa e bachata em El Poblado | Medellin | coordenada |
+| Parapente em San Félix (Bello) - voo sobre o Vale de Aburrá | Medellin | coordenada |
+| Rafting classe III-IV perto de Medellín (Río Claro e Santo Domingo) | Medellin | coordenada |
+| Caiaque no embalse de Guatapé | Medellin | coordenada |
+| Mondongo's - bandeja paisa de restaurante tradicional | Medellin | coordenada |
+| Hacienda - rede paisa de comida típica em Medellín | Medellin | coordenada |
+| Trilha e cachoeira da Quebrada Valencia | Palomino | coordenada |
+
+_...e mais 28. `npm run validate:data` imprime a lista inteira._
 
 ## Mexico
 | Medida | Número |
@@ -752,10 +766,12 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 
 _...e mais 50. `npm run validate:data` imprime a lista inteira._
 
-### Pesquisa que nao entrou no banco — 55
+### Pesquisa que nao entrou no banco — 57
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
+- taxa percentual fora do somatorio do orcamento: Propina legal de 10% em hotel, restaurante, cafe e bar com consumo no local
+- taxa condicional fora do somatorio do orcamento: Passageiro extra no taxi tabelado (acima de 4 pessoas por veiculo)
 - trecho "Puerto Plata -> Sosua / Cabarete" virou a mesma base (puerto-plata): descartado
 - aluguel sem bloco estruturado: do-puj-aluguel-de-carro-em-punta-cana -> escrever em ajustes-manuais.json
 - "Aluguel de carro em Punta Cana" esta como aluguel-veiculo sem tabela de veiculos: virou cartao de referencia (nao se arrasta para um dia)
@@ -779,9 +795,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento "Fins de semana longos de 2027 (consequencia da Ley 139-97)" tem escopo "todo o pais" fora das bases do banco: descartado
 - evento "Carnaval de La Vega (Carnaval Vegano - o mais famoso do pais)" tem escopo "La Vega (cidade do vale do Cibao, interior) - os famosos diablos cojuelos com suas mascaras" fora das bases do banco: descartado
 - evento "Carnaval de Santiago (Los Lechones)" tem escopo "Santiago de los Caballeros. ATENCAO: em 2026 foi concentrado no PARQUE CENTRAL e NAO mais na Av. Las Carreras, por causa das obras do monorriel. Rotas alternativas usadas: Calle del Sol, Republica de Argentina e Av. Juan Pablo Duarte." fora das bases do banco: descartado
-- evento "Semana Santa" tem escopo "todo o pais, com concentracao em praias, rios e balnearios" fora das bases do banco: descartado
-- evento sem data exata ficou fora do banco: "Festival del Merengue y Ritmos Caribenos" (vazio)
-- _...e mais 30._
+- _...e mais 32._
 
 ### Sem coordenada — 23
 

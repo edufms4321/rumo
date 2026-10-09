@@ -3157,5 +3157,575 @@
       "Estação 'média-baixa' para visitação (site oficial); quantidade de aves varia com a época.",
       "Site oficial é a única fonte aberta (confiança 'verificado' por ser oficial)."
     ]
+  },
+  {
+    "id": "co-mde-salon-malaga-tango-bolero-e-7-mil-discos-no-centro-d",
+    "fontes": [
+      {
+        "url": "https://www.medellin.travel/salon-malaga-of-medellin/?lang=en"
+      },
+      {
+        "url": "https://www.elespectador.com/colombia/medellin/salon-malaga-una-instantanea-de-la-medellin-de-mitad-del-siglo-xx-article-895718/"
+      },
+      {
+        "url": "https://www.medellin.travel/10-must-see-in-the-center-of-medellin/?lang=en"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Salón Málaga - tango, bolero e 7 mil discos no centro de Medellín",
+    "cidadeId": "medellin",
+    "categoria": "bar",
+    "tags": [
+      "musica-ao-vivo",
+      "tango",
+      "bolero",
+      "cultura",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Fundado em 1957 na Carrera Bolívar, é patrimônio cultural do centro de Medellín: tango, bolero, pasillo e bambuco numa coleção de mais de 7 mil discos.",
+    "descricaoLonga": "Carrera 51 nº 45-80, sobre a Carrera Bolívar, no centro de Medellín. Fundado em 1957, é um dos poucos lugares com patrimônio histórico e cultural que resistiram no centro. O protagonista é o tango, mas também toca bolero, pasodoble, pasillo e música colombiana; o dono reuniu mais de 7 mil discos, considerada uma das melhores coleções de música antiga do país. Segundo o site oficial de turismo de Medellín, o movimento de verdade começa depois das 20h nas quintas e sextas, e no sábado há show musical ao vivo. É um contraponto deliberado a Provenza: barato, de dia também, e sem portaria de discoteca. NÃO achei preço de bebida, cover nem horário formal de abertura/fechamento em fonte confiável.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "melhorHorario": "Quinta e sexta depois das 20h; sábado tem show ao vivo.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Cra. 51 nº 45-80, Carrera Bolívar, Centro, Medellín"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "O centro de Medellín à noite pede cuidado: vá de metrô (estação Parque Berrío ou San Antonio) e volte de aplicativo.",
+      "Vale cada peso: é a noite mais barata e mais original de Medellín, e nada parecida com Parque Lleras."
+    ],
+    "alertas": [
+      "Fica no centro de Medellín, área com furto frequente à noite: não ande por fora com celular na mão e não volte a pé.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-mde-perro-negro-discoteca-de-reggaeton-em-provenza",
+    "fontes": [
+      {
+        "url": "https://www.elcolombiano.com/negocios/discoteca-perro-negro-abrira-sede-en-miami-LC22138740"
+      },
+      {
+        "url": "https://www.semana.com/confidenciales/articulo/el-famoso-club-perro-negro-llega-a-europa-esta-sera-la-zona-exclusiva-de-madrid-donde-estara-ubicado/202431/"
+      },
+      {
+        "url": "https://www.publimetro.co/medellin/2025/08/30/en-video-extranjero-en-medellin-captura-a-mujer-que-lo-habria-drogado-y-robado-en-el-parque-lleras-presuntamente/"
+      },
+      {
+        "url": "https://www.financecolombia.com/?p=27021"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Perro Negro - discoteca de reggaeton em Provenza",
+    "cidadeId": "medellin",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "reggaeton",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Discoteca só de reggaeton em Provenza, aberta em 2017 no nome de uma taberna de 1917. Virou marca internacional (Miami em 2023, Madrid em 2024).",
+    "descricaoLonga": "Nasceu em 1917 como taberna no bairro Guayaquil e foi reaberta em 2017 em Provenza, El Poblado, com proposta de música urbana: toca só reggaeton. É a casa com mais nome da noite de Medellín, já frequentada por Bad Bunny, Maluma e Karol G, e a marca abriu sede em Miami em 2023 e em Madrid em 2024. Fica na zona mais caex da cidade - Provenza e Parque Lleras são colados. NÃO achei cover, consumo mínimo, horário de funcionamento nem política de reserva em fonte confiável; a casa não publica tabela e o que circula é informação de blog.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Quinta a sábado, depois das 23h.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Provenza, El Poblado, Medellín"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Portaria com seleção; documento com foto"
+      ],
+      "idadeMinima": 18
+    },
+    "selos": [],
+    "dicas": [
+      "Aviso de preço: Provenza é a área mais caex de Medellín. Para perfil econômico, uma noite aqui e as outras em La 70 ou no Son Havana equilibra o orçamento.",
+      "Nunca aceite bebida de estranho nem deixe o copo sozinho - veja o alerta de segurança."
+    ],
+    "alertas": [
+      "A Embaixada dos EUA em Bogotá emitiu alerta de segurança sobre escopolamina e crimes contra visitantes em Medellín, Cartagena e Bogotá, com casos iniciados em bares e por aplicativo de encontro. Em El Poblado a polícia prendeu uma mulher apontada como 'rainha da escopolamina do Parque Lleras', que adulterava bebidas para roubar as vítimas.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-mde-dancefree-aula-de-salsa-e-bachata-em-el-poblado",
+    "fontes": [
+      {
+        "url": "https://www.salsavida.com/?p=50871"
+      },
+      {
+        "url": "https://colombiaspanish.com/free-salsa-dance-classes-in-medellin/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Dancefree - aula de salsa e bachata em El Poblado",
+    "cidadeId": "medellin",
+    "categoria": "experiencia",
+    "tags": [
+      "salsa",
+      "bachata",
+      "aula",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Escola de dança em El Poblado com aula em grupo de salsa (seg e qua) e bachata (ter), 20h-21h30, em três níveis, seguida de prática aberta até 22h30.",
+    "descricaoLonga": "Cl. 10A nº 40-27, El Poblado, Medellín. Aulas em grupo de salsa nas segundas e quartas e de bachata nas terças, das 20h às 21h30, com três níveis simultâneos (do zero a novato, novato a intermediário, intermediário a avançado), seguidas de prática social das 21h30 às 22h30. Também há aula particular de 9h às 19h em vários ritmos. Não é preciso reservar, mas é só para adultos e pede documento. Telefone divulgado: +57 604 204 0336; WhatsApp +57 316 288 7063. NÃO consegui confirmar o preço: a escola trabalha com passe de dia ou mensalidade e publica os valores apenas no calendário do site, que não abri.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "20:00",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "20:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "20:00",
+          "fecha": "22:30"
+        }
+      ]
+    },
+    "horariosObservacao": "20:00-22:30",
+    "diasFechados": [],
+    "melhorHorario": "Chegar 19h45 na segunda ou quarta (salsa) para pegar a divisão de níveis.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+57 604 204 0336",
+      "whatsapp": "+57 316 288 7063",
+      "site": "https://www.dancefree.com.co/",
+      "endereco": "Cl. 10A nº 40-27, El Poblado, Medellín"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só adultos; trazer documento com foto"
+      ],
+      "idadeMinima": 18
+    },
+    "selos": [],
+    "dicas": [
+      "Aula de salsa antes de ir ao Son Havana muda a noite: lá a aula gratuita começa às 20h e a banda toca depois.",
+      "Cali não está no roteiro, então esta é a chance de aprender salsa colombiana com professor de verdade."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-mde-parapente-em-san-felix-bello-voo-sobre-o-vale-de-abu",
+    "fontes": [
+      {
+        "url": "https://www.atrapalo.com/actividades/vuelo-en-parapente-sobre-medellin-y-el-valle-de-aburra_e4942418/"
+      },
+      {
+        "url": "https://www.atrapalo.com/actividades/vuelo-en-parapente-por-medellin_e4929348/"
+      },
+      {
+        "url": "https://www.civitatis.com/es/san-felix/vuelo-parapente-medellin-valle-aburra/"
+      },
+      {
+        "url": "https://colombiamove.com/blog/es/paragliding-colombia-medellin-san-gil-guide/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Parapente em San Félix (Bello) - voo sobre o Vale de Aburrá",
+    "cidadeId": "medellin",
+    "categoria": "experiencia",
+    "tags": [
+      "parapente",
+      "aventura",
+      "mirante"
+    ],
+    "descricaoCurta": "Voo duplo de parapente na rampa de San Félix, no km 6 da via Medellín-San Pedro (Bello), com vista do Vale de Aburrá. Voo curto de ~30 min.",
+    "descricaoLonga": "A rampa fica no km 6 da via Medellín-San Pedro, em San Félix, município de Bello - bate-volta de Medellín, cerca de 45-60 min de carro do centro conforme o trânsito. O operador Parapente San Félix diz ter mais de 10 anos de mercado, certificações de qualidade turística e pilotos com os alvarás exigidos para a atividade. Duas modalidades aparecem nas plataformas de reserva para 2026: um voo de 30 minutos a partir de 58 EUR (disponível de 10/07 a 11/11/2026) e uma experiência de ~3 horas no total a partir de 95,32 EUR (13/06 a 13/12/2026). NÃO achei preço publicado em pesos colombianos direto com o operador, nem peso máximo, idade mínima oficial ou política de cancelamento por vento - só a faixa em euros das plataformas.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 330
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, quando o vento é mais estável. Confirme a janela com o operador no dia anterior.",
+    "preco": {
+      "moeda": "EUR",
+      "min": 58,
+      "max": 96,
+      "por": "pessoa",
+      "inclui": "Voo duplo com piloto e equipamento. 58 EUR = voo de 30 min; a partir de 95,32 EUR = experiência de ~3 h (inclui deslocamento e espera).",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.atrapalo.com/actividades/vuelo-en-parapente-sobre-medellin-y-el-valle-de-aburra_e4942418/"
+        },
+        {
+          "url": "https://www.atrapalo.com/actividades/vuelo-en-parapente-por-medellin_e4929348/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "endereco": "Km 6 via Medellín-San Pedro, San Félix, Bello, Antioquia"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Voo cancelado ou remarcado por vento forte, chuva ou teto baixo",
+        "Peso máximo e idade mínima não confirmados: pergunte ao reservar"
+      ],
+      "dependeDeLuzDoDia": true,
+      "dependeDeClima": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "O preço em euro é de plataforma de revenda: ligando direto para operadores locais o valor em peso tende a ser menor. Pechinche, mas confirme a certificação.",
+      "Conte a manhã inteira, não 30 minutos: o voo é curto, a subida até a rampa e a espera por vento não são."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-mde-rafting-classe-iii-iv-perto-de-medellin-rio-claro-e",
+    "fontes": [
+      {
+        "url": "https://civitatis.com/en/medellin/rafting-santo-domingo-river"
+      },
+      {
+        "url": "https://civitatis.com/en/medellin/rafting-down-claro-river"
+      },
+      {
+        "url": "https://www.wetravel.com/trips/unforgettable-rafting-from-medellin-the-best-class-iv-river-expedition-ecoventure-sas-42456261"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Rafting classe III-IV perto de Medellín (Río Claro e Santo Domingo)",
+    "cidadeId": "medellin",
+    "categoria": "passeio",
+    "tags": [
+      "rafting",
+      "aventura",
+      "rio",
+      "bate-volta"
+    ],
+    "descricaoCurta": "Rafting de corredeiras classe III e IV nos rios de Cocorná e no Río Claro, bate-volta de Medellín (1h30 de carro). Dia inteiro, com busca em El Poblado.",
+    "descricaoLonga": "Bate-volta de Medellín: cerca de 1h30 de carro até Cocorná, no oriente antioqueño. Três produtos aparecem nas plataformas: corredeiras classe III e IV no Río Calderas (aprox. 3 h de rio, com busca em Medellín); o Río Santo Domingo, descrito como de corrente mais tranquila e indicado para quem nunca remou; e o Río Claro, de dia inteiro, cerca de 7 km em ~4 h, com busca às 6h nos hotéis do Poblado e opção combinada com espeleologia. Os preços publicados são altos e variam muito: um dos pacotes privativos de classe IV sai a partir de USD 296,64 e o dia no Río Claro aparece a USD 299 - são valores de tour privativo ou de pacote com caverna, NÃO o preço de uma vaga em bote compartilhado. Procurei preço por pessoa em grupo compartilhado e em pesos colombianos e NÃO achei em fonte confiável.",
+    "duracao": {
+      "min": 360,
+      "tipica": 600,
+      "max": 780
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída de manhã cedo (6h nos pacotes de dia inteiro).",
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Nível do rio depende de chuva; novembro é mês chuvoso no oriente antioqueño",
+        "Saber nadar; idade mínima varia por operador e não foi confirmada"
+      ],
+      "dependeDeClima": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Para perfil econômico, cheque se o operador vende vaga em bote compartilhado: os preços que achei são de tour privativo e distorcem o orçamento.",
+      "É um dia inteiro fora de Medellín. Não dá para somar com Comuna 13 ou Guatapé no mesmo dia."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Hotéis de El Poblado, Medellín (busca às 6h nos pacotes de dia inteiro)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "co-mde-caiaque-no-embalse-de-guatape",
+    "fontes": [
+      {
+        "url": "https://www.civitatis.com/en/guatape/reservoir-kayak-tour/"
+      },
+      {
+        "url": "https://colombiamove.com/blog/es/guatape-colombia-travel-guide/"
+      },
+      {
+        "url": "https://kwx.liehendr.com/content/wikivoyage_en_all_maxi_2025-02/A/Guatape"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Caiaque no embalse de Guatapé",
+    "cidadeId": "medellin",
+    "categoria": "experiencia",
+    "tags": [
+      "caiaque",
+      "aventura",
+      "natureza",
+      "bate-volta"
+    ],
+    "descricaoCurta": "Remar de caiaque pelas enseadas do embalse de Guatapé, bate-volta de ~2h de carro de Medellín. Alternativa calma (e mais barata) à lancha do malecón.",
+    "descricaoLonga": "O embalse de Guatapé é um dos reservatórios mais conhecidos da Colômbia, formado pela represa do Río Nare, e Guatapé é bate-volta de cerca de 2 horas de carro a leste de Medellín. Há aluguel de caiaque e tour guiado remando pelas enseadas do lago, com paradas nos pontos de vista. Para comparar com o que já está no banco: a lancha de uma hora saindo da margem leste custa por volta de 60.000 COP por adulto e trechos mais longos chegam a ~90.000 COP/hora (menores de 12 anos ~30.000 COP/hora); a entrada da Piedra del Peñol é 35.000 COP para estrangeiro. NÃO achei preço publicado do caiaque em si, em peso ou em outra moeda, em fonte confiável - por isso este item vai sem campo de preço.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 180
+    },
+    "diasFechados": [],
+    "melhorHorario": "Manhã, antes de o vento subir no lago e antes da fila da Piedra del Peñol.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Saber nadar; colete obrigatório"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Encaixe no mesmo dia da Piedra del Peñol e da vila de Guatapé, que já estão no banco: o lago é o mesmo.",
+      "Pergunte o preço do caiaque no malecón, na hora. Não há tabela publicada e a lancha é bem mais caex."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-mde-mondongo-s-bandeja-paisa-de-restaurante-tradicional",
+    "fontes": [
+      {
+        "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      },
+      {
+        "url": "https://medellinguru.com/mondongos/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mondongo's - bandeja paisa de restaurante tradicional",
+    "cidadeId": "medellin",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-local",
+      "bandeja-paisa",
+      "tradicional"
+    ],
+    "descricaoCurta": "Casa tradicional de comida paisa em Medellín. A bandeja paisa custava 59.000 COP em 2026, contra 40.000 em 2021 - o preço está no jornal, não no boca a boca.",
+    "descricaoLonga": "Restaurante tradicional de comida paisa em Medellín, conhecido pelo mondongo e pela bandeja paisa. O preço da bandeja foi medido pelo El Colombiano em 2026: 59.000 COP, contra 40.000 COP em 2021 e 55.000 COP em janeiro de 2025. Para comparar, no mesmo levantamento: La Matriarca a 54.000 COP, a média da cidade em torno de 48.600 COP, a Plaza Minorista José María Villa entre 27.000 e 45.000 COP, a área turística da Comuna 13 em torno de 37.000 COP, e restaurantes de zona exclusiva entre 54.000 e 63.800 COP. O prato encareceu cerca de 47,5% em cinco anos. NÃO consegui confirmar endereço exato, horário de funcionamento nem telefone de nenhuma das duas unidades em fonte confiável.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "melhorHorario": "Almoço. A bandeja paisa é prato de meio-dia; de noite pesa.",
+    "preco": {
+      "moeda": "COP",
+      "min": 59000,
+      "max": 59000,
+      "por": "pessoa",
+      "inclui": "Uma bandeja paisa (preço medido pelo El Colombiano em 2026). Bebida e serviço não incluídos.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Porção muito grande: um prato serve bem duas pessoas com apetite normal"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Dividir uma bandeja entre dois é prática comum e corta o gasto pela metade - a porção é enorme.",
+      "Corte se apertar: a Plaza Minorista, já no banco, serve a mesma bandeja por 27 a 45 mil COP."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-mde-quanto-custa-a-bandeja-paisa-em-medellin-em-2026",
+    "fontes": [
+      {
+        "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Quanto custa a bandeja paisa em Medellín em 2026",
+    "cidadeId": "medellin",
+    "categoria": "restaurante",
+    "tags": [
+      "bandeja-paisa",
+      "comida-local",
+      "referencia",
+      "barato"
+    ],
+    "descricaoCurta": "Cartão de referência de preço: média de 48.600 COP na cidade. De 27 mil na Plaza Minorista a 63.800 em zona exclusiva. Alta de 47,5% em cinco anos.",
+    "descricaoLonga": "Levantamento do El Colombiano para 2026, útil para saber se você está pagando preço de local ou preço de turista. Média da cidade: cerca de 48.600 COP. Por lugar: Plaza Minorista José María Villa de 27.000 a 45.000 COP; área turística da Comuna 13 em torno de 37.000 COP; restaurantes de zona exclusiva de 54.000 a 63.800 COP ou mais; Mondongo's a 59.000 COP (era 40.000 em 2021); La Matriarca a 54.000 COP (era 37.500 cinco anos antes). Em cinco anos o prato subiu cerca de 47,5%, com aumentos de 16.500 a 19.000 COP nos restaurantes comuns. As pressões citadas para 2026: salário mínimo +23,7%, mão de obra em torno de 30% da receita dos restaurantes, chouriço +15%, arroz +6,68% e feijão +4,07%. REGRA DE BOLSO: acima de 55 mil COP você está pagando pelo endereço, não pela comida.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Use 48.600 COP como régua: acima disso, pergunte-se o que o lugar entrega além da comida.",
+      "A bandeja paisa é prato para dividir. Dois adultos num prato por 37 mil na Comuna 13 é almoço resolvido."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-mde-hacienda-rede-paisa-de-comida-tipica-em-medellin",
+    "fontes": [
+      {
+        "url": "https://medellinguru.com/hacienda/"
+      },
+      {
+        "url": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Hacienda - rede paisa de comida típica em Medellín",
+    "cidadeId": "medellin",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-local",
+      "bandeja-paisa",
+      "tradicional"
+    ],
+    "descricaoCurta": "Rede de restaurantes colombianos em Medellín, com pratos típicos e a sua própria versão da bandeja paisa (incluindo uma versão mini). Preço não confirmado.",
+    "descricaoLonga": "Rede local de restaurantes de comida colombiana com várias unidades em Medellín, que serve pratos típicos e a sua versão da bandeja paisa (chamada Bandeja Hacienda), com opção mini para quem não encara a porção inteira. É uma alternativa de meio de caminho entre a Plaza Minorista (barata) e os restaurantes de zona exclusiva. ATENÇÃO: encontrei um valor publicado para a Bandeja Hacienda que é claramente inconsistente (302.900 COP, provavelmente erro de digitação de 30.290 ou 30.900) e por isso NÃO registro preço neste item. Não invente o número: confirme no menu. Também não confirmei endereços, horários nem telefone das unidades.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Peça a versão mini da bandeja se for almoçar e ainda querer jantar: a porção cheia derruba a tarde.",
+      "A média da bandeja paisa em Medellín em 2026 é 48.600 COP. Use isso de régua ao abrir o menu aqui."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

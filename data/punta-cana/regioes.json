@@ -1,62 +1,92 @@
 [
   {
-    "id": "leste",
+    "id": "cibao-norte",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://ign.gob.do/mapa/mapa-regiones-unicas-de-planificacion/"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Leste",
-    "descricaoCurta": "Punta Cana e Bavaro: praia de postal, resort com tudo incluido e as ilhas Saona e Catalina."
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Cibao Norte",
+    "descricaoCurta": "Santiago, Puerto Plata e Espaillat — vale do Cibao e a costa norte de Puerto Plata e Cabarete."
   },
   {
-    "id": "sul",
+    "id": "cibao-sur",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://ign.gob.do/mapa/mapa-regiones-unicas-de-planificacion/"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Sul",
-    "descricaoCurta": "Santo Domingo: a primeira cidade europeia das Americas, e a unica parte do pais que nao e praia."
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Cibao Sur",
+    "descricaoCurta": "La Vega, Monseñor Nouel e Sánchez Ramírez — montanhas da Cordillera Central, com Jarabacoa e Constanza."
   },
   {
-    "id": "samana",
+    "id": "cibao-nordeste",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://ign.gob.do/mapa/mapa-regiones-unicas-de-planificacion/"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Samana",
-    "descricaoCurta": "Peninsula de Samana: baleias jubarte entre janeiro e marco, cachoeira do Limon e Los Haitises."
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Cibao Nordeste",
+    "descricaoCurta": "Duarte, Hermanas Mirabal, María Trinidad Sánchez e Samaná — península de Samaná e observação de baleias."
   },
   {
-    "id": "costa-norte",
+    "id": "yuma",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://ign.gob.do/mapa/mapa-regiones-unicas-de-planificacion/"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Costa Norte",
-    "descricaoCurta": "Puerto Plata, Sosua e Cabarete: kitesurf, teleferico e o lado que o vento domina."
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Yuma",
+    "descricaoCurta": "La Altagracia, La Romana e El Seibo — Punta Cana, Bávaro, Bayahíbe e a maior concentração hoteleira do país."
   },
   {
-    "id": "cordilheira",
+    "id": "ozama",
     "fontes": [
       {
-        "url": "https://www.openstreetmap.org/relation/120027"
+        "url": "https://ign.gob.do/mapa/mapa-regiones-unicas-de-planificacion/"
+      },
+      {
+        "url": "https://ign.gob.do/wp-content/uploads/2024/06/Mapa-Regiones-Unicas-de-Planificacion-RD-2022-1.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic"
       }
     ],
-    "coletadoEm": "2026-10-08",
-    "confianca": "estimado",
-    "nome": "Cordilheira",
-    "descricaoCurta": "Jarabacoa e Constanza: montanha, rafting e o unico lugar frio do pais."
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Ozama",
+    "descricaoCurta": "Distrito Nacional e província Santo Domingo — área metropolitana da capital."
   }
 ]

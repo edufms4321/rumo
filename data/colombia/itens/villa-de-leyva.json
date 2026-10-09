@@ -622,5 +622,144 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "co-vdl-cavalgada-bike-e-rapel-em-villa-de-leyva",
+    "fontes": [
+      {
+        "url": "https://www.civitatis.com/mx/villa-de-leyva/paseo-caballo-pozos-azules/"
+      },
+      {
+        "url": "https://www.atrapalo.com.ar/actividades/paseo-a-caballo-por-los-pozos-azules_e4942353/"
+      },
+      {
+        "url": "https://colombia.travel/es/villa-de-leyva"
+      },
+      {
+        "url": "https://www.diariodelsur.com.co/?p=415095"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cavalgada, bike e rapel em Villa de Leyva",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "experiencia",
+    "tags": [
+      "cavalgada",
+      "bicicleta",
+      "aventura",
+      "trilha"
+    ],
+    "descricaoCurta": "Cavalgada de ~1h45 pelos cinco Pozos Azules, bike de montanha pelos caminhos de pedra e pacotes com rapel. Cavalgada a partir de ~187 mil COP por pessoa.",
+    "descricaoLonga": "Os Pozos Azules ficam a 3 km do centro de Villa de Leyva e se alcançam a pé, de bicicleta ou a cavalo. A cavalgada típica dura cerca de 1 hora e 45 minutos, dando a volta nos cinco poços turquesa, pela paisagem árida com pinheiros e acácias; o preço publicado parte de aproximadamente 186.984 COP por pessoa (valor convertido pela plataforma, não tabela de operador local). Há também mountain bike pelos caminhos de pedra que correm pelos cumes e vales ao redor da vila, e pacotes de aventura de dois dias que juntam rapel e cavalgada com entradas para Pozos Azules e Museo El Fósil. NÃO achei preço de aluguel de bike por dia na vila, nem tabela de rapel avulso, nem telefone de operador local - só os pacotes de plataforma.",
+    "duracao": {
+      "min": 105,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "Fim da tarde: a luz baixa deixa a água dos poços mais azul e o sol do altiplano é forte ao meio-dia.",
+    "preco": {
+      "moeda": "COP",
+      "min": 186984,
+      "max": 186984,
+      "por": "pessoa",
+      "inclui": "Cavalgada de ~1h45 com guia pelos cinco Pozos Azules. Valor convertido por plataforma de reserva, não tabela de operador local. Bike e rapel não incluídos.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.civitatis.com/mx/villa-de-leyva/paseo-caballo-pozos-azules/"
+        },
+        {
+          "url": "https://www.atrapalo.com.ar/actividades/paseo-a-caballo-por-los-pozos-azules_e4942353/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Altitude ~2.140 m",
+        "Idade mínima e peso máximo para a cavalgada não confirmados"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "187 mil COP por pessoa é preço de plataforma. Na própria entrada dos Pozos Azules há cavalo alugado por bem menos - pergunte no local antes de reservar pela internet.",
+      "Alugar bike na vila resolve Pozos Azules, El Fósil e Casa Terracota num dia só, e todos já estão no banco."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-vdl-mercado-campesino-de-sabado-em-villa-de-leyva",
+    "fontes": [
+      {
+        "url": "https://nomadicniko.com/2019/06/08/saturday-market/"
+      },
+      {
+        "url": "https://www.roughguides.com/destinations/south-america/colombia/north-of-bogota/villa-leyva"
+      },
+      {
+        "url": "https://aneia.uniandes.edu.co/la-semilla-que-dejo-el-paro-agrario-del-2013-en-el-pueblo-de-villa-de-leyva"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado campesino de sábado em Villa de Leyva",
+    "cidadeId": "villa-de-leyva",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "comida-local",
+      "barato",
+      "artesanato"
+    ],
+    "descricaoCurta": "Todo sábado de manhã, a Plaza de Mercado e as calles 12 e 13 enchem de produtor de Boyacá: fruta, verdura, pão, mel, queijo, chouriço e tecido.",
+    "descricaoLonga": "Todo sábado pela manhã acontece o mercado na Plaza de Mercado de Villa de Leyva, com produtores e vendedores da região de Boyacá. O que se vende: fruta, verdura e roupa em maior parte, além de pão, mel, carne e uma seção de comida pronta - chouriço, galinha, carne a la llanera. O movimento transborda para as calles 12 e 13, com barraca de comida típica, tecido e outros produtos. A tradição é antiga: por décadas os camponeses da região desceram no sábado para vender, e se formou uma associação de produtores que vende sem atravessador, direto para comerciantes e moradores da vila. NÃO achei o horário exato publicado - as fontes dizem 'sábado pela manhã' e nada mais preciso - e também não há tabela de preço (cada produtor cobra o seu).",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "horariosObservacao": "manhã (horário exato não publicado)",
+    "diasFechados": [],
+    "melhorHorario": "Sábado cedo, entre 7h e 10h, quando o mercado está completo.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Plaza de Mercado e calles 12 e 13, Villa de Leyva, Boyacá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Só sábado",
+        "Normalmente só dinheiro em espécie"
+      ]
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Se a passagem por Villa de Leyva não cair num sábado, este item cai do roteiro - não há versão em outro dia.",
+      "Vale cada peso: é compra sem atravessador, direto do produtor de Boyacá."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

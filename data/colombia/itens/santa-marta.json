@@ -3141,5 +3141,245 @@
       "horariosDeSaida": [],
       "horarioFixo": false
     }
+  },
+  {
+    "id": "co-smr-vallenato-ao-vivo-no-centro-historico-de-santa-marta",
+    "fontes": [
+      {
+        "url": "https://www.calendariodecolombia.com/turismo/que-hacer-de-noche-en-santa-marta-colombia"
+      },
+      {
+        "url": "https://www.bluradio.com/turismo/la-historia-oculta-de-santa-marta-cuando-anochece-lo-que-no-cuenta-el-sol-rg10"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Vallenato ao vivo no centro histórico de Santa Marta",
+    "cidadeId": "santa-marta",
+    "categoria": "experiencia",
+    "tags": [
+      "vallenato",
+      "musica-ao-vivo",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "No Parque de los Novios e nas ruas 19, 20 e Carrera 3, músicos tocam vallenato ao vivo nas mesas de calçada à noite. Acordeão de verdade, sem palco de turista.",
+    "descricaoLonga": "O Parque de los Novios é o centro da noite de Santa Marta: praça cercada de bares, restaurantes e cafés com mesa na calçada, onde grupos de vallenato (acordeão, caixa e guacharaca) passam de mesa em mesa tocando por gorjeta ou por música pedida. O circuito se espalha pelas calles 19 e 20 e pela Carrera 3. A região é descrita como tranquila e movimentada à noite, com gente local e viajante misturados. Santa Marta é a base mais próxima do berço do vallenato (Valledupar, no Cesar), e o Festival de la Leyenda Vallenata acontece em Valledupar em abril - fora da janela de novembro. NÃO existe tabela de preço para pedir música: o valor é combinado com o grupo. Também não confirmei horário de nenhuma casa específica desta onda (os bares do centro já estão no banco por outro item).",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 300
+    },
+    "diasFechados": [],
+    "melhorHorario": "A partir das 20h; quinta a sábado é quando há mais grupos circulando.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Parque de los Novios, calles 19 e 20, Carrera 3 - Centro Histórico, Santa Marta"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Combine o preço da música ANTES de o grupo começar a tocar - não há tabela e a conta vem depois.",
+      "É a forma mais honesta de ouvir vallenato na viagem: o festival grande é em Valledupar, em abril, e não cabe em novembro."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-smr-snorkel-pelas-baias-do-tayrona-por-mar-cinto-cristal",
+    "fontes": [
+      {
+        "url": "https://www.nomades.com/santa-marta/neguanje-playa-cristal-id978"
+      },
+      {
+        "url": "https://www.pelago.com/en-US/activity/pgckiczpe-snorkeling-with-local-people-in-tayrona-national-park-santa-marta/"
+      },
+      {
+        "url": "https://www.calendariodecolombia.com/turismo/guia-para-visitar-el-parque-nacional-natural-tayrona-en-2026-horarios-precios-y-consejos-para-una-experiencia-unica"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Snorkel pelas baías do Tayrona por mar (Cinto, Cristal e Concha)",
+    "cidadeId": "santa-marta",
+    "categoria": "passeio",
+    "tags": [
+      "snorkel",
+      "praia",
+      "natureza",
+      "barco"
+    ],
+    "descricaoCurta": "Saída de barco da Marina de Santa Marta para mergulhar de máscara e snorkel nas baías do Tayrona. Sem cilindro: não trava voo. ~170 mil COP no roteiro Neguanje.",
+    "descricaoLonga": "Saídas de barco da Marina Internacional de Santa Marta, por volta das 8h30, percorrendo as baías do Parque Tayrona pelo mar - Cinto, Playa Cristal e Bahía Concha - com paradas para snorkel (máscara e respirador, SEM cilindro) nos melhores pontos de recife, onde se vê peixe de recife e tartaruga. Há roteiros de dia inteiro (~9 h) e versões mais curtas. Preço encontrado para o roteiro Neguanje + Playa Cristal: 170.000 COP por adulto. Uma operação de barco a vela cobra USD 60 por adulto com base em Bahía Concha. ATENÇÃO de calendário: o Parque Tayrona fecha em períodos determinados pelos povos indígenas, e o banco já registra o fechamento de 19/10 a 02/11/2026 - confira a data antes de agendar. Este item é snorkel de superfície: NÃO tem restrição de não voar.",
+    "duracao": {
+      "min": 300,
+      "tipica": 480,
+      "max": 600
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída de manhã (8h30): o mar vira à tarde e a visibilidade cai.",
+    "preco": {
+      "moeda": "COP",
+      "min": 170000,
+      "max": 170000,
+      "por": "pessoa",
+      "inclui": "Transporte de barco, snorkel nas baías e almoço à beira-mar no roteiro Neguanje + Playa Cristal. Ingresso do Parque Tayrona e seguro podem ser cobrados à parte.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.nomades.com/santa-marta/neguanje-playa-cristal-id978"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {
+      "endereco": "Marina Internacional de Santa Marta"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Saber nadar; colete disponível",
+        "Snorkel de superfície, sem cilindro: não exige certificação e não impede voar depois",
+        "Parque Tayrona tem fechamentos anuais definidos pelos povos indígenas; confira a data"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Este é o jeito de ver as praias do Tayrona sem a caminhada de 2 h no calor - e vê três baías num dia.",
+      "Preço vem de uma fonte só (170 mil COP). Peça dois ou três orçamentos na marina antes de fechar."
+    ],
+    "alertas": [
+      "Fechamentos programados do Parque Tayrona podem cancelar o passeio: o banco já registra o período de 19/10 a 02/11/2026.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "pontoPartida": "Marina Internacional de Santa Marta (saída por volta das 8h30)",
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "co-smr-mercado-publico-de-santa-marta",
+    "fontes": [
+      {
+        "url": "https://www.santamarta.gov.co/sala-prensa/noticias/80-vendedores-dignificados-con-nuevos-puestos-en-la-plaza-de-pescados-y"
+      },
+      {
+        "url": "https://www.expatexchange.com/article/22343/Living-in-Santa-Marta-Best-Markets-in-Santa-Marta"
+      },
+      {
+        "url": "https://www.afar.com/places/santa-marta-market-santa-marta"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado Público de Santa Marta",
+    "cidadeId": "santa-marta",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-local",
+      "barato",
+      "peixe"
+    ],
+    "descricaoCurta": "O mercado principal de Santa Marta, na Calle 10 com Carrera 11, aberto todos os dias de 6h às 17h. Tem praça especializada de peixe e frutos do mar.",
+    "descricaoLonga": "Calle 10 com Carrera 11, Centro, Santa Marta. Aberto todos os dias das 6h às 17h. É o mercado onde a cidade compra fruta, verdura, carne e pescado, com uma Plaza Especializada de Pescados y Mariscos criada pela prefeitura, que dignificou os postos de cerca de 80 vendedores. É o lado não turístico do centro histórico: fica a poucas quadras do Parque de los Novios, mas o público é local. NÃO achei tabela de preço (cada banca cobra o seu) nem informação sobre tour guiado oficial. Como em qualquer mercado grande de centro, o movimento é denso e o cuidado com bolso e celular é o de sempre.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:00-17:00",
+    "diasFechados": [],
+    "melhorHorario": "Manhã, antes das 10h: o peixe é do dia e o calor ainda não chegou.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle 10 con Carrera 11, Centro, Santa Marta"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ambiente denso, com cheiro forte de peixe e pouca sombra"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vá sem joia, sem mochila aberta e com pouco dinheiro no bolso - conselho de mercado grande, não de alarme.",
+      "Vale cada peso: é onde se compra fruta e peixe no preço de Santa Marta e não no de El Rodadero."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
   }
 ]

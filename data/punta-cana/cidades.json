@@ -39,7 +39,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Punta Cana",
-    "regiaoId": "leste",
+    "regiaoId": "yuma",
+    "estadoId": "la-altagracia",
+    "zonaId": "leste",
     "coords": {
       "lat": 18.55655,
       "lng": -68.36916
@@ -196,7 +198,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Bayahibe",
-    "regiaoId": "leste",
+    "regiaoId": "yuma",
+    "estadoId": "la-altagracia",
+    "zonaId": "leste",
     "coords": {
       "lat": 18.36871,
       "lng": -68.83969
@@ -351,7 +355,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Santo Domingo",
-    "regiaoId": "sul",
+    "regiaoId": "ozama",
+    "estadoId": "distrito-nacional",
+    "zonaId": "sul",
     "coords": {
       "lat": 18.47139,
       "lng": -69.89184
@@ -509,7 +515,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Las Terrenas",
-    "regiaoId": "samana",
+    "regiaoId": "cibao-nordeste",
+    "estadoId": "samana",
+    "zonaId": "samana",
     "coords": {
       "lat": 19.31101,
       "lng": -69.54307
@@ -721,7 +729,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Puerto Plata",
-    "regiaoId": "costa-norte",
+    "regiaoId": "cibao-norte",
+    "estadoId": "puerto-plata",
+    "zonaId": "costa-norte",
     "coords": {
       "lat": 19.79766,
       "lng": -70.69326
@@ -862,7 +872,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Jarabacoa",
-    "regiaoId": "cordilheira",
+    "regiaoId": "cibao-sur",
+    "estadoId": "la-vega",
+    "zonaId": "cordilheira",
     "coords": {
       "lat": 19.12094,
       "lng": -70.64193

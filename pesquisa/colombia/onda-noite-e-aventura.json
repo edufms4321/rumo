@@ -1,0 +1,1539 @@
+{
+  "base": "noite-aventura-comer",
+  "coletadoEm": "2026-10-09",
+  "notasPorBase": {
+    "cartagena": "O eixo da noite tem tres camadas de preco: Plaza de la Trinidad e Getsemani (cerveja de cooler, barato, com risco de furto depois da meia-noite), Calle del Arsenal (discotecas com cover) e o centro murado (coquetelaria caex). Em novembro de 2026 a cidade esta em Fiestas de Independencia: os dias grandes sao 11 a 16 de novembro, com o Gran Desfile/Bando em 12/11 e o Festival Nautico em 13 e 14/11. A champeta e a cultura picotera foram declaradas Patrimonio Cultural Inmaterial da Nacao em 2026 pelo Ministerio de las Culturas.",
+    "santa-marta": "O centro historico concentra a noite (Parque de los Novios, Calle 19, Carrera 3) e e onde se ouve vallenato ao vivo sem palco de turista. Taganga e Minca sao bate-volta a partir daqui (Minca: colectivo de 45 min, 8-12 mil COP). Mergulho com cilindro sai de Taganga e da marina; snorkel pelas baias do Tayrona sai por mar da Marina Internacional.",
+    "palomino": "Vila pequena na Guajira, a ~1h20 de Santa Marta pela Troncal del Caribe. Serve de base para a Quebrada Valencia e e onde se compra mochila wayuu mais perto das tecelas - o que muda o preco e quem fica com o dinheiro.",
+    "san-andres": "Mergulho com cilindro aqui tem uma consequencia de agenda: nao se voa nas 18 h seguintes a mergulhos repetidos (minimo DAN). Com voo de volta por ADZ, o mergulho precisa ficar com pelo menos um dia inteiro de folga antes do embarque.",
+    "bogota": "A salsa de Bogota nao mora toda na Zona Rosa: a propria Alcaldia aponta Quiebracanto (centro), El Bembe, Salsa Camara e Pachanga y Pochola. Taxi na rua e o maior risco urbano declarado (paseo millonario); use aplicativo ou as Zonas Seguras demarcadas. Suesca (escalada) e bate-volta de ~1h30 e entra no banco como item de bogota.",
+    "villa-de-leyva": "Sabado e o dia da vila: mercado campesino na Plaza de Mercado pela manha e cavalgada/bike para os Pozos Azules a tarde.",
+    "medellin": "Tres noites diferentes: Provenza/Parque Lleras (caro e com alerta de seguranca real sobre bebida adulterada), Laureles/La 70 (barato e local) e o centro (Salon Malaga, tango e bolero, de dia e comeco de noite). Guatape e bate-volta de ~2h de carro.",
+    "salento": "Filandia fica a ~20-25 min de Salento e e bate-volta facil: o restaurante Helena Adentro esta la, nao em Salento."
+  },
+  "itens": [
+    {
+      "nome": "Donde Fidel - salsa clássica no Portal de los Dulces",
+      "categoria": "bar",
+      "cidade": "cartagena",
+      "tags": ["salsa", "musica-ao-vivo", "vida-noturna", "centro-historico"],
+      "descricaoCurta": "Bar de salsa com mais de 30 anos na esquina do Portal de los Dulces, a passos da Torre del Reloj. Só salsa, sem comida, e o próprio Fidel na porta.",
+      "descricaoLonga": "Fica na esquina noroeste do Portal de los Dulces, dentro da cidade murada. Dono e apelido da casa: Fidel Leottau Hernández, cartagenero que a Radio Nacional de Colombia chama de embaixador da salsa da cidade; as paredes são cobertas de fotos dele com Óscar D'León, Rubén Blades, Andy Montañez, Cheo Feliciano, Richie Ray e Tito Nieves. A casa toca SÓ salsa, não serve comida e a carta de bebidas é curta (cerveja, rum com coca). A mesa transborda para a calçada e a dança acontece na rua. NÃO consegui confirmar cover, preço de bebida nem horário de abertura em fonte confiável - trate como dado a conferir no local.",
+      "duracao": { "min": 60, "tipica": 120, "max": 240 },
+      "contato": { "endereco": "Portal de los Dulces (esquina noroeste), Centro Histórico, Cartagena" },
+      "restricoes": { "outras": ["Casa pequena: em noite cheia o baile acontece na calçada"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Vale cada peso para quem quer salsa de verdade sem palco de turista: é o oposto de uma casa de show montada.",
+        "Caminhe até lá: fica dentro da muralha, a 2 minutos da Torre del Reloj."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.radionacional.co/cultura/nos-vemos-donde-fidel-el-embajador-de-la-salsa-en-cartagena",
+        "https://www.frommers.com/destinations/cartagena/nightlife/donde-fidel",
+        "https://www.eluniversal.com.co/farandula/2026/06/07/fidel-leottau-el-hombre-detras-del-museo-de-la-salsa-en-cartagena/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem cover, preço de bebida, horário oficial, telefone e coordenada confirmados. Endereço só em prosa (esquina do Portal de los Dulces)."
+    },
+    {
+      "nome": "Bazurto Social Club - champeta e picó ao vivo",
+      "categoria": "bar",
+      "cidade": "cartagena",
+      "tags": ["champeta", "cumbia", "musica-ao-vivo", "vida-noturna"],
+      "descricaoCurta": "Casa pequena de champeta, cumbia e reggae ao vivo de quinta a sábado. Reabriu em 2024 atrás da Plaza Santo Domingo. Bebida barata, público misto.",
+      "descricaoLonga": "Reabriu em 2024 em endereço novo, na Carrera 9, atrás da Plaza Santo Domingo (antes ficava em Getsemaní). É um salão pequeno, sem pose, onde se dança champeta pesada e também cumbia, reggae e salsa, com banda ao vivo de quinta a sábado. A música começa por volta das 22h, mas dá para chegar entre 19h e 20h no happy hour. A casa também oferece aula de dança. NÃO confirmei cover, preço de bebida, telefone nem o horário formal de fechamento - as fontes falam do 'por volta das 22h' e nada mais preciso.",
+      "duracao": { "min": 90, "tipica": 180, "max": 300 },
+      "melhorHorario": "Chegar 19h-20h para o happy hour e ficar para a banda das 22h; quinta a sábado são as noites com música ao vivo.",
+      "contato": { "endereco": "Cra. 9, atrás da Plaza Santo Domingo, Centro Histórico, Cartagena" },
+      "restricoes": { "outras": ["Casa pequena: enche em noite de banda"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "É aqui que champeta vira dança e não só trilha sonora de fundo - o item que faltava no interesse de vida noturna.",
+        "Vale cada peso: bebida barata e público local misturado com viajante."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.frommers.com/destinations/cartagena/nightlife/bazurto-social-club/",
+        "https://theculturetrip.com/articles/the-best-clubs-for-traditional-music-in-colombia",
+        "https://www.hostelworld.com/blog/cartagena-nightlife-where-locals-and-travellers-go-out/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem preço, horário oficial, telefone, site e coordenada confirmados. O endereço novo (Cra. 9) vem de uma fonte só; confirme antes de ir, porque a casa já mudou de lugar."
+    },
+    {
+      "nome": "Champeta e cultura picotera: o que é o picó e por que virou patrimônio",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["champeta", "picó", "musica-ao-vivo", "cultura", "referencia"],
+      "descricaoCurta": "Cartão de referência: a champeta e a cultura do picó foram declaradas Patrimônio Cultural Imaterial da Nação em 2026. Entender o picó muda o que você procura à noite.",
+      "descricaoLonga": "Picó (de 'pick-up') é o sistema de som pintado à mão que toca nos bairros populares de Cartagena e Barranquilla desde o começo dos anos 1950, e a champeta é o gênero que nasceu em volta dele. Em 21 de maio de 2026, no Dia da Afrocolombianidade, o Ministério das Culturas declarou a champeta e a cultura picotera Patrimônio Cultural Imaterial da Nação, depois de parecer favorável do Conselho Nacional de Patrimônio em 2025. A declaração não cobre só a música: inclui a dança, os picós, os cartazes pintados à mão, o grafite, as verbenas e as festas de bairro, e obriga prefeitura e governação a destinar orçamento para a cultura. Isso importa na prática: as verbenas de picó acontecem em bairros fora do circuito turístico, não no centro murado, e normalmente não têm site nem horário publicado. O que o visitante acha no centro é champeta tocada em bar (Bazurto Social Club) ou no desfile das Fiestas de Independencia. NÃO existe agenda pública confiável de verbena de picó, e não encontrei nenhuma operadora que leve a uma com segurança - por isso este item não se agenda.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se a vida noturna é um dos seus interesses, leia isto antes de escolher a casa: champeta em bar do centro e verbena de picó em bairro são duas coisas diferentes.",
+        "A música do Festival Náutico e do Bando (13-14 e 12 de novembro) é a chance mais fácil de ouvir champeta ao vivo em escala grande."
+      ],
+      "alertas": [
+        "As verbenas de picó acontecem em bairros periféricos sem estrutura para turista, sem horário publicado e sem operadora identificada; não há como agendar com segurança a partir de fonte pública."
+      ],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.eltiempo.com/colombia/otras-ciudades/de-los-picos-al-patrimonio-nacional-la-champeta-vive-su-mayor-reconocimiento-y-reafirma-su-lugar-en-la-identidad-del-caribe-3565589",
+        "https://www.noticiasrcn.com/colombia/la-champeta-y-cultura-picotera-son-declaradas-patrimonio-cultural-en-colombia-1023669",
+        "https://www.eluniversal.com.co/cultural/los-pavitos-anecdota-de-la-cultura-picotera-en-una-parada-en-londres-EN8791776"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência, sem preço nem horário por natureza. Não achei calendário público de verbenas de picó."
+    },
+    {
+      "nome": "Calle del Arsenal (Getsemaní) - a rua das discotecas",
+      "categoria": "bar",
+      "cidade": "cartagena",
+      "tags": ["balada", "vida-noturna", "reggaeton", "champeta"],
+      "descricaoCurta": "A rua de discotecas de Getsemaní, com cover e bebida mais caros que a Plaza de la Trinidad. É também o palco do Bololó do Arsenal nas Fiestas de novembro.",
+      "descricaoLonga": "A Calle del Arsenal corre dentro de Getsemaní e concentra as discotecas de Cartagena - reggaeton, champeta e crossover, com portaria, cover e bebida em preço de zona turística, bem acima da cerveja de cooler vendida duas quadras antes, na Plaza de la Trinidad. Em 13 e 14 de novembro de 2026 a rua é um dos palcos do Festival Náutico das Fiestas de Independencia (o 'Bololó del Arsenal'), com shows abertos. NÃO consegui confirmar cover, consumo mínimo nem horário de nenhuma casa específica da rua em fonte confiável; os preços variam por casa e por noite e o que circula são números de blog.",
+      "duracao": { "min": 120, "tipica": 210, "max": 360 },
+      "melhorHorario": "Quinta a sábado, depois das 23h. Em 13 e 14/11/2026 a rua é palco do Festival Náutico.",
+      "contato": { "endereco": "Calle del Arsenal, Getsemaní, Cartagena" },
+      "restricoes": { "idadeMinima": 18, "outras": ["Portaria pede documento com foto"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Aviso de preço honesto: esta é a parte caex da noite de Cartagena. Para perfil econômico, uma noite aqui e as outras na Plaza de la Trinidad ou no Café Havana/Bazurto rende mais.",
+        "Volte de táxi ou aplicativo, não a pé pelos becos vazios de Getsemaní de madrugada."
+      ],
+      "alertas": [
+        "Getsemaní registra furto e roubo contra turista nas horas da madrugada; El Tiempo documentou o problema no bairro e a polícia faz patrulha nas ruas por causa disso."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.hostelworld.com/blog/cartagena-nightlife-where-locals-and-travellers-go-out/",
+        "https://www.eltiempo.com/colombia/otras-ciudades/getsemani-el-barrio-cool-de-cartagena-sitiado-por-la-delincuencia-663509",
+        "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem cover, consumo mínimo, horário por casa e coordenada. Item de rua, não de estabelecimento."
+    },
+    {
+      "nome": "Fiestas de Independencia de Cartagena 2026 - o calendário confirmado",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["carnaval", "musica-ao-vivo", "champeta", "cumbia", "gratis", "referencia"],
+      "descricaoCurta": "Datas confirmadas de 2026: prelúdios desde 1º de novembro e os dias grandes de 11 a 16 de novembro. Gran Desfile em 12/11, Festival Náutico em 13 e 14/11.",
+      "descricaoLonga": "Agenda apresentada oficialmente pela Alcaldía de Cartagena e pelo IPCC em 16 de setembro de 2026. Dia a dia confirmado: 1/11 'Ángeles Somos' e desfile infantil no centro histórico; 3/11 Prova de Talento no Teatro Adolfo Mejía; 5-6/11 Festival Jorge García Usta; 6/11 desfile em traje de banho das candidatas ao Reinado Popular; 7/11 Festa de Atores Festivos; 8/11 Desfile da Diversidade; 10/11 Desfile em Honra aos Heróis; 11/11 Sessão Solene do Ato de Independência, oferenda floral e serenata; 12/11 Gran Desfile de Independencia (o Bando), 10h-12h na Avenida Santander; 13 e 14/11 Festival Náutico da Independência e Bololó do Arsenal; 15/11 Cabildo de Getsemaní e coroação do Reinado Popular; 16/11 encerramento (feriado nacional). ATENÇÃO a uma divergência de fonte: El Universal e El Espectador dão o início em 1º de novembro; o guia Cartagena Explorer abre em 30 de outubro. As duas versões concordam no fim (16/11) e em todos os dias grandes. Em julho de 2026 as Fiestas foram aprovadas para a Lista Representativa de Patrimônio Cultural Imaterial da Colômbia. NÃO há preço publicado para os eventos de rua (são abertos) e não achei tabela de ingresso para os eventos de recinto fechado.",
+      "contato": { "site": "https://www.cartagena.gov.co/" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Este é o evento de calendário mais importante para uma viagem em novembro de 2026: se der, encaixe Cartagena entre 11 e 16 de novembro.",
+        "Hotelaria de Cartagena espera alta demanda nessa semana: reserve hospedagem com meses de antecedência ou aceite preço de pico."
+      ],
+      "alertas": [
+        "Nos desfiles circula maizena e espuma em spray: use roupa que possa sujar, proteja celular e documento e não leve nada que não possa perder."
+      ],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/",
+        "https://www.elespectador.com/colombia/cartagena/fiestas-de-independencia-de-cartagena-2026-programacion-y-artistas-confirmados/",
+        "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/",
+        "https://www.hsbnoticias.com/ocupacion-hotelera-cartagena-fiestas-independencia-2026/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência de calendário. Divergência real entre fontes na data de início (30/10 x 1/11); os dias grandes (11 a 16/11) estão confirmados por três fontes. Sem preço de ingresso para eventos fechados."
+    },
+    {
+      "nome": "Gran Desfile de Independencia (El Bando) - 12 de novembro de 2026",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["carnaval", "cumbia", "champeta", "gratis", "desfile"],
+      "descricaoCurta": "O desfile maior das Fiestas: 12/11/2026, das 10h às 12h, na Avenida Santander. Cerca de 10 mil artistas, 45 grupos de dança e 48 atores festivos. De graça, na rua.",
+      "descricaoLonga": "Acontece na quinta-feira 12 de novembro de 2026, das 10h às 12h, ao longo da Avenida Santander (trecho de Crespo até a entrada de Bocagrande, segundo o guia local). Segundo o IPCC, desfilam cerca de 45 grupos de dança, 40 comparsas e 48 atores festivos, com aproximadamente 10 mil artistas em cena. É gratuito e assistido da calçada. Também é o dia em que maizena e espuma em spray circulam mais pela cidade. NÃO achei mapa oficial com os pontos de arquibancada nem informação sobre arquibancada paga.",
+      "duracao": { "min": 90, "tipica": 150, "max": 240 },
+      "horarios": { "qui": "10:00-12:00" },
+      "melhorHorario": "Chegar antes das 9h30 para pegar lugar na sombra da Avenida Santander.",
+      "contato": { "site": "https://www.cartagena.gov.co/" },
+      "restricoes": { "dependeDeClima": true, "outras": ["Evento de rua, em pé, sol forte entre 10h e 12h"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Horário confirmado por duas fontes (El Universal e El Espectador): 10h-12h de 12/11. Reserve a manhã inteira.",
+        "Vale cada peso porque não custa nada: é o maior espetáculo gratuito da viagem."
+      ],
+      "alertas": [
+        "Maizena e espuma em spray fazem parte da festa: roupa descartável, celular em saco plástico e nada de valor no bolso."
+      ],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/",
+        "https://www.elespectador.com/colombia/cartagena/fiestas-de-independencia-de-cartagena-2026-programacion-y-artistas-confirmados/",
+        "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem preço (evento de rua gratuito) e sem coordenada do melhor ponto de observação. Não achei informação oficial sobre arquibancada."
+    },
+    {
+      "nome": "Festival Náutico e Bololó del Arsenal - 13 e 14 de novembro de 2026",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["carnaval", "musica-ao-vivo", "vallenato", "champeta", "vida-noturna"],
+      "descricaoCurta": "Os dois dias de show das Fiestas, na baía e na Calle del Arsenal. 13/11: Juan Luis Guerra e Grupo Niche. 14/11: Nicky Jam, Silvestre Dangond, Ryan Castro, Jessi Uribe.",
+      "descricaoLonga": "Sexta 13 e sábado 14 de novembro de 2026, na baía de Cartagena e na Calle del Arsenal, em Getsemaní. Cartaz confirmado pela Alcaldía/IPCC: em 13/11 o artista central é Juan Luis Guerra, dividindo palco com Grupo Niche, Beéle, Rafa Pérez, Zaider, DJ Dever, Criss y Ronny e Héctor Nazza; em 14/11 entram Nicky Jam, Silvestre Dangond, Ryan Castro, Jessi Uribe, Elder Dayán, Mr Black, Jader Tremendo, GiBlack, Koffe el Kafetero, Luister la Voz e Hamilton. São 19 artistas anunciados no total. O guia local diz que assistir da rua é gratuito e que alugar barco é a forma mais confortável de ver a parte náutica. NÃO achei preço oficial de ingresso, de área VIP nem de aluguel de barco para o evento - não invente orçamento aqui.",
+      "duracao": { "min": 180, "tipica": 300, "max": 480 },
+      "melhorHorario": "Noite de 13 e de 14 de novembro de 2026.",
+      "contato": { "site": "https://www.cartagena.gov.co/" },
+      "restricoes": { "dependeDeClima": true, "outras": ["Multidão grande; evento em pé"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se a escolha é uma noite paga de discoteca OU esta, escolha esta: Juan Luis Guerra e Grupo Niche de graça na rua não se repete.",
+        "Para a parte náutica, o ponto de graça é a muralha e o Camellón; barco é gasto grande e sem preço publicado."
+      ],
+      "alertas": [
+        "Multidão de 13 e 14/11 é a maior do ano em Getsemaní: ande com pouco dinheiro, sem joia e com o celular guardado."
+      ],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.eluniversal.com.co/farandula/2026/09/16/cartagena-presenta-oficialmente-la-agenda-de-las-fiestas-2026/",
+        "https://www.elespectador.com/colombia/cartagena/fiestas-de-independencia-de-cartagena-2026-programacion-y-artistas-confirmados/",
+        "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem preço de ingresso/VIP, sem horário exato de início dos shows e sem coordenada do palco."
+    },
+    {
+      "nome": "Cabildo de Getsemaní - 15 de novembro de 2026",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["carnaval", "cumbia", "champeta", "gratis", "desfile"],
+      "descricaoCurta": "O desfile de bairro das Fiestas: domingo 15/11/2026, de Canapote até a Plaza de la Trinidad, em Getsemaní. É a parte mais popular e menos turística da festa.",
+      "descricaoLonga": "Domingo 15 de novembro de 2026. O cortejo sai de Canapote e desce até a Plaza de la Trinidad, no coração de Getsemaní - o bairro onde a independência de 1811 foi declarada por pressão popular. No mesmo dia acontece a Velada de Eleição e Coroação do Reinado Popular, no Centro de Convenciones Cartagena de Indias. É o evento das Fiestas com mais cara de bairro e menos de palco patrocinado. NÃO achei horário oficial de saída do cortejo nem preço da velada do Reinado (evento de recinto fechado).",
+      "duracao": { "min": 120, "tipica": 180, "max": 300 },
+      "melhorHorario": "Domingo 15 de novembro de 2026 (horário de saída não publicado).",
+      "contato": { "site": "https://www.cartagena.gov.co/" },
+      "restricoes": { "dependeDeClima": true, "outras": ["Evento de rua, em pé"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "É o dia em que Getsemaní é de Getsemaní: se você só puder ver um desfile além do Bando, veja este.",
+        "Confirme o horário de saída na véspera, pela prefeitura ou pelo IPCC - não está publicado."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.cartagenaexplorer.com/programacion-de-fiestas-noviembre-cartagena-2026/",
+        "https://www.elespectador.com/colombia/cartagena/fiestas-de-independencia-de-cartagena-2026-programacion-y-artistas-confirmados/",
+        "https://www.pulzo.com/nacion/fiestas-independencia-cartagena-2026-programacion-conciertos-PP5307292"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem horário de saída do cortejo, sem preço da velada do Reinado e sem coordenada."
+    },
+    {
+      "nome": "Vallenato ao vivo no centro histórico de Santa Marta",
+      "categoria": "experiencia",
+      "cidade": "santa-marta",
+      "tags": ["vallenato", "musica-ao-vivo", "vida-noturna"],
+      "descricaoCurta": "No Parque de los Novios e nas ruas 19, 20 e Carrera 3, músicos tocam vallenato ao vivo nas mesas de calçada à noite. Acordeão de verdade, sem palco de turista.",
+      "descricaoLonga": "O Parque de los Novios é o centro da noite de Santa Marta: praça cercada de bares, restaurantes e cafés com mesa na calçada, onde grupos de vallenato (acordeão, caixa e guacharaca) passam de mesa em mesa tocando por gorjeta ou por música pedida. O circuito se espalha pelas calles 19 e 20 e pela Carrera 3. A região é descrita como tranquila e movimentada à noite, com gente local e viajante misturados. Santa Marta é a base mais próxima do berço do vallenato (Valledupar, no Cesar), e o Festival de la Leyenda Vallenata acontece em Valledupar em abril - fora da janela de novembro. NÃO existe tabela de preço para pedir música: o valor é combinado com o grupo. Também não confirmei horário de nenhuma casa específica desta onda (os bares do centro já estão no banco por outro item).",
+      "duracao": { "min": 90, "tipica": 150, "max": 300 },
+      "melhorHorario": "A partir das 20h; quinta a sábado é quando há mais grupos circulando.",
+      "contato": { "endereco": "Parque de los Novios, calles 19 e 20, Carrera 3 - Centro Histórico, Santa Marta" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Combine o preço da música ANTES de o grupo começar a tocar - não há tabela e a conta vem depois.",
+        "É a forma mais honesta de ouvir vallenato na viagem: o festival grande é em Valledupar, em abril, e não cabe em novembro."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.calendariodecolombia.com/turismo/que-hacer-de-noche-en-santa-marta-colombia",
+        "https://www.bluradio.com/turismo/la-historia-oculta-de-santa-marta-cuando-anochece-lo-que-no-cuenta-el-sol-rg10"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem preço (a gorjeta por música é negociada), sem horário de casa específica, sem telefone e sem coordenada."
+    },
+    {
+      "nome": "Salón Málaga - tango, bolero e 7 mil discos no centro de Medellín",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": ["musica-ao-vivo", "tango", "bolero", "cultura", "vida-noturna"],
+      "descricaoCurta": "Fundado em 1957 na Carrera Bolívar, é patrimônio cultural do centro de Medellín: tango, bolero, pasillo e bambuco numa coleção de mais de 7 mil discos.",
+      "descricaoLonga": "Carrera 51 nº 45-80, sobre a Carrera Bolívar, no centro de Medellín. Fundado em 1957, é um dos poucos lugares com patrimônio histórico e cultural que resistiram no centro. O protagonista é o tango, mas também toca bolero, pasodoble, pasillo e música colombiana; o dono reuniu mais de 7 mil discos, considerada uma das melhores coleções de música antiga do país. Segundo o site oficial de turismo de Medellín, o movimento de verdade começa depois das 20h nas quintas e sextas, e no sábado há show musical ao vivo. É um contraponto deliberado a Provenza: barato, de dia também, e sem portaria de discoteca. NÃO achei preço de bebida, cover nem horário formal de abertura/fechamento em fonte confiável.",
+      "duracao": { "min": 60, "tipica": 120, "max": 240 },
+      "melhorHorario": "Quinta e sexta depois das 20h; sábado tem show ao vivo.",
+      "contato": { "endereco": "Cra. 51 nº 45-80, Carrera Bolívar, Centro, Medellín" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "O centro de Medellín à noite pede cuidado: vá de metrô (estação Parque Berrío ou San Antonio) e volte de aplicativo.",
+        "Vale cada peso: é a noite mais barata e mais original de Medellín, e nada parecida com Parque Lleras."
+      ],
+      "alertas": [
+        "Fica no centro de Medellín, área com furto frequente à noite: não ande por fora com celular na mão e não volte a pé."
+      ],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.medellin.travel/salon-malaga-of-medellin/?lang=en",
+        "https://www.elespectador.com/colombia/medellin/salon-malaga-una-instantanea-de-la-medellin-de-mitad-del-siglo-xx-article-895718/",
+        "https://www.medellin.travel/10-must-see-in-the-center-of-medellin/?lang=en"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem preço, horário formal, telefone e coordenada confirmados."
+    },
+    {
+      "nome": "Perro Negro - discoteca de reggaeton em Provenza",
+      "categoria": "bar",
+      "cidade": "medellin",
+      "tags": ["balada", "reggaeton", "vida-noturna"],
+      "descricaoCurta": "Discoteca só de reggaeton em Provenza, aberta em 2017 no nome de uma taberna de 1917. Virou marca internacional (Miami em 2023, Madrid em 2024).",
+      "descricaoLonga": "Nasceu em 1917 como taberna no bairro Guayaquil e foi reaberta em 2017 em Provenza, El Poblado, com proposta de música urbana: toca só reggaeton. É a casa com mais nome da noite de Medellín, já frequentada por Bad Bunny, Maluma e Karol G, e a marca abriu sede em Miami em 2023 e em Madrid em 2024. Fica na zona mais caex da cidade - Provenza e Parque Lleras são colados. NÃO achei cover, consumo mínimo, horário de funcionamento nem política de reserva em fonte confiável; a casa não publica tabela e o que circula é informação de blog.",
+      "duracao": { "min": 120, "tipica": 210, "max": 360 },
+      "melhorHorario": "Quinta a sábado, depois das 23h.",
+      "contato": { "endereco": "Provenza, El Poblado, Medellín" },
+      "restricoes": { "idadeMinima": 18, "outras": ["Portaria com seleção; documento com foto"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Aviso de preço: Provenza é a área mais caex de Medellín. Para perfil econômico, uma noite aqui e as outras em La 70 ou no Son Havana equilibra o orçamento.",
+        "Nunca aceite bebida de estranho nem deixe o copo sozinho - veja o alerta de segurança."
+      ],
+      "alertas": [
+        "A Embaixada dos EUA em Bogotá emitiu alerta de segurança sobre escopolamina e crimes contra visitantes em Medellín, Cartagena e Bogotá, com casos iniciados em bares e por aplicativo de encontro. Em El Poblado a polícia prendeu uma mulher apontada como 'rainha da escopolamina do Parque Lleras', que adulterava bebidas para roubar as vítimas."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.elcolombiano.com/negocios/discoteca-perro-negro-abrira-sede-en-miami-LC22138740",
+        "https://www.semana.com/confidenciales/articulo/el-famoso-club-perro-negro-llega-a-europa-esta-sera-la-zona-exclusiva-de-madrid-donde-estara-ubicado/202431/",
+        "https://www.publimetro.co/medellin/2025/08/30/en-video-extranjero-en-medellin-captura-a-mujer-que-lo-habria-drogado-y-robado-en-el-parque-lleras-presuntamente/",
+        "https://www.financecolombia.com/?p=27021"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem cover, consumo mínimo, horário, telefone, endereço exato e coordenada. Só o bairro (Provenza) está confirmado."
+    },
+    {
+      "nome": "Dancefree - aula de salsa e bachata em El Poblado",
+      "categoria": "experiencia",
+      "cidade": "medellin",
+      "tags": ["salsa", "bachata", "aula", "vida-noturna"],
+      "descricaoCurta": "Escola de dança em El Poblado com aula em grupo de salsa (seg e qua) e bachata (ter), 20h-21h30, em três níveis, seguida de prática aberta até 22h30.",
+      "descricaoLonga": "Cl. 10A nº 40-27, El Poblado, Medellín. Aulas em grupo de salsa nas segundas e quartas e de bachata nas terças, das 20h às 21h30, com três níveis simultâneos (do zero a novato, novato a intermediário, intermediário a avançado), seguidas de prática social das 21h30 às 22h30. Também há aula particular de 9h às 19h em vários ritmos. Não é preciso reservar, mas é só para adultos e pede documento. Telefone divulgado: +57 604 204 0336; WhatsApp +57 316 288 7063. NÃO consegui confirmar o preço: a escola trabalha com passe de dia ou mensalidade e publica os valores apenas no calendário do site, que não abri.",
+      "duracao": { "min": 90, "tipica": 150, "max": 180 },
+      "horarios": {
+        "seg": "20:00-22:30",
+        "ter": "20:00-22:30",
+        "qua": "20:00-22:30"
+      },
+      "melhorHorario": "Chegar 19h45 na segunda ou quarta (salsa) para pegar a divisão de níveis.",
+      "contato": {
+        "telefone": "+57 604 204 0336",
+        "whatsapp": "+57 316 288 7063",
+        "site": "https://www.dancefree.com.co/",
+        "endereco": "Cl. 10A nº 40-27, El Poblado, Medellín"
+      },
+      "restricoes": { "idadeMinima": 18, "outras": ["Só adultos; trazer documento com foto"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Aula de salsa antes de ir ao Son Havana muda a noite: lá a aula gratuita começa às 20h e a banda toca depois.",
+        "Cali não está no roteiro, então esta é a chance de aprender salsa colombiana com professor de verdade."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.salsavida.com/?p=50871",
+        "https://colombiaspanish.com/free-salsa-dance-classes-in-medellin/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço NÃO confirmado (só existe no calendário do site oficial, que não consultei). Horário vem de uma fonte de agenda de salsa; confirme no site. Sem coordenada."
+    },
+    {
+      "nome": "Theatron - a maior discoteca de Chapinero",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": ["balada", "vida-noturna", "lgbt"],
+      "descricaoCurta": "20 salões num só prédio em Chapinero, com capacidade para mais de 7 mil pessoas no sábado. Cover de 10 mil a 50 mil COP conforme o dia e a hora. Aberto qui-sáb, 21h-5h.",
+      "descricaoLonga": "Calle 58 Bis nº 10-32, Chapinero, Bogotá. É descrita como a maior discoteca gay da América Latina, composta de 20 salões (cada um com música diferente) e capaz de receber mais de 7 mil pessoas num sábado. Abre de quinta a sábado e em véspera de feriado, das 21h às 5h. Cover publicado: quinta 10.000 COP antes das 22h e 15.000 depois; sexta 20.000 e 25.000; sábado 30.000 e 50.000. Entrada só com 18 anos e documento original; aceita dinheiro, débito e crédito. É um dos poucos lugares da noite de Bogotá com tabela de preço realmente publicada - por isso entra aqui com preço, e as outras casas não.",
+      "duracao": { "min": 150, "tipica": 240, "max": 420 },
+      "horarios": {
+        "qui": "21:00-05:00",
+        "sex": "21:00-05:00",
+        "sab": "21:00-05:00"
+      },
+      "preco": {
+        "moeda": "COP",
+        "min": 10000,
+        "max": 50000,
+        "por": "pessoa",
+        "inclui": "Apenas o cover de entrada. Quinta 10.000 antes das 22h / 15.000 depois; sexta 20.000 / 25.000; sábado 30.000 / 50.000. Bebida não incluída.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://en.wikipedia.org/wiki/Theatron_(club)",
+          "https://visitbogota.co/en/atractivo/all/theatron-pelicula-the-hub-of-the-lgbti-party-in-bogota-all-4469"
+        ]
+      },
+      "melhorHorario": "Chegar antes das 22h na quinta ou na sexta para pagar o cover menor.",
+      "contato": { "endereco": "Calle 58 Bis nº 10-32, Chapinero, Bogotá" },
+      "restricoes": { "idadeMinima": 18, "outras": ["Documento original obrigatório na portaria"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Entrar antes das 22h economiza metade do cover no sábado - é a diferença entre 30 mil e 50 mil COP.",
+        "Volte de aplicativo. Táxi pego na rua em Chapinero de madrugada é o cenário clássico do paseo millonario."
+      ],
+      "alertas": [
+        "Em Bogotá, as autoridades recomendam pedir táxi por aplicativo ou nas Zonas Seguras demarcadas e não parar táxi na rua, especialmente à noite, por causa do 'paseo millonario' (sequestro-relâmpago com sedativo e saque em caixa eletrônico)."
+      ],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://en.wikipedia.org/wiki/Theatron_(club)",
+        "https://visitbogota.co/en/atractivo/all/theatron-pelicula-the-hub-of-the-lgbti-party-in-bogota-all-4469",
+        "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cover e horário vêm de Wikipedia cruzada com a página do visitbogota (portal oficial de turismo). Sem telefone, site e coordenada."
+    },
+    {
+      "nome": "Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": ["salsa", "musica-ao-vivo", "vida-noturna"],
+      "descricaoCurta": "Casa de salsa citada pela própria Alcaldía de Bogotá: banda ao vivo, pista cheia e paredes com quadros à venda. Sede principal no Parque de la 93.",
+      "descricaoLonga": "Carrera 11A nº 93-42, no Parque de la 93. A Alcaldía de Bogotá a lista como um dos lugares para dançar salsa na cidade, ao lado de Casa Quiebracanto, El Bembé, Salsa Camará e Pachanga y Pochola. Funciona há mais de 25 anos como restaurante, bar e pista, com bandas de salsa e ritmos caribenhos ao vivo; já recebeu Tony Vega e a Guayacán Orquesta, e as obras nas paredes estão à venda. A casa tem três endereços: Parque 93 (Cra. 11A nº 93-42), Palermo (Transv. 15B nº 46-38) e Salón Café Bohemia (Transv. 15B nº 46-32). Contatos do site oficial: 601-5975506, 601-2851794, 601-2874079, WhatsApp 317 660 8742, info@galeriacafelibro.com.co. NÃO há horário de funcionamento nem valor de cover/consumo mínimo publicados no site oficial - procurei e não achei.",
+      "duracao": { "min": 120, "tipica": 180, "max": 300 },
+      "contato": {
+        "telefone": "+57 601 5975506",
+        "whatsapp": "+57 317 660 8742",
+        "site": "https://www.galeriacafelibro.com.co/",
+        "email": "info@galeriacafelibro.com.co",
+        "endereco": "Cra. 11A nº 93-42, Parque de la 93, Bogotá"
+      },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Ligue antes: o site não publica horário nem cover, e a casa tem três sedes com programação diferente.",
+        "É salsa de orquestra ao vivo, não DJ - diferente da Zona T genérica que já está no banco."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota",
+        "https://www.galeriacafelibro.com.co/",
+        "https://www.elespectador.com/entretenimiento/galeria-cafe-libro-prende-la-rumba-en-el-parque-de-la-93/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Sem horário, cover e consumo mínimo (não publicados no site oficial). Sem coordenada."
+    },
+    {
+      "nome": "Casa Quiebracanto - salsa no centro de Bogotá",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": ["salsa", "musica-ao-vivo", "vida-noturna", "centro-historico"],
+      "descricaoCurta": "Salsoteca do centro de Bogotá listada pela Alcaldía como um dos lugares para dançar salsa na cidade. Carrera 5 nº 17-76, perto da Candelaria.",
+      "descricaoLonga": "Carrera 5 nº 17-76, no centro de Bogotá, a poucas quadras da Candelaria. Aparece na lista oficial da Alcaldía de Bogotá de lugares para dançar salsa, junto com Galería Café Libro, El Bembé, Salsa Camará e Pachanga y Pochola. É a alternativa de centro ao circuito do norte (Zona T e Parque de la 93), com preço de bebida tipicamente menor. NÃO consegui confirmar horário, cover, telefone nem site - a página da Alcaldía dá só nome e endereço, e não achei segunda fonte confiável com esses dados.",
+      "duracao": { "min": 120, "tipica": 180, "max": 300 },
+      "contato": { "endereco": "Cra. 5 nº 17-76, Centro, Bogotá" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Combina com um dia na Candelaria: fica a pé do Museo del Oro e do centro histórico.",
+        "Volte de aplicativo. O centro de Bogotá à noite não é para andar a pé com celular na mão."
+      ],
+      "alertas": [
+        "Em Bogotá, as autoridades recomendam não parar táxi na rua à noite e usar aplicativo ou as Zonas Seguras demarcadas, por causa do 'paseo millonario'."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota",
+        "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Só nome e endereço confirmados (fonte oficial da Alcaldía). Sem horário, cover, telefone, site e coordenada."
+    },
+    {
+      "nome": "Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa",
+      "categoria": "bar",
+      "cidade": "bogota",
+      "tags": ["salsa", "musica-ao-vivo", "vida-noturna"],
+      "descricaoCurta": "Duas salsotecas de bairro na lista oficial da Alcaldía: Salsa Camará (Calle 71 nº 11-19, 2º piso) e Pachanga y Pochola (Carrera 27 nº 53-41, Galerías).",
+      "descricaoLonga": "Dois endereços que a Alcaldía de Bogotá cita na sua lista de onde dançar salsa: Salsa Camará, na Calle 71 nº 11-19, piso 2, na zona norte, e Pachanga y Pochola, na Carrera 27 nº 53-41, no bairro Galerías. São casas de bairro, fora do circuito de hotel da Zona T, e por isso costumam ser mais baratas - mas esse é raciocínio de perfil, não dado: NÃO consegui confirmar preço, cover, horário, telefone nem site de nenhuma das duas. A fonte oficial dá nome, endereço e bairro, e nada mais.",
+      "duracao": { "min": 120, "tipica": 180, "max": 300 },
+      "contato": { "endereco": "Salsa Camará: Cl. 71 nº 11-19, piso 2. Pachanga y Pochola: Cra. 27 nº 53-41, Galerías, Bogotá" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se a Zona T decepcionar (é a parte mais turística e mais caex da noite de Bogotá), estes dois endereços oficiais são o plano B.",
+        "Confirme por telefone ou rede social antes de sair: não há horário publicado."
+      ],
+      "alertas": [
+        "Em Bogotá, as autoridades recomendam não parar táxi na rua à noite e usar aplicativo ou as Zonas Seguras demarcadas, por causa do 'paseo millonario'."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota",
+        "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Só nome, endereço e bairro confirmados. Sem preço, horário, telefone, site e coordenada para as duas casas."
+    },
+    {
+      "nome": "Salsa al Parque 2026 - 28 e 29 de novembro, Parque Simón Bolívar",
+      "categoria": "experiencia",
+      "cidade": "bogota",
+      "tags": ["salsa", "musica-ao-vivo", "gratis", "festival"],
+      "descricaoCurta": "27ª edição do festival gratuito de salsa de Bogotá: 28 e 29 de novembro de 2026, no Parque Metropolitano Simón Bolívar, a partir das 13h. Entrada franca.",
+      "descricaoLonga": "Sábado 28 e domingo 29 de novembro de 2026, no Parque Metropolitano Simón Bolívar, em Teusaquillo, a partir das 13h, com entrada gratuita. É a 27ª edição e o tema anunciado é 'La revolución que nunca deja de sonar'. Organizado pelo Idartes (Instituto Distrital de las Artes), dentro da série Festivales al Parque, e descrito pelo portal oficial de turismo de Bogotá como um dos maiores festivais gratuitos dedicados ao gênero na América Latina, com salsa dura, timba, son e salsa romántica - orquestras consagradas, artistas nacionais e talento emergente. O cartaz nominal ainda NÃO estava publicado quando coletei; o próprio Idartes mantém a agenda em salsaalparque.gov.co.",
+      "duracao": { "min": 240, "tipica": 360, "max": 540 },
+      "horarios": { "sab": "13:00", "dom": "13:00" },
+      "melhorHorario": "28 e 29 de novembro de 2026, a partir das 13h.",
+      "contato": { "site": "https://visitbogota.co/en/events-calendar/salsa-al-parque-2026" },
+      "restricoes": { "dependeDeClima": true, "outras": ["Evento ao ar livre, em pé, em parque aberto"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se a viagem esticar até o fim de novembro, isto é salsa de graça num parque - o melhor custo-benefício de música da Colômbia inteira.",
+        "Bogotá a 2.640 m e chuva de tarde: leve capa de chuva e agasalho, não só camiseta."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://visitbogota.co/en/events-calendar/salsa-al-parque-2026",
+        "https://www.colombia.com/turismo/noticias/programacion-de-los-al-parque-en-bogota-2026-576706",
+        "https://newsroom.rcnradio.com/colombia/festivales-en-bogota-2026-cuales-son-las-fechas-y-lugares-confirmados-por-la-alcaldia"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Datas, local, horário de início e gratuidade confirmados pelo portal oficial de turismo de Bogotá. Cartaz nominal não publicado na data da coleta. Sem coordenada do palco."
+    },
+    {
+      "nome": "Parapente em San Félix (Bello) - voo sobre o Vale de Aburrá",
+      "categoria": "experiencia",
+      "cidade": "medellin",
+      "tags": ["parapente", "aventura", "mirante"],
+      "descricaoCurta": "Voo duplo de parapente na rampa de San Félix, no km 6 da via Medellín-San Pedro (Bello), com vista do Vale de Aburrá. Voo curto de ~30 min.",
+      "descricaoLonga": "A rampa fica no km 6 da via Medellín-San Pedro, em San Félix, município de Bello - bate-volta de Medellín, cerca de 45-60 min de carro do centro conforme o trânsito. O operador Parapente San Félix diz ter mais de 10 anos de mercado, certificações de qualidade turística e pilotos com os alvarás exigidos para a atividade. Duas modalidades aparecem nas plataformas de reserva para 2026: um voo de 30 minutos a partir de 58 EUR (disponível de 10/07 a 11/11/2026) e uma experiência de ~3 horas no total a partir de 95,32 EUR (13/06 a 13/12/2026). NÃO achei preço publicado em pesos colombianos direto com o operador, nem peso máximo, idade mínima oficial ou política de cancelamento por vento - só a faixa em euros das plataformas.",
+      "duracao": { "min": 150, "tipica": 240, "max": 330 },
+      "preco": {
+        "moeda": "EUR",
+        "min": 58,
+        "max": 96,
+        "por": "pessoa",
+        "inclui": "Voo duplo com piloto e equipamento. 58 EUR = voo de 30 min; a partir de 95,32 EUR = experiência de ~3 h (inclui deslocamento e espera).",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.atrapalo.com/actividades/vuelo-en-parapente-sobre-medellin-y-el-valle-de-aburra_e4942418/",
+          "https://www.atrapalo.com/actividades/vuelo-en-parapente-por-medellin_e4929348/"
+        ]
+      },
+      "melhorHorario": "Manhã, quando o vento é mais estável. Confirme a janela com o operador no dia anterior.",
+      "contato": { "endereco": "Km 6 via Medellín-San Pedro, San Félix, Bello, Antioquia" },
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "baixo",
+        "outras": ["Voo cancelado ou remarcado por vento forte, chuva ou teto baixo", "Peso máximo e idade mínima não confirmados: pergunte ao reservar"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 2 },
+      "dicasAgente": [
+        "O preço em euro é de plataforma de revenda: ligando direto para operadores locais o valor em peso tende a ser menor. Pechinche, mas confirme a certificação.",
+        "Conte a manhã inteira, não 30 minutos: o voo é curto, a subida até a rampa e a espera por vento não são."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.atrapalo.com/actividades/vuelo-en-parapente-sobre-medellin-y-el-valle-de-aburra_e4942418/",
+        "https://www.atrapalo.com/actividades/vuelo-en-parapente-por-medellin_e4929348/",
+        "https://www.civitatis.com/es/san-felix/vuelo-parapente-medellin-valle-aburra/",
+        "https://colombiamove.com/blog/es/paragliding-colombia-medellin-san-gil-guide/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Bate-volta de Medellín (~45-60 min de carro até Bello). Preço só em EUR, de plataforma de revenda. Sem preço em COP direto do operador, sem telefone, sem peso máximo/idade mínima oficiais, sem coordenada da rampa."
+    },
+    {
+      "nome": "Rafting classe III-IV perto de Medellín (Río Claro e Santo Domingo)",
+      "categoria": "passeio",
+      "cidade": "medellin",
+      "tags": ["rafting", "aventura", "rio", "bate-volta"],
+      "descricaoCurta": "Rafting de corredeiras classe III e IV nos rios de Cocorná e no Río Claro, bate-volta de Medellín (1h30 de carro). Dia inteiro, com busca em El Poblado.",
+      "descricaoLonga": "Bate-volta de Medellín: cerca de 1h30 de carro até Cocorná, no oriente antioqueño. Três produtos aparecem nas plataformas: corredeiras classe III e IV no Río Calderas (aprox. 3 h de rio, com busca em Medellín); o Río Santo Domingo, descrito como de corrente mais tranquila e indicado para quem nunca remou; e o Río Claro, de dia inteiro, cerca de 7 km em ~4 h, com busca às 6h nos hotéis do Poblado e opção combinada com espeleologia. Os preços publicados são altos e variam muito: um dos pacotes privativos de classe IV sai a partir de USD 296,64 e o dia no Río Claro aparece a USD 299 - são valores de tour privativo ou de pacote com caverna, NÃO o preço de uma vaga em bote compartilhado. Procurei preço por pessoa em grupo compartilhado e em pesos colombianos e NÃO achei em fonte confiável.",
+      "duracao": { "min": 360, "tipica": 600, "max": 780 },
+      "pontoPartida": "Hotéis de El Poblado, Medellín (busca às 6h nos pacotes de dia inteiro)",
+      "melhorHorario": "Saída de manhã cedo (6h nos pacotes de dia inteiro).",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "condicionamento": "medio",
+        "outras": ["Nível do rio depende de chuva; novembro é mês chuvoso no oriente antioqueño", "Saber nadar; idade mínima varia por operador e não foi confirmada"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 3 },
+      "dicasAgente": [
+        "Para perfil econômico, cheque se o operador vende vaga em bote compartilhado: os preços que achei são de tour privativo e distorcem o orçamento.",
+        "É um dia inteiro fora de Medellín. Não dá para somar com Comuna 13 ou Guatapé no mesmo dia."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://civitatis.com/en/medellin/rafting-santo-domingo-river",
+        "https://civitatis.com/en/medellin/rafting-down-claro-river",
+        "https://www.wetravel.com/trips/unforgettable-rafting-from-medellin-the-best-class-iv-river-expedition-ecoventure-sas-42456261"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço OMITIDO de propósito: os valores encontrados (USD 296-299) são de tour privativo ou pacote com espeleologia e não representam uma vaga compartilhada. Sem idade mínima, sem telefone de operador local, sem coordenada."
+    },
+    {
+      "nome": "Caiaque no embalse de Guatapé",
+      "categoria": "experiencia",
+      "cidade": "medellin",
+      "tags": ["caiaque", "aventura", "natureza", "bate-volta"],
+      "descricaoCurta": "Remar de caiaque pelas enseadas do embalse de Guatapé, bate-volta de ~2h de carro de Medellín. Alternativa calma (e mais barata) à lancha do malecón.",
+      "descricaoLonga": "O embalse de Guatapé é um dos reservatórios mais conhecidos da Colômbia, formado pela represa do Río Nare, e Guatapé é bate-volta de cerca de 2 horas de carro a leste de Medellín. Há aluguel de caiaque e tour guiado remando pelas enseadas do lago, com paradas nos pontos de vista. Para comparar com o que já está no banco: a lancha de uma hora saindo da margem leste custa por volta de 60.000 COP por adulto e trechos mais longos chegam a ~90.000 COP/hora (menores de 12 anos ~30.000 COP/hora); a entrada da Piedra del Peñol é 35.000 COP para estrangeiro. NÃO achei preço publicado do caiaque em si, em peso ou em outra moeda, em fonte confiável - por isso este item vai sem campo de preço.",
+      "duracao": { "min": 60, "tipica": 120, "max": 180 },
+      "melhorHorario": "Manhã, antes de o vento subir no lago e antes da fila da Piedra del Peñol.",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "medio",
+        "outras": ["Saber nadar; colete obrigatório"]
+      },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Encaixe no mesmo dia da Piedra del Peñol e da vila de Guatapé, que já estão no banco: o lago é o mesmo.",
+        "Pergunte o preço do caiaque no malecón, na hora. Não há tabela publicada e a lancha é bem mais caex."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.civitatis.com/en/guatape/reservoir-kayak-tour/",
+        "https://colombiamove.com/blog/es/guatape-colombia-travel-guide/",
+        "https://kwx.liehendr.com/content/wikivoyage_en_all_maxi_2025-02/A/Guatape"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço do caiaque NÃO encontrado: campo omitido. Os valores de lancha e da Piedra citados na descrição são referência de comparação, não o preço deste item. Sem telefone de operador e sem coordenada."
+    },
+    {
+      "nome": "Kitesurf em La Boquilla (Cartagena)",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["kitesurf", "aventura", "praia"],
+      "descricaoCurta": "Aula particular de kitesurf na praia de La Boquilla, ~20 min do centro de Cartagena. Curso básico de 9 h feito em 3 ou 4 dias; equipamento e instrutor incluídos.",
+      "descricaoLonga": "La Boquilla é o ponto de kitesurf de Cartagena, cerca de 20 minutos ao norte do centro histórico, e é um spot reconhecido nos fóruns de kite pela brisa constante da temporada seca do Caribe colombiano. Há escolas locais (Nativo Kite é uma delas) e instrutores particulares; o ponto de encontro de uma das operações é a Carrera 3 nº 39-21. A estrutura de curso que achei publicada: aula particular de 1 h por USD 76,14; pacote de 6 h por USD 380,72; curso básico de 9 h por USD 643,29, normalmente dividido em 3 ou 4 dias. Todas incluem equipamento completo, colete e instrutor bilíngue. Uma segunda fonte dá a faixa larga de USD 50 a USD 250 conforme a duração. ATENÇÃO: novembro é fim da temporada de chuva no Caribe colombiano e o vento forte firme começa tipicamente em dezembro - NÃO achei dado oficial de vento por mês para La Boquilla, então não garanta condição de kite em novembro.",
+      "duracao": { "min": 60, "tipica": 180, "max": 360 },
+      "preco": {
+        "moeda": "USD",
+        "min": 76,
+        "max": 643,
+        "por": "pessoa",
+        "inclui": "Aula particular com equipamento completo, colete e instrutor bilíngue. 1 h = USD 76,14; 6 h = USD 380,72; 9 h (curso básico) = USD 643,29.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.expedia.com/things-to-do/cartagena-private-kitesurfing-classes.a4820500.activity-details",
+          "https://nuevalengua.com/en/?p=1367"
+        ]
+      },
+      "melhorHorario": "Começo da tarde, quando a brisa do mar entra.",
+      "contato": { "endereco": "La Boquilla, Cartagena (ponto de encontro de uma das escolas: Cra. 3 nº 39-21)" },
+      "restricoes": {
+        "dependeDeClima": true,
+        "condicionamento": "medio",
+        "outras": ["Saber nadar", "Vento insuficiente cancela a aula; novembro ainda é mês de transição no Caribe colombiano"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 2 },
+      "dicasAgente": [
+        "Para 10-12 dias de viagem, a aula de 1 h é um gosto; o curso de 9 h come três tardes e um pedaço grande do orçamento.",
+        "La Boquilla é povoado de pescadores e já tem o passeio de canoa pelo manguezal no banco: dá para juntar os dois no mesmo dia."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.expedia.com/things-to-do/cartagena-private-kitesurfing-classes.a4820500.activity-details",
+        "https://nuevalengua.com/en/?p=1367",
+        "https://se.kiteforum.com/kitesurf/spot/la_boquilla",
+        "https://infobae.com/en/2022/04/04/kitesurf-the-alternative-plan-being-taken-to-the-beaches-of-cartagena"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço em USD de plataforma de revenda; não achei tabela em COP direto com escola local. Não achei dado oficial de vento por mês para novembro. Sem telefone, site e coordenada."
+    },
+    {
+      "nome": "Mergulho com cilindro nas Islas del Rosario (Diving Planet)",
+      "categoria": "experiencia",
+      "cidade": "cartagena",
+      "tags": ["mergulho", "aventura", "recife"],
+      "descricaoCurta": "Mergulho autônomo nos recifes do Parque Nacional Corales del Rosario, a 50 min do centro de Cartagena. Centro PADI 5 estrelas na Plaza de San Diego.",
+      "descricaoLonga": "Os pontos de mergulho de Cartagena ficam nas Islas del Rosario, arquipélago do Parque Nacional Natural Corales del Rosario y de San Bernardo, a cerca de 50 minutos de barco do centro histórico. Segundo a ProColombia, os destaques são o naufrágio de San Martín de Pajarales, o cantil da Isla Pavitos e a Isla Gloria, com profundidades de 10 a 40 metros. Escolas citadas: Diving Planet (centro PADI 5 estrelas, Plaza de San Diego - Calle 39 nº 8-24), La Tortuga e Cartagena Divers, com cursos de iniciante a avançado e saídas para quem nunca mergulhou. REGRA DE AGENDA: depois de mergulho com cilindro não se voa nas horas seguintes - o mínimo da DAN é 12 h após um mergulho e 18 h após mergulhos repetidos. Com voo saindo de Cartagena, o mergulho precisa de um dia de folga antes do embarque. NÃO achei tabela de preço em pesos nem em dólar direto com os centros; o único valor que encontrei (a partir de 92,62 EUR) é de um mini-curso com pasadía em Playa Tranquila, Barú, vendido por plataforma - produto diferente de uma saída de dois mergulhos certificados.",
+      "duracao": { "min": 300, "tipica": 480, "max": 600 },
+      "melhorHorario": "Saída de manhã; o mar do Rosario fica mais mexido à tarde.",
+      "contato": { "endereco": "Diving Planet: Plaza de San Diego, Calle 39 nº 8-24, Centro Histórico, Cartagena" },
+      "restricoes": {
+        "dependeDeClima": true,
+        "condicionamento": "medio",
+        "naoVoarDepoisHoras": 18,
+        "outras": [
+          "Não voar nas 12 h seguintes a um mergulho e nas 18 h seguintes a mergulhos repetidos (mínimo DAN)",
+          "Certificação exigida para fun dive; sem certificado, só batismo/Discover Scuba com instrutor",
+          "Seguro de acidentes do Parque Nacional é obrigatório na área do Rosario"
+        ]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 3 },
+      "dicasAgente": [
+        "Não marque mergulho no dia anterior a um voo: a regra das 18 h é de segurança, não de etiqueta.",
+        "San Andrés tem recife melhor e normalmente mais barato. Se a viagem passa pelas duas, mergulhe lá e use Cartagena para festa e história."
+      ],
+      "alertas": [
+        "Mergulho e voo no mesmo dia (ou com menos de 18 h entre eles) é risco de doença descompressiva; este item trava o dia anterior a qualquer trecho aéreo."
+      ],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://colombia.travel/es/cartagena/buceo-en-cartagena",
+        "https://www.padi.com/es/centro-buceo/colombia/diving-planet/",
+        "https://all.accor.com/a/es/limitless/thematics/sports-events-activities/buceo-en-cartagena-explora-las-islas-del-rosario.html"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço OMITIDO: não achei tabela dos centros de Cartagena. O único valor encontrado é de outro produto (mini-curso com pasadía em Barú, a partir de 92,62 EUR). Sem telefone, site e coordenada."
+    },
+    {
+      "nome": "Snorkel pelas baías do Tayrona por mar (Cinto, Cristal e Concha)",
+      "categoria": "passeio",
+      "cidade": "santa-marta",
+      "tags": ["snorkel", "praia", "natureza", "barco"],
+      "descricaoCurta": "Saída de barco da Marina de Santa Marta para mergulhar de máscara e snorkel nas baías do Tayrona. Sem cilindro: não trava voo. ~170 mil COP no roteiro Neguanje.",
+      "descricaoLonga": "Saídas de barco da Marina Internacional de Santa Marta, por volta das 8h30, percorrendo as baías do Parque Tayrona pelo mar - Cinto, Playa Cristal e Bahía Concha - com paradas para snorkel (máscara e respirador, SEM cilindro) nos melhores pontos de recife, onde se vê peixe de recife e tartaruga. Há roteiros de dia inteiro (~9 h) e versões mais curtas. Preço encontrado para o roteiro Neguanje + Playa Cristal: 170.000 COP por adulto. Uma operação de barco a vela cobra USD 60 por adulto com base em Bahía Concha. ATENÇÃO de calendário: o Parque Tayrona fecha em períodos determinados pelos povos indígenas, e o banco já registra o fechamento de 19/10 a 02/11/2026 - confira a data antes de agendar. Este item é snorkel de superfície: NÃO tem restrição de não voar.",
+      "duracao": { "min": 300, "tipica": 480, "max": 600 },
+      "pontoPartida": "Marina Internacional de Santa Marta (saída por volta das 8h30)",
+      "preco": {
+        "moeda": "COP",
+        "min": 170000,
+        "max": 170000,
+        "por": "pessoa",
+        "inclui": "Transporte de barco, snorkel nas baías e almoço à beira-mar no roteiro Neguanje + Playa Cristal. Ingresso do Parque Tayrona e seguro podem ser cobrados à parte.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.nomades.com/santa-marta/neguanje-playa-cristal-id978"
+        ]
+      },
+      "melhorHorario": "Saída de manhã (8h30): o mar vira à tarde e a visibilidade cai.",
+      "contato": { "endereco": "Marina Internacional de Santa Marta" },
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "baixo",
+        "outras": [
+          "Saber nadar; colete disponível",
+          "Snorkel de superfície, sem cilindro: não exige certificação e não impede voar depois",
+          "Parque Tayrona tem fechamentos anuais definidos pelos povos indígenas; confira a data"
+        ]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 2 },
+      "dicasAgente": [
+        "Este é o jeito de ver as praias do Tayrona sem a caminhada de 2 h no calor - e vê três baías num dia.",
+        "Preço vem de uma fonte só (170 mil COP). Peça dois ou três orçamentos na marina antes de fechar."
+      ],
+      "alertas": [
+        "Fechamentos programados do Parque Tayrona podem cancelar o passeio: o banco já registra o período de 19/10 a 02/11/2026."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.nomades.com/santa-marta/neguanje-playa-cristal-id978",
+        "https://www.pelago.com/en-US/activity/pgckiczpe-snorkeling-with-local-people-in-tayrona-national-park-santa-marta/",
+        "https://www.calendariodecolombia.com/turismo/guia-para-visitar-el-parque-nacional-natural-tayrona-en-2026-horarios-precios-y-consejos-para-una-experiencia-unica"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço de uma fonte só, para um roteiro específico (Neguanje + Playa Cristal). Não achei se o ingresso do Tayrona está incluído. Sem telefone de operador e sem coordenada."
+    },
+    {
+      "nome": "Batismo de mergulho (Discover Scuba) em San Andrés",
+      "categoria": "experiencia",
+      "cidade": "san-andres",
+      "tags": ["mergulho", "aventura", "recife"],
+      "descricaoCurta": "Primeiro mergulho com cilindro e instrutor em San Andrés, sem certificação. Mini-curso em torno de USD 100. Trava o voo pelas 18 h seguintes.",
+      "descricaoLonga": "San Andrés faz parte da terceira maior barreira de coral do mundo e tem mais de 40 pontos de mergulho, com centros PADI na ilha (San Andrés Divers, Divers Team, Sea Pride) e saídas diárias de dois ou três mergulhos. Para quem não tem certificação existe o batismo/mini-curso com instrutor. Faixa de preço encontrada para a ilha: 1 mergulho USD 80, 2 mergulhos USD 100, mini-curso USD 100, curso Open Water USD 300 e avançado USD 350. REGRA DE AGENDA, a mais importante deste item: o mínimo da DAN é não voar nas 12 h seguintes a um mergulho e nas 18 h seguintes a mergulhos repetidos. Como San Andrés só se sai de avião (ADZ), o mergulho tem de ficar com pelo menos um dia inteiro de folga antes do voo de volta. NÃO consegui confirmar a tabela com nenhum centro no site oficial: o site antigo de um deles redireciona para outro domínio, e os valores acima vêm de um guia de terceiros.",
+      "duracao": { "min": 180, "tipica": 240, "max": 360 },
+      "preco": {
+        "moeda": "USD",
+        "min": 80,
+        "max": 100,
+        "por": "pessoa",
+        "inclui": "1 mergulho USD 80; 2 mergulhos USD 100; mini-curso/batismo USD 100. Equipamento e instrutor. Faixa de guia de terceiros, não confirmada por centro oficial.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/"
+        ]
+      },
+      "melhorHorario": "Saída de manhã. Nunca no dia anterior ao voo de volta.",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "condicionamento": "baixo",
+        "naoVoarDepoisHoras": 18,
+        "outras": [
+          "Não voar nas 12 h seguintes a um mergulho e nas 18 h seguintes a mergulhos repetidos (mínimo DAN)",
+          "Questionário médico obrigatório; problema cardíaco, respiratório ou de ouvido pode impedir",
+          "Batismo não dá certificação"
+        ]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 2 },
+      "dicasAgente": [
+        "Coloque o mergulho no começo da estadia em San Andrés, não no fim: a regra das 18 h já estragou a volta de muita gente.",
+        "Água clara e recife raso fazem de San Andrés o melhor lugar da Colômbia para o primeiro mergulho da vida."
+      ],
+      "alertas": [
+        "San Andrés só tem saída aérea: um mergulho com cilindro no penúltimo dia pode conflitar com o voo de volta pela regra das 18 h."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.padi.com/es/diving-in/san-andres-providencia-y-santa-catalina/",
+        "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/",
+        "https://www.padi.com/es/centro-buceo/colombia/san-andres-divers/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Tabela de preço NÃO confirmada por centro oficial (o site sanandresdivers.com redireciona para portofinocaribe.com). Sem telefone, site, horário de saída e coordenada."
+    },
+    {
+      "nome": "Mergulhar em San Andrés e voar embora: a regra das 18 horas",
+      "categoria": "experiencia",
+      "cidade": "san-andres",
+      "tags": ["mergulho", "seguranca", "logistica", "referencia"],
+      "descricaoCurta": "Cartão de referência: depois de mergulho com cilindro não se voa por 12 h (um mergulho) ou 18 h (mergulhos repetidos). Em ilha com saída só aérea, isso é um dia de agenda.",
+      "descricaoLonga": "O intervalo mínimo recomendado pela DAN (Divers Alert Network) entre o último mergulho com cilindro e um voo é de 12 horas depois de um único mergulho e de 18 horas depois de mergulhos repetidos ou de vários dias de mergulho. A pressão da cabine de um avião comercial equivale a estar a cerca de 2.000-2.400 m de altitude, e subir cedo demais depois de mergulhar aumenta o risco de doença descompressiva. Por que isso é um problema de roteiro e não só de saúde: San Andrés só se sai de avião, pelo aeroporto Gustavo Rojas Pinilla (ADZ). Um dia de mergulho no penúltimo dia da ilha pode inviabilizar um voo da manhã seguinte. O mesmo vale para Cartagena e Santa Marta quando o trecho seguinte é aéreo. REGRA PRÁTICA: coloque mergulho com cilindro no primeiro ou no segundo dia da base, nunca no último. Isto vale SÓ para mergulho com cilindro: snorkel, flutuação, praia e passeio de barco não têm essa restrição.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se você só mergulhar uma vez, 12 h bastam pela DAN; com dois ou mais mergulhos, conte 18 h. Na dúvida, use 18.",
+        "Snorkel NÃO entra nesta regra. Não cancele um snorkel por medo de voo."
+      ],
+      "alertas": [
+        "Voar com menos de 12-18 h depois de mergulho com cilindro é risco de doença descompressiva, reconhecido pela DAN."
+      ],
+      "agendavel": false,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.padi.com/es/diving-in/san-andres-providencia-y-santa-catalina/",
+        "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência: não se agenda e por isso NÃO carrega o campo naoVoarDepoisHoras (que significa 'esta atividade é um mergulho'). Não abri a página da DAN diretamente; os números de 12 h e 18 h vêm das fontes de mergulho citadas."
+    },
+    {
+      "nome": "Sendero da Quebrada La Vieja - trilha nos Cerros Orientales",
+      "categoria": "natureza",
+      "cidade": "bogota",
+      "tags": ["trilha", "natureza", "gratis", "mirante"],
+      "descricaoCurta": "Trilha gratuita na reserva florestal dos Cerros Orientales, em Chapinero. Agendamento obrigatório pelo app do Acueducto. Ter-sex 6h30-11h, fim de semana 6h30-12h.",
+      "descricaoLonga": "A Quebrada La Vieja fica em Chapinero e integra a Reserva Forestal Protectora Bosque Oriental de Bogotá, administrada pela Empresa de Acueducto y Alcantarillado de Bogotá (EAAB). A visita tem horário fixo: terça a sexta das 6h30 às 11h e fins de semana e feriados das 6h30 às 12h. O agendamento é obrigatório e totalmente GRATUITO, feito pelo aplicativo 'Caminos de los Cerros Orientales' ou pelo site caminos.eaab.gov.co. É a trilha de floresta mais acessível de Bogotá - sai do meio da cidade e sobe para mata nativa a 2.700-3.000 m. ATENÇÃO: há fechamentos por manutenção e mudanças de horário; a própria Alcaldía recomenda verificar antes de se cadastrar. NÃO achei a extensão oficial em km nem o desnível da trilha.",
+      "duracao": { "min": 90, "tipica": 150, "max": 240 },
+      "horarios": {
+        "ter": "06:30-11:00",
+        "qua": "06:30-11:00",
+        "qui": "06:30-11:00",
+        "sex": "06:30-11:00",
+        "sab": "06:30-12:00",
+        "dom": "06:30-12:00"
+      },
+      "diasFechados": ["seg"],
+      "melhorHorario": "Entrar às 6h30: o portão fecha às 11h (dia de semana) ou 12h (fim de semana) e não há reentrada.",
+      "contato": { "site": "https://caminos.eaab.gov.co/" },
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "medio",
+        "outras": [
+          "Agendamento prévio obrigatório pelo app ou site do Acueducto (gratuito)",
+          "Altitude acima de 2.700 m: sobe devagar no primeiro dia em Bogotá",
+          "Fechamentos por manutenção acontecem: confirme antes"
+        ]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 3, "link": "https://caminos.eaab.gov.co/" },
+      "dicasAgente": [
+        "Vale cada peso porque é de graça: natureza de verdade a 20 minutos do centro de Bogotá, com vaga agendada.",
+        "Faça depois de dois ou três dias na cidade, não no primeiro: 3.000 m com pressa dá dor de cabeça."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/habitat/pasos-para-agendar-cita-para-visitar-los-senderos-de-bogota-2024",
+        "https://bogota.gov.co/en/node/192194",
+        "https://bogota.gov.co/mi-ciudad/habitat/bogota-asi-puedes-visitar-este-mes-el-sendero-de-la-quebrada-la-vieja"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Horário e gratuidade confirmados em fonte oficial (bogota.gov.co). Sem extensão em km, sem desnível e sem coordenada da entrada."
+    },
+    {
+      "nome": "Escalada em rocha em Suesca (bate-volta de Bogotá)",
+      "categoria": "experiencia",
+      "cidade": "bogota",
+      "tags": ["escalada", "aventura", "trilha", "bate-volta"],
+      "descricaoCurta": "O berço da escalada na Colômbia: paredões de até 120 m e mais de 400 vias, a 59 km ao norte de Bogotá. Dia guiado com equipamento a partir de USD 36 por pessoa.",
+      "descricaoLonga": "Suesca fica 59 km ao norte de Bogotá (bate-volta de cerca de 1h30 de carro) e é considerada o berço da escalada em rocha na Colômbia: os paredões de arenito chegam a 120 m de altura e há mais de 400 vias catalogadas, de iniciante a avançado. Preços de dia guiado publicados por empresa de guias: dia de escalada multi-pitch a USD 36 por pessoa em grupos de 6 a 15 e USD 25 em grupos de 16 a 30; dia multiatividade (espeleologia + escalada + rapel) a USD 50 por pessoa em grupos de 6 a 15 e USD 41 em grupos de 16 a 30. Os valores incluem guia, capacete, sapatilha, cadeirinha, seguro médico e refeições. ATENÇÃO: esses preços são por pessoa em GRUPO GRANDE; para dois adultos o valor por cabeça é maior e NÃO achei a tabela de dupla. Também existem tours de 8 h saindo de Bogotá com transporte incluído, cujo preço não confirmei. Suesca não é base do banco: entra como item de Bogotá, com bate-volta de ~1h30 de carro.",
+      "duracao": { "min": 420, "tipica": 540, "max": 660 },
+      "preco": {
+        "moeda": "USD",
+        "min": 25,
+        "max": 50,
+        "por": "pessoa",
+        "inclui": "Guia, capacete, sapatilha, cadeirinha, seguro médico e refeições. Faixa válida para grupos de 6 a 30 pessoas; para dupla o valor por pessoa é maior e não foi confirmado. Transporte de Bogotá não incluído.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.explore-share.com/es/trip/escalada-multilargos-dia-en-las-rocas-en-suesca-colombia/",
+          "https://www.explore-share.com/es/trip/dia-multiactividad-suesca-espeleologia-escalada-en-roca-rapel/"
+        ]
+      },
+      "melhorHorario": "Saída de Bogotá de manhã cedo; a rocha pega sol e vento à tarde.",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "alto",
+        "outras": ["Chuva cancela: rocha molhada não se escala", "Altitude ~2.600 m"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 5 },
+      "dicasAgente": [
+        "O preço só é barato em grupo. Para dois adultos, peça o orçamento de dupla antes de contar com USD 36.",
+        "Perfil intenso: é um dia inteiro fora de Bogotá, não combina com Monserrate nem com Zipaquirá no mesmo dia."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.explore-share.com/es/trip/escalada-en-roca-suesca/",
+        "https://www.explore-share.com/es/trip/escalada-multilargos-dia-en-las-rocas-en-suesca-colombia/",
+        "https://www.explore-share.com/es/trip/dia-multiactividad-suesca-espeleologia-escalada-en-roca-rapel/",
+        "https://canaltrece.com.co/regiones/cundinamarca/que-hacer-en-cundinamarca-escala-y-descubre-en-suesca/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Bate-volta de Bogotá (~1h30 de carro, 59 km). Preço por pessoa válido só para grupo grande; sem tabela de dupla. Sem telefone de guia local, sem coordenada."
+    },
+    {
+      "nome": "Trilha e cachoeira da Quebrada Valencia",
+      "categoria": "experiencia",
+      "cidade": "palomino",
+      "tags": ["trilha", "natureza", "cachoeira", "aventura"],
+      "descricaoCurta": "Caminhada curta de baixa dificuldade na mata caribenha da Sierra Nevada até a cachoeira da Quebrada Valencia, com poços para nadar. Guia local, ~5 h no total.",
+      "descricaoLonga": "Reserva natural na mata úmida caribenha da Sierra Nevada, a cerca de 1 hora de Santa Marta e muito perto de Palomino, pela Troncal del Caribe. O passeio guiado funciona assim: o guia busca em Palomino e leva de moto até o início da trilha, depois são cerca de 25 minutos de caminhada ecológica de baixa dificuldade, com explicação de flora e fauna, até a cachoeira e os poços naturais, onde há tempo para nadar e descansar. Duração total do pacote: 5 horas, com horários de 8h-13h, 9h-14h e 10h-15h. Preço publicado por operador local, por pessoa e por tamanho de grupo: USD 73 (1 a 4 pessoas), USD 68 (5 a 7) e USD 63 (8 a 10). Inclui busca na área urbana, transporte e guia em espanhol; refeições NÃO incluídas. Esse valor é de pacote com busca - a entrada da reserva por conta própria é bem mais barata, mas NÃO achei o valor do ingresso avulso em fonte confiável.",
+      "duracao": { "min": 240, "tipica": 300, "max": 360 },
+      "pontoPartida": "Hospedagem em Palomino (área urbana), com transporte incluído",
+      "horarios": {
+        "seg": "08:00-15:00",
+        "ter": "08:00-15:00",
+        "qua": "08:00-15:00",
+        "qui": "08:00-15:00",
+        "sex": "08:00-15:00",
+        "sab": "08:00-15:00",
+        "dom": "08:00-15:00"
+      },
+      "preco": {
+        "moeda": "USD",
+        "min": 63,
+        "max": 73,
+        "por": "pessoa",
+        "inclui": "Busca na área urbana, transporte, guia em espanhol e entrada. Refeições não incluídas. USD 73 para 1-4 pessoas, USD 68 para 5-7, USD 63 para 8-10.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.nomades.com/palomino/caminata-cascada-valencia-id1586"
+        ]
+      },
+      "melhorHorario": "Saída das 8h: menos calor na trilha e poços mais vazios.",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "baixo",
+        "outras": ["Trilha pode ficar escorregadia depois de chuva", "Nível do rio sobe rápido em chuva forte na Sierra"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 1 },
+      "dicasAgente": [
+        "USD 73 para dois adultos é caro para 25 minutos de trilha. Pergunte na vila o preço de ir por conta própria de colectivo pela Troncal - a reserva cobra entrada e tem guia na porta.",
+        "Combina no mesmo dia com o tubing do rio Palomino, que já está no banco: os dois são de meio dia."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.nomades.com/palomino/caminata-cascada-valencia-id1586",
+        "https://es.ncl.com/shore-excursions/SMR_02/Quebrada-Valencia-Ecological-Expedition",
+        "https://www.komoot.com/highlight/1096562"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço só do pacote com busca, de uma fonte. NÃO achei o valor do ingresso avulso da reserva. Horário é a janela do pacote, não o horário da reserva. Sem telefone e sem coordenada."
+    },
+    {
+      "nome": "Cavalgada, bike e rapel em Villa de Leyva",
+      "categoria": "experiencia",
+      "cidade": "villa-de-leyva",
+      "tags": ["cavalgada", "bicicleta", "aventura", "trilha"],
+      "descricaoCurta": "Cavalgada de ~1h45 pelos cinco Pozos Azules, bike de montanha pelos caminhos de pedra e pacotes com rapel. Cavalgada a partir de ~187 mil COP por pessoa.",
+      "descricaoLonga": "Os Pozos Azules ficam a 3 km do centro de Villa de Leyva e se alcançam a pé, de bicicleta ou a cavalo. A cavalgada típica dura cerca de 1 hora e 45 minutos, dando a volta nos cinco poços turquesa, pela paisagem árida com pinheiros e acácias; o preço publicado parte de aproximadamente 186.984 COP por pessoa (valor convertido pela plataforma, não tabela de operador local). Há também mountain bike pelos caminhos de pedra que correm pelos cumes e vales ao redor da vila, e pacotes de aventura de dois dias que juntam rapel e cavalgada com entradas para Pozos Azules e Museo El Fósil. NÃO achei preço de aluguel de bike por dia na vila, nem tabela de rapel avulso, nem telefone de operador local - só os pacotes de plataforma.",
+      "duracao": { "min": 105, "tipica": 180, "max": 300 },
+      "preco": {
+        "moeda": "COP",
+        "min": 186984,
+        "max": 186984,
+        "por": "pessoa",
+        "inclui": "Cavalgada de ~1h45 com guia pelos cinco Pozos Azules. Valor convertido por plataforma de reserva, não tabela de operador local. Bike e rapel não incluídos.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.civitatis.com/mx/villa-de-leyva/paseo-caballo-pozos-azules/",
+          "https://www.atrapalo.com.ar/actividades/paseo-a-caballo-por-los-pozos-azules_e4942353/"
+        ]
+      },
+      "melhorHorario": "Fim da tarde: a luz baixa deixa a água dos poços mais azul e o sol do altiplano é forte ao meio-dia.",
+      "contato": {},
+      "restricoes": {
+        "dependeDeClima": true,
+        "dependeDeLuzDoDia": true,
+        "condicionamento": "baixo",
+        "outras": ["Altitude ~2.140 m", "Idade mínima e peso máximo para a cavalgada não confirmados"]
+      },
+      "reserva": { "necessaria": true, "antecedenciaDias": 1 },
+      "dicasAgente": [
+        "187 mil COP por pessoa é preço de plataforma. Na própria entrada dos Pozos Azules há cavalo alugado por bem menos - pergunte no local antes de reservar pela internet.",
+        "Alugar bike na vila resolve Pozos Azules, El Fósil e Casa Terracota num dia só, e todos já estão no banco."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.civitatis.com/mx/villa-de-leyva/paseo-caballo-pozos-azules/",
+        "https://www.atrapalo.com.ar/actividades/paseo-a-caballo-por-los-pozos-azules_e4942353/",
+        "https://colombia.travel/es/villa-de-leyva",
+        "https://www.diariodelsur.com.co/?p=415095"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço só da cavalgada e só de plataforma de revenda. Sem preço de aluguel de bike, sem tabela de rapel avulso, sem telefone de operador e sem coordenada."
+    },
+    {
+      "nome": "Corrientazo: o almoço do dia e quanto ele custa de verdade em 2026",
+      "categoria": "restaurante",
+      "cidade": "bogota",
+      "tags": ["corrientazo", "comida-local", "barato", "referencia"],
+      "descricaoCurta": "Cartão de referência: o almoço executivo colombiano (sopa + seco + suco). Média nacional de 17.542 COP em janeiro de 2026, com alta de 10,7% em um ano.",
+      "descricaoLonga": "O 'corrientazo' é o almoço do dia dos restaurantes de bairro colombianos: sopa, prato principal (arroz, feijão ou lentilha, proteína, salada, banana-da-terra) e suco, servido só na hora do almoço, normalmente das 12h às 15h. Números de 2026: a média nacional do corrientazo em janeiro de 2026 ficou em 17.542 COP, alta de 1.871 COP (10,7%) sobre o mesmo mês de 2025. Em Bogotá a faixa praticada vai de 14.000 a 18.000 COP, com zonas comerciais e empresariais partindo de 16.000 e chegando a 26.000 COP. A faixa nacional ampla relatada é de 15.000 a 30.000 COP. Até junho de 2026, a divisão de restaurantes e hotéis acumulou variação anual de 9,59% e o item de comidas em estabelecimentos de serviço à mesa subiu 9,75% no ano. POR QUE ISSO IMPORTA no orçamento: dois adultos almoçando de corrientazo gastam cerca de 35 mil COP por dia, contra 120 mil ou mais num restaurante de zona turística. É a alavanca de economia mais simples da viagem inteira.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Pergunte 'hay corrientazo?' ou 'menú del día?'. Se não estiver escrito na porta, costuma existir de todo jeito.",
+        "Vale cada peso: é a refeição mais barata e mais honesta do país, e some depois das 15h."
+      ],
+      "alertas": [],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.valoraanalitik.com/precio-del-corrientazo-llegara-a-20000-en-2026/",
+        "https://www.publimetro.co/bogota/2026/02/11/el-precio-del-corrientazo-aumento-en-colombia-y-a-muchos-les-pesa-en-el-bolsillo/",
+        "https://www.portafolio.co/mis-finanzas/ahorro/precio-del-corrientazo-sigue-subiendo-en-colombia-esto-es-lo-que-dice-el-dane-497895"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência de preço, não um estabelecimento: por isso não leva o campo preço (que exige um lugar e uma data). Os números estão na descrição, com a data de cada um."
+    },
+    {
+      "nome": "Plaza Distrital de Mercado La Perseverancia",
+      "categoria": "restaurante",
+      "cidade": "bogota",
+      "tags": ["mercado", "corrientazo", "comida-local", "barato"],
+      "descricaoCurta": "Mercado distrital de 80 anos na Santa Fe, com comida típica de várias regiões da Colômbia servida nas bancas. Seg-sex 8h-16h, sáb e dom 6h-17h.",
+      "descricaoLonga": "Carrera 5 nº 30A-30, localidade de Santa Fe, ao lado do bairro La Macarena. Horário oficial publicado pela Alcaldía de Bogotá: segunda a sexta das 8h às 16h, sábados e domingos das 6h às 17h. É administrada pelo IPES (Instituto para la Economía Social) e é patrimônio arquitetônico da cidade; completou 80 anos. É considerada um dos pontos gastronômicos mais interessantes da capital: além de fruta, verdura, carne, peixe e grãos, as bancas servem prato feito de várias regiões - mazamorra, arroz con coco, plátano en tentación, peto costeño, sancocho de pescado, ceviche de camarón, cocido boyacense e chanfaina. NÃO há tabela de preço publicada: cada banca cobra o seu, e o patamar é o do corrientazo de bairro (14-18 mil COP em Bogotá, segundo a imprensa local em 2026).",
+      "duracao": { "min": 45, "tipica": 90, "max": 150 },
+      "horarios": {
+        "seg": "08:00-16:00",
+        "ter": "08:00-16:00",
+        "qua": "08:00-16:00",
+        "qui": "08:00-16:00",
+        "sex": "08:00-16:00",
+        "sab": "06:00-17:00",
+        "dom": "06:00-17:00"
+      },
+      "melhorHorario": "Entre 12h e 14h, quando as bancas de comida estão todas servindo.",
+      "contato": { "endereco": "Cra. 5 nº 30A-30, Santa Fe, Bogotá" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Vale cada peso: dá para comer prato de três regiões diferentes do país por menos que uma entrada na Zona G.",
+        "Fica a pé de La Macarena: junte com o Museo Nacional ou com a subida de Monserrate no mesmo dia."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "verificado",
+      "fontes": [
+        "https://bogota.gov.co/mi-ciudad/turismo/horario-de-atencion-de-la-plaza-distrital-de-mercado-la-perseverancia",
+        "https://bogota.gov.co/mi-ciudad/desarrollo-economico/bogota-celebra-80-anos-de-la-plaza-de-mercado-la-perseverancia",
+        "https://www.publimetro.co/bogota/2026/02/11/el-precio-del-corrientazo-aumento-en-colombia-y-a-muchos-les-pesa-en-el-bolsillo/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Horário e endereço de fonte oficial (bogota.gov.co). Preço OMITIDO: cada banca cobra o seu e não há tabela. Sem telefone e sem coordenada."
+    },
+    {
+      "nome": "Mondongo's - bandeja paisa de restaurante tradicional",
+      "categoria": "restaurante",
+      "cidade": "medellin",
+      "tags": ["comida-local", "bandeja-paisa", "tradicional"],
+      "descricaoCurta": "Casa tradicional de comida paisa em Medellín. A bandeja paisa custava 59.000 COP em 2026, contra 40.000 em 2021 - o preço está no jornal, não no boca a boca.",
+      "descricaoLonga": "Restaurante tradicional de comida paisa em Medellín, conhecido pelo mondongo e pela bandeja paisa. O preço da bandeja foi medido pelo El Colombiano em 2026: 59.000 COP, contra 40.000 COP em 2021 e 55.000 COP em janeiro de 2025. Para comparar, no mesmo levantamento: La Matriarca a 54.000 COP, a média da cidade em torno de 48.600 COP, a Plaza Minorista José María Villa entre 27.000 e 45.000 COP, a área turística da Comuna 13 em torno de 37.000 COP, e restaurantes de zona exclusiva entre 54.000 e 63.800 COP. O prato encareceu cerca de 47,5% em cinco anos. NÃO consegui confirmar endereço exato, horário de funcionamento nem telefone de nenhuma das duas unidades em fonte confiável.",
+      "duracao": { "min": 60, "tipica": 90, "max": 120 },
+      "preco": {
+        "moeda": "COP",
+        "min": 59000,
+        "max": 59000,
+        "por": "pessoa",
+        "inclui": "Uma bandeja paisa (preço medido pelo El Colombiano em 2026). Bebida e serviço não incluídos.",
+        "coletadoEm": "2026-10-09",
+        "fontes": [
+          "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+        ]
+      },
+      "melhorHorario": "Almoço. A bandeja paisa é prato de meio-dia; de noite pesa.",
+      "contato": {},
+      "restricoes": { "outras": ["Porção muito grande: um prato serve bem duas pessoas com apetite normal"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Dividir uma bandeja entre dois é prática comum e corta o gasto pela metade - a porção é enorme.",
+        "Corte se apertar: a Plaza Minorista, já no banco, serve a mesma bandeja por 27 a 45 mil COP."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985",
+        "https://medellinguru.com/mondongos/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço confirmado por imprensa local (El Colombiano, 2026). Endereço, horário, telefone e coordenada NÃO confirmados."
+    },
+    {
+      "nome": "Quanto custa a bandeja paisa em Medellín em 2026",
+      "categoria": "restaurante",
+      "cidade": "medellin",
+      "tags": ["bandeja-paisa", "comida-local", "referencia", "barato"],
+      "descricaoCurta": "Cartão de referência de preço: média de 48.600 COP na cidade. De 27 mil na Plaza Minorista a 63.800 em zona exclusiva. Alta de 47,5% em cinco anos.",
+      "descricaoLonga": "Levantamento do El Colombiano para 2026, útil para saber se você está pagando preço de local ou preço de turista. Média da cidade: cerca de 48.600 COP. Por lugar: Plaza Minorista José María Villa de 27.000 a 45.000 COP; área turística da Comuna 13 em torno de 37.000 COP; restaurantes de zona exclusiva de 54.000 a 63.800 COP ou mais; Mondongo's a 59.000 COP (era 40.000 em 2021); La Matriarca a 54.000 COP (era 37.500 cinco anos antes). Em cinco anos o prato subiu cerca de 47,5%, com aumentos de 16.500 a 19.000 COP nos restaurantes comuns. As pressões citadas para 2026: salário mínimo +23,7%, mão de obra em torno de 30% da receita dos restaurantes, chouriço +15%, arroz +6,68% e feijão +4,07%. REGRA DE BOLSO: acima de 55 mil COP você está pagando pelo endereço, não pela comida.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Use 48.600 COP como régua: acima disso, pergunte-se o que o lugar entrega além da comida.",
+        "A bandeja paisa é prato para dividir. Dois adultos num prato por 37 mil na Comuna 13 é almoço resolvido."
+      ],
+      "alertas": [],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência de preço: não leva o campo preço porque não é um estabelecimento. Fonte única, mas é imprensa local de referência (El Colombiano) com levantamento próprio."
+    },
+    {
+      "nome": "Restaurante Espíritu Santo - comida tradicional barata no centro",
+      "categoria": "restaurante",
+      "cidade": "cartagena",
+      "tags": ["corrientazo", "comida-local", "barato", "centro-historico"],
+      "descricaoCurta": "Salão enorme de comida tradicional no centro histórico de Cartagena, com porção generosa e preço baixo. Aberto todos os dias, 11h às 15h30.",
+      "descricaoLonga": "Calle 35 nº 6-69, El Centro, Cartagena de Indias. Aberto todos os dias das 11h às 15h30 - só almoço. É um salão grande, cheio de mesas, onde se come comida costeña tradicional; a filosofia declarada da casa é porção por volume e preço bom, e aparece nas listas de opção econômica no centro murado. O movimento maior é por volta das 13h na sexta e a permanência média é de até 1h30. NÃO achei o preço do prato nem do menú del día em fonte confiável; a referência de patamar é o corrientazo costeño, abaixo de 30 mil COP por pessoa, mas isso é inferência e não dado deste restaurante.",
+      "duracao": { "min": 45, "tipica": 75, "max": 105 },
+      "horarios": {
+        "seg": "11:00-15:30",
+        "ter": "11:00-15:30",
+        "qua": "11:00-15:30",
+        "qui": "11:00-15:30",
+        "sex": "11:00-15:30",
+        "sab": "11:00-15:30",
+        "dom": "11:00-15:30"
+      },
+      "melhorHorario": "Antes das 12h30 ou depois das 14h: às 13h a fila é longa.",
+      "contato": { "endereco": "Calle 35 nº 6-69, El Centro, Cartagena de Indias" },
+      "restricoes": { "outras": ["Só almoço: fecha às 15h30"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Vale cada peso: almoçar barato DENTRO da cidade murada é raro, e aqui dá.",
+        "Não vá de noite: a casa só serve almoço."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.mochileandoporelmundo.com/restaurantes-donde-comer-en-cartagena-de-indias-colombia/",
+        "https://www.colombia.com/gastronomia/noticias/restaurantes-economicos-en-cartagena-recomendados-por-visitantes-591252"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço NÃO encontrado: campo omitido. Horário e endereço vêm de duas fontes de imprensa/guia que concordam; sem telefone, site e coordenada."
+    },
+    {
+      "nome": "Restaurante La Casa de Socorro - cozinha caribenha de Cartagena",
+      "categoria": "restaurante",
+      "cidade": "cartagena",
+      "tags": ["comida-local", "caribenha", "arroz-de-coco", "tradicional"],
+      "descricaoCurta": "Uma das casas citadas como melhor arroz con coco de Cartagena, ao lado da Cocina de Pepina e da Olla Cartagenera. Cazuela de mariscos e peixe do dia.",
+      "descricaoLonga": "Casa tradicional de cozinha caribenha de Cartagena, apontada pela imprensa colombiana entre os melhores lugares da cidade para comer arroz con coco - o arroz cozido em leite de coco com panela, servido na versão branca ou escura, que acompanha quase todo prato da costa. O repertório da cozinha cartagenera que aparece nessas casas: cazuela de mariscos, posta cartagenera, peixe frito com patacón e arroz de coco. NÃO consegui confirmar endereço exato, horário, telefone nem preço de prato desta casa em fonte confiável - achei o nome nas listas de referência, não a ficha do restaurante.",
+      "duracao": { "min": 60, "tipica": 90, "max": 120 },
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Arroz de coco é a assinatura do Caribe colombiano e custa quase nada como acompanhamento: peça sempre.",
+        "Antes de ir, confirme endereço e horário: não achei a ficha oficial da casa."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.portafolio.co/tendencias/sociales/la-ciudad-de-colombia-donde-se-hace-el-mejor-arroz-con-coco-segun-tastle-atlas-627060",
+        "https://www.exoticca.com/es/blog/que-comer-en-cartagena/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Item fraco de dado: só o nome e a reputação estão confirmados. Sem endereço, horário, telefone, preço e coordenada."
+    },
+    {
+      "nome": "Restaurante La Olla Cartagenera",
+      "categoria": "restaurante",
+      "cidade": "cartagena",
+      "tags": ["comida-local", "caribenha", "arroz-de-coco", "tradicional"],
+      "descricaoCurta": "Citada pela imprensa colombiana entre as melhores cozinhas de arroz con coco de Cartagena, junto com La Casa de Socorro e La Cocina de Pepina.",
+      "descricaoLonga": "Aparece na lista de imprensa colombiana dos melhores lugares de Cartagena para comer arroz con coco, ao lado de La Casa de Socorro e La Cocina de Pepina (esta última já está no banco). É cozinha cartagenera de casa: arroz de coco, cazuela, peixe frito e patacón. NÃO consegui confirmar endereço, horário, telefone nem preço em fonte confiável - este item entra como pista de onde comer, não como ficha fechada.",
+      "duracao": { "min": 60, "tipica": 90, "max": 120 },
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Três endereços para a mesma coisa (aqui, Casa de Socorro e Pepina): escolha pelo que estiver perto do seu dia, não pela lista.",
+        "Confirme endereço e horário antes de ir: a ficha não está publicada."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.portafolio.co/tendencias/sociales/la-ciudad-de-colombia-donde-se-hace-el-mejor-arroz-con-coco-segun-tastle-atlas-627060"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Fonte única e só a reputação. Sem endereço, horário, telefone, preço e coordenada - confiança rebaixada de propósito."
+    },
+    {
+      "nome": "Mercado Público de Santa Marta",
+      "categoria": "restaurante",
+      "cidade": "santa-marta",
+      "tags": ["mercado", "comida-local", "barato", "peixe"],
+      "descricaoCurta": "O mercado principal de Santa Marta, na Calle 10 com Carrera 11, aberto todos os dias de 6h às 17h. Tem praça especializada de peixe e frutos do mar.",
+      "descricaoLonga": "Calle 10 com Carrera 11, Centro, Santa Marta. Aberto todos os dias das 6h às 17h. É o mercado onde a cidade compra fruta, verdura, carne e pescado, com uma Plaza Especializada de Pescados y Mariscos criada pela prefeitura, que dignificou os postos de cerca de 80 vendedores. É o lado não turístico do centro histórico: fica a poucas quadras do Parque de los Novios, mas o público é local. NÃO achei tabela de preço (cada banca cobra o seu) nem informação sobre tour guiado oficial. Como em qualquer mercado grande de centro, o movimento é denso e o cuidado com bolso e celular é o de sempre.",
+      "duracao": { "min": 45, "tipica": 75, "max": 120 },
+      "horarios": {
+        "seg": "06:00-17:00",
+        "ter": "06:00-17:00",
+        "qua": "06:00-17:00",
+        "qui": "06:00-17:00",
+        "sex": "06:00-17:00",
+        "sab": "06:00-17:00",
+        "dom": "06:00-17:00"
+      },
+      "melhorHorario": "Manhã, antes das 10h: o peixe é do dia e o calor ainda não chegou.",
+      "contato": { "endereco": "Calle 10 con Carrera 11, Centro, Santa Marta" },
+      "restricoes": { "outras": ["Ambiente denso, com cheiro forte de peixe e pouca sombra"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Vá sem joia, sem mochila aberta e com pouco dinheiro no bolso - conselho de mercado grande, não de alarme.",
+        "Vale cada peso: é onde se compra fruta e peixe no preço de Santa Marta e não no de El Rodadero."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.santamarta.gov.co/sala-prensa/noticias/80-vendedores-dignificados-con-nuevos-puestos-en-la-plaza-de-pescados-y",
+        "https://www.expatexchange.com/article/22343/Living-in-Santa-Marta-Best-Markets-in-Santa-Marta",
+        "https://www.afar.com/places/santa-marta-market-santa-marta"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço e horário vêm de guia cruzado com notícia da prefeitura (que confirma a praça de peixe, não o horário). Sem preço, telefone e coordenada."
+    },
+    {
+      "nome": "Helena Adentro (Filandia) - bate-volta de Salento",
+      "categoria": "restaurante",
+      "cidade": "salento",
+      "tags": ["comida-local", "bate-volta", "cozinha-de-autor"],
+      "descricaoCurta": "O restaurante mais conhecido de Filandia, a 20-25 min de Salento. Cozinha latina contemporânea com vista do vale. Reserva recomendada para pegar mesa na varanda.",
+      "descricaoLonga": "Fica em Filandia, no Quindío, bate-volta de cerca de 20 a 25 minutos de carro ou jipe a partir de Salento (Filandia já está no banco como item de Salento). É o restaurante mais conhecido da vila, de cozinha latina contemporânea, e a recomendação consistente é reservar com antecedência para conseguir mesa com a vista do vale - a varanda é a razão de ir. ATENÇÃO de dado: a única indicação de preço que encontrei é uma faixa genérica de plataforma, e a fonte principal dessa faixa é um site proibido nas regras desta pesquisa, por isso NÃO registro preço aqui. Também não confirmei horário, telefone, endereço exato nem forma de reserva em fonte confiável.",
+      "duracao": { "min": 75, "tipica": 120, "max": 180 },
+      "melhorHorario": "Almoço, para pegar a vista do vale com luz.",
+      "contato": { "endereco": "Filandia, Quindío (bate-volta de 20-25 min de Salento)" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": true, "antecedenciaDias": 2, "comoReservar": "Reserva recomendada para mesa com vista; canal de reserva não confirmado" },
+      "dicasAgente": [
+        "Junte com o dia de Filandia, que já está no banco: a vila, a cestaria e o restaurante num só bate-volta de Salento.",
+        "Sem preço confirmado: pergunte o valor do prato ao reservar, para não ser surpresa num roteiro econômico."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.tomplanmytrip.com/travel-to-colombia/destinations-in-colombia/zona-cafe/filandia/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Fonte única. Preço NÃO registrado de propósito: a única faixa encontrada vinha de fonte proibida nesta pesquisa. Sem horário, telefone, endereço exato e coordenada."
+    },
+    {
+      "nome": "Hacienda - rede paisa de comida típica em Medellín",
+      "categoria": "restaurante",
+      "cidade": "medellin",
+      "tags": ["comida-local", "bandeja-paisa", "tradicional"],
+      "descricaoCurta": "Rede de restaurantes colombianos em Medellín, com pratos típicos e a sua própria versão da bandeja paisa (incluindo uma versão mini). Preço não confirmado.",
+      "descricaoLonga": "Rede local de restaurantes de comida colombiana com várias unidades em Medellín, que serve pratos típicos e a sua versão da bandeja paisa (chamada Bandeja Hacienda), com opção mini para quem não encara a porção inteira. É uma alternativa de meio de caminho entre a Plaza Minorista (barata) e os restaurantes de zona exclusiva. ATENÇÃO: encontrei um valor publicado para a Bandeja Hacienda que é claramente inconsistente (302.900 COP, provavelmente erro de digitação de 30.290 ou 30.900) e por isso NÃO registro preço neste item. Não invente o número: confirme no menu. Também não confirmei endereços, horários nem telefone das unidades.",
+      "duracao": { "min": 60, "tipica": 90, "max": 120 },
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Peça a versão mini da bandeja se for almoçar e ainda querer jantar: a porção cheia derruba a tarde.",
+        "A média da bandeja paisa em Medellín em 2026 é 48.600 COP. Use isso de régua ao abrir o menu aqui."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://medellinguru.com/hacienda/",
+        "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Preço OMITIDO porque o único valor encontrado (302.900 COP) é inconsistente e provavelmente erro de publicação. Sem endereço, horário, telefone e coordenada."
+    },
+    {
+      "nome": "Artesanías de Colombia - loja oficial no centro de Cartagena",
+      "categoria": "compras",
+      "cidade": "cartagena",
+      "tags": ["artesanato", "mochila-wayuu", "sombrero-vueltiao", "oficial"],
+      "descricaoCurta": "Loja da entidade do Ministério do Comércio, na Calle del Arzobispado. Artesanato com procedência e preço fixo, de terça a domingo, 9h às 17h.",
+      "descricaoLonga": "Carrera 5 nº 34-49, local 2, Calle del Arzobispado, Centro Histórico de Cartagena. Há também um ponto na Casa del Castellano, no bonete do Castillo de San Felipe. Artesanías de Colombia é uma entidade do Ministério de Comércio, Indústria e Turismo, criada para promover o artesanato colombiano e vender peças autênticas de várias regiões - mochila wayuu, sombrero vueltiao, cerâmica, tecido. O horário publicado é de terça a domingo, das 9h às 17h, em jornada contínua. A diferença prática em relação à barraca de rua: aqui a peça tem procedência e o preço é fixo (não se pechincha, mas também não se paga imitação como original). A ProColombia recomenda explicitamente evitar compra de rua para garantir autenticidade e qualidade, e comprar em lojas estabelecidas e joalherias certificadas. NÃO achei tabela de preço por peça nem telefone da loja.",
+      "duracao": { "min": 30, "tipica": 60, "max": 90 },
+      "horarios": {
+        "ter": "09:00-17:00",
+        "qua": "09:00-17:00",
+        "qui": "09:00-17:00",
+        "sex": "09:00-17:00",
+        "sab": "09:00-17:00",
+        "dom": "09:00-17:00"
+      },
+      "diasFechados": ["seg"],
+      "contato": { "endereco": "Cra. 5 nº 34-49, local 2, Calle del Arzobispado, Centro Histórico, Cartagena" },
+      "restricoes": { "outras": ["Preço fixo: não se pechincha"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Use a loja como régua de preço e de qualidade: veja aqui como é uma mochila wayuu de uma hebra e depois negocie em Las Bóvedas sabendo o que está olhando.",
+        "Fecha na segunda - não deixe a compra para o último dia sem olhar o calendário."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://colombia.travel/es/cartagena/compras-en-cartagena",
+        "https://lanotaeconomica.com.co/movidas-empresarial/artesanias-de-colombia-llega-al-museo-nacional/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço e horário vêm de busca em fontes secundárias; não abri o site institucional da Artesanías de Colombia para confirmar. Sem telefone, preço por peça e coordenada."
+    },
+    {
+      "nome": "Artesanías de Colombia - Claustro de Las Aguas (Bogotá)",
+      "categoria": "compras",
+      "cidade": "bogota",
+      "tags": ["artesanato", "oficial", "centro-historico"],
+      "descricaoCurta": "Loja oficial no claustro histórico de Las Aguas, Carrera 2ª com Calle 19, perto da Candelaria. Artesanato de todas as regiões, com procedência e preço fixo.",
+      "descricaoLonga": "Claustro de Las Aguas, Carrera 2ª com Calle 19, no limite da Candelaria com o bairro Las Aguas, em Bogotá. Há também um ponto na Calle de los Anticuarios, na zona norte, atrás da igreja de Santa Mónica. Artesanías de Colombia é entidade do Ministério de Comércio, Indústria e Turismo: as peças têm origem declarada e preço fixo. É a referência de qualidade e de preço justo para comparar com o Pasaje Rivas e o Mercado de San Alejo, que já estão no banco. NÃO achei horário de funcionamento, telefone nem faixa de preço por peça desta loja em fonte confiável.",
+      "duracao": { "min": 30, "tipica": 60, "max": 90 },
+      "contato": { "endereco": "Claustro de Las Aguas, Cra. 2ª com Calle 19, Bogotá" },
+      "restricoes": { "outras": ["Preço fixo: não se pechincha"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Veja aqui antes de comprar no Pasaje Rivas: cinco minutos olhando a peça certificada ensinam a reconhecer a imitação.",
+        "Fica a pé da Candelaria e do Museo del Oro: encaixa no mesmo dia do centro histórico."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://lanotaeconomica.com.co/movidas-empresarial/artesanias-de-colombia-llega-al-museo-nacional/",
+        "https://radionacional.co/cultura/tradiciones/mercado-artesanal-del-claustro-bogota-fechas"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço de fonte secundária. Sem horário, telefone, preço e coordenada. Não abri o site institucional da Artesanías de Colombia."
+    },
+    {
+      "nome": "Mochila wayuu: como reconhecer a autêntica e quanto deve custar",
+      "categoria": "compras",
+      "cidade": "cartagena",
+      "tags": ["artesanato", "mochila-wayuu", "referencia"],
+      "descricaoCurta": "Cartão de referência: original é tecida à mão com agulha, nunca em máquina. Faixa de preço citada pela imprensa colombiana: 45.000 a 250.000 COP, pelo tamanho.",
+      "descricaoLonga": "Como distinguir: a mochila wayuu autêntica é SEMPRE tecida à mão com agulha (nunca em máquina), com linha, lã ou fio de algodão, e as iconografias geométricas - chamadas kannas - definem o desenho. A qualidade varia pela quantidade de fibras: a mochila 'de una hebra' (uma hebra) tem tecido mais fino e apertado, pesa menos e é mais resistente; é a mais caex. Faixa de preço publicada pela imprensa colombiana para mochila original: aproximadamente 45.000 a 250.000 COP, conforme o tamanho. Uma mochila leva até 25 dias de tecelagem. ONDE O DINHEIRO VAI: segundo reportagem, atravessadores compram das tecelãs wayuu por 25.000 a 30.000 COP e revendem por 80.000 COP ou mais, dependendo da cidade - comprar na Guajira ou em Palomino, mais perto das tecelãs, muda quem recebe. Em Cartagena os pontos são Las Bóvedas (já no banco) e a loja da Artesanías de Colombia. A ProColombia recomenda não comprar na rua para garantir autenticidade.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Vire a mochila pelo avesso: ponto de agulha irregular e fecho de alça trançada à mão são sinal de original; costura reta de máquina não é.",
+        "Em Cartagena você paga preço de Cartagena. Se a viagem passa por Palomino, compre lá."
+      ],
+      "alertas": [
+        "Há imitação feita em máquina vendida como artesanato wayuu; a faixa de 45 a 250 mil COP é para peça original e preço muito abaixo disso costuma indicar imitação ou compra abaixo do custo da tecelã."
+      ],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.elheraldo.co/tendencias/2016/07/17/guia-para-identificar-las-diferentes-mochilas-costenas-272365/",
+        "https://www.colombia.com/actualidad/nacionales/como-identificar-una-autentica-mochila-wayuu-234292",
+        "https://www.diariolibre.com/mundo/america-latina/2022/05/25/la-reivindicacion-de-la-mochila-wayuu/1850165",
+        "https://colombia.travel/es/cartagena/compras-en-cartagena"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência: não leva o campo preço porque não é um estabelecimento; as faixas estão na descrição com a fonte. A faixa de 45-250 mil COP é de reportagem de 2016 em diante - o patamar nominal provavelmente subiu desde então."
+    },
+    {
+      "nome": "Mochila wayuu direto das tecelãs em Palomino e na Guajira",
+      "categoria": "compras",
+      "cidade": "palomino",
+      "tags": ["artesanato", "mochila-wayuu", "comercio-justo"],
+      "descricaoCurta": "Palomino já é Guajira: comprar aqui ou em cooperativa wayuu encurta a cadeia. Atravessador paga 25-30 mil COP à tecelã e revende por 80 mil ou mais.",
+      "descricaoLonga": "Palomino fica no município de Dibulla, departamento da Guajira - já é território wayuu, e é a base do roteiro mais próxima de onde as mochilas são tecidas. A diferença é de cadeia, não de estética: segundo reportagem, atravessadores compram das tecelãs wayuu por 25.000 a 30.000 COP e revendem por 80.000 COP ou mais, dependendo da cidade. Há cooperativas organizadas que vendem direto - a Kayuusipaa, liderada por María Concepción Ospina Gómez, em Cabo de la Vela, e coletivos como o One Thread Collective, que trabalha com mais de 100 tecelãs wayuu em oito comunidades. Uma mochila leva até 25 dias de trabalho. NÃO achei nenhuma loja ou cooperativa com endereço, horário e telefone publicados DENTRO de Palomino: o comércio na vila é informal, de barraca e de tecelã na praia. Por isso este item não traz preço nem horário, só a régua de quanto a tecelã deveria estar recebendo.",
+      "duracao": { "min": 20, "tipica": 45, "max": 90 },
+      "contato": {},
+      "restricoes": { "outras": ["Comércio informal: sem endereço fixo, sem horário e normalmente só dinheiro em espécie"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Pague acima de 30 mil COP por uma mochila simples comprada direto da tecelã: abaixo disso você está no preço do atravessador, não no preço justo.",
+        "Leve dinheiro em espécie e troco: não há máquina de cartão na praia."
+      ],
+      "alertas": [
+        "Pechinchar até o preço de atravessador (25-30 mil COP) tira da tecelã o valor de até 25 dias de trabalho. Negocie, mas saiba onde está o piso."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://www.diariolibre.com/mundo/america-latina/2022/05/25/la-reivindicacion-de-la-mochila-wayuu/1850165",
+        "https://folkartmarket.org/ifamartiststories/maria-concepcion-ospina-gomez-kayuusipaa",
+        "https://folkartmarket.org/ifamartiststories/one-thread-collective?format=amp",
+        "https://www.elheraldo.co/la-guajira/2020/04/07/artesanas-wayuu-cambian-mochilas-por-mercados-715779/"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "NÃO achei cooperativa com endereço e horário em Palomino - as cooperativas citadas ficam mais a norte, em Cabo de la Vela e em comunidades da Alta Guajira. Sem preço, horário, telefone e coordenada."
+    },
+    {
+      "nome": "Sombrero vueltiao: as vueltas, o preço e as imitações",
+      "categoria": "compras",
+      "cidade": "cartagena",
+      "tags": ["artesanato", "sombrero-vueltiao", "referencia"],
+      "descricaoCurta": "Cartão de referência: original é de Tuchín (Córdoba), tecido em caña flecha pelo povo zenú. Parte de ~40 mil COP e chega a US$85; a imitação chinesa custa US$5.",
+      "descricaoLonga": "O sombrero vueltiao autêntico é produzido principalmente em Tuchín, no departamento de Córdoba, com origem na cultura indígena zenú da região do rio Sinú. 'Vueltiao' vem do percurso em espiral que a trança faz - e é o número de vueltas (voltas) da trança que mede a finura: quanto mais vueltas, mais fino o trançado e mais caro o chapéu. O artesão leva até 15 dias cortando, secando ao sol e trançando folha de caña flecha para fazer um chapéu. Preço: a partir de cerca de 40.000 COP (em torno de US$20) para os mais simples, chegando a até US$85 nos finos de Tuchín. A imitação feita na China é vendida por cerca de US$5 e é visivelmente diferente do original; em 2013 a Superintendência de Indústria e Comércio emitiu a Resolução 439 para salvaguardar o sombrero vueltiao autêntico, suspendendo produção, comercialização e venda de imitações. Em Cartagena os pontos de compra são Las Bóvedas (já no banco) e a loja oficial da Artesanías de Colombia.",
+      "contato": {},
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Dobre o chapéu: o vueltiao fino de caña flecha volta à forma sozinho; a imitação em fibra sintética amassa e fica amassada.",
+        "Peça para o vendedor dizer quantas vueltas tem. Quem não sabe responder não está vendendo original de Tuchín."
+      ],
+      "alertas": [
+        "Há imitação importada vendida como artesanato zenú; a Resolução 439 de 2013 da Superintendência de Indústria e Comércio foi criada exatamente para coibir isso."
+      ],
+      "agendavel": false,
+      "confianca": "verificado",
+      "fontes": [
+        "https://www.noticiascaracol.com/los-informantes/festival-vallenato-esta-es-la-curiosa-historia-del-sombrero-vueltiao-infaltable-en-el-evento-pr30",
+        "https://colombiareports.com/?p=25497",
+        "https://www.valoraanalitik.com/?p=151936",
+        "https://colombia.travel/es/cartagena/compras-en-cartagena"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Cartão de referência: sem campo preço (não é estabelecimento). Os valores citados (40 mil COP, US$20-85, imitação US$5) vêm de reportagem e não são tabela de 2026; use como ordem de grandeza."
+    },
+    {
+      "nome": "Museo Internacional de la Esmeralda (Bogotá)",
+      "categoria": "museu",
+      "cidade": "bogota",
+      "tags": ["esmeralda", "compras", "museu", "centro-historico"],
+      "descricaoCurta": "Museu da esmeralda no 23º andar do Edifício Avianca, Calle 16 nº 6-66. Tem túnel de mina simulado de 27 m com amostras reais de Muzo, Chivor, Coscuez e Gachalá.",
+      "descricaoLonga": "Calle 16 nº 6-66, no 23º andar do emblemático Edifício Avianca, no centro de Bogotá. A visita guiada inclui um túnel de mina simulado de 27 metros, com amostras reais de jazidas de esmeralda das minas de Muzo, Chivor e Coscuez (Boyacá) e Gachalá (Cundinamarca). Serve de aula antes de comprar: o mercado de esmeralda de Bogotá fica concentrado na Carrera 6 entre as calles 12 e 13, no Centro Internacional, e há um mercado de rua na Plaza del Rosario, na Carrera 6 com Calle Jiménez, ao lado do Banco de la República (este último já está no banco por outro item). A recomendação publicada é ir a joalherias credenciadas e exigir certificado de autenticidade. NÃO achei horário de funcionamento, preço de entrada nem telefone do museu em fonte confiável.",
+      "duracao": { "min": 45, "tipica": 60, "max": 90 },
+      "contato": { "endereco": "Calle 16 nº 6-66, piso 23, Edificio Avianca, Bogotá" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Visite ANTES de pensar em comprar: saber o que é cor, inclusão e corte é a única defesa real contra pedra falsa.",
+        "Confirme horário e entrada por telefone: não achei esses dados publicados."
+      ],
+      "alertas": [
+        "Compra de esmeralda no mercado de rua da Plaza del Rosario ou na Carrera 6 é o cenário clássico de pedra falsa; a recomendação publicada é comprar só em joalheria credenciada e exigir certificado de autenticidade."
+      ],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://radionacional.co/cultura/tradiciones/asi-es-el-museo-internacional-de-la-esmeralda",
+        "https://www.las2orillas.co/el-mercado-callejero-de-la-esmeralda-plaza-del-rosario-centro-bogota/",
+        "https://www.frommers.com/destinations/bogota/shopping/overview"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Endereço confirmado (Radio Nacional de Colombia). Sem horário, preço de entrada, telefone, site e coordenada."
+    },
+    {
+      "nome": "Mercado campesino de sábado em Villa de Leyva",
+      "categoria": "compras",
+      "cidade": "villa-de-leyva",
+      "tags": ["mercado", "comida-local", "barato", "artesanato"],
+      "descricaoCurta": "Todo sábado de manhã, a Plaza de Mercado e as calles 12 e 13 enchem de produtor de Boyacá: fruta, verdura, pão, mel, queijo, chouriço e tecido.",
+      "descricaoLonga": "Todo sábado pela manhã acontece o mercado na Plaza de Mercado de Villa de Leyva, com produtores e vendedores da região de Boyacá. O que se vende: fruta, verdura e roupa em maior parte, além de pão, mel, carne e uma seção de comida pronta - chouriço, galinha, carne a la llanera. O movimento transborda para as calles 12 e 13, com barraca de comida típica, tecido e outros produtos. A tradição é antiga: por décadas os camponeses da região desceram no sábado para vender, e se formou uma associação de produtores que vende sem atravessador, direto para comerciantes e moradores da vila. NÃO achei o horário exato publicado - as fontes dizem 'sábado pela manhã' e nada mais preciso - e também não há tabela de preço (cada produtor cobra o seu).",
+      "duracao": { "min": 45, "tipica": 90, "max": 150 },
+      "horarios": { "sab": "manhã (horário exato não publicado)" },
+      "melhorHorario": "Sábado cedo, entre 7h e 10h, quando o mercado está completo.",
+      "contato": { "endereco": "Plaza de Mercado e calles 12 e 13, Villa de Leyva, Boyacá" },
+      "restricoes": { "outras": ["Só sábado", "Normalmente só dinheiro em espécie"] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Se a passagem por Villa de Leyva não cair num sábado, este item cai do roteiro - não há versão em outro dia.",
+        "Vale cada peso: é compra sem atravessador, direto do produtor de Boyacá."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://nomadicniko.com/2019/06/08/saturday-market/",
+        "https://www.roughguides.com/destinations/south-america/colombia/north-of-bogota/villa-leyva",
+        "https://aneia.uniandes.edu.co/la-semilla-que-dejo-el-paro-agrario-del-2013-en-el-pueblo-de-villa-de-leyva"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Horário exato NÃO publicado em nenhuma fonte (só 'sábado pela manhã'), por isso o campo de horário fica em prosa e sem janela HH:MM. Sem preço, telefone e coordenada."
+    },
+    {
+      "nome": "Guayabera e linho no centro histórico de Cartagena",
+      "categoria": "compras",
+      "cidade": "cartagena",
+      "tags": ["artesanato", "roupa", "centro-historico"],
+      "descricaoCurta": "A camisa de linho tradicional do Caribe, às vezes bordada, vendida nas lojas do centro murado e de Bocagrande. A ProColombia recomenda loja estabelecida, não rua.",
+      "descricaoLonga": "A guayabera é a camisa masculina tradicional de linho do Caribe, lisa ou bordada, e aparece na lista da ProColombia do que comprar em Cartagena, junto com mochila wayuu, sombrero vueltiao, acessório de couro, cerâmica e tecido. Os lugares de compra indicados pela ProColombia são as lojas do centro histórico (Ciudad Amurallada), Las Bóvedas - mais de vinte lojas construídas dentro da muralha, já no banco - e as ruas comerciais de Bocagrande e do bairro El Castillo. A recomendação explícita é evitar compra de rua para garantir autenticidade e qualidade, e usar joalheria certificada para pedra. É a compra mais prática do Caribe colombiano: em novembro, com 30 °C e umidade alta, uma camisa de linho de verdade resolve o resto da viagem. NÃO achei faixa de preço em fonte confiável.",
+      "duracao": { "min": 30, "tipica": 60, "max": 120 },
+      "contato": { "endereco": "Centro Histórico (Ciudad Amurallada) e Bocagrande, Cartagena" },
+      "restricoes": { "outras": [] },
+      "reserva": { "necessaria": false },
+      "dicasAgente": [
+        "Teste o tecido na mão: linho de verdade amassa e esfria; poliéster vendido como linho esquenta e não amassa.",
+        "Compra de utilidade imediata, não lembrança: você vai usar nos 8 dias seguintes de Caribe."
+      ],
+      "alertas": [],
+      "agendavel": true,
+      "confianca": "parcial",
+      "fontes": [
+        "https://colombia.travel/es/cartagena/compras-en-cartagena"
+      ],
+      "coletadoEm": "2026-10-09",
+      "observacao": "Fonte única (ProColombia, oficial). Sem preço, sem loja específica com endereço e horário, sem coordenada."
+    }
+  ]
+}

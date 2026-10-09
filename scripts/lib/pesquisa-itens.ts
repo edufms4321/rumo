@@ -35,7 +35,7 @@ const RE_LUZ = /p[oô]r[- ]do[- ]sol|mirante|trilha|praia|amanhecer|sunset|nasce
   cilindro: snorkel e flutuacao nao pedem intervalo antes de voar.
 */
 const RE_MERGULHO =
-  /mergulho (?:aut[oô]nomo|com cilindro|cilindro)|batismo de mergulho|\bscuba\b|open water|fun dive|\bdiving\b|buceo|bautizo de mar|padi|\bmergulho\b/i;
+  /mergulho (?:aut[oô]nomo|com cilindro|cilindro|duplo|repetido)|batismo de mergulho|\bscuba\b|open water|fun dive\b|\bdiving\b|buceo|bautizo de mar|\bpadi\b|\bcmas\b|\bssi\b/i;
 const RE_PEGA_TURISTA = /pega-?turista|turist[aã]o|armadilha|cilada/i;
 
 function textoDoItem(i: Json): string {
@@ -118,9 +118,32 @@ function derivarRestricoes(i: Json, agendavel: boolean): Json {
   // restricoes ("Nao voar nas 12-18 h seguintes (DAN)"). Isso e afirmacao
   // do pesquisador, e vale mais do que qualquer deducao de nome.
   const declaradoEmTexto = (r.outras as string[]).some((t) =>
-    /n[ãa]o voar|nao voar|intervalo de superf[ií]cie|\bDAN\b/i.test(t),
+    /*
+      Duas expressoes, e nao uma, por causa do /i.
+
+      `\bDAN\b` com /i casa com "danca": "dan" seguido de cedilha, e
+      cedilha nao e caractere de palavra, entao a fronteira existe. Um bar de
+      salsa cuja restricao dizia "em noite cheia a danca acontece na calcada"
+      ganhava a regra de nao voar depois de mergulhar. DAN e a sigla da
+      Divers Alert Network e so vale em maiuscula.
+    */
+    /n[ãa]o voar|nao voar|intervalo de superf[ií]cie/i.test(t) || /\bDAN\b/.test(t),
   );
-  const ehMergulho = declaradoEmTexto || RE_MERGULHO.test(identidade);
+  /*
+    Duas restricoes alem do nome, as duas vindas de erro medido.
+
+    1. A alternativa solta `mergulho` saiu da expressao. Ela existia e, por
+       sorte, estava quebrada por um escape corrompido; quando consertei o
+       escape ela passou a valer e marcou "La Piscinita e West View" (um
+       poco de snorkel de graca) e "Taganga: vale a pena?" (um cartao de
+       veredito sobre uma vila) como mergulho. Em portugues "mergulho"
+       tambem quer dizer dar um pulo no mar. Agora so termo de cilindro
+       conta: scuba, open water, fun dive, buceo, PADI, SSI, CMAS.
+    2. A categoria tem que ser de atividade que se contrata. Praia, natureza
+       e mirante nao sao mergulho nem quando a etiqueta diz mergulho.
+  */
+  const categoriaDeMergulho = categoria === 'experiencia' || categoria === 'passeio';
+  const ehMergulho = declaradoEmTexto || (categoriaDeMergulho && RE_MERGULHO.test(identidade));
   if (agendavel && ehMergulho) {
     // Minimo da DAN: 12 h apos um mergulho, 18 h apos mergulhos repetidos.
     r.naoVoarDepoisHoras = 18;
@@ -324,7 +347,13 @@ export function converterItem(
     agendavel: temDuracao,
     restricoes: derivarRestricoes(i, temDuracao),
     selos: derivarSelos(i, !!preco, gratuito && !preco),
-    dicas: (i.dicasAgente ?? []).map(String),
+    /*
+      Duas grafias aceitas. As ondas antigas escrevem `dicasAgente`; eu
+      mesmo mandei um briefing novo dizendo `dicas`, e o conversor so lia a
+      primeira - as dicas da onda nova iam para o lixo em silencio. Ler as
+      duas custa uma linha e nao perde pesquisa por erro de nome meu.
+    */
+    dicas: [...((i.dicasAgente ?? []) as unknown[]), ...((i.dicas ?? []) as unknown[])].map(String),
     alertas,
   };
 

@@ -2237,5 +2237,757 @@
       "Duração em minutos é estimativa do agente (sem fonte), salvo quando indicado.",
       "preco nao encontrado em fonte confiavel; confirmar no local"
     ]
+  },
+  {
+    "id": "co-bog-theatron-a-maior-discoteca-de-chapinero",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Theatron_(club)"
+      },
+      {
+        "url": "https://visitbogota.co/en/atractivo/all/theatron-pelicula-the-hub-of-the-lgbti-party-in-bogota-all-4469"
+      },
+      {
+        "url": "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Theatron - a maior discoteca de Chapinero",
+    "cidadeId": "bogota",
+    "categoria": "bar",
+    "tags": [
+      "balada",
+      "vida-noturna",
+      "lgbt"
+    ],
+    "descricaoCurta": "20 salões num só prédio em Chapinero, com capacidade para mais de 7 mil pessoas no sábado. Cover de 10 mil a 50 mil COP conforme o dia e a hora. Aberto qui-sáb, 21h-5h.",
+    "descricaoLonga": "Calle 58 Bis nº 10-32, Chapinero, Bogotá. É descrita como a maior discoteca gay da América Latina, composta de 20 salões (cada um com música diferente) e capaz de receber mais de 7 mil pessoas num sábado. Abre de quinta a sábado e em véspera de feriado, das 21h às 5h. Cover publicado: quinta 10.000 COP antes das 22h e 15.000 depois; sexta 20.000 e 25.000; sábado 30.000 e 50.000. Entrada só com 18 anos e documento original; aceita dinheiro, débito e crédito. É um dos poucos lugares da noite de Bogotá com tabela de preço realmente publicada - por isso entra aqui com preço, e as outras casas não.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 420
+    },
+    "horariosObservacao": "21:00-05:00",
+    "diasFechados": [],
+    "melhorHorario": "Chegar antes das 22h na quinta ou na sexta para pagar o cover menor.",
+    "preco": {
+      "moeda": "COP",
+      "min": 10000,
+      "max": 50000,
+      "por": "pessoa",
+      "inclui": "Apenas o cover de entrada. Quinta 10.000 antes das 22h / 15.000 depois; sexta 20.000 / 25.000; sábado 30.000 / 50.000. Bebida não incluída.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Theatron_(club)"
+        },
+        {
+          "url": "https://visitbogota.co/en/atractivo/all/theatron-pelicula-the-hub-of-the-lgbti-party-in-bogota-all-4469"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle 58 Bis nº 10-32, Chapinero, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Documento original obrigatório na portaria"
+      ],
+      "idadeMinima": 18
+    },
+    "selos": [],
+    "dicas": [
+      "Entrar antes das 22h economiza metade do cover no sábado - é a diferença entre 30 mil e 50 mil COP.",
+      "Volte de aplicativo. Táxi pego na rua em Chapinero de madrugada é o cenário clássico do paseo millonario."
+    ],
+    "alertas": [
+      "Em Bogotá, as autoridades recomendam pedir táxi por aplicativo ou nas Zonas Seguras demarcadas e não parar táxi na rua, especialmente à noite, por causa do 'paseo millonario' (sequestro-relâmpago com sedativo e saque em caixa eletrônico).",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-galeria-cafe-libro-parque-de-la-93-salsa-ao-vivo-ha",
+    "fontes": [
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota"
+      },
+      {
+        "url": "https://www.galeriacafelibro.com.co/"
+      },
+      {
+        "url": "https://www.elespectador.com/entretenimiento/galeria-cafe-libro-prende-la-rumba-en-el-parque-de-la-93/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Galería Café Libro (Parque de la 93) - salsa ao vivo há 25 anos",
+    "cidadeId": "bogota",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "musica-ao-vivo",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Casa de salsa citada pela própria Alcaldía de Bogotá: banda ao vivo, pista cheia e paredes com quadros à venda. Sede principal no Parque de la 93.",
+    "descricaoLonga": "Carrera 11A nº 93-42, no Parque de la 93. A Alcaldía de Bogotá a lista como um dos lugares para dançar salsa na cidade, ao lado de Casa Quiebracanto, El Bembé, Salsa Camará e Pachanga y Pochola. Funciona há mais de 25 anos como restaurante, bar e pista, com bandas de salsa e ritmos caribenhos ao vivo; já recebeu Tony Vega e a Guayacán Orquesta, e as obras nas paredes estão à venda. A casa tem três endereços: Parque 93 (Cra. 11A nº 93-42), Palermo (Transv. 15B nº 46-38) e Salón Café Bohemia (Transv. 15B nº 46-32). Contatos do site oficial: 601-5975506, 601-2851794, 601-2874079, WhatsApp 317 660 8742, info@galeriacafelibro.com.co. NÃO há horário de funcionamento nem valor de cover/consumo mínimo publicados no site oficial - procurei e não achei.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+57 601 5975506",
+      "whatsapp": "+57 317 660 8742",
+      "site": "https://www.galeriacafelibro.com.co/",
+      "email": "info@galeriacafelibro.com.co",
+      "endereco": "Cra. 11A nº 93-42, Parque de la 93, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Ligue antes: o site não publica horário nem cover, e a casa tem três sedes com programação diferente.",
+      "É salsa de orquestra ao vivo, não DJ - diferente da Zona T genérica que já está no banco."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-casa-quiebracanto-salsa-no-centro-de-bogota",
+    "fontes": [
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota"
+      },
+      {
+        "url": "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Casa Quiebracanto - salsa no centro de Bogotá",
+    "cidadeId": "bogota",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "musica-ao-vivo",
+      "vida-noturna",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Salsoteca do centro de Bogotá listada pela Alcaldía como um dos lugares para dançar salsa na cidade. Carrera 5 nº 17-76, perto da Candelaria.",
+    "descricaoLonga": "Carrera 5 nº 17-76, no centro de Bogotá, a poucas quadras da Candelaria. Aparece na lista oficial da Alcaldía de Bogotá de lugares para dançar salsa, junto com Galería Café Libro, El Bembé, Salsa Camará e Pachanga y Pochola. É a alternativa de centro ao circuito do norte (Zona T e Parque de la 93), com preço de bebida tipicamente menor. NÃO consegui confirmar horário, cover, telefone nem site - a página da Alcaldía dá só nome e endereço, e não achei segunda fonte confiável com esses dados.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Cra. 5 nº 17-76, Centro, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Combina com um dia na Candelaria: fica a pé do Museo del Oro e do centro histórico.",
+      "Volte de aplicativo. O centro de Bogotá à noite não é para andar a pé com celular na mão."
+    ],
+    "alertas": [
+      "Em Bogotá, as autoridades recomendam não parar táxi na rua à noite e usar aplicativo ou as Zonas Seguras demarcadas, por causa do 'paseo millonario'.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-salsa-camara-e-pachanga-y-pochola-salsotecas-fora-da",
+    "fontes": [
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/donde-bailar-salsa-en-bogota"
+      },
+      {
+        "url": "https://newsroom.rcnradio.com/actualidad/zonas-seguras-de-taxis-en-bogota-para-evitar-el-paseo-millonario-como-funcionan-y-donde-quedan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Salsa Camará e Pachanga y Pochola - salsotecas fora da Zona Rosa",
+    "cidadeId": "bogota",
+    "categoria": "bar",
+    "tags": [
+      "salsa",
+      "musica-ao-vivo",
+      "vida-noturna"
+    ],
+    "descricaoCurta": "Duas salsotecas de bairro na lista oficial da Alcaldía: Salsa Camará (Calle 71 nº 11-19, 2º piso) e Pachanga y Pochola (Carrera 27 nº 53-41, Galerías).",
+    "descricaoLonga": "Dois endereços que a Alcaldía de Bogotá cita na sua lista de onde dançar salsa: Salsa Camará, na Calle 71 nº 11-19, piso 2, na zona norte, e Pachanga y Pochola, na Carrera 27 nº 53-41, no bairro Galerías. São casas de bairro, fora do circuito de hotel da Zona T, e por isso costumam ser mais baratas - mas esse é raciocínio de perfil, não dado: NÃO consegui confirmar preço, cover, horário, telefone nem site de nenhuma das duas. A fonte oficial dá nome, endereço e bairro, e nada mais.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Salsa Camará: Cl. 71 nº 11-19, piso 2. Pachanga y Pochola: Cra. 27 nº 53-41, Galerías, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Se a Zona T decepcionar (é a parte mais turística e mais caex da noite de Bogotá), estes dois endereços oficiais são o plano B.",
+      "Confirme por telefone ou rede social antes de sair: não há horário publicado."
+    ],
+    "alertas": [
+      "Em Bogotá, as autoridades recomendam não parar táxi na rua à noite e usar aplicativo ou as Zonas Seguras demarcadas, por causa do 'paseo millonario'.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-salsa-al-parque-2026-28-e-29-de-novembro-parque-simo",
+    "fontes": [
+      {
+        "url": "https://visitbogota.co/en/events-calendar/salsa-al-parque-2026"
+      },
+      {
+        "url": "https://www.colombia.com/turismo/noticias/programacion-de-los-al-parque-en-bogota-2026-576706"
+      },
+      {
+        "url": "https://newsroom.rcnradio.com/colombia/festivales-en-bogota-2026-cuales-son-las-fechas-y-lugares-confirmados-por-la-alcaldia"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Salsa al Parque 2026 - 28 e 29 de novembro, Parque Simón Bolívar",
+    "cidadeId": "bogota",
+    "categoria": "experiencia",
+    "tags": [
+      "salsa",
+      "musica-ao-vivo",
+      "gratis",
+      "festival"
+    ],
+    "descricaoCurta": "27ª edição do festival gratuito de salsa de Bogotá: 28 e 29 de novembro de 2026, no Parque Metropolitano Simón Bolívar, a partir das 13h. Entrada franca.",
+    "descricaoLonga": "Sábado 28 e domingo 29 de novembro de 2026, no Parque Metropolitano Simón Bolívar, em Teusaquillo, a partir das 13h, com entrada gratuita. É a 27ª edição e o tema anunciado é 'La revolución que nunca deja de sonar'. Organizado pelo Idartes (Instituto Distrital de las Artes), dentro da série Festivales al Parque, e descrito pelo portal oficial de turismo de Bogotá como um dos maiores festivais gratuitos dedicados ao gênero na América Latina, com salsa dura, timba, son e salsa romántica - orquestras consagradas, artistas nacionais e talento emergente. O cartaz nominal ainda NÃO estava publicado quando coletei; o próprio Idartes mantém a agenda em salsaalparque.gov.co.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 540
+    },
+    "horariosObservacao": "13:00",
+    "diasFechados": [],
+    "melhorHorario": "28 e 29 de novembro de 2026, a partir das 13h.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "site": "https://visitbogota.co/en/events-calendar/salsa-al-parque-2026"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Evento ao ar livre, em pé, em parque aberto"
+      ],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Se a viagem esticar até o fim de novembro, isto é salsa de graça num parque - o melhor custo-benefício de música da Colômbia inteira.",
+      "Bogotá a 2.640 m e chuva de tarde: leve capa de chuva e agasalho, não só camiseta."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-bog-sendero-da-quebrada-la-vieja-trilha-nos-cerros-orien",
+    "fontes": [
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/habitat/pasos-para-agendar-cita-para-visitar-los-senderos-de-bogota-2024"
+      },
+      {
+        "url": "https://bogota.gov.co/en/node/192194"
+      },
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/habitat/bogota-asi-puedes-visitar-este-mes-el-sendero-de-la-quebrada-la-vieja"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Sendero da Quebrada La Vieja - trilha nos Cerros Orientales",
+    "cidadeId": "bogota",
+    "categoria": "natureza",
+    "tags": [
+      "trilha",
+      "natureza",
+      "gratis",
+      "mirante"
+    ],
+    "descricaoCurta": "Trilha gratuita na reserva florestal dos Cerros Orientales, em Chapinero. Agendamento obrigatório pelo app do Acueducto. Ter-sex 6h30-11h, fim de semana 6h30-12h.",
+    "descricaoLonga": "A Quebrada La Vieja fica em Chapinero e integra a Reserva Forestal Protectora Bosque Oriental de Bogotá, administrada pela Empresa de Acueducto y Alcantarillado de Bogotá (EAAB). A visita tem horário fixo: terça a sexta das 6h30 às 11h e fins de semana e feriados das 6h30 às 12h. O agendamento é obrigatório e totalmente GRATUITO, feito pelo aplicativo 'Caminos de los Cerros Orientales' ou pelo site caminos.eaab.gov.co. É a trilha de floresta mais acessível de Bogotá - sai do meio da cidade e sobe para mata nativa a 2.700-3.000 m. ATENÇÃO: há fechamentos por manutenção e mudanças de horário; a própria Alcaldía recomenda verificar antes de se cadastrar. NÃO achei a extensão oficial em km nem o desnível da trilha.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "11:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "11:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "11:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "11:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "12:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:30",
+          "fecha": "12:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-11:00 | 06:30-12:00",
+    "diasFechados": [
+      "seg"
+    ],
+    "melhorHorario": "Entrar às 6h30: o portão fecha às 11h (dia de semana) ou 12h (fim de semana) e não há reentrada.",
+    "gratuito": true,
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 3,
+      "link": "https://caminos.eaab.gov.co/"
+    },
+    "contato": {
+      "site": "https://caminos.eaab.gov.co/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Agendamento prévio obrigatório pelo app ou site do Acueducto (gratuito)",
+        "Altitude acima de 2.700 m: sobe devagar no primeiro dia em Bogotá",
+        "Fechamentos por manutenção acontecem: confirme antes"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "precisa-reservar",
+      "gratuito",
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso porque é de graça: natureza de verdade a 20 minutos do centro de Bogotá, com vaga agendada.",
+      "Faça depois de dois ou três dias na cidade, não no primeiro: 3.000 m com pressa dá dor de cabeça."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-bog-escalada-em-rocha-em-suesca-bate-volta-de-bogota",
+    "fontes": [
+      {
+        "url": "https://www.explore-share.com/es/trip/escalada-en-roca-suesca/"
+      },
+      {
+        "url": "https://www.explore-share.com/es/trip/escalada-multilargos-dia-en-las-rocas-en-suesca-colombia/"
+      },
+      {
+        "url": "https://www.explore-share.com/es/trip/dia-multiactividad-suesca-espeleologia-escalada-en-roca-rapel/"
+      },
+      {
+        "url": "https://canaltrece.com.co/regiones/cundinamarca/que-hacer-en-cundinamarca-escala-y-descubre-en-suesca/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Escalada em rocha em Suesca (bate-volta de Bogotá)",
+    "cidadeId": "bogota",
+    "categoria": "experiencia",
+    "tags": [
+      "escalada",
+      "aventura",
+      "trilha",
+      "bate-volta"
+    ],
+    "descricaoCurta": "O berço da escalada na Colômbia: paredões de até 120 m e mais de 400 vias, a 59 km ao norte de Bogotá. Dia guiado com equipamento a partir de USD 36 por pessoa.",
+    "descricaoLonga": "Suesca fica 59 km ao norte de Bogotá (bate-volta de cerca de 1h30 de carro) e é considerada o berço da escalada em rocha na Colômbia: os paredões de arenito chegam a 120 m de altura e há mais de 400 vias catalogadas, de iniciante a avançado. Preços de dia guiado publicados por empresa de guias: dia de escalada multi-pitch a USD 36 por pessoa em grupos de 6 a 15 e USD 25 em grupos de 16 a 30; dia multiatividade (espeleologia + escalada + rapel) a USD 50 por pessoa em grupos de 6 a 15 e USD 41 em grupos de 16 a 30. Os valores incluem guia, capacete, sapatilha, cadeirinha, seguro médico e refeições. ATENÇÃO: esses preços são por pessoa em GRUPO GRANDE; para dois adultos o valor por cabeça é maior e NÃO achei a tabela de dupla. Também existem tours de 8 h saindo de Bogotá com transporte incluído, cujo preço não confirmei. Suesca não é base do banco: entra como item de Bogotá, com bate-volta de ~1h30 de carro.",
+    "duracao": {
+      "min": 420,
+      "tipica": 540,
+      "max": 660
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída de Bogotá de manhã cedo; a rocha pega sol e vento à tarde.",
+    "preco": {
+      "moeda": "USD",
+      "min": 25,
+      "max": 50,
+      "por": "pessoa",
+      "inclui": "Guia, capacete, sapatilha, cadeirinha, seguro médico e refeições. Faixa válida para grupos de 6 a 30 pessoas; para dupla o valor por pessoa é maior e não foi confirmado. Transporte de Bogotá não incluído.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.explore-share.com/es/trip/escalada-multilargos-dia-en-las-rocas-en-suesca-colombia/"
+        },
+        {
+          "url": "https://www.explore-share.com/es/trip/dia-multiactividad-suesca-espeleologia-escalada-en-roca-rapel/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 5
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Chuva cancela: rocha molhada não se escala",
+        "Altitude ~2.600 m"
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "O preço só é barato em grupo. Para dois adultos, peça o orçamento de dupla antes de contar com USD 36.",
+      "Perfil intenso: é um dia inteiro fora de Bogotá, não combina com Monserrate nem com Zipaquirá no mesmo dia."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-bog-corrientazo-o-almoco-do-dia-e-quanto-ele-custa-de-ve",
+    "fontes": [
+      {
+        "url": "https://www.valoraanalitik.com/precio-del-corrientazo-llegara-a-20000-en-2026/"
+      },
+      {
+        "url": "https://www.publimetro.co/bogota/2026/02/11/el-precio-del-corrientazo-aumento-en-colombia-y-a-muchos-les-pesa-en-el-bolsillo/"
+      },
+      {
+        "url": "https://www.portafolio.co/mis-finanzas/ahorro/precio-del-corrientazo-sigue-subiendo-en-colombia-esto-es-lo-que-dice-el-dane-497895"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Corrientazo: o almoço do dia e quanto ele custa de verdade em 2026",
+    "cidadeId": "bogota",
+    "categoria": "restaurante",
+    "tags": [
+      "corrientazo",
+      "comida-local",
+      "barato",
+      "referencia"
+    ],
+    "descricaoCurta": "Cartão de referência: o almoço executivo colombiano (sopa + seco + suco). Média nacional de 17.542 COP em janeiro de 2026, com alta de 10,7% em um ano.",
+    "descricaoLonga": "O 'corrientazo' é o almoço do dia dos restaurantes de bairro colombianos: sopa, prato principal (arroz, feijão ou lentilha, proteína, salada, banana-da-terra) e suco, servido só na hora do almoço, normalmente das 12h às 15h. Números de 2026: a média nacional do corrientazo em janeiro de 2026 ficou em 17.542 COP, alta de 1.871 COP (10,7%) sobre o mesmo mês de 2025. Em Bogotá a faixa praticada vai de 14.000 a 18.000 COP, com zonas comerciais e empresariais partindo de 16.000 e chegando a 26.000 COP. A faixa nacional ampla relatada é de 15.000 a 30.000 COP. Até junho de 2026, a divisão de restaurantes e hotéis acumulou variação anual de 9,59% e o item de comidas em estabelecimentos de serviço à mesa subiu 9,75% no ano. POR QUE ISSO IMPORTA no orçamento: dois adultos almoçando de corrientazo gastam cerca de 35 mil COP por dia, contra 120 mil ou mais num restaurante de zona turística. É a alavanca de economia mais simples da viagem inteira.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Pergunte 'hay corrientazo?' ou 'menú del día?'. Se não estiver escrito na porta, costuma existir de todo jeito.",
+      "Vale cada peso: é a refeição mais barata e mais honesta do país, e some depois das 15h."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-plaza-distrital-de-mercado-la-perseverancia",
+    "fontes": [
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/turismo/horario-de-atencion-de-la-plaza-distrital-de-mercado-la-perseverancia"
+      },
+      {
+        "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/bogota-celebra-80-anos-de-la-plaza-de-mercado-la-perseverancia"
+      },
+      {
+        "url": "https://www.publimetro.co/bogota/2026/02/11/el-precio-del-corrientazo-aumento-en-colombia-y-a-muchos-les-pesa-en-el-bolsillo/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Plaza Distrital de Mercado La Perseverancia",
+    "cidadeId": "bogota",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "corrientazo",
+      "comida-local",
+      "barato"
+    ],
+    "descricaoCurta": "Mercado distrital de 80 anos na Santa Fe, com comida típica de várias regiões da Colômbia servida nas bancas. Seg-sex 8h-16h, sáb e dom 6h-17h.",
+    "descricaoLonga": "Carrera 5 nº 30A-30, localidade de Santa Fe, ao lado do bairro La Macarena. Horário oficial publicado pela Alcaldía de Bogotá: segunda a sexta das 8h às 16h, sábados e domingos das 6h às 17h. É administrada pelo IPES (Instituto para la Economía Social) e é patrimônio arquitetônico da cidade; completou 80 anos. É considerada um dos pontos gastronômicos mais interessantes da capital: além de fruta, verdura, carne, peixe e grãos, as bancas servem prato feito de várias regiões - mazamorra, arroz con coco, plátano en tentación, peto costeño, sancocho de pescado, ceviche de camarón, cocido boyacense e chanfaina. NÃO há tabela de preço publicada: cada banca cobra o seu, e o patamar é o do corrientazo de bairro (14-18 mil COP em Bogotá, segundo a imprensa local em 2026).",
+    "duracao": {
+      "min": 45,
+      "tipica": 90,
+      "max": 150
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-16:00 | 06:00-17:00",
+    "diasFechados": [],
+    "melhorHorario": "Entre 12h e 14h, quando as bancas de comida estão todas servindo.",
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Cra. 5 nº 30A-30, Santa Fe, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: dá para comer prato de três regiões diferentes do país por menos que uma entrada na Zona G.",
+      "Fica a pé de La Macarena: junte com o Museo Nacional ou com a subida de Monserrate no mesmo dia."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "co-bog-artesanias-de-colombia-claustro-de-las-aguas-bogota",
+    "fontes": [
+      {
+        "url": "https://lanotaeconomica.com.co/movidas-empresarial/artesanias-de-colombia-llega-al-museo-nacional/"
+      },
+      {
+        "url": "https://radionacional.co/cultura/tradiciones/mercado-artesanal-del-claustro-bogota-fechas"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Artesanías de Colombia - Claustro de Las Aguas (Bogotá)",
+    "cidadeId": "bogota",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "oficial",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Loja oficial no claustro histórico de Las Aguas, Carrera 2ª com Calle 19, perto da Candelaria. Artesanato de todas as regiões, com procedência e preço fixo.",
+    "descricaoLonga": "Claustro de Las Aguas, Carrera 2ª com Calle 19, no limite da Candelaria com o bairro Las Aguas, em Bogotá. Há também um ponto na Calle de los Anticuarios, na zona norte, atrás da igreja de Santa Mónica. Artesanías de Colombia é entidade do Ministério de Comércio, Indústria e Turismo: as peças têm origem declarada e preço fixo. É a referência de qualidade e de preço justo para comparar com o Pasaje Rivas e o Mercado de San Alejo, que já estão no banco. NÃO achei horário de funcionamento, telefone nem faixa de preço por peça desta loja em fonte confiável.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Claustro de Las Aguas, Cra. 2ª com Calle 19, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Preço fixo: não se pechincha"
+      ]
+    },
+    "selos": [],
+    "dicas": [
+      "Veja aqui antes de comprar no Pasaje Rivas: cinco minutos olhando a peça certificada ensinam a reconhecer a imitação.",
+      "Fica a pé da Candelaria e do Museo del Oro: encaixa no mesmo dia do centro histórico."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-bog-museo-internacional-de-la-esmeralda-bogota",
+    "fontes": [
+      {
+        "url": "https://radionacional.co/cultura/tradiciones/asi-es-el-museo-internacional-de-la-esmeralda"
+      },
+      {
+        "url": "https://www.las2orillas.co/el-mercado-callejero-de-la-esmeralda-plaza-del-rosario-centro-bogota/"
+      },
+      {
+        "url": "https://www.frommers.com/destinations/bogota/shopping/overview"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Museo Internacional de la Esmeralda (Bogotá)",
+    "cidadeId": "bogota",
+    "categoria": "museu",
+    "tags": [
+      "esmeralda",
+      "compras",
+      "museu",
+      "centro-historico"
+    ],
+    "descricaoCurta": "Museu da esmeralda no 23º andar do Edifício Avianca, Calle 16 nº 6-66. Tem túnel de mina simulado de 27 m com amostras reais de Muzo, Chivor, Coscuez e Gachalá.",
+    "descricaoLonga": "Calle 16 nº 6-66, no 23º andar do emblemático Edifício Avianca, no centro de Bogotá. A visita guiada inclui um túnel de mina simulado de 27 metros, com amostras reais de jazidas de esmeralda das minas de Muzo, Chivor e Coscuez (Boyacá) e Gachalá (Cundinamarca). Serve de aula antes de comprar: o mercado de esmeralda de Bogotá fica concentrado na Carrera 6 entre as calles 12 e 13, no Centro Internacional, e há um mercado de rua na Plaza del Rosario, na Carrera 6 com Calle Jiménez, ao lado do Banco de la República (este último já está no banco por outro item). A recomendação publicada é ir a joalherias credenciadas e exigir certificado de autenticidade. NÃO achei horário de funcionamento, preço de entrada nem telefone do museu em fonte confiável.",
+    "duracao": {
+      "min": 45,
+      "tipica": 60,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "endereco": "Calle 16 nº 6-66, piso 23, Edificio Avianca, Bogotá"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": []
+    },
+    "selos": [],
+    "dicas": [
+      "Visite ANTES de pensar em comprar: saber o que é cor, inclusão e corte é a única defesa real contra pedra falsa.",
+      "Confirme horário e entrada por telefone: não achei esses dados publicados."
+    ],
+    "alertas": [
+      "Compra de esmeralda no mercado de rua da Plaza del Rosario ou na Carrera 6 é o cenário clássico de pedra falsa; a recomendação publicada é comprar só em joalheria credenciada e exigir certificado de autenticidade.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

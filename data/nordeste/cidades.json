@@ -24,7 +24,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "São Luís",
-    "regiaoId": "maranhao",
+    "regiaoId": "nordeste",
+    "estadoId": "maranhao",
+    "zonaId": "maranhao",
     "coords": {
       "lat": -2.52953,
       "lng": -44.29639
@@ -124,7 +126,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Barreirinhas",
-    "regiaoId": "lencois-maranhenses",
+    "regiaoId": "nordeste",
+    "estadoId": "maranhao",
+    "zonaId": "lencois-maranhenses",
     "coords": {
       "lat": -2.75413,
       "lng": -42.82597
@@ -200,7 +204,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Atins",
-    "regiaoId": "lencois-maranhenses",
+    "regiaoId": "nordeste",
+    "estadoId": "maranhao",
+    "zonaId": "lencois-maranhenses",
     "coords": {
       "lat": -2.57167,
       "lng": -42.74275
@@ -282,7 +288,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Parnaíba",
-    "regiaoId": "piaui-litoral",
+    "regiaoId": "nordeste",
+    "estadoId": "piaui",
+    "zonaId": "piaui-litoral",
     "coords": {
       "lat": -2.91475,
       "lng": -41.7662
@@ -365,7 +373,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "São Raimundo Nonato",
-    "regiaoId": "piaui-sertao",
+    "regiaoId": "nordeste",
+    "estadoId": "piaui",
+    "zonaId": "piaui-sertao",
     "coords": {
       "lat": -9.01498,
       "lng": -42.68884
@@ -500,7 +510,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Jericoacoara",
-    "regiaoId": "ceara",
+    "regiaoId": "nordeste",
+    "estadoId": "ceara",
+    "zonaId": "ceara",
     "coords": {
       "lat": -2.89863,
       "lng": -40.45061
@@ -662,7 +674,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Fortaleza",
-    "regiaoId": "ceara",
+    "regiaoId": "nordeste",
+    "estadoId": "ceara",
+    "zonaId": "ceara",
     "coords": {
       "lat": -3.79322,
       "lng": -38.52804
@@ -799,7 +813,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Canoa Quebrada",
-    "regiaoId": "ceara",
+    "regiaoId": "nordeste",
+    "estadoId": "ceara",
+    "zonaId": "ceara",
     "coords": {
       "lat": -4.52447,
       "lng": -37.70574
@@ -892,7 +908,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Natal",
-    "regiaoId": "rio-grande-do-norte",
+    "regiaoId": "nordeste",
+    "estadoId": "rio-grande-do-norte",
+    "zonaId": "rio-grande-do-norte",
     "coords": {
       "lat": -5.8054,
       "lng": -35.20809
@@ -1048,7 +1066,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Pipa",
-    "regiaoId": "rio-grande-do-norte",
+    "regiaoId": "nordeste",
+    "estadoId": "rio-grande-do-norte",
+    "zonaId": "rio-grande-do-norte",
     "coords": {
       "lat": -6.23726,
       "lng": -35.04416
@@ -1174,7 +1194,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "João Pessoa",
-    "regiaoId": "paraiba",
+    "regiaoId": "nordeste",
+    "estadoId": "paraiba",
+    "zonaId": "paraiba",
     "coords": {
       "lat": -7.1216,
       "lng": -34.88203
@@ -1313,7 +1335,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Recife",
-    "regiaoId": "pernambuco",
+    "regiaoId": "nordeste",
+    "estadoId": "pernambuco",
+    "zonaId": "pernambuco",
     "coords": {
       "lat": -8.05849,
       "lng": -34.88482
@@ -1405,7 +1429,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Porto de Galinhas",
-    "regiaoId": "pernambuco",
+    "regiaoId": "nordeste",
+    "estadoId": "pernambuco",
+    "zonaId": "pernambuco",
     "coords": {
       "lat": -8.50468,
       "lng": -35.005
@@ -1506,7 +1532,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Fernando de Noronha",
-    "regiaoId": "fernando-de-noronha",
+    "regiaoId": "nordeste",
+    "estadoId": "pernambuco",
+    "zonaId": "fernando-de-noronha",
     "coords": {
       "lat": -3.85375,
       "lng": -32.4198
@@ -1553,7 +1581,55 @@
       "Alugar buggy por vários dias quando o roteiro é concentrado em trilhas do parque, que se faz a pé e com guia",
       "Contar com saque na ilha: a infraestrutura bancária é mínima e NÃO confirmei nesta sessão quantos caixas eletrônicos funcionam"
     ],
-    "taxasObrigatorias": [],
+    "taxasObrigatorias": [
+      {
+        "nome": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 105.79,
+          "max": 672.85,
+          "por": "pessoa",
+          "inclui": "direito de permanência no arquipélago, por dia declarado",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.noronha.pe.gov.br/"
+            },
+            {
+              "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
+            },
+            {
+              "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
+            }
+          ],
+          "observacao": "A TPA e PROGRESSIVA por dia de permanência, nao uma diária fixa multiplicada. A faixa aqui vai de 1 dia (R$ 105,79, valor de 2026, reajuste de 4,4% sobre os R$ 101,33 de 2025) a 7 dias (R$ 672,85), que cobre qualquer viagem normal. A tabela oficial publica também 30 dias = R$ 7.460,56; esse numero NÃO entra na faixa porque usar o teto de um mes como maximo de uma viagem de 5 dias tornava o orçamento inútil (variava R$ 7 mil por pessoa). A tabela completa dia a dia não foi coletada — está nas pendências. Confira o valor do seu número de dias antes de fechar a conta."
+        },
+        "comoSePaga": "Online no site oficial do Distrito Estadual antes de embarcar, ou na chegada.",
+        "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha."
+      },
+      {
+        "nome": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
+        "preco": {
+          "moeda": "BRL",
+          "min": 192,
+          "max": 384,
+          "por": "pessoa",
+          "inclui": "acesso às áreas do parque por 10 dias a partir da compra",
+          "coletadoEm": "2026-10-08",
+          "fontes": [
+            {
+              "url": "https://www.parnanoronha.com.br/ingresso"
+            },
+            {
+              "url": "https://www.parnanoronha.com.br/visitante"
+            }
+          ],
+          "observacao": "Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade para menores de 12 anos, brasileiros acima de 60 anos e moradores permanentes."
+        },
+        "comoSePaga": "Online no parnanoronha.com.br ou no centro de visitantes.",
+        "quemPaga": "Visitante que vai acessar as áreas do parque."
+      }
+    ],
     "situacaoAtual": []
   },
   {
@@ -1581,7 +1657,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Maceió",
-    "regiaoId": "alagoas",
+    "regiaoId": "nordeste",
+    "estadoId": "alagoas",
+    "zonaId": "alagoas",
     "coords": {
       "lat": -9.64768,
       "lng": -35.73393
@@ -1712,7 +1790,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Maragogi",
-    "regiaoId": "alagoas",
+    "regiaoId": "nordeste",
+    "estadoId": "alagoas",
+    "zonaId": "alagoas",
     "coords": {
       "lat": -9.01183,
       "lng": -35.22251
@@ -1781,7 +1861,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "São Miguel dos Milagres",
-    "regiaoId": "alagoas",
+    "regiaoId": "nordeste",
+    "estadoId": "alagoas",
+    "zonaId": "alagoas",
     "coords": {
       "lat": -9.26722,
       "lng": -35.37631
@@ -1850,7 +1932,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Aracaju",
-    "regiaoId": "sergipe",
+    "regiaoId": "nordeste",
+    "estadoId": "sergipe",
+    "zonaId": "sergipe",
     "coords": {
       "lat": -10.91621,
       "lng": -37.07747
@@ -1954,7 +2038,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Salvador",
-    "regiaoId": "bahia-salvador",
+    "regiaoId": "nordeste",
+    "estadoId": "bahia",
+    "zonaId": "bahia-salvador",
     "coords": {
       "lat": -12.98225,
       "lng": -38.48128
@@ -2044,7 +2130,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Morro de São Paulo",
-    "regiaoId": "bahia-dende",
+    "regiaoId": "nordeste",
+    "estadoId": "bahia",
+    "zonaId": "bahia-dende",
     "coords": {
       "lat": -13.37755,
       "lng": -38.916
@@ -2178,7 +2266,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Itacaré",
-    "regiaoId": "bahia-cacau",
+    "regiaoId": "nordeste",
+    "estadoId": "bahia",
+    "zonaId": "bahia-cacau",
     "coords": {
       "lat": -14.27794,
       "lng": -38.99557
@@ -2245,7 +2335,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Lençóis",
-    "regiaoId": "chapada-diamantina",
+    "regiaoId": "nordeste",
+    "estadoId": "bahia",
+    "zonaId": "chapada-diamantina",
     "coords": {
       "lat": -12.56153,
       "lng": -41.38953
@@ -2363,7 +2455,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Trancoso",
-    "regiaoId": "bahia-descobrimento",
+    "regiaoId": "nordeste",
+    "estadoId": "bahia",
+    "zonaId": "bahia-descobrimento",
     "coords": {
       "lat": -16.56769,
       "lng": -39.19758

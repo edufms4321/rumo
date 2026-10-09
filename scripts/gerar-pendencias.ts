@@ -40,15 +40,13 @@ function diasEntre(a: string, b: string): number {
 
 /** O que o conversor descartou, gravado por importar-pesquisa. */
 function descartes(id: string): string[] {
-  for (const pasta of [join('pesquisa', id), 'pesquisa']) {
-    const caminho = join(pasta, 'descartados.json');
-    if (!existsSync(caminho)) continue;
-    const j = JSON.parse(readFileSync(caminho, 'utf8')) as { avisos?: string[] };
-    // A pasta raiz serve a Colombia; para os outros ela nao vale.
-    if (pasta === 'pesquisa' && id !== 'colombia') return [];
-    return j.avisos ?? [];
-  }
-  return [];
+  // Uma pasta por destino, sem excecao. A Colombia morava na raiz de
+  // /pesquisa por ter sido o primeiro destino, e esse caso especial ja ia
+  // fazer a onda nova de pesquisa cair num lugar que o conversor nao le.
+  const caminho = join('pesquisa', id, 'descartados.json');
+  if (!existsSync(caminho)) return [];
+  const j = JSON.parse(readFileSync(caminho, 'utf8')) as { avisos?: string[] };
+  return j.avisos ?? [];
 }
 
 function lerDestino(id: string) {

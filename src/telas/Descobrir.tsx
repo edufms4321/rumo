@@ -190,7 +190,7 @@ export function Descobrir() {
       {gruposVisiveis.length > 1 && (
         <nav aria-label="Grupos" className="mb-4 flex flex-wrap gap-1.5">
           <Pilula ativo={!grupo} aoClicar={() => definirGrupo(undefined)}>
-            tudo <span className="opacity-60">{semGrupo.length}</span>
+            tudo <span className="text-2xs font-normal tabular-nums">{semGrupo.length}</span>
           </Pilula>
           {gruposVisiveis.map(([g, n]) => (
             <Pilula
@@ -199,7 +199,7 @@ export function Descobrir() {
               key={g}
               titulo={DICA_DO_GRUPO[g]}
             >
-              {NOME_DO_GRUPO[g]} <span className="opacity-60">{n}</span>
+              {NOME_DO_GRUPO[g]} <span className="text-2xs font-normal tabular-nums">{n}</span>
             </Pilula>
           ))}
         </nav>
@@ -222,7 +222,7 @@ export function Descobrir() {
                   }}
                   key={e.id}
                 >
-                  {e.nome} <span className="opacity-60">{e.n}</span>
+                  {e.nome} <span className="text-2xs font-normal tabular-nums">{e.n}</span>
                 </Pilula>
               ))}
             </Grupo>
@@ -237,7 +237,7 @@ export function Descobrir() {
                 aoClicar={() => definirCidade(cidade === c.id ? undefined : c.id)}
                 key={c.id}
               >
-                {c.nome} <span className="opacity-60">{c.n}</span>
+                {c.nome} <span className="text-2xs font-normal tabular-nums">{c.n}</span>
               </Pilula>
             ))}
           </Grupo>

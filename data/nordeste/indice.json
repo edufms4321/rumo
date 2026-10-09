@@ -1,16 +1,291 @@
 {
   "id": "nordeste",
   "nome": "Nordeste brasileiro",
+  "paisNome": "Brasil",
+  "codigoPais": "BR",
   "moeda": "BRL",
+  "cobertura": "Cobre so o Nordeste, com 23 bases nos 9 estados. Sudeste, Sul, Norte e Centro-Oeste ainda nao foram pesquisados - nao da para planejar Rio, Sao Paulo ou Pantanal aqui.",
   "totais": {
     "itens": 397,
     "cidades": 23,
     "trechos": 23,
-    "eventos": 7
+    "eventos": 7,
+    "estados": 9,
+    "regioes": 1
   },
   "confianca": {
     "verificado": 186,
     "parcial": 203,
     "estimado": 8
-  }
+  },
+  "grupos": [
+    {
+      "grupo": "praia-e-mar",
+      "n": 65
+    },
+    {
+      "grupo": "natureza",
+      "n": 41
+    },
+    {
+      "grupo": "aventura",
+      "n": 43
+    },
+    {
+      "grupo": "cultura",
+      "n": 47
+    },
+    {
+      "grupo": "comer",
+      "n": 54
+    },
+    {
+      "grupo": "bares",
+      "n": 14
+    },
+    {
+      "grupo": "festas-e-musica",
+      "n": 15
+    },
+    {
+      "grupo": "compras",
+      "n": 21
+    },
+    {
+      "grupo": "passeios",
+      "n": 43
+    },
+    {
+      "grupo": "referencia",
+      "n": 54
+    }
+  ],
+  "arvore": [
+    {
+      "id": "nordeste",
+      "nome": "Nordeste",
+      "descricaoCurta": "Nove estados e a maior faixa de litoral do país, com sertão semiárido no interior.",
+      "estados": [
+        {
+          "id": "alagoas",
+          "nome": "Alagoas",
+          "sigla": "AL",
+          "tipo": "estado",
+          "descricaoCurta": "Água verde e barreira de recifes: Maragogi e São Miguel dos Milagres oferecem piscinas naturais a poucas horas de Maceió.",
+          "cidades": [
+            {
+              "id": "maceio",
+              "nome": "Maceió",
+              "zona": "Costa dos Corais",
+              "itens": 13
+            },
+            {
+              "id": "maragogi",
+              "nome": "Maragogi",
+              "zona": "Costa dos Corais",
+              "itens": 14
+            },
+            {
+              "id": "sao-miguel-dos-milagres",
+              "nome": "São Miguel dos Milagres",
+              "zona": "Costa dos Corais",
+              "itens": 14
+            }
+          ]
+        },
+        {
+          "id": "bahia",
+          "nome": "Bahia",
+          "sigla": "BA",
+          "tipo": "estado",
+          "descricaoCurta": "O estado com mais frentes do Nordeste: Salvador histórica, trekking na Chapada Diamantina, ilhas em Morro de São Paulo e o sul chique de Trancoso.",
+          "cidades": [
+            {
+              "id": "salvador",
+              "nome": "Salvador",
+              "zona": "Baia de Todos-os-Santos",
+              "itens": 20
+            },
+            {
+              "id": "morro-de-sao-paulo",
+              "nome": "Morro de São Paulo",
+              "zona": "Costa do Dende",
+              "itens": 19
+            },
+            {
+              "id": "itacare",
+              "nome": "Itacaré",
+              "zona": "Costa do Cacau",
+              "itens": 16
+            },
+            {
+              "id": "lencois",
+              "nome": "Lençóis",
+              "zona": "Chapada Diamantina",
+              "itens": 19
+            },
+            {
+              "id": "trancoso",
+              "nome": "Trancoso",
+              "zona": "Costa do Descobrimento",
+              "itens": 17
+            }
+          ]
+        },
+        {
+          "id": "ceara",
+          "nome": "Ceará",
+          "sigla": "CE",
+          "tipo": "estado",
+          "descricaoCurta": "Dunas e vento constante o ano inteiro: Jericoacoara e Canoa Quebrada são destino de kite e buggy, com Fortaleza como base aérea.",
+          "cidades": [
+            {
+              "id": "jericoacoara",
+              "nome": "Jericoacoara",
+              "zona": "Litoral do Ceara",
+              "itens": 18
+            },
+            {
+              "id": "fortaleza",
+              "nome": "Fortaleza",
+              "zona": "Litoral do Ceara",
+              "itens": 18
+            },
+            {
+              "id": "canoa-quebrada",
+              "nome": "Canoa Quebrada",
+              "zona": "Litoral do Ceara",
+              "itens": 17
+            }
+          ]
+        },
+        {
+          "id": "maranhao",
+          "nome": "Maranhão",
+          "sigla": "MA",
+          "tipo": "estado",
+          "descricaoCurta": "Porta de entrada dos Lençóis Maranhenses: travessia de 4x4 entre dunas e lagoas, e o centro histórico de azulejos de São Luís.",
+          "cidades": [
+            {
+              "id": "sao-luis",
+              "nome": "São Luís",
+              "zona": "Maranhao",
+              "itens": 20
+            },
+            {
+              "id": "barreirinhas",
+              "nome": "Barreirinhas",
+              "zona": "Lencois Maranhenses",
+              "itens": 19
+            },
+            {
+              "id": "atins",
+              "nome": "Atins",
+              "zona": "Lencois Maranhenses",
+              "itens": 13
+            }
+          ]
+        },
+        {
+          "id": "paraiba",
+          "nome": "Paraíba",
+          "sigla": "PB",
+          "tipo": "estado",
+          "descricaoCurta": "João Pessoa é cidade-base tranquila, com a Ponta do Seixas (ponto mais oriental das Américas) e piscinas naturais em Areia Vermelha.",
+          "cidades": [
+            {
+              "id": "joao-pessoa",
+              "nome": "João Pessoa",
+              "zona": "Litoral paraibano",
+              "itens": 18
+            }
+          ]
+        },
+        {
+          "id": "pernambuco",
+          "nome": "Pernambuco",
+          "sigla": "PE",
+          "tipo": "estado",
+          "descricaoCurta": "Três viagens diferentes num só estado: Recife e Olinda para cultura, Porto de Galinhas para piscinas naturais e Noronha para mergulho.",
+          "cidades": [
+            {
+              "id": "recife",
+              "nome": "Recife",
+              "zona": "Recife, Olinda e Porto de Galinhas",
+              "itens": 21
+            },
+            {
+              "id": "porto-de-galinhas",
+              "nome": "Porto de Galinhas",
+              "zona": "Recife, Olinda e Porto de Galinhas",
+              "itens": 16
+            },
+            {
+              "id": "fernando-de-noronha",
+              "nome": "Fernando de Noronha",
+              "zona": "Fernando de Noronha",
+              "itens": 23
+            }
+          ]
+        },
+        {
+          "id": "piaui",
+          "nome": "Piauí",
+          "sigla": "PI",
+          "tipo": "estado",
+          "descricaoCurta": "Litoral curto e vazio no Delta do Parnaíba, e as pinturas rupestres da Serra da Capivara, no sertão de São Raimundo Nonato.",
+          "cidades": [
+            {
+              "id": "parnaiba",
+              "nome": "Parnaíba",
+              "zona": "Delta do Parnaiba",
+              "itens": 17
+            },
+            {
+              "id": "sao-raimundo-nonato",
+              "nome": "São Raimundo Nonato",
+              "zona": "Serra da Capivara",
+              "itens": 15
+            }
+          ]
+        },
+        {
+          "id": "rio-grande-do-norte",
+          "nome": "Rio Grande do Norte",
+          "sigla": "RN",
+          "tipo": "estado",
+          "descricaoCurta": "Falésias coloridas e mar morno: Pipa concentra a vida noturna e Natal os passeios de buggy pelas dunas de Genipabu.",
+          "cidades": [
+            {
+              "id": "natal",
+              "nome": "Natal",
+              "zona": "Litoral potiguar",
+              "itens": 16
+            },
+            {
+              "id": "pipa",
+              "nome": "Pipa",
+              "zona": "Litoral potiguar",
+              "itens": 16
+            }
+          ]
+        },
+        {
+          "id": "sergipe",
+          "nome": "Sergipe",
+          "sigla": "SE",
+          "tipo": "estado",
+          "descricaoCurta": "Menor estado do país e o mais fácil de cobrir: praias urbanas calmas em Aracaju e os cânions do rio São Francisco em bate-volta.",
+          "cidades": [
+            {
+              "id": "aracaju",
+              "nome": "Aracaju",
+              "zona": "Litoral sergipano",
+              "itens": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

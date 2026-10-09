@@ -27,7 +27,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Cidade do Mexico",
-    "regiaoId": "valle-do-mexico",
+    "regiaoId": "ciudad-de-mexico",
+    "estadoId": "ciudad-de-mexico",
+    "zonaId": "valle-do-mexico",
     "coords": {
       "lat": 19.43263,
       "lng": -99.13318
@@ -8308,7 +8310,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Puebla",
-    "regiaoId": "valle-do-mexico",
+    "regiaoId": "centro-sur-y-oriente",
+    "estadoId": "puebla",
+    "zonaId": "valle-do-mexico",
     "coords": {
       "lat": 19.0438,
       "lng": -98.19815
@@ -8444,7 +8448,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Cancun",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 21.15275,
       "lng": -86.84258
@@ -8618,7 +8624,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Playa del Carmen",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 20.64628,
       "lng": -87.08079
@@ -8849,7 +8857,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Tulum",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 20.42965,
       "lng": -87.65293
@@ -9041,7 +9051,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Bacalar",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 18.94079,
       "lng": -88.61643
@@ -9079,7 +9091,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Isla Mujeres",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 21.23719,
       "lng": -86.735
@@ -9105,7 +9119,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Cozumel",
-    "regiaoId": "caribe-mexicano",
+    "regiaoId": "sur",
+    "estadoId": "quintana-roo",
+    "zonaId": "caribe-mexicano",
     "coords": {
       "lat": 20.50143,
       "lng": -86.94359
@@ -9145,7 +9161,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Merida",
-    "regiaoId": "yucatan",
+    "regiaoId": "sur",
+    "estadoId": "yucatan",
+    "zonaId": "yucatan",
     "coords": {
       "lat": 20.96708,
       "lng": -89.62374
@@ -10299,7 +10317,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Valladolid",
-    "regiaoId": "yucatan",
+    "regiaoId": "sur",
+    "estadoId": "yucatan",
+    "zonaId": "yucatan",
     "coords": {
       "lat": 20.69025,
       "lng": -88.2017
@@ -11041,7 +11061,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Oaxaca de Juarez",
-    "regiaoId": "oaxaca-vale",
+    "regiaoId": "sur",
+    "estadoId": "oaxaca",
+    "zonaId": "oaxaca-vale",
     "coords": {
       "lat": 17.09659,
       "lng": -96.72078
@@ -13067,7 +13089,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Puerto Escondido",
-    "regiaoId": "oaxaca-costa",
+    "regiaoId": "sur",
+    "estadoId": "oaxaca",
+    "zonaId": "oaxaca-costa",
     "coords": {
       "lat": 15.86933,
       "lng": -97.07264
@@ -13161,7 +13185,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Mazunte",
-    "regiaoId": "oaxaca-costa",
+    "regiaoId": "sur",
+    "estadoId": "oaxaca",
+    "zonaId": "oaxaca-costa",
     "coords": {
       "lat": 15.66759,
       "lng": -96.55366
@@ -13253,7 +13279,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Huatulco",
-    "regiaoId": "oaxaca-costa",
+    "regiaoId": "sur",
+    "estadoId": "oaxaca",
+    "zonaId": "oaxaca-costa",
     "coords": {
       "lat": 15.82209,
       "lng": -96.20599
@@ -13318,7 +13346,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "San Cristobal de las Casas",
-    "regiaoId": "chiapas",
+    "regiaoId": "sur",
+    "estadoId": "chiapas",
+    "zonaId": "chiapas",
     "coords": {
       "lat": 16.73538,
       "lng": -92.63873
@@ -14888,7 +14918,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Palenque",
-    "regiaoId": "chiapas",
+    "regiaoId": "sur",
+    "estadoId": "chiapas",
+    "zonaId": "chiapas",
     "coords": {
       "lat": 17.45316,
       "lng": -91.81212
@@ -15295,7 +15327,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "La Paz",
-    "regiaoId": "baja-california-sur",
+    "regiaoId": "noroeste",
+    "estadoId": "baja-california-sur",
+    "zonaId": "baja-california-sur",
     "coords": {
       "lat": 24.16199,
       "lng": -110.31585
@@ -15467,7 +15501,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Todos Santos",
-    "regiaoId": "baja-california-sur",
+    "regiaoId": "noroeste",
+    "estadoId": "baja-california-sur",
+    "zonaId": "baja-california-sur",
     "coords": {
       "lat": 23.45007,
       "lng": -110.22537
@@ -15527,7 +15563,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Los Cabos",
-    "regiaoId": "baja-california-sur",
+    "regiaoId": "noroeste",
+    "estadoId": "baja-california-sur",
+    "zonaId": "baja-california-sur",
     "coords": {
       "lat": 22.89389,
       "lng": -109.92006
@@ -15589,7 +15627,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Loreto",
-    "regiaoId": "baja-california-sur",
+    "regiaoId": "noroeste",
+    "estadoId": "baja-california-sur",
+    "zonaId": "baja-california-sur",
     "coords": {
       "lat": 26.00979,
       "lng": -111.34525
@@ -15615,7 +15655,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Puerto Vallarta",
-    "regiaoId": "pacifico-central",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "jalisco",
+    "zonaId": "pacifico-central",
     "coords": {
       "lat": 20.64072,
       "lng": -105.22031
@@ -15665,7 +15707,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Sayulita",
-    "regiaoId": "pacifico-central",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "nayarit",
+    "zonaId": "pacifico-central",
     "coords": {
       "lat": 20.86893,
       "lng": -105.4407
@@ -15722,7 +15766,9 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Guanajuato",
-    "regiaoId": "bajio",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "guanajuato",
+    "zonaId": "bajio",
     "coords": {
       "lat": 20.9877,
       "lng": -101
@@ -16245,7 +16291,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "San Miguel de Allende",
-    "regiaoId": "bajio",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "guanajuato",
+    "zonaId": "bajio",
     "coords": {
       "lat": 20.91305,
       "lng": -100.73566
@@ -16381,7 +16429,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Queretaro",
-    "regiaoId": "bajio",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "queretaro",
+    "zonaId": "bajio",
     "coords": {
       "lat": 20.5923,
       "lng": -100.39174
@@ -16473,7 +16523,9 @@
     "confianca": "estimado",
     "observacaoDeConfianca": "Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.",
     "nome": "Guadalajara",
-    "regiaoId": "bajio",
+    "regiaoId": "occidente-y-bajio",
+    "estadoId": "jalisco",
+    "zonaId": "bajio",
     "coords": {
       "lat": 20.67204,
       "lng": -103.3384

@@ -3540,5 +3540,127 @@
       "tipoCozinha": [],
       "reservaRecomendada": false
     }
+  },
+  {
+    "id": "co-adz-batismo-de-mergulho-discover-scuba-em-san-andres",
+    "fontes": [
+      {
+        "url": "https://www.padi.com/es/diving-in/san-andres-providencia-y-santa-catalina/"
+      },
+      {
+        "url": "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/"
+      },
+      {
+        "url": "https://www.padi.com/es/centro-buceo/colombia/san-andres-divers/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Batismo de mergulho (Discover Scuba) em San Andrés",
+    "cidadeId": "san-andres",
+    "categoria": "experiencia",
+    "tags": [
+      "mergulho",
+      "aventura",
+      "recife"
+    ],
+    "descricaoCurta": "Primeiro mergulho com cilindro e instrutor em San Andrés, sem certificação. Mini-curso em torno de USD 100. Trava o voo pelas 18 h seguintes.",
+    "descricaoLonga": "San Andrés faz parte da terceira maior barreira de coral do mundo e tem mais de 40 pontos de mergulho, com centros PADI na ilha (San Andrés Divers, Divers Team, Sea Pride) e saídas diárias de dois ou três mergulhos. Para quem não tem certificação existe o batismo/mini-curso com instrutor. Faixa de preço encontrada para a ilha: 1 mergulho USD 80, 2 mergulhos USD 100, mini-curso USD 100, curso Open Water USD 300 e avançado USD 350. REGRA DE AGENDA, a mais importante deste item: o mínimo da DAN é não voar nas 12 h seguintes a um mergulho e nas 18 h seguintes a mergulhos repetidos. Como San Andrés só se sai de avião (ADZ), o mergulho tem de ficar com pelo menos um dia inteiro de folga antes do voo de volta. NÃO consegui confirmar a tabela com nenhum centro no site oficial: o site antigo de um deles redireciona para outro domínio, e os valores acima vêm de um guia de terceiros.",
+    "duracao": {
+      "min": 180,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "melhorHorario": "Saída de manhã. Nunca no dia anterior ao voo de volta.",
+    "preco": {
+      "moeda": "USD",
+      "min": 80,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "1 mergulho USD 80; 2 mergulhos USD 100; mini-curso/batismo USD 100. Equipamento e instrutor. Faixa de guia de terceiros, não confirmada por centro oficial.",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/"
+        }
+      ]
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Não voar nas 12 h seguintes a um mergulho e nas 18 h seguintes a mergulhos repetidos (mínimo DAN)",
+        "Questionário médico obrigatório; problema cardíaco, respiratório ou de ouvido pode impedir",
+        "Batismo não dá certificação"
+      ],
+      "dependeDeClima": true,
+      "naoVoarDepoisHoras": 18,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Coloque o mergulho no começo da estadia em San Andrés, não no fim: a regra das 18 h já estragou a volta de muita gente.",
+      "Água clara e recife raso fazem de San Andrés o melhor lugar da Colômbia para o primeiro mergulho da vida."
+    ],
+    "alertas": [
+      "San Andrés só tem saída aérea: um mergulho com cilindro no penúltimo dia pode conflitar com o voo de volta pela regra das 18 h.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "co-adz-mergulhar-em-san-andres-e-voar-embora-a-regra-das-18",
+    "fontes": [
+      {
+        "url": "https://www.padi.com/es/diving-in/san-andres-providencia-y-santa-catalina/"
+      },
+      {
+        "url": "https://esim.holafly.com/es/blog/consejos-viaje/buceo-san-andres/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mergulhar em San Andrés e voar embora: a regra das 18 horas",
+    "cidadeId": "san-andres",
+    "categoria": "experiencia",
+    "tags": [
+      "mergulho",
+      "seguranca",
+      "logistica",
+      "referencia"
+    ],
+    "descricaoCurta": "Cartão de referência: depois de mergulho com cilindro não se voa por 12 h (um mergulho) ou 18 h (mergulhos repetidos). Em ilha com saída só aérea, isso é um dia de agenda.",
+    "descricaoLonga": "O intervalo mínimo recomendado pela DAN (Divers Alert Network) entre o último mergulho com cilindro e um voo é de 12 horas depois de um único mergulho e de 18 horas depois de mergulhos repetidos ou de vários dias de mergulho. A pressão da cabine de um avião comercial equivale a estar a cerca de 2.000-2.400 m de altitude, e subir cedo demais depois de mergulhar aumenta o risco de doença descompressiva. Por que isso é um problema de roteiro e não só de saúde: San Andrés só se sai de avião, pelo aeroporto Gustavo Rojas Pinilla (ADZ). Um dia de mergulho no penúltimo dia da ilha pode inviabilizar um voo da manhã seguinte. O mesmo vale para Cartagena e Santa Marta quando o trecho seguinte é aéreo. REGRA PRÁTICA: coloque mergulho com cilindro no primeiro ou no segundo dia da base, nunca no último. Isto vale SÓ para mergulho com cilindro: snorkel, flutuação, praia e passeio de barco não têm essa restrição.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se você só mergulhar uma vez, 12 h bastam pela DAN; com dois ou mais mergulhos, conte 18 h. Na dúvida, use 18.",
+      "Snorkel NÃO entra nesta regra. Não cancele um snorkel por medo de voo."
+    ],
+    "alertas": [
+      "Voar com menos de 12-18 h depois de mergulho com cilindro é risco de doença descompressiva, reconhecido pela DAN.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
   }
 ]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "maranhao",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/21/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Atins não é distrito do IBGE: é povoado/localidade do município de Barreirinhas (verificado na lista completa dos 243 distritos do MA).",
+    "nome": "Maranhão",
+    "sigla": "MA",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "São Luís",
+    "descricaoCurta": "Porta de entrada dos Lençóis Maranhenses: travessia de 4x4 entre dunas e lagoas, e o centro histórico de azulejos de São Luís."
+  },
+  {
+    "id": "piaui",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/22/municipios?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Piauí",
+    "sigla": "PI",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Teresina",
+    "descricaoCurta": "Litoral curto e vazio no Delta do Parnaíba, e as pinturas rupestres da Serra da Capivara, no sertão de São Raimundo Nonato."
+  },
+  {
+    "id": "ceara",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/23/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Jericoacoara NÃO é distrito: o município Jijoca de Jericoacoara (2307254) tem distrito único homônimo. Canoa Quebrada também não é distrito — é localidade do município de Aracati (7 distritos, nenhum com esse nome).",
+    "nome": "Ceará",
+    "sigla": "CE",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Fortaleza",
+    "descricaoCurta": "Dunas e vento constante o ano inteiro: Jericoacoara e Canoa Quebrada são destino de kite e buggy, com Fortaleza como base aérea."
+  },
+  {
+    "id": "rio-grande-do-norte",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/24/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Pipa não é distrito: é localidade do município de Tibau do Sul (2414209).",
+    "nome": "Rio Grande do Norte",
+    "sigla": "RN",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Natal",
+    "descricaoCurta": "Falésias coloridas e mar morno: Pipa concentra a vida noturna e Natal os passeios de buggy pelas dunas de Genipabu."
+  },
+  {
+    "id": "paraiba",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/25/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Paraíba",
+    "sigla": "PB",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "João Pessoa",
+    "descricaoCurta": "João Pessoa é cidade-base tranquila, com a Ponta do Seixas (ponto mais oriental das Américas) e piscinas naturais em Areia Vermelha."
+  },
+  {
+    "id": "pernambuco",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/26/distritos?view=nivelado"
+      },
+      {
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/dtb/pernambuco/fernandodenoronha.pdf"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Fernando de Noronha é distrito estadual de Pernambuco (ADCT art. 15 da Constituição de 1988 e art. 75 da Constituição estadual) e no IBGE aparece como município-equivalente de PE. Porto de Galinhas não é distrito: é localidade de Ipojuca.",
+    "nome": "Pernambuco",
+    "sigla": "PE",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Recife",
+    "descricaoCurta": "Três viagens diferentes num só estado: Recife e Olinda para cultura, Porto de Galinhas para piscinas naturais e Noronha para mergulho."
+  },
+  {
+    "id": "alagoas",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/27/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Alagoas",
+    "sigla": "AL",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Maceió",
+    "descricaoCurta": "Água verde e barreira de recifes: Maragogi e São Miguel dos Milagres oferecem piscinas naturais a poucas horas de Maceió."
+  },
+  {
+    "id": "sergipe",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/28/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Sergipe",
+    "sigla": "SE",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Aracaju",
+    "descricaoCurta": "Menor estado do país e o mais fácil de cobrir: praias urbanas calmas em Aracaju e os cânions do rio São Francisco em bate-volta."
+  },
+  {
+    "id": "bahia",
+    "fontes": [
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome"
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
+      },
+      {
+        "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/29/distritos?view=nivelado"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Morro de São Paulo NÃO é distrito: Cairu (2905404) tem os distritos Cairu, Galeão, Gamboa e Velha Boipeba. Trancoso, por outro lado, É distrito oficial de Porto Seguro (2925303), ao lado de Arraial d'Ajuda e Caraíva.",
+    "nome": "Bahia",
+    "sigla": "BA",
+    "tipo": "estado",
+    "regiaoId": "nordeste",
+    "capital": "Salvador",
+    "descricaoCurta": "O estado com mais frentes do Nordeste: Salvador histórica, trekking na Chapada Diamantina, ilhas em Morro de São Paulo e o sul chique de Trancoso."
+  }
+]

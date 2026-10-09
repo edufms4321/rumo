@@ -44,8 +44,12 @@ export type Zona = z.infer<typeof Zona>;
 
 export const Estado = BaseRecord.extend({
   nome: z.string().min(1),
-  /** Sigla oficial: BA, QROO, SAI. Vazio quando o pais nao usa sigla. */
-  sigla: z.string().min(1).max(5),
+  /**
+   * Abreviatura oficial: BA, Q. Roo, CO-BOL, DO-11. Dez caracteres porque
+   * codigo ISO 3166-2 nao cabe em cinco, e cortar em cinco colidia Bolivar
+   * com Boyaca.
+   */
+  sigla: z.string().min(1).max(10),
   /** O nome que o pais da a este nivel, para a interface nao chamar tudo de estado. */
   tipo: z.enum(['estado', 'departamento', 'provincia', 'distrito', 'arquipelago']),
   regiaoId: Slug,

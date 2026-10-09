@@ -1,0 +1,201 @@
+[
+  {
+    "id": "bolivar",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Caribe_(Colombia)"
+      },
+      {
+        "url": "https://colombia.co/visita-colombia/turismo-por-regiones/cinco-regiones-te-esperan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 13; capital verificada como CARTAGENA DE INDIAS (13001). Atenção: as regiões naturais não seguem limites departamentais — o sul de Bolívar (Magdalena Medio) também é listado na Região Andina. A atribuição ao Caribe segue a faixa litorânea onde está Cartagena.",
+    "nome": "Bolívar",
+    "sigla": "CO-BOL",
+    "tipo": "departamento",
+    "regiaoId": "caribe",
+    "capital": "Cartagena de Indias",
+    "descricaoCurta": "Cartagena das Índias e sua cidade murada, mais as Islas del Rosario em bate-volta de lancha."
+  },
+  {
+    "id": "magdalena",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Caribe_(Colombia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 47; capital verificada como SANTA MARTA (47001).",
+    "nome": "Magdalena",
+    "sigla": "CO-MAG",
+    "tipo": "departamento",
+    "regiaoId": "caribe",
+    "capital": "Santa Marta",
+    "descricaoCurta": "Santa Marta é a base para o Parque Tayrona e para a trilha da Cidade Perdida, na Sierra Nevada."
+  },
+  {
+    "id": "la-guajira",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_dpto%20in(%2744%27,%2763%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Caribe_(Colombia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 44; capital RIOHACHA (44001). Palomino confirmado como localidade do município de DIBULLA (La Guajira), presente na lista DIVIPOLA dos 15 municípios do departamento. Parte do departamento também aparece na Região Andina por causa da Sierra Nevada — atribuído ao Caribe por ser onde fica a faixa litorânea de Palomino.",
+    "nome": "La Guajira",
+    "sigla": "CO-LAG",
+    "tipo": "departamento",
+    "regiaoId": "caribe",
+    "capital": "Riohacha",
+    "descricaoCurta": "Deserto encontrando o mar: Palomino para rafting em pneu no rio, e o extremo norte (Cabo de la Vela, Punta Gallinas) em 4x4."
+  },
+  {
+    "id": "san-andres-y-providencia",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://colombia.co/visita-colombia/turismo-por-regiones/cinco-regiones-te-esperan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 88; no DIVIPOLA San Andrés aparece com tipo_municipio 'Isla', não 'Municipio'. É a única unidade do país inteiramente na Região Insular.",
+    "nome": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "sigla": "CO-SAP",
+    "tipo": "arquipelago",
+    "regiaoId": "insular",
+    "capital": "San Andrés",
+    "descricaoCurta": "Arquipélago caribenho a 700 km do continente, mais perto da Nicarágua: mar de sete cores, mergulho e porto livre."
+  },
+  {
+    "id": "bogota-dc",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://colombia.co/visita-colombia/turismo-por-regiones/cinco-regiones-te-esperan"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 11. Não é departamento: é Distrito Capital, unidade territorial própria ao lado dos 32 departamentos. Fica na Região Andina (altiplano cundiboyacense).",
+    "nome": "Bogotá, D.C.",
+    "sigla": "CO-DC",
+    "tipo": "distrito",
+    "regiaoId": "andina",
+    "capital": "Bogotá, D.C.",
+    "descricaoCurta": "Capital a 2.600 m: museus do Ouro e Botero, Candelária colonial e o teleférico de Monserrate; base para Villa de Leyva."
+  },
+  {
+    "id": "boyaca",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?nom_mpio=VILLA%20DE%20LEYVA"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Andina_(Colombia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 15; capital TUNJA (15001). Villa de Leyva confirmada como município 15407 de Boyacá.",
+    "nome": "Boyacá",
+    "sigla": "CO-BOY",
+    "tipo": "departamento",
+    "regiaoId": "andina",
+    "capital": "Tunja",
+    "descricaoCurta": "Altiplano de vilarejos coloniais de pedra branca; Villa de Leyva é o cartão-postal, a 4h de Bogotá."
+  },
+  {
+    "id": "antioquia",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Andina_(Colombia)"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Caribe_(Colombia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 05; capital MEDELLÍN (05001). As sub-regiões de Urabá e Bajo Cauca são contadas na Região Caribe; Medellín e o Vale de Aburrá ficam na Andina, e por isso o departamento foi atribuído a andina.",
+    "nome": "Antioquia",
+    "sigla": "CO-ANT",
+    "tipo": "departamento",
+    "regiaoId": "andina",
+    "capital": "Medellín",
+    "descricaoCurta": "Medellín no Vale de Aburrá, com metrocable e Comuna 13, e Guatapé com a Piedra del Peñol em bate-volta."
+  },
+  {
+    "id": "quindio",
+    "fontes": [
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_mpio%20in(%2713001%27,%2747001%27,%2744001%27,%2788001%27,%2711001%27,%2715001%27,%2705001%27,%2763001%27)"
+      },
+      {
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w.json?$where=cod_dpto%20in(%2744%27,%2763%27)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Andina_(Colombia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Código DIVIPOLA 63; capital ARMENIA (63001). Salento confirmado como um dos 12 municípios de Quindío no DIVIPOLA.",
+    "nome": "Quindío",
+    "sigla": "CO-QUI",
+    "tipo": "departamento",
+    "regiaoId": "andina",
+    "capital": "Armenia",
+    "descricaoCurta": "Coração do Eje Cafetero: fazendas de café, palmeiras de cera do Valle de Cocora e as casas coloridas de Salento."
+  }
+]

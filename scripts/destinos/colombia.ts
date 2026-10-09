@@ -13,7 +13,7 @@ export const colombia: ConfigDeDestino = {
   idiomas: ['es'],
   // Cobre o continente e o arquipelago de San Andres, bem a oeste.
   caixaDelimitadora: { latMin: -4.3, latMax: 13.5, lngMin: -82.1, lngMax: -66.8 },
-  pastaDePesquisa: 'pesquisa',
+  pastaDePesquisa: 'pesquisa/colombia',
 
   regiaoDaCidade: {
     cartagena: 'caribe-continental',

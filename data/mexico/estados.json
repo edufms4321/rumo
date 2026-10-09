@@ -1,0 +1,288 @@
+[
+  {
+    "id": "ciudad-de-mexico",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/09"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 09, abreviatura oficial CDMX. Não é estado: é entidade federativa autônoma (ex-Distrito Federal), dividida em 16 demarcaciones territoriales, não em municípios. Na regionalização do INEGI forma região própria.",
+    "nome": "Ciudad de México",
+    "sigla": "CDMX",
+    "tipo": "distrito",
+    "regiaoId": "ciudad-de-mexico",
+    "capital": "Ciudad de México",
+    "descricaoCurta": "Hub aéreo do país e cidade de museus: Centro Histórico, Coyoacán, Teotihuacán em bate-volta e a melhor cena gastronômica do México."
+  },
+  {
+    "id": "puebla",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/21"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 21, abreviatura oficial 'Pue.'. Município de Puebla = 21114; a cidade capital chama-se Puebla de Zaragoza.",
+    "nome": "Puebla",
+    "sigla": "Pue.",
+    "tipo": "estado",
+    "regiaoId": "centro-sur-y-oriente",
+    "capital": "Puebla de Zaragoza",
+    "descricaoCurta": "Centro barroco e talavera a 2h da Cidade do México; base para Cholula e para os vulcões Popocatépetl e Iztaccíhuatl."
+  },
+  {
+    "id": "quintana-roo",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://www.inegi.org.mx/contenidos/app/areasgeograficas/resumen/resumen_23.pdf"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 23, abreviatura oficial 'Q. Roo'. A capital é Chetumal (município Othón P. Blanco), não Cancún. Confirmado no INEGI que Cozumel (23001), Isla Mujeres (23003), Benito Juárez/Cancún (23005), Solidaridad/Playa del Carmen (23008), Tulum (23009) e Bacalar (23010) são municípios de Quintana Roo.",
+    "nome": "Quintana Roo",
+    "sigla": "Q. Roo",
+    "tipo": "estado",
+    "regiaoId": "sur",
+    "capital": "Chetumal",
+    "descricaoCurta": "Todo o Caribe mexicano: Cancún e Playa del Carmen para resorts, Tulum e Bacalar para cenotes e lagoa, Cozumel e Isla Mujeres para mergulho."
+  },
+  {
+    "id": "yucatan",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/31"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 31, abreviatura oficial 'Yuc.'. Mérida = 31050; Valladolid = 31102 (município de Yucatán, não de Quintana Roo).",
+    "nome": "Yucatán",
+    "sigla": "Yuc.",
+    "tipo": "estado",
+    "regiaoId": "sur",
+    "capital": "Mérida",
+    "descricaoCurta": "Mérida como base colonial segura e barata, com Chichén Itzá, Uxmal, cenotes e a vila amarela de Izamal ao redor."
+  },
+  {
+    "id": "oaxaca",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/20"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 20, abreviatura oficial 'Oax.'. Puerto Escondido pertence ao município San Pedro Mixtepec (20319), Mazunte a San Pedro Pochutla (20324) e Huatulco a Santa María Huatulco (20413).",
+    "nome": "Oaxaca",
+    "sigla": "Oax.",
+    "tipo": "estado",
+    "regiaoId": "sur",
+    "capital": "Oaxaca de Juárez",
+    "descricaoCurta": "Comida e artesanato na capital (mole, mezcal, Monte Albán) e um litoral de surf no Pacífico: Puerto Escondido, Mazunte e Huatulco."
+  },
+  {
+    "id": "chiapas",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/07"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 07, abreviatura oficial 'Chis.'. San Cristóbal de las Casas = 07078; Palenque = 07065. A capital é Tuxtla Gutiérrez, não San Cristóbal.",
+    "nome": "Chiapas",
+    "sigla": "Chis.",
+    "tipo": "estado",
+    "regiaoId": "sur",
+    "capital": "Tuxtla Gutiérrez",
+    "descricaoCurta": "Montanha e selva: San Cristóbal de las Casas como base fria e indígena, Palenque para ruínas maias na mata e o Cañón del Sumidero."
+  },
+  {
+    "id": "baja-california-sur",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/03"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 03, abreviatura oficial BCS. O estado tem apenas 5 municípios; Todos Santos pertence ao município de La Paz (03003), e Los Cabos (03008) e Loreto (03009) são municípios próprios.",
+    "nome": "Baja California Sur",
+    "sigla": "BCS",
+    "tipo": "estado",
+    "regiaoId": "noroeste",
+    "capital": "La Paz",
+    "descricaoCurta": "Deserto sobre mar turquesa: La Paz para nadar com tubarão-baleia e lobos-marinhos, Los Cabos para resorts, Todos Santos e Loreto para vilas calmas."
+  },
+  {
+    "id": "jalisco",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/14"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 14, abreviatura oficial 'Jal.'. Guadalajara = 14039; Puerto Vallarta = 14067. Atenção: Sayulita NÃO pertence a Jalisco.",
+    "nome": "Jalisco",
+    "sigla": "Jal.",
+    "tipo": "estado",
+    "regiaoId": "occidente-y-bajio",
+    "capital": "Guadalajara",
+    "descricaoCurta": "Berço da tequila e do mariachi: Guadalajara urbana com bate-volta a Tequila, e Puerto Vallarta na Bahía de Banderas."
+  },
+  {
+    "id": "nayarit",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/18"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 18, abreviatura oficial 'Nay.'. Sayulita é localidade do município Bahía de Banderas (18020), em NAYARIT — embora o aeroporto usado seja o de Puerto Vallarta, em Jalisco. Capital: Tepic.",
+    "nome": "Nayarit",
+    "sigla": "Nay.",
+    "tipo": "estado",
+    "regiaoId": "occidente-y-bajio",
+    "capital": "Tepic",
+    "descricaoCurta": "Lado norte da Bahía de Banderas: Sayulita e a Riviera Nayarit concentram surf iniciante e pousadas pé-na-areia."
+  },
+  {
+    "id": "guanajuato",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/11"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 11, abreviatura oficial 'Gto.'. Guanajuato = 11015; San Miguel de Allende = 11003. A capital do estado tem o mesmo nome do estado.",
+    "nome": "Guanajuato",
+    "sigla": "Gto.",
+    "tipo": "estado",
+    "regiaoId": "occidente-y-bajio",
+    "capital": "Guanajuato",
+    "descricaoCurta": "Duas cidades coloniais no Bajío: Guanajuato em becos e túneis sob a cidade, e San Miguel de Allende, bonita e cara."
+  },
+  {
+    "id": "queretaro",
+    "fontes": [
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgee/"
+      },
+      {
+        "url": "https://gaia.inegi.org.mx/wscatgeo/mgem/22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_M%C3%A9xico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Clave INEGI 22, abreviatura oficial 'Qro.'. Município de Querétaro = 22014; a cidade capital chama-se Santiago de Querétaro.",
+    "nome": "Querétaro",
+    "sigla": "Qro.",
+    "tipo": "estado",
+    "regiaoId": "occidente-y-bajio",
+    "capital": "Santiago de Querétaro",
+    "descricaoCurta": "Centro histórico compacto e aquedutos, com rota de vinho e queijo nos arredores; parada natural entre a CDMX e o Bajío."
+  }
+]

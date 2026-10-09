@@ -1413,5 +1413,59 @@
     ]
    }
   ]
+ },
+ "_leia_cidades": "Ajuste de cidade. Lista substitui a lista inteira do conversor, entao as DUAS taxas de Noronha sao restatadas aqui.",
+ "cidades": {
+  "fernando-de-noronha": {
+   "taxasObrigatorias": [
+    {
+     "nome": "TPA — Taxa de Preservação Ambiental (Distrito Estadual de Fernando de Noronha)",
+     "preco": {
+      "moeda": "BRL",
+      "min": 105.79,
+      "max": 672.85,
+      "por": "pessoa",
+      "inclui": "direito de permanência no arquipélago, por dia declarado",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+       {
+        "url": "https://www.noronha.pe.gov.br/"
+       },
+       {
+        "url": "https://brasilturis.com.br/2026/01/02/taxa-de-preservacao-ambiental-em-fernando-de-noronha-tem-reajuste-de-44-em-2026/"
+       },
+       {
+        "url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11704077-turistas-passam-a-pagar-mais-caro-pela-taxa-de-preservacao-ambiental-em-noronha.html"
+       }
+      ],
+      "observacao": "A TPA e PROGRESSIVA por dia de permanência, nao uma diária fixa multiplicada. A faixa aqui vai de 1 dia (R$ 105,79, valor de 2026, reajuste de 4,4% sobre os R$ 101,33 de 2025) a 7 dias (R$ 672,85), que cobre qualquer viagem normal. A tabela oficial publica também 30 dias = R$ 7.460,56; esse numero NÃO entra na faixa porque usar o teto de um mes como maximo de uma viagem de 5 dias tornava o orçamento inútil (variava R$ 7 mil por pessoa). A tabela completa dia a dia não foi coletada — está nas pendências. Confira o valor do seu número de dias antes de fechar a conta."
+     },
+     "comoSePaga": "Online no site oficial do Distrito Estadual antes de embarcar, ou na chegada.",
+     "quemPaga": "Todo visitante que não reside nem é domiciliado em Fernando de Noronha."
+    },
+    {
+     "nome": "Ingresso do PARNAMAR — Parque Nacional Marinho de Fernando de Noronha (ICMBio)",
+     "preco": {
+      "moeda": "BRL",
+      "min": 192,
+      "max": 384,
+      "por": "pessoa",
+      "inclui": "acesso às áreas do parque por 10 dias a partir da compra",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+       {
+        "url": "https://www.parnanoronha.com.br/ingresso"
+       },
+       {
+        "url": "https://www.parnanoronha.com.br/visitante"
+       }
+      ],
+      "observacao": "Brasileiro R$ 192,00 (desconto de 50%); estrangeiro R$ 384,00. Base: Portaria ICMBio nº 4.423, de 14 de outubro de 2025. Gratuidade para menores de 12 anos, brasileiros acima de 60 anos e moradores permanentes."
+     },
+     "comoSePaga": "Online no parnanoronha.com.br ou no centro de visitantes.",
+     "quemPaga": "Visitante que vai acessar as áreas do parque."
+    }
+   ]
+  }
  }
 }

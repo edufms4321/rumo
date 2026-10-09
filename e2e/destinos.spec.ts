@@ -46,7 +46,24 @@ for (const destino of DESTINOS) {
     // Todo item traz procedencia: e a regra que o app promete na capa.
     await expect(page.locator('main ul li').first().getByText(/coletado/)).toBeVisible();
 
-    // Favoritar, agendar, e o dia tem de se resolver sem quebrar.
+    /*
+      Favoritar dois itens QUE SE AGENDAM.
+
+      Favoritar por posicao na lista toda era instavel: um quarto dos itens
+      de alguns pacotes e cartao de referencia ("AVISO: a balsa come seu fim
+      de tarde"), que de proposito nao tem botao de adicionar ao dia. Quando
+      a posicao 0 ou 1 caia num deles, o teste ficava esperando um botao que
+      nunca ia existir e estourava o limite - e em outro pacote, nao sempre
+      no mesmo, o que fazia parecer problema de lentidao.
+
+      O grupo "Comer" nao tem cartao de referencia em pacote nenhum.
+    */
+    // Escopo na navegacao de grupos: existe um item do Mexico chamado
+    // "Comer barato: Mercado de Santa Ana...", que colidia com a pilula.
+    await page
+      .getByRole('navigation', { name: 'Grupos' })
+      .getByRole('button', { name: /^Comer/ })
+      .click();
     await page.getByRole('button', { name: 'Favoritar' }).nth(0).click();
     await page.getByRole('button', { name: 'Favoritar' }).nth(1).click();
     await page.getByRole('link', { name: 'Calendario' }).click();
