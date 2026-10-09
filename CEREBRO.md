@@ -85,7 +85,9 @@ O conversor **não preenche buraco**: preço zerado vira ausência de preço mai
 
 ```
 data/<destino>/destino.json               objeto
-data/<destino>/regioes.json               lista
+data/<destino>/regioes.json               lista  (macrorregiao do pais)
+data/<destino>/estados.json               lista  (estado/departamento/provincia)
+data/<destino>/zonas.json                 lista  (regiao turistica; etiqueta, sem fonte)
 data/<destino>/cidades.json               lista
 data/<destino>/aeroportos.json            lista
 data/<destino>/trechos.json               lista
@@ -122,17 +124,23 @@ npm run validate          # typecheck + lint + test + validate:data
 
 | | |
 |---|---|
-| destinos | 4 — Colômbia, México, Nordeste brasileiro, Punta Cana (pesquisa em curso) |
-| itens | 832 em 57 bases |
-| testes do motor | 151, verdes |
-| testes de navegador | 22, verdes (inclui 3 de acessibilidade) |
+| destinos | 4 pacotes em 4 países — Brasil (Nordeste), Colômbia, México, República Dominicana |
+| árvore de lugares | país > macrorregião > estado > cidade-base, com a região turística como etiqueta |
+| itens | ver a tabela abaixo; cada um classificado em 11 grupos derivados |
+| testes do motor | 161, verdes |
+| testes de navegador | 27, verdes (inclui 3 de acessibilidade) |
 | validação de dados | 0 erro |
 | acessibilidade | 0 violação axe em 9 telas × 2 temas |
 | pacote inicial | ~171 kB gz; o banco de cada destino vem sob demanda |
 
-Nordeste completo: 397 itens nas 23 bases. Punta Cana tem a configuração e as coordenadas das 6 bases; a pesquisa de lugares e logística está em curso.
+Rode `npm run grupos` para a distribuição atual por grupo e `npm run validate:data` para as contagens por pacote. Um pacote cobre um **recorte** de país, nunca o país inteiro: `destino.cobertura` diz em uma frase o que ficou de fora, e a tela inicial mostra essa frase.
 
 ## Armadilhas já pagas (não repetir)
+
+- **Barra invertida some quando se edita código por script.** `` vira um caractere de backspace de verdade e `s` vira `s`; a expressão continua válida, `tsc` e `oxlint` passam, e ela não casa com nada. Monte a barra com `String.fromCharCode(92)`. Há um teste varrendo o fonte (D35).
+- **Filtro que lê prosa livre engole dado bom.** O guarda de taxa percentual lia o texto explicativo e derrubou as duas taxas de Noronha, porque uma fala em "reajuste de 4,4%" e a outra em "desconto de 50%" (D34).
+- **Aviso não impede estrago.** O conversor imprimia "repete a base" e sobrescrevia a onda anterior assim mesmo — 122 itens perdidos num import (D33).
+- **Pesquisa da Colômbia mora em `pesquisa/colombia/`**, como a dos outros. Morou na raiz de `/pesquisa` por ter sido o primeiro destino.
 
 - **O atributo de tema é `data-tema`, com valores `claro` e `escuro`** — não `data-theme`/`light`/`dark`. Já varri acessibilidade no tema errado e concluí que estava tudo certo.
 - **IndexedDB não termina antes de a aba fechar.** `pagehide` não resolve. Por isso existe o espelho síncrono em `localStorage` (`rumo:biblioteca:espelho:v1`).

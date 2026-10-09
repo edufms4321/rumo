@@ -219,3 +219,61 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Decisão:** além da forma antiga (`base` + `notasDaBase`), um arquivo de pesquisa pode trazer `notasPorBase` — um mapa — com os itens de várias bases juntos. O conversor reparte usando o mesmo `cidadeDoItem` que já usa para o resto, e **avisa** quando a cidade de um item não está no mapa.
 
 **Por quê:** uma onda por cidade funcionou para a Colômbia. O Nordeste tem 23 bases e exigiria 23 ondas. O aviso existe porque item com cidade desconhecida sumia em silêncio — o jeito mais fácil de perder pesquisa sem perceber.
+
+---
+
+## D31 — Lugar tem quatro níveis; região turística é etiqueta, não nível
+
+**Decisão:** a árvore de lugares é **país > macrorregião > estado > cidade-base**. Os três primeiros níveis vêm de divisão administrativa oficial, pesquisada com fonte (IBGE, DANE, INEGI, IGN dominicano) e guardada em `pesquisa/_divisoes/divisoes.json`. A região turística ("Chapada Diamantina", "Eje Cafetero", "Zona Colonial") vira **etiqueta na cidade**, não degrau da árvore.
+
+**Por quê:** "Nordeste" era *uma* opção de destino com 23 bases soltas dentro, e não havia como perguntar "o que tem na Bahia". Quem planeja pensa por estado.
+
+**Por que a região turística ficou de fora da árvore:** ela não particiona o mapa. Oaxaca tem duas (vale e costa) dentro de um estado; o Eje Cafetero atravessa três departamentos. Encaixá-la entre estado e cidade produzia uma hierarquia falsa — e hierarquia falsa é pior que lista plana, porque parece confiável.
+
+**O que se perde:** a árvore ganha um nível a mais para navegar. Em troca, cada nível é uma coisa que existe no mundo e tem fonte. Quando a macrorregião tem um estado só — as 5 províncias dominicanas caem em 5 das 10 regiões da Ley 345-22 — a interface **pula** o nível, porque um degrau que não agrupa nada é só mais um clique.
+
+**Pacote continua sendo recorte, não país:** `data/nordeste/` cobre o Nordeste, e `destino.cobertura` diz isso em uma frase na tela inicial. Renomear a pasta para `brasil` daria a entender que dá para planejar o Rio aqui, e não dá.
+
+---
+
+## D32 — Grupo de item é derivado, nunca gravado
+
+**Decisão:** além da `categoria` (12 valores, feita para o motor), todo item tem um **grupo** — praia e mar, natureza, aventura, cultura, comer, bares, festas e música, compras, passeios, transporte, referência — calculado em `src/engine/grupos.ts` a partir do **nome e das etiquetas**. Nada disso vai para `/data`.
+
+**Por quê gravar seria pior:** criaria uma segunda verdade que envelhece sozinha. Um item ganha a etiqueta `forro` numa reimportação e o grupo gravado continua dizendo "passeios". Derivado, a regra mora num lugar só e vale para os quatro pacotes de uma vez.
+
+**Por que não lê a descrição:** lendo a descrição, "Centro Histórico de João Pessoa" caiu em Bares (a descrição cita os bares da redondeza) e "Orla da Atalaia" caiu em Festas (cita shows). A descrição fala do **entorno**; o nome e as etiquetas falam da **coisa**.
+
+**Um item pertence a mais de um grupo.** O cartão mostra o principal; o filtro usa todos. "São Cristóvão e a Praça São Francisco" é bate-volta **e** patrimônio da UNESCO, e quem filtra Cultura tem de encontrá-lo.
+
+**As contagens das pílulas respeitam os outros filtros.** Clicar em "Bares 25" com a Bahia selecionada e receber três ensina o usuário a não confiar em nenhum número da tela.
+
+---
+
+## D33 — Duas ondas que cobrem a mesma base se somam
+
+**Decisão:** quando dois arquivos de pesquisa trazem a mesma base, o conversor **mescla**: itens concatenam, listas concatenam, nota em texto vai para `notasExtras` e nunca sobrescreve objeto, e valor simples divergente mantém o primeiro e vira aviso.
+
+**Por quê:** antes era `bases[baseId] = conteudo` — a última onda apagava a anterior. A onda de noite da Colômbia derrubou o pacote de 169 para 47 itens num único import, e trocou o objeto de pesquisa da base (como circular, bairros, segurança, taxas) pela frase de uma linha da onda nova. A linha logo acima do atalho **imprimia** `aviso: repete a base`: um aviso que anunciava a perda e seguia em frente.
+
+**A lição maior:** aviso que não impede o estrago é decoração. Ou o código conserta, ou ele falha — imprimir e continuar é o pior dos três.
+
+---
+
+## D34 — Filtro de taxa olha o nome, nunca a prosa
+
+**Decisão:** o conversor exclui do orçamento as cobranças percentuais e condicionais testando **apenas o `nome` da taxa** (e um campo `unidade` declarado), nunca o texto explicativo.
+
+**Por quê:** o filtro lia `nome` + `quemPaga` juntos e comeu **as duas taxas de Fernando de Noronha**, que são os maiores custos fixos do pacote inteiro. A TPA caiu porque a explicação dela diz "reajuste de 4,4% sobre os R$ 101,33 de 2025"; o ingresso do PARNAMAR caiu porque diz "desconto de 50%". Nenhuma das duas é percentual — as duas têm valor em reais. O teste e2e que afirmava isso estava vermelho e foi empurrado vermelho.
+
+**E a TPA é progressiva, não diária fixa.** A faixa registrada vai de 1 dia (R$ 105,79) a 7 dias (R$ 672,85), ambos números oficiais. A tabela publica também 30 dias = R$ 7.460,56, e usar um mês como teto de uma viagem de cinco dias fazia o orçamento variar sete mil reais por pessoa. A tabela completa dia a dia está nas pendências.
+
+---
+
+## D35 — Um teste varre o código-fonte por escape comido
+
+**Decisão:** `scripts/verificar-codigo-fonte.test.ts` reprova qualquer `.ts` com caractere de controle.
+
+**Por quê:** cinco linhas do repositório tinham o `\b` de fim de palavra trocado por um backspace de verdade (0x08), escritas por ferramenta de substituição que come uma camada de barra invertida. A expressão continua **válida** — ela só não casa com nada —, então `tsc` e `oxlint` passavam limpos. O estrago: o filtro que deveria recusar imagem com cara de mapa nunca recusou nada, e `scuba` e `diving` nunca foram reconhecidos como mergulho.
+
+**O que o teste não pega:** a variante em que a barra some sem deixar controle (`\s+` vira `s+`). Tentei detectá-la e o detector acusou dezenas de comentários e URLs; heurística com mais ruído que sinal não entra na suíte. Contra essa, a defesa é de processo: ao editar expressão regular por script, monte a barra com `String.fromCharCode(92)`.

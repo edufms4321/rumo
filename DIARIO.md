@@ -236,3 +236,33 @@ Números de hoje: 146 testes de motor, 18 de navegador, 435 itens em dois paíse
 **O que o ensaio salvou:** rodar os scripts sem `--gravar` primeiro virou regra. Na primeira rodada de coordenadas, **3 dos 5 "achados" estavam errados** — um café no lugar da cidade de Filandia, uma pousada no lugar da Playa San Luis, uma área rural no lugar de Pereira — todos porque o `display_name` do OSM contém o nome do lugar. Passou a casar só pelo nome do objeto.
 
 **TripAdvisor:** o Eduardo perguntou e tem razão no essencial. Não dá para raspar — o `robots.txt` deles tem `Disallow: /` para o ClaudeBot e a página devolve 403, e as notas são conteúdo deles. Resolvido por fora: cada item tem botões que abrem a busca já preenchida no TripAdvisor e no Google Maps. Nada de terceiro guardado, e nunca envelhece.
+
+## 2026-10-09 — Organização: país > estado > cidade, e grupos no lugar de 12 categorias
+
+O Eduardo disse o essencial numa frase: "Nordeste tudo junto numa opção só? nem faz sentido". Tinha razão nas duas pontas — nos lugares e nas atividades.
+
+**Lugares.** Agora a árvore é **país > macrorregião > estado > cidade-base**, com a região turística (Chapada Diamantina, Eje Cafetero, Zona Colonial) como **etiqueta na cidade**, não como degrau. Tentei encaixá-la no meio e não fecha: Oaxaca tem duas dentro de um estado e o Eje Cafetero atravessa três departamentos. Hierarquia falsa é pior que lista plana, porque parece confiável (D31).
+
+Os três níveis administrativos vieram de pesquisa com fonte oficial — IBGE, DANE, INEGI, IGN dominicano. Três coisas que eu supunha e estavam erradas: Jericoacoara **não** é distrito de Jijoca (o município tem um distrito só, homônimo); Morro de São Paulo **não** é distrito de Cairu; e Sayulita é **Nayarit**, não Jalisco — a confusão vem do aeroporto, que é o de Puerto Vallarta. Trancoso, que eu só suspeitava, é distrito oficial de Porto Seguro. E as três macrorregiões dominicanas que eu esperava (Cibao/Sureste/Suroeste) foram **extintas pela Ley 345-22**; valem as 10 Regiones Únicas de Planificación.
+
+**Não renomeei `data/nordeste` para `brasil`.** O pacote cobre o Nordeste, e chamá-lo de Brasil daria a entender que dá para planejar o Rio aqui. Em vez disso, cada pacote declara `cobertura` — uma frase dizendo o que ficou de fora — e a tela inicial mostra.
+
+**Atividades.** As 12 categorias eram feitas para o motor ("restaurante" alimenta a regra de dia sem refeição). Para quem procura, "experiencia" com 130 itens quer dizer tudo e nada. Entraram 11 grupos derivados — praia e mar, natureza, aventura, cultura, comer, bares, festas e música, compras, passeios, transporte, referência —, calculados do nome e das etiquetas, nunca gravados (D32).
+
+A auditoria desses grupos foi o que encontrou o buraco real do banco: **festas e música tinha 3 itens na Colômbia, 8 no México, 4 no Nordeste e 1 na República Dominicana**. Quatro ondas de pesquisa depois, Colômbia foi de 169 para 216 itens, México de 266 para 333 e a Dominicana de 115 para 179.
+
+### O que quebrou, e o que isso ensina
+
+**1. Importei e apaguei 122 itens da Colômbia.** O conversor fazia `bases[baseId] = conteudo`: a onda nova de noite cobria 6 bases que as ondas antigas já cobriam e sobrescreveu as duas coisas — os itens e o objeto de pesquisa da base (como circular, bairros, segurança, taxas). A linha logo acima **imprimia** `aviso: repete a base`. Um aviso que anuncia a perda e segue em frente é decoração. Agora as ondas se somam (D33).
+
+**2. As duas taxas de Fernando de Noronha nunca estiveram no orçamento.** São o maior custo fixo do pacote inteiro — TPA de R$ 105,79 por dia e ingresso do PARNAMAR de R$ 192. O filtro de "percentual não é taxa" que eu mesmo escrevi lia o nome **e a prosa explicativa** juntos: a TPA caiu porque o texto dela diz "reajuste de 4,4%", o PARNAMAR porque diz "desconto de 50%". O teste e2e que afirmava isso estava **vermelho e foi empurrado vermelho** na sessão passada (D34).
+
+**3. Cinco expressões regulares do repositório nunca funcionaram.** O `\b` de fim de palavra tinha virado um caractere de backspace de verdade (0x08), escrito por ferramenta de substituição que come uma camada de barra invertida. A expressão continua válida, `tsc` e `oxlint` passam limpos, e ela não casa com nada. O estrago: o filtro que deveria recusar imagem com cara de mapa **nunca recusou nada**, e `scuba` e `diving` nunca foram reconhecidos como mergulho. Hoje há um teste varrendo o fonte (D35) — e eu repeti o mesmo acidente três vezes enquanto consertava.
+
+**4. O conversor lia só `dicasAgente`, e meu briefing novo pedia `dicas`.** As dicas da onda nova iam para o lixo em silêncio. Lê as duas grafias agora. Foi o agente de pesquisa que percebeu, não eu.
+
+**5. `\bDAN\b` com `/i` casa com "dança"** — cedilha não é caractere de palavra, então a fronteira existe. Um bar de salsa cuja nota falava em dançar na calçada ganhava a regra de não voar depois de mergulhar. Também foi o agente que viu.
+
+**6. Classificador de grupo, três erros medidos.** "Plâncton luminescente na foz do Rio Preguiças" virou **bar**, porque o item fica em BARreirinhas e o padrão não fechava a palavra. "Centro Histórico de João Pessoa" virou **bar**, porque a descrição cita os bares da redondeza — passou a ler só nome e etiquetas. E todo bar com a etiqueta `vida-noturna` virava **festa**, o que deixou Bares com 3 itens em 397: abrir à noite não é ser uma festa.
+
+**Também padronizei a pasta de pesquisa da Colômbia** (`pesquisa/colombia/`, como as outras; morava na raiz por ter sido o primeiro destino) e a interface **pula o nível de região** quando ele não agrupa nada — as 5 províncias dominicanas caem em 5 das 10 regiões, e dois degraus para um caminho só é só mais um clique.
