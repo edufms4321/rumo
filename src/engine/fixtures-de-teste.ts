@@ -40,12 +40,18 @@ export function pacoteDeTeste(opcoes: { comTrechoAereo?: boolean } = {}): Pacote
       linksUteis: [],
     },
     regioes: [{ ...COMUM, id: 'sudeste', nome: 'Sudeste', descricaoCurta: 'Sudeste do Brasil' }],
+    estados: [
+      { ...COMUM, id: 'sao-paulo', nome: 'Sao Paulo', sigla: 'SP', tipo: 'estado' as const, regiaoId: 'sudeste', descricaoCurta: 'Estado de Sao Paulo' },
+      { ...COMUM, id: 'rio-de-janeiro', nome: 'Rio de Janeiro', sigla: 'RJ', tipo: 'estado' as const, regiaoId: 'sudeste', descricaoCurta: 'Estado do Rio de Janeiro' },
+    ],
+    zonas: [],
     cidades: [
       {
         ...COMUM,
         id: 'sao-paulo',
         nome: 'Sao Paulo',
         regiaoId: 'sudeste',
+        estadoId: 'sao-paulo',
         coords: { lat: -23.5505, lng: -46.6333 },
         altitudeM: 760,
         aeroportos: ['GRU'],
@@ -63,6 +69,7 @@ export function pacoteDeTeste(opcoes: { comTrechoAereo?: boolean } = {}): Pacote
         id: 'rio',
         nome: 'Rio de Janeiro',
         regiaoId: 'sudeste',
+        estadoId: 'rio-de-janeiro',
         coords: { lat: -22.9068, lng: -43.1729 },
         altitudeM: 2,
         aeroportos: ['GIG'],

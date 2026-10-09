@@ -14,6 +14,9 @@ import type { ConfigDeDestino } from './tipos.ts';
 export const nordeste: ConfigDeDestino = {
   id: 'nordeste',
   nome: 'Nordeste brasileiro',
+  paisNome: 'Brasil',
+  cobertura:
+    'Cobre so o Nordeste, com 23 bases nos 9 estados. Sudeste, Sul, Norte e Centro-Oeste ainda nao foram pesquisados - nao da para planejar Rio, Sao Paulo ou Pantanal aqui.',
   codigoPais: 'BR',
   moeda: 'BRL',
   fuso: 'America/Sao_Paulo',
@@ -75,6 +78,29 @@ export const nordeste: ConfigDeDestino = {
     itacare: 'Itacaré',
     lencois: 'Lençóis',
     trancoso: 'Trancoso',
+  },
+
+  /**
+   * Nome de exibicao da zona turistica. Sem isto o conversor capitaliza o
+   * id, e "bahia-dende" virava "Bahia Dende" - que nao e o nome de nada.
+   */
+  nomeDaZona: {
+    maranhao: 'Maranhao',
+    'lencois-maranhenses': 'Lencois Maranhenses',
+    'piaui-litoral': 'Delta do Parnaiba',
+    'piaui-sertao': 'Serra da Capivara',
+    ceara: 'Litoral do Ceara',
+    'rio-grande-do-norte': 'Litoral potiguar',
+    paraiba: 'Litoral paraibano',
+    pernambuco: 'Recife, Olinda e Porto de Galinhas',
+    'fernando-de-noronha': 'Fernando de Noronha',
+    alagoas: 'Costa dos Corais',
+    sergipe: 'Litoral sergipano',
+    'bahia-salvador': 'Baia de Todos-os-Santos',
+    'bahia-dende': 'Costa do Dende',
+    'bahia-cacau': 'Costa do Cacau',
+    'chapada-diamantina': 'Chapada Diamantina',
+    'bahia-descobrimento': 'Costa do Descobrimento',
   },
 
   descricaoDaRegiao: {

@@ -17,6 +17,19 @@ export const RequisitoDeEntrada = z.object({
 
 export const Destino = BaseRecord.extend({
   nome: z.string().min(1),
+  /**
+   * Nome do pais, separado de `nome`. Existe porque um pacote cobre uma
+   * PARTE do pais: "Nordeste brasileiro" e o recorte, "Brasil" e o pais. A
+   * tela inicial agrupa por pais e precisa dos dois para nao mentir que o
+   * pacote cobre o pais inteiro.
+   */
+  paisNome: z.string().min(1).optional(),
+  /**
+   * O que este pacote NAO cobre, em uma frase. Aparece junto da arvore de
+   * lugares. Sem isto, "Brasil" na tela inicial da a entender que da para
+   * planejar Rio e Sao Paulo aqui, e nao da.
+   */
+  cobertura: z.string().optional(),
   codigoPais: z.string().length(2),
   moeda: z.string().length(3),
   fuso: z.string().min(1),

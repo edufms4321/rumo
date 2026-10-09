@@ -22,6 +22,9 @@ export const FUSO_POR_CIDADE: Record<string, number> = {
 export const mexico: ConfigDeDestino = {
   id: 'mexico',
   nome: 'Mexico',
+  paisNome: 'Mexico',
+  cobertura:
+    'Cobre 26 bases do centro, do Caribe, da peninsula de Yucatan, de Oaxaca, de Chiapas, da Baja Sur e do Pacifico. Fora do pacote: todo o norte (Chihuahua, Nuevo Leon, Sonora), Veracruz e Michoacan.',
   codigoPais: 'MX',
   moeda: 'MXN',
   fuso: 'America/Mexico_City',
@@ -89,6 +92,22 @@ export const mexico: ConfigDeDestino = {
     'san-miguel-de-allende': 'San Miguel de Allende',
     queretaro: 'Queretaro',
     guadalajara: 'Guadalajara',
+  },
+
+  /**
+   * Nome de exibicao da zona turistica. Sem isto o conversor capitaliza o
+   * id, e "bahia-dende" virava "Bahia Dende" - que nao e o nome de nada.
+   */
+  nomeDaZona: {
+    'valle-do-mexico': 'Vale do Mexico',
+    'caribe-mexicano': 'Riviera Maya e Caribe',
+    yucatan: 'Peninsula de Yucatan',
+    'oaxaca-vale': 'Vales Centrais de Oaxaca',
+    'oaxaca-costa': 'Costa de Oaxaca',
+    chiapas: 'Chiapas',
+    'baja-california-sur': 'Baja California Sur',
+    'pacifico-central': 'Pacifico central',
+    bajio: 'Bajio',
   },
 
   descricaoDaRegiao: {

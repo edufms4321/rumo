@@ -7,6 +7,54 @@ export const Regiao = BaseRecord.extend({
 });
 export type Regiao = z.infer<typeof Regiao>;
 
+/**
+ * Subdivisao administrativa do pais: estado, departamento, provincia.
+ *
+ * Por que existe: sem este nivel, "Nordeste" era UMA opcao de destino com 23
+ * bases soltas, e procurar "o que tem na Bahia" era impossivel. O nivel certo
+ * de busca de quem planeja e o estado - ele e estavel, oficial e todo mundo
+ * sabe o que e. A regiao turistica (Chapada Diamantina, Eje Cafetero) e outra
+ * coisa: nao e administrativa, nao particiona o mapa, e por isso vive como
+ * ETIQUETA na cidade (`zonaTuristica`), nao como nivel da arvore.
+ */
+/**
+ * Regiao turistica com nome proprio: "Chapada Diamantina", "Lencois
+ * Maranhenses", "Eje Cafetero", "Riviera Maya", "Zona Colonial".
+ *
+ * Por que NAO e um nivel da arvore de lugares: ela nao particiona o mapa.
+ * Oaxaca tem duas (vale e costa) dentro de um estado; o Eje Cafetero
+ * atravessa tres departamentos. Forcar pais > regiao > estado > cidade com
+ * ela no meio dava hierarquia falsa. Entao ela e ETIQUETA: a cidade aponta
+ * para uma zona, ou para nenhuma.
+ *
+ * Por que NAO herda BaseRecord, unica colecao do banco que nao herda: uma
+ * zona nao e uma afirmacao sobre o mundo que se possa conferir numa fonte -
+ * e o recorte editorial do proprio app, com uma frase escrita por nos. A
+ * versao anterior herdava, e para satisfazer `fontes.min(1)` o conversor
+ * carimbava a relacao 120027 do OpenStreetMap (que e o Maranhao) como fonte
+ * de TODAS as 16 regioes do Nordeste, Chapada Diamantina inclusive. Citacao
+ * falsa e pior que citacao ausente: nao ter fonte aqui e a resposta honesta.
+ */
+export const Zona = z.object({
+  id: Slug,
+  nome: z.string().min(1),
+  descricaoCurta: z.string().min(1),
+});
+export type Zona = z.infer<typeof Zona>;
+
+export const Estado = BaseRecord.extend({
+  nome: z.string().min(1),
+  /** Sigla oficial: BA, QROO, SAI. Vazio quando o pais nao usa sigla. */
+  sigla: z.string().min(1).max(5),
+  /** O nome que o pais da a este nivel, para a interface nao chamar tudo de estado. */
+  tipo: z.enum(['estado', 'departamento', 'provincia', 'distrito', 'arquipelago']),
+  regiaoId: Slug,
+  /** Capital, quando ajuda a situar. Nao e necessariamente base da viagem. */
+  capital: z.string().optional(),
+  descricaoCurta: z.string().min(1),
+});
+export type Estado = z.infer<typeof Estado>;
+
 export const Aeroporto = BaseRecord.extend({
   iata: z.string().length(3),
   nome: z.string().min(1),
@@ -64,7 +112,22 @@ export const FatorDeslocamento = z.object({
 
 export const CidadeBase = BaseRecord.extend({
   nome: z.string().min(1),
-  regiaoId: Slug,
+  /**
+   * Macrorregiao do pais (Nordeste, Caribe). Opcional porque um pacote pode
+   * existir antes de a divisao administrativa ser pesquisada: ai a arvore
+   * degrada para pais > cidade, que e a verdade. A alternativa era o
+   * conversor inventar uma regiao com fonte de fachada - ja fiz isso uma vez
+   * e nao repito.
+   */
+  regiaoId: Slug.optional(),
+  /**
+   * Estado/departamento/provincia. Opcional por compatibilidade: um pacote
+   * antigo sem este campo continua carregando, so nao aparece agrupado por
+   * estado. O validador avisa quando falta.
+   */
+  estadoId: Slug.optional(),
+  /** Regiao turistica (ver Zona). Ausente = a cidade nao esta em nenhuma. */
+  zonaId: Slug.optional(),
   coords: Coord,
   altitudeM: z.number().int(),
   /**

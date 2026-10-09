@@ -22,7 +22,8 @@
     "coords": "tsx scripts/completar-coordenadas.ts",
     "imagens": "tsx scripts/completar-imagens.ts",
     "pendencias": "tsx scripts/gerar-pendencias.ts",
-    "coords:cidades": "tsx scripts/coords-das-cidades.ts"
+    "coords:cidades": "tsx scripts/coords-das-cidades.ts",
+    "grupos": "tsx scripts/conferir-grupos.ts"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

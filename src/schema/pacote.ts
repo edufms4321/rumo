@@ -2,7 +2,7 @@ import { z } from 'zod';
 import type { BoundingBox, Coord } from './base.ts';
 import { EventoLocal } from './calendario.ts';
 import { Destino } from './destino.ts';
-import { Aeroporto, CidadeBase, Regiao } from './geo.ts';
+import { Aeroporto, CidadeBase, Estado, Regiao, Zona } from './geo.ts';
 import { SugestaoHospedagem } from './hospedagem.ts';
 import { Item } from './item.ts';
 import { TrechoEntreCidades, VooInternacional } from './transporte.ts';
@@ -14,7 +14,14 @@ import { TrechoEntreCidades, VooInternacional } from './transporte.ts';
  */
 export const PacoteDestino = z.object({
   destino: Destino,
-  regioes: z.array(Regiao),
+  regioes: z.array(Regiao).default([]),
+  /**
+   * Niveis novos da arvore de lugares. Com default vazio de proposito: um
+   * pacote escrito antes deles continua valendo, so nao aparece agrupado
+   * por estado. O validador avisa, nao reprova.
+   */
+  estados: z.array(Estado).default([]),
+  zonas: z.array(Zona).default([]),
   cidades: z.array(CidadeBase),
   aeroportos: z.array(Aeroporto),
   itens: z.array(Item),
@@ -120,6 +127,9 @@ export function validarPacote(bruto: unknown): {
 
   const p = analise.data;
   const idsDeRegiao = new Set(p.regioes.map((r) => r.id));
+  const idsDeEstado = new Set(p.estados.map((e) => e.id));
+  const idsDeZona = new Set(p.zonas.map((z) => z.id));
+  const regiaoDoEstado = new Map(p.estados.map((e) => [e.id, e.regiaoId]));
   const idsDeCidade = new Set(p.cidades.map((c) => c.id));
   const idsDeItem = new Set(p.itens.map((i) => i.id));
   const iatas = new Set(p.aeroportos.map((a) => a.iata));
@@ -127,6 +137,8 @@ export function validarPacote(bruto: unknown): {
   // --- ids duplicados, por colecao ---
   const colecoes: Array<[string, string[]]> = [
     ['regioes', p.regioes.map((r) => r.id)],
+    ['estados', p.estados.map((e) => e.id)],
+    ['zonas', p.zonas.map((z) => z.id)],
     ['cidades', p.cidades.map((c) => c.id)],
     ['aeroportos', p.aeroportos.map((a) => a.id)],
     ['itens', p.itens.map((i) => i.id)],
@@ -144,13 +156,62 @@ export function validarPacote(bruto: unknown): {
     problemas.push({ nivel: 'erro', caminho: 'aeroportos', mensagem: `IATA duplicado: ${dup}` });
   }
 
+  // --- estados ---
+  for (const estado of p.estados) {
+    if (!idsDeRegiao.has(estado.regiaoId)) {
+      problemas.push({
+        nivel: 'erro',
+        caminho: `estados.${estado.id}.regiaoId`,
+        mensagem: `macrorregiao inexistente: ${estado.regiaoId}`,
+      });
+    }
+  }
+
   // --- cidades ---
   for (const cidade of p.cidades) {
-    if (!idsDeRegiao.has(cidade.regiaoId)) {
+    if (cidade.regiaoId === undefined) {
+      problemas.push({
+        nivel: 'aviso',
+        caminho: `cidades.${cidade.id}.regiaoId`,
+        mensagem: 'sem macrorregiao: a arvore de lugares fica em pais > cidade',
+      });
+    } else if (!idsDeRegiao.has(cidade.regiaoId)) {
       problemas.push({
         nivel: 'erro',
         caminho: `cidades.${cidade.id}.regiaoId`,
         mensagem: `regiao inexistente: ${cidade.regiaoId}`,
+      });
+    }
+    /*
+      A arvore de lugares so serve se os dois caminhos levarem ao mesmo
+      lugar. Cidade dizendo regiao "andina" e estado "bolivar" (que e do
+      Caribe) produz um menu em que a Cartagena aparece sob os Andes - e o
+      usuario deixa de confiar no filtro inteiro.
+    */
+    if (cidade.estadoId === undefined) {
+      problemas.push({
+        nivel: 'aviso',
+        caminho: `cidades.${cidade.id}.estadoId`,
+        mensagem: 'sem estado: a cidade nao aparece agrupada por estado na tela inicial',
+      });
+    } else if (!idsDeEstado.has(cidade.estadoId)) {
+      problemas.push({
+        nivel: 'erro',
+        caminho: `cidades.${cidade.id}.estadoId`,
+        mensagem: `estado inexistente: ${cidade.estadoId}`,
+      });
+    } else if (regiaoDoEstado.get(cidade.estadoId) !== cidade.regiaoId) {
+      problemas.push({
+        nivel: 'erro',
+        caminho: `cidades.${cidade.id}.regiaoId`,
+        mensagem: `a cidade diz regiao "${cidade.regiaoId}" mas o estado ${cidade.estadoId} e da regiao "${regiaoDoEstado.get(cidade.estadoId)}"`,
+      });
+    }
+    if (cidade.zonaId !== undefined && !idsDeZona.has(cidade.zonaId)) {
+      problemas.push({
+        nivel: 'erro',
+        caminho: `cidades.${cidade.id}.zonaId`,
+        mensagem: `zona inexistente: ${cidade.zonaId}`,
       });
     }
     if (!dentroDaCaixa(cidade.coords, p.destino.caixaDelimitadora)) {

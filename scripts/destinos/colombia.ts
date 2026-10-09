@@ -3,6 +3,9 @@ import type { ConfigDeDestino } from './tipos.ts';
 export const colombia: ConfigDeDestino = {
   id: 'colombia',
   nome: 'Colombia',
+  paisNome: 'Colombia',
+  cobertura:
+    'Cobre 8 bases do Caribe, dos Andes e do Eje Cafetero. Fora do pacote: Cali e o Pacifico, a Amazonia, os Llanos, Cano Cristales e Providencia - o veredito de cada um esta nos cartoes de referencia.',
   codigoPais: 'CO',
   moeda: 'COP',
   fuso: 'America/Bogota',
@@ -32,6 +35,17 @@ export const colombia: ConfigDeDestino = {
     'villa-de-leyva': 'Villa de Leyva',
     medellin: 'Medellin',
     salento: 'Salento',
+  },
+
+  /**
+   * Nome de exibicao da zona turistica. Sem isto o conversor capitaliza o
+   * id, e "bahia-dende" virava "Bahia Dende" - que nao e o nome de nada.
+   */
+  nomeDaZona: {
+    'caribe-continental': 'Caribe continental',
+    'caribe-insular': 'San Andres e Providencia',
+    andes: 'Andes colombianos',
+    'eje-cafetero': 'Eje Cafetero',
   },
 
   descricaoDaRegiao: {

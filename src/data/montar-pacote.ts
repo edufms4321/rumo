@@ -8,7 +8,9 @@
  *
  * Convencao de arquivos (ver docs/como-adicionar-destino.md):
  *   destino.json               objeto
- *   regioes.json               lista
+ *   regioes.json               lista  (macrorregiao do pais)
+ *   estados.json               lista  (estado/departamento/provincia)
+ *   zonas.json                 lista  (regiao turistica, etiqueta)
  *   cidades.json               lista
  *   aeroportos.json            lista
  *   trechos.json               lista
@@ -21,6 +23,8 @@
 /** nome do arquivo (sem .json) -> chave do pacote */
 const ARQUIVOS_EM_LISTA = {
   regioes: 'regioes',
+  estados: 'estados',
+  zonas: 'zonas',
   cidades: 'cidades',
   aeroportos: 'aeroportos',
   trechos: 'trechos',
@@ -31,6 +35,8 @@ const ARQUIVOS_EM_LISTA = {
 
 const CHAVES_EM_LISTA = [
   'regioes',
+  'estados',
+  'zonas',
   'cidades',
   'aeroportos',
   'itens',

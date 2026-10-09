@@ -24,6 +24,8 @@
  */
 import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
+import { contarPorGrupo } from '../src/engine/grupos.ts';
+import type { Item } from '../src/schema/item.ts';
 import { colombia } from './destinos/colombia.ts';
 import { mexico } from './destinos/mexico.ts';
 import { nordeste } from './destinos/nordeste.ts';
@@ -35,10 +37,11 @@ import {
   construirCidades,
   construirDestino,
   construirHospedagem,
-  construirRegioes,
   construirTrechos,
   construirVoos,
+  construirZonas,
 } from './lib/pesquisa-colecoes.ts';
+import { lerDivisoes } from './lib/pesquisa-divisoes.ts';
 import { construirItens } from './lib/pesquisa-itens.ts';
 import {
   type Json,
@@ -170,15 +173,47 @@ function main(): void {
 `);
 
   const destino = construirDestino(logistica, config);
+
+  /*
+    Arvore de lugares: pais > macrorregiao > estado > cidade, mais a zona
+    turistica como etiqueta. As duas primeiras vem de `pesquisa/_divisoes`,
+    que e dado com fonte oficial (IBGE, DANE, INEGI, ONE). Sem o arquivo o
+    conversor usa a zona como regiao e nao grava estados: um nivel so, igual
+    a antes. Nunca grava arvore pela metade.
+  */
+  const divisoes = lerDivisoes(config.id, Object.keys(config.regiaoDaCidade));
+  const arvoreCompleta = Boolean(divisoes && divisoes.estados.length > 0 && divisoes.regioes.length > 0);
+  if (divisoes) for (const a of divisoes.avisos) avisos.push(a);
+  if (!arvoreCompleta) {
+    avisos.push(
+      'sem pesquisa/_divisoes/divisoes.json utilizavel: o pacote fica com um nivel de regiao so, e as cidades sem estado',
+    );
+  }
+
   const cidades = filtrarSemFonte(
-    construirCidades(logistica, coords, bases, ajustes, config, matriz),
+    construirCidades(logistica, coords, bases, ajustes, config, matriz, arvoreCompleta ? divisoes : undefined),
     'cidade',
   );
   const trechos = filtrarSemFonte(construirTrechos(logistica, config), 'trecho');
   const itensPorCidade = construirItens(Object.values(bases), ajustes, config);
 
   gravar(SAIDA, 'destino.json', ajustes.destino ? mesclar(destino, ajustes.destino) : destino);
-  gravar(SAIDA, 'regioes.json', filtrarSemFonte(construirRegioes(logistica, config), 'regiao'));
+  const zonas = construirZonas(config);
+  gravar(SAIDA, 'zonas.json', zonas);
+  if (arvoreCompleta && divisoes) {
+    gravar(SAIDA, 'regioes.json', filtrarSemFonte(divisoes.regioes, 'regiao'));
+    gravar(SAIDA, 'estados.json', filtrarSemFonte(divisoes.estados, 'estado'));
+  } else {
+    /*
+      Sem divisao pesquisada o pacote fica SEM macrorregiao e SEM estado, e a
+      arvore degrada para pais > cidade. A primeira versao deste trecho
+      gravava as zonas como regioes com uma URL da Wikipedia que eu nao abri,
+      so para satisfazer `fontes.min(1)` - o mesmo erro que acabei de tirar
+      do gerador de regioes. Arquivo vazio e a resposta honesta.
+    */
+    gravar(SAIDA, 'regioes.json', []);
+    gravar(SAIDA, 'estados.json', []);
+  }
   gravar(SAIDA, 'aeroportos.json', filtrarSemFonte(construirAeroportos(logistica), 'aeroporto'));
   gravar(SAIDA, 'cidades.json', cidades);
 
@@ -209,17 +244,56 @@ function main(): void {
 
   // Indice leve: a tela inicial lista os destinos sem baixar o pacote inteiro.
   // Sem isto, abrir o app puxaria os dois paises antes de desenhar a 1a tela.
+  /*
+    O indice carrega a ARVORE e as contagens por grupo porque a tela inicial
+    precisa desenhar "Brasil > Nordeste > Bahia > Salvador" e dizer quantas
+    praias e quantos restaurantes tem ali - e precisa fazer isso sem baixar o
+    pacote inteiro, que tem centenas de itens com descricao longa.
+  */
+  const todosOsItens = Object.values(itensPorCidade).flat() as unknown as Item[];
+  const estadosDoIndice = arvoreCompleta && divisoes ? divisoes.estados : [];
+  const regioesDoIndice = arvoreCompleta && divisoes ? divisoes.regioes : [];
+
   gravar(SAIDA, 'indice.json', {
     id: config.id,
     nome: config.nome,
+    paisNome: config.paisNome ?? config.nome,
+    codigoPais: config.codigoPais,
     moeda: config.moeda,
+    ...(config.cobertura ? { cobertura: config.cobertura } : {}),
     totais: {
       itens: totalDeItens,
       cidades: cidades.length,
       trechos: trechos.length,
       eventos: eventos.length,
+      estados: estadosDoIndice.length,
+      regioes: regioesDoIndice.length,
     },
     confianca: porConfianca,
+    grupos: contarPorGrupo(todosOsItens),
+    arvore: regioesDoIndice.map((r: Json) => ({
+      id: String(r.id),
+      nome: String(r.nome),
+      descricaoCurta: String(r.descricaoCurta),
+      estados: estadosDoIndice
+        .filter((e: Json) => e.regiaoId === r.id)
+        .map((e: Json) => ({
+          id: String(e.id),
+          nome: String(e.nome),
+          sigla: String(e.sigla),
+          tipo: String(e.tipo),
+          descricaoCurta: String(e.descricaoCurta),
+          cidades: cidades
+            .filter((c) => c.estadoId === e.id)
+            .map((c) => ({
+              id: String(c.id),
+              nome: String(c.nome),
+              ...(c.zonaId ? { zona: zonas.find((z) => z.id === c.zonaId)?.nome ?? '' } : {}),
+              itens: todosOsItens.filter((i) => i.cidadeId === c.id).length,
+            })),
+        }))
+        .sort((a: { nome: string }, b: { nome: string }) => a.nome.localeCompare(b.nome)),
+    })),
   });
 
   console.log('\nDeduzido pelo script (nao e dado de fonte):');

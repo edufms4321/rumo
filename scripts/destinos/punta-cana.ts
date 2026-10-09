@@ -16,6 +16,9 @@ import type { ConfigDeDestino } from './tipos.ts';
 export const puntaCana: ConfigDeDestino = {
   id: 'punta-cana',
   nome: 'Punta Cana e Republica Dominicana',
+  paisNome: 'Republica Dominicana',
+  cobertura:
+    'Cobre 6 bases: o leste dos resorts, Santo Domingo, Samana, a costa norte e a cordilheira. Fora do pacote: Santiago e todo o sudoeste (Barahona, Pedernales, Bahia de las Aguilas).',
   codigoPais: 'DO',
   moeda: 'DOP',
   // Atlantic Standard o ano inteiro: o pais nao usa horario de verao.
@@ -43,6 +46,18 @@ export const puntaCana: ConfigDeDestino = {
     'las-terrenas': 'Las Terrenas',
     'puerto-plata': 'Puerto Plata',
     jarabacoa: 'Jarabacoa',
+  },
+
+  /**
+   * Nome de exibicao da zona turistica. Sem isto o conversor capitaliza o
+   * id, e "bahia-dende" virava "Bahia Dende" - que nao e o nome de nada.
+   */
+  nomeDaZona: {
+    leste: 'Costa do Coco e Bayahibe',
+    sul: 'Zona Colonial e o sul',
+    samana: 'Peninsula de Samana',
+    'costa-norte': 'Costa do Ambar',
+    cordilheira: 'Cordilheira Central',
   },
 
   descricaoDaRegiao: {

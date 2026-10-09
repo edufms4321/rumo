@@ -29,6 +29,10 @@ export interface ConfigDeDestino {
   /** id do destino: vira a pasta em /data/<id>/. */
   id: string;
   nome: string;
+  /** Nome do pais, quando o pacote cobre so uma parte dele. */
+  paisNome?: string;
+  /** Uma frase sobre o que o pacote NAO cobre. Aparece na tela inicial. */
+  cobertura?: string;
   codigoPais: string;
   moeda: string;
   fuso: string;
@@ -43,8 +47,14 @@ export interface ConfigDeDestino {
   regiaoDaCidade: Record<string, string>;
   /** Base -> nome de exibicao. */
   nomeDaCidade: Record<string, string>;
-  /** Regiao -> frase curta. */
+  /** Zona turistica -> frase curta. A chave e o valor de regiaoDaCidade. */
   descricaoDaRegiao: Record<string, string>;
+  /**
+   * Zona turistica -> nome de exibicao, quando o id nao da um nome bonito.
+   * Sem entrada aqui o conversor capitaliza o id ("bahia-dende" vira
+   * "Bahia Dende", que e feio e errado).
+   */
+  nomeDaZona?: Record<string, string>;
 
   /**
    * Como o agente nomeou a cidade de um item -> base a que o item pertence.

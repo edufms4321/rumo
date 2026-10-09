@@ -89,6 +89,8 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
     observacaoDeConfianca:
       'Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.',
     nome: config.nome,
+    ...(config.paisNome ? { paisNome: config.paisNome } : {}),
+    ...(config.cobertura ? { cobertura: config.cobertura } : {}),
     codigoPais: config.codigoPais,
     moeda: config.moeda,
     fuso: config.fuso,
@@ -143,40 +145,38 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
   };
 }
 
-// ------------------------------------------------------------------- regioes
+// --------------------------------------------------------------------- zonas
 
-export function construirRegioes(logistica: Json, config: ConfigDeDestino): Json[] {
-  const porRegiao = new Map<string, Json[]>();
-  for (const c of logistica.climaNovembro ?? []) {
-    const casamento = config.climaParaCidades.find((x) => x.contem.test(String(c.regiao)));
-    if (!casamento) continue;
-    const lista = porRegiao.get(casamento.regiao) ?? [];
-    lista.push(c);
-    porRegiao.set(casamento.regiao, lista);
-  }
-
+/**
+ * Zonas turisticas: o recorte com nome proprio que a configuracao do destino
+ * declara ("Chapada Diamantina", "Eje Cafetero", "Zona Colonial").
+ *
+ * Nao leva `fontes`, e isso e deliberado. A versao anterior desta funcao
+ * produzia `regioes.json` herdando BaseRecord, e para satisfazer a exigencia
+ * de fonte carimbava `openstreetmap.org/relation/120027` em toda regiao sem
+ * clima pesquisado — relacao que e o estado do Maranhao. As 16 regioes do
+ * Nordeste ficaram com o Maranhao como fonte, Chapada Diamantina incluida.
+ * A frase da zona e nossa; fonte falsa e pior do que fonte nenhuma.
+ */
+export function construirZonas(config: ConfigDeDestino): Json[] {
   const usadas = new Set(Object.values(config.regiaoDaCidade));
-  const regioes: Json[] = [];
-
+  const zonas: Json[] = [];
   for (const id of usadas) {
-    const climas = porRegiao.get(id) ?? [];
-    const fontesDaRegiao = fontes(climas.flatMap((c) => c.fontes ?? []));
-    regioes.push({
+    const descricao = config.descricaoDaRegiao[id];
+    if (!descricao) {
+      avisos.push(`zona ${id} sem descricao em descricaoDaRegiao: descartada`);
+      continue;
+    }
+    zonas.push({
       id,
-      fontes:
-        fontesDaRegiao.length > 0
-          ? fontesDaRegiao
-          : [{ url: 'https://www.openstreetmap.org/relation/120027' }],
-      coletadoEm: COLETADO_EM,
-      confianca: fontesDaRegiao.length > 0 ? 'parcial' : 'estimado',
-      nome: id
+      nome: (config.nomeDaZona?.[id] ?? id
         .split('-')
         .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
-        .join(' '),
-      descricaoCurta: config.descricaoDaRegiao[id] ?? 'Regiao da Colombia.',
+        .join(' ')),
+      descricaoCurta: descricao,
     });
   }
-  return regioes;
+  return zonas;
 }
 
 // ---------------------------------------------------------------- aeroportos
@@ -303,6 +303,7 @@ export function construirCidades(
   ajustes: Json,
   config: ConfigDeDestino,
   matrizCalculada: Json = {},
+  divisoes?: { estadoDaCidade: Record<string, string>; regiaoDaCidade: Record<string, string> },
 ): Json[] {
   const patchesDeCidade: Json = ajustes.cidades ?? {};
   const notasPorCidade: Record<string, Json> = {};
@@ -323,7 +324,7 @@ export function construirCidades(
 
   const cidades: Json[] = [];
 
-  for (const [id, regiaoId] of Object.entries(config.regiaoDaCidade)) {
+  for (const [id, zonaId] of Object.entries(config.regiaoDaCidade)) {
     const geo = coords[id];
     if (!geo) {
       avisos.push(`cidade ${id} sem coordenada em coords-cidades.json: descartada`);
@@ -423,7 +424,16 @@ export function construirCidades(
               'Base criada so com coordenada, altitude e clima de fonte. Bairros, como circular e noites recomendadas chegam na onda B da pesquisa.',
           }),
       nome: config.nomeDaCidade[id] ?? id,
-      regiaoId,
+      /*
+        Dois niveis diferentes com nomes parecidos, entao: `regiaoId` e a
+        MACRORREGIAO do pais (Nordeste, Caribe) e vem da divisao oficial
+        pesquisada; `zonaId` e o recorte turistico (Chapada Diamantina) e vem
+        da configuracao. Sem o arquivo de divisoes o conversor usa a zona como
+        regiao, que e o comportamento antigo — pacote antigo continua valendo.
+      */
+      ...(divisoes?.regiaoDaCidade[id] ? { regiaoId: divisoes.regiaoDaCidade[id] } : {}),
+      ...(divisoes?.estadoDaCidade[id] ? { estadoId: divisoes.estadoDaCidade[id] } : {}),
+      zonaId,
       coords: { lat: geo.lat, lng: geo.lng },
       altitudeM: Number(geo.altitudeM ?? 0),
       ...(config.fusoPorCidade?.[id] !== undefined
