@@ -449,6 +449,10 @@
     "fontes": [
       {
         "url": "https://www.viciadaemviajar.com/porto-de-galinhas-pe-onde-comer-e-onde-nao-comer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4831778311",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -493,7 +497,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -8.50618,
+      "lng": -35.000847
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pdg-peixe-na-telha",

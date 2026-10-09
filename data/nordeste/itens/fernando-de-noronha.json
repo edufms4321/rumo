@@ -843,6 +843,10 @@
       },
       {
         "url": "https://www.parnanoronha.com.br/ingresso"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/254369291",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -896,7 +900,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -3.877561,
+      "lng": -32.459527
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-fen-mergulho-autonomo-em-noronha-batismo-e-credenciado",
@@ -1090,6 +1099,10 @@
     "fontes": [
       {
         "url": "https://www.essemundoenosso.com.br/restaurantes-em-fernando-de-noronha-melhores-baratos"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/11144359005",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1148,13 +1161,22 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.846749,
+      "lng": -32.412717
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-fen-restaurante-varanda",
     "fontes": [
       {
         "url": "https://www.essemundoenosso.com.br/restaurantes-em-fernando-de-noronha-melhores-baratos"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/368303671",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1214,7 +1236,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": true
-    }
+    },
+    "coords": {
+      "lat": -3.844096,
+      "lng": -32.405697
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-fen-mergulhao",
@@ -1224,6 +1251,10 @@
       },
       {
         "url": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/os-melhores-locais-para-comer-e-beber-em-fernando-de-noronha/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/129220538",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1270,7 +1301,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": true
-    }
+    },
+    "coords": {
+      "lat": -3.834643,
+      "lng": -32.400499
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-fen-bar-do-cachorro-forro-e-vida-noturna",
@@ -1280,6 +1316,10 @@
       },
       {
         "url": "https://guia.melhoresdestinos.com.br/vida-noturna-fernando-de-noronha-72-582-p.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/776061426",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1324,7 +1364,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -3.839647,
+      "lng": -32.410743
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-fen-aviso-critico-fuso-utc-2-voos-e-o-erro-do-cartao-de",

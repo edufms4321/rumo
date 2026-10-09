@@ -7,6 +7,10 @@
       },
       {
         "url": "https://www.diariodepernambuco.com.br/vida-urbana/2025/06/7792884-sao-pedro-recife-tem-158-atracoes-em-oito-arraiais.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/561522267",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -59,7 +63,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -8.053634,
+      "lng": -34.920175
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-rec-bodega-de-veio-rua-do-amparo-olinda",
@@ -170,6 +179,10 @@
       },
       {
         "url": "https://all.accor.com/pt-br/brasil/magazine/one-hour-one-day-one-week/o-que-fazer-em-recife-a-noite-9436b.shtml"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/662141010",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -220,7 +233,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -8.064169,
+      "lng": -34.873181
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-rec-terca-negra-no-patio-de-sao-pedro",
@@ -1342,6 +1360,10 @@
       },
       {
         "url": "https://cdn.fodors.com/world/south-america/brazil/the-northeast/places/recife/restaurants"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3751045546",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1386,13 +1408,22 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -8.130821,
+      "lng": -34.900717
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-rec-parraxaxa",
     "fontes": [
       {
         "url": "https://quantocustaviajar.com/blog/restaurantes-baratos-em-recife/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/680908880",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1448,7 +1479,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -8.038178,
+      "lng": -34.911904
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-rec-vida-noturna-do-recife-antigo-rua-da-moeda-e-rua-do",

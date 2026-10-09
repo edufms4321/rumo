@@ -146,6 +146,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Canoa_Quebrada_-_Broadway.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/5261272758",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -193,7 +197,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -4.526021,
+      "lng": -37.702536
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-cnq-praia-de-canoa-quebrada-e-a-jangada",

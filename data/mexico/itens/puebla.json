@@ -820,6 +820,10 @@
       },
       {
         "url": "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3993751057",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -916,6 +920,11 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 19.042319,
+      "lng": -98.199795
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   }
 ]

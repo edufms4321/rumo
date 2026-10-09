@@ -840,6 +840,10 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-ficar/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/7937570185",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -887,7 +891,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -2.742779,
+      "lng": -42.798636
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-brr-urra-beer-barreirinhas",
@@ -948,6 +957,10 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/12382194101",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -992,7 +1005,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -2.751169,
+      "lng": -42.826545
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-brr-aviso-como-chegar-a-barreirinhas-e-o-que-custa-cada",

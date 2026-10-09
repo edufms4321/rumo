@@ -2110,6 +2110,10 @@
     "fontes": [
       {
         "url": "https://foodandpleasure.com/bares-en-oaxaca/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4350341091",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -2153,7 +2157,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 17.064064,
+      "lng": -96.725882
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "mx-oax-tour-de-palenques-em-santiago-matatlan-mezcal",

@@ -1210,6 +1210,10 @@
       },
       {
         "url": "https://www.brasildefato.com.br/2020/02/01/beco-da-lama-os-limites-da-revitalizacao-no-espaco-cultural-de-natal-rn/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/14068734301",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -1259,7 +1263,12 @@
       "Horário do samba de sábado vem de agenda de 2019 - pode não existir mais",
       "Centro histórico esvazia de madrugada: evite o trecho a pé no escuro",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -5.785833,
+      "lng": -35.207257
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-nat-figa-bar-vila-de-ponta-negra",

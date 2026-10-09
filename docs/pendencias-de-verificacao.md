@@ -226,7 +226,7 @@ _...e mais 19. `npm run validate:data` imprime a lista inteira._
 | Confiança: verificado | 52 |
 | Confiança: parcialmente verificado | 257 |
 | Confiança: estimado | 24 |
-| Com coordenada | 248 de 282 |
+| Com coordenada | 252 de 282 |
 | Com imagem de licença livre | 164 de 282 |
 | Com algum contato | 101 de 282 |
 | Coletado há mais de um ano | 0 |
@@ -402,7 +402,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Guadalajara - Colonia Americana / Av. Chapultepec" (guanajuato) sem faixa de diaria: fora de hospedagem.json
 - _...e mais 9._
 
-### Sem coordenada — 34
+### Sem coordenada — 30
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -421,14 +421,12 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Picus (marisco na areia, ao lado do cais de Isla Mujeres) | Isla Mujeres | coordenada |
 | Tartarugas: arribada em Playa Escobilla e solturas de filhotes | Mazunte | coordenada |
 | Palapas de praia de Mazunte (tlayudas e aguas frescas) | Mazunte | coordenada |
-| Txalaparta (bar com pista de dança) | Oaxaca de Juarez | coordenada |
 | Voo Oaxaca → Puerto Escondido (Aerotucán / Aerovega) | Oaxaca de Juarez | coordenada |
 | Como ir de San Cristóbal a Palenque: Ocosingo (Hwy 199) x Tuxtla/Villahermosa | Palenque | coordenada |
 | Tour de cachoeiras saindo de Palenque (Misol-Ha + Agua Azul) | Palenque | coordenada |
 | Passeio Yaxchilán + Bonampak saindo de Palenque (dia inteiro) | Palenque | coordenada |
 | Comida barata em Playa del Carmen (tacos, carrinhos e cantinas) | Playa del Carmen | coordenada |
 | Restaurante La Fonda (cozinha poblana barata) | Puebla | coordenada |
-| El Mural de los Poblanos (mole poblano) | Puebla | coordenada |
 | Aula de surfe para iniciantes em Puerto Escondido | Puerto Escondido | coordenada |
 | Vida noturna em Puerto Escondido: Zicatela, Adoquín e La Punta | Puerto Escondido | coordenada |
 | Tamales Penamiller (tamal e atole da Sierra Gorda) | Queretaro | coordenada |
@@ -437,9 +435,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Café Museo Café | San Cristobal de las Casas | coordenada |
 | Café Bar Revolución ('El Revo') | San Cristobal de las Casas | coordenada |
 | El Cocodrilo Bar | San Cristobal de las Casas | coordenada |
-| La Viña de Bacco | San Cristobal de las Casas | coordenada |
 | Parroquia de San Miguel Arcángel | San Miguel de Allende | coordenada |
-| La Gruta (termas e spa) - Atotonilco | San Miguel de Allende | coordenada |
 | Bares e noite em Tulum (praia e pueblo) | Tulum | coordenada |
 | Xel-Há: tudo incluído com snorkel | Tulum | coordenada |
 
@@ -451,7 +447,7 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Confiança: verificado | 205 |
 | Confiança: parcialmente verificado | 240 |
 | Confiança: estimado | 14 |
-| Com coordenada | 115 de 404 |
+| Com coordenada | 191 de 404 |
 | Com imagem de licença livre | 53 de 404 |
 | Com algum contato | 72 de 404 |
 | Coletado há mais de um ano | 0 |
@@ -504,7 +500,7 @@ O app mostra estes itens sem preço, e o orçamento não os conta. Ligue ou conf
 
 _...e mais 185. `npm run validate:data` imprime a lista inteira._
 
-### Preço com uma fonte só — 41
+### Preço com uma fonte só — 34
 
 A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma só: trate como ordem de grandeza.
 
@@ -521,18 +517,13 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Circuito Lagoas Emendadas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
 | Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | segunda fonte de preço |
 | Circuito Betania (Santo Amaro) | Barreirinhas | segunda fonte de preço |
-| Xica da Silva | Fernando de Noronha | segunda fonte de preço |
-| Restaurante Varanda | Fernando de Noronha | segunda fonte de preço |
 | Passeio das 4 praias (Engenhoca, Havaizinho, Itacarezinho, Camboinha) | Itacaré | segunda fonte de preço |
 | Rafting no Rio de Contas (Taboquinhas) | Itacaré | segunda fonte de preço |
-| Flor do Cacau (moqueca e bobó na Pituba) | Itacaré | segunda fonte de preço |
 | Ilhéus: centro histórico de Jorge Amado (Bataclan, Vesúvio, Casa de Cultura) | Itacaré | segunda fonte de preço |
 | Barra Grande e Península de Maraú: a travessia de Camamu | Itacaré | segunda fonte de preço |
 | Compras na Rua Principal e o crochê de Jeri | Jericoacoara | segunda fonte de preço |
 | Poço Azul | Lençóis | segunda fonte de preço |
 | Vale do Pati (travessia de 3 a 5 dias) | Lençóis | segunda fonte de preço |
-| Parque da Muritiba: Serrano, Poço Halley, Primavera e Cachoeirinha | Lençóis | segunda fonte de preço |
-| Cachoeira do Mosquito | Lençóis | segunda fonte de preço |
 | Vale do Capão (Caeté-Açu) | Lençóis | segunda fonte de preço |
 | Transfer semi-terrestre Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
 | Táxi-aéreo Salvador - Morro de São Paulo | Morro de São Paulo | segunda fonte de preço |
@@ -544,14 +535,11 @@ A regra do projeto é duas fontes que concordam, ou site oficial. Estes têm uma
 | Safari noturno com focagem de animais no Delta | Parnaíba | segunda fonte de preço |
 | Aula de surf na Praia do Madeiro | Pipa | segunda fonte de preço |
 | Passeio de barco pela foz do Rio Formoso (Carneiros) | Porto de Galinhas | segunda fonte de preço |
-| Parraxaxá | Recife | segunda fonte de preço |
 | Passeio de escuna pela Baía de Todos os Santos (Ilha dos Frades + Itaparica) | Salvador | segunda fonte de preço |
 | Projeto Tamar Praia do Forte | Salvador | segunda fonte de preço |
 | Ensaios de verão de Salvador (Timbalada, Sarau do Brown, Baile da Santinha) | Salvador | segunda fonte de preço |
-| Cabana do Sol | São Luís | segunda fonte de preço |
 | Praia dos Coqueiros e Praia dos Nativos | Trancoso | segunda fonte de preço |
-
-_...e mais 1. `npm run validate:data` imprime a lista inteira._
+| Balsa Porto Seguro - Arraial d'Ajuda | Trancoso | segunda fonte de preço |
 
 ### Horário não encontrado — 400
 
@@ -653,7 +641,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
 - _...e mais 93._
 
-### Sem coordenada — 289
+### Sem coordenada — 213
 
 Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muitos destes não são um ponto (um bairro, um circuito), e aí ficar sem coordenada é o certo.
 
@@ -661,30 +649,24 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 |---|---|---|
 | Mercados Municipais de Aracaju (Antonio Franco, Thales Ferraz e Maria Virginia) | Aracaju | coordenada |
 | Teleferico de Aracaju e Parque da Cidade | Aracaju | coordenada |
-| Oceanario de Aracaju (Projeto Tamar) | Aracaju | coordenada |
 | Memorial de Sergipe | Aracaju | coordenada |
 | Orla da Atalaia e Passarela do Caranguejo | Aracaju | coordenada |
 | Croa do Gore e Ilha dos Namorados | Aracaju | coordenada |
 | Praia de Aruana e Aruana al Mare | Aracaju | coordenada |
 | Duna Beach Club (praia do Mosqueiro) | Aracaju | coordenada |
 | Centro Cultural de Aracaju e Palacio Olimpio Campos | Aracaju | coordenada |
-| Cariri (forro pe de serra ao vivo) | Aracaju | coordenada |
 | Cacarola | Aracaju | coordenada |
-| Carne de Sol do Ramiro | Aracaju | coordenada |
 | Confraria do Cajueiro | Aracaju | coordenada |
 | Tole Cozinha | Aracaju | coordenada |
 | Sao Cristovao e a Praca Sao Francisco (Patrimonio Mundial) | Aracaju | coordenada |
 | Forró Caju (São João de Aracaju) | Aracaju | coordenada |
 | Pré-Caju (micareta de Aracaju) | Aracaju | coordenada |
-| Pier 13 (beira do Rio Sergipe, 13 de Julho) | Aracaju | coordenada |
 | Circuito Ponta de Mangue | Atins | coordenada |
 | Revoada dos guaras no Rio Pregucas (Atins) | Atins | coordenada |
 | Planctons luminescentes na foz do Rio Pregucas | Atins | coordenada |
 | Praia de Atins e suas barracas | Atins | coordenada |
 | Kitesurf em Atins | Atins | coordenada |
-| Restaurante da Luzia (Camarao da Luzia), Canto do Atins | Atins | coordenada |
 | Okaru (Pousada Vila Aty) | Atins | coordenada |
-| La Pizza (Atins) | Atins | coordenada |
 | Casa de Juja Atins | Atins | coordenada |
 | Charme Beach Bar e a noite de Atins | Atins | coordenada |
 | Travessia a pe dos Lencois Maranhenses (Atins a Santo Amaro) | Atins | coordenada |
@@ -698,9 +680,15 @@ Não entra no mapa do dia, e o deslocamento sai como estimativa grosseira. Muito
 | Circuito Lagoa das Andorinhas (Santo Amaro) | Barreirinhas | coordenada |
 | Circuito Betania (Santo Amaro) | Barreirinhas | coordenada |
 | Restaurantes da beira-rio de Barreirinhas (A Canoa, O Bambu, O Jacare) | Barreirinhas | coordenada |
-| Bambae | Barreirinhas | coordenada |
+| Urra Beer Barreirinhas | Barreirinhas | coordenada |
+| Casa dos Lencois (Santo Amaro) | Barreirinhas | coordenada |
+| Símbolo da Lua e Estrela na falésia | Canoa Quebrada | coordenada |
+| Duna do Pôr do Sol de Canoa | Canoa Quebrada | coordenada |
+| Passeio de buggy local (dunas, tirolesa e skibunda) | Canoa Quebrada | coordenada |
+| Buggy Rota das Falésias (até Ponta Grossa) | Canoa Quebrada | coordenada |
+| Rio Jaguaribe e o passeio de jardineira | Canoa Quebrada | coordenada |
 
-_...e mais 249. `npm run validate:data` imprime a lista inteira._
+_...e mais 173. `npm run validate:data` imprime a lista inteira._
 
 ## Punta Cana e Republica Dominicana
 | Medida | Número |

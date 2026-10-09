@@ -1463,6 +1463,10 @@
       },
       {
         "url": "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4043640511",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1524,7 +1528,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": 16.73741,
+      "lng": -92.636205
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "mx-sct-como-reconhecer-textil-feito-a-mao-tear-de-cintura-e",

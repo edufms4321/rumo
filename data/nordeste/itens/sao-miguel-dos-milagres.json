@@ -131,6 +131,10 @@
     "fontes": [
       {
         "url": "https://www.maladeaventuras.com/alagoas/sao-miguel-dos-milagres/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/296968683",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -173,7 +177,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -9.28316,
+      "lng": -35.383308
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-smm-praia-do-patacho",

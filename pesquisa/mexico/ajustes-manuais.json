@@ -91,8 +91,13 @@
     {
      "url": "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo._Guanajuato..JPG",
      "titulo": "Wikimedia Commons (imagem)"
+    },
+    {
+     "url": "https://www.openstreetmap.org/way/188836427",
+     "titulo": "OpenStreetMap (coordenada)"
     }
-   ]
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   "mx-imu-ferry-cancun-isla-mujeres-ultramar-e-xailing": {
    "imagens": [
@@ -233,6 +238,79 @@
      "titulo": "Wikimedia Commons (imagem)"
     }
    ]
+  },
+  "mx-oax-txalaparta-bar-com-pista-de-danca": {
+   "coords": {
+    "lat": 17.064064,
+    "lng": -96.725882
+   },
+   "fontes": [
+    {
+     "url": "https://foodandpleasure.com/bares-en-oaxaca/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/4350341091",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "mx-pue-el-mural-de-los-poblanos-mole-poblano": {
+   "coords": {
+    "lat": 19.042319,
+    "lng": -98.199795
+   },
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/Puebla"
+    },
+    {
+     "url": "https://www.milenio.com/negocios/chile-nogada-2026-costo-ventas-ingredientes-puebla"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/3993751057",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "mx-sct-la-vina-de-bacco": {
+   "coords": {
+    "lat": 16.73741,
+    "lng": -92.636205
+   },
+   "fontes": [
+    {
+     "url": "https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+    },
+    {
+     "url": "https://es.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_las_Casas"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/4043640511",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
+  },
+  "mx-sma-la-gruta-termas-e-spa-atotonilco": {
+   "coords": {
+    "lat": 21.000902,
+    "lng": -100.788958
+   },
+   "fontes": [
+    {
+     "url": "https://www.letstraveltomexico.com/la-gruta-san-miguel-de-allende/"
+    },
+    {
+     "url": "https://www.unotv.com/turismo/aguas-termales-en-san-miguel-de-allende-donde-estan-como-llegar-y-cuanto-cuesta-la-entrada/"
+    },
+    {
+     "url": "https://www.openstreetmap.org/node/8608468704",
+     "titulo": "OpenStreetMap (coordenada)"
+    }
+   ],
+   "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   }
  }
 }

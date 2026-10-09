@@ -1016,6 +1016,10 @@
       },
       {
         "url": "https://lorenzigo.com/jericoacoara-shopping-guide/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4365573589",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1068,7 +1072,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -2.794868,
+      "lng": -40.517972
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-jeri-na-casa-dela",

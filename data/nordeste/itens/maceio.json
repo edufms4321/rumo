@@ -64,6 +64,10 @@
       },
       {
         "url": "https://www.viciadaemviajar.com/onde-comer-em-maceio/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3269632970",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -116,7 +120,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -9.663825,
+      "lng": -35.703948
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-maikai-forro-e-choperia-em-maceio",
@@ -126,6 +135,10 @@
       },
       {
         "url": "https://all.accor.com/a/pt-br/limitless/thematics/city-breaks/o-que-fazer-a-noite-em-maceio.html"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/414516660",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -177,7 +190,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -9.649142,
+      "lng": -35.704774
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-sao-joao-raiz-de-maceio-e-o-trem-do-forro",
@@ -247,6 +265,10 @@
       },
       {
         "url": "https://www.tribunadosertao.com.br/geral/2014/04/11/153024-espetaculo-de-danca-explora-as-varias-formas-de-se-encontrar"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/50676868",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-09",
@@ -297,7 +319,12 @@
       "Preço varia por espetáculo; não há tabela",
       "Horário da bilheteria física não confirmado",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -9.664823,
+      "lng": -35.741787
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-piscinas-naturais-de-pajucara-passeio-de-jangada",
@@ -726,6 +753,10 @@
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3269647876",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -773,13 +804,22 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": true
-    }
+    },
+    "coords": {
+      "lat": -9.655971,
+      "lng": -35.699938
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-divina-gula",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1994849396",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -824,13 +864,22 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -9.646317,
+      "lng": -35.704915
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-jaragua-vida-noturna-e-casario-historico",
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/maceio/onde-comer"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/3357854484",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -876,7 +925,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -9.670242,
+      "lng": -35.723851
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-mcz-aviso-mare-e-as-piscinas-naturais-de-maceio-e-alagoa",

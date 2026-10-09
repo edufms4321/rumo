@@ -264,6 +264,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Segunda_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/10608960",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -322,7 +326,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.379664,
+      "lng": -38.912033
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-msp-terceira-praia",
@@ -337,6 +346,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Terceira_praia_-_Morro_de_S%C3%A3o_Paulo.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/10608959",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -385,7 +398,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.383331,
+      "lng": -38.908761
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-msp-quarta-praia",
@@ -400,6 +418,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Quarta_Praia_-_Morro_de_S%C3%A3o_Paulo_-_BA.JPG",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/11980004637",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -457,7 +479,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.387201,
+      "lng": -38.905279
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-msp-quinta-praia-praia-do-encanto",
@@ -813,6 +840,10 @@
       },
       {
         "url": "https://www.360meridianos.com/morro-de-sao-paulo"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/2067458981",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -868,7 +899,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -13.376679,
+      "lng": -38.917206
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-msp-onde-comer-no-centrinho-de-morro-de-sao-paulo",

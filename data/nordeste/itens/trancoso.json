@@ -238,6 +238,10 @@
       },
       {
         "url": "https://www.essemundoenosso.com.br/como-chegar-em-caraiva"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/12142271710",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -287,7 +291,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -16.724247,
+      "lng": -39.185635
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-trc-como-chegar-a-caraiva",

@@ -81,6 +81,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/59224731",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -138,7 +142,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.974088,
+      "lng": -38.51336
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-mercado-modelo",
@@ -156,6 +165,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_Salvador_2019-0436.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/59392558",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -205,7 +218,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.972947,
+      "lng": -38.51401
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-fundacao-casa-de-jorge-amado",
@@ -220,6 +238,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Salvador_vista_da_Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado_01.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/1486422689",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -275,7 +297,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -12.971697,
+      "lng": -38.508507
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-casa-do-rio-vermelho-jorge-amado-e-zelia-gattai",
@@ -290,6 +317,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Casa_do_Rio_Vermelho_Salvador_Bahia_2017-1002.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/474260844",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -349,7 +380,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.007701,
+      "lng": -38.489739
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-farol-da-barra-e-museu-nautico-da-bahia",
@@ -431,6 +467,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Praia_do_Porto_da_Barra_(Salvador).jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/8455912",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -479,7 +519,12 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -13.003167,
+      "lng": -38.532851
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-praias-do-norte-de-salvador-stella-maris-e-flamengo",
@@ -836,6 +881,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Ilha_Itaparica_vista_de_Salvador.jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/506092242",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -886,7 +935,8 @@
     "alertas": [
       "preco nao encontrado em fonte confiavel; confirmar no local",
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-projeto-tamar-praia-do-forte",
@@ -1008,6 +1058,10 @@
     "fontes": [
       {
         "url": "https://praiadoforte.org.br/atracoes/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/1299997582",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -1049,7 +1103,8 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-ssa-aviso-seguranca-em-salvador-sem-exagero-e-sem-omissa",

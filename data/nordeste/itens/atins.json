@@ -359,6 +359,10 @@
       },
       {
         "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/o-que-fazer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4995059222",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -403,7 +407,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -2.565618,
+      "lng": -42.794863
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-atn-okaru-pousada-vila-aty",
@@ -468,6 +477,10 @@
     "fontes": [
       {
         "url": "https://www.viajenaviagem.com/destino/lencois-maranhenses/onde-comer/"
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/4995048622",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -510,7 +523,12 @@
     "gastronomia": {
       "tipoCozinha": [],
       "reservaRecomendada": false
-    }
+    },
+    "coords": {
+      "lat": -2.570575,
+      "lng": -42.747776
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-atn-casa-de-juja-atins",

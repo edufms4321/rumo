@@ -332,6 +332,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Lagoa_do_Portinho_-_Parna%C3%ADba-PI_(2241148447).jpg",
         "titulo": "Wikimedia Commons (imagem)"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/10098066",
+        "titulo": "OpenStreetMap (coordenada)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -378,7 +382,12 @@
     "dicas": [],
     "alertas": [
       "coordenada nao encontrada: este item nao aparece no mapa"
-    ]
+    ],
+    "coords": {
+      "lat": -2.96375,
+      "lng": -41.683123
+    },
+    "observacaoDeConfianca": "Coordenada vinda da busca do OpenStreetMap em 2026-10-09, nao conferida no local; serve para o mapa e para a estimativa de deslocamento."
   },
   {
     "id": "br-pnb-praia-do-itaqui-e-vila-itaqui-luis-correia",
