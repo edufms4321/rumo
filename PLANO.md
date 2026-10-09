@@ -174,3 +174,33 @@ Aprovadas em bloco pelo Eduardo. Encaixadas nas fases em vez de virarem uma fase
 
 ## Lote G — ferramenta, depois da v1
 - **8** Re-verificação automática dos favoritos antes da viagem
+
+---
+
+## Fase 7 — Organização do acervo (2026-10-09, fechada)
+
+Pedido do Eduardo: "Nordeste tudo junto numa opção só? nem faz sentido" — e o mesmo para as atividades.
+
+| Entregue | Onde |
+|---|---|
+| Árvore país > macrorregião > estado > cidade-base | `src/componentes/ArvoreDeLugares.tsx`, `pesquisa/_divisoes/divisoes.json` (D31) |
+| Região turística como etiqueta, não nível | `zonas.json`, `cidade.zonaId` |
+| 11 grupos de item, derivados do nome e das etiquetas | `src/engine/grupos.ts` (D32) |
+| Filtro por grupo sempre visível + filtro por estado | `src/telas/Descobrir.tsx` |
+| Cobertura declarada ("o que este pacote NÃO cobre") | `destino.cobertura` |
+| 4 ondas de pesquisa de noite, comer, festa e cultura | +240 itens; banco em 1.187 |
+
+### Próximo, em ordem de valor
+
+1. **Imagens da República Dominicana e dos itens novos.** O Commons cobre mal o Caribe hispânico e a regra exige a cidade no nome do arquivo (D29). Provável resultado: poucos achados e muitos cartões com placeholder — que é o resultado honesto.
+2. **Coordenadas dos itens de noite.** Quatro ondas vieram quase sem coordenada (os agentes não acharam em fonte e não inventaram, corretamente). `npm run coords` resolve parte; o resto é bairro e rua, não ponto.
+3. **Preço.** Casa noturna não publica cover: 9 de 47 na Colômbia, 27 de 67 no México, 10 de 62 no Nordeste, 17 de 64 na Dominicana. O campo fica vazio e a pendência registra.
+4. **Tabela completa da TPA de Noronha**, dia a dia (hoje só 1 e 7 dias, interpolando nada — D34).
+5. **Melhoria 8** (re-verificação automática dos favoritos), adiada desde a v1.
+
+### Buracos de conteúdo que a pesquisa nomeou e não fechou
+
+- **Casa de forró pé de serra fixa no Recife**: fora de junho, nenhuma com programação publicada. O Recife resolve forró em arraial de rua.
+- **Datas de 2028** em festa nenhuma dos quatro países. Carnaval dominicano e Festival del Merengue não publicam nem 2027.
+- **Loreto (México)** é a base mais pobre do banco: a fonte lista comida em prosa, sem endereço nem preço.
+- **Casas que podem ter fechado**, registradas com confiança rebaixada em vez de omitidas: Órbita Bar (Fortaleza, fechou — o endereço hoje é o Kosmica), Taverna Pub (Natal), Sala de Reboco (Recife), Jet Set e Ferro Café (Santo Domingo), Drink Point e Don Queco (Punta Cana), Dominican Republic Jazz Festival.
