@@ -131,7 +131,7 @@ export function grupoDoItem(item: Item): Grupo {
     // Um bar com musica ao vivo continua sendo um bar. Só vira Festas
     // quando a casa e de festa: balada, boate, forro pe de serra, bloco.
     case 'bar':
-      return /(balada\w*|boate\w*|discoteca\w*|forr[oó]\w*|samba|carnaval\w*|micareta|festival\w*|pagode|baile\w*)/i.test(t)
+      return /\b(balada\w*|boate\w*|discoteca\w*|forr[oó]\w*|samba|carnaval\w*|micareta|festival\w*|pagode|baile\w*)\b/i.test(t)
         ? 'festas-e-musica'
         : 'bares';
     case 'compras':
