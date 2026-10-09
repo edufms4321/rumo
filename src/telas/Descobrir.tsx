@@ -31,12 +31,21 @@ export function Descobrir() {
   const [busca, definirBusca] = useState('');
   const [cidade, definirCidade] = useState<string>();
   const [estado, definirEstado] = useState<string>();
+  const [zona, definirZona] = useState<string>();
+  const [ordem, definirOrdem] = useState<'relevancia' | 'preco' | 'duracao' | 'nome'>('relevancia');
   const [grupo, definirGrupo] = useState<Grupo>();
   const [categoria, definirCategoria] = useState<string>();
   const [soFavoritos, definirSoFavoritos] = useState(false);
   const [mostrarDescartados, definirMostrarDescartados] = useState(false);
   const [aberto, definirAberto] = useState<string>();
   const [filtrosVisiveis, definirFiltrosVisiveis] = useState(false);
+
+  /** cidade -> zona turistica, para o filtro por zona. */
+  const zonaDaCidade = useMemo(() => {
+    const m = new Map<string, string>();
+    for (const c of pacote?.cidades ?? []) if (c.zonaId) m.set(c.id, c.zonaId);
+    return m;
+  }, [pacote]);
 
   /** cidade -> estado, para o filtro por estado. */
   const estadoDaCidade = useMemo(() => {
@@ -61,6 +70,7 @@ export function Descobrir() {
       .filter((i) => (mostrarDescartados ? viagem.descartados[i.id] : !viagem.descartados[i.id]))
       .filter((i) => (soFavoritos ? viagem.favoritos.includes(i.id) : true))
       .filter((i) => (estado ? estadoDaCidade.get(i.cidadeId) === estado : true))
+      .filter((i) => (zona ? zonaDaCidade.get(i.cidadeId) === zona : true))
       .filter((i) => (cidade ? i.cidadeId === cidade : true))
       .filter((i) => (categoria ? i.categoria === categoria : true))
       .filter((i) => {
@@ -74,10 +84,12 @@ export function Descobrir() {
     busca,
     cidade,
     estado,
+    zona,
     categoria,
     soFavoritos,
     mostrarDescartados,
     estadoDaCidade,
+    zonaDaCidade,
   ]);
 
   const contagemPorGrupo = useMemo(() => {
@@ -90,16 +102,35 @@ export function Descobrir() {
 
   const itens = useMemo(() => {
     if (!viagem) return [];
+    const porConfianca = { verificado: 0, parcial: 1, estimado: 2 };
+    /*
+      Item sem preco e item sem duracao vao para o FIM das duas ordenacoes,
+      nunca para o comeco. Ordenar por preco crescente e ver primeiro uma
+      lista de "sem preco" seria ler ausencia de dado como barato - e o banco
+      tem centena deles, porque a regra e deixar vazio em vez de chutar.
+    */
     return semGrupo
       .filter((i) => (grupo ? gruposDoItem(i).includes(grupo) : true))
       .sort((a, b) => {
+        // O favorito vem primeiro em qualquer ordenacao: e a lista do usuario.
         const fa = viagem.favoritos.includes(a.id) ? 0 : 1;
         const fb = viagem.favoritos.includes(b.id) ? 0 : 1;
         if (fa !== fb) return fa - fb;
-        const ordem = { verificado: 0, parcial: 1, estimado: 2 };
-        return ordem[a.confianca] - ordem[b.confianca];
+
+        if (ordem === 'nome') return a.nome.localeCompare(b.nome, 'pt-BR');
+        if (ordem === 'preco') {
+          const pa = a.gratuito ? 0 : (a.preco?.min ?? Number.POSITIVE_INFINITY);
+          const pb = b.gratuito ? 0 : (b.preco?.min ?? Number.POSITIVE_INFINITY);
+          if (pa !== pb) return pa - pb;
+        }
+        if (ordem === 'duracao') {
+          const da = a.duracao?.tipica ?? Number.POSITIVE_INFINITY;
+          const db = b.duracao?.tipica ?? Number.POSITIVE_INFINITY;
+          if (da !== db) return da - db;
+        }
+        return porConfianca[a.confianca] - porConfianca[b.confianca];
       });
-  }, [semGrupo, grupo, viagem]);
+  }, [semGrupo, grupo, viagem, ordem]);
 
   if (!viagem || !pacote) return <Vazio titulo="Viagem nao encontrada" />;
 
@@ -132,16 +163,26 @@ export function Descobrir() {
     coisa no outro. Menu que troca de ordem sozinho e menu que nao se
     aprende.
   */
+  const zonas = pacote.zonas
+    .map((z) => ({
+      id: z.id,
+      nome: z.nome,
+      n: pacote.itens.filter((i) => zonaDaCidade.get(i.cidadeId) === z.id).length,
+    }))
+    .filter((z) => z.n > 0)
+    .sort((a, b) => a.nome.localeCompare(b.nome));
+
   const gruposVisiveis = GRUPOS.map((g) => [g, contagemPorGrupo.get(g) ?? 0] as const).filter(
     ([, n]) => n > 0,
   );
   const quantosDescartados = Object.keys(viagem.descartados).length;
-  const temFiltro = Boolean(cidade || estado || categoria || grupo || busca || soFavoritos);
+  const temFiltro = Boolean(cidade || estado || zona || categoria || grupo || busca || soFavoritos);
 
   function limpar() {
     definirBusca('');
     definirCidade(undefined);
     definirEstado(undefined);
+    definirZona(undefined);
     definirGrupo(undefined);
     definirCategoria(undefined);
     definirSoFavoritos(false);
@@ -185,7 +226,7 @@ export function Descobrir() {
         <Botao
           aria-expanded={filtrosVisiveis}
           onClick={() => definirFiltrosVisiveis(!filtrosVisiveis)}
-          variante={cidade || estado || categoria ? 'principal' : 'contorno'}
+          variante={cidade || estado || zona || categoria ? 'principal' : 'contorno'}
         >
           <SlidersHorizontal size={15} />
           Filtros
@@ -262,6 +303,38 @@ export function Descobrir() {
                 key={c.id}
               >
                 {c.nome} <span className="text-2xs font-normal tabular-nums">{c.n}</span>
+              </Pilula>
+            ))}
+          </Grupo>
+          {zonas.length > 1 && (
+            <Grupo titulo="Região turística">
+              <Pilula ativo={!zona} aoClicar={() => definirZona(undefined)}>
+                todas
+              </Pilula>
+              {zonas.map((z) => (
+                <Pilula
+                  ativo={zona === z.id}
+                  aoClicar={() => definirZona(zona === z.id ? undefined : z.id)}
+                  key={z.id}
+                  titulo={z.nome}
+                >
+                  <span className="inline-block max-w-[11rem] truncate align-bottom">{z.nome}</span>{' '}
+                  <span className="text-2xs font-normal tabular-nums">{z.n}</span>
+                </Pilula>
+              ))}
+            </Grupo>
+          )}
+          <Grupo titulo="Ordenar por">
+            {(
+              [
+                ['relevancia', 'confiança do dado'],
+                ['preco', 'preço'],
+                ['duracao', 'duração'],
+                ['nome', 'nome'],
+              ] as const
+            ).map(([valor, rotulo]) => (
+              <Pilula ativo={ordem === valor} aoClicar={() => definirOrdem(valor)} key={valor}>
+                {rotulo}
               </Pilula>
             ))}
           </Grupo>
