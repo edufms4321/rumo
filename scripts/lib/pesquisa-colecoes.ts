@@ -940,7 +940,27 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
   }
 
   // --- forma nova: onda dedicada de hospedagem
+  const CONHECIDAS = new Set(['base', 'coletadoEm', 'hospedagens', 'bairrosPorBase']);
+
   for (const onda of ondas) {
+    /*
+      Chave que o conversor nao sabe ler vira AVISO, nao silencio.
+
+      A onda da Colombia trouxe `alertasGerais` — cinco blocos sobre
+      hostels que fecharam e sobre o pico das Fiestas de Independencia —
+      e um `notaDeMetodo`. Nada disso tem lugar no schema, e sem este
+      aviso a pesquisa sumiria sem ninguem saber que existiu. O gerador de
+      pendencias le os avisos, entao o conteudo fica rastreavel.
+    */
+    for (const chave of Object.keys(onda)) {
+      if (CONHECIDAS.has(chave)) continue;
+      const valor = onda[chave];
+      const quantos = Array.isArray(valor) ? ` (${valor.length} entrada(s))` : '';
+      avisos.push(
+        `onda de hospedagem traz "${chave}"${quantos}, que o conversor nao sabe gravar: ficou so no arquivo de pesquisa`,
+      );
+    }
+
     for (const [cidadeId, lista] of Object.entries((onda.bairrosPorBase ?? {}) as Record<string, Json[]>)) {
       for (const b of lista) {
         const nome = String(b.bairro ?? b.nome ?? '').trim();

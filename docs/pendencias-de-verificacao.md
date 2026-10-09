@@ -138,7 +138,7 @@ Duas fontes deram informações diferentes. O banco ficou com a primeira e marco
 |---|---|---|
 | Fiestas de la Independencia de Cartagena (1 a 16 de novembro de 2026) | Cartagena | qual das duas está certa |
 
-### Pesquisa que nao entrou no banco — 36
+### Pesquisa que nao entrou no banco — 68
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
@@ -167,7 +167,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento sem data exata ficou fora do banco: "Alumbrados Navideños de Medellín (2027)" (vazio)
 - evento sem data exata ficou fora do banco: "Rock al Parque (2027)" (vazio)
 - evento sem data exata ficou fora do banco: "Salsa al Parque (2027)" (vazio)
-- _...e mais 11._
+- _...e mais 43._
 
 ### Sem coordenada — 59
 
@@ -610,7 +610,7 @@ Sem o prazo, o alerta de reserva não consegue virar uma data no calendário.
 | Ensaios de verão de Salvador (Timbalada, Sarau do Brown, Baile da Santinha) | Salvador | antecedência da reserva |
 | Festival de Verão Salvador 2027 | Salvador | antecedência da reserva |
 
-### Pesquisa que nao entrou no banco — 118
+### Pesquisa que nao entrou no banco — 272
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
@@ -633,13 +633,13 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento sem data exata ficou fora do banco: "Alta temporada de junho e julho (São João no interior, férias no litoral)" (vazio)
 - evento sem data exata ficou fora do banco: "Festival de Inverno Bahia e Wine Brasil Music (agosto)" (vazio)
 - evento sem data exata ficou fora do banco: "NOTA DE CORREÇÃO — o Círio de Nazaré NÃO é evento do Nordeste" (vazio)
-- bairro "Rio Vermelho" (salvador) sem faixa de diaria: fora de hospedagem.json
-- bairro "Barra / Ondina" (salvador) sem faixa de diaria: fora de hospedagem.json
-- bairro "Pelourinho / Centro Histórico" (salvador) sem faixa de diaria: fora de hospedagem.json
-- bairro "Segunda Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
-- bairro "Terceira Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
-- bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: fora de hospedagem.json
-- _...e mais 93._
+- bairro "Rio Vermelho" (salvador) sem faixa de diaria: entrou sem preco
+- bairro "Barra / Ondina" (salvador) sem faixa de diaria: entrou sem preco
+- bairro "Pelourinho / Centro Histórico" (salvador) sem faixa de diaria: entrou sem preco
+- bairro "Segunda Praia" (morro-de-sao-paulo) sem faixa de diaria: entrou sem preco
+- bairro "Terceira Praia" (morro-de-sao-paulo) sem faixa de diaria: entrou sem preco
+- bairro "Quarta Praia" (morro-de-sao-paulo) sem faixa de diaria: entrou sem preco
+- _...e mais 247._
 
 ### Sem coordenada — 213
 
@@ -699,7 +699,7 @@ _...e mais 173. `npm run validate:data` imprime a lista inteira._
 | Confiança: parcialmente verificado | 146 |
 | Confiança: estimado | 10 |
 | Com coordenada | 95 de 152 |
-| Com imagem de licença livre | 0 de 152 |
+| Com imagem de licença livre | 13 de 152 |
 | Com algum contato | 58 de 152 |
 | Coletado há mais de um ano | 0 |
 ### Preço não encontrado — 85
@@ -810,7 +810,7 @@ Sem horário o motor não consegue avisar "está fechado neste dia". Dia da sema
 
 _...e mais 90. `npm run validate:data` imprime a lista inteira._
 
-### Pesquisa que nao entrou no banco — 57
+### Pesquisa que nao entrou no banco — 95
 
 O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro sem faixa de diaria, item cuja cidade nao esta no mapa de bases. Nada disto esta no app. Esta aqui porque pesquisa perdida em silencio e pior do que pesquisa que falta.
 
@@ -839,7 +839,7 @@ O conversor descarta o que nao consegue encaixar: evento sem data exata, bairro 
 - evento "Fins de semana longos de 2027 (consequencia da Ley 139-97)" tem escopo "todo o pais" fora das bases do banco: descartado
 - evento "Carnaval de La Vega (Carnaval Vegano - o mais famoso do pais)" tem escopo "La Vega (cidade do vale do Cibao, interior) - os famosos diablos cojuelos com suas mascaras" fora das bases do banco: descartado
 - evento "Carnaval de Santiago (Los Lechones)" tem escopo "Santiago de los Caballeros. ATENCAO: em 2026 foi concentrado no PARQUE CENTRAL e NAO mais na Av. Las Carreras, por causa das obras do monorriel. Rotas alternativas usadas: Calle del Sol, Republica de Argentina e Av. Juan Pablo Duarte." fora das bases do banco: descartado
-- _...e mais 32._
+- _...e mais 70._
 
 ### Sem coordenada — 57
 
