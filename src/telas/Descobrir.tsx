@@ -198,7 +198,15 @@ export function Descobrir() {
         era o que fazia a tela parecer uma lista unica de centenas de itens.
       */}
       {gruposVisiveis.length > 1 && (
-        <nav aria-label="Grupos" className="mb-4 flex flex-wrap gap-1.5">
+        /*
+          No celular a fileira quebrava em cinco linhas e empurrava o
+          primeiro resultado para fora da tela. Vira tira rolavel ate 640px
+          e volta a quebrar em linha no tamanho maior, onde cabe inteira.
+        */
+        <nav
+          aria-label="Grupos"
+          className="-mx-4 mb-4 flex gap-1.5 overflow-x-auto px-4 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0 sm:pb-0"
+        >
           <Pilula ativo={!grupo} aoClicar={() => definirGrupo(undefined)}>
             tudo <span className="text-2xs font-normal tabular-nums">{semGrupo.length}</span>
           </Pilula>
@@ -231,8 +239,14 @@ export function Descobrir() {
                     definirEstado(estado === e.id ? undefined : e.id);
                   }}
                   key={e.id}
+                  titulo={e.nome}
                 >
-                  {e.nome} <span className="text-2xs font-normal tabular-nums">{e.n}</span>
+                  {/* "Archipielago de San Andres, Providencia y Santa
+                      Catalina" ocupava duas linhas sozinho. Corta na tela e
+                      mantem o nome inteiro no title, porque encurtar nome
+                      oficial no dado seria errado. */}
+                  <span className="inline-block max-w-[11rem] truncate align-bottom">{e.nome}</span>{' '}
+                  <span className="text-2xs font-normal tabular-nums">{e.n}</span>
                 </Pilula>
               ))}
             </Grupo>
@@ -359,7 +373,10 @@ function Pilula({
   return (
     <button
       className={cn(
-        'rounded-full px-2.5 py-1 text-xs transition-colors',
+        // shrink-0 e nowrap porque dentro da tira rolavel do celular o
+        // flex encolhia cada pilula e quebrava "Praia e mar 38" em tres
+        // linhas, deixando a fileira mais alta do que quando quebrava.
+        'shrink-0 whitespace-nowrap rounded-full px-2.5 py-1 text-xs transition-colors',
         ativo
           ? 'bg-[var(--cor-acento)] text-[var(--cor-acento-texto)]'
           : 'bg-[var(--cor-fundo-afundado)] text-[var(--cor-texto-suave)] hover:text-[var(--cor-texto)]',
