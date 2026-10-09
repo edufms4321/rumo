@@ -355,3 +355,25 @@ test('Punta Cana avisa da febre amarela antes de voce embarcar', async ({ page }
   await page.getByRole('link', { name: 'Exportar' }).click();
   await expect(page.getByText('Certificado de vacinacao')).toBeVisible();
 });
+
+test('o voo internacional entra no orcamento', async ({ page }) => {
+  /*
+    O banco tinha 19 rotas internacionais pesquisadas e nenhuma chegava a
+    tela; o somatorio do orcamento nao tinha sequer a categoria. Num teto
+    por pessoa que o dono do app definiu como "incluindo o voo
+    internacional", faltar a maior linha faz a conta dizer que cabe quando
+    nao cabe.
+  */
+  await criarViagem(page, 'colombia');
+  await page.getByRole('link', { name: 'Orcamento' }).click();
+
+  await expect(page.getByRole('heading', { name: 'Voo ate o destino' })).toBeVisible();
+  await expect(page.getByText('Nada anotado ainda')).toBeVisible();
+
+  await page.getByRole('button', { name: 'usar o piso da faixa' }).first().click();
+
+  // A categoria deixa de mostrar o travessao e passa a somar.
+  const linha = page.locator('li', { hasText: /GRU-/ }).first();
+  await expect(linha).toBeVisible();
+  await expect(page.getByText('por pessoa ·').first()).toBeVisible();
+});

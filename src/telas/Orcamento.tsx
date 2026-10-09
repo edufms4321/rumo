@@ -11,6 +11,7 @@ import { cn } from '../lib/cn.ts';
 import { acoes, novoId, usarPacote, usarViagem } from '../store/viagem.ts';
 
 const NOME_DA_CATEGORIA: Record<CategoriaDeCusto, string> = {
+  'voo-internacional': 'Voo ate o destino',
   atividades: 'Atividades',
   refeicoes: 'Refeicoes',
   hospedagem: 'Hospedagem',
@@ -101,6 +102,8 @@ export function Orcamento() {
           </p>
         </Cartao>
       )}
+
+      <SecaoDoVoo />
 
       {/* Agrupa as linhas por categoria uma vez, nao por linha renderizada. */}
       <Secao titulo="Por categoria">
@@ -372,5 +375,175 @@ function LancarGasto() {
         </Botao>
       </div>
     </Cartao>
+  );
+}
+
+/**
+ * O aereo ate o destino.
+ *
+ * Por que ganhou secao propria e nao virou mais uma linha: o banco tinha 19
+ * rotas pesquisadas — companhia, escala, duracao, faixa de preco e link de
+ * busca — e NENHUMA chegava a tela. Pior, o somatorio ignorava o voo, num
+ * teto que o proprio usuario definiu como "incluindo o voo internacional".
+ * O total parecia caber porque faltava a maior linha.
+ *
+ * A faixa do banco e ponto de partida, nunca resposta: preco de passagem a
+ * meses de distancia e fotografia do dia. Por isso o botao escreve o PISO da
+ * faixa e o campo ao lado espera a cotacao real.
+ */
+function SecaoDoVoo() {
+  const viagem = usarViagem();
+  const pacote = usarPacote();
+  const [preco, definirPreco] = useState('');
+
+  if (!viagem || !pacote) return null;
+
+  const origens = new Set(viagem.origem.aeroportos);
+  const rotas = [...pacote.voosInternacionais].sort((a, b) => {
+    // As rotas que saem do aeroporto dele vem primeiro.
+    const pa = origens.has(a.origemIata) ? 0 : 1;
+    const pb = origens.has(b.origemIata) ? 0 : 1;
+    if (pa !== pb) return pa - pb;
+    return (a.preco?.min ?? Infinity) - (b.preco?.min ?? Infinity);
+  });
+
+  const escolhido = viagem.voo;
+  const horas = (min: number) => `${Math.floor(min / 60)} h ${String(min % 60).padStart(2, '0')}`;
+
+  return (
+    <Secao titulo="Voo ate o destino">
+      <Cartao className="p-4">
+        {escolhido?.precoPorPessoa === undefined ? (
+          <p className="mb-3 flex items-start gap-1.5 text-xs text-[var(--cor-atencao-forte)]">
+            <TriangleAlert className="mt-0.5 shrink-0" size={13} />
+            <span>
+              Nada anotado ainda. Enquanto o voo nao entra, todo numero desta tela esta por baixo.
+            </span>
+          </p>
+        ) : (
+          <div className="mb-3 flex flex-wrap items-center gap-2 text-sm">
+            <strong>{formatarBRL(escolhido.precoPorPessoa)}</strong>
+            <span className="text-xs text-[var(--cor-texto-suave)]">
+              por pessoa · {escolhido.rotulo || 'voo anotado'}
+              {escolhido.comprado ? ' · ja comprado' : ''}
+            </span>
+            <Botao
+              onClick={() => acoes.definirVoo(undefined)}
+              tamanho="pequeno"
+              variante="fantasma"
+            >
+              <Trash2 size={12} />
+              tirar
+            </Botao>
+          </div>
+        )}
+
+        <div className="flex flex-wrap items-end gap-2">
+          <div>
+            <Rotulo>Preco que voce achou (por pessoa, ida e volta)</Rotulo>
+            <Campo
+              className="h-9 w-44 text-sm"
+              inputMode="decimal"
+              onChange={(e) => definirPreco(e.target.value)}
+              placeholder="R$"
+              value={preco}
+            />
+          </div>
+          <Botao
+            onClick={() => {
+              const valor = Number(preco.replace(/[^0-9,.]/g, '').replace(',', '.'));
+              if (!Number.isFinite(valor) || valor <= 0) return;
+              acoes.definirVoo({
+                rotulo: escolhido?.rotulo ?? 'Voo ate o destino',
+                precoPorPessoa: valor,
+                moeda: 'BRL',
+                comprado: false,
+                ...(escolhido?.rotaId ? { rotaId: escolhido.rotaId } : {}),
+              });
+              definirPreco('');
+            }}
+            variante="principal"
+          >
+            Anotar
+          </Botao>
+        </div>
+
+        {rotas.length === 0 ? (
+          <p className="mt-4 text-2xs text-[var(--cor-texto-suave)]">
+            Este pacote ainda nao tem rota de voo pesquisada. Anote o preco a mao acima.
+          </p>
+        ) : (
+          <>
+            <p className="mb-2 mt-4 text-2xs uppercase tracking-wide text-[var(--cor-texto-fraco)]">
+              {rotas.length} rota{rotas.length > 1 ? 's' : ''} pesquisada
+              {rotas.length > 1 ? 's' : ''}
+            </p>
+            <ul className="space-y-2">
+              {rotas.map((r) => (
+                <li
+                  className="rounded-[var(--raio)] bg-[var(--cor-fundo-afundado)] p-2.5 text-xs"
+                  key={r.id}
+                >
+                  <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+                    <strong>
+                      {r.origemIata} para {r.destinoIata}
+                    </strong>
+                    <span className="text-[var(--cor-texto-suave)]">
+                      {horas(r.duracaoTotalMin)}
+                      {r.escalas ? ` · ${r.escalas}` : ''}
+                    </span>
+                    {r.preco && (
+                      <span className="ml-auto font-medium">
+                        {formatarFaixaBRL({ min: r.preco.min, max: r.preco.max })}
+                      </span>
+                    )}
+                  </div>
+                  <p className="mt-1 text-[var(--cor-texto-suave)]">{r.cias.join(' · ')}</p>
+                  <div className="mt-1.5 flex flex-wrap items-center gap-1.5">
+                    {(() => {
+                      const faixa = r.preco;
+                      if (!faixa) return null;
+                      return (
+                        <Botao
+                          onClick={() =>
+                            acoes.definirVoo({
+                              rotaId: r.id,
+                              rotulo: `${r.origemIata}-${r.destinoIata}`,
+                              // O PISO da faixa, nao o meio: subestimar faz o
+                              // alerta de estouro disparar cedo, e e o lado
+                              // certo de errar num teto.
+                              precoPorPessoa: faixa.min,
+                              moeda: faixa.moeda,
+                              comprado: false,
+                            })
+                          }
+                          tamanho="pequeno"
+                          variante="contorno"
+                        >
+                          usar o piso da faixa
+                        </Botao>
+                      );
+                    })()}
+                    {r.linkDeBusca && (
+                      <Botao
+                        onClick={() => window.open(r.linkDeBusca, '_blank', 'noopener,noreferrer')}
+                        tamanho="pequeno"
+                        variante="fantasma"
+                      >
+                        buscar preco de hoje
+                      </Botao>
+                    )}
+                  </div>
+                </li>
+              ))}
+            </ul>
+            <p className="mt-2 text-2xs leading-relaxed text-[var(--cor-texto-suave)]">
+              Faixa coletada em {rotas[0]?.preco?.coletadoEm ?? rotas[0]?.coletadoEm}. Preco de
+              passagem e fotografia do dia: use o link, nao o numero.
+            </p>
+          </>
+        )}
+      </Cartao>
+    </Secao>
   );
 }

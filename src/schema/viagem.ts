@@ -247,6 +247,29 @@ export const Viagem = z.object({
       incluiVoosInternacionais: z.boolean().default(true),
     })
     .optional(),
+  /**
+   * O voo internacional (ou o aereo de ida e volta ate o destino).
+   *
+   * Por que fica na VIAGEM e nao no pacote: o pacote tem a rota pesquisada,
+   * com faixa de preco e link de busca; o que custa de verdade e a cotacao
+   * que o viajante achou no dia em que comprou. O banco informa, a viagem
+   * decide.
+   *
+   * Preco de voo a treze meses de distancia e ficcao — por isso o campo
+   * aceita `precoPorPessoa` vazio: a rota entra no plano, o numero entra
+   * quando existir.
+   */
+  voo: z
+    .object({
+      /** id da rota em voos-internacionais.json, quando veio do banco. */
+      rotaId: z.string().optional(),
+      rotulo: z.string().default(''),
+      precoPorPessoa: z.number().nonnegative().optional(),
+      moeda: Moeda.default('BRL'),
+      comprado: z.boolean().default(false),
+      observacao: z.string().optional(),
+    })
+    .optional(),
   cambio: Cambio,
   dias: z.array(Dia).default([]),
   favoritos: z.array(Slug).default([]),

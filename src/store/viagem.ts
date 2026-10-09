@@ -326,6 +326,16 @@ export const acoes = {
     });
   },
 
+  /**
+   * Anota o aereo ate o destino. Preco por pessoa, porque e assim que o
+   * teto do usuario e expresso e assim que a passagem e vendida.
+   */
+  definirVoo(voo: Viagem['voo']): void {
+    usarLoja.getState().alterar((v) => {
+      v.voo = voo;
+    });
+  },
+
   definirHospedagem(diaId: string, hospedagem: Dia['hospedagem']): void {
     usarLoja.getState().alterar((v) => {
       const dia = v.dias.find((d) => d.id === diaId);

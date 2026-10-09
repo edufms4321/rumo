@@ -660,6 +660,33 @@ function regraClimaDoMes(ctx: Contexto, alertas: Alerta[]): void {
 function regraOrcamento(ctx: Contexto, alertas: Alerta[]): void {
   const orcamento = calcularOrcamento(ctx.viagem, ctx.pacote);
   if (!orcamento.orcado) return;
+
+  /*
+    O teto inclui o voo e o voo nao esta na conta.
+
+    Este aviso vem ANTES do de estouro de proposito. Um total que parece
+    caber dentro do teto, calculado sem a maior linha da viagem, e pior que
+    nenhum total: ele autoriza a gastar. O dono deste app definiu o teto
+    como "ate R$ 8.000 por pessoa INCLUINDO voo internacional", e o aereo
+    costuma comer de um terco a metade disso.
+  */
+  if (ctx.viagem.orcamento?.incluiVoosInternacionais && ctx.viagem.voo?.precoPorPessoa === undefined) {
+    const rotas = ctx.pacote.voosInternacionais.length;
+    alertas.push({
+      codigo: 'voo-fora-do-orcamento',
+      nivel: 'atencao',
+      titulo: 'O teto inclui o voo, e o voo nao esta na conta',
+      mensagem:
+        'Seu teto por pessoa foi definido como incluindo o aereo, mas nenhum preco de voo foi anotado. ' +
+        'Tudo o que o orcamento mostra hoje esta por baixo.' +
+        (rotas > 0
+          ? ` O banco tem ${rotas} rota${rotas > 1 ? 's' : ''} pesquisada${rotas > 1 ? 's' : ''} com faixa de preco e link de busca.`
+          : ''),
+      blocoIds: [],
+      correcoes: [{ tipo: 'abrir-orcamento', rotulo: 'Escolher o voo' }],
+    });
+  }
+
   if (!orcamento.estourou) return;
 
   alertas.push({

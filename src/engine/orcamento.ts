@@ -16,6 +16,7 @@ import type { PacoteDestino } from '../schema/pacote.ts';
 import type { Viagem } from '../schema/viagem.ts';
 
 export type CategoriaDeCusto =
+  | 'voo-internacional'
   | 'atividades'
   | 'refeicoes'
   | 'hospedagem'
@@ -100,6 +101,33 @@ export function calcularOrcamento(viagem: Viagem, pacote: PacoteDestino): Orcame
       faixaOriginal,
       porPessoa: preco.por === 'pessoa',
     });
+  }
+
+  /*
+    O voo ate o destino entra na conta.
+
+    Ele ficava de fora — o banco tinha 19 rotas pesquisadas, com faixa de
+    preco e link de busca, e NENHUMA chegava a tela nem ao somatorio. Num
+    teto por pessoa que o proprio viajante definiu como "incluindo o voo
+    internacional", omitir a maior linha faz o orcamento dizer que cabe
+    quando nao cabe.
+  */
+  if (viagem.voo?.precoPorPessoa !== undefined) {
+    registrar(
+      viagem.voo.rotulo || 'Voo ate o destino',
+      'voo-internacional',
+      {
+        moeda: viagem.voo.moeda,
+        min: viagem.voo.precoPorPessoa,
+        max: viagem.voo.precoPorPessoa,
+        por: 'pessoa',
+        inclui: 'ida e volta',
+        coletadoEm: viagem.atualizadoEm,
+        fontes: [],
+      },
+      undefined,
+      undefined,
+    );
   }
 
   // Quantas noites em cada cidade, nao so quais cidades: a taxa progressiva
@@ -228,6 +256,7 @@ export function calcularOrcamento(viagem: Viagem, pacote: PacoteDestino): Orcame
   // ------------------------------------------------------------------ totais
   const vazio = (): Record<string, Faixa> => ({});
   const porCategoria = {
+    'voo-internacional': { ...FAIXA_ZERO },
     atividades: { ...FAIXA_ZERO },
     refeicoes: { ...FAIXA_ZERO },
     hospedagem: { ...FAIXA_ZERO },
