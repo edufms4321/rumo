@@ -17,12 +17,51 @@
 import { type PacoteDestino, type ProblemaDePacote, validarPacote } from '../schema/pacote.ts';
 import { agruparPorDestino, montarPacote } from './montar-pacote.ts';
 
+export interface CidadeNoIndice {
+  id: string;
+  nome: string;
+  zona?: string;
+  itens: number;
+}
+
+export interface EstadoNoIndice {
+  id: string;
+  nome: string;
+  sigla: string;
+  tipo: string;
+  descricaoCurta: string;
+  cidades: CidadeNoIndice[];
+}
+
+export interface RegiaoNoIndice {
+  id: string;
+  nome: string;
+  descricaoCurta: string;
+  estados: EstadoNoIndice[];
+}
+
 export interface IndiceDeDestino {
   id: string;
   nome: string;
+  /** Nome do pais. Ausente em indice gerado antes da arvore de lugares. */
+  paisNome?: string;
+  codigoPais?: string;
   moeda: string;
-  totais: { itens: number; cidades: number; trechos: number; eventos: number };
+  /** O que o pacote NAO cobre. */
+  cobertura?: string;
+  totais: {
+    itens: number;
+    cidades: number;
+    trechos: number;
+    eventos: number;
+    estados?: number;
+    regioes?: number;
+  };
   confianca: { verificado: number; parcial: number; estimado: number };
+  /** Contagem por grupo de item, na ordem da interface. */
+  grupos?: Array<{ grupo: string; n: number }>;
+  /** Regiao > estado > cidade. Vazia quando a divisao nao foi pesquisada. */
+  arvore?: RegiaoNoIndice[];
 }
 
 const indicesCrus = import.meta.glob('../../data/*/indice.json', {

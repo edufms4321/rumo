@@ -1,8 +1,10 @@
 import { ArrowRight, MapPin, Plus, Trash2, Upload } from 'lucide-react';
-import { useRef, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router';
 import { Botao, Cartao, Painel, Selo, Vazio } from '../componentes/ui.tsx';
-import { indices } from '../data/carregar.ts';
+import { ArvoreDeLugares } from '../componentes/ArvoreDeLugares.tsx';
+import { type IndiceDeDestino, indices } from '../data/carregar.ts';
+import { type Grupo, NOME_DO_GRUPO } from '../engine/grupos.ts';
 import { usarLoja } from '../store/viagem.ts';
 
 export function Inicio() {
@@ -17,6 +19,23 @@ export function Inicio() {
   const [nome, definirNome] = useState('');
   const [recado, definirRecado] = useState<string>();
   const entradaDeArquivo = useRef<HTMLInputElement>(null);
+
+  /*
+    Um pacote cobre um RECORTE de pais ("Nordeste brasileiro"), nao o pais.
+    Agrupar por codigo de pais faz dois recortes do mesmo pais virarem um
+    cartao so quando chegar o segundo - sem isso, "Brasil - Nordeste" e
+    "Brasil - Sudeste" apareceriam como paises diferentes na lista.
+  */
+  const porPais = useMemo(() => {
+    const mapa = new Map<string, { chave: string; nome: string; pacotes: IndiceDeDestino[] }>();
+    for (const d of indices) {
+      const chave = d.codigoPais ?? d.id;
+      const grupo = mapa.get(chave) ?? { chave, nome: d.paisNome ?? d.nome, pacotes: [] };
+      grupo.pacotes.push(d);
+      mapa.set(chave, grupo);
+    }
+    return [...mapa.values()].sort((a, b) => a.nome.localeCompare(b.nome));
+  }, []);
 
   function criar() {
     const indice = indices.find((d) => d.id === destinoEscolhido);
@@ -137,28 +156,63 @@ export function Inicio() {
       </section>
 
       <section>
-        <h2 className="mb-3 text-sm font-semibold uppercase tracking-wide text-[var(--cor-texto-suave)]">
+        <h2 className="mb-1 text-sm font-semibold uppercase tracking-wide text-[var(--cor-texto-suave)]">
           Destinos disponiveis
         </h2>
-        <ul className="grid gap-3 sm:grid-cols-2">
-          {indices.map((d) => (
-            <li key={d.id}>
+        <p className="mb-3 text-xs text-[var(--cor-texto-suave)]">
+          Agrupados por pais. Abra para ver os estados e as bases de cada um, e o que cada pacote
+          ainda nao cobre.
+        </p>
+        <ul className="space-y-3">
+          {porPais.map((pais) => (
+            <li key={pais.chave}>
               <Cartao className="p-4">
-                <h3 className="font-medium">{d.nome}</h3>
-                <p className="mt-1 text-xs text-[var(--cor-texto-suave)]">
-                  {d.totais.itens} itens em {d.totais.cidades} bases · {d.totais.trechos} trechos
-                  entre cidades · {d.totais.eventos} datas no calendario
-                </p>
-                <div className="mt-2.5 flex flex-wrap gap-1.5">
-                  <Selo tom="verificado">{d.confianca.verificado} verificado</Selo>
-                  <Selo tom="parcial">{d.confianca.parcial} parcial</Selo>
-                  <Selo tom="estimado">{d.confianca.estimado} estimado</Selo>
-                </div>
+                <h3 className="text-base font-medium">{pais.nome}</h3>
+                {pais.pacotes.map((d) => (
+                  <div className="mt-2 border-t border-[var(--cor-borda)] pt-2.5" key={d.id}>
+                    <p className="text-sm font-medium text-[var(--cor-texto-suave)]">{d.nome}</p>
+                    <p className="mt-0.5 text-xs text-[var(--cor-texto-suave)]">
+                      {d.totais.itens} itens em {d.totais.cidades} bases
+                      {d.totais.estados ? ` · ${d.totais.estados} estados` : ''} ·{' '}
+                      {d.totais.trechos} trechos entre cidades · {d.totais.eventos} datas no
+                      calendario
+                    </p>
+
+                    {d.cobertura && (
+                      <p className="mt-2 rounded-[var(--raio)] bg-[var(--cor-fundo-afundado)] px-2.5 py-1.5 text-2xs leading-relaxed text-[var(--cor-texto-suave)]">
+                        {d.cobertura}
+                      </p>
+                    )}
+
+                    {d.grupos && d.grupos.length > 0 && (
+                      <div className="mt-2.5 flex flex-wrap gap-1.5">
+                        {d.grupos.map((g) => (
+                          <Selo key={g.grupo} tom="neutro">
+                            {g.n} {NOME_DO_GRUPO[g.grupo as Grupo] ?? g.grupo}
+                          </Selo>
+                        ))}
+                      </div>
+                    )}
+
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <Selo tom="verificado">{d.confianca.verificado} verificado</Selo>
+                      <Selo tom="parcial">{d.confianca.parcial} parcial</Selo>
+                      <Selo tom="estimado">{d.confianca.estimado} estimado</Selo>
+                    </div>
+
+                    {d.arvore && d.arvore.length > 0 ? (
+                      <ArvoreDeLugares arvore={d.arvore} />
+                    ) : (
+                      <p className="mt-2 text-2xs text-[var(--cor-estimado)]">
+                        Divisao por estado ainda nao pesquisada neste pacote.
+                      </p>
+                    )}
+                  </div>
+                ))}
               </Cartao>
             </li>
           ))}
         </ul>
-
       </section>
 
       <Painel
@@ -180,7 +234,8 @@ export function Inicio() {
             >
               {indices.map((d) => (
                 <option key={d.id} value={d.id}>
-                  {d.nome} — {d.totais.itens} itens
+                  {d.paisNome && d.paisNome !== d.nome ? `${d.paisNome} — ` : ''}
+                  {d.nome} ({d.totais.itens} itens)
                 </option>
               ))}
             </select>
