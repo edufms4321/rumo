@@ -1,0 +1,2233 @@
+{
+  "base": "hospedagem",
+  "coletadoEm": "2026-10-09",
+  "hospedagens": [
+    {
+      "cidadeId": "sao-luis",
+      "nome": "Reviver Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Historico",
+      "porCama": true,
+      "porQue": "Casarao de 1822 dentro do Centro Historico tombado, com dormitorio compartilhado (misto e feminino) de camas de solteiro, ar-condicionado, criado-mudo e locker individual por cama. Quem gosta: quem quer dormir dentro do conjunto de azulejos e sair a pe para tudo. O que se perde: nao e perto de praia, e o Centro Historico esvazia a noite.",
+      "link": "https://www.reviverhostel.com.br/",
+      "endereco": "Rua Nazare, 200 - Centro Historico, Sao Luis - MA, 65010-410",
+      "contato": {
+        "telefone": "+55 98 3213-9955",
+        "whatsapp": "+55 98 99903-9955",
+        "site": "https://www.reviverhostel.com.br/"
+      },
+      "alertas": [
+        "O site oficial nao publica tarifa: pedir valor por WhatsApp antes de fechar"
+      ],
+      "fontes": [
+        "https://www.reviverhostel.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Nome, endereco, telefone e a existencia do dormitorio compartilhado saem do site oficial, aberto em 09/10/2026. PRECO NAO REGISTRADO: o site joga a tarifa para o motor de reserva proprio (booking.hqbeds.com.br/reviverhostel), que nao renderiza sem navegador, e nao achei a diaria em fonte utilizavel. Cafe da manha e cozinha compartilhada tambem nao aparecem no site - nao marquei nenhum dos dois."
+    },
+    {
+      "cidadeId": "sao-luis",
+      "nome": "Casa Guarnice Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porCama": true,
+      "porQue": "Hostel no Centro Historico com cafe da manha incluso e cozinha 100% equipada - o combo que mais economiza em viagem de dupla: almoco e janta podem sair da panela. Seis quartos com nome (Maioba, Maracana, Jamaica, Divino, Sol, Lua), entre compartilhados e privativos. O que se perde: casa pequena, pouca vaga em alta.",
+      "link": "https://casaguarnice.com.br/",
+      "endereco": "Rua Sao Joao, 63 - Centro, Sao Luis - MA",
+      "contato": {
+        "whatsapp": "+55 98 98465-9993",
+        "site": "https://casaguarnice.com.br/"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://casaguarnice.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: confirma endereco, WhatsApp, cafe da manha incluso e cozinha equipada. PRECO NAO REGISTRADO: a tarifa fica no motor proprio (booking.hqbeds.com.br/casaguarnice) e nao foi possivel ler. Nao confirmei quantas camas tem cada dormitorio."
+    },
+    {
+      "cidadeId": "sao-luis",
+      "nome": "Palma Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro Historico (a confirmar)",
+      "porCama": true,
+      "porQue": "Tem quarto coletivo e quarto privativo, os dois com banheiro e ar-condicionado - detalhe que importa em Sao Luis, onde o calor nao da tregua a noite. Opera tambem uma unidade de aventura nos Lencois, o que ajuda a emendar o trecho. O que se perde: o endereco exato nao esta publicado em canal oficial.",
+      "link": "https://www.palmahostel.com.br/",
+      "contato": {
+        "whatsapp": "+55 98 98605-8201",
+        "site": "https://www.palmahostel.com.br/"
+      },
+      "alertas": [
+        "Endereco nao publicado em fonte oficial - confirmar por WhatsApp"
+      ],
+      "fontes": [
+        "https://www.instagram.com/palmahostel/",
+        "https://www.palmahostel.com.br/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Abri o Instagram oficial e o site oficial em 09/10/2026. O Instagram confirma quartos privativos e coletivos com banheiro e ar-condicionado e da o WhatsApp; o site confirma duas unidades (Palma Sao Luis e Palma Adventure nos Lencois). NENHUM DOS DOIS publica endereco nem preco. Resultados de busca citam Rua da Palma, 142 e Rua do Giz, 129, mas isso vem de diretorio de terceiros - NAO registro endereco por isso. Bairro marcado 'a confirmar' de proposito."
+    },
+    {
+      "cidadeId": "barreirinhas",
+      "nome": "Hostel Em Boas Maos",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porCama": true,
+      "porQue": "A opcao de hostel que a reportagem de viagem cita para Barreirinhas, com cafe da manha, wi-fi e cozinha compartilhada. Em Barreirinhas a cozinha vale muito: o jantar na Beira Rio e caro para o padrao da cidade. O que se perde: nao e na beira do rio, de onde saem os jardineiras e lanchas.",
+      "alertas": [
+        "Endereco e telefone nao confirmados em fonte utilizavel"
+      ],
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-barreirinhas-nos-lencois-maranhenses"
+      ],
+      "confianca": "baixa",
+      "observacao": "Unica fonte aberta: materia do 360meridianos publicada em 20/10/2023 e atualizada em 28/11/2023 - ja passou de 2 anos, por isso confianca baixa. Ela confirma nome, perfil economico, cafe, wi-fi e cozinha compartilhada, mas nao da endereco, telefone nem preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "barreirinhas",
+      "nome": "Camping Hostel Casa Tia Marlene",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Barreirinhas",
+      "porQue": "Aparece no guia de campings do MaCamp como camping e hostel na mesma casa em Barreirinhas - para dupla com barraca e o piso de preco do destino. Quem gosta: quem nao se incomoda de banho frio e banheiro coletivo. O que se perde: conforto e, provavelmente, ar-condicionado.",
+      "alertas": [
+        "Estrutura, preco e telefone nao confirmados: o guia lista o nome, nao os detalhes"
+      ],
+      "fontes": [
+        "https://macamp.com.br/guia/guia/local/brasil/maranhao/lencois-maranhenses/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Indice de campings dos Lencois Maranhenses do MaCamp, aberto em 09/10/2026. O indice lista o nome e a cidade e nada mais - sem preco, sem telefone, sem endereco. Registro porque lugar com nome vale mais que nada, mas precisa de uma ligacao antes de contar com ele."
+    },
+    {
+      "cidadeId": "barreirinhas",
+      "nome": "Pousada Lins",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porQue": "Pousada economica e central citada pela reportagem, com piscina pequena. Em Barreirinhas, ficar no Centro e o que decide o dia: os passeios saem da Av. Beira Rio e do centro, e a pe se resolve mercado, banco e restaurante.",
+      "alertas": [
+        "Endereco, telefone e preco nao confirmados em fonte utilizavel"
+      ],
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-barreirinhas-nos-lencois-maranhenses"
+      ],
+      "confianca": "baixa",
+      "observacao": "Materia do 360meridianos de 20/10/2023 (atualizada 28/11/2023), aberta em 09/10/2026 - fonte com mais de 2 anos, confianca rebaixada. A mesma materia situa a faixa da cidade: quarto de casal economico ate cerca de R$ 250, media de R$ 350. NAO registro essa faixa como preco deste lugar porque e faixa da cidade, nao tarifa da pousada."
+    },
+    {
+      "cidadeId": "barreirinhas",
+      "nome": "Orla Nautica",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "A 2 km do centro",
+      "porQue": "Boa relacao preco/estrutura segundo a reportagem, com pingue-pongue e bilhar. Fica a 2 km do centro: paga-se menos e ganha-se silencio, mas se gasta em moto-taxi todo dia e a volta a noite a pe nao e recomendada.",
+      "alertas": [
+        "Fora do centro: contar com moto-taxi ou carro",
+        "Preco nao confirmado"
+      ],
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-barreirinhas-nos-lencois-maranhenses"
+      ],
+      "confianca": "baixa",
+      "observacao": "360meridianos, 20/10/2023 atualizado 28/11/2023, aberto em 09/10/2026. Mais de 2 anos de fonte unica - confianca baixa. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "barreirinhas",
+      "nome": "Pousada D'Areia",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porQue": "Pousada simples no Centro, com cafe da manha incluso e seis tipos de acomodacao para ate 4 pessoas - serve a dupla que quer quarto proprio em vez de dormitorio. Reserva direta pelo WhatsApp costuma sair melhor que agencia. O que se perde: nao tem dormitorio compartilhado, entao nao e o piso de preco da cidade.",
+      "link": "https://www.pousadadareia.com.br/",
+      "endereco": "Av. Joaquim Soeiro de Carvalho, 888 - Centro, Barreirinhas - MA",
+      "contato": {
+        "telefone": "+55 98 3349-0550",
+        "whatsapp": "+55 98 98802-3518",
+        "site": "https://www.pousadadareia.com.br/"
+      },
+      "cafeIncluso": true,
+      "fontes": [
+        "https://www.pousadadareia.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, telefone, WhatsApp e cafe da manha confirmados; so quartos privativos, sem dormitorio. PRECO NAO REGISTRADO - o site nao publica diaria."
+    },
+    {
+      "cidadeId": "atins",
+      "nome": "Pousada Nativa (Pousada do Seu Joao)",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Vila de Atins",
+      "porCama": false,
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 80,
+        "max": 180
+      },
+      "porQue": "A hospedagem familiar mais barata de Atins que consegui com nome, preco e telefone na mesma fonte: quartos simples com banheiro privativo, ventilador e mosquiteiro, cafe da manha incluso, casa alta sem forro para o vento circular. Quem gosta: quem quer Atins sem pagar R$ 400 de eco-lodge. O que se perde: nao tem ar-condicionado.",
+      "contato": {
+        "whatsapp": "+55 98 98860-0539"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "Sem ar-condicionado - so ventilador e mosquiteiro",
+        "Preco sem data na fonte: confirmar antes"
+      ],
+      "fontes": [
+        "https://www.atins.me/pt-br/diretorio/pousada-nativa/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Diretorio local de Atins (atins.me), aberto em 09/10/2026. A faixa R$ 80-180 e a tabela publicada ali: single R$ 80, duplo R$ 120, triplo R$ 180 (quadruplo R$ 400, que deixei fora da faixa por fugir do padrao). A PAGINA NAO TRAZ DATA DO PRECO - para a dupla, o numero que interessa e o duplo, R$ 120, e ele tem cara de valor de baixa/media temporada. Alta temporada em Atins e junho a inicio de setembro: assuma mais. Contato na fonte: Girleude, +55 98 98860-0539."
+    },
+    {
+      "cidadeId": "atins",
+      "nome": "Camping Roots Beach Hostel Atins",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Vila de Atins, 20 m da praia",
+      "porQue": "Camping e hostel na mesma casa, a 20 m da praia e perto dos pontos de kite, com cozinha compartilhada e wi-fi. Para dupla com barraca e o chao do orcamento em Atins. Quem gosta: quem topa banheiro coletivo e chuveiro frio. O que se perde: conforto - e simples de verdade.",
+      "endereco": "Atins, Barreirinhas - MA (coordenadas na fonte: -2.568252, -42.751106)",
+      "contato": {
+        "whatsapp": "+55 98 99137-8844"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Chuveiro frio e sanitario coletivo",
+        "Acesso de carro exige 4x4"
+      ],
+      "fontes": [
+        "https://macamp.com.br/guia/guia/campings/brasil/maranhao/lencois-maranhenses/camping-roots-beach-hostel-atins/",
+        "https://macamp.com.br/guia/guia/local/brasil/maranhao/lencois-maranhenses/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Guia MaCamp aberto em 09/10/2026: confirma telefone, estrutura (sanitario, chuveiro frio, pia, cozinha compartilhada, wi-fi), aceita barraca e motorhome com 4x4, tem chales/cabanas e opera o ano todo. PRECO NAO REGISTRADO - o guia nao publica valor. A pagina nao diz quando foi atualizada."
+    },
+    {
+      "cidadeId": "atins",
+      "nome": "Camping do Cunca",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Arredores de Atins",
+      "porQue": "Segunda opcao de camping na regiao de Atins listada no guia de campings - serve de plano B se o Roots estiver cheio na alta.",
+      "alertas": [
+        "Localizacao ambigua na fonte (listado como Sao Luis/Atins)",
+        "Sem telefone, endereco ou preco na fonte"
+      ],
+      "fontes": [
+        "https://macamp.com.br/guia/guia/local/brasil/maranhao/lencois-maranhenses/"
+      ],
+      "confianca": "baixa",
+      "observacao": "So o indice do MaCamp, aberto em 09/10/2026, que lista o nome e a localidade como 'Sao Luis/Atins' - ambiguidade que nao resolvi. Buscas citam 'Pousada e Camping do Cunca, Rua Santo Inacio, 1 km do centro de Atins', mas isso vem de blog que nao abri, entao NAO registro o endereco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "parnaiba",
+      "nome": "Pousada Porto das Barcas",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Porto das Barcas / Centro Historico",
+      "porQue": "Pousada simples no Centro Historico, ao lado do conjunto do Porto das Barcas, onde ficam os bares, restaurantes, bancos e de onde saem os passeios do Delta. Cafe da manha em buffet, ar-condicionado e agua quente. O que se perde: nao e praia - Pedra do Sal e Luis Correia ficam a uns 15-20 km.",
+      "endereco": "Centro Historico de Parnaiba, junto ao Porto das Barcas - Parnaiba, PI",
+      "contato": {
+        "telefone": "+55 86 3322-8199",
+        "whatsapp": "+55 86 99520-8272"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://deltarioparnaiba.com.br/pousada-porto-das-barcas/",
+        "https://www.penaestrada.blog.br/onde-ficar-em-parnaiba-no-piaui/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Duas fontes abertas em 09/10/2026: o portal de turismo do Delta do Parnaiba (telefone, WhatsApp, cafe buffet, servicos) e a reportagem do Pena Estrada de 26/02/2025, que confirma a localizacao estrategica para os passeios. Nenhuma das duas publica diaria. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "parnaiba",
+      "nome": "Pousada Vila do Carmo",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porQue": "Opcao de quartos basicos no Centro, com cafe da manha descrito como satisfatorio - exatamente o que a dupla economica procura quando a cidade e so base para o Delta e para os Lencois do Piaui. O que se perde: nada de charme, e basico mesmo.",
+      "alertas": [
+        "Endereco, telefone e preco nao confirmados"
+      ],
+      "cafeIncluso": true,
+      "fontes": [
+        "https://www.penaestrada.blog.br/onde-ficar-em-parnaiba-no-piaui/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Fonte unica: Pena Estrada, 26/02/2025, aberta em 09/10/2026. Confirma nome, bairro Centro, quartos basicos e cafe. Nao traz endereco, telefone nem preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "parnaiba",
+      "nome": "Pousada Beira Rio",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Fora do miolo turistico",
+      "porQue": "A reportagem a trata como a opcao economica, em area menos movimentada. Paga-se menos e dorme-se melhor; perde-se o sair a pe para jantar no Porto das Barcas.",
+      "alertas": [
+        "Fora do centro turistico - contar com transporte",
+        "Endereco, telefone e preco nao confirmados"
+      ],
+      "fontes": [
+        "https://www.penaestrada.blog.br/onde-ficar-em-parnaiba-no-piaui/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Pena Estrada, 26/02/2025, aberto em 09/10/2026. PRECO NAO REGISTRADO. NAO ACHEI NENHUM HOSTEL DE PARNAIBA em fonte utilizavel: Solar Hostel e Parnaiba Hostel aparecem so em agregadores, e os dois estao fora do que posso citar ou nao tem site proprio."
+    },
+    {
+      "cidadeId": "sao-raimundo-nonato",
+      "nome": "EcoRupestre Hostel Serra da Capivara",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Paraiso das Aves",
+      "porCama": true,
+      "porQue": "O unico hostel de Sao Raimundo Nonato que aparece em listagem de operador local, e ainda funciona como receptivo - resolve hospedagem e transporte para o parque no mesmo balcao, o que em Serra da Capivara e meio caminho andado (nao ha transporte publico para os sitios).",
+      "contato": {
+        "whatsapp": "+55 89 99427-8747"
+      },
+      "alertas": [
+        "Preco nao publicado em fonte utilizavel"
+      ],
+      "fontes": [
+        "https://capivararide.com.br/onde-ficar/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Listagem de hospedagens do operador local Capivara Ride, aberta em 09/10/2026: confirma nome, bairro Paraiso das Aves e telefone. A pagina nao traz preco de nenhuma hospedagem. PRECO NAO REGISTRADO. A pagina nao informa data de atualizacao."
+    },
+    {
+      "cidadeId": "sao-raimundo-nonato",
+      "nome": "Pousada e Albergue Serra da Capivara",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Sitio Barreirinho, Coronel Jose Dias",
+      "porCama": true,
+      "porQue": "Albergue em Coronel Jose Dias, que e a cidade colada na entrada principal do parque - dormir ali encurta muito a manha de visita, porque de Sao Raimundo sao uns 20 km ate os portoes. Quem gosta: quem quer entrar no parque cedo. O que se perde: Coronel Jose Dias e vila pequena, com pouco restaurante e nenhum banco.",
+      "contato": {
+        "whatsapp": "+55 89 98119-0136"
+      },
+      "alertas": [
+        "Fica em Coronel Jose Dias, nao em Sao Raimundo Nonato",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://capivararide.com.br/onde-ficar/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Capivara Ride, aberta em 09/10/2026. Nome, sitio e telefone confirmados. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "sao-raimundo-nonato",
+      "nome": "Camping Pedra Furada",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Sitio do Moco, Coronel Jose Dias",
+      "porQue": "O unico camping que aparece na listagem do operador local, no Sitio do Moco, em Coronel Jose Dias - lado do parque. Para dupla com barraca e o piso absoluto de preco da regiao. O que se perde: tudo o que camping no sertao nao tem (sombra, agua gelada, mercado perto).",
+      "contato": {
+        "whatsapp": "+55 89 98103-3218"
+      },
+      "alertas": [
+        "Estrutura nao descrita na fonte",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://capivararide.com.br/onde-ficar/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Capivara Ride, aberta em 09/10/2026, da nome, sitio e telefone - nada sobre banheiro, agua, cozinha ou preco. PRECO NAO REGISTRADO. Ligar antes: camping de sertao abre e fecha com a estacao."
+    },
+    {
+      "cidadeId": "sao-raimundo-nonato",
+      "nome": "Pousada Zabele",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Praca Major Toinho, Centro",
+      "porQue": "Pousada na praca central de Sao Raimundo Nonato - a pe do comercio, farmacia e banco, que e o que a cidade oferece. Serve a dupla que prefere quarto proprio ao dormitorio e quer base na cidade grande da regiao.",
+      "contato": {
+        "telefone": "+55 89 3582-2726"
+      },
+      "alertas": [
+        "Preco nao publicado em fonte utilizavel"
+      ],
+      "fontes": [
+        "https://capivararide.com.br/onde-ficar/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Capivara Ride, aberta em 09/10/2026: nome, praca e telefone fixo. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "jericoacoara",
+      "nome": "La Tapera Jeri Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Vila de Jericoacoara",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 50,
+        "max": 50
+      },
+      "porQue": "O mais barato da lista de hostels de Jeri na reportagem que abri: cama em dormitorio compartilhado com ar-condicionado e cafe da manha incluso. Em Jeri, ar-condicionado no dormitorio nao e luxo, e sono. O que se perde: avaliacao mais fraca que a media dos vizinhos.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de 2024 - esperar mais em dezembro-janeiro e julho"
+      ],
+      "fontes": [
+        "https://www.voltologo.net/hostels-em-jericoacoara-dicas/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Reportagem do Volto Logo, ultima atualizacao 09/08/2024, aberta em 09/10/2026. O 'a partir de R$ 50' e de agosto de 2024 e e piso de baixa/media temporada. Alta em Jeri e dezembro-janeiro, julho e feriados longos, quando o mesmo blog aponta que a cama passa de R$ 100. Nao achei site oficial nem endereco em fonte utilizavel."
+    },
+    {
+      "cidadeId": "jericoacoara",
+      "nome": "Villa Chic Pousada e Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Vila de Jericoacoara",
+      "porCama": true,
+      "porQue": "Tratado como o melhor hostel de Jeri na reportagem, com dormitorio e suite privativa no mesmo endereco e cafe da manha incluso - da a dupla a opcao de comecar no dormitorio e migrar para privativo se cansar. O que se perde: por ser o mais elogiado, e o que enche primeiro.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco nao publicado na fonte"
+      ],
+      "fontes": [
+        "https://www.voltologo.net/hostels-em-jericoacoara-dicas/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Volto Logo, atualizado 09/08/2024, aberto em 09/10/2026. Confirma nome, dormitorios, suites privativas e cafe incluso; nao da endereco, telefone nem preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "jericoacoara",
+      "nome": "Jericoacoara Hostel - Pousada Tirol",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Rua Sao Francisco, Vila de Jericoacoara",
+      "porCama": true,
+      "porQue": "Hostel de rua central da vila, com dormitorio de 8 camas, locker grande por hospede e banheiro coletivo amplo - e um dos poucos de Jeri que tem site e telefone proprios registrados ha anos. O que se perde: dormitorio de 8 e barulhento, e Jeri tem forro na rua ate tarde.",
+      "endereco": "Rua Sao Francisco, 202 - Jericoacoara, Jijoca de Jericoacoara - CE",
+      "contato": {
+        "telefone": "+55 88 3669-2006",
+        "site": "http://jericoacoarahostel.com.br"
+      },
+      "alertas": [
+        "Preco omitido de proposito: a unica faixa que achei e de mais de 10 anos",
+        "Confirmar por telefone se o dormitorio ainda opera"
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Jericoacoara"
+      ],
+      "confianca": "baixa",
+      "observacao": "Wikivoyage (licenca livre), secao Sleep, aberta em 09/10/2026: traz endereco, telefone, site e tambem camping R$ 8 e dormitorio R$ 32. PRECO NAO REGISTRADO DE PROPOSITO - R$ 32 de cama e R$ 8 de camping sao valores da decada de 2010 e seriam mentira hoje. O que aproveitei da fonte e nome, rua, numero, telefone e site. Verificar por telefone antes: hostel de Jeri troca de dono com frequencia."
+    },
+    {
+      "cidadeId": "jericoacoara",
+      "nome": "Pousada Gincoara",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Rua Nazare Vasconcelos, Vila de Jericoacoara",
+      "porQue": "A unica hospedagem de Jeri que achei em fonte de licenca livre declarando camping na propria pousada - para dupla com barraca, e o piso do destino mais caro do Ceara. O que se perde: Jeri e vila de areia, sem energia na rua a noite; camping ali e rustico de verdade.",
+      "endereco": "Rua Nazare Vasconcelos, 1772 - Jericoacoara, Jijoca de Jericoacoara - CE",
+      "contato": {
+        "telefone": "+55 88 99632-9301",
+        "site": "http://pousadagincoara.com"
+      },
+      "alertas": [
+        "Preco omitido: a faixa da fonte esta muito desatualizada",
+        "Confirmar se o camping ainda existe"
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Jericoacoara"
+      ],
+      "confianca": "baixa",
+      "observacao": "Wikivoyage, secao Sleep, aberta em 09/10/2026. A fonte cita single R$ 30 / duplo R$ 50 (R$ 40/70 com ar) e camping disponivel. PRECO NAO REGISTRADO: essas faixas sao da decada de 2010. Aproveitei nome, rua, numero, telefone e site. Ligar para confirmar que o camping segue de pe - e o item mais perecivel desta lista."
+    },
+    {
+      "cidadeId": "fortaleza",
+      "nome": "Albergaria Hostel & Bar",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Praia de Iracema",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 70,
+        "max": 70
+      },
+      "porQue": "Cama em dormitorio a partir de R$ 70 na Praia de Iracema, que e o bairro de quem quer sair a pe para o Dragao do Mar e os bares - e nao para tomar banho de mar. Tem piscina e bar proprios. O que se perde: o mar de Iracema nao e para banho; praia boa em Fortaleza e Praia do Futuro, a uns 8 km.",
+      "alertas": [
+        "Preco de maio de 2025 - confirmar"
+      ],
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-fortaleza-hoteis"
+      ],
+      "confianca": "parcial",
+      "observacao": "Reportagem do 360meridianos publicada em 25/05/2025 e atualizada em 26/05/2025, aberta em 09/10/2026. O 'a partir de R$ 70' em dormitorio e de maio de 2025 e e piso - nao e tarifa de reveillon nem de Carnaval, quando Fortaleza dobra. Endereco e telefone nao confirmados em fonte utilizavel."
+    },
+    {
+      "cidadeId": "fortaleza",
+      "nome": "Refugio Hostel Fortaleza",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (15 min a pe da Praia de Iracema)",
+      "porCama": true,
+      "porQue": "Hostel de 2014 com dormitorios de 4 a 8 camas e cozinha compartilhada, mais uma pousada irma na mesma rua para quem quiser quarto privativo depois. Recepcao 24 h e equipe que fala varias linguas. O que se perde: e no Centro, nao na praia - 15 minutos a pe ate Iracema, e a pe a noite no Centro de Fortaleza nao e passeio.",
+      "link": "https://www.refugiohostelfortaleza.com/",
+      "endereco": "Rua Deputado Joao Lopes, 31 e 44 - Centro, Fortaleza - CE, 60060-130",
+      "contato": {
+        "whatsapp": "+55 85 99912-5497",
+        "site": "https://www.refugiohostelfortaleza.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado no site",
+        "Centro de Fortaleza: evitar caminhar a noite"
+      ],
+      "fontes": [
+        "https://www.refugiohostelfortaleza.com/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, WhatsApp, dormitorios de 4 a 8 camas, cozinha compartilhada, recepcao 24 h, hostel desde 2014 e pousada desde 2020. O site NAO publica tarifa e tambem nao diz se tem cafe da manha - nao marquei cafeIncluso. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "fortaleza",
+      "nome": "Pousada Costa Marina",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Praia do Futuro",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 250,
+        "max": 250
+      },
+      "porQue": "A opcao da Praia do Futuro - a praia realmente boa de Fortaleza, 8 km de areia branca e agua verde. Quem gosta: quem veio para o mar e nao para a noite. O que se perde: isolamento. Praia do Futuro e longe de tudo e vive de barracas que fecham cedo fora de temporada.",
+      "alertas": [
+        "Preco de maio de 2025",
+        "Longe do centro e dos bares: contar com aplicativo todo dia"
+      ],
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-fortaleza-hoteis"
+      ],
+      "confianca": "parcial",
+      "observacao": "360meridianos, 25/05/2025 (atualizado 26/05/2025), aberto em 09/10/2026. 'A partir de R$ 250' e quarto privativo, nao cama em dormitorio - registrei em diariaPrivativo. Nao tem dormitorio compartilhado conhecido. Entra na lista porque e a unica opcao com preco datado na Praia do Futuro, nao porque e barata."
+    },
+    {
+      "cidadeId": "canoa-quebrada",
+      "nome": "Hostel-Pousada Ibiza",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Broadway (Rua Dragao do Mar), centro de Canoa",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 50,
+        "max": 70
+      },
+      "porQue": "Fica na Broadway, a rua de bar e forro de Canoa, com quartos de 4, 6 e 7 pessoas, locker individual, banheiro compartilhado, cafe da manha self-service incluso e geladeira mais cozinha de uso comunitario. Para dupla economica e o pacote completo. O que se perde: dormir na Broadway e dormir com musica - quem precisa de silencio deve ficar fora dela.",
+      "endereco": "Rua Dragao do Mar, 360 (Broadway) - Canoa Quebrada, Aracati - CE, 62800-000",
+      "contato": {
+        "telefone": "+55 88 3421-7262",
+        "whatsapp": "+55 85 99944-2293"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "A faixa de preco e das temporadas 2017-2018: tratar como referencia historica, nao como tarifa",
+        "Rua de vida noturna - barulho"
+      ],
+      "fontes": [
+        "https://www.portalcanoaquebrada.com.br/canoa_quebrada_albergue_ibiza.htm"
+      ],
+      "confianca": "baixa",
+      "observacao": "Pagina do portal local de Canoa Quebrada, aberta em 09/10/2026. Ela publica a tabela separada por temporada - baixa R$ 50-60, alta R$ 55-70 por cama - MAS o conteudo da pagina e das temporadas 2017/2018. Registrei a faixa porque e preco por cama com estacao declarada, o que e raro, mas ela esta quase dez anos defasada: hoje, em alta, espere o dobro. Endereco, telefones, cafe incluso e cozinha comunitaria sao da mesma pagina e tem menos chance de ter mudado. Confianca baixa por causa da idade da fonte."
+    },
+    {
+      "cidadeId": "canoa-quebrada",
+      "nome": "Pousada Europa",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Canoa Quebrada",
+      "porQue": "Listada na faixa economica ($) do portal local de Canoa - opcao de quarto privativo para a dupla que nao quiser dormitorio na Broadway.",
+      "contato": {
+        "telefone": "+55 88 3421-7004",
+        "whatsapp": "+55 88 99632-5408"
+      },
+      "alertas": [
+        "Endereco e preco nao publicados",
+        "Pagina sem data"
+      ],
+      "fontes": [
+        "https://www.portalcanoaquebrada.com.br/canoa_quebrada_pousadas.htm"
+      ],
+      "confianca": "baixa",
+      "observacao": "Indice de pousadas do portal local, aberto em 09/10/2026. A pagina classifica por faixa de preco em simbolos ($ = economica) e da os telefones, mas NAO publica endereco nem valor, e nao tem data. PRECO NAO REGISTRADO. Em Canoa so o Ibiza apareceu com preco por cama em fonte utilizavel; Muiraquita e Canoas Roots aparecem apenas em agregadores."
+    },
+    {
+      "cidadeId": "natal",
+      "nome": "Soul Hostel e Pousada",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Ponta Negra",
+      "porCama": true,
+      "porQue": "Hostel e pousada no mesmo endereco em Ponta Negra, a poucos metros da praia, com suites privativas e quartos compartilhados, todos com ar-condicionado. Ponta Negra e o bairro certo para dupla economica em Natal: e praia urbana com restaurante e mercado a pe, mais barato que a Via Costeira e mais seguro de noite que a Praia dos Artistas.",
+      "link": "https://soulhostelnatal.com.br/",
+      "endereco": "Av. Engenheiro Roberto Freire, 4984 - Ponta Negra, Natal - RN, 59090-420",
+      "contato": {
+        "whatsapp": "+55 84 99990-0268",
+        "site": "https://soulhostelnatal.com.br/"
+      },
+      "alertas": [
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "https://soulhostelnatal.com.br/",
+        "https://dicasdenatalepipa.com.br/natal/melhores-hostels-em-natal/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026 (endereco, WhatsApp, suites privativas e quartos compartilhados com ar-condicionado) e guia regional Dicas de Natal e Pipa, que repete o mesmo endereco. Nenhum dos dois publica diaria e nenhum confirma cafe da manha ou cozinha compartilhada - nao marquei nenhum dos dois. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "natal",
+      "nome": "Get Up Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Ponta Negra",
+      "porCama": true,
+      "porQue": "Hostel de Ponta Negra com quartos compartilhados de 4 e 6 camas, mais quartos privativos e de familia - a opcao de dormitorio menor, que para dupla rende noite melhor que dormitorio de 8 ou 10.",
+      "endereco": "Rua Doutor Manoel A. B. de Araujo, 1943 - Ponta Negra, Natal - RN",
+      "alertas": [
+        "Ventilador, nao ar-condicionado, segundo a descricao que achei",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://dicasdenatalepipa.com.br/natal/melhores-hostels-em-natal/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Guia Dicas de Natal e Pipa, aberto em 09/10/2026; a pagina se apresenta como atualizada para 2026 mas nao estampa data de publicacao. Confirma nome, bairro e endereco. PRECO NAO REGISTRADO. O detalhe de 4 e 6 camas com ventilador apareceu em resultado de busca, nao na pagina aberta - por isso esta em alerta e nao como campo."
+    },
+    {
+      "cidadeId": "natal",
+      "nome": "Agora Hostel Natal",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Ponta Negra",
+      "porCama": true,
+      "porQue": "Terceira opcao de hostel em Ponta Negra com endereco confirmado - util porque em Natal a oferta economica se concentra toda nesse bairro, e em alta os tres enchem juntos.",
+      "endereco": "Rua Cabo de Bacopari, 2122 - Ponta Negra, Natal - RN",
+      "alertas": [
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://dicasdenatalepipa.com.br/natal/melhores-hostels-em-natal/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Guia Dicas de Natal e Pipa, aberto em 09/10/2026, sem data de publicacao estampada. Da nome, bairro e endereco e nada mais. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "pipa",
+      "nome": "Pipa Surf House",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pipa (Rua dos Bem-Te-Vis)",
+      "porCama": true,
+      "porQue": "Hostel de cultura de surfe com dormitorios de tamanhos diferentes - Cacimbinhas (8), Soroaca (7, feminino), Madeiro (6), Abacate (4, feminino) - e dois quartos privativos de casal (Amor, com area de trabalho, e Secret). Todos os quartos tem ar-condicionado e banheiro privativo, e a cozinha e equipada. Para dupla que quer dormitorio e tem a opcao de migrar para privativo no mesmo lugar, e a mais completa de Pipa.",
+      "link": "https://www.pipasurfhouse.com/",
+      "endereco": "Rua dos Bem-Te-Vis, 15 - Pipa, Tibau do Sul - RN, 59178-000",
+      "contato": {
+        "whatsapp": "+55 84 99637-2908",
+        "site": "https://www.pipasurfhouse.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "https://www.pipasurfhouse.com/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, WhatsApp, nomes e capacidade de cada dormitorio, quartos privativos, ar-condicionado e banheiro privativo em todos. Cozinha equipada aparece em depoimento no site, nao na lista de servicos - marquei cozinhaCompartilhada mesmo assim e registro aqui a ressalva. CAFE DA MANHA NAO MENCIONADO - nao marquei. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "pipa",
+      "nome": "Carioca Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro de Pipa",
+      "porCama": true,
+      "porQue": "A 50 m da Baia dos Golfinhos e da Praca do Pescador, com dormitorios de 4 (feminino), 6 e 8 camas e privativos de casal, triplo e quadruplo. Cafe da manha incluso, cozinha equipada para hospede, chuveiro quente, piscina, churrasqueira e sinuca. Para dupla economica em Pipa e o melhor custo por conforto que achei com fonte aberta. O que se perde: centro de Pipa e barulhento ate de madrugada.",
+      "endereco": "Rua da Policia Militar - Centro de Pipa, Tibau do Sul - RN",
+      "contato": {
+        "whatsapp": "+55 84 98491-0991"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado",
+        "Centro de Pipa - barulho de bar a noite"
+      ],
+      "fontes": [
+        "https://pipa.com.br/cariocahostel/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Pagina do portal local Pipa.com.br, aberta em 09/10/2026: confirma rua, distancia de 50 m da Baia dos Golfinhos, composicao dos dormitorios, cafe da manha incluso, cozinha equipada, ar-condicionado, chuveiro quente, WhatsApp. A pagina NAO publica diaria e nao tem data. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "pipa",
+      "nome": "Hostel & Co-Living Catavento da Pipa",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Av. Baia dos Golfinhos",
+      "porCama": true,
+      "porQue": "Fica na avenida principal de Pipa, a Baia dos Golfinhos, e se vende como co-living alem de hostel - serve a dupla que vai ficar mais de tres ou quatro noites e quer tarifa de estadia longa. O que se perde: a pagina e mais marketing que informacao pratica.",
+      "link": "https://www.cataventodapipa.com/",
+      "endereco": "Av. Baia dos Golfinhos, s/n - Praia da Pipa, Tibau do Sul - RN, 59179-000",
+      "alertas": [
+        "Site sem telefone, sem preco e sem detalhe dos quartos"
+      ],
+      "fontes": [
+        "https://www.cataventodapipa.com/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Site oficial aberto em 09/10/2026: confirma nome e endereco e menciona cafe da manha, mas sem dizer se esta incluso - nao marquei cafeIncluso. Nao publica telefone, preco nem composicao dos dormitorios. PRECO NAO REGISTRADO. Buscas indicam diaria a partir de R$ 95 com cafe incluso, mas isso vem de blog que nao abri - nao registro."
+    },
+    {
+      "cidadeId": "joao-pessoa",
+      "nome": "Manaira Hostel (Albergue da Juventude)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Manaira",
+      "porCama": true,
+      "porQue": "Albergue da juventude tradicional em Manaira, com quartos coletivos, de casal e de familia, locker individual com cadeado e cafe da manha incluso de verdade (o site lista fruta, pao, tapioca, ovo, queijo, iogurte, bolo, suco). Manaira e bairro residencial de classe media a pe da orla - mais calmo e mais barato que Tambau. O que se perde: a badalacao e o calcadao movimentado ficam em Tambau e Cabo Branco.",
+      "link": "http://www.manairahostel.com.br/",
+      "endereco": "Av. Major Ciraulo, 380 - Manaira, Joao Pessoa - PB, 58038-290",
+      "contato": {
+        "telefone": "+55 83 3247-1962",
+        "site": "http://www.manairahostel.com.br/"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "http://www.manairahostel.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026 (o dominio manairahostel.com.br redireciona para himanairahostel.com.br): confirma endereco, telefone, quartos coletivos com locker e cafe da manha incluso detalhado. COZINHA COMPARTILHADA NAO MENCIONADA - nao marquei. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "joao-pessoa",
+      "nome": "Espaco Hostel Cabo Branco",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Cabo Branco",
+      "porCama": true,
+      "porQue": "Hostel na avenida de praia do Cabo Branco, que e a orla mais bonita e mais tranquila de Joao Pessoa, com ciclovia de ponta a ponta. Quem gosta: quem quer mar e caminhada. O que se perde: Cabo Branco tem menos bar e menos restaurante barato que Tambau.",
+      "endereco": "Av. Cabo Branco, 2860 - Cabo Branco, Joao Pessoa - PB",
+      "alertas": [
+        "Fonte de 2021 - confirmar se ainda opera",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://www.passeios.org/hospedagem/dicas-de-hoteis-em-joao-pessoa-pb/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Fonte unica: guia do Passeios.org publicado em 06/05/2021, aberto em 09/10/2026 - MAIS DE QUATRO ANOS, confianca baixa e risco real de ter fechado. Da nome e endereco, nada de telefone ou preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "joao-pessoa",
+      "nome": "Slow Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Manaira",
+      "porCama": true,
+      "porQue": "Segunda opcao de hostel em Manaira - bairro que concentra a hospedagem economica de Joao Pessoa a poucas quadras da orla. Serve de alternativa quando o Manaira Hostel esta cheio.",
+      "endereco": "Av. Cajazeiras, 108 - Manaira, Joao Pessoa - PB",
+      "alertas": [
+        "Fonte de 2021 - confirmar se ainda opera",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://www.passeios.org/hospedagem/dicas-de-hoteis-em-joao-pessoa-pb/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Passeios.org, 06/05/2021, aberto em 09/10/2026. Fonte com mais de quatro anos. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "joao-pessoa",
+      "nome": "Oceania Ecologic Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Jardim Oceania",
+      "porCama": true,
+      "porQue": "Hostel no Jardim Oceania, ao norte da orla - mais longe do centro turistico e, por isso, costuma ser mais barato. Fica perto da praia do Bessa, que e praia de morador, quase sem turista. O que se perde: distancia de Tambau e dependencia de aplicativo a noite.",
+      "alertas": [
+        "Fonte de 2021 - confirmar se ainda opera",
+        "Endereco exato e preco nao publicados"
+      ],
+      "fontes": [
+        "https://www.passeios.org/hospedagem/dicas-de-hoteis-em-joao-pessoa-pb/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Passeios.org, 06/05/2021, aberto em 09/10/2026. So nome e bairro. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "recife",
+      "nome": "Cosmopolitan Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Boa Viagem / Pina",
+      "porCama": true,
+      "porQue": "Fica na divisa de Boa Viagem com o Pina, na zona sul, com dormitorio misto e dormitorio feminino, os dois com ar-condicionado e locker individual, mais quartos privativos com banheiro, TV e ar. Recepcao 24 h e limpeza diaria. Para dupla economica no Recife, zona sul resolve: praia, metro proximo e restaurante barato. O que se perde: Boa Viagem tem risco de tubarao - nao se entra no mar ali, e isso vale saber antes de escolher a cidade pela praia.",
+      "link": "https://www.cosmopolitanhostel.com/",
+      "endereco": "Rua Paulo Setubal, 53 - Boa Viagem/Pina, Recife - PE",
+      "contato": {
+        "telefone": "+55 81 3088-4852",
+        "whatsapp": "+55 81 3088-4852",
+        "site": "https://www.cosmopolitanhostel.com/"
+      },
+      "alertas": [
+        "O proprio site avisa que a tarifa sobe em datas comemorativas e especiais",
+        "Nao menciona cafe da manha nem cozinha compartilhada"
+      ],
+      "fontes": [
+        "https://www.cosmopolitanhostel.com/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, telefone, dormitorio misto e feminino com ar e locker, privativos, recepcao 24 h. O site diz expressamente que ha tarifa maior em datas comemorativas e politica de cancelamento diferente nesses periodos - ou seja, Carnaval e Sao Joao custam mais. NAO menciona cafe da manha nem cozinha, e por isso nao marquei nenhum dos dois. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "recife",
+      "nome": "Hostel Boa Viagem",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Boa Viagem",
+      "porCama": true,
+      "porQue": "Casa com 21 anos de operacao em Boa Viagem, com cozinha coletiva, churrasqueira, sala de TV, recepcao 24 h e wi-fi. A cozinha coletiva e o que mais pesa no orcamento de dupla: Boa Viagem tem mercado grande a pe. Fica a 6 min do aeroporto, o que ajuda em voo de madrugada. O que se perde: sao uns 20 min a pe ate a praia.",
+      "link": "https://hostelboaviagem.com.br/",
+      "endereco": "Rua Barao de Souza Leao, 1103 - Boa Viagem, Recife - PE, 51030-300",
+      "contato": {
+        "telefone": "+55 81 3326-9572",
+        "whatsapp": "+55 81 99632-4525",
+        "site": "https://hostelboaviagem.com.br/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "O site declara 'tarifas sob consulta' - nao ha preco publicado"
+      ],
+      "fontes": [
+        "https://hostelboaviagem.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, telefone fixo, WhatsApp, cozinha coletiva, recepcao 24 h, 21 anos de casa. O site escreve literalmente 'Tarifas sob Consulta'. CAFE DA MANHA NAO MENCIONADO - nao marquei. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "recife",
+      "nome": "Piratas da Praia",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Boa Viagem",
+      "porCama": true,
+      "porQue": "Tem duas formas de hospedar na mesma casa: dormitorio compartilhado com micro cozinha e apartamento privativo com cozinha equipada - bom para dupla que quer testar o dormitorio e tem saida se nao gostar. Roupa de cama, locker com chave e bebedouro inclusos.",
+      "link": "https://piratasdapraia.com/",
+      "contato": {
+        "telefone": "+55 81 3326-1281",
+        "whatsapp": "+55 81 9776-4949",
+        "site": "https://piratasdapraia.com/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "O site manda consultar preco por WhatsApp",
+        "Endereco exato nao publicado no site"
+      ],
+      "fontes": [
+        "https://piratasdapraia.com/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: confirma Recife/Boa Viagem, dormitorio compartilhado com micro cozinha, apartamento privativo com cozinha equipada, roupa de cama, locker com chave, telefone e WhatsApp. O site NAO publica endereco com numero nem tarifa, e manda pedir valor no WhatsApp. CAFE NAO MENCIONADO. PRECO NAO REGISTRADO. Obs: o dominio estacaodomangue.com.br, de outro hostel de Boa Viagem citado em buscas, nao resolveu DNS em 09/10/2026."
+    },
+    {
+      "cidadeId": "porto-de-galinhas",
+      "nome": "Porto Paraiso Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Merepe",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 120,
+        "max": 336
+      },
+      "porQue": "O hostel mais bem avaliado da selecao de hospedagem barata de Porto de Galinhas, em Merepe, que e o bairro ao lado da vila - fica mais em conta e ainda da para ir a pe ate o centrinho. Tem cama em dormitorio e quarto privativo. O que se perde: Merepe nao tem a vida de rua da Vila, e de noite a caminhada e escura.",
+      "alertas": [
+        "A faixa abrange dormitorio e privativo juntos: o piso de R$ 120 e a cama",
+        "Fonte publicada em 2018 e atualizada em 2024"
+      ],
+      "fontes": [
+        "https://www.estrangeira.com.br/pousadas-e-hostels-baratos-em-porto-de-galinhas-muito-bons/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Reportagem do blog Estrangeira, publicada em 04/11/2018 e atualizada em 2024, aberta em 09/10/2026. A faixa R$ 120-336 vem dessa atualizacao de 2024 e MISTURA dormitorio e privativo - por isso marquei porCama true mas com a ressalva no alerta. Nao achei site oficial, endereco com numero nem telefone em fonte utilizavel."
+    },
+    {
+      "cidadeId": "porto-de-galinhas",
+      "nome": "Pousada Family Porto de Galinhas",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro / Vila",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 120,
+        "max": 150
+      },
+      "porQue": "A opcao mais barata de quarto privativo que achei com preco datado no centro de Porto de Galinhas - e a Vila e onde se resolve tudo a pe: jangada para as piscinas naturais, restaurante, mercado, ponto de van. Para dupla, quarto privativo a R$ 120-150 compete com duas camas em dormitorio.",
+      "alertas": [
+        "Preco de 2024",
+        "Nao tem dormitorio compartilhado"
+      ],
+      "fontes": [
+        "https://www.estrangeira.com.br/pousadas-e-hostels-baratos-em-porto-de-galinhas-muito-bons/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Estrangeira, publicado 04/11/2018 e atualizado em 2024, aberto em 09/10/2026. 'A partir de R$ 120', com a propria materia dizendo que a tarifa de baixa temporada fica por volta de R$ 150 - registrei a faixa 120-150 como privativo. Sem endereco nem telefone na fonte."
+    },
+    {
+      "cidadeId": "porto-de-galinhas",
+      "nome": "Beach Life Porto de Galinhas",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Vila",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 149,
+        "max": 149
+      },
+      "porQue": "Terceira opcao com preco datado na Vila - serve de plano B, porque em Porto de Galinhas a Vila esgota em feriado e o que sobra fica em Maracaipe ou Merepe, com custo de van todo dia.",
+      "alertas": [
+        "Preco de 2024",
+        "Sem dormitorio compartilhado conhecido"
+      ],
+      "fontes": [
+        "https://www.estrangeira.com.br/pousadas-e-hostels-baratos-em-porto-de-galinhas-muito-bons/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Estrangeira, 04/11/2018 atualizado 2024, aberto em 09/10/2026. 'A partir de R$ 149'. Sem endereco nem telefone. NAO CONSEGUI fonte utilizavel para os hostels Caminhos do Mar e O Hostel: o dominio albergueportodegalinhas.com nao resolveu DNS e a pagina oficial do Che Lagarto para Porto de Galinhas deu 404 em 09/10/2026."
+    },
+    {
+      "cidadeId": "fernando-de-noronha",
+      "nome": "Pousadas domiciliares de Noronha (categoria 1 golfinho / em classificacao)",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "porCama": false,
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 350,
+        "max": 430
+      },
+      "porQue": "Este e o piso real de Noronha, e nao e barato: quarto na casa de um morador, pousada domiciliar credenciada, com poucos quartos, geralmente SEM cafe da manha e com acesso a cozinha para o hospede cozinhar. Em Noronha isso nao e desconforto, e estrategia: comer fora na ilha custa caro, e a cozinha e o que segura o orcamento. NAO EXISTE hostel nem camping legal em Noronha - a hospedagem e regulada e classificada pela Administracao da ilha com o selo de golfinhos (1 = basica, 3 = muito confortavel).",
+      "contato": {
+        "site": "https://www.noronha.pe.gov.br/hospedagem/"
+      },
+      "cafeIncluso": false,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Este e o PISO do destino, nao uma opcao barata: Noronha nao tem opcao barata",
+        "Alem da diaria ha a taxa de preservacao ambiental e o ingresso do parque nacional, que nao estao nesta faixa",
+        "A faixa nao vale alta temporada (dezembro a marco e julho)"
+      ],
+      "fontes": [
+        "https://www.noronha.pe.gov.br/hospedagem/",
+        "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html"
+      ],
+      "confianca": "parcial",
+      "observacao": "Registro proposital de FAIXA DO DESTINO, nao de um estabelecimento - porque forcar uma opcao economica em Noronha seria mentira. Fontes abertas em 09/10/2026: a pagina oficial da Administracao de Fernando de Noronha, que explica o sistema de classificacao por golfinhos (1, 2, 3 e 'em fase de classificacao') e lista so as hospedarias ja classificadas - ela NAO publica preco nenhum; e a reportagem do Melhores Destinos de 29/09/2026 (fonte fresca), que diz que pousada domiciliar basica sai a partir de cerca de R$ 350, em geral sem cafe da manha e com cozinha a disposicao, enquanto a faixa intermediaria comeca por volta de R$ 600 e a alta passa de R$ 1.500. Fixei a faixa em R$ 350-430 porque as opcoes nomeadas mais baratas da mesma reportagem ficam em R$ 424-429. Preco de setembro/2026, baixa temporada."
+    },
+    {
+      "cidadeId": "fernando-de-noronha",
+      "nome": "Pousada Ventos de Atalaia",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Floresta Nova",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 424,
+        "max": 424
+      },
+      "porQue": "A mais barata da lista da reportagem mais recente que achei sobre Noronha. Floresta Nova e bairro de morador, atras da Vila dos Remedios: paga-se menos e se perde a vista e a caminhada curta ate o Porto e a praia do Cachorro - compensa-se alugando buggy ou pegando o onibus da ilha, que roda a BR-363 de ponta a ponta.",
+      "alertas": [
+        "Preco de setembro de 2026, baixa temporada",
+        "Nao verifiquei se consta na lista oficial de classificados"
+      ],
+      "fontes": [
+        "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html"
+      ],
+      "confianca": "parcial",
+      "observacao": "Melhores Destinos, 29/09/2026, aberta em 09/10/2026 - fonte recente, que e raro nesta onda. Da nome, bairro e diaria a partir de R$ 424. Nao traz endereco nem telefone, e eu NAO cruzei com a lista oficial de pousadas classificadas da Administracao (o PDF oficial nao foi legivel)."
+    },
+    {
+      "cidadeId": "fernando-de-noronha",
+      "nome": "Pousada Agua Viva",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Vila dos Remedios",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 429,
+        "max": 429
+      },
+      "porQue": "Praticamente o mesmo preco da mais barata, mas na Vila dos Remedios - que e o centro de Noronha: igreja, restaurante, mercado, Praia do Cachorro e Porto a pe. Em Noronha, a diferenca entre Vila e Floresta Nova se mede em transporte, e transporte na ilha custa.",
+      "alertas": [
+        "Preco de setembro de 2026, baixa temporada"
+      ],
+      "fontes": [
+        "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html"
+      ],
+      "confianca": "parcial",
+      "observacao": "Melhores Destinos, 29/09/2026, aberta em 09/10/2026. Nome, vila e diaria a partir de R$ 429. Sem endereco nem telefone na fonte."
+    },
+    {
+      "cidadeId": "fernando-de-noronha",
+      "nome": "Pousada do Pescador Eli",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Floresta Nova",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 429,
+        "max": 429
+      },
+      "porQue": "Pousada domiciliar de pescador em Floresta Nova, na mesma faixa de piso da ilha - o tipo de casa que da conversa com morador, que em Noronha vale tanto quanto o passeio. O que se perde: estrutura; e casa de familia, nao pousada com servico.",
+      "alertas": [
+        "Preco de setembro de 2026, baixa temporada",
+        "Confirmar se o cafe da manha esta incluso: pousada domiciliar em geral nao serve"
+      ],
+      "fontes": [
+        "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html"
+      ],
+      "confianca": "parcial",
+      "observacao": "Melhores Destinos, 29/09/2026, aberta em 09/10/2026. Diaria a partir de R$ 429, bairro Floresta Nova. Resultados de busca falam de 'Pousada do Eli, R$ 300 para casais com cafe incluso', mas vem de pagina que nao abri e pode nem ser o mesmo lugar - NAO registro esse valor."
+    },
+    {
+      "cidadeId": "maceio",
+      "nome": "Brazuka Hostel e Pousada",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pajucara",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 34,
+        "max": 34
+      },
+      "porQue": "A cama em dormitorio mais barata que achei em Maceio com fonte aberta, na Pajucara - que e a praia onde param as jangadas das piscinas naturais, tem calcadao, feirinha de artesanato e restaurante barato a pe. Para dupla economica, Pajucara e a escolha obvia em Maceio.",
+      "alertas": [
+        "Preco de julho de 2023 - mais de 2 anos, esperar bem mais hoje",
+        "Cafe da manha nao confirmado"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maceio/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Reportagem do Viaje Leve publicada em 13/07/2023, aberta em 09/10/2026 - FONTE COM MAIS DE DOIS ANOS, confianca rebaixada e preco a tratar como referencia historica, nao como tarifa. Sem endereco nem telefone na fonte."
+    },
+    {
+      "cidadeId": "maceio",
+      "nome": "Hostel da Paz",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pajucara",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 36,
+        "max": 36
+      },
+      "porQue": "Segundo mais barato da lista, tambem na Pajucara - vale como alternativa direta ao Brazuka, porque na alta de Maceio (dezembro a marco e julho) o piso esgota primeiro.",
+      "alertas": [
+        "Preco de julho de 2023",
+        "Cafe da manha nao confirmado"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maceio/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, 13/07/2023, aberto em 09/10/2026. Mais de dois anos. Sem endereco nem telefone."
+    },
+    {
+      "cidadeId": "maceio",
+      "nome": "Hostel Pajucara",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pajucara",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 60,
+        "max": 60
+      },
+      "porQue": "Hostel grande da Pajucara, a cerca de 200 m da praia, com cozinha compartilhada, recepcao 24 h, jardim, terraco e sala de convivencia - tem dormitorio e quarto simples, alguns com terraco. Estrutura maior que a dos vizinhos mais baratos e, mesmo assim, perto do piso.",
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco de julho de 2023",
+        "Endereco nao confirmado em fonte aberta"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maceio/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, 13/07/2023, aberto em 09/10/2026 - mais de dois anos. A cozinha compartilhada, a recepcao 24 h e a distancia de 200 m da praia aparecem em resultado de busca e na mesma materia. Buscas citam Rua Joao Camerino, 221, mas isso vem de agregador - NAO registro o endereco."
+    },
+    {
+      "cidadeId": "maceio",
+      "nome": "Wanderlust Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Jatiuca",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 83,
+        "max": 83
+      },
+      "porQue": "Custa o dobro do piso da Pajucara, mas e o que a reportagem aponta como melhor estrutura de Maceio, com cama de beliche com cortina (privacidade real em dormitorio) e cafe da manha incluso. Jatiuca e bairro mais novo e mais residencial, a um carro curto de Ponta Verde e Pajucara. O que se perde: a jangada das piscinas naturais sai da Pajucara, nao dali.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de julho de 2023"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maceio/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, 13/07/2023, aberto em 09/10/2026 - mais de dois anos. Confirma bairro Jatiuca, cafe incluso e diaria a partir de R$ 83. Endereco so em agregador, nao registrado."
+    },
+    {
+      "cidadeId": "maragogi",
+      "nome": "Hostel da Praia Maragogi",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Beira-mar, centro de Maragogi",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 43,
+        "max": 43
+      },
+      "porQue": "A cama em dormitorio mais barata de Maragogi na lista que abri, e de frente para o mar no centro - que em Maragogi e o que importa: do centro saem as catamaras para as galés, e da para resolver restaurante e mercado a pe, sem carro.",
+      "alertas": [
+        "Preco de novembro de 2023",
+        "Cafe da manha nao confirmado"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maragogi/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, publicado 15/11/2023, aberto em 09/10/2026 - fonte com quase dois anos. 'A partir de R$ 43' em dormitorio compartilhado. O dominio hosteldapraia.com, citado em busca como site oficial, NAO RESOLVEU DNS em 09/10/2026: possivel sinal de que fechou ou abandonou o site. Confirmar por telefone antes de contar com ele."
+    },
+    {
+      "cidadeId": "maragogi",
+      "nome": "Brecha Hostel e Rooftop",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Perto da praia / avenida principal",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 56,
+        "max": 56
+      },
+      "porQue": "Cama em dormitorio a partir de R$ 56 com cafe da manha incluso e rooftop - o cafe incluso faz diferenca real no orcamento da dupla, porque cafe de rua em Maragogi e caro para o tamanho da cidade.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de novembro de 2023"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maragogi/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, 15/11/2023, aberto em 09/10/2026. Confirma dormitorio a partir de R$ 56 e cafe incluso. Sem endereco nem telefone na fonte."
+    },
+    {
+      "cidadeId": "maragogi",
+      "nome": "Maraga Beach Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Orla de Maragogi",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 60,
+        "max": 60
+      },
+      "porQue": "Na orla, com cafe da manha incluso em buffet. O que se perde: segundo resultados de busca e para adultos apenas, o que nao e problema para a dupla, mas vale checar as regras da casa antes.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de novembro de 2023",
+        "Possivel politica 'adults only' - confirmar"
+      ],
+      "fontes": [
+        "https://viajeleve.net/hostel-em-maragogi/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Viaje Leve, 15/11/2023, aberto em 09/10/2026. Dormitorio a partir de R$ 60 com cafe incluso. O rotulo 'Adults Only' e o endereco Av. Senador Rui Palmeira, 483 apareceram so em agregador - por isso o 'adults only' esta em alerta e o endereco nao esta registrado."
+    },
+    {
+      "cidadeId": "maragogi",
+      "nome": "Hostel Central Maragogi",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 100,
+        "max": 100
+      },
+      "porQue": "A opcao de hostel com preco mais recente que achei para Maragogi - julho de 2025, o que vale mais que os R$ 43 de 2023. Fica no centro, que a propria reportagem aponta como a area certa para quem nao tem carro: restaurante e comercio a pe, e a praia central e bonita mesmo sem a agua turquesa das galés.",
+      "alertas": [
+        "Praia central nao tem a agua turquesa: essa esta nas galés e em Antunes"
+      ],
+      "fontes": [
+        "https://www.360meridianos.com/onde-ficar-em-maragogi"
+      ],
+      "confianca": "parcial",
+      "observacao": "360meridianos, publicado em 02/07/2025, aberto em 09/10/2026 - a fonte mais recente que consegui para Maragogi. 'A partir de R$ 100'. A materia nao diz se o valor e por cama ou por quarto; marquei porCama true porque o lugar e hostel, e registro aqui a incerteza. Sem endereco nem telefone."
+    },
+    {
+      "cidadeId": "sao-miguel-dos-milagres",
+      "nome": "Pousada Sitio Araca",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "A 100 m da praia",
+      "porCama": false,
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 250,
+        "max": 250
+      },
+      "porQue": "A mais barata da lista de pousadas de Sao Miguel dos Milagres que abri: chale simples em jardim tropical, a 100 m da praia e perto de restaurante. Na Rota Ecologica isso e o piso - a regiao se vendeu como destino de charme e nao tem hostel conhecido.",
+      "alertas": [
+        "Preco de fevereiro de 2022, baixa temporada - mais de tres anos",
+        "Nao existe hostel confirmado em Sao Miguel dos Milagres"
+      ],
+      "fontes": [
+        "https://www.essemundoenosso.com.br/pousada-em-sao-miguel-dos-milagres/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Reportagem do Esse Mundo e Nosso, publicada em 15/08/2025, aberta em 09/10/2026 - MAS a propria materia avisa que os precos foram checados em fevereiro de 2022 e sao diarias para duas pessoas em baixa temporada. Ou seja: valor com mais de tres anos. Registro porque e preco por quarto de casal com estacao e data declaradas, o que e util como piso historico, nao como tarifa."
+    },
+    {
+      "cidadeId": "sao-miguel-dos-milagres",
+      "nome": "Sitio Peixe do Mato",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "A cerca de 2 km da Praia do Toque",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 275,
+        "max": 275
+      },
+      "porQue": "Segunda mais barata da lista, a uns 2 km da Praia do Toque. Em Sao Miguel, distancia da praia e o que derruba o preco - e tambem o que obriga a alugar bicicleta ou carro, porque a Rota Ecologica e uma estrada de terra de 20 km sem transporte publico util.",
+      "alertas": [
+        "Preco de fevereiro de 2022, baixa temporada",
+        "Longe da praia - contar com bicicleta ou carro"
+      ],
+      "fontes": [
+        "https://www.essemundoenosso.com.br/pousada-em-sao-miguel-dos-milagres/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Esse Mundo e Nosso, publicado 15/08/2025 com precos checados em fevereiro de 2022, aberto em 09/10/2026. Diaria para duas pessoas, baixa temporada, de 2022. Sem endereco nem telefone."
+    },
+    {
+      "cidadeId": "sao-miguel-dos-milagres",
+      "nome": "Pousada Paraiso dos Milagres",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "A 100 m da Praia do Riacho",
+      "diariaPrivativo": {
+        "moeda": "BRL",
+        "min": 280,
+        "max": 280
+      },
+      "porQue": "A 100 m da Praia do Riacho, que e uma das praias de piscina natural da Rota - ficar colado na praia resolve o problema de mobilidade da regiao sem pagar tarifa de pousada de charme.",
+      "alertas": [
+        "Preco de fevereiro de 2022, baixa temporada"
+      ],
+      "fontes": [
+        "https://www.essemundoenosso.com.br/pousada-em-sao-miguel-dos-milagres/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Esse Mundo e Nosso, 15/08/2025, precos de fevereiro de 2022, aberto em 09/10/2026. Diaria de casal em baixa temporada. O 'The Beach Hostel Milagres', que aparece em buscas como o unico hostel da regiao, tem o dominio thebeachhostelsaomiguel.com.br SEM RESOLUCAO DNS em 09/10/2026 - nao registrei por falta de fonte aberta e porque suspeito que fechou."
+    },
+    {
+      "cidadeId": "aracaju",
+      "nome": "Anaue Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Atalaia",
+      "porCama": true,
+      "porQue": "Hostel economico no Atalaia, a cinco minutos da praia, com quartos compartilhados e suites privativas, wi-fi, cafe e areas comuns que o proprio site vende como lugar de troca entre hospedes. Atalaia e o bairro de praia de Aracaju: orla com ciclovia, quiosque e Oceanario, tudo a pe.",
+      "link": "https://anauehostel.com.br/",
+      "endereco": "Avenida Lions Clube, 289 - Atalaia, Aracaju - SE, 49037-420",
+      "contato": {
+        "telefone": "+55 79 3243-3748",
+        "whatsapp": "+55 79 98802-3589",
+        "site": "https://anauehostel.com.br/"
+      },
+      "alertas": [
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "https://anauehostel.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco com CEP, telefone, WhatsApp, quartos compartilhados e privativos. O site menciona 'cafe' de forma vaga, sem dizer se esta incluso na diaria - NAO marquei cafeIncluso. Cozinha compartilhada nao mencionada. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "aracaju",
+      "nome": "AFS Loft Hostel Aracaju",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Coroa do Meio (100 m da Orla de Atalaia)",
+      "porCama": true,
+      "porQue": "Nove quartos, sendo sete compartilhados (masculino, feminino e misto), um privativo de casal e uma suite de familia, todos com ar-condicionado. Cafe da manha incluso e copa com cozinha equipada - o par que mais economiza. Fica a 100 m da Orla de Atalaia, na Coroa do Meio, que e um passo antes do Atalaia e costuma cobrar menos.",
+      "link": "https://afslofthostel.com.br/",
+      "endereco": "Rua Poeta Jose Salles de Campos, 390 - Coroa do Meio, Aracaju - SE",
+      "contato": {
+        "telefone": "+55 79 3142-1522",
+        "site": "https://afslofthostel.com.br/"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado no site - o site joga para o motor de reserva"
+      ],
+      "fontes": [
+        "https://afslofthostel.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, telefone, composicao dos nove quartos, ar-condicionado em todos, cafe da manha incluso, copa e cozinha equipada. Se apresenta como 'poshtel', ou seja, hostel com acabamento melhor - pode custar mais que a media. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "aracaju",
+      "nome": "Hostel Aracaju Sequencia Surf Paradise",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Atalaia",
+      "porCama": true,
+      "porQue": "Na orla do Atalaia, com quartos compartilhados, duplos, triplos, familia e suites equipadas, e cozinha com todos os utensilios para quem quer cozinhar. Atencao ao detalhe que o proprio site declara: o cafe da manha NAO esta na diaria - ha um cafe anexo onde se consome a parte. Para dupla economica isso e bom e ruim: nao se paga cafe que nao vai comer, mas nao da para contar com ele.",
+      "link": "https://hostelaracaju.com.br/",
+      "endereco": "Rua Niceu Dantas, 902 - Atalaia, Aracaju - SE, 49037-470",
+      "contato": {
+        "whatsapp": "+55 79 99992-9247",
+        "site": "https://hostelaracaju.com.br/"
+      },
+      "cafeIncluso": false,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Cafe da manha NAO incluso: o cafe anexo e pago a parte",
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "https://hostelaracaju.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco com CEP, WhatsApp, tipos de quarto, cozinha equipada, e a frase explicita de que o cafe da manha do cafe anexo e consumido a parte. PRECO NAO REGISTRADO - o site manda consultar por WhatsApp ou plataforma."
+    },
+    {
+      "cidadeId": "salvador",
+      "nome": "Hostel Barra Salvador",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Barra",
+      "porCama": true,
+      "porQue": "Casa a 30 m da praia na Barra, com dormitorios de 6, 8, 9, 12 e 13 camas e suites de 2 a 4 pessoas, cozinha compartilhada e lavanderia. Para dupla economica em Salvador, Barra e a escolha mais segura: Porto da Barra e a praia de banho da cidade, o Farol fica a pe, tem onibus para tudo e a rua tem movimento a noite. ATENCAO: o cafe da manha NAO esta na diaria - sai R$ 20 por pessoa.",
+      "link": "https://hostelbarra.com.br/",
+      "endereco": "Rua Dr. Artur Neiva, 110 - Barra, Salvador - BA, 40140-420",
+      "contato": {
+        "whatsapp": "+55 71 98442-1717",
+        "site": "https://hostelbarra.com.br/"
+      },
+      "cafeIncluso": false,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Cafe da manha NAO incluso: R$ 20 por pessoa, conforme o site",
+        "Dormitorios de ate 13 camas - pedir o de 6 se quiser dormir"
+      ],
+      "fontes": [
+        "https://hostelbarra.com.br/",
+        "https://pelourinhodiaenoite.salvador.ba.gov.br/category/onde-ficar/hostel-albergue-1/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco com CEP, WhatsApp, 30 m da praia, composicao dos dormitorios e suites, cozinha compartilhada, lavanderia, recepcao 24 h. O site tem uma contradicao que vale registrar: no texto de apresentacao fala em cafe da manha incluso, mas nas perguntas frequentes diz que o cafe NAO esta na diaria e custa R$ 20 por pessoa - fiquei com a versao das perguntas frequentes, que e a especifica. PRECO DA DIARIA NAO REGISTRADO: o site manda reservar direto 'pelo melhor preco' mas nao estampa valor."
+    },
+    {
+      "cidadeId": "salvador",
+      "nome": "Laranjeiras Hostel Pelourinho",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pelourinho",
+      "porCama": true,
+      "porQue": "Casa de 1994 no miolo do Pelourinho, com dormitorios (com opcao de ar-condicionado ou ventilador), quartos privativos, suites, buffet de cafe da manha, restaurante proprio e recepcao 24 h. Dormir no Pelourinho e acordar dentro do cartao-postal e sair para o ensaio de bloco a pe. O que se perde: o Centro Historico esvazia depois do jantar e, fora do eixo principal, caminhar a noite nao e seguro.",
+      "link": "https://www.laranjeirashostel.com.br/",
+      "endereco": "Rua da Ordem Terceira, 11/13 - Pelourinho, Salvador - BA, 40026-260",
+      "contato": {
+        "telefone": "+55 71 3321-1366",
+        "whatsapp": "+55 71 98793-1604",
+        "site": "https://www.laranjeirashostel.com.br/"
+      },
+      "cafeIncluso": true,
+      "alertas": [
+        "O proprio site avisa que a tarifa flutua conforme o periodo",
+        "Pelourinho a noite: ficar no eixo iluminado"
+      ],
+      "fontes": [
+        "https://www.laranjeirashostel.com.br/",
+        "https://www.laranjeirashostel.com.br/tarifas",
+        "https://pelourinhodiaenoite.salvador.ba.gov.br/category/onde-ficar/hostel-albergue-1/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Tres fontes abertas em 09/10/2026: site oficial (dormitorios, privativos, suites, buffet de cafe, restaurante, recepcao 24 h, desde 1994), pagina de tarifas do proprio site e a listagem oficial da Prefeitura de Salvador (Pelourinho Dia e Noite), que confirma endereco e telefones. A PAGINA DE TARIFAS NAO TEM NENHUM VALOR: so a frase de que as tarifas podem flutuar conforme o periodo. PRECO NAO REGISTRADO. Cozinha compartilhada nao mencionada - nao marquei."
+    },
+    {
+      "cidadeId": "salvador",
+      "nome": "Giramundo Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Santo Antonio Alem do Carmo",
+      "porCama": true,
+      "porQue": "Fica no Santo Antonio Alem do Carmo, que e o bairro ao lado do Pelourinho - mesmos casaroes coloniais, metade do turista, bares de morador e vista da Baia de Todos os Santos. Para dupla economica e o melhor custo-ambiente do Centro Historico. O que se perde: ladeira; subir a Rua do Carmo com mochila cansa, e a noite a rua e mais vazia que o Pelo.",
+      "endereco": "Rua do Carmo, 15 - Santo Antonio Alem do Carmo, Salvador - BA",
+      "contato": {
+        "telefone": "+55 71 3242-1993"
+      },
+      "alertas": [
+        "Preco nao publicado",
+        "Ladeira e rua mais vazia a noite que o Pelourinho"
+      ],
+      "fontes": [
+        "https://pelourinhodiaenoite.salvador.ba.gov.br/category/onde-ficar/hostel-albergue-1/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Listagem oficial da Prefeitura de Salvador (portal Pelourinho Dia e Noite), aberta em 09/10/2026: confirma nome, endereco, telefone e que e hostel/albergue com 22 quartos, varanda e area comum. A listagem nao publica preco e aponta como site do Giramundo um dominio de agregador - por isso NAO registrei link. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "salvador",
+      "nome": "Pousada e Hostel Pedacinho da Bahia",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro (Ladeira da Saude)",
+      "porCama": true,
+      "porQue": "Opera como pousada e hostel na mesma casa, no Centro, na Ladeira da Saude - entre o Campo Grande e o Centro Historico. Serve de quarta opcao quando Barra e Pelourinho estao lotados em Carnaval ou Reveillon, quando Salvador esgota.",
+      "link": "http://www.hostelpedacinhodabahia.com.br",
+      "endereco": "Ladeira da Saude, 20 - Centro, Salvador - BA",
+      "contato": {
+        "telefone": "+55 71 3018-4554",
+        "site": "http://www.hostelpedacinhodabahia.com.br"
+      },
+      "alertas": [
+        "Preco nao publicado",
+        "Nao abri o site proprio nesta sessao"
+      ],
+      "fontes": [
+        "https://pelourinhodiaenoite.salvador.ba.gov.br/category/onde-ficar/hostel-albergue-1/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Listagem oficial da Prefeitura de Salvador, aberta em 09/10/2026: nome, endereco, telefone e site. Nao abri o site do estabelecimento, so a listagem da prefeitura - por isso confianca parcial e nada de preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "morro-de-sao-paulo",
+      "nome": "Universo Pol Bamboo Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Reserva natural, cerca de 1 km do centro",
+      "porCama": true,
+      "porQue": "Hostel todo construido em bambu dentro de uma reserva de Mata Atlantica, com dormitorios de 4, 5 e 10 camas, bangalos e cabanas privativas, cozinha compartilhada e cafe da manha diario 100% vegetal incluso. Tem aula de ioga e jam de terca. Quem gosta: quem quer Morro sem a balada da Segunda Praia. O que se perde: 15 minutos de caminhada ate o centro, e em Morro a caminhada e de terra, no escuro, com mochila.",
+      "link": "https://www.universopol.com/",
+      "contato": {
+        "whatsapp": "+55 75 99962-7112",
+        "site": "https://www.universopol.com/"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Cafe da manha 100% vegetal - sem ovo, sem queijo, sem leite animal",
+        "Preco nao publicado no site",
+        "1 km do centro por caminho de terra"
+      ],
+      "fontes": [
+        "https://www.universopol.com/",
+        "https://dicasdabahia.com.br/morro-de-sao-paulo/hostels-em-morro-de-sao-paulo/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026 (dormitorios de 4, 5 e 10 camas, bangalos, cabanas, cozinha compartilhada, cafe vegetal incluso, WhatsApp) e guia Dicas da Bahia, que confirma a localizacao dentro da reserva, longe da praia. O site menciona eventos de 'temporada alta' sem dizer as datas e NAO publica tarifa. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "morro-de-sao-paulo",
+      "nome": "Papagaio Hostel & Pousada",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Perto da Primeira Praia (10 min a pe)",
+      "porCama": true,
+      "porQue": "Hostel e pousada no mesmo endereco a 10 minutos a pe da Primeira Praia, com cafe da manha em buffet incluso. Ficar perto da Primeira e um bom meio: e a praia do Porto, onde se chega e de onde se sai, e fica a cinco minutos da Segunda, que e a dos bares - dorme-se mais longe do som.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco nao publicado",
+        "Endereco exato nao confirmado"
+      ],
+      "fontes": [
+        "https://dicasdabahia.com.br/morro-de-sao-paulo/hostels-em-morro-de-sao-paulo/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Guia Dicas da Bahia, aberto em 09/10/2026; a pagina se diz atualizada para 2026 mas nao estampa data de publicacao. Confirma nome, distancia da Primeira Praia e cafe buffet incluso. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "morro-de-sao-paulo",
+      "nome": "Farofa Loca Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Minutos da Primeira Praia",
+      "porCama": true,
+      "porQue": "Terceira opcao de hostel com cafe da manha em buffet diario incluso perto da Primeira Praia - vale como alternativa, porque em Morro o acesso e por lancha de Salvador e chegar sem reserva na alta e receita de dormir caro.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco nao publicado",
+        "Endereco exato nao confirmado"
+      ],
+      "fontes": [
+        "https://dicasdabahia.com.br/morro-de-sao-paulo/hostels-em-morro-de-sao-paulo/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Dicas da Bahia, aberto em 09/10/2026, sem data de publicacao estampada. Nome, localizacao aproximada e cafe buffet incluso. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "morro-de-sao-paulo",
+      "nome": "Pousada e Camping da Dona America",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Rua da Fonte, descendo 200 m da praca",
+      "porQue": "A unica opcao de camping em Morro que achei em fonte de licenca livre, descendo a Rua da Fonte 200 m da praca central. Para dupla com barraca e o piso absoluto do destino. O que se perde: tudo o que camping em vila de ilha nao tem - e e opcao a confirmar por telefone, porque o registro e antigo.",
+      "contato": {
+        "telefone": "+55 75 3483-1435"
+      },
+      "alertas": [
+        "Registro antigo: confirmar por telefone se o camping ainda existe",
+        "Preco omitido: a faixa da fonte esta muito desatualizada"
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Morro_de_S%C3%A3o_Paulo"
+      ],
+      "confianca": "baixa",
+      "observacao": "Wikivoyage, secao Sleep, aberta em 09/10/2026: traz o caminho (da praca, descendo a Rua da Fonte 200 m), o telefone e a informacao de que oferece camping. A fonte cita single R$ 20, valor da decada de 2010 - PRECO NAO REGISTRADO de proposito. Este e o item mais provavel de ter fechado em toda a onda: confirmar antes."
+    },
+    {
+      "cidadeId": "itacare",
+      "nome": "Cacau Biruta Pousada e Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Pituba",
+      "porCama": true,
+      "porQue": "Na Rua Pedro Longo, a Pituba, que e a rua de bar, restaurante e loja de Itacare - sair a pe para tudo e voltar a pe de noite. Tem quarto limpo e arejado com ar-condicionado ou ventilador e um quarto com dois beliches para 4 pessoas, que e a opcao de dormitorio. O que se perde: dormir na Pituba e dormir com musica ate tarde.",
+      "endereco": "Rua Pedro Longo, 341 - Pituba, Itacare - BA",
+      "contato": {
+        "telefone": "+55 73 99934-3052",
+        "whatsapp": "+55 73 99934-3052"
+      },
+      "alertas": [
+        "O 'dormitorio' e um quarto de 4 com ventilador, nao dormitorio grande",
+        "Preco nao publicado",
+        "Rua de vida noturna - barulho"
+      ],
+      "fontes": [
+        "https://itacare.com.br/itacare/hospedagem/hostel/",
+        "https://itacare.com.br/itacare/hospedagem/pousada/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Duas paginas do portal local Itacare.com abertas em 09/10/2026: confirmam endereco, telefone, WhatsApp, Instagram @cacaubiruta e o quarto com 2 beliches para 4 pessoas com ventilador. E o UNICO hostel que o portal local lista para Itacare. As paginas nao publicam preco e nao tem data. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "itacare",
+      "nome": "Mare Mansa Pousada e Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro / Rua Pituba",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 70,
+        "max": 70
+      },
+      "porQue": "Pousada e hostel na Pituba com cama em dormitorio em torno de R$ 70 por pessoa com cafe da manha - preco que, para a dupla, fica na mesma faixa de um quarto privativo simples, entao vale comparar os dois na hora de reservar.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de julho de 2022 - mais de tres anos, tratar como referencia historica"
+      ],
+      "fontes": [
+        "https://www.voltologo.net/onde-ficar-em-itacare/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Volto Logo, publicado em 19/07/2022, aberto em 09/10/2026 - FONTE COM MAIS DE TRES ANOS, confianca rebaixada. A materia da cerca de R$ 70 por pessoa em dormitorio com cafe da manha para os tres hostels da Pituba (Mare Mansa, Buddy's e Che Lagarto). Sem endereco com numero nem telefone."
+    },
+    {
+      "cidadeId": "itacare",
+      "nome": "Buddy's Hostel",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro / Rua Pituba",
+      "porCama": true,
+      "diaria": {
+        "moeda": "BRL",
+        "min": 70,
+        "max": 70
+      },
+      "porQue": "Terceiro hostel da Pituba na mesma faixa - util porque Itacare tem alta temporada curta e intensa (dezembro a fevereiro e Semana Santa) e os tres da rua esgotam juntos.",
+      "cafeIncluso": true,
+      "alertas": [
+        "Preco de julho de 2022 - mais de tres anos",
+        "Confirmar se ainda opera"
+      ],
+      "fontes": [
+        "https://www.voltologo.net/onde-ficar-em-itacare/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Volto Logo, 19/07/2022, aberto em 09/10/2026. Mais de tres anos. Nao aparece na listagem de hostels do portal local Itacare.com, que lista so o Cacau Biruta - isso levanta duvida real sobre se o Buddy's ainda esta aberto. Confirmar antes."
+    },
+    {
+      "cidadeId": "itacare",
+      "nome": "Nossa Casa Itacare",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "Centro",
+      "porCama": false,
+      "porQue": "Guest house no Centro, com cinco tipos de quarto (suite casal, quarto casal, duplo, triplo, quadruplo) e possibilidade de o hospede cozinhar a propria refeicao - a alternativa de quarto privativo para a dupla que nao quer dormitorio na Pituba, uma rua acima do agito.",
+      "link": "https://nossacasaitacare.com.br/",
+      "endereco": "Rua Athaide Setubal, 87 - Centro, Itacare - BA, 45530-000",
+      "contato": {
+        "telefone": "+55 73 99127-3644",
+        "site": "https://nossacasaitacare.com.br/"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado no site",
+        "Cafe da manha nao mencionado"
+      ],
+      "fontes": [
+        "https://nossacasaitacare.com.br/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco com CEP, telefone, cinco tipos de quarto e a frase sobre a possibilidade de cozinhar - marquei cozinhaCompartilhada com base nela. Cafe da manha NAO mencionado. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "lencois",
+      "nome": "Chapada Backpackers (Albergue de Lencois Backpackers)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Tomba, a 5 min do centro historico",
+      "porCama": true,
+      "porQue": "Hostel e agencia de trekking na mesma casa - em Lencois isso resolve metade da viagem, porque quase tudo na Chapada exige guia e transporte compartilhado, e sair do mesmo lugar onde se dorme sai mais barato e mais facil de combinar com outros hospedes. Dormitorios de 4, 6 ou 8 camas COM BANHEIRO PRIVATIVO e locker individual, cafe da manha em buffet incluso e duas cozinhas equipadas. O que se perde: fica no Tomba, 5 min do centro, e nao nas ruas de pedra.",
+      "link": "https://www.chapadabackpackers.com/hostel",
+      "endereco": "Av. Gen. Viveiros, 275 - Tomba, Lencois - BA, 46960-000",
+      "contato": {
+        "whatsapp": "+55 75 9928-7582",
+        "site": "https://www.chapadabackpackers.com/hostel"
+      },
+      "cafeIncluso": true,
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado no site"
+      ],
+      "fontes": [
+        "https://www.chapadabackpackers.com/hostel",
+        "https://www.guiachapadadiamantina.com.br/para-fazer-amigos-e-gastar-pouco-na-chapada-diamantina/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Site oficial aberto em 09/10/2026: endereco, WhatsApp, e-mail, dormitorios de 4/6/8 camas com banheiro privativo e locker, quartos duplos, triplos e de familia, cafe buffet incluso, duas cozinhas equipadas, agencia de trekking propria. PRECO NAO REGISTRADO: o site manda reservar no sistema proprio (Cloudbeds) e nao estampa tarifa. O guia regional cita R$ 40 por noite para o 'Albergue de Lencois Backpackers' (mesma casa), mas a pagina NAO TEM DATA e esse valor tem cara de ser de meados da decada de 2010 - por isso nao registrei."
+    },
+    {
+      "cidadeId": "lencois",
+      "nome": "Hi Hostel Chapada",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Centro historico",
+      "porCama": true,
+      "porQue": "Hostel em casarao de 1870 dentro do centro historico de Lencois, com agencia de passeios no mesmo endereco. Dormir no centro historico de Lencois e acordar a pe das ruas de pedra, do mercado e dos restaurantes - em cidade pequena isso vale mais que piscina.",
+      "link": "https://www.hostelchapada.com.br/",
+      "contato": {
+        "telefone": "+55 75 3334-1497",
+        "whatsapp": "+55 75 99928-2243",
+        "site": "https://www.hostelchapada.com.br/"
+      },
+      "alertas": [
+        "O site oficial diz que 'algumas melhorias estao sendo implementadas' e NAO confirma que esta aberto - ligar antes",
+        "Preco nao publicado"
+      ],
+      "fontes": [
+        "https://www.hostelchapada.com.br/",
+        "https://www.guiachapadadiamantina.com.br/para-fazer-amigos-e-gastar-pouco-na-chapada-diamantina/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Site oficial aberto em 09/10/2026: da os telefones mas NAO da endereco, NAO da preco e traz a frase de que melhorias estao sendo implementadas, sem dizer se esta recebendo hospede - esse e o motivo da confianca baixa e do alerta. O guia regional (pagina sem data) cita R$ 58 por noite e o casarao de 1870; nao registrei o preco por falta de data. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "lencois",
+      "nome": "Camping Primavera",
+      "tipo": "camping",
+      "perfil": "economico",
+      "bairro": "Rua Maria Adilson, perto do centro",
+      "porQue": "Camping simples em quintal de casa perto do centro de Lencois, com espaco para cerca de 70 barracas, banheiros coletivos com chuveiro quente e frio (chuveiro quente importa: a Chapada esfria de noite), cozinha compartilhada, wi-fi e estacionamento. Tem tambem quartos privativos com ventilador. O que se perde: e camping de quintal, nao de area de mata.",
+      "endereco": "Rua Maria Adilson, 18 - Lencois - BA",
+      "contato": {
+        "telefone": "+55 75 3334-1051",
+        "whatsapp": "+55 75 99163-0978"
+      },
+      "cozinhaCompartilhada": true,
+      "alertas": [
+        "Preco nao publicado",
+        "A fonte nao informa data de atualizacao"
+      ],
+      "fontes": [
+        "https://macamp.com.br/guia/guia/campings/brasil/bahia/chapada-diamantina/camping-primavera/"
+      ],
+      "confianca": "parcial",
+      "observacao": "Guia MaCamp aberto em 09/10/2026: endereco, telefone fixo, tres WhatsApps, e-mail, capacidade de cerca de 70 barracas, banheiros coletivos com agua quente e fria, cozinha compartilhada, wi-fi, quartos privativos com ventilador, estacionamento, responsavel Sra. Luzia. A ficha menciona cafe da manha e almoco acompanhando a hospedagem, mas sem dizer se estao inclusos - NAO marquei cafeIncluso. PRECO NAO REGISTRADO e a pagina nao diz quando foi atualizada."
+    },
+    {
+      "cidadeId": "lencois",
+      "nome": "Pousada dos Duendes",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Rua do Pires",
+      "porCama": true,
+      "porQue": "Casa historica da mochilada em Lencois, com dormitorio e quarto privativo, biblioteca e agencia de passeios no mesmo endereco, e dona que fala ingles - o que, em grupo de trilha internacional, ajuda a fechar passeio compartilhado e dividir custo de guia. O que se perde: nao confirmei se ainda esta de pe.",
+      "endereco": "Rua do Pires, s/n - Lencois - BA",
+      "contato": {
+        "telefone": "+55 75 3334-1229"
+      },
+      "alertas": [
+        "SUSPEITA DE FECHAMENTO: o dominio pousadadosduendes.com.br nao resolveu DNS em 09/10/2026",
+        "Preco omitido: a faixa da fonte esta desatualizada"
+      ],
+      "fontes": [
+        "https://en.wikivoyage.org/wiki/Len%C3%A7%C3%B3is",
+        "https://www.guiachapadadiamantina.com.br/para-fazer-amigos-e-gastar-pouco-na-chapada-diamantina/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Duas fontes abertas em 09/10/2026: Wikivoyage (secao Sleep: Rua do Pires s/n, telefone, dorms e privativos, dona Olivia fala ingles) e o guia regional (R$ 40 por noite, biblioteca, agencia H2O no local - pagina SEM DATA). PRECO NAO REGISTRADO. O sinal ruim: tentei abrir o site pousadadosduendes.com.br e o DNS nao resolveu, o que costuma indicar casa fechada ou site abandonado. Ligar antes de contar com ela. Mesma observacao para o Hostel das Estrelas (hosteldasestrelas.com.br), que tambem nao resolveu DNS e por isso nao registrei."
+    },
+    {
+      "cidadeId": "trancoso",
+      "nome": "Teiu Hostel Trancoso",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Trancoso",
+      "porCama": true,
+      "porQue": "O hostel que a reportagem recomenda em Trancoso, elogiado pelo clima social e pelos espacos compartilhados. Em Trancoso, hostel e quase a unica forma de a dupla economica entrar: a vila se transformou em destino de alto padrao e a hospedagem acompanhou. O que se perde: nao e no Quadrado, e o Quadrado e o motivo de ir.",
+      "alertas": [
+        "Endereco, telefone e preco nao confirmados em fonte utilizavel"
+      ],
+      "fontes": [
+        "https://mundoviajante.com/onde-ficar-em-trancoso/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Reportagem do Mundo Viajante publicada em 31/05/2025, aberta em 09/10/2026. Confirma nome e o perfil social, mas NAO publica preco, endereco nem telefone. Agregadores citam 'Praca da Independencia' e diaria a partir de R$ 119, mas sao agregadores - NAO registro nem endereco nem preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "trancoso",
+      "nome": "Vulva Trancoso Hostel (so mulheres)",
+      "tipo": "hostel",
+      "perfil": "economico",
+      "bairro": "Perto do Quadrado",
+      "porCama": true,
+      "porQue": "Registro com um aviso que muda tudo: e hostel SO PARA MULHERES, com clube feminista. Fica perto do Quadrado e o cafe da manha esta incluso. Para uma dupla mista NAO SERVE - deixo na base justamente para nao perder tempo tentando reservar.",
+      "cafeIncluso": true,
+      "alertas": [
+        "SO PARA MULHERES: nao serve para dupla mista",
+        "Endereco, telefone e preco nao confirmados"
+      ],
+      "fontes": [
+        "https://mundoviajante.com/onde-ficar-em-trancoso/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Mundo Viajante, 31/05/2025, aberto em 09/10/2026: confirma que e feminino e que o cafe esta incluso, e situa perto do Quadrado. Sem endereco, telefone ou preco. PRECO NAO REGISTRADO."
+    },
+    {
+      "cidadeId": "trancoso",
+      "nome": "Pousada Grafite",
+      "tipo": "pousada",
+      "perfil": "economico",
+      "bairro": "A 1,2 km da Praca do Quadrado",
+      "porQue": "Pousada economica a 1,2 km do Quadrado, com piscina, estacionamento gratuito, lounge compartilhado e jardim - a opcao de quarto privativo para a dupla que nao quer dormitorio. Os 1,2 km sao o preco do desconto: da para fazer a pe de dia, mas voltar a noite do Quadrado e caminhada em rua de terra mal iluminada.",
+      "alertas": [
+        "Endereco, telefone e preco nao confirmados",
+        "1,2 km do Quadrado em rua de terra"
+      ],
+      "fontes": [
+        "https://www.grupodicas.com/4-hoteis-com-bom-custo-beneficio-em-trancoso/",
+        "https://mundoviajante.com/onde-ficar-em-trancoso/"
+      ],
+      "confianca": "baixa",
+      "observacao": "Duas fontes abertas em 09/10/2026: Grupo Dicas (maio de 2024) e Mundo Viajante (31/05/2025), que a tratam como opcao de bom custo-beneficio e dao a distancia de 1,2 km do Quadrado e a lista de servicos. NENHUMA DAS DUAS publica preco em reais - as duas mandam o leitor para plataforma de reserva. PRECO NAO REGISTRADO. Trancoso e a base onde a honestidade custou mais: nao achei um unico preco de hospedagem economica em fonte utilizavel."
+    }
+  ],
+  "bairrosPorBase": {
+    "sao-luis": [
+      {
+        "bairro": "Centro Historico (Praia Grande, Rua do Giz, Rua Nazare)",
+        "perfil": "economico",
+        "porQue": "E onde esta tudo o que se vai ver em Sao Luis - os casaroes de azulejo, os museus, o Palacio dos Leoes, a Rua do Giz - e onde estao os tres hostels da cidade. Fica a pe de tudo e e a unica regiao com cama em dormitorio. O que se perde: nao tem praia (Ponta d'Areia e Calhau ficam a uns 7-10 km) e o Centro Historico esvazia a noite fora dos dias de reggae e festa.",
+        "fontes": [
+          "https://www.reviverhostel.com.br/",
+          "https://casaguarnice.com.br/"
+        ]
+      }
+    ],
+    "barreirinhas": [
+      {
+        "bairro": "Centro / Av. Beira Rio",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 250,
+          "max": 350
+        },
+        "porQue": "A Av. Beira Rio concentra restaurante e infraestrutura turistica, e e de la que as lanchas e as jardineiras saem para os Lencois - varios hoteis tem pier proprio e o barco encosta na frente. Ficar no Centro economiza moto-taxi todo dia. As ruas de tras do comercio saem mais baratas e ainda dao para ir a pe.",
+        "seguranca": "A reportagem recomenda nao se hospedar longe do centro sem carro, porque a regiao pode nao ser das mais seguras para caminhar a noite.",
+        "fontes": [
+          "https://www.360meridianos.com/onde-ficar-em-barreirinhas-nos-lencois-maranhenses"
+        ]
+      }
+    ],
+    "atins": [
+      {
+        "bairro": "Vila de Atins",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 80,
+          "max": 180
+        },
+        "porQue": "Atins e uma vila de rua de areia: ou se fica na vila, a pe da praia, dos restaurantes e do ponto de 4x4, ou se fica isolado. O barato ali e hospedaria familiar e camping - as pousadas de nome cobram de R$ 400 para cima. Vale saber antes: parte das casas nao tem agua quente nem ar-condicionado porque a energia e limitada, e nao e descuido, e a condicao do lugar.",
+        "fontes": [
+          "https://www.atins.me/pt-br/diretorio/pousada-nativa/",
+          "https://macamp.com.br/guia/guia/campings/brasil/maranhao/lencois-maranhenses/camping-roots-beach-hostel-atins/"
+        ]
+      }
+    ],
+    "parnaiba": [
+      {
+        "bairro": "Porto das Barcas / Centro Historico",
+        "perfil": "economico",
+        "porQue": "A propria reportagem diz que o melhor e ficar perto do Porto das Barcas, o centro historico: e onde estao restaurante, bar, banco e servico, e de onde saem os passeios para o Delta do Parnaiba. Parnaiba nao e cidade de praia - Pedra do Sal e as praias de Luis Correia ficam a uns 15-20 km, e quem quer mar todo dia deveria se hospedar la, nao aqui.",
+        "fontes": [
+          "https://www.penaestrada.blog.br/onde-ficar-em-parnaiba-no-piaui/",
+          "https://deltarioparnaiba.com.br/pousada-porto-das-barcas/"
+        ]
+      }
+    ],
+    "sao-raimundo-nonato": [
+      {
+        "bairro": "Centro de Sao Raimundo Nonato",
+        "perfil": "economico",
+        "porQue": "Sao Raimundo Nonato e a cidade grande da regiao - tem o aeroporto Serra da Capivara, a maior parte das pousadas, banco, mercado, farmacia e padaria. Para dupla sem carro e a base logica, porque e de la que os receptivos saem. O que se perde: os portoes do parque ficam a uns 20 km, e a manha comeca com deslocamento.",
+        "fontes": [
+          "https://capivararide.com.br/onde-ficar/"
+        ]
+      },
+      {
+        "bairro": "Coronel Jose Dias",
+        "perfil": "economico",
+        "porQue": "Vila colada na entrada principal do parque, onde estao o albergue, o camping e algumas hospedarias. Ficar ali encurta a visita e permite entrar cedo, antes do calor. O que se perde: quase nenhum restaurante, nenhum banco e pouca opcao se a hospedagem escolhida nao servir.",
+        "fontes": [
+          "https://capivararide.com.br/onde-ficar/"
+        ]
+      }
+    ],
+    "jericoacoara": [
+      {
+        "bairro": "Vila de Jericoacoara (Rua Principal, Rua do Forro, Rua Sao Francisco)",
+        "perfil": "economico",
+        "porQue": "Jeri e uma vila de areia sem asfalto e sem iluminacao de rua forte; a diferenca entre ruas e de poucos minutos a pe, entao o que decide e barulho e preco, nao distancia. A Rua do Forro e a rua de festa - mais barato ali, mas som ate tarde. A Rua Sao Francisco e a Rua Principal sao um passo para dentro: mesmo acesso, mais sono. A Duna do Por do Sol e a praia ficam a pe de qualquer uma delas.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Jericoacoara",
+          "https://www.voltologo.net/hostels-em-jericoacoara-dicas/"
+        ]
+      }
+    ],
+    "fortaleza": [
+      {
+        "bairro": "Praia de Iracema",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 70,
+          "max": 160
+        },
+        "porQue": "O bairro dos hostels de Fortaleza e o mais perto do Centro e do Dragao do Mar, onde esta a noite da cidade. A reportagem observa que ali ficam tambem os que vao a trabalho, e que o preco se mantem razoavel mesmo no fim de semana. O que se perde: o mar de Iracema nao e de banho.",
+        "fontes": [
+          "https://www.360meridianos.com/onde-ficar-em-fortaleza-hoteis"
+        ]
+      },
+      {
+        "bairro": "Meireles",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 160,
+          "max": 260
+        },
+        "porQue": "Area residencial de classe media com a maior oferta de hospedagem e a Beira-Mar movimentada, com feirinha e restaurante. A reportagem diz que a praia e bonita, mas registra que ha problemas ocasionais de qualidade da agua, como em outras praias urbanas. Bom para quem quer caminhar na orla e nao depender de aplicativo.",
+        "fontes": [
+          "https://www.360meridianos.com/onde-ficar-em-fortaleza-hoteis"
+        ]
+      },
+      {
+        "bairro": "Centro",
+        "perfil": "economico",
+        "porQue": "Mais barato que a orla e a 15 minutos a pe de Iracema - e onde esta o Refugio Hostel. Durante o dia resolve mercado e comercio popular. O que se perde: o Centro de Fortaleza esvazia depois do comercio fechar, e nao e area para caminhar a noite; conte com aplicativo para voltar.",
+        "fontes": [
+          "https://www.refugiohostelfortaleza.com/"
+        ]
+      }
+    ],
+    "canoa-quebrada": [
+      {
+        "bairro": "Broadway (Rua Dragao do Mar)",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 50,
+          "max": 70
+        },
+        "porQue": "A rua unica de Canoa: bar, restaurante, forro, agencia de passeio e o albergue mais barato da vila, tudo numa calcada. Para dupla economica sem carro e o lugar - a falesia e a praia ficam no fim da rua. O que se perde: som alto ate de madrugada; quem precisa dormir cedo deve ficar uma rua atras.",
+        "fontes": [
+          "https://www.portalcanoaquebrada.com.br/canoa_quebrada_albergue_ibiza.htm",
+          "https://www.portalcanoaquebrada.com.br/canoa_quebrada_pousadas.htm"
+        ]
+      }
+    ],
+    "natal": [
+      {
+        "bairro": "Ponta Negra",
+        "perfil": "economico",
+        "porQue": "Onde esta praticamente toda a oferta de hostel de Natal, e por bom motivo: praia urbana com restaurante, mercado e farmacia a pe, o Morro do Careca na esquina e varios hostels em raio de 600 m da areia. Para dupla economica e a escolha certa - mais barato que a Via Costeira, que e corredor de resort sem vida de rua, e com mais movimento noturno que a Praia dos Artistas.",
+        "fontes": [
+          "https://dicasdenatalepipa.com.br/natal/melhores-hostels-em-natal/",
+          "https://soulhostelnatal.com.br/"
+        ]
+      }
+    ],
+    "pipa": [
+      {
+        "bairro": "Centro de Pipa (Av. Baia dos Golfinhos e ruas de tras)",
+        "perfil": "economico",
+        "porQue": "A Baia dos Golfinhos e a avenida principal: bar, restaurante, agencia, ponto de van para Natal e acesso a praia, tudo a pe. Os hostels mais em conta ficam nela ou numa rua paralela, a 50-300 m. O que se perde: Pipa e barulhenta no centro ate tarde. Praia do Amor e Madeiro ficam a 10-20 min a pe (ou de van) e sao mais calmas, mas ali a hospedagem sobe de preco.",
+        "fontes": [
+          "https://pipa.com.br/cariocahostel/",
+          "https://www.pipasurfhouse.com/",
+          "https://www.cataventodapipa.com/"
+        ]
+      }
+    ],
+    "joao-pessoa": [
+      {
+        "bairro": "Manaira",
+        "perfil": "economico",
+        "porQue": "Bairro residencial de classe media a poucas quadras da orla, onde estao o albergue da juventude e outros hostels. Mais calmo e mais barato que Tambau, e ainda assim a pe da praia. O que se perde: a vida de rua, os bares e o calcadao movimentado estao em Tambau e Cabo Branco.",
+        "fontes": [
+          "http://www.manairahostel.com.br/",
+          "https://www.passeios.org/hospedagem/dicas-de-hoteis-em-joao-pessoa-pb/"
+        ]
+      },
+      {
+        "bairro": "Cabo Branco",
+        "perfil": "economico",
+        "porQue": "A orla mais bonita e mais tranquila da cidade, com ciclovia de ponta a ponta e o Farol do Cabo Branco no extremo - que e o ponto mais oriental das Americas. Bom para quem quer mar e caminhada. O que se perde: menos bar e menos restaurante barato que Tambau.",
+        "fontes": [
+          "https://www.passeios.org/hospedagem/dicas-de-hoteis-em-joao-pessoa-pb/"
+        ]
+      }
+    ],
+    "recife": [
+      {
+        "bairro": "Boa Viagem / Pina",
+        "perfil": "economico",
+        "porQue": "A zona sul concentra os hostels do Recife, e e o lugar pratico para dupla economica: calcadao, mercado grande, restaurante barato, estacao de metro e o aeroporto a poucos minutos - util para voo de madrugada. Ponto importante antes de escolher Recife pela praia: ha risco de ataque de tubarao em Boa Viagem e nao se entra no mar ali.",
+        "fontes": [
+          "https://www.cosmopolitanhostel.com/",
+          "https://hostelboaviagem.com.br/",
+          "https://piratasdapraia.com/"
+        ]
+      }
+    ],
+    "porto-de-galinhas": [
+      {
+        "bairro": "Vila / Centro",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 120,
+          "max": 150
+        },
+        "porQue": "A Vila resolve tudo a pe: as jangadas para as piscinas naturais saem da praia central, e restaurante, mercado e ponto de van ficam nas mesmas quatro ruas. Para dupla sem carro e a escolha que evita gasto diario de transporte. O que se perde: e a area mais cara e a que esgota primeiro em feriado.",
+        "fontes": [
+          "https://www.estrangeira.com.br/pousadas-e-hostels-baratos-em-porto-de-galinhas-muito-bons/"
+        ]
+      },
+      {
+        "bairro": "Merepe",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 120,
+          "max": 336
+        },
+        "porQue": "Bairro vizinho a Vila, com os hostels mais em conta e ainda a distancia de caminhada do centrinho. Economiza-se na diaria. O que se perde: nao tem vida de rua propria, e a caminhada de volta a noite e escura.",
+        "fontes": [
+          "https://www.estrangeira.com.br/pousadas-e-hostels-baratos-em-porto-de-galinhas-muito-bons/"
+        ]
+      }
+    ],
+    "fernando-de-noronha": [
+      {
+        "bairro": "Vila dos Remedios",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 429,
+          "max": 429
+        },
+        "porQue": "O centro de Noronha: igreja, restaurante, mercado, a Praia do Cachorro e o Porto a pe. Pagar um pouco mais para ficar aqui pode sair mais barato no total, porque transporte na ilha custa - buggy diario e caro e o onibus da BR-363, apesar de bom, roda em horario fixo.",
+        "fontes": [
+          "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html"
+        ]
+      },
+      {
+        "bairro": "Floresta Nova / Floresta Velha / Vila do Trinta",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 350,
+          "max": 430
+        },
+        "porQue": "Bairros de morador atras da Vila, onde estao as pousadas domiciliares mais baratas da ilha - o piso real de Noronha. Economiza-se na diaria e se ganha cozinha para nao comer fora todo dia, o que na ilha e a economia maior. O que se perde: vista, caminhada curta ate praia e, em geral, o cafe da manha. Lembrete: a hospedagem em Noronha e regulada e classificada pela Administracao da ilha pelo selo de golfinhos (1 = basica); nao existe hostel nem camping legal, e a taxa de preservacao ambiental e o ingresso do parque nacional sao gastos separados que podem passar da diaria.",
+        "fontes": [
+          "https://www.noronha.pe.gov.br/hospedagem/",
+          "https://www.melhoresdestinos.com.br/pousadas-em-fernando-de-noronha.html",
+          "https://en.wikivoyage.org/wiki/Fernando_de_Noronha"
+        ]
+      }
+    ],
+    "maceio": [
+      {
+        "bairro": "Pajucara",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 34,
+          "max": 100
+        },
+        "porQue": "Onde esta a maior parte dos hostels e as camas mais baratas de Maceio, e tambem de onde saem as jangadas para as piscinas naturais. Calcadao, feirinha de artesanato, mercado e restaurante popular a pe. Para dupla economica em Maceio, e a escolha.",
+        "fontes": [
+          "https://viajeleve.net/hostel-em-maceio/"
+        ]
+      },
+      {
+        "bairro": "Ponta Verde e Jatiuca",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 83,
+          "max": 83
+        },
+        "porQue": "Os dois bairros ao lado da Pajucara, apontados pela reportagem como as outras boas areas da cidade: mais novos, mais residenciais, com restaurante e bar a pe. Custa cerca do dobro do piso da Pajucara e, em troca, a estrutura dos hostels e melhor. O que se perde: a jangada das piscinas naturais sai da Pajucara, nao dali.",
+        "fontes": [
+          "https://viajeleve.net/hostel-em-maceio/"
+        ]
+      }
+    ],
+    "maragogi": [
+      {
+        "bairro": "Centro / Praia Central",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 43,
+          "max": 100
+        },
+        "porQue": "A reportagem e direta: o Centro e a area de quem nao tem carro, porque restaurante e comercio ficam a pe e e de la que saem as catamaras para as galés. Tem tambem os hostels mais baratos. O que se perde: a praia central e bonita mas nao tem a agua turquesa de cartao-postal - essa esta nas galés (de barco) e em Antunes.",
+        "fontes": [
+          "https://www.360meridianos.com/onde-ficar-em-maragogi",
+          "https://viajeleve.net/hostel-em-maragogi/"
+        ]
+      },
+      {
+        "bairro": "Praia de Antunes / Barra Grande / Peroba",
+        "perfil": "economico",
+        "porQue": "As praias de agua realmente turquesa e de areia vazia, Antunes a mais elogiada e Barra Grande a do Caminho de Moises, o banco de areia que aparece na mare baixa. Mas a propria reportagem avisa: fora dos hoteis quase nao ha onde comer, e sao areas para quem tem carro. Para dupla economica sem carro, nao compensa.",
+        "fontes": [
+          "https://www.360meridianos.com/onde-ficar-em-maragogi"
+        ]
+      }
+    ],
+    "sao-miguel-dos-milagres": [
+      {
+        "bairro": "Porto da Rua",
+        "perfil": "economico",
+        "porQue": "O maior povoado do municipio e o que tem mais comercio, bar e restaurante - para dupla economica e onde da para comer fora sem pagar preco de pousada de charme. O que se perde: a Rota Ecologica e uma estrada de 20 km entre povoados, sem transporte publico util; sem bicicleta ou carro, voce fica preso ao raio da caminhada.",
+        "fontes": [
+          "https://www.essemundoenosso.com.br/pousada-em-sao-miguel-dos-milagres/"
+        ]
+      },
+      {
+        "bairro": "Praia do Toque e Praia do Riacho",
+        "perfil": "economico",
+        "diariaPrivativo": {
+          "moeda": "BRL",
+          "min": 250,
+          "max": 280
+        },
+        "porQue": "As praias de piscina natural da rota, e onde ficam as pousadas economicas que achei com preco. Quem fica colado na praia resolve o problema de mobilidade da regiao; quem fica 1-2 km para dentro paga menos e passa a depender de bicicleta. Nao ha hostel conhecido em Sao Miguel - a regiao se posicionou como destino de charme e o piso e pousada simples de casal.",
+        "fontes": [
+          "https://www.essemundoenosso.com.br/pousada-em-sao-miguel-dos-milagres/"
+        ]
+      }
+    ],
+    "aracaju": [
+      {
+        "bairro": "Atalaia",
+        "perfil": "economico",
+        "porQue": "A praia urbana de Aracaju e onde estao todos os hostels da cidade: orla com ciclovia, quiosque, Oceanario e a Passarela do Caranguejo, tudo a pe. Para dupla economica nao ha razao para ficar em outro bairro.",
+        "fontes": [
+          "https://anauehostel.com.br/",
+          "https://hostelaracaju.com.br/"
+        ]
+      },
+      {
+        "bairro": "Coroa do Meio",
+        "perfil": "economico",
+        "porQue": "Bairro imediatamente antes do Atalaia, a 100 m da orla, que costuma cobrar menos pela mesma proximidade do mar. Vale quando o Atalaia esta cheio ou caro. O que se perde: menos movimento de rua a noite que a orla do Atalaia.",
+        "fontes": [
+          "https://afslofthostel.com.br/"
+        ]
+      }
+    ],
+    "salvador": [
+      {
+        "bairro": "Barra (Porto da Barra / Farol da Barra)",
+        "perfil": "economico",
+        "porQue": "A melhor combinacao para dupla economica em Salvador: Porto da Barra e a praia de banho da cidade, de agua calma, o Farol fica a pe, tem muita pousada e hostel, onibus para tudo e rua com movimento a noite. A fonte a descreve como area policiada, com a ressalva de que alguns pontos passam sensacao de inseguranca a noite.",
+        "seguranca": "Segundo a reportagem, Barra e segura e patrulhada, mas ha pontos que passam sensacao de inseguranca a noite.",
+        "fontes": [
+          "https://www.dicasondeficar.com.br/onde-ficar-em-salvador-bahia/",
+          "https://hostelbarra.com.br/"
+        ]
+      },
+      {
+        "bairro": "Pelourinho / Santo Antonio Alem do Carmo",
+        "perfil": "economico",
+        "porQue": "O Centro Historico e o motivo de ir a Salvador, e tem a maior concentracao de hostels - a prefeitura mantem uma listagem oficial deles. Santo Antonio Alem do Carmo, logo ao lado, tem os mesmos casaroes com menos turista, bares de morador e vista da Baia de Todos os Santos, e sai mais em conta. O que se perde: ladeira e esvaziamento noturno.",
+        "seguranca": "A reportagem e explicita: a area e bem policiada e segura de dia, mas a noite fica mais vazia e, fora dos eixos principais, e perigosa para caminhar.",
+        "fontes": [
+          "https://www.dicasondeficar.com.br/onde-ficar-em-salvador-bahia/",
+          "https://pelourinhodiaenoite.salvador.ba.gov.br/category/onde-ficar/hostel-albergue-1/"
+        ]
+      },
+      {
+        "bairro": "Rio Vermelho",
+        "perfil": "economico",
+        "porQue": "O bairro da noite de Salvador, com a maior concentracao de bar, restaurante e casa de show, e hospedagem de todas as faixas. Bom para quem quer sair a pe e voltar a pe. A fonte o considera relativamente seguro, mas recomenda nao andar com objeto de valor nas ruas a noite.",
+        "seguranca": "Relativamente seguro segundo a reportagem, que recomenda cuidado e evitar objetos de valor ao caminhar a noite.",
+        "fontes": [
+          "https://www.dicasondeficar.com.br/onde-ficar-em-salvador-bahia/"
+        ]
+      }
+    ],
+    "morro-de-sao-paulo": [
+      {
+        "bairro": "Primeira Praia e centro",
+        "perfil": "economico",
+        "porQue": "A Primeira e a praia do Porto, onde a lancha encosta, e fica a cinco minutos da Segunda, que e a dos bares e da festa. Dormir perto da Primeira e o meio-termo: perto de tudo, longe do som. E onde estao os hostels com cafe da manha incluso.",
+        "fontes": [
+          "https://dicasdabahia.com.br/morro-de-sao-paulo/hostels-em-morro-de-sao-paulo/"
+        ]
+      },
+      {
+        "bairro": "Segunda e Terceira Praia",
+        "perfil": "economico",
+        "porQue": "A Segunda e a praia de barraca, som e movimento; a Terceira e mais calma e tem pousada simples historica. Ficar na Segunda e ficar dentro da festa - barato e sem sono. Lembrete pratico de Morro: nao ha carro na vila, tudo se carrega a pe ou em carriola pela areia, entao distancia ali se mede em cansaco, nao em minuto.",
+        "fontes": [
+          "https://en.wikivoyage.org/wiki/Morro_de_S%C3%A3o_Paulo"
+        ]
+      }
+    ],
+    "itacare": [
+      {
+        "bairro": "Rua Pituba / Centro",
+        "perfil": "economico",
+        "diaria": {
+          "moeda": "BRL",
+          "min": 70,
+          "max": 70
+        },
+        "porQue": "A Pituba e a rua de bar, restaurante e comercio de Itacare, e onde estao os hostels - a reportagem registra que dali se chega a varias praias em caminhadas de dez minutos. Para dupla economica sem carro e a escolha. O que se perde: som de bar ate tarde; uma rua paralela resolve sem perder o acesso.",
+        "fontes": [
+          "https://www.voltologo.net/onde-ficar-em-itacare/",
+          "https://itacare.com.br/itacare/hospedagem/hostel/"
+        ]
+      },
+      {
+        "bairro": "Praia da Coroa / Praia da Concha",
+        "perfil": "economico",
+        "porQue": "A Concha e a praia de agua calma mais perto do centro, boa para banho, e a Coroa tem bar e restaurante agradaveis - a reportagem aponta a Coroa como a de melhor custo-beneficio da regiao, com preco menor que outras zonas. Bom para quem quer mar e dormir no silencio.",
+        "fontes": [
+          "https://www.voltologo.net/onde-ficar-em-itacare/"
+        ]
+      }
+    ],
+    "lencois": [
+      {
+        "bairro": "Centro historico",
+        "perfil": "economico",
+        "porQue": "Lencois e cidade pequena: do centro historico, com suas ruas de pedra, se resolve mercado, restaurante, agencia de passeio e rodoviaria a pe. Em destino onde quase todo passeio exige guia, ficar perto das agencias e das outras pessoas e o que permite dividir custo de guia e de transporte - a economia real da Chapada esta ai.",
+        "fontes": [
+          "https://www.hostelchapada.com.br/",
+          "https://en.wikivoyage.org/wiki/Len%C3%A7%C3%B3is"
+        ]
+      },
+      {
+        "bairro": "Tomba e arredores (5 min do centro)",
+        "perfil": "economico",
+        "porQue": "Bairro tranquilo a cinco minutos do centro historico, onde ficam o hostel-agencia maior da cidade e os campings. Economiza-se e dorme-se melhor, e a distancia e curta de verdade. Detalhe que importa: a Chapada esfria de noite, entao chuveiro quente e item a confirmar antes - nao e padrao em camping.",
+        "fontes": [
+          "https://www.chapadabackpackers.com/hostel",
+          "https://macamp.com.br/guia/guia/campings/brasil/bahia/chapada-diamantina/camping-primavera/"
+        ]
+      }
+    ],
+    "trancoso": [
+      {
+        "bairro": "Centro da Vila (fora do Quadrado)",
+        "perfil": "economico",
+        "porQue": "A reportagem e clara: o centro comercial e de servicos da vila e a area mais barata de Trancoso, com a maior oferta de hospedagem - e tambem a mais longe da praia. Para dupla economica e a unica area realista. O Quadrado, que e o motivo de ir a Trancoso, fica a poucos minutos a pe e cobra o preco do cartao-postal.",
+        "fontes": [
+          "https://www.dicasondeficar.com.br/onde-ficar-em-trancoso-ba/",
+          "https://mundoviajante.com/onde-ficar-em-trancoso/"
+        ]
+      },
+      {
+        "bairro": "Praia dos Nativos / Praia dos Coqueiros",
+        "perfil": "economico",
+        "porQue": "Mais silencioso que o Quadrado, com acesso direto a praia e pousada de beira-mar a preco menor que o da praca - segundo a reportagem, e o melhor meio entre vila e mar. O que se perde: para a faixa economica ainda e caro, e a descida do Quadrado para a praia e uma ladeira longa de volta a noite.",
+        "fontes": [
+          "https://mundoviajante.com/onde-ficar-em-trancoso/"
+        ]
+      }
+    ]
+  }
+}

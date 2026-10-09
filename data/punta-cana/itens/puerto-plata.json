@@ -737,6 +737,10 @@
       {
         "url": "https://www.openstreetmap.org/way/136395000",
         "titulo": "OpenStreetMap (coordenada)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -763,7 +767,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Playa_Dorada_-_Puerto_Plata.jpg/1280px-Playa_Dorada_-_Puerto_Plata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Max Bosio from Santo Domingo D.R., Republica Dominicana",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Dorada_-_Puerto_Plata.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

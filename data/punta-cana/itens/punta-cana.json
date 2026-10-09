@@ -601,6 +601,10 @@
       },
       {
         "url": "https://nominatim.openstreetmap.org/search?q=Playa+El+Cortecito&format=json&limit=3&countrycodes=do"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro_Punta_Cana_-_01.jpg",
+        "titulo": "Wikimedia Commons (imagem)"
       }
     ],
     "coletadoEm": "2026-10-08",
@@ -633,7 +637,14 @@
       "necessaria": false
     },
     "contato": {},
-    "imagens": [],
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Playa_Bavaro_Punta_Cana_-_01.jpg/1280px-Playa_Bavaro_Punta_Cana_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "credito": "Oleg Yunakov",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Playa_Bavaro_Punta_Cana_-_01.jpg"
+      }
+    ],
     "agendavel": true,
     "restricoes": {
       "outras": [],

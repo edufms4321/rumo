@@ -868,6 +868,16 @@ function perfilDoBairro(texto: string): string {
  * automatizado; exigir preco expulsaria do banco justamente o que o dono do
  * app pediu. Nome, bairro e site oficial ja deixam ele abrir e conferir.
  */
+const NIVEIS = new Set(['verificado', 'parcial', 'estimado']);
+
+/** Normaliza o que a pesquisa escreveu para o enum do schema. */
+function nivelDeConfianca(valor: unknown, quantasFontes: number): string {
+  const v = String(valor ?? '').toLowerCase();
+  if (NIVEIS.has(v)) return v;
+  if (v === 'confirmado' || v === 'oficial') return 'verificado';
+  return quantasFontes >= 2 ? 'parcial' : 'estimado';
+}
+
 export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
   const saida: Json[] = [];
   const ids = new Set<string>();
@@ -895,10 +905,16 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
     for (const b of pacote?.notasDaBase?.melhoresBairrosParaFicar ?? []) {
       const nome = String(b.nome ?? '').trim();
       if (!nome) continue;
+      /*
+        Bairro sem faixa de diaria ENTRA. Antes era descartado, porque o
+        schema exigia preco; agora a diaria e opcional, e "fique em Gazcue,
+        e aqui o porque" continua sendo a resposta util mesmo sem numero.
+        Treze bairros da Zona Colonial a Piantini estavam sendo jogados fora
+        por causa de um campo vazio.
+      */
       const diaria = faixa(b.diariaFaixa, 'COP');
       if (!diaria) {
-        avisos.push(`bairro "${nome}" (${cidadeId}) sem faixa de diaria: fora de hospedagem.json`);
-        continue;
+        avisos.push(`bairro "${nome}" (${cidadeId}) sem faixa de diaria: entrou sem preco`);
       }
       saida.push({
         id: idUnico(`${cidadeId}-${nome}`),
@@ -910,7 +926,7 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
         cidadeId,
         bairro: nome,
         perfil: perfilDoBairro(String(b.perfil ?? '')),
-        diaria,
+        ...(diaria ? { diaria } : {}),
         porQue: [b.perfil, b.observacao].filter(Boolean).join(' — ').slice(0, 1500),
       });
     }
@@ -954,7 +970,20 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
         avisos.push(`hospedagem "${nome}" (${cidadeId}) sem fonte: descartada`);
         continue;
       }
-      const diaria = faixa(h.diaria, 'BRL');
+      /*
+        Normaliza os dois campos de preco.
+
+        A pesquisa usa `diaria` para a cama em dormitorio e
+        `diariaPrivativo` para o quarto. Num lugar que NAO tem dormitorio —
+        a maioria, e na Republica Dominicana foram 29 de 31 — so o segundo
+        vem preenchido, e a tela acabava escrevendo "sem preco" num lugar
+        que tem preco publicado. Sem dormitorio, o preco do quarto E o
+        preco da hospedagem.
+      */
+      const dorm = faixa(h.diaria, 'BRL');
+      const privativo = faixa(h.diariaPrivativo, dorm?.moeda ?? 'BRL');
+      const diaria = dorm ?? privativo;
+      const soPrivativo = !dorm && privativo;
       if (!diaria) {
         // Nao e motivo para descartar: e motivo para dizer.
         avisos.push(`hospedagem "${nome}" (${cidadeId}) sem preco em fonte utilizavel`);
@@ -963,7 +992,9 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
         id: idUnico(`${cidadeId}-${nome}`),
         fontes: f,
         coletadoEm: String(h.coletadoEm ?? onda.coletadoEm ?? COLETADO_EM),
-        confianca: String(h.confianca ?? (f.length >= 2 ? 'parcial' : 'estimado')),
+        // A pesquisa escreveu "confirmado", que nao existe no enum do
+        // schema. Mapear e melhor que reprovar o registro inteiro.
+        confianca: nivelDeConfianca(h.confianca, f.length),
         ...(h.observacao ? { observacaoDeConfianca: String(h.observacao).slice(0, 2000) } : {}),
         cidadeId,
         bairro: String(h.bairro ?? nome).slice(0, 300),
@@ -971,10 +1002,9 @@ export function construirHospedagem(bases: Bases, ondas: Json[] = []): Json[] {
         perfil: perfilDoBairro(String(h.perfil ?? 'economico')),
         ...(h.tipo ? { tipo: String(h.tipo) } : {}),
         ...(diaria ? { diaria } : {}),
-        porCama: Boolean(h.porCama),
-        ...(faixa(h.diariaPrivativo, diaria?.moeda ?? 'BRL')
-          ? { diariaPrivativo: faixa(h.diariaPrivativo, diaria?.moeda ?? 'BRL') }
-          : {}),
+        // So e "por cama" quando ha mesmo um dormitorio com preco proprio.
+        porCama: Boolean(h.porCama) && Boolean(dorm),
+        ...(soPrivativo ? {} : privativo ? { diariaPrivativo: privativo } : {}),
         porQue: String(h.porQue ?? '').slice(0, 1500),
         ...(h.link ? { link: String(h.link) } : {}),
         ...(h.endereco ? { endereco: String(h.endereco).slice(0, 400) } : {}),
