@@ -16,6 +16,7 @@ const TELAS = [
   'calendario',
   'orcamento',
   'reservas',
+  'documentos',
   'exportar',
   'config',
   'agora',

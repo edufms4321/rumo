@@ -11,6 +11,7 @@ import {
   CalendarDays,
   Compass,
   Download,
+  FileText,
   Heart,
   Moon,
   Radar,
@@ -48,6 +49,7 @@ const ABAS: Array<{ para: string; rotulo: string; icone: LucideIcon }> = [
   { para: 'calendario', rotulo: 'Calendario', icone: CalendarDays },
   { para: 'orcamento', rotulo: 'Orcamento', icone: Wallet },
   { para: 'reservas', rotulo: 'Reservas', icone: TicketCheck },
+  { para: 'documentos', rotulo: 'Documentos', icone: FileText },
   { para: 'exportar', rotulo: 'Exportar', icone: Download },
   { para: 'config', rotulo: 'Ajustes', icone: Settings2 },
 ];

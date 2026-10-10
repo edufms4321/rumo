@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import { BaseRecord, BoundingBox, Fonte, Url } from './base.ts';
+import { DocumentoDeEntrada } from './documento.ts';
 
 /** Requisitos de entrada, por nacionalidade do viajante. */
 export const RequisitoDeEntrada = z.object({
@@ -41,6 +42,13 @@ export const Destino = BaseRecord.extend({
   /** Usada pelo validador para reprovar coordenada fora do pais. */
   caixaDelimitadora: BoundingBox,
   entrada: z.array(RequisitoDeEntrada).min(1),
+  /**
+   * Documentos e taxas de entrada, em campos que o motor le. Separado de
+   * `entrada` porque aquilo e a prosa do requisito e isto e o que a tela de
+   * Documentos lista e a regra de visto de entrada unica valida. Default []
+   * para um pacote antigo continuar carregando sem a pesquisa feita.
+   */
+  documentos: z.array(DocumentoDeEntrada).default([]),
   saude: z.object({
     vacinasRecomendadas: z.array(z.string()).default([]),
     aguaPotavel: z.string().optional(),

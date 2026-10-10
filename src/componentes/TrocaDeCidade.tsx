@@ -44,6 +44,7 @@ export function TrocaDeCidade({
   const [modal, definirModal] = useState<Modal | ''>('');
   const [hora, definirHora] = useState('09:00');
   const [minutos, definirMinutos] = useState('');
+  const [escalaFora, definirEscalaFora] = useState('');
 
   /* Trechos pesquisados para este par, nos dois sentidos. */
   const opcoes = useMemo(() => {
@@ -98,6 +99,7 @@ export function TrocaDeCidade({
       startMin: Math.max(0, Math.min(1439, inicioNoQuadro)),
       durationMin: Math.max(10, Math.min(2880, Math.round(duracaoFinal))),
       statusDeReserva: 'precisa-reservar',
+      ...(escalaFora.trim() ? { escalaEmOutroPais: escalaFora.trim() } : {}),
     };
     acoes.adicionarBloco(dia.id, bloco);
     aoFechar();
@@ -235,6 +237,26 @@ export function TrocaDeCidade({
             deste dia; mova-o para o dia certo depois.
           </p>
         )}
+
+        {/*
+          Escala fora do pais e o unico dado daqui que nao da para deduzir do
+          pacote: a matriz liga cidades do destino e nao sabe que a conexao
+          mais barata passa pelo Panama. Sem este campo, a regra de visto de
+          entrada unica nunca teria o que ler.
+        */}
+        <div>
+          <Rotulo htmlFor="trecho-escala">Faz escala em outro pais? (opcional)</Rotulo>
+          <Campo
+            id="trecho-escala"
+            onChange={(e) => definirEscalaFora(e.target.value)}
+            placeholder="ex.: Panama, Colombia"
+            value={escalaFora}
+          />
+          <p className="mt-1 text-2xs text-[var(--cor-texto-suave)]">
+            Sair do pais no meio do roteiro queima visto de entrada unica. Se houver, o app
+            avisa antes de voce comprar.
+          </p>
+        </div>
 
         {sugestao && (
           <Cartao className="bg-[var(--cor-fundo-afundado)] p-3 text-xs">

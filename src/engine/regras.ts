@@ -17,6 +17,7 @@ import type { DiaDaSemana } from '../schema/base.ts';
 import type { Item } from '../schema/item.ts';
 import type { PacoteDestino } from '../schema/pacote.ts';
 import type { Viagem } from '../schema/viagem.ts';
+import { documentosDaViagem, escalasForaDoPais } from './documentos.ts';
 import { converterRelogio, offsetDaCidade, offsetDoDia } from './fusos.ts';
 import { calcularOrcamento, formatarFaixaBRL } from './orcamento.ts';
 import {
@@ -52,6 +53,7 @@ export type NivelDeAlerta = 'erro' | 'atencao' | 'dica';
  * dizer o que o clique faz.
  */
 export type TipoDeCorrecao =
+  | 'abrir-documentos'
   | 'abrir-orcamento'
   | 'abrir-requisitos'
   | 'adiar-inicio-do-dia'
@@ -861,6 +863,7 @@ export function validarViagem(
     regraClimaDoMes,
     regraOrcamento,
     regraDocumentosDeEntrada,
+    regraVistoDeEntradaUnica,
     regraPrazoDeReserva,
     regraFolgaAntesDoQueNaoEspera,
   ];
@@ -868,6 +871,47 @@ export function validarViagem(
   for (const regra of regras) regra(ctx, alertas);
 
   return alertas.sort((a, b) => ORDEM[a.nivel] - ORDEM[b.nivel]);
+}
+
+/**
+ * Visto de entrada unica contra roteiro que sai do pais.
+ *
+ * O caso real: o e-visto mexicano vale para UMA entrada e so por via aerea.
+ * Um roteiro que passe por outro pais no meio — uma conexao que exija
+ * reentrada, um pulo a Guatemala saindo de Palenque — queima o visto na
+ * saida, e a descoberta acontece no balcao de imigracao com a passagem ja
+ * comprada. Nenhuma outra regra do app protege contra isso, porque nenhuma
+ * outra olha o visto e o itinerario juntos.
+ *
+ * So dispara quando o dado DIZ quantas entradas o documento permite. Visto
+ * sem esse campo pesquisado nao gera alerta: supor entrada unica assustaria
+ * sem base.
+ */
+function regraVistoDeEntradaUnica(ctx: Contexto, alertas: Alerta[]): void {
+  const saidas = escalasForaDoPais(ctx.viagem);
+  if (saidas.length === 0) return;
+
+  for (const { documento } of documentosDaViagem(ctx.viagem, ctx.pacote)) {
+    if (documento.entradasPermitidas !== 1) continue;
+
+    const paises = [...new Set(saidas.map((s) => s.pais))].join(', ');
+    alertas.push({
+      codigo: 'visto-de-entrada-unica',
+      nivel: 'erro',
+      titulo: `${documento.nome} vale para uma entrada so`,
+      mensagem:
+        `O roteiro sai de ${ctx.pacote.destino.nome} (${paises}) e volta. ` +
+        `Com entrada unica, o visto se esgota na primeira saida e a reentrada ` +
+        `e recusada. Troque por um visto de multiplas entradas, ou refaca o ` +
+        `trecho sem sair do pais.` +
+        (documento.vias.length > 0
+          ? ` Este documento vale so por via ${documento.vias.join(' e ')}.`
+          : ''),
+      blocoIds: saidas.map((s) => s.blocoId),
+      ...(saidas[0] ? { diaId: saidas[0].diaId } : {}),
+      correcoes: [{ tipo: 'abrir-documentos', rotulo: 'Ver os documentos da viagem' }],
+    });
+  }
 }
 
 // ------------------------------------------------- melhorias 11, 12 e 3

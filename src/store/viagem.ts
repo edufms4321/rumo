@@ -14,6 +14,7 @@
 import { get as lerDoBanco, set as gravarNoBanco } from 'idb-keyval';
 import { create } from 'zustand';
 import { temporal } from 'zundo';
+import type { AnotacaoDeDocumento } from '../schema/documento.ts';
 import type { PacoteDestino } from '../schema/pacote.ts';
 import {
   type Bloco,
@@ -90,6 +91,7 @@ export function viagemNova(destinoId: string, nome: string): Viagem {
     gastos: [],
     confirmacoes: {},
     descartados: {},
+    documentos: {},
     criadoEm: agora(),
     atualizadoEm: agora(),
   };
@@ -472,6 +474,14 @@ export const acoes = {
   limparModalDaLacuna(lacunaId: string): void {
     usarLoja.getState().alterar((v) => {
       delete v.deslocamentos[lacunaId];
+    });
+  },
+
+  /** Situacao de um documento de entrada nesta viagem. */
+  anotarDocumento(documentoId: string, anotacao: Partial<AnotacaoDeDocumento>): void {
+    usarLoja.getState().alterar((v) => {
+      const atual = v.documentos[documentoId] ?? { status: 'pendente' as const };
+      v.documentos[documentoId] = { ...atual, ...anotacao, anotadoEm: agora() };
     });
   },
 

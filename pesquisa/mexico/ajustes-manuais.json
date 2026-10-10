@@ -25,7 +25,124 @@
      "url": "http://www.portalconsular.itamaraty.gov.br/no-exterior/plantao-consular-3"
     }
    ]
-  }
+  },
+  "documentos": [
+   {
+    "id": "mx-passaporte",
+    "nome": "Passaporte valido",
+    "tipo": "passaporte",
+    "obrigatorio": true,
+    "nacionalidades": [
+     "BR"
+    ],
+    "resumo": "Passaporte valido, com paginas em branco. E necessario tambem para pedir o e-visto (foto da pagina de dados).",
+    "comoPedir": "Agendamento na Policia Federal.",
+    "prazo": "antes de pedir o e-visto",
+    "diasAntesDaViagem": 90,
+    "escopo": "nacional",
+    "observacoes": "Recomenda-se validade de 6 meses a partir da entrada (Wise cita 3 a 6 meses). NAO foi possivel abrir fonte oficial mexicana que fixe o minimo exato: trate como recomendacao, nao como regra.",
+    "fontes": [
+     {
+      "url": "https://wise.com/br/blog/viajar-para-mexico"
+     }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial"
+   },
+   {
+    "id": "mx-evisto",
+    "nome": "Visto eletronico (e-visto) do Mexico",
+    "tipo": "visto",
+    "obrigatorio": true,
+    "nacionalidades": [
+     "BR"
+    ],
+    "resumo": "Brasileiros precisam de visto desde 18/08/2022, inclusive para conexao em aeroporto mexicano. Desde 05/02/2026 cabe pedir o e-visto pela internet para viagem AEREA de ate 180 dias sem atividade remunerada.",
+    "custo": {
+     "moeda": "USD",
+     "min": 10,
+     "max": 10,
+     "por": "pessoa",
+     "inclui": "um processo",
+     "coletadoEm": "2026-10-09",
+     "fontes": [
+      {
+       "url": "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf"
+      }
+     ]
+    },
+    "linkOficial": "https://visaelectronica.sre.gob.mx/",
+    "comoPedir": "Pelo portal, com foto da pagina de dados do passaporte. Apresentar impresso ou digital no embarque e na entrada no Mexico.",
+    "prazo": "antes do embarque",
+    "diasAntesDaViagem": 30,
+    "entradasPermitidas": 1,
+    "vias": [
+     "aerea"
+    ],
+    "validadeDias": 180,
+    "isencoes": [
+     "visto vigente dos Estados Unidos",
+     "visto vigente do Canada",
+     "visto vigente do Reino Unido",
+     "visto vigente do Japao",
+     "visto vigente do Espaco Schengen",
+     "residencia permanente em algum desses paises"
+    ],
+    "escopo": "nacional",
+    "observacoes": "ENTRADA UNICA e so por via aerea. Nao confirmado em fonte aberta se cobre transito aereo. Se for negado, ou se precisar de multiplas entradas, resta o visto consular com agendamento em citas.sre.gob.mx. A pagina do Consulado (artigo 43) e a da Embaixada ainda trazem textos anteriores ao e-visto: prevalece o guia do Consulado de 10/02/2026.",
+    "fontes": [
+     {
+      "url": "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf"
+     },
+     {
+      "url": "https://www.gov.br/mre/pt-br/embaixada-mexico/brasileiros-precisam-de-visto-para-entrar-ou-fazer-conexao-no-mexico"
+     }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado"
+   },
+   {
+    "id": "mx-visitax",
+    "nome": "Visitax (Quintana Roo)",
+    "tipo": "taxa",
+    "obrigatorio": true,
+    "nacionalidades": [],
+    "resumo": "Taxa estadual de todo turista estrangeiro que visita Quintana Roo: Cancun, Playa del Carmen, Tulum, Cozumel, Isla Mujeres e Bacalar. O portal oficial diz que vale tambem para criancas e independe do ponto de saida.",
+    "custo": {
+     "moeda": "MXN",
+     "min": 280,
+     "max": 300,
+     "por": "pessoa",
+     "inclui": "uma visita ao estado",
+     "coletadoEm": "2026-10-09",
+     "fontes": [
+      {
+       "url": "https://www.rivieramayanews.mx/quintana-roo-government-aims-for-super-record-visitax-revenue-in-2026-without-increasing-tourist-fee"
+      },
+      {
+       "url": "https://www.poresto.com/quintana-roo/cancun/2025/12/31/extranjeros-reprochan-presunto-cobro-abusivo-en-impuestos-del-visitax-en-cancun.amp.html"
+      }
+     ],
+     "observacao": "A tarifa e 2,5 UMA e muda quando a UMA muda; o portal oficial NAO publica o valor em pesos. Confirme no portal na hora de pagar."
+    },
+    "linkOficial": "https://www.visitax.gob.mx/",
+    "comoPedir": "Pague no portal oficial antes de sair do estado e guarde o codigo QR de cada viajante. Ha pontos de cobranca no aeroporto de Cancun, onde nao se aceita dinheiro em especie.",
+    "prazo": "antes de sair de Quintana Roo",
+    "diasAntesDaViagem": 7,
+    "escopo": "quintana-roo",
+    "observacoes": "Nao se aplica a quem entra pela fronteira sul. Existencia, quem paga e como pagar vem do portal oficial; o VALOR em pesos vem de imprensa local e esta como faixa.",
+    "fontes": [
+     {
+      "url": "https://www.visitax.gob.mx/"
+     },
+     {
+      "url": "https://www.rivieramayanews.mx/quintana-roo-government-aims-for-super-record-visitax-revenue-in-2026-without-increasing-tourist-fee"
+     }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial"
+   }
+  ]
  },
  "itens": {
   "mx-mex-mercado-de-coyoacan": {

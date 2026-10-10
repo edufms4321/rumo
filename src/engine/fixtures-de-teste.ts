@@ -38,6 +38,7 @@ export function pacoteDeTeste(opcoes: { comTrechoAereo?: boolean } = {}): Pacote
       dinheiro: { fontes: [] },
       conectividade: { operadoras: [], fontes: [] },
       linksUteis: [],
+      documentos: [],
     },
     regioes: [{ ...COMUM, id: 'sudeste', nome: 'Sudeste', descricaoCurta: 'Sudeste do Brasil' }],
     estados: [
@@ -231,6 +232,7 @@ export function viagemDeTeste(dias: Dia[], deslocamentos: Viagem['deslocamentos'
     gastos: [],
     confirmacoes: {},
     descartados: {},
+    documentos: {},
     criadoEm: '2026-10-08T12:00:00Z',
     atualizadoEm: '2026-10-08T12:00:00Z',
   };

@@ -1,5 +1,6 @@
 import { z } from 'zod';
 import { IsoDate, Modal, Moeda, Slug, Url } from './base.ts';
+import { AnotacaoDeDocumento } from './documento.ts';
 
 /**
  * Estado do usuario. Vive no IndexedDB do navegador, separado do pacote de
@@ -91,6 +92,13 @@ export const BlocoTrecho = z.object({
   statusDeReserva: StatusDeReserva.default('precisa-reservar'),
   /** Para voo internacional: offset do aeroporto de chegada, em minutos. */
   offsetChegadaMinutos: z.number().int().optional(),
+  /**
+   * Pais onde este trecho faz escala FORA do destino, quando faz. Existe
+   * para uma regra so, e ela paga o campo: com visto de entrada unica, sair
+   * do pais no meio do roteiro queima o visto, e o viajante descobre isso no
+   * balcao de imigracao, com a passagem ja comprada.
+   */
+  escalaEmOutroPais: z.string().optional(),
 });
 
 export const Bloco = z.discriminatedUnion('tipo', [
@@ -289,6 +297,11 @@ export const Viagem = z.object({
   confirmacoes: z.record(Slug, z.array(ConfirmacaoDoUsuario)).default({}),
   /** MELHORIA 20: itens que nao devem mais aparecer em Descobrir. */
   descartados: z.record(Slug, MotivoDeDescarte).default({}),
+  /**
+   * Situacao de cada documento de entrada, por id do documento no pacote.
+   * O pacote diz o que o pais exige; isto diz em que pe ele esta.
+   */
+  documentos: z.record(z.string(), AnotacaoDeDocumento).default({}),
   criadoEm: z.string().min(1),
   atualizadoEm: z.string().min(1),
 });

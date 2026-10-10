@@ -1177,6 +1177,10 @@ const TRATADORES: Record<TipoDeCorrecao, (d: DadosDaCorrecao, c: ContextoDaCorre
     navegar(`/viagem/${viagemId}/config`);
   },
 
+  'abrir-documentos': (_dados, { viagemId, navegar }) => {
+    navegar(`/viagem/${viagemId}/documentos`);
+  },
+
   'definir-hospedagem': (_dados, { viagemId, navegar }) => {
     navegar(`/viagem/${viagemId}/dormir`);
   },

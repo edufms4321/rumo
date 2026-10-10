@@ -105,6 +105,7 @@ function main(): void {
     gastos: [],
     confirmacoes: {},
     descartados: {},
+    documentos: {},
     criadoEm: '2026-10-08T12:00:00Z',
     atualizadoEm: '2026-10-08T12:00:00Z',
   };
