@@ -112,3 +112,27 @@ test('a fila de reservas abre com voo e visto, e resolver tira da fila', async (
     page.locator('li', { hasText: 'Visto eletronico' }).getByLabel('Situacao'),
   ).toHaveValue('pronto');
 });
+
+test('o orcamento mostra folga, as tres linhas mais caras e o ponto de estouro', async ({
+  page,
+}) => {
+  await viagemNoMexico(page);
+
+  // Define o teto de R$ 12 mil por pessoa, como no plano real.
+  await page.getByRole('link', { name: 'Ajustes' }).click();
+  await page.getByLabel(/por pessoa/).fill('12000');
+
+  await page.getByRole('link', { name: 'Orcamento' }).click();
+  await page.getByRole('button', { name: /usar o piso da faixa/ }).first().click();
+
+  const secao = page.locator('section', { hasText: 'FOLGA E PONTO DE ESTOURO' });
+  await expect(secao).toBeVisible();
+  await expect(secao.getByText(/Sobra R\$/)).toBeVisible();
+  await expect(secao.getByText('Ponto de estouro:')).toBeVisible();
+  await expect(secao.getByText('As tres linhas mais caras')).toBeVisible();
+
+  // O e-visto e o Visitax entram na conta por categoria. Aparece duas vezes
+  // de proposito: na lista de categorias e como rotulo de uma das mais caras.
+  await expect(page.getByText('Documentos e vistos', { exact: true })).toBeVisible();
+  await expect(secao.getByText(/Documentos e vistos/)).toBeVisible();
+});

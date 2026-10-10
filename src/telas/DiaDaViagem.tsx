@@ -51,6 +51,7 @@ import {
   offsetDoDia,
   seloDeFuso,
 } from '../engine/fusos.ts';
+import { formatarBRL, impactoDeAdicionar } from '../engine/orcamento.ts';
 import { type Alerta, type TipoDeCorrecao, validarViagem } from '../engine/regras.ts';
 import { type LacunaResolvida, resolverDia } from '../engine/resolver-dia.ts';
 import { planoBDeChuva } from '../engine/sugestoes.ts';
@@ -909,6 +910,36 @@ function AjusteDeHorario({
   );
 }
 
+/**
+ * Quanto este item come do teto, mostrado ANTES do clique.
+ *
+ * O briefing pede "avisar antes de confirmar". Dialogo de confirmacao seria
+ * bloquear, e a regra do projeto e nunca bloquear: o aviso vai no cartao,
+ * onde o dedo ja esta.
+ */
+function AvisoDeOrcamento({ itemId }: { itemId: string }) {
+  const viagem = usarViagem();
+  const pacote = usarPacote();
+  const impacto = useMemo(
+    () => (viagem && pacote ? impactoDeAdicionar(viagem, pacote, itemId) : undefined),
+    [viagem, pacote, itemId],
+  );
+  if (!impacto?.custoBRL || !impacto.folgaDepois) return null;
+
+  return (
+    <p
+      className={cn(
+        'mt-0.5 text-2xs',
+        impacto.estoura ? 'text-[var(--cor-erro)]' : 'text-[var(--cor-texto-fraco)]',
+      )}
+    >
+      {impacto.estoura
+        ? `estoura o teto em ${formatarBRL(-impacto.folgaDepois.max)}`
+        : `${formatarBRL(impacto.custoBRL.min)} — sobraria ${formatarBRL(impacto.folgaDepois.max)}`}
+    </p>
+  );
+}
+
 function ItemArrastavel({
   id,
   nome,
@@ -951,6 +982,7 @@ function ItemArrastavel({
           {formatarDuracao(duracao)}
           {foraDaCidade && <span className="text-[var(--cor-atencao)]"> · {cidadeDoItem}</span>}
         </p>
+        <AvisoDeOrcamento itemId={id} />
       </div>
       <Botao
         aria-label={`Adicionar ${nome} ao dia`}

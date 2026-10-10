@@ -17,6 +17,7 @@ const NOME_DA_CATEGORIA: Record<CategoriaDeCusto, string> = {
   hospedagem: 'Hospedagem',
   'transporte-entre-cidades': 'Transporte entre cidades',
   'taxas-obrigatorias': 'Taxas obrigatorias',
+  'documentos-e-vistos': 'Documentos e vistos',
 };
 
 export function Orcamento() {
@@ -96,12 +97,15 @@ export function Orcamento() {
         <Cartao className="mb-6 flex gap-2 border-[var(--cor-erro-borda)] bg-[var(--cor-erro-fundo)] p-3 text-xs">
           <TriangleAlert className="mt-0.5 shrink-0 text-[var(--cor-erro)]" size={14} />
           <p>
-            Ate o melhor caso do planejado ja passa do seu teto. E ha{' '}
-            {orcamento.semPreco.length} item(ns) sem preco no banco, entao o real tende a ser
+            Ate o melhor caso do planejado ja passa do seu teto em{' '}
+            <strong>{formatarBRL(orcamento.total.min - (orcamento.orcado?.max ?? 0))}</strong>. E
+            ha {orcamento.semPreco.length} item(ns) sem preco no banco, entao o real tende a ser
             maior.
           </p>
         </Cartao>
       )}
+
+      <FolgaEPontoDeEstouro orcamento={orcamento} pessoas={pessoas} />
 
       <SecaoDoVoo />
 
@@ -391,6 +395,129 @@ function LancarGasto() {
  * meses de distancia e fotografia do dia. Por isso o botao escreve o PISO da
  * faixa e o campo ao lado espera a cotacao real.
  */
+/**
+ * Folga, as tres linhas mais caras e o ponto de estouro.
+ *
+ * Sem isto a tela mostrava "planejado R$ 11.624, teto R$ 12.000" e parava.
+ * Num teto apertado isso esconde o que decide a viagem: a folga e de R$ 376,
+ * uma unica linha vale R$ 3.850, e a faixa dessa linha e larga. A pergunta
+ * que o viajante faz nao e "quanto deu", e "se a passagem subir, ainda cabe".
+ */
+function FolgaEPontoDeEstouro({
+  orcamento,
+  pessoas,
+}: {
+  orcamento: NonNullable<ReturnType<typeof calcularOrcamento>>;
+  pessoas: number;
+}) {
+  if (!orcamento.orcado || !orcamento.folga) return null;
+
+  const { folga, pontoDeEstouro, maisCaras } = orcamento;
+  /* Folga no melhor caso. Negativa ja e tratada pelo cartao de estouro. */
+  const apertada = folga.max > 0 && folga.max < orcamento.orcado.max * 0.1;
+
+  return (
+    <Secao titulo="Folga e ponto de estouro">
+      <Cartao className="space-y-3 p-4">
+        <p className="text-sm">
+          Sobra{' '}
+          <strong
+            className={cn(
+              'tabular',
+              folga.max <= 0
+                ? 'text-[var(--cor-erro)]'
+                : apertada
+                  ? 'text-[var(--cor-atencao-forte)]'
+                  : 'text-[var(--cor-verificado)]',
+            )}
+          >
+            {formatarBRL(folga.max)}
+          </strong>{' '}
+          no melhor caso
+          {folga.min !== folga.max && (
+            <>
+              {' '}
+              e{' '}
+              <strong
+                className={cn(
+                  'tabular',
+                  folga.min <= 0 ? 'text-[var(--cor-erro)]' : 'text-[var(--cor-texto)]',
+                )}
+              >
+                {formatarBRL(folga.min)}
+              </strong>{' '}
+              no pior
+            </>
+          )}
+          {pessoas > 1 && (
+            <span className="text-[var(--cor-texto-suave)]">
+              {' '}
+              ({formatarBRL(folga.max / pessoas)} por pessoa no melhor caso)
+            </span>
+          )}
+          .
+        </p>
+
+        {pontoDeEstouro && (
+          <div className="rounded-[var(--raio)] bg-[var(--cor-fundo-afundado)] p-3 text-xs">
+            <p className="font-medium">Ponto de estouro: {pontoDeEstouro.rotulo}</p>
+            <p className="mt-1 leading-relaxed text-[var(--cor-texto-suave)]">
+              E a linha de faixa mais larga, ou seja, a mais incerta. Hoje esta em{' '}
+              <span className="tabular">{formatarFaixaBRL(pontoDeEstouro.atualBRL)}</span>.
+              {pontoDeEstouro.podeSubirBRL >= 0 ? (
+                <>
+                  {' '}
+                  Pode chegar a{' '}
+                  <strong className="tabular text-[var(--cor-texto)]">
+                    {formatarBRL(pontoDeEstouro.tetoDaLinhaBRL)}
+                  </strong>{' '}
+                  — mais{' '}
+                  <strong className="tabular">
+                    {formatarBRL(pontoDeEstouro.podeSubirBRL)}
+                  </strong>{' '}
+                  — antes de estourar o teto, com todo o resto no melhor caso.
+                </>
+              ) : (
+                <>
+                  {' '}
+                  Para caber no teto ela teria de cair para{' '}
+                  <strong className="tabular text-[var(--cor-erro)]">
+                    {formatarBRL(Math.max(0, pontoDeEstouro.tetoDaLinhaBRL))}
+                  </strong>
+                  .
+                </>
+              )}
+            </p>
+          </div>
+        )}
+
+        {maisCaras.length > 0 && (
+          <div>
+            <p className="mb-1.5 text-xs font-medium">As tres linhas mais caras</p>
+            <ol className="space-y-1 text-xs">
+              {maisCaras.map((l, i) => (
+                <li
+                  className="flex items-baseline justify-between gap-3"
+                  key={`${l.rotulo}-${l.categoria}-${i}`}
+                >
+                  <span className="min-w-0 truncate">
+                    {i + 1}. {l.rotulo}
+                    <span className="text-[var(--cor-texto-fraco)]">
+                      {' '}
+                      · {NOME_DA_CATEGORIA[l.categoria]}
+                    </span>
+                  </span>
+                  <span className="tabular shrink-0">{formatarFaixaBRL(l.faixaBRL)}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        )}
+      </Cartao>
+    </Secao>
+  );
+}
+
 function SecaoDoVoo() {
   const viagem = usarViagem();
   const pacote = usarPacote();
