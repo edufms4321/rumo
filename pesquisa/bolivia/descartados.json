@@ -2,7 +2,8 @@
  "geradoEm": "2026-10-10",
  "avisos": [
   "destino.seguranca.appsDeTransporte: a pesquisa gravou texto onde o schema espera lista; entrou como um item so",
-  "sem pesquisa/_divisoes/divisoes.json utilizavel: o pacote fica com um nivel de regiao so, e as cidades sem estado",
+  "divisoes: macrorregiao undefined usada por um estado mas nao declarada (ou sem fonte)",
+  "divisoes: nenhuma macrorregiao declarada; a arvore fica em pais > estado > cidade",
   "trecho \"Rurrenabaque -> San Buenaventura / Rio Beni (lancha)\" nao mapeou para bases conhecidas: descartado",
   "trecho \"La Paz -> Oruro\" nao mapeou para bases conhecidas: descartado",
   "trecho \"Oruro -> Uyuni\" nao mapeou para bases conhecidas: descartado",

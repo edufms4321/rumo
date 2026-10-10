@@ -158,7 +158,10 @@ export function validarPacote(bruto: unknown): {
 
   // --- estados ---
   for (const estado of p.estados) {
-    if (!idsDeRegiao.has(estado.regiaoId)) {
+    // Sem regiao e legitimo: pais cuja macrorregiao nao particiona estados
+    // (ver o comentario de `Estado.regiaoId`). Regiao APONTADA e inexistente
+    // continua erro, porque ai a arvore aponta para o vazio.
+    if (estado.regiaoId !== undefined && !idsDeRegiao.has(estado.regiaoId)) {
       problemas.push({
         nivel: 'erro',
         caminho: `estados.${estado.id}.regiaoId`,
@@ -169,12 +172,21 @@ export function validarPacote(bruto: unknown): {
 
   // --- cidades ---
   for (const cidade of p.cidades) {
+    /*
+      So avisa quando o pacote TEM macrorregioes e esta cidade ficou fora de
+      todas. Num pacote que de proposito nao tem esse nivel, o aviso era uma
+      linha por cidade dizendo que falta algo que nao deveria existir — doze
+      avisos falsos na Bolivia, que e exatamente o ruido que faz ninguem ler
+      a saida do validador.
+    */
     if (cidade.regiaoId === undefined) {
-      problemas.push({
-        nivel: 'aviso',
-        caminho: `cidades.${cidade.id}.regiaoId`,
-        mensagem: 'sem macrorregiao: a arvore de lugares fica em pais > cidade',
-      });
+      if (p.regioes.length > 0) {
+        problemas.push({
+          nivel: 'aviso',
+          caminho: `cidades.${cidade.id}.regiaoId`,
+          mensagem: 'sem macrorregiao, num pacote que tem macrorregioes: fica fora da arvore',
+        });
+      }
     } else if (!idsDeRegiao.has(cidade.regiaoId)) {
       problemas.push({
         nivel: 'erro',

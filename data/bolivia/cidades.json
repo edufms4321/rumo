@@ -33,6 +33,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "La Paz",
+    "estadoId": "la-paz",
     "zonaId": "altiplano",
     "coords": {
       "lat": -16.49555,
@@ -314,6 +315,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Copacabana",
+    "estadoId": "la-paz",
     "zonaId": "titicaca",
     "coords": {
       "lat": -16.16573,
@@ -625,6 +627,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Coroico",
+    "estadoId": "la-paz",
     "zonaId": "yungas",
     "coords": {
       "lat": -16.1886,
@@ -998,6 +1001,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Rurrenabaque",
+    "estadoId": "beni",
     "zonaId": "amazonia",
     "coords": {
       "lat": -14.44366,
@@ -1416,6 +1420,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Uyuni",
+    "estadoId": "potosi",
     "zonaId": "salar-e-sul",
     "coords": {
       "lat": -20.46284,
@@ -1800,6 +1805,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Tupiza",
+    "estadoId": "potosi",
     "zonaId": "salar-e-sul",
     "coords": {
       "lat": -21.44377,
@@ -2181,6 +2187,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Potosi",
+    "estadoId": "potosi",
     "zonaId": "cidades-coloniais",
     "coords": {
       "lat": -19.58929,
@@ -2484,6 +2491,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Sucre",
+    "estadoId": "chuquisaca",
     "zonaId": "cidades-coloniais",
     "coords": {
       "lat": -19.04773,
@@ -2795,6 +2803,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Cochabamba",
+    "estadoId": "cochabamba",
     "zonaId": "vales",
     "coords": {
       "lat": -17.40125,
@@ -3097,6 +3106,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Torotoro",
+    "estadoId": "potosi",
     "zonaId": "vales",
     "coords": {
       "lat": -18.13338,
@@ -3437,6 +3447,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Santa Cruz de la Sierra",
+    "estadoId": "santa-cruz",
     "zonaId": "oriente",
     "coords": {
       "lat": -17.78342,
@@ -3784,6 +3795,7 @@
     "coletadoEm": "2026-10-08",
     "confianca": "parcial",
     "nome": "Samaipata",
+    "estadoId": "santa-cruz",
     "zonaId": "oriente",
     "coords": {
       "lat": -18.17967,

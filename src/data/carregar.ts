@@ -62,6 +62,8 @@ export interface IndiceDeDestino {
   grupos?: Array<{ grupo: string; n: number }>;
   /** Regiao > estado > cidade. Vazia quando a divisao nao foi pesquisada. */
   arvore?: RegiaoNoIndice[];
+  /** Estados fora de qualquer macrorregiao: penduram direto no pais. */
+  estadosSemRegiao?: EstadoNoIndice[];
 }
 
 const indicesCrus = import.meta.glob('../../data/*/indice.json', {

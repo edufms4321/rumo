@@ -200,8 +200,12 @@ export function Inicio() {
                       <Selo tom="estimado">{d.confianca.estimado} estimado</Selo>
                     </div>
 
-                    {d.arvore && d.arvore.length > 0 ? (
-                      <ArvoreDeLugares arvore={d.arvore} />
+                    {(d.arvore && d.arvore.length > 0) ||
+                    (d.estadosSemRegiao && d.estadosSemRegiao.length > 0) ? (
+                      <ArvoreDeLugares
+                        arvore={d.arvore ?? []}
+                        estadosSemRegiao={d.estadosSemRegiao ?? []}
+                      />
                     ) : (
                       <p className="mt-2 text-2xs text-[var(--cor-estimado)]">
                         Divisao por estado ainda nao pesquisada neste pacote.

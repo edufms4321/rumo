@@ -333,3 +333,15 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Decisão:** `diasAntesDaViagem` de um documento de entrada só é preenchido quando alguma fonte diz a antecedência. Sem fonte, o documento aparece sem contagem regressiva, com o prazo em palavras quando houver.
 
 **Por quê:** dei 90 dias ao passaporte do México por parecer razoável. A fila de reservas então abriu com **"Passaporte válido — prazo vencido"** numa viagem a 44 dias de distância, porque 90 dias atrás já passou. Número que eu invento não é só impreciso: ele produz alarme falso, e alarme falso no topo da fila gasta a confiança de todos os avisos verdadeiros abaixo dele. É a regra de honestidade de dados aplicada ao meu próprio chute.
+
+## D42 — A macrorregião é um nível opcional da árvore
+
+**Decisão:** `Estado.regiaoId` é opcional. Um pacote cujo país não tem divisão oficial que **particione** os estados fica com a árvore `país > estado > cidade`, e a tela inicial pendura os estados direto no país, sem nível intermediário.
+
+**Por quê:** a Bolívia forçou isso. Altiplano, valles e llanos são atestados, com percentual de área atribuído ao INE, mas **não particionam departamento nenhum** — La Paz sozinho tem altiplano, yungas e Amazônia, e nenhuma fonte oficial atribui departamento a região. Antes, o conversor exigia regiões **e** estados para montar a árvore, então os nove departamentos ficavam escondidos por falta do nível de cima, e a tela dizia "divisão por estado ainda não pesquisada" sobre um dado que eu tinha.
+
+**As duas alternativas que recusei:** escolher uma região por departamento seria eu decidindo uma divisão que o país não faz; e gravar uma região por departamento, só para satisfazer a forma da árvore, poria dado falso em `/data` para resolver um problema de layout.
+
+**É a mesma regra da zona turística, um nível acima:** região que não particiona o mapa não vira nível de árvore. Lá ela virou etiqueta na cidade; aqui, simplesmente não existe.
+
+**Consequência no validador:** estado sem `regiaoId` deixou de ser erro, e cidade sem `regiaoId` só gera aviso quando o pacote **tem** macrorregiões. Antes eram doze avisos falsos na Bolívia dizendo que faltava algo que não deveria existir — o tipo de ruído que faz ninguém ler a saída do validador.

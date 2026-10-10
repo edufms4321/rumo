@@ -10,7 +10,7 @@
     "cidades": 12,
     "trechos": 29,
     "eventos": 10,
-    "estados": 0,
+    "estados": 6,
     "regioes": 0
   },
   "confianca": {
@@ -58,6 +58,134 @@
     {
       "grupo": "referencia",
       "n": 2
+    }
+  ],
+  "estadosSemRegiao": [
+    {
+      "id": "chuquisaca",
+      "nome": "Chuquisaca",
+      "sigla": "BO-H",
+      "tipo": "departamento",
+      "descricaoCurta": "Sucre, capital constitucional, a 2.798 m, e o Parque Cretacico; Tarabuco e o Pujllay.",
+      "cidades": [
+        {
+          "id": "sucre",
+          "nome": "Sucre",
+          "zona": "Cidades da prata",
+          "itens": 19
+        }
+      ]
+    },
+    {
+      "id": "cochabamba",
+      "nome": "Cochabamba",
+      "sigla": "BO-C",
+      "tipo": "departamento",
+      "descricaoCurta": "O vale a 2.552 m: o Cristo de la Concordia, a Cancha e a rota do silpancho.",
+      "cidades": [
+        {
+          "id": "cochabamba",
+          "nome": "Cochabamba",
+          "zona": "Vales de Cochabamba",
+          "itens": 14
+        }
+      ]
+    },
+    {
+      "id": "beni",
+      "nome": "El Beni",
+      "sigla": "BO-B",
+      "tipo": "departamento",
+      "descricaoCurta": "Llanos amazonicos a 200 m: Rurrenabaque, porta do Madidi e das pampas do Yacuma.",
+      "cidades": [
+        {
+          "id": "rurrenabaque",
+          "nome": "Rurrenabaque",
+          "zona": "Amazonia boliviana",
+          "itens": 17
+        }
+      ]
+    },
+    {
+      "id": "la-paz",
+      "nome": "La Paz",
+      "sigla": "BO-L",
+      "tipo": "departamento",
+      "descricaoCurta": "Do altiplano a 3.600 m ate a Amazonia: La Paz e El Alto, o Titicaca em Copacabana e os Yungas em Coroico.",
+      "cidades": [
+        {
+          "id": "la-paz",
+          "nome": "La Paz",
+          "zona": "Altiplano",
+          "itens": 36
+        },
+        {
+          "id": "copacabana",
+          "nome": "Copacabana",
+          "zona": "Lago Titicaca",
+          "itens": 18
+        },
+        {
+          "id": "coroico",
+          "nome": "Coroico",
+          "zona": "Yungas",
+          "itens": 12
+        }
+      ]
+    },
+    {
+      "id": "potosi",
+      "nome": "Potosi",
+      "sigla": "BO-P",
+      "tipo": "departamento",
+      "descricaoCurta": "O Salar de Uyuni, as lagunas do sul, a cidade de Potosi a quase 4.000 m, Tupiza e o canion de Torotoro.",
+      "cidades": [
+        {
+          "id": "uyuni",
+          "nome": "Uyuni",
+          "zona": "Salar de Uyuni e o sul",
+          "itens": 23
+        },
+        {
+          "id": "tupiza",
+          "nome": "Tupiza",
+          "zona": "Salar de Uyuni e o sul",
+          "itens": 11
+        },
+        {
+          "id": "potosi",
+          "nome": "Potosi",
+          "zona": "Cidades da prata",
+          "itens": 15
+        },
+        {
+          "id": "torotoro",
+          "nome": "Torotoro",
+          "zona": "Vales de Cochabamba",
+          "itens": 10
+        }
+      ]
+    },
+    {
+      "id": "santa-cruz",
+      "nome": "Santa Cruz",
+      "sigla": "BO-S",
+      "tipo": "departamento",
+      "descricaoCurta": "Terras baixas a 422 m: Santa Cruz de la Sierra, maior cidade do pais, e Samaipata com El Fuerte.",
+      "cidades": [
+        {
+          "id": "santa-cruz",
+          "nome": "Santa Cruz de la Sierra",
+          "zona": "Oriente e Chiquitania",
+          "itens": 17
+        },
+        {
+          "id": "samaipata",
+          "nome": "Samaipata",
+          "zona": "Oriente e Chiquitania",
+          "itens": 14
+        }
+      ]
     }
   ],
   "arvore": []

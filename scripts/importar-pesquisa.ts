@@ -268,7 +268,13 @@ function main(): void {
     a antes. Nunca grava arvore pela metade.
   */
   const divisoes = lerDivisoes(config.id, Object.keys(config.regiaoDaCidade));
-  const arvoreCompleta = Boolean(divisoes && divisoes.estados.length > 0 && divisoes.regioes.length > 0);
+  /*
+    Basta ter ESTADO. A macrorregiao e opcional: nem todo pais tem divisao
+    oficial que particione os estados — ver o comentario de `Estado.regiaoId`.
+    Exigir as duas escondia os nove departamentos da Bolivia por falta do
+    nivel de cima, e o nivel que o usuario usa de verdade e o departamento.
+  */
+  const arvoreCompleta = Boolean(divisoes && divisoes.estados.length > 0);
   if (divisoes) for (const a of divisoes.avisos) avisos.push(a);
   if (!arvoreCompleta) {
     avisos.push(
@@ -361,6 +367,26 @@ function main(): void {
     },
     confianca: porConfianca,
     grupos: contarPorGrupo(todosOsItens),
+    /* Estados fora de qualquer macrorregiao: a arvore os pendura direto no
+       pais, sem inventar um nivel intermediario. */
+    estadosSemRegiao: estadosDoIndice
+      .filter((e: Json) => !e.regiaoId)
+      .map((e: Json) => ({
+        id: String(e.id),
+        nome: String(e.nome),
+        sigla: String(e.sigla),
+        tipo: String(e.tipo),
+        descricaoCurta: String(e.descricaoCurta),
+        cidades: cidades
+          .filter((c) => c.estadoId === e.id)
+          .map((c) => ({
+            id: String(c.id),
+            nome: String(c.nome),
+            ...(c.zonaId ? { zona: zonas.find((z) => z.id === c.zonaId)?.nome ?? '' } : {}),
+            itens: todosOsItens.filter((i) => i.cidadeId === c.id).length,
+          })),
+      }))
+      .sort((a: { nome: string }, b: { nome: string }) => a.nome.localeCompare(b.nome)),
     arvore: regioesDoIndice.map((r: Json) => ({
       id: String(r.id),
       nome: String(r.nome),

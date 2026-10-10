@@ -67,8 +67,20 @@ function Estado({ estado }: { estado: EstadoNoIndice }) {
   );
 }
 
-export function ArvoreDeLugares({ arvore }: { arvore: RegiaoNoIndice[] }) {
-  if (arvore.length === 0) return null;
+export function ArvoreDeLugares({
+  arvore,
+  estadosSemRegiao = [],
+}: {
+  arvore: RegiaoNoIndice[];
+  /**
+   * Estados que nao pertencem a macrorregiao nenhuma. Penduram direto no
+   * pais: a Bolivia tem nove departamentos e nenhuma divisao oficial que os
+   * particione, e inventar o nivel de cima para preencher a arvore seria eu
+   * decidindo uma divisao que o pais nao faz.
+   */
+  estadosSemRegiao?: EstadoNoIndice[];
+}) {
+  if (arvore.length === 0 && estadosSemRegiao.length === 0) return null;
 
   /*
     Quando toda regiao tem um estado so, a regiao nao agrupa nada - ela so
@@ -82,8 +94,7 @@ export function ArvoreDeLugares({ arvore }: { arvore: RegiaoNoIndice[] }) {
   if (!regiaoAgrupa) {
     return (
       <ul className="mt-3 space-y-0.5 rounded-[var(--raio)] bg-[var(--cor-fundo-afundado)] px-2.5 py-2">
-        {arvore
-          .flatMap((r) => r.estados)
+        {[...arvore.flatMap((r) => r.estados), ...estadosSemRegiao]
           .sort((a, b) => a.nome.localeCompare(b.nome))
           .map((estado) => (
             <li key={estado.id}>
@@ -96,6 +107,14 @@ export function ArvoreDeLugares({ arvore }: { arvore: RegiaoNoIndice[] }) {
 
   return (
     <ul className="mt-3 space-y-1.5">
+      {estadosSemRegiao.map((estado) => (
+        <li
+          className="rounded-[var(--raio)] bg-[var(--cor-fundo-afundado)] px-2.5 py-1.5"
+          key={estado.id}
+        >
+          <Estado estado={estado} />
+        </li>
+      ))}
       {arvore.map((regiao) => {
         const bases = regiao.estados.reduce((n, e) => n + e.cidades.length, 0);
         return (

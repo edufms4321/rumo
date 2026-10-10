@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "la-paz",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "O departamento atravessa as tres regioes geograficas da Bolivia (altiplano, yungas e llanos amazonicos) — e a razao pela qual este pacote nao tem nivel de macrorregiao.",
+    "nome": "La Paz",
+    "sigla": "BO-L",
+    "tipo": "departamento",
+    "capital": "La Paz",
+    "descricaoCurta": "Do altiplano a 3.600 m ate a Amazonia: La Paz e El Alto, o Titicaca em Copacabana e os Yungas em Coroico."
+  },
+  {
+    "id": "beni",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Nome oficial com artigo, \"El Beni\", como na tabela ISO 3166-2. Rurrenabaque confirmado em General Jose Ballivian Segurola, Beni, pela resposta do Nominatim.",
+    "nome": "El Beni",
+    "sigla": "BO-B",
+    "tipo": "departamento",
+    "capital": "Trinidad",
+    "descricaoCurta": "Llanos amazonicos a 200 m: Rurrenabaque, porta do Madidi e das pampas do Yacuma."
+  },
+  {
+    "id": "potosi",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "Torotoro e de POTOSI (Provincia Charcas), nao de Cochabamba, embora se chegue la de Cochabamba em 4h30 — confirmado pelo Nominatim. A zona turistica do pacote diz \"vales\", que e a verdade geografica.",
+    "nome": "Potosi",
+    "sigla": "BO-P",
+    "tipo": "departamento",
+    "capital": "Potosi",
+    "descricaoCurta": "O Salar de Uyuni, as lagunas do sul, a cidade de Potosi a quase 4.000 m, Tupiza e o canion de Torotoro."
+  },
+  {
+    "id": "chuquisaca",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Chuquisaca",
+    "sigla": "BO-H",
+    "tipo": "departamento",
+    "capital": "Sucre",
+    "descricaoCurta": "Sucre, capital constitucional, a 2.798 m, e o Parque Cretacico; Tarabuco e o Pujllay."
+  },
+  {
+    "id": "cochabamba",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "observacaoDeConfianca": "A 2.552 m, cabe na regra do CDC de nao dormir acima de 2.750 m vindo do nivel do mar — e por isso o voo direto GRU-CBB e alternativa a chegar por La Paz.",
+    "nome": "Cochabamba",
+    "sigla": "BO-C",
+    "tipo": "departamento",
+    "capital": "Cochabamba",
+    "descricaoCurta": "O vale a 2.552 m: o Cristo de la Concordia, a Cancha e a rota do silpancho."
+  },
+  {
+    "id": "santa-cruz",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Departments_of_Bolivia"
+      },
+      {
+        "url": "https://nominatim.openstreetmap.org/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Santa Cruz",
+    "sigla": "BO-S",
+    "tipo": "departamento",
+    "capital": "Santa Cruz de la Sierra",
+    "descricaoCurta": "Terras baixas a 422 m: Santa Cruz de la Sierra, maior cidade do pais, e Samaipata com El Fuerte."
+  }
+]

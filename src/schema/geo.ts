@@ -52,7 +52,21 @@ export const Estado = BaseRecord.extend({
   sigla: z.string().min(1).max(10),
   /** O nome que o pais da a este nivel, para a interface nao chamar tudo de estado. */
   tipo: z.enum(['estado', 'departamento', 'provincia', 'distrito', 'arquipelago']),
-  regiaoId: Slug,
+  /**
+   * Macrorregiao, quando o pais tem uma divisao oficial que PARTICIONA os
+   * estados. Opcional porque varios nao tem.
+   *
+   * A Bolivia e o caso que forcou isto: altiplano, valles e llanos sao
+   * atestados e com percentual de area do INE, mas nao particionam
+   * departamento nenhum — La Paz sozinho tem altiplano, yungas e Amazonia, e
+   * nenhuma fonte oficial atribui departamento a regiao. Escolher uma por
+   * departamento seria eu decidindo uma divisao que o pais nao faz; e
+   * esconder os nove departamentos por falta do nivel de cima seria jogar
+   * fora o nivel que o usuario realmente usa (Potosi, Santa Cruz).
+   *
+   * Ausente = a arvore do pacote e pais > estado > cidade.
+   */
+  regiaoId: Slug.optional(),
   /** Capital, quando ajuda a situar. Nao e necessariamente base da viagem. */
   capital: z.string().optional(),
   descricaoCurta: z.string().min(1),

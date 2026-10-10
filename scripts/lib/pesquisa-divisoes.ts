@@ -96,7 +96,7 @@ export function lerDivisoes(destinoId: string, bases: string[]): Divisoes | unde
       */
       sigla: String(e.sigla ?? id).slice(0, 10),
       tipo,
-      regiaoId: String(e.regiaoId ?? ''),
+      ...(e.regiaoId ? { regiaoId: String(e.regiaoId) } : {}),
       ...(e.capital ? { capital: String(e.capital) } : {}),
       descricaoCurta: String(e.descricaoCurta ?? `${e.nome ?? id}.`),
     });
@@ -132,10 +132,15 @@ export function lerDivisoes(destinoId: string, bases: string[]): Divisoes | unde
     }
   }
 
-  // Sem regiao ou sem estado o conversor nao consegue montar a arvore: o
-  // chamador cai no comportamento antigo em vez de gravar banco meio feito.
-  if (estados.length === 0 || regioes.length === 0) {
-    return { regioes, estados, estadoDaCidade, regiaoDaCidade, avisos };
+  /*
+    Basta ter estado. A macrorregiao e opcional porque nem todo pais tem uma
+    divisao oficial que particione os estados (ver `Estado.regiaoId`): sem
+    ela a arvore fica pais > estado > cidade, que e completa e verdadeira.
+  */
+  if (estados.length > 0 && regioes.length === 0) {
+    avisos.push(
+      'divisoes: nenhuma macrorregiao declarada; a arvore fica em pais > estado > cidade',
+    );
   }
   return { regioes, estados, estadoDaCidade, regiaoDaCidade, avisos };
 }
