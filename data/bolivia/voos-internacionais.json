@@ -1,0 +1,140 @@
+[
+  {
+    "id": "gru-vvi",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+      },
+      {
+        "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "GRU",
+    "destinoIata": "VVI",
+    "cias": [
+      "Gol Linhas Aereas",
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "escalas": "DIRETO, SEM ESCALA. E O UNICO CORREDOR DIRETO ENTRE O BRASIL E A BOLIVIA QUE APARECE EM TODAS AS FONTES - e e por aqui que o pacote deve comecar. Santa Cruz fica a 373 m de altitude, ou seja, voce entra no pais SEM subir de altitude, o que resolve de graca metade do problema de aclimatacao. A Wikipedia lista, na tabela de companhias e destinos do Viru Viru, a Gol para Sao Paulo-Guarulhos e a BoA para Sao Paulo-Guarulhos e Rio de Janeiro-Galeao.",
+    "duracaoTotalMin": 177,
+    "frequencia": "BoA: DOIS VOOS DIARIOS saindo de Guarulhos, 14 ligacoes semanais, pela malha que entrou em vigor em 03/06/2026 - antes eram nove voos semanais. Grade publicada pela Melhores Destinos em 25/05/2026: Sao Paulo 14:00 -> Santa Cruz 15:50, todos os dias EXCETO quinta e sabado; Santa Cruz 09:05 -> Sao Paulo 12:50, DIARIO; Santa Cruz 13:40 -> Sao Paulo 17:25, todos os dias exceto terca; Santa Cruz 18:35 -> Sao Paulo 20:25, todos os dias exceto terca. Aeronave Boeing 737-800 com cerca de 170 assentos. O aumento veio de um acordo aereo fechado no fim de marco de 2026 entre Brasil e Bolivia, que liberou as companhias para definir a quantidade de voos. GOL: frequencia ATUAL NAO CONFIRMADA em fonte aberta nesta sessao. O que existe e o anuncio de 2022, quando a rota comecou com quatro voos semanais e subiu para cinco em agosto daquele ano (segundas, quartas, quintas, sextas e domingos) - DADO VELHO, nao use. O Kayak, lido hoje, confirma que a Gol opera o nonstop e e quem tem as tarifas mais baratas na rota. ATENCAO: a grade da BoA acima e de 25/05/2026 e vale 'a partir de 3 de junho'. Nao achei confirmacao de que ela segue igual em outubro de 2026. Confirme no site da companhia.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1151,
+      "max": 1920,
+      "por": "pessoa",
+      "inclui": "ida-e-volta, faixa tipica",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+        },
+        {
+          "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+        }
+      ],
+      "observacao": "Faixa de trabalho em economica: o Kayak estampa 'Precos tipicos: R$ 1.151-R$ 1.920' para ida e volta GRU-VVI. PONTOS REAIS COLETADOS HOJE no Kayak: ida e volta mais barata R$ 888 na GOL, nonstop, para 19/10 a 28/10 (a pagina diz que foi o menor preco dos ultimos 5 dias); GOL R$ 908 para 10/11 a 24/11; BoA R$ 1.450 para 19/11 a 24/11; Avianca R$ 2.935 com escala em Bogota. SO IDA: mais barata R$ 381 na GOL, nonstop, para sabado 17/11, encontrada 'nas ultimas 72 horas' por usuario do Kayak; faixa tipica so ida R$ 625-R$ 1.192; BoA R$ 622 para domingo 18/10. PRECO DE VOO E FOTOGRAFIA DO DIA 09/10"
+    },
+    "linkDeBusca": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "gig-vvi",
+    "fontes": [
+      {
+        "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "GIG",
+    "destinoIata": "VVI",
+    "cias": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "escalas": "DIRETO, SEM ESCALA. Rota aberta em dezembro de 2025, inicialmente com dois voos semanais (segundas e sabados) em Boeing 737-800.",
+    "duracaoTotalMin": 245,
+    "frequencia": "TRES VEZES POR SEMANA a partir de 03/06/2026 - quarta, sexta e domingo. Grade publicada pela Melhores Destinos em 25/05/2026: Santa Cruz 08:25 -> Rio 12:30 e Rio 13:20 -> Santa Cruz 15:25, nos mesmos dias. Aeronave Boeing 737-800. Antes eram duas frequencias semanais. NAO CONFIRMADO para outubro de 2026.",
+    "linkDeBusca": "https://www.kayak.com.br/voos/Rio-de-Janeiro-RIO/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "gru-cbb",
+    "fontes": [
+      {
+        "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "GRU",
+    "destinoIata": "CBB",
+    "cias": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "escalas": "DIRETO, SEM ESCALA, DUAS VEZES POR SEMANA. E o segundo ponto de entrada direto do Brasil na Bolivia e quase ninguem sabe que existe.",
+    "duracaoTotalMin": 130,
+    "frequencia": "DUAS VEZES POR SEMANA, quinta e sabado, pela grade da BoA valida a partir de 03/06/2026 publicada pela Melhores Destinos em 25/05/2026: Sao Paulo 14:00 -> Cochabamba 16:10. A materia nao publica o horario do voo de volta Cochabamba -> Sao Paulo. Aeronave Boeing 737-800. NAO CONFIRMADO para outubro de 2026.",
+    "linkDeBusca": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/Cochabamba-CBB",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  },
+  {
+    "id": "gru-lpb",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/La-Paz-LPB"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      },
+      {
+        "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "origemIata": "GRU",
+    "destinoIata": "LPB",
+    "cias": [
+      "Boliviana de Aviacion (BoA)",
+      "Avianca",
+      "LATAM"
+    ],
+    "escalas": "NAO EXISTE VOO DIRETO DO BRASIL PARA LA PAZ. O Kayak e explicito: 'Atualmente nao ha voos diretos entre Sao Paulo e La Paz'. A tabela de companhias e destinos do El Alto na Wikipedia confirma por outro caminho: NENHUM destino brasileiro aparece na lista do aeroporto de La Paz. POR QUE? A propria Wikipedia explica: 'Because of the thin high altitude air, most commercial wide-body aircraft' - como o Boeing 747 e o Airbus A330 - nao conseguem operar com carga cheia a 4.061 m, e por isso o trafego internacional da Bolivia se concentra em Viru Viru, que esta muito mais baixo. A altitude de El Alto NAO e curiosidade: ela e a razao pela qual seu voo tem escala. COMO SE FAZ: escala em SANTA CRUZ (VVI) e o caminho normal - o Kayak diz que VVI concentra 95% das idas e voltas com uma parada. Outras conexoes listadas: Cochabamba, Bogota (BOG), Cusco, Lima (LIM) e Santiago do Chile (SCL); alguns itinerarios ainda conectam por Brasilia e Belem.",
+    "duracaoTotalMin": 374,
+    "frequencia": "Frequencia nao e o conceito util aqui: a conexao se monta sobre a malha GRU-VVI (14 voos semanais da BoA mais a Gol) somada a malha VVI-LPB (56 voos semanais da BoA, 12 da EcoJet e 2 da LATAM, pelo Kayak). Na pratica ha opcao todos os dias, varias vezes por dia.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 1838,
+      "max": 2569,
+      "por": "pessoa",
+      "inclui": "ida-e-volta, faixa tipica",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/La-Paz-LPB"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+        },
+        {
+          "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+        }
+      ],
+      "observacao": "Kayak, lido em 09/10/2026: faixa tipica de ida e volta R$ 1.838-R$ 2.569. Ida e volta mais barata encontrada R$ 1.600 na BoA, com DUAS escalas. So ida: faixa tipica R$ 889-R$ 1.571 e mais barata R$ 692 na BoA, tambem com duas escalas. COMPARE COM GRU-VVI (faixa tipica R$ 1.151-1.920, mais barata R$ 888): voar ate Santa Cruz e seguir por conta propria pode sair MAIS BARATO e e melhor para a altitude. PRECO E FOTOGRAFIA DE 09/10/2026."
+    },
+    "linkDeBusca": "https://www.kayak.com.br/voos/Sao-Paulo-SAO/La-Paz-LPB",
+    "observacoes": "Preco de voo e fotografia do dia da coleta. A viagem e no mes seguinte, entao a faixa e util, mas confira no link de busca antes de comprar."
+  }
+]

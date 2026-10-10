@@ -1,0 +1,296 @@
+[
+  {
+    "id": "lpb",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      },
+      {
+        "url": "https://naabol.gob.bo/aeropuerto-internacional-el-alto/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "LPB",
+    "nome": "Aeropuerto Internacional El Alto",
+    "cidadeNome": "La Paz / El Alto",
+    "coords": {
+      "lat": -16.510272,
+      "lng": -68.189416
+    },
+    "observacoes": "0 = SEM FONTE (convencao deste arquivo), nunca zero de verdade. ESTE E O CAMPO MAIS IMPORTANTE DE TODA A SECAO DE AEROPORTOS, ENTAO LEIA INTEIRO. ALTITUDE: 4.061,5 metros (13.325 pes) pela Wikipedia, que o chama de 'the highest international airport in the world' e de 'the seventh highest commercial airport in the world', alem de 'highest commercial airport outside of China'. DIVERGENCIA DE FONTE, registrada sem correcao: a base OurAirports da 13.355 pes (cerca de 4.070 m) e a caixa climatica da Wikipedia para a estacao do aeroporto usa 4.058 m. Os tres numeros ficam entre 4.058 e 4.071 m - a diferenca nao muda nada na pratica, mas nao vou escolher um e esconder os outros. O QUE A ALTITUDE SIGNIFICA PARA QUEM CHEGA, E ISSO E O ASSUNTO: voce sai de uma cabine pressurizada e pisa, sem transicao, numa altitude maior que a do pico do Monte Branco de teleferico. Se voce veio do nivel do mar, subiu mais de 4.000 metros em poucas horas - o CDC diz, textualmente, 'Avoid traveling from a low elevation to an elevation higher than 9,000 feet (2,750 m) above sea level in one day', e El Alto esta 1.300 m acima desse limite. Dor de cabeca, falta de ar ao subir uma rampa, insonia e falta de apetite na primeira noite nao sao doenca, sao a regra. O que muda o seu primeiro dia: nao marque nada, nao beba alcool, nao carregue mala em escada, beba agua. DETALHE QUE TRANQUILIZA: a cidade de LA PAZ esta 400 metros ABAIXO do aeroporto - El Alto fica na borda do altiplano a 4.061 m e La Paz esta no fundo do canion a cerca de 3.640 m. Ou seja, descer do aeroporto para o hotel JA E aclimatacao. Quem se hospedar na Zona Sul (Calacoto, San Miguel), ainda mais baixa, dorme melhor. O QUE A ALTITUDE FAZ COM OS AVIOES: a Wikipedia explica que 'Because of the thin high altitude air, most commercial wide-body aircraft' como o Boeing 747 e o Airbus A330 nao conseguem operar com carga cheia aqui, e que por isso o trafego internacional da Bolivia se concentra em Viru Viru, muito mais baixo. E A RAZAO TE"
+  },
+  {
+    "id": "vvi",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "VVI",
+    "nome": "Aeropuerto Internacional Viru Viru",
+    "cidadeNome": "Santa Cruz de la Sierra",
+    "coords": {
+      "lat": -17.6448,
+      "lng": -63.135399
+    },
+    "observacoes": "0 = SEM FONTE. E A PORTA DE ENTRADA DO BRASIL NA BOLIVIA - e a boa noticia e que ela esta a 373 metros de altitude, ou seja, voce chega sem nenhum risco de mal de altitude. Para um pacote em que metade das bases passa de 3.600 m, entrar por aqui e a decisao mais inteligente do roteiro. DADOS: 373 m (1.225 pes) de elevacao; 17 km (11 milhas) ao NORTE da cidade de Santa Cruz; pista 16/34 de 11.483 pes (3.500 m), concreto; 4.116.329 passageiros em 2023, 'making it the busiest airport in Bolivia' (Wikipedia). A base OurAirports da 1.224 pes de elevacao, praticamente o mesmo numero. TEMPO ATE O CENTRO: NAO PUBLICADO - fica 0. Sao 17 km de rodovia, mas nenhuma fonte aberta publica o tempo, e o transito de Santa Cruz nos aneis viarios e variavel. NAABOL: achados e perdidos 3385000, interno 3255. A NAABOL menciona pagamento por QR do pedagio de Viru Viru, sem estampar o valor. Wi-fi gratuito. COMPANHIAS E DESTINOS (Wikipedia, 09/10/2026): Aerolineas Argentinas (Buenos Aires-Aeroparque), Air Europa (Madri), Avianca (Bogota), BoA (Assuncao, Buenos Aires-Ezeiza, Cochabamba, Iquique, La Paz, Lima, Madri, Miami, Oruro, Cidade do Panama-Tocumen, RIO DE JANEIRO-GALEAO, Santiago do Chile, Sucre, Tarija, Trinidad; sazonais Barcelona e Washington-Dulles), Copa (Panama), EcoJet (Cobija, Guayaramerin, Riberalta, Sucre, Tarija, Trinidad), GOL (SAO PAULO-GUARULHOS), LATAM Chile (Santiago), LATAM Peru (Lima), Paranair (Assuncao) e TAMep (Cochabamba, La Paz). FUMACA, E ISSO E RISCO REAL DE AGOSTO A SETEMBRO: em 07/09/2024 as decolagens e pousos em Viru Viru foram suspensos por baixa visibilidade causada pela fumaca das queimadas, so voltando as 8:00 do dia seguinte; Alcantari (Sucre) parou por cinco horas na mesma manha de domingo, e Riberalta, Guayaramerin, Rurrenabaque, Trinidad e Cobija pararam completamente, com visibilidade de 100 metros em alguns casos. A Cirium contou 36 voos e mais de 3.500 passageiros afetados (Aviacionline, 09/09/2024). Se o seu voo internacional de volta sai em "
+  },
+  {
+    "id": "uyu",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      },
+      {
+        "url": "https://ferroviaria-andina.com.bo/Ferrobus"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "UYU",
+    "nome": "Aeropuerto Internacional Joya Andina",
+    "cidadeNome": "Uyuni",
+    "coords": {
+      "lat": -20.441304,
+      "lng": -66.857553
+    },
+    "observacoes": "0 = SEM FONTE. ATENCAO A UMA DIVERGENCIA DE ALTITUDE QUE EU NAO CONSIGO RESOLVER: a base OurAirports lista 11.136 pes para o Joya Andina, o que da cerca de 3.394 m. MAS a cidade de Uyuni esta a 3.680 m pela estacao meteorologica (Wikipedia/SENAMHI) e a 3.700 m pela propria Ferroviaria Andina, e o Salar a cerca de 3.656-3.663 m (Wikipedia). UM AEROPORTO 300 METROS ABAIXO DA PROPRIA CIDADE E IMPLAUSIVEL no altiplano. Pode ser erro de registro na base, pode ser conversao errada. NAO CORRIGI: reproduzi a fonte e estou avisando. Para efeito de planejamento de altitude, USE 3.670 M, que e o patamar da cidade e do Salar, e trate o 3.394 m como suspeito. Classificado como 'large_airport' na OurAirports, o que para uma cidade de 20 mil habitantes se explica pelo turismo do Salar: a Ferroviaria Andina informa que Uyuni recebe mais de 200.000 visitantes por ano. SERVIDO POR UMA UNICA COMPANHIA: BoA, 14 voos semanais de La Paz, 1 hora de voo (Kayak). Rota de monopolio nao tem plano B aereo - o plano B e o onibus de 10 horas ou o Ferrobus de uma vez por semana."
+  },
+  {
+    "id": "sre",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      },
+      {
+        "url": "https://aviacionline.com/incendios-en-la-amazonia-afectan-los-vuelos-en-bolivia-declaran-alerta-sanitaria-y-emergencia-nacional"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SRE",
+    "nome": "Aeropuerto Internacional de Alcantari",
+    "cidadeNome": "Sucre (municipio de Yamparaez)",
+    "coords": {
+      "lat": -19.246835,
+      "lng": -65.149611
+    },
+    "observacoes": "0 = SEM FONTE. CUIDADO COM A CONFUSAO DE AEROPORTOS DE SUCRE, porque ela derruba gente: o aeroporto comercial de Sucre e o ALCANTARI (SRE/SLAL), em YAMPARAEZ, FORA da cidade, a 10.184 pes (cerca de 3.104 m). O antigo aeroporto Juana Azurduy de Padilla (SLSU), dentro de Sucre, aparece na base OurAirports como 'Juana Azurduy de Padilla Air Force Base', SEM codigo IATA, com a nota 'SRE, military' - ou seja, virou base aerea. Se um mapa ou app te levar ao Juana Azurduy, esta errado. DETALHE QUE SURPREENDE: Alcantari esta a cerca de 3.100 m, 200 metros ACIMA da cidade de Sucre (2.890 m). O aeroporto e mais alto que a cidade, ao contrario do que acontece em La Paz (onde e o oposto, e ainda mais extremo). TEMPO ATE O CENTRO: NAO PUBLICADO - fica 0. Yamparaez e um municipio vizinho; o deslocamento nao e curto, mas nenhuma fonte aberta da o numero. NAABOL: achados e perdidos nos telefones 75780093 e 69665685. Wi-fi gratuito. FUMACA: Alcantari suspendeu operacoes por CINCO HORAS numa manha de domingo em setembro de 2024 por baixa visibilidade causada pela fumaca das queimadas da Amazonia (Aviacionline). ROTAS: BoA de Santa Cruz (cerca de 11 voos semanais, 45 min) e de La Paz; a tabela da Wikipedia para Viru Viru lista tambem a EcoJet com destino Sucre."
+  },
+  {
+    "id": "poi",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://aviacionline.com/boa-reinaugura-sus-vuelos-al-aeropuerto-de-potosi"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "POI",
+    "nome": "Aeropuerto Capitan Nicolas Rojas",
+    "cidadeNome": "Potosi",
+    "coords": {
+      "lat": -19.543331,
+      "lng": -65.723734
+    },
+    "observacoes": "0 = SEM FONTE. SEGUNDO AEROPORTO MAIS ALTO DO PACOTE, DEPOIS DE EL ALTO: '3935 m / 12913 pies (msnm)' pela Aviacionline; a base OurAirports da 12.922 pes, praticamente o mesmo numero. A ALTITUDE AQUI E UM PROBLEMA DE ENGENHARIA, E A SOLUCAO MOSTRA O TAMANHO DO PROBLEMA: a Aviacionline diz que a elevacao 'impacta severamente en la performance de las aeronaves' e que, por isso, a pista foi ESTENDIDA DE 2.800 PARA 4.000 METROS. Quatro quilometros de pista para servir uma cidade de 4.000 m de altitude - em ar rarefeito a asa gera menos sustentacao e o motor menos empuxo, e o aviao precisa de muito mais corrida para decolar. OPERACAO PRATICAMENTE INEXISTENTE: a unica rota confirmada em fonte aberta e BoA Cochabamba-Potosi, tres vezes por semana (segunda, quarta e sexta, saindo de Cochabamba as 8:30) em Bombardier CRJ200 de 50 assentos - E DADO DE 16/06/2021, quando a rota foi reinaugurada, NAO CONFIRMADO para 2026. Nenhuma fonte mostra voo de Potosi para La Paz ou Santa Cruz. NA PRATICA, POTOSI SE ALCANCA POR TERRA: 3 horas de Sucre com 13 saidas diarias, 4 horas de Uyuni com dezenas de saidas, 9 horas de La Paz. Registrei o aeroporto por completude, nao porque voce va usar."
+  },
+  {
+    "id": "cbb",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      },
+      {
+        "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CBB",
+    "nome": "Aeropuerto Internacional Jorge Wilstermann",
+    "cidadeNome": "Cochabamba",
+    "coords": {
+      "lat": -17.421105,
+      "lng": -66.177102
+    },
+    "observacoes": "0 = SEM FONTE. A base OurAirports da 8.360 pes de elevacao (cerca de 2.548 m), que coincide com a altitude da estacao meteorologica do proprio aeroporto usada na tabela climatica (2.548 m). ESTE AEROPORTO E UMA JOGADA DE ROTEIRO QUE POUCA GENTE FAZ: a BoA voa SAO PAULO-GUARULHOS direto para Cochabamba nas quintas e sabados (14:00 -> 16:10, Boeing 737-800), pela grade valida a partir de 03/06/2026. Cochabamba esta a 2.548 m, ou seja, uma entrada de altitude INTERMEDIARIA: pela regra do CDC voce pode dormir aqui vindo do nivel do mar (o limite e 2.750 m), o que NAO vale para La Paz. Quem quer altiplano sem passar mal tem aqui um caminho que quase ninguem usa. O CONTRA: dois voos por semana, entao um imprevisto custa dias. NAABOL: achados e perdidos no 4120400, interno 232. Wi-fi gratuito. E TAMBEM O HUB DE POTOSI E DE RURRENABAQUE: as unicas rotas confirmadas para Potosi (3x/semana) e a rota da BoA para Rurrenabaque (segundas e quartas, OB 1394/1395) saem de Cochabamba, nao de La Paz."
+  },
+  {
+    "id": "rbq",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/aeropuerto-de-rurrenabaque/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+      },
+      {
+        "url": "https://aviacionline.com/boliviana-de-aviacion-boa-inauguro-sus-vuelos-a-riberalta-y-rurrenabaque-beni"
+      },
+      {
+        "url": "https://aviacionline.com/incendios-en-la-amazonia-afectan-los-vuelos-en-bolivia-declaran-alerta-sanitaria-y-emergencia-nacional"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "RBQ",
+    "nome": "Aeropuerto de Rurrenabaque",
+    "cidadeNome": "Rurrenabaque",
+    "coords": {
+      "lat": -14.4279,
+      "lng": -67.496803
+    },
+    "observacoes": "0 = SEM FONTE. O AEROPORTO MAIS FRAGIL DO PACOTE, E E AQUI QUE O PLANEJAMENTO GANHA OU PERDE. DADOS: 676 pes (cerca de 206 m) de elevacao pela OurAirports, que o classifica como 'small_airport'. A estacao meteorologica do aeroporto, usada na tabela climatica, esta a 204 m. O VOO CANCELA, E ISSO E ESTRUTURAL, NAO AZAR: a Wikivoyage diz que 'Delays are common' e nomeia as tres causas - fumaca de queimada, nuvem baixa e 'heavy rain which saturates the grass runway' (chuva forte que SATURA A PISTA DE GRAMA). A mesma fonte diz que o servico e mais confiavel fora da estacao chuvosa. CRUZE COM O CLIMA DESTE ARQUIVO: janeiro 318,2 mm e 15,1 dias de chuva, fevereiro 306,6 mm e 14,6 dias, marco 241,2 mm e 13,6 dias (SENAMHI via Wikipedia). De dezembro a marco, a chance de voo cancelado e alta por construcao. E A FUMACA DE AGOSTO-SETEMBRO: em setembro de 2024 as operacoes em Rurrenabaque, Riberalta, Guayaramerin, Trinidad e Cobija foram SUSPENSAS COMPLETAMENTE por fumaca de queimada, com visibilidade de 100 metros em alguns casos; 36 voos da EcoJet e da BoA e mais de 3.500 passageiros afetados (Cirium, via Aviacionline, 09/09/2024). OU SEJA: a estacao seca resolve a chuva e traz a fumaca. Nao existe mes 100% seguro. A PISTA AINDA E DE GRAMA? NAO CONSEGUI CONFIRMAR, E ESSA E UMA LACUNA QUE IMPORTA. A Aviacionline informa que o governo investiu Bs 40.282.460 (cerca de US$ 5,8 milhoes) no aeroporto - terminal de passageiros, bloco tecnico, torre de controle, servico de bombeiros, taxiway e patio - e que as condicoes da pista antes 'no eran las adecuadas para recibir aviones de mayor tamano', o que permitiu a chegada de avioes maiores. A pagina oficial da NAABOL para Rurrenabaque, lida em 09/10/2026, NAO publica superficie nem comprimento de pista. Se a pista foi pavimentada, o problema da chuva diminui; se continua de grama, continua igual. TRATE A PISTA DE GRAMA COMO O CENARIO A SE PREPARAR. ROTAS: EcoJet de LA PAZ, tres voos semanais desde meados de 2022, 40 a 50 minutos de voo"
+  },
+  {
+    "id": "oru",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "ORU",
+    "nome": "Aeropuerto Internacional Juan Mendoza",
+    "cidadeNome": "Oruro",
+    "coords": {
+      "lat": -17.956151,
+      "lng": -67.075829
+    },
+    "observacoes": "0 = SEM FONTE. Oruro NAO e base deste pacote, mas entra aqui por tres razoes: e de ORURO que sai o TREM (Ferrobus da FCA) para Uyuni; e em Oruro que acontece o CARNAVAL que e Patrimonio da Unesco; e e o no do altiplano entre La Paz e o sul. Elevacao 12.152 pes (cerca de 3.704 m) pela OurAirports, classificado como 'large_airport'. A tabela da Wikipedia para Viru Viru lista a BoA voando Santa Cruz - Oruro, ou seja, existe ligacao aerea. Frequencias e tarifas NAO CONFIRMADAS. Na pratica, de La Paz a Oruro se vai de onibus em 3h30 a 4h, com saidas de hora em hora."
+  },
+  {
+    "id": "srz",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://naabol.gob.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "SRZ",
+    "nome": "Aeropuerto El Trompillo",
+    "cidadeNome": "Santa Cruz de la Sierra",
+    "coords": {
+      "lat": -17.8115997314,
+      "lng": -63.1715011597
+    },
+    "observacoes": "0 = SEM FONTE. SEGUNDO AEROPORTO DE SANTA CRUZ, DENTRO DA CIDADE - nao confunda com Viru Viru. Elevacao 1.371 pes (cerca de 418 m) pela OurAirports, que o classifica como 'medium_airport'. Hoje e usado sobretudo por aviacao geral, voos regionais, carga e escolas de aviacao; nao recebe voo internacional. POR QUE ESTA AQUI: porque a ESTACAO METEOROLOGICA de El Trompillo e a fonte dos dados climaticos de Santa Cruz usados neste arquivo (normais 1991-2020, SENAMHI), e porque voo fretado para o Pantanal boliviano e para as missoes jesuiticas pode sair daqui. ATENCAO: a URL da propria NAABOL para El Trompillo contem 'viru-viru-duplicated' - e erro de cadastro do site oficial, e registrei por transparencia."
+  },
+  {
+    "id": "gru",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "GRU",
+    "nome": "Aeroporto Internacional de Sao Paulo/Guarulhos - Governador Andre Franco Montoro",
+    "cidadeNome": "Sao Paulo",
+    "coords": {
+      "lat": -23.431274,
+      "lng": -46.469954
+    },
+    "observacoes": "0 = SEM FONTE. Aeroporto de origem. 2.461 pes (cerca de 750 m) pela OurAirports. E daqui que sai o unico voo direto do Brasil para a Bolivia em volume: GRU-VVI pela Gol e pela BoA (dois voos diarios da BoA), mais GRU-CBB pela BoA nas quintas e sabados. Antecedencia recomendada de check-in NAO foi coletada em fonte oficial nesta sessao - fica 0."
+  },
+  {
+    "id": "gig",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      },
+      {
+        "url": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-bolivia.html"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "GIG",
+    "nome": "Aeroporto Internacional do Rio de Janeiro/Galeao - Antonio Carlos Jobim",
+    "cidadeNome": "Rio de Janeiro",
+    "coords": {
+      "lat": -22.809999,
+      "lng": -43.250557
+    },
+    "observacoes": "0 = SEM FONTE. Aeroporto de origem. 28 pes (cerca de 9 m) pela OurAirports. Tem voo direto para Santa Cruz pela BoA, tres vezes por semana desde 03/06/2026 (quarta, sexta e domingo), em Boeing 737-800. A rota comecou em dezembro de 2025 com duas frequencias."
+  },
+  {
+    "id": "cgh",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "CGH",
+    "nome": "Aeroporto de Congonhas - Deputado Freitas Nobre",
+    "cidadeNome": "Sao Paulo",
+    "coords": {
+      "lat": -23.627657,
+      "lng": -46.654601
+    },
+    "observacoes": "0 = SEM FONTE. 2.631 pes (cerca de 802 m) pela OurAirports. NAO TEM VOO PARA A BOLIVIA e nenhuma fonte aberta nesta sessao mostra voo internacional de Congonhas para o pais. Registrado porque o pedido pediu as quatro origens; na pratica, quem sai de Congonhas precisa se deslocar ate Guarulhos."
+  },
+  {
+    "id": "vcp",
+    "fontes": [
+      {
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "parcial",
+    "iata": "VCP",
+    "nome": "Aeroporto Internacional de Viracopos",
+    "cidadeNome": "Campinas",
+    "coords": {
+      "lat": -23.007404,
+      "lng": -47.134502
+    },
+    "observacoes": "0 = SEM FONTE. 2.170 pes (cerca de 661 m) pela OurAirports. NAO HA VOO DIRETO VIRACOPOS-BOLIVIA em nenhuma fonte aberta nesta sessao. Registrado por completude."
+  }
+]

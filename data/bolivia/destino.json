@@ -1,0 +1,197 @@
+{
+  "id": "bolivia",
+  "fontes": [
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia"
+    },
+    {
+      "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+    },
+    {
+      "url": "https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes"
+    },
+    {
+      "url": "https://travel.gc.ca/destinations/bolivia"
+    },
+    {
+      "url": "https://www.exteriores.gob.es/Embajadas/LaPaz/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+    },
+    {
+      "url": "https://en.wikivoyage.org/wiki/Bolivia"
+    },
+    {
+      "url": "https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security"
+    },
+    {
+      "url": "https://www.abc.gob.bo/"
+    },
+    {
+      "url": "https://www.bcb.gob.bo/"
+    },
+    {
+      "url": "https://correodelsur.com/economia/20260628/bolivia-pone-fin-al-6-96-y-rige-desde-este-lunes-el-tipo-de-cambio-flexible.html"
+    },
+    {
+      "url": "https://correodelsur.com/economia/20260815/dolar-paralelo-registra-volatilidad-y-cierra-en-bs-11-43-mientras-el-oficial-baja-a-bs-11-58.html"
+    },
+    {
+      "url": "https://www.todoturismo.bo/"
+    },
+    {
+      "url": "https://www.nomades.com/tupiza/salar-uyuni-sin-retorno-id937"
+    }
+  ],
+  "coletadoEm": "2026-10-09",
+  "confianca": "parcial",
+  "observacaoDeConfianca": "Dados de pais reunidos de varias fontes com niveis diferentes. Ver pendencias para o que nao saiu de fonte oficial.",
+  "nome": "Bolivia",
+  "paisNome": "Bolivia",
+  "cobertura": "Cobre 12 bases: altiplano e Titicaca, Yungas e Amazonia, o Salar e o sul, as cidades coloniais, os vales e o oriente. Fora do pacote: o Pantanal boliviano (Puerto Suarez), as missoes jesuiticas de Chiquitos e o norte do Beni alem de Rurrenabaque.",
+  "codigoPais": "BO",
+  "moeda": "BOB",
+  "fuso": "America/La_Paz",
+  "fusoOffsetMinutos": -240,
+  "idiomas": [
+    "es",
+    "qu",
+    "ay"
+  ],
+  "tomadas": "TIPO A, B e C pela tabela tecnica da Wikipedia (Mains electricity by country). A Wikivoyage, mais especifica para a Bolivia, lista NEMA 1-15 (tipo A, dois pinos chatos paralelos, sem terra) e Europlug (tipo C, dois pinos redondos finos). Na pratica as tomadas bolivianas costumam aceitar os dois formatos e nao tem terra. O QUE ISSO SIGNIFICA PARA O BRASILEIRO: o Brasil usa C e N. O plugue brasileiro de 2 pinos redondos finos (C) ENTRA na tomada boliviana. O plugue brasileiro de 3 pinos redondos (N, o padrao novo com terra) NAO ENTRA - leve adaptador. Adaptador universal barato resolve, mas ADAPTADOR NAO MUDA VOLTAGEM: leia o campo de voltagem, que na Bolivia e o problema de verdade.",
+  "voltagem": "ATENCAO, ESTE E UM DOS CAMPOS MAIS PERIGOSOS DESTE ARQUIVO, POR DOIS MOTIVOS. PRIMEIRO, A BOLIVIA TEM DUAS VOLTAGENS. A tabela tecnica da Wikipedia (Mains electricity by country) lista a Bolivia como 230/400 V, 50 Hz. A Wikivoyage lista para a Bolivia '115 V / 50 Hz and 230 V / 50 Hz' - as duas. Guias de viagem e tabelas de voltagem por pais convergem numa explicacao que casa com as duas fontes: o pais e 220-230 V, COM EXCECAO DE LA PAZ E VIACHA, QUE SAO 115 V. Se isso estiver certo, a mesma viagem passa por duas redes: 115 V em La Paz e 230 V em Santa Cruz, Cochabamba, Sucre, Potosi, Uyuni e no resto. NAO CONSEGUI CONFIRMAR A EXCECAO DE LA PAZ EM FONTE OFICIAL BOLIVIANA (nem na distribuidora, nem na reguladora) - veja lacunas. REGRA DE OURO: antes de ligar qualquer coisa, OLHE A ETIQUETA DA TOMADA OU PERGUNTE NA RECEPCAO. SEGUNDO, E ISSO VALE PARA TODO O PAIS: A BOLIVIA E 50 Hz E O BRASIL E 60 Hz. Nenhum outro destino deste banco tem essa diferenca. Carregador moderno de celular e notebook e bivolt e multifrequencia (100-240 V, 50/60 Hz) e nao liga: olhe a etiqueta e siga. MAS APARELHO COM MOTOR OU RELOGIO depende da frequencia: secador, chapinha, maquina de barbear, ventilador, barbeador e carregador antigo podem girar mais devagar, aquecer menos, zumbir ou queimar em 50 Hz, MESMO que a voltagem esteja certa. RESUMO OPERACIONAL: (1) celular, notebook, camera, power bank - tranquilo, confira a etiqueta; (2) secador e chapinha de 127 V brasileiros - NAO leve para a Bolivia fora de La Paz, voce vai queimar o aparelho em 230 V; (3) secador de 220 V brasileiro - entra na voltagem do interior boliviano mas vai sofrer com os 50 Hz e NAO funciona nos 115 V de La Paz; (4) se o aparelho for essencial, compre um local ou use o do hotel.",
+  "caixaDelimitadora": {
+    "latMin": -23.1,
+    "latMax": -9.6,
+    "lngMin": -69.8,
+    "lngMax": -57.3
+  },
+  "entrada": [
+    {
+      "nacionalidade": "BR",
+      "documento": "nao informado",
+      "vistoNecessario": false,
+      "comprovantesExigidos": [],
+      "observacoes": "",
+      "fontes": [
+        {
+          "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia"
+        },
+        {
+          "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+        },
+        {
+          "url": "https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes"
+        },
+        {
+          "url": "https://travel.gc.ca/destinations/bolivia"
+        },
+        {
+          "url": "https://www.exteriores.gob.es/Embajadas/LaPaz/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bolivia"
+        },
+        {
+          "url": "https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security"
+        },
+        {
+          "url": "https://www.abc.gob.bo/"
+        },
+        {
+          "url": "https://www.bcb.gob.bo/"
+        },
+        {
+          "url": "https://correodelsur.com/economia/20260628/bolivia-pone-fin-al-6-96-y-rige-desde-este-lunes-el-tipo-de-cambio-flexible.html"
+        },
+        {
+          "url": "https://correodelsur.com/economia/20260815/dolar-paralelo-registra-volatilidad-y-cierra-en-bs-11-43-mientras-el-oficial-baja-a-bs-11-58.html"
+        },
+        {
+          "url": "https://www.todoturismo.bo/"
+        },
+        {
+          "url": "https://www.nomades.com/tupiza/salar-uyuni-sin-retorno-id937"
+        }
+      ]
+    }
+  ],
+  "saude": {
+    "vacinasRecomendadas": [],
+    "fontes": [
+      {
+        "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia"
+      },
+      {
+        "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html"
+      },
+      {
+        "url": "https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/bolivia"
+      },
+      {
+        "url": "https://www.exteriores.gob.es/Embajadas/LaPaz/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bolivia"
+      }
+    ]
+  },
+  "seguranca": {
+    "orientacaoGeral": "sem dado",
+    "golpesComuns": [],
+    "appsDeTransporte": [
+      "NAO CONFIRMADO em fonte oficial nesta sessao. Nenhuma das fontes de governo abertas (FCDO, Canada, Embaixada da Espanha) cita aplicativo de carro na Bolivia. A orientacao confirmada e: taxi pedido por telefone, de empresa estabelecida (radio taxi), com adesivo no parabrisa, e nunca taxi com passageiro dentro. Em La Paz, o teleferico e transporte publico de verdade."
+    ],
+    "fontes": [
+      {
+        "url": "https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/bolivia"
+      },
+      {
+        "url": "https://www.exteriores.gob.es/Embajadas/LaPaz/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bolivia"
+      },
+      {
+        "url": "https://www.abc.gob.bo/"
+      }
+    ]
+  },
+  "dinheiro": {
+    "fontes": [
+      {
+        "url": "https://www.bcb.gob.bo/"
+      },
+      {
+        "url": "https://correodelsur.com/economia/20260628/bolivia-pone-fin-al-6-96-y-rige-desde-este-lunes-el-tipo-de-cambio-flexible.html"
+      },
+      {
+        "url": "https://correodelsur.com/economia/20260815/dolar-paralelo-registra-volatilidad-y-cierra-en-bs-11-43-mientras-el-oficial-baja-a-bs-11-58.html"
+      },
+      {
+        "url": "https://www.exteriores.gob.es/Embajadas/LaPaz/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/bolivia"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bolivia"
+      },
+      {
+        "url": "https://www.todoturismo.bo/"
+      },
+      {
+        "url": "https://www.nomades.com/tupiza/salar-uyuni-sin-retorno-id937"
+      }
+    ]
+  },
+  "conectividade": {
+    "operadoras": [],
+    "fontes": []
+  },
+  "linksUteis": []
+}

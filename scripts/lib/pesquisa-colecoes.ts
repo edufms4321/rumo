@@ -60,6 +60,31 @@ function exigeVisto(texto: string): { exige: boolean; incerto: boolean } {
   return { exige: false, incerto: t.trim().length > 0 };
 }
 
+/**
+ * Lista de textos, venha ela como lista ou como um texto so.
+ *
+ * A onda de logistica da Bolivia gravou `appsDeTransporte` como um paragrafo
+ * — "NAO CONFIRMADO em fonte oficial... a orientacao confirmada e radio taxi
+ * por telefone" — em vez de uma lista de nomes de aplicativo. Era conteudo
+ * legitimo e importante na forma errada, e o conversor morria com
+ * `.map is not a function`: a importacao inteira do destino parava.
+ *
+ * Esta funcao embrulha o texto numa lista de um elemento. Nao e leniencia
+ * cega: a alternativa real era perder o paragrafo ou abortar o import de 206
+ * itens por causa de um campo. Forma inesperada que ainda carrega o dado
+ * entra, com aviso; o que nao se consegue ler cai fora com aviso.
+ */
+function comoLista(valor: unknown, onde: string): string[] {
+  if (valor === undefined || valor === null || valor === '') return [];
+  if (Array.isArray(valor)) return valor.map(String);
+  if (typeof valor === 'string' || typeof valor === 'number') {
+    avisos.push(`${onde}: a pesquisa gravou texto onde o schema espera lista; entrou como um item so`);
+    return [String(valor)];
+  }
+  avisos.push(`${onde}: valor ilegivel para lista de textos (${typeof valor}); campo ficou vazio`);
+  return [];
+}
+
 export function construirDestino(logistica: Json, config: ConfigDeDestino): Json {
   const d = logistica.destino;
   const r = d.requisitosEntradaBrasileiro ?? {};
@@ -113,7 +138,7 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
       },
     ],
     saude: {
-      vacinasRecomendadas: (d.saude?.vacinasRecomendadas ?? []).map(String),
+      vacinasRecomendadas: comoLista(d.saude?.vacinasRecomendadas, 'destino.saude.vacinasRecomendadas'),
       ...(d.saude?.aguaPotavel ? { aguaPotavel: String(d.saude.aguaPotavel) } : {}),
       ...(d.saude?.altitudeBogota ? { altitudeAtencao: String(d.saude.altitudeBogota) } : {}),
       ...(d.saude?.seguroObrigatorio ? { observacoes: String(d.saude.seguroObrigatorio) } : {}),
@@ -121,8 +146,8 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
     },
     seguranca: {
       orientacaoGeral: String(d.seguranca?.orientacaoGeral ?? 'sem dado').slice(0, 4000),
-      golpesComuns: (d.seguranca?.golpesComuns ?? []).map(String),
-      appsDeTransporte: (d.seguranca?.appsDeTransporte ?? []).map(String),
+      golpesComuns: comoLista(d.seguranca?.golpesComuns, 'destino.seguranca.golpesComuns'),
+      appsDeTransporte: comoLista(d.seguranca?.appsDeTransporte, 'destino.seguranca.appsDeTransporte'),
       fontes: fontes(d.seguranca?.fontes),
     },
     dinheiro: {
@@ -136,7 +161,7 @@ export function construirDestino(logistica: Json, config: ConfigDeDestino): Json
       fontes: fontes(d.dinheiro?.fontes),
     },
     conectividade: {
-      operadoras: (d.chipEsim?.operadoras ?? []).map(String),
+      operadoras: comoLista(d.chipEsim?.operadoras, 'destino.chipEsim.operadoras'),
       ...(d.chipEsim?.comoComprar ? { comoComprarChip: String(d.chipEsim.comoComprar) } : {}),
       ...(d.chipEsim?.faixaPreco ? { esim: String(d.chipEsim.faixaPreco) } : {}),
       fontes: fontes(d.chipEsim?.fontes),
@@ -249,6 +274,49 @@ function climaDaCidade(logistica: Json, cidadeId: string, config: ConfigDeDestin
       }))
       .filter((c) => c.fontes.length > 0)
       .sort((a, b) => a.mes - b.mes);
+  }
+
+  /*
+    Tabela REGIONAL com os doze meses. Terceira forma que a pesquisa usa, e
+    fica no meio das outras duas de proposito: perde para a tabela por cidade
+    (que tem fonte por cidade) e ganha da `climaNovembro`, que traz um mes so.
+
+    A onda da Bolivia veio assim — 8 regioes x 12 meses — e o conversor nao
+    sabia ler: as 12 bases entraram sem clima nenhum, e a sugestao de janela
+    de datas simplesmente ignora cidade sem clima. 96 linhas de normais do
+    SENAMHI ficariam no arquivo de pesquisa sem chegar a tela.
+
+    O casamento e por `regiao`, campo que a onda grava com exatamente o mesmo
+    id que `climaParaCidades` declara — nada de regex sobre nome.
+  */
+  const daRegiao = config.climaParaCidades.find((x) => x.cidades.includes(cidadeId))?.regiao;
+  if (daRegiao) {
+    const porRegiao = ((logistica.climaPorRegiaoEMes ?? []) as Json[]).filter(
+      (c) => String(c.regiao) === daRegiao && Number(c.mes) >= 1 && Number(c.mes) <= 12,
+    );
+    if (porRegiao.length > 0) {
+      const linhas = porRegiao
+        .map((c) => ({
+          mes: Number(c.mes),
+          tempMinC: Number(c.tempMinC ?? 0),
+          tempMaxC: Number(c.tempMaxC ?? 0),
+          chuvaMm: Number(c.chuvaMm ?? 0),
+          diasDeChuva: Number(c.diasDeChuva ?? 0),
+          resumo: String(c.resumo ?? '').slice(0, 2000),
+          ...(c.marEVento ? { marEVento: String(c.marEVento).slice(0, 1500) } : {}),
+          ...(c.planoBChuva ? { planoBChuva: String(c.planoBChuva).slice(0, 1500) } : {}),
+          pesoNaDecisao: ['alto', 'medio', 'baixo'].includes(String(c.pesoNaDecisao))
+            ? String(c.pesoNaDecisao)
+            : 'medio',
+          fontes: fontes(c.fontes),
+        }))
+        .filter((c) => c.fontes.length > 0)
+        .sort((a, b) => a.mes - b.mes);
+      if (linhas.length > 0) {
+        derivado('clima da cidade herdado da tabela regional de doze meses');
+        return linhas;
+      }
+    }
   }
 
   for (const c of logistica.climaNovembro ?? []) {
@@ -495,7 +563,7 @@ export function construirCidades(
       ...(notas?.segurancaPorBairro
         ? { seguranca: String(notas.segurancaPorBairro).slice(0, 3000) }
         : {}),
-      pegaTuristaAEvitar: (notas?.pegaTuristaAEvitar ?? []).map(String),
+      pegaTuristaAEvitar: comoLista(notas?.pegaTuristaAEvitar, `cidade ${id}.pegaTuristaAEvitar`),
       taxasObrigatorias: taxas,
       situacaoAtual: [],
     };
@@ -577,7 +645,7 @@ export function construirTrechos(logistica: Json, config: ConfigDeDestino): Json
       deCidadeId: de,
       paraCidadeId: para,
       modal,
-      operadoras: (t.operadoras ?? []).map(String),
+      operadoras: comoLista(t.operadoras, 'trecho.operadoras'),
       ...(Number(t.duracaoPortaAPortaMin) > 0
         ? { duracaoPortaAPortaMin: Number(t.duracaoPortaAPortaMin) }
         : {}),

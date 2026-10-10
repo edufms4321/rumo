@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "bo-lpz-mi-teleferico-a-rede-de-teleferico-urbano-de-la-paz",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Mi Teleferico: a rede de teleferico urbano de La Paz",
+    "cidadeId": "la-paz",
+    "categoria": "experiencia",
+    "tags": [
+      "transporte",
+      "imperdivel",
+      "vista",
+      "barato",
+      "altitude"
+    ],
+    "descricaoCurta": "Dez linhas de teleferico que sao transporte publico de verdade, a Bs 3 a viagem - o jeito mais barato e mais bonito de atravessar La Paz e El Alto.",
+    "descricaoLonga": "Nao e brinquedo de turista: e o sistema de teleferico urbano mais extenso do mundo e o metro de La Paz. A Wikipedia espanhola lista dez linhas urbanas - Vermelha (2014), Amarela (2014), Verde (2014), Azul (2017), Laranja (2017), Branca (2018), Celeste (2018), Roxa (2018), Cafe (2018) e Prateada (2019) - mais uma linha turistica em Oruro. Tarifa: Bs 3 na primeira linha e Bs 2 no transbordo; Bs 1,50 na tarifa preferencial para estudantes ate 24 anos, idosos e pessoas com deficiencia, com cartao personalizado; bicicleta paga valor extra, de graca so nos domingos nas linhas Amarela e Verde. Horario: segunda a sabado das 06:30 as 22:30, domingos e feriados das 07:00 as 21:00. A Wikivoyage acrescenta que o cartao recarregavel custa Bs 25 com Bs 5 de credito, e descreve um circuito emendando Vermelha, Prateada, Amarela, Branca e Laranja: cinco viagens de Bs 3 dao 1h30 a 2h de passeio. Pratico: nos horarios de pico (07:00-09:00 e 17:00-19:00) a fila existe e as cabines vao cheias - e tambem quando se ve a cidade trabalhando, que e metade da graca.",
+    "duracao": {
+      "min": 30,
+      "tipica": 110,
+      "max": 180
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 2,
+      "max": 15,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 na primeira linha e Bs 2 por transbordo (Wikipedia espanhola de Mi Teleferico, confirmado pela Wikivoyage em Bs 3 por viagem). O max de Bs 15 e o circuito de cinco viagens descrito pela Wikivoyage, nao uma tarifa unica. Cartao recarregavel: Bs 25 com Bs 5 de credito."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Estacoes vao de cerca de 3.250 m (Irpavi, Zona Sur) a cerca de 4.050-4.150 m (El Alto): uma viagem de teleferico pode subir 800 m em 20 minutos, e quem nao esta aclimatado sente na respiracao e na cabeca ao sair em El Alto.",
+        "Nao ha banheiro nas cabines e nem em todas as estacoes."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: por menos de Bs 15 voce atravessa a cidade inteira por cima e ve o Illimani, o canion e El Alto. E o melhor dinheiro gasto em La Paz.",
+      "Faca no primeiro dia: e passeio sentado, sem esforco, e e exatamente o que se pode fazer em 3.640 m enquanto o corpo se acostuma.",
+      "Compre o cartao (Bs 25) se forem dois ou mais dias usando - a fila do bilhete unitario e maior que a da catraca."
+    ],
+    "alertas": [
+      "Em dia de protesto ou bloqueio o sistema pode suspender linhas; a Wikivoyage avisa que protestos em La Paz sao frequentes e costumam comecar perto do meio-dia.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-teleferico-linea-roja-estacion-central-a-16-de-julio",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teleferico Linea Roja: Estacion Central a 16 de Julio (El Alto)",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "teleferico",
+      "vista",
+      "el-alto",
+      "barato",
+      "imperdivel"
+    ],
+    "descricaoCurta": "A linha mais antiga e a mais cinematografica: sobe a parede do canion do centro de La Paz ate a borda de El Alto, com o Cemiterio Geral embaixo.",
+    "descricaoLonga": "Inaugurada em 2014, a Vermelha e a primeira linha do sistema e a que faz o salto mais dramatico: 2.664 m de extensao e tres estacoes (Taypi Uta/Central, Ajayuni/Cementerio e Jach'a Qhathu/16 de Julio), subindo do centro ate a borda de El Alto. O que se ve: o canion inteiro de La Paz se abrindo, o Cemiterio Geral visto de cima, o casario colado na encosta e, se o dia estiver limpo, o Illimani ao fundo. E tambem a linha que leva direto a Feria 16 de Julio, nas quintas e domingos - a Wikivoyage recomenda exatamente essa combinacao, Estacion Central a 16 de Julio por Bs 3. Chegando em cima voce passa de cerca de 3.600 m para a casa dos 4.050 m: e normal sentir falta de ar ao caminhar na Ceja.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 90
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 3,
+      "max": 3,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 na primeira linha; o transbordo para outra linha custa Bs 2 adicionais."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Desce em El Alto, a cerca de 4.050 m: caminhar na Ceja no primeiro dia de viagem e desconfortavel e pode disparar sintoma de altitude. Suba, olhe, volte.",
+        "A Wikivoyage descreve El Alto como uma das cidades mais perigosas da Bolivia em materia de furto e orienta manter os pertences junto ao corpo."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo",
+      "dependeDeClima": false
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale muito: Bs 3 pelo melhor mirante da cidade, e ainda serve de transporte.",
+      "Suba no fim da tarde para pegar a luz batendo no canion, mas volte antes de escurecer se nao for ficar em El Alto.",
+      "Quinta e domingo e dia de Feria 16 de Julio na estacao final - combine os dois."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-teleferico-linea-amarilla-libertador-a-mirador-qhana",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teleferico Linea Amarilla: Libertador a Mirador (Qhana Pata)",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "teleferico",
+      "vista",
+      "sopocachi",
+      "barato"
+    ],
+    "descricaoCurta": "3.883 m de cabo em quatro estacoes ligando a Zona Sur a Sopocachi e ao alto da cidade; a estacao final se chama Mirador, e nao e por acaso.",
+    "descricaoLonga": "Aberta em setembro de 2014, e a segunda linha do sistema e a mais longa das tres originais: 3.883 m e quatro estacoes - Chuqi Apu/Libertador, Supu Kachi/Sopocachi, Quta Uma/Buenos Aires e Qhana Pata/Mirador. O trajeto cruza o vale no sentido da subida e entrega a vista mais aberta do miolo residencial de La Paz, com a cidade empilhada em todas as direcoes. E tambem a linha de quem fica em Sopocachi: emenda com a Verde em Libertador para descer a Zona Sur e com a Prateada e a Roxa em cima. Nos domingos, bicicleta nao paga extra na Amarela e na Verde, segundo a Wikipedia espanhola.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 70
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 3,
+      "max": 3,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 na primeira linha, Bs 2 no transbordo."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A estacao Mirador fica no alto da cidade, acima de 3.800 m: a caminhada curta do entorno ja cansa quem chegou no dia."
+      ],
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "E a melhor emenda do sistema: Amarela + Verde liga Sopocachi a Zona Sur sem encarar o trafego da Av. Arce.",
+      "Domingo, bicicleta nao paga extra nesta linha e na Verde - detalhe util para quem alugar bike na cidade."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-teleferico-linea-verde-libertador-a-irpavi-zona-sur",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://www.komoot.com/highlight/5149596"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teleferico Linea Verde: Libertador a Irpavi (Zona Sur)",
+    "cidadeId": "la-paz",
+    "categoria": "passeio",
+    "tags": [
+      "teleferico",
+      "zona-sur",
+      "vista",
+      "barato"
+    ],
+    "descricaoCurta": "A linha que desce para a Zona Sur: 3.830 m de cabo sobre Obrajes, com a cidade afundando e o ar ficando mais facil a cada estacao.",
+    "descricaoLonga": "Inaugurada em dezembro de 2014, a Verde tem 3.830 m e quatro estacoes - Irpawi/Irpavi, Aynacha Obrajes/Obrajes, Pata Obrajes/Alto Obrajes e Chuqi Apu/Libertador. E a descida mais util do sistema: liga o eixo central a Zona Sur, que fica entre cerca de 2.900 e 3.200 m e por isso e onde se dorme melhor quando a altitude esta pesando. Do alto se ve o vale descendo e as quebradas que viram, mais ao sul, o Valle de la Luna. E tambem o caminho de teleferico para quem vai a Mallasa: a sugestao registrada no Komoot e descer na Verde ate a regiao da Plaza Humboldt e pegar um micro para Mallasa, que para na entrada do Valle de la Luna.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 70
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 3,
+      "max": 3,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 na primeira linha, Bs 2 no transbordo."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Vai no sentido do alivio: desce de cerca de 3.600 m para a casa dos 3.200 m. Usar esta linha para dormir mais baixo e uma estrategia legitima contra a altitude."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Se a altitude estiver castigando, esta linha e o remedio mais barato da cidade: desca, coma na Zona Sur e volte.",
+      "Serve de primeira perna para o Valle de la Luna sem pagar taxi do centro."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "bo-lpz-teleferico-linea-azul-a-travessia-de-el-alto-16-de-j",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/El_Alto"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Teleferico Linea Azul: a travessia de El Alto (16 de Julio a Rio Seco)",
+    "cidadeId": "la-paz",
+    "categoria": "passeio",
+    "tags": [
+      "teleferico",
+      "el-alto",
+      "cholets",
+      "barato",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "A linha que nao atravessa canion nenhum: corre reta sobre o planalto de El Alto, com a cordilheira de um lado e os cholets coloridos embaixo.",
+    "descricaoLonga": "Aberta em marco de 2017, a Azul tem cinco estacoes - Jacha Qhatu/16 de Julio, Qhana Taki/Plaza Libertad, Suma Qamaña/Plaza La Paz, Yatiña Uta/UPEA e Waña Jawira/Rio Seco - e e a linha que cruza El Alto por cima, a cerca de 4.050-4.150 m. E a vista menos turistica e talvez a mais reveladora do pacote: um tabuleiro de ruas retas, oficinas, feiras e os cholets, os predios de fachada colorida que a Wikipedia espanhola de El Alto registra como estilo arquitetonico proprio da cidade. Em dia limpo, o Huayna Potosi e o Illimani aparecem dos dois lados. Nao ha atrativo 'de lista' nas estacoes: o passeio e a cidade. El Alto tinha 885.825 habitantes no censo de 2024, ou seja, e maior que a propria La Paz em populacao municipal.",
+    "duracao": {
+      "min": 30,
+      "tipica": 55,
+      "max": 100
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 3,
+      "max": 5,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 se for a primeira linha do dia; Bs 2 se voce chegar de transbordo da Vermelha ou da Prateada na 16 de Julio."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Todo o percurso acontece acima de 4.000 m: nao e lugar para o primeiro dia de quem vem do nivel do mar, e a sensacao de frio e de ar seco e muito maior do que no centro de La Paz.",
+        "A Wikivoyage orienta nao levar objetos de valor e manter o dinheiro junto ao corpo em El Alto."
+      ],
+      "dependeDeClima": false,
+      "condicionamento": "baixo",
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Faca a Azul no mesmo dia da Feria 16 de Julio: a feira e na estacao inicial e a linha mostra o resto da cidade.",
+      "Nao e passeio de chegada. Deixe El Alto para o terceiro dia, quando o corpo ja tiver se ajustado.",
+      "Leve corta-vento: a 4.100 m o vento do planalto e outra coisa."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "bo-lpz-teleferico-linea-plateada-e-morada-o-faro-murillo",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Teleferico Linea Plateada e Morada: o Faro Murillo",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "teleferico",
+      "vista",
+      "el-alto",
+      "fora-do-obvio",
+      "barato"
+    ],
+    "descricaoCurta": "Duas linhas curtas que cruzam no Faro Murillo, na beirada do planalto: a vista que mostra de uma vez La Paz embaixo e El Alto em cima.",
+    "descricaoLonga": "A Prateada (marco de 2019, 2,67 km) liga Jacha Qhatu/16 de Julio a Tiquira/Faro Murillo e a Qhana Pata/Mirador; a Roxa (setembro de 2018) liga Jach'a Thaki/6 de Marzo a Tiquira/Faro Murillo e a Utjawi/San Jose. O ponto de interesse e o cruzamento: o Faro Murillo fica exatamente na quebrada onde o planalto de El Alto termina e o canion de La Paz comeca, e e dali que se entende a geografia absurda da cidade - uma metropole dentro de um buraco, com outra metropole na borda. A Prateada ainda e o atalho entre a 16 de Julio e o alto de Sopocachi, costurando as duas cidades sem descer ao centro.",
+    "duracao": {
+      "min": 25,
+      "tipica": 45,
+      "max": 80
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:30",
+          "fecha": "22:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "21:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:30-22:30 | 07:00-21:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 2,
+      "max": 5,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 3 se for a primeira linha, Bs 2 por transbordo - as duas linhas em sequencia saem por Bs 5."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "O Faro Murillo esta na borda do planalto, perto dos 4.000 m: vento forte e frio, e esforco a pe ja se sente."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo",
+      "dependeDeClima": false
+    },
+    "selos": [],
+    "dicas": [
+      "Fora do obvio: quase ninguem faz estas duas, e sao as que explicam a cidade.",
+      "Combine com a Vermelha no mesmo circuito para fechar o anel La Paz-El Alto."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-mercado-de-las-brujas-mercado-de-hechiceria",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Mercado de las Brujas (Mercado de Hechiceria)",
+    "cidadeId": "la-paz",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "cultura-aymara",
+      "centro",
+      "a-pe",
+      "imperdivel"
+    ],
+    "descricaoCurta": "Duas quadras da Calle Linares onde se vende o material do ritual aymara: ervas, amuletos, incenso de koa e feto de llama para enterrar na obra.",
+    "descricaoLonga": "Fica na Calle Linares, entre Sagarnaga e Santa Cruz, a poucos metros da Plaza San Francisco, e aparece na lista oficial de atrativos do centro no portal de turismo da Prefeitura de La Paz. O que se vende ali nao e souvenir: e insumo de ch'alla e de ofrenda a Pachamama - ervas, doces rituais, incenso, amuletos, ras secas e os fetos de llama que ainda hoje se enterram na fundacao de uma construcao. A Wikivoyage registra tambem as esculturas de pedra-sabao e diz que e o melhor lugar da cidade para comprar um charango. Pratico: as yatiris (as 'bruxas', que sao na verdade leitoras de coca e especialistas rituais) trabalham ali e nao estao em cena; nao e vitrine, e comercio religioso em funcionamento. NAO achei em fonte confiavel horario de abertura e fechamento das bancas nesta sessao, e por isso nao registro horario - na pratica o movimento e diurno.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 3.600 m, e tudo ladeira: a Linares e a Sagarnaga sobem forte, e andar devagar aqui nao e frescura.",
+        "Rua estreita e cheia: ambiente classico de furto. A Wikivoyage cita batedores de carteira e mochila cortada em area movimentada de La Paz."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "imperdivel"
+    ],
+    "dicas": [
+      "Pergunte se pode fotografar antes de fotografar, e aceite o nao. Para muita gente dali aquilo e objeto sagrado, nao cenario.",
+      "Se quiser comprar algo que viaje bem: incenso de koa, sais e texteis. Feto de llama e material organico de origem animal - problema na alfandega e no estomago da sua mala.",
+      "Pechinche na Sagarnaga, nao na Linares: a Sagarnaga e a rua do artesanato e tem dezenas de lojas quase iguais."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-calle-sagarnaga-a-rua-do-artesanato-e-das-agencias",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Calle Sagarnaga: a rua do artesanato e das agencias",
+    "cidadeId": "la-paz",
+    "categoria": "compras",
+    "tags": [
+      "artesanato",
+      "centro",
+      "a-pe",
+      "texteis",
+      "agencias"
+    ],
+    "descricaoCurta": "Ladeira que sobe da Plaza San Francisco concentrando texteis de alpaca, instrumentos, agencias de bicicleta e de Tiwanaku, e cambio.",
+    "descricaoLonga": "A Sagarnaga e o endereco pratico do viajante em La Paz: sai da Plaza San Francisco e sobe cruzando a Linares (Mercado de las Brujas), cheia de lojas de textil de alpaca, chapeus, mantas, charangos e lembrancas, intercaladas com agencias de turismo - e das agencias daqui que saem os tours de Tiwanaku, Chacaltaya e Camino de la Muerte. A Wikivoyage situa o Mercado de las Brujas justamente entre Sagarnaga e Santa Cruz e aponta a regiao como o lugar de comprar charango. Pratico: e uma rua de preco negociado, com oferta quase identica repetida por dezenas de portas - comparar tres lojas antes de fechar muda o valor. Como e o ponto de encontro de agencia, e tambem onde circula o folheto de tour barato de bicicleta, que e exatamente o que as fontes de seguranca recomendam nao comprar na rua.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Ladeira continua a 3.600 m: subir a Sagarnaga inteira sem parar e um teste de aclimatacao, nao uma caminhada."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Alpaca de verdade nao e barata e nao faz bolinha; o que se vende a preco de pechincha costuma ser acrilico misturado. Compare o toque em tres lojas antes de decidir.",
+      "Corte se apertar o tempo: e compra, nao atrativo. Da para resolver em 40 minutos na volta de qualquer outro passeio do centro.",
+      "Nunca feche o tour da Estrada da Morte com o folheto mais barato da rua - veja o item especifico."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-mercado-rodriguez",
+    "fontes": [
+      {
+        "url": "https://bolivianexpress.org/magazine-sub-item/69"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mercado Rodriguez",
+    "cidadeId": "la-paz",
+    "categoria": "compras",
+    "tags": [
+      "mercado",
+      "comida",
+      "san-pedro",
+      "fora-do-obvio",
+      "barato"
+    ],
+    "descricaoCurta": "O mercado de comida de La Paz que nao e para turista: batata de altura em dezenas de variedades, peixe do Titicaca, frutas dos Yungas e tucumanas gigantes.",
+    "descricaoLonga": "Fica no bairro de San Pedro e e onde a cidade compra comida de verdade: ruas tomadas por bancas de batata e chuño em variedades que nao existem fora dos Andes, peixe vindo do Titicaca, fruta dos Yungas, queijo, ervas. A Bolivian Express, revista de La Paz, situa aqui a tucumana - a prima frita da salteña, com mais batata dentro - como lanche de manha. E mercado de rua ocupando calcada e leito de via, em ladeira, e por isso nao da para entrar com carro, nem com mala de rodinha. O fim de semana e mais animado porque as ruas em volta fecham. NAO encontrei fonte confiavel com horario de funcionamento nem com preco medio das bancas, e por isso os campos ficam vazios: na pratica mercado de comida em La Paz comeca de madrugada e esvazia no comeco da tarde.",
+    "duracao": {
+      "min": 40,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Mercado em ladeira a cerca de 3.600 m, com piso irregular e sem rampa: dificil com mala, carrinho ou mobilidade reduzida.",
+        "Comida de banca em grande altitude: coma onde houver fila de local e prefira o que sai quente da panela."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: e o lugar onde La Paz aparece sem filtro, e sai por pouco mais que o preco do que voce come.",
+      "Va pela manha e com dinheiro trocado. Deixe mochila grande no hotel - e aglomeracao.",
+      "Peca uma tucumana e compare com a salteña do dia anterior: e a melhor aula de comida boliviana por Bs poucos."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-mercado-lanza-api-saltena-e-almoco-popular",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://bolivianexpress.org/magazine-sub-item/69"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Mercado Lanza: api, salteña e almoco popular",
+    "cidadeId": "la-paz",
+    "categoria": "restaurante",
+    "tags": [
+      "mercado",
+      "comida-de-rua",
+      "centro",
+      "barato",
+      "cafe-da-manha"
+    ],
+    "descricaoCurta": "Mercado coberto ao lado da Plaza San Francisco onde se toma api quente com salteña - o cafe da manha paceño por poucos bolivianos.",
+    "descricaoLonga": "E o mercado de comida mais pratico do centro, subindo da Plaza San Francisco, e a parada classica para api: a bebida quente e espessa de milho morado, tomada com salteña ou buñuelo. A Wikivoyage recomenda exatamente isso como recompensa depois da subida da Plaza San Francisco. A Bolivian Express, na lista de comidas de rua e de mercado de La Paz, descreve a salteña como lanche de meio da manha, vendida entre as 9h e o meio-dia, recheada de carne ou frango com azeitona e ovo cozido e muito molho dentro - o truque e comer de pe, mordendo a ponta, sem derramar. No andar das panelas se almoca comida popular (sopa + prato) por valor baixo. NAO achei preco nem horario em fonte confiavel: a Bolivian Express nao traz preco de nenhuma comida e a Wikivoyage nao da horario do mercado, entao os dois campos ficam de fora.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Comida de mercado a 3.600 m: nos dois primeiros dias, coma leve e evite porcao grande e gordurosa - digestao em altitude e mais lenta e piora a sensacao de mal-estar.",
+        "Api e servido fervendo; salteña tem caldo quente dentro. Queima a boca de quem tem pressa."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: api com salteña e o cafe da manha mais boliviano que existe e custa uma fracao do hotel.",
+      "Chegue antes das 11h para a salteña: a Bolivian Express diz que e comida de 9h ao meio-dia, e depois disso acaba.",
+      "Peca api morado (milho roxo) e nao api blanco se quiser o sabor classico."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "bo-lpz-calle-jaen-a-rua-colonial-e-o-circuito-de-museus-mun",
+    "fontes": [
+      {
+        "url": "https://eju.tv/?p=4475089"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Calle Jaen: a rua colonial e o circuito de museus municipais",
+    "cidadeId": "la-paz",
+    "categoria": "atracao",
+    "tags": [
+      "centro-historico",
+      "museus",
+      "a-pe",
+      "colonial",
+      "imperdivel"
+    ],
+    "descricaoCurta": "A unica rua de La Paz que guardou o casario colonial inteiro, com quatro museus municipais cobertos por um ingresso unico.",
+    "descricaoLonga": "A Wikivoyage a descreve como uma das poucas ruas da cidade com edificios coloniais preservados, e e ali que estao, lado a lado, o Museo Costumbrista Juan de Vargas, a Casa de Pedro Domingo Murillo, o Museo de Metales Preciosos (o 'museu do ouro') e o Museo del Litoral Boliviano. A Prefeitura de La Paz lista a Calle Apolinar Jaen e esses museus entre os atrativos do centro. A noticia da AMUN, agencia de noticias do municipio, publicada em 08/01/2025, da o dado que importa: a entrada custa Bs 8 para nacionais e Bs 20 para estrangeiros, e o MESMO bilhete serve para os quatro museus; criancas, idosos e pessoas com deficiencia entram de graca. Horario na mesma fonte: terca a sexta das 09:00 as 12:30 e das 14:30 as 19:00, e sabado das 09:00 as 17:00 em horario continuo. Segunda e domingo nao sao citados - e desconhecido, nao 'fechado'. Em meio dia da para fazer a rua inteira com calma.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-12:30 e 14:30-19:00 | 09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 8,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 8 nacionais, Bs 20 estrangeiros, bilhete unico para os quatro museus. Gratuito para crianca, idoso e pessoa com deficiencia. Fonte: AMUN (agencia de noticias do municipio de La Paz), 08/01/2025."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A Jaen e uma ladeira de pedra a cerca de 3.600 m, com escada e calcada estreita: cansa mais do que os 300 metros de rua sugerem.",
+        "Casarao colonial com escada estreita e sem elevador: acessibilidade ruim para cadeira de rodas."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: Bs 20 por quatro museus e o melhor custo-beneficio cultural da Bolivia que eu achei nesta pesquisa.",
+      "Compre o ingresso no Museo Costumbrista e guarde o papel - e ele que abre os outros tres.",
+      "Nao va de segunda nem de domingo sem confirmar: a fonte municipal so publica terca a sabado."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-costumbrista-juan-de-vargas",
+    "fontes": [
+      {
+        "url": "https://eju.tv/?p=4475089"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Museo Costumbrista Juan de Vargas",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "historia",
+      "calle-jaen",
+      "interno",
+      "miniaturas",
+      "barato"
+    ],
+    "descricaoCurta": "Maquetes, miniaturas e ceramica contando como era La Paz colonial e republicana; e onde se compra o ingresso que abre os quatro museus da Jaen.",
+    "descricaoLonga": "E a porta de entrada do circuito municipal da Calle Jaen e o museu que explica a cidade: dioramas e maquetes da La Paz antiga, cena de rua, trajes, ceramica e as miniaturas de Alasita - a feira de janeiro em que se compra em miniatura o que se deseja no ano, e que a materia da AMUN usa como gancho. O ingresso aqui vale tambem para a Casa de Murillo, o Museo de Metales Preciosos e o Museo del Litoral: Bs 8 nacionais e Bs 20 estrangeiros, gratis para crianca, idoso e pessoa com deficiencia. Horario publicado pelo municipio: terca a sexta das 09:00 as 12:30 e das 14:30 as 19:00; sabado das 09:00 as 17:00 corrido.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 80
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-12:30 e 14:30-19:00 | 09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 8,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 8 nacionais / Bs 20 estrangeiros; mesmo bilhete serve para os outros tres museus municipais da Calle Jaen. Fonte: AMUN, 08/01/2025."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casarao colonial: escada estreita, sem elevador."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Comece por aqui: o museu da contexto para tudo o que voce vai ver na rua e nos outros tres.",
+      "Se estiver em La Paz em janeiro, pergunte sobre Alasita - a feira das miniaturas e uma das coisas mais singulares do calendario boliviano."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-casa-de-pedro-domingo-murillo",
+    "fontes": [
+      {
+        "url": "https://eju.tv/?p=4475089"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Casa de Pedro Domingo Murillo",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "historia",
+      "calle-jaen",
+      "independencia",
+      "interno",
+      "barato"
+    ],
+    "descricaoCurta": "A casa do protomartir da independencia boliviana, com mobiliario, arte colonial e o quarto do homem enforcado em 1810.",
+    "descricaoLonga": "Pedro Domingo Murillo liderou a revolucao de La Paz de 1809 e foi enforcado na praca que hoje leva o nome dele. A casa onde morou, na Calle Jaen, e hoje museu municipal, com mobiliario de epoca, pintura colonial, texteis e objetos ligados ao episodio que abriu o ciclo de independencia no Alto Peru. Esta dentro do mesmo bilhete da Calle Jaen - Bs 8 nacionais e Bs 20 estrangeiros, cobrado no Museo Costumbrista - e segue o mesmo horario publicado pelo municipio: terca a sexta das 09:00 as 12:30 e das 14:30 as 19:00, sabado das 09:00 as 17:00. Combina na mesma caminhada com a Plaza Murillo, que fica a tres quadras.",
+    "duracao": {
+      "min": 25,
+      "tipica": 40,
+      "max": 70
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-12:30 e 14:30-19:00 | 09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 8,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Incluido no bilhete unico dos museus municipais da Calle Jaen (Bs 8 nacionais / Bs 20 estrangeiros), comprado no Museo Costumbrista. Fonte: AMUN, 08/01/2025."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casa colonial com escada: acessibilidade ruim."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Faca Casa de Murillo e Plaza Murillo no mesmo trecho - a praca e onde ele foi executado, e a visita fica muito mais forte nessa ordem."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-de-metales-preciosos-museo-del-oro",
+    "fontes": [
+      {
+        "url": "https://eju.tv/?p=4475089"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Museo de Metales Preciosos (Museo del Oro)",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "arqueologia",
+      "calle-jaen",
+      "ouro",
+      "interno",
+      "barato"
+    ],
+    "descricaoCurta": "Ourivesaria pre-colombiana de Tiwanaku e da regiao andina, mais prata e cobre, em casarao da Calle Jaen - dentro do ingresso unico municipal.",
+    "descricaoLonga": "Conhecido como Museu do Ouro, reune peca de ourivesaria pre-hispanica (ouro, prata e cobre) de culturas andinas, com destaque para material associado a Tiwanaku, alem de ceramica e objeto ritual. A Wikivoyage o lista entre os museus da Calle Jaen e a Prefeitura de La Paz tambem o traz na relacao de atrativos do centro. Entra no bilhete unico dos museus municipais: Bs 8 para nacionais e Bs 20 para estrangeiros, comprado no Museo Costumbrista, com o mesmo horario municipal de terca a sabado. E pequeno e se ve em meia hora - a graca e a concentracao de peca de metal, que e raro em museu boliviano porque a maior parte do ouro andino foi fundida na colonia.",
+    "duracao": {
+      "min": 25,
+      "tipica": 40,
+      "max": 60
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-12:30 e 14:30-19:00 | 09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 8,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Incluido no bilhete unico dos museus municipais da Calle Jaen. Fonte: AMUN, 08/01/2025."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Sala pequena e com pouca luz, por conservacao; escada de casarao colonial."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Se o tempo for curto na Jaen, este e o Costumbrista sao os dois que eu faria.",
+      "Combine com Tiwanaku: ver o metal aqui antes de ir ao sitio ajuda a entender o que foi saqueado de la."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-del-litoral-boliviano",
+    "fontes": [
+      {
+        "url": "https://eju.tv/?p=4475089"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Museo del Litoral Boliviano",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "historia",
+      "calle-jaen",
+      "guerra-do-pacifico",
+      "interno",
+      "barato"
+    ],
+    "descricaoCurta": "O museu do mar perdido: mapas, armas e documentos da Guerra do Pacifico, que tirou da Bolivia o litoral e ainda define a politica do pais.",
+    "descricaoLonga": "Pequeno museu municipal na Calle Jaen dedicado ao Litoral - o departamento costeiro que a Bolivia perdeu para o Chile na Guerra do Pacifico (1879-1884). Tem mapa historico, armamento, uniforme, fotografia e documento do periodo. Entender este museu e entender por que a Bolivia celebra o Dia del Mar em 23 de marco e por que 'mar para a Bolivia' continua sendo bandeira politica 140 anos depois. Entra no bilhete unico dos museus municipais da Jaen (Bs 8 nacionais / Bs 20 estrangeiros) e segue o horario municipal de terca a sabado. E o menor dos quatro: 20 a 30 minutos resolvem.",
+    "duracao": {
+      "min": 20,
+      "tipica": 30,
+      "max": 50
+    },
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "12:30"
+        },
+        {
+          "abre": "14:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-12:30 e 14:30-19:00 | 09:00-17:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 8,
+      "max": 20,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Incluido no bilhete unico dos museus municipais da Calle Jaen. Fonte: AMUN, 08/01/2025."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casa colonial com escada estreita."
+      ],
+      "dependeDeClima": false,
+      "condicionamento": "baixo",
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Corte se apertar: e o menos impressionante dos quatro visualmente - mas e o que mais explica a Bolivia de hoje.",
+      "Se um boliviano puxar o assunto do mar, ouca. Nao e tema de conversa leve."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-nacional-de-etnografia-y-folklore-musef",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Museo Nacional de Etnografia y Folklore (MUSEF)",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "etnografia",
+      "mascaras",
+      "texteis",
+      "centro",
+      "imperdivel",
+      "interno"
+    ],
+    "descricaoCurta": "O melhor museu da Bolivia para entender os povos andinos: texteis, mascaras de danca e pratica ritual, em casarao colonial na Calle Ingavi.",
+    "descricaoLonga": "Fica na Calle Ingavi 916, esquina com Jenaro Sanjines, e a Wikivoyage registra a entrada em Bs 35. A colecao permanente trata de textil andino (a leitura dos padroes como escrita), mascara de danca do calendario festivo boliviano, platería e cultura material aymara e quechua. Para quem vai ao Titicaca, a Tiwanaku ou a uma festa de Copacabana, e o museu que da a chave de leitura - e ele que transforma 'fantasia colorida' em sistema simbolico. Pratico: NAO consegui abrir o site musef.org.bo nesta sessao (o dominio nao resolveu) e por isso NAO registro horario: o que circula na web vem de agregadores que nao abri, e dia de semana ausente aqui significa desconhecido, nao fechado. Confirme o horario no dia, por telefone ou na porta.",
+    "duracao": {
+      "min": 60,
+      "tipica": 110,
+      "max": 180
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 35,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 35 segundo a Wikivoyage de La Paz (fonte unica). Nao consegui confirmar em pagina oficial porque o dominio musef.org.bo nao abriu nesta sessao; pode haver tarifa reduzida para nacional e para estudante que eu nao vi."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casarao colonial de varios pavimentos com escada; a 3.600 m, subir tres andares de museu cansa de verdade.",
+        "Pode haver cobranca extra para fotografia - relato de visitante, nao confirmado por fonte oficial."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: se voce so fizer um museu em La Paz, faca este. Ele muda o que voce ve no resto da viagem.",
+      "Reserve duas horas de verdade. A sala de texteis sozinha come uma.",
+      "Faca antes do Titicaca e antes de Tiwanaku, nao depois."
+    ],
+    "alertas": [
+      "Horario nao confirmado nesta sessao: o site oficial nao abriu. Ligue ou confira na porta antes de montar o dia em volta dele.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-basilica-de-san-francisco-e-centro-cultural-museo-sa",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Basilica de San Francisco e Centro Cultural Museo San Francisco",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "igreja",
+      "barroco-andino",
+      "centro",
+      "mirante",
+      "imperdivel"
+    ],
+    "descricaoCurta": "A igreja franciscana que e o marco zero de La Paz, com museu no convento, coro, criptas e subida ao campanario com vista do centro.",
+    "descricaoLonga": "A Plaza San Francisco e o coracao civico e popular de La Paz, e a fachada da basilica e um dos melhores exemplos de barroco andino - pedra lavrada com motivo indigena misturado ao repertorio europeu. O convento restaurado funciona como Centro Cultural Museo San Francisco: claustro, coro alto, sacristia, pinacoteca e criptas, e a subida a torre, de onde se ve o centro de cima. A Wikivoyage registra a entrada em Bs 40 e menciona que se pode subir ao campanario. A Prefeitura de La Paz lista separadamente a Basilica, o Centro Cultural Museo e a Plaza Mayor de San Francisco entre os atrativos do centro. Pratico: a visita ao museu e guiada, e a basilica em si (area de culto) e de acesso livre nos horarios de missa. NAO consegui confirmar horario de funcionamento em fonte oficial nesta sessao e por isso o campo fica vazio.",
+    "duracao": {
+      "min": 60,
+      "tipica": 90,
+      "max": 150
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 40,
+      "max": 40,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 40 para o Museo San Francisco segundo a Wikivoyage de La Paz (fonte unica). Entrar na basilica para rezar nao se paga; o ingresso e do museu/convento."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A subida ao campanario e por escada estreita e em caracol, a 3.600 m: nao e para quem tem problema cardiaco, claustrofobia ou joelho ruim.",
+        "Cripta e coro alto nao tem acesso para cadeira de rodas."
+      ],
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "medio",
+      "dependeDeClima": false
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso pelo campanario: e a unica vista de dentro do centro historico, e nenhuma linha de teleferico substitui.",
+      "Olhe a fachada com calma antes de entrar - macaco, sereia e mascara andina estao esculpidos ali no meio dos santos.",
+      "Respeite a area de culto: a basilica e igreja ativa e muito frequentada, nao cenario."
+    ],
+    "alertas": [
+      "Horario nao confirmado em fonte oficial nesta sessao - confirme na bilheteria antes de contar com a visita guiada.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-plaza-murillo-e-o-centro-do-poder-boliviano",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Plaza Murillo e o centro do poder boliviano",
+    "cidadeId": "la-paz",
+    "categoria": "atracao",
+    "tags": [
+      "praca",
+      "centro",
+      "a-pe",
+      "gratis",
+      "historia"
+    ],
+    "descricaoCurta": "A praca onde ficam o Palacio Quemado, a Casa Grande del Pueblo, o Congresso e a Catedral - e onde Pedro Domingo Murillo foi enforcado em 1810.",
+    "descricaoLonga": "A Wikivoyage descreve a praca como o conjunto dos edificios de governo mais a Catedral Metropolitana, e registra que a praca e gratuita. Em volta: o Palacio de Gobierno (o 'Palacio Quemado', queimado em revolta no seculo XIX), a Casa Grande del Pueblo, a Asamblea Legislativa Plurinacional e a Catedral. No centro, a estatua de Pedro Domingo Murillo, executado ali em 1810 - a praca leva o nome do enforcado. E tambem o palco historico das revoltas bolivianas, e por isso o lugar onde manifestacao tende a chegar: a Wikivoyage avisa que protestos sao frequentes em La Paz e costumam comecar perto do meio-dia. Pratico: e cheia de pombo, tem policiamento permanente e e proibido fotografar certas entradas oficiais - obedeca ao guarda.",
+    "duracao": {
+      "min": 20,
+      "tipica": 40,
+      "max": 75
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 3.640 m e plana, o que e raro no centro: boa parada para recuperar o ar entre ladeiras.",
+        "Em dia de manifestacao a praca e fechada por cordao policial - nao insista em atravessar."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito"
+    ],
+    "dicas": [
+      "Va de manha, quando a luz bate na Catedral e a praca ainda nao esta cheia.",
+      "Nao fotografe entrada de palacio nem militar de guarda sem permissao.",
+      "Se encontrar bloqueio ou passeata, de a volta pela Calle Comercio em vez de atravessar."
+    ],
+    "alertas": [
+      "A Wikivoyage registra que protestos em La Paz sao frequentes, geralmente ao meio-dia, e podem bloquear ruas; a Plaza Murillo e destino comum dessas marchas.",
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-de-la-coca",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Museo de la Coca",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "coca",
+      "centro",
+      "interno",
+      "barato",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "Museu pequeno e direto na Calle Linares sobre a folha de coca: uso ritual andino, farmacologia, cocaina e a politica internacional da planta.",
+    "descricaoLonga": "Fica na Calle Linares 906, dentro do quarteirao do Mercado de las Brujas. A Wikivoyage registra entrada de Bs 18 e funcionamento diario das 10:00 as 19:00. O museu e quase todo em texto de parede - vale justamente por isso: percorre o uso ritual e medicinal da folha nos Andes, a mastigacao (acullico) como pratica cotidiana, a quimica que separa folha de cocaina, a historia da Coca-Cola, a guerra as drogas e a posicao boliviana de que a folha nao e droga. Em um pais onde o chá de coca e servido no hotel para a altitude e onde a folha e simbolo nacional, e o museu que evita que o visitante faca piada burra sobre o assunto. Pequeno: 40 minutos a uma hora resolvem.",
+    "duracao": {
+      "min": 30,
+      "tipica": 55,
+      "max": 80
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-19:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 18,
+      "max": 18,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 18 segundo a Wikivoyage de La Paz (fonte unica)."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Museu de leitura: quem nao le espanhol ou ingles aproveita pouco.",
+        "Chá de coca ajuda no desconforto de altitude, mas NAO substitui aclimatacao e nao e remedio: quem tem hipertensao ou arritmia deve perguntar ao medico antes."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso pelo contexto: Bs 18 para nao falar besteira sobre coca no resto da viagem.",
+      "Faca no mesmo trecho do Mercado de las Brujas - sao a mesma rua.",
+      "Nao e museu de cocaina nem de 'tour de droga'. Se alguem te oferecer isso na rua, e golpe."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-de-instrumentos-musicales",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      },
+      {
+        "url": "https://eju.tv/?p=4475089"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Museo de Instrumentos Musicales",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "musica",
+      "calle-jaen",
+      "charango",
+      "interno",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "Centenas de instrumentos andinos na Calle Jaen - charangos, zampoñas, quenas e tarkas - com pecas que se pode tocar.",
+    "descricaoLonga": "Esta na Calle Jaen e aparece tanto na lista de museus da Wikivoyage quanto na relacao de atrativos do centro publicada pela Prefeitura de La Paz. Reune colecao grande de instrumento andino e boliviano: familia do charango (incluindo exemplares historicos e curiosidades de material), aerofonos de sopro como zampoña, quena, tarka e pinquillo, percussao, e instrumento de contexto festivo. Parte do acervo pode ser experimentada, o que torna a visita boa com crianca. ATENCAO: este museu NAO esta no bilhete unico municipal da Calle Jaen - a materia da AMUN que da a regra do ingresso conjunto cita apenas Costumbrista, Litoral, Metales Preciosos e Casa de Murillo. Nao encontrei preco nem horario deste museu em fonte confiavel nesta sessao, e por isso os dois campos ficam vazios.",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Casarao colonial na ladeira da Jaen, com escada estreita."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Se voce comprar um charango na Sagarnaga, venha aqui ANTES: depois de ver o museu voce sabe o que esta comprando.",
+      "Bom com crianca, porque pode pegar em instrumento.",
+      "Nao conte que o ingresso da Jaen cubra este - leve dinheiro trocado a parte."
+    ],
+    "alertas": [
+      "Preco e horario nao encontrados em fonte confiavel nesta sessao: confirme na porta.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-nacional-de-arte",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Museo Nacional de Arte",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "arte",
+      "barroco-andino",
+      "centro",
+      "interno",
+      "palacio"
+    ],
+    "descricaoCurta": "Palacio barroco do seculo XVIII ao lado da Plaza Murillo com pintura colonial da escola de Potosi e arte boliviana moderna.",
+    "descricaoLonga": "Ocupa o antigo Palacio de los Condes de Arana, casarao barroco de meados do seculo XVIII com patio de pedra e fonte, a poucos metros da Plaza Murillo. O acervo cobre a pintura colonial andina - incluindo a escola de Potosi e obra atribuida a Melchor Perez de Holguin, o grande pintor do barroco altoperuano - e desce ate arte boliviana do seculo XX. A Wikivoyage o lista entre os museus de La Paz sem informar preco; a Prefeitura de La Paz tambem o traz na relacao de atrativos do centro, igualmente sem preco nem horario. Por isso NAO registro valor nem horario: campo vazio e confianca rebaixada, em vez de numero inventado. O proprio predio ja justifica a parada, mesmo para quem nao vai ver pintura colonial.",
+    "duracao": {
+      "min": 45,
+      "tipica": 75,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Palacio de dois a tres pavimentos com escada de pedra; a 3.640 m a subida pesa."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Combine com a Plaza Murillo e a Catedral: sao a mesma esquina.",
+      "O patio de pedra e de graca de olhar na entrada - mesmo sem ver o acervo, vale espiar."
+    ],
+    "alertas": [
+      "Preco e horario nao encontrados em fonte confiavel nesta sessao: confirme na bilheteria.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-museo-tambo-quirquincho",
+    "fontes": [
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Museo Tambo Quirquincho",
+    "cidadeId": "la-paz",
+    "categoria": "museu",
+    "tags": [
+      "arte",
+      "centro",
+      "interno",
+      "fora-do-obvio",
+      "tambo"
+    ],
+    "descricaoCurta": "Antigo tambo colonial (pousada de tropeiro) virado museu municipal de arte e memoria urbana, fora do circuito turistico.",
+    "descricaoLonga": "Um tambo era a hospedaria e o deposito onde paravam as tropas de mula que abasteciam a cidade na colonia; o Tambo Quirquincho, no centro de La Paz, e um dos sobreviventes desse tipo de construcao e hoje funciona como museu municipal, com exposicao de arte, fotografia historica, mascara de festa e memoria urbana paceña. A Prefeitura de La Paz o lista entre os atrativos do centro e a Wikivoyage o menciona entre os museus da cidade. E o museu que quase nenhum turista faz - vale pelo predio e pelas temporarias. NAO achei preco nem horario em fonte confiavel nesta sessao, e nao vou inventar; nem tenho confirmacao de que esteja no bilhete unico da Calle Jaen (a materia municipal que define aquele ingresso nao o cita).",
+    "duracao": {
+      "min": 30,
+      "tipica": 50,
+      "max": 90
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Construcao colonial com patio e escada; sem elevador."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Para quem tem terceiro dia em La Paz e ja fez a Jaen e o MUSEF: aqui nao tem fila e as temporarias costumam ser boas.",
+      "Corte se apertar o tempo: nao e imperdivel, e extra."
+    ],
+    "alertas": [
+      "Preco, horario e eventual inclusao no ingresso municipal nao confirmados nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-mirador-killi-killi",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Mirador Killi Killi",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "mirante",
+      "gratis",
+      "vista-360",
+      "imperdivel",
+      "por-do-sol"
+    ],
+    "descricaoCurta": "O mirante de 360 graus de La Paz: a cidade inteira dentro do canion, El Alto na borda e o Illimani ao fundo - e e de graca.",
+    "descricaoLonga": "Fica num esporao acima do centro, no lado de Villa Pabon, e e a vista que explica La Paz melhor que qualquer foto: o canion completo, o casario subindo as encostas, El Alto fechando o horizonte em cima e, em dia limpo, o Illimani (6.438 m) atras. A Wikivoyage diz que a entrada e gratuita e explica o acesso: a pe subindo em linha reta pela Avenida La Bandera, ou de onibus e micro marcados 'V. Pabon' - as linhas W, P, 22 e 137 chegam ao local. A subida a pe e curta em distancia e dura em esforco, porque e ladeira forte a mais de 3.700 m. Melhor horario: fim de tarde, para pegar a cidade acendendo - La Paz de noite vista de cima e um dos quadros mais bonitos da America do Sul.",
+    "duracao": {
+      "min": 30,
+      "tipica": 60,
+      "max": 100
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A subida a pe pela Av. La Bandera e ladeira continua acima de 3.700 m: e esforco cardiovascular de verdade e NAO deve ser feita no primeiro dia de quem vem do nivel do mar. Quem nao estiver aclimatado deve subir de micro ou taxi.",
+        "Mirante aberto e exposto: vento e frio no fim da tarde, e a temperatura cai rapido depois do por do sol.",
+        "Chegar ou voltar a pe no escuro por ladeira vazia nao e recomendado - combine taxi para a volta."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto",
+      "dependeDeClima": true
+    },
+    "selos": [
+      "gratuito",
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (literalmente zero): e o melhor mirante gratuito da cidade.",
+      "Suba de taxi ou micro e desca a pe, nunca o contrario - a ladeira a 3.700 m engana.",
+      "Va 40 minutos antes do por do sol e fique mais 20 depois, para ver a cidade acender. Leve jaqueta."
+    ],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-parque-mirador-laikakota",
+    "fontes": [
+      {
+        "url": "https://lapaz.bo/turismo/centro/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Parque Mirador Laikakota",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "mirante",
+      "parque",
+      "crianca",
+      "centro",
+      "familia"
+    ],
+    "descricaoCurta": "Parque em morro entre o centro e Miraflores, com vista aberta da cidade e area de brinquedo - o mirante que funciona com crianca.",
+    "descricaoLonga": "E o unico mirante que a Prefeitura de La Paz lista explicitamente entre os atrativos do centro: o Parque Mirador Laikakota, num morro entre o Casco Viejo e Miraflores, com vista aberta do canion e do Illimani. Diferente do Killi Killi, e parque equipado - caminho pavimentado, area de brinquedo, espaco para sentar - e por isso e a melhor escolha para quem viaja com crianca ou com alguem que nao consegue encarar ladeira longa. O acesso e curto a partir da area do Museo Nacional de Arte e da Plaza Murillo, atravessando a avenida principal. NAO encontrei preco de entrada nem horario de funcionamento em fonte confiavel nesta sessao: a Prefeitura apenas lista o parque, sem detalhe, entao os campos ficam vazios. Parques municipais de La Paz costumam cobrar entrada simbolica - confirme na portaria.",
+    "duracao": {
+      "min": 40,
+      "tipica": 70,
+      "max": 120
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica em morro a cerca de 3.600 m: a subida e curta mas e subida, e no sol do altiplano o esforco pesa mais.",
+        "Sol de altiplano e agressivo: protetor solar e chapeu, sobretudo com crianca."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio",
+      "dependeDeClima": true
+    },
+    "selos": [],
+    "dicas": [
+      "E o mirante para o dia 1, quando o corpo ainda esta se acostumando: vista boa com esforco pequeno.",
+      "Com crianca, escolha este e nao o Killi Killi.",
+      "Leve agua: altitude desidrata rapido e no parque nao se pode contar com venda."
+    ],
+    "alertas": [
+      "Preco e horario nao confirmados nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-cementerio-general-de-la-paz",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Cementerio General de La Paz",
+    "cidadeId": "la-paz",
+    "categoria": "atracao",
+    "tags": [
+      "cemiterio",
+      "cultura-aymara",
+      "fora-do-obvio",
+      "gratis",
+      "teleferico"
+    ],
+    "descricaoCurta": "Cidade vertical de nichos coloridos onde La Paz visita os mortos com flores, cerveja e banda - tem estacao de teleferico com o nome dele.",
+    "descricaoLonga": "O Cemiterio Geral e tao central na vida da cidade que a Linea Roja do teleferico tem uma estacao chamada Ajayuni/Cementerio, parada do meio entre a Estacion Central e El Alto (Wikipedia espanhola de Mi Teleferico). Visto de cima, da cabine, e um dos quadros mais impressionantes de La Paz: paredes inteiras de nichos empilhados, cada um com sua vitrine, flor, foto e objeto. No chao, e cemiterio em uso e com forte marca andina: a familia volta para limpar o nicho, trocar a flor, brindar com o morto e, em Todos Santos (1 e 2 de novembro), levar comida, musica e banda. Entrar e caminhar nao se paga. NAO achei horario oficial de visitacao em fonte confiavel nesta sessao, e por isso nao registro - cemiterio municipal costuma abrir de manha e fechar no fim da tarde.",
+    "duracao": {
+      "min": 40,
+      "tipica": 70,
+      "max": 120
+    },
+    "diasFechados": [],
+    "gratuito": true,
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Terreno em ladeira e escada a cerca de 3.700 m, no bairro acima do centro.",
+        "E cemiterio ativo e lugar de luto: fotografar familia em visita sem permissao e inaceitavel.",
+        "A regiao em volta (zona do Cementerio) e tambem terminal de onibus para Copacabana e area de muito movimento - ambiente de furto."
+      ],
+      "dependeDeClima": true,
+      "condicionamento": "medio",
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "gratuito",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Fora do obvio e de graca: se voce fizer a Linea Roja, salte uma estacao e entre.",
+      "Se estiver em La Paz em 1 e 2 de novembro, va. Todos Santos aqui nao e Halloween - e banda, comida e o morto como convidado.",
+      "Fotografe arquitetura, nao gente de luto."
+    ],
+    "alertas": [
+      "preco nao encontrado em fonte confiavel; confirmar no local",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-sopocachi-plaza-avaroa-bares-e-a-noite-de-la-paz",
+    "fontes": [
+      {
+        "url": "https://bolivianexpress.org/magazine-sub-item/69"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Sopocachi: Plaza Avaroa, bares e a noite de La Paz",
+    "cidadeId": "la-paz",
+    "categoria": "bar",
+    "tags": [
+      "noite",
+      "sopocachi",
+      "bares",
+      "comida",
+      "musica"
+    ],
+    "descricaoCurta": "O bairro onde La Paz sai a noite: Plaza Avaroa, Av. 20 de Octubre, bares, musica ao vivo e as melhores anticucheras da cidade na calcada.",
+    "descricaoLonga": "Sopocachi e o bairro de classe media a oeste do centro, com estacao propria na Linea Amarilla (Supu Kachi/Sopocachi), e e onde esta a vida noturna da cidade: bar, cervejaria, restaurante e musica ao vivo em volta da Plaza Avaroa e da Avenida 20 de Octubre. A Bolivian Express, na lista de comida de rua da cidade, aponta duas coisas exatamente aqui: o anticucho (espetinho de coracao de boi com batata cozida e molho de aji de maní) na esquina da Av. 20 de Octubre com Aspiazu, no fim da tarde; e o choripan na Plaza Avaroa, a qualquer hora. A mesma fonte situa salteña na Avenida Arce e hamburguesa com queijo campesino frito e llajua na Avenida 6 de Agosto - as duas tambem no eixo Sopocachi. NAO registro preco porque a fonte nao traz preco de nenhuma dessas comidas.",
+    "duracao": {
+      "min": 90,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Alcool a 3.600 m bate muito mais forte: uma cerveja em La Paz rende como duas no nivel do mar, e piora dor de cabeca de altitude. Nos dois primeiros dias, beba pouco ou nada.",
+        "Volte de radio-taxi, nao a pe - a Wikivoyage orienta usar so taxi com placa no teto, sobretudo a noite."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Jante anticucho na rua as 19h e depois sente num bar: e o programa paceño de verdade, e sai barato.",
+      "Nao beba na primeira noite. Seria. A altitude cobra.",
+      "Volte de radio-taxi chamado pelo bar, nao de taxi parado na esquina."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "bo-lpz-anticucho-na-calcada-o-espetinho-da-noite-pacena",
+    "fontes": [
+      {
+        "url": "https://bolivianexpress.org/magazine-sub-item/69"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Anticucho na calcada: o espetinho da noite paceña",
+    "cidadeId": "la-paz",
+    "categoria": "restaurante",
+    "tags": [
+      "comida-de-rua",
+      "barato",
+      "noite",
+      "sopocachi",
+      "imperdivel"
+    ],
+    "descricaoCurta": "Coracao de boi marinado na brasa com batata cozida e molho de aji de maní, vendido por anticucheras na calcada ao cair da tarde.",
+    "descricaoLonga": "O anticucho e a comida de rua mais caracteristica de La Paz: espeto de coracao de boi marinado, assado em grelha aberta na calcada e servido com batata cozida e um molho de aji com amendoim. A Bolivian Express registra o endereco classico - Av. 20 de Octubre, esquina com Aspiazu, em Sopocachi - e o horario: ao por do sol, quando as vendedoras montam a banca para quem volta do trabalho. As bancas sao de rua, com fogo de carvao e fila; e barato e e substancial. Nao registro preco porque a fonte nao traz preco. Para quem tem nojo de miudo: ha versao de carne e de frango, mas o classico e coracao, e e surpreendentemente macio.",
+    "duracao": {
+      "min": 20,
+      "tipica": 35,
+      "max": 60
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Carne de rua grelhada na hora: escolha banca com fila e com a brasa viva, e coma o que sai quente do espeto.",
+        "Nos dois primeiros dias em 3.600 m, comida pesada a noite piora o sono e a dor de cabeca de altitude."
+      ],
+      "dependeDeLuzDoDia": false,
+      "condicionamento": "baixo",
+      "dependeDeClima": true
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso: e a comida que vai ficar na memoria da viagem, e custa menos que um refrigerante de hotel.",
+      "Chegue por volta das 19h, quando a brasa esta no ponto e a fila ainda e curta.",
+      "Peca com bastante molho de aji de maní, mas prove o llajua (a pimenta boliviana) com cuidado - e muito mais forte do que parece."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": false
+    }
+  },
+  {
+    "id": "bo-lpz-valle-de-la-luna-mallasa",
+    "fontes": [
+      {
+        "url": "https://lapaz.bo/turismo/mallasa/"
+      },
+      {
+        "url": "https://www.komoot.com/highlight/5149596"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Valle de la Luna (Mallasa)",
+    "cidadeId": "la-paz",
+    "categoria": "natureza",
+    "tags": [
+      "bate-volta",
+      "erosao",
+      "trilha-curta",
+      "mallasa",
+      "zona-sur"
+    ],
+    "descricaoCurta": "Labirinto de pinaculos de argila erodida na saida sul de La Paz, com duas trilhas curtas - bate-volta de meia manha pelo preco de um micro.",
+    "descricaoLonga": "Fica no macrodistrito Mallasa, na saida sul da cidade, e a Prefeitura de La Paz o descreve como formacao geologica de rocha erodida que lembra a superficie lunar. Nao e canion grande: e um campo de pinaculos de argila e arenito atravessado por duas trilhas curtas com passarela e escada, que se fazem em 35 a 60 minutos (o Komoot fala em duas trilhas curtas, e visitantes relatam cerca de 35-40 minutos no circuito principal). Fica bem mais baixo que o centro - uma reportagem citada em busca fala em cerca de 2.300 m, e o Komoot traz duas altitudes divergentes (cerca de 2.400 m num comentario e 3.340 m na ficha), ou seja, o numero NAO esta confirmado; o que e certo e que se desce em relacao ao centro. Acesso: micro para Mallasa por Bs 2,30 ou taxi por cerca de Bs 35, segundo a Wikivoyage; o Komoot sugere teleferico Verde ate a regiao da Plaza Humboldt e de la micro para Mallasa, que para na entrada.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 210
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 15,
+      "max": 15,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 15 de entrada, segundo comentario datado de 06/2023 na pagina do Komoot - fonte fraca e de usuario, nao oficial. A Prefeitura de La Paz NAO publica preco. Trate como estimativa e leve trocado. O transporte (micro Bs 2,30 ou taxi cerca de Bs 35, Wikivoyage) e a parte."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica mais baixo que o centro de La Paz, o que ajuda: e um dos poucos passeios que se pode fazer no primeiro ou segundo dia sem sofrer com a altitude.",
+        "Trilha com escada, degrau estreito e beirada sem guarda-corpo em alguns trechos: nao e lugar para crianca solta nem para calcado de salto ou chinelo.",
+        "Nao ha sombra e nao ha venda dentro: leve agua, chapeu e protetor solar."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio"
+    },
+    "selos": [
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Faca de manha, antes do sol alto: nao ha uma arvore la dentro.",
+      "Combine com a Zona Sur no mesmo dia (almoco em San Miguel) em vez de voltar direto ao centro.",
+      "Corte se apertar o roteiro: e bonito mas e pequeno. Entre Valle de la Luna e Tiwanaku com um dia so, fique com Tiwanaku."
+    ],
+    "alertas": [
+      "Preco so em fonte de usuario (Komoot, 06/2023); horario de funcionamento nao encontrado em nenhuma fonte confiavel nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-valle-de-las-animas",
+    "fontes": [
+      {
+        "url": "https://lapaz.bo/turismo/naturaleza/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Valle de las Animas",
+    "cidadeId": "la-paz",
+    "categoria": "natureza",
+    "tags": [
+      "bate-volta",
+      "erosao",
+      "trilha",
+      "fora-do-obvio",
+      "altitude"
+    ],
+    "descricaoCurta": "Floresta de agulhas de pedra a cerca de 3.900 m na saida leste de La Paz - maior, mais vazio e mais duro que o Valle de la Luna.",
+    "descricaoLonga": "A Prefeitura de La Paz lista o Valle de las Animas entre os tres atrativos naturais do seu portal de turismo, e a Wikivoyage registra a altitude: 3.900 m. E uma formacao de erosao parecida com a do Valle de la Luna mas em outra escala - paredoes e agulhas de pedra muito mais altas, num vale aberto na saida leste da cidade, sem passarela e sem circuito montado. Por isso e o oposto do Valle de la Luna em perfil de visita: aqui se caminha em terreno solto, sem infraestrutura, a quase 300 m MAIS ALTO que o centro de La Paz - o esforco e real. Em compensacao, nao tem fila e a paisagem e muito maior. NAO encontrei preco de entrada, horario, nem operadora confirmada para este atrativo nesta sessao: os campos ficam vazios de proposito.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 3.900 m, mais alto que o centro de La Paz (3.640 m): caminhada aqui exige estar aclimatado e NAO deve ser feita nos dois primeiros dias de viagem.",
+        "Terreno de erosao sem trilha marcada, com pedra solta e barranco: ir com guia ou com quem conheca e o razoavel.",
+        "Sem agua, sem sombra, sem sinal confiavel de celular em parte do vale."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Se voce tem tres dias em La Paz, este e o passeio de natureza que eu escolheria no lugar do Valle de la Luna - e muito maior e nao tem turista.",
+      "Nao va sozinho e nao va sem aclimatacao: 3.900 m com esforco e onde as pessoas passam mal de verdade.",
+      "Saia cedo e esteja fora do vale antes do fim da tarde."
+    ],
+    "alertas": [
+      "Preco, horario e forma de acesso nao confirmados em fonte confiavel nesta sessao - contrate com agencia em La Paz ou confirme antes de sair.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-muela-del-diablo",
+    "fontes": [
+      {
+        "url": "https://lapaz.bo/turismo/mallasa/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Muela del Diablo",
+    "cidadeId": "la-paz",
+    "categoria": "natureza",
+    "tags": [
+      "trilha",
+      "pico",
+      "zona-sur",
+      "esforco",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "O dente de rocha que se ve de toda a Zona Sur - um nucleo vulcanico que se sobe em trilha de meio dia saindo de Pedregal.",
+    "descricaoLonga": "E o marco geologico mais reconhecivel do sul de La Paz: um bloco de rocha em forma de dente, remanescente de um nucleo vulcanico, que se destaca sobre a Zona Sur. A Prefeitura de La Paz o lista entre os atrativos do macrodistrito Mallasa. A visita e uma trilha de subida que sai da zona de Pedregal/Mallasa e chega a base e ao colo da formacao, com vista do canion, do Valle de la Luna e da cordilheira. Nao e caminhada de parque: e subida continua em terreno seco e exposto, em altitude alta, e o trecho final e escalada facil mas exposta. NAO achei nesta sessao preco, horario, distancia da trilha nem altitude do topo em fonte confiavel - por isso esses campos nao existem neste item. O que digo de altitude e so a faixa da cidade.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Trilha de subida continua em altitude (a cidade vai de 3.100 a 4.058 m, segundo a Wikivoyage, e a Muela esta na parte alta do sul): nao e para quem chegou ontem.",
+        "Trecho final exposto, com pedra solta: quem tem medo de altura nao deve tentar o ultimo lance.",
+        "Sem agua e sem sombra no caminho; leve 2 litros por pessoa."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "E o melhor esforco fisico que La Paz oferece de graca - mas so no terceiro ou quarto dia.",
+      "Suba de taxi ate o inicio da trilha em Pedregal para nao gastar as pernas no asfalto.",
+      "Comece antes das 8h: o sol do altiplano em terreno sem sombra e brutal depois das 11h."
+    ],
+    "alertas": [
+      "Distancia, tempo real da trilha e altitude do topo nao confirmados em fonte confiavel nesta sessao: a duracao aqui e estimativa do agente, nao dado de fonte.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-chacaltaya-5-400-m-e-o-glaciar-que-acabou",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Chacaltaya"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Chacaltaya: 5.400 m e o glaciar que acabou",
+    "cidadeId": "la-paz",
+    "categoria": "mirante",
+    "tags": [
+      "bate-volta",
+      "altitude-extrema",
+      "cordilheira",
+      "glaciar",
+      "esqui"
+    ],
+    "descricaoCurta": "A cerca de 30 km de La Paz, a antiga pista de esqui mais alta do mundo, hoje sem glaciar - sobe-se de carro a 5.300 m e a pe ate 5.421 m.",
+    "descricaoLonga": "A Wikipedia espanhola da os numeros: o cume do Chacaltaya esta a 5.421 m, a pista de esqui ficava a cerca de 5.375 m e o observatorio de fisica cosmica da UMSA a cerca de 5.220 m, a cerca de 30 km de La Paz, na provincia Murillo, perto do Huayna Potosi. A estacao de esqui abriu nos anos 1930, foi a unica da Bolivia ate 2009 e hoje funciona apenas nos fins de semana de novembro a fevereiro, sob controle do Club Andino Boliviano; o acesso a base usa uma estrada dos anos 1930. O ponto central: o glaciar DESAPARECEU - por volta de 2010 tinha menos de 20 metros e sumiu quando a neve restante sublimou, sendo o primeiro glaciar tropical extinto da America do Sul (o artigo oscila entre 2009 e 2010). Ou seja: nao se vai mais ver gelo, vai-se ver a cordilheira e o lugar onde o gelo estava. A van sobe quase ate o refugio; do refugio ao cume e uma caminhada curta e muito dura.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "ALTITUDE EXTREMA: 5.421 m no cume, cerca de 5.300 m onde a van para. Isso e quase 1.800 m acima de La Paz e mais alto que qualquer ponto da Europa continental. NAO FACA sem ter passado pelo menos 3 dias completos entre 3.600 e 4.000 m.",
+        "Acima de 5.000 m o risco deixa de ser desconforto e passa a ser mal agudo das montanhas, com risco de edema pulmonar e cerebral: dor de cabeca forte, vomito, falta de ar em repouso, tosse ou confusao significam DESCER imediatamente, nao 'esperar passar'.",
+        "Quem tem problema cardiaco, pressao descontrolada, anemia grave, gravidez ou doenca pulmonar nao deve subir sem liberacao medica.",
+        "O refugio ao cume e caminhada curta em distancia e brutal em esforco: cada 20 passos pedem parada.",
+        "Frio e vento severos o ano inteiro e sol de altitude extrema: oculos escuros, protetor fator alto, luva e gorro sao equipamento, nao conforto.",
+        "A estrada dos anos 1930 e de terra e fecha com neve ou chuva forte - cancelamento e comum."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto",
+      "idadeMinima": 12,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Nunca, em nenhuma hipotese, no primeiro ou segundo dia em La Paz. Chacaltaya e o passeio que manda gente para o hospital.",
+      "Pergunte a agencia se o veiculo tem oxigenio a bordo e se o guia desce com quem passar mal. Se nao tiver resposta clara, troque de agencia.",
+      "Nao va esperando neve: a Wikipedia espanhola registra que o glaciar desapareceu. Va pela cordilheira e pela altitude.",
+      "Combine com o Valle de la Luna no mesmo dia so se estiver bem - e o roteiro comum das agencias, mas sao 5.300 m seguidos de caminhada."
+    ],
+    "alertas": [
+      "Preco do tour NAO confirmado em fonte confiavel nesta sessao e por isso nao registrado: as faixas que circulam (US$ 29 a 39 por pessoa em dia inteiro, e entradas de Bs 25 a 45 somando Chacaltaya e Valle de la Luna) vem de plataformas de venda e de relato de viajante que eu NAO abri. Confirme na agencia.",
+      "O glaciar do Chacaltaya nao existe mais: quem vender 'esqui' ou 'neve garantida' esta vendendo o que nao ha.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-tiwanaku-o-sitio-arqueologico",
+    "fontes": [
+      {
+        "url": "https://tiwanaku.gob.bo/"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Tiwanaku"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Tiwanaku: o sitio arqueologico",
+    "cidadeId": "la-paz",
+    "categoria": "atracao",
+    "tags": [
+      "arqueologia",
+      "unesco",
+      "bate-volta",
+      "imperdivel",
+      "altiplano"
+    ],
+    "descricaoCurta": "Capital pre-inca a 3.885 m e 70 km de La Paz, Patrimonio da Unesco desde 2000: Kalasasaya, a Puerta del Sol, a piramide de Akapana e dois museus.",
+    "descricaoLonga": "A Wikipedia espanhola da a geografia: 3.885 m de altitude, cerca de 70 km a noroeste de La Paz por estrada, inscrito como Patrimonio Cultural da Humanidade em 2 de dezembro de 2000. O que se ve: o templo de Kalasasaya, com cerca de dois hectares e alinhamentos astronomicos, onde estao as estelas Ponce e El Fraile; a Puerta del Sol, monolito de andesita de cerca de 3 m de altura, 4 m de largura e 10 toneladas; a piramide de Akapana, com cerca de 18 m e sete terracos, escavada por cacadores de tesouro no seculo XVIII; o Templete Semisubterraneo; e o Monolito Bennett, de 7,30 m e cerca de 18,5 toneladas, levado a La Paz em 1933 e devolvido ao sitio em 2002. Preco e horario vem do site oficial do CIAAAT (tiwanaku.gob.bo): visita de segunda a domingo das 09:00 as 16:00, entrada de Bs 100 para estrangeiros, Bs 15 para nacionais e Bs 5 para estudante nacional. O mesmo site informa visita noturna reaberta uma vez por mes a partir de 30/04/2022, divulgada pelos canais oficiais - noticia antiga, confirme.",
+    "duracao": {
+      "min": 180,
+      "tipica": 300,
+      "max": 420
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-16:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 5,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Bs 100 estrangeiro, Bs 15 nacional, Bs 5 estudante nacional, segundo o site oficial do CIAAAT (tiwanaku.gob.bo). O transporte e a parte: a Wikivoyage cita onibus e micro de Rio Seco por Bs 7 a 10, em cerca de 1h30, com saidas tambem do Cementerio."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {
+      "telefone": "+591 2 2896605",
+      "whatsapp": "+591 71222174",
+      "email": "tiwanaku.ciaaat@gmail.com",
+      "site": "https://tiwanaku.gob.bo/"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 3.885 m, mais alto que La Paz (3.640 m), e tudo caminhada em campo aberto no altiplano: o esforco e maior do que o terreno plano sugere.",
+        "Nao ha sombra no sitio e o sol do altiplano queima em minutos: chapeu, protetor fator alto e agua sao obrigatorios.",
+        "Vento constante e queda brusca de temperatura quando entra nuvem - leve corta-vento mesmo em dia de sol.",
+        "Piso de pedra irregular e escada: acessibilidade limitada para cadeira de rodas."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso mesmo a Bs 100: e o sitio arqueologico mais importante da Bolivia e nao tem equivalente no circuito.",
+      "Va com guia (contratado na entrada ou na agencia): sem interpretacao, Tiwanaku parece um campo com pedras.",
+      "Saia de La Paz as 8h para chegar quando abre e pegar o sitio vazio - os tours de agencia chegam depois das 10h.",
+      "Faca o MUSEF em La Paz ANTES de vir. A diferenca de leitura e enorme."
+    ],
+    "alertas": [
+      "O site oficial traz a visita noturna como novidade de abril de 2022: pode nao estar mais acontecendo. Confirme pelo WhatsApp antes de contar com ela.",
+      "O site oficial nao diz explicitamente se os Bs 100 cobrem os dois museus (Ceramico e Litico) - leve a duvida para a bilheteria.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-camino-de-la-muerte-de-bicicleta-la-cumbre-a-yolosa",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yungas_Road"
+      },
+      {
+        "url": "https://www.roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas/the-worlds-most-dangerous-road"
+      },
+      {
+        "url": "https://www.gravitybolivia.com/death-road"
+      },
+      {
+        "url": "https://www.bolivianlife.com/death-road-cycle-all-you-need-to-know/"
+      },
+      {
+        "url": "https://www.bolivianlife.com/?p=161539"
+      },
+      {
+        "url": "https://bushop.com/bolivia/death-road-tours/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Camino de la Muerte de bicicleta (La Cumbre a Yolosa)",
+    "cidadeId": "la-paz",
+    "categoria": "experiencia",
+    "tags": [
+      "bicicleta",
+      "aventura",
+      "yungas",
+      "descida",
+      "risco-real"
+    ],
+    "descricaoCurta": "64 km de descida de bicicleta, de 4.650-4.700 m em La Cumbre a 1.200 m em Yolosa, por uma estrada de terra de uma pista com precipicio. Mata gente.",
+    "descricaoLonga": "Comeco pelo que importa: ISSO MATA. A Wikipedia inglesa registra que ao menos 18 ciclistas morreram na estrada desde 1998 - com a ressalva de que a propria pagina marca o dado como 'falha de verificacao' - e que a via antiga tinha de 200 a 300 mortes por ano antes do bypass, com trechos de menos de 3 m de largura; a Rough Guides descreve precipicios de ate 1.000 m nos primeiros 40 km, com nuvem densa e cachoeira caindo sobre a pista. Hoje a estrada antiga e usada quase so por bicicleta, moto e pedestre, porque o trafego foi para a rodovia nova, e recebe cerca de 25.000 turistas por ano. A descida: La Cumbre a 4.650-4.700 m (a Gravity Bolivia diz 4.700 m, a Bolivian Life 4.650 m, a Rough Guides 4.800 m), 64 km (a Bolivia Hop diz 61 km numa secao e 64 em outra, com 20 km de asfalto e 44 de terra), chegada em Yolosa a 1.200 m, mais de 3.500 m de desnivel, 4 a 5 horas de pedal e um dia de 7h as 18h. Diferenca entre operadora seria e barata, segundo as fontes: a Bolivia Hop separa basica (US$ 65-85: hardtail, freio mecanico, grupo grande, um guia, as vezes sem van de apoio), intermediaria (US$ 90-120: freio hidraulico, dois guias, van durante toda a descida) e premium (US$ 120-160: full-suspension, grupo pequeno, radio, fotografo); a Gravity Bolivia cobra US$ 154 adulto e US$ 199 crianca de 13+ na tabela de 2027; a Bolivian Life situa operadora reputada em US$ 80-135 e exige freio hidraulico a disco, dois guias (um na frente e um atras), veiculo de apoio e seguro por escrito. A taxa da Prefeitura de Coroico e Bs 50 (Bs 25 no comeco, Bs 25 no fim) e nem sempre vem inclusa.",
+    "duracao": {
+      "min": 420,
+      "tipica": 600,
+      "max": 660
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 65,
+      "max": 199,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Registrado em USD porque e assim que as operadoras cobram - NAO converto. Faixas: Bolivia Hop US$ 65-85 (basica), US$ 90-120 (intermediaria), US$ 120-160 (premium); Bolivian Life US$ 80-135 para operadora reputada; Gravity Bolivia US$ 154 adulto / US$ 199 crianca 13+ na tabela de 01/01/2027 a 31/12/2027. A taxa da Prefeitura de Coroico (Bs 50) e separada e pode nao estar inclusa. Tours de rua a US$ 35-50 existem e sao exatamente os que as fontes mandam evitar."
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A largada e a 4.650-4.700 m, mais de 1.000 m ACIMA de La Paz: a Bolivian Life recomenda aclimatar 1 a 2 dias em La Paz antes, e isso e o minimo. Pedalar a 4.700 m sem aclimatacao e irresponsavel.",
+        "La Cumbre pode ficar abaixo de zero mesmo na estacao seca (Bolivian Life): roupa termica de base, luva e corta-vento.",
+        "Sao mais de 3.500 m de perda de altitude em uma manha, com mudanca de clima de gelo para selva: fadiga de mao e braco por frenagem continua e o problema mais relatado.",
+        "Pista de terra de uma unica faixa, com precipicio sem guarda-corpo e queda de pedra: uma ciclista israelense de 22 anos morreu quando uma rocha caiu sobre sua perna durante um tour (noticia citada em busca; nao abri a reportagem, registro como relato a confirmar).",
+        "Idade minima varia por empresa, entre 13 e 18 anos segundo as fontes; a Gravity aceita 13+ com guia extra.",
+        "Confirme se o seu seguro de viagem cobre ciclismo de descida (downhill) - muitos nao cobrem. A Bolivia Hop cita seguro avulso de US$ 38 para quem nao tem."
+      ],
+      "condicionamento": "alto",
+      "idadeMinima": 13,
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "NAO ECONOMIZE AQUI. Esta e a unica linha deste pacote em que pagar o dobro e decisao de seguranca e nao de conforto. As fontes sao unanimes: o barato corta freio, numero de guias e van de apoio.",
+      "Perguntas a fazer antes de pagar, na ordem: o freio e hidraulico a disco? Quando trocaram pastilha e pneu? Quantos ciclistas por guia? A van acompanha a descida inteira ou so encontra em checkpoint? O seguro esta por escrito? A taxa de Bs 50 esta inclusa? Se a resposta for vaga em qualquer uma, saia.",
+      "Nao faca no dia seguinte a chegada em La Paz, e nunca no mesmo dia de Chacaltaya.",
+      "Durma em Coroico no fim, em vez de voltar a La Paz na van: poupa 3 horas de subida e deixa o corpo descansar a 1.700 m.",
+      "Se o dia estiver de chuva forte ou neblina fechada, remarque. A fonte diz que a nuvem densa e justamente o que torna o trecho perigoso."
+    ],
+    "alertas": [
+      "Mortes: a Wikipedia inglesa registra ao menos 18 ciclistas mortos desde 1998 (dado marcado no proprio artigo como de verificacao falhada) e 200-300 mortes anuais na estrada antes do bypass; a Rough Guides afirma que ciclistas ficaram feridos e alguns morreram na descida. Nao existe estatistica oficial boliviana recente de mortes de ciclistas que eu tenha conseguido abrir.",
+      "A Gravity Bolivia se anuncia como 'a empresa com o melhor historico de seguranca da Bolivia' e NAO apresenta dado nenhum que comprove isso. E publicidade, nao estatistica.",
+      "A Bolivia Hop registra que em 2026 saidas foram canceladas com pouca antecedencia por deslizamento e bloqueio na aproximacao de La Cumbre, e que foi decretado estado de emergencia nacional de 90 dias em 20/06/2026 para desobstruir bloqueios: pergunte a operadora como ela avisa e remarca, e confira a ABC (Administradora Boliviana de Carreteras) na manha do passeio.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-cholita-wrestling-titanes-del-ring-el-alto",
+    "fontes": [
+      {
+        "url": "https://bushop.com/bolivia/bolivian-cholita-wrestling/"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Cholita wrestling (Titanes del Ring, El Alto)",
+    "cidadeId": "la-paz",
+    "categoria": "experiencia",
+    "tags": [
+      "el-alto",
+      "luta",
+      "espetaculo",
+      "domingo",
+      "cultura-popular"
+    ],
+    "descricaoCurta": "Luta livre encenada com lutadoras de pollera e chapeu-coco no Multifuncional de El Alto - espetaculo popular que virou atracao turistica.",
+    "descricaoLonga": "Acontece no Centro Multifuncional de El Alto, 'El Multifuncional', atras da igreja de San Francisco de El Alto, a cerca de 30 minutos de micro do centro de La Paz. A Wikivoyage diz que e aos domingos, na Ceja de El Alto (Zona 12 de Octubre), e que o taxi do centro custa no maximo Bs 50. A Bolivia Hop lista quinta e domingo, das 17:30 as 19:30, e ao mesmo tempo diz no corpo do texto 'todo domingo as 14h' - a propria pagina se contradiz, entao o horario e DUVIDOSO e nao registro horario estruturado. Precos: US$ 13 na bilheteria, so assento, e US$ 18 em pacote com transporte, assento VIP, pipoca, refrigerante e lembrancinha. Historia, pela mesma fonte: as primeiras ligas bolivianas de lucha libre surgiram nos anos 1950-60; no inicio dos anos 2000 mulheres de El Alto formaram um grupo de luta que funcionava como lazer e, segundo a pagina, tambem como valvula de escape para vitimas de violencia domestica; a liga Titanes del Ring incorporou as lutadoras, e o traje de cholita popularizou o espetaculo, que ganhou o mundo com o documentario 'The Fighting Cholitas' (2006).",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 240
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "USD",
+      "min": 13,
+      "max": 18,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Registrado em USD porque e assim que a fonte cobra - NAO converto. US$ 13 pago na arena (so assento) e US$ 18 em pacote com transporte, assento VIP, pipoca, refrigerante e lembrancinha, segundo a Bolivia Hop. A mesma fonte cita Bs 5 como gorjeta sugerida para foto com as lutadoras. Nao achei preco em bolivianos na bilheteria, e a propria fonte diz que o turista paga varias vezes o preco local."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Acontece a cerca de 4.050 m em El Alto: duas a tres horas sentado em ginasio sem aquecimento, no frio do fim da tarde do altiplano - leve jaqueta de verdade.",
+        "A Wikivoyage orienta nao levar objetos de valor e manter o dinheiro junto ao corpo em El Alto; a volta a noite deve ser de radio-taxi, nao de micro.",
+        "E espetaculo encenado e com humor pesado; ha quem ache a encenacao do corpo da cholita problematica. Decida se quer assistir."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": false,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Confirme o dia e a hora no proprio dia, por telefone da agencia ou do ginasio: a fonte que achei se contradiz entre domingo 14h e quinta/domingo 17:30.",
+      "Se for sem pacote, combine o taxi de ida E de volta - a Wikivoyage diz que o taxi do centro custa no maximo Bs 50.",
+      "Pague a gorjeta da foto sem reclamar: as lutadoras ganham pouco e a foto e parte da renda delas.",
+      "Corte se apertar: e divertido, mas se o roteiro estiver curto a Feria 16 de Julio ensina mais sobre El Alto."
+    ],
+    "alertas": [
+      "Dia e horario conflitantes entre as fontes (Wikivoyage: domingo; Bolivia Hop: quinta e domingo 17:30-19:30 numa linha e domingo 14h em outra). Nao monte o dia em volta disso sem confirmar.",
+      "A Bolivia Hop e pagina de empresa de transporte e vende pacote: o preco de US$ 18 e oferta propria, nao tabela neutra.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-feria-16-de-julio-el-alto",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/El_Alto"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://bolivianexpress.org/magazine-sub-item/69"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Feria 16 de Julio (El Alto)",
+    "cidadeId": "la-paz",
+    "categoria": "compras",
+    "tags": [
+      "feira",
+      "el-alto",
+      "quinta-e-domingo",
+      "mercado-gigante",
+      "teleferico"
+    ],
+    "descricaoCurta": "Uma das maiores feiras a ceu aberto da America Latina, as quintas e domingos em El Alto: roupa usada, peca de carro, celular, movel e oficina de tudo.",
+    "descricaoLonga": "A Wikipedia espanhola de El Alto registra que a feira acontece as quintas e domingos e a descreve como uma das maiores feiras da America Latina, sem informar extensao nem numero de bancas. A Wikivoyage confirma quinta e domingo e da o acesso pratico: teleferico Linea Roja da Estacion Central ate a estacao 16 de Julio, por Bs 3; tambem cita taxi compartilhado 'Ceja' por cerca de Bs 2,50. A mesma fonte avisa: chegue cedo porque as filas sao longas, nao leve objeto de valor e guarde o dinheiro junto ao corpo. O que se vende: praticamente tudo - roupa de segunda mao, peca de automovel, celular, movel, ferramenta, eletronico, e oficinas de metal, madeira e eletronica funcionando ali mesmo. E ali tambem que a Bolivian Express situa duas comidas no 'Feria del Alto': o charquekan (carne de llama curada e desfiada com choclo, chuño, batata, queijo e ovo) e o chicharron de porco com mote, chuño e tunta. Nao e feira de artesanato para turista: e o mercado de abastecimento de uma cidade de 885.825 habitantes (censo 2024).",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 330
+    },
+    "horariosObservacao": "dia de feira confirmado; horario de abertura desconhecido",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Acontece a cerca de 4.050 m, em terreno plano mas sem sombra: horas em pe nessa altitude cansam muito mais do que parece, e o sol queima rapido.",
+        "Aglomeracao extrema: e o ambiente de furto mais serio de toda a regiao. A Wikivoyage manda deixar objeto de valor em casa e levar o dinheiro junto ao corpo, dividido.",
+        "Nao ha banheiro facil nem agua garantida - leve a sua.",
+        "Vento e frio do planalto no comeco da manha e no fim da tarde."
+      ],
+      "dependeDeClima": true,
+      "condicionamento": "medio",
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale cada peso (custa Bs 3 de teleferico): e a coisa mais reveladora que La Paz e El Alto oferecem, e nao tem nada de montado para turista.",
+      "Va de manha, de teleferico, com uma nota pequena no bolso da frente e o resto escondido. Sem camera pendurada no peito.",
+      "Coma ali: charquekan e chicharron sao especialidade da feira, segundo a Bolivian Express.",
+      "So funciona quinta e domingo - se o seu roteiro nao bate com esses dias, nao tente substituir por outra feira."
+    ],
+    "alertas": [
+      "A Los Tiempos noticiou em junho de 2026 que a feira passou dias de dificuldade por causa de bloqueios no pedagio da via La Paz-El Alto ao longo de maio, com menos bancas que o normal - noticia que apareceu em busca e que eu NAO abri; registro como indicio de que bloqueio pode atrapalhar o acesso.",
+      "Nao ha fonte confiavel para horario de abertura e fechamento: na pratica as bancas montam de madrugada e a feira morre no fim da tarde. Dias (quinta e domingo) estao confirmados em duas fontes.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-lpz-el-alto-e-os-cholets-a-cidade-aymara-em-cima-do-cani",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/El_Alto"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/La_Paz_(Bolivia)"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Mi_Telef%C3%A9rico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "El Alto e os cholets: a cidade aymara em cima do canion",
+    "cidadeId": "la-paz",
+    "categoria": "atracao",
+    "tags": [
+      "el-alto",
+      "arquitetura",
+      "cholets",
+      "aymara",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "A 4.050-4.150 m e com 885.825 habitantes, El Alto e maior que La Paz e inventou uma arquitetura propria: os cholets, predios de fachada neo-andina.",
+    "descricaoLonga": "A Wikipedia espanhola registra 885.825 habitantes no censo de 2024 - mais que o municipio de La Paz - e altitude que varia entre cerca de 3.900 e 4.275 m, com 4.090 m no texto e 4.150 m na ficha. E uma cidade aymara, jovem e economicamente poderosa, construida no planalto que fecha o canion de La Paz. A mesma fonte registra os cholets como estilo arquitetonico proprio: predios de varios andares com fachada de cor forte e geometria inspirada em iconografia andina, com salao de festa nos andares baixos, lojas no termico e a casa do dono no alto. Nao ha museu nem bilheteria: o atrativo e andar e olhar para cima, e as melhores fachadas estao espalhadas pelas avenidas em volta da Ceja e no caminho da Linea Azul do teleferico. Acrescente a vista: a Wikipedia espanhola mostra o Huayna Potosi e o Illimani vistos de El Alto, e e dali que a cordilheira aparece inteira.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 3,
+      "max": 5,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Nao se paga para entrar em El Alto; o custo e o teleferico (Bs 3 na primeira linha, Bs 2 no transbordo). Visita guiada a interior de cholet existe no mercado mas nao achei preco em fonte confiavel."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Entre 3.900 e 4.275 m: e a parte mais alta de todo o roteiro do altiplano fora de Chacaltaya. Caminhar varias horas aqui no primeiro ou segundo dia de viagem e pedir dor de cabeca e nausea.",
+        "A Wikivoyage descreve El Alto como uma das cidades mais perigosas da Bolivia em materia de roubo e orienta manter os pertences junto ao corpo.",
+        "Vento forte e sol direto: protecao solar e corta-vento."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [],
+    "dicas": [
+      "Deixe para o terceiro dia em diante, e combine com a Feria 16 de Julio (quinta ou domingo) para fazer uma subida so.",
+      "Ande pelas avenidas em volta da Ceja olhando para cima: os cholets nao estao em roteiro, estao no meio da cidade.",
+      "Nao va a noite e volte de radio-taxi se escurecer.",
+      "Se o ar estiver pesando, resolva no teleferico: a Linea Azul mostra a cidade de cima sem caminhada."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

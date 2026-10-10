@@ -1,0 +1,98 @@
+{
+ "la-paz": {
+  "lat": -16.49555,
+  "lng": -68.13362,
+  "altitudeM": 3645,
+  "osm": "https://www.openstreetmap.org/relation/4499870",
+  "nomeOsm": "La Paz, Provincia Pedro Domingo Murillo, La Paz, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-16.49555&longitude=-68.13362"
+ },
+ "copacabana": {
+  "lat": -16.16573,
+  "lng": -69.08544,
+  "altitudeM": 3844,
+  "osm": "https://www.openstreetmap.org/node/795662927",
+  "nomeOsm": "Copacabana, Provincia Manco Kapac, La Paz, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-16.16573&longitude=-69.08544"
+ },
+ "coroico": {
+  "lat": -16.1886,
+  "lng": -67.72746,
+  "altitudeM": 1733,
+  "osm": "https://www.openstreetmap.org/node/1518263561",
+  "nomeOsm": "Coroico, Municipio Coroico, Provincia Nor Yungas, La Paz, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-16.1886&longitude=-67.72746"
+ },
+ "rurrenabaque": {
+  "lat": -14.44366,
+  "lng": -67.53127,
+  "altitudeM": 200,
+  "osm": "https://www.openstreetmap.org/node/413169623",
+  "nomeOsm": "Rurrenabaque, General José Ballivián Segurola, Beni, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-14.44366&longitude=-67.53127"
+ },
+ "uyuni": {
+  "lat": -20.46284,
+  "lng": -66.82391,
+  "altitudeM": 3668,
+  "osm": "https://www.openstreetmap.org/node/795493613",
+  "nomeOsm": "Uyuni, Antonio Quijarro, Potosí, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-20.46284&longitude=-66.82391"
+ },
+ "tupiza": {
+  "lat": -21.44377,
+  "lng": -65.72084,
+  "altitudeM": 2964,
+  "osm": "https://www.openstreetmap.org/node/319550086",
+  "nomeOsm": "Tupiza, Sur Chichas, Potosí, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-21.44377&longitude=-65.72084"
+ },
+ "potosi": {
+  "lat": -19.58929,
+  "lng": -65.75347,
+  "altitudeM": 3981,
+  "osm": "https://www.openstreetmap.org/node/277381654",
+  "nomeOsm": "Potosí, Municipio Potosí, Provincia Tomás Frías, Potosí, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-19.58929&longitude=-65.75347"
+ },
+ "sucre": {
+  "lat": -19.04773,
+  "lng": -65.25943,
+  "altitudeM": 2798,
+  "osm": "https://www.openstreetmap.org/node/313764484",
+  "nomeOsm": "Sucre, Municipio Sucre, Provincia Oropeza, Chuquisaca, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-19.04773&longitude=-65.25943"
+ },
+ "cochabamba": {
+  "lat": -17.40125,
+  "lng": -66.16757,
+  "altitudeM": 2552,
+  "osm": "https://www.openstreetmap.org/relation/4503297",
+  "nomeOsm": "Cochabamba, Juan De La Rosa, Molle, Cochabamba, Cercado, Cochabamba, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-17.40125&longitude=-66.16757"
+ },
+ "torotoro": {
+  "lat": -18.13338,
+  "lng": -65.76299,
+  "altitudeM": 2698,
+  "osm": "https://www.openstreetmap.org/way/478978973",
+  "nomeOsm": "Toro Toro, Municipio Toro Toro, Provincia Charcas, Potosí, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-18.13338&longitude=-65.76299"
+ },
+ "santa-cruz": {
+  "lat": -17.78342,
+  "lng": -63.18209,
+  "altitudeM": 422,
+  "osm": "https://www.openstreetmap.org/relation/4511527",
+  "nomeOsm": "Santa Cruz de la Sierra, Provincia Andrés Ibáñez, Santa Cruz, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-17.78342&longitude=-63.18209"
+ },
+ "samaipata": {
+  "lat": -18.17967,
+  "lng": -63.87591,
+  "altitudeM": 1644,
+  "osm": "https://www.openstreetmap.org/way/179358898",
+  "nomeOsm": "Samaipata, Provincia Florida, Santa Cruz, Bolívia",
+  "elevacaoDe": "https://api.open-meteo.com/v1/elevation?latitude=-18.17967&longitude=-63.87591"
+ }
+}

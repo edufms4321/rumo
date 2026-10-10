@@ -1,0 +1,1148 @@
+[
+  {
+    "id": "la-paz-copacabana-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-copacabana.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/copacabana-la_paz.php"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Copacabana_(Bolivia)"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bolivia"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "copacabana",
+    "modal": "onibus",
+    "operadoras": [
+      "Vicuna Travel",
+      "Trans Titicaca",
+      "Manco Kapac"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 240,
+    "frequencia": "HORARIOS CONFIRMADOS (TicketsBolivia, lidos em 09/10/2026) - saidas de La Paz: Manco Kapac 07:00 (chega 11:00), Vicuna Travel 07:30 (chega 11:30), Trans Titicaca 08:00 (chega 12:00), Manco Kapac 08:00 (chega 12:00) e Manco Kapac 10:00 (chega 14:00). A plataforma acrescenta uma regra que MUDA O ROTEIRO: 'No hay viajes nocturnos entre La Paz y Copacabana, ya que el viaje debe cruzar el estrecho de Tiquina que no se puede cruzar de noche por razones de seguridad'. OU SEJA: este trecho e so de dia, e o ultimo onibus confortavel sai de manha. No sentido Copacabana -> La Paz: Vicuna Travel 13:30 (chega 17:30), Trans Titicaca 13:30 (chega 17:30) e Manco Kapac 18:00 (chega 22:00). A Wikivoyage acrescenta que minibus locais saem do terminal do Cemiterio e de Rio Seco, em El Alto.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 20,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-copacabana.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/copacabana-la_paz.php"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Copacabana_(Bolivia)"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bolivia"
+        }
+      ]
+    },
+    "terminalSaida": "LA PAZ: Terminal de Buses de La Paz, na Avenida Peru (a TicketsBolivia tambem descreve como 'entre las avenidas Peru y Uruguay'). Minibus local: terminal do Cemiterio e Rio Seco, em El Alto (Wikivoyage).",
+    "terminalChegada": "COPACABANA: Plaza Sucre, a praca principal no centro de Copacabana - e de onde tambem saem os onibus de volta. Nao existe terminal rodoviario formal.",
+    "observacoes": "DISTANCIA: 151 km no sentido La Paz->Copacabana e 145 km no sentido inverso, pela propria TicketsBolivia (os dois numeros na mesma plataforma - reproduzi). Passa por Batallas e Huatajata ate o Estreito de Tiquina. ERRO NA FONTE QUE VOCE DEVE IGNORAR: a pagina de La Paz->Copacabana escreve 'El recorrido de La Paz a Cochabamba es de 4 horas' - e Copacabana, nao Cochabamba; e um erro de copiar e colar da plataforma. As 4 horas valem para Copacabana. CONEXAO INTERNACIONAL: de Copacabana sao 3 onibus diarios para Puno (Peru) por Bs 30, e van compartilhada ate a fronteira peruana por Bs 3, 30 minutos (Wikivoyage). 300 min porta a porta = 240 de viagem + 60 de antecedencia de terminal (antecedencia NAO publicada por estas operadoras - usei 60 min por analogia com o restante do pais; marque como ESTIMATIVA). PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-coroico-onibus",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Bolivia"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "coroico",
+    "modal": "onibus",
+    "operadoras": [],
+    "duracaoPortaAPortaMin": 180,
+    "duracaoVeiculoMin": 150,
+    "frequencia": "No sentido COROICO -> LA PAZ a Wikivoyage publica dado concreto: minibus das 03:00 as 17:30, saindo da igreja, a sudoeste da cidade, cerca de 2h30 de viagem; micros pequenos cerca de 2 horas. No sentido LA PAZ -> COROICO a mesma fonte diz que onibus do 'Terminal Provincial Minasa Yungas', em La Paz, passam e param em YOLOSITA, e que de Yolosita sobe-se a Coroico a pe por trilha direta ou de minibus; menciona que existem algumas ligacoes diretas, mas NAO publica horario nem duracao para o sentido La Paz -> Coroico. FREQUENCIA EXATA NAO CONFIRMADA. ATENCAO: a TicketsBolivia NAO vende este trecho - Coroico nao esta na lista de cidades da plataforma -, entao nao existe horario de operadora confirmado aqui.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 20,
+      "max": 35,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Coroico"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Bolivia"
+        }
+      ]
+    },
+    "terminalSaida": "LA PAZ: Terminal Provincial Minasa Yungas, no bairro de Villa Fatima (a Wikivoyage nomeia o terminal mas nao da endereco; o bairro de Villa Fatima e o ponto de saida de todo o trafego para os Yungas e para o Beni).",
+    "terminalChegada": "COROICO: nao ha terminal formal; os minibus de volta saem da IGREJA, a sudoeste da cidade (Wikivoyage). Chegando de onibus de linha, voce pode ser deixado em YOLOSITA, no pe do morro, e precisa subir de minibus (Bs 5) ou a pe.",
+    "observacoes": "O QUE ESTE TRECHO FAZ COM O SEU CORPO - E A MELHOR NOTICIA DE ACLIMATACAO DO PACOTE: voce desce de 3.640 m (La Paz) para cerca de 1.700-1.800 m em duas horas e meia. Descer altitude e SEMPRE bom para o mal de altitude; o CDC diz que sintomas melhoram com 300 m de descida, e aqui a descida e de quase 2.000 m. Coroico e, por isso, um excelente plano B para quem passou mal em La Paz. NO CAMINHO DE VOLTA e o oposto: voce sobe 2.000 m em duas horas, e isso pode acordar o soroche. CUIDADO COM A OBRA, DADO CONCRETO: a Wikivoyage registra que 'The Coroico-Caranavi road is closed for roadworks daily from 07:00 to 17:00' - e a mesma estrada que segue para Rurrenabaque. Se isso continuar valendo, a janela de passagem e noturna. CONFIRME NA TRANSITABILIDADE DA ABC. ESTRADA DA MORTE: a estrada velha (Yungas Road) e atracao de bicicleta, nao rota de onibus; o FCDO manda checar o estado das bicicletas e se o guia leva equipamento de seguranca e primeiros socorros. 180 min porta a porta = 150 de viagem + 30 de margem. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-rurrenabaque-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-rurrenabaque.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/rurrenabaque-la_paz.php"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "rurrenabaque",
+    "modal": "onibus",
+    "operadoras": [
+      "Trans Totai",
+      "Trans Rurre",
+      "Flota Yunguena"
+    ],
+    "duracaoPortaAPortaMin": 900,
+    "duracaoVeiculoMin": 840,
+    "frequencia": "HORARIOS CONFIRMADOS (TicketsBolivia, lidos em 09/10/2026) - saidas de LA PAZ: Flota Yunguena 16:00 (chega 07:00), Trans Totai 16:30 (chega 06:30), Trans Rurre 17:00 (chega 07:00), Trans Totai 17:30 (chega 07:30), Flota Yunguena 17:30 (chega 09:00). A mesma pagina diz, no texto, que os onibus da Trans Totai saem as 15:30, 16:30 e 18:30 - NAO BATE com a tabela da propria pagina (reproduzi as duas). Saidas de RURRENABAQUE: Trans Rurre 18:00 (chega 07:00), Trans Totai 18:30 (chega 08:30), Flota Yunguena 19:00 (chega 08:00). Ou seja: DE 3 A 5 SAIDAS POR DIA, todas no fim da tarde, chegando de manha.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 70,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-rurrenabaque.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/rurrenabaque-la_paz.php"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "LA PAZ: NAO E A TERMINAL PRINCIPAL. Os onibus saem do escritorio da propria empresa - a TicketsBolivia da o endereco da Trans Totai: 'calle Virgen del Carmen #1357 en Villa Fatima'. Villa Fatima e o bairro de onde sai todo o trafego para os Yungas e para o Beni. NAO VA PARA A AV. PERU.",
+    "terminalChegada": "RURRENABAQUE: nova terminal de onibus de Rurrenabaque, perto do Mercado (TicketsBolivia).",
+    "observacoes": "DISTANCIA: cerca de 420 km pela TicketsBolivia, que diz 14 horas. A Wikivoyage e mais honesta: '14-16 hours in the dry season' e 'can take over a day in bad weather'. A Aviacionline, em materia oficial sobre o aeroporto, diz que a viagem por terra 'toma mas de doce horas' e e insegura pelo terreno. USE 14 A 16 HORAS NA SECA E CONTE COM 20+ NA CHUVA. ISTO E O PONTO: NA ESTACAO CHUVOSA (dezembro a marco, 318 mm em janeiro em Rurrenabaque) este trecho degrada junto com o aeroporto - ou seja, voo e onibus pioram ao mesmo tempo, nao se compensam. OBRA NA ESTRADA: a Wikivoyage diz que o trecho Coroico-Caranavi fica fechado para obras todos os dias das 07:00 as 17:00 - compativel com as saidas de La Paz concentradas no fim da tarde. 900 min = 840 de viagem (14h) + 60 de margem no escritorio. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "coroico-rurrenabaque-onibus",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-rurrenabaque.php"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "coroico",
+    "paraCidadeId": "rurrenabaque",
+    "modal": "onibus",
+    "operadoras": [],
+    "frequencia": "SEM FONTE. Nem a TicketsBolivia (que nao tem Coroico no cadastro) nem a Wikivoyage publicam horario, duracao ou preco para Coroico -> Rurrenabaque. O QUE SE SABE: e a MESMA estrada (La Paz -> Coroico/Yolosita -> Caranavi -> Palos Blancos -> Yucumo -> Rurrenabaque) e portanto o trecho existe; quem esta em Coroico normalmente pega o onibus de La Paz na passagem, em Yolosita, com vaga sujeita a disponibilidade, ou volta a La Paz e sai de Villa Fatima.",
+    "terminalSaida": "SEM FONTE - na pratica, a beira da estrada em Yolosita, no pe de Coroico.",
+    "terminalChegada": "SEM FONTE - nova terminal de Rurrenabaque, por analogia com o trecho de La Paz.",
+    "observacoes": "REGISTREI ESTE TRECHO MESMO SEM DADO porque ele e a ligacao geografica obvia entre duas bases do pacote e porque e exatamente o tipo de trecho que o viajante tenta fazer e descobre na hora que nao tem bilhete garantido. SE O ROTEIRO PRECISAR DELE, planeje que pode ser necessario voltar a La Paz. Nao inventei duracao: todos os numeros ficam 0 = sem fonte. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-uyuni-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-uyuni.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-la_paz.php"
+      },
+      {
+        "url": "https://www.todoturismo.bo/"
+      },
+      {
+        "url": "https://transomar.com/"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "uyuni",
+    "modal": "onibus",
+    "operadoras": [
+      "Todo Turismo",
+      "Trans Titicaca",
+      "Trans Omar",
+      "Panasur",
+      "Flota Arequipa",
+      "Cruz del Norte",
+      "Cisne Bus Uyuni",
+      "Autobuses Emperador",
+      "25 de Diciembre Uyuni"
+    ],
+    "duracaoPortaAPortaMin": 660,
+    "duracaoVeiculoMin": 600,
+    "frequencia": "SAIDAS TODOS OS DIAS, TODAS A NOITE. Horarios confirmados pela TicketsBolivia (lidos em 09/10/2026) saindo de La Paz: Cruz del Norte 20:30 (chega 05:30), Trans Titicaca 21:00 (chega 06:00), Trans Omar 21:00 (chega 06:00), Panasur 21:00 (chega 06:00), Cisne Bus Uyuni 21:15 (chega 06:15), Flota Arequipa 21:30 (chega 06:30), 25 de Diciembre Uyuni 21:45 (chega 06:45), Trans Omar 22:00 (chega 08:00), Panasur 22:15 (chega 07:15, duas saidas), Autobuses Emperador 22:30 (chega 07:30). A TODO TURISMO publica no proprio site saida padrao de 21:00 e duracao de 10 horas. A TRANS OMAR publica no proprio site: 'Los horarios de salida desde las tres ciudades (Uyuni, La Paz y Cochabamba) son a las 21:00 hrs', com chegada prevista as 6:00 e cerca de 9 horas de viagem. No sentido Uyuni -> La Paz a TicketsBolivia lista saidas as 21:00, 21:15, 21:30, 22:15 e 22:30.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 110,
+      "max": 110,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-uyuni.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-la_paz.php"
+        },
+        {
+          "url": "https://www.todoturismo.bo/"
+        },
+        {
+          "url": "https://transomar.com/"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "LA PAZ: Terminal de Buses de La Paz, na Avenida Peru, para as empresas locais. A TODO TURISMO tem escritorio PROPRIO, fora da terminal: 'Pasaje Kramer Nro. 710, casi Av. Uruguay', a cerca de 100 metros antes da terminal, telefone +591 2 2287038, WhatsApp +591 76974976, aberto de segunda a sexta de 09:00 as 21:00, sabado 09:30-12:30 e 14:30-21:00, domingo e feriado 16:00-21:00. A TRANS OMAR fica na 'Term. de buses (Av. Peru y Uruguay), oficina Nro 16 B', WhatsApp +591 76777443. Existe tambem terminal em EL ALTO: a Trans Omar tem escritorio na 'Term. de Buses (carretera Viacha, Av. Ladislau Cabrera) Of. Nro 69', WhatsApp +591 75200284.",
+    "terminalChegada": "UYUNI: a TicketsBolivia da DOIS enderecos DIFERENTES na mesma plataforma - a pagina La Paz->Uyuni diz 'terminal de buses en la Calle Avaroa y Tomas Frias' e a pagina Uyuni->La Paz diz 'terminal de buses en Uyuni ubicada en la Calle Avaroa y Tomas Frias', enquanto a pagina Potosi->Uyuni diz 'terminal de bus ubicada en la Avenida Cabrera'. A TODO TURISMO tem escritorio proprio em 'Av. Cabrera 158, entre Av. Arce y calle Bolivar', telefone +591 2 693-3337. A TRANS OMAR fica na 'Terminal de buses - oficina 8 y bodega bloque 40', WhatsApp +591 76777445. CONCLUSAO: Uyuni e cidade pequena e tudo isso esta a poucas quadras; confirme o endereco com a SUA empresa.",
+    "observacoes": "DISTANCIA: 734 km pela pagina La Paz->Uyuni e 731 km pela pagina Uyuni->La Paz, da mesma plataforma (reproduzi as duas). DURACAO: 10 horas pela TicketsBolivia e pela Todo Turismo; 9 horas pela Trans Omar; a Wikivoyage, no artigo de Uyuni, diz '12-15 hours' e avisa que 'you may need to change buses in Oruro' - trate 10 horas como o programado e 12 como o realista. PARADA NO CAMINHO: Challapata ou Oruro, para banheiro e comida. ALTITUDE, E ISSO IMPORTA: voce sai de 3.640 m e chega a 3.680 m, passando por Oruro a cerca de 3.700 m - NAO HA ALIVIO DE ALTITUDE nesta viagem, e voce vai dormir sentado a quase 4.000 m. Quem ainda nao aclimatou sente. PLANO B AEREO: BoA, 14 voos semanais, 1 hora (ver voos internos). PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "uyuni-potosi-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-potosi.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/potosi-uyuni.php"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Uyuni"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "uyuni",
+    "paraCidadeId": "potosi",
+    "modal": "onibus",
+    "operadoras": [
+      "Trans Turismo ZC American",
+      "Trans Quijarro",
+      "Trans ATL Grevalug",
+      "Linea Emperador"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 240,
+    "frequencia": "DEZENAS DE SAIDAS POR DIA, DE MANHA A NOITE - e o trecho mais facil do sul. UYUNI -> POTOSI (TicketsBolivia, 09/10/2026): Trans ATL Grevalug 06:00, Trans Quijarro 07:00, Trans Turismo ZC American 09:30, Trans Quijarro 11:00 (e 13:00, 17:00, 19:30), Linea Emperador 10:00, 13:30, 19:00 e 21:xx, Trans ATL Grevalug 10:30, 15:00 e 20:30, Trans Turismo ZC American 14:00 e 18:30. POTOSI -> UYUNI: Trans Quijarro 06:00, 08:00, 10:00, 13:00, 15:30 e 20:00; Trans Turismo ZC American 07:00, 11:00 e 18:30; Trans ATL Grevalug 09:00, 15:00 e 20:30; Linea Emperador 12:30, 16:00, 19:00 e 21:00.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 30,
+      "max": 30,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-potosi.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/potosi-uyuni.php"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Uyuni"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "UYUNI: terminal de buses, Avenida Cabrera (TicketsBolivia na pagina Potosi->Uyuni) - mas veja a divergencia de endereco registrada no trecho La Paz-Uyuni.",
+    "terminalChegada": "POTOSI: ATENCAO, POTOSI TEM DUAS TERMINAIS E ESTA ROTA USA A VELHA. A TicketsBolivia e explicita: 'En Potosi, los buses llegan a la antigua terminal de buses de Potosi (terminal interprovincial) que esta ubicada en la Avenida Universitaria'. A NOVA terminal, na Avenida Las Banderas, e a de La Paz, Sucre e Tupiza. Nao va para a terminal errada.",
+    "observacoes": "DISTANCIA: 204 km, 4 horas pela TicketsBolivia; 3-4 horas pela Wikivoyage. ALTITUDE - E AQUI ESTA O PERIGO ESCONDIDO DESTE TRECHO: voce sai de Uyuni a 3.680 m e chega a POTOSI, que o governo do Canada lista a 4.090 m. Sao 400 m de SUBIDA em quatro horas, e Potosi e a cidade mais alta do pacote. Pela regra do CDC (nao subir mais de 500 m na altitude de dormir por noite acima de 3.000 m) isso esta no limite. Nao combine este trecho com a mina do Cerro Rico no mesmo dia. 300 min = 240 + 60 de antecedencia (estimativa). PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "uyuni-sucre-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-sucre.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-uyuni.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "uyuni",
+    "paraCidadeId": "sucre",
+    "modal": "onibus",
+    "operadoras": [
+      "Expreso 11 de Julio",
+      "Autobuses Emperador",
+      "6 de Octubre"
+    ],
+    "duracaoPortaAPortaMin": 540,
+    "duracaoVeiculoMin": 480,
+    "frequencia": "TRES SAIDAS POR NOITE. UYUNI -> SUCRE (TicketsBolivia, 09/10/2026): Expreso 11 de Julio 21:30 (chega 05:30), Autobuses Emperador 22:00 (chega 06:00), 6 de Octubre 22:00 (chega 06:00). SUCRE -> UYUNI: Expreso 11 de Julio 20:00 (chega 04:00), 6 de Octubre 21:00 (chega 05:00), Autobuses Emperador 22:00 (chega 06:00). A plataforma tambem menciona uma saida de 09:30 da manha no texto - NAO aparece na tabela.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 100,
+      "max": 100,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-sucre.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-uyuni.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "UYUNI: Terminal de buses de Uyuni, Avenida Cabrera (pagina Uyuni->Sucre da TicketsBolivia).",
+    "terminalChegada": "SUCRE: a TicketsBolivia se CONTRADIZ aqui. A pagina Uyuni->Sucre diz que os onibus chegam 'a la Terminal de Buses ubicada en la Calle Avaroa y Tomas Frias' - mas Avaroa e Tomas Frias e o endereco da terminal de UYUNI, citado nas outras paginas. Todas as outras paginas da plataforma dizem que a terminal de Sucre esta na AVENIDA OSTRIA GUTIERREZ (uma pagina escreve 'calle Ostria Rodriguez'). USE AVENIDA OSTRIA GUTIERREZ.",
+    "observacoes": "DISTANCIA: 361 km, 8 horas pela TicketsBolivia. A Wikivoyage diz, de Uyuni, '3-4 hours' ate Potosi e mais '3-4 hours beyond Potosi' - ou seja 6 a 8 horas, compativel. ALTITUDE, E AQUI E BOA NOTICIA: voce sai de 3.680 m, passa por Potosi a cerca de 4.000 m e DESCE para Sucre a 2.890 m. Sucre e o melhor lugar do pacote para se recuperar do altiplano: quase 800 m mais baixa que La Paz e com clima ameno o ano inteiro. 540 min = 480 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "uyuni-tupiza-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-tupiza.php"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Uyuni"
+      },
+      {
+        "url": "https://ferroviaria-andina.com.bo/Ferrobus"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "uyuni",
+    "paraCidadeId": "tupiza",
+    "modal": "onibus",
+    "operadoras": [
+      "Autotransportes Tupiza"
+    ],
+    "duracaoPortaAPortaMin": 315,
+    "duracaoVeiculoMin": 255,
+    "frequencia": "DUAS SAIDAS POR DIA, confirmadas pela TicketsBolivia (09/10/2026): Autotransportes Tupiza 06:00 (chega 10:15) e 20:00 (chega 00:30). A Wikivoyage, no artigo de Uyuni, descreve mais oferta: 'about 5 hours', saidas por volta de 05:30-06:00, 10:00 e 18:00, mais uma de 09:00 em tres dias da semana. As duas fontes concordam na ordem de grandeza.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 40,
+      "max": 60,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/uyuni-tupiza.php"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Uyuni"
+        },
+        {
+          "url": "https://ferroviaria-andina.com.bo/Ferrobus"
+        }
+      ]
+    },
+    "terminalSaida": "UYUNI: terminal de buses de Uyuni.",
+    "terminalChegada": "TUPIZA: terminal de buses de Tupiza, Avenida Pedro Arraya (TicketsBolivia).",
+    "observacoes": "DISTANCIA 207 km, 4 horas pela TicketsBolivia (a tabela da propria plataforma mostra 4h15 e 4h30), cerca de 5 horas pela Wikivoyage. Usei 255 min. ALTITUDE: Uyuni 3.680 m -> Tupiza 2.956 m, ou seja DESCIDA de 700 m, boa para o corpo. TREM PELO MESMO PAR: o Ferrobus da FCA faz Uyuni -> Atocha -> Tupiza nas tercas (Uyuni 06:00, Atocha 08:08, sai 08:28, Tupiza 11:43) e Tupiza -> Atocha -> Uyuni nas quintas/sextas (Tupiza 18:10, Atocha 21:40, sai 21:55, Uyuni 00:03). 4x4: ver o trecho seguinte. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "tupiza-uyuni-carro-fretado",
+    "fontes": [
+      {
+        "url": "https://www.nomades.com/tupiza/salar-uyuni-sin-retorno-id937"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Uyuni"
+      },
+      {
+        "url": "https://ferroviaria-andina.com.bo/Ferrobus"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "tupiza",
+    "paraCidadeId": "uyuni",
+    "modal": "carro-fretado",
+    "operadoras": [
+      "Nomades (agencia; a FCA e a TicketsBolivia nao vendem este produto)"
+    ],
+    "duracaoPortaAPortaMin": 4320,
+    "duracaoVeiculoMin": 4320,
+    "frequencia": "Saida de Tupiza as 07:30 do dia 1, com MINIMO DE 5 PASSAGEIROS para o grupo compartilhado (condicao publicada pela propria agencia). Termina as 13:30 do dia 4 no centro de Uyuni. A pagina nao publica os dias da semana em que ha saida: carrega a disponibilidade por JavaScript ('Cargando disponibilidad...'). FREQUENCIA SEMANAL NAO CONFIRMADA.",
+    "preco": {
+      "moeda": "USD",
+      "min": 280,
+      "max": 1770,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.nomades.com/tupiza/salar-uyuni-sin-retorno-id937"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Uyuni"
+        },
+        {
+          "url": "https://ferroviaria-andina.com.bo/Ferrobus"
+        }
+      ]
+    },
+    "terminalSaida": "TUPIZA: ponto de encontro as 07:30 do dia 1 (a agencia nao publica o endereco exato na pagina).",
+    "terminalChegada": "UYUNI: drop off no centro da cidade, as 13:30 do dia 4.",
+    "observacoes": "ITINERARIO PUBLICADO: dia 1 Tupiza - Quetena; dia 2 Quetena - Huayllajara; dia 3 Huayllajara - Villa Candelaria; dia 4 Villa Candelaria - Salar de Uyuni. ALTITUDE - ESTE E O TRECHO MAIS ALTO DO PACOTE E PRECISA DE RESPEITO: a Wikivoyage diz que os tours mais longos chegam 'up to 5,500 m above sea level'. Dormir em refugio a mais de 4.000 m, tres noites, sem oxigenio e sem medico por perto. NAO FACA ESTE TRECHO NO INICIO DA VIAGEM. Quem chegou de Santa Cruz ou do Brasil dias antes nao esta pronto. SEGURANCA: a Wikivoyage e dura e eu reproduzo porque isso ja matou gente - o artigo do Salar de Uyuni registra '16 accidents and 30+ deaths' atribuidos a veiculo mal conservado, motorista sem treino, excesso de velocidade, desprezo pelas condicoes e regulacao fraca das agencias; o artigo de Uyuni diz que ha relato de guias que 'steal from their passengers or drive drunk' e recomenda escolher empresa de qualidade em vez da mais barata. ESCOLHA PELO EQUIPAMENTO E PELA REPUTACAO, NAO PELO PRECO. ESTACAO: na cheia (dezembro a marco) parte das rotas do Salar fecha - veja clima e o trecho do Salar. A faixa de preco min 280 / max 1770 mistura compartilhado e privativo de 1 pessoa, porque e o que a fonte publica; leia a observacao antes de usar o numero.",
+    "alertas": []
+  },
+  {
+    "id": "tupiza-potosi-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/tupiza-potosi.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "tupiza",
+    "paraCidadeId": "potosi",
+    "modal": "onibus",
+    "operadoras": [
+      "Flota Diamante",
+      "OGlobo"
+    ],
+    "duracaoPortaAPortaMin": 450,
+    "duracaoVeiculoMin": 390,
+    "frequencia": "TicketsBolivia (09/10/2026): Flota Diamante as 23:30, chegando 05:00 - a plataforma lista a mesma saida tres vezes, provavelmente tres servicos na mesma hora. O texto da pagina diz que os onibus saem as 22:00 e que a empresa e a OGlobo em bus cama 3 filas - NAO BATE com a tabela da propria pagina. Trate como: UMA SAIDA NOTURNA, por volta das 22:00-23:30.",
+    "terminalSaida": "TUPIZA: terminal de buses de Tupiza, Avenida Pedro Arraya.",
+    "terminalChegada": "POTOSI: a pagina da TicketsBolivia se embaralha e troca origem e destino no texto; pelas outras paginas da plataforma, os onibus de Tupiza chegam a NOVA terminal de Potosi, na Avenida Las Banderas.",
+    "observacoes": "DISTANCIA 254 km. DURACAO: o texto diz '6:30 horas' e a tabela mostra 5h30 (23:30 -> 05:00) - usei 390 min (6h30), o numero escrito. ALTITUDE: Tupiza 2.956 m -> Potosi cerca de 4.000 m. SOBE 1.100 m DURMINDO SENTADO. Este e, junto com La Paz-Potosi, o trecho que mais derruba gente de soroche no pacote. ALTERNATIVA DE TREM: nao existe trem direto Tupiza-Potosi; o Ferrobus da FCA liga Tupiza a Atocha e a Uyuni, nao a Potosi. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "potosi-sucre-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/potosi-sucre.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-potosi.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "potosi",
+    "paraCidadeId": "sucre",
+    "modal": "onibus",
+    "operadoras": [
+      "Transtin Dil Rey",
+      "Trans Emperador"
+    ],
+    "duracaoPortaAPortaMin": 240,
+    "duracaoVeiculoMin": 180,
+    "frequencia": "A TicketsBolivia e explicita: 'El trayecto dura 3 horas y contamos con 13 salidas diarias', das 06:00 as 19:00. POTOSI -> SUCRE (horarios confirmados): Trans Emperador 06:00, Transtin Dil Rey 07:00, Transtin Dil Rey 09:45, Trans Emperador 10:00, Transtin Dil Rey 13:00, Transtin Dil Rey 16:45, Trans Emperador 16:45, Transtin Dil Rey 17:30, Trans Emperador 19:00. SUCRE -> POTOSI: Trans Emperador 06:00, Transtin Dil Rey 07:00, Trans Emperador 07:00, Transtin Dil Rey 10:00, Trans Emperador 10:00, Trans Emperador 12:30, Transtin Dil Rey 13:00, Trans Emperador 16:00, Transtin Dil Rey 17:00, Trans Emperador 17:00, Transtin Dil Rey 18:00, Trans Emperador 18:00. ATENCAO A UMA ESTRANHEZA DA FONTE: as tabelas mostram 4 horas de viagem (06:00 -> 10:00) enquanto o texto diz 3 horas. Usei 3 horas, que e o numero afirmado nas duas paginas e tambem na pagina La Paz-Sucre ('despues son 3 horas hasta Sucre').",
+    "terminalSaida": "POTOSI: NOVA terminal de buses, Avenida Las Banderas.",
+    "terminalChegada": "SUCRE: terminal de buses, Avenida Ostria Gutierrez.",
+    "observacoes": "O caminho passa por Betanzos, Millares e Yotala. ALTITUDE - ESTE TRECHO E UMA FERRAMENTA DE ACLIMATACAO: Potosi cerca de 4.000 m -> Sucre 2.890 m. Mais de 1.000 m de descida em 3 horas, com 13 saidas por dia. QUEM ESTIVER MAL EM POTOSI PODE DESCER NO MESMO DIA, A QUALQUER HORA, POR POUCO DINHEIRO. Isso tem valor de seguranca, nao so de logistica: o CDC diz que o tratamento do mal de altitude e descer, e aqui descer e trivial. Pela mesma razao, o roteiro inteligente dorme em Sucre e faz Potosi em bate-volta de dia, nao o contrario. 240 min = 180 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-potosi-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-potosi.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "potosi",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Trans Copacabana 1 MEM",
+      "Linea Emperador"
+    ],
+    "duracaoPortaAPortaMin": 600,
+    "duracaoVeiculoMin": 540,
+    "frequencia": "QUATRO SAIDAS, TODAS A NOITE (TicketsBolivia, 09/10/2026): Trans Copacabana S.A. 20:30 (chega 06:30), Transportes el Dorado 21:30 (chega 07:30), Trans Copacabana 1 MEM 21:30 (chega 07:30), Linea Emperador 22:00 (chega 08:00). O texto da pagina diz que os onibus saem as 20:30 e 21:00 - a tabela e mais completa.",
+    "terminalSaida": "LA PAZ: terminal de buses, Avenida Peru.",
+    "terminalChegada": "POTOSI: NOVA terminal, Avenida Las Banderas.",
+    "observacoes": "9 HORAS, 538 km. ESTE E O PIOR TRECHO DO PACOTE PARA O CORPO e vale dizer isso em voz alta: voce passa a noite inteira sentado entre 3.600 e 4.100 m, sem dormir bem, e desembarca as 07:00 na cidade mais alta do pacote. Se voce tem qualquer sintoma de soroche em La Paz, NAO faca este trecho - va primeiro a Sucre (2.890 m) e suba a Potosi depois, de dia, em 3 horas. ALTERNATIVA: La Paz -> Sucre (12h) e Sucre -> Potosi (3h, 13 saidas por dia) e mais longo no papel e MUITO melhor fisiologicamente. 600 min = 540 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-sucre-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-sucre.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "sucre",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Trans Copacabana 1 MEM",
+      "Flota Emperador"
+    ],
+    "duracaoPortaAPortaMin": 780,
+    "duracaoVeiculoMin": 720,
+    "frequencia": "QUATRO SAIDAS, TODAS NO FIM DA TARDE (TicketsBolivia, 09/10/2026): Flota Emperador 18:45 (chega 05:45), Trans Copacabana 1 MEM 19:00 (chega 06:00), Transportes el Dorado 19:30 (chega 06:30), Trans Copacabana S.A. 19:30 (chega 06:30). A plataforma diz que as empresas saem entre 17:30 e 20:00.",
+    "terminalSaida": "LA PAZ: terminal de buses, entre as avenidas Uruguay e Peru.",
+    "terminalChegada": "SUCRE: terminal de buses, Avenida Ostria Gutierrez.",
+    "observacoes": "12 HORAS, 694 km. A propria plataforma se contradiz: a tabela mostra 11 horas (19:30 -> 06:30) e o texto diz 12 horas; outra passagem da mesma pagina diz 'El viaje a Potosi dura 10 horas y despues son 3 horas hasta Sucre', o que daria 13. Usei 12 horas, o numero afirmado. O caminho desce do altiplano para os vales: voce acorda a 2.890 m, quase 800 m mais baixo que La Paz - e a melhor noite de onibus do altiplano justamente por isso. 780 min = 720 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "sucre-santa-cruz-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-santa_cruz.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "sucre",
+    "paraCidadeId": "santa-cruz",
+    "modal": "onibus",
+    "operadoras": [
+      "Sin Fronteras",
+      "Flota Emperador",
+      "Flota Capital",
+      "Expreso Tequila Pluss",
+      "El Chaqueno",
+      "6 de Octubre"
+    ],
+    "duracaoPortaAPortaMin": 840,
+    "duracaoVeiculoMin": 780,
+    "frequencia": "SEIS EMPRESAS, OITO SAIDAS (TicketsBolivia, 09/10/2026): Flota Capital 16:00 (chega 05:00), 6 de Octubre 16:30 (chega 05:30), El Chaqueno 18:00 (chega 07:00), Flota Emperador 19:00 (chega 08:00), El Chaqueno 19:00 (chega 08:00), Expreso Tequila Pluss 19:00 (chega 06:00), Sin Fronteras 20:00 (chega 09:00), Expreso Tequila Pluss 20:00 (chega 07:00).",
+    "preco": {
+      "moeda": "BOB",
+      "min": 110,
+      "max": 110,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-santa_cruz.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "SUCRE: terminal de Sucre - a plataforma escreve 'calle Ostria Rodriguez' nesta pagina e 'Avenida Ostria Gutierrez' em todas as outras; use Ostria Gutierrez.",
+    "terminalChegada": "SANTA CRUZ: TERMINAL BIMODAL, Avenida Intermodal. 'Bimodal' porque reune onibus e trem no mesmo predio.",
+    "observacoes": "13 HORAS, 488 km. Voce desce de 2.890 m para 373 m. Para quem fez o altiplano inteiro, este e o trecho em que o corpo relaxa - e tambem onde comeca o calor, o mosquito e a area de recomendacao de febre amarela e de malaria (ver saude). 840 min = 780 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-cochabamba-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-cochabamba.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/cochabamba-la_paz.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "cochabamba",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Trans Copacabana 1 MEM",
+      "Flota Bolivia"
+    ],
+    "duracaoPortaAPortaMin": 540,
+    "duracaoVeiculoMin": 480,
+    "frequencia": "MUITAS SAIDAS, COM OPCAO DE DIA. LA PAZ -> COCHABAMBA (TicketsBolivia, 09/10/2026): Transportes el Dorado 14:00 (chega 21:00), 20:30 (chega 03:30) e 22:30 (chega 05:30); Trans Copacabana S.A. 20:30 (chega 04:30), 21:30 (chega 05:30) e 22:00 (chega 06:00), mais outras saidas. A plataforma diz que 'el autobus sale desde las 7:30am hasta las 11:00pm'. COCHABAMBA -> LA PAZ: Transportes el Dorado 15:00 (chega 23:00), 20:30 (chega 04:30) e 22:30 (chega 06:30); Trans Copacabana S.A. 21:30, 22:00 e 22:30; Trans Copacabana 1 MEM 20:30, 21:30, 22:30 e 22:45; Flota Bolivia 16:30 (chega 00:30). HA SAIDA DE DIA NOS DOIS SENTIDOS - raro na Bolivia e otimo para quem nao quer dormir sentado.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 106,
+      "max": 106,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-cochabamba.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/cochabamba-la_paz.php"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/"
+        }
+      ]
+    },
+    "terminalSaida": "LA PAZ: terminal de buses, entre as avenidas Peru e Uruguay.",
+    "terminalChegada": "COCHABAMBA: terminal terrestre, Avenida Ayacucho (uma pagina da plataforma precisa 'avenida Ayacucho, esquina Tarata').",
+    "observacoes": "DISTANCIA: 348 km na pagina La Paz->Cochabamba e 381 km na pagina Cochabamba->La Paz, mesma plataforma (reproduzi as duas). DURACAO: 7 a 8 horas, 'dependiendo de la hora de salida y el trafico en las ciudades'. ALTITUDE: 3.640 m -> 2.548 m, descida de 1.100 m. Cochabamba e a entrada de altitude intermediaria do pais e, pela regra do CDC, um bom lugar para dormir antes de subir. A propria plataforma informa que Cochabamba esta 'a 2,558 m de altura' - 10 m de diferenca da estacao meteorologica (2.548 m), irrelevante na pratica. 540 min = 480 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "cochabamba-sucre-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/sucre-cochabamba.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "cochabamba",
+    "paraCidadeId": "sucre",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Real Audiencia",
+      "6 de Octubre"
+    ],
+    "duracaoPortaAPortaMin": 540,
+    "duracaoVeiculoMin": 480,
+    "frequencia": "TRES SAIDAS, TODAS AS 21:00 (TicketsBolivia, 09/10/2026): Transportes el Dorado 21:00 (chega 05:30), Trans Copacabana S.A. 21:00 (chega 05:30) e Real Audiencia 21:00 (chega 04:00). O texto da pagina diz que saem as 20:30 e 21:00 e nomeia as empresas '6 de Octubre (bus semi-cama)' e 'Trans Copacabana S.A. (bus semi-cama y cama)', com parada em Aiquile.",
+    "terminalSaida": "COCHABAMBA: terminal de buses, Avenida Ayacucho.",
+    "terminalChegada": "SUCRE: terminal de buses, Avenida Ostria Gutierrez.",
+    "observacoes": "8 HORAS, 329 km. Note que a TicketsBolivia so tem a pagina no sentido Sucre->Cochabamba; os horarios acima sao desse sentido. O sentido Cochabamba->Sucre nao tem pagina propria na plataforma - assumi simetria, e MARCO ISSO como suposicao minha, nao dado da fonte. AIQUILE: a parada no caminho e a mesma Aiquile para onde a Ferroviaria Andina noticiou em 2026 estar reativando buscarril desde Cochabamba e desde Vila Vila - se isso virar servico regular, abre um modal novo neste eixo. 540 min = 480 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "cochabamba-torotoro-onibus",
+    "fontes": [
+      {
+        "url": "https://www.lostiempos.com/actualidad/pais/20250310/habilitan-desvio-carretera-toro-toro"
+      },
+      {
+        "url": "https://www.lostiempos.com/actualidad/cochabamba/20250310/derrumbes-hundimientos-toro-toro-dejan-interrumpida-circulacion"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "cochabamba",
+    "paraCidadeId": "torotoro",
+    "modal": "onibus",
+    "operadoras": [
+      "Trans Torotoro"
+    ],
+    "duracaoPortaAPortaMin": 300,
+    "duracaoVeiculoMin": 270,
+    "frequencia": "UMA SAIDA POR DIA, e isso define o roteiro: a Trans Torotoro opera um onibus diario de Cochabamba a Torotoro, cerca de 4 horas - dado de agregador (Rome2Rio), que publica tambem o telefone +591 7377 2865. ATENCAO: a TicketsBolivia NAO vende este trecho (Torotoro nao esta na lista de cidades da plataforma) e a Wikivoyage NAO TEM artigo de Torotoro nem de Toro Toro - as duas paginas devolveram HTTP 404. Ou seja, NAO TENHO FONTE PRIMARIA DE HORARIO. Com uma saida por dia, perder o onibus custa 24 horas.",
+    "terminalSaida": "COCHABAMBA: SEM FONTE confirmada. As fontes nao dizem se a saida e da terminal da Av. Ayacucho ou de um ponto proprio da empresa - e muito comum, na Bolivia, trecho rural sair de ponto de rua e nao de terminal. CONFIRME NA CHEGADA.",
+    "terminalChegada": "TOROTORO: SEM FONTE. A praca principal e onde fica a Oficina de Turismo que cobra a entrada do parque.",
+    "observacoes": "ESTRADA: a estrada e NOVA E ASFALTADA - um viceministro boliviano, citado por Los Tiempos em marco de 2025, chamou de 'un camino nuevo, asfaltado'. MAS A MESMA NOTICIA E SOBRE A ESTRADA ESTAR CORTADA, e quem disse que ela e nova e asfaltada foi exatamente o viceministro que explicava por que ela havia fechado: Juan Carlos Calvimontes, Viceministro de Defensa Civil, em 10/03/2025, sobre um DERRUBAMENTO que interrompeu a circulacao - 'Un derrumbe en la via a Toro a Toro dejo interrumpida la circulacion vehicular' -, atribuido a chuva forte e a transbordamento de rios. NO MESMO DIA, as 17h25, Los Tiempos publicou que a ABC Regional Potosi habilitou um DESVIO no 'tramo III: Rio Caine - Toro Toro', depois de derrubamento e afundamento de leito ocorridos no domingo. Nenhuma das duas materias informa quanto tempo a interrupcao durou. MARCO E PLENA ESTACAO CHUVOSA nos vales (117,5 mm em janeiro e 95,8 mm em fevereiro em Cochabamba). LEITURA PRATICA: estrada nova nao significa estrada confiavel na chuva; em canion com terreno instavel, dezembro a marco e temporada de deslizamento. CHEQUE A TRANSITABILIDADE DA ABC ANTES. DURACAO: 4 a 5 horas pelas fontes (138 km); usei 270 min, o meio da faixa, e marco como numero de trabalho. ATENCAO A ESTA LACUNA, ELA E GRANDE: Torotoro e a base com MENOS dado confirmado de todo o arquivo - sem horario de operadora, sem terminal, sem preco. Precisa de uma coleta dedicada. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "cochabamba-santa-cruz-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/cochabamba-santa_cruz.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/santa_cruz-cochabamba.php"
+      },
+      {
+        "url": "https://travel.gc.ca/destinations/bolivia"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "cochabamba",
+    "paraCidadeId": "santa-cruz",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Trans Copacabana 1 MEM"
+    ],
+    "duracaoPortaAPortaMin": 660,
+    "duracaoVeiculoMin": 600,
+    "frequencia": "MUITAS SAIDAS NOTURNAS. COCHABAMBA -> SANTA CRUZ (TicketsBolivia, 09/10/2026): Trans Copacabana 1 MEM 18:00 (chega 03:30), 18:30 (chega 04:00), 20:30 (chega 06:00) e 21:30 (chega 07:00); Trans Copacabana S.A. 19:00 (chega 05:00), 20:00 (chega 06:00) e 21:00 (chega 07:00); Transportes el Dorado 20:00 (chega 06:00). A plataforma diz que ha saida 'entre las 8:00am y 9:30pm'. SANTA CRUZ -> COCHABAMBA: Trans Copacabana 1 MEM 18:30 (chega 04:30), 20:00 (chega 06:00) e 21:15 (chega 07:15); Trans Copacabana S.A. 19:00 (chega 05:00), 20:00 (chega 06:00), 21:00 (chega 07:00) e 21:30 (chega 07:30); Transportes el Dorado 20:30 (chega 06:30).",
+    "terminalSaida": "COCHABAMBA: terminal de buses, Avenida Ayacucho.",
+    "terminalChegada": "SANTA CRUZ: Terminal Bimodal, Avenida Intermodal.",
+    "observacoes": "AVISO QUE EU NAO PODERIA OMITIR: ESTA ESTRADA ATRAVESSA O CHAPARE. O governo do Canada classifica a 'Chapare Region, including Villa Tunari' com aviso de 'Avoid all travel' - o nivel mais alto, mais severo que o aviso geral de 'high degree of caution' para o resto do pais. O onibus Cochabamba-Santa Cruz passa pelo tropico de Cochabamba, ou seja, pela regiao. O proprio texto da TicketsBolivia menciona 'la region del chapare y el tropico de Bolivia'. ISSO NAO SIGNIFICA QUE O ONIBUS SEJA PROIBIDO OU IMPRATICAVEL - milhares de pessoas fazem esse trecho toda noite. Significa que: (1) nao e lugar de parar, descer ou pernoitar; (2) o trecho e historicamente palco de bloqueio (bloqueo) com motivacao politica; (3) se o seu seguro viagem tiver clausula que exclui area com aviso de 'avoid all travel', voce pode estar descoberto. CONSIDERE O VOO: VVI-CBB existe com BoA e TAMep, menos de 1 hora. 10 HORAS, 476 km. 660 min = 600 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-santa-cruz-onibus",
+    "fontes": [
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/la_paz-santa_cruz.php"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "santa-cruz",
+    "modal": "onibus",
+    "operadoras": [
+      "Transportes el Dorado",
+      "Trans Copacabana S.A.",
+      "Trans Copacabana 1 MEM"
+    ],
+    "duracaoPortaAPortaMin": 1140,
+    "duracaoVeiculoMin": 1080,
+    "frequencia": "DEZ SAIDAS, TODAS A TARDE E A NOITE (TicketsBolivia, 09/10/2026): Trans Copacabana 1 MEM 12:00 (chega 08:00), Transportes el Dorado 12:30 (chega 08:30), Trans Copacabana S.A. 14:00 (chega 10:00), Trans Copacabana 1 MEM 14:30 (chega 10:30), Trans Copacabana 1 MEM 15:30 (chega 11:30), Trans Copacabana S.A. 17:30 (chega 13:30), Trans Copacabana 1 MEM 18:00 (chega 14:00), Trans Copacabana S.A. 19:00 (chega 15:00), Transportes el Dorado 19:30 (chega 15:30), Trans Copacabana 1 MEM 20:30 (chega 16:30).",
+    "terminalSaida": "LA PAZ: terminal de buses, entre as avenidas Peru e Uruguay.",
+    "terminalChegada": "SANTA CRUZ: Terminal Bimodal, Avenida Intermodal.",
+    "observacoes": "18 HORAS, 851 km. A propria plataforma sugere a alternativa: 'hacer una parada en Cochabamba'. SEJA DIRETO COM O USUARIO: 18 horas de onibus contra 1h06 de voo com 70 frequencias semanais (BoA, EcoJet, LATAM). Este trecho so se justifica por orcamento muito apertado ou por querer a paisagem. E ele atravessa o Chapare - veja o aviso no trecho Cochabamba-Santa Cruz. 1140 min = 1080 + 60. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "santa-cruz-samaipata-onibus",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Samaipata"
+      },
+      {
+        "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/santa_cruz-samaipata.php"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "observacaoDeConfianca": "a fonte nao declarou confianca",
+    "deCidadeId": "santa-cruz",
+    "paraCidadeId": "samaipata",
+    "modal": "onibus",
+    "operadoras": [
+      "Cooperativa de Transporte 'El Fuerte'",
+      "Expresso Samaipata"
+    ],
+    "duracaoPortaAPortaMin": 180,
+    "duracaoVeiculoMin": 150,
+    "frequencia": "SEM HORARIO FIXO - SAI QUANDO ENCHE, e isso e importante de saber antes. A Wikivoyage: o Expresso Samaipata exige NO MINIMO 4 PASSAGEIROS para sair; a viagem 'usually takes about 2 hours but can take up to 4 because of landslides or road works'. Taxi compartilhado tambem sai por lotacao. A TicketsBolivia tem Samaipata na lista de cidades, mas as duas paginas da rota (santa_cruz-samaipata e samaipata-santa_cruz) devolveram HTTP 500 nesta sessao - sem horario de plataforma.",
+    "preco": {
+      "moeda": "BOB",
+      "min": 30,
+      "max": 130,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-08",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Samaipata"
+        },
+        {
+          "url": "https://www.ticketsbolivia.com.bo/pasajes-en-bus/santa_cruz-samaipata.php"
+        }
+      ]
+    },
+    "terminalSaida": "SANTA CRUZ: NAO E A TERMINAL BIMODAL. Dois enderecos, os dois da Wikivoyage: (1) Cooperativa de Transporte 'El Fuerte', escritorio no 2do Anillo, Av. Grigota esquina Aruma; (2) Expresso Samaipata, Av. Omar Chavez Ortiz 1147. A fonte nao diz de onde saem os taxis compartilhados (a linha vem em branco no artigo).",
+    "terminalChegada": "SAMAIPATA: SEM FONTE de endereco; cidade pequena, a chegada e no centro.",
+    "observacoes": "DURACAO: 2h30 a 3h pela Wikivoyage, 'cerca de 2 horas' no caso do Expresso, podendo chegar a 4 horas por deslizamento ou obra. Usei 150 min. ALTITUDE: Santa Cruz 373 m -> SAMAIPATA 1.600 m. Sobe 1.200 m em duas horas e meia e e por isso que o clima de Samaipata e completamente diferente do de Santa Cruz - mais frio, mais ameno, e e exatamente por isso que os crucenos vao para la. A estrada e descrita como 'very scenic'. RISCO: deslizamento (landslide) e obra sao citados como causa de atraso - mais provaveis na chuva de dezembro a marco. PORTA A PORTA: este numero soma o tempo DENTRO do veiculo mais a antecedencia de terminal. NAO inclui o deslocamento do hotel ate o terminal nem do terminal ate a hospedagem no destino, que sao SEM FONTE em todas as cidades deste pacote - acrescente por conta. Em La Paz, especificamente, esse trecho mente mais que em qualquer outra cidade do banco, porque a cidade e um canion e o terminal da Av. Peru fica no fundo.",
+    "alertas": []
+  },
+  {
+    "id": "la-paz-santa-cruz-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "santa-cruz",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)",
+      "EcoJet",
+      "LATAM"
+    ],
+    "frequencia": "Kayak, lido em 09/10/2026: 56 voos nonstop por semana da BoA, 12 da EcoJet e 2 da LATAM - somando 70 por semana, cerca de 10 por dia. Distancia 887 km, duracao media 1h06. E a rota com mais oferta do pais: se um voo cair, ha outro no mesmo dia.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 472,
+      "max": 751,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (so ida, faixa tipica)"
+    },
+    "terminalSaida": "LPB",
+    "terminalChegada": "VVI",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "la-paz-uyuni-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Uyuni-UYU"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "uyuni",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "frequencia": "MONOPOLIO: o Kayak diz, literalmente, 'BoA e a unica companhia aerea que opera voos La Paz para Uyuni', com 14 voos nonstop por semana, cerca de 2 por dia, duracao media de 1h. Uma unica companhia numa rota significa que greve, manutencao ou tempo ruim nao tem plano B aereo - o plano B e o onibus de 10 horas.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 655,
+      "max": 908,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/La-Paz-LPB/Uyuni-UYU"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (so ida, faixa tipica)"
+    },
+    "terminalSaida": "LPB",
+    "terminalChegada": "UYU",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "santa-cruz-sucre-voo",
+    "fontes": [
+      {
+        "url": "https://www.kayak.com.br/voos/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI/Sucre-SRE"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "santa-cruz",
+    "paraCidadeId": "sucre",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "frequencia": "Kayak, lido hoje: cerca de 11 voos nonstop por semana, 'de 1 a 2 voos por dia', duracao 45 minutos. A pagina afirma 'Apenas a BoA opera voos entre Santa Cruz de La Sierra e Sucre' mas em outra secao cita a EcoJet - CONTRADICAO DA PROPRIA PAGINA. A tabela da Wikipedia do Viru Viru lista tanto BoA quanto EcoJet com destino Sucre, o que sugere que a EcoJet tambem voa. Trate como: BoA certa, EcoJet provavel.",
+    "preco": {
+      "moeda": "BRL",
+      "min": 558,
+      "max": 970,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://www.kayak.com.br/voos/Santa-Cruz-de-La-Sierra-Viru-Viru-Intl-VVI/Sucre-SRE"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (ida-e-volta, faixa tipica)"
+    },
+    "terminalSaida": "VVI",
+    "terminalChegada": "SRE",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "la-paz-sucre-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "sucre",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "frequencia": "EXISTE: a tabela de companhias e destinos do El Alto, na Wikipedia, lista a BoA voando para Sucre a partir de La Paz. FREQUENCIA E DURACAO NAO CONFIRMADAS - nao abri busca para esta rota nesta sessao. HISTORICO RELEVANTE: a imprensa de aviacao registra que a 'Amas Bolivia by Nella' retomou voos entre La Paz e Sucre, mas nao abri essa materia, entao nao afirmo nada sobre essa companhia.",
+    "terminalSaida": "LPB",
+    "terminalChegada": "SRE",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "la-paz-cochabamba-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "cochabamba",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)",
+      "EcoJet",
+      "TAMep"
+    ],
+    "frequencia": "EXISTE E COM MAIS DE UMA COMPANHIA: a tabela do El Alto na Wikipedia lista BoA, EcoJet e TAMep (a linha aerea militar que vende passagem civil) com destino Cochabamba. FREQUENCIA E DURACAO NAO CONFIRMADAS: as paginas do Kayak que tentei para esta rota devolveram HTTP 404 nesta sessao.",
+    "terminalSaida": "LPB",
+    "terminalChegada": "CBB",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "la-paz-rurrenabaque-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+      },
+      {
+        "url": "https://aviacionline.com/boliviana-de-aviacion-boa-inauguro-sus-vuelos-a-riberalta-y-rurrenabaque-beni"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      },
+      {
+        "url": "https://aviacionline.com/incendios-en-la-amazonia-afectan-los-vuelos-en-bolivia-declaran-alerta-sanitaria-y-emergencia-nacional"
+      },
+      {
+        "url": "https://naabol.gob.bo/aeropuerto-de-rurrenabaque/"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "la-paz",
+    "paraCidadeId": "rurrenabaque",
+    "modal": "voo",
+    "operadoras": [
+      "EcoJet"
+    ],
+    "frequencia": "EcoJet, TRES VOOS SEMANAIS desde meados de 2022, segundo a Aviacionline (materia de 25/12/2023): 'EcoJet [...] presta servicio en Rurrenabaque desde mediados de 2022 con tres vuelos semanales desde La Paz'. A tabela do El Alto na Wikipedia confirma a EcoJet como a companhia que serve Rurrenabaque a partir de La Paz. A Wikivoyage diz que o voo para La Paz leva 40 a 50 minutos. DUAS ADVERTENCIAS: (1) o numero de 3 voos semanais e de dezembro de 2023 e pode ter mudado; (2) registros de rastreamento de voo sugerem mais frequencia, mas nao abri essas paginas, entao nao afirmo. ROTA IRMA: a BoA inaugurou COCHABAMBA - RURRENABAQUE (voo OB 1394/1395) em dezembro de 2023, segundas e quartas, CBB 12:40 -> RBQ 14:05 e RBQ 14:20 -> CBB 15:20, com oferta de 200 assentos por semana.",
+    "preco": {
+      "moeda": "USD",
+      "min": 50,
+      "max": 80,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Rurrenabaque"
+        },
+        {
+          "url": "https://aviacionline.com/boliviana-de-aviacion-boa-inauguro-sus-vuelos-a-riberalta-y-rurrenabaque-beni"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+        },
+        {
+          "url": "https://aviacionline.com/incendios-en-la-amazonia-afectan-los-vuelos-en-bolivia-declaran-alerta-sanitaria-y-emergencia-nacional"
+        },
+        {
+          "url": "https://naabol.gob.bo/aeropuerto-de-rurrenabaque/"
+        }
+      ],
+      "observacao": "faixa de agregador, nao cotacao de data especifica (so ida, por pessoa)"
+    },
+    "terminalSaida": "LPB",
+    "terminalChegada": "RBQ",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "cochabamba-potosi-voo",
+    "fontes": [
+      {
+        "url": "https://aviacionline.com/boa-reinaugura-sus-vuelos-al-aeropuerto-de-potosi"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "cochabamba",
+    "paraCidadeId": "potosi",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)"
+    ],
+    "frequencia": "TRES VOOS SEMANAIS, segundas, quartas e sextas, saindo de Cochabamba as 8:30 (BoA, Bombardier CRJ200 de 50 assentos) - dado da Aviacionline de 16/06/2021, quando a BoA reinaugurou a rota depois da obra do aeroporto. DADO DE 2021: NAO CONFIRMADO para 2026. Nenhuma fonte aberta nesta sessao mostra voo de Potosi para La Paz ou para Santa Cruz. SEJA PRATICO: Potosi se alcanca por TERRA. Sao 3 horas de Sucre com 13 saidas diarias, 4 horas de Uyuni com dezenas de saidas e 9 horas de La Paz. O aviao para Potosi e curiosidade, nao logistica.",
+    "terminalSaida": "CBB",
+    "terminalChegada": "POI",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "santa-cruz-cochabamba-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "santa-cruz",
+    "paraCidadeId": "cochabamba",
+    "modal": "voo",
+    "operadoras": [
+      "Boliviana de Aviacion (BoA)",
+      "TAMep"
+    ],
+    "frequencia": "EXISTE: a tabela da Wikipedia do Viru Viru lista BoA e TAMep com destino Cochabamba. FREQUENCIA E DURACAO NAO CONFIRMADAS nesta sessao.",
+    "terminalSaida": "VVI",
+    "terminalChegada": "CBB",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  },
+  {
+    "id": "santa-cruz-uyuni-voo",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Alto_International_Airport"
+      }
+    ],
+    "coletadoEm": "2026-10-08",
+    "confianca": "estimado",
+    "deCidadeId": "santa-cruz",
+    "paraCidadeId": "uyuni",
+    "modal": "voo",
+    "operadoras": [],
+    "frequencia": "NAO APARECE EM NENHUMA FONTE ABERTA. A tabela da Wikipedia do Viru Viru NAO lista Uyuni entre os destinos, e a tabela do El Alto lista Uyuni so pela BoA a partir de La Paz. CONCLUSAO PROVISORIA: para chegar a Uyuni de aviao, passa-se por LA PAZ. Para quem entra pelo oriente, o caminho de Uyuni e Santa Cruz -> Sucre ou Cochabamba e depois onibus, ou Santa Cruz -> La Paz -> Uyuni de aviao.",
+    "terminalSaida": "VVI",
+    "terminalChegada": "UYU",
+    "alertas": [
+      "duracao porta a porta nao veio da fonte: o motor estima"
+    ]
+  }
+]

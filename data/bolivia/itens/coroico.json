@@ -1,0 +1,852 @@
+[
+  {
+    "id": "bo-crc-a-descida-dos-yungas-de-la-paz-a-coroico-pela-estrad",
+    "fontes": [
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "A descida dos Yungas: de La Paz a Coroico pela estrada nova",
+    "cidadeId": "coroico",
+    "categoria": "passeio",
+    "tags": [
+      "estrada",
+      "paisagem",
+      "descida",
+      "transporte",
+      "imperdivel"
+    ],
+    "descricaoCurta": "Do altiplano a 4.650 m a mata nublada a 1.740 m em cerca de 3 horas de onibus - uma das descidas de estrada mais espetaculares do continente.",
+    "descricaoLonga": "E o deslocamento que vale como passeio. A Rough Guides da os numeros: a estrada nova (o bypass aberto em 2006) tem 106 km e leva cerca de 3 horas de onibus e 2h15 de carro, contra cerca de 4h30 pela estrada antiga; o percurso sai de La Cumbre, a cerca de 4.800 m segundo esta fonte, e desce passando Yolosa (cerca de 1.200 m) ate Coroico (cerca de 1.760 m). A Wikipedia espanhola do municipio registra 1.740 m de altitude media e 97 km de La Paz pela carretera troncal bioceanica. O que acontece em tres horas: o altiplano pelado vira paramo, o paramo vira mata nublada, a mata nublada vira selva de encosta com bananeira e cafe - e a temperatura sai de perto de zero para 18 a 20 oC. A Rough Guides diz que a estrada nova e cenica e deve ser apreciada com calma ao dirigir. Precos do trecho pela Wikivoyage: onibus do Terminal Provincial Minasa Yungas ate Yolosita Bs 20 (mais minivan Bs 5 ate Coroico), minivan Bs 20 em cerca de 2h30, micro pequena Bs 25-30 em cerca de 2 h, taxi compartilhado Bs 30-35 e taxi privado Bs 300-350.",
+    "duracao": {
+      "min": 135,
+      "tipica": 180,
+      "max": 270
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 20,
+      "max": 350,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Faixa larga porque cobre modais diferentes, todos da Wikivoyage de Coroico: onibus Bs 20 (+ Bs 5 de minivan de Yolosita), minivan Bs 20, micro Bs 25-30, taxi compartilhado Bs 30-35 e taxi privado Bs 300-350 (este ultimo e por veiculo, nao por pessoa)."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A viagem SOBE primeiro, de 3.640 m a cerca de 4.650-4.800 m em La Cumbre, antes de descer: quem esta sensivel a altitude passa a pior hora no comeco, nao no fim.",
+        "A descida de mais de 3.000 m em poucas horas e, na pratica, o melhor remedio contra o mal de altitude - mas tambem causa dor de ouvido e sonolencia.",
+        "A Wikivoyage avisa que os motoristas de taxi compartilhado fazem as curvas rapido demais. Se o motorista estiver voando, peca para ir mais devagar - em voz alta.",
+        "Estrada de montanha com neblina e deslizamento na estacao chuvosa; a Wikipedia espanhola registra 1.227 mm de chuva por ano e neblina frequente nas encostas.",
+        "Nao faca o trecho a noite."
+      ],
+      "dependeDeClima": true,
+      "condicionamento": "baixo",
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima",
+      "imperdivel",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Sente do lado direito na ida (sentido La Paz-Coroico) para a vista do vale. Vale cada peso de Bs 20.",
+      "Pegue minivan ou micro em vez de taxi compartilhado - a propria fonte reclama da direcao dos taxis.",
+      "Se voce desceu de bicicleta pela estrada antiga, NAO suba de volta a La Paz no mesmo dia: durma em Coroico.",
+      "Se estiver sofrendo com a altitude em La Paz, antecipe Coroico. Descer 2.000 m resolve em horas o que dois dias de cha de coca nao resolvem."
+    ],
+    "alertas": [
+      "As fontes divergem na altitude de La Cumbre: 4.650 m (Bolivian Life), 4.700 m (Gravity Bolivia) e 4.800 m (Rough Guides). Registro a divergencia.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "bo-crc-o-camino-de-la-muerte-de-carro-hoje",
+    "fontes": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yungas_Road"
+      },
+      {
+        "url": "https://www.roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas/the-worlds-most-dangerous-road"
+      },
+      {
+        "url": "https://bushop.com/bolivia/death-road-tours/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "O Camino de la Muerte de carro, hoje",
+    "cidadeId": "coroico",
+    "categoria": "passeio",
+    "tags": [
+      "estrada-antiga",
+      "risco-real",
+      "paisagem",
+      "referencia",
+      "yungas"
+    ],
+    "descricaoCurta": "A estrada antiga nao e mais a via principal: hoje e pista de terra de uma faixa usada por bicicleta, moto e veiculo de apoio. Descer de carro e decisao, nao atalho.",
+    "descricaoLonga": "A Wikipedia inglesa e clara: depois que o trafego passou para a Rota 3 e para a estrada nova, a North Yungas Road antiga passou a ser usada principalmente por bicicleta, moto e pedestre, e recebe cerca de 25.000 turistas por ano. Os 64 km tem trechos de menos de 3 m de largura; a Rough Guides descreve os primeiros 40 km como os mais perigosos, com precipicios de ate 1.000 m, nuvem densa e cachoeira caindo sobre a pista. Historico de mortes: 200 a 300 por ano antes do bypass, segundo a Wikipedia inglesa, que tambem registra media de cerca de 209 acidentes e 96 mortes por ano em uma secao e 114 acidentes com 42 mortos em 2011 em outra - numeros que a propria pagina nao harmoniza. O que isso significa hoje para quem desce de carro: a pista existe, e passavel e e espetacular, mas e via de mao unica informal compartilhada com ciclista, sem guarda-corpo, sem socorro proximo e sem sinal. Nao economiza tempo nenhum em relacao a estrada nova - e mais lenta. Vai-se por ela pela paisagem, com motorista local que conheca, ou nao se vai.",
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": false,
+    "restricoes": {
+      "outras": [
+        "Estrada de terra de largura inferior a 3 m em trechos, sem guarda-corpo, com precipicio de centenas de metros (Wikipedia inglesa e Rough Guides).",
+        "Compartilhada com ciclistas em grupo descendo rapido: ultrapassagem e o momento de risco.",
+        "Nuvem densa reduz a visibilidade a metros e cachoeiras caem sobre a pista (Rough Guides).",
+        "Nao ha socorro proximo nem sinal confiavel de celular em boa parte do trecho.",
+        "A taxa da Prefeitura de Coroico (Bs 50, sendo Bs 25 no comeco e Bs 25 no fim, segundo a Bolivia Hop) e cobrada em posto de controle da estrada."
+      ],
+      "dependeDeClima": true,
+      "condicionamento": "baixo",
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Nao alugue carro em La Paz para fazer isso. Se quiser descer de carro, contrate motorista local que faca o trecho toda semana.",
+      "Se o objetivo e a paisagem, a estrada nova entrega vista espetacular com risco normal. A antiga e para quem quer A ESTRADA, nao a vista.",
+      "Nao desca a antiga de tarde nem com chuva. Neblina fechada e o que de fato mata.",
+      "Leve Bs 50 trocado para a taxa de Coroico."
+    ],
+    "alertas": [
+      "Numeros de morte conflitantes dentro da propria Wikipedia inglesa (200-300/ano antes do bypass; cerca de 96 mortes/ano em media; 42 mortos em 2011) - registro os tres e nao escolho um.",
+      "Nao existe estatistica oficial boliviana recente de acidentes nesta estrada que eu tenha conseguido abrir nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "passeio": {
+      "horariosDeSaida": [],
+      "horarioFixo": false
+    }
+  },
+  {
+    "id": "bo-crc-coroico-a-praca-a-vila-e-coroico-viejo",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Coroico: a praca, a vila e Coroico Viejo",
+    "cidadeId": "coroico",
+    "categoria": "atracao",
+    "tags": [
+      "vila",
+      "a-pe",
+      "praca",
+      "clima-ameno",
+      "barato"
+    ],
+    "descricaoCurta": "Vila de encosta a 1.740 m com praca no alto, clima de 18 oC o ano inteiro e vista do vale - o lugar onde o corpo descansa do altiplano.",
+    "descricaoLonga": "A Wikipedia espanhola registra altitude media de 1.740 m, 27.711 habitantes no municipio (censo 2024), temperatura media anual de 18,4 oC com medias mensais entre 16,6 e 19,4 oC, e 1.227 mm de chuva por ano - junho e julho mais frios, janeiro e fevereiro mais quentes. A mesma fonte situa a Igreja do Calvario aos pes do Cerro Uchumachi e registra senderismo, ciclismo e parapente entre as atividades, com o Festival Vuela Coroico realizado desde 2019. A Rough Guides diz sem rodeios que a maioria das pessoas vem para a piscina e a vista, e que a vila fica muito cheia em fim de semana e feriado boliviano - durante a semana e tranquila. Comer barato: a Wikivoyage lista comedor municipal a partir de Bs 6, empanadas na praca principal a Bs 2 a partir das 16:00, pizzaria, El Cafetal (cozinha francesa, a partir de Bs 40), buffet do Hotel Esmeralda a Bs 32 e Carlas Garden Pub das 19:00 a meia-noite, fechado domingo. A cerca de meia distancia fica Coroico Viejo, o assentamento original de onde a vila se mudou.",
+    "duracao": {
+      "min": 60,
+      "tipica": 150,
+      "max": 300
+    },
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 2,
+      "max": 40,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Nao se paga para estar na vila; a faixa e de comida, toda da Wikivoyage: empanada na praca Bs 2, comedor municipal a partir de Bs 6, buffet do Hotel Esmeralda Bs 32, El Cafetal a partir de Bs 40."
+    },
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 1.740 m nao ha problema de altitude - e exatamente o contrario: Coroico e onde se recupera. Mas a vila e toda em ladeira forte, com a praca no alto e o terminal de onibus bem abaixo.",
+        "Clima quente e umido com mosquito abundante: a Rough Guides recomenda repelente e roupa que cubra o corpo.",
+        "Chuva o ano inteiro e neblina nas encostas (Wikipedia espanhola): leve capa."
+      ],
+      "condicionamento": "medio",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": false
+    },
+    "selos": [],
+    "dicas": [
+      "Va durante a semana, nao no fim de semana - a propria Rough Guides recomenda isso, e e verdade: no sabado a vila enche de paceño.",
+      "Coma no comedor municipal e na banca de empanada da praca depois das 16h. Bs 2 a Bs 6 e comida de verdade.",
+      "Reserve hospedagem com piscina e vista: segundo a fonte, e por isso que as pessoas vem - e depois de La Paz voce vai entender.",
+      "Repelente desde a primeira hora. Nao e exagero."
+    ],
+    "alertas": [
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-sendero-de-las-tres-cascadas-la-jalancha",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      },
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Sendero de las Tres Cascadas (La Jalancha)",
+    "cidadeId": "coroico",
+    "categoria": "natureza",
+    "tags": [
+      "cachoeira",
+      "trilha",
+      "mata-atlantica-andina",
+      "banho",
+      "cafe-e-coca"
+    ],
+    "descricaoCurta": "Tres cachoeiras a leste da vila, a terceira (La Jalancha) a mais impressionante - mas as fontes divergem entre 1 hora e um dia inteiro de caminhada.",
+    "descricaoLonga": "A Wikipedia espanhola do municipio fala em 'famosas cascadas' e mostra a 'Tercera cascada La Jalancha' como rota visitada por turistas. A Wikivoyage traz as duas versoes contraditorias que todo mundo encontra: uma passagem descreve tres cachoeiras a cerca de 10 km de Coroico por trecho, como caminhada de dia inteiro, com destaque para a terceira, La Jalancha, descrita como impressionante; outra passagem diz que as tres cachoeiras a leste da vila fazem um passeio agradavel de dia, que se procure minibus com a placa 'cascadas' perto da praca, ou se saia a pe para uma caminhada agradavel de uma hora por vales e plantacoes de coca. Ou seja: NAO SE SABE, pela fonte, se e uma hora ou um dia - provavelmente dependendo de ir ate a primeira ou ate a terceira. Decida no local, perguntando qual cachoeira e quantos km. O caminho atravessa plantacao de coca e mata de encosta, e ha pocas para banho.",
+    "duracao": {
+      "min": 120,
+      "tipica": 300,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "A 1.700-2.000 m nao ha problema de altitude, mas ha calor, umidade e subida continua: hidratacao e o problema aqui, nao o ar.",
+        "Trilha de mata de encosta sem sinalizacao confiavel e com bifurcacao: guia local ou minibus 'cascadas' e o caminho razoavel - NAO va sozinho se nao conhece.",
+        "Pedra molhada no leito das cachoeiras e escorregadia e a correnteza aumenta rapido com chuva nas encostas. Nao entre na agua com o rio turvo ou subindo.",
+        "Mosquito e borrachudo: repelente e roupa comprida (Rough Guides recomenda para a regiao).",
+        "Nao ha venda nem agua potavel no caminho."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Pergunte na praca pelo minibus com placa 'cascadas' - a Wikivoyage diz que ele existe e resolve o trecho de estrada.",
+      "Defina ANTES ate qual cachoeira vai: a primeira e passeio de manha, a terceira pode ser o dia inteiro.",
+      "Saia cedo e esteja fora da trilha antes do fim da tarde: a mata escurece antes do ceu.",
+      "Leve 2 litros de agua, repelente e calcado que possa molhar."
+    ],
+    "alertas": [
+      "As fontes se contradizem no tamanho do passeio: cerca de 10 km por trecho e dia inteiro em uma passagem, caminhada de uma hora em outra - as duas na mesma Wikivoyage. Confirme no local.",
+      "Nao achei preco de entrada, de guia ou de minibus para as cachoeiras em fonte confiavel nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-trilha-do-cerro-uchumachi-chutokollo-uchumachi",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Trilha do Cerro Uchumachi (Chutokollo Uchumachi)",
+    "cidadeId": "coroico",
+    "categoria": "natureza",
+    "tags": [
+      "trilha",
+      "mirante",
+      "esforco",
+      "mata-nublada",
+      "beija-flor"
+    ],
+    "descricaoCurta": "Subida de cerca de 2 horas e 800 m de desnivel ate 2.533 m, com beija-flores no alto e, do outro lado, a cordilheira nevada em direcao a La Paz.",
+    "descricaoLonga": "E a melhor caminhada de Coroico e a Wikivoyage traz os numeros: a trilha Chutokollo Uchumachi chega a 2.533 m, com subida de cerca de 800 m e cerca de 2 horas de subida longa, passando por flores silvestres, plantacoes de coca e um trecho de floresta densa; no topo da para ver beija-flores e, do outro lado da montanha, a cordilheira nevada na direcao de La Paz. A Wikipedia espanhola situa o Cerro Uchumachi como o morro aos pes do qual fica a Igreja do Calvario de Coroico - ou seja, a montanha e o fundo da vila. O contraste e o que faz valer: voce sai de mata de cafe e coca a 1.740 m e, duas horas depois, esta olhando para o altiplano que acabou de deixar. Descida mais rapida que a subida, mas escorregadia.",
+    "duracao": {
+      "min": 180,
+      "tipica": 270,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Cerca de 800 m de desnivel positivo em cerca de 2 horas, de 1.740 m a 2.533 m: e subida sustentada, nao caminhada. Nao e problema de altitude - e problema de perna e de calor umido.",
+        "Trecho de floresta densa com piso de barro: escorrega muito na estacao chuvosa (a Wikipedia espanhola registra chuva o ano inteiro e neblina frequente nas encostas).",
+        "Sem agua potavel, sem venda e sem sombra garantida nos trechos abertos.",
+        "Neblina pode fechar a vista do topo em questao de minutos - o mirante nao e garantido.",
+        "Mosquito e carrapato em mata de encosta: repelente e calca comprida."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto"
+    },
+    "selos": [
+      "depende-do-clima",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Saia as 6h30. A vista do topo some com a neblina que sobe no meio da manha, e o calor da tarde na subida e cruel.",
+      "Vale cada peso (nao tem bilheteria): e a melhor coisa gratuita de Coroico.",
+      "Leve binoculo se tiver - a fonte diz que da para ver beija-flores no topo.",
+      "Calcado com sola de garra. Barro de mata nublada nao perdoa tenis liso."
+    ],
+    "alertas": [
+      "Nao achei preco de guia nem informacao sobre sinalizacao da trilha em fonte confiavel - a Wikivoyage descreve o percurso mas nao diz se e sinalizado.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-piscina-municipal-de-coroico",
+    "fontes": [
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Piscina municipal de Coroico",
+    "cidadeId": "coroico",
+    "categoria": "atracao",
+    "tags": [
+      "piscina",
+      "barato",
+      "descanso",
+      "familia",
+      "sol"
+    ],
+    "descricaoCurta": "Piscina publica de 20 metros acima do terminal de onibus, com area de sol - a opcao de banho que nao exige pagar day use de hotel.",
+    "descricaoLonga": "A Wikivoyage registra, de forma direta: piscina municipal aberta, de 20 m, acima do terminal de onibus, com espaco para tomar sol. Isso resolve um problema real de Coroico - a Rough Guides diz que a maioria das pessoas vem para a piscina e a vista, mas quase todas as piscinas da vila sao de hotel, cobradas como day use. A municipal e a alternativa publica, simples e barata, a 1.740 m e com clima de 18 a 20 oC. Para quem acabou de descer a Estrada da Morte de bicicleta e esta com as pernas destruidas, e o programa exato da tarde seguinte. NAO achei preco de entrada nem horario de funcionamento em fonte confiavel nesta sessao, e por isso os dois campos ficam vazios.",
+    "duracao": {
+      "min": 60,
+      "tipica": 120,
+      "max": 240
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": false
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Piscina publica ao ar livre: sol dos Yungas na faixa dos 1.700 m queima rapido, apesar de o calor parecer ameno. Protetor e sombra.",
+        "Fica acima do terminal de onibus, ou seja, em ladeira a partir do centro.",
+        "Estrutura municipal simples - nao conte com guarda-vidas, armario ou chuveiro quente."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [],
+    "dicas": [
+      "Programa perfeito para a tarde seguinte a descida de bicicleta: barato, plano e horizontal.",
+      "Leve o seu cadeado e nao leve nada de valor.",
+      "Se a municipal estiver fechada ou cheia, pergunte o day use da piscina de um hotel com vista - e o que a Rough Guides descreve como a razao de Coroico existir no roteiro."
+    ],
+    "alertas": [
+      "Preco e horario nao confirmados em fonte confiavel nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-senda-verde-santuario-de-animais-resgatados-yolosa",
+    "fontes": [
+      {
+        "url": "https://sendaverde.org/es/visit"
+      },
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "verificado",
+    "nome": "Senda Verde: santuario de animais resgatados (Yolosa)",
+    "cidadeId": "coroico",
+    "categoria": "natureza",
+    "tags": [
+      "santuario",
+      "fauna",
+      "ursos-andinos",
+      "macacos",
+      "reserva-obrigatoria"
+    ],
+    "descricaoCurta": "Santuario de fauna resgatada em Yolosa, com urso-andino, jaguatirica, puma e varias especies de macaco; visita guiada com reserva obrigatoria.",
+    "descricaoLonga": "Fica em Yolosa, na base da descida, e o proprio site do santuario descreve a visita como guiada por galerias desenhadas para a seguranca do visitante, com urso-andino, jaguatirica, ocelote, puma, varias especies de macaco, aves e repteis - e politica explicita de NAO contato fisico com os animais. A tabela oficial do site traz quatro pacotes com preco em bolivianos e horario de partida: Maruka (visita basica + ursos, sem felinos) as 10:00, 11:30, 14:30 e 16:00, por Bs 220 adulto internacional e Bs 110 crianca internacional de 5-9 anos (Bs 180 e Bs 90 nacional); Cubai (combo I, com felinos) as 10:00 e 16:00, Bs 280 internacional adulto (Bs 230 nacional); Aruma (combo II + ursos, com area de polinizadores, sem felinos) as 10:00 e 15:00, Bs 330 internacional adulto e Bs 180 crianca (Bs 270 e Bs 130 nacional); Arcoiris (combo III, com felinos e polinizadores) as 10:00 e 15:00, Bs 370 internacional adulto (Bs 300 nacional). A reserva e OBRIGATORIA e por escrito, pelo WhatsApp ou pelo telefone (+591) 698 28467. Muitos tours de bicicleta encerram o dia almocando por aqui.",
+    "duracao": {
+      "min": 90,
+      "tipica": 150,
+      "max": 240
+    },
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "16:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-16:00",
+    "diasFechados": [],
+    "preco": {
+      "moeda": "BOB",
+      "min": 90,
+      "max": 370,
+      "por": "pessoa",
+      "inclui": "",
+      "coletadoEm": "2026-10-09",
+      "fontes": [],
+      "observacao": "Tabela oficial do site do santuario: Maruka Bs 180 nacional adulto / Bs 220 internacional adulto / Bs 90 e Bs 110 crianca 5-9; Cubai Bs 230 / Bs 280 (12+); Aruma Bs 270 / Bs 330 adulto e Bs 130 / Bs 180 crianca; Arcoiris Bs 300 / Bs 370 (12+). O min de Bs 90 e a crianca nacional no pacote mais simples."
+    },
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2,
+      "link": "https://sendaverde.org/es/visit"
+    },
+    "contato": {
+      "telefone": "+591 698 28467",
+      "whatsapp": "+591 698 28467",
+      "site": "https://sendaverde.org/es/visit"
+    },
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Fica em Yolosa, a cerca de 1.200 m - sem problema de altitude, mas com calor, umidade e mosquito dos Yungas: repelente e roupa comprida.",
+        "Politica do santuario: NENHUM contato fisico com os animais. Quem for esperando tirar foto segurando macaco esta no lugar errado - e isso e um elogio ao lugar.",
+        "Idade: a tabela oficial cobra adulto a partir de 10 anos no pacote Maruka e a partir de 12 nos combos, com tarifa de crianca de 5 a 9 anos nos pacotes Maruka e Aruma. Os combos com felinos nao tem tarifa de crianca publicada.",
+        "Reserva obrigatoria e por escrito: chegar sem reserva nao garante entrada.",
+        "Trilha de galeria em piso de mata: pode escorregar com chuva."
+      ],
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "baixo",
+      "idadeMinima": 5,
+      "dependeDeClima": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Reserve pelo WhatsApp do site com dois dias de antecedencia e escolha o pacote: se quiser ver felino, precisa ser Cubai ou Arcoiris.",
+      "Encaixe no dia seguinte a descida de bicicleta - Yolosa e onde a descida termina.",
+      "Vale cada peso: e santuario de resgate com politica de nao-contato, o oposto de atracao com animal para foto. O dinheiro vai para o tratamento dos bichos.",
+      "Nao e zoologico com bilheteria aberta. Sem reserva, nao entre no onibus."
+    ],
+    "alertas": [
+      "Os dias da semana de funcionamento nao estao publicados no site: confirme ao reservar antes de montar o dia.",
+      "A duracao do tour nao e informada pelo site oficial - a faixa aqui e estimativa do agente a partir dos intervalos entre horarios de partida.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-tocana-e-a-cultura-afro-boliviana-dos-yungas",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Tocaña e a cultura afro-boliviana dos Yungas",
+    "cidadeId": "coroico",
+    "categoria": "experiencia",
+    "tags": [
+      "afro-bolivianos",
+      "saya",
+      "comunidade",
+      "fora-do-obvio",
+      "cultura"
+    ],
+    "descricaoCurta": "Comunidade afro-boliviana perto de Coroico, berco da saya - musica e danca de tambor que descende dos escravizados trazidos para as minas de Potosi.",
+    "descricaoLonga": "Os afro-bolivianos dos Yungas descendem de africanos escravizados levados para as minas de Potosi e depois deslocados para as plantacoes dos vales quentes, e Tocaña e uma das comunidades onde essa cultura se manteve - e e dela que vem a saya, o conjunto de musica, canto e danca de tambor que hoje e simbolo nacional boliviano. A comunidade mantem centro cultural com apresentacao de saya, instrumentos, ferramentas de trabalho, material audiovisual, teatro para cerca de 200 pessoas, sala de exposicao, cafeteria e comedor; segundo o material de imprensa que apareceu na minha busca, o centro passou por declinio e foi remodelado a partir de julho de 2021, e a visita inclui musica, danca, gastronomia e tradicoes afrodescendentes. IMPORTANTE SOBRE A FONTE: eu NAO consegui abrir a pagina oficial da comunidade nem o PDF do governo boliviano (conocebolivia.produccion.gob.bo) sobre os Yungas nesta sessao - a conexao foi recusada. A Wikipedia espanhola de Coroico NAO menciona Tocaña, e a Rough Guides tambem nao, na parte que li. Entao este item existe como pista forte e verificavel no local, nao como dado confirmado: confirme na agencia ou na prefeitura de Coroico se o centro cultural esta recebendo visita, e em que dias.",
+    "duracao": {
+      "min": 150,
+      "tipica": 240,
+      "max": 360
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Comunidade rural nos Yungas, abaixo de Coroico: estrada de terra, calor umido e mosquito. Repelente.",
+        "Visita a comunidade, nao a espetaculo: combine antes, pague o que foi combinado e pergunte antes de filmar ou fotografar pessoa.",
+        "Nao ha estrutura turistica garantida (banheiro, agua, comida) fora dos dias em que o centro cultural esta operando."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar",
+      "vale-cada-peso"
+    ],
+    "dicas": [
+      "Vale muito se der certo: e a unica porta deste roteiro para a Bolivia afrodescendente, que o resto do pacote simplesmente ignora.",
+      "NAO va sem combinar antes. Comunidade nao e atracao de porta aberta, e a visita sem aviso incomoda.",
+      "Pergunte se ha apresentacao de saya marcada - sem isso, a visita e so uma aldeia bonita.",
+      "Pague o que a comunidade pedir, sem pechinchar. O dinheiro e o que mantem o centro cultural de pe."
+    ],
+    "alertas": [
+      "FONTE FRACA: as informacoes sobre o centro cultural de Tocaña vieram de trechos de imprensa que apareceram em busca e que eu NAO ABRI, e as fontes que abri sobre Coroico (Wikipedia espanhola, Wikivoyage, Rough Guides) nao mencionam Tocaña. Trate tudo aqui como a confirmar no local.",
+      "O PDF oficial do governo boliviano sobre os Yungas e o Camino de la Muerte (conocebolivia.produccion.gob.bo) existe mas NAO abriu nesta sessao: conexao recusada. Vale tentar de novo.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-cafe-e-cacau-dos-yungas-visita-a-finca-em-coroico",
+    "fontes": [
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      },
+      {
+        "url": "https://en.wikivoyage.org/wiki/Coroico"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Cafe e cacau dos Yungas: visita a finca em Coroico",
+    "cidadeId": "coroico",
+    "categoria": "cafe",
+    "tags": [
+      "cafe",
+      "cacau",
+      "finca",
+      "agroturismo",
+      "fora-do-obvio"
+    ],
+    "descricaoCurta": "Os Yungas sao a regiao de cafe da Bolivia: ha fincas organicas perto de Coroico que recebem visita com colheita, torra e degustacao.",
+    "descricaoLonga": "A Rough Guides registra cafe, fruta tropical e coca como os produtos agricolas dos Yungas - e e nisso que esta a melhor experiencia gastronomica da base. O cafe boliviano de altitude dos Yungas e produto de especialidade reconhecido, e ha fincas organicas na regiao de Coroico que abrem a porta para visita: percurso pelo cafezal, explicacao do processo (colheita, despolpa, secagem, torra) e degustacao, normalmente com almoco. Uma delas, a Finca Munaipata, aparece em relato de visitante como fazenda organica a cerca de 20 minutos de estrada de terra a partir de Coroico, com cafe e refeicao servidos no local. SOBRE A HONESTIDADE DO ITEM: nem a Rough Guides, nem a Wikivoyage, nem a Wikipedia espanhola trazem cafe ou cacau como atrativo organizado de Coroico - a Wikivoyage diz explicitamente que nao tem nada sobre cafes e cacau, e a Wikipedia espanhola nao menciona nem cafe nem citricos. Entao: a existencia da cultura de cafe esta confirmada; o passeio organizado NAO esta. Pergunte na agencia ou na pousada quais fincas estao recebendo e feche no local.",
+    "duracao": {
+      "min": 120,
+      "tipica": 210,
+      "max": 330
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Acesso por estrada de terra de montanha: na estacao chuvosa pode ficar intransitavel.",
+        "Visita a propriedade produtiva, nao a parque: calcado fechado, roupa comprida, repelente.",
+        "Colheita tem epoca: a visita fora da safra mostra o beneficiamento, nao a colheita."
+      ],
+      "condicionamento": "baixo",
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Pergunte na pousada qual finca esta recebendo nesta semana - e combinacao local, nao produto de prateleira.",
+      "Se der, compre o cafe na propria finca em vez da loja da praca: e mais barato para voce e muito melhor para quem produz.",
+      "Nao va esperando cacau: o cacau boliviano famoso e do Beni e do norte de La Paz, e as fontes que abri nao confirmam producao de cacau em Coroico."
+    ],
+    "alertas": [
+      "PASSEIO NAO CONFIRMADO: nenhuma das tres fontes que abri sobre Coroico (Rough Guides, Wikivoyage, Wikipedia espanhola) descreve visita organizada a finca de cafe ou de cacau. A Wikivoyage declara nao ter nada sobre cafes e cacau. Confirme no local.",
+      "O nome Finca/Cafe Munaipata vem de relato de visitante que apareceu em busca e que eu NAO abri - nao e recomendacao verificada, e uma pista.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ],
+    "gastronomia": {
+      "tipoCozinha": [],
+      "reservaRecomendada": true
+    }
+  },
+  {
+    "id": "bo-crc-canyoning-nos-canyons-de-coroico-el-vagante",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      },
+      {
+        "url": "https://lapaz.bo/turismo/mallasa/"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Canyoning nos canyons de Coroico (El Vagante)",
+    "cidadeId": "coroico",
+    "categoria": "experiencia",
+    "tags": [
+      "canyoning",
+      "rapel",
+      "aventura",
+      "guia-obrigatorio",
+      "nor-yungas"
+    ],
+    "descricaoCurta": "Descida de canyon com rapel nos cursos de agua em volta de Coroico - atividade que exige guia licenciado e permissao da comunidade.",
+    "descricaoLonga": "Ha canyons na regiao de Coroico (Nor Yungas) usados para canyoning, entre eles o que desce em direcao ao Rio Vagante, descrito em base de dados de canyonismo como descida curta, com cenario atraente mas sem saltos nem toboganes, com acesso a partir de Coroico. O ponto que importa nao e tecnico, e de conduta: a referencia de canyonismo que apareceu na minha busca orienta contatar a operacao local (El Vagante Canyoning) antes de entrar em qualquer canyon e NAO descer nenhum sem permissao, e relata que um grupo de guias de fora entrou num canyon sem pedir e os locais fecharam o canyon em resposta. A Wikipedia espanhola de Coroico cita escalada e rapel entre as atividades da zona de aventura dos Yungas, e a Prefeitura de La Paz cita escalada em rocha e rapel como atividades do macrodistrito Mallasa - ou seja, a pratica existe na regiao. Precos, horarios e operadoras NAO foram confirmados em fonte que eu tenha aberto.",
+    "duracao": {
+      "min": 240,
+      "tipica": 360,
+      "max": 480
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 2
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Canyoning e atividade de risco alto: agua corrente, rapel em cachoeira, pedra escorregadia e possibilidade de enxurrada repentina. NUNCA sem guia licenciado e equipamento completo.",
+        "Chuva nas encostas altas aumenta o volume do canyon em minutos, mesmo com sol embaixo: a estacao chuvosa dos Yungas (chuva o ano inteiro, segundo a Wikipedia espanhola) e fator de cancelamento legitimo.",
+        "Exige permissao local: entrar sem pedir ja fez comunidade fechar canyon na regiao.",
+        "Nao ha resgate rapido: o socorro em canyon de Yungas depende de equipe e de horas.",
+        "Confirme se o seu seguro de viagem cobre canyoning - muitos nao cobrem."
+      ],
+      "condicionamento": "alto",
+      "idadeMinima": 14,
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true
+    },
+    "selos": [
+      "precisa-reservar"
+    ],
+    "dicas": [
+      "Contrate SO operacao local com guia licenciado, e pergunte explicitamente sobre permissao da comunidade no canyon escolhido.",
+      "Nao tente canyon por conta propria nem com 'amigo que ja fez'. Esta e a atividade mais perigosa do pacote depois da bicicleta.",
+      "Se estiver chovendo nas alturas, remarque sem discutir."
+    ],
+    "alertas": [
+      "FONTE FRACA: a descricao do canyon e a regra de permissao vem de base de canyonismo (RopeWiki e opencanyon) que apareceu em busca e que eu NAO ABRI. As fontes que abri confirmam apenas que escalada e rapel sao atividades da regiao.",
+      "Preco, horario, operadoras e requisitos de idade reais nao confirmados nesta sessao - a idade minima de 14 anos aqui e julgamento do agente, nao dado de fonte.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-parapente-em-coroico-e-o-festival-vuela-coroico",
+    "fontes": [
+      {
+        "url": "https://es.wikipedia.org/wiki/Coroico"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "estimado",
+    "nome": "Parapente em Coroico e o Festival Vuela Coroico",
+    "cidadeId": "coroico",
+    "categoria": "experiencia",
+    "tags": [
+      "parapente",
+      "voo",
+      "aventura",
+      "festival",
+      "vista"
+    ],
+    "descricaoCurta": "Coroico voa: a Wikipedia espanhola registra parapente entre as atividades da vila e o Festival Vuela Coroico, realizado desde 2019.",
+    "descricaoLonga": "A Wikipedia espanhola de Coroico lista senderismo, ciclismo e parapentismo como as atividades do municipio e registra o Festival Vuela Coroico, realizado desde 2019. A geografia explica: a vila esta encostada numa montanha a 1.740 m, com vale aberto abaixo e termicas fortes no meio do dia - condicao classica de voo livre. Voar aqui entrega o que nenhuma trilha entrega: o degrade dos Yungas de cima, do verde fechado da encosta ate o azul do vale do Rio Coroico. Voo duplo com piloto e a forma normal de fazer sem experiencia. NAO consegui confirmar nesta sessao nenhuma operadora, preco, horario, local de decolagem nem data do festival - as fontes que abri confirmam apenas que a atividade e o festival existem. Trate como coisa a fechar no local.",
+    "duracao": {
+      "min": 120,
+      "tipica": 180,
+      "max": 300
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 1
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Voo livre depende inteiramente de vento e termica: cancelamento e normal, e piloto que voa em condicao ruim e piloto que voce nao quer.",
+        "Decolagem em encosta exige correr alguns passos com o equipamento: nao e atividade passiva.",
+        "Problema de coluna, gravidez, cirurgia recente e limite de peso costumam ser impedimento - pergunte antes.",
+        "Confirme se o seu seguro de viagem cobre voo livre: a maioria nao cobre.",
+        "Exija ver a licenca do piloto e o estado do equipamento. Na Bolivia a fiscalizacao e fraca."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "medio",
+      "idadeMinima": 14
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima",
+      "corte-se-apertar"
+    ],
+    "dicas": [
+      "Marque de manha: termica de meio-dia nos Yungas e forte e o voo fica mais turbulento.",
+      "Pergunte quantos anos de voo tem o piloto e quantos voos ele fez nesta encosta especificamente. Se a resposta for vaga, nao voe.",
+      "Corte se apertar o tempo: e caro em relacao ao resto da base e depende de clima. A trilha do Uchumachi entrega vista por zero."
+    ],
+    "alertas": [
+      "Nenhum dado operacional confirmado: nao achei operadora, preco, horario, local de decolagem nem data do Festival Vuela Coroico em fonte que eu tenha aberto. A idade minima de 14 anos e julgamento do agente.",
+      "A unica confirmacao e que parapente e atividade do municipio e que o festival existe desde 2019 (Wikipedia espanhola).",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  },
+  {
+    "id": "bo-crc-trilha-el-choro-de-la-cumbre-a-chairo-3-a-4-dias",
+    "fontes": [
+      {
+        "url": "https://roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas"
+      },
+      {
+        "url": "https://www.roughguides.com/bolivia/lago-titicaca-the-cordilleras-and-the-yungas/the-yungas/the-worlds-most-dangerous-road"
+      }
+    ],
+    "coletadoEm": "2026-10-09",
+    "confianca": "parcial",
+    "nome": "Trilha El Choro: de La Cumbre a Chairo (3 a 4 dias)",
+    "cidadeId": "coroico",
+    "categoria": "natureza",
+    "tags": [
+      "trekking",
+      "caminho-pre-hispanico",
+      "multi-dia",
+      "cotapata",
+      "esforco"
+    ],
+    "descricaoCurta": "70 km de trilha pre-hispanica em 3 a 4 dias, de La Cumbre a 4.650 m ate Chairo nos Yungas - quase toda em descida, atravessando quatro climas.",
+    "descricaoLonga": "A Rough Guides da os dados: a trilha El Choro tem cerca de 70 km e se faz em 3 a 4 dias, quase toda em descida, por uma antiga rota pre-hispanica; comeca perto de La Cumbre, passa pelo Abra Chukura a 4.860 m e termina em Chairo, atravessando a mata nublada do Parque Nacional Cotapata, que vai de 1.000 m a 6.000 m de altitude. A mesma fonte diz que pode ser feita sem guia, com barraca, bussola e, se possivel, mapa - e, no mesmo paragrafo, relata roubos de viajantes em uma area da trilha. E a grande travessia classica da regiao e o oposto da Estrada da Morte: mesma descida de altiplano para selva, mas em quatro dias de perna propria. Chairo fica na direcao de Coroico, que e a base natural para terminar. NAO achei preco de guia, de mula, de taxa de parque nem horario de transporte para o inicio da trilha em fonte confiavel nesta sessao.",
+    "duracao": {
+      "min": 2880,
+      "tipica": 4320,
+      "max": 5760
+    },
+    "diasFechados": [],
+    "reserva": {
+      "necessaria": true,
+      "antecedenciaDias": 7
+    },
+    "contato": {},
+    "imagens": [],
+    "agendavel": true,
+    "restricoes": {
+      "outras": [
+        "Comeca a cerca de 4.650 m e cruza o Abra Chukura a 4.860 m no primeiro dia: e o ponto mais alto de todo este pacote fora de Chacaltaya. NAO comece El Choro sem ter passado pelo menos 3 dias completos acima de 3.500 m.",
+        "Desce mais de 3.000 m em 3-4 dias, de paramo gelado a mata umida quente: equipamento para as duas pontas (termico e chuva) e obrigatorio.",
+        "Acampamento selvagem: e preciso barraca, saco de dormir, fogareiro, agua tratada e comida para todos os dias.",
+        "A Rough Guides relata ROUBOS de viajantes numa area da trilha: nao faca sozinho, nao acampe em ponto isolado sem gente e nao exiba equipamento.",
+        "Chuva o ano inteiro e neblina na mata nublada: trilha de barro, rio que sobe e risco de hipotermia no alto.",
+        "Nao ha socorro motorizado em quase todo o trajeto nem sinal de celular confiavel."
+      ],
+      "dependeDeClima": true,
+      "dependeDeLuzDoDia": true,
+      "condicionamento": "alto",
+      "idadeMinima": 16
+    },
+    "selos": [
+      "precisa-reservar",
+      "depende-do-clima"
+    ],
+    "dicas": [
+      "Contrate guia, mesmo que a fonte diga que da para ir sem. O proprio paragrafo que autoriza ir sem guia e o que relata roubo na trilha.",
+      "Faca DEPOIS de Copacabana e La Paz, nunca na chegada: o primeiro dia e a 4.860 m.",
+      "Termine em Chairo e durma em Coroico. Nao tente voltar a La Paz no mesmo dia em que sair da trilha.",
+      "Se voce tem 4 dias e quer uma coisa so nos Yungas, El Choro vale mais que qualquer combinacao de bate-voltas."
+    ],
+    "alertas": [
+      "A Rough Guides relata roubos de viajantes numa area da trilha El Choro - e afirmacao da fonte, nao boato do agente.",
+      "Preco de guia, mula, taxa do Parque Nacional Cotapata e transporte para o inicio NAO encontrados em fonte confiavel nesta sessao.",
+      "coordenada nao encontrada: este item nao aparece no mapa"
+    ]
+  }
+]

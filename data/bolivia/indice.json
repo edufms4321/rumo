@@ -1,0 +1,64 @@
+{
+  "id": "bolivia",
+  "nome": "Bolivia",
+  "paisNome": "Bolivia",
+  "codigoPais": "BO",
+  "moeda": "BOB",
+  "cobertura": "Cobre 12 bases: altiplano e Titicaca, Yungas e Amazonia, o Salar e o sul, as cidades coloniais, os vales e o oriente. Fora do pacote: o Pantanal boliviano (Puerto Suarez), as missoes jesuiticas de Chiquitos e o norte do Beni alem de Rurrenabaque.",
+  "totais": {
+    "itens": 206,
+    "cidades": 12,
+    "trechos": 29,
+    "eventos": 10,
+    "estados": 0,
+    "regioes": 0
+  },
+  "confianca": {
+    "verificado": 44,
+    "parcial": 110,
+    "estimado": 52
+  },
+  "grupos": [
+    {
+      "grupo": "praia-e-mar",
+      "n": 4
+    },
+    {
+      "grupo": "natureza",
+      "n": 56
+    },
+    {
+      "grupo": "aventura",
+      "n": 20
+    },
+    {
+      "grupo": "cultura",
+      "n": 51
+    },
+    {
+      "grupo": "comer",
+      "n": 20
+    },
+    {
+      "grupo": "bares",
+      "n": 5
+    },
+    {
+      "grupo": "festas-e-musica",
+      "n": 2
+    },
+    {
+      "grupo": "compras",
+      "n": 14
+    },
+    {
+      "grupo": "passeios",
+      "n": 32
+    },
+    {
+      "grupo": "referencia",
+      "n": 2
+    }
+  ],
+  "arvore": []
+}
