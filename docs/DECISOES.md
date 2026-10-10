@@ -299,3 +299,37 @@ Um provedor real de rotas (OSRM/ORS) entra depois atrás de uma interface, opcio
 **Por quê:** a onda de hospedagem da Colômbia trouxe `alertasGerais` com cinco blocos — entre eles a lista de quinze hostels que fecharam e duas armadilhas de domínio (`laserrana.co` hoje é outra propriedade, em Urrao; `viajero.co` está à venda). Nada disso tem lugar no schema. Sem o aviso, some sem ninguém saber que existiu.
 
 **É a mesma regra do `descartados.json` (D30), aplicada um nível acima:** antes o conversor avisava sobre o REGISTRO que não entrou; agora avisa também sobre o CAMPO que ele não sabe guardar.
+
+## D38 — O relógio de cada dia é o da cidade-base
+
+**Decisão:** a agenda continua sendo hora de parede — minutos desde a meia-noite local, sem `Date`, sem biblioteca, sem aritmética de fuso dentro do resolvedor. O que faltava era dizer **de quem** é esse relógio, e a resposta é: o da cidade onde ele dorme naquele dia. `startMin` de um bloco é, portanto, a posição dele na linha do tempo *desse* relógio, que é exatamente o que o arrastar grava. `src/engine/fusos.ts` traduz um horário de um relógio para outro quando o dia atravessa um fuso.
+
+**Por quê:** Cancún é UTC−5 e Valladolid UTC−6, a 150 km de distância. Um ônibus que sai 11h de Cancún e leva 2h30 chega **12h30** em Valladolid. Quem subtrai relógios em vez de somar duração real diz 13h30 — e erra para o lado perigoso, inventando uma hora de folga que não existe.
+
+**A alternativa descartada** era guardar tudo em UTC. Isso reinterpretaria o significado de todo `startMin` já salvo no navegador dele, e trocaria um bug de uma hora em trechos entre fusos por aritmética de fuso em cada bloco da agenda.
+
+**Consequência:** o bloco de trecho mostra as duas pontas cada uma no seu relógio, com selo "−1 h"; o dia ganha faixa quando o relógio muda; o cartão do calendário repete o selo; e o painel de troca de cidade **converte na gravação** o horário do bilhete, senão salvar desfaria a conta que a leitura acerta.
+
+## D39 — Bloco que nenhuma tela cria não existe
+
+**Decisão:** quando o schema tem uma entidade, o motor sabe calculá-la e os dados estão pesquisados, mas nenhuma tela a cria, isso conta como **não implementado** — não como "falta a interface".
+
+**Por quê:** `BlocoTrecho` existia desde o primeiro commit; o motor somava acesso ao terminal, antecedência e traslado; a matriz entre cidades tinha 30 rotas pesquisadas com fonte só no México; as regras liam `tipo === 'trecho'` para saber se o dia tinha troca de base. E nenhuma tela criava um trecho. "Troca de cidade é bloco salvo" era verdade no código e mentira no app. O mesmo padrão dos onze botões de correção sem tratador: a peça existe, o caminho até ela não.
+
+**Como evitar:** ao fechar uma fatia, perguntar qual gesto do usuário cria o registro. Se a resposta for "nenhum", a fatia não fechou.
+
+## D40 — `String(valor)` em dado que pode vir estruturado é perda silenciosa
+
+**Decisão:** o conversor de horários aceita as duas formas que a pesquisa grava — prosa (`"09:00-12:30 e 14:30-19:00"`) e estruturada (`[{abre, fecha}]`) — e há teste de unidade para as duas.
+
+**Por quê:** `converterHorarios` fazia `String(valor)` e procurava HH:MM no resultado. Na forma estruturada isso dá `"[object Object]"`, nenhum horário casa, o dia sai **ausente** (que no schema significa "desconhecido", não "fechado") e a string `"[object Object]"` era gravada em `horariosObservacao` dentro de `/data`, pronta para aparecer na tela. O pacote do Nordeste tinha horário em **4 itens de 459**; depois do conserto, 58. Punta Cana foi de 22 para 45.
+
+**O agravante:** isso também deixava a regra de dia fechado sem matéria-prima. "Fecha na segunda" não dispara para item cujo horário foi descartado — o pacote inteiro do Nordeste era incapaz de avisar sobre dia de fechamento, e nada na tela dizia isso.
+
+**`tsc` e `oxlint` passam com esse defeito**, porque `String(objeto)` é código válido. Só teste pega.
+
+## D41 — Prazo só entra com fonte
+
+**Decisão:** `diasAntesDaViagem` de um documento de entrada só é preenchido quando alguma fonte diz a antecedência. Sem fonte, o documento aparece sem contagem regressiva, com o prazo em palavras quando houver.
+
+**Por quê:** dei 90 dias ao passaporte do México por parecer razoável. A fila de reservas então abriu com **"Passaporte válido — prazo vencido"** numa viagem a 44 dias de distância, porque 90 dias atrás já passou. Número que eu invento não é só impreciso: ele produz alarme falso, e alarme falso no topo da fila gasta a confiança de todos os avisos verdadeiros abaixo dele. É a regra de honestidade de dados aplicada ao meu próprio chute.

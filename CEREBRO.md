@@ -128,8 +128,10 @@ npm run validate          # typecheck + lint + test + validate:data
 | árvore de lugares | país > macrorregião > estado > cidade-base, com a região turística como etiqueta |
 | itens | ver a tabela abaixo; cada um classificado em 11 grupos derivados |
 | hospedagem | 400 registros nas 63 bases, 231 com nome, 202 com preco |
-| testes do motor | 166, verdes |
-| testes de navegador | 27, verdes (inclui 3 de acessibilidade) |
+| telas | 11 — entrou **Documentos** (requisitos de entrada com prazo, custo, link oficial e situacao por viagem) |
+| fuso | o relogio de cada dia e o da cidade-base; `src/engine/fusos.ts` traduz entre relogios |
+| testes do motor | 217, verdes |
+| testes de navegador | 35, verdes (inclui 3 de acessibilidade) |
 | validação de dados | 0 erro |
 | acessibilidade | 0 violação axe em 9 telas × 2 temas |
 | pacote inicial | ~171 kB gz; o banco de cada destino vem sob demanda |

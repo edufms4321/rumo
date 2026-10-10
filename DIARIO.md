@@ -299,3 +299,71 @@ O Nordeste tinha 289 itens agendáveis sem ponto no mapa; agora 213. As três re
 O passo de imagens travou no limite de requisições do Wikimedia Commons. O ensaio na Dominicana tinha achado **4 em ~150 tentativas** — o Commons cobre mal o Caribe hispânico, e a regra de exigir a cidade no nome do arquivo (D29) é estrita de propósito. Nada gravado; está no PLANO para retomar.
 
 E registro a pergunta que fica com ele: **55 lugares do Nordeste estão sem preço, e 38 têm telefone no app.** A diferença entre lista de nomes e lista usável são umas quinze mensagens de WhatsApp.
+
+---
+
+## 2026-10-09, noite — P1 do briefing de UX fechado
+
+O Eduardo mandou um documento de 16 melhorias tiradas de um planejamento de viagem que ele fez **à mão** para o México, com instrução de implementar por prioridade e mostrar o resultado ao fim de cada uma. Primeiro fiz o que o documento pedia no passo 1: ler o código e dizer o que existe. Metade do P1 e do P2 já estava pronta — preço com moeda e data, câmbio datado, alertas com severidade, sazonalidade, esforço, deslocamento em pernas, fila por prazo, exportar. O que faltava é o resto deste diário.
+
+### Antes disso: onze botões que não faziam nada
+
+Procurando o item 1 (dias e horários de funcionamento) descobri que **onze dos dezoito tipos de correção que o motor emitia não tinham tratador na interface**. O alerta aparecia, o botão aparecia, o clique caía no `default` de um `switch`. Botão morto é pior que botão nenhum: gasta a confiança que os outros avisos construíram. `Correcao.tipo` virou união fechada e os tratadores viraram `Record` exaustivo — o compilador agora recusa o build enquanto faltar um. **Isso já cobrou o preço duas vezes nesta sessão**, nas duas correções novas que escrevi depois.
+
+### Fuso por base (item 2)
+
+A agenda continua hora de parede, como sempre foi. O que faltava era dizer de quem é o relógio: é o da cidade-base do dia (D38). Cancún é UTC−5 e Valladolid UTC−6, a 150 km. Ônibus que sai 11h de Cancún e leva 1h30 chega **11h30** em Valladolid; quem subtrai relógio diz 12h30 e inventa uma hora de folga.
+
+Três lugares leem isso agora: o bloco de trecho mostra as duas pontas cada uma no seu relógio com selo "−1 h", o dia ganha faixa quando o relógio muda, e o cartão do calendário repete o selo para a mudança ser visível na viagem inteira. `offsetChegadaMinutos` era dado morto no schema desde o primeiro commit e agora alimenta a tela, em vez de eu criar um segundo campo com o mesmo nome.
+
+**E consertei um bug da mesma família:** a regra de luz do dia comparava o pôr do sol no relógio da cidade da ATIVIDADE com um bloco posicionado no relógio do DIA. Com base em Cancún e bate-volta em Yucatán, ela errava para menos — deixava marcar um mirante 44 min depois de escurecer e **calava**.
+
+### O trecho era inalcançável (item 2, de novo)
+
+Para testar Cancún → Valladolid no app, descobri que **nenhuma tela criava um bloco de trecho**. O schema tinha `BlocoTrecho` desde o commit inicial, o motor somava acesso ao terminal e antecedência, a matriz tinha 30 rotas do México pesquisadas com fonte, as regras liam `tipo === 'trecho'` — e não havia gesto nenhum que criasse um. Agora há "Mudar de cidade" na tela do dia, com os modais pesquisados, operadoras, e a duração vindo do **mesmo** `estimarDeslocamento` que a linha do tempo usa nas lacunas. Virou decisão (D39): peça que existe e não tem caminho na interface conta como não implementada.
+
+O painel **converte o horário na gravação**: o que ele digita é a hora do bilhete, no relógio de onde embarca, e `startMin` é posição numa linha do tempo desenhada no relógio da base. Entre Cancún e Valladolid isso é uma hora inteira — salvar sem converter desfaria na gravação a conta que a leitura acerta.
+
+### `npm run e2e` não fazia build
+
+Achei isso da pior forma: escrevi o teste do fuso, ele falhou, e o motivo era que o Playwright roda contra `vite preview`, que serve o `dist/` **do disco**. O script era só `playwright test`. Ou seja: **suíte verde não provava nada sobre o código recém-escrito**, e vinha sendo assim desde que a suíte existe. Agora constrói primeiro.
+
+### Documentos (item 3)
+
+O requisito de entrada do México era um parágrafo de dez linhas dentro de `destino.entrada.observacoes`. Aparecia inteiro no alerta da viagem, e ninguém lê dez linhas de prosa procurando o que fazer hoje. Pior: **nenhuma regra podia ler aquilo** — se o visto vale para uma entrada ou várias era uma frase.
+
+Agora é campo: `entradasPermitidas`, `vias`, `validadeDias`, `isencoes`, `custo`, `prazo`, `linkOficial`, `escopo`. A situação mora na viagem, porque `/data` é somente leitura. E há tela própria, com prazo contado, link oficial e campo de protocolo.
+
+**O filtro de escopo é a parte que vale explicar:** o Visitax é taxa de Quintana Roo, então só aparece quando o roteiro **entra** no estado — inclusive em bate-volta, porque a taxa é por entrar. Mostrar para quem só vai a Oaxaca erraria duas vezes: manda pagar o que não deve e ensina a ignorar a tela.
+
+Regra nova, `visto-de-entrada-unica`: o único lugar do app em que o visto e o itinerário se olham juntos. O e-visto mexicano vale para **uma** entrada e só por via aérea; trecho que sai do país queima o visto no meio da viagem, e a descoberta é no balcão de imigração com a passagem comprada. Só dispara quando o dado **diz** quantas entradas permite — supor entrada única assustaria sem base. `BlocoTrecho` ganhou `escalaEmOutroPais` e o painel pergunta, senão a regra não teria o que ler.
+
+**Os dados do México são reais:** e-visto USD 10, 180 dias, entrada única, só aérea, com a lista de isenções, do guia do próprio Consulado em São Paulo e da página da Embaixada — `verificado`. Visitax do `visitax.gob.mx` para quem paga e como pagar, mas **o portal oficial não publica o valor** (é 2,5 UMA e muda com ela), então o preço é faixa de MXN 280–300 com imprensa local como fonte e a ressalva na tela — `parcial`. A tela mostra faixa porque número redondo ali seria afirmação que eu não sustento.
+
+### A fila de reservas ganhou o voo e os documentos (item 4)
+
+A tela listava só atividades agendadas. O voo internacional e os documentos — as duas coisas mais caras e mais irreversíveis — ficavam cada um na sua tela, sem prazo e sem ordem. Quem abria a fila via o tour no topo e o visto em lugar nenhum.
+
+Três regimes, de propósito diferentes: **comprar-antes** para o voo, que não tem data limite e tem curva de preço — vai no topo **sem data**, porque "compre até dia X" é número que nenhuma fonte sustenta; **prazo conhecido**, por data, vencido na frente; **sem prazo** no fim, dizendo que o banco não sabe a antecedência em vez de insinuar folga.
+
+**Escrevendo o teste disso, a fila abriu com "Passaporte válido — prazo vencido"** numa viagem a 44 dias. O motivo era meu: eu tinha dado 90 dias de antecedência ao passaporte, sem fonte. Número inventado não é só imprecisão — produz alarme falso, e alarme falso no topo da fila gasta a confiança de todos os avisos verdadeiros abaixo (D41). O campo saiu.
+
+### Orçamento com folga e ponto de estouro (item 5)
+
+A tela dizia "planejado R$ 11.624, teto R$ 12.000" e parava. Num teto apertado isso esconde o que decide a viagem: a folga é R$ 376, uma linha vale R$ 3.850, e a faixa dessa linha é mil reais larga. A pergunta real não é "quanto deu", é **"se a passagem subir, ainda cabe"**.
+
+Entraram três contas no motor: **folga** nos dois extremos, **as três linhas mais caras**, e o **ponto de estouro** — até quanto a linha mais incerta (faixa mais larga) pode subir com o resto no melhor caso. Quando já estourou, ela diz para quanto teria de cair. Custo de documento entra no orçamento em categoria própria; documento marcado "não se aplica" fica fora, porque quem tem visto americano está dispensado do e-visto e não deve ver o custo dele.
+
+O briefing pedia "avisar antes de confirmar" ao adicionar um card que estoura o teto. **Diálogo de confirmação seria bloquear, e a regra do projeto é nunca bloquear.** Então o aviso vai no próprio cartão, antes do dedo: cada item não agendado mostra o que custa e o que sobraria, ou que estoura e por quanto.
+
+### O achado que não era meu
+
+Um dos agentes de pesquisa da Bolívia, lendo o conversor para saber em que formato gravar, avisou que `converterHorarios` fazia `String(valor)` em cima do horário de cada dia. **Conferi contra os dados antes de acreditar, e era verdade e pior:** nas ondas que gravam a forma estruturada aquilo dava a string "[object Object]", o dia saía ausente, e o lixo era **gravado em `/data`**. O Nordeste tinha horário em **4 itens de 459**. Depois do conserto, 58; Punta Cana foi de 22 para 45; **77 itens recuperaram horário que já estava pesquisado e com fonte** (D40).
+
+Isso também explicava por que o item 1 do briefing parecia funcionar e não funcionava: "fecha na segunda" não dispara para item cujo horário foi descartado. O pacote do Nordeste era incapaz de avisar sobre dia de fechamento.
+
+### Estado
+
+`npm run validate`: 0 erro, 217 testes verdes. `npm run e2e`: 35 testes verdes, agora contra um build de verdade. Tudo publicado.
+
+Três das quatro ondas da Bolívia voltaram — 206 itens em 12 bases, com a onda de logística gravada e o agente ainda fechando. Entre os achados: o histórico fatal documentado dos tours do Salar, os 123 mortos no Cerro Rico em 2025 com o debate ético dos dois lados, a Bolívia tendo abandonado o câmbio fixo em 29/06/2026, e a taxa da Reserva Eduardo Avaroa confirmada em duas fontes independentes a três anos de distância. Importar e validar é o próximo passo.
