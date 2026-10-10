@@ -149,7 +149,51 @@
     ],
     "descricaoCurta": "R$ 192 para brasileiro e R$ 384 para estrangeiro, válido 10 dias, comprado online ou no Centro de Visitantes em Boldró.",
     "descricaoLonga": "O ingresso do parque é a SEGUNDA taxa obrigatória de Noronha e não substitui a TPA. VALORES, conforme a Portaria ICMBio nº 4.423, de 14 de outubro de 2025: estrangeiro R$ 384,00; brasileiro R$ 192,00, com desconto de 50%. VALIDADE: 10 dias contados a partir da compra — ou seja, compre quando chegar, não antes, para não queimar dias. GRATUIDADE: menores de 12 anos; brasileiros acima de 60 anos; moradores permanentes de Fernando de Noronha e seus parentes de primeiro grau; pessoal autorizado; e pesquisadores com licença SISBio. ONDE COMPRAR: online em tickets.parnanoronha.com.br, ou presencialmente no Centro de Visitantes, no Boldró, das 8h às 19h todos os dias. QUAIS PRAIAS E PONTOS EXIGEM O INGRESSO — o parque abrange 70% do arquipélago, e o ingresso dá acesso a: Baía do Sueste, Forte São Joaquim, Ponta das Caracas, Praia do Leão, Praia da Caieira, Baía dos Golfinhos, Praia do Sancho e Baía dos Porcos; mais as trilhas Capim Açu, Enseada do Abreu, Praia da Atalaia, Pontinha Caieira e Morro São José (todas com agendamento prévio); e os pontos de mergulho. QUAIS NÃO EXIGEM — ficam na Área de Proteção Ambiental e são de acesso livre: Cacimba do Padre, Praia do Bode, Americano, Boldró, Conceição, Meio, Cachorro e Porto de Santo Antônio. Consequência de roteiro: dá para fazer um ou dois dias só nas praias da APA, mas o Sancho, os Porcos, o Leão e o Sueste — que são o motivo de ir a Noronha — estão todos dentro do parque. Para um casal brasileiro, o ingresso soma R$ 384 ao orçamento, somados à TPA.",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-19:00",
     "diasFechados": [],
     "preco": {
       "moeda": "BRL",

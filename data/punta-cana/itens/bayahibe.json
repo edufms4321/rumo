@@ -738,7 +738,51 @@
     },
     "descricaoCurta": "Replica de vila mediterranea do seculo XVI construida em pedra sobre o rio Chavon, dentro do resort Casa de Campo, com anfiteatro grego de 5.000 lugares.",
     "descricaoLonga": "Altos de Chavon e uma vila cenografica de pedra, construida como replica de um povoado mediterraneo do seculo XVI, a cerca de 90 metros (300 pes) acima do rio Chavon, dentro do resort Casa de Campo, em La Romana. Tem ruas de pedra, galerias, lojas, restaurantes, a igreja San Estanislao (consagrada em 1979) e o Anfiteatro, de 5.000 lugares em estilo grego, inaugurado em 1982 com um show de Frank Sinatra e que depois recebeu Elton John, Ricky Martin, Juan Luis Guerra, Sting e Shakira. Quando nao ha evento, a arquibancada e o palco ficam abertos para visitacao. HORARIOS: a vila funciona tipicamente todos os dias das 09:00 as 18:00, com horarios proprios de cada loja; a igreja abre de segunda a sexta das 10:00 as 16:00 e tem missa sabado as 17:00 e domingo as 18:00; existe um mercado de artesanato no ultimo sabado de cada mes, das 10:00 as 16:00. ENTRADA: esse e o ponto confuso. A pagina oficial do Casa de Campo diz que hospedes do resort nao pagam nada e que o acesso de nao-hospedes e restrito a sessoes de fotos agendadas (US$200 a US$275, conforme residencia) e a visitas educativas ao museu (US$2 a US$4 por pessoa). A pagina oficial de turismo da Republica Dominicana diz apenas que existe uma taxa de entrada para nao-hospedes do Casa de Campo, ou que se pode comprar um tour. Um guia de terceiros diz que o visitante do dia entra pelo portao de seguranca do resort e que normalmente e preciso ter reserva confirmada em restaurante ou atividade. COMO CHEGAR: Altos de Chavon fica dentro do Casa de Campo, em La Romana; de dentro do resort sao 10 a 25 minutos de carro ou carrinho de golfe, e ha shuttle noturno. ARMADILHA: e um cenario construido, nao um centro historico; os restaurantes e lojas sao caros em comparacao a Bayahibe, e sem evento no anfiteatro a visita rende 2 a 3 horas. O QUE NAO CONFIRMEI: o valor da taxa de entrada para nao-hospedes (os US$25 a US$50 que circulam em buscadores NAO aparecem em nenhuma pagina que consegui abrir), o custo e a duracao do taxi de Bayahibe ate Chavon, e os precos de ingresso para shows no anfiteatro. OFICINAS E COMPRAS DENTRO DA VILA: Chavon tem tres oficinas artesanais abertas ao publico, uma de ceramica (pecas utilitarias e decorativas), um atelier de tecelagem onde algodao nativo vira toalhas de mesa, jogos americanos, tapetes, bolsas e tapecarias, e uma oficina de serigrafia que estampa camisetas. Lojas citadas pelas fontes: Jenny Polanco Project (moda e artesanato), Luna Taina (souvenirs), The Art Studios by Emilio Robba (ceramica e textil), Casamontecristo Cigar Lounge (charutos), Everett Designs (joias), The Tienda Batey (enxoval artesanal) e a Dye Fore Pro Shop; ha tambem um Museo del Ambar com pecas de ambar e larimar. O Mercado Altos de Chavon, de artesanato, acontece no ultimo sabado de cada mes das 10:00 as 16:00. Restaurantes da vila citados pelas fontes: La Piazzetta e Gino in Trastevere (italianos) e La Cantina (caribenho); bares Onno's e Papa Jacks. E o lugar mais caro da regiao para comprar artesanato: se o objetivo e preco, as lojinhas de Bayahibe saem bem mais baratas. NAO confirmei nenhum preco de peca nem horario individual de loja.",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-18:00",
     "diasFechados": [],
     "reserva": {
       "necessaria": true,
@@ -799,7 +843,45 @@
     },
     "descricaoCurta": "Acervo de mais de 3.000 pecas indigenas dentro de Altos de Chavon, uma das colecoes pre-colombianas mais completas do pais.",
     "descricaoLonga": "O Museo Arqueologico Regional fica dentro da vila de Altos de Chavon e guarda mais de 3.000 artefatos indigenas. A pagina oficial de turismo da Republica Dominicana descreve o acervo como uma das colecoes mais completas sobre cultura indigena do pais. HORARIO: de terca a domingo, das 09:00 as 17:00, segundo a pagina oficial do Casa de Campo. PRECO: a pagina oficial do resort lista visita educativa ao museu por US$2 a US$4 por pessoa para nao-hospedes; um guia de terceiros diz que a entrada e gratuita para hospedes do resort e nao informa o valor para nao-hospedes. BOM PARA: dia de chuva, e e a melhor ponte entre o passeio turistico de Chavon e a historia taina que voce ve nas cavernas do Parque Nacional Cotubanama (o parque foi rebatizado em 2014 em homenagem ao cacique taino Cotubanama, executado em 1504, e guarda mais de 20 pracas cerimoniais, mais de oito cemiterios indigenas e centenas de cavernas com pictogramas e petroglifos). O QUE NAO CONFIRMEI: se o valor de US$2 a US$4 e o ingresso individual comum ou so se aplica a grupos educativos agendados; nao achei telefone nem pagina propria do museu.",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "USD",
@@ -993,7 +1075,45 @@
     },
     "descricaoCurta": "O parque nacional mais visitado do pais pela porta de tras: trilha arqueologica, cavernas com arte taina e nascentes de agua doce a pe de Bayahibe.",
     "descricaoLonga": "O Parque Nacional Cotubanama, antigo Parque Nacional del Este, tem 791,9 km2, foi criado em 1975 e rebatizado em 2014 em homenagem ao cacique taino Cotubanama, executado pelos espanhois em 1504. Inclui Isla Saona e Isla Catalinita, florestas umida e seca, manguezais, praias e cavernas, com mais de 20 pracas cerimoniais, mais de oito cemiterios indigenas e centenas de cavernas e dolinas com milhares de pictogramas e petroglifos. Em 2019 recebeu 728 mil visitantes (97% estrangeiros), 45% de todas as visitas a areas protegidas do pais; em 2022 foram 876.924 visitas. Entrou no protocolo SPAW da Convencao de Cartagena em 2021. Coordenada geral do parque segundo a Wikipedia: 18 graus 16 min 45 seg N, 68 graus 42 min 06 seg W. SENDERO PADRE NUESTRO: trilha ecologica e arqueologica de cerca de 2 km, percorrida em cerca de 2 horas, a 15 km de La Romana. Entrada de RD$200 por pessoa com guia incluido (gorjeta recomendada). Horario: segunda a sexta das 09:00 as 16:30, sabado das 09:00 as 13:00. No caminho ha floresta umida tropical com aves, repteis e borboletas endemicos, sitios arqueologicos pre-colombianos com fragmentos de ceramica e petroglifos, o manantial La Lechuza (exige corda, capacete e lanterna), o manantial Chicho com lago subterraneo onde se pode nadar, e o paredao La Jarda, de mais de 40 metros, com vista do parque. Contatos publicados: 829 520 7391 e 829 521 3398, senderopadrenuestro@explorelaromana.com. CUEVA DEL PUENTE: descrita como a caverna mais visitada e mais importante arqueologicamente, com uma arvore enorme crescendo dentro e uma das maiores concentracoes de arte rupestre taina. COMO CHEGAR POR CONTA PROPRIA: va ate o fim da estrada de Dominicus, estacione, e siga a pé uma trilha que acompanha o muro externo de uma residencia fechada chamada Cadaques; sao 5 a 10 minutos ate o posto dos guarda-parques. Nao precisa reserva. LEVE: dinheiro em pesos (nao aceitam cartao no posto), sapato fechado (terreno de rocha calcaria cortante), agua e lanterna. Melhor hora: cedo, mais fresco e menos gente. CUEVA DE CHICHO: caverna seca com estalactites e lago subterraneo, com pequena taxa de entrada do parque (poucos dolares). ARMADILHA: o posto funciona em horario diurno, nao ha horario publicado, e nao ha maquininha de cartao. O QUE NAO CONFIRMEI: o valor exato da taxa cobrada no posto para Cueva del Puente e Cueva de Chicho (o guia local diz que se paga no posto mas nao publica o valor; valores de US$5 que aparecem em resenhas de terceiros NAO foram verificados em fonte que consegui abrir); e o horario oficial de funcionamento do posto dos guarda-parques.",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "13:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-16:30 | 09:00-13:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -1066,7 +1186,51 @@
     },
     "descricaoCurta": "Bayahibe e o polo de mergulho do pais, e o cargueiro St. George, afundado em 1999, e o naufragio mais famoso da Republica Dominicana.",
     "descricaoLonga": "ST. GEORGE: cargueiro construido na Escocia em 1962, que transportava trigo e cevada entre a Noruega e as Americas e foi abandonado no porto de Santo Domingo depois de 20 anos de servico. Foi afundado de proposito em 12 de junho de 1999 para formar recife artificial. Comprimento: 70 a 73 metros, conforme a fonte. Profundidade maxima 40 metros; o topo do naufragio fica a cerca de 15 metros e o fundo do casco a 44 metros, com a melhor faixa entre 25 e 35 metros. Exige certificacao Advanced Open Water (ou Open Water com numero suficiente de imersoes registradas, segundo a ScubaFun). OUTROS PONTOS: Atlantic Princess, navio de passageiros de 30 metros afundado em 2009, com o topo a 2 metros da superficie, acessivel a snorkelistas e a todos os niveis (2 a 12 m); Coca Wreck (14 a 22 m); Catalina Wall, parede que desce de 5 metros para alem dos limites recreativos; e ainda Guaraguao, Tortuga, El Penon, Lucas Reef, Aquarium, Shark Point e o sistema de caverna de agua doce de Padre Nuestro. VISIBILIDADE de 20 a 30 metros, chegando a 50 em alguns pontos, agua entre 26 e 30 graus o ano todo. PRECOS DE OPERADORAS (dos proprios sites): ScubaFun (PADI 5 estrelas, Calle Principal 28, Bayahibe, tel +1 809 833 0003, info@scubafun.info) cobra US$80 por mergulhador em saida de 2 cilindros, equipamento a parte por US$10 ao dia; o dia do St. George comeca com encontro na loja as 08:30, saida de Bayahibe as 09:30, mergulho as 10:00 e retorno as 12:30 (pickup em Dominicus/Bayahibe as 08:20 e em Punta Cana/Bavaro as 07:20). Casa Daniel (Calle Principal, tel +1 809 833 0083, info@casa-daniel.com, aberta das 08:00 as 17:00, atende em ingles, alemao, frances, espanhol, italiano e russo) cobra US$44 por 1 mergulho e US$88 por 2 sem equipamento, US$49 e US$98 com equipamento completo, pacote de 6 por US$245 (US$289 com equipamento) e de 10 por US$365 (US$445); mergulho noturno +US$30, mergulho em caverna +US$80, nitrox +US$6; Discover Scuba Diving US$95 e Open Water US$440. Go Dive Bayahibe (SDI/TDI, Calle Brito 2, tel +1 829 784 1140 e +1 829 784 0878, info@godivebayahibe.com) cobra US$70 por 1 mergulho e US$100 por 2, com equipamento completo incluido (computador a parte, US$10), pacote de 10 por US$420; mergulho em caverna de US$120 a US$300, com taxas de entrada e transporte de cilindro NAO incluidos; Open Water US$450, Advanced US$360, Rescue US$440. Outras lojas citadas pelo guia local: Coral Point Diving, Dressel Divers, Diving Dominican Republic e Slow Dive Casa Chihuahua. REGRA DE SEGURANCA: espere no minimo 18 a 24 horas depois do ultimo mergulho antes de voar. RESERVA: reserve com antecedencia entre dezembro e fevereiro. O QUE NAO CONFIRMEI: se as taxas do parque nacional incidem sobre mergulhos (so a Go Dive menciona taxas de entrada nao incluidas nos mergulhos em caverna); e as datas de afundamento divergem entre fontes (um guia diz 1990, a ScubaFun e outros dizem 1999 -- fiquei com 1999, que aparece em tres fontes).",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "USD",

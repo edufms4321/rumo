@@ -426,7 +426,51 @@
       "tipica": 240,
       "max": 420
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "08:30",
+          "fecha": "16:00"
+        }
+      ]
+    },
+    "horariosObservacao": "08:30-16:00",
     "diasFechados": [],
     "preco": {
       "moeda": "USD",
@@ -623,7 +667,45 @@
       "tipica": 50,
       "max": 90
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "15:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00 | 09:00-15:00",
     "diasFechados": [],
     "reserva": {
       "necessaria": false
@@ -686,7 +768,51 @@
       "tipica": 360,
       "max": 480
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-18:00",
     "diasFechados": [],
     "preco": {
       "moeda": "USD",
@@ -1211,7 +1337,51 @@
       "tipica": 60,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "07:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "07:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -1404,7 +1574,45 @@
       "tipica": 180,
       "max": 300
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "23:00"
+        }
+      ]
+    },
+    "horariosObservacao": "11:00-23:00",
     "diasFechados": [],
     "reserva": {
       "necessaria": false

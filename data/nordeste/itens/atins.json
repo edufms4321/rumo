@@ -159,7 +159,15 @@
       "tipica": 90,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "16:30",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "16:30-18:00",
     "diasFechados": [],
     "preco": {
       "moeda": "BRL",

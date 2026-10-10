@@ -3145,7 +3145,45 @@
       "tipica": 45,
       "max": 90
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3230,7 +3268,45 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "16:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00 | 09:00-16:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3308,7 +3384,51 @@
       "tipica": 50,
       "max": 90
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:30",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "15:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:30-19:00 | 10:00-15:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3385,7 +3505,45 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3463,7 +3621,51 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "16:30"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-16:30",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3541,7 +3743,45 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:00",
+          "fecha": "17:00"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-17:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -3784,7 +4024,51 @@
       "tipica": 50,
       "max": 90
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "09:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "09:30",
+          "fecha": "13:30"
+        }
+      ]
+    },
+    "horariosObservacao": "09:00-18:00 | 09:30-13:30",
     "diasFechados": [],
     "reserva": {
       "necessaria": false
@@ -3903,7 +4187,51 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "07:00",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "00:00",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "00:00-23:59 | 07:00-23:59",
     "diasFechados": [],
     "reserva": {
       "necessaria": false
@@ -3968,7 +4296,51 @@
       "tipica": 120,
       "max": 180
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:30",
+          "fecha": "23:59"
+        }
+      ]
+    },
+    "horariosObservacao": "11:30-23:59",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",
@@ -4042,7 +4414,15 @@
       "tipica": 180,
       "max": 240
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "dom": [
+        {
+          "abre": "18:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "18:00-22:00",
     "diasFechados": [],
     "gratuito": true,
     "reserva": {
@@ -4235,7 +4615,51 @@
       "tipica": 180,
       "max": 300
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "21:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "11:00",
+          "fecha": "20:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-21:00 | 11:00-20:00",
     "diasFechados": [],
     "reserva": {
       "necessaria": false
@@ -4289,7 +4713,51 @@
     ],
     "descricaoCurta": "Como se locomover de verdade na capital: o metrô é bom mas não serve a Zona Colonial; Uber é o seu padrão.",
     "descricaoLonga": "METRÔ (OPRET — Oficina para el Reordenamiento del Transporte): 2 linhas em operação, 35,5 km, 39 estações; Linha 1 (azul) norte-sul, Linha 2 (vermelha) leste-oeste, com extensão oeste (2C) rumo a Los Alcarrizos inaugurada em fevereiro de 2026. É o maior sistema de metrô do Caribe insular, com mais de 285 mil passageiros por dia e intervalo de até 1,5 minuto entre trens no pico. Tarifa divulgada: RD$20 por viagem; RD$10 para estudante e idoso. Horário: segunda a sexta 6h-22h30; sábado, domingo e feriado 6h-22h. Pagamento: cartão recarregável 'Boleto Viajero' com depósito inicial de RD$60 mais RD$20 por viagem, ou bilhete de uso único a RD$15 mais RD$20 pelo trajeto. VERDADE INCÔMODA: o metrô não encosta na Zona Colonial nem no Malecón turístico. Ele serve o eixo norte-sul e leste-oeste dos bairros residenciais. Para o turista comum é mais curiosidade e economia do que ferramenta. UBER: funciona bem e é o padrão recomendado. Tarifa base divulgada: RD$10 por quilômetro, RD$5 por minuto, com mínimo e taxa de cancelamento de RD$70. Paga em cartão, não negocia, deixa rastro. CARROS PÚBLICOS e GUAGUAS: carros e vans de sindicatos que rodam rotas fixas e cobram por trecho, em torno de RD$25-30 (cerca de US$0,50 por embarque, segundo fontes secundárias); ônibus OMSA (verdes) por volta de RD$15-20. Baratíssimo e é como o dominicano circula, mas: param em qualquer lugar, lotam, sem itinerário publicado, e o Reino Unido alerta que 'ônibus públicos e carros compartilhados são frequentemente não segurados, não registrados e mal mantidos'. Não recomendo se você não fala espanhol. TÁXI: só do hotel ou chamado por telefone. Nunca o que aborda na rua. A tarifa mínima gira em torno de US$5 e do aeroporto ao centro algo entre US$30 e US$40 — valores de fonte secundária, não confirmados. MOTOCONCHO (moto-táxi): o Reino Unido registra que 'táxis de motocicleta são frequentemente conduzidos de forma inadequada'. Não use. CORREDOR TURÍSTICO OMSA: ônibus vermelhos com duas rotas (City Tour Urbano, 18 paradas; City Tour Cultural, 36 paradas) por RD$100 a rota ou RD$300 o dia inteiro, das 10h às 23h, com direito a descer e reembarcar — MAS isso é de uma notícia de inauguração de julho de 2020 e eu NÃO confirmei se o serviço continua operando.",
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:00",
+          "fecha": "22:30"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:00",
+          "fecha": "22:30"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:00",
+          "fecha": "22:30"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:00",
+          "fecha": "22:30"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "22:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "22:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:00-22:30 | 06:00-22:00",
     "diasFechados": [],
     "preco": {
       "moeda": "DOP",

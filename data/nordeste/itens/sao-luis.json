@@ -166,7 +166,39 @@
       "tipica": 75,
       "max": 120
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "ter": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "10:00-19:00",
     "diasFechados": [],
     "gratuito": true,
     "reserva": {

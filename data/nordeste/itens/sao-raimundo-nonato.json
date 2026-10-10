@@ -104,7 +104,51 @@
       "tipica": 600,
       "max": 1440
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "seg": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "ter": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qua": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "06:00",
+          "fecha": "18:00"
+        }
+      ]
+    },
+    "horariosObservacao": "06:00-18:00",
     "diasFechados": [],
     "gratuito": true,
     "reserva": {
@@ -446,7 +490,39 @@
       "tipica": 90,
       "max": 150
     },
-    "horariosObservacao": "[object Object]",
+    "horarios": {
+      "qua": [
+        {
+          "abre": "13:00",
+          "fecha": "19:00"
+        }
+      ],
+      "qui": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sex": [
+        {
+          "abre": "13:00",
+          "fecha": "19:00"
+        }
+      ],
+      "sab": [
+        {
+          "abre": "13:00",
+          "fecha": "19:00"
+        }
+      ],
+      "dom": [
+        {
+          "abre": "10:00",
+          "fecha": "19:00"
+        }
+      ]
+    },
+    "horariosObservacao": "13:00-19:00 | 10:00-19:00",
     "diasFechados": [],
     "preco": {
       "moeda": "BRL",

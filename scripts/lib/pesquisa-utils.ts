@@ -155,6 +155,40 @@ function resolverConflitos(janelas: Array<{ abre: string; fecha: string }>): {
   return { janelas: mantidas, conflito };
 }
 
+/**
+ * Janelas que a pesquisa ja gravou estruturadas: `[{ abre, fecha }]` ou um
+ * `{ abre, fecha }` solto. Devolve vazio para qualquer outra coisa, e quem
+ * chama cai no caminho da prosa.
+ *
+ * A mesma regra do parser de prosa vale aqui: janela que atravessa a
+ * meia-noite e descartada, porque o schema exige abre < fecha.
+ */
+export function janelasEstruturadas(valor: unknown): Array<{ abre: string; fecha: string }> {
+  const lista = Array.isArray(valor) ? valor : [valor];
+  const janelas: Array<{ abre: string; fecha: string }> = [];
+
+  for (const bruta of lista) {
+    if (!bruta || typeof bruta !== 'object') continue;
+    const j = bruta as Record<string, unknown>;
+    const abre = typeof j.abre === 'string' ? j.abre : undefined;
+    const fecha = typeof j.fecha === 'string' ? j.fecha : undefined;
+    if (!abre || !fecha) continue;
+    if (!RE_HORA_EXATA.test(abre) || !RE_HORA_EXATA.test(fecha)) continue;
+    if (abre >= fecha) continue;
+    janelas.push({ abre, fecha });
+  }
+
+  const vistas = new Set<string>();
+  return janelas.filter((j) => {
+    const chave = `${j.abre}-${j.fecha}`;
+    if (vistas.has(chave)) return false;
+    vistas.add(chave);
+    return true;
+  });
+}
+
+const RE_HORA_EXATA = /^([01][0-9]|2[0-3]):[0-5][0-9]$/;
+
 export function converterHorarios(bruto: unknown): {
   horarios?: Json;
   horariosObservacao?: string;
@@ -167,8 +201,33 @@ export function converterHorarios(bruto: unknown): {
   let houveConflito = false;
 
   for (const dia of DIAS) {
-    const texto = String(entrada[dia] ?? '').trim();
-    if (!texto) continue;
+    const valor = entrada[dia];
+    if (valor === undefined || valor === null || valor === '') continue;
+
+    /*
+      A pesquisa grava o horario de duas formas, e as duas sao legitimas:
+      prosa ("09:00-12:30 e 14:30-19:00") e estruturada
+      ([{ abre, fecha }]). A primeira versao desta funcao fazia
+      `String(valor)` em cima das duas; na forma estruturada isso da
+      "[object Object]", nenhum HH:MM casa, o dia sai AUSENTE e a
+      observacao do item fica com a string "[object Object]" gravada em
+      /data. Nove itens da onda da Bahia perderam o horario assim, em
+      silencio, e o pacote inteiro do Nordeste ficou com 4 itens com
+      horario em 459. Agora a forma estruturada entra direto.
+    */
+    const estruturadas = janelasEstruturadas(valor);
+    if (estruturadas.length > 0) {
+      const { janelas, conflito } = resolverConflitos(estruturadas);
+      if (conflito) houveConflito = true;
+      if (janelas.length > 0) {
+        horarios[dia] = janelas;
+        prosas.add(janelas.map((j) => `${j.abre}-${j.fecha}`).join(' e '));
+      }
+      continue;
+    }
+
+    const texto = String(valor).trim();
+    if (!texto || texto === '[object Object]') continue;
     prosas.add(texto);
 
     const brutas = janelasDe(texto);
