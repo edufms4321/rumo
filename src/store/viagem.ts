@@ -69,7 +69,15 @@ export function viagemNova(destinoId: string, nome: string): Viagem {
     id: novoId('viagem'),
     nome,
     destinoId,
-    origem: { cidade: 'Sao Paulo', aeroportos: ['GRU'] },
+    origem: {
+      cidade: 'Sao Paulo',
+      aeroportos: ['GRU'],
+      /*
+        O fuso de casa vem do aparelho, nao de um chute: getTimezoneOffset
+        devolve o sinal invertido (180 para UTC-3), por isso o menos.
+      */
+      fusoOffsetMinutos: -new Date().getTimezoneOffset(),
+    },
     viajantes: { adultos: 2, criancas: 0, nacionalidade: 'BR' },
     estilo: 'economico',
     ritmo: 'equilibrado',

@@ -17,6 +17,7 @@ import type { DiaDaSemana } from '../schema/base.ts';
 import type { Item } from '../schema/item.ts';
 import type { PacoteDestino } from '../schema/pacote.ts';
 import type { Viagem } from '../schema/viagem.ts';
+import { converterRelogio, offsetDaCidade, offsetDoDia } from './fusos.ts';
 import { calcularOrcamento, formatarFaixaBRL } from './orcamento.ts';
 import {
   HORAS_OCUPADAS_POR_RITMO,
@@ -320,26 +321,36 @@ function regraLuzDoDia(ctx: Contexto, alertas: Alerta[]): void {
       // usar a cidade-base daria a hora errada no alerta.
       const cidade = ctx.pacote.cidades.find((c) => c.id === b.item?.cidadeId);
       if (!cidade) continue;
-      const offset = cidade.fusoOffsetMinutos ?? ctx.pacote.destino.fusoOffsetMinutos;
+      const offset = offsetDaCidade(ctx.pacote, cidade.id);
       const sol = luzDoDia(cidade.coords, dia.dia.data, offset);
       if (!sol.temNoiteEDia) continue;
-      if (b.intervalo.fim <= sol.anoitecerMin) continue;
 
-      const depois = b.intervalo.fim - sol.anoitecerMin;
+      /*
+        O anoitecer sai no relogio da CIDADE DA ATIVIDADE; o bloco esta no
+        relogio do DIA (a cidade-base). Comparar os dois direto erra uma hora
+        inteira quando o passeio cruza fuso — base em Cancun (UTC-5) e dia em
+        Chichen Itza (UTC-6) e exatamente esse caso, e o erro cai para o lado
+        ruim: o app diria "no escuro" um passeio que termina com sol.
+      */
+      const anoitecerNoDia = converterRelogio(sol.anoitecerMin, offset, offsetDoDia(ctx.pacote, dia.dia));
+      if (b.intervalo.fim <= anoitecerNoDia) continue;
+
+      const depois = b.intervalo.fim - anoitecerNoDia;
       alertas.push({
         codigo: 'luz-do-dia',
         nivel: 'atencao',
         titulo: `${b.item.nome} termina depois de escurecer`,
         mensagem:
           `Em ${dia.dia.data} o sol se poe as ${paraHHMM(sol.anoitecerMin)} em ${cidade.nome}, ` +
-          `e a atividade vai ate ${paraHHMM(b.intervalo.fim)} — ${formatarDuracao(depois)} no escuro.`,
+          `e a atividade vai ate ${paraHHMM(converterRelogio(b.intervalo.fim, offsetDoDia(ctx.pacote, dia.dia), offset))} ` +
+          `no relogio de la — ${formatarDuracao(depois)} no escuro.`,
         diaId: dia.dia.id,
         blocoIds: [b.bloco.id],
         correcoes: [
           {
             tipo: 'antecipar-para-terminar-antes',
             rotulo: `Antecipar para terminar as ${paraHHMM(sol.anoitecerMin)}`,
-            dados: { blocoId: b.bloco.id, novoInicio: sol.anoitecerMin - b.bloco.durationMin },
+            dados: { blocoId: b.bloco.id, novoInicio: anoitecerNoDia - b.bloco.durationMin },
           },
         ],
       });

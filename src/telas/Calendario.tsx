@@ -2,6 +2,7 @@ import {
   ArrowRight,
   CalendarDays,
   CloudRain,
+  Globe,
   Hotel,
   PartyPopper,
   TriangleAlert,
@@ -9,6 +10,7 @@ import {
 import { useMemo } from 'react';
 import { Link, useParams } from 'react-router';
 import { Botao, Cartao, Selo, Vazio } from '../componentes/ui.tsx';
+import { mudancaDeFusoNoDia, seloDeFuso } from '../engine/fusos.ts';
 import { calcularOrcamento, formatarBRL } from '../engine/orcamento.ts';
 import { diaDaSemanaDe, validarViagem } from '../engine/regras.ts';
 import { resolverDia } from '../engine/resolver-dia.ts';
@@ -138,6 +140,8 @@ export function Calendario() {
           });
 
           const custoDoDia = dados.orcamento.porDia[dia.id];
+          /* O dia em que o relogio muda: no calendario e aqui que se ve. */
+          const mudouDeFuso = mudancaDeFusoNoDia(viagem, pacote, dia.id);
 
           return (
             <li key={dia.id}>
@@ -202,6 +206,11 @@ export function Calendario() {
                     </Selo>
                   ) : (
                     dia.cidadeBaseId && <Selo tom="atencao">sem hospedagem</Selo>
+                  )}
+                  {mudouDeFuso && (
+                    <Selo tom="acento" title={`${mudouDeFuso.paraCidadeNome} e ${mudouDeFuso.deCidadeNome} estao em fusos diferentes`}>
+                      <Globe size={10} /> fuso {seloDeFuso(mudouDeFuso.diferencaMinutos)}
+                    </Selo>
                   )}
                   {clima && clima.pesoNaDecisao === 'alto' && (
                     <Selo tom="parcial">

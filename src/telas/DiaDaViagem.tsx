@@ -18,6 +18,7 @@ import {
   Clock,
   GripVertical,
   Hotel,
+  Globe,
   Map as MapaIcone,
   Plus,
   Search,
@@ -40,6 +41,14 @@ import {
 
 import { Botao, Campo, Cartao, ComDica, Painel, Selo, Vazio } from '../componentes/ui.tsx';
 import type { Deslocamento } from '../engine/deslocamento.ts';
+import {
+  diferencaParaCasa,
+  frasedeFuso,
+  horariosDoTrecho,
+  mudancaDeFusoNoDia,
+  offsetDoDia,
+  seloDeFuso,
+} from '../engine/fusos.ts';
 import { type Alerta, type TipoDeCorrecao, validarViagem } from '../engine/regras.ts';
 import { type LacunaResolvida, resolverDia } from '../engine/resolver-dia.ts';
 import { planoBDeChuva } from '../engine/sugestoes.ts';
@@ -106,6 +115,10 @@ export function DiaDaViagem() {
 
   const { dia, resolvido, alertas } = dados;
   const cidade = pacote.cidades.find((c) => c.id === dia.cidadeBaseId);
+  /* O relogio em que esta linha do tempo esta desenhada: o da cidade-base. */
+  const quadro = offsetDoDia(pacote, dia);
+  const mudouDeFuso = mudancaDeFusoNoDia(viagem, pacote, dia.id);
+  const paraCasa = diferencaParaCasa(viagem, pacote, dia);
   const indice = viagem.dias.findIndex((d) => d.id === dia.id);
   const anterior = viagem.dias[indice - 1];
   const proximo = viagem.dias[indice + 1];
@@ -210,13 +223,29 @@ export function DiaDaViagem() {
         )}
       </div>
 
+      {mudouDeFuso && (
+        <Cartao className="mb-4 flex flex-wrap items-baseline gap-x-2 gap-y-1 border-[var(--cor-acento-borda)] bg-[var(--cor-acento-fraco)] p-3 text-xs">
+          <Globe className="shrink-0 self-center" size={14} />
+          <span>
+            <strong>O fuso mudou hoje.</strong> {mudouDeFuso.paraCidadeNome} esta{' '}
+            {frasedeFuso(mudouDeFuso.diferencaMinutos)} de {mudouDeFuso.deCidadeNome}.
+          </span>
+          <Selo tom="acento">{seloDeFuso(mudouDeFuso.diferencaMinutos)}</Selo>
+          <span className="text-[var(--cor-texto-suave)]">
+            A linha do tempo abaixo esta no relogio de {mudouDeFuso.paraCidadeNome}.
+          </span>
+        </Cartao>
+      )}
+
       <PainelDeAlertas alertas={alertas} diaId={dia.id} />
 
       <div className="grid min-w-0 gap-4 lg:grid-cols-[minmax(0,1fr)_20rem]">
         <LinhaDoTempo
           cidade={cidade?.nome}
           diaId={dia.id}
+          diferencaParaCasaMin={paraCasa}
           pixelsPorMinuto={pixelsPorMinuto}
+          quadro={quadro}
           resolvido={resolvido}
         />
 
@@ -362,11 +391,17 @@ function LinhaDoTempo({
   pixelsPorMinuto,
   cidade,
   diaId,
+  quadro,
+  diferencaParaCasaMin,
 }: {
   resolvido: ReturnType<typeof resolverDia>;
   pixelsPorMinuto: number;
   cidade?: string;
   diaId: string;
+  /** Offset do relogio em que esta linha do tempo esta desenhada. */
+  quadro: number;
+  /** Quanto o relogio do dia difere do de casa. Ausente = a viagem nao sabe. */
+  diferencaParaCasaMin?: number;
 }) {
   const { setNodeRef, isOver } = useDroppable({ id: 'linha-do-tempo' });
   const alturaTotal = (HORA_FINAL - HORA_INICIAL) * 60 * pixelsPorMinuto;
@@ -432,6 +467,7 @@ function LinhaDoTempo({
               key={b.bloco.id}
               lacuna={lacuna}
               pixelsPorMinuto={pixelsPorMinuto}
+              quadro={quadro}
               resolvido={b}
               topo={topo}
             />
@@ -458,7 +494,15 @@ function LinhaDoTempo({
             faltam {formatarDuracao(resolvido.minutosEmFalta)}
           </span>
         )}
-        {cidade && <span className="ml-auto text-[var(--cor-texto-fraco)]">base: {cidade}</span>}
+        {cidade && (
+          <span className="ml-auto text-[var(--cor-texto-fraco)]">
+            base: {cidade}
+            {/* Nao e enfeite: e o que evita ligar para casa as 3 da manha. */}
+            {diferencaParaCasaMin !== undefined && diferencaParaCasaMin !== 0 && (
+              <> · {frasedeFuso(diferencaParaCasaMin)} de casa</>
+            )}
+          </span>
+        )}
       </footer>
     </Cartao>
   );
@@ -472,6 +516,7 @@ function BlocoNaLinha({
   pixelsPorMinuto,
   coluna,
   diaId,
+  quadro,
 }: {
   resolvido: ReturnType<typeof resolverDia>['blocos'][number];
   topo: number;
@@ -480,8 +525,18 @@ function BlocoNaLinha({
   pixelsPorMinuto: number;
   coluna: { coluna: number; colunas: number };
   diaId: string;
+  quadro: number;
 }) {
   const bloco = resolvido.bloco;
+  const pacote = usarPacote();
+
+  /*
+    Um trecho tem DUAS pontas, cada uma no seu relogio. O bloco na linha do
+    tempo mostra o horario do quadro do dia (que e onde ele foi solto); o que
+    o viajante precisa ler no bilhete e a hora local de cada ponta.
+  */
+  const fusos =
+    bloco.tipo === 'trecho' && pacote ? horariosDoTrecho(pacote, bloco, quadro) : undefined;
   const [detalheAberto, definirDetalhe] = useState(false);
   const arrastandoRef = useRef<{ inicioY: number; duracaoInicial: number } | undefined>(undefined);
 
@@ -539,7 +594,14 @@ function BlocoNaLinha({
   return (
     <>
       <div
-        aria-label={`${resolvido.rotulo}, das ${paraHHMM(resolvido.intervalo.inicio)} as ${paraHHMM(resolvido.intervalo.fim)}. Setas movem de 15 em 15 minutos; com Shift, mudam a duracao.`}
+        aria-label={
+          `${resolvido.rotulo}, das ${paraHHMM(resolvido.intervalo.inicio)} as ${paraHHMM(resolvido.intervalo.fim)}. ` +
+          // Quem usa leitor de tela nao ve o selo de fuso: vai na etiqueta.
+          (fusos?.mudaDeFuso
+            ? `Sai as ${fusos.saida.hhmm} no horario de ${fusos.saida.cidadeNome} e chega as ${fusos.chegada.hhmm} no horario de ${fusos.chegada.cidadeNome}. `
+            : '') +
+          'Setas movem de 15 em 15 minutos; com Shift, mudam a duracao.'
+        }
         className={cn(
           'absolute rounded-[var(--raio)] border p-2 shadow-sm',
           'focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--cor-acento)]',
@@ -563,6 +625,15 @@ function BlocoNaLinha({
                 {paraHHMM(resolvido.intervalo.inicio)}–{paraHHMM(resolvido.intervalo.fim)} ·{' '}
                 {formatarDuracao(bloco.durationMin)}
               </p>
+              {fusos?.mudaDeFuso && (
+                <p className="mt-0.5 flex flex-wrap items-center gap-1 text-2xs leading-tight">
+                  <span className="tabular">
+                    sai <strong>{fusos.saida.hhmm}</strong> em {fusos.saida.cidadeNome} · chega{' '}
+                    <strong>{fusos.chegada.hhmm}</strong> em {fusos.chegada.cidadeNome}
+                  </span>
+                  <Selo tom="acento">{seloDeFuso(fusos.diferencaMinutos)}</Selo>
+                </p>
+              )}
             </div>
             <div className="flex shrink-0 gap-0.5">
               <Botao

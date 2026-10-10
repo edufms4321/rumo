@@ -226,6 +226,14 @@ export const Viagem = z.object({
   origem: z.object({
     cidade: z.string().min(1),
     aeroportos: z.array(z.string().length(3)).default([]),
+    /**
+     * Fuso de casa, em minutos. Serve para a tela do dia dizer quanto o
+     * relogio do destino esta a frente ou atras do de casa. Opcional porque
+     * uma viagem criada antes deste campo nao sabe: chutar -180 para todo
+     * mundo seria inventar um dado do usuario. Quem cria a viagem le o
+     * offset do proprio aparelho, que e factual.
+     */
+    fusoOffsetMinutos: z.number().int().optional(),
   }),
   viajantes: z.object({
     adultos: z.number().int().positive(),

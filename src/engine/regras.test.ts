@@ -156,6 +156,38 @@ describe('atencao: luz-do-dia', () => {
     expect(a?.mensagem).toMatch(/em Rio de Janeiro/);
   });
 
+  /*
+    Regressao do bug de fuso, e ele errava para o lado perigoso.
+
+    O anoitecer sai no relogio da cidade da ATIVIDADE; o bloco esta no
+    relogio do DIA. Aqui o mirante do Rio ganha UTC-2, uma hora a frente da
+    base em Sao Paulo (como Quintana Roo esta a frente de Yucatan, que e o
+    caso real do Mexico). O passeio vai das 18:00 as 19:00 na agenda, que e
+    19:00-20:00 no relogio do Rio: 44 min depois de escurecer.
+
+    O codigo antigo comparava 19:00 (agenda) com 19:16 (relogio do Rio) e
+    CALAVA. Ou seja: deixava o viajante marcar um mirante no escuro sem
+    avisar. Agora os dois lados da conta estao no mesmo relogio.
+  */
+  it('compara o anoitecer no mesmo relogio do bloco quando os fusos diferem', () => {
+    const comFusoAdiantado = {
+      ...pacote,
+      cidades: pacote.cidades.map((c) => (c.id === 'rio' ? { ...c, fusoOffsetMinutos: -120 } : c)),
+    };
+    const d = comHospedagem(
+      dia('d1', QUARTA, 'sao-paulo', [
+        atividade('b1', 'br-rio-mirante-por-do-sol', paraMinutos('18:00'), 60),
+      ]),
+    );
+    const a = pegar(validarViagem(viagemDeTeste([d]), comFusoAdiantado), 'luz-do-dia');
+    expect(a).toBeDefined();
+    // O sol se poe 19:16 no relogio de UTC-2 e o passeio termina 20:00 la:
+    // 44 min no escuro, no lugar de uma folga de meia hora que nao existe.
+    expect(a?.mensagem).toMatch(/o sol se poe as 19:\d\d em Rio de Janeiro/);
+    expect(a?.mensagem).toMatch(/vai ate 20:00 no relogio de la/);
+    expect(a?.mensagem).toMatch(/44 min no escuro/);
+  });
+
   it('nao acusa a mesma atividade de manha', () => {
     const d = comHospedagem(
       dia('d1', QUARTA, 'rio', [
