@@ -82,3 +82,33 @@ test('um trecho que sai do pais dispara o alerta de visto de entrada unica', asy
   await page.getByRole('button', { name: 'Ver os documentos da viagem' }).click();
   await expect(page).toHaveURL(/\/documentos$/);
 });
+
+test('a fila de reservas abre com voo e visto, e resolver tira da fila', async ({ page }) => {
+  await viagemNoMexico(page);
+
+  // Escolhe uma rota de voo, que e o que cria viagem.voo.
+  await page.getByRole('link', { name: 'Orcamento' }).click();
+  await page.getByRole('button', { name: /usar o piso da faixa/ }).first().click();
+
+  await page.getByRole('link', { name: 'Reservas' }).click();
+  const fila = page.locator('section', { hasText: 'O QUE RESERVAR AGORA' });
+  await expect(fila).toBeVisible();
+
+  const titulos = await fila.locator('li p').first().innerText();
+  // O voo vem primeiro: nao esgota, encarece.
+  expect(titulos).toMatch(/voo|Voo|GRU|Cidade do Mexico/);
+  await expect(fila.getByText('quanto antes').first()).toBeVisible();
+  await expect(fila.getByText('Visto eletronico')).toBeVisible();
+  await expect(fila.getByText(/entrada unica/)).toBeVisible();
+
+  // Resolver o visto o tira da fila.
+  const linhaDoVisto = fila.locator('li', { hasText: 'Visto eletronico' });
+  await linhaDoVisto.getByRole('button', { name: 'resolvido' }).click();
+  await expect(fila.getByText('Visto eletronico')).toHaveCount(0);
+
+  // E a situacao aparece na tela de Documentos, nao num estado proprio.
+  await page.getByRole('link', { name: 'Documentos' }).click();
+  await expect(
+    page.locator('li', { hasText: 'Visto eletronico' }).getByLabel('Situacao'),
+  ).toHaveValue('pronto');
+});

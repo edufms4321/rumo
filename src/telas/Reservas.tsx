@@ -1,5 +1,6 @@
 import { CalendarClock, Check, Copy, MessageCircle, TicketCheck } from 'lucide-react';
 import { useMemo, useState } from 'react';
+import { FilaDeReservas } from '../componentes/FilaDeReservas.tsx';
 import { Fontes } from '../componentes/procedencia.tsx';
 import {
   AreaDeTexto,
@@ -84,9 +85,11 @@ export function Reservas() {
         <p className="mt-1.5 text-sm text-[var(--cor-texto-suave)]">
           {pendencias.length === 0
             ? 'Nada na agenda precisa de reserva.'
-            : `${abertas.length} em aberto de ${pendencias.length} que precisam de reserva. Ordenado pelo prazo mais apertado.`}
+            : `Abaixo, as ${pendencias.length} atividades da agenda que pedem reserva, ${abertas.length} em aberto. Voo e documentos ficam na fila acima.`}
         </p>
       </header>
+
+      <FilaDeReservas viagemId={viagem.id} />
 
       {pendencias.length === 0 ? (
         <Vazio icone={<TicketCheck size={26} />} titulo="Nenhuma reserva pendente">

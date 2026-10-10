@@ -346,6 +346,17 @@ export const acoes = {
     });
   },
 
+  /**
+   * Marca a passagem como comprada SEM mexer no resto.
+   * `definirVoo` troca o objeto inteiro: usa-lo aqui apagaria a rota e o
+   * preco que ele preencheu na tela de orcamento.
+   */
+  marcarVooComprado(comprado: boolean): void {
+    usarLoja.getState().alterar((v) => {
+      if (v.voo) v.voo.comprado = comprado;
+    });
+  },
+
   definirHospedagem(diaId: string, hospedagem: Dia['hospedagem']): void {
     usarLoja.getState().alterar((v) => {
       const dia = v.dias.find((d) => d.id === diaId);
