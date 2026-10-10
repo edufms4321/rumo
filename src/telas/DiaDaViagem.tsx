@@ -12,6 +12,7 @@
  *   do dado.
  */
 import {
+  ArrowRightLeft,
   ChevronDown,
   ChevronUp,
   CloudRain,
@@ -39,6 +40,7 @@ import {
   useSensors,
 } from '@dnd-kit/core';
 
+import { TrocaDeCidade } from '../componentes/TrocaDeCidade.tsx';
 import { Botao, Campo, Cartao, ComDica, Painel, Selo, Vazio } from '../componentes/ui.tsx';
 import type { Deslocamento } from '../engine/deslocamento.ts';
 import {
@@ -78,6 +80,7 @@ export function DiaDaViagem() {
   const [busca, definirBusca] = useState('');
   const [mapaAberto, definirMapaAberto] = useState(false);
   const [planoBAberto, definirPlanoBAberto] = useState(false);
+  const [trocaAberta, definirTrocaAberta] = useState(false);
 
   const pixelsPorMinuto = (ZOOMS[zoom] ?? 1.1) * 1.1;
   const sensores = useSensors(useSensor(PointerSensor, { activationConstraint: { distance: 6 } }));
@@ -216,6 +219,9 @@ export function DiaDaViagem() {
 
       <div className="mb-4 flex flex-wrap items-center gap-2">
         <HospedagemDoDia diaId={dia.id} key={dia.id} nome={dia.hospedagem?.nome ?? ''} />
+        <Botao onClick={() => definirTrocaAberta(true)} tamanho="pequeno" variante="contorno">
+          <ArrowRightLeft size={14} /> Mudar de cidade
+        </Botao>
         {resolvido.blocos.some((b) => b.item?.restricoes.dependeDeClima) && (
           <Botao onClick={() => definirPlanoBAberto(true)} tamanho="pequeno" variante="contorno">
             <CloudRain size={14} /> Plano B de chuva
@@ -324,6 +330,14 @@ export function DiaDaViagem() {
           </Suspense>
         )}
       </Painel>
+
+      <TrocaDeCidade
+        aberto={trocaAberta}
+        aoFechar={() => definirTrocaAberta(false)}
+        {...(anterior?.cidadeBaseId ? { baseAnterior: anterior.cidadeBaseId } : {})}
+        dia={dia}
+        key={dia.id}
+      />
 
       <Painel
         aberto={planoBAberto}
